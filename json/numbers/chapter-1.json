@@ -1,0 +1,548 @@
+{
+  "book": "Numbers",
+  "bookAbbreviation": "Num",
+  "chapter": 1,
+  "verses": [
+    {
+      "pk": 4001001,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 1,
+      "text": "The LORD spoke to Moses in the wilderness of Sinai, in the tent of meeting, on the first day of the second month in the second year after they had come out of the land of Egypt, saying:",
+      "links": "<a href='/AIV/2/40/2'>Ex. 40:2</a>; <a href='/AIV/4/9/1'>Num. 9:1</a>",
+      "comment": "Introduction places the event about one year after the Exodus."
+    },
+    {
+      "pk": 4001002,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 2,
+      "text": "'Take a census of all the congregation of the sons of Israel, by their clans, by their fathers' houses, according to the number of names, every male, head by head.",
+      "links": "<a href='/AIV/2/30/12'>Ex. 30:12</a>",
+      "comment": "The census is commanded to count all adult males."
+    },
+    {
+      "pk": 4001003,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 3,
+      "text": "From twenty years old and upward, all in Israel who are able to go to war, you and Aaron shall count them by their armies.",
+      "links": "<a href='/AIV/4/26/2'>Num. 26:2</a>",
+      "comment": "Limitation to men eligible for military service, consistent with Hebrew wording."
+    },
+    {
+      "pk": 4001004,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 4,
+      "text": "And with you there shall be a man from each tribe, each one head of his father's house.",
+      "links": "<a href='/AIV/4/7/2'>Num. 7:2</a>",
+      "comment": "Each tribe provides a leader for the counting process."
+    },
+    {
+      "pk": 4001005,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 5,
+      "text": "And these are the names of the men who shall assist you: From Reuben, Elizur the son of Shedeur;",
+      "links": "<a href='/AIV/4/2/10'>Num. 2:10</a>",
+      "comment": "Names and tribes follow most primary Masoretic texts."
+    },
+    {
+      "pk": 4001006,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 6,
+      "text": "From Simeon, Shelumiel the son of Zurishaddai;",
+      "links": "<a href='/AIV/4/2/12'>Num. 2:12</a>",
+      "comment": "Maintains original Hebrew names."
+    },
+    {
+      "pk": 4001007,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 7,
+      "text": "From Judah, Nahshon the son of Amminadab;",
+      "links": "<a href='/AIV/4/2/3'>Num. 2:3</a>",
+      "comment": "No change from original; names as found in Hebrew."
+    },
+    {
+      "pk": 4001008,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 8,
+      "text": "From Issachar, Nethanel the son of Zuar;",
+      "links": "<a href='/AIV/4/2/5'>Num. 2:5</a>",
+      "comment": ""
+    },
+    {
+      "pk": 4001009,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 9,
+      "text": "From Zebulun, Eliab the son of Helon;",
+      "links": "<a href='/AIV/4/2/7'>Num. 2:7</a>",
+      "comment": ""
+    },
+    {
+      "pk": 4001010,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 10,
+      "text": "From the sons of Joseph, from Ephraim, Elishama the son of Ammihud; from Manasseh, Gamaliel the son of Pedahzur;",
+      "links": "<a href='/AIV/4/2/18-21'>Num. 2:18–21</a>",
+      "comment": "Joseph's descendants represented by their two tribes."
+    },
+    {
+      "pk": 4001011,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 11,
+      "text": "From Benjamin, Abidan the son of Gideoni;",
+      "links": "<a href='/AIV/4/2/22'>Num. 2:22</a>",
+      "comment": ""
+    },
+    {
+      "pk": 4001012,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 12,
+      "text": "From Dan, Ahiezer the son of Ammishaddai;",
+      "links": "<a href='/AIV/4/2/25'>Num. 2:25</a>",
+      "comment": ""
+    },
+    {
+      "pk": 4001013,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 13,
+      "text": "From Asher, Pagiel the son of Ochran;",
+      "links": "<a href='/AIV/4/2/27'>Num. 2:27</a>",
+      "comment": ""
+    },
+    {
+      "pk": 4001014,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 14,
+      "text": "From Gad, Eliasaph the son of Deuel;",
+      "links": "<a href='/AIV/4/2/14'>Num. 2:14</a>",
+      "comment": "'Deuel' follows most Hebrew texts; some manuscripts read 'Reuel'."
+    },
+    {
+      "pk": 4001015,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 15,
+      "text": "From Naphtali, Ahira the son of Enan.",
+      "links": "<a href='/AIV/4/2/29'>Num. 2:29</a>",
+      "comment": ""
+    },
+    {
+      "pk": 4001016,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 16,
+      "text": "These were the ones called from the congregation, leaders of their ancestral tribes, heads of the clans of Israel.",
+      "links": "<a href='/AIV/4/7/2'>Num. 7:2</a>",
+      "comment": "Clarity maintained: 'heads' refer to tribal or clan leaders."
+    },
+    {
+      "pk": 4001017,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 17,
+      "text": "And Moses and Aaron took these men, who had been designated by name;",
+      "links": "<a href='/AIV/4/1/5-15'>Num. 1:5–15</a>",
+      "comment": ""
+    },
+    {
+      "pk": 4001018,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 18,
+      "text": "And they assembled all the congregation together on the first day of the second month, and they registered themselves according to their clans, by their fathers' houses, according to the number of names, twenty years old and above, head by head.",
+      "links": "<a href='/AIV/4/1/2-3'>Num. 1:2–3</a>",
+      "comment": "The census began on the date previously mentioned."
+    },
+    {
+      "pk": 4001019,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 19,
+      "text": "As the LORD had commanded Moses, so he counted them in the wilderness of Sinai.",
+      "links": "<a href='/AIV/4/1/1'>Num. 1:1</a>",
+      "comment": ""
+    },
+    {
+      "pk": 4001020,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 20,
+      "text": "The sons of Reuben, Israel's firstborn, their descendants, according to their clans, by their fathers' houses, according to the number of names, head by head, every male twenty years old and above, all those able to go to war:",
+      "links": "<a href='/AIV/4/2/10'>Num. 2:10</a>",
+      "comment": "War-capable males listed by clan and family."
+    },
+    {
+      "pk": 4001021,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 21,
+      "text": "Those registered from the tribe of Reuben were forty-six thousand five hundred.",
+      "links": "<a href='/AIV/4/26/7'>Num. 26:7</a>",
+      "comment": "Numbers match original Hebrew."
+    },
+    {
+      "pk": 4001022,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 22,
+      "text": "From the sons of Simeon, their descendants, according to their clans, by their fathers' houses, those registered, head by head, every male twenty years old and upward, all able to go to war:",
+      "links": "<a href='/AIV/4/26/14'>Num. 26:14</a>",
+      "comment": ""
+    },
+    {
+      "pk": 4001023,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 23,
+      "text": "Those registered from the tribe of Simeon were fifty-nine thousand three hundred.",
+      "links": "<a href='/AIV/4/26/14'>Num. 26:14</a>",
+      "comment": ""
+    },
+    {
+      "pk": 4001024,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 24,
+      "text": "From the sons of Gad, their descendants, according to their clans, by their fathers' houses, head by head, every male twenty years old and above, all able to go to war:",
+      "links": "<a href='/AIV/4/26/18'>Num. 26:18</a>",
+      "comment": ""
+    },
+    {
+      "pk": 4001025,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 25,
+      "text": "Those registered from the tribe of Gad were forty-five thousand six hundred and fifty.",
+      "links": "<a href='/AIV/4/26/18'>Num. 26:18</a>",
+      "comment": ""
+    },
+    {
+      "pk": 4001026,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 26,
+      "text": "From the sons of Judah, their descendants, according to their clans, by their fathers' houses, head by head, every male twenty years old and above, all able to go to war:",
+      "links": "<a href='/AIV/4/26/22'>Num. 26:22</a>",
+      "comment": ""
+    },
+    {
+      "pk": 4001027,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 27,
+      "text": "Those registered from the tribe of Judah were seventy-four thousand six hundred.",
+      "links": "<a href='/AIV/4/26/22'>Num. 26:22</a>",
+      "comment": ""
+    },
+    {
+      "pk": 4001028,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 28,
+      "text": "From the sons of Issachar, their descendants, according to their clans, by their fathers' houses, head by head, every male twenty years old and above, all able to go to war:",
+      "links": "<a href='/AIV/4/26/25'>Num. 26:25</a>",
+      "comment": ""
+    },
+    {
+      "pk": 4001029,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 29,
+      "text": "Those registered from the tribe of Issachar were fifty-four thousand four hundred.",
+      "links": "<a href='/AIV/4/26/25'>Num. 26:25</a>",
+      "comment": ""
+    },
+    {
+      "pk": 4001030,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 30,
+      "text": "From the sons of Zebulun, their descendants, according to their clans, by their fathers' houses, head by head, every male twenty years old and above, all able to go to war:",
+      "links": "<a href='/AIV/4/26/27'>Num. 26:27</a>",
+      "comment": ""
+    },
+    {
+      "pk": 4001031,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 31,
+      "text": "Those registered from the tribe of Zebulun were fifty-seven thousand four hundred.",
+      "links": "<a href='/AIV/4/26/27'>Num. 26:27</a>",
+      "comment": ""
+    },
+    {
+      "pk": 4001032,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 32,
+      "text": "From the sons of Joseph, the sons of Ephraim, their descendants, according to their clans, by their fathers' houses, head by head, every male twenty years old and above, all able to go to war:",
+      "links": "<a href='/AIV/4/26/37'>Num. 26:37</a>",
+      "comment": ""
+    },
+    {
+      "pk": 4001033,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 33,
+      "text": "Those registered from the tribe of Ephraim were forty thousand five hundred.",
+      "links": "<a href='/AIV/4/26/37'>Num. 26:37</a>",
+      "comment": ""
+    },
+    {
+      "pk": 4001034,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 34,
+      "text": "From the sons of Manasseh, their descendants, according to their clans, by their fathers' houses, head by head, every male twenty years old and above, all able to go to war:",
+      "links": "<a href='/AIV/4/26/34'>Num. 26:34</a>",
+      "comment": ""
+    },
+    {
+      "pk": 4001035,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 35,
+      "text": "Those registered from the tribe of Manasseh were thirty-two thousand two hundred.",
+      "links": "<a href='/AIV/4/26/34'>Num. 26:34</a>",
+      "comment": ""
+    },
+    {
+      "pk": 4001036,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 36,
+      "text": "From the sons of Benjamin, their descendants, according to their clans, by their fathers' houses, head by head, every male twenty years old and above, all able to go to war:",
+      "links": "<a href='/AIV/4/26/41'>Num. 26:41</a>",
+      "comment": ""
+    },
+    {
+      "pk": 4001037,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 37,
+      "text": "Those registered from the tribe of Benjamin were thirty-five thousand four hundred.",
+      "links": "<a href='/AIV/4/26/41'>Num. 26:41</a>",
+      "comment": ""
+    },
+    {
+      "pk": 4001038,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 38,
+      "text": "From the sons of Dan, their descendants, according to their clans, by their fathers' houses, head by head, every male twenty years old and above, all able to go to war:",
+      "links": "<a href='/AIV/4/26/43'>Num. 26:43</a>",
+      "comment": ""
+    },
+    {
+      "pk": 4001039,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 39,
+      "text": "Those registered from the tribe of Dan were sixty-two thousand seven hundred.",
+      "links": "<a href='/AIV/4/26/43'>Num. 26:43</a>",
+      "comment": ""
+    },
+    {
+      "pk": 4001040,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 40,
+      "text": "From the sons of Asher, their descendants, according to their clans, by their fathers' houses, head by head, every male twenty years old and above, all able to go to war:",
+      "links": "<a href='/AIV/4/26/47'>Num. 26:47</a>",
+      "comment": ""
+    },
+    {
+      "pk": 4001041,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 41,
+      "text": "Those registered from the tribe of Asher were forty-one thousand five hundred.",
+      "links": "<a href='/AIV/4/26/47'>Num. 26:47</a>",
+      "comment": ""
+    },
+    {
+      "pk": 4001042,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 42,
+      "text": "From the sons of Naphtali, their descendants, according to their clans, by their fathers' houses, head by head, every male twenty years old and above, all able to go to war:",
+      "links": "<a href='/AIV/4/26/51'>Num. 26:51</a>",
+      "comment": ""
+    },
+    {
+      "pk": 4001043,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 43,
+      "text": "Those registered from the tribe of Naphtali were fifty-three thousand four hundred.",
+      "links": "<a href='/AIV/4/26/51'>Num. 26:51</a>",
+      "comment": ""
+    },
+    {
+      "pk": 4001044,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 44,
+      "text": "These are those who were counted by Moses and Aaron and the leaders of Israel, twelve men, each representing his fathers’ house.",
+      "links": "<a href='/AIV/4/1/4'>Num. 1:4</a>",
+      "comment": ""
+    },
+    {
+      "pk": 4001045,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 45,
+      "text": "So all those from the sons of Israel, twenty years old and upward, who were able to go to war in Israel, all who were counted according to their fathers’ houses:",
+      "links": "<a href='/AIV/4/1/3'>Num. 1:3</a>",
+      "comment": ""
+    },
+    {
+      "pk": 4001046,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 46,
+      "text": "All those counted were six hundred three thousand five hundred and fifty.",
+      "links": "<a href='/AIV/4/2/32'>Num. 2:32</a>",
+      "comment": "The total matches original textual counting."
+    },
+    {
+      "pk": 4001047,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 47,
+      "text": "But the Levites, according to the tribe of their fathers, were not counted among them;",
+      "links": "<a href='/AIV/4/2/33'>Num. 2:33</a>",
+      "comment": "Levites excluded from the census of fighting men."
+    },
+    {
+      "pk": 4001048,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 48,
+      "text": "For the LORD had spoken to Moses, saying:",
+      "links": "<a href='/AIV/4/1/1'>Num. 1:1</a>",
+      "comment": ""
+    },
+    {
+      "pk": 4001049,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 49,
+      "text": "'Only the tribe of Levi you shall not count, and do not include them in the census of the sons of Israel.",
+      "links": "<a href='/AIV/4/3/6'>Num. 3:6</a>",
+      "comment": ""
+    },
+    {
+      "pk": 4001050,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 50,
+      "text": "But appoint the Levites over the tabernacle of the testimony, and over all its equipment, and over all that belongs to it. They shall carry the tabernacle and all its equipment, and minister in it, and camp around the tabernacle.",
+      "links": "<a href='/AIV/4/3/7-8'>Num. 3:7–8</a>",
+      "comment": "Levites given charge of the sanctuary rather than military duties."
+    },
+    {
+      "pk": 4001051,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 51,
+      "text": "When the tabernacle is to move, the Levites shall take it down; and when the tabernacle is to set up, the Levites shall set it up. And if any outsider approaches, he shall be put to death.",
+      "links": "<a href='/AIV/4/3/38'>Num. 3:38</a>",
+      "comment": "Maintains strong warning of sacred duties."
+    },
+    {
+      "pk": 4001052,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 52,
+      "text": "The sons of Israel shall camp, each in his own camp, each by his own standard, by their armies.",
+      "links": "<a href='/AIV/4/2/2'>Num. 2:2</a>",
+      "comment": ""
+    },
+    {
+      "pk": 4001053,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 53,
+      "text": "But the Levites shall camp around the tabernacle of the testimony, so that there may be no wrath on the congregation of the sons of Israel. And the Levites shall keep charge of the tabernacle of the testimony.",
+      "links": "<a href='/AIV/4/3/8'>Num. 3:8</a>",
+      "comment": "Levites' protective function emphasized."
+    },
+    {
+      "pk": 4001054,
+      "translation": "AIV",
+      "book": 4,
+      "chapter": 1,
+      "verse": 54,
+      "text": "Thus the sons of Israel did. They did according to all that the LORD commanded Moses.",
+      "links": "<a href='/AIV/4/2/34'>Num. 2:34</a>",
+      "comment": "Concludes chapter by affirming obedience."
+    }
+  ],
+  "translatedAt": "2025-12-20T09:23:57.951Z"
+}
