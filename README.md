@@ -1,5 +1,7 @@
 ## Apostolic Inspired Version (AIV) — JSON Bible
 
+NOTE: This is a work in progress translation and will be updated and improved upon as time goes on.
+
 A chapter-by-chapter JSON dataset of the **Apostolic Inspired Version (AIV)** Bible translation, including:
 
 - **Verse text**
