@@ -1,198 +1,237 @@
 {
-  "book": "2 Samuel",
+  "book": 10,
+  "bookName": "2 Samuel",
   "bookAbbreviation": "2Sam",
   "chapter": 10,
   "verses": [
     {
-      "pk": 2901001,
+      "pk": 10010001,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 10,
       "verse": 1,
-      "text": "After this, the king of the Ammonites died, and his son Hanun became king in his place.",
-      "links": "<a href='/AIV/13/19/1'>1 Chron. 19:1</a>",
-      "comment": "Verse matches the Hebrew structure with no meaningful changes."
+      "text": "After some time, the king of the Ammonites died, and his son Hanun became king in his place.",
+      "links": "<a href='/AIV/13/19/1'>1 Chronicles 19:1</a>",
+      "comment": "This verse introduces a new conflict as a result of a change in leadership. Details match 1 Chr 19:1. Ancient Near Eastern practice often saw unstable transitions at a king's death."
     },
     {
-      "pk": 2901002,
+      "pk": 10010002,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 10,
       "verse": 2,
-      "text": "David said, 'I will show kindness to Hanun son of Nahash, as his father showed kindness to me.' So David sent servants to comfort him about his father. David's servants came to the land of the Ammonites.",
-      "links": "<a href='/AIV/13/19/2'>1 Chron. 19:2</a>",
-      "comment": "Structure simplified for clarity, but preserves all original meanings."
+      "text": "David said, 'I will show kindness to Hanun son of Nahash, just as his father showed kindness to me.' So David sent his servants to comfort Hanun about his father. But when David’s servants came to the land of the Ammonites,",
+      "links": "<a href='/AIV/09/11/1-2'>1 Samuel 11:1-2</a>; <a href='/AIV/13/19/2'>1 Chronicles 19:2</a>",
+      "comment": "David seeks peaceful relations, in keeping with 'loving your neighbor' (cf. Lev 19:18). Kindness here anticipates Christ’s teachings (Matt 5:44), but is also a royal-political act."
     },
     {
-      "pk": 2901003,
+      "pk": 10010003,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 10,
       "verse": 3,
-      "text": "But the princes of the Ammonites said to Hanun, 'Do you think David is honoring your father by sending comforters to you? Hasn't David sent his servants to you to search the city, to spy it out, and to overthrow it?'",
-      "links": "<a href='/AIV/13/19/3'>1 Chron. 19:3</a>",
-      "comment": "Language made colloquial but remains faithful to the original accusation and meaning."
+      "text": "the princes of the Ammonites said to their lord Hanun, 'Do you think David is honoring your father by sending envoys to console you? Has David not sent his servants to you to search the city, spy it out, and overthrow it?'",
+      "links": "<a href='/AIV/06/2/1'>Joshua 2:1</a>; <a href='/AIV/19/109/5'>Psalm 109:5</a>",
+      "comment": "Suspicion and worldliness twist genuine acts of kindness—compare how Christ’s intentions were often misunderstood (John 8:48-59). Human hearts darkened by mistrust cause division."
     },
     {
-      "pk": 2901004,
+      "pk": 10010004,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 10,
       "verse": 4,
-      "text": "So Hanun took David’s servants, shaved off half of each man's beard, cut off their garments in the middle at the hips, and sent them away.",
-      "links": "<a href='/AIV/13/19/4'>1 Chron. 19:4</a>",
-      "comment": "Retains the original humiliation described in the Hebrew text."
+      "text": "So Hanun took David’s servants, shaved off half of each man's beard, cut off their garments at the hips, and sent them away.",
+      "links": "<a href='/AIV/13/19/4'>1 Chronicles 19:4</a>; <a href='/AIV/03/19/27'>Leviticus 19:27</a>",
+      "comment": "This was a grave insult, as shaving the beard violated Israelite custom (Lev 19:27). Public humiliation foreshadows Christ’s own shameful treatment before crucifixion (Isa 50:6; Matt 27:28-30)."
     },
     {
-      "pk": 2901005,
+      "pk": 10010005,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 10,
       "verse": 5,
-      "text": "When they told David, he sent messengers to meet them, for the men were deeply ashamed. The king said, 'Stay at Jericho until your beards have grown, and then return.'",
-      "links": "<a href='/AIV/13/19/5'>1 Chron. 19:5</a>",
-      "comment": "Remains word-for-word except for 'deeply ashamed' for clarity."
+      "text": "When they told David about it, he sent messengers to meet them, because the men were deeply ashamed. The king said, 'Stay at Jericho until your beards have grown back, and then return.'",
+      "links": "<a href='/AIV/13/19/5'>1 Chronicles 19:5</a>",
+      "comment": "David’s compassion for his servants reflects sensitivity to honor and dignity, echoing Christ's care for the shamed and outcast (Luke 19:1-10)."
     },
     {
-      "pk": 2901006,
+      "pk": 10010006,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 10,
       "verse": 6,
-      "text": "When the Ammonites saw that they had become hateful to David, they sent and hired the Arameans of Beth-rehob and the Arameans of Zobah, twenty thousand foot soldiers, and the king of Maacah with one thousand men, and the men of Tob, twelve thousand men.",
-      "links": "<a href='/AIV/13/19/6'>1 Chron. 19:6</a>",
-      "comment": "Foot soldiers specified for clarity; names and numbers preserved."
+      "text": "When the Ammonites realized they had become obnoxious to David, they hired twenty thousand Aramean foot soldiers from Beth Rehob and Zobah, a thousand men from the king of Maacah, and twelve thousand men from Tob.",
+      "links": "<a href='/AIV/13/19/6'>1 Chronicles 19:6</a>",
+      "comment": "The Ammonites' reaction escalates peace into war, paralleling how pride can harden the heart, leading to further disorder—see how such alliances foreshadow later opposition to Christ and his kingdom."
     },
     {
-      "pk": 2901007,
+      "pk": 10010007,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 10,
       "verse": 7,
-      "text": "When David heard of it, he sent Joab and all the army with mighty warriors.",
-      "links": "<a href='/AIV/13/19/8'>1 Chron. 19:8</a>",
-      "comment": "The phrase 'the army of the mighty' rendered as 'all the army with mighty warriors' for clarity."
+      "text": "When David heard of this, he sent Joab and all the army of the mighty men.",
+      "links": "<a href='/AIV/10/8/16'>2 Samuel 8:16</a>; <a href='/AIV/13/19/7'>1 Chronicles 19:7</a>",
+      "comment": "David responds by sending his best warriors. The phrase 'mighty men' points to a kind of priestly-kingly guardianship, a theme that will culminate in Christ as the ultimate warrior-king."
     },
     {
-      "pk": 2901008,
+      "pk": 10010008,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 10,
       "verse": 8,
-      "text": "And the Ammonites came out and lined up for battle at the entrance of the gate. The Arameans of Zobah and Rehob and the men of Tob and Maacah stood apart in the open country.",
-      "links": "<a href='/AIV/13/19/9'>1 Chron. 19:9</a>",
-      "comment": "Uses 'lined up for battle' to clarify the military formation."
+      "text": "The Ammonites marched out and drew up in battle formation at the entrance to the gate, while the Arameans of Zobah and Rehob, and the men from Tob and Maacah, waited by themselves in the open country.",
+      "links": "<a href='/AIV/10/10/17'>2 Samuel 10:17</a>",
+      "comment": "The separation of forces shows the divided loyalties of earthly alliances. David’s unified army prefigures the unity Christ prays for in his followers (John 17:21)."
     },
     {
-      "pk": 2901009,
+      "pk": 10010009,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 10,
       "verse": 9,
-      "text": "When Joab saw that the battle was set against him both in front and behind, he chose part of all the best men of Israel, and arranged them against the Arameans.",
-      "links": "<a href='/AIV/13/19/10'>1 Chron. 19:10</a>",
-      "comment": "Joab's tactical response is kept literal and concise."
+      "text": "When Joab saw that the battle was set against him both in front and behind, he chose some of Israel's best men and lined them up against the Arameans.",
+      "links": "<a href='/AIV/13/19/10'>1 Chronicles 19:10</a>",
+      "comment": "Joab’s strategy is wisdom in action; spiritual battles likewise call for discernment and unity among the faithful."
     },
     {
-      "pk": 2901010,
+      "pk": 10010010,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 10,
       "verse": 10,
-      "text": "The rest of the men he put under the command of Abishai, his brother, and arranged them against the Ammonites.",
-      "links": "<a href='/AIV/13/19/11'>1 Chron. 19:11</a>",
-      "comment": "Literal rendering of division of forces."
+      "text": "He put the rest of the troops in the charge of his brother Abishai, who set them against the Ammonites.",
+      "links": "<a href='/AIV/10/2/18'>2 Samuel 2:18</a>",
+      "comment": "Joab and Abishai’s brotherly cooperation is a type for spiritual brotherhood and organized, ordained leadership in service of defending the people of God."
     },
     {
-      "pk": 2901011,
+      "pk": 10010011,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 10,
       "verse": 11,
-      "text": "Joab said, 'If the Arameans are too strong for me, you will help me; but if the Ammonites are too strong for you, I will come to help you.'",
-      "links": "<a href='/AIV/13/19/12'>1 Chron. 19:12</a>",
-      "comment": "Faithful to original structure and meaning."
+      "text": "And he said, 'If the Arameans are too strong for me, you shall help me; and if the Ammonites are too strong for you, I will come help you.'",
+      "links": "<a href='/AIV/21/4/9-10'>Ecclesiastes 4:9-10</a>; <a href='/AIV/46/12/25-26'>1 Corinthians 12:25-26</a>",
+      "comment": "Mutual support reflects a deep theology of intercession and shared spiritual struggle, echoed in the New Testament's teachings on the body of Christ (1 Cor 12:26)."
     },
     {
-      "pk": 2901012,
+      "pk": 10010012,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 10,
       "verse": 12,
-      "text": "'Be courageous, and let us be strong for our people and for the cities of our God. And may the LORD do what is good in his sight.'",
-      "links": "<a href='/AIV/13/19/13'>1 Chron. 19:13</a>",
-      "comment": "The encouragement to courage and reliance on the LORD kept word-for-word."
+      "text": "'Be strong, and let us show ourselves courageous for our people and for the cities of our God, and may the LORD do what is good in his sight.'",
+      "links": "<a href='/AIV/06/1/9'>Joshua 1:9</a>; <a href='/AIV/13/19/13'>1 Chronicles 19:13</a>",
+      "comment": "This charge to courage and trust in God's justice echoes Joshua 1:9. True bravery is rooted in obedience and trust in God’s sovereign will—paralleling the obedience of Christ (Luke 22:42)."
     },
     {
-      "pk": 2901013,
+      "pk": 10010013,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 10,
       "verse": 13,
-      "text": "So Joab and the troops with him advanced to fight against the Arameans, and they fled before him.",
-      "links": "<a href='/AIV/13/19/14'>1 Chron. 19:14</a>",
-      "comment": "Simple verse, closely matching original Hebrew."
+      "text": "So Joab and the people with him advanced to fight against the Arameans, and they fled before him.",
+      "links": "<a href='/AIV/10/8/5-6'>2 Samuel 8:5-6</a>",
+      "comment": "The victory is an act of God’s providence. The enemy’s flight points to how, ultimately, opposition to God’s chosen falls away—prefiguring the victory Christ wins over the forces of darkness (Col 2:15)."
     },
     {
-      "pk": 2901014,
+      "pk": 10010014,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 10,
       "verse": 14,
-      "text": "When the Ammonites saw that the Arameans had fled, they also fled from Abishai and entered the city. Then Joab returned from fighting the Ammonites and came to Jerusalem.",
-      "links": "<a href='/AIV/13/19/15'>1 Chron. 19:15</a>",
-      "comment": "Sequence of retreat kept; added 'returned from fighting' for clarity."
+      "text": "When the Ammonites saw that the Arameans had fled, they also fled before Abishai and reentered the city. Then Joab returned from fighting the Ammonites and came to Jerusalem.",
+      "links": "<a href='/AIV/13/19/15'>1 Chronicles 19:15</a>",
+      "comment": "With their allies gone, the Ammonites lose courage—a reminder how faith holds strong only when rooted in truth. The return to Jerusalem, the holy city, foreshadows the importance of the center of worship and authority for God’s people."
     },
     {
-      "pk": 2901015,
+      "pk": 10010015,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 10,
       "verse": 15,
       "text": "When the Arameans saw that they had been defeated by Israel, they gathered themselves together.",
-      "links": "<a href='/AIV/13/19/16'>1 Chron. 19:16</a>",
-      "comment": "Matches the Hebrew structure; 'defeated' clarifies the meaning."
+      "links": "<a href='/AIV/10/8/3-9'>2 Samuel 8:3-9</a>",
+      "comment": "The resilience and pride of the Arameans prolong conflict, revealing the persistence of spiritual struggle even after defeat—much like temptations that recur even after victories."
     },
     {
-      "pk": 2901016,
+      "pk": 10010016,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 10,
       "verse": 16,
-      "text": "Hadadezer sent and brought out the Arameans who were beyond the Euphrates River; they came to Helam, with Shobach, the commander of Hadadezer’s army, leading them.",
-      "links": "<a href='/AIV/13/19/16'>1 Chron. 19:16</a>",
-      "comment": "Euphrates River named for clarity; 'beyond' reflects eastern geography."
+      "text": "Hadadezer sent and brought out the Arameans who were beyond the Euphrates. They came to Helam, with Shobach the commander of Hadadezer’s army leading them.",
+      "links": "<a href='/AIV/13/19/16'>1 Chronicles 19:16</a>; <a href='/AIV/10/8/3'>2 Samuel 8:3</a>",
+      "comment": "Hadadezer’s call for more forces hints at the influence of larger foreign empires, and points toward the enduring theme of international opposition to God’s people—which is ultimately overcome (Ps 2)."
     },
     {
-      "pk": 2901017,
+      "pk": 10010017,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 10,
       "verse": 17,
-      "text": "When this was reported to David, he gathered all Israel, crossed the Jordan, and came to Helam. The Arameans formed their lines against David and fought him.",
-      "links": "<a href='/AIV/13/19/17'>1 Chron. 19:17</a>",
-      "comment": "Direct translation; 'formed their lines' for military clarity."
+      "text": "When David was told of it, he gathered all Israel, crossed the Jordan, and came to Helam. The Arameans drew up in formation against David and fought with him.",
+      "links": "<a href='/AIV/13/19/17'>1 Chronicles 19:17</a>; <a href='/AIV/10/5/19'>2 Samuel 5:19-25</a>",
+      "comment": "David himself leads the people, showing his role as both king and military leader. This is a figure of the Messiah, who leads his people into ultimate victory (see Rev 19:11-16)."
     },
     {
-      "pk": 2901018,
+      "pk": 10010018,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 10,
       "verse": 18,
-      "text": "The Arameans fled before Israel, and David killed seven hundred charioteers and forty thousand horsemen of the Arameans, and he struck down Shobach, commander of their army, who died there.",
-      "links": "<a href='/AIV/13/19/18'>1 Chron. 19:18</a>",
-      "comment": "Numbers match the Hebrew Masoretic text. 1 Chron. 19:18 records seven thousand charioteers, a difference. Original meaning preserved."
+      "text": "But the Arameans fled from before Israel, and David killed seven hundred charioteers and forty thousand horsemen. He also struck down Shobach the commander of their army, who died there.",
+      "links": "<a href='/AIV/13/19/18'>1 Chronicles 19:18</a>; <a href='/AIV/10/8/4'>2 Samuel 8:4</a>",
+      "comment": "This great victory underscores David’s anointed status and God’s power. The defeat of armies prefigures the total victory of Christ over death and sin. Some numbers differ in parallel texts, likely due to ancient textual transmission, but the essential meaning stands."
     },
     {
-      "pk": 2901019,
+      "pk": 10010019,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 10,
       "verse": 19,
-      "text": "When all the kings who were servants of Hadadezer saw that they were defeated by Israel, they made peace with Israel and became their subjects. So the Arameans feared to help the Ammonites any more.",
-      "links": "<a href='/AIV/13/19/19'>1 Chron. 19:19</a>",
-      "comment": "Summary kept clear and accurate. 'Subjects' rendered for 'served them.'"
+      "text": "When all the kings who were subject to Hadadezer saw that they had been defeated by Israel, they made peace with Israel and became subject to them. So the Arameans feared to help the Ammonites any more.",
+      "links": "<a href='/AIV/13/19/19'>1 Chronicles 19:19</a>; <a href='/AIV/10/8/6'>2 Samuel 8:6</a>",
+      "comment": "Peace is established through submission to God’s anointed king. This points to the future reign of Christ, to whom all nations will come in peace (Isa 2:2-4; Rev 21:24). Historically, the passage affirms the importance of wise, just rule and the gathering of nations under one true authority."
     }
   ],
-  "translatedAt": "2025-12-22T09:39:23.596Z"
+  "translatedAt": "2025-12-24T03:16:06.710Z"
 }

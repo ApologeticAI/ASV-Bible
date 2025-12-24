@@ -1,228 +1,273 @@
 {
-  "book": "Ruth",
+  "book": 8,
+  "bookName": "Ruth",
   "bookAbbreviation": "Ruth",
   "chapter": 4,
   "verses": [
     {
-      "pk": 4004001,
+      "pk": 8004001,
       "translation": "AIV",
       "book": 8,
+      "bookName": "Ruth",
+      "bookAbbreviation": "Ruth",
       "chapter": 4,
       "verse": 1,
-      "text": "Now Boaz went up to the gate and sat down there. And behold, the redeemer of whom Boaz had spoken passed by. So Boaz said, “Turn aside, friend; sit down here.” So he turned aside and sat down.",
-      "links": "<a href='/AIV/8/3/12'>Ruth 3:12</a>",
-      "comment": "The term 'redeemer' refers to the kinsman-redeemer (Hebrew: go'el); the gate was the city’s place for legal business."
+      "text": "Boaz went up to the gate and sat down there. Then the kinsman-redeemer of whom Boaz had spoken came by, so Boaz said, 'Turn aside, friend; sit down here.' So he turned aside and sat down.",
+      "links": "<a href='/AIV/8/3/12'>Ruth 3:12</a>; <a href='/AIV/8/2/1-3'>Ruth 2:1-3</a>",
+      "comment": "The gate was the place of legal matters and public business in ancient Israel (cf. Gen. 23:10). The role of the 'kinsman-redeemer' is central here, prefiguring Christ's redeeming work (see Isa. 59:20)."
     },
     {
-      "pk": 4004002,
+      "pk": 8004002,
       "translation": "AIV",
       "book": 8,
+      "bookName": "Ruth",
+      "bookAbbreviation": "Ruth",
       "chapter": 4,
       "verse": 2,
-      "text": "And Boaz took ten men of the elders of the city and said, “Sit down here.” So they sat down.",
-      "links": "<a href='/AIV/5/19/12'>Deut. 19:12</a>; <a href='/AIV/8/4/9'>Ruth 4:9</a>",
-      "comment": "Ten elders constituted a valid legal assembly in ancient Israel."
+      "text": "And Boaz took ten men of the elders of the city and said, 'Sit down here.' So they sat down.",
+      "links": "<a href='/AIV/19/107/32'>Ps. 107:32</a>; <a href='/AIV/5/21/19'>Deut. 21:19</a>",
+      "comment": "The presence of ten elders shows a formal, binding legal assembly, similar to the later practice of ecclesial councils or synods."
     },
     {
-      "pk": 4004003,
+      "pk": 8004003,
       "translation": "AIV",
       "book": 8,
+      "bookName": "Ruth",
+      "bookAbbreviation": "Ruth",
       "chapter": 4,
       "verse": 3,
-      "text": "Then he said to the redeemer, “Naomi, who has come back from the country of Moab, is selling the piece of land that belonged to our brother Elimelech.",
+      "text": "And he said to the kinsman-redeemer, 'Naomi, who has returned from the fields of Moab, is selling the parcel of land that belonged to our brother Elimelech.'",
       "links": "<a href='/AIV/8/1/2'>Ruth 1:2</a>; <a href='/AIV/3/25/25'>Lev. 25:25</a>",
-      "comment": "‘Brother’ is used here in the broader sense of kinsman or close relative."
+      "comment": "Redemption of land was a sacred duty (Lev. 25:25). The use of 'brother' for a close relative indicates the broad sense of family in Israelite thought."
     },
     {
-      "pk": 4004004,
+      "pk": 8004004,
       "translation": "AIV",
       "book": 8,
+      "bookName": "Ruth",
+      "bookAbbreviation": "Ruth",
       "chapter": 4,
       "verse": 4,
-      "text": "So I thought I should inform you, saying, ‘Buy it in the presence of those sitting here and in the presence of the elders of my people. If you will redeem it, redeem it; but if you will not, tell me, so that I may know. For there is no one besides you to redeem it, and I come after you.’” And he said, “I will redeem it.”",
+      "text": "'So I thought I should inform you and say, \"Buy it in the presence of those sitting here and in the presence of the elders of my people.\" If you will redeem it, redeem it; but if you will not, tell me so that I may know, because there is no one besides you to redeem it, and I come after you.' And he said, 'I will redeem it.'",
       "links": "<a href='/AIV/3/25/25'>Lev. 25:25</a>",
-      "comment": "Boaz presents the offer to the nearer kinsman first, per Israelite custom."
+      "comment": "The public nature ensured justice and transparency. Note the way grace and redemption are part of the legal culture, foreshadowing the ultimate Redeemer."
     },
     {
-      "pk": 4004005,
+      "pk": 8004005,
       "translation": "AIV",
       "book": 8,
+      "bookName": "Ruth",
+      "bookAbbreviation": "Ruth",
       "chapter": 4,
       "verse": 5,
-      "text": "Then Boaz said, “On the day you buy the field from the hand of Naomi, you also acquire Ruth the Moabitess, the wife of the dead, to raise up the name of the dead in his inheritance.”",
-      "links": "<a href='/AIV/5/25/5-6'>Deut. 25:5-6</a>; <a href='/AIV/8/1/4'>Ruth 1:4</a>",
-      "comment": "The duty includes marrying Ruth to provide an heir for Elimelech’s family."
+      "text": "Then Boaz said, 'On the day you buy the field from Naomi, you also acquire Ruth the Moabite, the widow of the dead, to raise up the name of the dead upon his inheritance.'",
+      "links": "<a href='/AIV/1/38/8-10'>Gen. 38:8-10</a>; <a href='/AIV/5/25/5-6'>Deut. 25:5-6</a>",
+      "comment": "Boaz ties the act of redemption of property to the redemption of family, paralleling the unity of faith and works in spiritual inheritance."
     },
     {
-      "pk": 4004006,
+      "pk": 8004006,
       "translation": "AIV",
       "book": 8,
+      "bookName": "Ruth",
+      "bookAbbreviation": "Ruth",
       "chapter": 4,
       "verse": 6,
-      "text": "Then the redeemer said, “I cannot redeem it for myself, lest I impair my own inheritance. Take my right of redemption yourself, for I cannot redeem it.”",
-      "links": "<a href='/AIV/5/25/7-10'>Deut. 25:7-10</a>",
-      "comment": "Redeemer declines due to risk to his own estate."
+      "text": "Then the kinsman-redeemer said, 'I cannot redeem it for myself, lest I impair my own inheritance. Take my right of redemption for yourself, because I cannot redeem it.'",
+      "links": "<a href='/AIV/3/25/25'>Lev. 25:25</a>",
+      "comment": "The kinsman refuses, prioritizing his own inheritance. In contrast, Boaz—like Christ—lays down his own interests for the sake of another."
     },
     {
-      "pk": 4004007,
+      "pk": 8004007,
       "translation": "AIV",
       "book": 8,
+      "bookName": "Ruth",
+      "bookAbbreviation": "Ruth",
       "chapter": 4,
       "verse": 7,
-      "text": "Now this was the custom in former times in Israel concerning redeeming and exchanging: to confirm any transaction, one man took off his sandal and gave it to the other, and this was the manner of attestation in Israel.",
-      "links": "<a href='/AIV/5/25/9'>Deut. 25:9</a>",
-      "comment": "Removing the sandal symbolized transfer of rights."
+      "text": "Now this was the custom in former times in Israel concerning redeeming and exchanging: to confirm a transaction, one took off his sandal and gave it to the other, and this was the manner of attesting in Israel.",
+      "links": "<a href='/AIV/5/25/7-10'>Deut. 25:7-10</a>",
+      "comment": "The sandal ritual signified legal transfer. Traditions carry weight in the life of the faithful, as seen in later liturgical acts."
     },
     {
-      "pk": 4004008,
+      "pk": 8004008,
       "translation": "AIV",
       "book": 8,
+      "bookName": "Ruth",
+      "bookAbbreviation": "Ruth",
       "chapter": 4,
       "verse": 8,
-      "text": "So when the redeemer said to Boaz, “Buy it for yourself,” he took off his sandal.",
-      "links": "<a href='/AIV/8/4/7'>Ruth 4:7</a>",
-      "comment": "Short summary repeating the transfer ritual."
+      "text": "So the kinsman-redeemer said to Boaz, 'Buy it for yourself.' And he took off his sandal.",
+      "links": "<a href='/AIV/5/25/10'>Deut. 25:10</a>",
+      "comment": "The removal of the sandal publicly established Boaz's right and responsibility. This marks a formal act, reminiscent of visible signs accompanying deep spiritual realities."
     },
     {
-      "pk": 4004009,
+      "pk": 8004009,
       "translation": "AIV",
       "book": 8,
+      "bookName": "Ruth",
+      "bookAbbreviation": "Ruth",
       "chapter": 4,
       "verse": 9,
-      "text": "Then Boaz said to the elders and all the people, “You are witnesses this day that I have bought from the hand of Naomi all that belonged to Elimelech and all that belonged to Chilion and Mahlon.",
-      "links": "<a href='/AIV/8/1/2'>Ruth 1:2</a>; <a href='/AIV/8/4/3'>Ruth 4:3</a>",
-      "comment": "Boaz makes a legal declaration before the witnesses."
+      "text": "Then Boaz said to the elders and all the people, 'You are witnesses this day that I have bought from the hand of Naomi all that belonged to Elimelech and all that belonged to Chilion and Mahlon.'",
+      "links": "<a href='/AIV/8/1/2-5'>Ruth 1:2-5</a>",
+      "comment": "Witnesses guaranteed the validity of the transaction, paralleling how faith is authenticated in the presence and tradition of the assembly."
     },
     {
-      "pk": 4004010,
+      "pk": 8004010,
       "translation": "AIV",
       "book": 8,
+      "bookName": "Ruth",
+      "bookAbbreviation": "Ruth",
       "chapter": 4,
       "verse": 10,
-      "text": "Moreover, Ruth the Moabitess, the widow of Mahlon, I have acquired to be my wife, to raise up the name of the dead on his inheritance, so that the name of the dead will not be cut off from among his brothers and from the gate of his native place. You are witnesses this day.”",
-      "links": "<a href='/AIV/5/25/6'>Deut. 25:6</a>; <a href='/AIV/8/1/4'>Ruth 1:4</a>",
-      "comment": "Boaz fulfills the ‘levirate’ duty to preserve family name and property."
+      "text": "Also Ruth the Moabite, the widow of Mahlon, I have bought to be my wife, to raise up the name of the dead upon his inheritance, so that the name of the dead will not be cut off from among his brothers or from the gate of his place. You are witnesses this day.'",
+      "links": "<a href='/AIV/5/25/6'>Deut. 25:6</a>",
+      "comment": "The name and legacy of the dead is preserved, an image of how God keeps the faithful alive through memorial and sacrament in the gathered people."
     },
     {
-      "pk": 4004011,
+      "pk": 8004011,
       "translation": "AIV",
       "book": 8,
+      "bookName": "Ruth",
+      "bookAbbreviation": "Ruth",
       "chapter": 4,
       "verse": 11,
-      "text": "And all the people who were at the gate, and the elders, said, “We are witnesses. May the LORD make the woman who is coming into your house like Rachel and Leah, who together built up the house of Israel. May you act worthily in Ephrathah and be renowned in Bethlehem.",
-      "links": "<a href='/AIV/1/29/32-35'>Gen. 29:32–35</a>; <a href='/AIV/1/35/23-26'>Gen. 35:23–26</a>",
-      "comment": "Blessing reflects desire for Ruth to be as fruitful as Israel’s founding mothers."
+      "text": "Then all the people who were at the gate and the elders said, 'We are witnesses. May the LORD make the woman who is coming into your house like Rachel and Leah, who together built up the house of Israel; may you prosper in Ephrathah and be renowned in Bethlehem.'",
+      "links": "<a href='/AIV/1/29/32'>Gen. 29:32</a>; <a href='/AIV/1/35/16-20'>Gen. 35:16-20</a>",
+      "comment": "The blessings invoke Israel's mothers, showing the continuity of sacred history and the importance of maternity in transmitting faith and grace. Bethlehem foreshadows the coming Messiah (Mic. 5:2)."
     },
     {
-      "pk": 4004012,
+      "pk": 8004012,
       "translation": "AIV",
       "book": 8,
+      "bookName": "Ruth",
+      "bookAbbreviation": "Ruth",
       "chapter": 4,
       "verse": 12,
-      "text": "And may your house be like the house of Perez, whom Tamar bore to Judah, because of the offspring that the LORD will give you by this young woman.”",
-      "links": "<a href='/AIV/1/38/29'>Gen. 38:29</a>; <a href='/AIV/1/46/12'>Gen. 46:12</a>",
-      "comment": "Reference to Perez and Tamar links Ruth’s story to ancestry of King David."
+      "text": "And may your house be like the house of Perez, whom Tamar bore to Judah, because of the offspring the LORD will give you by this young woman.'",
+      "links": "<a href='/AIV/1/38/29'>Gen. 38:29</a>; <a href='/AIV/40/1/3'>Matt. 1:3</a>",
+      "comment": "By blessing Boaz's house like Perez's (an ancestor of David), the genealogy of grace leading to Jesus is reinforced (see Matt. 1:3; Luke 3:33)."
     },
     {
-      "pk": 4004013,
+      "pk": 8004013,
       "translation": "AIV",
       "book": 8,
+      "bookName": "Ruth",
+      "bookAbbreviation": "Ruth",
       "chapter": 4,
       "verse": 13,
       "text": "So Boaz took Ruth, and she became his wife. And he went in to her, and the LORD gave her conception, and she bore a son.",
-      "links": "<a href='/AIV/1/21/1-2'>Gen. 21:1–2</a>; <a href='/AIV/8/1/4'>Ruth 1:4</a>",
-      "comment": "Simple expression of marriage, intimacy, and birth as in Hebrew narrative."
+      "links": "<a href='/AIV/1/21/1-2'>Gen. 21:1-2</a>; <a href='/AIV/42/1/31'>Luke 1:31</a>",
+      "comment": "The Lord's direct involvement in granting conception echoes other miraculous births (Sarah, Hannah, Mary). It underscores that God is the source of life and fulfillment of promise."
     },
     {
-      "pk": 4004014,
+      "pk": 8004014,
       "translation": "AIV",
       "book": 8,
+      "bookName": "Ruth",
+      "bookAbbreviation": "Ruth",
       "chapter": 4,
       "verse": 14,
-      "text": "Then the women said to Naomi, “Blessed be the LORD, who has not left you this day without a redeemer, and may his name be renowned in Israel!",
-      "links": "<a href='/AIV/1/30/13'>Gen. 30:13</a>; <a href='/AIV/8/2/20'>Ruth 2:20</a>",
-      "comment": "The redeemer here refers to the new child, the heir."
+      "text": "Then the women said to Naomi, 'Blessed be the LORD, who has not left you this day without a redeemer; may his name be famous in Israel!'",
+      "links": "<a href='/AIV/8/1/6'>Ruth 1:6</a>; <a href='/AIV/42/2/38'>Luke 2:38</a>",
+      "comment": "The women recognize the Lord's blessing through the gift of a redeemer—pointing ahead to the coming Redeemer, Jesus, whose name is made famous in Israel and beyond."
     },
     {
-      "pk": 4004015,
+      "pk": 8004015,
       "translation": "AIV",
       "book": 8,
+      "bookName": "Ruth",
+      "bookAbbreviation": "Ruth",
       "chapter": 4,
       "verse": 15,
-      "text": "He shall be to you a restorer of life and a nourisher of your old age; for your daughter-in-law, who loves you, who is better to you than seven sons, has given birth to him.”",
-      "links": "<a href='/AIV/1/4/15'>1 Sam. 4:15</a>; <a href='/AIV/8/1/16-17'>Ruth 1:16-17</a>",
-      "comment": "‘Seven sons’ was a Hebrew idiom for the ideal family legacy."
+      "text": "He will be to you a restorer of life and a sustainer in your old age; for your daughter-in-law who loves you, who is better to you than seven sons, has given birth to him.'",
+      "links": "<a href='/AIV/8/1/17'>Ruth 1:17</a>; <a href='/AIV/8/3/10'>Ruth 3:10</a>",
+      "comment": "True restoration and legacy come through self-giving love. Seven indicates fullness, suggesting Ruth’s love is complete—mirroring self-sacrificial love found in the highest forms of service."
     },
     {
-      "pk": 4004016,
+      "pk": 8004016,
       "translation": "AIV",
       "book": 8,
+      "bookName": "Ruth",
+      "bookAbbreviation": "Ruth",
       "chapter": 4,
       "verse": 16,
-      "text": "Then Naomi took the child and laid him on her lap and became his nurse.",
-      "links": "<a href='/AIV/1/21/7'>Gen. 21:7</a>",
-      "comment": "Naomi acting as ‘nurse’ here means caring, not literal wet-nursing."
+      "text": "Then Naomi took the child and laid him in her lap, and she became his nurse.",
+      "links": "<a href='/AIV/1/21/7'>Gen. 21:7</a>; <a href='/AIV/8/1/20-21'>Ruth 1:20-21</a>",
+      "comment": "Naomi’s restoration is completed in this act. It is an image of spiritual renewal found in close family bonds and community."
     },
     {
-      "pk": 4004017,
+      "pk": 8004017,
       "translation": "AIV",
       "book": 8,
+      "bookName": "Ruth",
+      "bookAbbreviation": "Ruth",
       "chapter": 4,
       "verse": 17,
-      "text": "And the women of the neighborhood gave him a name, saying, “A son has been born to Naomi.” They named him Obed. He was the father of Jesse, the father of David.",
-      "links": "<a href='/AIV/9/16/1'>1 Sam. 16:1</a>; <a href='/AIV/40/1/5-6'>Matt. 1:5–6</a>",
-      "comment": "Obed means ‘servant’; the genealogy links Ruth to King David."
+      "text": "And the women of the neighborhood gave him a name, saying, 'A son has been born to Naomi.' They named him Obed. He was the father of Jesse, the father of David.",
+      "links": "<a href='/AIV/8/4/22'>Ruth 4:22</a>; <a href='/AIV/9/16/1'>1 Sam. 16:1</a>",
+      "comment": "The community’s role in naming highlights the collective aspect of faith and tradition. Obed’s lineage leads to David, and so to Christ. (Matt. 1:5-6)"
     },
     {
-      "pk": 4004018,
+      "pk": 8004018,
       "translation": "AIV",
       "book": 8,
+      "bookName": "Ruth",
+      "bookAbbreviation": "Ruth",
       "chapter": 4,
       "verse": 18,
-      "text": "Now these are the generations of Perez: Perez fathered Hezron,",
-      "links": "<a href='/AIV/1/46/12'>Gen. 46:12</a>; <a href='/AIV/13/2/5'>1 Chron. 2:5</a>",
-      "comment": "‘Generations’ is Hebrew ‘toledot’—typical start to genealogies."
+      "text": "Now these are the generations of Perez: Perez fathered Hezron;",
+      "links": "<a href='/AIV/1/46/12'>Gen. 46:12</a>; <a href='/AIV/40/1/3'>Matt. 1:3</a>",
+      "comment": "The genealogy from Perez onward reminds us that God’s providence works through family lines and generations."
     },
     {
-      "pk": 4004019,
+      "pk": 8004019,
       "translation": "AIV",
       "book": 8,
+      "bookName": "Ruth",
+      "bookAbbreviation": "Ruth",
       "chapter": 4,
       "verse": 19,
-      "text": "Hezron fathered Ram, Ram fathered Amminadab,",
-      "links": "<a href='/AIV/13/2/10'>1 Chron. 2:10</a>; <a href='/AIV/40/1/3'>Matt. 1:3–4</a>",
-      "comment": "Stays with the original names and order."
+      "text": "Hezron fathered Ram; Ram fathered Amminadab;",
+      "links": "<a href='/AIV/13/2/9-10'>1 Chron. 2:9-10</a>; <a href='/AIV/40/1/4'>Matt. 1:4</a>",
+      "comment": "Comparison with the genealogies in 1 Chronicles and Matthew reveals this line leads directly to King David and ultimately the Messiah."
     },
     {
-      "pk": 4004020,
+      "pk": 8004020,
       "translation": "AIV",
       "book": 8,
+      "bookName": "Ruth",
+      "bookAbbreviation": "Ruth",
       "chapter": 4,
       "verse": 20,
-      "text": "Amminadab fathered Nahshon, Nahshon fathered Salmon,",
-      "links": "<a href='/AIV/4/1/7'>Num. 1:7</a>; <a href='/AIV/40/1/4'>Matt. 1:4'</a>",
-      "comment": "Genealogical record aligns with other Old Testament lists."
+      "text": "Amminadab fathered Nahshon; Nahshon fathered Salmon;",
+      "links": "<a href='/AIV/4/1/7'>Num. 1:7</a>; <a href='/AIV/40/1/4'>Matt. 1:4</a>",
+      "comment": "Nahshon was a leader in Israel (Num. 1:7). God exalts humble beginnings, using them in His plan for salvation."
     },
     {
-      "pk": 4004021,
+      "pk": 8004021,
       "translation": "AIV",
       "book": 8,
+      "bookName": "Ruth",
+      "bookAbbreviation": "Ruth",
       "chapter": 4,
       "verse": 21,
-      "text": "Salmon fathered Boaz, Boaz fathered Obed,",
-      "links": "<a href='/AIV/40/1/5'>Matt. 1:5</a>",
-      "comment": "As in the genealogy of Jesus in Matthew."
+      "text": "Salmon fathered Boaz; Boaz fathered Obed;",
+      "links": "<a href='/AIV/40/1/5'>Matt. 1:5</a>; <a href='/AIV/42/3/32'>Luke 3:32</a>",
+      "comment": "Boaz, modeled after the ideal redeemer, becomes the ancestor of both David and Jesus. Redemption here participates in God’s larger saving plan."
     },
     {
-      "pk": 4004022,
+      "pk": 8004022,
       "translation": "AIV",
       "book": 8,
+      "bookName": "Ruth",
+      "bookAbbreviation": "Ruth",
       "chapter": 4,
       "verse": 22,
-      "text": "Obed fathered Jesse, and Jesse fathered David.",
-      "links": "<a href='/AIV/9/16/13'>1 Sam. 16:13</a>; <a href='/AIV/40/1/5-6'>Matt. 1:5–6</a>",
-      "comment": "Closes with David, showing Ruth’s significance in Israel’s royal lineage."
+      "text": "Obed fathered Jesse; and Jesse fathered David.",
+      "links": "<a href='/AIV/9/16/1'>1 Sam. 16:1</a>; <a href='/AIV/40/1/6'>Matt. 1:6</a>",
+      "comment": "David, the great king, is a direct result of God’s providence through faithful individuals. This line leads to Christ, fulfilling God's promise to raise up a shepherd for His people (Ezek. 34:23; John 10:11)."
     }
   ],
-  "translatedAt": "2025-12-22T08:25:07.421Z"
+  "translatedAt": "2025-12-24T02:45:01.441Z"
 }

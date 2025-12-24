@@ -1,238 +1,285 @@
 {
-  "book": "1 Samuel",
+  "book": 9,
+  "bookName": "1 Samuel",
   "bookAbbreviation": "1Sam",
   "chapter": 13,
   "verses": [
     {
-      "pk": 130001,
+      "pk": 9013001,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 13,
       "verse": 1,
-      "text": "Saul was thirty years old when he became king, and he reigned over Israel for forty-two years.",
-      "links": "<a href='/AIV/44/13/21'>Acts 13:21</a>",
-      "comment": "The original Hebrew of this verse is uncertain and has missing numbers. Many translations supply numbers based on Acts 13:21. See also NIV, ESV footnotes."
+      "text": "Saul was thirty years old when he began to reign, and he reigned over Israel for forty-two years.",
+      "links": "",
+      "comment": "Some Hebrew manuscripts are missing the exact numbers for Saul's age and the length of his reign. The numbers supplied here follow common textual reconstructions (cf. Acts 13:21)."
     },
     {
-      "pk": 130002,
+      "pk": 9013002,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 13,
       "verse": 2,
-      "text": "Saul chose three thousand men of Israel. Two thousand were with Saul in Michmash and in the hill country of Bethel, and a thousand were with Jonathan at Gibeah of Benjamin. The rest of the people he sent home, each to his tent.",
-      "links": "<a href='/AIV/9/14/1'>1 Sam. 14:1</a>",
-      "comment": "The division of troops is consistent with the Masoretic text."
+      "text": "Saul chose for himself three thousand men of Israel. Two thousand were with Saul in Michmash and the hill country of Bethel, and a thousand were with Jonathan in Gibeah of Benjamin. He sent the rest of the people away, each to his own tent.",
+      "links": "<a href='/AIV/9/14/2'>1Sam. 14:2</a>",
+      "comment": "Saul's selection of a standing army shows the transition to a centralized monarchy. Jonathan, introduced here, will later be significant in Israel's history."
     },
     {
-      "pk": 130003,
+      "pk": 9013003,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 13,
       "verse": 3,
-      "text": "Jonathan attacked the garrison of the Philistines that was at Geba, and the Philistines heard about it. Saul blew the trumpet throughout all the land, saying, \"Let the Hebrews hear.\"",
-      "links": "<a href='/AIV/9/14/5'>1 Sam. 14:5</a>",
-      "comment": "Hebrew 'blew the trumpet' was a call to arms throughout Israel."
+      "text": "Jonathan attacked the Philistines' garrison at Geba. The Philistines heard about it. Saul blew the trumpet throughout all the land, saying, \"Let the Hebrews hear!\"",
+      "links": "<a href='/AIV/7/3/27'>Judg. 3:27</a>",
+      "comment": "The trumpet blast signals a call to war (compare Judges 3:27). Jonathan's boldness begins a chain of events leading to a spiritual test for Saul."
     },
     {
-      "pk": 130004,
+      "pk": 9013004,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 13,
       "verse": 4,
-      "text": "All Israel heard it said that Saul had attacked the Philistines’ garrison, and also that Israel had become a stench to the Philistines. And the people were called together to Saul at Gilgal.",
-      "links": "<a href='/AIV/9/14/52'>1 Sam. 14:52</a>",
-      "comment": "‘A stench’ means to be highly offensive or odious."
+      "text": "All Israel heard it said that Saul had struck down the garrison of the Philistines, and also that Israel had become a stench to the Philistines. The people were called together to Saul at Gilgal.",
+      "links": "<a href='/AIV/1/34/30'>Gen. 34:30</a>",
+      "comment": "The fame and repercussions of the victory result in a military threat. Gilgal becomes the meeting point for crisis and covenant (cf. Joshua 5:9)."
     },
     {
-      "pk": 130005,
+      "pk": 9013005,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 13,
       "verse": 5,
-      "text": "The Philistines gathered to fight against Israel, with thirty thousand chariots, six thousand horsemen, and troops like the sand on the seashore in number. They came up and encamped at Michmash, east of Beth-aven.",
-      "links": "<a href='/AIV/7/7/12'>Judg. 7:12</a>",
-      "comment": "The number 'thirty thousand chariots' is likely a scribal error. Ancient armies had far fewer chariots; see commentaries."
+      "text": "The Philistines gathered for battle against Israel, with thirty thousand chariots, six thousand horsemen, and people like the sand on the seashore for multitude; they went up and camped at Michmash, east of Beth-aven.",
+      "links": "<a href='/AIV/1/22/17'>Gen. 22:17</a>; <a href='/AIV/9/14/23'>1Sam. 14:23</a>",
+      "comment": "The overwhelming numbers stress Israel’s human weakness, contrasting God’s power in delivering His people against impossible odds."
     },
     {
-      "pk": 130006,
+      "pk": 9013006,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 13,
       "verse": 6,
-      "text": "When the men of Israel saw that they were in trouble, for the people were hard pressed, they hid themselves in caves, holes, rocks, tombs, and cisterns.",
-      "links": "<a href='/AIV/9/14/11'>1 Sam. 14:11</a>",
-      "comment": "Describes the desperate condition of the Israelites."
+      "text": "When the men of Israel saw that they were in trouble—for the people were hard pressed—the people hid in caves and in thickets, among rocks, in cellars, and in pits.",
+      "links": "<a href='/AIV/7/6/2'>Judg. 6:2</a>",
+      "comment": "Fear and desperation are common reactions in Israel’s history when facing powerful enemies (Judges 6:2). Their recourse to hiding shows their lack of trust in God at this moment."
     },
     {
-      "pk": 130007,
+      "pk": 9013007,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 13,
       "verse": 7,
-      "text": "Some of the Hebrews crossed the Jordan to the land of Gad and Gilead. Saul was still at Gilgal, and all the people followed him, trembling.",
-      "links": "<a href='/AIV/9/10/8'>1 Sam. 10:8</a>",
-      "comment": "Shows fear and dispersal among the Israelites."
+      "text": "Some Hebrews crossed the Jordan to the land of Gad and Gilead. But Saul remained at Gilgal, and all the people who followed him were trembling.",
+      "links": "<a href='/AIV/9/10/8'>1Sam. 10:8</a>",
+      "comment": "Saul’s obedience is being tested. The fear of the people increases the pressure for Saul to act as king and spiritual leader."
     },
     {
-      "pk": 130008,
+      "pk": 9013008,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 13,
       "verse": 8,
-      "text": "He waited seven days, according to the time set by Samuel, but Samuel did not come to Gilgal, and the people began to scatter from him.",
-      "links": "<a href='/AIV/9/10/8'>1 Sam. 10:8</a>",
-      "comment": "Refers back to the command given in 1 Sam 10:8."
+      "text": "He waited seven days, the time appointed by Samuel. But Samuel did not come to Gilgal, and the people began to scatter from him.",
+      "links": "<a href='/AIV/9/10/8'>1Sam. 10:8</a>; <a href='/AIV/9/15/33'>1Sam. 15:33</a>",
+      "comment": "Saul’s test involved waiting for God’s prophet. Obedience, even in trial, is a vital spiritual principle (cf. 1 Samuel 10:8)."
     },
     {
-      "pk": 130009,
+      "pk": 9013009,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 13,
       "verse": 9,
-      "text": "So Saul said, \"Bring the burnt offering and the peace offerings here to me.\" And he offered the burnt offering.",
-      "links": "<a href='/AIV/9/15/9'>1 Sam. 15:9</a>",
-      "comment": "Saul was not authorized to offer sacrifices as king; this was the role of the priest or prophet."
+      "text": "So Saul said, \"Bring here the burnt offering to me, and the peace offerings.\" He offered the burnt offering.",
+      "links": "<a href='/AIV/3/1/3-5'>Lev. 1:3-5</a>",
+      "comment": "Saul, not being a priest, took the role not given to him. This foreshadows the need for a true priest-king (cf. Genesis 14:18), ultimately fulfilled in Christ."
     },
     {
-      "pk": 130010,
+      "pk": 9013010,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 13,
       "verse": 10,
-      "text": "Just as he finished offering the burnt offering, Samuel arrived. Saul went out to greet him.",
-      "links": "<a href='/AIV/9/15/13'>1 Sam. 15:13</a>",
-      "comment": "Samuel arrives immediately after Saul’s unlawful action."
+      "text": "Just as he finished offering the burnt offering, Samuel arrived. Saul went out to meet him and to greet him.",
+      "links": "",
+      "comment": "The timing emphasizes Saul’s lack of faith. Samuel represents God’s authority and legitimate mediation."
     },
     {
-      "pk": 130011,
+      "pk": 9013011,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 13,
       "verse": 11,
-      "text": "Samuel said, \"What have you done?\" Saul said, \"When I saw that the people were scattering from me, and you did not come within the appointed days, and that the Philistines were assembling at Michmash,",
-      "links": "<a href='/AIV/9/15/14'>1 Sam. 15:14</a>",
-      "comment": "Saul tries to justify his actions with the circumstances."
+      "text": "Samuel said, \"What have you done?\" Saul answered, \"When I saw that the people were scattering from me, and that you did not come within the appointed days, and that the Philistines had gathered at Michmash,",
+      "links": "<a href='/AIV/1/3/13'>Gen. 3:13</a>",
+      "comment": "Saul seeks to justify himself, deflecting responsibility—similar to other leaders confronted with sin (cf. Genesis 3:13)."
     },
     {
-      "pk": 130012,
+      "pk": 9013012,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 13,
       "verse": 12,
-      "text": "\"I thought, 'Now the Philistines will come down against me at Gilgal, and I have not sought the favor of the LORD.' So I forced myself and offered the burnt offering.\"",
-      "links": "<a href='/AIV/9/15/21'>1 Sam. 15:21</a>",
-      "comment": "Saul says he 'forced himself,' indicating reluctance but self-justification."
+      "text": "\"I said, ‘Now the Philistines will come down against me at Gilgal, and I have not sought the favor of the LORD.’ So I forced myself and offered the burnt offering.\"",
+      "links": "<a href='/AIV/9/15/24'>1Sam. 15:24</a>",
+      "comment": "‘Seeking the LORD’s favor’ is praiseworthy, but Saul’s disobedience in means undermines the end. Proper mediation is required even when intentions are right (see 1 Samuel 15:24)."
     },
     {
-      "pk": 130013,
+      "pk": 9013013,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 13,
       "verse": 13,
-      "text": "Samuel said to Saul, \"You have acted foolishly. You have not kept the command of the LORD your God that he gave you. For now the LORD would have established your kingdom over Israel forever;",
-      "links": "<a href='/AIV/9/15/19'>1 Sam. 15:19</a>; <a href='/AIV/9/2/30'>1 Sam. 2:30</a>",
-      "comment": "Indicates the loss of Saul's dynastic promise due to disobedience."
+      "text": "Samuel said to Saul, \"You have acted foolishly. You have not kept the command of the LORD your God, which he gave you. For if you had, the LORD would have established your kingdom over Israel forever.",
+      "links": "<a href='/AIV/10/7/10-16'>2Sam. 7:10-16</a>",
+      "comment": "Obedience is the foundation for God’s enduring kingdom (see 2 Samuel 7). Breaking this is the undoing of Saul’s dynasty and hints at the need for a faithful king."
     },
     {
-      "pk": 130014,
+      "pk": 9013014,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 13,
       "verse": 14,
-      "text": "but now your kingdom will not continue. The LORD has sought a man after his own heart, and the LORD has commanded him to be prince over his people, because you have not kept what the LORD commanded you.\"",
-      "links": "<a href='/AIV/9/16/13'>1 Sam. 16:13</a>; <a href='/AIV/44/13/22'>Acts 13:22</a>",
-      "comment": "The phrase 'a man after his own heart' is retained as in the Hebrew text."
+      "text": "But now your kingdom shall not continue. The LORD has sought a man after his own heart, and the LORD has appointed him as ruler over his people, because you have not kept what the LORD commanded you.\"",
+      "links": "<a href='/AIV/9/16/7-13'>1Sam. 16:7-13</a>; <a href='/AIV/19/89/20'>Ps. 89:20</a>; <a href='/AIV/44/13/22'>Acts 13:22</a>",
+      "comment": "This prophecy points forward to David, a figure chosen not by outward appearance but inward conformity to God’s will—a principle later fulfilled perfectly in Christ, the true Shepherd King."
     },
     {
-      "pk": 130015,
+      "pk": 9013015,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 13,
       "verse": 15,
-      "text": "And Samuel rose up and went from Gilgal to Gibeah of Benjamin. Saul counted the people who were present with him, about six hundred men.",
-      "links": "<a href='/AIV/9/14/2'>1 Sam. 14:2</a>",
-      "comment": "The drop in numbers shows how few remained with Saul."
+      "text": "Then Samuel rose and went up from Gilgal to Gibeah of Benjamin. Saul counted the people who were present with him, about six hundred men.",
+      "links": "<a href='/AIV/9/14/2'>1Sam. 14:2</a>",
+      "comment": "After Saul’s disobedience, his forces are diminished, contrasting the earlier numbers. God’s presence, not numbers, truly matters (cf. 1 Sam. 14:2)."
     },
     {
-      "pk": 130016,
+      "pk": 9013016,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 13,
       "verse": 16,
-      "text": "Saul and Jonathan his son, and the people present with them, stayed in Gibeah of Benjamin, but the Philistines camped at Michmash.",
-      "links": "<a href='/AIV/9/14/5'>1 Sam. 14:5</a>",
-      "comment": "The camps are set for the coming battle."
+      "text": "Saul, his son Jonathan, and the people with them stayed in Gibeah of Benjamin. But the Philistines camped at Michmash.",
+      "links": "<a href='/AIV/9/14/5'>1Sam. 14:5</a>",
+      "comment": "The military standoff sets the stage for the events of chapter 14. Notice the persistence of the Philistine threat."
     },
     {
-      "pk": 130017,
+      "pk": 9013017,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 13,
       "verse": 17,
-      "text": "And raiding parties came out from the Philistine camp in three groups. One group turned toward Ophrah, to the land of Shual;",
-      "links": "<a href='/AIV/9/14/15'>1 Sam. 14:15</a>",
-      "comment": "Shows strategic movement of Philistine detachments."
+      "text": "Raiding the camp, the Philistines sent three units: one turned toward Ophrah in the land of Shual,",
+      "links": "",
+      "comment": "The Philistines’ strategic raids aimed to control and terrorize Israel, revealing their advantage and Israel’s vulnerability without God’s aid."
     },
     {
-      "pk": 130018,
+      "pk": 9013018,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 13,
       "verse": 18,
-      "text": "another group turned toward Beth-horon; and the third group turned toward the border that overlooks the Valley of Zeboim, facing the wilderness.",
-      "links": "<a href='/AIV/9/6/9'>1 Sam. 6:9</a>",
-      "comment": "These are geographical references to surrounding areas."
+      "text": "another unit turned toward Beth-horon, and another toward the border overlooking the Valley of Zeboim, facing the wilderness.",
+      "links": "",
+      "comment": "The raiding strategy describes the sweeping extent of the Philistine incursion. Israel is surrounded and pressed."
     },
     {
-      "pk": 130019,
+      "pk": 9013019,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 13,
       "verse": 19,
-      "text": "Now there was no blacksmith to be found throughout all the land of Israel, for the Philistines said, \"Otherwise the Hebrews will make swords or spears.\"",
-      "links": "<a href='/AIV/9/13/22'>1 Sam. 13:22</a>",
-      "comment": "Philistines controlled weapon production to keep the Israelites weak."
+      "text": "Now there was no blacksmith found throughout all the land of Israel, for the Philistines said, \"Otherwise the Hebrews will make swords or spears.\"",
+      "links": "<a href='/AIV/9/17/47'>1Sam. 17:47</a>",
+      "comment": "The suppression of blacksmiths left Israel defenseless. The theme of conquest is not just physical but also spiritual and cultural—Israel must look to God for deliverance (cf. 1 Sam. 17:47)."
     },
     {
-      "pk": 130020,
+      "pk": 9013020,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 13,
       "verse": 20,
-      "text": "So all Israel had to go down to the Philistines to sharpen each one's plowshare, mattock, axe, or sickle.",
-      "links": "<a href='/AIV/9/13/21'>1 Sam. 13:21</a>",
-      "comment": "Israelites depended on Philistines for agricultural tools."
+      "text": "So all Israel had to go down to the Philistines to have every man’s plowshare, mattock, axe, or sickle sharpened.",
+      "links": "<a href='/AIV/7/5/6-7'>Judg. 5:6-7</a>",
+      "comment": "Israel’s dependence even for basic tools underscores their humiliation and their need for a redeemer and deliverer."
     },
     {
-      "pk": 130021,
+      "pk": 9013021,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 13,
       "verse": 21,
-      "text": "And the charge was a third of a shekel for the plowshares and for the mattocks, and for the forks and axes, and to fix the goads.",
-      "links": "<a href='/AIV/9/13/19'>1 Sam. 13:19</a>",
-      "comment": "The text about pricing is obscure; some versions translate as sharpening fee."
+      "text": "The charge was two-thirds of a shekel for sharpening plowshares and mattocks, and a third of a shekel for sharpening forks and axes, and for fixing the ox-goads.",
+      "links": "",
+      "comment": "Such prices for even agricultural tools show economic oppression, part of the occupational strategy of the Philistines."
     },
     {
-      "pk": 130022,
+      "pk": 9013022,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 13,
       "verse": 22,
-      "text": "So on the day of battle, neither sword nor spear was found in the hand of any of the people who were with Saul and Jonathan, but only Saul and Jonathan his son had them.",
-      "links": "<a href='/AIV/9/14/1'>1 Sam. 14:1</a>",
-      "comment": "Shows the degree of Israel’s vulnerability and dependence."
+      "text": "So on the day of battle, neither sword nor spear was found in the hand of any of the people who were with Saul and Jonathan; only Saul and Jonathan his son had them.",
+      "links": "<a href='/AIV/9/17/47'>1Sam. 17:47</a>",
+      "comment": "The lack of weapons leaves God alone as the source of victory, a frequent theme echoing through salvation history and fulfilled in Christ defeating sin and death with unexpected means."
     },
     {
-      "pk": 130023,
+      "pk": 9013023,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 13,
       "verse": 23,
-      "text": "And a garrison of the Philistines went out to the pass of Michmash.",
-      "links": "<a href='/AIV/9/14/4'>1 Sam. 14:4</a>",
-      "comment": "Sets up the events of the next chapter's battle."
+      "text": "And the garrison of the Philistines went out to the pass of Michmash.",
+      "links": "<a href='/AIV/9/14/1'>1Sam. 14:1</a>",
+      "comment": "This sets the scene for Jonathan’s bold act of faith in the next chapter. God’s advances often arise in desperate moments."
     }
   ],
-  "translatedAt": "2025-12-22T08:30:26.998Z"
+  "translatedAt": "2025-12-24T02:55:27.684Z"
 }

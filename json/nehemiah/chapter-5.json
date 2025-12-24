@@ -1,198 +1,237 @@
 {
-  "book": "Nehemiah",
+  "book": 16,
+  "bookName": "Nehemiah",
   "bookAbbreviation": "Neh",
   "chapter": 5,
   "verses": [
     {
-      "pk": 4005001,
+      "pk": 16005001,
       "translation": "AIV",
       "book": 16,
+      "bookName": "Nehemiah",
+      "bookAbbreviation": "Neh",
       "chapter": 5,
       "verse": 1,
-      "text": "Now there was a great outcry of the people and their wives against their Jewish brothers.",
-      "links": "<a href='/AIV/02/3/7'>Exod. 3:7</a>; <a href='/AIV/16/4/7-8'>Neh. 4:7-8</a>",
-      "comment": "Verse 1 sets the stage for a social issue among the returned exiles. The word 'outcry' echoes the cries for justice heard in Egypt."
+      "text": "Now there arose a loud outcry of the people and their wives against their Jewish brothers.",
+      "links": "<a href='/AIV/02/03/7-10'>Exod. 3:7-10</a>; <a href='/AIV/16/04/1'>Neh. 4:1</a>",
+      "comment": "The outcry echoes the cries of Israel in Egypt (see Exodus 3:7-10), signifying communal distress and injustice within God's chosen people. The inclusion of women's voices shows the depth of the crisis."
     },
     {
-      "pk": 4005002,
+      "pk": 16005002,
       "translation": "AIV",
       "book": 16,
+      "bookName": "Nehemiah",
+      "bookAbbreviation": "Neh",
       "chapter": 5,
       "verse": 2,
-      "text": "For there were some who said, 'We, our sons, and our daughters are many. Therefore, let us get grain, so that we may eat and live.'",
-      "links": "<a href='/AIV/01/41/55'>Gen. 41:55</a>; <a href='/AIV/02/16/3'>Exod. 16:3</a>",
-      "comment": "The people's need for survival reflects themes from earlier scriptures where famine leads to desperate pleas for food."
+      "text": "Some were saying, 'We, our sons, and our daughters are many. Let us get grain so that we may eat and stay alive.'",
+      "links": "<a href='/AIV/01/41/56'>Gen. 41:56</a>; <a href='/AIV/03/26/5'>Lev. 26:5</a>",
+      "comment": "The people demand the basic necessity of food for survival, a theme connecting to Joseph's time in Egypt (Gen. 41:56) and God's promise of sustenance (Lev. 26:5)."
     },
     {
-      "pk": 4005003,
+      "pk": 16005003,
       "translation": "AIV",
       "book": 16,
+      "bookName": "Nehemiah",
+      "bookAbbreviation": "Neh",
       "chapter": 5,
       "verse": 3,
-      "text": "There were also some who said, 'We have mortgaged our fields, our vineyards, and our houses just so we may buy grain because of the famine.'",
-      "links": "<a href='/AIV/03/25/35-38'>Lev. 25:35-38</a>; <a href='/AIV/12/4/1-7'>2 Kgs. 4:1-7</a>",
-      "comment": "Reference to mortgaging land connects back to Levitical laws protecting the poor."
+      "text": "Others said, 'We are mortgaging our fields, our vineyards, and our houses so that we can get grain during the famine.'",
+      "links": "<a href='/AIV/03/25/35-38'>Lev. 25:35-38</a>; <a href='/AIV/12/04/1'>2 Kings 4:1</a>",
+      "comment": "Their hardship leads to the loss of property, highlighting the need for a just community life, as instructed in Leviticus 25. See also the prophet Elisha's compassion to widows in 2 Kings 4."
     },
     {
-      "pk": 4005004,
+      "pk": 16005004,
       "translation": "AIV",
       "book": 16,
+      "bookName": "Nehemiah",
+      "bookAbbreviation": "Neh",
       "chapter": 5,
       "verse": 4,
-      "text": "And others said, 'We have borrowed money on our fields and vineyards to pay the king’s tax.'",
-      "links": "<a href='/AIV/15/4/13'>Ezra 4:13</a>",
-      "comment": "Persian taxation was heavy on the returned exiles, adding to their hardship."
+      "text": "And others were saying, 'We have borrowed money for the king's tax on our fields and vineyards.'",
+      "links": "<a href='/AIV/15/04/13'>Ezra 4:13</a>; <a href='/AIV/40/22/17-21'>Matt. 22:17-21</a>",
+      "comment": "The heavy taxation recalls the burdens of foreign rulers, similar to the controversies regarding taxes in the New Testament (Matt. 22:17-21)."
     },
     {
-      "pk": 4005005,
+      "pk": 16005005,
       "translation": "AIV",
       "book": 16,
+      "bookName": "Nehemiah",
+      "bookAbbreviation": "Neh",
       "chapter": 5,
       "verse": 5,
-      "text": "Yet now our flesh is like the flesh of our brothers, our children as their children. But we are forcing our sons and our daughters into bondage. Some of our daughters have already been enslaved, and we have no power to redeem them, for others own our fields and our vineyards.",
-      "links": "<a href='/AIV/03/25/39-42'>Lev. 25:39-42</a>; <a href='/AIV/02/21/7'>Exod. 21:7</a>",
-      "comment": "Enslavement for debt was forbidden among the Israelites; spiritual sense points to Christ as redeemer who frees us from bondage."
+      "text": "Now our flesh is the same as that of our brothers, our children are as their children. Yet we are forcing our sons and daughters into slavery; some of our daughters have already been enslaved, but we are powerless, and our fields and vineyards belong to others.",
+      "links": "<a href='/AIV/03/25/39-41'>Lev. 25:39-41</a>; <a href='/AIV/05/15/12-15'>Deut. 15:12-15</a>",
+      "comment": "The violation of God's law regarding brotherly treatment and slavery is stark; see Leviticus and Deuteronomy. The spiritual value of brotherhood and justice is underscored."
     },
     {
-      "pk": 4005006,
+      "pk": 16005006,
       "translation": "AIV",
       "book": 16,
+      "bookName": "Nehemiah",
+      "bookAbbreviation": "Neh",
       "chapter": 5,
       "verse": 6,
-      "text": "When I heard their outcry and these words, I was very angry.",
-      "links": "<a href='/AIV/02/11/8'>Exod. 11:8</a>; <a href='/AIV/19/7/11'>Ps. 7:11</a>",
-      "comment": "Nehemiah’s anger reflects righteous indignation against injustice, a character of leadership mourning for God’s people."
+      "text": "I was very angry when I heard their outcry and these words.",
+      "links": "<a href='/AIV/02/32/19'>Exod. 32:19</a>; <a href='/AIV/41/03/5'>Mark 3:5</a>",
+      "comment": "Righteous anger is a biblical response to injustice, reflected in Moses' and Jesus' own reactions (Exod. 32:19; Mark 3:5)."
     },
     {
-      "pk": 4005007,
+      "pk": 16005007,
       "translation": "AIV",
       "book": 16,
+      "bookName": "Nehemiah",
+      "bookAbbreviation": "Neh",
       "chapter": 5,
       "verse": 7,
-      "text": "I considered these things in my heart, and then accused the nobles and the officials. I said to them, 'You are each lending at interest to your brother.' And I organized a great assembly against them.",
-      "links": "<a href='/AIV/03/25/36-37'>Lev. 25:36-37</a>; <a href='/AIV/05/23/19-20'>Deut. 23:19-20</a>",
-      "comment": "Lending with interest to one’s own people contradicted Mosaic Law, showing the importance of upholding tradition."
+      "text": "I considered it in my heart, and then accused the nobles and officials. I said to them, 'You are exacting interest, each from his brother!' And I held a great assembly against them.",
+      "links": "<a href='/AIV/02/22/25'>Exod. 22:25</a>; <a href='/AIV/03/25/36-37'>Lev. 25:36-37</a>",
+      "comment": "The law forbade usury among brothers (Exod. 22:25; Lev. 25:36-37). Nehemiah’s call for assembly is an appeal to communal unity and discipline—hinting at the importance of an authoritative, united leadership structure."
     },
     {
-      "pk": 4005008,
+      "pk": 16005008,
       "translation": "AIV",
       "book": 16,
+      "bookName": "Nehemiah",
+      "bookAbbreviation": "Neh",
       "chapter": 5,
       "verse": 8,
-      "text": "And I said to them, 'We have bought back our Jewish brothers who were sold to the nations, as much as we could. Now you would even sell your brothers, that they may be sold to us!' Then they were silent and could find nothing to say.",
-      "links": "<a href='/AIV/03/25/48-49'>Lev. 25:48-49</a>",
-      "comment": "This verse highlights the contradiction in reclaiming exiles while reselling them into slavery. Note the prophetic foreshadowing of redemption found in Christ."
+      "text": "And I said to them, 'We, as much as we are able, have redeemed our Jewish brothers who were sold to the nations, but you even sell your brothers, that they may be sold to us.' They were silent and could not find a word to say.",
+      "links": "<a href='/AIV/03/25/47-48'>Lev. 25:47-48</a>; <a href='/AIV/01/37/27'>Gen. 37:27</a>",
+      "comment": "The theme of redemption is central here, prefiguring the spiritual redemption fulfilled in Christ (see 1 Pet. 1:18-19 for Christ as Redeemer)."
     },
     {
-      "pk": 4005009,
+      "pk": 16005009,
       "translation": "AIV",
       "book": 16,
+      "bookName": "Nehemiah",
+      "bookAbbreviation": "Neh",
       "chapter": 5,
       "verse": 9,
-      "text": "So I said, 'The thing you are doing is not good. Should you not walk in the fear of our God to keep the reproach of the nations, our enemies, away from us?'",
-      "links": "<a href='/AIV/05/10/12'>Deut. 10:12</a>; <a href='/AIV/19/111/10'>Ps. 111:10</a>",
-      "comment": "'Fear of God' here signals not just reverence, but living by God’s law and testimony before the world—a call to holiness and unity."
+      "text": "Then I said, 'What you are doing is not good. Ought you not to walk in the fear of our God to prevent the taunts of the nations who are our enemies?'",
+      "links": "<a href='/AIV/03/19/14'>Lev. 19:14</a>; <a href='/AIV/05/06/13'>Deut. 6:13</a>",
+      "comment": "A call to holiness and witness before the world; faithful living is both personal and communal, and authentic Christian witness has always been marked by charity and justice."
     },
     {
-      "pk": 4005010,
+      "pk": 16005010,
       "translation": "AIV",
       "book": 16,
+      "bookName": "Nehemiah",
+      "bookAbbreviation": "Neh",
       "chapter": 5,
       "verse": 10,
-      "text": "And likewise, I, my brothers, and my servants are lending them money and grain. Let us stop this taking of interest.",
-      "links": "<a href='/AIV/03/25/36'>Lev. 25:36</a>",
-      "comment": "Nehemiah includes himself, emphasizing the call for collective repentance and reform."
+      "text": "Moreover, I and my brothers and my servants are lending them money and grain. Let us stop this taking of interest.",
+      "links": "<a href='/AIV/02/22/25'>Exod. 22:25</a>; <a href='/AIV/40/05/42'>Matt. 5:42</a>",
+      "comment": "The ethical demand against usury (Exod. 22:25) finds fulfillment in the radical generosity taught by Jesus (Matt. 5:42)."
     },
     {
-      "pk": 4005011,
+      "pk": 16005011,
       "translation": "AIV",
       "book": 16,
+      "bookName": "Nehemiah",
+      "bookAbbreviation": "Neh",
       "chapter": 5,
       "verse": 11,
-      "text": "Return to them immediately their fields, their vineyards, their olive groves, and their houses, as well as the interest on money, grain, new wine, and oil that you have been charging them.",
-      "links": "<a href='/AIV/03/25/13'>Lev. 25:13</a>; <a href='/AIV/05/15/2'>Deut. 15:2</a>",
-      "comment": "This mandate aligns with the Jubilee regulations—restoration and forgiveness. A spiritual meaning emerges: God’s people must return what is justly due, echoing Christ’s call to mercy (<a href='/AIV/40/6/12'>Matt. 6:12</a>)."
+      "text": "Return to them this very day their fields, their vineyards, their olive orchards, and their houses, and the interest on money, grain, wine, and oil that you have been exacting from them.",
+      "links": "<a href='/AIV/03/25/9-10'>Lev. 25:9-10</a>; <a href='/AIV/42/19/8'>Luke 19:8</a>",
+      "comment": "The immediate call for restitution has echoes both in the jubilee year of release (Lev. 25:9-10) and in Zacchaeus' conversion and restitution (Luke 19:8). A sacramental forgiveness involves tangible acts."
     },
     {
-      "pk": 4005012,
+      "pk": 16005012,
       "translation": "AIV",
       "book": 16,
+      "bookName": "Nehemiah",
+      "bookAbbreviation": "Neh",
       "chapter": 5,
       "verse": 12,
-      "text": "Then they said, 'We will restore it, and will require nothing from them; we will do as you say.' So I called the priests and made them swear to do according to this promise.",
-      "links": "<a href='/AIV/03/19/12'>Lev. 19:12</a>; <a href='/AIV/24/34/8-10'>Jer. 34:8-10</a>",
-      "comment": "Invoking the priests raises the importance of binding vows before God through His appointed ministers—a subtle nod to sacramental action."
+      "text": "Then they said, 'We will restore it and require nothing from them. We will do as you say.' And I summoned the priests and made them swear to do as they had promised.",
+      "links": "<a href='/AIV/03/06/2-7'>Lev. 6:2-7</a>; <a href='/AIV/58/07/21'>Heb. 7:21</a>",
+      "comment": "A public oath before the priests reflects the importance of solemn, binding commitments before God. Hebrews 7:21 alludes to priestly oaths' significance in God’s covenantal work."
     },
     {
-      "pk": 4005013,
+      "pk": 16005013,
       "translation": "AIV",
       "book": 16,
+      "bookName": "Nehemiah",
+      "bookAbbreviation": "Neh",
       "chapter": 5,
       "verse": 13,
-      "text": "I also shook out the fold of my garment and said, 'So may God shake out every man from his house and from his labor who does not keep this promise; so may he be shaken out and emptied.' And all the assembly said, 'Amen' and praised the LORD. And the people did according to this promise.",
-      "links": "<a href='/AIV/44/13/51'>Acts 13:51</a>; <a href='/AIV/05/27/15'>Deut. 27:15</a>",
-      "comment": "The symbolic act and assent of 'Amen' together reflect the ancient tradition of communal responsibility and covenant oath."
+      "text": "I also shook out the fold of my garment and said, 'So may God shake out every man from his house and from his labor who does not keep this promise. So may he be shaken out and emptied.' And all the assembly said, 'Amen,' and praised the LORD. And the people did as they had promised.",
+      "links": "<a href='/AIV/03/27/29'>Lev. 27:29</a>; <a href='/AIV/40/10/14'>Matt. 10:14</a>",
+      "comment": "The symbolic act of shaking out one's garment is a sign of judgment, also seen in the Gospels (Matt. 10:14). The community’s 'Amen' underscores the power of liturgical assent and communal worship."
     },
     {
-      "pk": 4005014,
+      "pk": 16005014,
       "translation": "AIV",
       "book": 16,
+      "bookName": "Nehemiah",
+      "bookAbbreviation": "Neh",
       "chapter": 5,
       "verse": 14,
-      "text": "Moreover, from the time when I was appointed to be their governor in the land of Judah, from the twentieth year to the thirty-second year of Artaxerxes the king, twelve years, neither I nor my brothers ate the food allotted to the governor.",
-      "links": "<a href='/AIV/16/2/1'>Neh. 2:1</a>; <a href='/AIV/16/13/6'>Neh. 13:6</a>",
-      "comment": "Nehemiah’s refusal to benefit from his office emphasizes humble leadership and self-denial—a virtue modeled perfectly in Christ."
+      "text": "Moreover, from the time I was appointed to be their governor in the land of Judah, from the twentieth year to the thirty-second year of King Artaxerxes, twelve years, neither I nor my brothers ate the food allowance of the governor.",
+      "links": "<a href='/AIV/16/02/1'>Neh. 2:1</a>; <a href='/AIV/40/20/27-28'>Matt. 20:27-28</a>",
+      "comment": "Nehemiah's self-denial mirrors Christ's teaching on servant leadership (Matt. 20:27-28). Leadership is shown not through privilege, but sacrifice and service."
     },
     {
-      "pk": 4005015,
+      "pk": 16005015,
       "translation": "AIV",
       "book": 16,
+      "bookName": "Nehemiah",
+      "bookAbbreviation": "Neh",
       "chapter": 5,
       "verse": 15,
-      "text": "But the earlier governors who were before me laid heavy burdens on the people, and took from them bread and wine, plus forty shekels of silver. Even their servants oppressed the people. But I did not do so, because of the fear of God.",
-      "links": "<a href='/AIV/09/8/11-18'>1 Sam. 8:11-18</a>",
-      "comment": "Nehemiah contrasts his leadership with past rulers. The 'fear of God' again is the motivator—a pattern of virtuous authority echoed in New Testament teaching (<a href='/AIV/41/10/42-45'>Mark 10:42-45</a>)."
+      "text": "The former governors who were before me laid heavy burdens on the people, and took from them for their daily ration forty shekels of silver. Even their servants lorded it over the people. But I did not do so, because of the fear of God.",
+      "links": "<a href='/AIV/26/34/2-4'>Ezek. 34:2-4</a>; <a href='/AIV/41/10/42-45'>Mark 10:42-45</a>",
+      "comment": "Ezekiel rebukes unjust shepherds (leaders), while Christ fulfills the model of the servant-leader (Mark 10:42-45). Authentic leadership is marked by humility and reverence."
     },
     {
-      "pk": 4005016,
+      "pk": 16005016,
       "translation": "AIV",
       "book": 16,
+      "bookName": "Nehemiah",
+      "bookAbbreviation": "Neh",
       "chapter": 5,
       "verse": 16,
-      "text": "Indeed, I devoted myself to the work on this wall, nor did we buy any land. All my servants were gathered there for the work.",
-      "links": "<a href='/AIV/16/2/17'>Neh. 2:17</a>",
-      "comment": "Personal sacrifice for the good of the people is a recurring biblical theme, with the rebuilding foreshadowing the unifying work of Christ."
+      "text": "I also devoted myself to the work on this wall, and did not acquire any land, and all my servants were gathered there for the work.",
+      "links": "<a href='/AIV/16/02/17'>Neh. 2:17</a>; <a href='/AIV/44/20/34-35'>Acts 20:34-35</a>",
+      "comment": "Personal sacrifice for the community's spiritual and physical good is a Christian ideal, later echoed by Paul in Acts 20."
     },
     {
-      "pk": 4005017,
+      "pk": 16005017,
       "translation": "AIV",
       "book": 16,
+      "bookName": "Nehemiah",
+      "bookAbbreviation": "Neh",
       "chapter": 5,
       "verse": 17,
-      "text": "Moreover, there were at my table one hundred and fifty of the Jews and officials, besides those who came to us from the nations around us.",
-      "links": "<a href='/AIV/10/9/7'>2 Sam. 9:7</a>; <a href='/AIV/16/6/15-16'>Neh. 6:15-16</a>",
-      "comment": "Nehemiah's hospitality prefigures the banquet imagery that Jesus later uses to describe the coming Kingdom (<a href='/AIV/42/14/13-24'>Luke 14:13-24</a>)."
+      "text": "Moreover, there were at my table one hundred fifty men, Jews and officials, besides those who came to us from the nations around us.",
+      "links": "<a href='/AIV/10/09/7'>2 Sam. 9:7</a>; <a href='/AIV/40/22/2-10'>Matt. 22:2-10</a>",
+      "comment": "Hospitality to both insiders and outsiders prefigures the Messianic banquet (Matt. 22:2-10), where Christ gathers people from all nations."
     },
     {
-      "pk": 4005018,
+      "pk": 16005018,
       "translation": "AIV",
       "book": 16,
+      "bookName": "Nehemiah",
+      "bookAbbreviation": "Neh",
       "chapter": 5,
       "verse": 18,
-      "text": "Now that which was prepared for each day was one ox and six choice sheep, and birds were prepared for me, and once every ten days all kinds of wine in abundance. Yet in all this I did not demand the food allowance of the governor, because of the heavy bondage on this people.",
-      "links": "<a href='/AIV/13/29/21-22'>1 Chr. 29:21-22</a>",
-      "comment": "The abundance echoes Old Testament sacrificial feasts, while Nehemiah’s restraint displays self-emptying for the sake of others."
+      "text": "Now what was prepared at my expense each day was one ox and six choice sheep and birds, and every ten days all kinds of wine in abundance. Yet for all this I did not demand the food allowance of the governor, because the service was heavy on this people.",
+      "links": "<a href='/AIV/03/07/11-15'>Lev. 7:11-15</a>; <a href='/AIV/09/01/24-25'>1 Sam. 1:24-25</a>",
+      "comment": "Generosity and shared meals recall fellowship offerings that prefigure the fullness of Eucharistic feasts. Nehemiah bears the cost himself, a foreshadowing of Christ’s self-giving sacrifice."
     },
     {
-      "pk": 4005019,
+      "pk": 16005019,
       "translation": "AIV",
       "book": 16,
+      "bookName": "Nehemiah",
+      "bookAbbreviation": "Neh",
       "chapter": 5,
       "verse": 19,
-      "text": "Remember me, my God, for good, all that I have done for this people.",
-      "links": "<a href='/AIV/16/13/14'>Neh. 13:14</a>; <a href='/AIV/19/106/4'>Ps. 106:4</a>",
-      "comment": "This prayer for remembrance anticipates Jesus' words at the Last Supper ('Do this in remembrance of me', <a href='/AIV/42/22/19'>Luke 22:19</a>), connecting faithful deeds and divine memory—a key biblical principle."
+      "text": "Remember me, O my God, for good, all that I have done for this people.",
+      "links": "<a href='/AIV/19/25/7'>Ps. 25:7</a>; <a href='/AIV/42/23/42-43'>Luke 23:42-43</a>",
+      "comment": "This prayer for remembrance parallels the psalmist (Ps. 25:7) and the thief on the cross’s request—'Remember me' (Luke 23:42-43). Remembrance is a biblical theme tied to intercession and the life of grace. The desire to be remembered by God connects to the Christian understanding of praying for one another and the ongoing participation of the faithful in prayer and works."
     }
   ],
-  "translatedAt": "2025-12-23T04:36:11.881Z"
+  "translatedAt": "2025-12-24T04:48:00.030Z"
 }

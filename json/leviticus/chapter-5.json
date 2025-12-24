@@ -1,198 +1,237 @@
 {
-  "book": "Leviticus",
+  "book": 3,
+  "bookName": "Leviticus",
   "bookAbbreviation": "Lev",
   "chapter": 5,
   "verses": [
     {
-      "pk": 1932500,
+      "pk": 3005001,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 5,
       "verse": 1,
-      "text": "If anyone sins because, after hearing a public call to testify, he is a witness—whether he has seen or learned of the matter—but does not speak, he will bear his guilt.",
-      "links": "<a href='/AIV/20/24/28'>Prov. 24:28</a>; <a href='/AIV/3/19/17'>Lev. 19:17</a>",
-      "comment": "Reflects legal obligation to testify; retains 'bear his guilt' as per Hebrew idiom."
+      "text": "If anyone sins in that he hears a public call to testify when he is a witness, whether he has seen or learned of the matter, but does not speak, he shall bear his guilt.",
+      "links": "<a href='/AIV/16/9/27'>Neh. 9:27</a>; <a href='/AIV/20/29/24'>Prov. 29:24</a>",
+      "comment": "This verse emphasizes the responsibility to bear witness to truth and justice. Failing to do so is not merely a private matter, but incurs guilt before God—a concept that shows both personal and communal responsibility, later reflected in the apostolic teachings (see James 4:17)."
     },
     {
-      "pk": 1932501,
+      "pk": 3005002,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 5,
       "verse": 2,
-      "text": "Or if a person touches anything unclean, whether the carcass of an unclean wild animal or of an unclean domestic animal or unclean creeping things, and is unaware, he has become unclean and is guilty when he realizes it.",
-      "links": "<a href='/AIV/3/11/24-31'>Lev. 11:24–31</a>; <a href='/AIV/4/19/13'>Num. 19:13</a>",
-      "comment": "Modernizes animal categories; 'creeping things' retains biblical term."
+      "text": "Or if anyone touches any unclean thing—whether it is the carcass of an unclean wild animal or an unclean domestic animal or any unclean creeping thing—even though he is unaware of it, he is unclean and becomes guilty.",
+      "links": "<a href='/AIV/3/11/24'>Lev. 11:24</a>; <a href='/AIV/4/19/11'>Num. 19:11</a>",
+      "comment": "Contact with impurity, even unknowingly, brings guilt. This illustrates the seriousness of ritual holiness required in God's presence. It teaches the importance of attentiveness to God’s law, echoing the New Testament call to purity and the vigilance seen in Paul’s exhortations (e.g., 2 Cor. 7:1)."
     },
     {
-      "pk": 1932502,
+      "pk": 3005003,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 5,
       "verse": 3,
-      "text": "Or if he touches human uncleanness, whatever kind of uncleanness by which one may become unclean, and it is hidden from him—then, when he learns about it, he is guilty.",
-      "links": "<a href='/AIV/3/15/2-27'>Lev. 15:2–27</a>",
-      "comment": "Human uncleanness is left general for accuracy."
+      "text": "Or if he touches human uncleanness of any kind that makes him unclean, though he does not realize it, when he comes to know it, he shall be guilty.",
+      "links": "<a href='/AIV/3/15/2'>Lev. 15:2</a>; <a href='/AIV/4/19/13'>Num. 19:13</a>",
+      "comment": "There is a strong spiritual principle here: one becomes responsible for sin upon coming to the knowledge of it. This foreshadows the New Covenant’s call to examine conscience and repent when made aware of sin (see 1 John 1:9)."
     },
     {
-      "pk": 1932503,
+      "pk": 3005004,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 5,
       "verse": 4,
-      "text": "Or if anyone utters rashly with his lips to do evil or to do good, whatever a man might utter rashly with an oath, and it is hidden from him—when he learns of it, he is guilty in one of these.",
-      "links": "<a href='/AIV/3/27/2'>Lev. 27:2</a>; <a href='/AIV/4/30/6'>Num. 30:6</a>",
-      "comment": "Retains 'rashly with his lips' reflecting original wording; 'oath' clarified."
+      "text": "Or if anyone utters a thoughtless oath to do evil or to do good—any sort of careless oath people swear—even though he is unaware of it, once he learns of it, he will be guilty in any of these.",
+      "links": "<a href='/AIV/19/106/33'>Ps. 106:33</a>; <a href='/AIV/40/5/37'>Matt. 5:37</a>",
+      "comment": "The gravity of words, even unintentional ones, brings accountability. This principle is heightened by Jesus in the Sermon on the Mount, emphasizing the spiritual depth of the Law (cf. Matt. 5:33-37)."
     },
     {
-      "pk": 1932504,
+      "pk": 3005005,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 5,
       "verse": 5,
-      "text": "And it shall be, when he is guilty in any of these matters, that he shall confess what he has sinned.",
-      "links": "<a href='/AIV/19/32/5'>Ps. 32:5</a>; <a href='/AIV/20/28/13'>Prov. 28:13</a>",
-      "comment": "Short sentence structure to keep close to the Hebrew."
+      "text": "When anyone becomes aware that he is guilty of one of these things, let him confess how he has sinned.",
+      "links": "<a href='/AIV/3/16/21'>Lev. 16:21</a>; <a href='/AIV/19/32/5'>Ps. 32:5</a>; <a href='/AIV/59/5/16'>Jas. 5:16</a>",
+      "comment": "Confession is explicitly required in the law, pointing forward to its continued importance in the Christian life for forgiveness and reconciliation (see 1 John 1:9). This establishes an ancient precedent for confessing sins aloud."
     },
     {
-      "pk": 1932505,
+      "pk": 3005006,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 5,
       "verse": 6,
-      "text": "He shall bring his guilt offering to the LORD for his sin which he has committed—a female from the flock, either a lamb or a young goat—as a sin offering. And the priest shall make atonement for him regarding his sin.",
-      "links": "<a href='/AIV/3/4/32'>Lev. 4:32</a>; <a href='/AIV/3/14/12'>Lev. 14:12</a>",
-      "comment": "Keeps gender and species as specified in Hebrew; 'make atonement' relays theological term."
+      "text": "He shall bring his guilt offering to the LORD for the sin he has committed, a female from the flock, either a lamb or a goat, as a sin offering. The priest shall make atonement for him for his sin.",
+      "links": "<a href='/AIV/3/4/27-31'>Lev. 4:27-31</a>; <a href='/AIV/58/9/22'>Heb. 9:22</a>",
+      "comment": "Here, sacrifice is required, drawing a direct line to Christ’s atonement as the final and perfect offering. Notice the priest mediates the atonement, an early shadow of New Testament realities (cf. Heb. 9:11-14)."
     },
     {
-      "pk": 1932506,
+      "pk": 3005007,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 5,
       "verse": 7,
-      "text": "But if he cannot afford a sheep, he shall bring, as his guilt offering for that in which he has sinned, two turtledoves or two young pigeons to the LORD—one for a sin offering and the other for a burnt offering.",
-      "links": "<a href='/AIV/3/12/8'>Lev. 12:8</a>",
-      "comment": "'Cannot afford a sheep' accurately reflects economic allowance."
+      "text": "But if he cannot afford a lamb, then he shall bring as his guilt offering for that in which he has sinned two turtledoves or two young pigeons to the LORD, one as a sin offering and the other as a burnt offering.",
+      "links": "<a href='/AIV/3/1/14'>Lev. 1:14</a>; <a href='/AIV/42/2/24'>Luke 2:24</a>",
+      "comment": "God’s mercy is seen in allowing offerings accessible to the poor, showing His inclusive care for all, prefiguring the Church’s concern for the poor. The offering of birds echoes Mary and Joseph’s poverty at Jesus’ presentation (Luke 2:24)."
     },
     {
-      "pk": 1932507,
+      "pk": 3005008,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 5,
       "verse": 8,
-      "text": "He shall bring them to the priest, who shall present first the one that is for the sin offering and wring off its head from its neck, but not sever it completely.",
+      "text": "He shall bring them to the priest, who shall first offer the one for the sin offering. He shall wring its head from its neck without severing it completely.",
       "links": "<a href='/AIV/3/1/15'>Lev. 1:15</a>",
-      "comment": "'Wring off its head…not sever completely' matches sacrificial procedure."
+      "comment": "The detailed ritual shows the seriousness and care required in approaching God, setting a pattern for ordered and reverent worship."
     },
     {
-      "pk": 1932508,
+      "pk": 3005009,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 5,
       "verse": 9,
-      "text": "He shall sprinkle some of the blood of the sin offering on the side of the altar, and the remainder of the blood shall be drained out at the base of the altar. It is a sin offering.",
-      "links": "<a href='/AIV/3/4/7'>Lev. 4:7</a>; <a href='/AIV/3/17/11'>Lev. 17:11</a>",
-      "comment": "'Sprinkle' keeps sacrificial terminology."
+      "text": "He shall sprinkle some of the blood of the sin offering on the side of the altar, and the rest of the blood shall be drained out at the base of the altar; it is a sin offering.",
+      "links": "<a href='/AIV/3/4/30'>Lev. 4:30</a>; <a href='/AIV/58/9/12'>Heb. 9:12</a>",
+      "comment": "Sacrifice is always connected with blood, which later is fulfilled in Christ’s shed blood for forgiveness of sins (see Heb. 9:22)."
     },
     {
-      "pk": 1932509,
+      "pk": 3005010,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 5,
       "verse": 10,
-      "text": "He shall offer the second bird as a burnt offering according to the ordinance. So the priest shall make atonement for him regarding the sin he has committed, and he shall be forgiven.",
-      "links": "<a href='/AIV/3/1/14-17'>Lev. 1:14–17</a>",
-      "comment": "'Ordinance' refers to prescribed ritual; 'be forgiven' is literal."
+      "text": "He shall offer the second as a burnt offering, according to the regulation. So the priest shall make atonement for him for the sin which he has committed, and he shall be forgiven.",
+      "links": "<a href='/AIV/3/1/3-9'>Lev. 1:3-9</a>; <a href='/AIV/19/32/1-2'>Ps. 32:1-2</a>",
+      "comment": "The combination of offerings shows both the removal of sin and reestablishing fellowship with God, a concept fully realized in New Testament reconciliation (cf. 2 Cor. 5:18-21). The mediation of forgiveness through a priest is significant."
     },
     {
-      "pk": 1932510,
+      "pk": 3005011,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 5,
       "verse": 11,
-      "text": "But if he cannot afford two turtledoves or two pigeons, he shall bring as his offering for the sin he has committed a tenth of an ephah of fine flour for a sin offering. He shall not put oil or frankincense upon it, for it is a sin offering.",
-      "links": "<a href='/AIV/3/2/1'>Lev. 2:1</a>; <a href='/AIV/3/4/11'>Lev. 4:11</a>",
-      "comment": "Clarifies grain measure; no oil/frankincense as per original."
+      "text": "But if he cannot afford two turtledoves or two young pigeons, then he shall bring as his offering for the sin he has committed a tenth of an ephah of fine flour for a sin offering. He shall put no oil on it nor put incense on it, for it is a sin offering.",
+      "links": "<a href='/AIV/3/2/1'>Lev. 2:1</a>; <a href='/AIV/4/5/15'>Num. 5:15</a>",
+      "comment": "Even the poorest can participate in the means of atonement. This deepens the universality of God’s grace and forgiveness. The lack of oil or incense, typical of grain offerings, marks this as a solemn sin offering."
     },
     {
-      "pk": 1932511,
+      "pk": 3005012,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 5,
       "verse": 12,
-      "text": "He shall bring it to the priest, and the priest shall take a handful as its memorial portion and burn it on the altar, on top of the offerings by fire to the LORD. It is a sin offering.",
-      "links": "<a href='/AIV/3/2/2'>Lev. 2:2</a>",
-      "comment": "'Memorial portion' retains sacrificial nuance."
+      "text": "He shall bring it to the priest, and the priest shall take a handful of it as its memorial portion and burn it on the altar, on top of the offerings by fire to the LORD. It is a sin offering.",
+      "links": "<a href='/AIV/3/2/2'>Lev. 2:2</a>; <a href='/AIV/3/4/31'>Lev. 4:31</a>",
+      "comment": "Here, a grain offering substitutes for an animal due to poverty, displaying God’s desire for all to seek forgiveness regardless of their earthly means."
     },
     {
-      "pk": 1932512,
+      "pk": 3005013,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 5,
       "verse": 13,
-      "text": "Thus the priest shall make atonement for him concerning the sin he has committed, any one of these, and he shall be forgiven. And the rest shall be the priest’s, as in the grain offering.",
-      "links": "<a href='/AIV/3/2/3'>Lev. 2:3</a>; <a href='/AIV/3/7/9-10'>Lev. 7:9–10</a>",
-      "comment": "'The rest shall be the priest’s' matches Hebrew idiom."
+      "text": "The priest shall make atonement for him for the sin he has committed in any of these cases, and he shall be forgiven. The rest shall be the priest’s, as in the grain offering.",
+      "links": "<a href='/AIV/3/2/3'>Lev. 2:3</a>; <a href='/AIV/58/10/18'>Heb. 10:18</a>",
+      "comment": "Priestly mediation is essential in forgiveness, anticipating the necessity for a mediator and a visible, ordered means of receiving atonement. The priest, like Christ, partakes in the offering."
     },
     {
-      "pk": 1932513,
+      "pk": 3005014,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 5,
       "verse": 14,
-      "text": "The LORD spoke to Moses, saying:",
-      "links": "<a href='/AIV/2/12/1'>Ex. 12:1</a>; <a href='/AIV/3/6/1'>Lev. 6:1</a>",
-      "comment": "Transition sentence; matches formula throughout Leviticus."
+      "text": "The LORD spoke to Moses, saying,",
+      "links": "<a href='/AIV/3/1/1'>Lev. 1:1</a>",
+      "comment": "A new section begins, introduced by a direct speech from the LORD, underscoring the absolute divine origin of these commands and their continuing authority."
     },
     {
-      "pk": 1932514,
+      "pk": 3005015,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 5,
       "verse": 15,
-      "text": "If anyone commits a breach of faith and sins unintentionally regarding the holy things of the LORD, he shall bring as his guilt offering to the LORD a ram without blemish from the flock, valued in silver by the sanctuary shekel, for a guilt offering.",
-      "links": "<a href='/AIV/3/22/14'>Lev. 22:14</a>; <a href='/AIV/4/18/16'>Num. 18:16</a>",
-      "comment": "'Breach of faith' modernizes 'trespass'; 'sanctuary shekel' kept explicit."
+      "text": "If anyone commits a breach of faith and sins unintentionally in any of the holy things of the LORD, he shall bring as his guilt offering to the LORD a ram without blemish from the flock, valued in silver shekels, according to the sanctuary shekel, for a guilt offering.",
+      "links": "<a href='/AIV/4/18/9'>Num. 18:9</a>; <a href='/AIV/42/19/8'>Luke 19:8</a>",
+      "comment": "Sin against holy things requires both restitution and sacrifice, pointing forward to the need for reparation, not just forgiveness, in God’s economy."
     },
     {
-      "pk": 1932515,
+      "pk": 3005016,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 5,
       "verse": 16,
-      "text": "He shall make restitution for what he did wrong regarding the holy thing, and shall add a fifth to it and give it to the priest. Then the priest shall make atonement for him with the ram of the guilt offering, and he shall be forgiven.",
-      "links": "<a href='/AIV/3/22/14'>Lev. 22:14</a>; <a href='/AIV/4/5/7'>Num. 5:7</a>",
-      "comment": "'Add a fifth' reflects required restitution percentage."
+      "text": "He shall make restitution for what he has done wrong in the holy thing and shall add a fifth to it and give it to the priest. The priest shall make atonement for him with the ram of the guilt offering, and he shall be forgiven.",
+      "links": "<a href='/AIV/3/6/5'>Lev. 6:5</a>; <a href='/AIV/42/19/8-9'>Luke 19:8-9</a>",
+      "comment": "The necessity of restitution adds a dimension of justice and restoration to the process of atonement (see Matt. 5:23-24). This twofold aspect continues to have deep roots in spiritual and sacramental theology."
     },
     {
-      "pk": 1932516,
+      "pk": 3005017,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 5,
       "verse": 17,
-      "text": "If anyone sins and does what is forbidden in any of the LORD’s commandments, even though he did not know it, he is still guilty and shall bear his punishment.",
-      "links": "<a href='/AIV/19/19/12'>Ps. 19:12</a>; <a href='/AIV/3/4/2'>Lev. 4:2</a>",
-      "comment": "'Bear his punishment' matches Hebrew concept of responsibility."
+      "text": "If anyone sins and does any of the things that the LORD has commanded not to be done, even though he did not know it, he is guilty and shall bear his iniquity.",
+      "links": "<a href='/AIV/4/15/22-29'>Num. 15:22-29</a>; <a href='/AIV/19/19/12'>Ps. 19:12</a>",
+      "comment": "Unintentional sin still brings guilt, showing how pervasive sin is in humanity. This reality is fully addressed only in the redemptive work of Christ, who redeems both known and unknown faults."
     },
     {
-      "pk": 1932517,
+      "pk": 3005018,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 5,
       "verse": 18,
-      "text": "He shall bring to the priest a ram without blemish from the flock, according to your estimation, as a guilt offering. The priest shall make atonement for him concerning the matter in which he sinned unknowingly, and he shall be forgiven.",
-      "links": "<a href='/AIV/3/5/15'>Lev. 5:15</a>; <a href='/AIV/3/7/7'>Lev. 7:7</a>",
-      "comment": "'According to your estimation' matches Hebrew phrase for value."
+      "text": "He shall bring to the priest a ram without blemish from the flock, or its equivalent, for a guilt offering. The priest shall make atonement for him for the mistake he made unintentionally, and he shall be forgiven.",
+      "links": "<a href='/AIV/3/4/2'>Lev. 4:2</a>; <a href='/AIV/58/7/27'>Heb. 7:27</a>",
+      "comment": "Forgiveness is always mediated through a sacrifice offered by the priest. These verses have lasting significance for understanding Christian sacerdotal and sacrificial themes fulfilled in Christ."
     },
     {
-      "pk": 1932518,
+      "pk": 3005019,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 5,
       "verse": 19,
-      "text": "It is a guilt offering; he has certainly trespassed against the LORD.",
-      "links": "<a href='/AIV/3/6/6'>Lev. 6:6</a>",
-      "comment": "'Certainly trespassed' expresses certainty of guilt as in original."
+      "text": "It is a guilt offering; he has indeed incurred guilt before the LORD.",
+      "links": "<a href='/AIV/3/6/6-7'>Lev. 6:6-7</a>",
+      "comment": "The repetition underscores the seriousness of sin and the necessity of external means for reconciliation—a theme that runs throughout Scripture and comes to fullness in Christ’s once-for-all sacrifice, and the ongoing means by which that sacrifice is applied to believers."
     }
   ],
-  "translatedAt": "2025-12-20T09:12:25.709Z"
+  "translatedAt": "2025-12-24T01:12:10.833Z"
 }

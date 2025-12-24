@@ -1,138 +1,165 @@
 {
-  "book": "2 John",
+  "book": 70,
+  "bookName": "2 John",
   "bookAbbreviation": "2John",
   "chapter": 1,
   "verses": [
     {
-      "pk": 2014001,
+      "pk": 70001001,
       "translation": "AIV",
-      "book": 63,
+      "book": 70,
+      "bookName": "2 John",
+      "bookAbbreviation": "2John",
       "chapter": 1,
       "verse": 1,
-      "text": "The elder, to the chosen lady and to her children, whom I truly love, and not only I, but also all who have known the truth.",
-      "links": "<a href='/AIV/62/4/1'>1 John 4:1</a>; <a href='/AIV/60/1/1'>1 Peter 1:1</a>",
-      "comment": "The 'chosen lady' is often understood either as a church or as a Christian woman and her family. The theme of truth and love is key in Johannine writings."
+      "text": "The elder to the chosen lady and her children, whom I love in truth—and not I only, but also all who know the truth—",
+      "links": "<a href='/AIV/60/5/1'>1 Pet. 5:1</a>; <a href='/AIV/43/8/32'>John 8:32</a>; <a href='/AIV/44/20/28'>Acts 20:28</a>",
+      "comment": "The term 'elder' indicates a position of shepherding authority in the early church, hinting at a structured community. The 'chosen lady' is often understood as either a respected Christian woman or, symbolically, a local church, with 'her children' meaning the members. The concept of truth here emphasizes unity in doctrine and love."
     },
     {
-      "pk": 2014002,
+      "pk": 70001002,
       "translation": "AIV",
-      "book": 63,
+      "book": 70,
+      "bookName": "2 John",
+      "bookAbbreviation": "2John",
       "chapter": 1,
       "verse": 2,
-      "text": "Because of the truth which lives in us and will be with us forever.",
-      "links": "<a href='/AIV/43/14/16'>John 14:16</a>; <a href='/AIV/62/2/27'>1 John 2:27</a>",
-      "comment": "The promise of truth enduring forever emphasizes the indwelling of the Spirit (see John 14:16), indicating both a personal and communal abiding."
+      "text": "because of the truth that remains in us and will be with us forever:",
+      "links": "<a href='/AIV/43/14/17'>John 14:17</a>; <a href='/AIV/62/4/16'>1 John 4:16</a>",
+      "comment": "John highlights the indwelling and continual presence of truth, which in Christian belief refers both to Christ himself (John 14:6; John 14:17) and to the faith handed down. The emphasis on the truth 'remaining' alludes to perseverance and the safeguarding of apostolic teaching."
     },
     {
-      "pk": 2014003,
+      "pk": 70001003,
       "translation": "AIV",
-      "book": 63,
+      "book": 70,
+      "bookName": "2 John",
+      "bookAbbreviation": "2John",
       "chapter": 1,
       "verse": 3,
       "text": "Grace, mercy, and peace will be with us, from God the Father and from Jesus Christ, the Son of the Father, in truth and love.",
-      "links": "<a href='/AIV/54/1/2'>1 Timothy 1:2</a>; <a href='/AIV/62/1/3'>1 John 1:3</a>",
-      "comment": "The threefold blessing—grace, mercy, and peace—indicates fullness of Christian life, highlighting the union between the Father and the Son, a high Christology (see John’s prologue John 1:1-3)."
+      "links": "<a href='/AIV/54/1/2'>1 Tim. 1:2</a>; <a href='/AIV/53/1/2'>2 Thess. 1:2</a>; <a href='/AIV/62/1/3'>1 John 1:3</a>",
+      "comment": "The blessing invokes the Trinity—Father and Son—with the unspoken presence of the Holy Spirit through 'truth and love'. The phrase underscores both divine origin and the unity of believers under this grace. 'Son of the Father' is a strong affirmation of Jesus's divine identity."
     },
     {
-      "pk": 2014004,
+      "pk": 70001004,
       "translation": "AIV",
-      "book": 63,
+      "book": 70,
+      "bookName": "2 John",
+      "bookAbbreviation": "2John",
       "chapter": 1,
       "verse": 4,
-      "text": "I rejoiced greatly to find some of your children walking in the truth, just as we were commanded by the Father.",
-      "links": "<a href='/AIV/43/14/15'>John 14:15</a>; <a href='/AIV/62/2/3'>1 John 2:3</a>",
-      "comment": "Obedience to the command of the Father is reiteration of the theme of fidelity to apostolic teaching. Spiritual children walking in truth reflects the ongoing generational faithfulness."
+      "text": "I rejoiced greatly to find some of your children walking in truth, just as we were commanded by the Father.",
+      "links": "<a href='/AIV/62/1/7'>1 John 1:7</a>; <a href='/AIV/43/15/10'>John 15:10</a>",
+      "comment": "'Walking in truth' means both believing correctly and living correctly. Obedience to the Father's command draws attention to the necessity of practical, visible faith. The apostle's joy is rooted in continuity of tradition and right practice among the community."
     },
     {
-      "pk": 2014005,
+      "pk": 70001005,
       "translation": "AIV",
-      "book": 63,
+      "book": 70,
+      "bookName": "2 John",
+      "bookAbbreviation": "2John",
       "chapter": 1,
       "verse": 5,
-      "text": "And now I ask you, dear lady—not as though I am writing a new commandment, but one we have had from the beginning—that we love one another.",
-      "links": "<a href='/AIV/43/13/34'>John 13:34</a>; <a href='/AIV/62/2/7'>1 John 2:7</a>",
-      "comment": "The command to love one another echoes Jesus’ own words and highlights continuity with foundational teachings. 'From the beginning' hints at apostolic tradition handed on consistently."
+      "text": "And now I ask you, dear lady—not as though I were writing you a new command, but one we have had from the beginning—that we should love one another.",
+      "links": "<a href='/AIV/62/2/7-8'>1 John 2:7-8</a>; <a href='/AIV/43/13/34'>John 13:34</a>; <a href='/AIV/03/19/18'>Lev. 19:18</a>",
+      "comment": "The exhortation to love is rooted in the original teachings of Jesus and the Law (Leviticus 19:18). The unity of faith and love is foundational, passed on from the apostles as something unchanging, underscoring the importance of apostolic tradition."
     },
     {
-      "pk": 2014006,
+      "pk": 70001006,
       "translation": "AIV",
-      "book": 63,
+      "book": 70,
+      "bookName": "2 John",
+      "bookAbbreviation": "2John",
       "chapter": 1,
       "verse": 6,
       "text": "And this is love: that we walk according to his commandments. This is the commandment, just as you have heard from the beginning, that you should walk in it.",
-      "links": "<a href='/AIV/43/14/21'>John 14:21</a>; <a href='/AIV/62/5/3'>1 John 5:3</a>",
-      "comment": "True love is inseparable from obedience. Walking in the commandments from the start signals the importance of handed-down tradition in living out the faith."
+      "links": "<a href='/AIV/62/5/3'>1 John 5:3</a>; <a href='/AIV/43/14/15'>John 14:15</a>",
+      "comment": "Love is demonstrated not just by feelings, but by obedience to God’s commandments. John again stresses continuity with the faith 'from the beginning,' implying that authentic Christianity is apostolic and unchanging at its core, passed on through the generations."
     },
     {
-      "pk": 2014007,
+      "pk": 70001007,
       "translation": "AIV",
-      "book": 63,
+      "book": 70,
+      "bookName": "2 John",
+      "bookAbbreviation": "2John",
       "chapter": 1,
       "verse": 7,
-      "text": "For many deceivers have gone out into the world, those who do not confess Jesus Christ coming in the flesh. Such a one is the deceiver and the antichrist.",
-      "links": "<a href='/AIV/62/4/2'>1 John 4:2-3</a>; <a href='/AIV/53/2/7'>2 Thessalonians 2:7</a>",
-      "comment": "Confessing Jesus Christ ‘coming in the flesh’ reaffirms the incarnation, a distinguishing mark from early heresies. The reference to antichrist is a warning against deviations from authentic teaching."
+      "text": "For many deceivers have gone out into the world, who do not confess that Jesus Christ has come in the flesh. Such a one is the deceiver and the antichrist.",
+      "links": "<a href='/AIV/62/2/22'>1 John 2:22</a>; <a href='/AIV/62/4/3'>1 John 4:3</a>; <a href='/AIV/40/24/5'>Matt. 24:5</a>",
+      "comment": "The denial of Jesus's true Incarnation is labeled as antichrist, marking the great dividing line in Christian definition. The phrase 'gone out' indicates they departed from the faithful community, emphasizing the need for unity and holding fast to sound teaching received from the apostles."
     },
     {
-      "pk": 2014008,
+      "pk": 70001008,
       "translation": "AIV",
-      "book": 63,
+      "book": 70,
+      "bookName": "2 John",
+      "bookAbbreviation": "2John",
       "chapter": 1,
       "verse": 8,
-      "text": "Watch yourselves, so that you do not lose what we have worked for, but may win a full reward.",
-      "links": "<a href='/AIV/62/2/28'>1 John 2:28</a>; <a href='/AIV/40/10/42'>Matthew 10:42</a>",
-      "comment": "The exhortation to vigilance implies that perseverance is necessary for attaining the fullness of reward. The text points to cooperation with grace over time."
+      "text": "Watch yourselves, so that you do not lose what we have worked for, but may receive a full reward.",
+      "links": "<a href='/AIV/58/10/35'>Heb. 10:35</a>; <a href='/AIV/62/2/24'>1 John 2:24</a>; <a href='/AIV/46/3/8'>1 Cor. 3:8</a>",
+      "comment": "Salvation and reward are linked to faithfulness. There is an implication of perseverance through a lifelong process, and of a tradition 'worked for' by the apostolic community and entrusted to believers to preserve."
     },
     {
-      "pk": 2014009,
+      "pk": 70001009,
       "translation": "AIV",
-      "book": 63,
+      "book": 70,
+      "bookName": "2 John",
+      "bookAbbreviation": "2John",
       "chapter": 1,
       "verse": 9,
-      "text": "Everyone who goes ahead and does not remain in the teaching of Christ does not have God; whoever abides in the teaching has both the Father and the Son.",
-      "links": "<a href='/AIV/62/2/23-24'>1 John 2:23-24</a>; <a href='/AIV/43/15/4'>John 15:4</a>",
-      "comment": "Remaining in the teaching—apostolic doctrine—is essential for full communion with God. This strongly supports the importance of an unbroken, apostolic tradition."
+      "text": "Everyone who goes on ahead and does not remain in the teaching of Christ does not have God. Whoever remains in this teaching, he has both the Father and the Son.",
+      "links": "<a href='/AIV/48/1/8'>Gal. 1:8</a>; <a href='/AIV/43/15/6'>John 15:6</a>; <a href='/AIV/62/2/24'>1 John 2:24</a>",
+      "comment": "To 'remain' (abide) in the teaching points to holding firmly to the received apostolic faith, not innovating or departing from it. The close union of the Father and the Son reinforces the importance of orthodox Christology and fidelity to the original message."
     },
     {
-      "pk": 2014010,
+      "pk": 70001010,
       "translation": "AIV",
-      "book": 63,
+      "book": 70,
+      "bookName": "2 John",
+      "bookAbbreviation": "2John",
       "chapter": 1,
       "verse": 10,
-      "text": "If anyone comes to you and does not bring this teaching, do not welcome him into your house or give him any greeting,",
-      "links": "<a href='/AIV/40/10/14'>Matthew 10:14</a>; <a href='/AIV/62/4/1'>1 John 4:1</a>",
-      "comment": "Refusal of hospitality to false teachers stresses the need for boundaries in protecting the integrity of the faith community. The primacy of correct doctrine is evident."
+      "text": "If anyone comes to you and does not bring this teaching, do not receive him into your house or give him any greeting;",
+      "links": "<a href='/AIV/48/1/9'>Gal. 1:9</a>; <a href='/AIV/40/10/14'>Matt. 10:14</a>",
+      "comment": "John warns against hospitality to false teachers, reaffirming the church's protective role in safeguarding the faithful from doctrines that endanger unity and truth. This level of spiritual vigilance preserved doctrinal consistency in the early church."
     },
     {
-      "pk": 2014011,
+      "pk": 70001011,
       "translation": "AIV",
-      "book": 63,
+      "book": 70,
+      "bookName": "2 John",
+      "bookAbbreviation": "2John",
       "chapter": 1,
       "verse": 11,
-      "text": "for whoever greets him shares in his wicked works.",
-      "links": "<a href='/AIV/19/50/18'>Psalm 50:18</a>; <a href='/AIV/62/3/8'>1 John 3:8</a>",
-      "comment": "Partnership in error is seen as serious—fellowship with teaching contrary to apostolic faith is equated with evil. Community discipline is vital."
+      "text": "for whoever greets him shares in his evil deeds.",
+      "links": "<a href='/AIV/19/26/4'>Ps. 26:4</a>; <a href='/AIV/60/4/3-4'>1 Pet. 4:3-4</a>",
+      "comment": "Aiding or welcoming false teachers aligns oneself with their error. Disciplinary unity is crucial to the safeguarding of the apostolic faith—a principle for maintaining integrity and avoiding confusion within the believing community."
     },
     {
-      "pk": 2014012,
+      "pk": 70001012,
       "translation": "AIV",
-      "book": 63,
+      "book": 70,
+      "bookName": "2 John",
+      "bookAbbreviation": "2John",
       "chapter": 1,
       "verse": 12,
-      "text": "Although I have much to write to you, I would rather not use paper and ink. Instead, I hope to come to you and speak face to face, so that our joy may be complete.",
-      "links": "<a href='/AIV/62/1/4'>1 John 1:4</a>; <a href='/AIV/45/15/24'>Romans 15:24</a>",
-      "comment": "Direct, personal fellowship is the intended norm for apostolic communication, reflecting the high value given to communal gathering and shared joy."
+      "text": "Though I have much to write to you, I would rather not use paper and ink. Instead, I hope to come to you and speak face to face, so that our joy may be complete.",
+      "links": "<a href='/AIV/64/1/13'>3 John 1:13</a>; <a href='/AIV/43/16/24'>John 16:24</a>",
+      "comment": "The preference for personal (face to face) communication points to the importance of lived, communal faith and real relationship—not just correspondence—echoing the sacramental and communal life of the early church."
     },
     {
-      "pk": 2014013,
+      "pk": 70001013,
       "translation": "AIV",
-      "book": 63,
+      "book": 70,
+      "bookName": "2 John",
+      "bookAbbreviation": "2John",
       "chapter": 1,
       "verse": 13,
       "text": "The children of your chosen sister greet you.",
-      "links": "<a href='/AIV/62/3/1'>1 John 3:1</a>; <a href='/AIV/57/1/2'>Philemon 1:2</a>",
-      "comment": "Greetings from the ‘chosen sister’s children’ suggest interconnected Christian communities, united in mutual charity and faith."
+      "links": "<a href='/AIV/62/3/10'>1 John 3:10</a>; <a href='/AIV/44/12/12'>Acts 12:12</a>",
+      "comment": "This closing greeting expresses unity and familial love among the local communities of faith. It subtly teaches the real and enduring bond that exists between distinct but interconnected churches, unified in doctrine and love."
     }
   ],
-  "translatedAt": "2025-12-23T04:19:57.221Z"
+  "translatedAt": "2025-12-24T12:32:22.517Z"
 }

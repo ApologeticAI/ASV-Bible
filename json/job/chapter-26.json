@@ -1,148 +1,177 @@
 {
-  "book": "Job",
+  "book": 22,
+  "bookName": "Job",
   "bookAbbreviation": "Job",
   "chapter": 26,
   "verses": [
     {
-      "pk": 360012601,
+      "pk": 22026001,
       "translation": "AIV",
-      "book": 18,
+      "book": 22,
+      "bookName": "Job",
+      "bookAbbreviation": "Job",
       "chapter": 26,
       "verse": 1,
       "text": "Then Job answered and said:",
-      "links": "<a href='/AIV/18/25/1'>Job 25:1</a>",
-      "comment": "Job responds directly after Bildad's brief speech, highlighting the ongoing dialogue between Job and his friends."
+      "links": "<a href='/AIV/22/27/1'>Job 27:1</a>",
+      "comment": "This introduces Job’s speech in response to Bildad. It marks a shift to Job’s bold reflection on the majesty and mystery of God."
     },
     {
-      "pk": 360012602,
+      "pk": 22026002,
       "translation": "AIV",
-      "book": 18,
+      "book": 22,
+      "bookName": "Job",
+      "bookAbbreviation": "Job",
       "chapter": 26,
       "verse": 2,
-      "text": "\"How you have helped the powerless! How you have saved the arm without strength!",
-      "links": "<a href='/AIV/18/6/25'>Job 6:25</a>",
-      "comment": "Job speaks with irony here, questioning his friends’ lack of real help and comfort in his suffering."
+      "text": "How you have helped the powerless! How you have saved the arm that is without strength!",
+      "links": "<a href='/AIV/22/6/12'>Job 6:12</a>; <a href='/AIV/19/10/17'>Ps. 10:17</a>",
+      "comment": "Job speaks with irony, challenging the adequacy of his friends’ counsel. The powerlessness and lack of strength echo the theme of human frailty before God."
     },
     {
-      "pk": 360012603,
+      "pk": 22026003,
       "translation": "AIV",
-      "book": 18,
+      "book": 22,
+      "bookName": "Job",
+      "bookAbbreviation": "Job",
       "chapter": 26,
       "verse": 3,
-      "text": "How you have counseled one without wisdom, and shown much insight!",
-      "links": "<a href='/AIV/18/13/5'>Job 13:5</a>",
-      "comment": "Job’s words expose the inadequacy of his friends’ advice, as he seeks wisdom not just in words, but in true understanding."
+      "text": "How you have advised him who has no wisdom, and abundantly declared true knowledge!",
+      "links": "<a href='/AIV/22/12/2'>Job 12:2</a>; <a href='/AIV/20/19/7'>Prov. 19:7</a>",
+      "comment": "Job remains sarcastic toward his friends’ advice, highlighting the inadequacy of human counsel compared to divine wisdom. This ties to the scriptural emphasis on seeking wisdom from above."
     },
     {
-      "pk": 360012604,
+      "pk": 22026004,
       "translation": "AIV",
-      "book": 18,
+      "book": 22,
+      "bookName": "Job",
+      "bookAbbreviation": "Job",
       "chapter": 26,
       "verse": 4,
-      "text": "With whose help have you uttered these words, and whose breath has come out from you?",
-      "links": "<a href='/AIV/18/15/2-3'>Job 15:2-3</a>",
-      "comment": "This verse hints at a deeper question: by whose authority or spirit do his friends speak? This anticipates questions of spiritual authority found elsewhere in Scripture."
+      "text": "To whom have you spoken words? Whose spirit came out from you?",
+      "links": "<a href='/AIV/22/32/8'>Job 32:8</a>; <a href='/AIV/23/11/2'>Isa. 11:2</a>",
+      "comment": "Here, Job questions the source and authority of his friends’ words, hinting that true spiritual insight is a gift. There is a subtle implication of needing legitimate spiritual authority to interpret God's mysteries."
     },
     {
-      "pk": 360012605,
+      "pk": 22026005,
       "translation": "AIV",
-      "book": 18,
+      "book": 22,
+      "bookName": "Job",
+      "bookAbbreviation": "Job",
       "chapter": 26,
       "verse": 5,
-      "text": "The departed spirits tremble beneath the waters and those who dwell there.",
-      "links": "<a href='/AIV/19/88/10'>Ps. 88:10-12</a>; <a href='/AIV/23/14/9'>Isa. 14:9</a>",
-      "comment": "Job reveals awareness of the unseen spiritual realm, foreshadowing later biblical concepts of Sheol and the afterlife."
+      "text": "The dead tremble, those beneath the waters and those who dwell in them.",
+      "links": "<a href='/AIV/22/38/16'>Job 38:16-17</a>; <a href='/AIV/19/88/10'>Ps. 88:10</a>",
+      "comment": "Job refers to Sheol and the realm of the dead, emphasizing that even the dead are subject to God's power. This anticipates New Testament teaching on Christ’s authority even over death."
     },
     {
-      "pk": 360012606,
+      "pk": 22026006,
       "translation": "AIV",
-      "book": 18,
+      "book": 22,
+      "bookName": "Job",
+      "bookAbbreviation": "Job",
       "chapter": 26,
       "verse": 6,
       "text": "Sheol is naked before God, and Abaddon has no covering.",
-      "links": "<a href='/AIV/20/15/11'>Prov. 15:11</a>; <a href='/AIV/66/9/11'>Rev. 9:11</a>",
-      "comment": "Nothing is hidden from God’s sight—not even the realm of the dead. This supports the theme of God’s perfect knowledge and justice."
+      "links": "<a href='/AIV/22/28/22'>Job 28:22</a>; <a href='/AIV/66/9/11'>Rev. 9:11</a>",
+      "comment": "Job asserts that even the depths of the underworld are open to God’s sight. This foreshadows the total sovereignty of God over all realms, seen in Christ’s death and resurrection."
     },
     {
-      "pk": 360012607,
+      "pk": 22026007,
       "translation": "AIV",
-      "book": 18,
+      "book": 22,
+      "bookName": "Job",
+      "bookAbbreviation": "Job",
       "chapter": 26,
       "verse": 7,
-      "text": "He stretches out the north over empty space and hangs the earth on nothing.",
-      "links": "<a href='/AIV/01/1/1'>Gen. 1:1</a>; <a href='/AIV/19/104/2'>Ps. 104:2</a>",
-      "comment": "This description of God’s creative power emphasizes His sovereignty and anticipates later revelation of God’s sustaining all things by His Word (cf. Hebrews 1:3)."
+      "text": "He stretches out the north over empty space, and hangs the earth upon nothing.",
+      "links": "<a href='/AIV/19/104/2'>Ps. 104:2</a>; <a href='/AIV/01/1/1'>Gen. 1:1</a>",
+      "comment": "God’s creative power is described poetically and accurately—creation ex nihilo. This verse supports the doctrine that God alone is Creator and sustainer, a profound Old Testament parallel to the opening of John’s Gospel (<a href='/AIV/43/1/3'>John 1:3</a>)."
     },
     {
-      "pk": 360012608,
+      "pk": 22026008,
       "translation": "AIV",
-      "book": 18,
+      "book": 22,
+      "bookName": "Job",
+      "bookAbbreviation": "Job",
       "chapter": 26,
       "verse": 8,
-      "text": "He binds up the waters in His thick clouds, and the cloud does not burst under them.",
-      "links": "<a href='/AIV/18/36/27-28'>Job 36:27-28</a>",
-      "comment": "God’s control over the natural world is highlighted; nature is sustained in perfect order, pointing to the Creator’s ongoing providence."
+      "text": "He binds up the waters in His thick clouds, yet the cloud is not torn under them.",
+      "links": "<a href='/AIV/22/37/11'>Job 37:11</a>; <a href='/AIV/19/135/7'>Ps. 135:7</a>",
+      "comment": "God’s control over the natural order is highlighted, pointing to His intimate governance, not only of physical phenomena but the orderliness and rationality behind creation."
     },
     {
-      "pk": 360012609,
+      "pk": 22026009,
       "translation": "AIV",
-      "book": 18,
+      "book": 22,
+      "bookName": "Job",
+      "bookAbbreviation": "Job",
       "chapter": 26,
       "verse": 9,
-      "text": "He covers the face of His throne and spreads His cloud over it.",
-      "links": "<a href='/AIV/19/18/11'>Ps. 18:11</a>",
-      "comment": "God’s throne imagery points to divine majesty veiled in mystery, which hints at various Old Testament theophanies where God’s presence is veiled."
+      "text": "He covers the face of the moon and spreads His cloud over it.",
+      "links": "<a href='/AIV/22/36/29'>Job 36:29</a>; <a href='/AIV/19/147/8'>Ps. 147:8</a>",
+      "comment": "Job continues to describe God’s mastery over celestial bodies. Creation's splendor reflects both the greatness and the hiddenness of God—motifs significant in the mystery of faith."
     },
     {
-      "pk": 360012610,
+      "pk": 22026010,
       "translation": "AIV",
-      "book": 18,
+      "book": 22,
+      "bookName": "Job",
+      "bookAbbreviation": "Job",
       "chapter": 26,
       "verse": 10,
-      "text": "He has marked a circle on the surface of the waters, at the boundary between light and darkness.",
-      "links": "<a href='/AIV/01/1/4'>Gen. 1:4</a>; <a href='/AIV/20/8/27'>Prov. 8:27</a>",
-      "comment": "The ordered separation of light from darkness recalls the creation narrative, hinting at a divine wisdom establishing order in creation."
+      "text": "He has inscribed a circle on the surface of the waters, at the boundary between light and darkness.",
+      "links": "<a href='/AIV/22/38/8-11'>Job 38:8-11</a>; <a href='/AIV/01/1/4-5'>Gen. 1:4-5</a>",
+      "comment": "This image suggests divine order, separating chaos from order, light from darkness—an allusion to Genesis. It is a sign of God’s wise government and points to the spiritual symbolism of boundaries, reminiscent of sacramental distinctions."
     },
     {
-      "pk": 360012611,
+      "pk": 22026011,
       "translation": "AIV",
-      "book": 18,
+      "book": 22,
+      "bookName": "Job",
+      "bookAbbreviation": "Job",
       "chapter": 26,
       "verse": 11,
-      "text": "The pillars of heaven tremble and are stunned at His rebuke.",
-      "links": "<a href='/AIV/19/104/32'>Ps. 104:32</a>",
-      "comment": "This poetic expression displays the created order’s humble submission to God’s will, alluding to the awe and fear due to Him."
+      "text": "The pillars of heaven tremble and are astonished at His rebuke.",
+      "links": "<a href='/AIV/19/18/7-15'>Ps. 18:7-15</a>; <a href='/AIV/22/9/6'>Job 9:6</a>",
+      "comment": "The ‘pillars of heaven’ are metaphorical, expressing creation’s awe at divine power. This points to God’s authority over all things, echoing the reverence and fear proper to worship."
     },
     {
-      "pk": 360012612,
+      "pk": 22026012,
       "translation": "AIV",
-      "book": 18,
+      "book": 22,
+      "bookName": "Job",
+      "bookAbbreviation": "Job",
       "chapter": 26,
       "verse": 12,
-      "text": "By His power He stilled the sea; by His understanding He shattered Rahab.",
-      "links": "<a href='/AIV/02/14/21'>Ex. 14:21</a>; <a href='/AIV/19/89/9-10'>Ps. 89:9-10</a>; <a href='/AIV/23/51/15'>Isa. 51:15</a>",
-      "comment": "Rahab here is a symbol for chaos or sometimes Egypt. God tames chaos itself—a type of Christ calming the storm (Mark 4:39), foreshadowing His authority over creation."
+      "text": "By His power He calms the sea; by His understanding He shattered Rahab.",
+      "links": "<a href='/AIV/19/89/10'>Ps. 89:10</a>; <a href='/AIV/22/9/13'>Job 9:13</a>",
+      "comment": "‘Rahab’ symbolizes chaos and evil; God’s subjugation of it prefigures Christ’s mastery over chaos and the sea (<a href='/AIV/40/8/26'>Matt. 8:26</a>), hinting at spiritual authority exercised through God’s chosen means."
     },
     {
-      "pk": 360012613,
+      "pk": 22026013,
       "translation": "AIV",
-      "book": 18,
+      "book": 22,
+      "bookName": "Job",
+      "bookAbbreviation": "Job",
       "chapter": 26,
       "verse": 13,
-      "text": "By His breath the heavens were made fair; His hand pierced the fleeing serpent.",
-      "links": "<a href='/AIV/01/3/15'>Gen. 3:15</a>; <a href='/AIV/23/27/1'>Isa. 27:1</a>",
-      "comment": "The defeat of the serpent alludes to the promise of the serpent’s destruction in Genesis 3:15. Spiritually, this points forward to Christ’s ultimate victory over evil."
+      "text": "By His breath the heavens are made clear; His hand has pierced the fleeing serpent.",
+      "links": "<a href='/AIV/01/3/15'>Gen. 3:15</a>; <a href='/AIV/66/12/9'>Rev. 12:9</a>",
+      "comment": "The ‘fleeing serpent’ is a deep symbol for evil, which God conquers. This connects prophetically to the ‘seed of the woman’ crushing the serpent’s head, a theme fulfilled in Christ."
     },
     {
-      "pk": 360012614,
+      "pk": 22026014,
       "translation": "AIV",
-      "book": 18,
+      "book": 22,
+      "bookName": "Job",
+      "bookAbbreviation": "Job",
       "chapter": 26,
       "verse": 14,
-      "text": "Behold, these are but the outer fringes of His ways. How faint a whisper we hear of Him! Who then can understand the thunder of His power?",
-      "links": "<a href='/AIV/19/145/3'>Ps. 145:3</a>; <a href='/AIV/54/6/16'>1 Tim. 6:16</a>",
-      "comment": "Job humbly acknowledges the mysteriousness and transcendence of God. Human understanding captures only a glimpse, which echoes the call to trust in God’s wisdom beyond our grasp, much like the mystery of God’s plan unfolding through the ages."
+      "text": "Behold, these are but the outer edges of His ways; how faint the whisper we hear of Him! Who can understand the thunder of His power?",
+      "links": "<a href='/AIV/22/36/26'>Job 36:26</a>; <a href='/AIV/23/40/26'>Isa. 40:26</a>",
+      "comment": "Job acknowledges that even what we perceive of God's work is only a faint hint; His full majesty is beyond human grasp. This drives us to deepen reverence and yearn for a more intimate participation in God’s mysteries through the means He has established."
     }
   ],
-  "translatedAt": "2025-12-23T05:25:37.605Z"
+  "translatedAt": "2025-12-24T05:50:36.889Z"
 }

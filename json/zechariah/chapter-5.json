@@ -1,118 +1,141 @@
 {
-  "book": "Zechariah",
+  "book": 45,
+  "bookName": "Zechariah",
   "bookAbbreviation": "Zech",
   "chapter": 5,
   "verses": [
     {
-      "pk": 2050501,
+      "pk": 45005001,
       "translation": "AIV",
-      "book": 38,
+      "book": 45,
+      "bookName": "Zechariah",
+      "bookAbbreviation": "Zech",
       "chapter": 5,
       "verse": 1,
-      "text": "Then I turned and raised my eyes, and I saw a flying scroll.",
-      "links": "<a href='/AIV/38/1/18'>Zech. 1:18</a>; <a href='/AIV/34/3/8'>Nah. 3:8</a>",
-      "comment": "Zechariah lifts his eyes and sees a new vision, introducing imagery that symbolizes God's message and judgment."
+      "text": "Then I looked up again and saw a flying scroll.",
+      "links": "<a href='/AIV/24/36/2'>Jer. 36:2</a>; <a href='/AIV/26/2/9-10'>Ezek. 2:9-10</a>",
+      "comment": "The vision of the flying scroll represents God's message of judgment and purification. Scroll imagery is also seen in <a href='/AIV/26/2/9-10'>Ezekiel 2:9-10</a>, signaling prophetic authority and divine law."
     },
     {
-      "pk": 2050502,
+      "pk": 45005002,
       "translation": "AIV",
-      "book": 38,
+      "book": 45,
+      "bookName": "Zechariah",
+      "bookAbbreviation": "Zech",
       "chapter": 5,
       "verse": 2,
-      "text": "And he said to me, 'What do you see?' I answered, 'I see a flying scroll; its length is twenty cubits, and its width ten cubits.'",
+      "text": "He said to me, 'What do you see?' I answered, 'I see a flying scroll, twenty cubits long and ten cubits wide.'",
       "links": "<a href='/AIV/11/6/3'>1 Kgs. 6:3</a>",
-      "comment": "The dimensions match the porch of Solomon's temple (see 1 Kgs. 6:3), suggesting this scroll's message relates to the temple and the people’s worship."
+      "comment": "These dimensions match the porch of Solomon’s temple (<a href='/AIV/11/6/3'>1 Kings 6:3</a>), suggesting a link between this vision and God’s presence among His people, hinting at a role for liturgy and sacramental signs."
     },
     {
-      "pk": 2050503,
+      "pk": 45005003,
       "translation": "AIV",
-      "book": 38,
+      "book": 45,
+      "bookName": "Zechariah",
+      "bookAbbreviation": "Zech",
       "chapter": 5,
       "verse": 3,
-      "text": "Then he said to me, 'This is the curse that goes out over the face of the whole land, for everyone who steals shall be purged away according to what is written on one side, and everyone who swears falsely shall be purged away according to what is written on the other side.'",
-      "links": "<a href='/AIV/2/20/15'>Exod. 20:15-16</a>; <a href='/AIV/3/19/12'>Lev. 19:12</a>",
-      "comment": "The scroll represents God’s judgment and the law; stealing (the eighth commandment) and false swearing (the third commandment) cover both social sins and unfaithfulness against God."
+      "text": "Then he said to me, 'This is the curse that goes out over the face of the whole land; for everyone who steals shall be cleaned out according to what is written on one side, and everyone who swears falsely shall be cleaned out according to what is written on the other side.'",
+      "links": "<a href='/AIV/3/20/15'>Ex. 20:15</a>; <a href='/AIV/3/19/12'>Lev. 19:12</a>; <a href='/AIV/39/3/5'>Mal. 3:5</a>",
+      "comment": "The scroll embodies God’s law (cf. <a href='/AIV/3/20/15'>Ex. 20:15</a> and <a href='/AIV/3/19/12'>Lev. 19:12</a>), carrying both judgment and purification. Notice the two main sins—stealing and false swearing—both affect communal holiness, a key biblical principle underlying the idea of sacred discipline."
     },
     {
-      "pk": 2050504,
+      "pk": 45005004,
       "translation": "AIV",
-      "book": 38,
+      "book": 45,
+      "bookName": "Zechariah",
+      "bookAbbreviation": "Zech",
       "chapter": 5,
       "verse": 4,
-      "text": "'I will send it out,' declares the LORD of hosts, 'and it shall enter the house of the thief and the house of the one who swears falsely by My name, and it shall remain in his house and consume it, both its timber and its stones.'",
-      "links": "<a href='/AIV/3/14/34-35'>Lev. 14:34–35</a>",
-      "comment": "God's judgment is thorough and unavoidable. The idea of the curse consuming the house recalls judgments upon defilement and sin. Here is a foreshadowing of the comprehensive nature of God’s justice."
+      "text": "'I will send it out,' declares the LORD of hosts, 'and it will enter the house of the thief and the house of him who swears falsely by my name. It will remain in his house and consume it, both timber and stones.'",
+      "links": "<a href='/AIV/3/19/35-37'>Lev. 19:35-37</a>; <a href='/AIV/6/7/15-26'>Josh. 7:15-26</a>",
+      "comment": "Divine judgment thoroughly cleanses both the individual and the community. This anticipates a deeper purification, foreshadowing the necessity of a means by which God's people are made pure and holy."
     },
     {
-      "pk": 2050505,
+      "pk": 45005005,
       "translation": "AIV",
-      "book": 38,
+      "book": 45,
+      "bookName": "Zechariah",
+      "bookAbbreviation": "Zech",
       "chapter": 5,
       "verse": 5,
-      "text": "Then the angel who spoke with me came forward and said to me, 'Lift up your eyes and see what this is that goes out.'",
-      "links": "<a href='/AIV/38/4/1'>Zech. 4:1</a>",
-      "comment": "Another vision is introduced—a common feature in Zechariah, where successive visions build an unfolding message of both warning and hope."
+      "text": "Then the angel who was speaking with me came forward and said to me, 'Lift up your eyes and see what this is that is going out.'",
+      "links": "<a href='/AIV/38/1/9'>Zech. 1:9</a>; <a href='/AIV/38/4/1'>Zech. 4:1</a>",
+      "comment": "The angel acts as a guide and interpreter, continuing the pattern of angelic mediation seen in prophetic visions, underscoring the way God provides spiritual insight through chosen messengers and visible, tangible means."
     },
     {
-      "pk": 2050506,
+      "pk": 45005006,
       "translation": "AIV",
-      "book": 38,
+      "book": 45,
+      "bookName": "Zechariah",
+      "bookAbbreviation": "Zech",
       "chapter": 5,
       "verse": 6,
-      "text": "I said, 'What is it?' He said, 'This is the measuring basket that is going out.' And he said, 'This is their iniquity in all the land.'",
-      "links": "<a href='/AIV/40/23/32'>Matt. 23:32</a>; <a href='/AIV/38/1/6'>Zech. 1:6</a>",
-      "comment": "The 'measuring basket' (Heb. ephah) symbolizes iniquity being measured and revealed. This speaks to God's precision in dealing with sin and wickedness among His people."
+      "text": "I asked, 'What is it?' He said, 'This is the measuring basket that is going out.' And he said, 'This is their iniquity in all the land.'",
+      "links": "<a href='/AIV/03/19/36'>Lev. 19:36</a>; <a href='/AIV/30/8/5'>Amos 8:5</a>",
+      "comment": "The measuring basket (Hebrew: ephah) symbolizes economic life and daily commerce. Sin is not just personal but corporate, invading all aspects of society—a reason for both personal and communal repentance."
     },
     {
-      "pk": 2050507,
+      "pk": 45005007,
       "translation": "AIV",
-      "book": 38,
+      "book": 45,
+      "bookName": "Zechariah",
+      "bookAbbreviation": "Zech",
       "chapter": 5,
       "verse": 7,
-      "text": "And behold, a lead cover was lifted, and there was a woman sitting in the basket.",
-      "links": "<a href='/AIV/20/9/13-18'>Prov. 9:13–18</a>",
-      "comment": "The woman represents personified wickedness, contained and restrained. The use of feminine imagery for evil is notable, reflecting ancient wisdom literature."
+      "text": "And behold, a lead cover was lifted, and there was a woman sitting inside the basket.",
+      "links": "<a href='/AIV/20/7/27'>Prov. 7:27</a>; <a href='/AIV/66/17/4'>Rev. 17:4</a>",
+      "comment": "The woman represents personified wickedness, echoing prophetic metaphors (cf. <a href='/AIV/20/7/27'>Prov. 7:27</a>; <a href='/AIV/66/17/4'>Rev. 17:4</a>). The hidden nature of the sin is exposed by God’s action."
     },
     {
-      "pk": 2050508,
+      "pk": 45005008,
       "translation": "AIV",
-      "book": 38,
+      "book": 45,
+      "bookName": "Zechariah",
+      "bookAbbreviation": "Zech",
       "chapter": 5,
       "verse": 8,
-      "text": "And he said, 'This is Wickedness.' And he cast her back into the basket, and he put the lead cover on its opening.",
-      "links": "<a href='/AIV/19/38/4'>Ps. 38:4</a>",
-      "comment": "Sin is both exposed and then locked away—emphasizing both the reality of evil among the people and God’s intention to contain and ultimately remove it."
+      "text": "And he said, 'This is Wickedness.' And he cast her down into the basket, and he put the lead cover on its opening.",
+      "links": "<a href='/AIV/18/24/13'>Job 24:13</a>; <a href='/AIV/66/18/2'>Rev. 18:2</a>",
+      "comment": "Evil is restrained, but not yet destroyed—awaiting a final judgment. There’s a present and a future dimension to divine justice, paralleling the already-but-not-yet reality in biblical salvation history."
     },
     {
-      "pk": 2050509,
+      "pk": 45005009,
       "translation": "AIV",
-      "book": 38,
+      "book": 45,
+      "bookName": "Zechariah",
+      "bookAbbreviation": "Zech",
       "chapter": 5,
       "verse": 9,
-      "text": "Then I lifted my eyes and saw, and there were two women coming with the wind in their wings—they had wings like the wings of a stork. And they lifted up the basket between earth and heaven.",
-      "links": "<a href='/AIV/19/104/3'>Ps. 104:3</a>; <a href='/AIV/26/10/1'>Ezek. 10:1</a>",
-      "comment": "Storks were considered unclean (Lev. 11:19). The women with wings convey that wickedness is being carried away, removed from the midst of God’s people—a strong visual of purification. The elevation between earth and heaven symbolizes a decisive transition."
+      "text": "Then I lifted my eyes and saw, and two women were coming out with the wind in their wings. They had wings like those of a stork, and they lifted up the basket between earth and heaven.",
+      "links": "<a href='/AIV/19/104/3'>Ps. 104:3</a>; <a href='/AIV/66/12/14'>Rev. 12:14</a>",
+      "comment": "The women, with stork-like wings, are agents of removal, not deliverance—transporting wickedness away from God’s land. This demonstrates God’s sovereign power to remove sin and purify His people, hinting at a process of sanctification involving visible and invisible realities."
     },
     {
-      "pk": 2050510,
+      "pk": 45005010,
       "translation": "AIV",
-      "book": 38,
+      "book": 45,
+      "bookName": "Zechariah",
+      "bookAbbreviation": "Zech",
       "chapter": 5,
       "verse": 10,
-      "text": "So I said to the angel who spoke with me, 'Where are they taking the basket?'",
-      "links": "<a href='/AIV/38/1/9'>Zech. 1:9</a>",
-      "comment": "Zechariah’s question anticipates God's intent to not merely contain, but expel evil. The prophet's engagement encourages us to seek understanding of God's actions."
+      "text": "I said to the angel who was speaking with me, 'Where are they taking the basket?'",
+      "links": "<a href='/AIV/24/17/4'>Jer. 17:4</a>",
+      "comment": "The question’s focus is on the ultimate destination of iniquity. This underlines that judgment is purposeful and guided, never random."
     },
     {
-      "pk": 2050511,
+      "pk": 45005011,
       "translation": "AIV",
-      "book": 38,
+      "book": 45,
+      "bookName": "Zechariah",
+      "bookAbbreviation": "Zech",
       "chapter": 5,
       "verse": 11,
-      "text": "He said to me, 'To the land of Shinar, to build a house for it. And when it is prepared, they will set the basket there on its base.'",
-      "links": "<a href='/AIV/1/10/10'>Gen. 10:10</a>; <a href='/AIV/1/11/2'>Gen. 11:2</a>; <a href='/AIV/27/1/2'>Dan. 1:2</a>",
-      "comment": "Shinar (Babylon) is symbolic of humanity’s rebellion against God (Gen. 11:2). Wickedness is sent away to its own place, prefiguring final judgment and purification of the faithful. This foreshadows God’s definitive victory over evil, ultimately accomplished through the Messiah. For believers, this points to the promise of a purified people—echoing the scriptural theme of the Church as holy and set apart."
+      "text": "He said to me, 'To the land of Shinar, to build a house for her. When it is prepared, the basket will be set there on its base.'",
+      "links": "<a href='/AIV/01/11/2'>Gen. 11:2</a>; <a href='/AIV/27/1/2'>Dan. 1:2</a>; <a href='/AIV/66/17/5'>Rev. 17:5</a>",
+      "comment": "Shinar refers to Babylon, a biblical symbol of rebellion against God (cf. <a href='/AIV/01/11/2'>Gen. 11:2</a>). Evil is exiled to its place of origin and awaits a final, eschatological judgment—foreshadowing the ultimate victory over sin found in Christ and the formation of a purified people."
     }
   ],
-  "translatedAt": "2025-12-23T07:38:27.389Z"
+  "translatedAt": "2025-12-24T09:56:05.189Z"
 }

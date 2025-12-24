@@ -1,258 +1,309 @@
 {
-  "book": "Deuteronomy",
+  "book": 5,
+  "bookName": "Deuteronomy",
   "bookAbbreviation": "Deut",
   "chapter": 6,
   "verses": [
     {
-      "pk": 5010601,
+      "pk": 5006001,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 6,
       "verse": 1,
-      "text": "Now this is the commandment—the statutes and the rules—that the LORD your God commanded me to teach you, so that you may do them in the land that you are crossing over to possess,",
-      "links": "<a href='/AIV/5/5/31'>Deut. 5:31</a>, <a href='/AIV/3/18/5'>Lev. 18:5</a>",
-      "comment": "“Statutes and rules” is a literal translation of the Hebrew words chukim and mishpatim."
+      "text": "Now these are the commandments, the statutes, and the judgments that the LORD your God commanded me to teach you, that you may do them in the land which you are going over to possess—",
+      "links": "<a href='/AIV/3/18/4-5'>Lev 18:4-5</a>; <a href='/AIV/5/4/1'>Deut 4:1</a>",
+      "comment": "Moses introduces the commandments and laws given by the LORD. The structure here prefigures later Christian moral teaching, which upholds commandments, especially in Christ’s summary (Matt 22:37-40)."
     },
     {
-      "pk": 5010602,
+      "pk": 5006002,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 6,
       "verse": 2,
-      "text": "so that you may fear the LORD your God, you, your son, and your grandson, by keeping all His statutes and His commandments, which I command you, all the days of your life, and so that your days may be prolonged.",
-      "links": "<a href='/AIV/5/4/40'>Deut. 4:40</a>, <a href='/AIV/5/10/12'>Deut. 10:12</a>",
-      "comment": "“You, your son, and your grandson” renders the Hebrew literally; meaning entire generations."
+      "text": "that you may fear the LORD your God, you and your son and your grandson, by keeping all His statutes and His commandments that I command you, all the days of your life, and that your days may be prolonged.",
+      "links": "<a href='/AIV/2/20/20'>Ex 20:20</a>; <a href='/AIV/5/4/40'>Deut 4:40</a>",
+      "comment": "Obedience is for all generations—the concept of teaching the faith to one’s children underscores the continuity of faith. Similar themes are later found in traditions emphasizing apostolic succession and the passing on of the faith (2 Tim 2:2)."
     },
     {
-      "pk": 5010603,
+      "pk": 5006003,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 6,
       "verse": 3,
-      "text": "Hear, therefore, O Israel, and be careful to do them, so that it may go well with you, and that you may multiply greatly, as the LORD, the God of your fathers, has promised you, in a land flowing with milk and honey.",
-      "links": "<a href='/AIV/5/11/9'>Deut. 11:9</a>, <a href='/AIV/2/3/8'>Exod. 3:8</a>",
-      "comment": "\"Milk and honey\" is a Hebrew idiom kept literally."
+      "text": "Hear therefore, O Israel, and be careful to do them, that it may be well with you, and that you may multiply greatly, just as the LORD, the God of your fathers, has promised you, in a land flowing with milk and honey.",
+      "links": "<a href='/AIV/1/17/2'>Gen 17:2</a>; <a href='/AIV/2/3/8'>Ex 3:8</a>",
+      "comment": "The promise of blessing for obedience echoes the idea that salvation and blessing flow from faithfully living within God’s covenant, pointing to how faith and works are not opposed but integrated (Jas 2:17)."
     },
     {
-      "pk": 5010604,
+      "pk": 5006004,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 6,
       "verse": 4,
       "text": "Hear, O Israel: The LORD our God, the LORD is one.",
-      "links": "<a href='/AIV/5/4/35'>Deut. 4:35</a>, <a href='/AIV/5/4/39'>Deut. 4:39</a>, <a href='/AIV/5/32/39'>Deut. 32:39</a>",
-      "comment": "The Shema. Literal translation of the Hebrew: 'YHWH our God, YHWH one.'"
+      "links": "<a href='/AIV/4/15/41'>Num 15:41</a>; <a href='/AIV/12/19/15'>2 Sam 7:22</a>; <a href='/AIV/41/12/29-30'>Mark 12:29-30</a>",
+      "comment": "This is the 'Shema,' the key declaration of monotheism. Christ affirms this in Mark 12, showing continuity between Old and New Covenants. Early Church worship builds upon this foundation of one God in Trinity (Matt 28:19)."
     },
     {
-      "pk": 5010605,
+      "pk": 5006005,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 6,
       "verse": 5,
-      "text": "And you shall love the LORD your God with all your heart, and with all your soul, and with all your strength.",
-      "links": "<a href='/AIV/40/22/37'>Matt. 22:37</a>, <a href='/AIV/5/10/12'>Deut. 10:12</a>",
-      "comment": "\"Heart...soul...strength\" is a literal rendering; see also NT quotations."
+      "text": "Love the LORD your God with all your heart, with all your soul, and with all your strength.",
+      "links": "<a href='/AIV/40/22/37'>Matt 22:37</a>; <a href='/AIV/41/12/30'>Mark 12:30</a>; <a href='/AIV/42/10/27'>Luke 10:27</a>",
+      "comment": "Jesus calls this the greatest commandment. True worship and relationship with God involves all aspects of our being, leading to a life of total devotion. The comprehensive love demanded here is embodied perfectly in Christ."
     },
     {
-      "pk": 5010606,
+      "pk": 5006006,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 6,
       "verse": 6,
-      "text": "And these words that I command you today shall be on your heart.",
-      "links": "<a href='/AIV/5/11/18'>Deut. 11:18</a>",
-      "comment": "Phrase 'on your heart' is a literal translation."
+      "text": "And these words that I command you today shall be upon your heart.",
+      "links": "<a href='/AIV/19/119/11'>Ps 119:11</a>; <a href='/AIV/24/31/33'>Jer 31:33</a>",
+      "comment": "Internalizing God’s law is a theme fulfilled in the New Covenant, where God writes His law upon the hearts of believers (cf. Jer 31:33, Heb 8:10)."
     },
     {
-      "pk": 5010607,
+      "pk": 5006007,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 6,
       "verse": 7,
-      "text": "You shall teach them diligently to your children, and you shall speak of them when you sit in your house, and when you walk along the way, and when you lie down, and when you rise.",
-      "links": "<a href='/AIV/5/11/19'>Deut. 11:19</a>, <a href='/AIV/19/78/5-6'>Ps. 78:5–6</a>",
-      "comment": "\"Teach diligently\" literally means to repeat or impress upon."
+      "text": "You shall teach them diligently to your children, and talk of them when you sit in your house, when you walk by the way, when you lie down, and when you rise.",
+      "links": "<a href='/AIV/19/78/5-6'>Ps 78:5-6</a>; <a href='/AIV/20/22/6'>Prov 22:6</a>",
+      "comment": "The command to teach children emphasizes the importance of catechesis. The idea of continual instruction recalls later traditions of structured teaching extending over generations."
     },
     {
-      "pk": 5010608,
+      "pk": 5006008,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 6,
       "verse": 8,
       "text": "You shall bind them as a sign on your hand, and they shall be as frontlets between your eyes.",
-      "links": "<a href='/AIV/2/13/9'>Exod. 13:9</a>, <a href='/AIV/5/11/18'>Deut. 11:18</a>",
-      "comment": "\"Frontlets\" refers to phylacteries; translation is literal."
+      "links": "<a href='/AIV/2/13/9'>Ex 13:9</a>; <a href='/AIV/5/11/18'>Deut 11:18</a>",
+      "comment": "There is both a literal and spiritual sense—some wore phylacteries, but this also points to continual remembrance, as shown in liturgical prayers and symbolic actions."
     },
     {
-      "pk": 5010609,
+      "pk": 5006009,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 6,
       "verse": 9,
-      "text": "And you shall write them on the doorposts of your house and on your gates.",
-      "links": "<a href='/AIV/5/11/20'>Deut. 11:20</a>, <a href='/AIV/2/12/7'>Exod. 12:7</a>",
-      "comment": "\"Doorposts\" refers to 'mezuzot' in Hebrew, kept literal."
+      "text": "You shall write them on the doorposts of your house and on your gates.",
+      "links": "<a href='/AIV/5/11/20'>Deut 11:20</a>",
+      "comment": "Marking the home with God’s Word is a sign of dedicating all life to the LORD, a principle later seen in the use of sacred images and signs of faith in Christian homes."
     },
     {
-      "pk": 5010610,
+      "pk": 5006010,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 6,
       "verse": 10,
-      "text": "And it shall be, when the LORD your God brings you into the land He swore to your fathers—to Abraham, to Isaac, and to Jacob—to give you, with great and good cities that you did not build,",
-      "links": "<a href='/AIV/1/12/7'>Gen. 12:7</a>, <a href='/AIV/1/26/3'>Gen. 26:3</a>, <a href='/AIV/1/28/13'>Gen. 28:13</a>",
-      "comment": "The Hebrew follows the same list 'Abraham, Isaac, and Jacob.'"
+      "text": "And when the LORD your God brings you into the land that He swore to your fathers—to Abraham, to Isaac, and to Jacob—to give you, with large and good cities that you did not build,",
+      "links": "<a href='/AIV/1/13/15'>Gen 13:15</a>; <a href='/AIV/2/3/17'>Ex 3:17</a>",
+      "comment": "God’s faithfulness to the patriarchs is the basis of His gift. The inheritance is received by grace, not merit (Eph 2:8-9)."
     },
     {
-      "pk": 5010611,
+      "pk": 5006011,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 6,
       "verse": 11,
-      "text": "and houses full of all good things that you did not fill, and wells dug that you did not dig, and vineyards and olive trees that you did not plant, and when you eat and are full,",
-      "links": "<a href='/AIV/5/8/10'>Deut. 8:10</a>",
-      "comment": "Lists specific blessings fulfilling God’s promise."
+      "text": "houses full of all kinds of good things that you did not fill, hewn cisterns that you did not carve, vineyards and olive trees that you did not plant—and when you eat and are satisfied—",
+      "links": "<a href='/AIV/6/24/13'>Josh 24:13</a>",
+      "comment": "The abundance given is pure gift, reminding believers of the unearned grace bestowed in Christ (Rom 5:17)."
     },
     {
-      "pk": 5010612,
+      "pk": 5006012,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 6,
       "verse": 12,
-      "text": "then beware, lest you forget the LORD, who brought you out of the land of Egypt, out of the house of slavery.",
-      "links": "<a href='/AIV/5/8/14'>Deut. 8:14</a>, <a href='/AIV/2/13/3'>Exod. 13:3</a>",
-      "comment": "\"House of slavery\" is a literal translation of the Hebrew."
+      "text": "then be careful not to forget the LORD, who brought you out of the land of Egypt, out of the house of slavery.",
+      "links": "<a href='/AIV/5/8/11-14'>Deut 8:11-14</a>; <a href='/AIV/19/106/21'>Ps. 106:21</a>",
+      "comment": "Forgetting God leads to spiritual downfall. Regular remembrance echoes themes seen in the New Testament practice of remembering Christ’s deliverance (Luke 22:19)."
     },
     {
-      "pk": 5010613,
+      "pk": 5006013,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 6,
       "verse": 13,
-      "text": "You shall fear the LORD your God and serve Him, and you shall swear by His name.",
-      "links": "<a href='/AIV/5/10/20'>Deut. 10:20</a>, <a href='/AIV/5/4/10'>Deut. 4:10</a>",
-      "comment": "Swearing by God’s name refers to oath-taking; literal."
+      "text": "Fear the LORD your God, serve Him, and swear by His name.",
+      "links": "<a href='/AIV/5/10/20'>Deut 10:20</a>; <a href='/AIV/40/4/10'>Matt 4:10</a>",
+      "comment": "True service of God requires awe and exclusive devotion—swearing by His name foreshadows the solemnity of oaths in the Christian faith (Heb 6:16). Jesus references this verse in rejecting the devil (Matt 4:10)."
     },
     {
-      "pk": 5010614,
+      "pk": 5006014,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 6,
       "verse": 14,
-      "text": "You shall not go after other gods, of the gods of the peoples who are around you,",
-      "links": "<a href='/AIV/5/8/19'>Deut. 8:19</a>, <a href='/AIV/2/20/3'>Exod. 20:3</a>",
-      "comment": "\"Go after\" is a literal rendering; it means to follow or serve."
+      "text": "You shall not go after other gods, the gods of the peoples around you.",
+      "links": "<a href='/AIV/2/20/3'>Ex 20:3</a>; <a href='/AIV/5/11/28'>Deut 11:28</a>",
+      "comment": "Exclusive worship of the one true God is continually emphasized. Idolatry remains a danger for all generations (1 John 5:21)."
     },
     {
-      "pk": 5010615,
+      "pk": 5006015,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 6,
       "verse": 15,
-      "text": "for the LORD your God in your midst is a jealous God, lest the anger of the LORD your God be kindled against you, and He destroy you from off the face of the earth.",
-      "links": "<a href='/AIV/2/20/5'>Exod. 20:5</a>, <a href='/AIV/5/7/4'>Deut. 7:4</a>",
-      "comment": "\"Jealous God\" is a literal translation; see also Exod. 20:5."
+      "text": "For the LORD your God in your midst is a jealous God—lest the anger of the LORD your God be kindled against you, and He destroy you from off the face of the earth.",
+      "links": "<a href='/AIV/5/4/24'>Deut 4:24</a>; <a href='/AIV/6/23/16'>Josh 23:16</a>",
+      "comment": "God’s jealousy is His passionate love for His people and desire for their exclusive devotion, similar to Christ’s zeal for His bride, the Church (Eph 5:25-27)."
     },
     {
-      "pk": 5010616,
+      "pk": 5006016,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 6,
       "verse": 16,
       "text": "You shall not test the LORD your God, as you tested Him at Massah.",
-      "links": "<a href='/AIV/2/17/2'>Exod. 17:2</a>, <a href='/AIV/2/17/7'>Exod. 17:7</a>, <a href='/AIV/40/4/7'>Matt. 4:7</a>",
-      "comment": "Massah refers to Exod. 17:7, 'testing' God by doubting Him."
+      "links": "<a href='/AIV/2/17/2-7'>Ex 17:2-7</a>; <a href='/AIV/40/4/7'>Matt 4:7</a>",
+      "comment": "Jesus quotes this verse when facing Satan’s temptation, showing that trust in God’s faithfulness forbids putting God to the test (Matt 4:7)."
     },
     {
-      "pk": 5010617,
+      "pk": 5006017,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 6,
       "verse": 17,
-      "text": "You shall diligently keep the commandments of the LORD your God, and His testimonies, and His statutes, which He has commanded you.",
-      "links": "<a href='/AIV/5/4/1'>Deut. 4:1</a>, <a href='/AIV/5/5/32'>Deut. 5:32</a>",
-      "comment": "\"Testimonies\" translates the Hebrew 'edot.'"
+      "text": "Carefully keep the commandments of the LORD your God, and His testimonies and His statutes that He has commanded you.",
+      "links": "<a href='/AIV/5/4/1'>Deut 4:1</a>; <a href='/AIV/19/119/4'>Ps 119:4</a>",
+      "comment": "Diligent obedience is central. The unity between faith and the observance of God’s commands is echoed in Christian teaching whereby love for God is shown in keeping His commandments (John 14:15)."
     },
     {
-      "pk": 5010618,
+      "pk": 5006018,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 6,
       "verse": 18,
-      "text": "And you shall do what is right and good in the sight of the LORD, so that it may go well with you, and that you may go in and possess the good land that the LORD swore to give to your fathers,",
-      "links": "<a href='/AIV/5/12/25'>Deut. 12:25</a>, <a href='/AIV/5/5/33'>Deut. 5:33</a>",
-      "comment": "Literal: 'right and good.'"
+      "text": "Do what is right and good in the eyes of the LORD, so that it may go well with you, and you may go in and possess the good land that the LORD swore to give to your fathers,",
+      "links": "<a href='/AIV/5/12/28'>Deut 12:28</a>",
+      "comment": "Doing what is good prepares for blessing. This teaching shapes the understanding of cooperating with God’s grace in the Christian life (Phil 2:12-13)."
     },
     {
-      "pk": 5010619,
+      "pk": 5006019,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 6,
       "verse": 19,
-      "text": "by driving out all your enemies from before you, as the LORD has spoken.",
-      "links": "<a href='/AIV/2/23/27-28'>Exod. 23:27–28</a>, <a href='/AIV/5/9/3'>Deut. 9:3</a>",
-      "comment": "God's promised action in Canaan."
+      "text": "driving out all your enemies before you, as the LORD has spoken.",
+      "links": "<a href='/AIV/2/23/27-31'>Ex 23:27-31</a>",
+      "comment": "God’s action in defeating enemies is a type of His ultimate victory over sin and death through Christ (1 Cor 15:57)."
     },
     {
-      "pk": 5010620,
+      "pk": 5006020,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 6,
       "verse": 20,
-      "text": "When your son asks you in time to come, 'What is the meaning of the testimonies and the statutes and the rules that the LORD our God has commanded you?'",
-      "links": "<a href='/AIV/2/12/26'>Exod. 12:26</a>, <a href='/AIV/5/32/7'>Deut. 32:7</a>",
-      "comment": "Literal: 'in time to come' (Hebrew 'tomorrow' as an idiom for the future)."
+      "text": "When your son asks you in the future, ‘What is the meaning of the testimonies, statutes, and judgments that the LORD our God commanded you?’",
+      "links": "<a href='/AIV/2/12/26'>Ex 12:26</a>; <a href='/AIV/5/4/9'>Deut 4:9</a>",
+      "comment": "Explaining the faith to the next generation is commanded. This points toward the role of instruction and tradition in transmitting the faith (2 Thess 2:15)."
     },
     {
-      "pk": 5010621,
+      "pk": 5006021,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 6,
       "verse": 21,
-      "text": "then you shall say to your son, 'We were Pharaoh’s slaves in Egypt, and the LORD brought us out of Egypt with a mighty hand.'",
-      "links": "<a href='/AIV/2/13/14'>Exod. 13:14</a>, <a href='/AIV/5/5/6'>Deut. 5:6</a>",
-      "comment": "\"Mighty hand\" is literal."
+      "text": "then you shall say to your son, ‘We were slaves to Pharaoh in Egypt, and the LORD brought us out of Egypt with a mighty hand.’",
+      "links": "<a href='/AIV/2/13/14-15'>Ex 13:14-15</a>",
+      "comment": "Remembering God’s acts of deliverance is central; in the Christian tradition, this is fulfilled in Christ’s rescue from the bondage of sin (Rom 6:17-18)."
     },
     {
-      "pk": 5010622,
+      "pk": 5006022,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 6,
       "verse": 22,
-      "text": "And the LORD showed signs and wonders, great and severe, against Egypt, against Pharaoh, and against all his household, before our eyes.",
-      "links": "<a href='/AIV/2/7/3'>Exod. 7:3</a>, <a href='/AIV/2/12/12'>Exod. 12:12</a>",
-      "comment": "\"Great and severe\" is literal."
+      "text": "The LORD showed great and awesome signs and wonders against Egypt, against Pharaoh, and against all his household, before our eyes.",
+      "links": "<a href='/AIV/2/7/3'>Ex 7:3</a>; <a href='/AIV/5/4/34'>Deut 4:34</a>",
+      "comment": "Miracles confirm God’s power and His desire to save. In the New Testament, greater signs attest to Christ’s authority (John 2:11)."
     },
     {
-      "pk": 5010623,
+      "pk": 5006023,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 6,
       "verse": 23,
-      "text": "And He brought us out from there, so that He might bring us in and give us the land that He swore to our fathers.",
-      "links": "<a href='/AIV/1/15/18'>Gen. 15:18</a>, <a href='/AIV/1/26/3'>Gen. 26:3</a>",
-      "comment": "\"He might bring us in\" is literal."
+      "text": "He brought us out from there, to bring us in and give us the land that He swore to our fathers.",
+      "links": "<a href='/AIV/1/15/18'>Gen 15:18</a>; <a href='/AIV/2/12/25'>Ex 12:25</a>",
+      "comment": "God’s deliverance is purposeful—not merely escaping bondage, but leading to a promised end, which points to Christ preparing an eternal inheritance (Heb 9:15)."
     },
     {
-      "pk": 5010624,
+      "pk": 5006024,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 6,
       "verse": 24,
-      "text": "And the LORD commanded us to do all these statutes, to fear the LORD our God, for our good always, so that He might preserve us alive, as we are today.",
-      "links": "<a href='/AIV/5/4/1'>Deut. 4:1</a>, <a href='/AIV/5/10/13'>Deut. 10:13</a>",
-      "comment": "\"For our good always\" is a literal phrase."
+      "text": "The LORD commanded us to observe all these statutes, to fear the LORD our God, for our good always, that He might preserve us alive, as it is today.",
+      "links": "<a href='/AIV/5/4/40'>Deut 4:40</a>",
+      "comment": "Obedience brings life—the connection between the law, fear of God, and life foreshadows Christ’s teaching that keeping His word results in eternal life (John 8:51)."
     },
     {
-      "pk": 5010625,
+      "pk": 5006025,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 6,
       "verse": 25,
-      "text": "And it will be righteousness for us if we are careful to do all this commandment before the LORD our God, as He has commanded us.",
-      "links": "<a href='/AIV/5/24/13'>Deut. 24:13</a>, <a href='/AIV/3/18/5'>Lev. 18:5</a>, <a href='/AIV/45/10/5'>Rom. 10:5</a>",
-      "comment": "\"Righteousness for us\" is a literal translation of the Hebrew construction."
+      "text": "And it will be righteousness for us if we are careful to observe all these commandments before the LORD our God, as He has commanded us.",
+      "links": "<a href='/AIV/5/24/13'>Deut 24:13</a>; <a href='/AIV/19/119/1'>Ps 119:1</a>; <a href='/AIV/45/2/13'>Rom 2:13</a>",
+      "comment": "Obeying God’s law is accounted as righteousness, a theme fulfilled in Christ’s perfect obedience and imparted righteousness for those joined to Him (Rom 3:21-22)."
     }
   ],
-  "translatedAt": "2025-12-20T09:44:58.801Z"
+  "translatedAt": "2025-12-24T02:00:09.599Z"
 }

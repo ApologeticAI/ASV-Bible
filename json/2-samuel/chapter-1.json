@@ -1,278 +1,333 @@
 {
-  "book": "2 Samuel",
+  "book": 10,
+  "bookName": "2 Samuel",
   "bookAbbreviation": "2Sam",
   "chapter": 1,
   "verses": [
     {
-      "pk": 930201,
+      "pk": 10001001,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 1,
       "verse": 1,
-      "text": "After the death of Saul, when David had returned from defeating the Amalekites and had remained two days in Ziklag,",
-      "links": "<a href='/AIV/9/31/6'>1 Sam. 31:6</a>; <a href='/AIV/9/30/17-26'>1 Sam. 30:17–26</a>",
-      "comment": "David is still in Ziklag, recovering from the battle with the Amalekites and the death of Saul."
+      "text": "After the death of Saul, when David had returned from defeating the Amalekites, he stayed in Ziklag for two days.",
+      "links": "<a href='/AIV/09/31/6'>1 Sam. 31:6</a>; <a href='/AIV/09/30/26'>1 Sam. 30:26</a>",
+      "comment": "This transition marks the beginning of David's kingship following Saul's death. It recalls 1 Samuel 31 for context."
     },
     {
-      "pk": 930202,
+      "pk": 10001002,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 1,
       "verse": 2,
-      "text": "on the third day, a man came from Saul’s camp, his clothes torn and dirt on his head. When he came to David, he fell to the ground and paid him respect.",
-      "links": "<a href='/AIV/9/4/12'>1 Sam. 4:12</a>",
-      "comment": "Torn clothes and dust on the head are traditional signs of mourning."
+      "text": "On the third day, a man arrived from Saul’s camp with his clothes torn and dirt on his head. When he reached David, he fell to the ground and bowed down.",
+      "links": "<a href='/AIV/09/04/12'>1 Sam. 4:12</a>; <a href='/AIV/01/37/34'>Gen. 37:34</a>",
+      "comment": "The torn clothes and dust signify mourning and distress, common symbols of grief in ancient Israel."
     },
     {
-      "pk": 930203,
+      "pk": 10001003,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 1,
       "verse": 3,
-      "text": "David said to him, 'Where do you come from?' He said to him, 'I have escaped from the camp of Israel.'",
-      "links": "<a href='/AIV/9/4/16'>1 Sam. 4:16</a>",
-      "comment": "The man is an Amalekite, but he first identifies only as an escapee from Israel."
+      "text": "David asked him, 'Where do you come from?' He replied, 'I have escaped from the camp of Israel.'",
+      "links": "<a href='/AIV/09/31/7'>1 Sam. 31:7</a>",
+      "comment": "The survivor brings news to David about the disastrous defeat of Israel's army."
     },
     {
-      "pk": 930204,
+      "pk": 10001004,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 1,
       "verse": 4,
-      "text": "David said to him, 'How did the matter go? Tell me.' He answered, 'The people have fled from the battle, many of the people have fallen and are dead, and Saul and his son Jonathan are dead also.'",
-      "links": "<a href='/AIV/9/31/1-7'>1 Sam. 31:1–7</a>",
-      "comment": "The report confirms the death of Israel’s king and prince."
+      "text": "David said, 'How did it go? Tell me.' He answered, 'The people fled from battle. Many fell and died. Saul and his son Jonathan are dead.'",
+      "links": "<a href='/AIV/09/31/2-6'>1 Sam. 31:2-6</a>",
+      "comment": "The news of both Saul and Jonathan's deaths brings gravity and sets up David's lament."
     },
     {
-      "pk": 930205,
+      "pk": 10001005,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 1,
       "verse": 5,
-      "text": "David said to the young man who told him, 'How do you know that Saul and his son Jonathan are dead?'",
-      "links": "",
-      "comment": "David seeks to verify the news with direct evidence."
+      "text": "David asked the young man who brought him the report, 'How do you know Saul and his son Jonathan are dead?'",
+      "links": "<a href='/AIV/09/31/6'>1 Sam. 31:6</a>",
+      "comment": "David seeks confirmation, underscoring the importance and seriousness of this news."
     },
     {
-      "pk": 930206,
+      "pk": 10001006,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 1,
       "verse": 6,
-      "text": "The young man who told him said, 'I happened by chance to be on Mount Gilboa. There was Saul, leaning on his spear, and the chariots and horsemen had overtaken him.'",
-      "links": "<a href='/AIV/9/31/3-4'>1 Sam. 31:3–4</a>",
-      "comment": "The man's account is somewhat different from 1 Sam. 31, where Saul falls on his own sword."
+      "text": "The young man answered, 'I happened to be on Mount Gilboa, and saw Saul leaning on his spear, with chariots and horsemen closing in on him.'",
+      "links": "<a href='/AIV/09/31/4'>1 Sam. 31:4</a>",
+      "comment": "The account builds on Saul's tragic end at Mount Gilboa, emphasizing the desperate situation."
     },
     {
-      "pk": 930207,
+      "pk": 10001007,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 1,
       "verse": 7,
-      "text": "'When he looked behind him, he saw me and called to me. I answered, “Here I am.”'",
-      "links": "",
-      "comment": "The man claims a conversation with the dying Saul."
+      "text": "'When Saul turned and saw me, he called out to me. I answered, “Here I am.”'",
+      "links": "<a href='/AIV/09/31/3-4'>1 Sam. 31:3-4</a>",
+      "comment": "The report here differs from 1 Samuel 31, showing another perspective on Saul's death."
     },
     {
-      "pk": 930208,
+      "pk": 10001008,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 1,
       "verse": 8,
-      "text": "'He said to me, “Who are you?” I answered him, “I am an Amalekite.”'",
-      "links": "<a href='/AIV/9/15/8-9'>1 Sam. 15:8–9</a>",
-      "comment": "An Amalekite was an enemy of Israel, adding irony to the narrative."
+      "text": "'He asked me, “Who are you?” I answered, “I am an Amalekite.”'",
+      "links": "<a href='/AIV/09/15/20'>1 Sam. 15:20</a>",
+      "comment": "Saul’s encounter with an Amalekite is ironic, considering Israel’s history with them (cf. 1 Sam. 15)."
     },
     {
-      "pk": 930209,
+      "pk": 10001009,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 1,
       "verse": 9,
-      "text": "'He said to me, “Stand over me and kill me, for agony has seized me, but I am still alive.”'",
-      "links": "<a href='/AIV/9/31/3-5'>1 Sam. 31:3–5</a>",
-      "comment": "The account gives Saul’s own command for his death, differing from the historical report."
+      "text": "'Then he said to me, “Stand over me and kill me! I am in agony but still alive.”'",
+      "links": "<a href='/AIV/09/31/4'>1 Sam. 31:4</a>",
+      "comment": "The Amalekite claims to have played a direct role in Saul's death, differing slightly from the earlier account."
     },
     {
-      "pk": 930210,
+      "pk": 10001010,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 1,
       "verse": 10,
-      "text": "'So I stood over him and killed him, because I was sure that he could not live after he had fallen. I took the crown that was on his head and the bracelet that was on his arm, and I have brought them here to my lord.'",
-      "links": "<a href='/AIV/9/31/4'>1 Sam. 31:4</a>",
-      "comment": "The man may be lying to gain favor with David, as 1 Sam. 31 says Saul killed himself."
+      "text": "'So I stood over him and killed him, because I knew he would not survive after falling. Then I took the crown from his head and the bracelet from his arm, and I have brought them here to my lord.'",
+      "links": "<a href='/AIV/09/31/4-5'>1 Sam. 31:4-5</a>",
+      "comment": "The Amalekite's story is likely self-serving. The crown and bracelet symbolize Saul's lost kingship. The differences with 1 Sam. 31 suggest possible embellishment."
     },
     {
-      "pk": 930211,
+      "pk": 10001011,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 1,
       "verse": 11,
       "text": "Then David took hold of his clothes and tore them, and so did all the men who were with him.",
-      "links": "<a href='/AIV/1/37/29'>Gen. 37:29</a>; <a href='/AIV/9/4/12'>1 Sam. 4:12</a>",
-      "comment": "Tearing clothes is a sign of grief."
+      "links": "<a href='/AIV/01/37/34'>Gen. 37:34</a>; <a href='/AIV/09/04/12'>1 Sam. 4:12</a>",
+      "comment": "Tearing clothes is a sign of grief and mourning, echoing Israelite traditions of lament."
     },
     {
-      "pk": 930212,
+      "pk": 10001012,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 1,
       "verse": 12,
-      "text": "They mourned and wept and fasted until evening for Saul and for Jonathan his son and for the people of the LORD and for the house of Israel, because they had fallen by the sword.",
-      "links": "<a href='/AIV/9/31/6'>1 Sam. 31:6</a>",
-      "comment": "David honors even his former enemy Saul by mourning him."
+      "text": "They mourned, wept, and fasted until evening, for Saul and for his son Jonathan, and for the people of the LORD, and for the house of Israel, because they had fallen by the sword.",
+      "links": "<a href='/AIV/09/31/6'>1 Sam. 31:6</a>",
+      "comment": "David's mourning is communal, inclusive, and devout. The act of fasting for the deceased highlights a pattern of prayerful intercession, seen in spiritual traditions of remembrance."
     },
     {
-      "pk": 930213,
+      "pk": 10001013,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 1,
       "verse": 13,
-      "text": "David said to the young man who told him, 'Where are you from?' He answered, 'I am the son of a foreigner, an Amalekite.'",
-      "links": "<a href='/AIV/3/24/22'>Lev. 24:22</a>",
-      "comment": "The Amalekite reveals he is resident among Israel as a foreigner."
+      "text": "David said to the young man who brought the report, 'Where are you from?' He replied, 'I am the son of an outsider, an Amalekite.'",
+      "links": "<a href='/AIV/09/15/20'>1 Sam. 15:20</a>",
+      "comment": "Again, the Amalekite's outsider status is highlighted, tying back to Israel's enemies and reinforcing the severity of the moment."
     },
     {
-      "pk": 930214,
+      "pk": 10001014,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 1,
       "verse": 14,
-      "text": "David said to him, 'How were you not afraid to put out your hand to destroy the LORD’s anointed?'",
-      "links": "<a href='/AIV/9/24/6'>1 Sam. 24:6</a>; <a href='/AIV/9/26/9'>1 Sam. 26:9</a>",
-      "comment": "To strike God’s anointed king was a grave sin in David's view."
+      "text": "David said to him, 'How is it you were not afraid to stretch out your hand to destroy the LORD's anointed?'",
+      "links": "<a href='/AIV/09/24/6'>1 Sam. 24:6</a>; <a href='/AIV/09/26/9'>1 Sam. 26:9</a>",
+      "comment": "David upholds the sanctity of God's anointed, reflecting a deep reverence for the divine office. This respect for spiritual authority lays the foundation for understanding rightful leadership."
     },
     {
-      "pk": 930215,
+      "pk": 10001015,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 1,
       "verse": 15,
-      "text": "Then David called one of the young men and said, 'Go near and strike him down.' So he struck him, and he died.",
-      "links": "<a href='/AIV/9/26/9-11'>1 Sam. 26:9–11</a>",
-      "comment": "David executes judgment according to the man's own testimony."
+      "text": "So David called one of the young men and said, 'Go, strike him down!' And he struck him and he died.",
+      "links": "<a href='/AIV/09/24/7'>1 Sam. 24:7</a>",
+      "comment": "David ensures justice is served. The consequences for killing God's anointed highlights the seriousness of spiritual judgment against usurping God’s chosen leaders."
     },
     {
-      "pk": 930216,
+      "pk": 10001016,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 1,
       "verse": 16,
-      "text": "David said to him, 'Your blood be on your own head, for your own mouth has testified against you, saying, “I have killed the LORD’s anointed.”'",
-      "links": "<a href='/AIV/9/24/6'>1 Sam. 24:6</a>; <a href='/AIV/9/26/9'>1 Sam. 26:9</a>",
-      "comment": "David holds the man responsible for what he claims he has done."
+      "text": "David said to him, 'Your blood is on your own head, for your own mouth has testified against you, saying, “I killed the LORD's anointed.”'",
+      "links": "<a href='/AIV/09/26/9-11'>1 Sam. 26:9-11</a>",
+      "comment": "Self-incrimination leads to judgment. This underscores the peril of rejecting divinely-instituted authority."
     },
     {
-      "pk": 930217,
+      "pk": 10001017,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 1,
       "verse": 17,
-      "text": "Then David lamented over Saul and over Jonathan his son",
-      "links": "<a href='/AIV/9/31/1-6'>1 Sam. 31:1–6</a>",
-      "comment": "Sets the stage for the well-known lamentation or dirge."
+      "text": "Then David chanted a lament for Saul and for his son Jonathan.",
+      "links": "<a href='/AIV/19/79/1'>Ps. 79:1</a>; <a href='/AIV/09/31/6'>1 Sam. 31:6</a>",
+      "comment": "Lamentation prayers for the dead are part of Israel’s spiritual heritage, demonstrating respect and invoking remembrance."
     },
     {
-      "pk": 930218,
+      "pk": 10001018,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 1,
       "verse": 18,
-      "text": "and he commanded that the people of Judah be taught the Song of the Bow; behold, it is written in the Book of Jashar:",
-      "links": "<a href='/AIV/6/10/13'>Josh. 10:13</a>",
-      "comment": "The Book of Jashar is a lost ancient book of poems or songs."
+      "text": "He commanded that the song be taught to the people of Judah. It is called the Song of the Bow, and it is written in the Book of Jashar:",
+      "links": "<a href='/AIV/06/10/13'>Josh. 10:13</a>",
+      "comment": "Reference to the Book of Jashar connects to Israel’s ancient literary traditions; the “Song of the Bow” underscores commemoration of heroism and remembrance."
     },
     {
-      "pk": 930219,
+      "pk": 10001019,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 1,
       "verse": 19,
-      "text": "'Your glory, O Israel, is slain on your high places! How the mighty have fallen!'",
-      "links": "<a href='/AIV/10/1/25'>2 Sam. 1:25</a>; <a href='/AIV/10/1/27'>2 Sam. 1:27</a>",
-      "comment": "'Your glory' refers to Saul and Jonathan."
+      "text": "'Your glory, O Israel, lies slain on your high places! How the mighty have fallen!'",
+      "links": "<a href='/AIV/09/31/1'>1 Sam. 31:1</a>",
+      "comment": "David’s lament sets the tone for sacred remembrance over the loss of God’s chosen leaders."
     },
     {
-      "pk": 930220,
+      "pk": 10001020,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 1,
       "verse": 20,
-      "text": "'Do not tell it in Gath, do not proclaim it in the streets of Ashkelon, lest the daughters of the Philistines rejoice, lest the daughters of the uncircumcised exult.'",
-      "links": "<a href='/AIV/13/10/6'>1 Chron. 10:6</a>",
-      "comment": "Gath and Ashkelon are city-states of the Philistines, enemies of Israel."
+      "text": "'Do not tell it in Gath, do not proclaim it in the streets of Ashkelon, lest the daughters of the Philistines rejoice, lest the daughters of the uncircumcised triumph.'",
+      "links": "<a href='/AIV/07/14/19'>Judg. 14:19</a>; <a href='/AIV/09/31/8'>1 Sam. 31:8</a>",
+      "comment": "Israel’s humiliation at the hands of her enemies is lamented; secrecy protects Israel’s honor."
     },
     {
-      "pk": 930221,
+      "pk": 10001021,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 1,
       "verse": 21,
-      "text": "'Mountains of Gilboa, let there be no dew or rain upon you, nor fields of offerings! For there the shield of the mighty was defiled, the shield of Saul, not anointed with oil.'",
-      "links": "<a href='/AIV/9/31/1'>1 Sam. 31:1</a>",
-      "comment": "David curses the place of Saul’s death; 'anointed with oil' refers to both the king and possibly the shield's preparation."
+      "text": "'Mountains of Gilboa, may no dew or rain fall on you, nor fields of offerings! For there the shield of the mighty was defiled, the shield of Saul—no longer anointed with oil.'",
+      "links": "<a href='/AIV/09/31/1'>1 Sam. 31:1</a>; <a href='/AIV/19/89/20'>Ps. 89:20</a>",
+      "comment": "A curse upon the place of defeat. The ‘anointed’ recalls the sacred office and anointing with oil—a sign of election, later fulfilled in Christ (cf. Luke 4:18)."
     },
     {
-      "pk": 930222,
+      "pk": 10001022,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 1,
       "verse": 22,
-      "text": "'From the blood of the slain, from the fat of the mighty, the bow of Jonathan did not turn back, nor the sword of Saul return empty.'",
-      "links": "<a href='/AIV/13/12/2'>1 Chron. 12:2</a>",
-      "comment": "Jonathan and Saul are depicted as valiant until death."
+      "text": "'From the blood of the slain, from the fat of the mighty, the bow of Jonathan did not turn back, the sword of Saul did not return empty.'",
+      "links": "<a href='/AIV/09/14/47-48'>1 Sam. 14:47-48</a>",
+      "comment": "Jonathan’s skill and Saul’s might are praised, highlighting valor and the realities of warfare."
     },
     {
-      "pk": 930223,
+      "pk": 10001023,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 1,
       "verse": 23,
-      "text": "'Saul and Jonathan, beloved and lovely! In life and in death they were not divided; they were swifter than eagles, they were stronger than lions.'",
-      "links": "<a href='/AIV/9/14/52'>1 Sam. 14:52</a>",
-      "comment": "'Not divided' refers to their bond and partnership even to death."
+      "text": "'Saul and Jonathan, loved and adored in life, and not separated in death; they were swifter than eagles, stronger than lions.'",
+      "links": "<a href='/AIV/09/18/3'>1 Sam. 18:3</a>; <a href='/AIV/20/30/30'>Prov. 30:30</a>",
+      "comment": "A poetic eulogy for their unity and strength. Foreshadows Christ's death uniting people, transforming defeat to victory spiritually."
     },
     {
-      "pk": 930224,
+      "pk": 10001024,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 1,
       "verse": 24,
-      "text": "'Daughters of Israel, weep over Saul, who clothed you luxuriously in scarlet, who put ornaments of gold on your apparel.'",
-      "links": "",
-      "comment": "Saul is praised for the prosperity brought to Israel’s women."
+      "text": "'Daughters of Israel, weep over Saul, who clothed you in scarlet and finery, who adorned your garments with gold.'",
+      "links": "<a href='/AIV/19/44/23'>Ps. 44:23</a>",
+      "comment": "David reminds Israel of Saul’s benefits, invoking national mourning and communal memory—similar to later traditions remembering departed faithful."
     },
     {
-      "pk": 930225,
+      "pk": 10001025,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 1,
       "verse": 25,
-      "text": "'How the mighty have fallen in the midst of the battle! Jonathan lies slain on your high places.'",
-      "links": "<a href='/AIV/10/1/19'>2 Sam. 1:19</a>",
-      "comment": "Refrain repeated from verse 19; Jonathan’s death is focused personally."
+      "text": "'How the mighty have fallen in the midst of battle! Jonathan lies slain on your high places.'",
+      "links": "<a href='/AIV/09/31/2'>1 Sam. 31:2</a>",
+      "comment": "Repetition in lament intensifies emotional expression, suitable for use in prayerful reflection."
     },
     {
-      "pk": 930226,
+      "pk": 10001026,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 1,
       "verse": 26,
-      "text": "'I am distressed for you, my brother Jonathan; you were very dear to me; your love for me was wonderful, more than the love of women.'",
-      "links": "<a href='/AIV/1/44/30'>Gen. 44:30</a>; <a href='/AIV/9/18/1'>1 Sam. 18:1</a>",
-      "comment": "Describes the deep, covenantal friendship between David and Jonathan, not romantic."
+      "text": "'I grieve for you, Jonathan my brother; you were exceptionally dear to me. Your love to me was extraordinary, greater than the love of women.'",
+      "links": "<a href='/AIV/09/18/1'>1 Sam. 18:1</a>; <a href='/AIV/19/133/1'>Ps. 133:1</a>",
+      "comment": "Jonathan and David's deep friendship points to bonds that transcend mere family—spiritual fellowship prefigures the unity of God’s chosen people (cf. John 17:21)."
     },
     {
-      "pk": 930227,
+      "pk": 10001027,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 1,
       "verse": 27,
-      "text": "'How the mighty have fallen, and the weapons of war have perished!'",
-      "links": "<a href='/AIV/10/1/19'>2 Sam. 1:19</a>; <a href='/AIV/10/1/25'>2 Sam. 1:25</a>",
-      "comment": "Concludes the Song of the Bow with a lament for Israel’s heroes."
+      "text": "'How the mighty have fallen, and the weapons of war are destroyed!'",
+      "links": "<a href='/AIV/09/31/3'>1 Sam. 31:3</a>",
+      "comment": "The closing of the lament emphasizes the end of an era. It invites prayer for fallen leaders and remembrance, a motif that enriches both the literal and spiritual unity of God’s people."
     }
   ],
-  "translatedAt": "2025-12-22T08:39:23.427Z"
+  "translatedAt": "2025-12-24T03:08:52.371Z"
 }

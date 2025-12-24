@@ -1,88 +1,105 @@
 {
-  "book": "Psalms",
+  "book": 23,
+  "bookName": "Psalms",
   "bookAbbreviation": "Ps",
   "chapter": 12,
   "verses": [
     {
-      "pk": 2001201,
+      "pk": 23012001,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 12,
       "verse": 1,
-      "text": "Save, LORD, for the godly one is gone; the faithful have vanished from among the children of man.",
-      "links": "<a href='/AIV/19/14/2-3'>Ps. 14:2-3</a>; <a href='/AIV/33/7/2'>Mic. 7:2</a>",
-      "comment": "The psalmist begins with a lament for the decline of the faithful, paralleling the moral decay also described in Micah 7:2. This sets up a context of spiritual crisis, inviting prayer for divine intervention."
+      "text": "Help, LORD! The faithful are disappearing; the loyal have vanished from among the children of man.",
+      "links": "<a href='/AIV/20/1/15'>Prov. 1:15</a>; <a href='/AIV/19/14/2-3'>Ps. 14:2-3</a>",
+      "comment": "The psalmist's cry mirrors later themes in the prophets about the remnant of true believers. The 'faithful' here refers to those who remain steadfast in God's covenant. This longing for authentic faith can be seen as a type for the future community Christ will gather (see <a href='/AIV/40/7/13-14'>Matt. 7:13-14</a>)."
     },
     {
-      "pk": 2001202,
+      "pk": 23012002,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 12,
       "verse": 2,
-      "text": "Everyone speaks lies to his neighbor; with flattering lips and a double heart they speak.",
-      "links": "<a href='/AIV/19/41/6'>Ps. 41:6</a>; <a href='/AIV/19/55/21'>Ps. 55:21</a>",
-      "comment": "The imagery of 'flattering lips' and 'double heart' exposes hypocrisy and insincerity among people, a perennial theme in wisdom literature. See also Psalm 55:21 for similar warnings."
+      "text": "Everyone speaks falsehood with his neighbor; with flattering lips and a double heart they speak.",
+      "links": "<a href='/AIV/19/55/21'>Ps. 55:21</a>; <a href='/AIV/24/9/8'>Jer. 9:8</a>",
+      "comment": "The psalmist exposes the damage of duplicity and deception in society. The phrase 'double heart' hints at interior division, highlighting the importance of interior integrity aligned with outward confession (<a href='/AIV/59/1/8'>Jas. 1:8</a>). Spiritual readings see hypocrisy as particularly dangerous for those called to unity of faith and purpose."
     },
     {
-      "pk": 2001203,
+      "pk": 23012003,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 12,
       "verse": 3,
-      "text": "May the LORD cut off all flattering lips, the tongue that makes great boasts,",
-      "links": "<a href='/AIV/19/17/10'>Ps. 17:10</a>; <a href='/AIV/19/5/9'>Ps. 5:9</a>",
-      "comment": "Using direct language for divine judgment, the psalmist calls for an end to deceitful and arrogant speech. This reflects the need for God's justice and the purification of the community, anticipating themes found in the letter of James (James 3:5-10)."
+      "text": "May the LORD cut off all flattering lips and every boastful tongue,",
+      "links": "<a href='/AIV/19/5/9'>Ps. 5:9</a>; <a href='/AIV/20/21/23'>Prov. 21:23</a>",
+      "comment": "The psalmist prays for divine judgment upon those whose words are deceitful. This is a call for justice founded on God’s holiness. Lips and tongue are often metaphors for one's inner state (see <a href='/AIV/59/3/6'>Jas. 3:6</a>), pointing toward the tradition of watching over speech as a work of spiritual discipline."
     },
     {
-      "pk": 2001204,
+      "pk": 23012004,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 12,
       "verse": 4,
-      "text": "who say, 'By our tongue we will prevail; our lips are with us—who is master over us?'",
-      "links": "<a href='/AIV/19/73/8-9'>Ps. 73:8-9</a>; <a href='/AIV/24/9/5'>Jer. 9:5</a>",
-      "comment": "Here, arrogance reaches its peak: people believe their words alone make them powerful. This displays a rebellion against God’s rightful authority, an idea echoed in the prophets."
+      "text": "those who say, 'With our tongue we will prevail; our lips are our own—who is lord over us?'",
+      "links": "<a href='/AIV/19/73/8-9'>Ps. 73:8-9</a>; <a href='/AIV/24/17/9'>Jer. 17:9</a>",
+      "comment": "This verse identifies the rebellion of sinful human autonomy. Claiming 'our lips are our own' denies God's rightful lordship. Early Christian teachers saw here the consequences of rejecting divinely-given authority and revealed truth."
     },
     {
-      "pk": 2001205,
+      "pk": 23012005,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 12,
       "verse": 5,
-      "text": "'Because the poor are plundered, because the needy groan, I will now arise,' says the LORD; 'I will place him in the safety for which he longs.'",
-      "links": "<a href='/AIV/19/9/18'>Ps. 9:18</a>; <a href='/AIV/23/33/10'>Isa. 33:10</a>",
-      "comment": "God responds personally to the suffering of the poor and oppressed. The LORD’s intervention to 'arise' is a repeated motif in the Psalms (see Psalm 9:18), ultimately fulfilled in Christ's incarnation and advocacy for the lowly."
+      "text": "'Because the poor are oppressed, because the needy groan, I will now arise,' says the LORD; 'I will place him in safety for which he yearns.'",
+      "links": "<a href='/AIV/23/33/10'>Isa. 33:10</a>; <a href='/AIV/19/9/12'>Ps. 9:12</a>",
+      "comment": "God’s response shows His concern for the poor and afflicted, echoing themes throughout both Testaments regarding justice and mercy (<a href='/AIV/40/5/3'>Matt. 5:3</a>). Early interpretations see this as a foreshadowing of God’s intervention through Christ, who protects and uplifts the humble."
     },
     {
-      "pk": 2001206,
+      "pk": 23012006,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 12,
       "verse": 6,
       "text": "The words of the LORD are pure words, like silver refined in a furnace on the ground, purified seven times.",
-      "links": "<a href='/AIV/19/18/30'>Ps. 18:30</a>; <a href='/AIV/19/119/140'>Ps. 119:140</a>",
-      "comment": "God’s speech stands in stark contrast to the lies of men, described as perfectly pure. The number seven signifies completeness. God's promise never fails, foreshadowing the trustworthiness of the Word made flesh (John 1:14)."
+      "links": "<a href='/AIV/19/18/30'>Ps. 18:30</a>; <a href='/AIV/20/30/5'>Prov. 30:5</a>",
+      "comment": "Contrasting human lies, God's promises are utterly pure and trustworthy. The image of silver refined 'seven times' suggests perfection and completeness. Spiritually, the preservation and integrity of God’s word has been upheld throughout history, entrusted to a faithful community (<a href='/AIV/43/17/17'>John 17:17</a>)."
     },
     {
-      "pk": 2001207,
+      "pk": 23012007,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 12,
       "verse": 7,
-      "text": "You, O LORD, will keep them; you will guard us from this generation forever.",
-      "links": "<a href='/AIV/19/121/7-8'>Ps. 121:7-8</a>; <a href='/AIV/19/37/28'>Ps. 37:28</a>",
-      "comment": "God’s faithful protection is eternal, safeguarding His people from evil. The idea of divine preservation goes beyond a single moment, suggesting the stewardship of the faithful community across generations."
+      "text": "You, LORD, will keep them; you will guard us from this generation forever.",
+      "links": "<a href='/AIV/19/121/7'>Ps. 121:7</a>; <a href='/AIV/19/37/28'>Ps. 37:28</a>",
+      "comment": "The assurance of God’s ongoing protection points to His faithfulness despite evil all around. Many understand this as the preservation of the faithful through history, a theme echoed in Christ’s promise that the gates of hell will not prevail against the Church (<a href='/AIV/40/16/18'>Matt. 16:18</a>)."
     },
     {
-      "pk": 2001208,
+      "pk": 23012008,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 12,
       "verse": 8,
-      "text": "On every side the wicked prowl, as vileness is exalted among the children of man.",
-      "links": "<a href='/AIV/19/82/5'>Ps. 82:5</a>; <a href='/AIV/19/11/9'>Ps. 11:9</a>",
-      "comment": "The psalm closes with a recognition of ongoing evil—even when God protects, moral decay continues outwardly. This tension pushes the reader to long for the deeper, complete restoration only fulfilled in the coming of the Messiah."
+      "text": "The wicked walk all around, when vileness is exalted among the children of man.",
+      "links": "<a href='/AIV/19/82/5'>Ps. 82:5</a>; <a href='/AIV/20/28/12'>Prov. 28:12</a>",
+      "comment": "The psalm ends with a warning about the increase of evil when truth and virtue are neglected. Throughout history, God has responded to such times by raising up witnesses and guiding His people into truth and unity (<a href='/AIV/62/2/18-19'>1 John 2:18-19</a>). This call to faithfulness remains relevant for all believers today."
     }
   ],
-  "translatedAt": "2025-12-23T05:34:42.282Z"
+  "translatedAt": "2025-12-24T06:02:31.269Z"
 }

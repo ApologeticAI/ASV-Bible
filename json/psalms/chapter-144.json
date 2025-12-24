@@ -1,158 +1,189 @@
 {
-  "book": "Psalms",
+  "book": 23,
+  "bookName": "Psalms",
   "bookAbbreviation": "Ps",
   "chapter": 144,
   "verses": [
     {
-      "pk": 1944110,
+      "pk": 23144001,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 144,
       "verse": 1,
-      "text": "Blessed be the LORD, my rock, who trains my hands for battle and my fingers for war.",
-      "links": "<a href='/AIV/19/18/2'>Ps. 18:2</a>; <a href='/AIV/19/18/34'>Ps. 18:34</a>",
-      "comment": "The opening verse acknowledges God's strength as the foundation and source of victory, echoing Psalm 18 where David credits the LORD for preparing him for warfare. The term 'my rock' prefigures Christ as our firm foundation (cf. Matt. 7:24-25)."
+      "text": "Blessed be the LORD, my rock, who trains my hands for war and my fingers for battle.",
+      "links": "<a href='/AIV/19/18/2'>Ps. 18:2</a>; <a href='/AIV/19/18/34'>Ps. 18:34</a>; <a href='/AIV/09/17/34-37'>1 Sam. 17:34-37</a>",
+      "comment": "David praises God as his firm foundation and personal trainer in spiritual and physical warfare. This echoes Psalm 18:34, where God empowers David for battle. Note the dual sense—God prepares both for literal combat and for the inner spiritual struggle against evil. The imagery of God as 'rock' also foreshadows the unshakeable foundation of the Church (cf. Matt. 16:18)."
     },
     {
-      "pk": 1944111,
+      "pk": 23144002,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 144,
       "verse": 2,
-      "text": "He is my steadfast love and my fortress, my strong tower and deliverer, my shield in whom I take refuge, who subdues peoples under me.",
-      "links": "<a href='/AIV/19/18/2'>Ps. 18:2</a>; <a href='/AIV/19/91/2'>Ps. 91:2</a>",
-      "comment": "Multiple titles for God reflect His protective and saving roles. 'Subdues peoples' also foreshadows Christ's ultimate kingship and victory over the powers of this world (cf. 1 Cor. 15:25)."
+      "text": "He is my steadfast love and my fortress, my stronghold and my deliverer, my shield, and in whom I take refuge, who brings my people under me.",
+      "links": "<a href='/AIV/19/18/2'>Ps. 18:2</a>; <a href='/AIV/10/22/3'>2 Sam. 22:3</a>",
+      "comment": "The Lord is described with images of protection, such as fortress and shield. This language not only expresses security but also personal intimacy ('steadfast love'). To 'bring my people under me' indicates God's provision for righteous leadership, hinting at God's establishment of order and succession—important theological themes about authority and spiritual hierarchy."
     },
     {
-      "pk": 1944112,
+      "pk": 23144003,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 144,
       "verse": 3,
-      "text": "O LORD, what is man, that you regard him, or the son of man, that you think of him?",
-      "links": "<a href='/AIV/19/8/4'>Ps. 8:4</a>; <a href='/AIV/58/2/6'>Heb. 2:6</a>",
-      "comment": "This verse humbles humanity before God's transcendence, yet it also prophetically points to Christ, the Son of Man, in Heb. 2:6, underscoring God's intimate concern and the dignity bestowed on mankind."
+      "text": "LORD, what is man that you regard him, or the son of man that you think of him?",
+      "links": "<a href='/AIV/19/08/4'>Ps. 8:4</a>; <a href='/AIV/18/07/17'>Job 7:17</a>; <a href='/AIV/58/02/6'>Heb. 2:6</a>",
+      "comment": "David marvels at God's condescension to human beings. The phrase 'son of man' connects to Psalm 8:4 and, in a deeper sense, prefigures the title Jesus takes on Himself in the Gospels (see Heb. 2:6), suggesting both humility and messianic dignity."
     },
     {
-      "pk": 1944113,
+      "pk": 23144004,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 144,
       "verse": 4,
       "text": "Man is like a breath; his days are like a passing shadow.",
       "links": "<a href='/AIV/19/39/5-6'>Ps. 39:5-6</a>; <a href='/AIV/19/102/11'>Ps. 102:11</a>",
-      "comment": "Echoes the theme of human life's fleeting nature, found elsewhere in Psalms and wisdom literature. This calls us toward valuing eternal things and points to the hope in Christ beyond temporal existence."
+      "comment": "Human life is fleeting and insubstantial, a theme common in wisdom literature. This observation invites humility and reliance on the eternal God. There's a spiritual warning here: the temporary nature of life calls for a deeper devotion to what endures."
     },
     {
-      "pk": 1944114,
+      "pk": 23144005,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 144,
       "verse": 5,
-      "text": "Bow your heavens, O LORD, and come down! Touch the mountains so they smoke!",
-      "links": "<a href='/AIV/19/18/9'>Ps. 18:9</a>; <a href='/AIV/02/19/18'>Ex. 19:18</a>",
-      "comment": "This dramatic plea for divine intervention echoes God's appearance at Sinai (Ex. 19:18), foreshadowing both the Incarnation (God becoming present among His people) and the coming power in the Gospel."
+      "text": "Bow your heavens, LORD, and come down! Touch the mountains so that they smoke!",
+      "links": "<a href='/AIV/02/19/18'>Ex. 19:18</a>; <a href='/AIV/19/18/9'>Ps. 18:9</a>",
+      "comment": "David calls for a theophany—God to reveal His mighty presence as at Sinai (cf. Ex. 19:18). The plea shows both God's transcendence and His willingness to draw near in power, a pattern fulfilled most perfectly in the Incarnation."
     },
     {
-      "pk": 1944115,
+      "pk": 23144006,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 144,
       "verse": 6,
-      "text": "Flash forth lightning and scatter them; send out your arrows and rout them.",
-      "links": "<a href='/AIV/19/18/14'>Ps. 18:14</a>; <a href='/AIV/02/9/23'>Ex. 9:23</a>",
-      "comment": "God's power over the nations is expressed through storm imagery, as in Ps. 18 and Ex. 9. It reveals God as the active defender of His servants, which ultimately points to Christ's victory over evil."
+      "text": "Flash forth lightning and scatter them; send out your arrows and rout them!",
+      "links": "<a href='/AIV/19/18/14'>Ps. 18:14</a>; <a href='/AIV/10/22/15'>2 Sam. 22:15</a>",
+      "comment": "God's intervention in battle is described with cosmic imagery—lightning and arrows. Such language is used elsewhere (Ps. 18:14), portraying God as the true deliverer against evil. Spiritually understood, this is God's triumph over sin and spiritual enemies."
     },
     {
-      "pk": 1944116,
+      "pk": 23144007,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 144,
       "verse": 7,
-      "text": "Stretch out your hand from on high; rescue me and deliver me from the many waters, from the hand of foreigners,",
-      "links": "<a href='/AIV/19/18/16'>Ps. 18:16</a>",
-      "comment": "The 'many waters' symbolize overwhelming danger. God's hand intervening from above has sacramental overtones, recalling God's saving acts throughout history."
+      "text": "Stretch out your hand from on high; rescue me and deliver me from many waters, from the hand of foreigners,",
+      "links": "<a href='/AIV/19/18/16-17'>Ps. 18:16-17</a>; <a href='/AIV/02/14/29-30'>Ex. 14:29-30</a>",
+      "comment": "'Many waters' often represents overwhelming trouble or chaos (cf. Ex. 14:29-30). The 'foreigners' can symbolize both physical enemies and spiritual threats. Ultimately, this verse anticipates God's saving work in Christ who delivers us from sin and death."
     },
     {
-      "pk": 1944117,
+      "pk": 23144008,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 144,
       "verse": 8,
-      "text": "whose mouths speak lies and whose right hand is a hand of falsehood.",
-      "links": "<a href='/AIV/19/120/2'>Ps. 120:2</a>; <a href='/AIV/19/41/6'>Ps. 41:6</a>",
-      "comment": "God's people are threatened not only by physical dangers, but also deception and falsehood—poignant reminders of the need for truth and integrity within the people of God."
+      "text": "whose mouths speak lies and whose right hand is a right hand of falsehood.",
+      "links": "<a href='/AIV/19/12/2'>Ps. 12:2</a>; <a href='/AIV/19/144/11'>Ps. 144:11</a>",
+      "comment": "The psalmist laments deceitful enemies. The repeated phrase 'right hand of falsehood' underscores the need for truthfulness and righteousness, values which are at the heart of covenantal faith and the call to live in authentic community."
     },
     {
-      "pk": 1944118,
+      "pk": 23144009,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 144,
       "verse": 9,
       "text": "I will sing a new song to you, O God; upon a ten-stringed harp I will play to you,",
-      "links": "<a href='/AIV/19/33/3'>Ps. 33:3</a>; <a href='/AIV/19/98/1'>Ps. 98:1</a>",
-      "comment": "Singing a 'new song' is associated with God's new acts of salvation. The musical worship here prefigures the ongoing sacrificial praise of God's people, both on earth and in heaven (cf. Rev. 5:9)."
+      "links": "<a href='/AIV/19/33/2-3'>Ps. 33:2-3</a>; <a href='/AIV/19/98/1'>Ps. 98:1</a>",
+      "comment": "The 'new song' signifies renewed praise for fresh acts of deliverance. Musical worship with stringed instruments points to the importance of ordered, beautiful liturgical worship, which foreshadows heavenly worship (cf. Rev. 5:8-9)."
     },
     {
-      "pk": 1944119,
+      "pk": 23144010,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 144,
       "verse": 10,
-      "text": "who gives victory to kings, who rescues David his servant from the deadly sword.",
-      "links": "<a href='/AIV/19/18/50'>Ps. 18:50</a>; <a href='/AIV/10/22/51'>2 Sam. 22:51</a>",
-      "comment": "The reference to David highlights God's faithfulness to His chosen king, prefiguring the Davidic covenant fulfilled in Christ, the eternal King (cf. Luke 1:32-33)."
+      "text": "who gives victory to kings, who rescues David his servant from the cruel sword.",
+      "links": "<a href='/AIV/19/18/50'>Ps. 18:50</a>; <a href='/AIV/19/21/1'>Ps. 21:1</a>",
+      "comment": "God is sovereign over earthly rulers and grants victory to His anointed ones. 'David his servant' not only refers to King David but prophetically to the coming Messiah, Son of David, who secures ultimate victory."
     },
     {
-      "pk": 1944120,
+      "pk": 23144011,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 144,
       "verse": 11,
-      "text": "Rescue me and deliver me from the hand of foreigners, whose mouths speak lies and whose right hand is a hand of falsehood.",
-      "links": "<a href='/AIV/19/144/8'>Ps. 144:8</a>; <a href='/AIV/19/41/6'>Ps. 41:6</a>",
-      "comment": "Repeats v8, emphasizing the importance of truth and deliverance. In spiritual interpretation, the foreign adversaries represent worldly temptations and sin."
+      "text": "Rescue me and deliver me from the hand of foreigners, whose mouths speak lies, whose right hand is a right hand of falsehood.",
+      "links": "<a href='/AIV/19/144/7-8'>Ps. 144:7-8</a>",
+      "comment": "This verse echoes verses 7-8, reinforcing the prayer for deliverance from deceitful enemies. The concern for truth and the recurring motif of deliverance remind readers of the importance of ongoing salvation, not a one-time event."
     },
     {
-      "pk": 1944121,
+      "pk": 23144012,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 144,
       "verse": 12,
-      "text": "May our sons be like plants grown up in their youth, our daughters like corner pillars, sculpted for a palace;",
-      "links": "<a href='/AIV/19/128/3'>Ps. 128:3</a>",
-      "comment": "Imagery of flourishing children symbolizing the hope of future generations. The sculpted pillars image reflects the dignity and vocation of women in God’s design for family and worship."
+      "text": "May our sons in their youth be like well-nurtured plants, our daughters like corner pillars fashioned for a palace;",
+      "links": "<a href='/AIV/19/128/3'>Ps. 128:3</a>; <a href='/AIV/22/8/9'>Song 8:9</a>",
+      "comment": "The blessings for sons and daughters metaphorically emphasize spiritual and communal flourishing. The stability implied by 'corner pillars' hints at the importance of women in sustaining the household of faith, as living stones within God's spiritual temple (cf. 1 Pet. 2:4-5)."
     },
     {
-      "pk": 1944122,
+      "pk": 23144013,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 144,
       "verse": 13,
-      "text": "May our barns be filled with all kinds of produce; may our flocks multiply by thousands and ten thousands in our fields;",
-      "links": "<a href='/AIV/19/65/13'>Ps. 65:13</a>",
-      "comment": "Material blessing is a sign of God's favor but also points beyond itself to spiritual abundance in Christ. All good things are gifts—suggesting a sacramental worldview."
+      "text": "May our barns be filled with every kind of produce; may our sheep increase by thousands, by tens of thousands in our fields;",
+      "links": "<a href='/AIV/05/28/4'>Deut. 28:4</a>",
+      "comment": "Material blessings—full barns and multiplying flocks—are classic signs of God's favor. However, they also spiritually prefigure spiritual fruitfulness and the abundant life promised in the new covenant."
     },
     {
-      "pk": 1944123,
+      "pk": 23144014,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 144,
       "verse": 14,
-      "text": "may our cattle be heavy with young, may there be no breach or exile, nor cry of distress in our streets;",
-      "links": "<a href='/AIV/19/107/39-40'>Ps. 107:39-40</a>",
-      "comment": "Completeness and peace are the marks of the righteous community. The desire for 'no breach or exile' can be read as longing for unity and order in God's household."
+      "text": "may our oxen be well laden; may there be no breach, no exile, no cry of distress in our streets!",
+      "links": "<a href='/AIV/23/60/18'>Isa. 60:18</a>; <a href='/AIV/19/127/1'>Ps. 127:1</a>",
+      "comment": "Lasting peace, order, and prosperity are depicted. The vision of a community free from distress and disorder points to the fullness of God's kingdom, where justice and unity are realized. There is a call here to unity and mutual support among the faithful."
     },
     {
-      "pk": 1944124,
+      "pk": 23144015,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 144,
       "verse": 15,
-      "text": "Blessed are the people to whom such things happen; blessed are the people whose God is the LORD.",
-      "links": "<a href='/AIV/19/33/12'>Ps. 33:12</a>",
-      "comment": "True happiness is found in belonging to God. The dual blessings recall both earthly prosperity and spiritual fulfillment—anticipating Christ's teaching on the blessedness of those who belong to the Kingdom (cf. Matt. 5:3-12)."
+      "text": "Blessed are the people to whom such blessings fall! Blessed are the people whose God is the LORD!",
+      "links": "<a href='/AIV/19/33/12'>Ps. 33:12</a>; <a href='/AIV/05/33/29'>Deut. 33:29</a>",
+      "comment": "The psalm closes by affirming true happiness comes from being part of the community ordered by God. Material and spiritual blessings flow from living under God's reign. This points to the joy and unity found in the people of God, a sign of authentic communion with the Lord."
     }
   ],
-  "translatedAt": "2025-12-23T05:51:17.846Z"
+  "translatedAt": "2025-12-24T06:48:19.612Z"
 }

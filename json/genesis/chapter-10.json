@@ -1,328 +1,393 @@
 {
-  "book": "Genesis",
+  "book": 1,
+  "bookName": "Genesis",
   "bookAbbreviation": "Gen",
   "chapter": 10,
   "verses": [
     {
-      "pk": 1001000,
+      "pk": 1010001,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 10,
       "verse": 1,
-      "text": "These are the generations of the sons of Noah: Shem, Ham, and Japheth. Sons were born to them after the flood.",
-      "links": "<a href='/AIV/1/9/18'>Gen. 9:18–19</a>; <a href='/AIV/13/1/4'>1 Chron. 1:4</a>",
-      "comment": "Genesis 10 introduces the Table of Nations, laying out the descendants of Noah's sons as the beginnings of the peoples of the earth. This genealogy demonstrates the unity of human origins, an idea later reinforced in Acts 17:26."
+      "text": "These are the records of the generations of the sons of Noah: Shem, Ham, and Japheth. Sons were born to them after the flood.",
+      "links": "<a href='/AIV/1/9/18'>Gen 9:18</a>; <a href='/AIV/62/3/20'>1 Pet 3:20</a>",
+      "comment": "Genesis 10 serves as a 'table of nations,' listing the descendants of Noah's sons who populated the earth. This sequence connects God's blessing of fruitfulness in Gen 9:1 with the faithful stewardship seen in history."
     },
     {
-      "pk": 1001001,
+      "pk": 1010002,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 10,
       "verse": 2,
-      "text": "The sons of Japheth: Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.",
-      "links": "<a href='/AIV/26/38/2'>Ezek. 38:2</a>; <a href='/AIV/13/1/5'>1 Chron. 1:5</a>",
-      "comment": "Japheth’s line is often understood as the ancestors of many Gentile nations. There are later prophetic passages referencing some of these names in Ezekiel 38–39."
+      "text": "The sons of Japheth were Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.",
+      "links": "<a href='/AIV/26/38/2'>Ezek 38:2</a>; <a href='/AIV/13/1/5'>1 Chr 1:5</a>",
+      "comment": "Japheth is the ancestor of many northern peoples, later identified with Greeks, Scythians, and others. These lineages set the stage for prophecy, notably in Ezekiel's references."
     },
     {
-      "pk": 1001002,
+      "pk": 1010003,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 10,
       "verse": 3,
-      "text": "The sons of Gomer: Ashkenaz, Riphath, and Togarmah.",
-      "links": "<a href='/AIV/26/27/14'>Ezek. 27:14</a>",
-      "comment": "These names tie to later tribal nations in the north/Asia Minor, showing the spread of peoples over vast areas."
+      "text": "The sons of Gomer were Ashkenaz, Riphath, and Togarmah.",
+      "links": "<a href='/AIV/26/27/14'>Ezek 27:14</a>; <a href='/AIV/13/1/6'>1 Chr 1:6</a>",
+      "comment": "Ashkenaz came to be associated with peoples in modern Europe. Mention of Togarmah links to Ezekiel's prophecies concerning far distant lands."
     },
     {
-      "pk": 1001003,
+      "pk": 1010004,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 10,
       "verse": 4,
-      "text": "The sons of Javan: Elishah, Tarshish, Kittim, and Dodanim.",
-      "links": "<a href='/AIV/24/10/9'>Jer. 10:9</a>; <a href='/AIV/13/1/7'>1 Chron. 1:7</a>",
-      "comment": "Javan is associated with the Greeks; Tarshish and Kittim are often identified with Mediterranean regions, seen in other Old Testament prophecies."
+      "text": "The sons of Javan were Elishah, Tarshish, Kittim, and Dodanim.",
+      "links": "<a href='/AIV/26/27/7'>Ezek 27:7</a>; <a href='/AIV/23/66/19'>Isa 66:19</a>",
+      "comment": "Javan is the ancestor of the Greeks, showing the spread of people into the Mediterranean. Tarshish and Kittim were names for distant lands, demonstrating the universal reach of Noah's lineage."
     },
     {
-      "pk": 1001004,
+      "pk": 1010005,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 10,
       "verse": 5,
-      "text": "From these the coastland peoples spread out in their lands, each according to his language, by their clans, in their nations.",
-      "links": "<a href='/AIV/1/11/9'>Gen. 11:9</a>",
-      "comment": "This anticipates the confusion of languages at Babel (ch. 11). The mention of 'languages' hints at an ordered diversity."
+      "text": "From these, the coastland peoples separated into their lands, each with its own language, by their families, in their nations.",
+      "links": "<a href='/AIV/1/11/9'>Gen 11:9</a>; <a href='/AIV/44/17/26'>Acts 17:26</a>",
+      "comment": "The division is both geographical and linguistic, anticipating the story of Babel (Gen 11). The division of nations hints at later fulfillment in the unity brought in Christ (Acts 17:26)."
     },
     {
-      "pk": 1001005,
+      "pk": 1010006,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 10,
       "verse": 6,
-      "text": "The sons of Ham: Cush, Egypt, Put, and Canaan.",
-      "links": "<a href='/AIV/1/9/22'>Gen. 9:22</a>; <a href='/AIV/13/1/8'>1 Chron. 1:8</a>",
-      "comment": "Ham’s descendants settle parts of Africa and the Middle East, including the land later judged and promised to Abraham’s line."
+      "text": "The sons of Ham were Cush, Egypt, Put, and Canaan.",
+      "links": "<a href='/AIV/13/1/8'>1 Chr 1:8</a>; <a href='/AIV/2/1/11'>Ex 1:11</a>",
+      "comment": "Ham's descendants settled the regions of Africa and the Levant. Canaan’s mention foreshadows later events in the biblical narrative, setting up Israel’s land."
     },
     {
-      "pk": 1001006,
+      "pk": 1010007,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 10,
       "verse": 7,
-      "text": "The sons of Cush: Seba, Havilah, Sabtah, Raamah, and Sabteca. The sons of Raamah: Sheba and Dedan.",
-      "links": "<a href='/AIV/13/1/9'>1 Chron. 1:9</a>",
-      "comment": "Sheba and Dedan appear in later scripture as wealthy trade centers, suggesting the blessings and advancements of some lines from Ham."
+      "text": "The sons of Cush were Seba, Havilah, Sabtah, Raamah, and Sabteca. The sons of Raamah were Sheba and Dedan.",
+      "links": "<a href='/AIV/13/1/9'>1 Chr 1:9</a>; <a href='/AIV/26/27/22'>Ezek 27:22</a>",
+      "comment": "Sheba and Dedan are recurring in prophecies of trade and prosperity, especially in Ezekiel. This genealogy frames future interactions and conflicts."
     },
     {
-      "pk": 1001007,
+      "pk": 1010008,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 10,
       "verse": 8,
-      "text": "Cush fathered Nimrod; he was the first on earth to be a mighty man.",
-      "links": "<a href='/AIV/1/10/9'>Gen. 10:9</a>",
-      "comment": "Nimrod’s reputation as a 'mighty man' hints at the rise of kingship and might, which will play into biblical themes of authority and leadership."
+      "text": "Cush fathered Nimrod. He was the first mighty man on earth.",
+      "links": "<a href='/AIV/13/1/10'>1 Chr 1:10</a>; <a href='/AIV/1/11/1-9'>Gen 11:1-9</a>",
+      "comment": "Nimrod is remembered as a great leader and empire-builder, prefiguring later historical kingdoms. His prominence foreshadows themes of human ambition and its limitations."
     },
     {
-      "pk": 1001008,
+      "pk": 1010009,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 10,
       "verse": 9,
       "text": "He was a mighty hunter before the LORD. Therefore it is said, 'Like Nimrod, a mighty hunter before the LORD.'",
-      "links": "<a href='/AIV/1/6/4'>Gen. 6:4</a>",
-      "comment": "This phrase expresses both his prowess and legendary status. The text stresses how human strength is always seen in relation to God's presence."
+      "links": "<a href='/AIV/33/5/6'>Micah 5:6</a>",
+      "comment": "The phrase 'before the LORD' adds divine acknowledgment of his prowess. His status echoes both strength and submission to God’s sovereignty."
     },
     {
-      "pk": 1001009,
+      "pk": 1010010,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 10,
       "verse": 10,
-      "text": "The beginning of his kingdom was Babel, Erech, Accad, and Calneh, in the land of Shinar.",
-      "links": "<a href='/AIV/1/11/1'>Gen. 11:1–9</a>",
-      "comment": "Nimrod becomes associated with Babel, later a symbol of human pride and confusion. (See spiritual backdrop for Babylon as opposition to God's order.)"
+      "text": "The beginning of his kingdom was Babel, Erech, Akkad, and Calneh, in the land of Shinar.",
+      "links": "<a href='/AIV/1/11/2'>Gen 11:2</a>; <a href='/AIV/27/1/2'>Dan 1:2</a>",
+      "comment": "Nimrod's founding of Babel and Shinar directly connects to the Babel story and early Mesopotamian civilization—a reminder of both glory and confusion arising from pride."
     },
     {
-      "pk": 1001010,
+      "pk": 1010011,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 10,
       "verse": 11,
       "text": "From that land he went into Assyria and built Nineveh, Rehoboth-Ir, Calah,",
-      "links": "<a href='/AIV/32/1/2'>Jonah 1:2</a>",
-      "comment": "Nineveh, later a subject of divine judgment and mercy (see Jonah), starts here, tying the realities of power and repentance in biblical history."
+      "links": "<a href='/AIV/32/1/2'>Jonah 1:2</a>; <a href='/AIV/13/1/11'>1 Chr 1:11</a>",
+      "comment": "Nineveh becomes significant in later prophecy (Jonah), symbolizing both the might of human empires and their need for repentance."
     },
     {
-      "pk": 1001011,
+      "pk": 1010012,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 10,
       "verse": 12,
       "text": "and Resen between Nineveh and Calah; that is the great city.",
-      "links": "<a href='/AIV/32/4/11'>Jonah 4:11</a>",
-      "comment": "The mention of mighty cities points to early urban development. Cities often play a key role both literally and spiritually as places of challenge or judgment."
+      "links": "<a href='/AIV/32/3/3'>Jonah 3:3</a>",
+      "comment": "Resen's mention as a 'great city' foreshadows the future importance of these regions and their moral significance in prophecy."
     },
     {
-      "pk": 1001012,
+      "pk": 1010013,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 10,
       "verse": 13,
       "text": "Egypt fathered Ludim, Anamim, Lehabim, Naphtuhim,",
-      "links": "<a href='/AIV/13/1/11'>1 Chron. 1:11</a>",
-      "comment": "These are tribal founders in North Africa/Levant, showing the spread of humanity to different places."
+      "links": "<a href='/AIV/13/1/11'>1 Chr 1:11</a>",
+      "comment": "These names identify various North African peoples, ancestors to significant nations often interacting with Israel."
     },
     {
-      "pk": 1001013,
+      "pk": 1010014,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 10,
       "verse": 14,
-      "text": "Pathrusim, Casluhim (from whom the Philistines came), and Caphtorim.",
-      "links": "<a href='/AIV/24/47/4'>Jer. 47:4</a>; <a href='/AIV/05/2/23'>Deut. 2:23</a>",
-      "comment": "The Philistines, persistent enemies in Israel’s history, come from Ham’s line, reflecting spiritual struggle in salvation history."
+      "text": "Pathrusim, Casluhim (from whom came the Philistines), and Caphtorim.",
+      "links": "<a href='/AIV/24/47/4'>Jer 47:4</a>; <a href='/AIV/13/1/12'>1 Chr 1:12</a>",
+      "comment": "The origin of the Philistines is traced here, setting up future conflict with Israel. The reference to Caphtorim links them to Crete."
     },
     {
-      "pk": 1001014,
+      "pk": 1010015,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 10,
       "verse": 15,
       "text": "Canaan fathered Sidon his firstborn, and Heth,",
-      "links": "<a href='/AIV/1/15/19'>Gen. 15:19–21</a>",
-      "comment": "Sidon and Heth found Canaanite nations, foreshadowing later events concerning Israel’s inheritance and spiritual battles."
+      "links": "<a href='/AIV/1/15/19-20'>Gen 15:19-20</a>; <a href='/AIV/13/1/13'>1 Chr 1:13</a>",
+      "comment": "Sidon was a major Phoenician city. Heth is an ancestor to the Hittites, significant in later Biblical history and covenants."
     },
     {
-      "pk": 1001015,
+      "pk": 1010016,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 10,
       "verse": 16,
-      "text": "and the Jebusites, Amorites, Girgashites,",
-      "links": "<a href='/AIV/1/15/21'>Gen. 15:21</a>",
-      "comment": "These names continue listing the adversarial peoples of Canaan, showing how salvation unfolds amidst opposition."
+      "text": "and the Jebusites, the Amorites, the Girgashites,",
+      "links": "<a href='/AIV/1/15/21'>Gen 15:21</a>; <a href='/AIV/5/7/1'>Deut 7:1</a>",
+      "comment": "These tribes inhabited the land later promised to Abraham, highlighting the deep ancestral roots behind later events."
     },
     {
-      "pk": 1001016,
+      "pk": 1010017,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 10,
       "verse": 17,
-      "text": "and the Hivites, Arkites, Sinites,",
-      "links": "<a href='/AIV/13/1/15'>1 Chron. 1:15</a>",
-      "comment": "Israel’s eventual victories and struggles are spiritually rooted in these narrative details, often interpreted as types of spiritual warfare."
+      "text": "the Hivites, the Arkites, the Sinites,",
+      "links": "<a href='/AIV/1/15/21'>Gen 15:21</a>",
+      "comment": "Part of the list of people groups in Canaan, showing the complexity of the region’s population prior to the fulfillment of God’s promise."
     },
     {
-      "pk": 1001017,
+      "pk": 1010018,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 10,
       "verse": 18,
-      "text": "and the Arvadites, Zemarites, and Hamathites. Afterward the clans of the Canaanites were dispersed.",
-      "links": "<a href='/AIV/1/13/17'>Gen. 13:17</a>",
-      "comment": "The dispersal shows the providence of God setting borders and nations – this theme recalls Acts 17:26, God’s sovereignty over all peoples."
+      "text": "the Arvadites, the Zemarites, and the Hamathites. Afterward, the families of the Canaanites spread abroad.",
+      "links": "<a href='/AIV/13/1/16'>1 Chr 1:16</a>",
+      "comment": "This dispersion anticipates the later conquest and division of Canaan, revealing the long-standing complexity of its people."
     },
     {
-      "pk": 1001018,
+      "pk": 1010019,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 10,
       "verse": 19,
-      "text": "And the territory of the Canaanites extended from Sidon, toward Gerar, as far as Gaza, and in direction of Sodom, Gomorrah, Admah, and Zeboiim, as far as Lasha.",
-      "links": "<a href='/AIV/1/19/24'>Gen. 19:24–25</a>",
-      "comment": "The Canaanite boundaries chart future sites of judgment and redemption, showing how geography and history intertwine in God’s sovereign plan."
+      "text": "The territory of the Canaanites was from Sidon, as far as Gerar, up to Gaza; and as far as Sodom, Gomorrah, Admah, and Zeboiim, up to Lasha.",
+      "links": "<a href='/AIV/1/19/24'>Gen 19:24</a>; <a href='/AIV/1/13/12'>Gen 13:12</a>",
+      "comment": "The land boundaries foreshadow future conflict and divine judgment, as seen later in the cities of Sodom and Gomorrah."
     },
     {
-      "pk": 1001019,
+      "pk": 1010020,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 10,
       "verse": 20,
-      "text": "These are the sons of Ham, according to their clans, languages, lands, and nations.",
-      "links": "<a href='/AIV/1/10/5'>Gen. 10:5</a>",
-      "comment": "Each line of descent is emphasized by physical and linguistic separation, showing the reality and dignity of diversity within providence."
+      "text": "These are the sons of Ham, by their families, by their languages, in their lands, in their nations.",
+      "links": "",
+      "comment": "The emphasis on families, languages, and lands echoes the later Tower of Babel narrative on the global diversity and unity under God."
     },
     {
-      "pk": 1001020,
+      "pk": 1010021,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 10,
       "verse": 21,
-      "text": "Children were born also to Shem, the elder brother of Japheth, the father of all the children of Eber.",
-      "links": "<a href='/AIV/13/1/17'>1 Chron. 1:17</a>; <a href='/AIV/1/11/16'>Gen. 11:16</a>",
-      "comment": "Eber, an ancestor of the Hebrews, becomes a key figure in redemptive history, setting the stage for the line through which the Messiah would come."
+      "text": "To Shem also, the father of all the children of Eber, and elder brother of Japheth, sons were born.",
+      "links": "<a href='/AIV/1/11/10-27'>Gen 11:10-27</a>; <a href='/AIV/13/1/24'>1 Chr 1:24</a>",
+      "comment": "Shem’s lineage is of particular significance, as Eber is the ancestor of the Hebrews, leading eventually to Abraham and the messianic promises."
     },
     {
-      "pk": 1001021,
+      "pk": 1010022,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 10,
       "verse": 22,
-      "text": "The sons of Shem: Elam, Asshur, Arpachshad, Lud, and Aram.",
-      "links": "<a href='/AIV/13/1/17'>1 Chron. 1:17</a>; <a href='/AIV/1/11/10'>Gen. 11:10</a>",
-      "comment": "Shem’s descendants form the line leading eventually to Abraham, David, and Jesus (see Luke 3:36), connecting these genealogies to salvation history."
+      "text": "The sons of Shem were Elam, Asshur, Arpachshad, Lud, and Aram.",
+      "links": "<a href='/AIV/13/1/17'>1 Chr 1:17</a>",
+      "comment": "This line traces the peoples of the Middle East, especially the ancestry of the Hebrews and civilizations such as Elam and Assyria."
     },
     {
-      "pk": 1001022,
+      "pk": 1010023,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 10,
       "verse": 23,
-      "text": "The sons of Aram: Uz, Hul, Gether, and Mash.",
-      "links": "<a href='/AIV/18/1/1'>Job 1:1</a>; <a href='/AIV/13/1/17'>1 Chron. 1:17</a>",
-      "comment": "Uz is later identified with Job’s homeland, emphasizing the reach of God’s providence beyond Israel."
+      "text": "The sons of Aram were Uz, Hul, Gether, and Mash.",
+      "links": "<a href='/AIV/18/1/1'>Job 1:1</a>; <a href='/AIV/13/1/17'>1 Chr 1:17</a>",
+      "comment": "Uz is noted as the homeland of Job, connecting wisdom literature to these ancient roots."
     },
     {
-      "pk": 1001023,
+      "pk": 1010024,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 10,
       "verse": 24,
-      "text": "Arpachshad fathered Shelah; Shelah fathered Eber.",
-      "links": "<a href='/AIV/1/11/14'>Gen. 11:14–16</a>",
-      "comment": "The line moves toward the Hebrews, underscoring God’s stewardship of the promise through specific generations."
+      "text": "Arpachshad fathered Shelah, and Shelah fathered Eber.",
+      "links": "<a href='/AIV/1/11/12'>Gen 11:12</a>; <a href='/AIV/13/1/18'>1 Chr 1:18</a>",
+      "comment": "Eber’s lineage is crucial, as it eventually leads to Abram, ancestor of God's chosen people. This genealogical accuracy reinforces the continuity of the promise."
     },
     {
-      "pk": 1001024,
+      "pk": 1010025,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 10,
       "verse": 25,
-      "text": "To Eber were born two sons: the name of one was Peleg, because in his days the earth was divided, and his brother’s name was Joktan.",
-      "links": "<a href='/AIV/1/11/16'>Gen. 11:16'>",
-      "comment": "Peleg’s name means 'division,' likely alluding to the dispersion at Babel (see Gen. 11:7–9), while the line of Joktan multiplies in Arabia."
+      "text": "To Eber were born two sons: the name of the one was Peleg, for in his days the earth was divided; and his brother’s name was Joktan.",
+      "links": "<a href='/AIV/1/11/16'>Gen 11:16</a>; <a href='/AIV/13/1/19'>1 Chr 1:19</a>",
+      "comment": "Peleg’s name means 'division,' possibly referring to the dispersion at Babel and the division of languages, pointing to a providential guidance in history."
     },
     {
-      "pk": 1001025,
+      "pk": 1010026,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 10,
       "verse": 26,
       "text": "Joktan fathered Almodad, Sheleph, Hazarmaveth, Jerah,",
-      "links": "<a href='/AIV/13/1/20'>1 Chron. 1:20</a>",
-      "comment": "This section builds the line of peoples populating southern Arabia, indicating the expansion from Shem’s line."
+      "links": "<a href='/AIV/13/1/20-21'>1 Chr 1:20-21</a>",
+      "comment": "These names mark the tribes settling in southern Arabia, evidence of the wide spread of Semitic peoples."
     },
     {
-      "pk": 1001026,
+      "pk": 1010027,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 10,
       "verse": 27,
       "text": "Hadoram, Uzal, Diklah,",
-      "links": "<a href='/AIV/13/1/21'>1 Chron. 1:21</a>",
-      "comment": "Another set of names, some of which are echoed in ancient Arabian settlements and cities."
+      "links": "",
+      "comment": "Further descendants of Joktan, each representing distinct clans and settlements."
     },
     {
-      "pk": 1001027,
+      "pk": 1010028,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 10,
       "verse": 28,
       "text": "Obal, Abimael, Sheba,",
-      "links": "<a href='/AIV/13/1/22'>1 Chron. 1:22</a>",
-      "comment": "Sheba is notable as a place of later wealth and wisdom (Matthew 12:42), connecting these genealogies to Christ’s wider mission."
+      "links": "",
+      "comment": "Sheba is associated with the famous queen in Solomon’s time, linking genealogy to wisdom and wealth (1 Kings 10:1)."
     },
     {
-      "pk": 1001028,
+      "pk": 1010029,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 10,
       "verse": 29,
       "text": "Ophir, Havilah, and Jobab. All these were the sons of Joktan.",
-      "links": "<a href='/AIV/13/1/23'>1 Chron. 1:23</a>",
-      "comment": "Ophir, famed for gold (1 Kings 10:11), links earthly riches to the spiritual search for wisdom and fulfillment."
+      "links": "<a href='/AIV/11/9/28'>1 Kings 9:28</a>",
+      "comment": "Ophir is key for its association with gold in Solomon’s time, suggesting historical prosperity among these lines."
     },
     {
-      "pk": 1001029,
+      "pk": 1010030,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 10,
       "verse": 30,
-      "text": "Their territory extended from Mesha in the direction of Sephar, the hill country of the east.",
-      "links": "<a href='/AIV/1/25/6'>Gen. 25:6</a>",
-      "comment": "Geographical references highlight the dispersion of peoples, underscoring the vastness and unity of God’s created family."
+      "text": "Their dwelling was from Mesha as you go toward Sephar, the hill country of the east.",
+      "links": "",
+      "comment": "Geographical precision points to God’s faithfulness in providing for diverse peoples, foreshadowing later gathering of all nations in Christ."
     },
     {
-      "pk": 1001030,
+      "pk": 1010031,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 10,
       "verse": 31,
-      "text": "These are the sons of Shem, by their clans, languages, lands, and nations.",
-      "links": "<a href='/AIV/1/10/5'>Gen. 10:5</a>",
-      "comment": "Similar wording to previous clan summaries — emphasizing order, providence, and the dignity of family within God’s design."
+      "text": "These are the sons of Shem, by their families, by their languages, in their lands, according to their nations.",
+      "links": "",
+      "comment": "Once again, divine providence oversees the spread and organization of nations. The careful recording reiterates the spiritual unity intended for humanity under God's guidance."
     },
     {
-      "pk": 1001031,
+      "pk": 1010032,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 10,
       "verse": 32,
-      "text": "These are the clans of the sons of Noah, according to their genealogies, in their nations. From these the nations spread out on the earth after the flood.",
-      "links": "<a href='/AIV/1/9/19'>Gen. 9:19</a>; <a href='/AIV/44/17/26'>Acts 17:26</a>",
-      "comment": "Genesis 10 closes by summarizing all humanity’s dispersion from Noah. The spiritual implication includes the unity of all mankind under one Creator with an ordered plan for redemption through the chosen line, prefiguring the gathering of all nations in Christ (Revelation 7:9)."
+      "text": "These are the families of the sons of Noah, according to their generations, in their nations. From these, the nations spread out on the earth after the flood.",
+      "links": "<a href='/AIV/1/9/19'>Gen 9:19</a>; <a href='/AIV/44/17/26'>Acts 17:26</a>",
+      "comment": "This summary frames all humanity as sharing common descent and purpose, central to understanding how salvation history unites both physical and spiritual families. This hints at the later unification of nations within Christ's one apostolic body."
     }
   ],
-  "translatedAt": "2025-12-23T08:39:06.828Z"
+  "translatedAt": "2025-12-24T00:15:24.882Z"
 }

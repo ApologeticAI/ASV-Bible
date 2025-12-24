@@ -1,348 +1,417 @@
 {
-  "book": "1 Kings",
+  "book": 11,
+  "bookName": "1 Kings",
   "bookAbbreviation": "1Kgs",
   "chapter": 4,
   "verses": [
     {
-      "pk": 3114001,
+      "pk": 11004001,
       "translation": "AIV",
       "book": 11,
+      "bookName": "1 Kings",
+      "bookAbbreviation": "1Kgs",
       "chapter": 4,
       "verse": 1,
-      "text": "King Solomon was king over all Israel.",
-      "links": "<a href='/AIV/11/3/14'>1 Kings 3:14</a>",
-      "comment": "Simple, direct rendering following the Hebrew."
+      "text": "King Solomon reigned over all Israel.",
+      "links": "<a href='/AIV/10/8/15'>2 Sam. 8:15</a>",
+      "comment": "This verse establishes Solomon's uncontested kingship over all Israel. The unity of the kingdom under one ruler prefigures the ultimate unity and peace intended by God for His people, a theme that echoes in the New Testament with Christ as King over the Church (cf. Eph. 1:22-23)."
     },
     {
-      "pk": 3114002,
+      "pk": 11004002,
       "translation": "AIV",
       "book": 11,
+      "bookName": "1 Kings",
+      "bookAbbreviation": "1Kgs",
       "chapter": 4,
       "verse": 2,
-      "text": "These were his officials: Azariah son of Zadok was the priest;",
-      "links": "<a href='/AIV/11/2/35'>1 Kings 2:35</a>; <a href='/AIV/13/6/10'>1 Chron. 6:10</a>",
-      "comment": "The Hebrew 'kohen' means 'priest.'"
+      "text": "These were his officials: Azariah son of Zadok was the priest.",
+      "links": "<a href='/AIV/13/6/8'>1 Chr. 6:8</a>; <a href='/AIV/11/2/35'>1 Kgs. 2:35</a>",
+      "comment": "Azariah, from a priestly lineage, highlights the enduring role of priesthood in the governance of God’s people. Like the high priest mediating for the nation, Christ serves as the true mediator (Heb. 4:14), reinforcing the continuity between Old and New Covenants."
     },
     {
-      "pk": 3114003,
+      "pk": 11004003,
       "translation": "AIV",
       "book": 11,
+      "bookName": "1 Kings",
+      "bookAbbreviation": "1Kgs",
       "chapter": 4,
       "verse": 3,
-      "text": "Elihoreph and Ahijah, sons of Shisha, were secretaries; Jehoshaphat son of Ahilud was recorder;",
-      "links": "<a href='/AIV/10/8/16'>2 Sam. 8:16</a>; <a href='/AIV/11/2/34'>1 Kings 2:34</a>",
-      "comment": "'Recorder' refers to an official historian or chronicler."
+      "text": "Elihoreph and Ahijah, sons of Shisha, were secretaries. Jehoshaphat son of Ahilud was the recorder.",
+      "links": "<a href='/AIV/10/8/16'>2 Sam. 8:16</a>",
+      "comment": "These administrative roles show the order and authority in Solomon’s kingdom, prefiguring the clerical structure that would later organize Christian communities. Accurate records and stewardship are recurring biblical themes (cf. 1 Tim. 3:1-7)."
     },
     {
-      "pk": 3114004,
+      "pk": 11004004,
       "translation": "AIV",
       "book": 11,
+      "bookName": "1 Kings",
+      "bookAbbreviation": "1Kgs",
       "chapter": 4,
       "verse": 4,
-      "text": "Benaiah son of Jehoiada was over the army; Zadok and Abiathar were priests;",
-      "links": "<a href='/AIV/11/2/35'>1 Kings 2:35</a>; <a href='/AIV/9/15/24'>1 Sam. 15:24</a>",
-      "comment": "Abithar likely retained a priestly role after being removed as chief priest."
+      "text": "Benaiah son of Jehoiada was over the army. Zadok and Abiathar were priests.",
+      "links": "<a href='/AIV/11/2/35'>1 Kgs. 2:35</a>; <a href='/AIV/10/8/17'>2 Sam 8:17</a>",
+      "comment": "Benaiah’s role as commander and the mention of two priests together suggest the blending of leadership roles within the covenant community. The two priests reflect transitional periods and foreshadow the eventual unity under one priesthood (cf. Heb. 7:23-27)."
     },
     {
-      "pk": 3114005,
+      "pk": 11004005,
       "translation": "AIV",
       "book": 11,
+      "bookName": "1 Kings",
+      "bookAbbreviation": "1Kgs",
       "chapter": 4,
       "verse": 5,
-      "text": "Azariah son of Nathan was over the district governors; Zabud son of Nathan, a priest, was the king’s advisor;",
-      "links": "<a href='/AIV/11/4/7'>1 Kings 4:7</a>; <a href='/AIV/13/6/10'>1 Chron. 6:10</a>",
-      "comment": "The Hebrew term for 'advisor' is 'friend,' meaning a close confidant."
+      "text": "Azariah son of Nathan was over the officers. Zabud son of Nathan was a priest and the king’s friend.",
+      "links": "<a href='/AIV/13/2/6'>1 Chr. 2:6</a>",
+      "comment": "A priest serving as the king’s advisor emphasizes the close relationship between spiritual guidance and politics. This anticipates the importance of sanctified counseling within Christian tradition (cf. Acts 6:3)."
     },
     {
-      "pk": 3114006,
+      "pk": 11004006,
       "translation": "AIV",
       "book": 11,
+      "bookName": "1 Kings",
+      "bookAbbreviation": "1Kgs",
       "chapter": 4,
       "verse": 6,
-      "text": "Ahishar was in charge of the palace; Adoniram son of Abda was over forced labor.",
-      "links": "<a href='/AIV/11/5/14'>1 Kings 5:14</a>; <a href='/AIV/11/12/18'>1 Kings 12:18</a>",
-      "comment": "'Forced labor' involved conscripted workers for state projects."
+      "text": "Ahishar was overseer of the palace; Adoniram son of Abda was in charge of forced labor.",
+      "links": "<a href='/AIV/11/5/14'>1 Kgs. 5:14</a>",
+      "comment": "The oversight of the king’s house and labor points to the concern for both proper stewardship and just administration, which Christians are called to emulate (Col. 3:23-24)."
     },
     {
-      "pk": 3114007,
+      "pk": 11004007,
       "translation": "AIV",
       "book": 11,
+      "bookName": "1 Kings",
+      "bookAbbreviation": "1Kgs",
       "chapter": 4,
       "verse": 7,
-      "text": "Solomon had twelve district governors over all Israel, who provided food for the king and his household. Each one provided supplies for one month of the year.",
-      "links": "<a href='/AIV/11/4/22'>1 Kings 4:22</a>",
-      "comment": "'District governors' are also translated as 'officers.'"
+      "text": "Solomon had twelve officers over all Israel, who provided food for the king and his household. Each was responsible for one month in the year.",
+      "links": "<a href='/AIV/11/18/31'>1 Kgs. 18:31</a>; <a href='/AIV/02/28/21'>Ex. 28:21</a>",
+      "comment": "The division into twelve highlights organizational order and recalls the twelve tribes of Israel, which have deep symbolic significance extending into the twelve apostles (Matt. 10:1-4)."
     },
     {
-      "pk": 3114008,
+      "pk": 11004008,
       "translation": "AIV",
       "book": 11,
+      "bookName": "1 Kings",
+      "bookAbbreviation": "1Kgs",
       "chapter": 4,
       "verse": 8,
-      "text": "These are their names: Ben-Hur, in the hill country of Ephraim;",
-      "links": "<a href='/AIV/11/4/7'>1 Kings 4:7</a>",
-      "comment": "The Hebrew means 'son of Hur.'"
+      "text": "Their names: Ben-Hur, in the hill country of Ephraim;",
+      "links": "<a href='/AIV/07/17/1'>Judg. 17:1</a>",
+      "comment": "Ben-Hur’s district covers Ephraim, a significant region historically. The preservation of names and territories reinforces Israel’s tribal identity, later spiritualized in the universal Church."
     },
     {
-      "pk": 3114009,
+      "pk": 11004009,
       "translation": "AIV",
       "book": 11,
+      "bookName": "1 Kings",
+      "bookAbbreviation": "1Kgs",
       "chapter": 4,
       "verse": 9,
-      "text": "Ben-Deker, in Makaz, Shaalbim, Beth Shemesh, and Elon Bethhanan;",
-      "links": "<a href='/AIV/06/19/42'>Josh. 19:42</a>",
-      "comment": "Listing the towns within the governor's district."
+      "text": "Ben-Deker, in Makaz, Shaalbim, Beth-Shemesh, and Elon Beth-Hanan;",
+      "links": "<a href='/AIV/06/15/10'>Josh. 15:10</a>",
+      "comment": "This verse catalogs key locations, illustrating God’s provision through structure and delegation."
     },
     {
-      "pk": 3114010,
+      "pk": 11004010,
       "translation": "AIV",
       "book": 11,
+      "bookName": "1 Kings",
+      "bookAbbreviation": "1Kgs",
       "chapter": 4,
       "verse": 10,
-      "text": "Ben-Hesed, in Arubboth; Socoh and all the land of Hepher belonged to him;",
-      "links": "<a href='/AIV/06/15/35'>Josh. 15:35</a>",
-      "comment": "'Socoh' is a town in Judah."
+      "text": "Ben-Hesed, in Arubboth; Socoh and all the land of Hepher were his;",
+      "links": "<a href='/AIV/07/6/11'>Judg. 6:11</a>",
+      "comment": "Hepher is known elsewhere in conquest narratives, marking continuity between generations."
     },
     {
-      "pk": 3114011,
+      "pk": 11004011,
       "translation": "AIV",
       "book": 11,
+      "bookName": "1 Kings",
+      "bookAbbreviation": "1Kgs",
       "chapter": 4,
       "verse": 11,
-      "text": "Ben-Abinadab, in all the region of Dor; he had Taphath, Solomon’s daughter, as his wife;",
-      "links": "<a href='/AIV/07/7/1'>Judg. 7:1</a>; <a href='/AIV/11/4/15'>1 Kings 4:15</a>",
-      "comment": "Taphath was given in marriage to the governor, indicating royal favor."
+      "text": "Ben-Abinadab, over all Naphath-Dor; he had Taphath, Solomon’s daughter, as his wife;",
+      "links": "<a href='/AIV/11/3/1'>1 Kgs. 3:1</a>",
+      "comment": "Marrying Solomon’s daughter indicates political alliances through family, a biblical pattern ultimately perfected in Christ’s union with the Church (Eph. 5:25-27)."
     },
     {
-      "pk": 3114012,
+      "pk": 11004012,
       "translation": "AIV",
       "book": 11,
+      "bookName": "1 Kings",
+      "bookAbbreviation": "1Kgs",
       "chapter": 4,
       "verse": 12,
-      "text": "Baana son of Ahilud, in Taanach, Megiddo, and all Beth Shean that is beside Zarethan below Jezreel, from Beth Shean to Abel Meholah, as far as the border of Jokmeam;",
-      "links": "<a href='/AIV/06/17/11'>Josh. 17:11</a>",
-      "comment": "Geographical boundaries listed for the governor's region."
+      "text": "Baana son of Ahilud, in Taanach, Megiddo, and all Beth-Shean beside Zarethan below Jezreel, from Beth-Shean to Abel-Meholah, as far as Jokmeam;",
+      "links": "<a href='/AIV/06/17/11'>Josh.17:11</a>",
+      "comment": "These details reinforce historical authenticity and the broad span of Solomon’s domain, underscoring the fulfillment of God’s promises to David."
     },
     {
-      "pk": 3114013,
+      "pk": 11004013,
       "translation": "AIV",
       "book": 11,
+      "bookName": "1 Kings",
+      "bookAbbreviation": "1Kgs",
       "chapter": 4,
       "verse": 13,
-      "text": "Ben-Geber, in Ramoth Gilead; the towns of Jair son of Manasseh in Gilead were his, as well as the region of Argob in Bashan—sixty large cities with walls and bronze bars;",
-      "links": "<a href='/AIV/04/32/41'>Num. 32:41</a>; <a href='/AIV/05/3/4'>Deut. 3:4</a>",
-      "comment": "'Bronze bars' indicate fortified cities."
+      "text": "Ben-Geber, in Ramoth-Gilead; the villages of Jair son of Manasseh, in Gilead were his, also the district of Argob in Bashan—sixty great cities with walls and bronze gates.",
+      "links": "<a href='/AIV/05/3/4'>Deut. 3:4</a>; <a href='/AIV/06/13/30'>Josh. 13:30</a>",
+      "comment": "The detailed administrative boundaries point to faithfulness in stewardship, encouraging Christians to honor their vocations faithfully."
     },
     {
-      "pk": 3114014,
+      "pk": 11004014,
       "translation": "AIV",
       "book": 11,
+      "bookName": "1 Kings",
+      "bookAbbreviation": "1Kgs",
       "chapter": 4,
       "verse": 14,
       "text": "Ahinadab son of Iddo, in Mahanaim;",
-      "links": "<a href='/AIV/01/32/2'>Gen. 32:2</a>",
-      "comment": "Mahaniam is east of the Jordan River."
+      "links": "<a href='/AIV/06/13/26'>Josh. 13:26</a>",
+      "comment": "Mahanaim’s history as a refuge in times of trouble foreshadows the Church as a sanctuary for believers."
     },
     {
-      "pk": 3114015,
+      "pk": 11004015,
       "translation": "AIV",
       "book": 11,
+      "bookName": "1 Kings",
+      "bookAbbreviation": "1Kgs",
       "chapter": 4,
       "verse": 15,
-      "text": "Ahimaaz, in Naphtali; he also took Basemath, Solomon’s daughter, as his wife;",
-      "links": "<a href='/AIV/11/4/11'>1 Kings 4:11</a>",
-      "comment": "Marriage to king's daughter as royal recognition."
+      "text": "Ahimaaz, in Naphtali; he married Basemath, Solomon’s daughter;",
+      "links": "<a href='/AIV/11/15/2'>1 Kgs. 15:2</a>",
+      "comment": "Another official marries the king’s daughter, further intertwining the king’s household and administration."
     },
     {
-      "pk": 3114016,
+      "pk": 11004016,
       "translation": "AIV",
       "book": 11,
+      "bookName": "1 Kings",
+      "bookAbbreviation": "1Kgs",
       "chapter": 4,
       "verse": 16,
       "text": "Baana son of Hushai, in Asher and Aloth;",
       "links": "<a href='/AIV/06/19/24'>Josh. 19:24</a>",
-      "comment": "Listing tribes and towns included in his region."
+      "comment": "The appointment over Asher highlights the integration of remote tribes into centralized governance, promoting spiritual unity."
     },
     {
-      "pk": 3114017,
+      "pk": 11004017,
       "translation": "AIV",
       "book": 11,
+      "bookName": "1 Kings",
+      "bookAbbreviation": "1Kgs",
       "chapter": 4,
       "verse": 17,
       "text": "Jehoshaphat son of Paruah, in Issachar;",
       "links": "<a href='/AIV/06/19/17'>Josh. 19:17</a>",
-      "comment": "Issachar is one of the tribes of Israel."
+      "comment": "Issachar, identified as a tribe of labor and wisdom, is entrusted with regional administration."
     },
     {
-      "pk": 3114018,
+      "pk": 11004018,
       "translation": "AIV",
       "book": 11,
+      "bookName": "1 Kings",
+      "bookAbbreviation": "1Kgs",
       "chapter": 4,
       "verse": 18,
       "text": "Shimei son of Ela, in Benjamin;",
-      "links": "<a href='/AIV/06/18/21'>Josh. 18:21</a>",
-      "comment": "Benjamin is another tribe of Israel."
+      "links": "<a href='/AIV/09/10/20'>1 Sam. 10:20</a>",
+      "comment": "Benjamin’s proximity to Jerusalem points to the spiritual center of the kingdom."
     },
     {
-      "pk": 3114019,
+      "pk": 11004019,
       "translation": "AIV",
       "book": 11,
+      "bookName": "1 Kings",
+      "bookAbbreviation": "1Kgs",
       "chapter": 4,
       "verse": 19,
-      "text": "Geber son of Uri, in the land of Gilead, which had formerly belonged to Sihon king of the Amorites and Og king of Bashan. There was only one governor in that region.",
-      "links": "<a href='/AIV/06/13/21'>Josh. 13:21</a>; <a href='/AIV/04/21/26'>Num. 21:26</a>",
-      "comment": "Noting historic rulers over Gilead."
+      "text": "Geber son of Uri, in the land of Gilead, the country of Sihon king of the Amorites and Og king of Bashan. He was the only officer in that region.",
+      "links": "<a href='/AIV/04/21/21'>Num. 21:21</a>",
+      "comment": "Gilead’s distinctive oversight mirrors unique spiritual roles found in the New Testament (cf. Rom. 12:4-8)."
     },
     {
-      "pk": 3114020,
+      "pk": 11004020,
       "translation": "AIV",
       "book": 11,
+      "bookName": "1 Kings",
+      "bookAbbreviation": "1Kgs",
       "chapter": 4,
       "verse": 20,
-      "text": "Judah and Israel were as numerous as the sand by the sea. They ate and drank and were happy.",
-      "links": "<a href='/AIV/01/22/17'>Gen. 22:17</a>; <a href='/AIV/07/20/2'>Judg. 20:2</a>",
-      "comment": "Phrase from earlier OT—'as numerous as the sand by the sea.'"
+      "text": "The people of Judah and Israel were as numerous as the sand on the seashore; they ate, drank, and were happy.",
+      "links": "<a href='/AIV/01/22/17'>Gen. 22:17</a>",
+      "comment": "This fulfills God’s promise to Abraham regarding descendants and blessing. The joy and plenty foreshadow the spiritual abundance found in the messianic reign (cf. John 10:10)."
     },
     {
-      "pk": 3114021,
+      "pk": 11004021,
       "translation": "AIV",
       "book": 11,
+      "bookName": "1 Kings",
+      "bookAbbreviation": "1Kgs",
       "chapter": 4,
       "verse": 21,
-      "text": "Solomon ruled over all the kingdoms from the Euphrates River to the land of the Philistines, and as far as the border of Egypt. They brought tribute and served Solomon all the days of his life.",
-      "links": "<a href='/AIV/06/13/3'>Josh. 13:3</a>; <a href='/AIV/10/8/2'>2 Sam. 8:2</a>",
-      "comment": "Tribute indicates subjection and payment."
+      "text": "Solomon ruled over all kingdoms from the Euphrates to the land of the Philistines and to the border of Egypt. They brought gifts and served Solomon all the days of his life.",
+      "links": "<a href='/AIV/01/15/18'>Gen. 15:18</a>; <a href='/AIV/19/72/10'>Ps. 72:10-11</a>",
+      "comment": "The boundaries echo God’s promise to Abraham. Tribute from other nations prefigures the gathering of all peoples under Christ (cf. Matt. 2:11)."
     },
     {
-      "pk": 3114022,
+      "pk": 11004022,
       "translation": "AIV",
       "book": 11,
+      "bookName": "1 Kings",
+      "bookAbbreviation": "1Kgs",
       "chapter": 4,
       "verse": 22,
       "text": "Solomon’s daily provisions were thirty cors of fine flour and sixty cors of meal,",
-      "links": "<a href='/AIV/13/9/27'>1 Chron. 9:27</a>",
-      "comment": "A 'cor' is about six bushels or two hundred liters."
+      "links": "<a href='/AIV/11/5/2'>1 Kgs. 5:2</a>",
+      "comment": "The abundance reveals both the king’s prosperity and the rich blessing God granted Israel in Solomon’s reign."
     },
     {
-      "pk": 3114023,
+      "pk": 11004023,
       "translation": "AIV",
       "book": 11,
+      "bookName": "1 Kings",
+      "bookAbbreviation": "1Kgs",
       "chapter": 4,
       "verse": 23,
-      "text": "ten fattened cattle, twenty pasture-fed cattle, a hundred sheep, and also deer, gazelles, roebucks, and fattened birds.",
-      "links": "<a href='/AIV/09/25/18'>1 Sam. 25:18</a>",
-      "comment": "Listing various sources of meat."
+      "text": "ten fattened oxen, twenty pasture-fed oxen, a hundred sheep, and also deer, gazelles, roebucks, and fattened fowl.",
+      "links": "<a href='/AIV/11/10/21'>1 Kgs. 10:21</a>",
+      "comment": "This bounty further highlights the golden age of Israel as a sign of divine blessing."
     },
     {
-      "pk": 3114024,
+      "pk": 11004024,
       "translation": "AIV",
       "book": 11,
+      "bookName": "1 Kings",
+      "bookAbbreviation": "1Kgs",
       "chapter": 4,
       "verse": 24,
-      "text": "For he had dominion over all the region west of the Euphrates, from Tiphsah to Gaza, over all the kings west of the river. And he had peace on all sides around him.",
-      "links": "<a href='/AIV/06/19/40'>Josh. 19:40</a>",
-      "comment": "Indicates Solomon's far-reaching rule and security."
+      "text": "He had dominion over all the region west of the Euphrates, from Tiphsah to Gaza, over all the kings west of the Euphrates; and he had peace on all sides.",
+      "links": "<a href='/AIV/19/72/7'>Ps. 72:7</a>",
+      "comment": "Solomon's peace points prophetically to Christ’s reign as Prince of Peace, whose kingdom knows no end (Isa. 9:6-7)."
     },
     {
-      "pk": 3114025,
+      "pk": 11004025,
       "translation": "AIV",
       "book": 11,
+      "bookName": "1 Kings",
+      "bookAbbreviation": "1Kgs",
       "chapter": 4,
       "verse": 25,
-      "text": "Judah and Israel lived in safety, every man under his vine and his fig tree, from Dan to Beersheba, all the days of Solomon.",
-      "links": "<a href='/AIV/07/20/1'>Judg. 20:1</a>; <a href='/AIV/33/4/4'>Mic. 4:4</a>",
-      "comment": "'Under his vine and his fig tree' is a common phrase signaling peace and prosperity."
+      "text": "During Solomon’s lifetime Judah and Israel lived in safety, each man under his vine and fig tree, from Dan to Beersheba.",
+      "links": "<a href='/AIV/03/26/5'>Lev. 26:5</a>; <a href='/AIV/33/4/4'>Mic. 4:4</a>",
+      "comment": "Safety and prosperity symbolize the peace which God desires for His people—a peace fully realized under Christ."
     },
     {
-      "pk": 3114026,
+      "pk": 11004026,
       "translation": "AIV",
       "book": 11,
+      "bookName": "1 Kings",
+      "bookAbbreviation": "1Kgs",
       "chapter": 4,
       "verse": 26,
       "text": "Solomon had forty thousand stalls for horses for his chariots, and twelve thousand horsemen.",
-      "links": "<a href='/AIV/14/9/25'>2 Chron. 9:25</a>",
-      "comment": "Some ancient manuscripts have 'four thousand' instead of 'forty thousand.'"
+      "links": "<a href='/AIV/14/9/25'>2 Chr. 9:25</a>",
+      "comment": "Solomon’s wealth in horses fulfills prophecy yet also sows the seeds for future warnings about trusting in chariots rather than the Lord (Ps. 20:7)."
     },
     {
-      "pk": 3114027,
+      "pk": 11004027,
       "translation": "AIV",
       "book": 11,
+      "bookName": "1 Kings",
+      "bookAbbreviation": "1Kgs",
       "chapter": 4,
       "verse": 27,
-      "text": "The district governors supplied food for King Solomon and all who came to his table, each in his month, and they left nothing lacking.",
-      "links": "<a href='/AIV/11/4/7'>1 Kings 4:7</a>",
-      "comment": "District governors' duty to supply provisions is emphasized."
+      "text": "The district governors supplied food for King Solomon and all who came to the king’s table; each in his month, with nothing lacking.",
+      "links": "<a href='/AIV/11/4/7'>1 Kgs. 4:7</a>",
+      "comment": "Organization ensured continual provision, reflecting the scriptural principles of order and care (cf. Acts 6:1-4)."
     },
     {
-      "pk": 3114028,
+      "pk": 11004028,
       "translation": "AIV",
       "book": 11,
+      "bookName": "1 Kings",
+      "bookAbbreviation": "1Kgs",
       "chapter": 4,
       "verse": 28,
-      "text": "They also brought barley and straw for the horses and chargers to the place where it should be, each according to his responsibilities.",
-      "links": "<a href='/AIV/11/4/26'>1 Kings 4:26</a>",
-      "comment": "Provision for animals is mentioned distinctly."
+      "text": "They brought barley and straw for the horses and swift steeds to their proper place, each according to his duty.",
+      "links": "<a href='/AIV/18/39/19'>Job 39:19-25</a>",
+      "comment": "Care for animals reflects God’s compassion even toward all creation (cf. Prov. 12:10). Systematic provision prefigures the spiritual discipline found in later Christian tradition."
     },
     {
-      "pk": 3114029,
+      "pk": 11004029,
       "translation": "AIV",
       "book": 11,
+      "bookName": "1 Kings",
+      "bookAbbreviation": "1Kgs",
       "chapter": 4,
       "verse": 29,
-      "text": "God gave Solomon wisdom and very great understanding, and breadth of mind like the sand on the seashore.",
-      "links": "<a href='/AIV/11/3/12'>1 Kings 3:12</a>; <a href='/AIV/01/22/17'>Gen. 22:17</a>",
-      "comment": "Comparison of Solomon’s wisdom to the sand on the seashore."
+      "text": "God gave Solomon wisdom and very great understanding, and breadth of heart, as vast as the sand on the seashore.",
+      "links": "<a href='/AIV/11/3/12'>1 Kgs. 3:12</a>; <a href='/AIV/19/119/96'>Ps. 119:96</a>",
+      "comment": "Solomon’s wisdom is a type of Christ—the wise King and Teacher, whose wisdom exceeds Solomon’s (cf. Matt 12:42)."
     },
     {
-      "pk": 3114030,
+      "pk": 11004030,
       "translation": "AIV",
       "book": 11,
+      "bookName": "1 Kings",
+      "bookAbbreviation": "1Kgs",
       "chapter": 4,
       "verse": 30,
-      "text": "Solomon’s wisdom surpassed the wisdom of all the people of the east, and all the wisdom of Egypt.",
-      "links": "<a href='/AIV/18/1/3'>Job 1:3</a>",
-      "comment": "The 'people of the east' refers to wise men from Mesopotamia and Arabia."
+      "text": "Solomon’s wisdom exceeded the wisdom of all the people of the east and all the wisdom of Egypt.",
+      "links": "<a href='/AIV/11/10/23'>1 Kgs. 10:23</a>",
+      "comment": "The contrast between divinely-given wisdom and earthly wisdom echoes Paul’s teaching that true wisdom comes from God through Christ (1 Cor. 1:24-25)."
     },
     {
-      "pk": 3114031,
+      "pk": 11004031,
       "translation": "AIV",
       "book": 11,
+      "bookName": "1 Kings",
+      "bookAbbreviation": "1Kgs",
       "chapter": 4,
       "verse": 31,
-      "text": "He was wiser than all other men—than Ethan the Ezrahite, and Heman, Calcol, and Darda, the sons of Mahol. And his fame was in all the surrounding nations.",
-      "links": "<a href='/AIV/19/89/1'>Ps. 89:1</a>; <a href='/AIV/13/2/6'>1 Chron. 2:6</a>",
-      "comment": "Names listed were known for wisdom according to ancient tradition."
+      "text": "He was wiser than all men—wiser than Ethan the Ezrahite, and Heman, Calcol, and Darda, sons of Mahol. His fame spread to all the surrounding nations.",
+      "links": "<a href='/AIV/19/89/1'>Ps. 89:1</a>",
+      "comment": "Solomon’s wisdom became a light to the nations, a prophetic sign that ultimately points toward Christ as the Light of the world (John 8:12)."
     },
     {
-      "pk": 3114032,
+      "pk": 11004032,
       "translation": "AIV",
       "book": 11,
+      "bookName": "1 Kings",
+      "bookAbbreviation": "1Kgs",
       "chapter": 4,
       "verse": 32,
-      "text": "He spoke three thousand proverbs, and his songs numbered one thousand five.",
-      "links": "<a href='/AIV/20/1/1'>Prov. 1:1</a>; <a href='/AIV/22/1/1'>Song of Songs 1:1</a>",
-      "comment": "Refers to Solomon as author of Proverbs and many songs."
+      "text": "He spoke three thousand proverbs and his songs numbered one thousand and five.",
+      "links": "<a href='/AIV/20/1/1'>Prov. 1:1</a>; <a href='/AIV/22/1/1'>Song 1:1</a>",
+      "comment": "Solomon as author of proverbs and songs embodies the tradition of wisdom literature passed down in Scripture."
     },
     {
-      "pk": 3114033,
+      "pk": 11004033,
       "translation": "AIV",
       "book": 11,
+      "bookName": "1 Kings",
+      "bookAbbreviation": "1Kgs",
       "chapter": 4,
       "verse": 33,
-      "text": "He spoke about trees, from the cedar in Lebanon to the hyssop that grows out of the wall. He spoke also about animals, birds, reptiles, and fish.",
-      "links": "<a href='/AIV/20/6/6'>Prov. 6:6</a>",
-      "comment": "Highlights Solomon’s broad scientific knowledge."
+      "text": "He spoke of trees, from the cedar in Lebanon to the hyssop that grows out of the wall; he spoke also of animals, birds, creeping things, and fish.",
+      "links": "<a href='/AIV/01/2/19'>Gen. 2:19</a>; <a href='/AIV/19/104/24'>Ps. 104:24</a>",
+      "comment": "Wisdom’s scope covers all creation, pointing to the harmony intended by God and later celebrated in Christian theology of stewardship and sacramentality."
     },
     {
-      "pk": 3114034,
+      "pk": 11004034,
       "translation": "AIV",
       "book": 11,
+      "bookName": "1 Kings",
+      "bookAbbreviation": "1Kgs",
       "chapter": 4,
       "verse": 34,
-      "text": "People came from all nations to hear Solomon’s wisdom, sent by all the kings of the earth who had heard of his wisdom.",
-      "links": "<a href='/AIV/11/10/1'>1 Kings 10:1</a>; <a href='/AIV/14/9/23'>2 Chron. 9:23</a>",
-      "comment": "Sets the scene for visit of the Queen of Sheba in 1 Kings 10."
+      "text": "Men came from all peoples to hear the wisdom of Solomon, from all the kings of the earth who had heard of his wisdom.",
+      "links": "<a href='/AIV/11/10/1'>1 Kgs. 10:1</a>; <a href='/AIV/19/72/11'>Ps. 72:11</a>",
+      "comment": "Solomon’s international fame anticipates the universal call of salvation to every nation in Christ, and the gathering of people around wisdom, as the nations gather around the visible Church (cf. Matt. 28:19-20)."
     }
   ],
-  "translatedAt": "2025-12-22T09:50:13.160Z"
+  "translatedAt": "2025-12-24T03:29:44.541Z"
 }

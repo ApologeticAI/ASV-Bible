@@ -1,128 +1,153 @@
 {
-  "book": "Psalms",
+  "book": 23,
+  "bookName": "Psalms",
   "bookAbbreviation": "Ps",
   "chapter": 62,
   "verses": [
     {
-      "pk": 6206201,
+      "pk": 23062001,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 62,
       "verse": 1,
-      "text": "For God alone my soul waits in silence; from him comes my salvation.",
-      "links": "<a href='/AIV/19/39/7'>Ps. 39:7</a>; <a href='/AIV/19/130/5'>Ps. 130:5</a>",
-      "comment": "The psalmist expresses a soul quieted in patient expectation. The translation keeps the word 'alone,' which emphasizes the exclusivity of trusting in God—a theme found throughout the Psalms. In the Catholic spiritual tradition, such silence before God is deeply connected to interior contemplation and prayer (see <a href='/AIV/40/6/6'>Matt. 6:6</a>)."
+      "text": "Truly my soul waits in silence for God; from Him comes my salvation.",
+      "links": "<a href='/AIV/19/37/7'>Ps. 37:7</a>; <a href='/AIV/19/3/8'>Ps. 3:8</a>",
+      "comment": "The psalmist opens by emphasizing total dependence on God. The word 'salvation' here points not only to rescue but also spiritual deliverance, which will later be ultimately fulfilled in Christ (see <a href='/AIV/40/1/21'>Matt. 1:21</a>)."
     },
     {
-      "pk": 6206202,
+      "pk": 23062002,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 62,
       "verse": 2,
       "text": "He alone is my rock and my salvation, my fortress; I will never be greatly shaken.",
-      "links": "<a href='/AIV/19/18/2'>Ps. 18:2</a>; <a href='/AIV/19/46/1-2'>Ps. 46:1-2</a>",
-      "comment": "God as ‘rock,’ ‘salvation,’ and ‘fortress’ is traditional language for protection and stability. For Christian readers, this prefigures Christ as the cornerstone (see <a href='/AIV/60/2/6'>1 Pet. 2:6</a>)."
+      "links": "<a href='/AIV/19/18/2'>Ps. 18:2</a>; <a href='/AIV/19/61/2'>Ps. 61:2-3</a>",
+      "comment": "Calling God 'my rock' and 'fortress' signals unshakeable trust, themes later echoed by Jesus teaching on building one's life on solid foundation (<a href='/AIV/40/7/24'>Matt. 7:24</a>). Salvation is depicted as personal, yet communal in the context of God's covenant people."
     },
     {
-      "pk": 6206203,
+      "pk": 23062003,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 62,
       "verse": 3,
-      "text": "How long will you attack a man, all of you, to crush him, like a leaning wall, a tottering fence?",
-      "links": "<a href='/AIV/19/64/3-4'>Ps. 64:3-4</a>",
-      "comment": "The psalmist’s enemies plot his downfall. The image highlights human frailty, and, spiritually, calls to humility and reliance on divine strength rather than self-assurance—a concept echoed by St. Paul (<a href='/AIV/47/12/10'>2 Cor. 12:10</a>)."
+      "text": "How long will you attack a man, all of you, to batter him down, as if he were a leaning wall, a tottering fence?",
+      "links": "<a href='/AIV/19/31/13'>Ps. 31:13</a>; <a href='/AIV/19/42/10'>Ps. 42:10</a>",
+      "comment": "The psalmist laments unjust opposition, using vivid imagery of weakness. This suffering is suggestive of the righteous being persecuted, a motif fulfilled in the life of Christ (<a href='/AIV/23/53/3'>Isa. 53:3</a>; <a href='/AIV/43/15/20'>John 15:20</a>)."
     },
     {
-      "pk": 6206204,
+      "pk": 23062004,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 62,
       "verse": 4,
-      "text": "They only plan to cast him down from his high position; they delight in lies. With their mouths they bless, but in their hearts they curse.",
+      "text": "They only plan to cast him down from his high position; they delight in lies. With their mouths they bless, but inwardly they curse.",
       "links": "<a href='/AIV/19/28/3'>Ps. 28:3</a>; <a href='/AIV/19/55/21'>Ps. 55:21</a>",
-      "comment": "Duplicity is criticized here; blessing with the mouth but cursing inwardly reflects a divided heart. The literal sense applies to David’s enemies, the spiritual sense warns Christians against hypocrisy—a concern Jesus addressed (<a href='/AIV/40/23/28'>Matt. 23:28</a>)."
+      "comment": "This verse draws attention to hypocrisy and hidden malice, something Jesus condemned in spiritual leaders (<a href='/AIV/40/23/27'>Matt. 23:27</a>). Spiritual integrity is highlighted as essential for those who worship God in truth."
     },
     {
-      "pk": 6206205,
+      "pk": 23062005,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 62,
       "verse": 5,
-      "text": "For God alone, O my soul, wait in silence, for my hope comes from him.",
-      "links": "<a href='/AIV/19/42/5'>Ps. 42:5</a>; <a href='/AIV/19/130/5'>Ps. 130:5</a>",
-      "comment": "Repetition in the psalm emphasizes the necessity for patience and trust in God. Catholic tradition values repeated prayer and silence as forms of hope-filled surrender in contemplative prayer."
+      "text": "My soul waits silently for God alone, for my hope is from Him.",
+      "links": "<a href='/AIV/19/130/5'>Ps. 130:5</a>; <a href='/AIV/19/39/7'>Ps. 39:7</a>",
+      "comment": "Hope in God is presented as steadfast and exclusive. Waiting in silence evokes reverence, reminiscent of meditative prayer, which has deep roots in ancient Christian worship."
     },
     {
-      "pk": 6206206,
+      "pk": 23062006,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 62,
       "verse": 6,
-      "text": "He alone is my rock and my salvation, my stronghold; I will not be shaken.",
-      "links": "<a href='/AIV/19/18/2'>Ps. 18:2</a>; <a href='/AIV/19/27/1'>Ps. 27:1</a>",
-      "comment": "Echoes verse 2 almost exactly, intensifying the psalmist’s confidence. The doctrine of God as an unshakable ‘stronghold’ prefigures the security found in Christ, and by extension, the Church as a spiritual fortress (<a href='/AIV/40/16/18'>Matt. 16:18</a>)."
+      "text": "He alone is my rock and my salvation, my fortress; I will not be shaken.",
+      "links": "<a href='/AIV/19/31/3'>Ps. 31:3</a>; <a href='/AIV/19/16/8'>Ps. 16:8</a>",
+      "comment": "Repeats verse 2, reinforcing confidence in God's protection. The language mirrors the security found in God's covenant promises, which find their fullness in Christ (<a href='/AIV/45/8/38-39'>Rom. 8:38-39</a>)."
     },
     {
-      "pk": 6206207,
+      "pk": 23062007,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 62,
       "verse": 7,
-      "text": "On God rests my salvation and my glory; the rock of my strength, my refuge is in God.",
-      "links": "<a href='/AIV/19/3/3'>Ps. 3:3</a>; <a href='/AIV/19/61/2-4'>Ps. 61:2-4</a>",
-      "comment": "Salvation and glory are recognized as God’s gifts. In Catholic theology, salvation is both a divine initiative and a shared glory (cf. <a href='/AIV/45/8/17'>Rom. 8:17</a>)—pointing to our union with Christ and the saints."
+      "text": "On God rests my salvation and my glory; the rock of my strength, my refuge, is in God.",
+      "links": "<a href='/AIV/19/18/31'>Ps. 18:31</a>; <a href='/AIV/19/3/3'>Ps. 3:3</a>",
+      "comment": "Salvation and spiritual 'glory' are rooted in God alone. The concept of refuge has a spiritual dimension: believers find strength and identity in God's presence, hinting at the importance of worship and spiritual union."
     },
     {
-      "pk": 6206208,
+      "pk": 23062008,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 62,
       "verse": 8,
-      "text": "Trust in him at all times, O people; pour out your hearts before him. God is our refuge.",
-      "links": "<a href='/AIV/19/42/4'>Ps. 42:4</a>; <a href='/AIV/50/4/6'>Phil. 4:6</a>",
-      "comment": "The exhortation is communal—‘O people’—encouraging all to open their hearts to God. Catholic liturgy often invites the faithful to ‘lift up your hearts,’ a Foreshadowing of corporate worship and sacramental life."
+      "text": "Trust in Him at all times, O people; pour out your hearts before Him. God is a refuge for us.",
+      "links": "<a href='/AIV/19/50/15'>Ps. 50:15</a>; <a href='/AIV/19/142/2'>Ps. 142:2</a>",
+      "comment": "Communal call to trust and heartfelt prayer is parallel to New Testament encouragement to bring every care before God (<a href='/AIV/50/4/6'>Phil. 4:6</a>). The psalmist links individual and collective faith, a concept foundational to Christian community and worship."
     },
     {
-      "pk": 6206209,
+      "pk": 23062009,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 62,
       "verse": 9,
-      "text": "Surely the lowly are a breath; the high-born are but a lie. If weighed together on the scales, they are lighter than a breath.",
-      "links": "<a href='/AIV/19/39/5'>Ps. 39:5</a>; <a href='/AIV/21/1/2'>Eccl. 1:2</a>",
-      "comment": "Human status is fleeting. The imagery anticipates Christian teaching on humility and the vanity of worldly distinctions (<a href='/AIV/59/1/10'>Jas. 1:10</a>)."
+      "text": "Surely men of low estate are but a breath, those of high estate are a delusion; in the scales they rise, they are altogether lighter than a breath.",
+      "links": "<a href='/AIV/19/39/5'>Ps. 39:5</a>; <a href='/AIV/19/144/4'>Ps. 144:4</a>",
+      "comment": "This verse reminds us of human limitation and vanity. The transience of life is a frequent theme in wisdom literature (<a href='/AIV/21/1/2'>Eccl. 1:2</a>). Recognizing our frailty prepares us to seek dependence on Divine grace."
     },
     {
-      "pk": 6206210,
+      "pk": 23062010,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 62,
       "verse": 10,
-      "text": "Do not trust in extortion, nor set vain hope on stolen goods; if riches increase, do not set your heart on them.",
-      "links": "<a href='/AIV/20/11/28'>Prov. 11:28</a>; <a href='/AIV/40/6/19-21'>Matt. 6:19–21</a>",
-      "comment": "The teaching warns against the idolatry of wealth—echoing Christ’s later instruction to store up spiritual treasure (<a href='/AIV/40/6/20'>Matt. 6:20</a>). Detachment from riches is a central theme in Catholic monasticism and spiritual life."
+      "text": "Do not trust in oppression, nor put vain hope in robbery; if riches increase, do not set your heart on them.",
+      "links": "<a href='/AIV/19/49/6'>Ps. 49:6-7</a>; <a href='/AIV/40/6/19-21'>Matt. 6:19-21</a>",
+      "comment": "Strong warning against materialism and injustice. Similar teaching is found in Jesus' sermon on the mount. True Christian discipleship involves detachment from wealth and setting our heart on God."
     },
     {
-      "pk": 6206211,
+      "pk": 23062011,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 62,
       "verse": 11,
-      "text": "God has spoken once; twice have I heard this: that power belongs to God,",
-      "links": "<a href='/AIV/40/28/18'>Matt. 28:18</a>; <a href='/AIV/18/33/14'>Job 33:14</a>",
-      "comment": "The repetition (‘once…twice’) intensifies certainty. Power belongs to God alone—a truth fulfilled in the risen Christ who claims ‘all authority’ (<a href='/AIV/40/28/18'>Matt. 28:18</a>)."
+      "text": "God has spoken once; twice have I heard this: power belongs to God.",
+      "links": "<a href='/AIV/19/29/4'>Ps. 29:4</a>; <a href='/AIV/18/33/14'>Job 33:14</a>",
+      "comment": "The 'once...twice' formula stresses certainty and emphasis in Hebrew thought. God's omnipotence is declared, foreshadowing New Testament revelation of Christ's divine authority (<a href='/AIV/40/28/18'>Matt. 28:18</a>)."
     },
     {
-      "pk": 6206212,
+      "pk": 23062012,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 62,
       "verse": 12,
-      "text": "and to you, Lord, belongs steadfast love; for you repay everyone according to his deeds.",
-      "links": "<a href='/AIV/24/17/10'>Jer. 17:10</a>; <a href='/AIV/40/16/27'>Matt. 16:27</a>; <a href='/AIV/45/2/6'>Rom. 2:6</a>",
-      "comment": "God’s covenant love (‘steadfast love’) and justice are the conclusion of the psalm. The truth that God repays according to one’s deeds resonates with Christ’s teachings (<a href='/AIV/40/16/27'>Matt. 16:27</a>) and underlines the necessity of both faith and works—a fundamental doctrine in Catholic soteriology."
+      "text": "And to You, Lord, belongs steadfast love; for You reward each one according to his work.",
+      "links": "<a href='/AIV/19/86/15'>Ps. 86:15</a>; <a href='/AIV/45/2/6'>Rom. 2:6</a>; <a href='/AIV/40/16/27'>Matt. 16:27</a>",
+      "comment": "God's steadfast love ('hesed') and just judgment are foundational. The idea that God rewards according to works prepares believers for New Testament teachings on judgment and the importance of living faith demonstrated through actions (<a href='/AIV/59/2/24'>James 2:24</a>)."
     }
   ],
-  "translatedAt": "2025-12-22T21:39:29.148Z"
+  "translatedAt": "2025-12-24T06:19:59.889Z"
 }

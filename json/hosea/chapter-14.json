@@ -1,98 +1,117 @@
 {
-  "book": "Hosea",
+  "book": 35,
+  "bookName": "Hosea",
   "bookAbbreviation": "Hos",
   "chapter": 14,
   "verses": [
     {
-      "pk": 24001401,
+      "pk": 35014001,
       "translation": "AIV",
-      "book": 28,
+      "book": 35,
+      "bookName": "Hosea",
+      "bookAbbreviation": "Hos",
       "chapter": 14,
       "verse": 1,
-      "text": "Return, O Israel, to the LORD your God, for you have stumbled because of your iniquity.",
-      "links": "<a href='/AIV/23/55/7'>Isa. 55:7</a>; <a href='/AIV/24/3/12-14'>Jer. 3:12-14</a>",
-      "comment": "The call to return to the LORD echoes the prophetic tradition, urging the people to repentance. The imagery of 'stumbling' because of sin emphasizes the personal responsibility of Israel in their turning away. The LORD is presented as both judge and merciful redeemer, preparing the way for later New Testament themes of confession and restoration (<a href='/AIV/42/15/18'>Luke 15:18</a>)."
+      "text": "Return, Israel, to the LORD your God, for you have stumbled because of your sins.",
+      "links": "<a href='/AIV/23/59/2'>Isaiah 59:2</a>; <a href='/AIV/19/32/5'>Psalm 32:5</a>",
+      "comment": "Hosea calls the people to repentance, recognizing separation from God is caused by their own sins. Similar calls to return to God fill the Old Testament, forming a basis for both individual and communal repentance. The idea of collective return foreshadows New Testament teaching on the Church as the Body of Christ, united in reconciliation and forgiveness (see <a href='/AIV/46/5/18'>2 Corinthians 5:18</a>)."
     },
     {
-      "pk": 24001402,
+      "pk": 35014002,
       "translation": "AIV",
-      "book": 28,
+      "book": 35,
+      "bookName": "Hosea",
+      "bookAbbreviation": "Hos",
       "chapter": 14,
       "verse": 2,
-      "text": "Take words with you and return to the LORD; say to Him, 'Take away all iniquity; accept what is good, and we will offer the fruit of our lips as sacrifices.'",
-      "links": "<a href='/AIV/19/51/17'>Ps. 51:17</a>; <a href='/AIV/58/13/15'>Heb. 13:15</a>",
-      "comment": "The invitation to bring 'words' highlights the importance of confession (cf. <a href='/AIV/19/32/5'>Ps. 32:5</a>). The 'fruit of our lips' points toward spiritual sacrifices, later echoed in Christian liturgical practice. The notion that prayer, confession, and praise are acceptable offerings to God anticipates New Testament worship."
+      "text": "Take words with you and return to the LORD. Say to Him: 'Remove all iniquity and receive us graciously, so we may offer the fruit of our lips.'",
+      "links": "<a href='/AIV/19/51/15'>Psalm 51:15</a>; <a href='/AIV/58/13/15'>Hebrews 13:15</a>",
+      "comment": "The expression ‘fruit of our lips’ indicates that worship and confession are central to genuine repentance. The emphasis on spoken confession hints at the enduring pattern of verbal prayer and repentance, which becomes foundational in Christian worship (see <a href='/AIV/59/5/16'>James 5:16</a>)."
     },
     {
-      "pk": 24001403,
+      "pk": 35014003,
       "translation": "AIV",
-      "book": 28,
+      "book": 35,
+      "bookName": "Hosea",
+      "bookAbbreviation": "Hos",
       "chapter": 14,
       "verse": 3,
-      "text": "Assyria will not save us; we will not ride on horses, and we will say no more, 'Our God,' to the work of our hands. For in you the orphan finds mercy.",
-      "links": "<a href='/AIV/19/33/17'>Ps. 33:17</a>; <a href='/AIV/23/31/1'>Isa. 31:1</a>",
-      "comment": "Rejecting reliance on foreign powers or idols signals a turn toward total trust in God. The mention of mercy to the orphan echoes God's special concern for the vulnerable (<a href='/AIV/19/68/5'>Ps. 68:5</a>). The passage reflects both a literal and spiritual call to trust in God's provision."
+      "text": "'Assyria will not save us; we will not ride upon horses; and we will no longer say ‘Our God’ to the work of our hands. In You the orphan finds mercy.'",
+      "links": "<a href='/AIV/19/68/5'>Psalm 68:5</a>; <a href='/AIV/23/31/1'>Isaiah 31:1</a>",
+      "comment": "Israel renounces reliance on political alliances and idolatry. This surrender points to total dependence on the grace of God, illustrated in the New Testament as faith in Christ alone for salvation. God’s care for the orphan reveals His heart for the vulnerable and calls believers to trust in His providence above self-made solutions."
     },
     {
-      "pk": 24001404,
+      "pk": 35014004,
       "translation": "AIV",
-      "book": 28,
+      "book": 35,
+      "bookName": "Hosea",
+      "bookAbbreviation": "Hos",
       "chapter": 14,
       "verse": 4,
-      "text": "I will heal their waywardness; I will love them freely, for My anger has turned away from them.",
-      "links": "<a href='/AIV/19/103/3'>Ps. 103:3</a>; <a href='/AIV/23/57/18'>Isa. 57:18</a>",
-      "comment": "The LORD Himself promises healing and unmerited love, underscoring divine initiative in reconciliation. God's love is portrayed as unearned, which finds fulfillment in Christ (cf. <a href='/AIV/45/5/8'>Rom. 5:8</a>). The phrase 'My anger has turned away' alludes to appeasement, anticipated in the atoning sacrifice of Jesus."
+      "text": "I will heal their apostasy. I will love them freely, for My anger has turned away from them.",
+      "links": "<a href='/AIV/24/3/22'>Jeremiah 3:22</a>; <a href='/AIV/19/30/5'>Psalm 30:5</a>",
+      "comment": "God promises healing and unconditional love after repentance. This foreshadows the fuller revelation of God's forgiveness through Christ, who reconciles sinners (see <a href='/AIV/45/5/8'>Romans 5:8</a>). Divine initiative in restoration reflects deep mercy and points to a continual invitation to return."
     },
     {
-      "pk": 24001405,
+      "pk": 35014005,
       "translation": "AIV",
-      "book": 28,
+      "book": 35,
+      "bookName": "Hosea",
+      "bookAbbreviation": "Hos",
       "chapter": 14,
       "verse": 5,
-      "text": "I will be like the dew to Israel; he will blossom like the lily; he will take root like the cedars of Lebanon.",
-      "links": "<a href='/AIV/19/92/12'>Ps. 92:12</a>; <a href='/AIV/23/35/1-2'>Isa. 35:1-2</a>",
-      "comment": "Dew signifies life, blessing, and God's gracious presence. The lily and cedar offer images of both beauty and strength, foreshadowing the restoration of God's people. Theological traditions see the dew as symbolic of the outpouring of grace, and the blossoming as the flourishing of the faithful in God's kingdom."
+      "text": "I will be like dew to Israel. He will blossom like a lily and root like the cedars of Lebanon.",
+      "links": "<a href='/AIV/23/26/19'>Isaiah 26:19</a>; <a href='/AIV/19/92/12'>Psalm 92:12</a>",
+      "comment": "Dew symbolizes refreshing and life-giving presence. Israel’s flourishing imagery is echoed throughout Scripture, suggesting both spiritual renewal and the promise of resurrection life. Deep rooting calls to mind the Church’s growth through sacramental grace and the enduring strength imparted by the Spirit."
     },
     {
-      "pk": 24001406,
+      "pk": 35014006,
       "translation": "AIV",
-      "book": 28,
+      "book": 35,
+      "bookName": "Hosea",
+      "bookAbbreviation": "Hos",
       "chapter": 14,
       "verse": 6,
-      "text": "His shoots will spread out; his beauty shall be like the olive tree, and his fragrance like the cedars of Lebanon.",
-      "links": "<a href='/AIV/19/52/8'>Ps. 52:8</a>; <a href='/AIV/24/11/16'>Jer. 11:16</a>",
-      "comment": "The olive tree and cedar were symbols of endurance, prosperity, and divine favor. These images spiritually point to Israel's mission to bear fruit in the world. Later Christian tradition often connects these images to the flourishing of the Church and the spread of the Gospel (<a href='/AIV/40/13/31-32'>Matt. 13:31-32</a>)."
+      "text": "His shoots will spread out, his beauty will be like the olive tree, and his fragrance like Lebanon.",
+      "links": "<a href='/AIV/19/52/8'>Psalm 52:8</a>; <a href='/AIV/22/4/11'>Song of Solomon 4:11</a>",
+      "comment": "The olive tree traditionally signifies peace and anointing, linking to spiritual abundance and the role of the Holy Spirit. The spreading shoots point to mission and universal blessing, a pattern fulfilled in the worldwide growth of Christ’s followers."
     },
     {
-      "pk": 24001407,
+      "pk": 35014007,
       "translation": "AIV",
-      "book": 28,
+      "book": 35,
+      "bookName": "Hosea",
+      "bookAbbreviation": "Hos",
       "chapter": 14,
       "verse": 7,
-      "text": "Those who dwell under his shade will return; they will revive like the grain and blossom like the vine; his fame will be like the wine of Lebanon.",
-      "links": "<a href='/AIV/19/80/8-9'>Ps. 80:8-9</a>; <a href='/AIV/43/15/1-5'>John 15:1-5</a>",
-      "comment": "'Dwelling under his shade' evokes the idea of finding refuge in God's community. The grain and vine are images rich in sacramental meaning, recalling the bread and wine later instituted by Jesus as signs of the new covenant (<a href='/AIV/40/26/26-29'>Matt. 26:26-29</a>)."
+      "text": "Those who dwell in his shade will return; they will revive like grain and blossom like the vine. His fame will be like the wine of Lebanon.",
+      "links": "<a href='/AIV/19/72/7'>Psalm 72:7</a>; <a href='/AIV/43/15/5'>John 15:5</a>",
+      "comment": "Revival and fruitfulness suggest spiritual restoration through abiding close to the Lord. Wine as a symbol connects to sacramental celebration and spiritual joy. This pattern is developed further in the New Covenant, where Christ is the true vine nourishing His people."
     },
     {
-      "pk": 24001408,
+      "pk": 35014008,
       "translation": "AIV",
-      "book": 28,
+      "book": 35,
+      "bookName": "Hosea",
+      "bookAbbreviation": "Hos",
       "chapter": 14,
       "verse": 8,
-      "text": "Ephraim will say, 'What more have I to do with idols?' It is I who answer and look after him. I am like a flourishing cypress; your fruit is found in Me.",
-      "links": "<a href='/AIV/23/44/21-22'>Isa. 44:21-22</a>; <a href='/AIV/43/15/4'>John 15:4</a>",
-      "comment": "God here is portrayed as the source of all spiritual fruitfulness and faithfulness. 'Your fruit is found in Me' anticipates Jesus' teaching about abiding in the true vine (<a href='/AIV/43/15/5'>John 15:5</a>), showing that only through God can true spiritual life be borne. The rejection of idols is total and lasting."
+      "text": "Ephraim will say, 'What have I to do with idols anymore?' I answer and care for him. I am like a green cypress; your fruit comes from Me.",
+      "links": "<a href='/AIV/19/1/3'>Psalm 1:3</a>; <a href='/AIV/23/44/21-22'>Isaiah 44:21-22</a>",
+      "comment": "Ephraim’s renunciation of idols demonstrates a turning toward personal relationship with God. Fruit coming from the Lord anticipates the teaching of Christ about abiding in Him (see <a href='/AIV/43/15/4'>John 15:4</a>). God directly cares for and nourishes His people, reinforcing spiritual union."
     },
     {
-      "pk": 24001409,
+      "pk": 35014009,
       "translation": "AIV",
-      "book": 28,
+      "book": 35,
+      "bookName": "Hosea",
+      "bookAbbreviation": "Hos",
       "chapter": 14,
       "verse": 9,
-      "text": "Who is wise? Let him understand these things; who is discerning? Let him know them. For the ways of the LORD are upright, and the righteous walk in them, but transgressors stumble in them.",
-      "links": "<a href='/AIV/20/2/6-8'>Prov. 2:6-8</a>; <a href='/AIV/19/1/6'>Ps. 1:6</a>",
-      "comment": "This verse concludes as a wisdom saying, urging careful meditation on God's ways. The choice between walking and stumbling echoes the theme found throughout Scripture: true wisdom consists of obedience and faithfulness. The verse encourages both a literal following of the law and a deeper spiritual walk, in harmony with the fullness of divine revelation."
+      "text": "Who is wise? Let him understand these things. Who is discerning? Let him know them. For the ways of the LORD are right, and the righteous walk in them, but transgressors stumble in them.",
+      "links": "<a href='/AIV/19/107/43'>Psalm 107:43</a>; <a href='/AIV/40/7/13-14'>Matthew 7:13-14</a>",
+      "comment": "The closing verse calls for wisdom and spiritual understanding, echoing biblical exhortations to seek truth and walk in righteousness. It underscores that God’s ways are both a path to life and a stumbling block to the rebellious, compelling all believers to humility, obedience, and ongoing conversion of heart."
     }
   ],
-  "translatedAt": "2025-12-23T07:23:49.731Z"
+  "translatedAt": "2025-12-24T09:39:52.371Z"
 }

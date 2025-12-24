@@ -1,128 +1,153 @@
 {
-  "book": "Psalms",
+  "book": 23,
+  "bookName": "Psalms",
   "bookAbbreviation": "Ps",
   "chapter": 5,
   "verses": [
     {
-      "pk": 2000051,
+      "pk": 23005001,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 5,
       "verse": 1,
-      "text": "Give ear to my words, O LORD; consider my groaning.",
-      "links": "<a href='/AIV/19/4/1'>Ps. 4:1</a>; <a href='/AIV/18/16/20'>Job 16:20</a>",
-      "comment": "The psalmist appeals to God's attentive listening, showing intimate prayer. The word 'groaning' may refer to both words and unspoken prayers, much like the tradition of meditative prayer found in the Psalms and Church practice (cf. Romans 8:26)."
+      "text": "Give ear to my words, O Lord; consider my meditation.",
+      "links": "<a href='/AIV/19/54/2'>Ps. 54:2</a>; <a href='/AIV/19/4/1'>Ps. 4:1</a>",
+      "comment": "The psalm opens with an earnest request for God to listen to prayer, laying the foundation for understanding God as attentive and personal. The term 'meditation' also suggests that silent, inward prayer and contemplation are valued approaches to God."
     },
     {
-      "pk": 2000052,
+      "pk": 23005002,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 5,
       "verse": 2,
-      "text": "Listen to the sound of my cry, my King and my God, for to you I pray.",
-      "links": "<a href='/AIV/19/84/3'>Ps. 84:3</a>; <a href='/AIV/19/3/4'>Ps. 3:4</a>",
-      "comment": "David addresses the LORD as both King and God, foreshadowing Christ the King (John 18:37). The personal appeal reflects a close, ongoing relationship with God, fundamental in both Catholic and broader Christian prayer traditions."
+      "text": "Give heed to the sound of my cry, my King and my God, for to you I pray.",
+      "links": "<a href='/AIV/19/84/3'>Ps. 84:3</a>; <a href='/AIV/40/6/9'>Matt. 6:9</a>",
+      "comment": "David addresses God directly as both King and God, recognizing God's sovereign reign and his personal relationship with Him. This connection foreshadows the New Testament's revelation of God as both Lord and intimate Father."
     },
     {
-      "pk": 2000053,
+      "pk": 23005003,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 5,
       "verse": 3,
-      "text": "O LORD, in the morning you hear my voice; in the morning I prepare a sacrifice for you and watch.",
-      "links": "<a href='/AIV/19/130/6'>Ps. 130:6</a>; <a href='/AIV/19/55/17'>Ps. 55:17</a>",
-      "comment": "The reference to 'prepare a sacrifice' (some manuscripts: 'lay my request before you') subtly alludes to liturgical worship and the importance of daily prayer, reminiscent of the Catholic tradition of the Liturgy of the Hours."
+      "text": "O Lord, in the morning you hear my voice; in the morning I prepare a sacrifice for you and watch.",
+      "links": "<a href='/AIV/19/88/13'>Ps. 88:13</a>; <a href='/AIV/19/130/6'>Ps. 130:6</a>",
+      "comment": "The emphasis on morning prayer and preparing a sacrifice reveals a pattern of daily spiritual discipline. The act of 'watching' points to expectation and trust, and the reference to sacrifice hints at liturgical forms of worship later fulfilled and transformed through Christ's ultimate sacrifice."
     },
     {
-      "pk": 2000054,
+      "pk": 23005004,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 5,
       "verse": 4,
-      "text": "For you are not a God who delights in wickedness; evil may not dwell with you.",
-      "links": "<a href='/AIV/19/34/16'>Ps. 34:16</a>; <a href='/AIV/35/1/13'>Hab. 1:13</a>",
-      "comment": "This statement underlines God's holiness and absolute separation from sin, highlighting the need for repentance and purification before approaching God—a theme that resonates with the sacramental life of confession."
+      "text": "For you are not a God who delights in wickedness; evil cannot dwell with you.",
+      "links": "<a href='/AIV/19/11/7'>Ps. 11:7</a>; <a href='/AIV/19/101/7'>Ps. 101:7</a>",
+      "comment": "God's nature is absolutely holy; He is separated from evil. The distinction between God and wickedness reinforces both personal holiness and the necessity of purification and grace for anyone who comes to Him."
     },
     {
-      "pk": 2000055,
+      "pk": 23005005,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 5,
       "verse": 5,
-      "text": "The boastful will not stand before your eyes; you hate all workers of iniquity.",
-      "links": "<a href='/AIV/19/1/5'>Ps. 1:5</a>; <a href='/AIV/19/101/7'>Ps. 101:7</a>",
-      "comment": "God's justice is highlighted: those persisting in pride and sin cannot endure in His presence. This points forward to the final judgment (Matthew 25:31–46), and the call to humility through grace."
+      "text": "The boastful will not stand before your eyes; you hate all evildoers.",
+      "links": "<a href='/AIV/19/1/5'>Ps. 1:5</a>; <a href='/AIV/19/34/16'>Ps. 34:16</a>",
+      "comment": "The judgment on the proud underscores God's preference for humility and repentance over arrogance. Note how in New Testament context (cf. James 4:6), humility is a virtue that opens the believer to God’s favor."
     },
     {
-      "pk": 2000056,
+      "pk": 23005006,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 5,
       "verse": 6,
-      "text": "You destroy those who speak lies; the LORD abhors the bloodthirsty and deceitful man.",
-      "links": "<a href='/AIV/19/55/23'>Ps. 55:23</a>; <a href='/AIV/19/43/1'>Ps. 43:1</a>",
-      "comment": "God's active opposition against evil is evident. The destruction of liars and violent men reflects His divine justice, which, in catholic thought, coexists with His mercy (cf. Luke 1:50)."
+      "text": "You destroy those who speak lies; the Lord abhors the bloodthirsty and deceitful man.",
+      "links": "<a href='/AIV/19/31/18'>Ps. 31:18</a>; <a href='/AIV/19/55/23'>Ps. 55:23</a>",
+      "comment": "Lying and violence are especially opposed to God's character; scriptural references consistently warn stern consequences for unrepentant sinners. Echoes of this are found in Revelation 21:8 regarding the fate of liars."
     },
     {
-      "pk": 2000057,
+      "pk": 23005007,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 5,
       "verse": 7,
       "text": "But I, through the abundance of your steadfast love, will enter your house; I will bow down toward your holy temple in fear of you.",
-      "links": "<a href='/AIV/19/26/8'>Ps. 26:8</a>; <a href='/AIV/19/138/2'>Ps. 138:2</a>",
-      "comment": "Entrance to God's house is by divine mercy, not human merit. 'House' and 'temple' evoke the Church as the dwelling place of God (Ephesians 2:19-22)—an implicit encouragement for worship within the visible Church."
+      "links": "<a href='/AIV/19/69/13'>Ps. 69:13</a>; <a href='/AIV/19/138/2'>Ps. 138:2</a>",
+      "comment": "The psalmist’s access to God's presence is based not on merit but on divine mercy. 'Steadfast love' (Hebrew: hesed) prefigures the grace poured out in sacramental worship and reverence in God’s house (temple), a theme renewed and deepened in Christ’s reconciliation."
     },
     {
-      "pk": 2000058,
+      "pk": 23005008,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 5,
       "verse": 8,
-      "text": "Lead me, O LORD, in your righteousness because of my enemies; make your way straight before me.",
+      "text": "Lead me, O Lord, in your righteousness because of my enemies; make your way straight before me.",
       "links": "<a href='/AIV/19/27/11'>Ps. 27:11</a>; <a href='/AIV/19/143/10'>Ps. 143:10</a>",
-      "comment": "Divine guidance is pleaded for in the face of opposition, an image fulfilled in Christ's promise to guide the Church into all truth (John 16:13)."
+      "comment": "The prayer for guidance reflects reliance on God’s grace to overcome opposition and maintain moral integrity. The idea of ‘making your way straight’ echoes Messianic themes (cf. Isaiah 40:3; Luke 3:4) about the Messiah preparing the way for holiness."
     },
     {
-      "pk": 2000059,
+      "pk": 23005009,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 5,
       "verse": 9,
-      "text": "For there is no truth in their mouth; their inmost self is destruction; their throat is an open grave; they flatter with their tongue.",
-      "links": "<a href='/AIV/45/3/13'>Romans 3:13</a>; <a href='/AIV/19/52/2'>Ps. 52:2</a>",
-      "comment": "Paul quotes this verse in Romans 3:13 to show universal human sinfulness and the need for a Savior. The Catholic understanding underscores original sin and the necessity of grace and sacramental life."
+      "text": "For there is no trustworthiness in their mouth; their heart is destruction, their throat is an open grave; they flatter with their tongue.",
+      "links": "<a href='/AIV/19/140/3'>Ps. 140:3</a>; <a href='/AIV/45/3/13'>Rom. 3:13</a>",
+      "comment": "Paul quotes this verse in Romans 3:13, highlighting universal human sinfulness and the need for redemption. The imagery of ‘open grave’ emphasizes spiritual death apart from God’s truth and life."
     },
     {
-      "pk": 2000060,
+      "pk": 23005010,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 5,
       "verse": 10,
-      "text": "Declare them guilty, O God; let them fall by their own counsels; because of their many transgressions cast them out, for they have rebelled against you.",
-      "links": "<a href='/AIV/19/7/13'>Ps. 7:13</a>; <a href='/AIV/19/9/16'>Ps. 9:16</a>",
-      "comment": "A request for divine justice, which anticipates the distinction between justice and mercy found in Catholic moral teaching and the tradition of intercessory prayer for the lost."
+      "text": "Declare them guilty, O God; let them fall by their own schemes. Cast them out for their many transgressions, for they have rebelled against you.",
+      "links": "<a href='/AIV/19/7/15'>Ps. 7:15</a>; <a href='/AIV/19/28/4'>Ps. 28:4</a>",
+      "comment": "Here, divine judgment is called down on the wicked, who are condemned by their own actions. This matches the recurring biblical pattern of consequences fitting the sin, and it affirms God's justice."
     },
     {
-      "pk": 2000061,
+      "pk": 23005011,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 5,
       "verse": 11,
       "text": "But let all who take refuge in you rejoice; let them ever sing for joy, and spread your protection over them, that those who love your name may exult in you.",
-      "links": "<a href='/AIV/19/2/12'>Ps. 2:12</a>; <a href='/AIV/19/40/16'>Ps. 40:16</a>",
-      "comment": "God’s protective care leads to joy for those who seek Him. Catholic spirituality emphasizes joy in the Lord, experienced especially in the sacraments, where God’s refuge is tangibly present."
+      "links": "<a href='/AIV/19/2/12'>Ps. 2:12</a>; <a href='/AIV/19/33/21'>Ps. 33:21</a>",
+      "comment": "Trusting in God brings joy and security. Note that God’s protection is described in communal terms, implying the importance of worshipping together and participating in the life of God’s people."
     },
     {
-      "pk": 2000062,
+      "pk": 23005012,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 5,
       "verse": 12,
-      "text": "For you bless the righteous, O LORD; you cover him with favor as with a shield.",
-      "links": "<a href='/AIV/19/3/3'>Ps. 3:3</a>; <a href='/AIV/19/30/7'>Ps. 30:7</a>",
-      "comment": "Divine blessing and favor are given to the just. In Catholic theology, grace (favor) is mediated through the Church, and the Old Testament language here foreshadows the blessings received in Christ, especially through the sacramental life."
+      "text": "For you bless the righteous, O Lord; you cover them with favor as with a shield.",
+      "links": "<a href='/AIV/19/84/11'>Ps. 84:11</a>; <a href='/AIV/19/3/3'>Ps. 3:3</a>",
+      "comment": "Final verse emphasizes God’s favor as a shield, a theme found throughout the Psalms. Blessing is poured out on those made righteous by God’s grace, pointing ahead to Christ as both the fulfillment of righteousness and the source of spiritual protection."
     }
   ],
-  "translatedAt": "2025-12-22T21:22:01.724Z"
+  "translatedAt": "2025-12-24T06:00:14.411Z"
 }

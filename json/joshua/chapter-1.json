@@ -1,188 +1,225 @@
 {
-  "book": "Joshua",
+  "book": 6,
+  "bookName": "Joshua",
   "bookAbbreviation": "Josh",
   "chapter": 1,
   "verses": [
     {
-      "pk": 2000101,
+      "pk": 6001001,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 1,
       "verse": 1,
-      "text": "After the death of Moses the servant of the LORD, the LORD spoke to Joshua son of Nun, Moses’ assistant, saying,",
-      "links": "<a href='/AIV/5/34/5'>Deut. 34:5</a>; <a href='/AIV/5/31/23'>Deut. 31:23</a>",
-      "comment": "Retains 'servant of the LORD' as traditional phrase; 'assistant' translates Hebrew 'mesharet'."
+      "text": "After the death of Moses, the servant of the LORD, the LORD spoke to Joshua son of Nun, Moses’ assistant, saying,",
+      "links": "<a href='/AIV/05/34/5'>Deut. 34:5</a>; <a href='/AIV/06/11/15'>Josh. 11:15</a>",
+      "comment": "Joshua is directly called by God after Moses' death, showing the passing of spiritual authority. This continuity prefigures the way spiritual leadership is perpetuated through appointed successors (cf. Deut. 34:9)."
     },
     {
-      "pk": 2000102,
+      "pk": 6001002,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 1,
       "verse": 2,
-      "text": "“Moses my servant is dead. Now rise up, cross over this Jordan, you and all this people, into the land that I am giving to them, to the people of Israel.",
-      "links": "<a href='/AIV/5/32/49'>Deut. 32:49</a>; <a href='/AIV/5/1/8'>Deut. 1:8</a>",
-      "comment": "'Rise up' close to Hebrew imperative; preserves reference to 'the people of Israel.'"
+      "text": "\"Moses my servant is dead. Now therefore arise, cross this Jordan, you and all this people, into the land that I am giving to them, to the children of Israel.",
+      "links": "<a href='/AIV/05/31/2'>Deut. 31:2</a>; <a href='/AIV/06/03/17'>Josh. 3:17</a>",
+      "comment": "God’s promise is not ended with Moses but carried on through another leader. The concept of God working through human mediators is seen throughout Scripture (cf. Acts 7:35)."
     },
     {
-      "pk": 2000103,
+      "pk": 6001003,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 1,
       "verse": 3,
-      "text": "Every place that the sole of your foot will tread upon I have given to you, just as I promised to Moses.",
-      "links": "<a href='/AIV/5/11/24'>Deut. 11:24</a>; <a href='/AIV/1/13/15-17'>Gen. 13:15-17</a>",
-      "comment": "Phrase structure close to Hebrew; 'sole of your foot' preserved."
+      "text": "Every place that the sole of your foot treads upon, I have given to you, just as I promised to Moses.",
+      "links": "<a href='/AIV/05/11/24'>Deut. 11:24</a>; <a href='/AIV/01/13/17'>Gen. 13:17</a>",
+      "comment": "God’s faithfulness is emphasized through the fulfillment of promises given long before. The motif of walking and inheriting points forward spiritually to Christians' inheritance in Christ (cf. Eph. 1:11)."
     },
     {
-      "pk": 2000104,
+      "pk": 6001004,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 1,
       "verse": 4,
-      "text": "From the wilderness and this Lebanon as far as the great river, the river Euphrates—all the land of the Hittites—to the Great Sea toward the setting of the sun will be your territory.",
-      "links": "<a href='/AIV/5/11/24'>Deut. 11:24</a>; <a href='/AIV/1/15/18'>Gen. 15:18</a>",
-      "comment": "'Territory' better reflects 'border'; 'Great Sea' is the Mediterranean."
+      "text": "From the wilderness and this Lebanon as far as the great river, the river Euphrates—all the land of the Hittites—to the Great Sea toward the going down of the sun, shall be your territory.",
+      "links": "<a href='/AIV/01/15/18'>Gen. 15:18</a>; <a href='/AIV/02/23/31'>Exod. 23:31</a>",
+      "comment": "The promised land is geographically defined, highlighting the real, historical aspect of Israel’s covenant, yet anticipating the ultimate fulfillment in God’s kingdom (cf. Heb. 11:8-10)."
     },
     {
-      "pk": 2000105,
+      "pk": 6001005,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 1,
       "verse": 5,
-      "text": "No one will be able to stand before you all the days of your life. Just as I was with Moses, so I will be with you. I will not fail you or abandon you.",
-      "links": "<a href='/AIV/5/31/7-8'>Deut. 31:7–8</a>; <a href='/AIV/13/28/20'>1 Chr. 28:20</a>",
-      "comment": "'Fail' for Hebrew 'lo arpeka;' 'abandon' for 'lo azoveka.'"
+      "text": "No man shall be able to stand before you all the days of your life. Just as I was with Moses, so I will be with you. I will not leave you nor forsake you.",
+      "links": "<a href='/AIV/05/31/6'>Deut. 31:6</a>; <a href='/AIV/13/28/20'>Matt. 28:20</a>",
+      "comment": "God’s abiding presence is promised to Joshua, echoing Jesus’ words to His disciples (Matt. 28:20). This underlines the assurance of divine accompaniment with legitimate leadership."
     },
     {
-      "pk": 2000106,
+      "pk": 6001006,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 1,
       "verse": 6,
-      "text": "Be strong and courageous, for you will cause this people to inherit the land that I swore to their fathers to give them.",
-      "links": "<a href='/AIV/5/31/6'>Deut. 31:6</a>; <a href='/AIV/1/26/3'>Gen. 26:3</a>",
-      "comment": "Classic 'strong and courageous' phrase; 'inherit' preserves literal meaning."
+      "text": "Be strong and courageous, for you shall cause this people to inherit the land that I swore to their fathers to give them.",
+      "links": "<a href='/AIV/05/31/7'>Deut. 31:7</a>; <a href='/AIV/58/04/08'>Heb. 4:8</a>",
+      "comment": "Leadership requires strength and courage rooted in faithfulness to God’s promises. The language foreshadows the spiritual inheritance of believers (Heb. 4:8-9)."
     },
     {
-      "pk": 2000107,
+      "pk": 6001007,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 1,
       "verse": 7,
-      "text": "Only be strong and very courageous, being careful to do according to all the law that Moses my servant commanded you. Do not turn from it to the right or to the left, so that you may be successful wherever you go.",
-      "links": "<a href='/AIV/5/28/14'>Deut. 28:14</a>; <a href='/AIV/1/2/3'>Ps. 1:2-3</a>",
-      "comment": "'Do not turn...right or left' is Hebrew idiom for full obedience."
+      "text": "Only be strong and very courageous, being careful to do according to all the Law that Moses my servant commanded you. Do not turn from it to the right hand or to the left, so that you may prosper wherever you go.",
+      "links": "<a href='/AIV/05/05/32'>Deut. 5:32</a>; <a href='/AIV/19/01/02'>Ps. 1:2</a>",
+      "comment": "Complete obedience to God’s law is essential for true prosperity. This prefigures Christ’s perfect fulfillment of the law (Matt. 5:17) and the call for the faithful to keep the fullness of divine commands."
     },
     {
-      "pk": 2000108,
+      "pk": 6001008,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 1,
       "verse": 8,
-      "text": "This book of the law must not depart from your mouth, but you must meditate on it day and night, so that you may be careful to do according to everything written in it. For then you will make your way prosperous, and then you will be successful.",
-      "links": "<a href='/AIV/19/1/2-3'>Ps. 1:2-3</a>",
-      "comment": "'Meditate' preserves Hebrew 'hagah;' wording stays very close to Heb."
+      "text": "This book of the Law shall not depart from your mouth, but you shall meditate on it day and night, so that you may be careful to do according to all that is written in it. For then you will make your way prosperous, and then you will have good success.",
+      "links": "<a href='/AIV/19/01/02'>Ps. 1:2</a>; <a href='/AIV/54/04/15'>1 Tim. 4:15</a>",
+      "comment": "Meditation and proclamation of Scripture are core to faithful leadership. This verse also underlines the importance of constant reflection upon God’s word, which is central to spiritual formation and unity."
     },
     {
-      "pk": 2000109,
+      "pk": 6001009,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 1,
       "verse": 9,
-      "text": "Have I not commanded you? Be strong and courageous. Do not be afraid or dismayed, for the LORD your God is with you wherever you go.”",
-      "links": "<a href='/AIV/5/31/8'>Deut. 31:8</a>",
-      "comment": "'Be strong and courageous' repeated; avoids extra interpretation."
+      "text": "Have I not commanded you? Be strong and courageous. Do not be afraid or discouraged, for the LORD your God is with you wherever you go.",
+      "links": "<a href='/AIV/05/31/6'>Deut. 31:6</a>; <a href='/AIV/40/28/20'>Matt. 28:20</a>",
+      "comment": "The command is repeated to emphasize its importance. God’s constant presence gives strength for the mission, paralleling Christ’s promise to always be with His followers."
     },
     {
-      "pk": 2000110,
+      "pk": 6001010,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 1,
       "verse": 10,
-      "text": "Then Joshua commanded the officers of the people, saying,",
-      "links": "<a href='/AIV/4/31/14'>Num. 31:14</a>",
-      "comment": "'Officers' translates 'shoterim.' No significant textual issues."
+      "text": "Then Joshua commanded the officers of the people,",
+      "links": "<a href='/AIV/04/31/14'>Num. 31:14</a>; <a href='/AIV/06/03/02'>Josh. 3:2</a>",
+      "comment": "Joshua’s immediate obedience to God’s instruction shows the importance of proper order and hierarchy among the people of God."
     },
     {
-      "pk": 2000111,
+      "pk": 6001011,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 1,
       "verse": 11,
-      "text": "“Pass through the midst of the camp and command the people, saying, ‘Prepare your provisions, for within three days you are to cross this Jordan to go in and possess the land that the LORD your God is giving you, to possess it.’”",
-      "links": "<a href='/AIV/6/3/2'>Josh. 3:2</a>; <a href='/AIV/5/11/31'>Deut. 11:31</a>",
-      "comment": "'Provisions' for 'food;' keeps 'to possess it' for Heb. infinitive."
+      "text": "\"Pass through the midst of the camp and command the people, 'Prepare your provisions, for within three days you are to pass over this Jordan, to go in to take possession of the land that the LORD your God is giving you to possess.'\"",
+      "links": "<a href='/AIV/06/03/02'>Josh. 3:2</a>; <a href='/AIV/06/03/14'>Josh. 3:14</a>",
+      "comment": "Preparation is both practical and spiritual. The three days motif points, in a hidden way, to the pattern of preparation and fulfillment seen in Christ’s resurrection on the third day (Luke 24:46)."
     },
     {
-      "pk": 2000112,
+      "pk": 6001012,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 1,
       "verse": 12,
-      "text": "And to the Reubenites, the Gadites, and the half-tribe of Manasseh, Joshua said,",
-      "links": "<a href='/AIV/4/32/20'>Num. 32:20</a>; <a href='/AIV/5/3/18'>Deut. 3:18</a>",
-      "comment": "Tribal names modernized only for spelling."
+      "text": "And to the Reubenites, the Gadites, and the half-tribe of Manasseh Joshua said,",
+      "links": "<a href='/AIV/04/32/20'>Num. 32:20</a>; <a href='/AIV/05/03/18'>Deut. 3:18</a>",
+      "comment": "Joshua addresses these tribes separately due to their unique inheritance across the Jordan, showing particular care for unity and fulfillment of vows."
     },
     {
-      "pk": 2000113,
+      "pk": 6001013,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 1,
       "verse": 13,
-      "text": "“Remember the word that Moses the servant of the LORD commanded you, saying, ‘The LORD your God is giving you rest and is giving you this land.’",
-      "links": "<a href='/AIV/4/32/33'>Num. 32:33</a>",
-      "comment": "'Rest' preserves Hebrew 'menuchah,' word for rest."
+      "text": "\"Remember the word that Moses the servant of the LORD commanded you, saying, 'The LORD your God is providing you a place of rest and will give you this land.'\"",
+      "links": "<a href='/AIV/05/03/20'>Deut. 3:20</a>; <a href='/AIV/58/04/08-09'>Heb. 4:8–9</a>",
+      "comment": "The promise of rest looks ahead to the deeper, spiritual rest found in Christ, whom Scripture presents as the true fulfillment of God’s rest for His people (Heb. 4:9)."
     },
     {
-      "pk": 2000114,
+      "pk": 6001014,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 1,
       "verse": 14,
-      "text": "Your wives, your little ones, and your livestock may remain in the land that Moses gave you beyond the Jordan. But all the warriors among you shall pass over armed before your brothers and help them,",
-      "links": "<a href='/AIV/4/32/16-17'>Num. 32:16-17</a>",
-      "comment": "'Little ones' for 'taph,' which means children."
+      "text": "\"Your wives, your little ones, and your livestock shall remain in the land that Moses gave you beyond the Jordan, but all the men of valor among you shall pass over armed before your brothers and shall help them,\"",
+      "links": "<a href='/AIV/04/32/26-27'>Num. 32:26-27</a>; <a href='/AIV/05/03/18-19'>Deut. 3:18-19</a>",
+      "comment": "The unity and mutual support of God’s people are emphasized; true community does not leave others behind but labors together until all partake in the promise."
     },
     {
-      "pk": 2000115,
+      "pk": 6001015,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 1,
       "verse": 15,
-      "text": "until the LORD gives rest to your brothers as he has to you, and they also possess the land that the LORD your God is giving them. Then you shall return to the land of your possession and possess it, the land that Moses the servant of the LORD gave you beyond the Jordan toward the sunrise.”",
-      "links": "<a href='/AIV/4/32/18-22'>Num. 32:18-22</a>",
-      "comment": "'Possession' and 'possess it' kept as close to Hebrew as possible."
+      "text": "\"until the LORD gives rest to your brothers as he has to you, and they also take possession of the land that the LORD your God is giving them. Then you shall return to the land of your possession and possess it, the land that Moses the servant of the LORD gave you beyond the Jordan toward the sunrise.\"",
+      "links": "<a href='/AIV/05/03/20'>Deut. 3:20</a>; <a href='/AIV/58/04/09'>Heb. 4:9</a>",
+      "comment": "This anticipates a communion of rest, foreshadowing the shared spiritual inheritance of the faithful. The Church’s unity is hinted at in these images of helping brothers to achieve rest and fullness."
     },
     {
-      "pk": 2000116,
+      "pk": 6001016,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 1,
       "verse": 16,
-      "text": "And they answered Joshua, “All that you have commanded us we will do, and wherever you send us we will go.",
-      "links": "<a href='/AIV/4/32/25'>Num. 32:25</a>",
-      "comment": "Response kept literal."
+      "text": "And they answered Joshua, \"All that you have commanded us we will do, and wherever you send us we will go.",
+      "links": "<a href='/AIV/02/19/08'>Exod. 19:8</a>; <a href='/AIV/05/05/27'>Deut. 5:27</a>",
+      "comment": "The people’s affirmation mirrors Israel’s response at Sinai. Obedience to divinely appointed authority is repeatedly shown as key to covenant blessing, a pattern that continues in the New Testament (Heb. 13:17)."
     },
     {
-      "pk": 2000117,
+      "pk": 6001017,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 1,
       "verse": 17,
-      "text": "Just as we fully obeyed Moses, so we will obey you. Only may the LORD your God be with you, as he was with Moses.",
-      "links": "<a href='/AIV/6/1/5'>Josh. 1:5</a>",
-      "comment": "'Fully obeyed' expands on Heb. 'shamanu.'"
+      "text": "Just as we obeyed Moses in all things, so we will obey you. Only may the LORD your God be with you, as he was with Moses!",
+      "links": "<a href='/AIV/05/34/9'>Deut. 34:9</a>; <a href='/AIV/06/03/07'>Josh. 3:7</a>",
+      "comment": "The people equate the spiritual authority of Joshua with Moses, conditioned on the presence of God. Faithfulness to God’s chosen leaders is underscored here."
     },
     {
-      "pk": 2000118,
+      "pk": 6001018,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 1,
       "verse": 18,
-      "text": "Whoever rebels against your command and does not obey your words in all that you command him, will be put to death. Only be strong and courageous.”",
-      "links": "<a href='/AIV/2/21/15'>Ex. 21:15</a>",
-      "comment": "Capital punishment command kept as in original; phrase intact."
+      "text": "Whoever rebels against your commandment and does not obey your words in all that you command him, shall be put to death. Only be strong and courageous.",
+      "links": "<a href='/AIV/05/17/12'>Deut. 17:12</a>; <a href='/AIV/58/10/28'>Heb. 10:28</a>",
+      "comment": "The severe warning reveals the seriousness of obeying God’s appointed leader for the safeguarding of the community. This sets a foundation for later principles of faithful submission and unity under spiritual authority."
     }
   ],
-  "translatedAt": "2025-12-20T10:05:34.062Z"
+  "translatedAt": "2025-12-24T02:17:00.567Z"
 }

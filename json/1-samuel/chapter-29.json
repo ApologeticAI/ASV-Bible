@@ -1,118 +1,141 @@
 {
-  "book": "1 Samuel",
+  "book": 9,
+  "bookName": "1 Samuel",
   "bookAbbreviation": "1Sam",
   "chapter": 29,
   "verses": [
     {
-      "pk": 1029001,
+      "pk": 9029001,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 29,
       "verse": 1,
-      "text": "Now the Philistines gathered all their armies at Aphek, and the Israelites camped by the spring that is in Jezreel.",
-      "links": "<a href='/AIV/9/4/1'>1 Sam. 4:1</a>; <a href='/AIV/6/15/56'>Josh. 15:56</a>",
-      "comment": "Literal translation; 'armies' refers to military units, and the locations match established sites in Israel."
+      "text": "Now the Philistines gathered all their armies at Aphek, and the Israelites camped by the spring which is in Jezreel.",
+      "links": "<a href='/AIV/9/4/1'>1Sam 4:1</a>; <a href='/AIV/6/12/3'>Josh. 12:3</a>",
+      "comment": "The location is key—this is the same Jezreel Valley that figures prominently in Israel's history. The Philistine threat is mounting, setting the stage for David's fate. Aphek was a traditional border between Israel and Philistia."
     },
     {
-      "pk": 1029002,
+      "pk": 9029002,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 29,
       "verse": 2,
-      "text": "As the Philistine lords were passing on by hundreds and by thousands, and David and his men were passing on in the rear with Achish,",
-      "links": "<a href='/AIV/9/28/1-2'>1 Sam. 28:1–2</a>",
-      "comment": "'Lords' translates 'serenim,' chief Philistine rulers. 'Hundreds and thousands' follows Hebrew phrasing."
+      "text": "As the lords of the Philistines marched forward by hundreds and by thousands, David and his men came at the rear with Achish.",
+      "links": "<a href='/AIV/9/27/2-3'>1Sam 27:2-3</a>; <a href='/AIV/9/28/1-2'>1Sam 28:1-2</a>",
+      "comment": "David is aligned with Achish, the Philistine king of Gath, highlighting his precarious position as a Hebrew alongside Israel's enemies. This underlines the theme of God's mysterious providence guiding His chosen, sometimes through unexpected alliances."
     },
     {
-      "pk": 1029003,
+      "pk": 9029003,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 29,
       "verse": 3,
-      "text": "the commanders of the Philistines said, 'What are these Hebrews doing here?' And Achish said to the commanders of the Philistines, 'Is this not David, the servant of Saul king of Israel, who has been with me these days, or these years? I have found no fault in him from the day he defected to me until today.'",
-      "links": "<a href='/AIV/9/27/7'>1 Sam. 27:7</a>; <a href='/AIV/9/28/2'>1 Sam. 28:2</a>",
-      "comment": "'Defected' translates literally 'came' but means 'deserted to.' Time period 'these days or these years' keeps the possible ambiguity."
+      "text": "Then the commanders of the Philistines said, “What are these Hebrews doing here?” And Achish said to the commanders, “This is David, the servant of Saul king of Israel, who has been with me these days or years. I have found no fault in him since he deserted to me until today.”",
+      "links": "<a href='/AIV/9/27/5-9'>1Sam 27:5-9</a>; <a href='/AIV/9/28/2'>1Sam 28:2</a>",
+      "comment": "The Philistine commanders are suspicious of David. Achish’s trust in David shows David's skill in diplomacy and obedience when fleeing Saul, a pattern echoed in Christ’s interaction with authorities (see <a href='/AIV/40/22/15-22'>Matt 22:15-22</a>)."
     },
     {
-      "pk": 1029004,
+      "pk": 9029004,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 29,
       "verse": 4,
-      "text": "But the commanders of the Philistines were angry with him, and the commanders of the Philistines said to him, 'Send the man back, so that he may return to the place you have assigned him. He must not go with us into the battle, or he might become our adversary in the fight. For how could this man reconcile himself to his lord? Would it not be with the heads of these men?'",
-      "links": "<a href='/AIV/9/27/2-6'>1 Sam. 27:2–6</a>; <a href='/AIV/9/18/25'>1 Sam. 18:25</a>",
-      "comment": "'Heads of these men' refers to taking Philistine soldiers' heads as trophies, a Hebrew idiom for turning against them."
+      "text": "But the commanders of the Philistines were angry with him, and the commanders said to Achish, “Send this man back, so he may return to the place you assigned him. He must not go down with us to battle, so that in the battle he may not turn against us. For with what should this fellow reconcile himself to his lord? Would it not be with the heads of these men?”",
+      "links": "<a href='/AIV/9/21/10-15'>1Sam 21:10-15</a>; <a href='/AIV/9/27/6'>1Sam 27:6</a>",
+      "comment": "The Philistine rulers perceive the risk: David may rejoin Saul to restore his honor. This suspicion leads to David’s providential deliverance from fighting his own people, showing how God at times works through the decisions of those outside Israel to preserve His anointed."
     },
     {
-      "pk": 1029005,
+      "pk": 9029005,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 29,
       "verse": 5,
-      "text": "Is this not David, of whom they sing to one another in dances, saying, ‘Saul has struck down his thousands, and David his ten thousands’?",
-      "links": "<a href='/AIV/9/18/7'>1 Sam. 18:7</a>; <a href='/AIV/9/21/11'>1 Sam. 21:11</a>",
-      "comment": "The quotation preserves the poetic structure from previous references."
+      "text": "Is this not David, of whom they sang to one another in dances, ‘Saul has struck down his thousands, and David his ten thousands’?”",
+      "links": "<a href='/AIV/9/18/7'>1Sam 18:7</a>; <a href='/AIV/9/21/11'>1Sam 21:11</a>",
+      "comment": "This refrain reminds us how David’s reputation preceded him, underscoring God’s choice and preparation of David. David as a type of Christ is evident here: misunderstood, surrounded by enemies, yet shielded by God’s hand."
     },
     {
-      "pk": 1029006,
+      "pk": 9029006,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 29,
       "verse": 6,
-      "text": "Then Achish called David and said to him, 'As surely as the LORD lives, you have been honest, and it seems good to me that you should march out and in with me in the army, for I have found no evil in you from the day you came to me until today. Nevertheless, you are not acceptable in the eyes of the lords.'",
-      "links": "<a href='/AIV/9/27/3'>1 Sam. 27:3</a>; <a href='/AIV/9/28/1-2'>1 Sam. 28:1–2</a>",
-      "comment": "'As surely as the LORD lives' translates the standard Hebrew oath formula."
+      "text": "Then Achish called David and said to him, “As the LORD lives, you have been upright, and your going out and coming in with me in the army has been good in my sight. For I have not found evil in you since the day you came to me until this day. Nevertheless, the lords do not approve of you.",
+      "links": "<a href='/AIV/9/28/2'>1Sam 28:2</a>; <a href='/AIV/9/25/28'>1Sam 25:28</a>",
+      "comment": "Achish, a Gentile king, invokes the LORD in swearing—showing that God's name is feared even among the nations. David foreshadows Christ as the righteous one, wrongly rejected by the rulers (<a href='/AIV/42/23/4'>Luke 23:4</a>)."
     },
     {
-      "pk": 1029007,
+      "pk": 9029007,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 29,
       "verse": 7,
-      "text": "So now, go back peacefully, so that you do not displease the lords of the Philistines.",
-      "links": "",
-      "comment": "'Lords of the Philistines' is a literal translation of the Hebrew rulers' title."
+      "text": "So now, return, and go in peace, that you do not displease the lords of the Philistines.”",
+      "links": "<a href='/AIV/9/29/4'>1Sam 29:4</a>; <a href='/AIV/9/25/35'>1Sam 25:35</a>",
+      "comment": "David is providentially sent away in peace. This recalls the scriptural theme that God delivers His chosen from trial and keeps His purpose intact. David's removal protects him from committing fratricide—a key theme for Christian unity and harmony among believers."
     },
     {
-      "pk": 1029008,
+      "pk": 9029008,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 29,
       "verse": 8,
-      "text": "And David said to Achish, 'But what have I done? What have you found in your servant from the day I came to you until today, that I may not go and fight against the enemies of my lord the king?'",
-      "links": "<a href='/AIV/9/27/8-12'>1 Sam. 27:8–12</a>",
-      "comment": "'Enemies of my lord the king' possibly ambiguous—David may be concealing his true loyalty."
+      "text": "And David said to Achish, “But what have I done? What have you found in your servant from the day I entered your service until today, that I may not go and fight against the enemies of my lord the king?”",
+      "links": "<a href='/AIV/9/28/2'>1Sam 28:2</a>; <a href='/AIV/9/24/14-15'>1Sam 24:14-15</a>",
+      "comment": "David’s loyalty appears ambiguous here, echoing Christ’s wisdom when questioned by those seeking to trap Him (<a href='/AIV/43/8/46'>John 8:46</a>). Spiritually, David’s innocence prepares the way for God's unifying plan for the kingdom."
     },
     {
-      "pk": 1029009,
+      "pk": 9029009,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 29,
       "verse": 9,
-      "text": "And Achish answered David and said, 'I know that you are as blameless in my sight as an angel of God; nevertheless, the commanders of the Philistines have said, “He shall not go up with us to the battle.”'",
-      "links": "<a href='/AIV/9/28/1-2'>1 Sam. 28:1–2</a>; <a href='/AIV/10/14/17'>2 Sam. 14:17</a>",
-      "comment": "'Angel of God' is a Hebrew idiom for a person fully trustworthy or upright."
+      "text": "And Achish answered David, “I know that you are as upright in my sight as an angel of God. However, the commanders of the Philistines have said, ‘He must not go up with us to the battle.’”",
+      "links": "<a href='/AIV/9/29/4'>1Sam 29:4</a>; <a href='/AIV/9/2/25'>1Sam 2:25</a>",
+      "comment": "The phrase 'angel of God' is an extraordinary Gentile affirmation. In salvation history, Gentiles acknowledge the righteousness of Israel’s chosen—prefiguring the time when all nations will honor the true king (<a href='/AIV/23/60/3'>Isaiah 60:3</a>)."
     },
     {
-      "pk": 1029010,
+      "pk": 9029010,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 29,
       "verse": 10,
-      "text": "So get up early in the morning, you and your lord’s servants who came with you. As soon as you have risen early in the morning and have light, depart.'",
-      "links": "",
-      "comment": "'Your lord’s servants' refers to David’s men, who are technically loyal to Saul."
+      "text": "Now then, rise early in the morning, you and your master’s servants who have come with you. As soon as you are up early in the morning and have light, depart.”",
+      "links": "<a href='/AIV/9/29/2'>1Sam 29:2</a>; <a href='/AIV/9/29/11'>1Sam 29:11</a>",
+      "comment": "David’s ordered departure shows God's hand guiding him out of danger, much like how God orchestrates the steps of His faithful ones. The mention of rising early echoes motifs of resurrection and new beginnings (<a href='/AIV/41/16/2'>Mark 16:2</a>)."
     },
     {
-      "pk": 1029011,
+      "pk": 9029011,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 29,
       "verse": 11,
-      "text": "So David rose early, he and his men, to depart in the morning, to return to the land of the Philistines. But the Philistines went up to Jezreel.",
-      "links": "<a href='/AIV/9/28/1'>1 Sam. 28:1</a>",
-      "comment": "'To the land of the Philistines'—refers to the territory assigned to David (Ziklag, 1 Sam. 27:6)."
+      "text": "So David rose early, he and his men, to leave in the morning and return to the land of the Philistines. And the Philistines went up to Jezreel.",
+      "links": "<a href='/AIV/9/30/1'>1Sam 30:1</a>; <a href='/AIV/7/1/34'>Judg 1:34</a>",
+      "comment": "David’s withdrawal spares him from sinning against his people, highlighting God’s continual direction of events both seen and unseen. Spiritually, this anticipates the shepherd who protects his flock from harm—a model of leadership established by God for the one church across all ages."
     }
   ],
-  "translatedAt": "2025-12-22T08:38:05.961Z"
+  "translatedAt": "2025-12-24T03:07:32.951Z"
 }

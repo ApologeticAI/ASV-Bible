@@ -1,118 +1,141 @@
 {
-  "book": "Psalms",
+  "book": 23,
+  "bookName": "Psalms",
   "bookAbbreviation": "Ps",
   "chapter": 95,
   "verses": [
     {
-      "pk": 950011,
+      "pk": 23095001,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 95,
       "verse": 1,
-      "text": "Come, let us sing to the LORD; let us make a joyful noise to the Rock of our salvation.",
-      "links": "<a href='/AIV/19/89/26'>Ps. 89:26</a>; <a href='/AIV/19/62/2'>Ps. 62:2</a>",
-      "comment": "‘Rock’ here alludes to God’s steadfastness, a theme later applied to Christ as the cornerstone (see 1 Cor. 10:4)."
+      "text": "Come, let us sing with joy to the LORD; let us shout aloud to the Rock of our salvation.",
+      "links": "<a href='/AIV/19/81/1'>Ps. 81:1</a>; <a href='/AIV/19/89/26'>Ps. 89:26</a>; <a href='/AIV/23/12/2'>Isa. 12:2</a>",
+      "comment": "The phrase 'Rock of our salvation' points to God as a steadfast foundation and deliverer. In Christian interpretation, the 'Rock' has also been linked typologically to Christ, who is repeatedly called the 'cornerstone' (see <a href='/AIV/40/21/42'>Matt. 21:42</a>). The invitation to communal worship highlights the early biblical emphasis on worshipping together, foreshadowing the unified assembly of believers."
     },
     {
-      "pk": 950012,
+      "pk": 23095002,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 95,
       "verse": 2,
-      "text": "Let us come before his presence with thanksgiving; let us make a joyful noise to him with songs of praise.",
-      "links": "<a href='/AIV/19/100/2'>Ps. 100:2</a>; <a href='/AIV/19/107/22'>Ps. 107:22</a>",
-      "comment": "Both public and liturgical worship are in view; many early Christians interpreted this as referring to the Eucharistic thanksgiving."
+      "text": "Let us enter his presence with thanksgiving; let us make a joyful noise to him with songs of praise.",
+      "links": "<a href='/AIV/19/100/4'>Ps. 100:4</a>; <a href='/AIV/19/147/7'>Ps. 147:7</a>",
+      "comment": "Thanksgiving and praise are central to worship, not only privately but in the assembly. The practice of liturgical songs connects back to temple worship, which is later echoed in apostolic tradition (<a href='/AIV/51/3/16'>Col. 3:16</a>)."
     },
     {
-      "pk": 950013,
+      "pk": 23095003,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 95,
       "verse": 3,
       "text": "For the LORD is a great God, and a great King above all gods.",
-      "links": "<a href='/AIV/19/96/4'>Ps. 96:4</a>; <a href='/AIV/19/97/9'>Ps. 97:9</a>",
-      "comment": "The psalmist affirms God’s universal kingship, foreshadowing Christ as King of Kings (<a href='/AIV/66/19/16'>Rev. 19:16</a>)."
+      "links": "<a href='/AIV/19/96/4'>Ps. 96:4</a>; <a href='/AIV/19/135/5'>Ps. 135:5</a>; <a href='/AIV/54/6/15'>1 Tim. 6:15</a>",
+      "comment": "Proclaiming the universal kingship of God, this verse anticipates the revelation that Christ is King of kings. The mention of 'all gods' can be understood as a reference to false idols or spiritual beings, affirming one supreme Lord."
     },
     {
-      "pk": 950014,
+      "pk": 23095004,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 95,
       "verse": 4,
-      "text": "In his hand are the depths of the earth; the heights of the mountains are his also.",
-      "links": "<a href='/AIV/19/95/3'>Ps. 95:3</a>; <a href='/AIV/19/104/32'>Ps. 104:32</a>",
-      "comment": "‘Hand’ represents authority. The Catholic tradition sees divine sovereignty in all creation, something reflected in the Church’s sacramental worldview."
+      "text": "In his hands are the depths of the earth; the peaks of the mountains are his as well.",
+      "links": "<a href='/AIV/19/95/5'>Ps. 95:5</a>; <a href='/AIV/19/104/5-9'>Ps. 104:5-9</a>",
+      "comment": "All creation, from its lowest depths to its highest peaks, belongs to the Lord. Creation's dependency on God underlines our own dependency, a theme expanded in Christian theology."
     },
     {
-      "pk": 950015,
+      "pk": 23095005,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 95,
       "verse": 5,
       "text": "The sea is his, for he made it, and his hands formed the dry land.",
-      "links": "<a href='/AIV/19/89/11'>Ps. 89:11</a>; <a href='/AIV/19/146/6'>Ps. 146:6</a>",
-      "comment": "Creation themes here recall Genesis 1. The language of ‘hands’ again points to personal care, echoing the Catholic understanding of God’s providence."
+      "links": "<a href='/AIV/19/24/1-2'>Ps. 24:1-2</a>; <a href='/AIV/01/1/9-10'>Gen. 1:9-10</a>",
+      "comment": "The Lord's sovereignty over land and sea echoes the Genesis creation narrative, affirming His ongoing authority over all. This lays groundwork for understanding the sacraments as the means by which God continues to use physical elements for spiritual grace."
     },
     {
-      "pk": 950016,
+      "pk": 23095006,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 95,
       "verse": 6,
-      "text": "Come, let us worship and bow down; let us kneel before the LORD, our Maker.",
-      "links": "<a href='/AIV/19/96/9'>Ps. 96:9</a>; <a href='/AIV/19/100/3'>Ps. 100:3</a>",
-      "comment": "A call to physical worship: bowing and kneeling are actions central to both Jewish and Christian liturgical worship; the Catholic liturgy maintains these postures today."
+      "text": "Come, let us bow down and worship; let us kneel before the LORD, our Maker.",
+      "links": "<a href='/AIV/19/99/5'>Ps. 99:5</a>; <a href='/AIV/66/4/10-11'>Rev. 4:10-11</a>",
+      "comment": "Physical postures of reverence—bowing and kneeling—are prescribed here, highlighting the embodied dimension of worship. This echoes the enduring practice of reverent gestures in Christian liturgy and communal prayer."
     },
     {
-      "pk": 950017,
+      "pk": 23095007,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 95,
       "verse": 7,
-      "text": "For he is our God, and we are the people of his pasture, and the sheep of his hand. Today, if you hear his voice,",
-      "links": "<a href='/AIV/19/79/13'>Ps. 79:13</a>; <a href='/AIV/43/10/27'>John 10:27</a>; <a href='/AIV/58/3/7'>Heb. 3:7</a>",
-      "comment": "The shepherd imagery is later fulfilled in Jesus (John 10:11). The ‘Today’ signals ongoing call to obedience, much emphasized in the Catholic understanding of continuing salvation."
+      "text": "For he is our God, and we are the people of his pasture, the sheep under his care. Today, if you hear his voice,",
+      "links": "<a href='/AIV/19/79/13'>Ps. 79:13</a>; <a href='/AIV/43/10/27-28'>John 10:27-28</a>; <a href='/AIV/58/3/7'>Heb. 3:7</a>",
+      "comment": "God as Shepherd is a theme fulfilled in Christ, the Good Shepherd (<a href='/AIV/43/10/11'>John 10:11</a>). The invitation 'Today' implies the ongoing call to respond to God, which later apostles interpret as a call to enter God's rest through faithful obedience."
     },
     {
-      "pk": 950018,
+      "pk": 23095008,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 95,
       "verse": 8,
       "text": "do not harden your hearts, as at Meribah, as on the day at Massah in the wilderness,",
-      "links": "<a href='/AIV/2/17/7'>Ex. 17:7</a>; <a href='/AIV/4/20/13'>Num. 20:13</a>; <a href='/AIV/58/3/8'>Heb. 3:8</a>",
-      "comment": "The wilderness rebellion is a warning. Catholics read this as teaching the necessity of perseverance, cooperating with God’s grace over a lifetime."
+      "links": "<a href='/AIV/02/17/7'>Ex. 17:7</a>; <a href='/AIV/04/20/13'>Num. 20:13</a>; <a href='/AIV/58/3/15'>Heb. 3:15</a>",
+      "comment": "The warning references Israel's rebellion in the wilderness. Christian tradition sees hardness of heart as an obstacle to grace, calling for continual openness and conversion."
     },
     {
-      "pk": 950019,
+      "pk": 23095009,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 95,
       "verse": 9,
-      "text": "When your fathers tested me, they tried me, though they had seen my work.",
-      "links": "<a href='/AIV/2/17/2'>Ex. 17:2</a>; <a href='/AIV/4/14/22'>Num. 14:22</a>",
-      "comment": "Even after witnessing miracles, the Israelites doubted. This highlights the dangers of presuming upon God’s grace—an idea key to Catholic soteriology."
+      "text": "where your fathers tested me; they tried me, though they had seen my works.",
+      "links": "<a href='/AIV/02/14/11'>Ex. 14:11</a>; <a href='/AIV/58/3/9'>Heb. 3:9</a>",
+      "comment": "Despite witnessing God's miracles, the people doubted and rebelled. The New Testament warns believers not to repeat this pattern, but to persevere in faith and obedience."
     },
     {
-      "pk": 950020,
+      "pk": 23095010,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 95,
       "verse": 10,
-      "text": "For forty years I was grieved with that generation and said, 'They are a people who go astray in their hearts, and they have not known my ways.'",
-      "links": "<a href='/AIV/4/14/33'>Num. 14:33</a>; <a href='/AIV/58/3/10'>Heb. 3:10</a>",
-      "comment": "The grumbling generation was excluded from rest. Within Catholic teaching, this prefigures purgation and the journey toward the Promised Land as heaven."
+      "text": "For forty years I loathed that generation and said, 'They are a people whose hearts go astray, and they do not know my ways.'",
+      "links": "<a href='/AIV/04/14/33-34'>Num. 14:33-34</a>; <a href='/AIV/58/3/10'>Heb. 3:10</a>",
+      "comment": "God's patience is evident, yet repeated disobedience results in serious consequences. This verse supports the need for ongoing instruction in the faith and the value of spiritual discipline."
     },
     {
-      "pk": 950021,
+      "pk": 23095011,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 95,
       "verse": 11,
-      "text": "So I swore in my wrath, 'They shall not enter my rest.'",
-      "links": "<a href='/AIV/4/14/23'>Num. 14:23</a>; <a href='/AIV/58/4/3'>Heb. 4:3</a>",
-      "comment": "‘Rest’ here points both to the land and—by extension—spiritual rest in Christ (Heb. 4). Catholics have traditionally linked this to the fullness of salvation and the reality of rest in God."
+      "text": "So I swore in my anger, 'They shall not enter my rest.'",
+      "links": "<a href='/AIV/04/14/23'>Num. 14:23</a>; <a href='/AIV/58/4/3-5'>Heb. 4:3-5</a>",
+      "comment": "'My rest' is ultimately fulfilled in Christ, offering eternal rest to those who believe and obey. Early Christian writers interpreted this as referring both to temporal judgment and to the final rest that believers find in union with God—a promise realized through the means Christ left his assembled people."
     }
   ],
-  "translatedAt": "2025-12-22T21:50:03.868Z"
+  "translatedAt": "2025-12-24T06:32:55.039Z"
 }

@@ -1,5 +1,6 @@
 {
-  "book": "Exodus",
+  "book": 2,
+  "bookName": "Exodus",
   "bookAbbreviation": "Exod",
   "chapter": 26,
   "verses": [
@@ -7,372 +8,446 @@
       "pk": 2026001,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 26,
       "verse": 1,
-      "text": "Moreover, you shall make the tabernacle with ten curtains of finely twisted linen and blue, purple, and scarlet yarns; with cherubim skillfully worked into them, you shall make them.",
-      "links": "<a href='/AIV/2/36/8'>Ex. 36:8</a>; <a href='/AIV/2/25/4'>Ex. 25:4</a>",
-      "comment": "In the word 'cherubim,' the translation preserves the plural form as in the Hebrew text."
+      "text": "You shall make the tabernacle with ten curtains of finely twisted linen, blue, purple, and scarlet yarn. With cherubim skillfully worked into them, you shall make them.",
+      "links": "<a href='/AIV/2/25/4'>Exod 25:4</a>; <a href='/AIV/2/36/8'>Exod 36:8</a>",
+      "comment": "The use of cherubim woven into the curtains signifies the nearness of God's heavenly presence to Israel. The colors and materials have symbolic meaning: blue for divinity, purple for royalty, scarlet for sacrifice. This sets the stage for understanding God's dwelling among His people, foreshadowing Christ incarnate (John 1:14)."
     },
     {
       "pk": 2026002,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 26,
       "verse": 2,
-      "text": "The length of each curtain shall be twenty-eight cubits, and the width of each curtain four cubits; all the curtains shall have the same measurement.",
-      "links": "<a href='/AIV/2/36/9'>Ex. 36:9</a>",
-      "comment": "A cubit is approximately 18 inches or 45 centimeters."
+      "text": "Each curtain shall be twenty-eight cubits long and four cubits wide; all the curtains shall have the same measurements.",
+      "links": "<a href='/AIV/2/36/9'>Exod 36:9</a>",
+      "comment": "Uniformity in the measurements reflects divine order and perfection, prefiguring the unity of God's worship and people (Eph. 4:4-6)."
     },
     {
       "pk": 2026003,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 26,
       "verse": 3,
-      "text": "Five curtains shall be joined to one another, and the other five curtains shall be joined to one another.",
-      "links": "<a href='/AIV/2/36/10'>Ex. 36:10</a>",
-      "comment": "Maintains the repetition structure of the Hebrew."
+      "text": "Five curtains shall be joined together, one to another, and the other five curtains shall be joined together.",
+      "links": "<a href='/AIV/2/36/10'>Exod 36:10</a>",
+      "comment": "The joining of the curtains suggests unity and cooperation within God’s people. Note the symmetry, which hints at completeness and harmony."
     },
     {
       "pk": 2026004,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 26,
       "verse": 4,
-      "text": "And you shall make loops of blue on the edge of the outermost curtain in the first set, and likewise on the edge of the outermost curtain in the second set.",
-      "links": "<a href='/AIV/2/36/11'>Ex. 36:11</a>",
-      "comment": "Preserves detail of blue loops consistent with original."
+      "text": "You shall make loops of blue on the edge of the last curtain in the first set, and likewise on the edge of the last curtain in the second set.",
+      "links": "<a href='/AIV/2/36/11'>Exod 36:11</a>",
+      "comment": "The blue loops symbolize the heavenly and divine connection of the assembled tabernacle, readying it for God’s holy presence."
     },
     {
       "pk": 2026005,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 26,
       "verse": 5,
-      "text": "You shall make fifty loops on the first curtain, and fifty loops on the edge of the curtain that is in the second set; the loops shall be opposite each other.",
-      "links": "<a href='/AIV/2/36/12'>Ex. 36:12</a>",
-      "comment": ""
+      "text": "You shall make fifty loops on the one curtain, and fifty loops on the edge of the curtain that is in the second set; the loops shall be opposite each other.",
+      "links": "<a href='/AIV/2/36/12'>Exod 36:12</a>",
+      "comment": "Fifty is often a number of completion and celebration (Lev. 25:10); the loops' symmetry strengthens the theme of unity and perfect connection in the worship space."
     },
     {
       "pk": 2026006,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 26,
       "verse": 6,
-      "text": "And you shall make fifty clasps of gold, and join the curtains one to another with the clasps, so that the tabernacle may be one whole.",
-      "links": "<a href='/AIV/2/36/13'>Ex. 36:13</a>",
-      "comment": ""
+      "text": "You shall make fifty gold clasps, and join the curtains together with the clasps, so that the tabernacle may be one whole.",
+      "links": "<a href='/AIV/2/36/13'>Exod 36:13</a>; <a href='/AIV/19/133/1'>Ps. 133:1</a>",
+      "comment": "Using gold—reserved for sacred purposes—shows the holiest unity of God's people. The tabernacle as 'one whole' anticipates the later unity in worship and communion found in Christ's Church (John 17:21)."
     },
     {
       "pk": 2026007,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 26,
       "verse": 7,
-      "text": "You shall also make curtains of goats' hair for a tent over the tabernacle; eleven such curtains shall you make.",
-      "links": "<a href='/AIV/2/36/14'>Ex. 36:14</a>",
-      "comment": "Literally, 'tent' over the tabernacle, distinguishing layers."
+      "text": "You shall make curtains of goat hair for a tent over the tabernacle. Make eleven such curtains.",
+      "links": "<a href='/AIV/2/36/14'>Exod 36:14</a>",
+      "comment": "The tent of goat hair provided protection. Goats were often used for sin offerings (Lev 16:5), suggesting the need for atonement covering God's dwelling."
     },
     {
       "pk": 2026008,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 26,
       "verse": 8,
-      "text": "The length of each curtain shall be thirty cubits, and the width of each curtain four cubits; the eleven curtains shall have the same measurement.",
-      "links": "<a href='/AIV/2/36/15'>Ex. 36:15</a>",
-      "comment": ""
+      "text": "Each of the eleven curtains shall be thirty cubits long and four cubits wide; all eleven curtains shall have the same measurements.",
+      "links": "<a href='/AIV/2/36/15'>Exod 36:15</a>",
+      "comment": "Precision in measurements highlights the order and intentional design of God's house, emphasizing reverence and accuracy in worship."
     },
     {
       "pk": 2026009,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 26,
       "verse": 9,
-      "text": "You shall join five curtains together by themselves, and six curtains together by themselves, and you shall double over the sixth curtain at the front of the tent.",
-      "links": "<a href='/AIV/2/36/16'>Ex. 36:16</a>",
-      "comment": ""
+      "text": "You shall join five of the curtains alone, and six curtains together; and the sixth curtain you shall double over at the front of the tent.",
+      "links": "<a href='/AIV/2/36/16'>Exod 36:16</a>",
+      "comment": "Doubling the sixth curtain protects the entrance, hinting at the need for sanctified preparation to approach God's presence (see Heb. 10:22)."
     },
     {
       "pk": 2026010,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 26,
       "verse": 10,
-      "text": "You shall make fifty loops on the edge of the outermost curtain in the one set, and fifty loops on the edge of the curtain in the second set.",
-      "links": "<a href='/AIV/2/36/17'>Ex. 36:17</a>",
-      "comment": ""
+      "text": "You shall make fifty loops on the edge of one curtain, and fifty loops on the edge of the curtain that joins the other set.",
+      "links": "<a href='/AIV/2/36/17'>Exod 36:17</a>",
+      "comment": "Repeated emphasis on the number fifty and loops maintains the theme of completeness, inviting spiritual contemplation on the fullness of God's covenant."
     },
     {
       "pk": 2026011,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 26,
       "verse": 11,
-      "text": "You shall make fifty clasps of bronze, and put the clasps into the loops, and join the tent together, so that it may be one.",
-      "links": "<a href='/AIV/2/36/18'>Ex. 36:18</a>",
-      "comment": ""
+      "text": "You shall make fifty bronze clasps and put the clasps into the loops to join the tent together, that it may be one.",
+      "links": "<a href='/AIV/2/36/18'>Exod 36:18</a>",
+      "comment": "Bronze, often associated with judgment, is used for the outer tent, reflecting protection and purity as a preparation for entering God's holiness (cf. Num. 16:38–40)."
     },
     {
       "pk": 2026012,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 26,
       "verse": 12,
-      "text": "The part that remains of the curtains of the tent, the half curtain that remains, shall hang over the back of the tabernacle.",
-      "links": "<a href='/AIV/2/36/19'>Ex. 36:19</a>",
-      "comment": ""
+      "text": "The part that remains of the curtains from the tent—the half curtain that remains—shall hang over the back of the tabernacle.",
+      "links": "<a href='/AIV/2/36/19'>Exod 36:19</a>",
+      "comment": "The overlapping fabric provides additional protection and dignity, demonstrating the need to honor and safeguard God's dwelling."
     },
     {
       "pk": 2026013,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 26,
       "verse": 13,
-      "text": "And the cubit on one side and the cubit on the other side, of what remains in the length of the curtains of the tent, shall hang over the sides of the tabernacle, on this side and that side, to cover it.",
-      "links": "<a href='/AIV/2/36/20'>Ex. 36:20</a>",
-      "comment": ""
+      "text": "The cubit on one side and the cubit on the other side, of what remains in the length of the curtains of the tent, shall hang over the sides of the tabernacle, on either side, to cover it.",
+      "links": "<a href='/AIV/2/36/20'>Exod 36:20</a>",
+      "comment": "Even the smallest detail is covered, symbolizing God's total care and the comprehensive nature of divine protection for His people."
     },
     {
       "pk": 2026014,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 26,
       "verse": 14,
-      "text": "You shall make for the tent a covering of tanned rams’ skins and a covering of goatskins on top.",
-      "links": "<a href='/AIV/2/36/19'>Ex. 36:19</a>",
-      "comment": "'Goatskins' is literal; some translations render as 'sea cow' or 'porpoise.'"
+      "text": "You shall make a covering for the tent of rams’ skins dyed red, and a covering of fine leather above that.",
+      "links": "<a href='/AIV/2/36/19'>Exod 36:19</a>; <a href='/AIV/3/8/2'>Lev 8:2</a>",
+      "comment": "The dyed red ram skins hint at themes of sacrifice and atonement. The multiple layers stress both protection and sacredness."
     },
     {
       "pk": 2026015,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 26,
       "verse": 15,
-      "text": "And you shall make upright frames of acacia wood for the tabernacle.",
-      "links": "<a href='/AIV/2/36/20'>Ex. 36:20</a>",
-      "comment": "Acacia wood is a literal rendering of the original."
+      "text": "You shall make upright frames for the tabernacle of acacia wood.",
+      "links": "<a href='/AIV/2/25/10'>Exod 25:10</a>; <a href='/AIV/2/36/20'>Exod 36:20</a>",
+      "comment": "Acacia wood is durable and incorruptible, symbolizing purity and the imperishable foundation of God’s house; later echoed in the cross of Christ, who is incorruptible (Acts 2:27)."
     },
     {
       "pk": 2026016,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 26,
       "verse": 16,
-      "text": "Each frame shall be ten cubits long and one and a half cubits wide.",
-      "links": "<a href='/AIV/2/36/21'>Ex. 36:21</a>",
-      "comment": ""
+      "text": "Each frame shall be ten cubits high and one and a half cubits wide.",
+      "links": "<a href='/AIV/2/36/21'>Exod 36:21</a>",
+      "comment": "Attention to height and size reflects God’s vastness and the grandeur of His presence; spiritual meanings include the elevation of divine worship."
     },
     {
       "pk": 2026017,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 26,
       "verse": 17,
-      "text": "There shall be two tenons in each frame, joined to one another; you shall do this for all the frames of the tabernacle.",
-      "links": "<a href='/AIV/2/36/22'>Ex. 36:22</a>",
-      "comment": "'Tenons' literally 'hands' in Hebrew, as in the ESV."
+      "text": "There shall be two tenons on each frame for joining them together; you shall do this for all the frames of the tabernacle.",
+      "links": "<a href='/AIV/2/36/22'>Exod 36:22</a>",
+      "comment": "Joinery points to the interconnectedness of God’s people, holding together as one sacred assembly (cf. 1 Cor 12:12)."
     },
     {
       "pk": 2026018,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 26,
       "verse": 18,
-      "text": "You shall make the frames for the tabernacle: twenty frames for the south side;",
-      "links": "<a href='/AIV/2/36/23'>Ex. 36:23</a>",
-      "comment": ""
+      "text": "You shall make twenty frames for the south side of the tabernacle.",
+      "links": "<a href='/AIV/2/36/23'>Exod 36:23</a>",
+      "comment": "Construction starts with the south, symbolizing radiance and warmth in classical symbolic tradition."
     },
     {
       "pk": 2026019,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 26,
       "verse": 19,
-      "text": "and you shall make forty bases of silver under the twenty frames—two bases under one frame for its two tenons, and two bases under the next frame for its two tenons.",
-      "links": "<a href='/AIV/2/36/24'>Ex. 36:24</a>",
-      "comment": ""
+      "text": "And you shall make forty silver bases to go under the twenty frames, two bases under each frame for its two tenons.",
+      "links": "<a href='/AIV/2/36/24'>Exod 36:24</a>",
+      "comment": "Silver symbolizes redemption (cf. Num 3:47), showing that the foundation of worship is redemption and the sacrificial offering."
     },
     {
       "pk": 2026020,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 26,
       "verse": 20,
-      "text": "And for the second side of the tabernacle, on the north side, twenty frames,",
-      "links": "<a href='/AIV/2/36/25'>Ex. 36:25</a>",
-      "comment": ""
+      "text": "For the second side of the tabernacle, on the north side, twenty frames.",
+      "links": "<a href='/AIV/2/36/25'>Exod 36:25</a>",
+      "comment": "Both sides equally supported, indicating impartiality and equality of all who worship God."
     },
     {
       "pk": 2026021,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 26,
       "verse": 21,
-      "text": "and their forty bases of silver—two bases under one frame, and two bases under another frame.",
-      "links": "<a href='/AIV/2/36/26'>Ex. 36:26</a>",
-      "comment": ""
+      "text": "And their forty silver bases, two bases under each frame.",
+      "links": "<a href='/AIV/2/36/26'>Exod 36:26</a>",
+      "comment": "Redemption as the unifying foundation for all sides—a deep image for the redeemed community."
     },
     {
       "pk": 2026022,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 26,
       "verse": 22,
-      "text": "And for the rear of the tabernacle westward you shall make six frames.",
-      "links": "<a href='/AIV/2/36/27'>Ex. 36:27</a>",
-      "comment": ""
+      "text": "And for the rear of the tabernacle, westward, you shall make six frames.",
+      "links": "<a href='/AIV/2/36/27'>Exod 36:27</a>",
+      "comment": "The west was associated with the destination of God's glory in Israel's tradition (cf. Exod 40:3), the ultimate goal of the worship."
     },
     {
       "pk": 2026023,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 26,
       "verse": 23,
-      "text": "You shall make two frames for the corners of the tabernacle at the rear;",
-      "links": "<a href='/AIV/2/36/28'>Ex. 36:28</a>",
-      "comment": ""
+      "text": "You shall make two frames for the corners at the rear of the tabernacle.",
+      "links": "<a href='/AIV/2/36/28'>Exod 36:28</a>",
+      "comment": "The frames at the corners solidify and strengthen the tabernacle, illustrating the stability and steadfastness needed for genuine worship."
     },
     {
       "pk": 2026024,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 26,
       "verse": 24,
-      "text": "they shall be double beneath, and together at the top by the first ring; it shall be this way for both of them at the two corners.",
-      "links": "<a href='/AIV/2/36/29'>Ex. 36:29</a>",
-      "comment": ""
+      "text": "They shall be separate beneath, but together at the top at the first ring; thus shall it be for both of them; they shall form the two corners.",
+      "links": "<a href='/AIV/2/36/29'>Exod 36:29</a>",
+      "comment": "Unity at the top, after separation below, hints at spiritual unity achieved from diversity in the Church (John 17:11)."
     },
     {
       "pk": 2026025,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 26,
       "verse": 25,
-      "text": "So there shall be eight frames, with their bases of silver, sixteen bases; two bases under each frame.",
-      "links": "<a href='/AIV/2/36/30'>Ex. 36:30</a>",
-      "comment": ""
+      "text": "There shall be eight frames, and their silver bases, sixteen bases, two bases under each frame.",
+      "links": "<a href='/AIV/2/36/30'>Exod 36:30</a>",
+      "comment": "The structural details highlight both strength and beauty in God’s design; silver’s use again connects to redemption."
     },
     {
       "pk": 2026026,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 26,
       "verse": 26,
-      "text": "You shall make bars of acacia wood, five for the frames of the one side of the tabernacle,",
-      "links": "<a href='/AIV/2/36/31'>Ex. 36:31</a>",
-      "comment": ""
+      "text": "You shall make bars of acacia wood: five for the frames on one side of the tabernacle,",
+      "links": "<a href='/AIV/2/36/31'>Exod 36:31</a>",
+      "comment": "The bars strengthen and unify the frames, emphasizing both collective and individual support within God’s people."
     },
     {
       "pk": 2026027,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 26,
       "verse": 27,
-      "text": "and five bars for the frames of the other side of the tabernacle, and five bars for the frames of the side of the tabernacle at the rear, westward.",
-      "links": "<a href='/AIV/2/36/32'>Ex. 36:32</a>",
-      "comment": ""
+      "text": "five bars for the frames on the other side of the tabernacle, and five bars for the frames at the rear of the tabernacle on the west side.",
+      "links": "<a href='/AIV/2/36/32'>Exod 36:32</a>",
+      "comment": "Consistent reinforcement: spiritual strength lies in unity, like many members joined together."
     },
     {
       "pk": 2026028,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 26,
       "verse": 28,
-      "text": "The middle bar in the midst of the frames shall pass through from end to end.",
-      "links": "<a href='/AIV/2/36/33'>Ex. 36:33</a>",
-      "comment": ""
+      "text": "The middle bar, halfway up the frames, shall run from end to end.",
+      "links": "<a href='/AIV/2/36/33'>Exod 36:33</a>",
+      "comment": "Middle bar running the length recalls the importance of a continual, unbroken support—like the priestly line and apostolic succession in the Church."
     },
     {
       "pk": 2026029,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 26,
       "verse": 29,
-      "text": "You shall overlay the frames with gold, and make their rings of gold for holders for the bars, and you shall overlay the bars with gold.",
-      "links": "<a href='/AIV/2/36/34'>Ex. 36:34</a>",
-      "comment": ""
+      "text": "You shall overlay the frames with gold and make their rings of gold for the bars, and overlay the bars with gold.",
+      "links": "<a href='/AIV/2/36/34'>Exod 36:34</a>",
+      "comment": "Gold’s purity and lasting value point to holiness and eternal glory, fitting for the presence of God."
     },
     {
       "pk": 2026030,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 26,
       "verse": 30,
-      "text": "Then you shall set up the tabernacle according to the plan that you were shown on the mountain.",
-      "links": "<a href='/AIV/2/25/40'>Ex. 25:40</a>; <a href='/AIV/2/40/33'>Ex. 40:33</a>; <a href='/AIV/4/8/4'>Num. 8:4</a>",
-      "comment": "Cf. Ex. 25:40, emphasizes Moses follows heavenly pattern."
+      "text": "You shall set up the tabernacle according to the plan for it that you were shown on the mountain.",
+      "links": "<a href='/AIV/2/25/9'>Exod 25:9</a>; <a href='/AIV/2/25/40'>Exod 25:40</a>; <a href='/AIV/58/8/5'>Heb 8:5</a>",
+      "comment": "Moses was given a heavenly pattern, showing worship should be ordered and not arbitrary—prefiguring the liturgy given by Christ and His apostles."
     },
     {
       "pk": 2026031,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 26,
       "verse": 31,
-      "text": "You shall make a veil of blue, purple, and scarlet yarns, and finely twisted linen; it shall be woven with cherubim skillfully worked into it.",
-      "links": "<a href='/AIV/2/36/35'>Ex. 36:35</a>; <a href='/AIV/2/40/21'>Ex. 40:21</a>; <a href='/AIV/3/16/2'>Lev. 16:2</a>",
-      "comment": ""
+      "text": "You shall make a veil of blue, purple, and scarlet yarn, and finely twisted linen; it shall be skillfully worked with cherubim.",
+      "links": "<a href='/AIV/2/36/35'>Exod 36:35</a>; <a href='/AIV/40/27/51'>Matt 27:51</a>; <a href='/AIV/58/10/19-20'>Heb 10:19-20</a>",
+      "comment": "This veil separated the Holy Place from the Most Holy Place, where God’s presence dwelt. The veil torn at Christ’s death (Matt 27:51) reveals His fulfillment and the new access for believers through His sacrifice."
     },
     {
       "pk": 2026032,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 26,
       "verse": 32,
-      "text": "You shall hang it on four pillars of acacia wood overlaid with gold, with hooks of gold, on four bases of silver.",
-      "links": "<a href='/AIV/2/36/36'>Ex. 36:36</a>",
-      "comment": ""
+      "text": "You shall hang it on four pillars of acacia wood overlaid with gold, with gold hooks, standing on four silver bases.",
+      "links": "<a href='/AIV/2/36/36'>Exod 36:36</a>",
+      "comment": "Gold and silver together show the joining of divinity and redemption—the pillars hint at the enduring guardianship of the apostolic tradition (Rev 3:12)."
     },
     {
       "pk": 2026033,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 26,
       "verse": 33,
-      "text": "You shall hang the veil from the clasps, and bring the ark of the testimony in there within the veil. And the veil shall separate for you the Holy Place from the Most Holy.",
-      "links": "<a href='/AIV/2/40/3'>Ex. 40:3</a>; <a href='/AIV/3/16/2'>Lev. 16:2</a>; <a href='/AIV/58/9/3'>Heb. 9:3</a>",
-      "comment": "Hebrew 'the Most Holy' (lit. 'Holy of Holies') retained."
+      "text": "You shall hang the veil under the clasps, and bring the ark of the testimony in there within the veil. The veil shall separate the Holy Place from the Most Holy Place.",
+      "links": "<a href='/AIV/58/9/3-8'>Heb 9:3-8</a>; <a href='/AIV/2/40/21'>Exod 40:21</a>",
+      "comment": "The separation points to reverence and holiness. In Christ the separation is overcome, fulfilling what the tabernacle only foreshadows (Heb 10:20)."
     },
     {
       "pk": 2026034,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 26,
       "verse": 34,
       "text": "You shall put the mercy seat on the ark of the testimony in the Most Holy Place.",
-      "links": "<a href='/AIV/2/25/21'>Ex. 25:21</a>",
-      "comment": ""
+      "links": "<a href='/AIV/2/25/17'>Exod 25:17</a>; <a href='/AIV/3/16/2'>Lev 16:2</a>",
+      "comment": "The mercy seat is where God’s presence dwells, and atonement is made. Christ fulfills the mercy seat as our propitiation (Rom 3:25)."
     },
     {
       "pk": 2026035,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 26,
       "verse": 35,
-      "text": "And you shall set the table outside the veil, and the lampstand on the south side of the tabernacle opposite the table; and you shall put the table on the north side.",
-      "links": "<a href='/AIV/2/40/22'>Ex. 40:22</a>",
-      "comment": ""
+      "text": "You shall set the table outside the veil, and the lampstand on the south side of the tabernacle. Put the table on the north side.",
+      "links": "<a href='/AIV/2/25/23'>Exod 25:23</a>; <a href='/AIV/2/25/31'>Exod 25:31</a>",
+      "comment": "The arrangement preserves order and symbolism: the table of bread (provision) and lampstand (light) foreshadow Christ, the Bread of Life and Light of the World (John 6:35, 8:12)."
     },
     {
       "pk": 2026036,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 26,
       "verse": 36,
-      "text": "You shall make a screen for the entrance of the tent, of blue, purple, and scarlet yarns, and finely twisted linen, embroidered with needlework.",
-      "links": "<a href='/AIV/2/36/37'>Ex. 36:37</a>",
-      "comment": ""
+      "text": "You shall make a screen for the entrance of the tent, of blue, purple, and scarlet yarn, and finely twisted linen, embroidered with needlework.",
+      "links": "<a href='/AIV/2/36/37'>Exod 36:37</a>",
+      "comment": "The entrance was beautiful and inviting, yet only those properly prepared—priests—could enter, foreshadowing the reality of ordained ministry and spiritual preparation."
     },
     {
       "pk": 2026037,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 26,
       "verse": 37,
-      "text": "You shall make for the screen five pillars of acacia, and overlay them with gold; their hooks shall be of gold, and you shall cast five bases of bronze for them.",
-      "links": "<a href='/AIV/2/36/38'>Ex. 36:38</a>",
-      "comment": "Finishes tabernacle entry instructions."
+      "text": "You shall make for the screen five pillars of acacia wood, overlay them with gold; their hooks shall be of gold, and you shall cast five bases of bronze for them.",
+      "links": "<a href='/AIV/2/36/38'>Exod 36:38</a>",
+      "comment": "Five pillars at the entrance recall the foundation of the Church being the apostles (Eph 2:20). Bronze, a symbol of strength and endurance, ensures the Lord’s house stands secure."
     }
   ],
-  "translatedAt": "2025-12-20T09:02:52.116Z"
+  "translatedAt": "2025-12-24T01:00:52.500Z"
 }

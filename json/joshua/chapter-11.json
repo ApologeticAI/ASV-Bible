@@ -1,238 +1,285 @@
 {
-  "book": "Joshua",
+  "book": 6,
+  "bookName": "Joshua",
   "bookAbbreviation": "Josh",
   "chapter": 11,
   "verses": [
     {
-      "pk": 1101101,
+      "pk": 6011001,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 11,
       "verse": 1,
-      "text": "When Jabin king of Hazor heard of this, he sent word to Jobab king of Madon, to the king of Shimron, to the king of Achshaph,",
-      "links": "<a href='/AIV/6/10/1'>Josh. 10:1</a>; <a href='/AIV/6/11/10'>Josh. 11:10</a>",
-      "comment": "Names preserved as in the original; 'heard of this' refers to Joshua's previous victories."
+      "text": "When Jabin, king of Hazor, heard about this, he sent word to Jobab, king of Madon, and to the king of Shimron, and to the king of Achshaph,",
+      "links": "<a href='/AIV/6/10/1-5'>Josh. 10:1-5</a>",
+      "comment": "Jabin, king of Hazor, initiates a coalition similar to previous kings who opposed Israel. The passage marks a shift to a larger northern alliance."
     },
     {
-      "pk": 1101102,
+      "pk": 6011002,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 11,
       "verse": 2,
-      "text": "and to the kings who were in the north hill country, the Arabah south of Kinnereth, in the lowland, and in Naphoth-dor on the west,",
-      "links": "<a href='/AIV/6/12/23'>Josh. 12:23</a>; <a href='/AIV/6/17/11'>Josh. 17:11</a>",
-      "comment": "Geographical terms clarified for modern readers; original places maintained."
+      "text": "and to the kings who were north in the hill country, in the Arabah south of Kinnereth, in the lowland, and in the heights of Dor on the west;",
+      "links": "<a href='/AIV/6/12/23'>Josh. 12:23</a>",
+      "comment": "The scope of opposition spans regions of northern Canaan, indicating Israel will face a more formidable challenge, advancing God's promise of total conquest."
     },
     {
-      "pk": 1101103,
+      "pk": 6011003,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 11,
       "verse": 3,
-      "text": "to the Canaanites in the east and the west, the Amorites, Hittites, Perizzites, and Jebusites in the hill country, and the Hivites under Hermon in the land of Mizpah.",
-      "links": "<a href='/AIV/6/3/10'>Josh. 3:10</a>; <a href='/AIV/6/9/1'>Josh. 9:1</a>",
-      "comment": "Lists all the groups involved as in the Hebrew; tribal names unchanged."
+      "text": "to the Canaanites in the east and west, to the Amorites, Hittites, Perizzites, and Jebusites in the hill country, and to the Hivites under Hermon in the land of Mizpah.",
+      "links": "<a href='/AIV/6/3/10'>Josh. 3:10</a>; <a href='/AIV/1/15/18-21'>Gen. 15:18-21</a>",
+      "comment": "These groups constitute the peoples designated for judgment (see Genesis 15). The passage highlights the fulfillment of God's covenant promises to Abraham through Israel."
     },
     {
-      "pk": 1101104,
+      "pk": 6011004,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 11,
       "verse": 4,
-      "text": "They came out with all their armies, a multitude as numerous as the sand on the seashore, with many horses and chariots.",
-      "links": "<a href='/AIV/6/10/5'>Josh. 10:5</a>; <a href='/AIV/1/22/17'>Gen. 22:17</a>",
-      "comment": "'Numerous as the sand on the seashore' is a literal rendering of the Hebrew idiom."
+      "text": "They went out, they and all their armies with them—a great horde, in number like the sand on the seashore, with very many horses and chariots.",
+      "links": "<a href='/AIV/1/22/17'>Gen. 22:17</a>; <a href='/AIV/7/4/7'>Judg. 4:7</a>",
+      "comment": "The force is described with language reminiscent of God's promise to multiply Abraham's descendants, contrasting God's people with the enemies' 'uncountable' host."
     },
     {
-      "pk": 1101105,
+      "pk": 6011005,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 11,
       "verse": 5,
-      "text": "All these kings joined their forces and came and camped together at the waters of Merom to fight against Israel.",
-      "links": "<a href='/AIV/6/13/4'>Josh. 13:4</a>",
-      "comment": "Merom kept as in original; simple verb tenses used for clarity."
+      "text": "All these kings joined forces; they came and camped together at the waters of Merom to fight against Israel.",
+      "links": "<a href='/AIV/6/11/7'>Josh. 11:7</a>",
+      "comment": "The gathering at Merom indicates a strategic attempt to unite against God's people, echoing the theme of collective opposition to divine plans in salvation history."
     },
     {
-      "pk": 1101106,
+      "pk": 6011006,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 11,
       "verse": 6,
-      "text": "And the LORD said to Joshua, 'Do not be afraid of them, for tomorrow at this time I will give them all over slain before Israel. You shall hamstring their horses and burn their chariots with fire.'",
-      "links": "<a href='/AIV/6/8/1'>Josh. 8:1</a>; <a href='/AIV/6/10/8'>Josh. 10:8</a>",
-      "comment": "'Hamstring' is a close literal of Hebrew; direct speech preserved."
+      "text": "Then the LORD said to Joshua, 'Do not be afraid of them, for tomorrow at this time I will give them all over, slain, to Israel. You shall hamstring their horses and burn their chariots.'",
+      "links": "<a href='/AIV/6/8/1'>Josh. 8:1</a>; <a href='/AIV/19/20/7'>Ps. 20:7</a>",
+      "comment": "God's command to cripple the horses and burn the chariots shows reliance on divine power rather than military strength, foreshadowing themes of spiritual dependence developed in later revelation."
     },
     {
-      "pk": 1101107,
+      "pk": 6011007,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 11,
       "verse": 7,
-      "text": "So Joshua and all his army came suddenly against them by the waters of Merom and fell upon them.",
-      "links": "<a href='/AIV/6/8/14'>Josh. 8:14</a>",
-      "comment": "Simple narrative maintained."
+      "text": "So Joshua and all his warriors came upon them suddenly by the waters of Merom and attacked them.",
+      "links": "<a href='/AIV/6/10/9'>Josh. 10:9</a>",
+      "comment": "Joshua’s surprise attack follows God’s instruction, highlighting prompt obedience—a trait later emphasized by leaders of the one, holy, and apostolic faith."
     },
     {
-      "pk": 1101108,
+      "pk": 6011008,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 11,
       "verse": 8,
-      "text": "And the LORD gave them into the hand of Israel, and they struck them and chased them as far as Great Sidon and Misrephoth-maim, and eastward to the valley of Mizpeh. They struck them until none were left.",
-      "links": "<a href='/AIV/6/10/10'>Josh. 10:10</a>; <a href='/AIV/6/13/6'>Josh. 13:6</a>",
-      "comment": "Geographic names retained; idiomatic phrases rendered simply."
+      "text": "And the LORD gave them into the hand of Israel, who struck them and chased them as far as Great Sidon, Misrephoth-maim, and eastward to the valley of Mizpeh; they struck them until none remained.",
+      "links": "<a href='/AIV/7/1/6-7'>Judg. 1:6-7</a>",
+      "comment": "The total defeat is attributed to God's intervention, reinforcing the theme of divine sovereignty over human history."
     },
     {
-      "pk": 1101109,
+      "pk": 6011009,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 11,
       "verse": 9,
-      "text": "And Joshua did to them just as the LORD had told him: he hamstrung their horses and burned their chariots with fire.",
+      "text": "And Joshua did to them as the LORD had told him: he hamstrung their horses and burned their chariots.",
       "links": "<a href='/AIV/6/11/6'>Josh. 11:6</a>",
-      "comment": "Literal rendering of actions as commanded."
+      "comment": "Joshua’s obedience illustrates faithfulness to commands that emphasize separation from worldly power, as later echoed in teachings on spiritual detachment."
     },
     {
-      "pk": 1101110,
+      "pk": 6011010,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 11,
       "verse": 10,
-      "text": "And Joshua turned back at that time and captured Hazor and struck its king with the sword, for Hazor before had been the head of all these kingdoms.",
-      "links": "<a href='/AIV/6/11/1'>Josh. 11:1</a>; <a href='/AIV/6/12/19'>Josh. 12:19</a>",
-      "comment": "Sequence and reason for Hazor's destruction stated clearly."
+      "text": "Joshua turned back and captured Hazor and struck its king with the sword; Hazor was formerly the head of all those kingdoms.",
+      "links": "<a href='/AIV/6/12/19'>Josh. 12:19</a>",
+      "comment": "Hazor’s prominence suggests the defeat marks a turning point, symbolizing how spiritual authority is transferred."
     },
     {
-      "pk": 1101111,
+      "pk": 6011011,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 11,
       "verse": 11,
-      "text": "And they struck every person in it with the edge of the sword, devoting them to destruction. There was no one left who breathed. He burned Hazor with fire.",
-      "links": "<a href='/AIV/6/6/21'>Josh. 6:21</a>; <a href='/AIV/5/20/16'>Deut. 20:16–17</a>",
-      "comment": "'Devoting them to destruction' is a translation of Hebrew 'herem.'"
+      "text": "They struck every soul in Hazor with the edge of the sword, destroying them; none was left who breathed. And he burned Hazor with fire.",
+      "links": "<a href='/AIV/5/7/2'>Deut. 7:2</a>; <a href='/AIV/6/8/28'>Josh. 8:28</a>",
+      "comment": "The complete destruction, though difficult for modern readers, points to the finality of God’s judgment and echoes the idea of total consecration to God."
     },
     {
-      "pk": 1101112,
+      "pk": 6011012,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 11,
       "verse": 12,
-      "text": "And Joshua captured all the cities of those kings and struck them with the edge of the sword, devoting them to destruction, just as Moses the servant of the LORD had commanded.",
-      "links": "<a href='/AIV/5/7/2'>Deut. 7:2</a>; <a href='/AIV/6/11/15'>Josh. 11:15</a>",
-      "comment": "Consistent terminology used for Moses' command and Joshua's obedience."
+      "text": "Joshua took all the cities of those kings and struck them with the edge of the sword, devoting them to destruction, as Moses the servant of the LORD had commanded.",
+      "links": "<a href='/AIV/5/20/16-17'>Deut. 20:16-17</a>; <a href='/AIV/6/8/2'>Josh. 8:2</a>",
+      "comment": "'Devoting to destruction' echoes the concept of offering all to God—a typology later used in understanding the completeness of spiritual sacrifice."
     },
     {
-      "pk": 1101113,
+      "pk": 6011013,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 11,
       "verse": 13,
-      "text": "But none of the cities that stood on mounds did Israel burn, except Hazor alone; Joshua burned it.",
-      "links": "<a href='/AIV/6/11/10'>Josh. 11:10</a>",
-      "comment": "A 'mound' translates Hebrew 'tel,' meaning a fortified city."
+      "text": "However, Israel did not burn any of the cities that stood on their mounds, except Hazor alone, which Joshua burned.",
+      "links": "<a href='/AIV/6/8/28'>Josh. 8:28</a>",
+      "comment": "Hazor’s singular destruction highlights its importance and perhaps its special status as a type of spiritual corruption to be purged."
     },
     {
-      "pk": 1101114,
+      "pk": 6011014,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 11,
       "verse": 14,
-      "text": "And all the spoil of these cities and the livestock, the people of Israel took for themselves. But every person they struck with the edge of the sword until they had destroyed them, not leaving anyone who breathed.",
-      "links": "<a href='/AIV/6/8/27'>Josh. 8:27</a>; <a href='/AIV/6/6/21'>Josh. 6:21</a>",
-      "comment": "Spoil and livestock differentiated from people; faithful to Hebrew structure."
+      "text": "All the spoil of these cities and their livestock, the people of Israel took for themselves. But every person they struck with the edge of the sword, until they had destroyed them. They left none that breathed.",
+      "links": "<a href='/AIV/6/8/27'>Josh. 8:27</a>",
+      "comment": "Israel inherits material goods, but all living inhabitants are destroyed. This points to the issue of purity, later analogized to the purification of the soul and exclusion of sin."
     },
     {
-      "pk": 1101115,
+      "pk": 6011015,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 11,
       "verse": 15,
       "text": "Just as the LORD had commanded Moses his servant, so Moses commanded Joshua, and so Joshua did; he left nothing undone of all that the LORD had commanded Moses.",
-      "links": "<a href='/AIV/6/1/7'>Josh. 1:7'>; <a href='/AIV/5/31/23'>Deut. 31:23</a>",
-      "comment": "Chain of command and obedience clearly outlined."
+      "links": "<a href='/AIV/5/34/9'>Deut. 34:9</a>; <a href='/AIV/6/1/7'>Josh. 1:7</a>",
+      "comment": "Joshua’s complete obedience to Moses’ instruction establishes the spiritual principle of apostolic succession through transmission of leadership and faithful implementation of God’s commands."
     },
     {
-      "pk": 1101116,
+      "pk": 6011016,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 11,
       "verse": 16,
-      "text": "So Joshua took all that land, the hill country and all the Negev, all the land of Goshen, the lowland, the Arabah, the hill country of Israel and its lowlands,",
-      "links": "<a href='/AIV/6/12/8'>Josh. 12:8</a>; <a href='/AIV/5/11/30'>Deut. 11:30</a>",
-      "comment": "Land names kept as in the original for accuracy."
+      "text": "So Joshua captured all that land: the hill country, all the Negev, all the land of Goshen, the lowland, the Arabah, the hill country of Israel and its lowland.",
+      "links": "<a href='/AIV/6/12/7-8'>Josh. 12:7-8</a>",
+      "comment": "The comprehensive extent of the conquest mirrors God's complete authority and the coming spiritual reality of a kingdom without division."
     },
     {
-      "pk": 1101117,
+      "pk": 6011017,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 11,
       "verse": 17,
-      "text": "from Mount Halak, which rises towards Seir, as far as Baal-gad in the valley of Lebanon below Mount Hermon. And he captured all their kings and struck them down and killed them.",
+      "text": "from Mount Halak, which rises toward Seir, as far as Baal-gad in the valley of Lebanon below Mount Hermon. He captured all their kings, and struck them down and killed them.",
       "links": "<a href='/AIV/6/12/7'>Josh. 12:7</a>",
-      "comment": "Geographic boundaries made explicit for clarity."
+      "comment": "The geographical note marks the fulfillment of the territorial promise, tying conquest to earlier prophetic assurances."
     },
     {
-      "pk": 1101118,
+      "pk": 6011018,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 11,
       "verse": 18,
-      "text": "Joshua made war a long time with all those kings.",
-      "links": "<a href='/AIV/6/10/42'>Josh. 10:42</a>",
-      "comment": "Duration stated directly as in the source text."
+      "text": "Joshua waged war against all these kings for a long time.",
+      "links": "<a href='/AIV/6/14/7-10'>Josh. 14:7-10</a>",
+      "comment": "The conquest was not instantaneous, highlighting the need for perseverance and faithful endurance—key spiritual virtues promoted in later teaching."
     },
     {
-      "pk": 1101119,
+      "pk": 6011019,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 11,
       "verse": 19,
-      "text": "There was not a city that made peace with the people of Israel, except the Hivites, the inhabitants of Gibeon. They took them all in battle.",
-      "links": "<a href='/AIV/6/9/15'>Josh. 9:15</a>",
-      "comment": "Clarifies exception of Gibeon; exact parallel to text."
+      "text": "There was not a city that made peace with the people of Israel except the Hivites, the inhabitants of Gibeon. They took all the others in battle.",
+      "links": "<a href='/AIV/6/9/3-27'>Josh. 9:3-27</a>",
+      "comment": "Only Gibeon made peace, which introduces a theme of mercy embedded within judgment—a pattern that subtly prefigures the openness to reconciliation and inclusion for those who seek peace."
     },
     {
-      "pk": 1101120,
+      "pk": 6011020,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 11,
       "verse": 20,
-      "text": "For it was the LORD who hardened their hearts to fight against Israel, so that they might be devoted to destruction, having no mercy, but be destroyed, just as the LORD had commanded Moses.",
-      "links": "<a href='/AIV/2/9/12'>Ex. 9:12</a>; <a href='/AIV/5/7/2'>Deut. 7:2</a>",
-      "comment": "Theological statement about God's sovereignty preserved; 'devoted to destruction' as herem."
+      "text": "For it was the LORD's doing to harden their hearts, that they should come against Israel in battle, in order that they should be devoted to destruction and should receive no mercy, but be destroyed, as the LORD commanded Moses.",
+      "links": "<a href='/AIV/2/4/21'>Ex. 4:21</a>; <a href='/AIV/6/9/24'>Josh. 9:24</a>",
+      "comment": "God's sovereignty over human hearts is affirmed; the contrast between hardening and mercy invites meditation upon divine justice balanced with compassion, as developed in New Testament teaching."
     },
     {
-      "pk": 1101121,
+      "pk": 6011021,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 11,
       "verse": 21,
-      "text": "And Joshua came at that time and cut off the Anakim from the hill country: from Hebron, from Debir, from Anab, and from all the hill country of Judah, and from all the hill country of Israel. Joshua devoted them to destruction with their cities.",
-      "links": "<a href='/AIV/6/15/13'>Josh. 15:13</a>; <a href='/AIV/4/13/33'>Num. 13:33</a>",
-      "comment": "'Cut off' translates a Hebrew idiom for eradication."
+      "text": "Joshua came at that time and cut off the Anakim from the hill country, from Hebron, Debir, Anab, from all the hill country of Judah, and from all the hill country of Israel. Joshua devoted them to destruction and their cities.",
+      "links": "<a href='/AIV/4/13/33'>Num. 13:33</a>; <a href='/AIV/6/14/12-14'>Josh. 14:12-14</a>",
+      "comment": "Anakim were terrifying giants; their removal demonstrates the fulfillment of God's promises and foreshadows the spiritual conquest over all forms of evil."
     },
     {
-      "pk": 1101122,
+      "pk": 6011022,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 11,
       "verse": 22,
-      "text": "None of the Anakim were left in the land of Israel; only in Gaza, in Gath, and in Ashdod did some remain.",
-      "links": "<a href='/AIV/9/17/4'>1 Sam. 17:4</a>; <a href='/AIV/6/15/46'>Josh. 15:46</a>",
-      "comment": "Notes the survival of some Anakim away from the main area."
+      "text": "There were none of the Anakim left in the land of the people of Israel. Only in Gaza, in Gath, and in Ashdod did some remain.",
+      "links": "<a href='/AIV/9/17/4'>1 Sam. 17:4</a>",
+      "comment": "Of the giants, only a few remained elsewhere—indicating evil persists even after dramatic victories, and full elimination awaits future fulfillment."
     },
     {
-      "pk": 1101123,
+      "pk": 6011023,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 11,
       "verse": 23,
-      "text": "So Joshua took control of the whole land, just as the LORD had spoken to Moses. And Joshua gave it as an inheritance to Israel, according to their divisions by tribes. Then the land rested from war.",
-      "links": "<a href='/AIV/6/21/43'>Josh. 21:43</a>; <a href='/AIV/5/11/24'>Deut. 11:24</a>",
-      "comment": "Inheritance and division by tribe emphasized as in the Hebrew; 'rested from war' captures the significance of peace."
+      "text": "So Joshua took all the land, according to all that the LORD had spoken to Moses; and Joshua gave it for an inheritance to Israel by their tribes. Thus the land had rest from war.",
+      "links": "<a href='/AIV/6/14/1-5'>Josh. 14:1-5</a>; <a href='/AIV/58/4/8'>Heb. 4:8</a>",
+      "comment": "The granting of the inheritance and rest point to ultimate spiritual fulfillment—not just physical peace, but entrance into divine rest through covenant faithfulness, a theme later related to the spiritual Sabbath rest given through Christ."
     }
   ],
-  "translatedAt": "2025-12-22T06:56:15.524Z"
+  "translatedAt": "2025-12-24T02:22:31.227Z"
 }

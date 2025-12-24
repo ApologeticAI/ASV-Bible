@@ -1,338 +1,405 @@
 {
-  "book": "Deuteronomy",
+  "book": 5,
+  "bookName": "Deuteronomy",
   "bookAbbreviation": "Deut",
   "chapter": 5,
   "verses": [
     {
-      "pk": 990501,
+      "pk": 5005001,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 5,
       "verse": 1,
-      "text": "Moses summoned all Israel and said to them, \"Hear, O Israel, the statutes and the ordinances that I speak in your hearing today, and learn them and be careful to do them.\"",
-      "links": "<a href='/AIV/3/19/37'>Lev. 19:37</a>; <a href='/AIV/5/4/1'>Deut. 4:1</a>",
-      "comment": "Opening call for attention and obedience; 'statutes and ordinances' translate Hebrew terms 'chukkim' and 'mishpatim'."
+      "text": "Moses called all Israel and said to them, \"Hear, O Israel, the statutes and ordinances which I speak in your ears today, so that you may learn them and be careful to do them.\"",
+      "links": "<a href='/AIV/3/19/37'>Lev. 19:37</a>; <a href='/AIV/5/6/4'>Deut. 6:4</a>",
+      "comment": "Moses begins by urging the people to listen, learn, and obey God's commands, laying the foundation for the rest of the covenant. The phrase 'hear, O Israel' echoes throughout Scripture, notably in the Shema (Deut. 6:4), emphasizing both the importance of communal identity and fidelity."
     },
     {
-      "pk": 990502,
+      "pk": 5005002,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 5,
       "verse": 2,
       "text": "The LORD our God made a covenant with us at Horeb.",
-      "links": "<a href='/AIV/2/19/5'>Ex. 19:5</a>; <a href='/AIV/2/24/7-8'>Ex. 24:7–8</a>",
-      "comment": "Horeb is another name for Sinai."
+      "links": "<a href='/AIV/2/19/5'>Ex. 19:5</a>; <a href='/AIV/5/4/10'>Deut. 4:10</a>",
+      "comment": "The covenant at Horeb (Sinai) is central to Israel's relationship with God. Sinai is often paralleled with later renewal and fulfillment in the new covenant through Christ (cf. Jer. 31:31)."
     },
     {
-      "pk": 990503,
+      "pk": 5005003,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 5,
       "verse": 3,
-      "text": "The LORD did not make this covenant with our fathers, but with us, we who are all here alive today.",
-      "links": "<a href='/AIV/5/29/14-15'>Deut. 29:14–15</a>",
-      "comment": "\"Not with our fathers\" means the covenant is renewed with the current generation."
+      "text": "The LORD did not make this covenant with our ancestors, but with us, all of us alive here today.",
+      "links": "<a href='/AIV/5/29/14'>Deut. 29:14-15</a>",
+      "comment": "Though physically the ancestors received the law, Moses emphasizes the ongoing, present nature of the covenant. This living tradition reflects how God's promises transcend generations and invite each person into relationship."
     },
     {
-      "pk": 990504,
+      "pk": 5005004,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 5,
       "verse": 4,
-      "text": "The LORD spoke with you face to face at the mountain, out of the midst of the fire.",
-      "links": "<a href='/AIV/2/19/9-19'>Ex. 19:9–19</a>",
-      "comment": "Figurative for direct communication; see also Deut. 4:33."
+      "text": "The LORD spoke with you face to face on the mountain, from the midst of the fire.",
+      "links": "<a href='/AIV/2/33/11'>Ex. 33:11</a>; <a href='/AIV/5/4/36'>Deut. 4:36</a>",
+      "comment": "God's closeness to Israel is shown in speaking 'face to face.' The language here points toward God's desire for direct relationship, fulfilled in the Incarnation, when God dwells among us in Christ (cf. John 1:14)."
     },
     {
-      "pk": 990505,
+      "pk": 5005005,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 5,
       "verse": 5,
-      "text": "I stood between the LORD and you at that time, to declare to you the word of the LORD; for you were afraid because of the fire, and you did not go up on the mountain. He said:",
-      "links": "<a href='/AIV/2/20/18-19'>Ex. 20:18–19</a>",
-      "comment": "Moses acted as mediator. See also Deut. 18:16."
+      "text": "I stood between the LORD and you at that time, to declare to you His word; for you were afraid because of the fire and did not go up into the mountain. He said:",
+      "links": "<a href='/AIV/2/20/19'>Ex. 20:19</a>; <a href='/AIV/3/9/16'>Lev. 9:16-24</a>",
+      "comment": "Moses acts as an intermediary, foreshadowing the need for a mediator in humanity's relationship with God (cf. 1 Tim. 2:5). The concept of intercession and mediation continues in Christian theology, especially regarding the High Priesthood of Christ. Spiritual interpretations find meaning in God’s use of mediators through history."
     },
     {
-      "pk": 990506,
+      "pk": 5005006,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 5,
       "verse": 6,
       "text": "\"I am the LORD your God, who brought you out of the land of Egypt, out of the house of slavery.\"",
       "links": "<a href='/AIV/2/20/2'>Ex. 20:2</a>; <a href='/AIV/5/6/12'>Deut. 6:12</a>",
-      "comment": "Preface to the Ten Commandments."
+      "comment": "This introduction to the commandments highlights God's saving action—liberation from bondage—a pattern later fulfilled in Christ rescuing believers from the slavery of sin (cf. Rom. 6:18)."
     },
     {
-      "pk": 990507,
+      "pk": 5005007,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 5,
       "verse": 7,
       "text": "\"You shall have no other gods before Me.\"",
       "links": "<a href='/AIV/2/20/3'>Ex. 20:3</a>; <a href='/AIV/5/6/14'>Deut. 6:14</a>",
-      "comment": "Literally, 'before My face'; exclusive worship of YHWH."
+      "comment": "The first commandment establishes exclusive worship of God, which sets the foundation for true faith. This principle is reaffirmed in the New Testament, where Christ teaches absolute devotion to God alone (cf. Matt. 4:10)."
     },
     {
-      "pk": 990508,
+      "pk": 5005008,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 5,
       "verse": 8,
-      "text": "\"You shall not make for yourself a carved image, any likeness of anything that is in heaven above, or on the earth beneath, or in the waters under the earth.\"",
-      "links": "<a href='/AIV/2/20/4'>Ex. 20:4</a>",
-      "comment": "'Carved image' translates 'pesel'; no physical representations."
+      "text": "\"You shall not make for yourself any carved image, or any likeness of anything in heaven above, or on the earth beneath, or in the waters under the earth.\"",
+      "links": "<a href='/AIV/2/20/4'>Ex. 20:4</a>; <a href='/AIV/19/115/4'>Ps. 115:4</a>",
+      "comment": "Prohibition of idols is crucial, linking worship to the invisible, living God. Note that this law regards worship, distinct from artistic representation—a point further clarified in the distinction between veneration and true worship through history."
     },
     {
-      "pk": 990509,
+      "pk": 5005009,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 5,
       "verse": 9,
-      "text": "\"You shall not bow down to them or serve them, for I, the LORD your God, am a jealous God, visiting the iniquity of the fathers upon the children, to the third and fourth generation of those who hate Me,\"",
-      "links": "<a href='/AIV/2/20/5'>Ex. 20:5</a>",
-      "comment": "'Jealous' in the sense of passionate exclusivity."
+      "text": "\"You shall not bow down to them or serve them. For I, the LORD your God, am a jealous God, visiting the iniquity of the fathers upon the children to the third and fourth generation of those who hate Me,\"",
+      "links": "<a href='/AIV/2/20/5'>Ex. 20:5</a>; <a href='/AIV/19/79/5'>Ps. 79:5</a>",
+      "comment": "God’s jealousy speaks to His passionate love and desire for unbroken relationship. The generational aspect illustrates how sin impacts communities but also points toward renewed hope through repentance and God’s mercy (cf. Ezek. 18:20)."
     },
     {
-      "pk": 990510,
+      "pk": 5005010,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 5,
       "verse": 10,
       "text": "\"but showing steadfast love to thousands of those who love Me and keep My commandments.\"",
-      "links": "<a href='/AIV/2/20/6'>Ex. 20:6</a>; <a href='/AIV/7/9'>Deut. 7:9</a>",
-      "comment": "'Steadfast love' renders Hebrew 'chesed'."
+      "links": "<a href='/AIV/2/20/6'>Ex. 20:6</a>; <a href='/AIV/19/103/17'>Ps. 103:17</a>",
+      "comment": "God's mercy far outweighs His retribution, emphasizing the priority of love and faithfulness. Christ echoes this teaching on loving God and keeping His commandments (cf. John 14:15)."
     },
     {
-      "pk": 990511,
+      "pk": 5005011,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 5,
       "verse": 11,
-      "text": "\"You shall not take the name of the LORD your God in vain, for the LORD will not hold anyone guiltless who takes His name in vain.\"",
-      "links": "<a href='/AIV/2/20/7'>Ex. 20:7</a>; <a href='/AIV/19/139/20'>Ps. 139:20</a>",
-      "comment": "'Take in vain' means misuse, especially by false oaths."
+      "text": "\"You shall not misuse the name of the LORD your God, for the LORD will not hold anyone guiltless who misuses His name.\"",
+      "links": "<a href='/AIV/2/20/7'>Ex. 20:7</a>; <a href='/AIV/3/24/16'>Lev. 24:16</a>",
+      "comment": "Sacredness of God's name is preserved in both Old and New Testaments (cf. Matt. 6:9). Respect for the holy reflects reverence found in worship and prayer."
     },
     {
-      "pk": 990512,
+      "pk": 5005012,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 5,
       "verse": 12,
       "text": "\"Observe the Sabbath day, to keep it holy, as the LORD your God commanded you.\"",
-      "links": "<a href='/AIV/2/20/8'>Ex. 20:8</a>",
-      "comment": "'Observe' replaces 'remember' (as in Exodus); distinct emphasis in Deuteronomy."
+      "links": "<a href='/AIV/2/20/8'>Ex. 20:8</a>; <a href='/AIV/1/2/3'>Gen. 2:3</a>",
+      "comment": "The Sabbath points toward rest and worship, anticipating the deeper rest Christ offers believers (cf. Heb. 4:9-10). The practice of community worship reflects continuity in the life of faith."
     },
     {
-      "pk": 990513,
+      "pk": 5005013,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 5,
       "verse": 13,
       "text": "\"Six days you shall labor and do all your work,\"",
-      "links": "<a href='/AIV/2/20/9'>Ex. 20:9</a>",
-      "comment": "Standard command to work six days."
+      "links": "<a href='/AIV/2/20/9'>Ex. 20:9</a>; <a href='/AIV/1/2/15'>Gen. 2:15</a>",
+      "comment": "The pattern of work and rest is established by God, rooting society in rhythm and balance."
     },
     {
-      "pk": 990514,
+      "pk": 5005014,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 5,
       "verse": 14,
-      "text": "\"but the seventh day is a Sabbath to the LORD your God. On it you shall not do any work, you, or your son or your daughter, or your male servant or your female servant, or your ox or your donkey or any of your livestock, or the sojourner who is within your gates, so that your male servant and your female servant may rest as you do.\"",
-      "links": "<a href='/AIV/2/20/10'>Ex. 20:10</a>",
-      "comment": "'Sojourner' refers to a foreign resident."
+      "text": "\"but the seventh day is a Sabbath to the LORD your God; on it you shall not do any work—neither you, your son or your daughter, or your male servant or your female servant, or your ox or your donkey, or any of your animals, nor any foreigner residing in your towns, so that your male and female servants may rest as you do.\"",
+      "links": "<a href='/AIV/2/20/10'>Ex. 20:10</a>; <a href='/AIV/3/25/4'>Lev. 25:4</a>",
+      "comment": "Sabbath rest is communal, including servants, strangers, and animals. This prefigures the universal invitation to God’s rest and wholeness through Christ."
     },
     {
-      "pk": 990515,
+      "pk": 5005015,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 5,
       "verse": 15,
-      "text": "\"You shall remember that you were a slave in the land of Egypt, and the LORD your God brought you out from there with a mighty hand and with an outstretched arm; therefore the LORD your God commanded you to keep the Sabbath day.\"",
-      "links": "<a href='/AIV/2/20/11'>Ex. 20:11</a>; <a href='/AIV/5/15/15'>Deut. 15:15</a>",
-      "comment": "Different rationale than Exodus—here focused on deliverance from slavery."
+      "text": "\"Remember that you were slaves in Egypt and that the LORD your God brought you out of there with a mighty hand and an outstretched arm. Therefore, the LORD your God commanded you to keep the Sabbath day.\"",
+      "links": "<a href='/AIV/2/13/3'>Ex. 13:3</a>; <a href='/AIV/5/4/34'>Deut. 4:34</a>",
+      "comment": "The Sabbath is rooted in liberation—a call to humility, gratitude, and imitation of God's saving work. Later Christian tradition deepens this as a sign of spiritual freedom."
     },
     {
-      "pk": 990516,
+      "pk": 5005016,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 5,
       "verse": 16,
-      "text": "\"Honor your father and your mother, as the LORD your God commanded you, so that your days may be long and that it may go well with you in the land that the LORD your God is giving you.\"",
-      "links": "<a href='/AIV/2/20/12'>Ex. 20:12</a>; <a href='/AIV/5/21/18-21'>Deut. 21:18–21</a>",
-      "comment": "\"May go well with you\" adds to Exodus version."
+      "text": "\"Honor your father and your mother, as the LORD your God commanded you, so that your days may be long and it may go well with you in the land the LORD your God is giving you.\"",
+      "links": "<a href='/AIV/2/20/12'>Ex. 20:12</a>; <a href='/AIV/19/127/3'>Ps. 127:3</a>; <a href='/AIV/49/6/2'>Eph. 6:2</a>",
+      "comment": "This foundational commandment connects earthly obedience to spiritual blessing. This honors the structure of family set by God, later expanded spiritually as the family of faith in Christ."
     },
     {
-      "pk": 990517,
+      "pk": 5005017,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 5,
       "verse": 17,
       "text": "\"You shall not murder.\"",
-      "links": "<a href='/AIV/2/20/13'>Ex. 20:13</a>",
-      "comment": "'Murder' is precise for Hebrew 'ratsach'; not generically 'kill.'"
+      "links": "<a href='/AIV/2/20/13'>Ex. 20:13</a>; <a href='/AIV/1/9/6'>Gen. 9:6</a>",
+      "comment": "Human life is sacred, protected from violence. This commandment is deepened by Christ, who forbids even hatred (cf. Matt. 5:21-22)."
     },
     {
-      "pk": 990518,
+      "pk": 5005018,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 5,
       "verse": 18,
       "text": "\"You shall not commit adultery.\"",
-      "links": "<a href='/AIV/2/20/14'>Ex. 20:14</a>",
-      "comment": "Direct translation; the commandment is explicit."
+      "links": "<a href='/AIV/2/20/14'>Ex. 20:14</a>; <a href='/AIV/19/51/4'>Ps. 51:4</a>; <a href='/AIV/40/5/28'>Matt. 5:28</a>",
+      "comment": "Marriage is protected by God’s law. Christ’s teaching reveals that purity begins in the heart, not just in outward action (cf. Matt. 5:28)."
     },
     {
-      "pk": 990519,
+      "pk": 5005019,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 5,
       "verse": 19,
       "text": "\"You shall not steal.\"",
-      "links": "<a href='/AIV/2/20/15'>Ex. 20:15</a>",
-      "comment": "General command against theft."
+      "links": "<a href='/AIV/2/20/15'>Ex. 20:15</a>; <a href='/AIV/20/30/9'>Prov. 30:9</a>",
+      "comment": "Protection of property is grounded in justice and respect. Spiritual interpretation includes respect for others' dignity and needs."
     },
     {
-      "pk": 990520,
+      "pk": 5005020,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 5,
       "verse": 20,
-      "text": "\"You shall not bear false witness against your neighbor.\"",
-      "links": "<a href='/AIV/2/20/16'>Ex. 20:16</a>; <a href='/AIV/3/19/18'>Lev. 19:18</a>",
-      "comment": "\"Neighbor\" refers to fellow Israelite or member of the community."
+      "text": "\"You shall not give false testimony against your neighbor.\"",
+      "links": "<a href='/AIV/2/20/16'>Ex. 20:16</a>; <a href='/AIV/19/15/2'>Ps. 15:2</a>",
+      "comment": "Truthfulness is foundational for community, reflecting God's character as Truth. Later fulfilled in Christ, who is the Truth (John 14:6)."
     },
     {
-      "pk": 990521,
+      "pk": 5005021,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 5,
       "verse": 21,
-      "text": "\"You shall not covet your neighbor's wife. And you shall not desire your neighbor's house, his field, or his male servant or his female servant, his ox or his donkey, or anything that is your neighbor's.\"",
-      "links": "<a href='/AIV/2/20/17'>Ex. 20:17</a>",
-      "comment": "'Field' added versus Exodus version; split of wife and property clarifies order."
+      "text": "\"You shall not covet your neighbor's wife. You shall not desire your neighbor’s house, or his field, or his male servant or his female servant, his ox or his donkey, or anything that belongs to your neighbor.\"",
+      "links": "<a href='/AIV/2/20/17'>Ex. 20:17</a>; <a href='/AIV/20/6/25'>Prov. 6:25</a>",
+      "comment": "Covetousness is a matter of the heart, revealing the need for inward transformation, which is a recurring theme in Christian teaching."
     },
     {
-      "pk": 990522,
+      "pk": 5005022,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 5,
       "verse": 22,
-      "text": "These words the LORD spoke to all your assembly at the mountain out of the midst of the fire, the cloud, and the thick darkness, with a loud voice; and He added no more. And He wrote them on two tablets of stone and gave them to me.",
-      "links": "<a href='/AIV/2/20/18-21'>Ex. 20:18–21</a>; <a href='/AIV/2/31/18'>Ex. 31:18</a>",
-      "comment": "\"He added no more\" emphasizes the exclusivity of the Ten Commandments."
+      "text": "These words the LORD spoke to all your assembly at the mountain, from the midst of the fire, the cloud, and the thick darkness, with a loud voice; and He added no more. And He wrote them on two tablets of stone and gave them to me.",
+      "links": "<a href='/AIV/2/24/12'>Ex. 24:12</a>; <a href='/AIV/5/9/10'>Deut. 9:10</a>",
+      "comment": "The commandments are engraved on stone, symbolizing their enduring authority—a motif echoed in how God's law is written on believers’ hearts (cf. Jer. 31:33; Heb. 8:10)."
     },
     {
-      "pk": 990523,
+      "pk": 5005023,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 5,
       "verse": 23,
-      "text": "When you heard the voice out of the midst of the darkness, while the mountain was burning with fire, you came near to me, all the heads of your tribes and your elders.",
-      "links": "<a href='/AIV/2/20/18'>Ex. 20:18</a>",
-      "comment": "Describes the representatives of all Israel."
+      "text": "When you heard the voice from the midst of the darkness while the mountain was burning with fire, you came near to me, all the leaders of your tribes and your elders.",
+      "links": "<a href='/AIV/2/20/18'>Ex. 20:18-19</a>",
+      "comment": "The people’s response of awe and fear reveals the majesty of God’s holiness, manifest in fire and darkness. This prepares the way for reverent worship and dependency on designated spiritual mediators."
     },
     {
-      "pk": 990524,
+      "pk": 5005024,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 5,
       "verse": 24,
-      "text": "And you said, \"Behold, the LORD our God has shown us His glory and His greatness, and we have heard His voice out of the midst of the fire. Today we have seen that God speaks with man, and he lives.\"",
-      "links": "<a href='/AIV/2/19/19'>Ex. 19:19</a>; <a href='/AIV/5/4/33'>Deut. 4:33</a>",
-      "comment": "Israel recognizes the unique event of surviving God's voice."
+      "text": "And you said, 'Behold, the LORD our God has shown us His glory and His greatness, and we have heard His voice from the midst of the fire. Today we have seen that God speaks with man and he lives.'",
+      "links": "<a href='/AIV/2/24/17'>Ex. 24:17</a>; <a href='/AIV/40/17/5'>Matt. 17:5</a>",
+      "comment": "God’s revelation and willingness to speak with humanity is fulfilled in Jesus, in whom God’s glory is fully revealed (cf. John 1:14; Matt. 17:5)."
     },
     {
-      "pk": 990525,
+      "pk": 5005025,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 5,
       "verse": 25,
-      "text": "Now therefore, why should we die? For this great fire will consume us. If we hear the voice of the LORD our God anymore, we shall die.",
-      "links": "<a href='/AIV/2/20/19'>Ex. 20:19</a>",
-      "comment": "Fear of death from God’s overwhelming presence."
+      "text": "Now then, why should we die? For this great fire will consume us; if we hear the voice of the LORD our God any longer, we will die.",
+      "links": "<a href='/AIV/2/20/19'>Ex. 20:19</a>; <a href='/AIV/7/13/22'>Judg. 13:22</a>",
+      "comment": "The people’s fear acknowledges God's holiness and human frailty. The Incarnation gently bridges this gap so humanity can approach God in Christ."
     },
     {
-      "pk": 990526,
+      "pk": 5005026,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 5,
       "verse": 26,
-      "text": "For who is there of all flesh, who has heard the voice of the living God speaking out of the midst of the fire, as we have, and has lived?",
-      "links": "<a href='/AIV/5/4/33'>Deut. 4:33</a>",
-      "comment": "\"All flesh\" meaning all humanity."
+      "text": "For who is there of all flesh who has heard the voice of the living God speaking from the midst of the fire, as we have, and lived?",
+      "links": "<a href='/AIV/2/20/19'>Ex. 20:19</a>; <a href='/AIV/46/15/45'>1 Cor. 15:45</a>",
+      "comment": "Hearing God and surviving is rare, accentuating humanity’s need for a mediator. Christ, as the living God, communicates life rather than death to His people."
     },
     {
-      "pk": 990527,
+      "pk": 5005027,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 5,
       "verse": 27,
-      "text": "Go near and hear all that the LORD our God says; and then speak to us all that the LORD our God speaks to you, and we will hear and do it.",
-      "links": "<a href='/AIV/2/20/19'>Ex. 20:19</a>",
-      "comment": "Israel requests Moses continue as mediator."
+      "text": "Go near and listen to all that the LORD our God says. Then tell us whatever the LORD our God tells you; we will listen and do it.",
+      "links": "<a href='/AIV/2/20/19'>Ex. 20:19</a>; <a href='/AIV/2/24/3'>Ex. 24:3</a>",
+      "comment": "The people delegate Moses as mediator, symbolizing later traditions of authority and transmission of divine teaching."
     },
     {
-      "pk": 990528,
+      "pk": 5005028,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 5,
       "verse": 28,
-      "text": "And the LORD heard your words when you spoke to me. And the LORD said to me: 'I have heard the words of this people, which they have spoken to you. They are right in all that they have spoken.'",
-      "links": "<a href='/AIV/5/18/17'>Deut. 18:17</a>",
-      "comment": "Affirms Israel’s request for a mediator."
+      "text": "The LORD heard you when you spoke to me, and the LORD said to me, 'I have heard the words of this people, which they have spoken to you. They are right in all they have spoken.'",
+      "links": "<a href='/AIV/19/34/6'>Ps. 34:6</a>",
+      "comment": "God affirms the people's humility and proper approach in recognizing the need for intermediaries. Spiritual authority and tradition are foundational in healthy faith communities."
     },
     {
-      "pk": 990529,
+      "pk": 5005029,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 5,
       "verse": 29,
-      "text": "'Oh that they had such a heart as this always, to fear Me and to keep all My commandments, so that it might go well with them and with their children forever!'",
-      "links": "<a href='/AIV/5/4/40'>Deut. 4:40</a>",
-      "comment": "\"Oh that they had...\"—God's longing for Israel's enduring faithfulness."
+      "text": "\"Oh, that they had such a heart in them always, to fear Me and keep all My commandments, that it might go well with them and with their children forever!\"",
+      "links": "<a href='/AIV/19/81/13'>Ps. 81:13</a>; <a href='/AIV/24/32/39'>Jer. 32:39</a>",
+      "comment": "The longing for permanent faithfulness reveals the need for inner transformation and grace—a hope fulfilled in the new heart promised by the Holy Spirit (cf. Ezek. 36:26-27)."
     },
     {
-      "pk": 990530,
+      "pk": 5005030,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 5,
       "verse": 30,
-      "text": "'Go and say to them, \"Return to your tents.\"'",
+      "text": "\"Go and tell them, 'Return to your tents.'\"",
       "links": "<a href='/AIV/2/19/24'>Ex. 19:24</a>",
-      "comment": "Direction for the people to depart."
+      "comment": "The people are sent back to daily life, reminded to live faithfully, integrating worship and obedience into ordinary existence."
     },
     {
-      "pk": 990531,
+      "pk": 5005031,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 5,
       "verse": 31,
-      "text": "'But as for you, stand here by Me, and I will speak to you all the commandments and the statutes and the ordinances that you shall teach them, so that they may do them in the land that I am giving them to possess.'",
-      "links": "<a href='/AIV/5/6/1'>Deut. 6:1</a>",
-      "comment": "Moses’ unique role as teacher and mediator."
+      "text": "\"But as for you, stand here by Me, and I will declare to you all the commandments, statutes, and ordinances that you shall teach them, so that they may do them in the land that I give them to possess.\"",
+      "links": "<a href='/AIV/2/24/12'>Ex. 24:12</a>; <a href='/AIV/5/4/1'>Deut. 4:1</a>",
+      "comment": "Moses receives instruction from God in a privileged position, reflecting the importance and sacredness of passing on faith and law through designated leaders."
     },
     {
-      "pk": 990532,
+      "pk": 5005032,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 5,
       "verse": 32,
-      "text": "So you shall be careful to do as the LORD your God has commanded you. You shall not turn aside to the right hand or to the left.",
-      "links": "<a href='/AIV/17/4/27'>Prov. 4:27</a>",
-      "comment": "\"Right or left\"—a Hebrew idiom for complete obedience."
+      "text": "So you must be careful to do as the LORD your God has commanded you; do not turn aside to the right or to the left.",
+      "links": "<a href='/AIV/5/17/20'>Deut. 17:20</a>; <a href='/AIV/6/1/7'>Josh. 1:7</a>",
+      "comment": "Faithfulness and clarity in obedience are essential, later echoed by Christ (Matt. 5:17) and the apostles (James 1:22)."
     },
     {
-      "pk": 990533,
+      "pk": 5005033,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 5,
       "verse": 33,
-      "text": "You shall walk in all the way that the LORD your God has commanded you, so that you may live, and that it may go well with you, and that you may prolong your days in the land that you shall possess.",
-      "links": "<a href='/AIV/5/4/40'>Deut. 4:40</a>; <a href='/AIV/5/6/2'>Deut. 6:2</a>",
-      "comment": "Summarizes the blessings of obedience: life, prosperity, and longevity."
+      "text": "Walk in all the ways that the LORD your God has commanded you, so that you may live and prosper and may prolong your days in the land you will possess.",
+      "links": "<a href='/AIV/5/30/16'>Deut. 30:16</a>; <a href='/AIV/19/1/1-3'>Ps. 1:1-3</a>",
+      "comment": "Obedience leads to true life and blessing. New Testament writers interpret this as walking in the Spirit and abiding in Christ (cf. John 15:4-5), emphasizing both the literal and spiritual promise of living in God’s presence."
     }
   ],
-  "translatedAt": "2025-12-20T09:44:32.230Z"
+  "translatedAt": "2025-12-24T01:59:25.696Z"
 }

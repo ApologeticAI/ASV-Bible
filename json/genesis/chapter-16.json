@@ -1,168 +1,201 @@
 {
-  "book": "Genesis",
+  "book": 1,
+  "bookName": "Genesis",
   "bookAbbreviation": "Gen",
   "chapter": 16,
   "verses": [
     {
-      "pk": 121601,
+      "pk": 1016001,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 16,
       "verse": 1,
-      "text": "Now Sarai, Abram’s wife, had borne him no children. But she had an Egyptian servant whose name was Hagar.",
-      "links": "<a href='/AIV/1/12/16'>Gen. 12:16</a>; <a href='/AIV/1/21/9'>Gen. 21:9</a>",
-      "comment": "The mention of Hagar introduces the servant’s role in God's unfolding plan. Sarai’s barrenness recalls other key women in salvation history who miraculously bear children (cf. Gen. 21:2, 25:21, Luke 1:7–13)."
+      "text": "Now Sarai, Abram’s wife, had borne him no children. She had an Egyptian servant whose name was Hagar.",
+      "links": "<a href='/AIV/1/12/16'>Gen 12:16</a>; <a href='/AIV/1/21/9-21'>Gen 21:9-21</a>",
+      "comment": "This introduces Hagar, who comes from Egypt, connecting back to Abram and Sarai's earlier journey there (Gen 12:16). The barrenness of Sarai sets the stage for God’s work through unexpected means."
     },
     {
-      "pk": 121602,
+      "pk": 1016002,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 16,
       "verse": 2,
-      "text": "So Sarai said to Abram, 'See now, the Lord has prevented me from bearing children. Go in to my servant; perhaps I may obtain children by her.' And Abram listened to Sarai.",
-      "links": "<a href='/AIV/1/30/3'>Gen. 30:3</a>; <a href='/AIV/1/15/2-4'>Gen. 15:2-4</a>",
-      "comment": "Sarai’s solution reflects an ancient practice (cf. Gen. 30:3), but also shows impatience with God's promise. This passage foreshadows the theme of waiting for supernatural intervention rather than relying on human wisdom."
+      "text": "Sarai said to Abram, 'Behold now, the Lord has prevented me from bearing children. Go in to my servant; perhaps I shall obtain children by her.' And Abram listened to the voice of Sarai.",
+      "links": "<a href='/AIV/1/30/3'>Gen 30:3</a>; <a href='/AIV/1/3/17'>Gen 3:17</a>",
+      "comment": "The phrase 'listened to the voice of Sarai' mirrors the language of Adam listening to Eve (Gen 3:17). Sarai’s plan reflects ancient customs (see Gen 30:3 with Rachel), but the narrative subtly shows human attempts versus trusting God’s timing."
     },
     {
-      "pk": 121603,
+      "pk": 1016003,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 16,
       "verse": 3,
-      "text": "After Abram had lived ten years in the land of Canaan, Sarai, Abram’s wife, took Hagar the Egyptian, her servant, and gave her to Abram her husband as a wife.",
-      "links": "<a href='/AIV/1/12/5'>Gen. 12:5</a>; <a href='/AIV/1/25/1'>Gen. 25:1</a>",
-      "comment": "The explicit mention of 'as a wife' points to Hagar’s elevation in status for the purpose of bearing children, underlining both the human longing and the complexity of God's covenant plan."
+      "text": "So after Abram had lived ten years in the land of Canaan, Sarai, Abram’s wife, took Hagar the Egyptian, her servant, and gave her to Abram her husband as a wife.",
+      "links": "<a href='/AIV/1/12/5'>Gen 12:5</a>; <a href='/AIV/1/25/6'>Gen 25:6</a>",
+      "comment": "Ten years highlights a period of testing. Giving Hagar 'as a wife' (not merely a concubine) emphasizes the legitimacy of offspring by ancient standards, though it departs from God’s intended design for marriage (cf. Gen 2:24, Matt 19:4-6)."
     },
     {
-      "pk": 121604,
+      "pk": 1016004,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 16,
       "verse": 4,
-      "text": "And he went in to Hagar, and she conceived. And when she saw that she had conceived, her mistress was despised in her eyes.",
-      "links": "<a href='/AIV/1/29/31-32'>Gen. 29:31-32</a>; <a href='/AIV/9/1/6'>1 Sam. 1:6</a>",
-      "comment": "Hagar’s conception brings tension between her and Sarai, paralleling later rivalries (cf. the stories of Leah and Rachel, and Hannah and Peninnah)."
+      "text": "And he went in to Hagar, and she conceived. And when she saw that she had conceived, she looked with contempt on her mistress.",
+      "links": "<a href='/AIV/1/30/4-5'>Gen 30:4-5</a>",
+      "comment": "Hagar’s conception introduces tension and reverses her role with Sarai. Similar family struggles repeat in Genesis (see Gen 30:4–5 with Rachel and Bilhah), foreshadowing ongoing conflict and the consequences of stepping outside God’s direct promise."
     },
     {
-      "pk": 121605,
+      "pk": 1016005,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 16,
       "verse": 5,
-      "text": "And Sarai said to Abram, 'May the wrong done to me be upon you! I gave my servant into your arms, and when she saw that she had conceived, I have become despised in her eyes. May the Lord judge between you and me.'",
-      "links": "<a href='/AIV/1/31/53'>Gen. 31:53</a>",
-      "comment": "Sarai appeals to the Lord as ultimate judge, hinting at the seriousness of human conflict and the need for divine resolution—an early type of seeking reconciliation in God's presence."
+      "text": "And Sarai said to Abram, 'May the wrong done to me be on you! I gave my servant to your embrace, and when she saw that she had conceived, she looked on me with contempt. May the Lord judge between you and me!'",
+      "links": "<a href='/AIV/1/31/53'>Gen 31:53</a>; <a href='/AIV/7/11/27'>Judg 11:27</a>",
+      "comment": "Sarai expresses distress and appeals to the Lord for judgment. This invocation for God as arbiter reiterates the importance of entrusting one’s sufferings and disputes to divine justice, anticipating the role of intercession and suffering in redemptive history."
     },
     {
-      "pk": 121606,
+      "pk": 1016006,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 16,
       "verse": 6,
-      "text": "But Abram said to Sarai, 'Look, your servant is in your hand; do to her as you think best.' Then Sarai dealt harshly with her, and she fled from her presence.",
-      "links": "<a href='/AIV/1/21/10'>Gen. 21:10</a>",
-      "comment": "Abram delegates the decision to Sarai, resulting in suffering for Hagar. This is a warning against abdicating spiritual responsibility, a theme echoed throughout Scripture."
+      "text": "But Abram said to Sarai, 'Behold, your servant is in your hand; do to her as you see fit.' Then Sarai dealt harshly with her, and she fled from her.",
+      "links": "<a href='/AIV/1/13/9'>Gen 13:9</a>; <a href='/AIV/1/21/10'>Gen 21:10</a>",
+      "comment": "Abram relinquishes responsibility, giving Sarai authority over Hagar. The episode shows the brokenness resulting from human decisions not fully aligned with God’s plan, paralleling later expulsion themes (Gen 21:10)."
     },
     {
-      "pk": 121607,
+      "pk": 1016007,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 16,
       "verse": 7,
-      "text": "The angel of the Lord found her by a spring of water in the wilderness, on the way to Shur.",
-      "links": "<a href='/AIV/2/3/2'>Exod. 3:2</a>; <a href='/AIV/7/6/12'>Judg. 6:12</a>",
-      "comment": "The appearance of the Angel of the Lord often signals a direct manifestation of God, foreshadowing later theophanies and even the Incarnation (Exod. 3:2; John 1:14)."
+      "text": "The angel of the Lord found her by a spring of water in the wilderness, the spring on the way to Shur.",
+      "links": "<a href='/AIV/1/21/17'>Gen 21:17</a>; <a href='/AIV/2/3/2'>Exod 3:2</a>",
+      "comment": "This is the first appearance of 'the Angel of the Lord' (often understood in Christian theology to be a pre-incarnate manifestation of Christ; cf. Exod. 3:2). God seeks out the oppressed, signaling His concern for all nations and pointing to later themes of redemption and inclusion."
     },
     {
-      "pk": 121608,
+      "pk": 1016008,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 16,
       "verse": 8,
-      "text": "And he said, 'Hagar, servant of Sarai, where have you come from, and where are you going?' She said, 'I am fleeing from my mistress Sarai.'",
-      "links": "<a href='/AIV/1/3/9'>Gen. 3:9</a>",
-      "comment": "God's questioning recalls God's search for Adam and Eve (Gen. 3:9), highlighting His personal care and pursuit of the lost."
+      "text": "And he said, 'Hagar, servant of Sarai, where have you come from and where are you going?' She said, 'I am fleeing from my mistress Sarai.'",
+      "links": "<a href='/AIV/1/3/9'>Gen 3:9</a>",
+      "comment": "God’s question echoes His address to Adam and Eve after the Fall (Gen 3:9). This divine dialogue invites honest self-examination, a pattern found in the lives of saints and those called into relationship with God."
     },
     {
-      "pk": 121609,
+      "pk": 1016009,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 16,
       "verse": 9,
-      "text": "Then the angel of the Lord said to her, 'Return to your mistress and submit yourself under her hand.'",
-      "links": "<a href='/AIV/1/21/12'>Gen. 21:12</a>",
-      "comment": "Hagar is told to embrace humility and obedience—virtues that unlock blessings. This anticipates the call for submission to God's will even when difficult (Luke 1:38; Phil. 2:8)."
+      "text": "The angel of the Lord said to her, 'Return to your mistress and submit yourself under her hand.'",
+      "links": "<a href='/AIV/1/21/12'>Gen 21:12</a>; <a href='/AIV/60/2/18'>1 Pet 2:18</a>",
+      "comment": "Hagar is directed to return and submit—an act of humility and obedience that precedes divine intervention. This call to faithful obedience even amid suffering is echoed throughout salvation history and in the lives of the faithful when enduring hardships for a greater purpose."
     },
     {
-      "pk": 121610,
+      "pk": 1016010,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 16,
       "verse": 10,
-      "text": "And the angel of the Lord also said, 'I will surely multiply your descendants so that they shall be too many to count.'",
-      "links": "<a href='/AIV/1/17/20'>Gen. 17:20</a>; <a href='/AIV/1/21/13'>Gen. 21:13</a>",
-      "comment": "This echoes the promise to Abram (Gen. 13:16), demonstrating God's mercy extends beyond chosen individuals, foreshadowing the expansion of blessing to all nations."
+      "text": "The angel of the Lord also said to her, 'I will surely multiply your offspring so that they cannot be numbered for multitude.'",
+      "links": "<a href='/AIV/1/17/20'>Gen 17:20</a>; <a href='/AIV/1/21/18'>Gen 21:18</a>",
+      "comment": "The promise given to Hagar parallels God’s promise to Abraham. God’s blessing extends beyond the chosen line, prefiguring the opening of salvation to all peoples (cf. Isa 56:7, Acts 10:34-35), a major later theme in Scripture."
     },
     {
-      "pk": 121611,
+      "pk": 1016011,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 16,
       "verse": 11,
-      "text": "And the angel of the Lord said to her, 'Behold, you are with child and shall bear a son; you shall call his name Ishmael, because the Lord has heard your affliction.'",
-      "links": "<a href='/AIV/1/17/19'>Gen. 17:19</a>; <a href='/AIV/1/21/17'>Gen. 21:17'>Gen. 29:32</a>",
-      "comment": "The naming by divine instruction is significant (cf. Gen. 17:19, Luke 1:13), revealing God's intimate involvement in human destiny."
+      "text": "And the angel of the Lord said to her, 'Behold, you are pregnant and shall bear a son. You shall call his name Ishmael, because the Lord has heard your affliction.'",
+      "links": "<a href='/AIV/1/17/19'>Gen 17:19</a>; <a href='/AIV/1/21/17'>Gen 21:17</a>",
+      "comment": "'Ishmael' means 'God hears.' The naming reflects God’s ongoing concern and response to those in distress—a recurring motif that climaxes in the coming of the Messiah, who enters into the world’s pain. The role of naming in divine revelation continues throughout Scripture."
     },
     {
-      "pk": 121612,
+      "pk": 1016012,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 16,
       "verse": 12,
-      "text": "He will be a wild donkey of a man, his hand against everyone and everyone’s hand against him, and he will dwell in the presence of all his brothers.'",
-      "links": "<a href='/AIV/1/25/18'>Gen. 25:18</a>",
-      "comment": "Ishmael’s role as the ancestor of many nations is linked to prophecy and the ongoing story of salvation history. His conflict foreshadows the struggles yet the fulfillment of God’s word."
+      "text": "He shall be a wild donkey of a man, his hand against everyone and everyone’s hand against him, and he shall dwell over against all his brothers.'",
+      "links": "<a href='/AIV/1/25/18'>Gen 25:18</a>",
+      "comment": "The prophecy concerning Ishmael foreshadows ongoing conflict but also a distinct place among Abraham’s descendants. This underscores God’s sovereignty over history and the fulfillment of His word across generations."
     },
     {
-      "pk": 121613,
+      "pk": 1016013,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 16,
       "verse": 13,
-      "text": "So she called the name of the Lord who spoke to her, 'You are the God who sees me,' for she said, 'Here truly I have seen him who looks after me.'",
-      "links": "<a href='/AIV/1/32/30'>Gen. 32:30</a>; <a href='/AIV/20/15/3'>Prov. 15:3</a>",
-      "comment": "Hagar’s recognition that God sees and cares introduces the theme of divine omniscience and compassion—a key foundation for trust in God's providence."
+      "text": "So she called the name of the Lord who spoke to her, 'You are a God of seeing,' for she said, 'Have I even here seen him who sees me?'",
+      "links": "<a href='/AIV/1/32/30'>Gen 32:30</a>; <a href='/AIV/19/139/1-2'>Ps 139:1-2</a>",
+      "comment": "This is the only instance in Genesis where a person gives a name to the Lord. 'God of seeing' or 'El Roi' highlights God’s personal attention—a truth realized in the Incarnation, when God sees and enters into humanity’s experience (cf. John 1:14)."
     },
     {
-      "pk": 121614,
+      "pk": 1016014,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 16,
       "verse": 14,
-      "text": "Therefore the well was called Beer-lahai-roi; it is between Kadesh and Bered.",
-      "links": "<a href='/AIV/1/24/62'>Gen. 24:62</a>",
-      "comment": "The naming of places for divine encounters emphasizes the physical reality of God’s intervention in history, showing faith is both spiritual and historical."
+      "text": "Therefore the well was called Beer-lahai-roi; it lies between Kadesh and Bered.",
+      "links": "<a href='/AIV/1/24/62'>Gen 24:62</a>",
+      "comment": "Beer-lahai-roi means 'Well of the Living One who sees me.' This becomes a sacred location, reminding future generations of God’s provision and attentive care—a motif that reemerges around sacred places and sacramentals in the wider biblical faith."
     },
     {
-      "pk": 121615,
+      "pk": 1016015,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 16,
       "verse": 15,
       "text": "And Hagar bore Abram a son, and Abram called the name of his son, whom Hagar bore, Ishmael.",
-      "links": "<a href='/AIV/1/21/17'>Gen. 21:17</a>",
-      "comment": "The fulfillment of the angel’s message illustrates God's faithfulness and the power of his word to bring about life even through unexpected means."
+      "links": "<a href='/AIV/1/17/23-26'>Gen 17:23-26</a>",
+      "comment": "Abram accepts Hagar’s son by naming him Ishmael, fulfilling the word of the Lord. The significance of naming in the biblical narrative points to mission and identity—concepts foundational to the ongoing story of divine election."
     },
     {
-      "pk": 121616,
+      "pk": 1016016,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 16,
       "verse": 16,
-      "text": "Abram was eighty-six years old when Hagar bore Ishmael to him.",
-      "links": "<a href='/AIV/1/12/4'>Gen. 12:4</a>; <a href='/AIV/1/21/5'>Gen. 21:5</a>",
-      "comment": "The specific age marks the timeline for the development of salvation history, underlining the patience and faith needed to trust God’s long-term plan. This passage invites reflection on submission to divine timing, foreshadowing ultimate fulfillment in the arrival of the true promised Son."
+      "text": "Abram was eighty-six years old when Hagar bore Ishmael to Abram.",
+      "links": "<a href='/AIV/1/12/4'>Gen 12:4</a>; <a href='/AIV/1/17/1'>Gen 17:1</a>",
+      "comment": "Abram’s age highlights the continued wait for God’s ultimate promise through Sarah. Faith requires trust in God’s timing and ways, which are often unexpected, prefiguring how fulfillment comes later through divine initiative."
     }
   ],
-  "translatedAt": "2025-12-23T08:41:26.467Z"
+  "translatedAt": "2025-12-24T00:18:05.036Z"
 }

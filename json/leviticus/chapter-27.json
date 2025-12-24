@@ -1,348 +1,417 @@
 {
-  "book": "Leviticus",
+  "book": 3,
+  "bookName": "Leviticus",
   "bookAbbreviation": "Lev",
   "chapter": 27,
   "verses": [
     {
-      "pk": 1352701,
+      "pk": 3027001,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 27,
       "verse": 1,
       "text": "The LORD spoke to Moses, saying,",
-      "links": "<a href='/AIV/3/25/1'>Lev. 25:1</a>",
-      "comment": "Introduction to the Lord's speech; same formula as in previous chapters."
+      "links": "<a href='/AIV/2/25/1'>Ex. 25:1</a>",
+      "comment": "This introductory formula is common in Leviticus, signaling a new block of instruction from God to Moses."
     },
     {
-      "pk": 1352702,
+      "pk": 3027002,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 27,
       "verse": 2,
-      "text": "Speak to the Israelites and say to them, ‘When anyone makes a special vow to the LORD involving the equivalent value of persons,",
-      "links": "<a href='/AIV/4/6/2'>Num. 6:2</a>",
-      "comment": "\"Equivalent value\" translates the Hebrew \"’erekh\", meaning monetary assessment for a vow."
+      "text": "Speak to the children of Israel and say to them, 'When a person makes a special vow, the persons shall be valued by your assessment to the LORD.'",
+      "links": "<a href='/AIV/3/22/21'>Lev. 22:21</a>; <a href='/AIV/4/6/2'>Num. 6:2</a>",
+      "comment": "Vows were a significant part of worship. Assessment here refers to a set value for redemption, emphasizing structured worship and making tangible offerings."
     },
     {
-      "pk": 1352703,
+      "pk": 3027003,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 27,
       "verse": 3,
-      "text": "then your valuation shall be: for a male from twenty years old up to sixty years old, your valuation shall be fifty shekels of silver, according to the sanctuary shekel.",
+      "text": "Your assessment for a male from twenty years old up to sixty years old shall be fifty shekels of silver, according to the shekel of the sanctuary.",
       "links": "<a href='/AIV/2/30/13'>Ex. 30:13</a>",
-      "comment": "One shekel = about 11 grams or 0.4 oz. Sanctuary shekel is the standard weight."
+      "comment": "The ages and amounts show the seriousness attached to vows and the community's responsibility to support proper worship."
     },
     {
-      "pk": 1352704,
+      "pk": 3027004,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 27,
       "verse": 4,
-      "text": "If it is a female, your valuation shall be thirty shekels.",
-      "links": "<a href='/AIV/3/27/5'>Lev. 27:5</a>",
-      "comment": "Female valuations were less than males, reflecting ancient economic/social context, not divine worth."
+      "text": "For a female, your assessment shall be thirty shekels.",
+      "links": "<a href='/AIV/3/5/15'>Lev. 5:15</a>",
+      "comment": "The different rates reflect ancient social roles, not spiritual value. Both men and women could dedicate themselves to the LORD."
     },
     {
-      "pk": 1352705,
+      "pk": 3027005,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 27,
       "verse": 5,
-      "text": "If it is someone from five years old up to twenty years old, your valuation for a male shall be twenty shekels, and for a female, ten shekels.",
-      "links": "<a href='/AIV/3/27/3'>Lev. 27:3</a>",
-      "comment": "Youth valuations are lower, see verse 3 for valuation rules."
+      "text": "If the person is from five years old up to twenty years old, your assessment shall be for a male twenty shekels, and for a female ten shekels.",
+      "links": "",
+      "comment": "This assessment system brings order and consistency to offerings, pointing toward the principle of giving according to one’s means (see <a href='/AIV/2/30/14-15'>Ex. 30:14-15</a>)."
     },
     {
-      "pk": 1352706,
+      "pk": 3027006,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 27,
       "verse": 6,
-      "text": "If it is a child from one month old up to five years old, your valuation shall be five shekels of silver for a male, and three shekels of silver for a female.",
-      "links": "<a href='/AIV/3/27/5'>Lev. 27:5</a>",
-      "comment": "Babies' and toddlers' valuations are the lowest, reflecting economic contribution."
+      "text": "If from a month old up to five years old, your assessment shall be five shekels of silver for a male, and three shekels of silver for a female.",
+      "links": "",
+      "comment": "All ages could be promised to the LORD, highlighting the dedication of the whole life and family to God."
     },
     {
-      "pk": 1352707,
+      "pk": 3027007,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 27,
       "verse": 7,
-      "text": "If it is for a person sixty years old or older, then for a male your valuation shall be fifteen shekels, and for a female, ten shekels.",
-      "links": "<a href='/AIV/3/27/3'>Lev. 27:3</a>",
-      "comment": "Elderly valuations are again lower, similar to age gradations in ancient Israel."
+      "text": "If from sixty years old and above, for a male, your assessment shall be fifteen shekels, and for a female ten shekels.",
+      "links": "",
+      "comment": "Elderly also have value in service to God, though their redemption price is lower, reflecting their possible role in the community."
     },
     {
-      "pk": 1352708,
+      "pk": 3027008,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 27,
       "verse": 8,
-      "text": "But if he is poorer than your valuation, then he shall present himself before the priest and the priest shall set a value for him, according to what he who vowed can afford.",
-      "links": "<a href='/AIV/3/5/11'>Lev. 5:11</a>",
-      "comment": "Provision for the poor, priest sets an affordable value."
+      "text": "But if someone is too poor to pay the assessment, then they shall present the person before the priest, and the priest shall set a value; according to what the person who vowed can afford, so the priest shall value him.",
+      "links": "<a href='/AIV/3/5/7'>Lev. 5:7</a>; <a href='/AIV/3/14/21-22'>Lev. 14:21-22</a>",
+      "comment": "Mercy is central: worship is not denied to the poor, and the priest has authority to make adjustments for the needy. See the Lord’s mercy in <a href='/AIV/40/12/7'>Matt. 12:7</a>."
     },
     {
-      "pk": 1352709,
+      "pk": 3027009,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 27,
       "verse": 9,
-      "text": "‘If it is an animal that may be offered as an offering to the LORD, all that anyone gives of such to the LORD shall be holy.",
-      "links": "<a href='/AIV/3/22/18'>Lev. 22:18</a>",
-      "comment": "\"Holy\" means set apart for God."
+      "text": "If what is vowed is an animal that may be offered as an offering to the LORD, all that anyone gives of such to the LORD shall be holy.",
+      "links": "<a href='/AIV/3/22/20-22'>Lev. 22:20-22</a>",
+      "comment": "Complete dedication sets the offering apart. This is the same idea behind Christ’s total self-offering on the Cross (<a href='/AIV/58/10/10'>Heb. 10:10</a>)."
     },
     {
-      "pk": 1352710,
+      "pk": 3027010,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 27,
       "verse": 10,
-      "text": "He must not exchange it or substitute it, good for bad or bad for good; if he does substitute one animal for another, then both it and its substitute shall be holy.",
-      "links": "<a href='/AIV/3/22/10'>Lev. 22:10</a>",
-      "comment": "No substitution allowed, to prevent manipulating the vow."
+      "text": "He shall not exchange it or substitute it, either a good for a bad or a bad for a good. But if he does substitute one animal for another, then both that animal and its substitute shall be holy.",
+      "links": "<a href='/AIV/3/27/33'>Lev. 27:33</a>",
+      "comment": "Holy offerings cannot be lightly changed—once given, the vow is binding."
     },
     {
-      "pk": 1352711,
+      "pk": 3027011,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 27,
       "verse": 11,
-      "text": "If it is any unclean animal, which is not allowed as an offering to the LORD, then he shall present the animal before the priest,",
-      "links": "<a href='/AIV/3/11/26'>Lev. 11:26</a>",
-      "comment": "Unclean animals cannot be sacrificed, but can be dedicated."
+      "text": "If it is any unclean animal, of which they do not offer as a sacrifice to the LORD, then he shall present the animal before the priest.",
+      "links": "",
+      "comment": "Even animals unsuitable for sacrifice can be given to the LORD’s service through their value."
     },
     {
-      "pk": 1352712,
+      "pk": 3027012,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 27,
       "verse": 12,
-      "text": "and the priest shall set a value for it, whether it is good or bad; as the priest values it, so it shall stand.",
-      "links": "<a href='/AIV/3/27/8'>Lev. 27:8</a>",
-      "comment": "Priest assesses fair value for unclean animals."
+      "text": "The priest shall value it, whether it is good or bad. As the priest values it, so it shall be.",
+      "links": "",
+      "comment": "Priest’s role as judge in these matters prefigures a New Testament understanding of ordained ministry and apostolic authority."
     },
     {
-      "pk": 1352713,
+      "pk": 3027013,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 27,
       "verse": 13,
-      "text": "But if he wishes to redeem it, then he must add one-fifth to your valuation.",
+      "text": "But if he truly wishes to redeem it, then he shall add one-fifth to your valuation.",
       "links": "<a href='/AIV/3/5/16'>Lev. 5:16</a>",
-      "comment": "Redeeming with an extra 20% was a penalty and compensation."
+      "comment": "The additional one-fifth penalty underscores the seriousness of taking a vow before the Lord. Redemption here involves both justice and mercy."
     },
     {
-      "pk": 1352714,
+      "pk": 3027014,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 27,
       "verse": 14,
-      "text": "‘If a man dedicates his house as holy to the LORD, the priest shall assess its value, whether it is good or bad. As the priest assesses it, so shall it stand.",
-      "links": "<a href='/AIV/3/27/12'>Lev. 27:12</a>",
-      "comment": "Procedure also applies to dedicating a house."
+      "text": "When a man dedicates his house to be holy to the LORD, the priest shall value it, whether it is good or bad; as the priest values it, so it shall stand.",
+      "links": "",
+      "comment": "Dedicating one’s home to God demonstrates that all aspects of life can be made holy. The priest’s role again is emphasized."
     },
     {
-      "pk": 1352715,
+      "pk": 3027015,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 27,
       "verse": 15,
-      "text": "If the one who dedicates it wishes to redeem his house, he must add one-fifth to its value, and it shall be his.",
+      "text": "If the one who dedicated his house wishes to redeem it, then he shall add one-fifth to the assessed value, and it shall become his.",
       "links": "<a href='/AIV/3/27/13'>Lev. 27:13</a>",
-      "comment": "Owner can buy back the house at 120% of its assessed value."
+      "comment": "Consistent penalty for redemption shows all vows are to be taken seriously."
     },
     {
-      "pk": 1352716,
+      "pk": 3027016,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 27,
       "verse": 16,
-      "text": "‘If a man dedicates some of the land that he owns to the LORD, then your valuation shall be according to its seed required: a homer of barley seed shall be valued at fifty shekels of silver.",
-      "links": "<a href='/AIV/3/25/16'>Lev. 25:16</a>",
-      "comment": "Land value based on how much seed it takes, homer = about 220 liters."
+      "text": "If a man dedicates a portion of the field of his possession to the LORD, your valuation shall be according to the seed needed; a homer of barley seed shall be valued at fifty shekels of silver.",
+      "links": "",
+      "comment": "The field, a source of sustenance, is assignable to God, connecting worship to daily life and labor."
     },
     {
-      "pk": 1352717,
+      "pk": 3027017,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 27,
       "verse": 17,
-      "text": "If he dedicates his field from the year of Jubilee, it shall stand at your full valuation.",
-      "links": "<a href='/AIV/3/25/10-13'>Lev. 25:10–13</a>",
-      "comment": "Jubilee occurs every 50 years (see Lev 25)."
+      "text": "If he dedicates his field from the Year of Jubilee, according to your valuation it shall stand.",
+      "links": "<a href='/AIV/3/25/10'>Lev. 25:10</a>",
+      "comment": "The Year of Jubilee is foundational in this section, as land dedications are calculated based on proximity to it."
     },
     {
-      "pk": 1352718,
+      "pk": 3027018,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 27,
       "verse": 18,
-      "text": "But if he dedicates his field after the Jubilee, the priest shall calculate the price according to the number of years left until the next Jubilee, and your valuation shall be reduced accordingly.",
+      "text": "But if he dedicates his field after the Jubilee, then the priest shall calculate the price according to the years that remain until the Year of Jubilee, and it shall be deducted from your valuation.",
       "links": "<a href='/AIV/3/25/27'>Lev. 25:27</a>",
-      "comment": "Valuation is pro-rated depending on how many years remain."
+      "comment": "Land cannot be given away forever; like God’s eternal promise, all returns to Him in the end."
     },
     {
-      "pk": 1352719,
+      "pk": 3027019,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 27,
       "verse": 19,
-      "text": "If the one who dedicates the field wishes to redeem it, then he must add one-fifth to your valuation, and it shall return to him.",
+      "text": "If the one who dedicated the field wishes to redeem it, then he shall add one-fifth of the money to your valuation, and it shall belong to him.",
       "links": "<a href='/AIV/3/27/15'>Lev. 27:15</a>",
-      "comment": "Owner can repurchase for 120% of assigned value."
+      "comment": "The system is consistent across all kinds of vows, teaching the importance and solemnity of sacred commitments."
     },
     {
-      "pk": 1352720,
+      "pk": 3027020,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 27,
       "verse": 20,
-      "text": "But if he does not redeem the field, or if he has sold the field to someone else, the field may not be redeemed anymore.",
-      "links": "<a href='/AIV/3/25/28'>Lev. 25:28</a>",
-      "comment": "Once sold or not redeemed, field is permanently transferred."
+      "text": "But if he does not redeem the field, or if he has sold the field to another man, it shall not be redeemed anymore.",
+      "links": "",
+      "comment": "Once a vow is transferred, it cannot easily be reversed. The seriousness of promises to God is highlighted."
     },
     {
-      "pk": 1352721,
+      "pk": 3027021,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 27,
       "verse": 21,
-      "text": "But when the field is released in the Jubilee, it shall be holy to the LORD, like a field devoted; it becomes the priest’s property.",
-      "links": "<a href='/AIV/3/25/32'>Lev. 25:32</a>",
-      "comment": "In Jubilee, devoted fields go to the priests."
+      "text": "But the field, when it is released in the Jubilee, shall be holy to the LORD as a devoted field. It shall be the possession of the priest.",
+      "links": "<a href='/AIV/3/25/28'>Lev. 25:28</a>",
+      "comment": "The priesthood receives the land, indicating the lasting place of a consecrated order in the structure of God's people."
     },
     {
-      "pk": 1352722,
+      "pk": 3027022,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 27,
       "verse": 22,
-      "text": "If a man dedicates to the LORD a field that he has bought, which is not part of his inherited property,",
-      "links": "<a href='/AIV/3/25/25'>Lev. 25:25</a>",
-      "comment": "Dedication of non-family land follows a different rule."
+      "text": "If a man dedicates to the LORD a field which he has bought, which is not of the field of his own possession,",
+      "links": "",
+      "comment": "Purchased land is treated differently, since it is not held as an eternal inheritance."
     },
     {
-      "pk": 1352723,
+      "pk": 3027023,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 27,
       "verse": 23,
-      "text": "then the priest shall calculate for him the value up to the year of Jubilee, and the man shall give the valuation on that day as a holy thing to the LORD.",
-      "links": "<a href='/AIV/3/27/18'>Lev. 27:18</a>",
-      "comment": "Payment is according to value for years remaining to Jubilee."
+      "text": "then the priest shall calculate for him the amount of your valuation up to the Year of Jubilee, and he shall give your valuation on that day as a holy thing to the LORD.",
+      "links": "",
+      "comment": "The focus is on fairness, not only permanent inheritance. God’s holiness extends also to acquired goods."
     },
     {
-      "pk": 1352724,
+      "pk": 3027024,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 27,
       "verse": 24,
-      "text": "In the year of Jubilee the field shall return to him from whom it was bought, to the one who owns the land as an inherited property.",
-      "links": "<a href='/AIV/3/25/10-28'>Lev. 25:10–28</a>",
-      "comment": "Inherited land always reverts to the original family in Jubilee."
+      "text": "In the Year of Jubilee the field shall return to the one from whom it was bought, to whom the possession of the land belongs.",
+      "links": "<a href='/AIV/3/25/28'>Lev. 25:28</a>",
+      "comment": "Emphasizes God’s overarching ownership and social justice. The land, like the people, ultimately belongs to the LORD."
     },
     {
-      "pk": 1352725,
+      "pk": 3027025,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 27,
       "verse": 25,
-      "text": "Every valuation shall be according to the sanctuary shekel; twenty gerahs shall make a shekel.",
+      "text": "All your valuations shall be according to the shekel of the sanctuary: twenty gerahs to the shekel.",
       "links": "<a href='/AIV/2/30/13'>Ex. 30:13</a>",
-      "comment": "Standard weights clarify the sanctuary rules—a gerah is a small coin/weight."
+      "comment": "Standardizing weights ensures fairness. The sanctuary becomes the center of truth and measurement."
     },
     {
-      "pk": 1352726,
+      "pk": 3027026,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 27,
       "verse": 26,
-      "text": "‘But a firstborn among animals, which as a firstborn already belongs to the LORD, no one may dedicate; whether an ox or a sheep, it is the LORD’s.",
-      "links": "<a href='/AIV/2/13/2'>Ex. 13:2</a>",
-      "comment": "Firstborn animals are already God’s, can’t be re-dedicated."
+      "text": "But the firstborn among animals, which as a firstborn belongs to the LORD, no one may dedicate; whether it is an ox or a sheep, it belongs to the LORD.",
+      "links": "<a href='/AIV/2/13/2'>Ex. 13:2</a>; <a href='/AIV/4/18/17'>Num. 18:17</a>",
+      "comment": "Firstborns are already considered holy. The principle of ‘first fruits’ points toward Christ as the firstborn from the dead (<a href='/AIV/51/1/18'>Col. 1:18</a>)."
     },
     {
-      "pk": 1352727,
+      "pk": 3027027,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 27,
       "verse": 27,
-      "text": "But if it is an unclean animal, then the person shall redeem it at the valuation, adding a fifth to it; or if it is not redeemed, it shall be sold at the valuation.",
-      "links": "<a href='/AIV/3/5/16'>Lev. 5:16</a>",
-      "comment": "Unclean animals can be bought back or sold, with a 20% penalty if redeemed."
+      "text": "But if it is an unclean animal, then he shall redeem it according to your valuation, and shall add one-fifth to it; or if it is not redeemed, it shall be sold according to your valuation.",
+      "links": "",
+      "comment": "Redemption makes allowance for unclean animals, keeping the principle of substitution and compensation."
     },
     {
-      "pk": 1352728,
+      "pk": 3027028,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 27,
       "verse": 28,
-      "text": "‘But nothing that a man devotes irrevocably to the LORD, of anything that he owns, whether man or animal or field of his property, may be sold or redeemed; every devoted thing is most holy to the LORD.",
-      "links": "<a href='/AIV/3/27/21'>Lev. 27:21</a>",
-      "comment": "\"Devoted\" is the Hebrew cherem—something banned from common use, set apart completely."
+      "text": "But no devoted thing that a man devotes to the LORD of all that he has, whether of man or livestock or of the field of his possession, shall be sold or redeemed; every devoted thing is most holy to the LORD.",
+      "links": "<a href='/AIV/6/6/17'>Josh. 6:17</a>",
+      "comment": "A ‘devoted thing’ (herem) cannot be reclaimed or sold. Total dedication and irreversible promises prefigure ultimate sacrifice (<a href='/AIV/58/9/14'>Heb. 9:14</a>)."
     },
     {
-      "pk": 1352729,
+      "pk": 3027029,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 27,
       "verse": 29,
-      "text": "No one devoted to destruction from mankind shall be ransomed; he shall surely be put to death.",
-      "links": "<a href='/AIV/6/6/17'>Josh. 6:17</a>",
-      "comment": "\"Devoted to destruction\" means under a ban for capital punishment."
+      "text": "No person devoted, doomed to destruction among men, shall be ransomed; he shall surely be put to death.",
+      "links": "<a href='/AIV/6/7/15'>Josh. 7:15</a>",
+      "comment": "God alone decides the fate of the condemned. This is a sober reminder that divine justice is absolute."
     },
     {
-      "pk": 1352730,
+      "pk": 3027030,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 27,
       "verse": 30,
-      "text": "‘Every tithe of the land, whether of the seed of the land or of the fruit of the trees, belongs to the LORD; it is holy to the LORD.",
-      "links": "<a href='/AIV/3/27/32'>Lev. 27:32</a>",
-      "comment": "Tithe means one-tenth."
+      "text": "All the tithe of the land, whether of the seed of the land or of the fruit of the tree, is the LORD's; it is holy to the LORD.",
+      "links": "<a href='/AIV/3/27/32'>Lev. 27:32</a>; <a href='/AIV/39/3/10'>Mal. 3:10</a>",
+      "comment": "The practice of tithing recognizes God’s sovereignty over all material goods and links worship to concrete generosity."
     },
     {
-      "pk": 1352731,
+      "pk": 3027031,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 27,
       "verse": 31,
       "text": "If a man wishes to redeem any of his tithe, he shall add one-fifth to it.",
-      "links": "<a href='/AIV/3/5/16'>Lev. 5:16</a>",
-      "comment": "Anyone redeeming the tithe must add a 20% premium."
+      "links": "",
+      "comment": "A redemption penalty ensures tithing is neither neglected nor treated lightly, highlighting the need for sincere stewardship."
     },
     {
-      "pk": 1352732,
+      "pk": 3027032,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 27,
       "verse": 32,
-      "text": "And every tithe of herds and flocks, every tenth animal that passes under the shepherd’s staff, shall be holy to the LORD.",
-      "links": "<a href='/AIV/4/18/17'>Num. 18:17</a>",
-      "comment": "Tithing of livestock was also required."
+      "text": "All the tithe of the herd or flock, whatever passes under the shepherd's rod, the tenth one shall be holy to the LORD.",
+      "links": "<a href='/AIV/24/33/13'>Jer. 33:13</a>",
+      "comment": "God claims not merely a portion but the best portion, sifting out the firstfruits for His own. This points forward to the principle of sacrificial worship."
     },
     {
-      "pk": 1352733,
+      "pk": 3027033,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 27,
       "verse": 33,
-      "text": "He must not examine whether it is good or bad, nor substitute it; but if he does substitute it, both it and its substitute shall be holy; it shall not be redeemed.",
+      "text": "He shall not search whether it is good or bad, nor shall he exchange it; but if he does exchange it at all, then both it and its substitute shall be holy; it shall not be redeemed.",
       "links": "<a href='/AIV/3/27/10'>Lev. 27:10</a>",
-      "comment": "No picking and choosing; all counted animals belong to God."
+      "comment": "Honesty and integrity in tithing are necessary. Once dedicated, no changes can be made."
     },
     {
-      "pk": 1352734,
+      "pk": 3027034,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 27,
       "verse": 34,
-      "text": "These are the commandments which the LORD commanded Moses for the Israelites on Mount Sinai.",
+      "text": "These are the commandments which the LORD commanded Moses for the children of Israel on Mount Sinai.",
       "links": "<a href='/AIV/3/25/1'>Lev. 25:1</a>",
-      "comment": "Summary statement concluding the laws given in Leviticus."
+      "comment": "This closing summary ties back the entire Law to its divine authority and the importance of obedience. The instructions about holiness, vows, priestly authority, and tithing form a foundation for later Christian liturgy and sacrificial practices."
     }
   ],
-  "translatedAt": "2025-12-20T09:23:26.696Z"
+  "translatedAt": "2025-12-24T01:27:12.550Z"
 }

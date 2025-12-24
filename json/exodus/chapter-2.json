@@ -1,258 +1,309 @@
 {
-  "book": "Exodus",
+  "book": 2,
+  "bookName": "Exodus",
   "bookAbbreviation": "Exod",
   "chapter": 2,
   "verses": [
     {
-      "pk": 1952201,
+      "pk": 2002001,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 2,
       "verse": 1,
-      "text": "A man from the house of Levi went and took a daughter of Levi as his wife.",
-      "links": "<a href='/ESV/2/6/20'>Ex. 6:20</a>; <a href='/ESV/2/1/1-2'>Ex. 1:1-2</a>",
-      "comment": "Retains the original emphasis on tribe; ‘house of Levi’ means from the Levites; cf. Ex. 6:20 for identification."
+      "text": "Now a man from the house of Levi went and married a daughter of Levi.",
+      "links": "<a href='/AIV/2/6/16-20'>Exod. 6:16-20</a>",
+      "comment": "This introduces Moses' family background as Levites, foreshadowing the priestly tribe. The Levite lineage will be crucial for the sanctuary and worship later (cf. Exod. 6:16-20; Num. 3:17-39), hinting at an established order of ministry."
     },
     {
-      "pk": 1952202,
+      "pk": 2002002,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 2,
       "verse": 2,
-      "text": "The woman conceived and bore a son; and when she saw that he was a beautiful child, she hid him for three months.",
-      "links": "<a href='/ESV/2/6/20'>Ex. 6:20</a>; <a href='/ESV/58/11/23'>Heb. 11:23</a>",
-      "comment": "‘Beautiful’ may also mean ‘goodly’ or ‘fine’; cf. Heb. 11:23."
+      "text": "The woman conceived and bore a son; and when she saw that he was a fine child, she hid him for three months.",
+      "links": "<a href='/AIV/7/13/3'>Judg. 13:3</a>; <a href='/AIV/58/11/23'>Heb. 11:23</a>",
+      "comment": "Moses' mother hides him out of faith and hope. Hebrews 11:23 notes this act as motivated by faith and courage—seeing God's plan even in peril."
     },
     {
-      "pk": 1952203,
+      "pk": 2002003,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 2,
       "verse": 3,
-      "text": "When she could no longer hide him, she took a papyrus basket, coated it with tar and pitch, placed the child inside, and put it among the reeds by the riverbank.",
-      "links": "<a href='/ESV/2/2/5'>Ex. 2:5</a>; <a href='/ESV/2/6/15'>Ex. 6:15</a>",
-      "comment": "‘Papyrus basket’ literally ‘ark’; kept as ‘basket’ for clarity. ‘Tar and pitch’ matches the original meaning."
+      "text": "When she could hide him no longer, she took a papyrus basket for him, coated it with tar and pitch, placed the child in it, and set it among the reeds by the bank of the Nile.",
+      "links": "<a href='/AIV/1/6/14'>Gen. 6:14</a>",
+      "comment": "The basket resembles the ark in Genesis 6:14, drawing a typological link between Moses' deliverance and Noah's. Both arks are instruments of salvation through water, prefiguring later understandings of sacramental deliverance."
     },
     {
-      "pk": 1952204,
+      "pk": 2002004,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 2,
       "verse": 4,
-      "text": "His sister stood at a distance to see what would happen to him.",
-      "links": "<a href='/ESV/2/15/20'>Ex. 15:20</a>",
-      "comment": "The sister is Miriam (cf. Ex. 15:20), though not named here."
+      "text": "His sister stood at a distance, to see what would happen to him.",
+      "links": "<a href='/AIV/2/15/20'>Exod. 15:20</a>",
+      "comment": "This is traditionally understood to be Miriam, who later leads Israel in worship (Exod. 15:20), showing from the beginning God works through diverse members of His people."
     },
     {
-      "pk": 1952205,
+      "pk": 2002005,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 2,
       "verse": 5,
-      "text": "Pharaoh’s daughter came down to bathe at the river, while her maidens walked along the riverbank. She saw the basket among the reeds and sent her servant girl to get it.",
-      "links": "<a href='/ESV/2/2/9'>Ex. 2:9</a>",
-      "comment": "‘Servant girl’ replaces ambiguous ‘maid’ with accurate English for context."
+      "text": "Pharaoh's daughter came down to bathe at the Nile, while her maidens walked along the riverbank. She saw the basket among the reeds and sent her maid to fetch it.",
+      "links": "<a href='/AIV/44/7/21'>Acts 7:21</a>",
+      "comment": "Divine providence acts even through those outside of Israel. God’s plan is advanced in unexpected ways, echoed later in Acts 7:21 where Stephen retells this story."
     },
     {
-      "pk": 1952206,
+      "pk": 2002006,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 2,
       "verse": 6,
-      "text": "When she opened it, she saw the child, and the baby was crying. She took pity on him and said, “This is one of the Hebrews’ children.”",
-      "links": "<a href='/ESV/2/1/16'>Ex. 1:16</a>; <a href='/ESV/2/1/22'>Ex. 1:22</a>",
-      "comment": "Retains ‘Hebrews’—ethnicity is important."
+      "text": "When she opened it, she saw the child—behold, the baby was crying. She had compassion on him and said, 'This is one of the Hebrews' children.'",
+      "links": "<a href='/AIV/23/49/15'>Isa. 49:15</a>",
+      "comment": "Pharaoh’s daughter’s compassion contrasts with Pharaoh’s cruelty. Echoes of divine mercy, reminiscent of God’s motherly love in Isa. 49:15."
     },
     {
-      "pk": 1952207,
+      "pk": 2002007,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 2,
       "verse": 7,
-      "text": "Then his sister said to Pharaoh’s daughter, 'Should I go and call a nurse from the Hebrew women to nurse the child for you?'",
-      "links": "<a href='/ESV/2/2/8'>Ex. 2:8</a>",
-      "comment": "‘Nurse from the Hebrew women’ matches Hebrew text."
+      "text": "Then his sister said to Pharaoh’s daughter, 'Shall I go and call you a nurse from the Hebrew women to nurse the child for you?'",
+      "links": "<a href='/AIV/2/1/17-19'>Exod. 1:17-19</a>",
+      "comment": "Miriam’s wisdom and initiative help preserve Moses’ connection with his birth family. The subtle work of faithful individuals keeps God’s plan alive even under adversity."
     },
     {
-      "pk": 1952208,
+      "pk": 2002008,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 2,
       "verse": 8,
-      "text": "Pharaoh’s daughter said to her, “Go.” So, the girl went and called the child’s mother.",
-      "links": "<a href='/ESV/2/2/7'>Ex. 2:7</a>",
-      "comment": "‘Go’ is direct speech from Pharaoh’s daughter; roles clarified."
+      "text": "Pharaoh’s daughter said to her, 'Go.' So the girl went and called the child’s mother.",
+      "links": "<a href='/AIV/2/6/20'>Exod. 6:20</a>",
+      "comment": "God works through providence and family ties to ensure that Moses’ upbringing will be influenced by the faith of his ancestors."
     },
     {
-      "pk": 1952209,
+      "pk": 2002009,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 2,
       "verse": 9,
-      "text": "Pharaoh’s daughter said to her, “Take this child away and nurse him for me, and I will pay you.” So the woman took the child and nursed him.",
-      "links": "<a href='/ESV/2/2/6'>Ex. 2:6</a>",
-      "comment": "‘Pay you’ clarifies ‘wages’ from original."
+      "text": "Pharaoh’s daughter said to her, 'Take this child away and nurse him for me, and I will give you your wages.' So the woman took the child and nursed him.",
+      "links": "<a href='/AIV/23/49/23'>Isa. 49:23</a>",
+      "comment": "Ironically, Moses’s mother is paid to nurse her own son—the same child whom Pharaoh had condemned. God turns evil intentions to serve His saving plan (cf. Gen 50:20)."
     },
     {
-      "pk": 1952210,
+      "pk": 2002010,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 2,
       "verse": 10,
-      "text": "When the child grew older, she brought him to Pharaoh’s daughter, and he became her son. She named him Moses, saying, “Because I drew him out of the water.”",
-      "links": "<a href='/ESV/2/2/6'>Ex. 2:6</a>; <a href='/ESV/2/2/10'>Ex. 2:10</a>",
-      "comment": "‘Moses’—a wordplay from ‘draw out’. Preserved in text."
+      "text": "When the child grew older, she brought him to Pharaoh’s daughter, and he became her son. She named him Moses, saying, 'Because I drew him out of the water.'",
+      "links": "<a href='/AIV/44/7/21'>Acts 7:21</a>; <a href='/AIV/2/6/20'>Exod. 6:20</a>",
+      "comment": "Moses’ name foreshadows his future role as a deliverer, one drawn out from peril to save others. Being raised in the royal household prepares him uniquely for his mission."
     },
     {
-      "pk": 1952211,
+      "pk": 2002011,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 2,
       "verse": 11,
-      "text": "It happened in those days, when Moses had grown up, that he went out to his people and saw their forced labor. He saw an Egyptian beating a Hebrew, one of his brothers.",
-      "links": "<a href='/ESV/2/2/14'>Ex. 2:14</a>; <a href='/ESV/2/1/11'>Ex. 1:11</a>",
-      "comment": "‘His brothers’ interprets ‘from his brethren’ for clarity."
+      "text": "One day, after Moses had grown up, he went out to his people and looked on their burdens, and he saw an Egyptian beating a Hebrew, one of his own people.",
+      "links": "<a href='/AIV/44/7/23-24'>Acts 7:23-24</a>; <a href='/AIV/58/11/24-25'>Heb. 11:24-25</a>",
+      "comment": "Moses identifies with his people, choosing suffering with them over comfort in Egypt (Heb. 11:24-25). This foreshadows Christ, who identifies with the suffering of His people."
     },
     {
-      "pk": 1952212,
+      "pk": 2002012,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 2,
       "verse": 12,
-      "text": "He looked this way and that, and when he saw no one, he struck down the Egyptian and hid him in the sand.",
-      "links": "<a href='/ESV/2/2/15'>Ex. 2:15</a>",
-      "comment": "‘Struck down’ is literal for killed, avoids euphemism."
+      "text": "He looked this way and that, and when he saw that no one was around, he struck down the Egyptian and hid him in the sand.",
+      "links": "<a href='/AIV/44/7/24'>Acts 7:24</a>",
+      "comment": "Moses tries to bring justice by his own hand, a premature attempt before his God-appointed timing. Even great leaders have imperfect beginnings."
     },
     {
-      "pk": 1952213,
+      "pk": 2002013,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 2,
       "verse": 13,
-      "text": "He went out the next day, and behold, two Hebrews were fighting. He said to the one who was in the wrong, “Why are you hitting your companion?”",
-      "links": "<a href='/ESV/2/2/11'>Ex. 2:11</a>",
-      "comment": "Clarifies ‘his companion’ for idiomatic meaning."
+      "text": "The next day he went out and saw two Hebrews fighting. He said to the one in the wrong, 'Why do you strike your fellow Hebrew?'",
+      "links": "<a href='/AIV/1/4/9'>Gen. 4:9</a>",
+      "comment": "Moses intervenes as a peacemaker, yet is rejected. This echoes how God’s chosen instruments are often misunderstood or rejected—parallels with Christ (John 1:11)."
     },
     {
-      "pk": 1952214,
+      "pk": 2002014,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 2,
       "verse": 14,
-      "text": "He answered, 'Who made you a ruler and judge over us? Are you planning to kill me as you killed the Egyptian?' Then Moses was afraid and thought, 'Surely what I did is known.'",
-      "links": "<a href='/ESV/2/2/15'>Ex. 2:15</a>; <a href='/ESV/44/7/27-29'>Acts 7:27-29</a>",
-      "comment": "Retains direct speech style; cf. Acts 7:27-29 for further reflection."
+      "text": "He replied, 'Who made you a prince and a judge over us? Are you intending to kill me as you killed the Egyptian?' Then Moses was afraid and thought, 'Surely the thing is known.'",
+      "links": "<a href='/AIV/44/7/27-28'>Acts 7:27-28</a>",
+      "comment": "Rejection by his own people foreshadows later experiences of Israel’s leaders (Acts 7:35). This serves as a pattern for those sent by God facing resistance before being recognized."
     },
     {
-      "pk": 1952215,
+      "pk": 2002015,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 2,
       "verse": 15,
-      "text": "When Pharaoh heard about this, he sought to kill Moses. But Moses fled from Pharaoh and stayed in the land of Midian. He sat down by a well.",
-      "links": "<a href='/ESV/2/18/1'>Ex. 18:1</a>; <a href='/ESV/2/3/1'>Ex. 3:1</a>",
-      "comment": "‘Sat down by a well’ emphasizes geography."
+      "text": "When Pharaoh heard about this, he tried to kill Moses. But Moses fled from Pharaoh and lived in the land of Midian, where he sat down by a well.",
+      "links": "<a href='/AIV/1/16/6-7'>Gen. 16:6-7</a>; <a href='/AIV/2/4/19'>Exod. 4:19</a>",
+      "comment": "Moses flees to the desert, a recurring biblical theme: God uses times of exile and wilderness to prepare His servants for mission (cf. Elijah, Jesus; Matt. 4:1-11)."
     },
     {
-      "pk": 1952216,
+      "pk": 2002016,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 2,
       "verse": 16,
-      "text": "Now the priest of Midian had seven daughters, and they came and drew water, and filled the troughs to water their father’s flock.",
-      "links": "<a href='/ESV/2/3/1'>Ex. 3:1</a>; <a href='/ESV/2/18/12'>Ex. 18:12</a>",
-      "comment": "‘Filled the troughs’ details the process."
+      "text": "Now the priest of Midian had seven daughters. They came and drew water and filled the troughs to water their father’s flock.",
+      "links": "<a href='/AIV/1/24/10-14'>Gen. 24:10-14</a>",
+      "comment": "Wells are frequent settings for biblical betrothals (cf. Gen. 24, 29; John 4). The presence of the Midianite priest points to God’s revelation being prepared beyond Israel alone."
     },
     {
-      "pk": 1952217,
+      "pk": 2002017,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 2,
       "verse": 17,
-      "text": "Then some shepherds came and drove them away, but Moses rose up and defended them and watered their flock.",
-      "links": "<a href='/ESV/2/2/19'>Ex. 2:19</a>",
-      "comment": "‘Defended them’ is literal and preserves action."
+      "text": "The shepherds came and drove them away, but Moses stood up and rescued them and watered their flock.",
+      "links": "<a href='/AIV/1/29/10-11'>Gen. 29:10-11</a>",
+      "comment": "Moses again acts as a deliverer, foreshadowing his ministry for Israel. The motif of the shepherd-who-saves resonates with later scriptural themes (cf. Ps 23; John 10:11)."
     },
     {
-      "pk": 1952218,
+      "pk": 2002018,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 2,
       "verse": 18,
-      "text": "When they returned to their father Reuel, he said, 'How is it that you have come home so soon today?'",
-      "links": "<a href='/ESV/2/3/1'>Ex. 3:1</a>; <a href='/ESV/4/10/29'>Num. 10:29</a>",
-      "comment": "‘Reuel’ is kept from Hebrew text, cf. Num. 10:29."
+      "text": "When they came to their father Reuel, he said, 'How is it that you have come back so soon today?'",
+      "links": "<a href='/AIV/2/3/1'>Exod. 3:1</a>",
+      "comment": "Reuel (or Jethro) is called a priest. Later passages show him offering sacrifices to the true God (Exod. 18:12)."
     },
     {
-      "pk": 1952219,
+      "pk": 2002019,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 2,
       "verse": 19,
-      "text": "They said, 'An Egyptian rescued us from the shepherds, and he even drew water for us and watered the flock.'",
-      "links": "<a href='/ESV/2/2/17'>Ex. 2:17</a>",
-      "comment": "‘An Egyptian’—Moses’ presumed identity."
+      "text": "They said, 'An Egyptian delivered us out of the hand of the shepherds and even drew water for us and watered the flock.'",
+      "links": "<a href='/AIV/2/2/17'>Exod. 2:17</a>",
+      "comment": "Moses is identified as 'Egyptian,' showing how God can use any circumstance for good. His deliverance at the well is a sign of the greater deliverance to come."
     },
     {
-      "pk": 1952220,
+      "pk": 2002020,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 2,
       "verse": 20,
-      "text": "He said to his daughters, 'Where is he? Why did you leave the man? Call him, that he may eat bread.'",
-      "links": "<a href='/ESV/2/2/19'>Ex. 2:19</a>",
-      "comment": "‘Eat bread’ is idiomatic for sharing a meal."
+      "text": "He said to his daughters, 'So where is he? Why have you left the man? Call him, that he may eat bread.'",
+      "links": "<a href='/AIV/1/24/31-33'>Gen. 24:31-33</a>",
+      "comment": "Hospitality is a recurring sign of virtue among God’s people (cf. Abraham in Gen. 18). Sharing bread foreshadows God’s saving meals with His people in the future."
     },
     {
-      "pk": 1952221,
+      "pk": 2002021,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 2,
       "verse": 21,
       "text": "Moses agreed to stay with the man, and he gave Moses his daughter Zipporah in marriage.",
-      "links": "<a href='/ESV/2/4/24'>Ex. 4:24</a>; <a href='/ESV/18/42/13-15'>Job 42:13-15</a>",
-      "comment": "‘Stay with’ keeps original verb sense."
+      "links": "<a href='/AIV/2/18/2'>Exod. 18:2</a>",
+      "comment": "Marriage to Zipporah, a non-Israelite, underlines that God’s covenant plan is for all nations. Later, Zipporah intervenes in a key act of obedience (Exod. 4:24-26)."
     },
     {
-      "pk": 1952222,
+      "pk": 2002022,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 2,
       "verse": 22,
-      "text": "She bore a son, and he named him Gershom, saying, 'I have been a stranger in a foreign land.'",
-      "links": "<a href='/ESV/2/18/3'>Ex. 18:3</a>",
-      "comment": "Name ‘Gershom’ explained with meaning note."
+      "text": "She bore a son, and he named him Gershom, saying, 'I have been a sojourner in a foreign land.'",
+      "links": "<a href='/AIV/1/23/4'>Gen. 23:4</a>; <a href='/AIV/58/11/13'>Heb. 11:13</a>",
+      "comment": "The name Gershom recalls Israel’s status as pilgrims and sojourners—echoed by Abraham, and later by Christians who await their true homeland."
     },
     {
-      "pk": 1952223,
+      "pk": 2002023,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 2,
       "verse": 23,
-      "text": "Now it came to pass in those days that the king of Egypt died, but the Israelites groaned because of their slavery and cried out, and their cry for help went up to God because of their bondage.",
-      "links": "<a href='/ESV/2/3/7'>Ex. 3:7</a>; <a href='/ESV/19/34/17'>Ps. 34:17</a>",
-      "comment": "‘Bondage’ matches original; ‘cry for help’ is deliberate."
+      "text": "During those many days the king of Egypt died, and the people of Israel groaned because of their slavery and cried out for help. Their cry for rescue from slavery came up to God.",
+      "links": "<a href='/AIV/2/1/13-14'>Exod. 1:13-14</a>; <a href='/AIV/2/3/7'>Exod. 3:7</a>",
+      "comment": "Suffering draws Israel to prayer and dependence on God. Their collective cry sets the stage for deliverance, a pattern seen throughout Scripture."
     },
     {
-      "pk": 1952224,
+      "pk": 2002024,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 2,
       "verse": 24,
-      "text": "God heard their groaning and remembered His covenant with Abraham, Isaac, and Jacob.",
-      "links": "<a href='/ESV/1/15/13-16'>Gen. 15:13-16</a>; <a href='/ESV/1/17/7'>Gen. 17:7</a>",
-      "comment": "‘Remembered His covenant’ is literal in Hebrew, denotes action to fulfill, not forgetfulness."
+      "text": "God heard their groaning, and God remembered His covenant with Abraham, with Isaac, and with Jacob.",
+      "links": "<a href='/AIV/1/15/13-14'>Gen. 15:13-14</a>; <a href='/AIV/2/6/5'>Exod. 6:5</a>",
+      "comment": "God’s remembrance does not imply forgetfulness, but decisive action rooted in His promises. The covenant forms the foundation for all salvation history."
     },
     {
-      "pk": 1952225,
+      "pk": 2002025,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 2,
       "verse": 25,
-      "text": "God looked upon the Israelites and took notice of them.",
-      "links": "<a href='/ESV/2/3/7'>Ex. 3:7</a>; <a href='/ESV/19/106/44'>Ps. 106:44</a>",
-      "comment": "‘Took notice’ renders ‘knew’ from original; this implies God’s care and intention to act."
+      "text": "God saw the children of Israel, and God took notice of them.",
+      "links": "<a href='/AIV/19/106/44-45'>Ps. 106:44-45</a>; <a href='/AIV/42/1/68-73'>Luke 1:68-73</a>",
+      "comment": "This verse emphasizes God’s personal care and surveillance over His people—He sees, He knows, He acts. The language prefigures both the incarnation and God’s ongoing guidance through chosen representatives on earth."
     }
   ],
-  "translatedAt": "2025-12-20T08:33:21.653Z"
+  "translatedAt": "2025-12-24T00:47:43.993Z"
 }

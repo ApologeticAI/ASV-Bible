@@ -1,238 +1,287 @@
 {
-  "book": "Ruth",
+  "book": 8,
+  "bookName": "Ruth",
   "bookAbbreviation": "Ruth",
   "chapter": 2,
   "verses": [
     {
-      "pk": 5002001,
+      "pk": 8002001,
       "translation": "AIV",
       "book": 8,
+      "bookName": "Ruth",
+      "bookAbbreviation": "Ruth",
       "chapter": 2,
       "verse": 1,
-      "text": "Now Naomi had a relative on her husband’s side, a man of standing from the clan of Elimelech. His name was Boaz.",
-      "links": "<a href='/AIV/8/4/3'>Ruth 4:3</a>; <a href='/AIV/8/3/2'>Ruth 3:2</a>",
-      "comment": "The phrase 'a man of wealth' can also mean 'mighty man of valor.'"
+      "text": "Now Naomi had a relative on her husband's side, a man of standing and wealth, from the family of Elimelech, and his name was Boaz.",
+      "links": "<a href='/AIV/08/3/2'>Ruth 3:2</a>; <a href='/AIV/08/4/1'>Ruth 4:1</a>",
+      "comment": "The introduction of Boaz as a 'man of standing and wealth' establishes his suitability as a provider and potential protector of Ruth and Naomi, preparing for the unfolding of the kinsman-redeemer theme, which carries significant typological meaning for divine providence and redemption."
     },
     {
-      "pk": 5002002,
+      "pk": 8002002,
       "translation": "AIV",
       "book": 8,
+      "bookName": "Ruth",
+      "bookAbbreviation": "Ruth",
       "chapter": 2,
       "verse": 2,
-      "text": "Ruth the Moabite said to Naomi, 'Let me go to the fields and pick up leftover grain behind anyone in whose eyes I find favor.' Naomi said to her, 'Go, my daughter.'",
-      "links": "<a href='/AIV/8/2/7'>Ruth 2:7</a>; <a href='/AIV/3/19/9-10'>Lev. 19:9-10</a>",
-      "comment": "Gleaning was part of Israelite law for providing for the poor (see Lev. 19:9-10)."
+      "text": "Ruth the Moabite said to Naomi, 'Please let me go into the fields and glean among the ears of grain behind someone in whose eyes I may find favor.' Naomi said to her, 'Go ahead, my daughter.'",
+      "links": "<a href='/AIV/03/19/9-10'>Lev. 19:9-10</a>; <a href='/AIV/03/23/22'>Lev. 23:22</a>",
+      "comment": "Gleaning was a divinely established law to care for the poor and foreigner (see Leviticus links), underscoring God's provision and mercy for outsiders and the vulnerable."
     },
     {
-      "pk": 5002003,
+      "pk": 8002003,
       "translation": "AIV",
       "book": 8,
+      "bookName": "Ruth",
+      "bookAbbreviation": "Ruth",
       "chapter": 2,
       "verse": 3,
-      "text": "So she went out and entered a field to glean behind the reapers. By chance, she came to a part of the field belonging to Boaz, who was from the clan of Elimelech.",
-      "links": "<a href='/AIV/8/2/1'>Ruth 2:1</a>",
-      "comment": "The phrase 'by chance' highlights God’s providence."
+      "text": "So Ruth went out and entered a field to glean behind the harvesters. By chance, she happened to come to the field belonging to Boaz, who was of Elimelech’s family.",
+      "links": "<a href='/AIV/20/16/33'>Prov. 16:33</a>; <a href='/AIV/01/24/12-15'>Gen. 24:12-15</a>",
+      "comment": "The phrase 'by chance' shows God's providence at work beneath ordinary events, pointing to divine guidance even when it seems coincidental. The spiritual meaning here is an image of grace acting in daily life."
     },
     {
-      "pk": 5002004,
+      "pk": 8002004,
       "translation": "AIV",
       "book": 8,
+      "bookName": "Ruth",
+      "bookAbbreviation": "Ruth",
       "chapter": 2,
       "verse": 4,
-      "text": "Just then Boaz came from Bethlehem and said to the reapers, ‘The LORD be with you.’ And they answered him, ‘The LORD bless you.’",
-      "links": "<a href='/AIV/19/129/8'>Psalm 129:8</a>",
-      "comment": "Boaz’s greeting shows common Israelite blessings."
+      "text": "Just then, Boaz came from Bethlehem and said to the harvesters, 'May the LORD be with you!' They answered him, 'The LORD bless you!'",
+      "links": "<a href='/AIV/07/6/12'>Judg. 6:12</a>; <a href='/AIV/19/129/7-8'>Ps. 129:7-8</a>",
+      "comment": "Boaz greets with a blessing, highlighting a culture that acknowledges God's presence in daily work and interpersonal relationships, pointing towards the importance of sacred speech and the sanctification of labor."
     },
     {
-      "pk": 5002005,
+      "pk": 8002005,
       "translation": "AIV",
       "book": 8,
+      "bookName": "Ruth",
+      "bookAbbreviation": "Ruth",
       "chapter": 2,
       "verse": 5,
-      "text": "Then Boaz said to his servant who was in charge of the reapers, 'Whose young woman is this?'",
-      "links": "<a href='/AIV/8/2/6'>Ruth 2:6</a>",
-      "comment": "‘Young woman’ denotes Ruth’s status as unmarried or widowed."
+      "text": "Then Boaz asked his servant in charge of the harvesters, 'Whose young woman is this?'",
+      "links": "<a href='/AIV/08/3/9'>Ruth 3:9</a>",
+      "comment": "Boaz notices Ruth immediately, which is significant for the developing relationship and God’s providential plan. She stands out among others, echoing divine selection of individuals for His purposes."
     },
     {
-      "pk": 5002006,
+      "pk": 8002006,
       "translation": "AIV",
       "book": 8,
+      "bookName": "Ruth",
+      "bookAbbreviation": "Ruth",
       "chapter": 2,
       "verse": 6,
-      "text": "The servant in charge of the reapers answered, 'She is the young Moabite woman who came back with Naomi from the land of Moab.'",
-      "links": "<a href='/AIV/8/1/22'>Ruth 1:22</a>",
-      "comment": "Emphasizes Ruth’s Moabite origin for context."
+      "text": "The servant in charge replied, 'She is the young Moabite woman who came back with Naomi from the land of Moab.'",
+      "links": "<a href='/AIV/08/1/22'>Ruth 1:22</a>",
+      "comment": "Ruth is identified as a foreigner, yet her loyalty and faithfulness will differentiate her, prefiguring later acceptance of Gentiles into the faith community (cf. Matthew 15:21-28)."
     },
     {
-      "pk": 5002007,
+      "pk": 8002007,
       "translation": "AIV",
       "book": 8,
+      "bookName": "Ruth",
+      "bookAbbreviation": "Ruth",
       "chapter": 2,
       "verse": 7,
-      "text": "She said, ‘Please let me glean and gather among the sheaves after the reapers.’ So she came and has continued from early morning until now except for a short rest.",
-      "links": "<a href='/AIV/8/2/2'>Ruth 2:2</a>",
-      "comment": "Focus on Ruth’s diligence and humility."
+      "text": "'She asked, ",
+      "Please let me glean and gather among the sheaves behind the harvesters.": "She has been working here since morning until now, except for a short rest in the shelter.'",
+      "links": "<a href='/AIV/08/2/17'>Ruth 2:17</a>",
+      "comment": "Ruth's diligence and humility reflect virtues that are later commended throughout scripture, serving as a model for industriousness and devotion in one's daily life."
     },
     {
-      "pk": 5002008,
+      "pk": 8002008,
       "translation": "AIV",
       "book": 8,
+      "bookName": "Ruth",
+      "bookAbbreviation": "Ruth",
       "chapter": 2,
       "verse": 8,
-      "text": "Then Boaz said to Ruth, 'Listen to me, my daughter. Do not go to glean in another field or leave this one, but stay close to my servant girls.'",
-      "links": "<a href='/AIV/8/3/10'>Ruth 3:10</a>",
-      "comment": "Boaz’s address as ‘my daughter’ shows respect and care."
+      "text": "Then Boaz said to Ruth, 'Listen, my daughter. Do not go to glean in another field or leave this one, but stay close to my servant girls.'",
+      "links": "<a href='/AIV/08/3/10'>Ruth 3:10</a>",
+      "comment": "Boaz's invitation offers protection and community, echoing divine care for the vulnerable and anticipating a richer spiritual kinship bound by covenant."
     },
     {
-      "pk": 5002009,
+      "pk": 8002009,
       "translation": "AIV",
       "book": 8,
+      "bookName": "Ruth",
+      "bookAbbreviation": "Ruth",
       "chapter": 2,
       "verse": 9,
-      "text": "Keep your eyes on the field they are reaping, and follow after them. I have commanded the young men not to touch you. When you are thirsty, go to the jars and drink from what the young men have drawn.",
-      "links": "<a href='/AIV/8/2/16'>Ruth 2:16</a>",
-      "comment": "Shows Boaz’s protection and inclusion for Ruth."
+      "text": "Watch the field where the harvesters are working, and follow after them. I've ordered the young men not to touch you. Whenever you are thirsty, go and drink from the jars the young men have filled.",
+      "links": "<a href='/AIV/01/24/17-20'>Gen. 24:17-20</a>; <a href='/AIV/19/23/2'>Ps. 23:2</a>",
+      "comment": "Boaz's explicit protection and provision prefigure the theme of shelter and spiritual nourishment, reminiscent of God's care for His people and providing living water (see John 4:10, Ps. 23:2)."
     },
     {
-      "pk": 5002010,
+      "pk": 8002010,
       "translation": "AIV",
       "book": 8,
+      "bookName": "Ruth",
+      "bookAbbreviation": "Ruth",
       "chapter": 2,
       "verse": 10,
-      "text": "Then she fell on her face, bowing to the ground, and said to him, 'Why have I found favor in your eyes, that you should take notice of me, since I am a foreigner?'",
-      "links": "<a href='/AIV/8/2/13'>Ruth 2:13</a>",
-      "comment": "Ruth’s humility and gratitude highlighted."
+      "text": "Then Ruth fell on her face, bowing to the ground, and said to him, 'Why have I found favor in your eyes, that you notice me, a foreigner?'",
+      "links": "<a href='/AIV/08/2/13'>Ruth 2:13</a>; <a href='/AIV/42/17/15-16'>Luke 17:15-16</a>",
+      "comment": "Her humility and gratitude reflect the response of one who receives grace unexpectedly. This mirrors the spiritual posture before God’s favor (see Luke 17:16)."
     },
     {
-      "pk": 5002011,
+      "pk": 8002011,
       "translation": "AIV",
       "book": 8,
+      "bookName": "Ruth",
+      "bookAbbreviation": "Ruth",
       "chapter": 2,
       "verse": 11,
-      "text": "Boaz answered her, 'All that you have done for your mother-in-law since the death of your husband has been fully reported to me. How you left your father and mother and your homeland and came to a people you did not know before.'",
-      "links": "<a href='/AIV/8/1/16'>Ruth 1:16</a>",
-      "comment": "Echoes Abraham’s call in Genesis 12:1."
+      "text": "Boaz answered her, 'All that you have done for your mother-in-law since the death of your husband has been fully reported to me—how you left your father and mother and the land where you were born, to come to a people you did not know before.'",
+      "links": "<a href='/AIV/08/1/16'>Ruth 1:16</a>; <a href='/AIV/40/19/29'>Matt. 19:29</a>",
+      "comment": "Boaz praises Ruth's sacrificial love and loyalty, paralleling the call to leave all and follow the Lord (Matt. 19:29), highlighting spiritual commitment above natural ties."
     },
     {
-      "pk": 5002012,
+      "pk": 8002012,
       "translation": "AIV",
       "book": 8,
+      "bookName": "Ruth",
+      "bookAbbreviation": "Ruth",
       "chapter": 2,
       "verse": 12,
-      "text": "May the LORD repay you for your work, and a full reward be given to you from the LORD, the God of Israel, under whose wings you have come to seek refuge.'",
-      "links": "<a href='/AIV/19/17/8'>Psalm 17:8</a>; <a href='/AIV/19/36/7'>Psalm 36:7</a>",
-      "comment": "‘Under whose wings’ is an image of God’s care."
+      "text": "May the LORD reward your work, and may your wages be full from the LORD, the God of Israel, under whose wings you have come to take refuge.",
+      "links": "<a href='/AIV/19/91/4'>Ps. 91:4</a>; <a href='/AIV/08/3/9'>Ruth 3:9</a>",
+      "comment": "The imagery of ‘under whose wings’ is a profound biblical metaphor for divine protection and mercy (Ps. 91:4), later echoed by Christ in His ministry (Luke 13:34)."
     },
     {
-      "pk": 5002013,
+      "pk": 8002013,
       "translation": "AIV",
       "book": 8,
+      "bookName": "Ruth",
+      "bookAbbreviation": "Ruth",
       "chapter": 2,
       "verse": 13,
-      "text": "Then she said, 'Let me find favor in your eyes, my lord, for you have comforted me and spoken kindly to your servant, though I am not even like one of your servant girls.'",
-      "links": "<a href='/AIV/8/2/10'>Ruth 2:10</a>",
-      "comment": "‘Spoken to the heart’—expression means kindly or encouragingly."
+      "text": "She said, 'I have found favor in your eyes, my lord, for you have comforted me and spoken kindly to your servant, though I am not even one of your servant girls.'",
+      "links": "<a href='/AIV/19/86/17'>Ps. 86:17</a>; <a href='/AIV/44/16/15'>Acts 16:15</a>",
+      "comment": "Ruth’s awareness of receiving more than she deserves calls attention to the gratuitous nature of grace and the way God elevates and comforts the lowly."
     },
     {
-      "pk": 5002014,
+      "pk": 8002014,
       "translation": "AIV",
       "book": 8,
+      "bookName": "Ruth",
+      "bookAbbreviation": "Ruth",
       "chapter": 2,
       "verse": 14,
-      "text": "At mealtime Boaz said to her, ‘Come here and eat some bread and dip your piece in the vinegar wine.’ So she sat beside the reapers, and he offered her roasted grain, and she ate until she was satisfied and had some left over.",
-      "links": "<a href='/AIV/8/2/18'>Ruth 2:18</a>",
-      "comment": "‘Vinegar wine’ is a sour drink made from wine or diluted vinegar."
+      "text": "At mealtime, Boaz said to her, 'Come here. Eat some bread and dip your morsel in the wine.' She sat beside the harvesters, and he gave her roasted grain. She ate, was satisfied, and had some left over.",
+      "links": "<a href='/AIV/40/14/20'>Matt. 14:20</a>; <a href='/AIV/43/6/11'>John 6:11</a>",
+      "comment": "Boaz inviting Ruth to dine evokes imagery of sacred banquets and Eucharistic overtones, where bread and wine bring inclusion, satisfaction, and abundance, prefiguring Christ’s supper."
     },
     {
-      "pk": 5002015,
+      "pk": 8002015,
       "translation": "AIV",
       "book": 8,
+      "bookName": "Ruth",
+      "bookAbbreviation": "Ruth",
       "chapter": 2,
       "verse": 15,
-      "text": "When she rose to glean, Boaz ordered his young men, ‘Let her glean even among the sheaves and do not shame her.’",
-      "links": "<a href='/AIV/8/2/9'>Ruth 2:9</a>",
-      "comment": "Boaz’s generosity and protection go beyond custom."
+      "text": "When she got up to glean, Boaz instructed his workers, 'Let her gather even among the sheaves, and do not insult her.'",
+      "links": "<a href='/AIV/19/23/5'>Ps. 23:5</a>; <a href='/AIV/59/2/3-4'>James 2:3-4</a>",
+      "comment": "Boaz’s command models dignity toward the marginalized, rejecting social exclusion and echoing the scriptural call honored in both law and spiritual life."
     },
     {
-      "pk": 5002016,
+      "pk": 8002016,
       "translation": "AIV",
       "book": 8,
+      "bookName": "Ruth",
+      "bookAbbreviation": "Ruth",
       "chapter": 2,
       "verse": 16,
-      "text": "Also, pull out some stalks from the bundles for her and leave them for her to glean, and do not rebuke her.",
-      "links": "<a href='/AIV/8/2/9'>Ruth 2:9</a>",
-      "comment": "Explicit instructions to deliberately provide extra for Ruth."
+      "text": "Also, pull out some stalks from the bundles for her and leave them for her to pick up. Do not rebuke her.",
+      "links": "<a href='/AIV/03/19/9-10'>Lev. 19:9-10</a>; <a href='/AIV/40/5/41-42'>Matt. 5:41-42</a>",
+      "comment": "The instruction to go beyond the law in generosity points towards superabundant grace and kindness, echoing Christ’s teaching on going the extra mile."
     },
     {
-      "pk": 5002017,
+      "pk": 8002017,
       "translation": "AIV",
       "book": 8,
+      "bookName": "Ruth",
+      "bookAbbreviation": "Ruth",
       "chapter": 2,
       "verse": 17,
-      "text": "So Ruth gleaned in the field until evening. Then she beat out what she had gleaned, and it was about an ephah of barley.",
-      "links": "<a href='/AIV/2/16/36'>Exodus 16:36</a>",
-      "comment": "An ephah is about 22 liters or 5.8 gallons."
+      "text": "So Ruth gleaned in the field until evening. Then she beat out what she had gathered, and it was about an ephah of barley.",
+      "links": "<a href='/AIV/02/16/36'>Ex. 16:36</a>; <a href='/AIV/05/8/8'>Deut. 8:8'>",
+      "comment": "An ephah is a measure of about 22 liters (5.8 gallons), showing God's tangible provision. Ruth’s hard work is rewarded with overwhelming generosity."
     },
     {
-      "pk": 5002018,
+      "pk": 8002018,
       "translation": "AIV",
       "book": 8,
+      "bookName": "Ruth",
+      "bookAbbreviation": "Ruth",
       "chapter": 2,
       "verse": 18,
-      "text": "She carried it back to the city, and her mother-in-law saw what she had collected. Ruth also brought out what she had left over after she had eaten and gave it to her.",
-      "links": "<a href='/AIV/8/2/14'>Ruth 2:14</a>",
-      "comment": "Shows Ruth’s generosity toward Naomi."
+      "text": "She picked it up and went into the city. Her mother-in-law saw what she had gleaned. Ruth also brought out and gave her what she had left over after she was satisfied.",
+      "links": "<a href='/AIV/40/14/20'>Matt. 14:20</a>",
+      "comment": "Sharing the abundance with Naomi echoes the ideal of community and self-giving love; parallels can be found in the multiplication of the loaves where all are filled and have leftovers."
     },
     {
-      "pk": 5002019,
+      "pk": 8002019,
       "translation": "AIV",
       "book": 8,
+      "bookName": "Ruth",
+      "bookAbbreviation": "Ruth",
       "chapter": 2,
       "verse": 19,
-      "text": "Her mother-in-law asked her, 'Where did you glean today? Where did you work? Blessed be the man who took notice of you.' So she told her mother-in-law with whom she had worked and said, 'The man’s name with whom I worked today is Boaz.'",
-      "links": "<a href='/AIV/8/2/1'>Ruth 2:1</a>",
-      "comment": "Naomi’s blessing anticipates Boaz's kindness."
+      "text": "Her mother-in-law asked her, 'Where did you glean today? Where did you work? May he who noticed you be blessed.' So Ruth told her about the man who had helped her and said, 'The man’s name with whom I worked today is Boaz.'",
+      "links": "<a href='/AIV/08/2/4'>Ruth 2:4</a>; <a href='/AIV/19/41/1'>Ps. 41:1</a>",
+      "comment": "Naomi’s blessing hints at the mystery of divine providence and the hope for a redeemer—foreshadowing the role Boaz will play both legally and spiritually."
     },
     {
-      "pk": 5002020,
+      "pk": 8002020,
       "translation": "AIV",
       "book": 8,
+      "bookName": "Ruth",
+      "bookAbbreviation": "Ruth",
       "chapter": 2,
       "verse": 20,
-      "text": "Naomi said to her daughter-in-law, 'May he be blessed by the LORD, whose kindness has not forsaken the living or the dead.' And Naomi added, 'That man is a close relative of ours, one of our redeemers.'",
-      "links": "<a href='/AIV/3/25/25'>Leviticus 25:25</a>",
-      "comment": "‘Redeemer’ refers to a kinsman who can redeem family property or persons."
+      "text": "Naomi said to her daughter-in-law, 'May he be blessed by the LORD, who has not stopped showing kindness to the living and the dead.' Naomi said, 'This man is a close relative of ours, one of our redeemers.'",
+      "links": "<a href='/AIV/03/25/25'>Lev. 25:25</a>; <a href='/AIV/08/3/9'>Ruth 3:9</a>",
+      "comment": "The term 'redeemer' (goel) is central, pointing directly to Christ as the ultimate Kinsman-Redeemer of humanity, who restores both the living and the dead to spiritual life."
     },
     {
-      "pk": 5002021,
+      "pk": 8002021,
       "translation": "AIV",
       "book": 8,
+      "bookName": "Ruth",
+      "bookAbbreviation": "Ruth",
       "chapter": 2,
       "verse": 21,
-      "text": "Then Ruth the Moabite said, 'He also told me, “Stay close to my servants until they have finished all my harvest.”'",
-      "links": "<a href='/AIV/8/2/8'>Ruth 2:8</a>",
-      "comment": "Confirms Boaz’s ongoing protection."
+      "text": "Then Ruth the Moabite said, 'He even told me, ",
+      "Stay close to my workers until they finish all my harvest.": "",
+      "links": "<a href='/AIV/08/2/8'>Ruth 2:8</a>",
+      "comment": "Ruth is invited to remain for the duration of the harvest, signifying ongoing provision and protection—a spiritual image of remaining in grace and community."
     },
     {
-      "pk": 5002022,
+      "pk": 8002022,
       "translation": "AIV",
       "book": 8,
+      "bookName": "Ruth",
+      "bookAbbreviation": "Ruth",
       "chapter": 2,
       "verse": 22,
-      "text": "Naomi said to Ruth her daughter-in-law, 'It is good, my daughter, that you go out with his servant girls, so that you may not be harmed in another field.'",
-      "links": "<a href='/AIV/8/2/8'>Ruth 2:8</a>",
-      "comment": "Naomi acknowledges Ruth’s safety among Boaz’s people."
+      "text": "Naomi said to Ruth, her daughter-in-law, 'It is good, my daughter, that you go out with his servant girls; in someone else’s field you might be harmed.'",
+      "links": "<a href='/AIV/08/2/9'>Ruth 2:9</a>; <a href='/AIV/19/121/8'>Ps. 121:8</a>",
+      "comment": "Naomi’s advice reinforces the theme of spiritual and physical safety that comes from remaining within the community ordained and blessed by God."
     },
     {
-      "pk": 5002023,
+      "pk": 8002023,
       "translation": "AIV",
       "book": 8,
+      "bookName": "Ruth",
+      "bookAbbreviation": "Ruth",
       "chapter": 2,
       "verse": 23,
-      "text": "So she stayed close to the servant girls of Boaz, gleaning until the end of the barley and wheat harvests. And she lived with her mother-in-law.",
-      "links": "<a href='/AIV/8/1/22'>Ruth 1:22</a>",
-      "comment": "Summarizes Ruth’s faithfulness through the harvest season."
+      "text": "So Ruth stayed close to Boaz’s servant girls and gleaned until the end of the barley and wheat harvests. She lived with her mother-in-law.",
+      "links": "<a href='/AIV/08/3/1'>Ruth 3:1</a>; <a href='/AIV/19/68/6'>Ps. 68:6</a>",
+      "comment": "Ruth’s constancy and faithfulness through the harvest point to perseverance, a virtue highly valued throughout scripture and tradition, and sets up the upcoming redemption story."
     }
   ],
-  "translatedAt": "2025-12-22T09:36:15.988Z"
+  "translatedAt": "2025-12-24T02:44:13.592Z"
 }

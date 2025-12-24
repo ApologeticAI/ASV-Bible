@@ -1,278 +1,333 @@
 {
-  "book": "2 Chronicles",
+  "book": 14,
+  "bookName": "2 Chronicles",
   "bookAbbreviation": "2Chr",
   "chapter": 24,
   "verses": [
     {
-      "pk": 240241,
+      "pk": 14024001,
       "translation": "AIV",
       "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
       "chapter": 24,
       "verse": 1,
-      "text": "Joash was seven years old when he became king, and he reigned forty years in Jerusalem. His mother’s name was Zibiah, from Beersheba.",
-      "links": "<a href='/AIV/12/11/2'>2 Kings 11:2</a>; <a href='/AIV/12/12/1'>2 Kings 12:1</a>",
-      "comment": "Age and reign length match the Hebrew; Zibiah’s name is interpreted directly."
+      "text": "Joash was seven years old when he became king, and he reigned forty years in Jerusalem. His mother’s name was Zibiah from Beersheba.",
+      "links": "<a href='/AIV/12/11/1-3'>2 Kings 11:1-3</a>",
+      "comment": "Joash’s young age highlights divine providence over the Davidic line, which foreshadows God’s preservation of His people throughout salvation history. The forty-year reign echoes periods of testing and fulfillment (see <a href='/AIV/02/16/35'>Ex. 16:35</a>; <a href='/AIV/11/2/10'>1 Kings 2:10</a>)."
     },
     {
-      "pk": 240242,
+      "pk": 14024002,
       "translation": "AIV",
       "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
       "chapter": 24,
       "verse": 2,
-      "text": "Joash did what was right in the eyes of the LORD all the days of Jehoiada the priest.",
+      "text": "Joash did what was right in the eyes of the Lord all the days of Jehoiada the priest.",
       "links": "<a href='/AIV/12/12/2'>2 Kings 12:2</a>",
-      "comment": "Phrase matches the standard; Hebrew supports specifying 'all the days of Jehoiada.'"
+      "comment": "Joash’s faithfulness is linked to Jehoiada’s guidance, hinting at the importance of spiritual authority and tradition for right worship and life (cf. <a href='/AIV/13/15/27'>1 Chron. 15:27</a>)."
     },
     {
-      "pk": 240243,
+      "pk": 14024003,
       "translation": "AIV",
       "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
       "chapter": 24,
       "verse": 3,
-      "text": "Jehoiada took two wives for him, and he had sons and daughters.",
-      "links": "<a href='/AIV/12/12/3'>2 Kings 12:3</a>",
-      "comment": "Clear statement; note that Jehoiada arranged his marriages."
+      "text": "Jehoiada arranged two wives for him, and he had sons and daughters.",
+      "links": "<a href='/AIV/10/5/13'>2 Sam. 5:13</a>",
+      "comment": "The priest’s role in arranging the king’s family structure underlines harmony between spiritual and royal offices for establishing God’s covenant promises."
     },
     {
-      "pk": 240244,
+      "pk": 14024004,
       "translation": "AIV",
       "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
       "chapter": 24,
       "verse": 4,
-      "text": "Afterward, Joash decided to restore the house of the LORD.",
-      "links": "<a href='/AIV/12/12/4'>2 Kings 12:4</a>",
-      "comment": "‘Decided’ reflects ‘set his heart’; direct phrasing for clarity."
+      "text": "After this, Joash set his heart on restoring the house of the Lord.",
+      "links": "<a href='/AIV/11/6/37'>1 Kings 6:37</a>; <a href='/AIV/12/12/4'>2 Kings 12:4</a>",
+      "comment": "Joash’s desire to restore the temple reveals a zeal for the Lord’s presence and proper worship—essential for continuity of faith."
     },
     {
-      "pk": 240245,
+      "pk": 14024005,
       "translation": "AIV",
       "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
       "chapter": 24,
       "verse": 5,
-      "text": "He gathered the priests and Levites together, and said to them, “Go to the cities of Judah and collect money from all Israel to repair the temple of your God every year. Be sure to act quickly.” But the Levites did not hurry.",
-      "links": "<a href='/AIV/12/12/5'>2 Kings 12:5</a>",
-      "comment": "‘Collect money’ conveys ‘bring in from all Israel money to repair’; ‘Levites did not hurry’ is literal."
+      "text": "He gathered the priests and Levites and said, 'Go to the cities of Judah and collect money from all Israel to repair the house of your God every year. See that you act quickly.' But the Levites did not act immediately.",
+      "links": "<a href='/AIV/03/27/9'>Lev. 27:9-10</a>; <a href='/AIV/12/12/5'>2 Kings 12:5</a>",
+      "comment": "Joash’s directive emphasizes communal responsibility for sacred spaces, echoing a perennial call to support the faith’s visible expressions."
     },
     {
-      "pk": 240246,
+      "pk": 14024006,
       "translation": "AIV",
       "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
       "chapter": 24,
       "verse": 6,
-      "text": "So the king called Jehoiada the chief and said to him, “Why have you not required the Levites to bring in from Judah and Jerusalem the tax set by Moses the servant of the LORD, and by the congregation of Israel, for the tent of the testimony?”",
-      "links": "<a href='/AIV/4/31/7'>Num. 31:7</a>; <a href='/AIV/2/30/16'>Ex. 30:16</a>",
-      "comment": "‘Tax set by Moses’ = offering required by Law. ‘Tent of the testimony’ = tabernacle."
+      "text": "So the king summoned Jehoiada the chief and said to him, 'Why have you not required the Levites to bring in from Judah and Jerusalem the levy set by Moses, the servant of the Lord, and the congregation of Israel for the tent of the testimony?'",
+      "links": "<a href='/AIV/04/31/28'>Num. 31:28</a>; <a href='/AIV/02/25/2'>Ex. 25:2</a>",
+      "comment": "Reference to Moses reinforces the continuity and authority of tradition. The “tent of testimony” connects temple worship to the original tabernacle, showing the unchanging core of faith from generation to generation."
     },
     {
-      "pk": 240247,
+      "pk": 14024007,
       "translation": "AIV",
       "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
       "chapter": 24,
       "verse": 7,
-      "text": "For the sons of Athaliah, that wicked woman, had broken into the house of God and used all the dedicated things of the house of the LORD for the Baals.",
-      "links": "<a href='/AIV/12/11/2'>2 Kings 11:2</a>; <a href='/AIV/12/11/18'>2 Kings 11:18</a>",
-      "comment": "‘That wicked woman’ straightforward from Hebrew; ‘Baals’ plural."
+      "text": "For the sons of Athaliah, that wicked woman, had broken into the house of God and had even used all the sacred things of the house of the Lord for the Baals.",
+      "links": "<a href='/AIV/12/11/1'>2 Kings 11:1</a>; <a href='/AIV/07/2/11'>Judges 2:11</a>",
+      "comment": "The desecration by Athaliah’s sons demonstrates the gravity of idolatry and highlights the sacredness of God’s house—a perpetual truth for all Christian worship."
     },
     {
-      "pk": 240248,
+      "pk": 14024008,
       "translation": "AIV",
       "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
       "chapter": 24,
       "verse": 8,
-      "text": "So the king commanded, and they made a chest and set it outside the gate of the house of the LORD.",
+      "text": "At the king’s command, they made a chest and set it outside the gate of the house of the Lord.",
       "links": "<a href='/AIV/12/12/9'>2 Kings 12:9</a>",
-      "comment": "Literal rendering; location clarified as ‘outside the gate.’"
+      "comment": "Setting up a central place for offerings lays precedence for visible acts of giving to God’s work, a tradition enduring into Christian practice (cf. <a href='/AIV/47/9/7'>2 Cor. 9:7</a>)."
     },
     {
-      "pk": 240249,
+      "pk": 14024009,
       "translation": "AIV",
       "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
       "chapter": 24,
       "verse": 9,
-      "text": "And they made a proclamation throughout Judah and Jerusalem to bring to the LORD the tax that Moses the servant of God had laid on Israel in the wilderness.",
-      "links": "<a href='/AIV/2/30/16'>Ex. 30:16</a>",
-      "comment": "‘Tax’ delivered in plain terms for clarity."
+      "text": "And they made a proclamation throughout Judah and Jerusalem, asking people to bring to the Lord what Moses, the servant of God, had established for Israel in the wilderness.",
+      "links": "<a href='/AIV/02/35/5'>Ex. 35:5</a>; <a href='/AIV/04/7/3'>Num. 7:3</a>",
+      "comment": "Connecting current worship and giving to Moses forms a bridge to the foundational covenant, suggesting ongoing relevance of traditions instituted by God’s servants."
     },
     {
-      "pk": 2402410,
+      "pk": 14024010,
       "translation": "AIV",
       "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
       "chapter": 24,
       "verse": 10,
-      "text": "All the officials and all the people rejoiced and brought their offerings and dropped them into the chest until it was full.",
-      "links": "<a href='/AIV/12/12/9-10'>2 Kings 12:9-10</a>",
-      "comment": "‘Dropped offerings’ conveys literal sense of bringing and putting in."
+      "text": "All the leaders and all the people rejoiced and brought their contributions and cast them into the chest until it was full.",
+      "links": "<a href='/AIV/02/36/3'>Ex. 36:3</a>",
+      "comment": "See how joy and generosity mark true worship; this mirrors the New Testament call to cheerful giving (<a href='/AIV/47/9/7'>2 Cor. 9:7</a>)."
     },
     {
-      "pk": 2402411,
+      "pk": 14024011,
       "translation": "AIV",
       "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
       "chapter": 24,
       "verse": 11,
-      "text": "Whenever the chest was brought by the Levites to the king’s officers, and when they saw there was much money, the king’s secretary and the high priest’s officer would come and empty the chest, then carry it back to its place. They did this regularly and collected a great amount of money.",
+      "text": "Whenever the chest was brought by the Levites to the king’s officers, and when they saw there was much money, the king’s scribe and the chief priest’s officer would empty the chest and restore it to its place. They did this day after day and collected a large amount of money.",
       "links": "<a href='/AIV/12/12/10'>2 Kings 12:10</a>",
-      "comment": "‘King’s secretary and high priest’s officer’—direct from Hebrew titles."
+      "comment": "Daily stewardship manifests trustworthiness in handling God’s resources—pointing to the value of organized, accountable church leadership."
     },
     {
-      "pk": 2402412,
+      "pk": 14024012,
       "translation": "AIV",
       "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
       "chapter": 24,
       "verse": 12,
-      "text": "And the king and Jehoiada gave the collected money to those who did the work of repairing the LORD’s house. They hired masons and carpenters to restore the LORD’s house, and also iron and bronze workers to repair the house of the LORD.",
-      "links": "<a href='/AIV/12/12/11-12'>2 Kings 12:11-12</a>",
-      "comment": "Specific trades named as in original Hebrew."
+      "text": "The king and Jehoiada gave the money to those who did the work of restoring the house of the Lord, and they hired masons and carpenters to repair the house, and also those who worked in iron and bronze to restore the house of the Lord.",
+      "links": "<a href='/AIV/11/7/13'>1 Kings 7:13</a>; <a href='/AIV/12/12/11'>2 Kings 12:11</a>",
+      "comment": "The delegation to skilled workers reaffirms that maintaining houses of worship is a noble task worthy of skilled hands, recalling the labor on the tabernacle (<a href='/AIV/02/36/1'>Ex. 36:1</a>)."
     },
     {
-      "pk": 2402413,
+      "pk": 14024013,
       "translation": "AIV",
       "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
       "chapter": 24,
       "verse": 13,
-      "text": "The workmen labored, and the restoration progressed under their hands. They restored God’s house to its proper condition and strengthened it.",
-      "links": "<a href='/AIV/12/12/14'>2 Kings 12:14-15</a>",
-      "comment": "‘Strengthened it’ reflects Hebrew, meaning ‘made it firm.’"
+      "text": "So the workers labored, and the repairs progressed under their hands; they restored the house of God to its proper condition and strengthened it.",
+      "links": "<a href='/AIV/12/12/12'>2 Kings 12:12</a>",
+      "comment": "Restoration typically refers both to the physical and the spiritual renewal—foreshadowing how God's house is continually called to be renewed and strengthened by His people."
     },
     {
-      "pk": 2402414,
+      "pk": 14024014,
       "translation": "AIV",
       "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
       "chapter": 24,
       "verse": 14,
-      "text": "When they finished, they brought the rest of the money before the king and Jehoiada, and with it they made vessels for the house of the LORD—utensils for serving and for offering, and bowls, and gold and silver articles. They offered burnt offerings continually in the house of the LORD all the days of Jehoiada.",
-      "links": "<a href='/AIV/12/12/13'>2 Kings 12:13'>2 Kings 12:13</a>",
-      "comment": "Collates all items made from Hebrew list; ‘offered burnt offerings continually’ is faithful."
+      "text": "When they had finished, they brought the rest of the money before the king and Jehoiada, and with it they made utensils for the house of the Lord, utensils for serving and offering, ladles and vessels of gold and silver. They offered burnt offerings in the house of the Lord continually, all the days of Jehoiada.",
+      "links": "<a href='/AIV/02/25/29'>Ex. 25:29</a>; <a href='/AIV/03/6/12'>Lev. 6:12-13</a>",
+      "comment": "The completion of utensils for worship recalls God's command in Exodus and the ongoing sacrifices represents spiritual fidelity, exemplifying devotion through visible ritual."
     },
     {
-      "pk": 2402415,
+      "pk": 14024015,
       "translation": "AIV",
       "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
       "chapter": 24,
       "verse": 15,
-      "text": "Jehoiada grew old and died, full of days. He was one hundred and thirty years old when he died.",
-      "links": "<a href='/AIV/14/23/1'>2 Chr. 23:1</a>",
-      "comment": "Literal age; ‘full of days’ is a Hebrew idiom for a long life."
+      "text": "But Jehoiada grew old and died; he was one hundred and thirty years old at his death.",
+      "links": "<a href='/AIV/01/25/7'>Gen. 25:7</a>",
+      "comment": "The longevity and godly influence of Jehoiada serve as a testament to a life lived in service to God’s people, reminiscent of the elders in the patriarchal era."
     },
     {
-      "pk": 2402416,
+      "pk": 14024016,
       "translation": "AIV",
       "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
       "chapter": 24,
       "verse": 16,
-      "text": "They buried him in the city of David among the kings, because he had done good in Israel and toward God and his house.",
-      "links": "<a href='/AIV/14/21/20'>2 Chr. 21:20</a>",
-      "comment": "‘Among the kings’ stated literally from the text."
+      "text": "He was buried in the city of David among the kings, because he had done good in Israel for God and His house.",
+      "links": "<a href='/AIV/11/2/10'>1 Kings 2:10</a>",
+      "comment": "Burial among kings is a profound recognition that spiritual leadership can surpass even royal status—hinting at the honor due to God’s servants throughout history."
     },
     {
-      "pk": 2402417,
+      "pk": 14024017,
       "translation": "AIV",
       "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
       "chapter": 24,
       "verse": 17,
-      "text": "After Jehoiada’s death, the leaders of Judah came and bowed down to the king. Then the king listened to them.",
-      "links": "<a href='/AIV/14/12/2'>2 Chr. 12:2</a>",
-      "comment": "Direct action; ‘bowed down’ translates Hebrew ‘prostrated themselves.’"
+      "text": "After Jehoiada’s death, the officials of Judah came and bowed down before the king; the king listened to them.",
+      "links": "<a href='/AIV/11/12/6'>1 Kings 12:6</a>",
+      "comment": "Joash’s shift from priestly advice to listening to officials foreshadows the danger of departing from apostolic authority and tradition."
     },
     {
-      "pk": 2402418,
+      "pk": 14024018,
       "translation": "AIV",
       "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
       "chapter": 24,
       "verse": 18,
-      "text": "And they abandoned the house of the LORD, the God of their ancestors, and served Asherim and idols. Then wrath came upon Judah and Jerusalem because of their guilt.",
-      "links": "<a href='/AIV/7/2/13'>Judg. 2:13</a>",
-      "comment": "‘Asherim’ plural; ‘idols’ based on context of Hebrew; ‘guilt’ is ‘culpability.’"
+      "text": "They abandoned the house of the Lord, the God of their ancestors, and served the Asherim and the idols. Wrath came upon Judah and Jerusalem because of this guilt.",
+      "links": "<a href='/AIV/07/2/13'>Judges 2:13</a>; <a href='/AIV/02/20/5'>Ex. 20:5</a>",
+      "comment": "Apostasy brings judgment, warning against forsaking God’s appointed means of grace and true worship for false substitutes."
     },
     {
-      "pk": 2402419,
+      "pk": 14024019,
       "translation": "AIV",
       "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
       "chapter": 24,
       "verse": 19,
-      "text": "Yet the LORD sent prophets to them to bring them back to him. The prophets testified against them, but they would not listen.",
-      "links": "<a href='/AIV/2/32/33'>Ex. 32:33</a>; <a href='/AIV/14/36/15'>2 Chr. 36:15</a>",
-      "comment": "‘Testified against’ is direct from Hebrew root."
+      "text": "Yet God sent prophets among them to bring them back to the Lord. These testified against them, but they would not listen.",
+      "links": "<a href='/AIV/16/9/30'>Neh. 9:30</a>; <a href='/AIV/44/7/52'>Acts 7:52</a>",
+      "comment": "God’s patient outreach through prophets shows His desire for repentance and restoration—a theme fulfilled in Jesus, the ultimate Prophet."
     },
     {
-      "pk": 2402420,
+      "pk": 14024020,
       "translation": "AIV",
       "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
       "chapter": 24,
       "verse": 20,
-      "text": "Then the Spirit of God came upon Zechariah the son of Jehoiada the priest. He stood above the people and said to them, “Thus says God: Why do you break the LORD’s commandments so that you cannot prosper? Because you have forsaken the LORD, he has forsaken you.”",
-      "links": "<a href='/AIV/10/15/23'>1 Sam. 15:23</a>; <a href='/AIV/14/15/2'>2 Chr. 15:2</a>",
-      "comment": "‘Stood above’ mirrors ‘stood over’; ‘forsaken’ picked for accuracy."
+      "text": "Then the Spirit of God came upon Zechariah, son of Jehoiada the priest. He stood before the people and said, 'This is what God says: Why do you transgress the commandments of the Lord, so that you cannot prosper? Because you have forsaken the Lord, He has also forsaken you.'",
+      "links": "<a href='/AIV/42/11/51'>Luke 11:51</a>; <a href='/AIV/07/10/13'>Judges 10:13</a>",
+      "comment": "The Spirit’s empowerment and Zechariah’s prophetic courage prefigure Christ’s prophetic office and His warnings to turn back to God."
     },
     {
-      "pk": 2402421,
+      "pk": 14024021,
       "translation": "AIV",
       "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
       "chapter": 24,
       "verse": 21,
-      "text": "But they conspired against him and stoned him with stones by order of the king in the courtyard of the house of the LORD.",
-      "links": "<a href='/AIV/12/21/13'>1 Kings 21:13</a>",
-      "comment": "‘By order of the king in the courtyard’ rendered directly from Hebrew."
+      "text": "But they conspired against him, and by command of the king, they stoned him in the court of the house of the Lord.",
+      "links": "<a href='/AIV/40/23/35'>Matt. 23:35</a>; <a href='/AIV/44/7/58'>Acts 7:58</a>",
+      "comment": "Zechariah’s martyrdom in the temple is later referenced by Jesus (see <a href='/AIV/40/23/35'>Matt. 23:35</a>), foreshadowing Christ’s own suffering and the reality of persecution awaiting God’s faithful witnesses."
     },
     {
-      "pk": 2402422,
+      "pk": 14024022,
       "translation": "AIV",
       "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
       "chapter": 24,
       "verse": 22,
-      "text": "Thus King Joash did not remember the kindness that Jehoiada, Zechariah’s father, had shown him, but killed his son. As he died, Zechariah said, “May the LORD see and avenge!”",
-      "links": "<a href='/AIV/19/94/1'>Ps. 94:1</a>",
-      "comment": "‘Kindness’ as ‘steadfast love’; Zechariah’s cry literal."
+      "text": "Thus King Joash did not remember the kindness which Zechariah’s father Jehoiada had shown him, but killed his son. As Zechariah was dying, he said, 'May the Lord see and avenge!'",
+      "links": "<a href='/AIV/19/79/10'>Ps. 79:10</a>; <a href='/AIV/42/11/51'>Luke 11:51</a>",
+      "comment": "The prayer for justice underlines divine retribution as a comfort for the oppressed, and echoes imprecatory Psalms and Christ’s own calls for justice (<a href='/AIV/42/18/7'>Luke 18:7</a>)."
     },
     {
-      "pk": 2402423,
+      "pk": 14024023,
       "translation": "AIV",
       "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
       "chapter": 24,
       "verse": 23,
-      "text": "At the turn of the year, the army of Aram came against Joash and invaded Judah and Jerusalem. They killed all the officials of the people and sent all the spoils they took to the king of Damascus.",
-      "links": "<a href='/AIV/12/12/17'>2 Kings 12:17'; <a href='/AIV/11/15/18'>1 Kings 15:18</a>",
-      "comment": "‘Turn of the year’ is the Hebrew idiom; ‘spoils’ is equivalent to ‘plunder.’"
+      "text": "At the turn of the year, the army of Aram came up against Joash. They invaded Judah and Jerusalem, destroyed all the leaders among the people, and sent all their spoil to the king of Damascus.",
+      "links": "<a href='/AIV/12/12/17'>2 Kings 12:17</a>",
+      "comment": "Foreign invasion as divine judgment occurs repeatedly in Scripture, warning of consequences when leaders forsake God’s law."
     },
     {
-      "pk": 2402424,
+      "pk": 14024024,
       "translation": "AIV",
       "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
       "chapter": 24,
       "verse": 24,
-      "text": "Even though the army of Aram was small, the LORD delivered a very great army into their hand, because Judah had forsaken the LORD, the God of their ancestors. Thus they executed judgment on Joash.",
-      "links": "<a href='/AIV/14/16/8'>2 Chr. 16:8</a>",
-      "comment": "‘Army was small ... delivered great army’—literal meaning; ‘executed judgment’ for idiom."
+      "text": "Though the Aramean army came with only a few men, the Lord delivered a very great army into their hand, because Judah had forsaken the Lord, the God of their ancestors. So they executed judgment on Joash.",
+      "links": "<a href='/AIV/03/26/17'>Lev. 26:17</a>",
+      "comment": "God’s sovereign control over victory and defeat teaches that spiritual allegiance has tangible consequences in history. The small Aramean force’s success recalls God’s power to judge despite appearances."
     },
     {
-      "pk": 2402425,
+      "pk": 14024025,
       "translation": "AIV",
       "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
       "chapter": 24,
       "verse": 25,
-      "text": "When the Arameans withdrew from him—for they left him severely wounded—his own servants conspired against him because of the blood of the sons of Jehoiada the priest, and killed him on his bed. So he died, and they buried him in the city of David, but not in the tombs of the kings.",
-      "links": "<a href='/AIV/12/12/20'>2 Kings 12:20-21</a>",
-      "comment": "‘Severely wounded’ best for clarity; ‘sons of Jehoiada’—some texts read singular."
+      "text": "When they withdrew from him—for they left him severely wounded—his servants conspired against him because of the blood of the son of Jehoiada the priest, and killed him on his bed. He died, and they buried him in the city of David, but not in the tombs of the kings.",
+      "links": "<a href='/AIV/12/12/20'>2 Kings 12:20-21</a>; <a href='/AIV/14/21/20'>2 Chr. 21:20</a>",
+      "comment": "Joash’s disgraceful burial contrasts Jehoiada’s honor, affirming that faithless rulers forfeit spiritual legacy."
     },
     {
-      "pk": 2402426,
+      "pk": 14024026,
       "translation": "AIV",
       "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
       "chapter": 24,
       "verse": 26,
-      "text": "Those who conspired against him were Zabad son of Shimeath the Ammonite, and Jehozabad son of Shimrith the Moabite.",
+      "text": "The conspirators were Zabad son of Shimeath, an Ammonite woman, and Jehozabad son of Shimrith, a Moabite woman.",
       "links": "<a href='/AIV/12/12/21'>2 Kings 12:21</a>",
-      "comment": "Names match Hebrew; mothers’ ethnicities specified for clarity."
+      "comment": "Foreign lineage of the conspirators may symbolize the corruption and division that arises when covenant loyalty is abandoned."
     },
     {
-      "pk": 2402427,
+      "pk": 14024027,
       "translation": "AIV",
       "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
       "chapter": 24,
       "verse": 27,
-      "text": "The account of Joash’s sons, the many oracles spoken against him, and the restoration of the house of God are written in the commentary on the Book of the Kings. Amaziah his son succeeded him as king.",
-      "links": "<a href='/AIV/12/14/1'>2 Kings 14:1</a>",
-      "comment": "‘Commentary on the Book of the Kings’ renders Hebrew ‘midrash’; closing phrase matches the succession format."
+      "text": "The accounts of his sons, the many prophecies against him, and the restoration of the house of God are written in the stories of the Kings. Amaziah, his son, became king in his place.",
+      "links": "<a href='/AIV/12/13/1'>2 Kings 13:1</a>",
+      "comment": "Reference to written records highlights respect for history and tradition, and the passing of the kingship denotes the enduring leadership structure in God's chosen people, anticipating its fulfillment in Christ the true King and through apostolic succession."
     }
   ],
-  "translatedAt": "2025-12-22T11:06:31.145Z"
+  "translatedAt": "2025-12-24T04:33:15.905Z"
 }

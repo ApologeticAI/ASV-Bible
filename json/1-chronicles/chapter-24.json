@@ -1,318 +1,381 @@
 {
-  "book": "1 Chronicles",
+  "book": 13,
+  "bookName": "1 Chronicles",
   "bookAbbreviation": "1Chr",
   "chapter": 24,
   "verses": [
     {
-      "pk": 24024001,
+      "pk": 13024001,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 24,
       "verse": 1,
-      "text": "These were the divisions of the descendants of Aaron. Aaron’s sons were Nadab, Abihu, Eleazar, and Ithamar.",
-      "links": "<a href='/AIV/2/6/23'>Ex. 6:23</a>; <a href='/AIV/3/10/1-2'>Lev. 10:1–2</a>",
-      "comment": "Simple list of Aaron’s sons, matches the Hebrew names; same order as other OT passages."
+      "text": "The divisions of the descendants of Aaron were as follows. Aaron’s sons were Nadab, Abihu, Eleazar, and Ithamar.",
+      "links": "<a href='/AIV/02/6/23'>Ex. 6:23</a>",
+      "comment": "Aaron, the first high priest, had four sons, who become central to the priestly lineage. See also Exodus 6:23 for the genealogy detail."
     },
     {
-      "pk": 24024002,
+      "pk": 13024002,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 24,
       "verse": 2,
-      "text": "But Nadab and Abihu died before their father, and had no children. So Eleazar and Ithamar served as priests.",
-      "links": "<a href='/AIV/3/10/2'>Lev. 10:2</a>; <a href='/AIV/4/3/4'>Num. 3:4</a>",
-      "comment": "Explains why only Eleazar and Ithamar's lines are counted; textual match to Lev. 10:2."
+      "text": "But Nadab and Abihu died before their father and had no sons. So Eleazar and Ithamar served as priests.",
+      "links": "<a href='/AIV/03/10/1-2'>Lev. 10:1-2</a>; <a href='/AIV/04/3/4'>Num. 3:4</a>",
+      "comment": "Nadab and Abihu's tragic death (Lev. 10:1-2) solidifies the priesthood through Eleazar and Ithamar. Note the importance of lineage and obedience."
     },
     {
-      "pk": 24024003,
+      "pk": 13024003,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 24,
       "verse": 3,
-      "text": "With the help of Zadok, a descendant of Eleazar, and Ahimelech, a descendant of Ithamar, David organized them for their service.",
-      "links": "<a href='/AIV/10/8/17'>2 Sam. 8:17</a>; <a href='/AIV/13/18/16'>1 Chr. 18:16</a>",
-      "comment": "Uses 'organized' for clarity (Hebrew: divided); 'descendant' clarifies lineage."
+      "text": "With the help of Zadok from Eleazar’s descendants and Ahimelech from Ithamar’s, David divided their duties for the service in God’s house.",
+      "links": "<a href='/AIV/09/2/35'>1 Sam. 2:35</a>; <a href='/AIV/13/15/11'>1Chr. 15:11</a>",
+      "comment": "David, under divine guidance, establishes priestly order, prefiguring the orderly structure of spiritual authority. Zadok and Ahimelech represent continuity and legitimacy in the priesthood."
     },
     {
-      "pk": 24024004,
+      "pk": 13024004,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 24,
       "verse": 4,
-      "text": "There were more leaders among the descendants of Eleazar than among the descendants of Ithamar. So they were divided as follows: sixteen heads from the house of Eleazar, and eight from the house of Ithamar.",
-      "links": "<a href='/AIV/13/23/6'>1 Chr. 23:6</a>",
-      "comment": "Numbers and division clarified as heads/households, following Hebrew text."
+      "text": "There were more leaders from Eleazar’s descendants than Ithamar’s. They were divided accordingly: sixteen heads from Eleazar’s families, and eight from Ithamar’s.",
+      "links": "<a href='/AIV/13/23/6'>1Chr. 23:6</a>",
+      "comment": "Eleazar's larger representation signals both grace and responsibility in the priestly role, as continued through generations."
     },
     {
-      "pk": 24024005,
+      "pk": 13024005,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 24,
       "verse": 5,
-      "text": "They were chosen by lot, one group for another, because high officials of the sanctuary and of God were taken from among the descendants of both Eleazar and Ithamar.",
-      "links": "<a href='/AIV/9/14/41-42'>1 Sam. 14:41-42</a>; <a href='/AIV/13/25/8'>1 Chr. 25:8</a>",
-      "comment": "Phrase 'by lot, one group for another' keeps fairness in selection, matches the pattern of OT sorting."
+      "text": "They divided them by lot, for there were officers of the sanctuary and officers of God among both Eleazar’s and Ithamar’s families.",
+      "links": "<a href='/AIV/13/25/8'>1Chr. 25:8</a>; <a href='/AIV/09/14/42'>1 Sam. 14:42</a>",
+      "comment": "Casting lots was a way to discern God’s will without human partiality, reflecting deep trust in divine providence (see Acts 1:26)."
     },
     {
-      "pk": 24024006,
+      "pk": 13024006,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 24,
       "verse": 6,
-      "text": "Shemaiah son of Nethanel, a scribe, a Levite, recorded them in the presence of the king, the officials, Zadok the priest, Ahimelech son of Abiathar, and the heads of the families of the priests and Levites—one house for Eleazar and one for Ithamar.",
-      "links": "<a href='/AIV/13/18/16'>1 Chr. 18:16</a>; <a href='/AIV/7/36/8'>Ezra 36:8 (Neh. 13:13)</a>",
-      "comment": "Clarifies all present; slight variation as to house/family for transparency."
+      "text": "Shemaiah son of Nethanel, the scribe, from the Levites, recorded them in the presence of the king, the leaders, Zadok the priest, Ahimelech son of Abiathar, and the family heads of the priests and the Levites—one family taken from Eleazar, then one from Ithamar, by turn.",
+      "links": "<a href='/AIV/13/15/24'>1Chr. 15:24</a>",
+      "comment": "The meticulous record-keeping highlights the importance of tradition and continuity, which safeguard orthodoxy and order in worship."
     },
     {
-      "pk": 24024007,
+      "pk": 13024007,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 24,
       "verse": 7,
       "text": "The first lot fell to Jehoiarib, the second to Jedaiah,",
-      "links": "<a href='/AIV/13/9/10'>1 Chr. 9:10</a>",
-      "comment": "Lists lots in order; names are transliterated from Hebrew."
+      "links": "<a href='/AIV/13/9/10'>1Chr. 9:10</a>",
+      "comment": "Beginning the priestly courses, Jehoiarib and Jedaiah’s names reappear in later records (see Neh. 12:6, 7), showing succession and memory in God’s plan."
     },
     {
-      "pk": 24024008,
+      "pk": 13024008,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 24,
       "verse": 8,
       "text": "the third to Harim, the fourth to Seorim,",
-      "links": "<a href='/AIV/15/2/39'>Ezra 2:39</a>",
-      "comment": "Continued exact retention of priestly family names."
+      "links": "<a href='/AIV/15/2/36-39'>Ezra 2:36-39</a>",
+      "comment": "The specific listing of priestly lots embodies the value of spiritual order, as seen in Temple and Church life."
     },
     {
-      "pk": 24024009,
+      "pk": 13024009,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 24,
       "verse": 9,
       "text": "the fifth to Malchijah, the sixth to Mijamin,",
       "links": "<a href='/AIV/15/10/25'>Ezra 10:25</a>",
-      "comment": "Maintains literalness of names and order."
+      "comment": "Malchijah and Mijamin appear in post-exilic lists, showing continuity and restoration after exile—a prophetic shadow of spiritual restoration."
     },
     {
-      "pk": 24024010,
+      "pk": 13024010,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 24,
       "verse": 10,
       "text": "the seventh to Hakkoz, the eighth to Abijah,",
       "links": "<a href='/AIV/42/1/5'>Luke 1:5</a>",
-      "comment": "Abijah’s line later referenced in the NT regarding Zechariah."
+      "comment": "Abijah’s division is significant; Zechariah, the father of John the Baptist, served in this course (Luke 1:5), foreshadowing the coming of Christ through priestly service."
     },
     {
-      "pk": 24024011,
+      "pk": 13024011,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 24,
       "verse": 11,
       "text": "the ninth to Jeshua, the tenth to Shecaniah,",
       "links": "<a href='/AIV/15/2/36'>Ezra 2:36</a>",
-      "comment": "Transliteration of Hebrew names as standard."
+      "comment": "The priestly succession continues, preserving worship and teaching."
     },
     {
-      "pk": 24024012,
+      "pk": 13024012,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 24,
       "verse": 12,
       "text": "the eleventh to Eliashib, the twelfth to Jakim,",
       "links": "<a href='/AIV/16/12/10'>Neh. 12:10</a>",
-      "comment": "Follows temple/chief priest house order."
+      "comment": "Priestly heads often reappear in leadership roles after the exile, linking the faith of the fathers to generations yet to come."
     },
     {
-      "pk": 24024013,
+      "pk": 13024013,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 24,
       "verse": 13,
       "text": "the thirteenth to Huppah, the fourteenth to Jeshebeab,",
-      "links": "<a href='/AIV/13/24/18'>1 Chr. 24:18</a>",
-      "comment": "Verse structure follows original enumerative pattern."
+      "links": "",
+      "comment": "The numbered divisions symbolize order and the unity of worship carried throughout the nation."
     },
     {
-      "pk": 24024014,
+      "pk": 13024014,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 24,
       "verse": 14,
       "text": "the fifteenth to Bilgah, the sixteenth to Immer,",
-      "links": "<a href='/AIV/16/7/40-42'>Neh. 7:40–42</a>",
-      "comment": "These names also found in post-exilic priestly listings."
+      "links": "<a href='/AIV/15/2/37'>Ezra 2:37</a>",
+      "comment": "Immer’s descendants were notable post-exilic leaders, showing God’s faithfulness to priestly families."
     },
     {
-      "pk": 24024015,
+      "pk": 13024015,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 24,
       "verse": 15,
       "text": "the seventeenth to Hezir, the eighteenth to Happizzez,",
-      "links": "<a href='/AIV/15/2/38-39'>Ezra 2:38-39</a>",
-      "comment": "Faithful transliteration; names preserved for continuity."
+      "links": "",
+      "comment": "These names highlight ancient faithfulness, remembered through their inclusion in the sacred order."
     },
     {
-      "pk": 24024016,
+      "pk": 13024016,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 24,
       "verse": 16,
       "text": "the nineteenth to Pethahiah, the twentieth to Jehezkel,",
-      "links": "<a href='/AIV/13/24/18'>1 Chr. 24:18</a>",
-      "comment": "Exact to Hebrew text; Jehezkel is Ezekiel."
+      "links": "",
+      "comment": "Every priestly division mattered greatly in preserving the spiritual heritage of Israel, showing God's attention to every detail."
     },
     {
-      "pk": 24024017,
+      "pk": 13024017,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 24,
       "verse": 17,
       "text": "the twenty-first to Jachin, the twenty-second to Gamul,",
-      "links": "<a href='/AIV/13/24/8'>1 Chr. 24:8</a>",
-      "comment": "Verse follows established list pattern."
+      "links": "",
+      "comment": "Gamul’s name connects with others listed among priestly elders, emphasizing continuity."
     },
     {
-      "pk": 24024018,
+      "pk": 13024018,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 24,
       "verse": 18,
-      "text": "the twenty-third to Delaiah, the twenty-fourth to Maaziah.",
-      "links": "<a href='/AIV/15/10/22'>Ezra 10:22</a>",
-      "comment": "Twenty-four lots complete the priestly courses."
+      "text": "the twenty-third to Delaiah, and the twenty-fourth to Maaziah.",
+      "links": "",
+      "comment": "Twenty-four divisions provided priestly service for each week of the year, a sign of the perpetual offering and ministry before God (see Rev. 4:4 for symbolism of twenty-four elders)."
     },
     {
-      "pk": 24024019,
+      "pk": 13024019,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 24,
       "verse": 19,
-      "text": "These were their appointed orders for their service when they entered the house of the LORD according to the procedure established by their ancestor Aaron, as the LORD God of Israel had commanded him.",
-      "links": "<a href='/AIV/4/18/7'>Num. 18:7</a>; <a href='/AIV/2/28/43'>Ex. 28:43</a>",
-      "comment": "Clarifies that these orders are according to God’s law and Aaron’s precedent."
+      "text": "These were their appointed duties for serving in the LORD’s house according to the regulations given to them by Aaron their ancestor, as the LORD God of Israel had commanded him.",
+      "links": "<a href='/AIV/03/8/35'>Lev. 8:35</a>",
+      "comment": "Obedience to divine ordinance and the transmission from Aaron to his sons emphasizes the sacredness of worship passed on through tradition and authority."
     },
     {
-      "pk": 24024020,
+      "pk": 13024020,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 24,
       "verse": 20,
-      "text": "The rest of the descendants of Levi were as follows: of the sons of Amram, Shubael; of the sons of Shubael, Jehdeiah.",
-      "links": "<a href='/AIV/4/3/2'>Num. 3:2</a>",
-      "comment": "Begins non-priestly Levitical leader list; Amram was Moses' father."
+      "text": "From the rest of Levi’s sons: from Amram’s sons, Shubael; from Shubael’s sons, Jehdeiah;",
+      "links": "<a href='/AIV/04/3/27'>Num. 3:27</a>",
+      "comment": "The Levites, as the tribe set apart for service, remind us of a wider spiritual priesthood, serving alongside the sons of Aaron."
     },
     {
-      "pk": 24024021,
+      "pk": 13024021,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 24,
       "verse": 21,
-      "text": "Of Rehabiah: of the sons of Rehabiah, Isshiah the chief.",
-      "links": "<a href='/AIV/13/23/17'>1 Chr. 23:17</a>",
-      "comment": "Identifies Isshiah as head of Rehabiah’s house."
+      "text": "From Rehabiah: from Rehabiah’s sons, Isshiah, the chief;",
+      "links": "<a href='/AIV/13/23/17'>1Chr. 23:17</a>",
+      "comment": "Isshiah is specifically set as the leader among Rehabiah’s descendants, ensuring clear lines of leadership."
     },
     {
-      "pk": 24024022,
+      "pk": 13024022,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 24,
       "verse": 22,
-      "text": "Of the Izharites: Shelomoth; of the sons of Shelomoth, Jahath.",
-      "links": "<a href='/AIV/13/23/18'>1 Chr. 23:18</a>",
-      "comment": "Uses Shelomoth as Hebrew."
+      "text": "From the Izharites: Shelomoth; from Shelomoth’s sons, Jahath;",
+      "links": "<a href='/AIV/04/3/19'>Num. 3:19</a>",
+      "comment": "The Izharites are another important Levitical family, forming part of the complex structure of worship."
     },
     {
-      "pk": 24024023,
+      "pk": 13024023,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 24,
       "verse": 23,
-      "text": "Sons of Hebron: Jeriah the chief, Amariah the second, Jahaziel the third, and Jekameam the fourth.",
-      "links": "<a href='/AIV/13/23/19'>1 Chr. 23:19</a>",
-      "comment": "Specified by rank; mirroring OT listings."
+      "text": "From Hebron's sons: Jeriah, Amariah the second, Jahaziel the third, Jekameam the fourth.",
+      "links": "<a href='/AIV/13/23/19'>1Chr. 23:19</a>",
+      "comment": "The detailed listing of Hebron's sons reflects the faithfulness of recording and transmitting spiritual heritage."
     },
     {
-      "pk": 24024024,
+      "pk": 13024024,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 24,
       "verse": 24,
-      "text": "The sons of Uzziel: Micah; of the sons of Micah, Shamir.",
-      "links": "<a href='/AIV/13/23/20'>1 Chr. 23:20</a>",
-      "comment": "Maintained as per genealogical tradition."
+      "text": "From Uzziel’s sons: Micah; from Micah’s sons, Shamir;",
+      "links": "<a href='/AIV/13/23/20'>1Chr. 23:20</a>",
+      "comment": "Lineages are preserved with precision, which strengthens collective memory and identity for spiritual leadership."
     },
     {
-      "pk": 24024025,
+      "pk": 13024025,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 24,
       "verse": 25,
-      "text": "Micah’s brother was Isshiah; of the sons of Isshiah, Zechariah.",
-      "links": "<a href='/AIV/13/24/21'>1 Chr. 24:21</a>",
-      "comment": "Connects Isshiah as brother of Micah and father of Zechariah."
+      "text": "Micah’s brother was Isshiah. From Isshiah’s sons: Zechariah.",
+      "links": "",
+      "comment": "Familial ties highlight the continuity of service, crucial for maintaining unity and succession."
     },
     {
-      "pk": 24024026,
+      "pk": 13024026,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 24,
       "verse": 26,
-      "text": "The sons of Merari: Mahli and Mushi; the sons of Jaaziah: Beno.",
-      "links": "<a href='/AIV/13/23/21'>1 Chr. 23:21</a>",
-      "comment": "Genealogy matches earlier census."
+      "text": "The Merarites: Mahli and Mushi—sons of Jaaziah.",
+      "links": "<a href='/AIV/04/3/33'>Num. 3:33</a>",
+      "comment": "The Merarite clan rounds out the Levitical tribes, all of whom share in the work set apart for God’s house."
     },
     {
-      "pk": 24024027,
+      "pk": 13024027,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 24,
       "verse": 27,
-      "text": "The descendants of Merari by Jaaziah: Beno, Shoham, Zaccur, and Ibri.",
-      "links": "<a href='/AIV/13/24/26'>1 Chr. 24:26</a>",
-      "comment": "Expands Merari line; Beno could mean 'his son'."
+      "text": "The sons of Jaaziah: Beno, Shoham, Zaccur, and Ibri.",
+      "links": "",
+      "comment": "Listing Jaaziah’s sons completes the full accounting of Merarite family heads."
     },
     {
-      "pk": 24024028,
+      "pk": 13024028,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 24,
       "verse": 28,
-      "text": "Of Mahli: Eleazar, who had no sons.",
-      "links": "<a href='/AIV/13/23/22'>1 Chr. 23:22</a>",
-      "comment": "Short clarifying note; matches genealogical records."
+      "text": "From Mahli: Eleazar, who had no sons.",
+      "links": "",
+      "comment": "The absence of heirs from Eleazar notes the importance of succession and continuity for ministry."
     },
     {
-      "pk": 24024029,
+      "pk": 13024029,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 24,
       "verse": 29,
-      "text": "Of Kish: the sons of Kish, Jerahmeel.",
-      "links": "<a href='/AIV/13/24/28'>1 Chr. 24:28</a>",
-      "comment": "Kish is another Merarite ancestor."
+      "text": "From Kish: Kish’s son, Jerahmeel.",
+      "links": "",
+      "comment": "Even when lines seem minor, their role in worship and in God's plan is underscored by meticulous inclusion."
     },
     {
-      "pk": 24024030,
+      "pk": 13024030,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 24,
       "verse": 30,
-      "text": "The sons of Mushi: Mahli, Eder, and Jerimoth. These were the descendants of the Levites by their ancestral families.",
-      "links": "<a href='/AIV/13/23/23'>1 Chr. 23:23</a>",
-      "comment": "Summing up the Merarite family line."
+      "text": "The sons of Mushi: Mahli, Eder, and Jerimoth. These were the Levites according to their families.",
+      "links": "<a href='/AIV/13/23/23'>1Chr. 23:23</a>",
+      "comment": "The Levitical families are listed with great care, underlining the communal and generational nature of ministry."
     },
     {
-      "pk": 24024031,
+      "pk": 13024031,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 24,
       "verse": 31,
-      "text": "They also cast lots, just as their relatives, the sons of Aaron, did in the presence of King David, Zadok, Ahimelech, and the heads of the priestly and Levitical families. The heads of the families and their younger brothers were included alike.",
-      "links": "<a href='/AIV/13/24/5-6'>1 Chr. 24:5-6</a>",
-      "comment": "Affirms all participated in the lot process; 'included alike' reflects fairness."
+      "text": "These also cast lots, just as their relatives the descendants of Aaron did, in the presence of King David, Zadok, Ahimelech, and the family heads of the priests and the Levites—the families both chief and youngest alike.",
+      "links": "<a href='/AIV/13/25/8'>1Chr. 25:8</a>",
+      "comment": "The casting of lots by all families—including the youngest—shows the impartiality and unity intended for worship. The structure and transmission of spiritual authority is seen here as divinely ordered, foreshadowing the enduring role of a unified spiritual leadership in God’s plan."
     }
   ],
-  "translatedAt": "2025-12-22T10:56:20.763Z"
+  "translatedAt": "2025-12-24T04:18:18.802Z"
 }

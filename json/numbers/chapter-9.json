@@ -1,5 +1,6 @@
 {
-  "book": "Numbers",
+  "book": 4,
+  "bookName": "Numbers",
   "bookAbbreviation": "Num",
   "chapter": 9,
   "verses": [
@@ -7,232 +8,278 @@
       "pk": 4009001,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 9,
       "verse": 1,
-      "text": "The LORD spoke to Moses in the wilderness of Sinai, in the first month of the second year after they had come out of the land of Egypt, saying,",
-      "links": "<a href='/AIV/2/12/1'>Ex. 12:1</a>; <a href='/AIV/4/1/1'>Num. 1:1</a>",
-      "comment": "This sets the time as one year after the Exodus."
+      "text": "The LORD spoke to Moses in the Wilderness of Sinai, in the first month of the second year after they had come out of the land of Egypt, saying,",
+      "links": "<a href='/AIV/2/12/1-2'>Ex. 12:1-2</a>; <a href='/AIV/4/1/1'>Num. 1:1</a>",
+      "comment": "This introduction closely parallels other divine communications found in Exodus, emphasizing continuity in God's leadership and covenant."
     },
     {
       "pk": 4009002,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 9,
       "verse": 2,
-      "text": "“Let the people of Israel keep the Passover at its appointed time.",
-      "links": "<a href='/AIV/2/12/3'>Ex. 12:3</a>; <a href='/AIV/3/23/5'>Lev. 23:5</a>",
-      "comment": "Passover commanded on its proper date."
+      "text": "\"Let the people of Israel keep the Passover at its appointed time.",
+      "links": "<a href='/AIV/2/12/3-14'>Ex. 12:3-14</a>; <a href='/AIV/3/23/5'>Lev. 23:5</a>",
+      "comment": "The Passover is a central act of worship recalling the deliverance from Egypt, and is a figure (type) of Christ, the true Passover Lamb (see 1 Cor. 5:7)."
     },
     {
       "pk": 4009003,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 9,
       "verse": 3,
-      "text": "On the fourteenth day of this month, at twilight, you shall keep it at its appointed time. According to all its statutes and all its regulations, you shall keep it.”",
-      "links": "<a href='/AIV/2/12/6'>Ex. 12:6</a>; <a href='/AIV/3/23/5'>Lev. 23:5</a>",
-      "comment": "Specifies regulations and timing."
+      "text": "On the fourteenth day of this month at twilight, you shall keep it at its appointed time; according to all its statutes and all its regulations you shall keep it.\"",
+      "links": "<a href='/AIV/2/12/6-11'>Ex. 12:6-11</a>; <a href='/AIV/3/23/5'>Lev. 23:5</a>",
+      "comment": "The insistence on observing all the statutes and regulations underlines the importance of fidelity to divinely given rituals, which prefigure later sacramental observance."
     },
     {
       "pk": 4009004,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 9,
       "verse": 4,
       "text": "So Moses told the people of Israel to keep the Passover.",
-      "links": "<a href='/AIV/2/12/28'>Ex. 12:28</a>",
-      "comment": "Moses relays the command."
+      "links": "<a href='/AIV/2/12/21-28'>Ex. 12:21-28</a>",
+      "comment": "Moses' role as mediator is again underscored, reflecting the ongoing need for spiritual leadership to guide in right worship."
     },
     {
       "pk": 4009005,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 9,
       "verse": 5,
-      "text": "And they kept the Passover in the first month, on the fourteenth day of the month, at twilight, in the wilderness of Sinai. Everything was done just as the LORD commanded Moses.",
-      "links": "<a href='/AIV/2/12/6'>Ex. 12:6</a>; <a href='/AIV/3/23/5'>Lev. 23:5</a>",
-      "comment": "Israel complies with the command exactly."
+      "text": "And they kept the Passover in the first month, on the fourteenth day at twilight, in the Wilderness of Sinai; according to all that the LORD had commanded Moses, so the people of Israel did.",
+      "links": "<a href='/AIV/2/12/43-50'>Ex. 12:43-50</a>",
+      "comment": "Here Israel's obedience is emphasized, demonstrating the importance of both the correct time and proper manner for worship, which finds its fullness in future liturgical traditions."
     },
     {
       "pk": 4009006,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 9,
       "verse": 6,
-      "text": "But there were some men who were unclean because of a dead body, so they could not keep the Passover on that day. So they came before Moses and Aaron on that day.",
-      "links": "<a href='/AIV/3/7/20-21'>Lev. 7:20–21</a>; <a href='/AIV/3/19/11'>Lev. 19:11</a>",
-      "comment": "Ritual uncleanness prevented participation."
+      "text": "But there were certain men who were unclean because of touching a dead body, so that they could not keep the Passover on that day. So they came before Moses and Aaron that same day.",
+      "links": "<a href='/AIV/3/5/2'>Lev. 5:2</a>; <a href='/AIV/3/21/1-3'>Lev. 21:1-3</a>",
+      "comment": "Ritual purity was required for participation in Passover, symbolizing the need for holiness when approaching God's mysteries."
     },
     {
       "pk": 4009007,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 9,
       "verse": 7,
-      "text": "And those men said to him, “We are unclean because of a dead body. Why should we be kept from bringing the LORD’s offering at its appointed time among the people of Israel?”",
-      "links": "<a href='/AIV/3/5/2-3'>Lev. 5:2–3</a>",
-      "comment": "The men ask about exclusion from Passover."
+      "text": "They said to him, \"We are unclean because of a dead body. Why should we be kept from presenting the LORD's offering at its appointed time among the people of Israel?\"",
+      "links": "<a href='/AIV/4/19/11-13'>Num. 19:11-13</a>",
+      "comment": "The people's desire to participate in communal worship, even when ritually unclean, points to an inherent human longing for unity in worship."
     },
     {
       "pk": 4009008,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 9,
       "verse": 8,
-      "text": "Moses said to them, “Wait, and I will hear what the LORD will command concerning you.”",
-      "links": "<a href='/AIV/4/27/5'>Num. 27:5</a>",
-      "comment": "Moses seeks direction from God."
+      "text": "Moses said to them, \"Wait, so I may hear what the LORD will command concerning you.\"",
+      "links": "<a href='/AIV/2/18/15'>Ex. 18:15</a>",
+      "comment": "Moses acts as intercessor, prefiguring the ongoing need for leaders to discern God's will regarding worship and participation."
     },
     {
       "pk": 4009009,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 9,
       "verse": 9,
       "text": "The LORD spoke to Moses, saying,",
-      "links": "<a href='/AIV/4/9/1'>Num. 9:1</a>",
-      "comment": "God responds with an answer."
+      "links": "",
+      "comment": "God continues to provide precise guidance through His appointed mediator."
     },
     {
       "pk": 4009010,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 9,
       "verse": 10,
-      "text": "“Speak to the people of Israel, saying, ‘If any one of you or your descendants is unclean because of a dead body, or is far away on a journey, he may still keep the Passover to the LORD.",
-      "links": "<a href='/AIV/3/7/20-21'>Lev. 7:20–21</a>; <a href='/AIV/3/19/11'>Lev. 19:11</a>",
-      "comment": "Provisions for those unclean or far away."
+      "text": "\"Speak to the people of Israel, saying: If any one of you or your descendants is unclean because of a dead body, or is on a journey far away, he may still keep the Passover to the LORD.",
+      "links": "<a href='/AIV/4/19/11-22'>Num. 19:11-22</a>",
+      "comment": "This provision reveals God's mercy, allowing those prevented by unavoidable circumstances to participate at a later time, maintaining both justice and inclusivity in the worshiping community."
     },
     {
       "pk": 4009011,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 9,
       "verse": 11,
       "text": "In the second month, on the fourteenth day at twilight, they shall keep it. They shall eat it with unleavened bread and bitter herbs.",
-      "links": "<a href='/AIV/2/12/6'>Ex. 12:6</a>; <a href='/AIV/2/12/8'>Ex. 12:8</a>",
-      "comment": "A second Passover provision for the ritually unclean or travelers."
+      "links": "<a href='/AIV/2/12/8'>Ex. 12:8</a>; <a href='/AIV/4/9/3'>Num. 9:3</a>",
+      "comment": "This 'Second Passover' becomes part of Israel's living tradition, emphasizing the need for all to be included in the sacred assembly."
     },
     {
       "pk": 4009012,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 9,
       "verse": 12,
-      "text": "They shall not leave any of it until morning, nor break any of its bones; according to all the statutes of the Passover they shall keep it.",
-      "links": "<a href='/AIV/2/12/10'>Ex. 12:10</a>; <a href='/AIV/2/12/46'>Ex. 12:46</a>",
-      "comment": "Rules for Passover lamb apply to second Passover."
+      "text": "They must not leave any of it until morning, nor break any of its bones. They must keep it according to all the statutes of the Passover.",
+      "links": "<a href='/AIV/2/12/10-46'>Ex. 12:10, 46</a>; <a href='/AIV/19/34/20'>Ps. 34:20</a>; <a href='/AIV/43/19/36'>John 19:36</a>",
+      "comment": "Not breaking any bones of the Passover lamb is a type of Christ, whose bones were not broken on the Cross (John 19:36), showing the fulfillment of the sacrificial ritual in the Messiah."
     },
     {
       "pk": 4009013,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 9,
       "verse": 13,
-      "text": "But if a man is clean and is not on a journey and still fails to keep the Passover, that person shall be cut off from his people, because he did not bring the LORD’s offering at its appointed time; that man shall bear his sin.",
-      "links": "<a href='/AIV/2/12/15'>Ex. 12:15</a>; <a href='/AIV/3/23/29'>Lev. 23:29</a>",
-      "comment": "Deliberate neglect brings severe consequence."
+      "text": "But if anyone who is clean and not on a journey fails to keep the Passover, that person shall be cut off from his people, because he did not present the LORD’s offering at its appointed time. That person shall bear his sin.",
+      "links": "<a href='/AIV/3/7/20-21'>Lev. 7:20-21</a>; <a href='/AIV/4/15/30'>Num. 15:30</a>",
+      "comment": "Neglecting the appointed means of grace has serious consequences. This underscores the importance of communal participation and unity in God's worship."
     },
     {
       "pk": 4009014,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 9,
       "verse": 14,
-      "text": "And if a foreigner lives among you and would keep the Passover to the LORD, he must do it according to the statute of the Passover, and according to its regulation. You shall have one statute, for both the foreigner and the native of the land.”",
-      "links": "<a href='/AIV/2/12/48'>Ex. 12:48</a>; <a href='/AIV/3/24/22'>Lev. 24:22</a>",
-      "comment": "Equality in the law for foreigners."
+      "text": "If a foreigner resides among you and wishes to keep the Passover to the LORD, he must do so according to the statute of the Passover and according to its regulation. You shall have one statute, both for the sojourner and for the native of the land.",
+      "links": "<a href='/AIV/2/12/48-49'>Ex. 12:48-49</a>; <a href='/AIV/3/17/8-9'>Lev. 17:8-9</a>",
+      "comment": "There is unity in worship for all, showing that God's plan of salvation is not limited by ethnicity, but by communion in the same acts of faith."
     },
     {
       "pk": 4009015,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 9,
       "verse": 15,
-      "text": "On the day the tabernacle was set up, the cloud covered the tabernacle, that is, the tent of the testimony. And in the evening it was over the tabernacle appearing as fire until morning.",
-      "links": "<a href='/AIV/2/40/34-38'>Ex. 40:34–38</a>; <a href='/AIV/4/7/1'>Num. 7:1</a>",
-      "comment": "The cloud’s appearance is described."
+      "text": "On the day the tabernacle was set up, the cloud covered the tabernacle, the tent of testimony; and at evening it was over the tabernacle, appearing as fire until morning.",
+      "links": "<a href='/AIV/2/40/34-38'>Ex. 40:34-38</a>; <a href='/AIV/4/9/16'>Num. 9:16</a>",
+      "comment": "The cloud and fire symbolize God's presence leading and protecting His people, prefiguring the guidance of the Holy Spirit in the new covenant."
     },
     {
       "pk": 4009016,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 9,
       "verse": 16,
       "text": "So it was always: the cloud covered it by day, and the appearance of fire by night.",
-      "links": "<a href='/AIV/2/13/21'>Ex. 13:21</a>",
-      "comment": "God’s presence manifests as cloud and fire."
+      "links": "<a href='/AIV/2/13/21-22'>Ex. 13:21-22</a>",
+      "comment": "The continuous presence of the cloud points to God's constant and faithful guidance, which is later reflected in the enduring presence of God with His people."
     },
     {
       "pk": 4009017,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 9,
       "verse": 17,
-      "text": "Whenever the cloud lifted from above the tent, the people of Israel set out; and wherever the cloud settled, there the people of Israel pitched their tents.",
-      "links": "<a href='/AIV/2/40/36-37'>Ex. 40:36–37</a>",
-      "comment": "The cloud guided Israel’s journeys."
+      "text": "Whenever the cloud lifted from the tent, after that the people of Israel set out, and in the place where the cloud settled, there the people of Israel camped.",
+      "links": "<a href='/AIV/4/10/11-13'>Num. 10:11-13</a>; <a href='/AIV/2/40/36-37'>Ex. 40:36-37</a>",
+      "comment": "Obedience to God's movements is necessary for right relationship with Him, pointing to the value of docility to divine guidance."
     },
     {
       "pk": 4009018,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 9,
       "verse": 18,
-      "text": "At the command of the LORD the people of Israel set out, and at the command of the LORD they camped. As long as the cloud remained over the tabernacle, they stayed in camp.",
-      "links": "<a href='/AIV/4/10/13'>Num. 10:13</a>",
-      "comment": "Israel’s movements strictly followed God’s direction."
+      "text": "At the command of the LORD the people of Israel set out, and at the command of the LORD they camped. As long as the cloud rested over the tabernacle, they remained in camp.",
+      "links": "<a href='/AIV/4/9/23'>Num. 9:23</a>",
+      "comment": "The people wait on God’s command, showing the virtue of patience and the necessity of obedience to God's authority."
     },
     {
       "pk": 4009019,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 9,
       "verse": 19,
-      "text": "Even when the cloud stayed over the tabernacle many days, the people of Israel kept the charge of the LORD and did not set out.",
+      "text": "Even when the cloud continued long over the tabernacle, the Israelites kept the LORD’s charge and did not set out.",
       "links": "<a href='/AIV/4/9/23'>Num. 9:23</a>",
-      "comment": "Israel waited as long as God commanded."
+      "comment": "Israel’s faithfulness in waiting reveals the importance of perseverance and trust in God's timing."
     },
     {
       "pk": 4009020,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 9,
       "verse": 20,
-      "text": "Sometimes the cloud stayed only a few days over the tabernacle, and at the LORD’s command they camped, and at the LORD’s command they set out.",
-      "links": "<a href='/AIV/4/9/23'>Num. 9:23</a>",
-      "comment": "God's timings varied, but were always obeyed."
+      "text": "Sometimes the cloud would stay a few days over the tabernacle, and according to the command of the LORD they remained in camp; then according to the command of the LORD they would set out.",
+      "links": "<a href='/AIV/4/9/18'>Num. 9:18</a>",
+      "comment": "Flexibility and responsiveness to God’s presence are keys to proper discipleship, modeling the need to be attuned to divine instruction."
     },
     {
       "pk": 4009021,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 9,
       "verse": 21,
-      "text": "Sometimes the cloud remained only from evening until morning, and when the cloud lifted in the morning, they set out. Whether by day or by night, whenever the cloud lifted, they set out.",
-      "links": "<a href='/AIV/4/9/17-18'>Num. 9:17–18</a>",
-      "comment": "Israel’s readiness to move at short notice."
+      "text": "Sometimes the cloud remained from evening until morning, and when the cloud lifted in the morning, they set out; or if it continued both day and night, when the cloud lifted, they set out.",
+      "links": "<a href='/AIV/2/13/21'>Ex. 13:21</a>",
+      "comment": "Their immediate obedience to God’s movements points toward the right relationship between the people and their divine shepherd."
     },
     {
       "pk": 4009022,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 9,
       "verse": 22,
-      "text": "Whether the cloud remained over the tabernacle two days, a month, or a year, the Israelites stayed in camp and did not set out; but when it lifted, they set out.",
-      "links": "<a href='/AIV/4/9/19-21'>Num. 9:19–21</a>",
-      "comment": "Long or short stays depended solely on God."
+      "text": "Whether it was two days, a month, or a longer time that the cloud remained over the tabernacle, staying on it, the people of Israel remained in camp and did not set out; but when it was lifted, they set out.",
+      "links": "<a href='/AIV/4/9/19'>Num. 9:19</a>",
+      "comment": "The people’s endurance is emphasized, representing the call for perseverance in a life directed by God’s will."
     },
     {
       "pk": 4009023,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 9,
       "verse": 23,
-      "text": "At the command of the LORD they camped, and at the command of the LORD they set out. They kept the charge of the LORD, at the command of the LORD by Moses.",
-      "links": "<a href='/AIV/4/9/18'>Num. 9:18</a>; <a href='/AIV/4/3/7-8'>Num. 3:7–8</a>",
-      "comment": "Final summary of Israel’s obedience and Moses’ role."
+      "text": "At the command of the LORD they camped, and at the command of the LORD they set out. They kept the LORD’s charge, as the LORD commanded through Moses.",
+      "links": "<a href='/AIV/4/9/18-19'>Num. 9:18-19</a>; <a href='/AIV/4/9/8'>Num. 9:8</a>",
+      "comment": "This final verse summarizes the whole passage: obedience to God’s command through His chosen mediator secures the order and unity of the people, laying a foundation echoed in later spiritual and liturgical life."
     }
   ],
-  "translatedAt": "2025-12-20T09:28:26.475Z"
+  "translatedAt": "2025-12-24T01:34:23.490Z"
 }

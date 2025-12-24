@@ -1,238 +1,285 @@
 {
-  "book": "Exodus",
+  "book": 2,
+  "bookName": "Exodus",
   "bookAbbreviation": "Exod",
   "chapter": 33,
   "verses": [
     {
-      "pk": 2033301,
+      "pk": 2033001,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 33,
       "verse": 1,
-      "text": "The LORD said to Moses, “Go, depart from here, you and the people whom you have brought up out of the land of Egypt, to the land I swore to Abraham, to Isaac, and to Jacob, saying, ‘I will give it to your offspring.’”",
-      "links": "<a href='/AIV/1/12/7'>Gen. 12:7</a>; <a href='/AIV/1/26/3'>Gen. 26:3</a>; <a href='/AIV/1/28/13'>Gen. 28:13</a>",
-      "comment": "Follows the Hebrew text, using 'offspring' for 'seed.'"
+      "text": "The LORD spoke to Moses, 'Depart, go up from here, you and the people whom you have brought out of the land of Egypt, to the land I swore to Abraham, to Isaac, and to Jacob, saying, \"To your descendants I will give it.\"'",
+      "links": "<a href='/AIV/01/12/7'>Gen. 12:7</a>; <a href='/AIV/02/32/13'>Exod. 32:13</a>",
+      "comment": "God reiterates the promise He made to the patriarchs. Notice the emphasis on God's covenant faithfulness, a key theme throughout Scripture and a pointer toward the new covenant established in Christ (see <a href='/AIV/42/01/72-73'>Luke 1:72-73</a>)."
     },
     {
-      "pk": 2033302,
+      "pk": 2033002,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 33,
       "verse": 2,
-      "text": "I will send an angel before you, and I will drive out the Canaanite, the Amorite, the Hittite, the Perizzite, the Hivite, and the Jebusite.",
-      "links": "<a href='/AIV/2/23/20-23'>Ex. 23:20–23</a>",
-      "comment": "Stays close to word order; keeps the list from the Hebrew."
+      "text": "'I will send an angel before you, and I will drive out the Canaanite, the Amorite, the Hittite, the Perizzite, the Hivite, and the Jebusite.'",
+      "links": "<a href='/AIV/02/23/20-23'>Exod. 23:20-23</a>; <a href='/AIV/06/24/11'>Josh. 24:11</a>",
+      "comment": "God promises angelic guidance—interpreted by some Church Fathers as a foreshadowing of Christ, who is both messenger and the very presence of God among His people."
     },
     {
-      "pk": 2033303,
+      "pk": 2033003,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 33,
       "verse": 3,
-      "text": "Go up to a land flowing with milk and honey. But I will not go up among you, lest I consume you on the way, for you are a stiff-necked people.”",
-      "links": "<a href='/AIV/2/3/8'>Ex. 3:8</a>; <a href='/AIV/2/32/9'>Ex. 32:9</a>",
-      "comment": "'Stiff-necked' is kept from the literal idiom, meaning stubborn."
+      "text": "'Go up to a land flowing with milk and honey. But I will not go up among you, lest I consume you on the way, for you are a stiff-necked people.'",
+      "links": "<a href='/AIV/02/32/9'>Exod. 32:9</a>; <a href='/AIV/03/20/24'>Lev. 20:24</a>",
+      "comment": "Separation from the direct presence of God is a result of sin, hinting at the need for mediation and atonement, later fulfilled in Christ's sacrificial ministry."
     },
     {
-      "pk": 2033304,
+      "pk": 2033004,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 33,
       "verse": 4,
       "text": "When the people heard this disastrous word, they mourned, and no one put on his ornaments.",
-      "links": "<a href='/AIV/2/33/5-6'>Ex. 33:5–6</a>",
-      "comment": "'Disastrous word' is a literal rendering; 'ornaments' refers to jewelry."
+      "links": "<a href='/AIV/02/33/6'>Exod. 33:6</a>; <a href='/AIV/04/14/39'>Num. 14:39</a>",
+      "comment": "The Israelites' mourning reflects true contrition, the beginning of repentance and restoration—a model for sincere repentance, later deepened in Christian spiritual practice."
     },
     {
-      "pk": 2033305,
+      "pk": 2033005,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 33,
       "verse": 5,
-      "text": "For the LORD said to Moses, “Say to the people of Israel, ‘You are a stiff-necked people. If I were to go up among you for one moment, I would consume you. So now take off your ornaments, that I may know what to do with you.’”",
-      "links": "<a href='/AIV/2/32/9-10'>Ex. 32:9-10</a>",
-      "comment": "Reflects the repetition and forcefulness of the Hebrew."
+      "text": "For the LORD had said to Moses, 'Say to the people of Israel, \"You are a stiff-necked people. If for a single moment I went up among you, I would consume you. Now, take off your ornaments, that I may know what to do with you.\"'",
+      "links": "<a href='/AIV/02/32/9-10'>Exod. 32:9-10</a>",
+      "comment": "Removal of ornaments signals humility before God. This act of penance echoes later Christian traditions of outward signs of repentance (see <a href='/AIV/40/06/17'>Matt. 6:17</a>)."
     },
     {
-      "pk": 2033306,
+      "pk": 2033006,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 33,
       "verse": 6,
-      "text": "Therefore the people of Israel took off their ornaments from Mount Horeb onward.",
-      "links": "<a href='/AIV/2/32/3'>Ex. 32:3</a>",
-      "comment": "Follows ancient translations; 'Mount Horeb' is another name for Sinai."
+      "text": "So the people of Israel stripped themselves of their ornaments from Mount Horeb onward.",
+      "links": "<a href='/AIV/02/33/4'>Exod. 33:4</a>",
+      "comment": "This public act of humility prepares them to receive God's mercy, highlighting the importance of physical gestures in worship and penance."
     },
     {
-      "pk": 2033307,
+      "pk": 2033007,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 33,
       "verse": 7,
-      "text": "Now Moses used to take the tent and pitch it outside the camp, far off from the camp, and he called it the tent of meeting. And everyone who sought the LORD would go out to the tent of meeting, which was outside the camp.",
-      "links": "<a href='/AIV/2/29/42-43'>Ex. 29:42-43</a>",
-      "comment": "'Tent of meeting' is kept as a technical term for the place of revelation."
+      "text": "Now Moses used to take the tent and pitch it outside the camp, far off from the camp, and he called it the Tent of Meeting. And everyone who sought the LORD would go out to the Tent of Meeting, which was outside the camp.",
+      "links": "<a href='/AIV/02/29/42'>Exod. 29:42</a>; <a href='/AIV/03/01/1'>Lev. 1:1</a>",
+      "comment": "The Tent of Meeting outside the camp shows Israel’s separation from God's presence due to their sin. Yet God still allows access via an intercessor—Moses—prefiguring the ultimate Mediator (see <a href='/AIV/54/02/5'>1 Tim. 2:5</a>)."
     },
     {
-      "pk": 2033308,
+      "pk": 2033008,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 33,
       "verse": 8,
-      "text": "Whenever Moses went out to the tent, all the people would rise up, and each would stand at his tent door and watch Moses until he had gone into the tent.",
-      "links": "<a href='/AIV/2/33/10'>Ex. 33:10</a>",
-      "comment": "Literal rendering with clarification for readability."
+      "text": "Whenever Moses went out to the Tent, all the people would rise and stand at the entrance of their tents, watching Moses until he entered the Tent.",
+      "links": "<a href='/AIV/02/33/10'>Exod. 33:10</a>",
+      "comment": "The respect shown to Moses’ approach illustrates communal reverence for God's appointed leadership and the ongoing tradition of visible priestly roles in guiding the people."
     },
     {
-      "pk": 2033309,
+      "pk": 2033009,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 33,
       "verse": 9,
-      "text": "As Moses entered the tent, the pillar of cloud would descend and stand at the entrance of the tent, and the LORD would speak with Moses.",
-      "links": "<a href='/AIV/2/13/21-22'>Ex. 13:21–22</a>",
-      "comment": "Keeps the order close to the Hebrew text."
+      "text": "When Moses entered the Tent, the pillar of cloud would descend and stand at the entrance of the Tent, and the LORD would speak with Moses.",
+      "links": "<a href='/AIV/02/13/21'>Exod. 13:21</a>; <a href='/AIV/02/29/42'>Exod. 29:42</a>",
+      "comment": "The pillar of cloud—God’s visible presence—foreshadows the Incarnation, when the invisible God became visible in Christ (see <a href='/AIV/43/01/14'>John 1:14</a>)."
     },
     {
-      "pk": 2033310,
+      "pk": 2033010,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 33,
       "verse": 10,
-      "text": "And when all the people saw the pillar of cloud standing at the entrance of the tent, all the people would rise up and worship, each at his tent door.",
-      "links": "<a href='/AIV/2/40/34-38'>Ex. 40:34-38</a>",
-      "comment": "Repetitions highlighted as in Hebrew."
+      "text": "And when all the people saw the pillar of cloud standing at the entrance of the Tent, all the people would rise and worship, each at the entrance of his tent.",
+      "links": "<a href='/AIV/02/33/8'>Exod. 33:8</a>; <a href='/AIV/02/40/38'>Exod. 40:38</a>",
+      "comment": "The people's worship from afar shows the distance from God's holiness, but their unity in worship also prefigures the communal aspect of Christian worship."
     },
     {
-      "pk": 2033311,
+      "pk": 2033011,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 33,
       "verse": 11,
-      "text": "So the LORD spoke to Moses face to face, as a man speaks to his friend. When Moses turned again into the camp, his assistant Joshua the son of Nun, a young man, would not depart from the tent.",
-      "links": "<a href='/AIV/5/34/10'>Deut. 34:10</a>; <a href='/AIV/6/1/1'>Josh. 1:1</a>",
-      "comment": "'Face to face' is a figure of speech for open communication, not literal sight."
+      "text": "Thus the LORD used to speak to Moses face to face, as one speaks to his friend. When Moses turned again into the camp, his assistant Joshua the son of Nun, a young man, would not depart from the Tent.",
+      "links": "<a href='/AIV/05/34/10'>Deut. 34:10</a>; <a href='/AIV/06/01/1'>Josh. 1:1</a>",
+      "comment": "God’s unique intimacy with Moses foreshadows the fuller revelation in Jesus, who calls His disciples friends (see <a href='/AIV/43/15/15'>John 15:15</a>). Joshua’s remaining in the Tent hints at apostolic succession and continuity of leadership."
     },
     {
-      "pk": 2033312,
+      "pk": 2033012,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 33,
       "verse": 12,
-      "text": "Moses said to the LORD, “See, you say to me, ‘Bring up this people,’ but you have not let me know whom you will send with me. Yet you have said, ‘I know you by name, and you have also found favor in my sight.’”",
-      "links": "<a href='/AIV/2/32/34'>Ex. 32:34</a>",
-      "comment": "'Favor' is the Hebrew hanan, often rendered as 'grace.'"
+      "text": "Moses said to the LORD, 'See, you say to me, \"Bring up this people,\" but you have not let me know whom you will send with me. Yet you have said, \"I know you by name, and you have also found favor in my sight.\"'",
+      "links": "<a href='/AIV/02/32/34'>Exod. 32:34</a>; <a href='/AIV/02/33/17'>Exod. 33:17</a>",
+      "comment": "Moses’s plea for clarity demonstrates the importance of personal relationship with God and the assurance of divine favor given to those set apart for God’s purposes."
     },
     {
-      "pk": 2033313,
+      "pk": 2033013,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 33,
       "verse": 13,
-      "text": "Now therefore, if I have found favor in your sight, please show me your ways, that I may know you and find favor in your sight. And consider too that this nation is your people.”",
-      "links": "<a href='/AIV/2/5/1'>Ex. 5:1</a>",
-      "comment": "Stays close to Hebrew structure for emphasis."
+      "text": "Now therefore, if I have found favor in your sight, please show me your ways, so that I may know you and find favor in your sight. And consider too that this nation is your people.",
+      "links": "<a href='/AIV/19/25/4'>Ps. 25:4</a>; <a href='/AIV/02/32/11'>Exod. 32:11</a>",
+      "comment": "Moses intercedes for the people and desires to know God deeply. This pursuit of divine knowledge and intercession foreshadows Christ, the perfect intercessor (see <a href='/AIV/58/07/25'>Heb. 7:25</a>)."
     },
     {
-      "pk": 2033314,
+      "pk": 2033014,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 33,
       "verse": 14,
-      "text": "And he said, “My presence will go with you, and I will give you rest.”",
-      "links": "<a href='/AIV/2/34/9'>Ex. 34:9</a>",
-      "comment": "God's reassurance; 'rest' includes safety and blessing."
+      "text": "And he said, 'My presence will go with you, and I will give you rest.'",
+      "links": "<a href='/AIV/40/11/28'>Matt. 11:28</a>; <a href='/AIV/58/04/9-11'>Heb. 4:9-11</a>",
+      "comment": "God’s promise of His presence and rest points to Christ, who offers true rest to souls (see Matt. 11:28), indicating a spiritual Sabbath in Him."
     },
     {
-      "pk": 2033315,
+      "pk": 2033015,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 33,
       "verse": 15,
-      "text": "He said to him, “If your presence does not go with us, do not bring us up from here.”",
-      "links": "<a href='/AIV/2/33/1-3'>Ex. 33:1–3</a>",
-      "comment": "Emphasizes Moses’ dependence on God's presence."
+      "text": "And he said to him, 'If your presence will not go with us, do not bring us up from here.'",
+      "links": "<a href='/AIV/02/33/1-3'>Exod. 33:1-3</a>",
+      "comment": "Moses understands that God’s presence is the only thing that gives the people true identity and protection—a principle fundamental to all of Christian life and worship."
     },
     {
-      "pk": 2033316,
+      "pk": 2033016,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 33,
       "verse": 16,
-      "text": "For how will it be known that I have found favor in your sight, I and your people? Is it not by your going with us, so that we are distinct, I and your people, from every other people on the face of the earth?”",
-      "links": "<a href='/AIV/2/19/5-6'>Ex. 19:5–6</a>",
-      "comment": "'Distinct' is a literal rendering of Hebrew root."
+      "text": "For how shall it be known that I have found favor in your sight, I and your people? Is it not by your going with us, so that we are distinct, I and your people, from every other people on the face of the earth?'",
+      "links": "<a href='/AIV/05/04/7'>Deut. 4:7</a>; <a href='/AIV/60/02/9'>1 Pet. 2:9-10</a>",
+      "comment": "God's presence among His people sets them apart, prefiguring the new people of God, distinct through God's indwelling Spirit and sanctifying grace."
     },
     {
-      "pk": 2033317,
+      "pk": 2033017,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 33,
       "verse": 17,
-      "text": "The LORD said to Moses, “This thing also that you have spoken I will do, for you have found favor in my sight, and I know you by name.”",
-      "links": "<a href='/AIV/2/33/12-13'>Ex. 33:12-13</a>",
-      "comment": "God affirms His personal knowledge of and favor toward Moses."
+      "text": "And the LORD said to Moses, 'This very thing that you have spoken I will do, for you have found favor in my sight, and I know you by name.'",
+      "links": "<a href='/AIV/02/33/12'>Exod. 33:12</a>; <a href='/AIV/23/43/1'>Isa. 43:1</a>",
+      "comment": "God’s response emphasizes the power of intercessory prayer and mediation. The idea that God “knows by name” His elect is beautifully echoed in Christian theology about divine election and grace."
     },
     {
-      "pk": 2033318,
+      "pk": 2033018,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 33,
       "verse": 18,
-      "text": "Moses said, “Please show me your glory.”",
-      "links": "<a href='/AIV/2/24/16-17'>Ex. 24:16-17</a>",
-      "comment": "'Glory' is a central theme; left literal."
+      "text": "Moses said, 'Please, show me your glory.'",
+      "links": "<a href='/AIV/02/24/16-17'>Exod. 24:16-17</a>; <a href='/AIV/43/01/14'>John 1:14</a>",
+      "comment": "Moses' desire to see God's glory anticipates the Incarnation, where the Word is made flesh and God’s glory is fully revealed in Christ."
     },
     {
-      "pk": 2033319,
+      "pk": 2033019,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 33,
       "verse": 19,
-      "text": "And he said, “I will make all my goodness pass before you, and will proclaim before you my name ‘The LORD.’ And I will be gracious to whom I will be gracious, and will show mercy on whom I will show mercy.”",
-      "links": "<a href='/AIV/2/34/5-7'>Ex. 34:5–7</a>; <a href='/AIV/45/9/15'>Rom. 9:15</a>",
-      "comment": "'Proclaim...The LORD' follows the Hebrew, referencing God’s covenant name."
+      "text": "And he said, 'I will make all my goodness pass before you and will proclaim before you my name \"The LORD.\" I will be gracious to whom I will be gracious, and will show mercy on whom I will show mercy.'",
+      "links": "<a href='/AIV/45/09/15'>Rom. 9:15</a>; <a href='/AIV/34/01/7'>Nah. 1:7</a>",
+      "comment": "God’s self-revelation stresses absolute sovereignty in grace and mercy. Paul cites this to teach about divine election (see Rom. 9:15)."
     },
     {
-      "pk": 2033320,
+      "pk": 2033020,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 33,
       "verse": 20,
-      "text": "But he said, “You cannot see my face, for man shall not see me and live.”",
-      "links": "<a href='/AIV/43/1/18'>John 1:18</a>; <a href='/AIV/1/32/30'>Gen. 32:30</a>",
-      "comment": "Contrasts with 'face to face' in verse 11, showing different meanings."
+      "text": "But, he said, 'You cannot see my face, for man shall not see me and live.'",
+      "links": "<a href='/AIV/43/01/18'>John 1:18</a>; <a href='/AIV/54/06/16'>1 Tim. 6:16</a>",
+      "comment": "The gap between God and humanity is emphasized here; the full vision of God is reserved until the beatific vision, ultimately enabled by Christ."
     },
     {
-      "pk": 2033321,
+      "pk": 2033021,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 33,
       "verse": 21,
-      "text": "And the LORD said, “Behold, there is a place by me where you shall stand on the rock,",
-      "links": "<a href='/AIV/2/17/6'>Ex. 17:6</a>",
-      "comment": "Maintains the concrete imagery of Hebrew."
+      "text": "And the LORD said, 'Behold, there is a place by me where you shall stand on the rock,'",
+      "links": "<a href='/AIV/02/17/6'>Exod. 17:6</a>; <a href='/AIV/46/10/4'>1 Cor. 10:4</a>",
+      "comment": "The 'rock' is a physical place for encountering God’s presence, which Paul later interprets spiritually as Christ Himself (see 1 Cor. 10:4)."
     },
     {
-      "pk": 2033322,
+      "pk": 2033022,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 33,
       "verse": 22,
-      "text": "and while my glory passes by I will put you in a cleft of the rock, and I will cover you with my hand until I have passed by.",
-      "links": "<a href='/AIV/1/19/17'>Gen. 19:17</a>",
-      "comment": "Phrase 'cleft of the rock' kept for accuracy."
+      "text": "And while my glory passes by I will put you in a cleft of the rock, and I will cover you with my hand until I have passed by.",
+      "links": "<a href='/AIV/18/09/33'>Job 9:33</a>",
+      "comment": "God’s protection of Moses from the full glory points to the need for mediation, fulfilled in Christ as the only one who reveals God fully and safely."
     },
     {
-      "pk": 2033323,
+      "pk": 2033023,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 33,
       "verse": 23,
-      "text": "Then I will take away my hand, and you shall see my back, but my face shall not be seen.”",
-      "links": "<a href='/AIV/2/24/10-11'>Ex. 24:10-11</a>",
-      "comment": "'My back' and 'my face' are literal, expressing the limits of divine revelation."
+      "text": "Then I will take away my hand, and you will see my back; but my face shall not be seen.",
+      "links": "<a href='/AIV/02/33/20'>Exod. 33:20</a>; <a href='/AIV/43/01/18'>John 1:18</a>",
+      "comment": "Even Moses could only glimpse a partial revelation. The fullness of God is revealed in Christ (see John 1:18), but remains mysterious until the final vision of God in glory."
     }
   ],
-  "translatedAt": "2025-12-20T09:06:43.796Z"
+  "translatedAt": "2025-12-24T01:04:57.306Z"
 }

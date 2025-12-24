@@ -1,258 +1,309 @@
 {
-  "book": "2 Samuel",
+  "book": 10,
+  "bookName": "2 Samuel",
   "bookAbbreviation": "2Sam",
   "chapter": 24,
   "verses": [
     {
-      "pk": 1932450,
+      "pk": 10024001,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 24,
       "verse": 1,
-      "text": "Again the anger of the LORD was kindled against Israel, and he incited David against them, saying, “Go, count Israel and Judah.”",
-      "links": "<a href='/AIV/13/21/1'>1 Chron. 21:1</a>; <a href='/AIV/19/106/29'>Ps. 106:29</a>",
-      "comment": "The parallel in 1 Chronicles 21:1 says Satan incited David, whereas here it says the LORD. This reflects a significant difference in perspective between the texts."
+      "text": "Again the anger of the Lord was kindled against Israel, and he incited David against them, saying, 'Go, count Israel and Judah.'",
+      "links": "<a href='/AIV/13/21/1'>1 Chr. 21:1</a>; <a href='/AIV/2/32/10'>Ex. 32:10</a>",
+      "comment": "The parallel passage in 1 Chronicles 21:1 attributes the incitement to Satan, while here it is the Lord. This shows the developing understanding of agency in Scripture. Note also the theme of divine discipline due to Israel’s sin."
     },
     {
-      "pk": 1932451,
+      "pk": 10024002,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 24,
       "verse": 2,
-      "text": "So the king said to Joab the commander of the army who was with him, “Go through all the tribes of Israel, from Dan to Beersheba, and count the people, so I may know the number of the people.”",
-      "links": "<a href='/AIV/07/20/1'>Judg. 20:1</a>; <a href='/AIV/09/3/20'>1 Sam. 3:20</a>",
-      "comment": "‘Dan to Beersheba’ is a traditional way of expressing all Israel, north to south."
+      "text": "So the king said to Joab, the commander of the army who was with him, 'Go throughout all the tribes of Israel, from Dan to Beersheba, and register the people, so that I may know the number of the people.'",
+      "links": "<a href='/AIV/7/20/1'>Judg. 20:1</a>; <a href='/AIV/2/30/12'>Ex. 30:12</a>",
+      "comment": "Dan to Beersheba indicates the whole land. A census could be connected with pride and reliance on military strength rather than God, which was considered a grave sin."
     },
     {
-      "pk": 1932452,
+      "pk": 10024003,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 24,
       "verse": 3,
-      "text": "But Joab said to the king, “May the LORD your God add to the people a hundred times as many as they are, and may the eyes of my lord the king see it. But why does my lord the king desire this thing?”",
-      "links": "<a href='/AIV/09/14/29'>1 Sam. 14:29</a>; <a href='/AIV/10/18/4'>2 Sam. 18:4</a>",
-      "comment": "Joab questions the king’s motive, similar to the chronicler’s account."
+      "text": "But Joab said to the king, 'May the Lord your God add to the people a hundred times as many as they are, and may the eyes of my lord the king see it. But why does my lord the king desire this thing?'",
+      "links": "<a href='/AIV/11/3/8-9'>1 Kgs. 3:8-9</a>; <a href='/AIV/19/20/7'>Ps. 20:7</a>",
+      "comment": "Joab recognizes the spiritual peril in counting Israel, hinting that true strength is found in trusting God's providence, not statistics."
     },
     {
-      "pk": 1932453,
+      "pk": 10024004,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 24,
       "verse": 4,
-      "text": "But the king’s word prevailed against Joab and the commanders of the army. So Joab and the commanders of the army went out from the presence of the king to count the people of Israel.",
-      "links": "<a href='/AIV/10/18/2'>2 Sam. 18:2</a>",
-      "comment": "David’s insistence overrides Joab’s objection."
+      "text": "But the king’s word prevailed against Joab and the commanders of the army. So Joab and the commanders went out from the presence of the king to register the people of Israel.",
+      "links": "<a href='/AIV/14/17/6'>2 Chr. 17:6</a>",
+      "comment": "David's insistence over the commanders reveals the danger of pride and ignoring wise counsel, offering a warning to all leaders."
     },
     {
-      "pk": 1932454,
+      "pk": 10024005,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 24,
       "verse": 5,
-      "text": "They crossed the Jordan and began at Aroer, and went through the city in the middle of the valley toward Gad and then to Jazer.",
-      "links": "<a href='/AIV/04/32/1'>Num. 32:1</a>; <a href='/AIV/06/13/25'>Josh. 13:25</a>",
-      "comment": "Aroer, Gad, and Jazer are locations east of the Jordan River."
+      "text": "They crossed the Jordan and camped at Aroer, on the right side of the city that lies in the middle of the valley, toward Gad and on to Jazer.",
+      "links": "<a href='/AIV/6/13/25'>Josh. 13:25</a>",
+      "comment": "The journey indicates a thorough census, both east and west of the Jordan."
     },
     {
-      "pk": 1932455,
+      "pk": 10024006,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 24,
       "verse": 6,
-      "text": "Then they went to Gilead and to the land of Tahtim-hodshi. They came to Dan-jaan and went around to Sidon.",
-      "links": "<a href='/AIV/07/18/29'>Judg. 18:29</a>",
-      "comment": "Some of these place names are uncertain; modern locations are not clear."
+      "text": "Then they came to Gilead and to the land of Tahtim-hodshi; and they came to Dan-jaan and around to Sidon.",
+      "links": "<a href='/AIV/7/18/29'>Judg. 18:29</a>",
+      "comment": "These locations provide a route covering the northern territories, showing the extensiveness of the numbering."
     },
     {
-      "pk": 1932456,
+      "pk": 10024007,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 24,
       "verse": 7,
-      "text": "They came to the fortress of Tyre and to all the cities of the Hivites and Canaanites, and finally ended at Beersheba in the Negev of Judah.",
-      "links": "<a href='/AIV/01/10/15'>Gen. 10:15</a>; <a href='/AIV/10/3/10'>2 Sam. 3:10</a>",
-      "comment": "The tour covers much of the territory associated with Israel and Judah."
+      "text": "They came to the stronghold of Tyre and to all the cities of the Hivites and the Canaanites, and they finished in the South of Judah at Beersheba.",
+      "links": "<a href='/AIV/6/19/28'>Josh. 19:28</a>; <a href='/AIV/7/1/30'>Judg. 1:30</a>",
+      "comment": "Listing these cities accentuates the breadth of David’s kingdom, again explaining the pride associated with this act."
     },
     {
-      "pk": 1932457,
+      "pk": 10024008,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 24,
       "verse": 8,
-      "text": "They traveled through all the land, and after nine months and twenty days, they returned to Jerusalem.",
-      "links": "<a href='/AIV/10/15/37'>2 Sam. 15:37</a>",
-      "comment": "The census took over nine months."
+      "text": "So when they had gone throughout all the land, they came to Jerusalem at the end of nine months and twenty days.",
+      "links": "<a href='/AIV/13/21/5'>1 Chr. 21:5</a>",
+      "comment": "The long duration stresses the effort expended, underlining David's determination and the seriousness of the census."
     },
     {
-      "pk": 1932458,
+      "pk": 10024009,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 24,
       "verse": 9,
-      "text": "Joab gave the total number of the people to the king: In Israel there were eight hundred thousand men who could handle a sword, and in Judah five hundred thousand.",
-      "links": "<a href='/AIV/13/21/5'>1 Chron. 21:5</a>",
-      "comment": "Numbers differ slightly in Chronicles. Here: 800,000 Israel, 500,000 Judah."
+      "text": "Joab reported the sum of the numbering of the people to the king: in Israel there were eight hundred thousand valiant men who drew the sword, and the men of Judah were five hundred thousand.",
+      "links": "<a href='/AIV/13/21/5'>1 Chr. 21:5</a>",
+      "comment": "Numbers here are rounded; compare with the parallel in 1 Chronicles where totals differ, likely due to calculation methods or inclusion of missing levitical groups."
     },
     {
-      "pk": 1932459,
+      "pk": 10024010,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 24,
       "verse": 10,
-      "text": "But David’s heart struck him after he had counted the people. David said to the LORD, “I have sinned greatly by doing this. Now, LORD, please take away the guilt of your servant, for I have acted very foolishly.”",
-      "links": "<a href='/AIV/19/32/5'>Ps. 32:5</a>; <a href='/AIV/19/51/4'>Ps. 51:4</a>",
-      "comment": "David admits his guilt after the census is completed."
+      "text": "But David’s heart struck him after he had numbered the people. And David said to the Lord, 'I have sinned greatly in what I have done. But now, Lord, take away the guilt of your servant, for I have acted very foolishly.'",
+      "links": "<a href='/AIV/19/51/1-4'>Ps. 51:1-4</a>; <a href='/AIV/13/21/8'>1 Chr. 21:8</a>",
+      "comment": "David’s repentance here is both sincere and immediate, modeling leaders’ need for humility and confession. See Psalm 51 for deeper penitence. Confessing faults to God is a continual spiritual necessity (Jas. 5:16)."
     },
     {
-      "pk": 1932460,
+      "pk": 10024011,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 24,
       "verse": 11,
-      "text": "When David got up in the morning, the word of the LORD came to the prophet Gad, David’s seer:",
-      "links": "<a href='/AIV/10/22/5'>2 Sam. 22:5</a>; <a href='/AIV/13/21/9'>1 Chron. 21:9</a>",
-      "comment": "Gad is called David’s personal prophet (seer)."
+      "text": "And when David rose in the morning, the word of the Lord came to the prophet Gad, David’s seer, saying,",
+      "links": "<a href='/AIV/9/22/5'>1 Sam. 22:5</a>; <a href='/AIV/13/21/9'>1 Chr. 21:9</a>",
+      "comment": "The role of the prophet (or 'seer') is essential as a mediator between God and king, emphasizing the importance of revealed guidance in the leadership of God's people."
     },
     {
-      "pk": 1932461,
+      "pk": 10024012,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 24,
       "verse": 12,
-      "text": "\"Go and tell David: ‘This is what the LORD says: I am offering you three choices. Choose one of them, and I will do it to you.’\"",
-      "links": "<a href='/AIV/13/21/10'>1 Chron. 21:10</a>",
-      "comment": "God offers David a choice of discipline."
+      "text": "'Go and tell David, ‘Thus says the Lord: Three things I offer you. Choose one of them, that I may do it to you.’'",
+      "links": "<a href='/AIV/13/21/10-12'>1 Chr. 21:10-12</a>",
+      "comment": "God gives David a choice in discipline, revealing both divine justice and mercy. The mediating role of the prophet prefigures later spiritual authority structures."
     },
     {
-      "pk": 1932462,
+      "pk": 10024013,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 24,
       "verse": 13,
-      "text": "So Gad came to David and said, “Shall three years of famine come to you in your land? Or will you flee from your enemies for three months while they pursue you? Or shall there be three days of plague in your land? Now think and decide what answer I should bring back to the one who sent me.”",
-      "links": "<a href='/AIV/13/21/12'>1 Chron. 21:12</a>",
-      "comment": "Chronicles says ‘three years’ famine; some ancient manuscripts say ‘seven’. This translation keeps three (Hebrew here)."
+      "text": "So Gad went to David and told him, and said, 'Shall seven years of famine come to you in your land, or will you flee three months before your foes while they pursue you, or shall there be three days of pestilence in your land? Now consider and decide what answer I shall return to Him who sent me.'",
+      "links": "<a href='/AIV/13/21/12'>1 Chr. 21:12</a>; <a href='/AIV/3/26/25'>Lev. 26:25</a>",
+      "comment": "The number of years differs in Chronicles (three years there). Pestilence and famine recall covenant curses (Lev. 26; Deut. 28)."
     },
     {
-      "pk": 1932463,
+      "pk": 10024014,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 24,
       "verse": 14,
-      "text": "David said to Gad, “I am in great distress. Let us fall into the hand of the LORD, for his mercy is great; but do not let me fall into the hand of man.”",
-      "links": "<a href='/AIV/19/51/1'>Ps. 51:1</a>; <a href='/AIV/13/21/13'>1 Chron. 21:13</a>",
-      "comment": "David appeals to God’s mercy, fearing men more than God."
+      "text": "Then David said to Gad, 'I am in great distress. Let us fall into the hand of the Lord, for his mercy is great; but let me not fall into the hand of man.'",
+      "links": "<a href='/AIV/19/51/1'>Ps. 51:1</a>; <a href='/AIV/19/103/8'>Ps. 103:8</a>",
+      "comment": "David’s trust in God’s mercy demonstrates a deep faith in God’s compassion, even in judgment—pointing to the way God’s discipline is always tempered with mercy, a spiritual principle echoed in the New Covenant."
     },
     {
-      "pk": 1932464,
+      "pk": 10024015,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 24,
       "verse": 15,
-      "text": "So the LORD sent a plague on Israel from the morning until the appointed time. Seventy thousand people died from Dan to Beersheba.",
-      "links": "<a href='/AIV/13/21/14'>1 Chron. 21:14</a>",
-      "comment": "Chronicles matches seventy thousand deaths."
+      "text": "So the Lord sent a pestilence upon Israel from the morning until the appointed time. Seventy thousand men died from Dan to Beersheba.",
+      "links": "<a href='/AIV/13/21/14'>1 Chr. 21:14</a>; <a href='/AIV/2/12/29'>Ex. 12:29</a>",
+      "comment": "Like the angelic judgments of Egypt, the result is tragic, underscoring the seriousness of sin. The widespread effect indicates the communal consequences of the king’s failures."
     },
     {
-      "pk": 1932465,
+      "pk": 10024016,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 24,
       "verse": 16,
-      "text": "When the angel stretched out his hand toward Jerusalem to destroy it, the LORD relented about the disaster and said to the angel who was destroying the people, “Enough! Withdraw your hand now.” The angel of the LORD was then by the threshing floor of Araunah the Jebusite.",
-      "links": "<a href='/AIV/13/21/15'>1 Chron. 21:15</a>",
-      "comment": "The angel’s location provides the setting for the future temple."
+      "text": "And when the angel stretched out his hand toward Jerusalem to destroy it, the Lord relented from the calamity and said to the angel who was destroying the people, 'It is enough; now stay your hand.' The angel of the Lord was by the threshing floor of Araunah the Jebusite.",
+      "links": "<a href='/AIV/13/21/15-16'>1 Chr. 21:15-16</a>; <a href='/AIV/1/22/13'>Gen. 22:13-14</a>",
+      "comment": "God’s relenting reveals His ultimate desire for mercy over judgment. The location, Araunah’s threshing floor, becomes highly significant as it would later be the site of the temple, central in the worship of Israel and a key theme in biblical theology."
     },
     {
-      "pk": 1932466,
+      "pk": 10024017,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 24,
       "verse": 17,
-      "text": "When David saw the angel striking the people, he said to the LORD, “Surely I have sinned and done wrong, but these sheep—what have they done? Let your hand, I pray, be against me and against my father’s house.”",
-      "links": "<a href='/AIV/19/44/22'>Ps. 44:22</a>; <a href='/AIV/13/21/17'>1 Chron. 21:17</a>",
-      "comment": "David highlights his own guilt apart from the people."
+      "text": "When David saw the angel who was striking the people, he spoke to the Lord and said, 'Behold, it is I who have sinned, and I who have done wickedly. But these sheep, what have they done? Please let your hand be against me and my father's house.'",
+      "links": "<a href='/AIV/19/51/4'>Ps. 51:4</a>; <a href='/AIV/13/21/17'>1 Chr. 21:17</a>",
+      "comment": "David acts as an intercessor, offering himself for the people. This typology points forward to One who will truly intercede and bear the sin of many (Isaiah 53:4-6), fulfilled in Christ (Heb. 9:24-28)."
     },
     {
-      "pk": 1932467,
+      "pk": 10024018,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 24,
       "verse": 18,
-      "text": "Gad came to David that day and said to him, “Go and build an altar to the LORD on the threshing floor of Araunah the Jebusite.”",
-      "links": "<a href='/AIV/10/21/20'>2 Sam. 21:20</a>; <a href='/AIV/13/21/18'>1 Chron. 21:18</a>",
-      "comment": "Threshing floor is important for future temple site."
+      "text": "And Gad came that day to David and said to him, 'Go up, raise an altar to the Lord on the threshing floor of Araunah the Jebusite.'",
+      "links": "<a href='/AIV/13/21/18'>1 Chr. 21:18</a>; <a href='/AIV/14/3/1'>2 Chr. 3:1</a>",
+      "comment": "The altar on this site anticipates the future central place of sacrifice in the worship of God, laying the groundwork for the temple and the meaning of atonement."
     },
     {
-      "pk": 1932468,
+      "pk": 10024019,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 24,
       "verse": 19,
-      "text": "So David went up, as Gad had told him, just as the LORD had commanded.",
-      "links": "<a href='/AIV/10/22/2'>2 Sam. 22:2</a>; <a href='/AIV/13/21/19'>1 Chron. 21:19</a>",
-      "comment": "David obeys unquestioningly."
+      "text": "So David went up, as Gad commanded, according to the word of the Lord.",
+      "links": "<a href='/AIV/13/21/19'>1 Chr. 21:19</a>",
+      "comment": "David’s obedience reestablishes divine order. Obedient worship and prescribed sacrifice are key in restoring relationship with God—a theme carried into Christian worship."
     },
     {
-      "pk": 1932469,
+      "pk": 10024020,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 24,
       "verse": 20,
-      "text": "When Araunah looked and saw the king and his men coming toward him, he went out and bowed before the king with his face to the ground.",
-      "links": "<a href='/AIV/13/21/20'>1 Chron. 21:20</a>",
-      "comment": "Araunah shows proper respect for David’s position."
+      "text": "When Araunah looked and saw the king and his servants coming toward him, he went out and bowed himself before the king with his face to the ground.",
+      "links": "<a href='/AIV/13/21/20-21'>1 Chr. 21:20-21</a>",
+      "comment": "Araunah’s reverence for David shows recognition of divinely appointed authority, underscoring the order of sacrificial worship."
     },
     {
-      "pk": 1932470,
+      "pk": 10024021,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 24,
       "verse": 21,
-      "text": "Araunah said, “Why has my lord the king come to his servant?” David replied, “To buy your threshing floor so I can build an altar to the LORD, to halt the plague upon the people.”",
-      "links": "<a href='/AIV/13/21/21'>1 Chron. 21:22</a>",
-      "comment": "David makes his request to Araunah clear and honorable."
+      "text": "Araunah said, 'Why has my lord the king come to his servant?' David said, 'To buy the threshing floor from you, in order to build an altar to the Lord, so that the plague may be stopped from the people.'",
+      "links": "<a href='/AIV/13/21/22'>1 Chr. 21:22</a>",
+      "comment": "David initiates rightful worship and acts as mediator for his people, showing the need for ordered, sacrificial worship to appease God’s wrath—a key theme in salvation history."
     },
     {
-      "pk": 1932471,
+      "pk": 10024022,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 24,
       "verse": 22,
-      "text": "Araunah said to David, “Let my lord the king take it and offer whatever seems good to him. Here are oxen for the burnt offering, and the threshing sledges and yokes for the wood.”",
-      "links": "<a href='/AIV/13/21/23'>1 Chron. 21:23</a>",
-      "comment": "Araunah offers all he has for David’s sacrifice."
+      "text": "Then Araunah said to David, 'Let my lord the king take and offer up what seems good to him. Here are the oxen for the burnt offering and the threshing sledges and the yokes of the oxen for the wood.'",
+      "links": "<a href='/AIV/13/21/23'>1 Chr. 21:23</a>",
+      "comment": "Araunah’s generosity parallels the principle in worship of offering God what is precious and costly, not that which costs nothing (cf. Mal. 1:7-8)."
     },
     {
-      "pk": 1932472,
+      "pk": 10024023,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 24,
       "verse": 23,
-      "text": "All this, O king, Araunah gives to you. Araunah also said to the king, “May the LORD your God accept you.”",
-      "links": "<a href='/AIV/10/24/14'>2 Sam. 24:14</a>",
-      "comment": "Araunah wishes David’s offering to be accepted."
+      "text": "All this, O king, Araunah gives to the king.' And Araunah said, 'May the Lord your God accept you.'",
+      "links": "<a href='/AIV/13/21/23'>1 Chr. 21:23</a>",
+      "comment": "Araunah’s submission highlights the unity of people seeking atonement through divinely instituted means."
     },
     {
-      "pk": 1932473,
+      "pk": 10024024,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 24,
       "verse": 24,
-      "text": "But the king said to Araunah, “No, I will buy it from you at a price. I will not offer to the LORD my God burnt offerings that cost me nothing.” So David bought the threshing floor and the oxen for fifty shekels of silver.",
-      "links": "<a href='/AIV/13/21/25'>1 Chron. 21:24-25</a>",
-      "comment": "Chronicles records six hundred shekels, likely for the whole site. Here, fifty shekels is for the oxen and threshing floor."
+      "text": "But the king said to Araunah, 'No, but I will surely buy it from you for a price. I will not offer burnt offerings to the Lord my God that cost me nothing.' So David bought the threshing floor and the oxen for fifty shekels of silver.",
+      "links": "<a href='/AIV/13/21/24-25'>1 Chr. 21:24-25</a>; <a href='/AIV/1/23/16'>Gen. 23:16</a>",
+      "comment": "True worship involves sacrifice at a personal cost. The insistence on a price foreshadows the principle that atonement and reconciliation with God always require true offering, fulfilled ultimately in Christ’s sacrifice (Heb. 10:9-10)."
     },
     {
-      "pk": 1932474,
+      "pk": 10024025,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 24,
       "verse": 25,
-      "text": "David built an altar to the LORD there and offered burnt offerings and peace offerings. So the LORD answered prayer for the land, and the plague was stopped in Israel.",
-      "links": "<a href='/AIV/13/21/26-27'>1 Chron. 21:26-27</a>; <a href='/AIV/01/8/21'>Gen. 8:21</a>",
-      "comment": "David’s sacrifice ends the plague, with accepted prayer."
+      "text": "And David built there an altar to the Lord and offered burnt offerings and peace offerings. So the Lord was moved by prayer for the land, and the plague was averted from Israel.",
+      "links": "<a href='/AIV/3/7/11-12'>Lev. 7:11-12</a>; <a href='/AIV/13/21/26-27'>1 Chr. 21:26-27</a>",
+      "comment": "Here sacrifice, worship, and intercessory prayer restore Israel. God responds to mediation through divinely appointed means, foretelling the efficacy of sacramental worship and Christ as the true intercessor (1 Tim. 2:5-6, Heb. 7:25)."
     }
   ],
-  "translatedAt": "2025-12-22T09:47:50.704Z"
+  "translatedAt": "2025-12-24T03:26:36.150Z"
 }

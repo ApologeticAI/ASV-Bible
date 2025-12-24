@@ -1,228 +1,273 @@
 {
-  "book": "1 Samuel",
+  "book": 9,
+  "bookName": "1 Samuel",
   "bookAbbreviation": "1Sam",
   "chapter": 4,
   "verses": [
     {
-      "pk": 2004001,
+      "pk": 9004001,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 4,
       "verse": 1,
-      "text": "And the word of Samuel came to all Israel. Now Israel went out to meet the Philistines in battle; they camped at Ebenezer, and the Philistines camped at Aphek.",
-      "links": "<a href='/AIV/9/3/20'>1 Sam. 3:20</a>; <a href='/AIV/9/7/12'>1 Sam. 7:12</a>",
-      "comment": "Retained the place names 'Ebenezer' and 'Aphek' as in the Hebrew text."
+      "text": "And the word of Samuel came to all Israel. Now Israel went out to meet the Philistines in battle and camped at Ebenezer, while the Philistines camped at Aphek.",
+      "links": "<a href='/AIV/9/3/19'>1Sam 3:19</a>",
+      "comment": "The narrative shifts to the historical conflict between Israel and the Philistines. Samuel's growing influence as a prophet is highlighted just before the battle, suggesting the importance of God’s word in Israel's success or failure (<a href='/AIV/9/3/20'>1Sam 3:20</a>)."
     },
     {
-      "pk": 2004002,
+      "pk": 9004002,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 4,
       "verse": 2,
-      "text": "The Philistines lined up against Israel, and when the battle spread, Israel was defeated by the Philistines, who killed about four thousand men on the battlefield.",
-      "links": "<a href='/AIV/9/31/1'>1 Sam. 31:1</a>; <a href='/AIV/7/20/21'>Judg. 20:21</a>",
-      "comment": "Rendered numbers as 'about four thousand' per most translations."
+      "text": "The Philistines lined up to face Israel. When the battle spread, Israel was defeated by the Philistines, who killed about four thousand men on the battlefield.",
+      "links": "<a href='/AIV/7/13/1-2'>Judg. 13:1-2</a>; <a href='/AIV/9/4/10'>1Sam 4:10</a>",
+      "comment": "Israel's defeat here echoes earlier cycles of disobedience and divine discipline (see <a href='/AIV/3/26/17'>Lev. 26:17</a>). In salvation history, such losses often precede calls to repentance."
     },
     {
-      "pk": 2004003,
+      "pk": 9004003,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 4,
       "verse": 3,
-      "text": "When the people came back to the camp, the elders of Israel said, 'Why has the LORD defeated us today before the Philistines? Let us bring the ark of the covenant of the LORD from Shiloh, so that He may come among us and save us from the hand of our enemies.'",
-      "links": "<a href='/AIV/6/7/6'>Josh. 7:6</a>; <a href='/AIV/9/4/21'>1 Sam. 4:21</a>",
-      "comment": "Retained 'LORD' (Yahweh) and 'ark of the covenant'; 'defeated us' reflects the literal Hebrew."
+      "text": "When the people came back to camp, the elders of Israel said, 'Why has the LORD defeated us today before the Philistines? Let us bring the ark of the covenant of the LORD from Shiloh, so that it may come among us and save us from the hand of our enemies.'",
+      "links": "<a href='/AIV/6/6/6'>Josh. 6:6</a>; <a href='/AIV/9/2/22'>1Sam 2:22</a>",
+      "comment": "Israel seeks deliverance by bringing the ark, treating it as a guarantee of victory. This shows a misunderstanding: the power is in God's presence, not in the object itself. This is a caution against superstitious faith (<a href='/AIV/19/78/60'>Ps. 78:60-61</a>)."
     },
     {
-      "pk": 2004004,
+      "pk": 9004004,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 4,
       "verse": 4,
-      "text": "So the people sent to Shiloh and brought from there the ark of the covenant of the LORD of hosts, who is enthroned above the cherubim. And the two sons of Eli, Hophni and Phinehas, were there with the ark of the covenant of God.",
-      "links": "<a href='/AIV/9/1/3'>1 Sam. 1:3</a>; <a href='/AIV/2/25/22'>Ex. 25:22</a>",
-      "comment": "Rendered 'the LORD of hosts, who is enthroned above the cherubim' as per the Hebrew."
+      "text": "So the people sent to Shiloh, and they brought from there the ark of the covenant of the LORD of hosts, who is enthroned above the cherubim. The two sons of Eli, Hophni and Phinehas, were there with the ark of the covenant of God.",
+      "links": "<a href='/AIV/9/2/12'>1Sam 2:12</a>; <a href='/AIV/2/25/22'>Ex. 25:22</a>",
+      "comment": "The throne imagery emphasizes God's kingship and holiness (<a href='/AIV/19/80/1'>Ps. 80:1</a>). Hophni and Phinehas’ presence signals that Israel’s spiritual leadership is corrupted (see <a href='/AIV/9/2/34'>1Sam 2:34</a>), preparing the reader for the coming judgment."
     },
     {
-      "pk": 2004005,
+      "pk": 9004005,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 4,
       "verse": 5,
-      "text": "As the ark of the covenant of the LORD arrived at the camp, all Israel shouted with a great shout, so that the earth shook.",
-      "links": "<a href='/AIV/6/6/5'>Josh. 6:5</a>; <a href='/AIV/9/14/15'>1 Sam. 14:15</a>",
-      "comment": "'The earth shook' is literal from the Hebrew, indicating a great commotion."
+      "text": "When the ark of the covenant of the LORD entered the camp, all Israel shouted with a great shout, so that the earth shook.",
+      "links": "<a href='/AIV/6/6/20'>Josh. 6:20</a>",
+      "comment": "The people's response recalls the fall of Jericho, but here, outward excitement lacks true obedience and faith. The shaking earth points to significant events to come."
     },
     {
-      "pk": 2004006,
+      "pk": 9004006,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 4,
       "verse": 6,
-      "text": "When the Philistines heard the noise of the shout, they said, 'What does this great shout in the camp of the Hebrews mean?' And they learned that the ark of the LORD had come into the camp.",
-      "links": "<a href='/AIV/9/14/19'>1 Sam. 14:19-20</a>",
-      "comment": "'Hebrews' matches the original; 'learned' is 'knew' in some translations but modernized for clarity."
+      "text": "And when the Philistines heard the noise of the shouting, they said, 'What does this great shouting in the camp of the Hebrews mean?' Then they understood that the ark of the LORD had come into the camp.",
+      "links": "<a href='/AIV/9/4/3'>1Sam 4:3</a>",
+      "comment": "The Philistines recognize the ark’s arrival, showing the reputation of God’s presence even among foreign nations. This anticipation sets up the coming crisis."
     },
     {
-      "pk": 2004007,
+      "pk": 9004007,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 4,
       "verse": 7,
-      "text": "The Philistines were afraid, for they said, 'God has come into the camp.' And they said, 'Woe to us! Nothing like this has happened before.'",
-      "links": "<a href='/AIV/2/14/24'>Ex. 14:24-25</a>",
-      "comment": "Phrase 'God has come into the camp' is literal and shows Philistines' misunderstanding."
+      "text": "The Philistines were afraid, for they said, 'God has come into the camp.' And they said, 'Woe to us! For nothing like this has happened before.'",
+      "links": "<a href='/AIV/2/14/25'>Ex. 14:25</a>",
+      "comment": "Pagan recognition of God’s power recalls earlier times when the nations feared Israel’s God (see <a href='/AIV/6/2/9-11'>Josh. 2:9-11</a>). Yet, God’s presence does not guarantee victory without faithfulness."
     },
     {
-      "pk": 2004008,
+      "pk": 9004008,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 4,
       "verse": 8,
       "text": "'Woe to us! Who can deliver us from the hand of these mighty gods? These are the gods who struck the Egyptians with every kind of plague in the wilderness.'",
-      "links": "<a href='/AIV/2/7/1'>Ex. 7:1–12:30</a>; <a href='/AIV/2/15/14'>Ex. 15:14</a>",
-      "comment": "Kept 'gods' as in the Hebrew; Philistines misunderstood Israel's God as plural."
+      "links": "<a href='/AIV/2/7/20'>Ex. 7:20</a>; <a href='/AIV/2/12/29'>Ex. 12:29</a>",
+      "comment": "The Philistines confuse Israel’s monotheism with polytheism, but they recall the plagues—a sign of God’s past deliverance. The allusion underscores biblical continuity in God’s acts of salvation."
     },
     {
-      "pk": 2004009,
+      "pk": 9004009,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 4,
       "verse": 9,
-      "text": "'Take courage, and be men, O Philistines, or you will become slaves to the Hebrews, as they have been slaves to you. Be men, and fight!'",
-      "links": "<a href='/AIV/7/16/23'>Judg. 16:23–24</a>",
-      "comment": "Repeated 'be men' reflects the emphatic Hebrew verb form."
+      "text": "'Take courage and be men, O Philistines, lest you become slaves to the Hebrews as they have been to you. Be men and fight!'",
+      "links": "<a href='/AIV/2/1/13-14'>Ex. 1:13-14</a>",
+      "comment": "The Philistines challenge one another to bravery. The reversal of roles (Israel as former slaves) points to a recurring theme of liberation and captivity based on Israel’s faithfulness (<a href='/AIV/7/2/14'>Judg. 2:14</a>)."
     },
     {
-      "pk": 2004010,
+      "pk": 9004010,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 4,
       "verse": 10,
-      "text": "So the Philistines fought, and Israel was defeated, and every man fled to his tent. There was a very great slaughter, for thirty thousand foot soldiers of Israel fell.",
-      "links": "<a href='/AIV/9/12/2'>1 Sam. 12:2</a>; <a href='/AIV/13/10/7'>1 Chr. 10:7</a>",
-      "comment": "'Every man fled to his tent' is a Hebrew idiom for retreat to home."
+      "text": "So the Philistines fought, and Israel was defeated; every man fled to his tent. The slaughter was very great, for Israel lost thirty thousand foot soldiers.",
+      "links": "<a href='/AIV/5/28/25'>Deut. 28:25</a>; <a href='/AIV/19/78/60-62'>Ps. 78:60-62</a>",
+      "comment": "A heavy defeat—God allows His people to lose when their leadership is corrupt. The ark’s presence did not aid them due to lack of repentance."
     },
     {
-      "pk": 2004011,
+      "pk": 9004011,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 4,
       "verse": 11,
       "text": "The ark of God was captured, and the two sons of Eli, Hophni and Phinehas, died.",
-      "links": "<a href='/AIV/9/2/34'>1 Sam. 2:34</a>; <a href='/AIV/19/78/60-64'>Ps. 78:60-64</a>",
-      "comment": "Short sentence mirrors brevity of the Hebrew text to emphasize tragedy."
+      "links": "<a href='/AIV/9/2/34'>1Sam 2:34</a>; <a href='/AIV/19/78/61'>Ps. 78:61</a>",
+      "comment": "This fulfills prophecy against Eli’s house (<a href='/AIV/9/2/34'>1Sam 2:34</a>). The loss of the ark symbolizes the departure of God’s favor; leadership is judged first (<a href='/AIV/26/9/6'>Ezek. 9:6</a>)."
     },
     {
-      "pk": 2004012,
+      "pk": 9004012,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 4,
       "verse": 12,
-      "text": "A man of Benjamin ran from the battle line and came to Shiloh the same day, with his clothes torn and dirt on his head.",
-      "links": "<a href='/AIV/9/3/20'>1 Sam. 3:20</a>; <a href='/AIV/10/1/2'>2 Sam. 1:2</a>",
-      "comment": "'Clothes torn and dirt on his head' signifies mourning and distress."
+      "text": "A Benjaminite ran from the battle line to Shiloh that same day, with his clothes torn and dust on his head.",
+      "links": "<a href='/AIV/10/1/2'>2Sam 1:2</a>; <a href='/AIV/6/7/6'>Josh. 7:6</a>",
+      "comment": "Torn clothes and dust are signs of mourning and disaster, expressing grief at Israel’s loss."
     },
     {
-      "pk": 2004013,
+      "pk": 9004013,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 4,
       "verse": 13,
-      "text": "When he arrived, Eli was sitting on his seat by the side of the road watching, for his heart trembled for the ark of God. When the man entered the city and told the news, the whole city cried out.",
-      "links": "<a href='/AIV/9/1/9'>1 Sam. 1:9</a>; <a href='/AIV/19/78/61'>Ps. 78:61</a>",
-      "comment": "Retained the phrase 'his heart trembled for the ark of God' per the Hebrew."
+      "text": "When he arrived, Eli was sitting on his chair by the road, watching, for his heart trembled for the ark of God. When the man entered the city and told the news, all the city cried out.",
+      "links": "<a href='/AIV/9/1/9'>1Sam 1:9</a>",
+      "comment": "Eli’s concern is specifically for the ark—showing his piety but also foreshadowing God’s judgment that cannot be averted simply by sentiment."
     },
     {
-      "pk": 2004014,
+      "pk": 9004014,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 4,
       "verse": 14,
-      "text": "When Eli heard the sound of the outcry, he said, 'What is the uproar?' Then the man hurried and reported to Eli.",
-      "links": "<a href='/AIV/9/4/13'>1 Sam. 4:13</a>",
-      "comment": "Literal translation of 'outcry' and 'uproar' to reflect Hebrew terms."
+      "text": "When Eli heard the sound of the outcry, he said, 'What is this uproar?' Then the man hurried and told Eli.",
+      "links": "<a href='/AIV/9/3/15-18'>1Sam 3:15-18</a>",
+      "comment": "Eli is about to hear the fulfillment of the judgment previously announced by God."
     },
     {
-      "pk": 2004015,
+      "pk": 9004015,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 4,
       "verse": 15,
-      "text": "Now Eli was ninety-eight years old. His eyes were fixed and he could not see.",
-      "links": "<a href='/AIV/9/3/2'>1 Sam. 3:2</a>",
-      "comment": "'Eyes were fixed' literally means 'eyes were set' in Hebrew, indicating blindness."
+      "text": "Now Eli was ninety-eight years old, and his eyes were set so he could not see.",
+      "links": "<a href='/AIV/1/27/1'>Gen. 27:1</a>",
+      "comment": "Eli’s blindness is physical, but also symbolically recalls spiritual blindness among Israel’s leaders."
     },
     {
-      "pk": 2004016,
+      "pk": 9004016,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 4,
       "verse": 16,
-      "text": "The man said to Eli, 'I am the one who has come from the battle line; I fled from the battle today.' And he said, 'How did it go, my son?'",
-      "links": "<a href='/AIV/9/1/16'>1 Sam. 1:16</a>",
-      "comment": "Kept 'my son,' a customary term of address for elders."
+      "text": "The man said to Eli, 'I am the one who has come from the battle line. I fled from the battle line today.' And he said, 'How did it go, my son?'",
+      "links": "",
+      "comment": "A messenger personally delivering grave news reflects the ancient tradition of eyewitness testimony."
     },
     {
-      "pk": 2004017,
+      "pk": 9004017,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 4,
       "verse": 17,
-      "text": "He who brought the news answered, 'Israel has fled before the Philistines, and there has also been a great slaughter among the people. Your two sons also, Hophni and Phinehas, are dead, and the ark of God has been captured.'",
-      "links": "<a href='/AIV/9/2/34'>1 Sam. 2:34</a>; <a href='/AIV/9/4/11'>1 Sam. 4:11</a>",
-      "comment": "'He who brought the news' is from the Hebrew; list order follows original."
+      "text": "He answered, 'Israel has fled before the Philistines, and there has also been a great defeat among the people. Your two sons also are dead, and the ark of God has been captured.'",
+      "links": "<a href='/AIV/9/2/34'>1Sam 2:34</a>",
+      "comment": "The triple disaster fulfills the spoken warnings against Eli’s lineage."
     },
     {
-      "pk": 2004018,
+      "pk": 9004018,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 4,
       "verse": 18,
-      "text": "As soon as he mentioned the ark of God, Eli fell backward from his seat by the gate, broke his neck, and died, for he was old and heavy. He had judged Israel forty years.",
-      "links": "<a href='/AIV/9/7/15'>1 Sam. 7:15</a>",
-      "comment": "'Old and heavy' is literal; 'judged Israel forty years' matches the Hebrew formula."
+      "text": "As soon as he mentioned the ark of God, Eli fell backward off his chair by the city gate and his neck was broken and he died, for he was old and heavy. He had judged Israel forty years.",
+      "links": "<a href='/AIV/7/3/11'>Judg. 3:11</a>; <a href='/AIV/9/7/15'>1Sam 7:15</a>",
+      "comment": "Eli dies at the news of the ark, showing the central importance of God’s presence for Israel. Forty years is symbolic of a generation—a time of trial and leadership."
     },
     {
-      "pk": 2004019,
+      "pk": 9004019,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 4,
       "verse": 19,
-      "text": "Now his daughter-in-law, the wife of Phinehas, was pregnant, about to give birth. And when she heard the news that the ark of God was captured and that her father-in-law and her husband were dead, she bowed and gave birth, for her labor pains came upon her.",
-      "links": "<a href='/AIV/9/4/11'>1 Sam. 4:11</a>; <a href='/AIV/9/5/1'>1 Sam. 5:1</a>",
-      "comment": "'Her labor pains came upon her' is a literal idiom for going into labor."
+      "text": "Now his daughter-in-law, the wife of Phinehas, was pregnant, about to give birth. When she heard the news that the ark of God was taken, and that her father-in-law and her husband were dead, she knelt down and gave birth, for her pains came upon her.",
+      "links": "<a href='/AIV/1/35/16-19'>Gen. 35:16-19</a>",
+      "comment": "The news causes immediate labor, paralleling grief with childbirth, a recurring symbol for new beginnings and sorrow (<a href='/AIV/6/23/6'>Josh. 23:6</a>—see also prophetic uses in <a href='/AIV/23/13/8'>Isa. 13:8</a>)."
     },
     {
-      "pk": 2004020,
+      "pk": 9004020,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 4,
       "verse": 20,
-      "text": "As she was dying, the women attending her said to her, 'Do not be afraid, for you have given birth to a son.' But she did not answer or pay attention.",
-      "links": "<a href='/AIV/35/8/17'>Hab. 3:17</a>",
-      "comment": "'Did not answer or pay attention' is a Hebrew phrase for deep grief or shock."
+      "text": "As she was dying, the women attending her said, 'Do not be afraid, for you have given birth to a son.' But she did not answer or pay attention.",
+      "links": "<a href='/AIV/1/35/18'>Gen. 35:18</a>",
+      "comment": "A son’s birth normally brings joy (see <a href='/AIV/1/21/6-7'>Gen. 21:6-7</a>), but here distress overwhelms celebration. The death of the mother also reflects national tragedy."
     },
     {
-      "pk": 2004021,
+      "pk": 9004021,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 4,
       "verse": 21,
-      "text": "And she named the boy Ichabod, saying, 'The glory has departed from Israel,' because the ark of God had been captured and because of her father-in-law and her husband.",
-      "links": "<a href='/AIV/19/78/61'>Ps. 78:61</a>",
-      "comment": "The meaning of 'Ichabod' is given in the text; retained original explanation."
+      "text": "She named the boy Ichabod, saying, 'The glory has departed from Israel!' because the ark of God was captured and because of her father-in-law and her husband.",
+      "links": "<a href='/AIV/9/14/3'>1Sam 14:3</a>; <a href='/AIV/19/78/61-62'>Ps. 78:61-62</a>",
+      "comment": "Ichabod means 'no glory.' The loss of the ark is understood as the loss of God’s presence. This foreshadows hope as well, since scripture points to God later restoring His glory in greater ways (<a href='/AIV/37/2/7-9'>Hag. 2:7-9</a>)."
     },
     {
-      "pk": 2004022,
+      "pk": 9004022,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 4,
       "verse": 22,
-      "text": "And she said, 'The glory has departed from Israel, for the ark of God has been captured.'",
-      "links": "<a href='/AIV/9/4/21'>1 Sam. 4:21</a>",
-      "comment": "Repetition emphasizes the significance of the ark's capture."
+      "text": "She said, 'The glory has departed from Israel, for the ark of God has been captured.'",
+      "links": "<a href='/AIV/9/4/21'>1Sam 4:21</a>",
+      "comment": "The repeated declaration underscores the spiritual crisis. Biblically, God’s glory is later revealed not through the ark, but through His living presence and ultimately in Christ, who bore the loss for the sake of redemption (<a href='/AIV/43/1/14'>John 1:14</a>)."
     }
   ],
-  "translatedAt": "2025-12-22T08:27:04.046Z"
+  "translatedAt": "2025-12-24T02:50:53.464Z"
 }

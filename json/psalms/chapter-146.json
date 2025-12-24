@@ -1,108 +1,129 @@
 {
-  "book": "Psalms",
+  "book": 23,
+  "bookName": "Psalms",
   "bookAbbreviation": "Ps",
   "chapter": 146,
   "verses": [
     {
-      "pk": 1946146,
+      "pk": 23146001,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 146,
       "verse": 1,
-      "text": "Praise the LORD! Let my soul praise the LORD!",
-      "links": "<a href='/AIV/19/103/1'>Ps. 103:1</a>; <a href='/AIV/19/147/1'>Ps. 147:1</a>",
-      "comment": "The psalm opens with a double call to praise, echoing the personal devotion seen throughout the Psalms. The repetition emphasizes wholehearted worship, inviting believers to continuous prayer and praise, reminiscent of the biblical command to pray unceasingly (<a href='/AIV/52/5/16-18'>1 Thess. 5:16–18</a>)."
+      "text": "Praise the LORD! Praise the LORD, O my soul!",
+      "links": "<a href='/AIV/19/103/1'>Ps. 103:1</a>; <a href='/AIV/19/104/1'>Ps. 104:1</a>",
+      "comment": "The psalm opens with an emphatic call to personal worship, echoing similar introductions to praise throughout the Psalms. The focus is on the inner self's response to God, showing the depth of personal devotion expected from the faithful."
     },
     {
-      "pk": 1946147,
+      "pk": 23146002,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 146,
       "verse": 2,
       "text": "I will praise the LORD as long as I live; I will sing praises to my God while I have being.",
-      "links": "<a href='/AIV/19/104/33'>Ps. 104:33</a>; <a href='/AIV/19/34/1'>Ps. 34:1</a>",
-      "comment": "Here, the psalmist vows lifelong worship. This reflects the biblical ideal of persistent fidelity to God, akin to Christian perseverance. The declaration of singing to 'my God' points to a personal relationship but also an ongoing participation in corporate worship, a significant aspect of Christian spirituality."
+      "links": "<a href='/AIV/19/63/4'>Ps. 63:4</a>; <a href='/AIV/19/104/33'>Ps. 104:33</a>",
+      "comment": "This verse underlines lifelong commitment to worship, a theme that foreshadows continuous prayer and spiritual devotion encouraged throughout Scripture. The idea of praise enduring for one's whole existence hints toward the tradition of liturgical continuity and the call to lifelong fidelity."
     },
     {
-      "pk": 1946148,
+      "pk": 23146003,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 146,
       "verse": 3,
-      "text": "Do not put your trust in princes, nor in a son of man, in whom there is no salvation.",
-      "links": "<a href='/AIV/19/118/8-9'>Ps. 118:8–9</a>; <a href='/AIV/23/2/22'>Isa. 2:22</a>",
-      "comment": "The psalm warns against reliance on earthly rulers or human strength. The phrase 'son of man' is used generically here, contrasting with the messianic use in Daniel and the Gospels (<a href='/AIV/27/7/13'>Dan. 7:13</a>; <a href='/AIV/40/16/13'>Matt. 16:13</a>). Salvation comes only from the LORD, hinting at the greater Son of Man, Jesus Christ, who alone brings true salvation."
+      "text": "Do not put your trust in princes, in a son of man, in whom there is no salvation.",
+      "links": "<a href='/AIV/19/118/8-9'>Ps. 118:8-9</a>; <a href='/AIV/24/17/5'>Jer. 17:5</a>",
+      "comment": "The psalm warns against relying on earthly rulers for deliverance, directly linking salvation only to God. The reference to 'son of man' as powerless for salvation forms an Old Testament foundation for understanding the uniqueness of Christ, the 'Son of Man,' who alone brings true salvation."
     },
     {
-      "pk": 1946149,
+      "pk": 23146004,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 146,
       "verse": 4,
-      "text": "When his breath departs, he returns to the earth; on that very day his plans perish.",
-      "links": "<a href='/AIV/1/3/19'>Gen. 3:19</a>; <a href='/AIV/21/12/7'>Eccl. 12:7</a>",
-      "comment": "This verse recognizes human mortality and the futility of merely human plans. It draws from Genesis and Ecclesiastes, underscoring the need for hope in divine promises beyond earthly life—a hope realized in Christ’s resurrection (<a href='/AIV/46/15/22'>1 Cor. 15:22</a>)."
+      "text": "His breath departs, he returns to the earth; on that very day his plans perish.",
+      "links": "<a href='/AIV/18/14/10'>Job 14:10</a>; <a href='/AIV/19/104/29'>Ps. 104:29</a>",
+      "comment": "This presents the mortality of man, contrasting the passing nature of human plans with the enduring faithfulness of God. It subtly points to the doctrine of the immortality of the soul and the need for a hope grounded beyond earthly existence."
     },
     {
-      "pk": 1946150,
+      "pk": 23146005,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 146,
       "verse": 5,
-      "text": "Blessed is he whose help is the God of Jacob, whose hope is in the LORD his God,",
-      "links": "<a href='/AIV/19/84/12'>Ps. 84:12</a>; <a href='/AIV/19/20/7'>Ps. 20:7</a>",
-      "comment": "True blessedness flows from relying on God rather than worldly power. The reference to 'God of Jacob' ties believers into the history of God's covenant people. This notion of hope in God's faithfulness prepares the heart for trust in the promises fulfilled in the New Covenant through Jesus."
+      "text": "Blessed is he whose help is the God of Jacob, whose hope is in the LORD his God.",
+      "links": "<a href='/AIV/19/40/4'>Ps. 40:4</a>; <a href='/AIV/19/84/12'>Ps. 84:12</a>",
+      "comment": "The blessing pronounced here shows that true happiness is found in trusting the God of Jacob, affirming the continuity of God’s covenant through generations – a theme central to biblical understanding of salvation history."
     },
     {
-      "pk": 1946151,
+      "pk": 23146006,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 146,
       "verse": 6,
-      "text": "who made heaven and earth, the sea, and all that is in them; who keeps faith forever;",
-      "links": "<a href='/AIV/1/1/1'>Gen. 1:1</a>; <a href='/AIV/19/104/24-25'>Ps. 104:24–25</a>",
-      "comment": "God’s identity as Creator grounds our trust in Him. The phrase 'keeps faith forever' expresses His unwavering fidelity, laying a foundation for belief in divine providence and the trustworthiness of God's covenant throughout salvation history. This faithfulness is echoed in God’s unchanging commitment to care for His people."
+      "text": "Who made heaven and earth, the sea and all that is in them; who keeps faith forever;",
+      "links": "<a href='/AIV/19/33/6-9'>Ps. 33:6-9</a>; <a href='/AIV/19/89/2'>Ps. 89:2</a>",
+      "comment": "The creative power of God is stressed, along with His unwavering faithfulness. Creation ex nihilo and God’s ongoing fidelity forms a basis for trust and points towards the development of doctrine on God's providence throughout history."
     },
     {
-      "pk": 1946152,
+      "pk": 23146007,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 146,
       "verse": 7,
-      "text": "who executes justice for the oppressed, who gives food to the hungry. The LORD sets the prisoners free;",
-      "links": "<a href='/AIV/19/103/6'>Ps. 103:6</a>; <a href='/AIV/40/11/5'>Matt. 11:5</a>",
-      "comment": "God’s care for the marginalized reflects His justice and compassion. The liberation, feeding, and freeing of the oppressed finds fulfillment in Christ’s ministry, which manifests God’s love in both spiritual and practical acts (<a href='/AIV/42/4/18'>Luke 4:18</a>). This has been an enduring call for Christian action throughout history."
+      "text": "Who executes justice for the oppressed, who gives food to the hungry. The LORD sets the prisoners free;",
+      "links": "<a href='/AIV/19/107/9'>Ps. 107:9</a>; <a href='/AIV/19/146/8'>Ps. 146:8</a>; <a href='/AIV/42/4/18'>Luke 4:18</a>",
+      "comment": "God’s justice and concern for the needy are highlighted, echoing the prophetic vision of God's kingdom of mercy and righteousness. Jesus fulfills these promises, notably in His ministry, signaling the deeper spiritual liberation found in Him."
     },
     {
-      "pk": 1946153,
+      "pk": 23146008,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 146,
       "verse": 8,
-      "text": "The LORD opens the eyes of the blind; the LORD lifts up those who are bowed down; the LORD loves the righteous.",
-      "links": "<a href='/AIV/23/35/5'>Isa. 35:5</a>; <a href='/AIV/40/9/27-30'>Matt. 9:27–30</a>",
-      "comment": "Miraculous healing is described here, foreshadowing Jesus' works in the Gospels (<a href='/AIV/43/9/1-7'>John 9:1–7</a>). This verse has a spiritual dimension, referring not just to physical healing but the restoration of souls. God’s particular love for the righteous connects ongoing sanctification with living out faith in practice."
+      "text": "The LORD opens the eyes of the blind. The LORD lifts up those who are bowed down; the LORD loves the righteous.",
+      "links": "<a href='/AIV/23/35/5'>Isa. 35:5</a>; <a href='/AIV/42/7/22'>Luke 7:22</a>",
+      "comment": "Physical and spiritual healing are central here, as seen in Jesus’s ministry where He literally opened the eyes of the blind. This verse prefigures the Messianic mission and the call to compassion, linking Old Testament hope with New Testament fulfillment."
     },
     {
-      "pk": 1946154,
+      "pk": 23146009,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 146,
       "verse": 9,
-      "text": "The LORD protects the strangers; He upholds the orphan and the widow, but the way of the wicked He turns to ruin.",
-      "links": "<a href='/AIV/5/10/18'>Deut. 10:18</a>; <a href='/AIV/19/68/5'>Ps. 68:5</a>",
-      "comment": "God’s concern for the vulnerable (the foreigner, orphan, widow) is reflected throughout Scripture. This reiterates the Christian duty to charity and mercy, elements deeply embedded in traditional Christian practice. The final contrast of the wicked’s fate reinforces divine justice’s ultimate victory."
+      "text": "The LORD watches over the sojourners; He upholds the widow and the orphan, but He brings the way of the wicked to ruin.",
+      "links": "<a href='/AIV/19/68/5'>Ps. 68:5</a>; <a href='/AIV/19/147/6'>Ps. 147:6</a>",
+      "comment": "God's special care extends to strangers, widows, and orphans – those most vulnerable. The verse emphasizes God’s justice and mercy, which are perfectly realized in Christ and through visible, sacramental expressions of care for the poor."
     },
     {
-      "pk": 1946155,
+      "pk": 23146010,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 146,
       "verse": 10,
-      "text": "The LORD will reign forever, your God, O Zion, to all generations. Praise the LORD!",
-      "links": "<a href='/AIV/19/10/16'>Ps. 10:16</a>; <a href='/AIV/19/125/1'>Ps. 125:1</a>",
-      "comment": "The psalm closes with the affirmation of the LORD’s eternal kingship. 'Zion' points to the community of God’s people, and intergenerational praise anticipates the enduring worship promised in the New Covenant, following the great tradition of gathered worship. The perpetual reign signifies God’s kingdom fulfilled and made manifest in Christ (<a href='/AIV/42/1/33'>Luke 1:33</a>)."
+      "text": "The LORD will reign forever, your God, O Zion, for all generations. Praise the LORD!",
+      "links": "<a href='/AIV/19/10/16'>Ps. 10:16</a>; <a href='/AIV/66/11/15'>Rev. 11:15</a>",
+      "comment": "God’s eternal kingship is proclaimed, a theme echoing through the prophets and culminating in Christ’s reign. Zion, representing the gathering of God’s people, suggests both the literal city and the spiritual reality of God’s enduring, visible authority till the end of time."
     }
   ],
-  "translatedAt": "2025-12-23T05:51:47.670Z"
+  "translatedAt": "2025-12-24T06:48:51.196Z"
 }

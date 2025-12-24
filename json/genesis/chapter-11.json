@@ -1,328 +1,393 @@
 {
-  "book": "Genesis",
+  "book": 1,
+  "bookName": "Genesis",
   "bookAbbreviation": "Gen",
   "chapter": 11,
   "verses": [
     {
-      "pk": 11001,
+      "pk": 1011001,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 11,
       "verse": 1,
       "text": "Now the whole earth had one language and the same words.",
-      "links": "<a href='/AIV/01/10/32'>Gen. 10:32</a>; <a href='/AIV/01/11/6'>Gen. 11:6</a>",
-      "comment": "The unity of language reflects humanity’s original harmony and oneness, foundational before the division introduced at Babel."
+      "links": "<a href='/AIV/01/10/31'>Gen. 10:31</a>; <a href='/AIV/01/11/6'>Gen. 11:6</a>",
+      "comment": "This verse sets the scene for the Tower of Babel narrative, emphasizing human unity before division. Unity in language symbolizes a potential for both good and prideful rebellion."
     },
     {
-      "pk": 11002,
+      "pk": 1011002,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 11,
       "verse": 2,
       "text": "And as people migrated from the east, they found a plain in the land of Shinar and settled there.",
       "links": "<a href='/AIV/01/10/10'>Gen. 10:10</a>; <a href='/AIV/27/1/2'>Dan. 1:2</a>",
-      "comment": "The mention of Shinar connects this passage with earlier references to Babylon, foreshadowing later Biblical events centered in this region."
+      "comment": "Shinar is commonly understood as Mesopotamia. The eastward migration points to the continuous movement and settling of humanity after the flood."
     },
     {
-      "pk": 11003,
+      "pk": 1011003,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 11,
       "verse": 3,
-      "text": "And they said to one another, 'Come, let us make bricks and bake them thoroughly.' They used brick for stone, and tar for mortar.",
-      "links": "<a href='/AIV/02/1/14'>Exod. 1:14</a>",
-      "comment": "Brick-making technology here demonstrates a creative, collaborative human effort, underpinning themes of technological progress and communal action."
+      "text": "They said to one another, 'Come, let us make bricks and bake them thoroughly.' They had brick for stone, and tar for mortar.",
+      "links": "<a href='/AIV/02/1/14'>Ex. 1:14</a>; <a href='/AIV/01/14/10'>Gen. 14:10</a>",
+      "comment": "Use of bricks and tar shows technological advance. Humanity’s cooperation is highlighted, hinting at human potential when united—a theme reexamined in Pentecost (Acts 2:1-11)."
     },
     {
-      "pk": 11004,
+      "pk": 1011004,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 11,
       "verse": 4,
-      "text": "Then they said, 'Come, let us build ourselves a city and a tower with its top in the heavens. Let us make a name for ourselves, lest we be scattered over the face of the whole earth.'",
-      "links": "<a href='/AIV/19/49/11'>Ps. 49:11</a>; <a href='/AIV/23/14/13'>Isa. 14:13</a>",
-      "comment": "Their ambition resembles prideful self-exaltation, echoing themes of humanity’s desire for autonomy apart from God. Spiritual significance: Prefigures man's attempt to reach heaven by works, a motif later fulfilled in Christ's gift of true unity."
+      "text": "Then they said, 'Come, let us build ourselves a city, and a tower whose top will reach into heaven, and let us make a name for ourselves, lest we be scattered over the face of the whole earth.'",
+      "links": "<a href='/AIV/01/9/1'>Gen. 9:1</a>; <a href='/AIV/23/14/13-14'>Isa. 14:13-14</a>",
+      "comment": "Desire for self-glorification and autonomy contradicts God's command to fill the earth. The tower represents human reach for the divine on their own terms. This foreshadows the human tendency to seek salvation apart from divine grace."
     },
     {
-      "pk": 11005,
+      "pk": 1011005,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 11,
       "verse": 5,
-      "text": "But the LORD came down to see the city and the tower that the children of man were building.",
-      "links": "<a href='/AIV/01/18/21'>Gen. 18:21</a>",
-      "comment": "God’s descent emphasizes His personal involvement with humanity, foreshadowing future divine interventions (spiritually fulfilled in the Incarnation, see <a href='/AIV/43/1/14'>John 1:14</a>)."
+      "text": "But the LORD came down to see the city and the tower that the sons of men had built.",
+      "links": "<a href='/AIV/01/18/21'>Gen. 18:21</a>; <a href='/AIV/19/113/6'>Ps. 113:6</a>",
+      "comment": "God ‘coming down’ is anthropomorphic, highlighting His personal engagement with humanity. Just as later Christ would enter the world, here the divine presence addresses human ambitions directly."
     },
     {
-      "pk": 11006,
+      "pk": 1011006,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 11,
       "verse": 6,
-      "text": "And the LORD said, 'Behold, they are one people and they all have one language, and this is only the beginning of what they will do. Now nothing they propose to do will be impossible for them.'",
-      "links": "<a href='/AIV/01/11/1'>Gen. 11:1</a>",
-      "comment": "God recognizes human unity and its power, highlighting the importance of harmony. In spiritual interpretation, this points toward a future restoration of unity among mankind (see <a href='/AIV/44/2/1-11'>Acts 2:1–11</a>, Pentecost)."
+      "text": "And the LORD said, 'Behold, they are one people, and they all have one language. This is only the beginning of what they will do. Nothing they plan will be impossible for them.'",
+      "links": "<a href='/AIV/01/11/1'>Gen. 11:1</a>; <a href='/AIV/19/2/1'>Ps. 2:1</a>",
+      "comment": "God recognizes human unity’s potential for both good and evil. The subtle hint is that true unity, later restored at Pentecost, is only safe under divine guidance."
     },
     {
-      "pk": 11007,
+      "pk": 1011007,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 11,
       "verse": 7,
-      "text": "'Come, let us go down and confuse their language so they will not understand one another’s speech.'",
-      "links": "<a href='/AIV/01/01/26'>Gen. 1:26</a>; <a href='/AIV/19/2/4'>Ps. 2:4</a>",
-      "comment": "The plural 'let us' hints at the mystery of divine plurality, understood as a veiled reference to the triune nature of God, echoing earlier verses. Spiritual note: Points to God’s desire for true unity, not just external uniformity."
+      "text": "'Come, let Us go down and confuse their language, so that they will not understand one another’s speech.'",
+      "links": "<a href='/AIV/01/1/26'>Gen. 1:26</a>; <a href='/AIV/44/2/4'>Acts 2:4</a>",
+      "comment": "'Let Us' again hints at divine plurality, often interpreted as foreshadowing Trinitarian revelation later in Scripture. Pentecost reverses linguistic division."
     },
     {
-      "pk": 11008,
+      "pk": 1011008,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 11,
       "verse": 8,
       "text": "So the LORD scattered them from there over the face of all the earth, and they stopped building the city.",
-      "links": "<a href='/AIV/01/10/18'>Gen. 10:18</a>",
-      "comment": "Human pride leads to dispersion, fulfilling God’s earlier mandate to fill the earth (<a href='/AIV/01/09/1'>Gen. 9:1</a>)."
+      "links": "<a href='/AIV/01/10/25'>Gen. 10:25</a>; <a href='/AIV/44/8/1'>Acts 8:1</a>",
+      "comment": "God’s intervention to scatter foreshadows the later expansion of God’s people for the sake of witness. Centralization is disrupted to fulfill God’s will."
     },
     {
-      "pk": 11009,
+      "pk": 1011009,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 11,
       "verse": 9,
-      "text": "Therefore its name was called Babel, because there the LORD confused the language of all the earth. From there the LORD scattered them over the face of all the earth.",
+      "text": "Therefore its name was called Babel, because there the LORD confused the language of all the earth. From there the LORD scattered them abroad over the face of all the earth.",
       "links": "<a href='/AIV/01/10/10'>Gen. 10:10</a>; <a href='/AIV/23/13/19'>Isa. 13:19</a>",
-      "comment": "'Babel' sounds like the word for 'confusion.' The scattering anticipates the gathering of all nations in unity through God’s later redemptive acts (<a href='/AIV/44/2/6-11'>Acts 2:6-11</a>)."
+      "comment": "‘Babel’ sounds like the Hebrew for ‘confusion’. A contrast is seen between Babel’s confusion and Pentecost’s unity. Divine intervention both judges and opens the path for ordered unity under God."
     },
     {
-      "pk": 11010,
+      "pk": 1011010,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 11,
       "verse": 10,
-      "text": "These are the generations of Shem. Shem was 100 years old and became the father of Arpachshad two years after the flood.",
+      "text": "These are the generations of Shem: Shem was one hundred years old when he fathered Arpachshad two years after the flood.",
       "links": "<a href='/AIV/01/05/32'>Gen. 5:32</a>; <a href='/AIV/01/10/22'>Gen. 10:22</a>",
-      "comment": "The genealogies mark a transition from the primeval history to the ancestral line leading to Abraham; Shem’s descendants are pivotal for salvation history."
+      "comment": "Genealogies connect this narrative to the wider story of redemption, leading to Abraham and ultimately to Christ (cf. Luke 3:36). The succession shows God’s continued providence."
     },
     {
-      "pk": 11011,
+      "pk": 1011011,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 11,
       "verse": 11,
-      "text": "After he became the father of Arpachshad, Shem lived 500 years and had other sons and daughters.",
-      "links": "<a href='/AIV/01/05/4'>Gen. 5:4</a>",
-      "comment": "The long lifespans reflect the early antediluvian period, and contain the pattern of 'X lived Y years,' typical of Genesis genealogies."
+      "text": "After he fathered Arpachshad, Shem lived five hundred years and had other sons and daughters.",
+      "links": "<a href='/AIV/01/05/4-32'>Gen. 5:4-32</a>",
+      "comment": "Longevity signals the continuity of the early post-flood generations. Lineage is vital for the eventual fulfillment of God’s promises to humanity."
     },
     {
-      "pk": 11012,
+      "pk": 1011012,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 11,
       "verse": 12,
-      "text": "When Arpachshad had lived 35 years, he became the father of Shelah.",
-      "links": "<a href='/AIV/01/10/24'>Gen. 10:24</a>; <a href='/AIV/42/3/36'>Luke 3:36</a>",
-      "comment": "Arpachshad’s line is echoed in the genealogy of Jesus, showing continuity between Old Testament promise and its New Testament fulfillment."
+      "text": "When Arpachshad had lived thirty-five years, he fathered Shelah.",
+      "links": "<a href='/AIV/01/10/24'>Gen. 10:24</a>; <a href='/AIV/42/3/35'>Luke 3:35</a>",
+      "comment": "The genealogical structure is essential for tracing the promise that will culminate in Christ."
     },
     {
-      "pk": 11013,
+      "pk": 1011013,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 11,
       "verse": 13,
-      "text": "After he became the father of Shelah, Arpachshad lived 403 years and had other sons and daughters.",
-      "links": "<a href='/AIV/01/11/11'>Gen. 11:11</a>",
-      "comment": "Standard genealogical formula continues, reinforcing lineage and fulfillment of divine promises."
+      "text": "After he fathered Shelah, Arpachshad lived four hundred and three years and had other sons and daughters.",
+      "links": "<a href='/AIV/01/05/7'>Gen. 5:7</a>",
+      "comment": "‘Other sons and daughters’ indicates the vast expansion of mankind, though the line of promise remains with the named descendants."
     },
     {
-      "pk": 11014,
+      "pk": 1011014,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 11,
       "verse": 14,
-      "text": "When Shelah had lived 30 years, he became the father of Eber.",
-      "links": "<a href='/AIV/01/10/24'>Gen. 10:24</a>; <a href='/AIV/42/3/35'>Luke 3:35</a>",
-      "comment": "Eber’s name is significant; the term 'Hebrew' likely originates from him, linking to future Israelite identity."
+      "text": "When Shelah had lived thirty years, he fathered Eber.",
+      "links": "<a href='/AIV/01/10/24'>Gen. 10:24</a>",
+      "comment": "Eber is considered the ancestor of the Hebrews, linking the narrative to Israel’s identity."
     },
     {
-      "pk": 11015,
+      "pk": 1011015,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 11,
       "verse": 15,
-      "text": "After he became the father of Eber, Shelah lived 403 years and had other sons and daughters.",
-      "links": "<a href='/AIV/01/11/13'>Gen. 11:13</a>",
-      "comment": "The repeating formula highlights dynastic continuity."
+      "text": "After he fathered Eber, Shelah lived four hundred and three years and had other sons and daughters.",
+      "links": "<a href='/AIV/01/05/11'>Gen. 5:11</a>",
+      "comment": "Continues the pattern of long lifespans decreasing over generations—a theological note suggesting the effects of sin on creation."
     },
     {
-      "pk": 11016,
+      "pk": 1011016,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 11,
       "verse": 16,
-      "text": "When Eber had lived 34 years, he became the father of Peleg.",
+      "text": "When Eber had lived thirty-four years, he fathered Peleg.",
       "links": "<a href='/AIV/01/10/25'>Gen. 10:25</a>",
-      "comment": "Peleg’s name means 'division,' referencing the division of peoples noted earlier at Babel."
+      "comment": "Peleg’s generation is noted for the earth’s division—a possible reference to Babel’s scattering."
     },
     {
-      "pk": 11017,
+      "pk": 1011017,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 11,
       "verse": 17,
-      "text": "After he became the father of Peleg, Eber lived 430 years and had other sons and daughters.",
-      "links": "<a href='/AIV/01/11/15'>Gen. 11:15</a>",
-      "comment": "Continues the genealogical line with emphasis on promise and expansion."
+      "text": "After he fathered Peleg, Eber lived four hundred and thirty years and had other sons and daughters.",
+      "links": "<a href='/AIV/01/05/13'>Gen. 5:13</a>",
+      "comment": "Repetition of formulaic genealogy emphasizes God’s faithfulness through generations."
     },
     {
-      "pk": 11018,
+      "pk": 1011018,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 11,
       "verse": 18,
-      "text": "When Peleg had lived 30 years, he became the father of Reu.",
-      "links": "<a href='/AIV/01/11/16'>Gen. 11:16</a>; <a href='/AIV/42/3/35'>Luke 3:35</a>",
-      "comment": "The line continues toward Abraham. The genealogies here historically and spiritually connect Old Testament promise and New Testament fulfillment."
+      "text": "When Peleg had lived thirty years, he fathered Reu.",
+      "links": "<a href='/AIV/01/10/25'>Gen. 10:25</a>",
+      "comment": "The slow progression of generations leads towards the family of Abraham."
     },
     {
-      "pk": 11019,
+      "pk": 1011019,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 11,
       "verse": 19,
-      "text": "After he became the father of Reu, Peleg lived 209 years and had other sons and daughters.",
-      "links": "<a href='/AIV/01/11/17'>Gen. 11:17</a>",
-      "comment": "Duration of lifespans begins to shorten, indicating shifting eras after the flood."
+      "text": "After he fathered Reu, Peleg lived two hundred and nine years and had other sons and daughters.",
+      "links": "<a href='/AIV/01/05/16'>Gen. 5:16</a>",
+      "comment": "The lifespans are now declining, observing the trend after the flood."
     },
     {
-      "pk": 11020,
+      "pk": 1011020,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 11,
       "verse": 20,
-      "text": "When Reu had lived 32 years, he became the father of Serug.",
-      "links": "<a href='/AIV/01/11/18'>Gen. 11:18</a>",
-      "comment": "Each descendant draws us closer to Abraham, leading up to the emergence of God's chosen people."
+      "text": "When Reu had lived thirty-two years, he fathered Serug.",
+      "links": "<a href='/AIV/42/3/35'>Luke 3:35</a>",
+      "comment": "Traces Christ’s lineage through the generations, fulfilling the promise."
     },
     {
-      "pk": 11021,
+      "pk": 1011021,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 11,
       "verse": 21,
-      "text": "After he became the father of Serug, Reu lived 207 years and had other sons and daughters.",
-      "links": "<a href='/AIV/01/11/19'>Gen. 11:19</a>",
-      "comment": "Repetition underscores ongoing multiplication and blessing."
+      "text": "After he fathered Serug, Reu lived two hundred and seven years and had other sons and daughters.",
+      "links": "<a href='/AIV/01/05/19'>Gen. 5:19</a>",
+      "comment": "Another repetition, again marking the gradual decrease in lifespans."
     },
     {
-      "pk": 11022,
+      "pk": 1011022,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 11,
       "verse": 22,
-      "text": "When Serug had lived 30 years, he became the father of Nahor.",
-      "links": "<a href='/AIV/01/11/20'>Gen. 11:20</a>; <a href='/AIV/42/3/34'>Luke 3:34</a>",
-      "comment": "Nahor is a key ancestor of Abraham, connecting the present narrative to Israel’s founding."
+      "text": "When Serug had lived thirty years, he fathered Nahor.",
+      "links": "<a href='/AIV/42/3/34'>Luke 3:34</a>",
+      "comment": "Nahor’s line brings us one step closer to Abraham, whose covenant with God will shape salvation history."
     },
     {
-      "pk": 11023,
+      "pk": 1011023,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 11,
       "verse": 23,
-      "text": "After he became the father of Nahor, Serug lived 200 years and had other sons and daughters.",
-      "links": "<a href='/AIV/01/11/21'>Gen. 11:21</a>",
-      "comment": "Basic genealogical structure persisted."
+      "text": "After he fathered Nahor, Serug lived two hundred years and had other sons and daughters.",
+      "links": "<a href='/AIV/01/05/22'>Gen. 5:22</a>",
+      "comment": "Continues the genealogical context, stressing stable inheritance of promise."
     },
     {
-      "pk": 11024,
+      "pk": 1011024,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 11,
       "verse": 24,
-      "text": "When Nahor had lived 29 years, he became the father of Terah.",
-      "links": "<a href='/AIV/01/11/22'>Gen. 11:22</a>; <a href='/AIV/42/3/34'>Luke 3:34</a>",
-      "comment": "Terah is Abraham’s father, signaling imminent fulfillment of God’s promises to the patriarchs."
+      "text": "When Nahor had lived twenty-nine years, he fathered Terah.",
+      "links": "<a href='/AIV/01/05/25'>Gen. 5:25</a>; <a href='/AIV/42/3/34'>Luke 3:34</a>",
+      "comment": "Terah is the father of Abraham, establishing the transition from genealogy to God’s special calling and election."
     },
     {
-      "pk": 11025,
+      "pk": 1011025,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 11,
       "verse": 25,
-      "text": "After he became the father of Terah, Nahor lived 119 years and had other sons and daughters.",
-      "links": "<a href='/AIV/01/11/23'>Gen. 11:23</a>",
-      "comment": "Shorter lifespans reflect the changing post-flood world."
+      "text": "After he fathered Terah, Nahor lived one hundred and nineteen years and had other sons and daughters.",
+      "links": "<a href='/AIV/01/05/27'>Gen. 5:27</a>",
+      "comment": "Terah’s significance is heightened as father of Abraham, setting the stage for the Covenant."
     },
     {
-      "pk": 11026,
+      "pk": 1011026,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 11,
       "verse": 26,
-      "text": "When Terah had lived 70 years, he became the father of Abram, Nahor, and Haran.",
-      "links": "<a href='/AIV/01/12/1-5'>Gen. 12:1–5</a>; <a href='/AIV/42/3/34'>Luke 3:34</a>",
-      "comment": "Abram (later Abraham) marks the pivotal figure in God’s redemptive plan; spiritual note: Abraham is often seen as spiritual father to all nations (<a href='/AIV/48/3/7'>Gal. 3:7</a>)."
+      "text": "When Terah had lived seventy years, he fathered Abram, Nahor, and Haran.",
+      "links": "<a href='/AIV/01/12/1'>Gen. 12:1</a>; <a href='/AIV/42/3/34'>Luke 3:34</a>",
+      "comment": "Abram (later Abraham) will become the recipient of the promise, demonstrating God's election and preparation for the coming Redeemer."
     },
     {
-      "pk": 11027,
+      "pk": 1011027,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 11,
       "verse": 27,
-      "text": "Now these are the generations of Terah. Terah became the father of Abram, Nahor, and Haran. And Haran became the father of Lot.",
-      "links": "<a href='/AIV/01/14/12'>Gen. 14:12</a>; <a href='/AIV/61/2/7'>2 Pet. 2:7</a>",
-      "comment": "Transition to the next era—God’s personal relationship with the family of Terah, laying groundwork for salvation history."
+      "text": "Now these are the generations of Terah: Terah fathered Abram, Nahor, and Haran; and Haran fathered Lot.",
+      "links": "<a href='/AIV/01/12/5'>Gen. 12:5</a>; <a href='/AIV/01/13/1'>Gen. 13:1</a>",
+      "comment": "The family connections foreshadow the future journeys and trials of Abraham and Lot, showing that God’s plan involves concrete families and communities."
     },
     {
-      "pk": 11028,
+      "pk": 1011028,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 11,
       "verse": 28,
-      "text": "Haran died before his father Terah in his native land, in Ur of the Chaldeans.",
-      "links": "<a href='/AIV/01/15/7'>Gen. 15:7</a>; <a href='/AIV/44/7/4'>Acts 7:4</a>",
-      "comment": "Ur of the Chaldeans is significant as the cradle of faith from which Abraham is called; geographical reference sets up future deliverance."
+      "text": "Haran died before his father Terah in the land of his birth, in Ur of the Chaldeans.",
+      "links": "<a href='/AIV/01/15/7'>Gen. 15:7</a>; <a href='/AIV/44/7/2'>Acts 7:2</a>",
+      "comment": "Ur of the Chaldeans is an important historical and cultural setting. The death of Haran before Terah signals loss and transition, soon leading to Abraham’s call."
     },
     {
-      "pk": 11029,
+      "pk": 1011029,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 11,
       "verse": 29,
       "text": "Abram and Nahor took wives. The name of Abram’s wife was Sarai, and the name of Nahor’s wife was Milcah, daughter of Haran, the father of Milcah and Iscah.",
-      "links": "<a href='/AIV/01/17/15'>Gen. 17:15</a>",
-      "comment": "Sarai, later renamed Sarah, becomes crucial in the story of promise, prophecy, and fulfillment (<a href='/AIV/01/17/16'>Gen. 17:16</a>)."
+      "links": "<a href='/AIV/01/17/15'>Gen. 17:15</a>; <a href='/AIV/01/22/20-23'>Gen. 22:20-23</a>",
+      "comment": "Genealogical details stress the importance of lineage; marriage within family lines protected inheritance and calling."
     },
     {
-      "pk": 11030,
+      "pk": 1011030,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 11,
       "verse": 30,
       "text": "Now Sarai was barren; she had no child.",
-      "links": "<a href='/AIV/01/18/11'>Gen. 18:11</a>; <a href='/AIV/42/1/7'>Luke 1:7</a>",
-      "comment": "Her barrenness heightens the miraculous nature of God’s later intervention; spiritual parallel: God often works through human weakness for His greater glory."
+      "links": "<a href='/AIV/01/16/1'>Gen. 16:1</a>; <a href='/AIV/01/17/15-21'>Gen. 17:15-21</a>",
+      "comment": "Sarai’s barrenness sets up God’s miraculous intervention, a frequent motif illustrating that salvation comes by God's initiative, not human effort."
     },
     {
-      "pk": 11031,
+      "pk": 1011031,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 11,
       "verse": 31,
-      "text": "Terah took Abram his son, Lot the son of Haran, and Sarai his daughter-in-law, and they went forth together from Ur of the Chaldeans to go to the land of Canaan. But when they came to Haran, they settled there.",
-      "links": "<a href='/AIV/01/12/5'>Gen. 12:5</a>; <a href='/AIV/44/7/4'>Acts 7:4</a>",
-      "comment": "The move towards Canaan steps into God’s promise. Spiritual meaning: foreshadows pilgrimage and journey toward true inheritance."
+      "text": "Terah took his son Abram, his grandson Lot, son of Haran, and his daughter-in-law Sarai, his son Abram’s wife, and they went out together from Ur of the Chaldeans to go to the land of Canaan. But when they came to Haran, they settled there.",
+      "links": "<a href='/AIV/01/12/1'>Gen. 12:1</a>; <a href='/AIV/44/7/4'>Acts 7:4</a>",
+      "comment": "The journey prefigures the call of Abraham and the first movement towards the Promised Land—a typological foreshadowing of later spiritual journeys and pilgrimages."
     },
     {
-      "pk": 11032,
+      "pk": 1011032,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 11,
       "verse": 32,
-      "text": "And Terah lived 205 years, and Terah died in Haran.",
+      "text": "Terah lived two hundred and five years, and Terah died in Haran.",
       "links": "<a href='/AIV/01/12/4'>Gen. 12:4</a>",
-      "comment": "Terah’s death marks the end of one era and the beginning of Abraham’s journey, a step closer to the fulfillment of divine covenant."
+      "comment": "Terah’s death marks the start of Abraham’s central role. This concluding note transitions from genealogy to direct interaction with God’s covenantal promise."
     }
   ],
-  "translatedAt": "2025-12-23T08:39:32.068Z"
+  "translatedAt": "2025-12-24T00:15:53.686Z"
 }

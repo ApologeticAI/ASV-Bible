@@ -1,258 +1,309 @@
 {
-  "book": "1 Samuel",
+  "book": 9,
+  "bookName": "1 Samuel",
   "bookAbbreviation": "1Sam",
   "chapter": 12,
   "verses": [
     {
-      "pk": 30701201,
+      "pk": 9012001,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 12,
       "verse": 1,
-      "text": "Samuel said to all Israel, \"Look, I have obeyed your voice in all that you have said to me, and have made a king over you.\"",
-      "links": "<a href='/AIV/9/8/5-22'>1 Sam. 8:5–22</a>",
-      "comment": "Samuel announces his compliance with the people's desire for a king."
+      "text": "Samuel said to all Israel, 'Look, I have listened to everything you said to me and have set a king over you.'",
+      "links": "<a href='/AIV/9/8/7-22'>1Sam 8:7-22</a>",
+      "comment": "Samuel reminds Israel that they requested a king, showing a transition from the period of judges to monarchy. This is an important shift in salvation history, with authority centralized in a single ruler."
     },
     {
-      "pk": 30701202,
+      "pk": 9012002,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 12,
       "verse": 2,
-      "text": "Now, here is the king walking before you. As for me, I am old and gray. My sons are with you. I have walked before you from my youth until this day.",
-      "links": "<a href='/AIV/9/8/1-3'>1 Sam. 8:1–3</a>",
-      "comment": "Samuel refers to his age and his long public service."
+      "text": "Now, here is your king walking before you. I am old and gray, and my sons are here with you. I’ve led you from my youth until today.",
+      "links": "<a href='/AIV/9/8/1-3'>1Sam 8:1-3</a>",
+      "comment": "Samuel marks his own transition from judge and prophet to elder statesman. Reference to his sons connects the past to the present, subtly suggesting the idea of succession and continuity in spiritual leadership."
     },
     {
-      "pk": 30701203,
+      "pk": 9012003,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 12,
       "verse": 3,
-      "text": "Here I am. Witness against me before the LORD and before his anointed. Whose ox have I taken? Whose donkey have I taken? Whom have I cheated? Whom have I oppressed? Or from whose hand have I taken a bribe to blind my eyes with it? If I have done any of these, I will restore it to you.\"",
-      "links": "<a href='/AIV/2/23/8'>Ex. 23:8</a>; <a href='/AIV/5/16/19'>Deut. 16:19</a>",
-      "comment": "Samuel calls for accountability, invoking specific examples from the Law."
+      "text": "Here I am. Testify against me before the Lord and before His anointed. Whose ox have I taken? Whose donkey have I seized? Whom have I oppressed? From whose hand have I accepted a bribe to turn a blind eye? If I have done any of these, I will restore it to you.",
+      "links": "<a href='/AIV/2/20/15-16'>Exod 20:15-16</a>; <a href='/AIV/9/2/12'>1Sam 2:12, 17</a>",
+      "comment": "Samuel calls on the people to judge his integrity, showing the importance of righteous leadership. This prefigures Christ’s perfect leadership and also the necessity of accountability within spiritual authority."
     },
     {
-      "pk": 30701204,
+      "pk": 9012004,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 12,
       "verse": 4,
-      "text": "They said, \"You have not cheated us or oppressed us, nor have you taken anything from any man's hand.\"",
-      "links": "<a href='/AIV/16/5/16'>Neh. 5:16</a>",
-      "comment": "The people affirm Samuel's integrity."
+      "text": "They answered, 'You have not oppressed us or taken anything from anyone.'",
+      "links": "<a href='/AIV/9/3/19-20'>1Sam 3:19-20</a>",
+      "comment": "The people vindicate Samuel, confirming his reputation. The concept of blamelessness in leaders is a model for Christian communities and those called to shepherd God’s people."
     },
     {
-      "pk": 30701205,
+      "pk": 9012005,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 12,
       "verse": 5,
-      "text": "He said to them, \"The LORD is witness against you, and His anointed is witness this day, that you have not found anything in my hand.\" They answered, \"He is witness.\"",
-      "links": "<a href='/AIV/9/10/1'>1 Sam. 10:1</a>",
-      "comment": "Samuel formally calls the LORD and the king to witness their verdict."
+      "text": "Samuel said to them, 'The Lord is witness against you, and His anointed is witness this day, that you have found nothing in my hand.' They replied, 'He is witness.'",
+      "links": "<a href='/AIV/9/8/19-20'>1Sam 8:19-20</a>; <a href='/AIV/9/10/1'>1Sam 10:1</a>",
+      "comment": "Samuel calls both God and Saul as witnesses, showing the solemnity of his testimony. Reference to the Lord's anointed foreshadows the messianic office in scripture."
     },
     {
-      "pk": 30701206,
+      "pk": 9012006,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 12,
       "verse": 6,
-      "text": "Samuel said to the people, \"It is the LORD who appointed Moses and Aaron, and who brought your fathers up out of the land of Egypt.",
-      "links": "<a href='/AIV/2/3/10'>Ex. 3:10</a>; <a href='/AIV/2/6/26-27'>Ex. 6:26–27</a>",
-      "comment": "Reference to Israel’s deliverance from Egypt by God’s appointment."
+      "text": "Samuel said to the people, 'It is the Lord who appointed Moses and Aaron, who brought your ancestors up from the land of Egypt.'",
+      "links": "<a href='/AIV/2/3/10'>Exod 3:10</a>; <a href='/AIV/2/6/13'>Exod 6:13</a>",
+      "comment": "Samuel highlights God’s choice of leaders. This reflects the way God establishes authority and delivers His people, a principle fulfilled in the greater deliverance through Christ."
     },
     {
-      "pk": 30701207,
+      "pk": 9012007,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 12,
       "verse": 7,
-      "text": "Now therefore stand still, that I may plead with you before the LORD concerning all the righteous deeds of the LORD that He did for you and for your fathers.",
-      "links": "<a href='/AIV/5/32/4'>Deut. 32:4</a>; <a href='/AIV/9/10/18'>1 Sam. 10:18</a>",
-      "comment": "'Plead' here connotes Samuel declaring or testifying of the LORD's deeds like a court case."
+      "text": "Now stand here, so that I may confront you before the Lord with all the righteous acts He has done for you and your ancestors.",
+      "links": "<a href='/AIV/5/6/20-23'>Deut 6:20-23</a>",
+      "comment": "Samuel calls the people to witness God’s faithfulness. This is a reminder to recognize and remember God’s past actions, a form of sacred memory central to the communal faith."
     },
     {
-      "pk": 30701208,
+      "pk": 9012008,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 12,
       "verse": 8,
-      "text": "When Jacob went into Egypt, and your fathers cried out to the LORD, then the LORD sent Moses and Aaron, who brought your fathers out of Egypt and made them settle in this place.",
-      "links": "<a href='/AIV/1/46/6-7'>Gen. 46:6–7</a>; <a href='/AIV/2/2/23-24'>Ex. 2:23–24</a>",
-      "comment": "Condenses the patriarchs’ history and the Exodus."
+      "text": "When Jacob went into Egypt and your ancestors cried out to the Lord, He sent Moses and Aaron, who led your ancestors out of Egypt and settled them in this land.",
+      "links": "<a href='/AIV/1/46/6-7'>Gen 46:6-7</a>; <a href='/AIV/2/12/50'>Exod 12:50'</a>",
+      "comment": "The story retold here emphasizes divine initiative in salvation and covenant promises, highlighting the importance of remembering one’s spiritual heritage."
     },
     {
-      "pk": 30701209,
+      "pk": 9012009,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 12,
       "verse": 9,
-      "text": "But they forgot the LORD their God, and He sold them into the hand of Sisera, commander of the army of Hazor, and into the hand of the Philistines, and into the hand of the king of Moab, and they fought against them.",
-      "links": "<a href='/AIV/7/4/2'>Judg. 4:2</a>; <a href='/AIV/7/3/12'>Judg. 3:12</a>",
-      "comment": "References Israel’s cycles of apostasy and oppression in the book of Judges."
+      "text": "But they forgot the Lord their God, so He sold them into the hand of Sisera, commander of the army of Hazor, into the hand of the Philistines, and into the hand of the king of Moab, and they fought against them.",
+      "links": "<a href='/AIV/7/4/1-3'>Judg 4:1-3</a>; <a href='/AIV/7/3/12'>Judg 3:12</a>",
+      "comment": "Israel’s forgetfulness leads to oppression. The consequences of turning away from God are shown, demonstrating the need for continual faithfulness and conversion."
     },
     {
-      "pk": 30701210,
+      "pk": 9012010,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 12,
       "verse": 10,
-      "text": "They cried out to the LORD and said, 'We have sinned, because we have forsaken the LORD and have served the Baals and the Ashtaroth. But now deliver us out of the hand of our enemies, and we will serve You.'",
-      "links": "<a href='/AIV/7/2/13'>Judg. 2:13</a>; <a href='/AIV/9/7/3-4'>1 Sam. 7:3–4</a>",
-      "comment": "Expresses the repentance and plea found in Israel’s history."
+      "text": "Then they cried to the Lord, saying, ‘We have sinned, because we have forsaken the Lord and served the Baals and the Ashtoreths. Now deliver us from our enemies, and we will serve You.’",
+      "links": "<a href='/AIV/7/10/10-16'>Judg 10:10-16</a>",
+      "comment": "Repentance leads to deliverance, highlighting the mercy of God. This pattern is replayed in salvation history, culminating in the forgiveness we receive through Christ."
     },
     {
-      "pk": 30701211,
+      "pk": 9012011,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 12,
       "verse": 11,
-      "text": "And the LORD sent Jerubbaal and Barak and Jephthah and Samuel, and delivered you out of the hand of your enemies on every side, so that you lived in safety.",
-      "links": "<a href='/AIV/7/6/32'>Judg. 6:32</a>; <a href='/AIV/7/4/6'>Judg. 4:6</a>",
-      "comment": "Mentions deliverers: 'Jerubbaal' (Gideon), Barak, Jephthah, and Samuel himself, reflecting the Judges era."
+      "text": "The Lord sent Jerubbaal, Bedan, Jephthah, and Samuel, and delivered you from the hand of your enemies on every side, and you lived in safety.",
+      "links": "<a href='/AIV/7/6/32'>Judg 6:32</a>; <a href='/AIV/7/12/7'>Judg 12:7</a>; <a href='/AIV/9/7/15'>1Sam 7:15</a>",
+      "comment": "The mention of God raising up saviors implies a typology of Christ, the ultimate deliverer who leads His people into true security."
     },
     {
-      "pk": 30701212,
+      "pk": 9012012,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 12,
       "verse": 12,
-      "text": "But when you saw that Nahash the king of the Ammonites came against you, you said to me, 'No, but a king will reign over us,' when the LORD your God was your king.",
-      "links": "<a href='/AIV/9/8/5-7'>1 Sam. 8:5–7</a>; <a href='/AIV/9/11/1'>1 Sam. 11:1</a>",
-      "comment": "Summarizes their demand for a human king during a crisis."
+      "text": "But when you saw Nahash the king of the Ammonites coming against you, you said to me, 'No, but a king shall reign over us,' though the Lord your God was your king.",
+      "links": "<a href='/AIV/9/8/5-7'>1Sam 8:5-7</a>; <a href='/AIV/9/11/1'>1Sam 11:1</a>",
+      "comment": "Israel’s desire for an earthly king contrasts with God's kingship, foreshadowing the eventual coming of the true King in God’s plan, Christ, who fulfills all kingship."
     },
     {
-      "pk": 30701213,
+      "pk": 9012013,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 12,
       "verse": 13,
-      "text": "Now here is the king whom you have chosen, for whom you have asked; and the LORD has set a king over you.",
-      "links": "<a href='/AIV/9/10/24'>1 Sam. 10:24</a>",
-      "comment": "Samuel reiterates God's concession in giving them a king."
+      "text": "Now here is the king you have chosen, whom you have asked for. See, the Lord has set a king over you.",
+      "links": "<a href='/AIV/9/9/16'>1Sam 9:16</a>",
+      "comment": "The new political order is affirmed, but it is clear that even in human choices, God’s sovereignty is ultimately at work."
     },
     {
-      "pk": 30701214,
+      "pk": 9012014,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 12,
       "verse": 14,
-      "text": "If you will fear the LORD and serve Him and obey His voice, and not rebel against the command of the LORD, both you and the king who reigns over you will follow the LORD your God.",
-      "links": "<a href='/AIV/3/26/3'>Lev. 26:3</a>; <a href='/AIV/5/28/1-2'>Deut. 28:1–2</a>",
-      "comment": "Conditional blessing is stated; both king and people must remain faithful."
+      "text": "If you fear the Lord and serve Him, and obey His voice, and do not rebel against His command, both you and the king who reigns over you will follow the Lord your God.",
+      "links": "<a href='/AIV/5/11/13'>Deut 11:13</a>; <a href='/AIV/9/13/13'>1Sam 13:13</a>",
+      "comment": "Divine blessing is conditioned on obedience for both leader and people. This reiterates the cooperative nature of authority, reflecting the relationship of Christ and His Church."
     },
     {
-      "pk": 30701215,
+      "pk": 9012015,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 12,
       "verse": 15,
-      "text": "But if you will not obey the voice of the LORD, but rebel against the command of the LORD, then the hand of the LORD will be against you and your king.",
-      "links": "<a href='/AIV/5/28/15'>Deut. 28:15</a>",
-      "comment": "Warning is given that disobedience will bring God's judgment."
+      "text": "But if you do not obey the Lord, and rebel against His command, then His hand will be against you, as it was against your fathers.",
+      "links": "<a href='/AIV/5/28/15'>Deut 28:15</a>",
+      "comment": "God’s justice is firmly stated. Discipline from God should not be interpreted solely as rejection, but as His saving love drawing His people back to Himself."
     },
     {
-      "pk": 30701216,
+      "pk": 9012016,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 12,
       "verse": 16,
-      "text": "Now therefore stand and see this great thing that the LORD will do before your eyes.",
-      "links": "<a href='/AIV/2/14/13'>Ex. 14:13</a>",
-      "comment": "Samuel announces a sign to confirm his message."
+      "text": "Now therefore, stand still and see the great thing the Lord will do before your eyes.",
+      "links": "<a href='/AIV/2/14/13'>Exod 14:13</a>",
+      "comment": "As in Exodus, God acts before His people to demonstrate His power. The motif of standing still echoes faith and trust, seen ultimately in the New Testament."
     },
     {
-      "pk": 30701217,
+      "pk": 9012017,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 12,
       "verse": 17,
-      "text": "Is it not wheat harvest today? I will call to the LORD, and He will send thunder and rain, so that you may know and see that your wickedness is great, which you have done in the sight of the LORD by asking for a king for yourselves.\"",
-      "links": "<a href='/AIV/9/8/7'>1 Sam. 8:7</a>; <a href='/AIV/16/13/22'>Neh. 13:22</a>",
-      "comment": "Wheat harvest (dry season) – rain was a rare miracle, showing God's displeasure."
+      "text": "Isn’t today the wheat harvest? I will call upon the Lord, and He will send thunder and rain. Then you will know and see that your wickedness is great which you have done in the Lord’s sight by requesting a king for yourselves.",
+      "links": "<a href='/AIV/2/9/23'>Exod 9:23</a>; <a href='/AIV/9/8/19-20'>1Sam 8:19-20</a>",
+      "comment": "Divine signs reinforce Samuel’s warning. Spiritual consequences for rejecting God’s kingship are made visible, yet God remains ready to forgive."
     },
     {
-      "pk": 30701218,
+      "pk": 9012018,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 12,
       "verse": 18,
-      "text": "So Samuel called to the LORD, and the LORD sent thunder and rain that day; and all the people greatly feared the LORD and Samuel.",
-      "links": "<a href='/AIV/2/9/23'>Ex. 9:23</a>",
-      "comment": "God responds immediately to Samuel’s prayer."
+      "text": "So Samuel called upon the Lord, and the Lord sent thunder and rain that day, and all the people greatly feared the Lord and Samuel.",
+      "links": "<a href='/AIV/2/9/23'>Exod 9:23</a>; <a href='/AIV/9/3/19'>1Sam 3:19</a>",
+      "comment": "The miracle affirms Samuel’s prophetic office, showing the continued importance of intercessory prayer and the connection between leadership and divine action."
     },
     {
-      "pk": 30701219,
+      "pk": 9012019,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 12,
       "verse": 19,
-      "text": "All the people said to Samuel, \"Pray for your servants to the LORD your God, so that we do not die; for we have added to all our sins this evil, to ask for a king for ourselves.\"",
-      "links": "<a href='/AIV/2/9/28'>Ex. 9:28</a>; <a href='/AIV/9/7/8'>1 Sam. 7:8</a>",
-      "comment": "The people confess their sin and fear the LORD's judgment."
+      "text": "All the people said to Samuel, 'Pray to the Lord your God for your servants, so that we do not die, for we have added to all our sins this evil by asking for a king.'",
+      "links": "<a href='/AIV/2/32/30-32'>Exod 32:30-32</a>",
+      "comment": "The plea for intercessory prayer suggests the ongoing need for mediators. This model prefigures Christ’s eternal priesthood and the ministry of leaders who intercede on behalf of the people."
     },
     {
-      "pk": 30701220,
+      "pk": 9012020,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 12,
       "verse": 20,
-      "text": "Samuel said to the people, \"Do not be afraid. You have done all this evil, yet do not turn aside from following the LORD, but serve the LORD with all your heart.",
-      "links": "<a href='/AIV/5/10/12'>Deut. 10:12</a>",
-      "comment": "Despite their sin, Samuel encourages repentance and whole-hearted service."
+      "text": "Samuel said to the people, 'Do not be afraid. You have done all this evil; yet do not turn aside from following the Lord, but serve the Lord with all your heart.'",
+      "links": "<a href='/AIV/5/6/5'>Deut 6:5</a>",
+      "comment": "Despite sin, Samuel offers hope for repentance and renewal. The focus on serving with all one’s heart points to deeper interior conversion, a foundational Christian theme."
     },
     {
-      "pk": 30701221,
+      "pk": 9012021,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 12,
       "verse": 21,
-      "text": "And do not turn aside after empty things that cannot profit or deliver, for they are empty.",
-      "links": "<a href='/AIV/24/2/5'>Jer. 2:5</a>; <a href='/AIV/19/115/4'>Ps. 115:4</a>",
-      "comment": "\"Empty things\"—idols and false hopes."
+      "text": "Do not turn aside to meaningless things, which cannot profit or deliver, for they are empty.",
+      "links": "<a href='/AIV/19/115/4-8'>Ps 115:4-8</a>; <a href='/AIV/23/44/9-20'>Isa 44:9-20</a>",
+      "comment": "Samuel warns against idolatry and vain pursuits. The warning applies both literally and spiritually, inviting believers to abandon all lesser loves for the true worship of God."
     },
     {
-      "pk": 30701222,
+      "pk": 9012022,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 12,
       "verse": 22,
-      "text": "For the LORD will not forsake His people, for His great name's sake, because it has pleased the LORD to make you His people.",
-      "links": "<a href='/AIV/5/7/8'>Deut. 7:8</a>; <a href='/AIV/19/94/14'>Ps. 94:14</a>",
-      "comment": "God’s covenant faithfulness is based on His own character and purpose."
+      "text": "For the Lord will not forsake His people, for His great name’s sake, because it has pleased Him to make you His people.",
+      "links": "<a href='/AIV/3/26/12'>Lev 26:12</a>; <a href='/AIV/19/94/14'>Ps 94:14</a>",
+      "comment": "God’s faithfulness is bonded with divine purpose. Being God’s people is a gracious gift, not mere human achievement, emphasizing unmerited grace."
     },
     {
-      "pk": 30701223,
+      "pk": 9012023,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 12,
       "verse": 23,
-      "text": "As for me, far be it from me that I should sin against the LORD by ceasing to pray for you; but I will instruct you in the good and right way.",
-      "links": "<a href='/AIV/9/7/5'>1 Sam. 7:5</a>; <a href='/AIV/24/42/4'>Jer. 42:4</a>",
-      "comment": "Samuel defines intercessory prayer and teaching as his ongoing duty."
+      "text": "Moreover, as for me, far be it from me that I should sin against the Lord by ceasing to pray for you. I will instruct you in the good and right way.",
+      "links": "<a href='/AIV/9/7/5'>1Sam 7:5</a>; <a href='/AIV/42/22/32'>Luke 22:32</a>",
+      "comment": "Samuel's commitment to prayer and teaching models the ongoing spiritual guidance and intercession provided by the ordained ministry, echoing concepts found in Christ’s care for the Church."
     },
     {
-      "pk": 30701224,
+      "pk": 9012024,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 12,
       "verse": 24,
-      "text": "Only fear the LORD and serve Him faithfully with all your heart; for consider what great things He has done for you.",
-      "links": "<a href='/AIV/5/10/12'>Deut. 10:12</a>; <a href='/AIV/9/11/13'>1 Sam. 11:13</a>",
-      "comment": "The closing exhortation returns to the theme of whole-hearted service."
+      "text": "Only fear the Lord and serve Him faithfully with all your heart, for consider what great things He has done for you.",
+      "links": "<a href='/AIV/19/103/2'>Ps 103:2</a>; <a href='/AIV/5/10/12'>Deut 10:12</a>",
+      "comment": "A call to remember God’s goodness encourages lifelong fidelity. This posture of gratitude and faithful service is central to Christian spirituality and perfection in love."
     },
     {
-      "pk": 30701225,
+      "pk": 9012025,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 12,
       "verse": 25,
-      "text": "But if you still do wickedly, you will be swept away, both you and your king.\"",
-      "links": "<a href='/AIV/3/26/33'>Lev. 26:33</a>",
-      "comment": "Final warning: consequences for persistent disobedience."
+      "text": "But if you still do wickedly, both you and your king will be swept away.",
+      "links": "<a href='/AIV/9/15/23-28'>1Sam 15:23-28</a>",
+      "comment": "Samuel concludes with a strong warning: actions have consequences for both leaders and people. It points to the necessity of perseverance and true holiness to remain within God’s promises, an enduring principle fulfilled perfectly in Christ and His Church."
     }
   ],
-  "translatedAt": "2025-12-22T08:30:04.295Z"
+  "translatedAt": "2025-12-24T02:54:43.157Z"
 }

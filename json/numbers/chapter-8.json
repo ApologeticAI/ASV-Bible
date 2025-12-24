@@ -1,268 +1,321 @@
 {
-  "book": "Numbers",
+  "book": 4,
+  "bookName": "Numbers",
   "bookAbbreviation": "Num",
   "chapter": 8,
   "verses": [
     {
-      "pk": 80400801,
+      "pk": 4008001,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 8,
       "verse": 1,
       "text": "The LORD spoke to Moses, saying:",
-      "links": "<a href='/AIV/4/7/89'>Num. 7:89</a>",
-      "comment": "Maintains direct address from God to Moses."
+      "links": "<a href='/AIV/2/25/1'>Ex. 25:1</a>; <a href='/AIV/3/24/1'>Lev. 24:1</a>",
+      "comment": "This begins a new section where God gives instructions. As with other commands in the Pentateuch, the authority of God is emphasized."
     },
     {
-      "pk": 80400802,
+      "pk": 4008002,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 8,
       "verse": 2,
-      "text": "Speak to Aaron and say to him, 'When you set up the lamps, the seven lamps shall give light in front of the lampstand.'",
-      "links": "<a href='/AIV/2/25/37'>Ex. 25:37</a>; <a href='/AIV/2/40/25'>Ex. 40:25</a>",
-      "comment": "The lampstand (menorah) is referenced here as in Exodus."
+      "text": "\"Speak to Aaron and say to him, ‘When you set up the lamps, the seven lamps shall give light in front of the lampstand.’\"",
+      "links": "<a href='/AIV/2/25/37'>Ex. 25:37</a>; <a href='/AIV/3/24/2'>Lev. 24:2</a>",
+      "comment": "The lampstand (menorah) symbolized divine light and guidance. According to tradition, its fullness and seven lamps point to perfection and completeness."
     },
     {
-      "pk": 80400803,
+      "pk": 4008003,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 8,
       "verse": 3,
-      "text": "And Aaron did so; he set up the lamps to face toward the front of the lampstand, just as the LORD commanded Moses.",
-      "links": "<a href='/AIV/4/8/2'>Num. 8:2</a>",
-      "comment": "Aaron obeys as instructed; mirrors original Hebrew phrasing."
+      "text": "Aaron did so. He set up the lamps to face forward on the lampstand, just as the LORD commanded Moses.",
+      "links": "<a href='/AIV/2/40/25'>Ex. 40:25</a>",
+      "comment": "Aaron’s obedience is underscored, reflecting both faithfulness and proper priestly function—echoes of later liturgical traditions."
     },
     {
-      "pk": 80400804,
+      "pk": 4008004,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 8,
       "verse": 4,
-      "text": "Now this was the work of the lampstand: hammered gold from its base to its flowers. According to the pattern the LORD had shown Moses, so he made the lampstand.",
-      "links": "<a href='/AIV/2/25/31-40'>Ex. 25:31–40</a>",
-      "comment": "Emphasizes craftsmanship and adherence to God’s revealed design."
+      "text": "Now this was the construction of the lampstand: hammered gold from its base to its blossoms. According to the pattern the LORD had shown Moses, so he made the lampstand.",
+      "links": "<a href='/AIV/2/25/31'>Ex. 25:31</a>; <a href='/AIV/2/25/40'>Ex. 25:40</a>",
+      "comment": "Significant for showing the care and reverence in God’s worship. Typologically, the lampstand can be interpreted as pointing toward Christ, the true light (cf. John 8:12)."
     },
     {
-      "pk": 80400805,
+      "pk": 4008005,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 8,
       "verse": 5,
-      "text": "And the LORD spoke to Moses, saying:",
-      "links": "<a href='/AIV/4/8/1'>Num. 8:1</a>",
-      "comment": "Repeats divine speech formula for a new section."
+      "text": "The LORD spoke to Moses, saying:",
+      "links": "",
+      "comment": "Resumes the direct speech of God to Moses, reinforcing the mediation of God’s commands through an appointed leader."
     },
     {
-      "pk": 80400806,
+      "pk": 4008006,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 8,
       "verse": 6,
-      "text": "Take the Levites from among the people of Israel and cleanse them.",
-      "links": "<a href='/AIV/4/3/5-7'>Num. 3:5–7</a>",
-      "comment": "Clear command for Levite purification."
+      "text": "\"Take the Levites from among the Israelites and cleanse them.\"",
+      "links": "<a href='/AIV/4/3/6'>Num. 3:6</a>; <a href='/AIV/4/8/14'>Num. 8:14</a>",
+      "comment": "The Levites are set apart for specific service. This consecration prefigures sacramental aspects of priestly service seen in later Christian worship."
     },
     {
-      "pk": 80400807,
+      "pk": 4008007,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 8,
       "verse": 7,
-      "text": "This is what you shall do to them to cleanse them: Sprinkle the water of purification on them, and let them shave their whole body and wash their clothes and so purify themselves.",
-      "links": "<a href='/AIV/3/14/8-9'>Lev. 14:8–9</a>",
-      "comment": "Translation maintains details about ritual cleansing."
+      "text": "\"Do this to cleanse them: Sprinkle purifying water on them, have them shave all their body, and wash their clothes, so they will be clean.\"",
+      "links": "<a href='/AIV/4/19/9'>Num. 19:9</a>",
+      "comment": "The use of water and ritual washing foreshadows later themes of baptismal cleansing (cf. Tit. 3:5; 1 Pet. 3:21)."
     },
     {
-      "pk": 80400808,
+      "pk": 4008008,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 8,
       "verse": 8,
-      "text": "Then let them take a young bull and its grain offering of fine flour mixed with oil, and you shall take another young bull for a sin offering.",
-      "links": "<a href='/AIV/3/4/3'>Lev. 4:3</a>; <a href='/AIV/3/8/2'>Lev. 8:2</a>",
-      "comment": "Offerings specified for Levite dedication."
+      "text": "\"Then they shall take a young bull, with its grain offering of fine flour mixed with oil; and you shall take another young bull for a sin offering.\"",
+      "links": "<a href='/AIV/3/4/3'>Lev. 4:3</a>; <a href='/AIV/3/8/8'>Lev. 8:8</a>",
+      "comment": "The dual sacrifice points to both atonement and dedication—two aspects later fulfilled in Christ’s single sacrifice (Heb. 10:10)."
     },
     {
-      "pk": 80400809,
+      "pk": 4008009,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 8,
       "verse": 9,
-      "text": "And you shall bring the Levites before the tent of meeting and assemble the entire congregation of the people of Israel.",
-      "links": "<a href='/AIV/4/27/19'>Num. 27:19</a>",
-      "comment": "Highlights public nature of the consecration."
+      "text": "\"Bring the Levites before the Tent of Meeting, and assemble the entire people of Israel.\"",
+      "links": "<a href='/AIV/4/3/7'>Num. 3:7</a>",
+      "comment": "Rituals are visibly enacted in the presence of the whole congregation, indicating the public nature of religious consecration."
     },
     {
-      "pk": 80400810,
+      "pk": 40080010,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 8,
       "verse": 10,
-      "text": "When you bring the Levites before the LORD, the people of Israel shall lay their hands on the Levites.",
-      "links": "<a href='/AIV/3/16/21'>Lev. 16:21</a>",
-      "comment": "Imparts symbolism of identification and blessing."
+      "text": "\"You shall bring the Levites before the LORD, and the Israelites shall lay their hands on the Levites.\"",
+      "links": "<a href='/AIV/3/8/14'>Lev. 8:14</a>; <a href='/AIV/4/27/18'>Num. 27:18</a>",
+      "comment": "The laying on of hands signifies transfer and commissioning—a practice seen in both Old and New Testament (cf. Acts 6:6, 13:3), and foundational to apostolic succession."
     },
     {
-      "pk": 80400811,
+      "pk": 40080011,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 8,
       "verse": 11,
-      "text": "And Aaron shall offer the Levites before the LORD as a wave offering from the people of Israel, that they may perform the service of the LORD.",
-      "links": "<a href='/AIV/3/8/27'>Lev. 8:27</a>",
-      "comment": "Wave offering means presentation before God; adapts 'wave' for modern comprehension."
+      "text": "\"Aaron shall present the Levites before the LORD as a wave offering from the Israelites, so that they may serve in the work of the LORD.\"",
+      "links": "<a href='/AIV/3/8/15'>Lev. 8:15</a>",
+      "comment": "The Levites are offered symbolically; in Christian interpretation, this foreshadows the offering of lives in service to God (cf. Rom. 12:1)."
     },
     {
-      "pk": 80400812,
+      "pk": 40080012,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 8,
       "verse": 12,
-      "text": "Then the Levites shall lay their hands on the heads of the bulls, and offer one as a sin offering and the other as a burnt offering to the LORD, to make atonement for the Levites.",
-      "links": "<a href='/AIV/3/1/4'>Lev. 1:4</a>; <a href='/AIV/3/4/15'>Lev. 4:15</a>",
-      "comment": "Notes distinction between sin and burnt offerings."
+      "text": "\"The Levites shall lay their hands on the heads of the bulls, and you shall offer one as a sin offering and the other as a burnt offering to the LORD, to make atonement for the Levites.\"",
+      "links": "<a href='/AIV/3/1/4'>Lev. 1:4</a>; <a href='/AIV/3/8/14'>Lev. 8:14</a>",
+      "comment": "Again, the dual aspect of sacrifice: atonement for sin and total dedication. This finds ultimate fulfillment in Christ’s priestly mediation."
     },
     {
-      "pk": 80400813,
+      "pk": 40080013,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 8,
       "verse": 13,
-      "text": "And you shall set the Levites before Aaron and his sons, and offer them as a wave offering to the LORD.",
+      "text": "\"Then you shall set the Levites before Aaron and his sons and present them as a wave offering to the LORD.\"",
       "links": "<a href='/AIV/4/8/11'>Num. 8:11</a>",
-      "comment": "Repeats wave offering phrase for emphasis."
+      "comment": "The wave offering marks the Levites’ transfer to dedicated service. The mediation of Aaron and his sons points to the need for an ordained priesthood."
     },
     {
-      "pk": 80400814,
+      "pk": 40080014,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 8,
       "verse": 14,
-      "text": "Thus you shall separate the Levites from the people of Israel, and the Levites shall be mine.",
-      "links": "<a href='/AIV/4/3/12'>Num. 3:12</a>",
-      "comment": "Emphasizes Levites’ unique dedication to God."
+      "text": "\"In this way you shall separate the Levites from among the Israelites, and the Levites shall be mine.\"",
+      "links": "<a href='/AIV/4/3/45'>Num. 3:45</a>",
+      "comment": "This act of separation for sacred service underscores divine calling and election, typologically related to the idea of a set-apart ministerial priesthood."
     },
     {
-      "pk": 80400815,
+      "pk": 40080015,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 8,
       "verse": 15,
-      "text": "After that, the Levites shall go in to serve at the tent of meeting, when you have cleansed them and offered them as a wave offering.",
-      "links": "<a href='/AIV/4/8/11'>Num. 8:11</a>",
-      "comment": "'Go in to serve' is literal rendering of the Hebrew."
+      "text": "\"After you have purified them and presented them as a wave offering, the Levites shall come to serve at the Tent of Meeting, because they are wholly given to me from among the Israelites.\"",
+      "links": "<a href='/AIV/4/3/7'>Num. 3:7</a>",
+      "comment": "Highlights total dedication, a theme echoed throughout Christian vocational life and clergy."
     },
     {
-      "pk": 80400816,
+      "pk": 40080016,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 8,
       "verse": 16,
-      "text": "For they are wholly given to me from among the people of Israel; instead of all who open the womb, the firstborn of all the people of Israel, I have taken them for myself.",
-      "links": "<a href='/AIV/4/3/12-13'>Num. 3:12–13</a>",
-      "comment": "Phrase 'wholly given' captures Hebrew idiom 'in place of the firstborn.'"
+      "text": "\"For they are given to me in place of all who open the womb, the firstborn of all the Israelites. I have taken them for myself.\"",
+      "links": "<a href='/AIV/2/13/2'>Ex. 13:2</a>; <a href='/AIV/4/3/12'>Num. 3:12</a>",
+      "comment": "Substitution of the Levites for the firstborn points forward symbolically to substitutionary atonement and Christ as the firstborn over all creation (Col. 1:15)."
     },
     {
-      "pk": 80400817,
+      "pk": 40080017,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 8,
       "verse": 17,
-      "text": "For all the firstborn among the people of Israel, both man and beast, are mine; on the day that I struck down all the firstborn in the land of Egypt, I consecrated them for myself.",
-      "links": "<a href='/AIV/2/13/2'>Ex. 13:2</a>; <a href='/AIV/2/12/29'>Ex. 12:29</a>",
-      "comment": "Direct reference to the Exodus events."
+      "text": "\"For every firstborn among the Israelites is mine, both man and animal. On the day I struck down all the firstborn in Egypt, I set them apart for myself.\"",
+      "links": "<a href='/AIV/2/13/15'>Ex. 13:15</a>; <a href='/AIV/2/12/29'>Ex. 12:29</a>",
+      "comment": "Reminds us of the redemption in Egypt and the continuing principle of substitution and consecration."
     },
     {
-      "pk": 80400818,
+      "pk": 40080018,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 8,
       "verse": 18,
-      "text": "And I have taken the Levites instead of all the firstborn among the people of Israel.",
-      "links": "<a href='/AIV/4/3/45'>Num. 3:45</a>",
-      "comment": "Summarizes substitutionary principle."
+      "text": "\"I have taken the Levites instead of all the firstborn among the Israelites.\"",
+      "links": "<a href='/AIV/4/3/41'>Num. 3:41</a>",
+      "comment": "Affirms the Levites’ special role and God’s prerogative in appointing ministers as substitutes for the people."
     },
     {
-      "pk": 80400819,
+      "pk": 40080019,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 8,
       "verse": 19,
-      "text": "And I have given the Levites as a gift to Aaron and his sons from among the people of Israel, to do the service for the people of Israel at the tent of meeting and to make atonement for the people of Israel, so that there may be no plague among the people of Israel when the people of Israel come near the sanctuary.",
-      "links": "<a href='/AIV/4/1/53'>Num. 1:53</a>; <a href='/AIV/4/16/47'>Num. 16:47</a>",
-      "comment": "Expands on Levite responsibilities as mediators."
+      "text": "\"And I have given the Levites as gifts to Aaron and his sons from among the Israelites, to do the service for the Israelites at the Tent of Meeting, and to make atonement for the Israelites, so that there will be no plague among the Israelites when they come near the sanctuary.\"",
+      "links": "<a href='/AIV/4/3/9'>Num. 3:9</a>",
+      "comment": "The Levites function as mediators and protectors of the sacred. At the heart is the principle of atonement through priestly ministry, an idea with rich implications in church tradition."
     },
     {
-      "pk": 80400820,
+      "pk": 40080020,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 8,
       "verse": 20,
-      "text": "So Moses and Aaron and all the congregation of the people of Israel did so to the Levites; according to all that the LORD commanded Moses concerning the Levites, the people of Israel did to them.",
-      "links": "<a href='/AIV/4/8/5'>Num. 8:5</a>",
-      "comment": "Threefold repetition matches original for emphasis."
+      "text": "Moses, Aaron, and all the assembly of the Israelites did everything concerning the Levites according to what the LORD commanded Moses.",
+      "links": "",
+      "comment": "Again, fidelity to divine instruction is emphasized, a model for obedience in all religious practice."
     },
     {
-      "pk": 80400821,
+      "pk": 40080021,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 8,
       "verse": 21,
-      "text": "And the Levites purified themselves and washed their clothes; and Aaron offered them as a wave offering before the LORD, and made atonement for them to cleanse them.",
-      "links": "<a href='/AIV/4/8/7'>Num. 8:7</a>",
-      "comment": "Summarizes cleansing and ritual actions; preserves original sequence."
+      "text": "The Levites purified themselves and washed their clothes, and Aaron presented them as a wave offering before the LORD and made atonement for them to cleanse them.",
+      "links": "<a href='/AIV/4/8/11'>Num. 8:11</a>",
+      "comment": "Shows the importance of cleansing and atonement before entering sacred service. Echoes ritual purity and sacramental preparation for ministry."
     },
     {
-      "pk": 80400822,
+      "pk": 40080022,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 8,
       "verse": 22,
-      "text": "After that, the Levites went in to do their service at the tent of meeting before Aaron and his sons. As the LORD had commanded Moses concerning the Levites, so they did to them.",
-      "links": "<a href='/AIV/4/8/15'>Num. 8:15</a>",
-      "comment": "End of ritual; reference to obedience and fulfillment."
+      "text": "After that, the Levites entered to do their work at the Tent of Meeting, under the oversight of Aaron and his sons. They did everything as the LORD commanded Moses concerning the Levites.",
+      "links": "<a href='/AIV/4/4/16'>Num. 4:16</a>",
+      "comment": "Priestly work is only entered in after necessary preparation, demonstrating the significance of proper rites and authority."
     },
     {
-      "pk": 80400823,
+      "pk": 40080023,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 8,
       "verse": 23,
-      "text": "And the LORD spoke to Moses, saying:",
-      "links": "<a href='/AIV/4/8/1'>Num. 8:1</a>",
-      "comment": "Section break; divine speech form."
+      "text": "The LORD spoke to Moses, saying:",
+      "links": "",
+      "comment": "Introduces another divine teaching, showing the continuity and detail of God’s instruction regarding worship."
     },
     {
-      "pk": 80400824,
+      "pk": 40080024,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 8,
       "verse": 24,
-      "text": "This is what applies to the Levites: from twenty-five years old and upward they shall come to take part in the work of the tent of meeting.",
-      "links": "<a href='/AIV/4/4/3'>Num. 4:3</a>",
-      "comment": "25 years old differs from Num. 4:3 (30 years); possibly a training period."
+      "text": "\"This applies to the Levites: From twenty-five years old and upward they shall enter to serve in the work at the Tent of Meeting.\"",
+      "links": "<a href='/AIV/4/4/23'>Num. 4:23</a>",
+      "comment": "Prescribes the age of service, indicating maturity and readiness for sacred work—a principle reflected in later ordination practices."
     },
     {
-      "pk": 80400825,
+      "pk": 40080025,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 8,
       "verse": 25,
-      "text": "And from the age of fifty years they shall retire from service in the work and shall not serve any more.",
+      "text": "\"From the age of fifty years they shall retire from the work and no longer serve,\"",
       "links": "<a href='/AIV/4/4/3'>Num. 4:3</a>",
-      "comment": "Describes age of retirement for Levites; matches Hebrew meaning."
+      "comment": "This sets a limited term for active service, making a distinction between active ministry and retirement—resonant with the idea of lifelong dedication beyond public ministry."
     },
     {
-      "pk": 80400826,
+      "pk": 40080026,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 8,
       "verse": 26,
-      "text": "They may assist their brothers in performing their duties at the tent of meeting, but they shall not carry out the work themselves. Thus you shall do for the Levites concerning their duties.",
-      "links": "<a href='/AIV/4/4/23'>Num. 4:23</a>",
-      "comment": "Retired Levites may assist but not bear burdens; clear and literal rendering."
+      "text": "\"They may assist their brothers in the Tent of Meeting by keeping guard, but they shall do no regular work. You shall do for the Levites as regards their duties.\"",
+      "links": "<a href='/AIV/4/8/24'>Num. 8:24</a>",
+      "comment": "Even after ‘retirement,’ Levites retain a role in safeguarding the sanctuary, underlying the dignity and enduring nature of priestly service. Reflects the ongoing tradition of prayer and support within a spiritual community."
     }
   ],
-  "translatedAt": "2025-12-20T09:28:07.398Z"
+  "translatedAt": "2025-12-24T01:33:54.105Z"
 }

@@ -1,298 +1,115 @@
 {
-  "book": "2 Samuel",
+  "book": 10,
+  "bookName": "2 Samuel",
   "bookAbbreviation": "2Sam",
   "chapter": 17,
   "verses": [
     {
-      "pk": 2017001,
+      "pk": 10017001,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 17,
       "verse": 1,
-      "text": "Ahithophel said to Absalom, \"Let me choose twelve thousand men, and I will set out tonight in pursuit of David.\"",
-      "links": "<a href='/AIV/10/16/21'>2 Sam. 16:21</a>; <a href='/AIV/10/17/14'>2 Sam. 17:14</a>",
-      "comment": "Translates 'give me twelve thousand men' as 'let me choose twelve thousand men' for clarity."
+      "text": "Ahithophel said to Absalom, 'Let me choose twelve thousand men, and tonight I will pursue David.'",
+      "links": "<a href='/AIV/10/15/31'>2Sam. 15:31</a>; <a href='/AIV/10/16/23'>2Sam. 16:23</a>",
+      "comment": "Ahithophel’s advice is immediate and strategic, showing his prowess as a counselor. This sets up the tension between human wisdom and divine providence, a recurring theme also suggested in Proverbs 16:9."
     },
     {
-      "pk": 2017002,
+      "pk": 10017002,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 17,
       "verse": 2,
-      "text": "I will attack him while he is weary and weak, and I will throw him into a panic. All the people with him will flee, and I will strike down only the king.",
-      "links": "<a href='/AIV/10/15/14'>2 Sam. 15:14</a>; <a href='/AIV/10/17/12'>2 Sam. 17:12</a>",
-      "comment": "Follows the original structure closely. 'The king' refers to David."
+      "text": "'I will attack him while he is weary and discouraged, and I will throw him into a panic. All the people with him will flee, and I will strike down only the king.'",
+      "links": "<a href='/AIV/10/15/30'>2Sam. 15:30</a>",
+      "comment": "Ahithophel aims for a decisive and targeted strike. The notion of sparing the people and focusing on the leader subtly mirrors later teachings on obedience and authority (cf. <a href='/AIV/45/13/1-2'>Rom. 13:1-2</a>)."
     },
     {
-      "pk": 2017003,
+      "pk": 10017003,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 17,
       "verse": 3,
-      "text": "Then I will bring all the people back to you as a bride returns to her husband. You seek the life of only one man; all the people will be at peace.",
-      "links": "<a href='/AIV/10/19/14'>2 Sam. 19:14</a>",
-      "comment": "Maintains metaphor of reconciliation as in Hebrew text."
+      "text": "'Then I will bring back all the people to you, as the return of all depends on the man whom you seek. All the people will be at peace.'",
+      "links": "<a href='/AIV/10/19/9'>2Sam. 19:9</a>; <a href='/AIV/10/15/12'>2Sam. 15:12</a>",
+      "comment": "Ahithophel’s plan seeks to restore unity through singular action. The notion of unity echoes concepts of a restored people gathered around a leader, reminiscent of spiritual unity under a faithful shepherd (cf. <a href='/AIV/26/34/23'>Ezek. 34:23</a>)."
     },
     {
-      "pk": 2017004,
+      "pk": 10017004,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 17,
       "verse": 4,
-      "text": "This advice pleased Absalom and all the elders of Israel.",
-      "links": "<a href='/AIV/10/15/31'>2 Sam. 15:31</a>",
-      "comment": "Literal rendering."
+      "text": "Absalom and all the elders of Israel agreed; Ahithophel’s advice seemed right to them all.",
+      "links": "<a href='/AIV/10/16/15'>2Sam. 16:15</a>",
+      "comment": "Consensus among the elders highlights how group decisions are sometimes swayed by cunning advice rather than seeking the Lord's will (cf. <a href='/AIV/20/3/5-6'>Prov. 3:5-6</a>)."
     },
     {
-      "pk": 2017005,
+      "pk": 10017005,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 17,
       "verse": 5,
-      "text": "But Absalom said, \"Call Hushai the Archite also, and let us hear what he has to say too.\"",
-      "links": "<a href='/AIV/10/15/32'>2 Sam. 15:32</a>",
-      "comment": "\"Also\" and \"too\" both translate 'gam' for emphasis."
+      "text": "But Absalom said, 'Call Hushai the Archite, and let us hear what he has to say also.'",
+      "links": "<a href='/AIV/10/15/32-34'>2Sam. 15:32-34</a>",
+      "comment": "Absalom doubles back for more counsel, allowing God’s hidden plan to unfold—a reminder that earthly wisdom alone is not sufficient (see <a href='/AIV/1/41/38'>Gen. 41:38</a>)."
     },
     {
-      "pk": 2017006,
+      "pk": 10017006,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 17,
       "verse": 6,
-      "text": "When Hushai came to Absalom, Absalom said to him, \"This is what Ahithophel has advised. Should we do as he says? If not, speak up.\"",
-      "links": "<a href='/AIV/10/16/23'>2 Sam. 16:23</a>",
-      "comment": "Follows original dialogue closely."
+      "text": "When Hushai came to Absalom, Absalom said to him, 'Ahithophel has said this. Should we follow his advice? If not, speak.'",
+      "links": "<a href='/AIV/10/16/16-19'>2Sam. 16:16-19</a>",
+      "comment": "Hushai is given a chance to offer alternative counsel. The narrative hints at the providence of God working through faithful servants, as seen with Joseph and Daniel (cf. <a href='/AIV/27/2/14'>Dan. 2:14</a>)."
     },
     {
-      "pk": 2017007,
+      "pk": 10017007,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 17,
       "verse": 7,
-      "text": "Hushai said to Absalom, \"This time the advice Ahithophel has given is not good.\"",
-      "links": "<a href='/AIV/10/15/34'>2 Sam. 15:34</a>",
-      "comment": "\"This time\" is a literal rendering."
+      "text": "Hushai replied to Absalom, 'This time, Ahithophel’s advice is not good.'",
+      "links": "",
+      "comment": "Hushai contests the wise counselor, exemplifying prudence and discernment, virtues praised in wisdom literature (cf. <a href='/AIV/20/1/5'>Prov. 1:5</a>)."
     },
     {
-      "pk": 2017008,
+      "pk": 10017008,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 17,
       "verse": 8,
-      "text": "Hushai continued, \"You know your father and his men—they are mighty warriors, and they are enraged, like a bear robbed of her cubs in the field. Your father is a man of war and will not spend the night with the people.\"",
-      "links": "<a href='/AIV/10/16/15'>2 Sam. 16:15</a>; <a href='/AIV/10/17/1'>2 Sam. 17:1</a>",
-      "comment": "\"Like a bear robbed of her cubs\" matches Hebrew metaphor."
+      "text": "'You know your father and his men; they are mighty warriors, and now they are enraged, like a mother bear robbed of her cubs in the field. Your father is experienced in war and will not spend the night with the troops.'",
+      "links": "<a href='/AIV/10/16/14'>2Sam. 16:14</a>; <a href='/AIV/18/16/11'>Job 16:11</a>",
+      "comment": "Vivid imagery underscores David’s military prowess. The protection described here ties into God’s care for His chosen leaders (cf. <a href='/AIV/19/18/2'>Ps. 18:2</a>)."
     },
     {
-      "pk": 2017009,
+      "pk": 10017009,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 17,
       "verse": 9,
-      "text": "He is now hidden in one of the pits or in some other place. If some of our troops fall first, whoever hears about it will say, 'There is a slaughter among the people who follow Absalom.'",
-      "links": "<a href='/AIV/10/17/7'>2 Sam. 17:7</a>",
-      "comment": "Rendering of 'pits' as places of ambush."
-    },
-    {
-      "pk": 2017010,
-      "translation": "AIV",
-      "book": 10,
-      "chapter": 17,
-      "verse": 10,
-      "text": "Then even the valiant man whose heart is like the heart of a lion will melt in fear, for all Israel knows that your father is a mighty man, and that those with him are valiant men.",
-      "links": "<a href='/AIV/10/16/18'>2 Sam. 16:18</a>",
-      "comment": "'Heart of a lion' follows original metaphor."
-    },
-    {
-      "pk": 2017011,
-      "translation": "AIV",
-      "book": 10,
-      "chapter": 17,
-      "verse": 11,
-      "text": "But my counsel is that all Israel be gathered to you, from Dan to Beersheba, as numerous as the sand by the sea, and that you yourself go into battle.",
-      "links": "<a href='/AIV/10/3/10'>2 Sam. 3:10</a>; <a href='/AIV/01/22/17'>Gen. 22:17</a>",
-      "comment": "'Dan to Beersheba' is a formula meaning the entire land; retained for accuracy."
-    },
-    {
-      "pk": 2017012,
-      "translation": "AIV",
-      "book": 10,
-      "chapter": 17,
-      "verse": 12,
-      "text": "So we will come upon him in whatever place he is found, and we will fall upon him as the dew falls on the ground. None of him or any of the men with him will remain—not even one.",
-      "links": "<a href='/AIV/07/6/37'>Judg. 6:37</a>",
-      "comment": "'As dew falls'—faithful to poetic image."
-    },
-    {
-      "pk": 2017013,
-      "translation": "AIV",
-      "book": 10,
-      "chapter": 17,
-      "verse": 13,
-      "text": "If he withdraws into a city, all Israel will bring ropes to that city, and we will drag it into the valley until there is not a pebble to be found there.\"",
-      "links": "<a href='/AIV/10/17/9'>2 Sam. 17:9</a>",
-      "comment": "Literal imagery, 'pebble' translates 'smallest stone.'"
-    },
-    {
-      "pk": 2017014,
-      "translation": "AIV",
-      "book": 10,
-      "chapter": 17,
-      "verse": 14,
-      "text": "Then Absalom and all the men of Israel said, \"The counsel of Hushai the Archite is better than the counsel of Ahithophel.\" For the Lord had ordained to defeat the good counsel of Ahithophel, so that the Lord might bring disaster on Absalom.",
-      "links": "<a href='/AIV/10/15/34'>2 Sam. 15:34</a>; <a href='/AIV/10/17/23'>2 Sam. 17:23</a>",
-      "comment": "Clarifies the Lord's purpose in overruling Ahithophel."
-    },
-    {
-      "pk": 2017015,
-      "translation": "AIV",
-      "book": 10,
-      "chapter": 17,
-      "verse": 15,
-      "text": "Then Hushai said to Zadok and Abiathar the priests, \"This is what Ahithophel advised Absalom and the elders of Israel, and this is what I have advised.\"",
-      "links": "<a href='/AIV/10/15/35'>2 Sam. 15:35</a>",
-      "comment": "Retains structure for clarity."
-    },
-    {
-      "pk": 2017016,
-      "translation": "AIV",
-      "book": 10,
-      "chapter": 17,
-      "verse": 16,
-      "text": "\"Now, send quickly and tell David, 'Do not stay tonight at the fords of the wilderness, but by all means cross over, or else the king and all the people with him will be swallowed up.'\"",
-      "links": "<a href='/AIV/10/15/28'>2 Sam. 15:28</a>",
-      "comment": "Emphatic warning; follows Hebrew imperatives."
-    },
-    {
-      "pk": 2017017,
-      "translation": "AIV",
-      "book": 10,
-      "chapter": 17,
-      "verse": 17,
-      "text": "Jonathan and Ahimaaz were staying at En-rogel, and a servant girl would go and tell them, and they would go and tell King David, for they could not risk being seen entering the city.",
-      "links": "<a href='/AIV/10/15/27'>2 Sam. 15:27</a>",
-      "comment": "'Could not risk' renders 'dared not be seen'."
-    },
-    {
-      "pk": 2017018,
-      "translation": "AIV",
-      "book": 10,
-      "chapter": 17,
-      "verse": 18,
-      "text": "But a young man saw them and told Absalom. So both of them left quickly and came to the house of a man at Bahurim, who had a well in his courtyard, and they went down into it.",
-      "links": "<a href='/AIV/10/16/5'>2 Sam. 16:5</a>",
-      "comment": "Focuses on their concealment."
-    },
-    {
-      "pk": 2017019,
-      "translation": "AIV",
-      "book": 10,
-      "chapter": 17,
-      "verse": 19,
-      "text": "And the woman took a covering and spread it over the well's opening, and scattered grain on it. Nothing was known about them.",
-      "links": "<a href='/AIV/06/2/6'>Josh. 2:6</a>",
-      "comment": "Matches action in the Hebrew text; compares Rahab's concealment."
-    },
-    {
-      "pk": 2017020,
-      "translation": "AIV",
-      "book": 10,
-      "chapter": 17,
-      "verse": 20,
-      "text": "When Absalom's servants came to the woman at the house, they said, \"Where are Ahimaaz and Jonathan?\" The woman said to them, \"They crossed the brook of water.\" They searched but did not find them, so they returned to Jerusalem.",
-      "links": "<a href='/AIV/10/15/27'>2 Sam. 15:27</a>",
-      "comment": "'Brook of water' as in Hebrew."
-    },
-    {
-      "pk": 2017021,
-      "translation": "AIV",
-      "book": 10,
-      "chapter": 17,
-      "verse": 21,
-      "text": "After they had gone, the two men came up out of the well, went and told King David, and said, \"Arise and cross over the water quickly, for this is what Ahithophel advised against you.\"",
-      "links": "<a href='/AIV/10/15/31'>2 Sam. 15:31</a>",
-      "comment": "Order and phrasing match the Hebrew narration."
-    },
-    {
-      "pk": 2017022,
-      "translation": "AIV",
-      "book": 10,
-      "chapter": 17,
-      "verse": 22,
-      "text": "So David and all the people with him rose and crossed the Jordan. By daybreak, not one was left who had not crossed the Jordan.",
-      "links": "<a href='/AIV/10/17/16'>2 Sam. 17:16</a>",
-      "comment": "'By daybreak' for clarity."
-    },
-    {
-      "pk": 2017023,
-      "translation": "AIV",
-      "book": 10,
-      "chapter": 17,
-      "verse": 23,
-      "text": "When Ahithophel saw that his advice was not followed, he saddled his donkey, went home to his city, set his house in order, and hanged himself. He died and was buried in his father's tomb.",
-      "links": "<a href='/AIV/40/27/5'>Matt. 27:5</a>",
-      "comment": "Direct, literal translation of events."
-    },
-    {
-      "pk": 2017024,
-      "translation": "AIV",
-      "book": 10,
-      "chapter": 17,
-      "verse": 24,
-      "text": "Then David came to Mahanaim, and Absalom crossed the Jordan with all the men of Israel.",
-      "links": "<a href='/AIV/10/2/8'>2 Sam. 2:8</a>",
-      "comment": "Simple, factual reporting as in original."
-    },
-    {
-      "pk": 2017025,
-      "translation": "AIV",
-      "book": 10,
-      "chapter": 17,
-      "verse": 25,
-      "text": "Now Absalom had set Amasa over the army instead of Joab. Amasa was the son of a man named Ithra the Ishmaelite, who had married Abigail the daughter of Nahash, the sister of Zeruiah, Joab's mother.",
-      "links": "<a href='/AIV/10/19/13'>2 Sam. 19:13</a>; <a href='/AIV/13/2/17'>1 Chr. 2:17</a>",
-      "comment": "Names and relationships given in full as in the original."
-    },
-    {
-      "pk": 2017026,
-      "translation": "AIV",
-      "book": 10,
-      "chapter": 17,
-      "verse": 26,
-      "text": "And Israel and Absalom camped in the land of Gilead.",
-      "links": "<a href='/AIV/10/2/8'>2 Sam. 2:8</a>",
-      "comment": "Concise rendering as in Hebrew."
-    },
-    {
-      "pk": 2017027,
-      "translation": "AIV",
-      "book": 10,
-      "chapter": 17,
-      "verse": 27,
-      "text": "When David came to Mahanaim, Shobi son of Nahash from Rabbah of the Ammonites, Machir son of Ammiel from Lo-debar, and Barzillai the Gileadite from Rogelim,",
-      "links": "<a href='/AIV/10/9/4'>2 Sam. 9:4</a>; <a href='/AIV/10/19/31'>2 Sam. 19:31</a>",
-      "comment": "Listing names and cities as per original."
-    },
-    {
-      "pk": 2017028,
-      "translation": "AIV",
-      "book": 10,
-      "chapter": 17,
-      "verse": 28,
-      "text": "brought beds, basins, clay pots, wheat, barley, flour, parched grain, beans, lentils, and roasted seeds,",
-      "links": "<a href='/AIV/10/16/1'>2 Sam. 16:1</a>",
-      "comment": "'Roasted seeds' translates Hebrew 'qālî', meaning parched seed or grits."
-    },
-    {
-      "pk": 2017029,
-      "translation": "AIV",
-      "book": 10,
-      "chapter": 17,
-      "verse": 29,
-      "text": "honey, curds, sheep, and cheese from the herd for David, and for the people with him, to eat. For they said, 'The people are hungry and weary and thirsty in the wilderness.'",
-      "links": "<a href='/AIV/10/16/2'>2 Sam. 16:2</a>",
-      "comment": "Faithful to the original list and purpose statement."
+      "text": "'Right now, he has probably hidden in one of the caves or another place. If some of our men fall at the beginning, whoever hears will say, "
     }
   ],
-  "translatedAt": "2025-12-22T09:43:15.078Z"
+  "translatedAt": "2025-12-24T03:21:26.629Z"
 }

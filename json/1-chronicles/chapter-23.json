@@ -1,328 +1,393 @@
 {
-  "book": "1 Chronicles",
+  "book": 13,
+  "bookName": "1 Chronicles",
   "bookAbbreviation": "1Chr",
   "chapter": 23,
   "verses": [
     {
-      "pk": 1323001,
+      "pk": 13023001,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 23,
       "verse": 1,
-      "text": "When David was old and full of days, he made Solomon his son king over Israel.",
-      "links": "<a href='/AIV/11/1/48'>1 Kings 1:48</a>; <a href='/AIV/13/28/5'>1 Chr. 28:5</a>",
-      "comment": "Matches MT and LXX. 'Full of days' is a literal rendering."
+      "text": "Now when David had grown old and was full of days, he made his son Solomon king over Israel.",
+      "links": "<a href='/AIV/11/1/28-30'>1 Kgs 1:28-30</a>; <a href='/AIV/10/12/24'>2 Sam 12:24</a>",
+      "comment": "David, near the end of his life, ensures a peaceful transition, choosing Solomon in alignment with God's promise (<a href='/AIV/13/17/11-14'>1 Chr 17:11-14</a>), prefiguring Christ the true Son whose rule would bring lasting peace."
     },
     {
-      "pk": 1323002,
+      "pk": 13023002,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 23,
       "verse": 2,
-      "text": "He gathered together all the leaders of Israel, with the priests and the Levites.",
-      "links": "<a href='/AIV/13/13/1'>1 Chr. 13:1</a>",
-      "comment": "Text is consistent with the Hebrew."
+      "text": "Then he gathered together all the leaders of Israel, along with the priests and the Levites.",
+      "links": "<a href='/AIV/13/13/1'>1 Chr 13:1</a>",
+      "comment": "David assembles the elders and spiritual leaders, underlying the unity of civil and liturgical authority in guiding God's people."
     },
     {
-      "pk": 1323003,
+      "pk": 13023003,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 23,
       "verse": 3,
-      "text": "The Levites, who were thirty years old and above, were numbered, and their total number by headcount, was thirty-eight thousand men.",
-      "links": "<a href='/AIV/4/4/3'>Num. 4:3</a>; <a href='/AIV/13/23/24'>1 Chr. 23:24</a>",
-      "comment": "‘Thirty years old and above’ matches MT. Some later verses adjust this age."
+      "text": "And the Levites were counted, thirty years old and upward; their number, by head and man, was thirty-eight thousand.",
+      "links": "<a href='/AIV/4/4/3'>Num 4:3</a>",
+      "comment": "The age of thirty signals spiritual maturity for service, echoing the Levite requirement from the wilderness wanderings. Thirty-eight thousand is a notable expansion (cf. <a href='/AIV/4/4/48'>Num 4:48</a>)."
     },
     {
-      "pk": 1323004,
+      "pk": 13023004,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 23,
       "verse": 4,
-      "text": "Of these, twenty-four thousand were to oversee the work of the house of the Lord, six thousand were officers and judges,",
-      "links": "<a href='/AIV/13/26/29'>1 Chr. 26:29</a>; <a href='/AIV/4/3/7-8'>Num. 3:7-8</a>",
-      "comment": "‘Officers and judges’ are literal translations from the Hebrew."
+      "text": "Of these, twenty-four thousand were appointed to supervise the work of the house of the LORD, six thousand were officials and judges,",
+      "links": "<a href='/AIV/4/1/50-54'>Num 1:50-54</a>",
+      "comment": "Distinct roles are established: service in the temple, and governance. Both the sacred and judicial spheres are integrated, prefiguring the fullness and richness of worship joined to right order."
     },
     {
-      "pk": 1323005,
+      "pk": 13023005,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 23,
       "verse": 5,
-      "text": "four thousand were gatekeepers, and four thousand praised the Lord with the instruments that David had made for giving praise.",
-      "links": "<a href='/AIV/13/15/16'>1 Chr. 15:16</a>; <a href='/AIV/13/25/1'>1 Chr. 25:1</a>",
-      "comment": "‘Giving praise’ is a literal translation."
+      "text": "four thousand were gatekeepers, and four thousand praised the LORD with the instruments that David had made for praise.",
+      "links": "<a href='/AIV/13/15/16'>1 Chr 15:16</a>; <a href='/AIV/19/150/3-5'>Ps 150:3-5</a>",
+      "comment": "Music and worship are paramount in Temple ministry. David’s orchestration of instruments elevates liturgical celebration, pointing toward heavenly worship (cf. <a href='/AIV/66/5/8-14'>Rev 5:8-14</a>)."
     },
     {
-      "pk": 1323006,
+      "pk": 13023006,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 23,
       "verse": 6,
       "text": "David assigned them into divisions according to the sons of Levi: Gershon, Kohath, and Merari.",
-      "links": "<a href='/AIV/1/46/11'>Gen. 46:11</a>; <a href='/AIV/4/3/17-20'>Num. 3:17–20</a>",
-      "comment": "List is consistent with the Pentateuch."
+      "links": "<a href='/AIV/4/3/17-20'>Num 3:17-20</a>",
+      "comment": "These three branches, established in the Law, reflect divinely instituted order, paralleling the enduring structure and continuity of the faith community."
     },
     {
-      "pk": 1323007,
+      "pk": 13023007,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 23,
       "verse": 7,
-      "text": "The sons of Gershon: Ladan and Shimei.",
-      "links": "<a href='/AIV/13/6/17'>1 Chr. 6:17</a>; <a href='/AIV/13/23/21'>1 Chr. 23:21</a>",
-      "comment": "‘Ladan’—alternate spelling: ‘Libni’ in some lists."
+      "text": "Of the Gershonites: Ladan and Shimei.",
+      "links": "<a href='/AIV/4/3/21-22'>Num 3:21-22</a>",
+      "comment": "Gershon’s line continues, with Ladan (or Laadan) and Shimei as heads, showing family heritage as integral in ministry."
     },
     {
-      "pk": 1323008,
+      "pk": 13023008,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 23,
       "verse": 8,
       "text": "The sons of Ladan: Jehiel the chief, Zetham, and Joel, three.",
-      "links": "<a href='/AIV/13/26/21-22'>1 Chr. 26:21–22</a>",
-      "comment": "Literal count and names given."
+      "links": "<a href='/AIV/13/6/20'>1 Chr 6:20</a>",
+      "comment": "Orderly genealogy emphasizes hereditary leadership and continuity in ministerial duties."
     },
     {
-      "pk": 1323009,
+      "pk": 13023009,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 23,
       "verse": 9,
-      "text": "The sons of Shimei: Shelomoth, Haziel, and Haran, three. These were the heads of the families of Ladan.",
-      "links": "<a href='/AIV/13/26/21'>1 Chr. 26:21</a>",
-      "comment": "‘Heads of the families’ translates ‘fathers’ houses’."
+      "text": "The sons of Shimei: Shelomoth, Haziel, and Haran, three; these were the heads of the fathers’ houses of Ladan.",
+      "links": "<a href='/AIV/13/6/20'>1 Chr 6:20</a>",
+      "comment": "Genealogies reinforce the sanctity of lineage, which in the New Testament is fulfilled in Christ's heritage (<a href='/AIV/40/1/1-17'>Matt 1:1-17</a>)."
     },
     {
-      "pk": 1323010,
+      "pk": 13023010,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 23,
       "verse": 10,
       "text": "The sons of Shimei: Jahath, Zina, Jeush, and Beriah. These four were the sons of Shimei.",
-      "links": "<a href='/AIV/13/23/22'>1 Chr. 23:22</a>",
-      "comment": "Names as per MT. ‘Zina’ may also be ‘Zizah’ per some manuscripts."
+      "links": "<a href='/AIV/13/6/43-44'>1 Chr 6:43-44</a>",
+      "comment": "Some variation in names appears in genealogies, reflective of textual transmission over centuries."
     },
     {
-      "pk": 1323011,
+      "pk": 13023011,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 23,
       "verse": 11,
-      "text": "Jahath was the chief, and Zizah the second. But Jeush and Beriah did not have many sons, so they were counted as one family.",
-      "links": "<a href='/AIV/13/23/22'>1 Chr. 23:22</a>",
-      "comment": "‘Counted as one family’ is a clarifying, literal phrase."
+      "text": "Jahath was the chief, and Zizah the second; but Jeush and Beriah did not have many sons, so they counted as a single father's house, together.",
+      "links": "<a href='/AIV/13/5/9'>1 Chr 5:9</a>",
+      "comment": "Genealogical merging when families were small displays practical adaptation in keeping the ministry sufficient and continuous."
     },
     {
-      "pk": 1323012,
+      "pk": 13023012,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 23,
       "verse": 12,
       "text": "The sons of Kohath: Amram, Izhar, Hebron, and Uzziel, four.",
-      "links": "<a href='/AIV/13/6/2'>1 Chr. 6:2</a>; <a href='/AIV/4/4/2'>Num. 4:2</a>",
-      "comment": "Kohath's sons match earlier genealogies."
+      "links": "<a href='/AIV/4/3/19'>Num 3:19</a>; <a href='/AIV/2/6/18-21'>Exod 6:18-21</a>",
+      "comment": "The Kohathites held the highest sacred duties, from whom Moses and Aaron descended — profoundly connected to priesthood and revelation."
     },
     {
-      "pk": 1323013,
+      "pk": 13023013,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 23,
       "verse": 13,
-      "text": "The sons of Amram: Aaron and Moses. Aaron was set apart, he and his sons forever, to consecrate the most holy things, to burn offerings before the Lord, to minister to him and to bless in his name forever.",
-      "links": "<a href='/AIV/2/28/1'>Ex. 28:1</a>; <a href='/AIV/4/18/7'>Num. 18:7</a>",
-      "comment": "‘Consecrate the most holy things’—literal rendering."
+      "text": "The sons of Amram: Aaron and Moses. Aaron was set apart to sanctify the most holy things, he and his sons forever, to burn incense before the LORD, to minister to Him, and to bless in His name forever.",
+      "links": "<a href='/AIV/2/28/1'>Exod 28:1</a>; <a href='/AIV/4/16/40'>Num 16:40</a>",
+      "comment": "Aaron’s line alone offers incense and gives priestly blessing 'forever’— hinting at a perpetual priesthood, completed in Christ’s eternal high priesthood (<a href='/AIV/58/7/23-27'>Heb 7:23–27</a>)."
     },
     {
-      "pk": 1323014,
+      "pk": 13023014,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 23,
       "verse": 14,
       "text": "But as for Moses the man of God, his sons were named among the tribe of Levi.",
-      "links": "<a href='/AIV/6/14/6'>Josh. 14:6</a>; <a href='/AIV/13/26/24'>1 Chr. 26:24</a>",
-      "comment": "‘Man of God’ is a Hebrew title for Moses."
+      "links": "<a href='/AIV/7/18/30'>Judg 18:30</a>",
+      "comment": "Moses’s descendants serve as Levites rather than priests, highlighting that the sanctity of priesthood was not hereditary for all, but for a designated line. In the New Covenant, Christ singularly fulfills both prophet and priest."
     },
     {
-      "pk": 1323015,
+      "pk": 13023015,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 23,
       "verse": 15,
       "text": "The sons of Moses: Gershom and Eliezer.",
-      "links": "<a href='/AIV/2/18/3-4'>Ex. 18:3–4</a>",
-      "comment": "Sons match Exodus genealogy."
+      "links": "<a href='/AIV/2/18/3'>Exod 18:3</a>",
+      "comment": "Gershom and Eliezer are reminders of Moses’ family, but the focus returns quickly to the institution of ordained priesthood rather than mere biological descent."
     },
     {
-      "pk": 1323016,
+      "pk": 13023016,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 23,
       "verse": 16,
-      "text": "The son of Gershom: Shebuel the chief.",
-      "links": "<a href='/AIV/13/26/24'>1 Chr. 26:24</a>",
-      "comment": "Shebuel is a leader of the Gershonites."
+      "text": "The sons of Gershom: Shebuel the chief.",
+      "links": "<a href='/AIV/13/24/20'>1 Chr 24:20</a>",
+      "comment": "Leadership is traced, even if only one prominent descendant is named—in keeping with careful preservation of order in ministry."
     },
     {
-      "pk": 1323017,
+      "pk": 13023017,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 23,
       "verse": 17,
-      "text": "The son of Eliezer was Rehabiah the chief. Eliezer had no other sons, but the sons of Rehabiah were very numerous.",
-      "links": "<a href='/AIV/13/24/21'>1 Chr. 24:21</a>",
-      "comment": "‘Numerous’ translates ‘very many,’ per MT."
+      "text": "The sons of Eliezer: Rehabiah the chief. Eliezer had no other sons, but the sons of Rehabiah were very numerous.",
+      "links": "<a href='/AIV/13/24/21'>1 Chr 24:21</a>",
+      "comment": "God’s blessing continues through Eliezer, emphasizing fruitfulness and recognized lineage within ministerial order."
     },
     {
-      "pk": 1323018,
+      "pk": 13023018,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 23,
       "verse": 18,
-      "text": "The son of Izhar: Shelomith the chief.",
-      "links": "<a href='/AIV/13/24/22'>1 Chr. 24:22</a>",
-      "comment": "Literal as per MT."
+      "text": "The sons of Izhar: Shelomith the chief.",
+      "links": "<a href='/AIV/13/24/22'>1 Chr 24:22</a>",
+      "comment": "This Shelomith leads the Izharite line, important in sanctuary service (cf. <a href='/AIV/4/4/29'>Num 4:29</a>)."
     },
     {
-      "pk": 1323019,
+      "pk": 13023019,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 23,
       "verse": 19,
       "text": "The sons of Hebron: Jeriah the chief, Amariah the second, Jahaziel the third, and Jekameam the fourth.",
-      "links": "<a href='/AIV/13/24/23'>1 Chr. 24:23</a>",
-      "comment": "Follows MT order and naming."
+      "links": "<a href='/AIV/13/24/23'>1 Chr 24:23</a>",
+      "comment": "Detailing sacred office succession ensures faithfulness in worship from generation to generation."
     },
     {
-      "pk": 1323020,
+      "pk": 13023020,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 23,
       "verse": 20,
       "text": "The sons of Uzziel: Micah the chief, and Isshiah the second.",
-      "links": "<a href='/AIV/13/24/24'>1 Chr. 24:24</a>",
-      "comment": "As per the genealogies above."
+      "links": "<a href='/AIV/13/24/24'>1 Chr 24:24</a>",
+      "comment": "Each head is charged with specific sacred duties, exhibiting spiritual headship."
     },
     {
-      "pk": 1323021,
+      "pk": 13023021,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 23,
       "verse": 21,
       "text": "The sons of Merari: Mahli and Mushi. The sons of Mahli: Eleazar and Kish.",
-      "links": "<a href='/AIV/13/6/19'>1 Chr. 6:19</a>; <a href='/AIV/13/24/26'>1 Chr. 24:26</a>",
-      "comment": "Consistent with Levite genealogies."
+      "links": "<a href='/AIV/4/3/20'>Num 3:20</a>; <a href='/AIV/13/24/26-27'>1 Chr 24:26-27</a>",
+      "comment": "The Merarite branch focused on the most practical duties of temple service, a humble calling with its own spiritual dignity."
     },
     {
-      "pk": 1323022,
+      "pk": 13023022,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 23,
       "verse": 22,
-      "text": "Eleazar died and had no sons, but only daughters. Their relatives, the sons of Kish, married them.",
-      "links": "<a href='/AIV/4/36/6'>Num. 36:6</a>",
-      "comment": "Details marriage customs as in Numbers."
+      "text": "Eleazar died without sons, but only daughters. Their cousins, the sons of Kish, married them.",
+      "links": "<a href='/AIV/4/36/6'>Num 36:6</a>",
+      "comment": "Marriage within the tribe kept inheritance and priestly service secure—a model of fidelity to tradition and family piety."
     },
     {
-      "pk": 1323023,
+      "pk": 13023023,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 23,
       "verse": 23,
       "text": "The sons of Mushi: Mahli, Eder, and Jeremoth, three.",
-      "links": "<a href='/AIV/13/24/30'>1 Chr. 24:30</a>",
-      "comment": "Literal rendering."
+      "links": "<a href='/AIV/13/24/30'>1 Chr 24:30</a>",
+      "comment": "Genealogical record continues, underscoring the vital importance of rooting worship in tradition and remembrance."
     },
     {
-      "pk": 1323024,
+      "pk": 13023024,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 23,
       "verse": 24,
-      "text": "These were the sons of Levi by their ancestral houses—the heads of families, listed by name, and counted individually—who did the work for the service of the house of the Lord, from the age of twenty years and up.",
-      "links": "<a href='/AIV/4/8/24'>Num. 8:24</a>; <a href='/AIV/13/23/3'>1 Chr. 23:3</a>",
-      "comment": "The service age here is lowered to 20."
+      "text": "These were the sons of Levi by their fathers’ houses, the heads of families as they were recorded by name, counting each one twenty years old and upward, who worked in the service of the house of the LORD.",
+      "links": "<a href='/AIV/4/8/24-26'>Num 8:24–26</a>",
+      "comment": "Unlike earlier age requirements, service now begins at age twenty, showing adaptation for the expanding ministry—a sign of living tradition coupled with ongoing authority."
     },
     {
-      "pk": 1323025,
+      "pk": 13023025,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 23,
       "verse": 25,
-      "text": "For David said, 'The Lord, the God of Israel, has given rest to his people, and he dwells in Jerusalem forever.'",
-      "links": "<a href='/AIV/13/22/18'>1 Chr. 22:18</a>",
-      "comment": "Following the context of temple rest."
+      "text": "For David said, “The LORD, the God of Israel, has given rest to His people, and He dwells in Jerusalem forever.",
+      "links": "<a href='/AIV/13/17/12'>1 Chr 17:12</a>; <a href='/AIV/19/132/13-14'>Ps 132:13-14</a>",
+      "comment": "The divine presence in Jerusalem foreshadows Christ as Immanuel—God with us — and God’s promise to dwell amidst His people always."
     },
     {
-      "pk": 1323026,
+      "pk": 13023026,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 23,
       "verse": 26,
-      "text": "So the Levites no longer needed to carry the tabernacle or any of its vessels for its service.",
-      "links": "<a href='/AIV/4/4/5-15'>Num. 4:5–15</a>",
-      "comment": "Describes the end of the wandering period."
+      "text": "So the Levites no longer need to carry the tabernacle or any of its utensils for its service.”",
+      "links": "<a href='/AIV/11/8/4'>1 Kgs 8:4</a>",
+      "comment": "Transition to a permanent Temple marks a new stage: the old forms pointing to a higher, more perfect worship. This development hints at the transition from shadow to substance in Christ's fulfillment (cf. <a href='/AIV/58/9/11'>Heb 9:11</a>)."
     },
     {
-      "pk": 1323027,
+      "pk": 13023027,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 23,
       "verse": 27,
-      "text": "For according to the last words of David, the Levites were numbered from twenty years old and above.",
-      "links": "<a href='/AIV/13/23/24'>1 Chr. 23:24</a>; <a href='/AIV/4/8/24'>Num. 8:24</a>",
-      "comment": "‘Last words’—final recorded instructions."
+      "text": "By the last words of David, the Levites were numbered from twenty years old and upward.",
+      "links": "<a href='/AIV/13/23/24'>1 Chr 23:24</a>",
+      "comment": "David’s authority effects this change, reflecting legitimate stewardship and guidance, motifs fulfilled in apostolic ministry."
     },
     {
-      "pk": 1323028,
+      "pk": 13023028,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 23,
       "verse": 28,
-      "text": "For their duty was to assist the sons of Aaron for the service of the house of the Lord—taking care of the courts and the chambers, the cleansing of all that is holy, and the work of the service of the house of God.",
-      "links": "<a href='/AIV/4/3/5'>Num. 3:5</a>; <a href='/AIV/13/9/28'>1 Chr. 9:28</a>",
-      "comment": "Duties reflect temple rather than tabernacle service."
+      "text": "For their role was to assist the sons of Aaron in the service of the house of the LORD, in the courts and chambers, in the purification of all holy things, and the work of the service of the house of God.",
+      "links": "<a href='/AIV/4/3/5-9'>Num 3:5-9</a>",
+      "comment": "The Levites aid the priests, highlighting interdependent orders and a particular focus on ritual purity—a reality fulfilled and superseded in the grace-filled sacraments established by Christ."
     },
     {
-      "pk": 1323029,
+      "pk": 13023029,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 23,
       "verse": 29,
-      "text": "They were to take care of the showbread, the fine flour for the grain offering, the unleavened wafers, the baked offering, the offering mixed with oil, and all measures of quantity and size.",
-      "links": "<a href='/AIV/2/25/30'>Ex. 25:30</a>; <a href='/AIV/3/2/4-5'>Lev. 2:4–5</a>",
-      "comment": "‘All measures’—refers to weights and measures used in worship."
+      "text": "They were to be responsible for the bread of the Presence, the fine flour for the grain offering, the unleavened wafers, what is baked in the pan, what is mixed, and for all measures of quantity and size.",
+      "links": "<a href='/AIV/3/24/5-9'>Lev 24:5-9</a>; <a href='/AIV/2/25/30'>Exod 25:30</a>",
+      "comment": "Temple bread and offerings foreshadow the true Bread, Christ, and the continual worship God desires for His people."
     },
     {
-      "pk": 1323030,
+      "pk": 13023030,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 23,
       "verse": 30,
-      "text": "And they were to stand every morning to thank and praise the Lord, and likewise at evening,",
-      "links": "<a href='/AIV/19/92/2'>Ps. 92:2</a>; <a href='/AIV/13/16/4'>1 Chr. 16:4</a>",
-      "comment": "Recites formal worship duties."
+      "text": "Morning by morning they stood to thank and praise the LORD, and likewise at evening.",
+      "links": "<a href='/AIV/19/92/1-2'>Ps 92:1-2</a>; <a href='/AIV/13/9/33'>1 Chr 9:33</a>",
+      "comment": "Daily prayer is central. The Church would model daily cycles of prayer after this pattern, leading the faithful to unceasing praise."
     },
     {
-      "pk": 1323031,
+      "pk": 13023031,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 23,
       "verse": 31,
-      "text": "as well as at every burnt offering to the Lord—on Sabbaths, new moons, and appointed feasts—according to the number required of them, regularly before the Lord.",
-      "links": "<a href='/AIV/4/28/9-10'>Num. 28:9–10</a>; <a href='/AIV/3/23/2'>Lev. 23:2</a>",
-      "comment": "‘Appointed feasts’ retains Hebrew meaning."
+      "text": "They were to offer all burnt offerings to the LORD on the Sabbaths, new moons, and appointed feasts, according to the number and manner as required, continually before the LORD.",
+      "links": "<a href='/AIV/3/23/1-8'>Lev 23:1-8</a>; <a href='/AIV/4/28/1-4'>Num 28:1-4</a>",
+      "comment": "Faithful observance of feasts foreshadows fulfillment of worship in Christ’s sacrifice and the ultimate eternal liturgy (cf. <a href='/AIV/66/21/22-27'>Rev 21:22-27</a>)."
     },
     {
-      "pk": 1323032,
+      "pk": 13023032,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 23,
       "verse": 32,
-      "text": "And so they kept charge of the Tent of Meeting and the holy place, and helped the sons of Aaron their brothers in the service of the house of the Lord.",
-      "links": "<a href='/AIV/4/18/3-4'>Num. 18:3–4</a>; <a href='/AIV/13/9/27'>1 Chr. 9:27</a>",
-      "comment": "Ending summary of Levite service."
+      "text": "Thus they were to keep charge of the Tent of Meeting, the sanctuary, and to serve the sons of Aaron their brothers, in the service of the house of the LORD.",
+      "links": "<a href='/AIV/4/18/2-6'>Num 18:2-6</a>",
+      "comment": "This division of sacred duties underscores the importance of apostolic succession, charity in mutual service, and a living tradition maintained in unity of worship."
     }
   ],
-  "translatedAt": "2025-12-22T10:55:53.499Z"
+  "translatedAt": "2025-12-24T04:17:50.131Z"
 }

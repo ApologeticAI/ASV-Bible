@@ -1,168 +1,201 @@
 {
-  "book": "Joshua",
+  "book": 6,
+  "bookName": "Joshua",
   "bookAbbreviation": "Josh",
   "chapter": 23,
   "verses": [
     {
-      "pk": 1932230,
+      "pk": 6023001,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 23,
       "verse": 1,
-      "text": "A long time after the LORD had given Israel rest from all their enemies around them, Joshua had grown old and was advanced in age.",
-      "links": "<a href='/AIV/6/21/44'>Josh. 21:44</a>; <a href='/AIV/6/13/1'>Josh. 13:1</a>",
-      "comment": "Phrase 'advanced in age' is a direct rendering of the Hebrew for 'very old'."
+      "text": "After a long time had passed, and the Lord had given Israel rest from all their enemies on every side, and Joshua was old and advanced in years,",
+      "links": "<a href='/AIV/06/21/44'>Josh. 21:44</a>; <a href='/AIV/07/2/18'>Judg. 2:18</a>",
+      "comment": "This verse highlights the fulfillment of God's promise to grant Israel rest in the land (see Josh. 21:44). The motif of 'rest' becomes a recurring biblical image, pointing ahead to the deeper spiritual rest Christ offers (Heb. 4:8-10)."
     },
     {
-      "pk": 1932231,
+      "pk": 6023002,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 23,
       "verse": 2,
-      "text": "Joshua called for all Israel—for their elders, heads, judges, and officers—and said to them, 'I am old and advanced in age.'",
-      "links": "<a href='/AIV/6/24/1'>Josh. 24:1</a>",
-      "comment": "This verse lists the leadership categories as given in the original text."
+      "text": "Joshua called for all Israel, for their elders, heads, judges, and officers, and said to them, 'I am old and advanced in age.'",
+      "links": "<a href='/AIV/05/31/2'>Deut. 31:2</a>",
+      "comment": "Joshua gathers Israel's leaders, reminiscent of Moses' farewell (Deut. 31:2). The succession of leadership underscores the importance of continuity and unity in the people of God."
     },
     {
-      "pk": 1932232,
+      "pk": 6023003,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 23,
       "verse": 3,
-      "text": "You have seen all that the LORD your God has done to all these nations on your behalf, for the LORD your God is the one who has fought for you.",
-      "links": "<a href='/AIV/6/10/14'>Josh. 10:14</a>; <a href='/AIV/6/23/10'>Josh. 23:10</a>",
-      "comment": "Direct statement; uses 'on your behalf' for Hebrew 'before your eyes'."
+      "text": "'You have seen all that the Lord your God has done to all these nations for your sake, for it is the Lord your God who has fought for you.'",
+      "links": "<a href='/AIV/02/14/14'>Ex. 14:14</a>; <a href='/AIV/05/20/4'>Deut. 20:4</a>",
+      "comment": "Joshua credits the Lord for Israel's victories, emphasizing divine initiative and grace—a theme later fully realized in Christ's saving work (Rom. 8:31)."
     },
     {
-      "pk": 1932233,
+      "pk": 6023004,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 23,
       "verse": 4,
-      "text": "Look, I have allotted to you by lot these remaining nations, as an inheritance for your tribes. They remain among all the nations I have cut off, from the Jordan to the Great Sea toward the west.",
-      "links": "<a href='/AIV/6/13/6-7'>Josh. 13:6-7</a>",
-      "comment": "'Great Sea' refers to the Mediterranean, as in the original text."
+      "text": "'See, I have allotted to you these nations that remain, along with all the nations I have already cut off, as an inheritance for your tribes, from the Jordan to the Great Sea in the west.'",
+      "links": "<a href='/AIV/06/13/6-7'>Josh. 13:6-7</a>",
+      "comment": "The 'inheritance' language echoes God’s promise to Abraham (Gen. 12:7). Tribal distribution anticipates the pattern of a unified, yet diverse, people under God's covenant."
     },
     {
-      "pk": 1932234,
+      "pk": 6023005,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 23,
       "verse": 5,
-      "text": "The LORD your God will drive them out from before you and push them away from you. You will possess their land as the LORD your God promised you.",
-      "links": "<a href='/AIV/6/13/6'>Josh. 13:6</a>; <a href='/AIV/2/23/30'>Ex. 23:30</a>",
-      "comment": "'Drive out' matches the strong eviction language of Hebrew."
+      "text": "'The Lord your God will push them out before you and drive them out from your sight, and you shall possess their land, just as the Lord your God promised you.'",
+      "links": "<a href='/AIV/02/23/30'>Ex. 23:30</a>; <a href='/AIV/05/7/22'>Deut. 7:22</a>",
+      "comment": "God’s ongoing action in Israel's conquest shows a persistent, guiding providence. This reflects the assurance that God remains faithful to His people across generations (2 Tim. 2:13)."
     },
     {
-      "pk": 1932235,
+      "pk": 6023006,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 23,
       "verse": 6,
-      "text": "So be very strong to keep and to do all that is written in the Book of the Law of Moses, so that you do not turn aside from it to the right or to the left;",
-      "links": "<a href='/AIV/5/5/32'>Deut. 5:32</a>; <a href='/AIV/6/1/7'>Josh. 1:7</a>",
-      "comment": "Phrase 'not turn aside to the right or to the left' maintained from Hebrew idiom."
+      "text": "'So be very strong to guard and to do all that is written in the Book of the Law of Moses, turning aside from it neither to the right nor to the left,'",
+      "links": "<a href='/AIV/05/5/32'>Deut. 5:32</a>; <a href='/AIV/06/1/7'>Josh. 1:7</a>",
+      "comment": "Fidelity to the Law is presented as the foundation of Israel’s security. Obeying the fullness of God’s commands prefigures the later call to faithful perseverance in the New Covenant (Jas. 1:25)."
     },
     {
-      "pk": 1932236,
+      "pk": 6023007,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 23,
       "verse": 7,
-      "text": "so that you do not mix with these nations who remain among you, nor mention the names of their gods, nor make anyone swear by them, nor serve them, nor bow down to them;",
-      "links": "<a href='/AIV/2/23/13'>Ex. 23:13</a>; <a href='/AIV/19/16/4'>Ps. 16:4</a>",
-      "comment": "'Mix with these nations,' reflects 'go in among,' clarifying separation from idolatry."
+      "text": "'so that you do not mix with these nations that remain among you, nor mention the names of their gods, or swear by them, or serve them, or bow down to them.'",
+      "links": "<a href='/AIV/02/23/13'>Ex. 23:13</a>; <a href='/AIV/05/7/3-4'>Deut. 7:3-4</a>",
+      "comment": "Joshua warns against idolatry and syncretism, showing the need for a distinct, holy people. This sets a spiritual pattern for maintaining spiritual purity and true worship, as seen in the New Testament (2 Cor. 6:16-18)."
     },
     {
-      "pk": 1932237,
+      "pk": 6023008,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 23,
       "verse": 8,
-      "text": "But you must cling to the LORD your God, just as you have done up to this day.",
-      "links": "<a href='/AIV/5/10/20'>Deut. 10:20</a>; <a href='/AIV/6/22/5'>Josh. 22:5</a>",
-      "comment": "'Cling' is literal; same root as 'cleave' or 'hold fast.'"
+      "text": "'But you shall cling to the Lord your God, just as you have done to this day.'",
+      "links": "<a href='/AIV/05/10/20'>Deut. 10:20</a>; <a href='/AIV/06/22/5'>Josh. 22:5</a>",
+      "comment": "The command to 'cling' expresses deep covenant loyalty, a theme mirrored in the call to abide in Christ (John 15:4)."
     },
     {
-      "pk": 1932238,
+      "pk": 6023009,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 23,
       "verse": 9,
-      "text": "For the LORD has driven out great and strong nations from before you, and as for you, no one has stood against you to this day.",
-      "links": "<a href='/AIV/6/1/5'>Josh. 1:5</a>; <a href='/AIV/6/10/8'>Josh. 10:8</a>",
-      "comment": "Phrase 'stood against you' directly reflects Hebrew idiom for resistance."
+      "text": "'For the Lord has driven out great and powerful nations before you; and as for you, no one has been able to stand against you to this day.'",
+      "links": "<a href='/AIV/02/23/27'>Ex. 23:27</a>; <a href='/AIV/06/1/5'>Josh. 1:5</a>",
+      "comment": "God’s victorious power is emphasized—Israel’s security comes by His might, not their own. This ultimately foreshadows the victory Christ wins over all enemies (1 Cor. 15:24-27)."
     },
     {
-      "pk": 1932239,
+      "pk": 6023010,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 23,
       "verse": 10,
-      "text": "One of you puts a thousand to flight, because it is the LORD your God who fights for you, just as He promised you.",
-      "links": "<a href='/AIV/5/32/30'>Deut. 32:30</a>; <a href='/AIV/6/10/42'>Josh. 10:42</a>",
-      "comment": "Uses 'puts to flight,' a standard translation for the Hebrew idiom."
+      "text": "'One man of you puts a thousand to flight, because it is the Lord your God who fights for you, as He promised you.'",
+      "links": "<a href='/AIV/03/26/8'>Lev. 26:8</a>; <a href='/AIV/05/32/30'>Deut. 32:30</a>",
+      "comment": "God enables the few to overcome the many through His presence. Similarly, in Christian life, true strength comes from God’s indwelling and grace (Phil. 4:13)."
     },
     {
-      "pk": 1932240,
+      "pk": 6023011,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 23,
       "verse": 11,
-      "text": "So watch yourselves carefully to love the LORD your God.",
-      "links": "<a href='/AIV/6/22/5'>Josh. 22:5</a>; <a href='/AIV/5/6/5'>Deut. 6:5</a>",
-      "comment": "'Watch yourselves carefully' reflects literal Hebrew phrase for guarding your life."
+      "text": "'So be very careful, therefore, to love the Lord your God.'",
+      "links": "<a href='/AIV/05/6/5'>Deut. 6:5</a>; <a href='/AIV/40/22/37'>Matt. 22:37</a>",
+      "comment": "Love of God is central to the Law and stands as the greatest commandment (Matt. 22:37), both law and gospel united in the call to a wholehearted relationship with God."
     },
     {
-      "pk": 1932241,
+      "pk": 6023012,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 23,
       "verse": 12,
-      "text": "For if you turn away and cling to the remainder of these nations that stay among you and intermarry with them, associating yourselves with them and they with you,",
-      "links": "<a href='/AIV/5/7/3'>Deut. 7:3</a>; <a href='/AIV/6/13/13'>Josh. 13:13</a>",
-      "comment": "'Intermarry' and 'associate' render the two Hebrew verbs for join and mix."
+      "text": "'But if you turn back and cling to the remnant of these nations that remain among you, and form marriages with them, associating with them and they with you,",
+      "links": "<a href='/AIV/02/34/15-16'>Ex. 34:15-16</a>; <a href='/AIV/05/7/3'>Deut. 7:3</a>",
+      "comment": "This warns against covenantal compromise through intermarriage with pagans, stressing purity of faith and worship. Spiritual fidelity is a perennial biblical priority (2 Cor. 11:2-3)."
     },
     {
-      "pk": 1932242,
+      "pk": 6023013,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 23,
       "verse": 13,
-      "text": "know for certain that the LORD your God will no longer drive out these nations from before you. They will be snares and traps to you, whips on your sides, and thorns in your eyes, until you perish from this good land that the LORD your God has given you.",
-      "links": "<a href='/AIV/2/23/33'>Ex. 23:33</a>; <a href='/AIV/4/33/55'>Num. 33:55</a>",
-      "comment": "Kept vivid imagery ('thorns in your eyes, snares, whips') using literal Hebrew."
+      "text": "'know for certain that the Lord your God will no longer drive out these nations before you. Instead, they will be a snare and a trap for you, a whip on your sides and thorns in your eyes, until you perish from this good land the Lord your God has given you.'",
+      "links": "<a href='/AIV/04/33/55'>Num. 33:55</a>; <a href='/AIV/07/2/3'>Judg. 2:3</a>",
+      "comment": "Consequences of disobedience are concrete—Israel risks losing the blessings of the land. The warning reflects the ongoing need for faithfulness, and by extension, the importance of remaining steadfast in faith and practice in every generation."
     },
     {
-      "pk": 1932243,
+      "pk": 6023014,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 23,
       "verse": 14,
-      "text": "Now look, today I am going the way of all the earth. You know in your hearts and souls that not one word of all the good things the LORD your God promised concerning you has failed; all have come to pass, not one of them has failed.",
-      "links": "<a href='/AIV/11/2/2'>1 Kings 2:2</a>; <a href='/AIV/6/21/45'>Josh. 21:45</a>",
-      "comment": "'The way of all the earth' is an idiom meaning death, kept literal."
+      "text": "'Now I am about to go the way of all the earth, and you know with all your heart and soul that not one word has failed of all the good things the Lord your God promised concerning you. All have come to pass. Not a single word has failed.'",
+      "links": "<a href='/AIV/11/2/2'>1 Kgs. 2:2</a>; <a href='/AIV/06/21/45'>Josh. 21:45</a>",
+      "comment": "Joshua, near death, testifies to God’s perfect faithfulness (cf. Josh. 21:45). The reliability of God's word points forward to the faithfulness of Christ as fulfillment (2 Cor. 1:20)."
     },
     {
-      "pk": 1932244,
+      "pk": 6023015,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 23,
       "verse": 15,
-      "text": "But just as all the good things that the LORD your God has promised you have come to you, so will the LORD bring upon you all the evil things, until He has destroyed you from this good land that the LORD your God has given you.",
-      "links": "<a href='/AIV/5/28/15'>Deut. 28:15</a>; <a href='/AIV/6/23/13'>Josh. 23:13</a>",
-      "comment": "Repeats 'the LORD your God has given you' to reflect original parallel structure."
+      "text": "'But just as all the good things the Lord your God promised concerning you have been fulfilled, so will the Lord bring upon you all the evil things, until He has destroyed you from off this good land that He has given you, if you transgress the covenant of the Lord your God, which He commanded you, and serve other gods and bow down to them.'",
+      "links": "<a href='/AIV/03/26/14-39'>Lev. 26:14-39</a>; <a href='/AIV/05/28/15-68'>Deut. 28:15-68</a>",
+      "comment": "God’s covenant blessings and curses go hand-in-hand: both his kindness and justice are at stake (Rom. 11:22). The necessity of obedience to the covenant serves as a spiritual warning for all believers."
     },
     {
-      "pk": 1932245,
+      "pk": 6023016,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 23,
       "verse": 16,
-      "text": "If you transgress the covenant of the LORD your God, which He commanded you, and go and serve other gods and bow down to them, then the anger of the LORD will burn against you, and you will quickly perish from the good land He has given you.",
-      "links": "<a href='/AIV/5/31/16-17'>Deut. 31:16-17</a>; <a href='/AIV/6/23/13'>Josh. 23:13</a>",
-      "comment": "'Transgress the covenant' is a direct phrase from the original; consequences stated plainly."
+      "text": "'Then the anger of the Lord will burst against you, and you will soon perish from the good land He has given you, if you break the covenant of the Lord your God by serving other gods and bowing down to them.'",
+      "links": "<a href='/AIV/05/29/25-28'>Deut. 29:25-28</a>; <a href='/AIV/09/12/15'>1 Sam. 12:15</a>",
+      "comment": "This final warning underlines both God’s justice and the danger of apostasy. It challenges God’s people to persevere in both faith and practice, highlighting the communal nature of faith that is sustained through adherence to divinely instituted leadership, teaching, and sacramental life (see Heb. 10:23-25 for parallels in the New Covenant)."
     }
   ],
-  "translatedAt": "2025-12-22T07:01:53.643Z"
+  "translatedAt": "2025-12-24T02:29:14.996Z"
 }

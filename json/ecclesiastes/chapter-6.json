@@ -1,128 +1,153 @@
 {
-  "book": "Ecclesiastes",
+  "book": 25,
+  "bookName": "Ecclesiastes",
   "bookAbbreviation": "Eccl",
   "chapter": 6,
   "verses": [
     {
-      "pk": 2060001,
+      "pk": 25006001,
       "translation": "AIV",
-      "book": 21,
+      "book": 25,
+      "bookName": "Ecclesiastes",
+      "bookAbbreviation": "Eccl",
       "chapter": 6,
       "verse": 1,
-      "text": "There is an evil that I have seen under the sun, and it lies heavy upon mankind:",
-      "links": "<a href='/AIV/21/1/13'>Eccl. 1:13</a>; <a href='/AIV/21/4/1'>Eccl. 4:1</a>",
-      "comment": "The phrase 'under the sun' is used throughout Ecclesiastes to emphasize the earthly, temporal viewpoint compared to the eternal. This sets the stage for a reflection on the fleeting nature of worldly pursuits."
+      "text": "There is an evil that I have seen under the sun, and it weighs heavily upon mankind:",
+      "links": "<a href='/AIV/21/8/14'>Eccl. 8:14</a>; <a href='/AIV/18/5/7'>Job 5:7</a>",
+      "comment": "The theme of futility and suffering continues here. 'Evil under the sun' is a common refrain for life's apparent unfairness (cf. 8:14). This reflects the reality of a fallen world awaiting redemption (see Rom. 8:20-22)."
     },
     {
-      "pk": 2060002,
+      "pk": 25006002,
       "translation": "AIV",
-      "book": 21,
+      "book": 25,
+      "bookName": "Ecclesiastes",
+      "bookAbbreviation": "Eccl",
       "chapter": 6,
       "verse": 2,
-      "text": "A man to whom God gives riches, possessions, and honor, so that he lacks nothing of all he desires, yet God does not permit him to enjoy them, but a stranger enjoys them. This is vanity; it is a grievous affliction.",
-      "links": "<a href='/AIV/21/5/19'>Eccl. 5:19</a>; <a href='/AIV/19/39/6'>Ps. 39:6</a>",
-      "comment": "Here, the text highlights the limits of earthly blessings apart from God’s purpose, reflecting humanity’s need for a deeper inheritance beyond material wealth. The passive allowance by God hints at divine providence and mystery in worldly affairs."
+      "text": "A man to whom God gives wealth, possessions, and honor, so that he lacks nothing that he desires, yet God does not allow him to enjoy them, but a stranger enjoys them. This is vanity and a grievous evil.",
+      "links": "<a href='/AIV/21/2/26'>Eccl. 2:26</a>; <a href='/AIV/21/5/19'>Eccl. 5:19</a>",
+      "comment": "Wealth and honor themselves are not evil but can become empty if not enjoyed as God's gifts. There is a deep implication that true fulfillment comes from God, and that mere earthly gain is incomplete without a right relationship with the divine. See also the parable of the rich fool in Luke 12:16-21."
     },
     {
-      "pk": 2060003,
+      "pk": 25006003,
       "translation": "AIV",
-      "book": 21,
+      "book": 25,
+      "bookName": "Ecclesiastes",
+      "bookAbbreviation": "Eccl",
       "chapter": 6,
       "verse": 3,
-      "text": "If a man fathers a hundred children and lives many years, so that the days of his years are many, but his soul is not satisfied with life’s good things, and he has no burial, I say that a stillborn child is better off than he.",
-      "links": "<a href='/AIV/21/2/3'>Eccl. 2:3</a>; <a href='/AIV/21/4/3'>Eccl. 4:3</a>",
-      "comment": "The loss of burial rites was seen as a disgrace in ancient Israel, emphasizing the importance of both physical and spiritual fulfillment. It subtly points toward the necessity of community and proper rites, prefiguring sacramental care."
+      "text": "If a man fathers a hundred children and lives many years, so that the days of his years are many, but his soul is not satisfied with life's good things, and he has no burial, I say that a stillborn child is better off than he.",
+      "links": "<a href='/AIV/21/4/3'>Eccl. 4:3</a>; <a href='/AIV/21/2/15-16'>Eccl. 2:15-16</a>",
+      "comment": "The value of earthly success is questioned absent spiritual fulfillment. A proper burial was a sign of honor (see Gen. 23:3-20), and to be denied even that signifies profound emptiness. Christ points to the importance of fullness of life in Him (John 10:10)."
     },
     {
-      "pk": 2060004,
+      "pk": 25006004,
       "translation": "AIV",
-      "book": 21,
+      "book": 25,
+      "bookName": "Ecclesiastes",
+      "bookAbbreviation": "Eccl",
       "chapter": 6,
       "verse": 4,
-      "text": "For it comes in vanity and goes in darkness, and in darkness its name is covered.",
-      "links": "<a href='/AIV/21/4/7'>Eccl. 4:7</a>",
-      "comment": "Spiritual darkness and anonymity highlight the consequences of a life separated from true purpose. The literal meaning refers to obscurity, the spiritual points toward the human need for meaning found in God’s plan."
+      "text": "For it comes in vanity and departs in darkness, and in darkness its name is covered.",
+      "links": "<a href='/AIV/21/5/16'>Eccl. 5:16</a>",
+      "comment": "The stillborn child, like human ambitions, passes unnoticed and unnamed. This illustrates the fleeting nature of earthly notoriety and points the reader to hope in something more enduring—eternal life (see Heb. 11:13-16)."
     },
     {
-      "pk": 2060005,
+      "pk": 25006005,
       "translation": "AIV",
-      "book": 21,
+      "book": 25,
+      "bookName": "Ecclesiastes",
+      "bookAbbreviation": "Eccl",
       "chapter": 6,
       "verse": 5,
-      "text": "Moreover, it has not seen the sun or known anything, yet it finds rest rather than he.",
-      "links": "<a href='/AIV/21/4/2'>Eccl. 4:2</a>; <a href='/AIV/19/116/7'>Ps. 116:7</a>",
-      "comment": "‘Rest’ here gives a spiritual undertone, paralleling the hope of the righteous for ultimate peace beyond earthly toil—anticipating the rest offered in Christ (Matthew 11:28)."
+      "text": "Moreover, it has not seen the sun or known anything; yet it finds more rest than he.",
+      "links": "<a href='/AIV/21/4/3'>Eccl. 4:3</a>",
+      "comment": "Rest is emphasized as greater than all experience without satisfaction. This anticipates New Testament themes of rest in God (Matt. 11:28-29), aligning with spiritual interpretations of eternal peace."
     },
     {
-      "pk": 2060006,
+      "pk": 25006006,
       "translation": "AIV",
-      "book": 21,
+      "book": 25,
+      "bookName": "Ecclesiastes",
+      "bookAbbreviation": "Eccl",
       "chapter": 6,
       "verse": 6,
-      "text": "Even if he should live a thousand years twice over, yet enjoy no good—do not all go to the same place?",
-      "links": "<a href='/AIV/21/2/14'>Eccl. 2:14</a>; <a href='/AIV/21/3/20'>Eccl. 3:20</a>",
-      "comment": "The destination refers to Sheol, the place of the dead (see Genesis 3:19), which highlights the universal destiny of all people and the futility of merely extending earthly life. It leads to reflection on the hope of resurrection."
+      "text": "Even if he lives a thousand years twice over, yet sees no good—do not all go to the same place?",
+      "links": "<a href='/AIV/21/3/20'>Eccl. 3:20</a>; <a href='/AIV/21/9/2'>Eccl. 9:2</a>",
+      "comment": "The question of the afterlife is here raised in its most basic form (cf. 3:20; 12:7). Temporal achievements are fleeting; what matters is what endures beyond death. See 2 Cor. 5:1-10 for Pauline resurrection hope."
     },
     {
-      "pk": 2060007,
+      "pk": 25006007,
       "translation": "AIV",
-      "book": 21,
+      "book": 25,
+      "bookName": "Ecclesiastes",
+      "bookAbbreviation": "Eccl",
       "chapter": 6,
       "verse": 7,
-      "text": "All the toil of man is for his mouth, yet his appetite is never satisfied.",
-      "links": "<a href='/AIV/21/1/8'>Eccl. 1:8</a>; <a href='/AIV/21/4/8'>Eccl. 4:8</a>",
-      "comment": "Human longing is insatiable by material means, indicating the deeper hunger for God and spiritual fulfillment. This lays a foundation for New Testament teachings on the Bread of Life (John 6:35)."
+      "text": "All the toil of man is for his mouth, yet his appetite is not satisfied.",
+      "links": "<a href='/AIV/21/1/8'>Eccl. 1:8</a>; <a href='/AIV/20/27/20'>Prov. 27:20</a>",
+      "comment": "Material desire is insatiable. Spiritually, this hints at humanity’s longing for something more (cf. John 6:35, where Jesus promises true satisfaction)."
     },
     {
-      "pk": 2060008,
+      "pk": 25006008,
       "translation": "AIV",
-      "book": 21,
+      "book": 25,
+      "bookName": "Ecclesiastes",
+      "bookAbbreviation": "Eccl",
       "chapter": 6,
       "verse": 8,
-      "text": "For what advantage has the wise man over the fool? And what does the poor man gain who knows how to conduct himself before the living?",
-      "links": "<a href='/AIV/21/2/15'>Eccl. 2:15</a>; <a href='/AIV/21/9/11'>Eccl. 9:11</a>",
-      "comment": "Earthly wisdom and social skill are ultimately limited in securing true happiness. This echoes the necessity of more than human wisdom: the need for revelation and grace."
+      "text": "For what advantage has the wise man over the fool? And what does the poor man gain by knowing how to conduct himself before the living?",
+      "links": "<a href='/AIV/21/2/14-16'>Eccl. 2:14-16</a>",
+      "comment": "Wisdom and prudence, valuable in themselves, cannot secure lasting fulfillment without grace. Solomon’s reflections urge humility, suggesting the mystery of God's providence in distributing earthly goods."
     },
     {
-      "pk": 2060009,
+      "pk": 25006009,
       "translation": "AIV",
-      "book": 21,
+      "book": 25,
+      "bookName": "Ecclesiastes",
+      "bookAbbreviation": "Eccl",
       "chapter": 6,
       "verse": 9,
-      "text": "Better is the sight of the eyes than the wandering of the appetite. This also is vanity and a chasing after wind.",
+      "text": "Better is the sight of the eyes than the wandering of desire; this also is vanity and a striving after wind.",
       "links": "<a href='/AIV/21/1/14'>Eccl. 1:14</a>; <a href='/AIV/21/4/6'>Eccl. 4:6</a>",
-      "comment": "There is a call here to contentment, but also the warning that mere satisfaction in earthly things is not enough. Spiritual longing for more points toward the promise of fulfillment beyond this life."
+      "comment": "Contentment with what is given surpasses endless dreams. See Phil. 4:11-13, where Paul teaches contentment whatever the circumstance. True rest is found not in possessing, but in receiving as gift."
     },
     {
-      "pk": 2060010,
+      "pk": 25006010,
       "translation": "AIV",
-      "book": 21,
+      "book": 25,
+      "bookName": "Ecclesiastes",
+      "bookAbbreviation": "Eccl",
       "chapter": 6,
       "verse": 10,
-      "text": "Whatever has come to be has already been named, and it is known what man is, and that he is not able to dispute with One stronger than he.",
-      "links": "<a href='/AIV/21/1/9'>Eccl. 1:9</a>; <a href='/AIV/18/9/4'>Job 9:4</a>",
-      "comment": "God’s sovereignty over creation is emphasized, with a subtle note of submission to divine authority. This anticipates the need for humility before God and trust in the divine will."
+      "text": "Whatever has come to be has already been named, and it is known what man is; and he cannot contend with one who is mightier than he.",
+      "links": "<a href='/AIV/21/1/9'>Eccl. 1:9</a>; <a href='/AIV/18/9/12'>Job 9:12</a>",
+      "comment": "God's sovereignty in ordaining events is stressed. Man’s inability to contend with his Maker is a call to humble trust. Compare to Isa. 45:9 and Rom. 9:20, inviting deeper surrender to divine authority."
     },
     {
-      "pk": 2060011,
+      "pk": 25006011,
       "translation": "AIV",
-      "book": 21,
+      "book": 25,
+      "bookName": "Ecclesiastes",
+      "bookAbbreviation": "Eccl",
       "chapter": 6,
       "verse": 11,
-      "text": "The more words, the more vanity, and what is the advantage to man?",
-      "links": "<a href='/AIV/21/5/7'>Eccl. 5:7</a>; <a href='/AIV/21/1/17'>Eccl. 1:17</a>",
-      "comment": "Echoing earlier chapters, the text warns against empty speech and self-reliance. This spiritually suggests the need for guidance through revelation, authority, and tradition."
+      "text": "The more words, the more vanity, and what advantage is that to man?",
+      "links": "<a href='/AIV/21/5/3'>Eccl. 5:3</a>; <a href='/AIV/18/16/3'>Job 16:3</a>",
+      "comment": "Human talk cannot add meaning to life’s mysteries. See especially Matt. 6:7 for Jesus' teaching on simple, sincere prayer. Silent trust in God often yields deeper wisdom."
     },
     {
-      "pk": 2060012,
+      "pk": 25006012,
       "translation": "AIV",
-      "book": 21,
+      "book": 25,
+      "bookName": "Ecclesiastes",
+      "bookAbbreviation": "Eccl",
       "chapter": 6,
       "verse": 12,
-      "text": "For who knows what is good for a man in life, all the days of his fleeting life which he passes like a shadow? For who can tell him what will be after him under the sun?",
-      "links": "<a href='/AIV/21/8/7'>Eccl. 8:7</a>; <a href='/AIV/21/3/22'>Eccl. 3:22</a>",
-      "comment": "The uncertainty of life pushes the reader to seek answers beyond himself—suggesting the necessity of authoritative guidance and hope in divine revelation, which finds its fullness in Christ and the community He establishes."
+      "text": "For who knows what is good for man in life, all the days of his vain life which he spends like a shadow? For who can tell man what will be after him under the sun?",
+      "links": "<a href='/AIV/21/3/22'>Eccl. 3:22</a>; <a href='/AIV/21/2/19'>Eccl. 2:19</a>",
+      "comment": "The limits of human wisdom point to the need for revelation. True understanding comes through trust in God’s plan. This anticipates the fuller revelation brought in Christ, who reveals both the Father and the way to eternal life (see John 14:6)."
     }
   ],
-  "translatedAt": "2025-12-23T06:09:47.445Z"
+  "translatedAt": "2025-12-24T07:09:05.799Z"
 }

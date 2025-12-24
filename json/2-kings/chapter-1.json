@@ -1,188 +1,225 @@
 {
-  "book": "2 Kings",
+  "book": 12,
+  "bookName": "2 Kings",
   "bookAbbreviation": "2Kgs",
   "chapter": 1,
   "verses": [
     {
-      "pk": 1939801,
+      "pk": 12001001,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 1,
       "verse": 1,
-      "text": "After Ahab died, Moab rebelled against Israel.",
-      "links": "<a href='/ESV/10/8/2'>2 Sam. 8:2</a>; <a href='/ESV/12/3/4-5'>2 Kings 3:4-5</a>",
-      "comment": "This succinctly reflects the Hebrew phrase, which simply states Moab rebelled after Ahab's death."
+      "text": "After the death of Ahab, Moab rebelled against Israel.",
+      "links": "<a href='/AIV/11/22/47'>1 Kings 22:47</a>; <a href='/AIV/23/15/1'>Isaiah 15:1</a>",
+      "comment": "Moab's rebellion marks a change in Israel’s influence after Ahab. This sets the historical and political context for the events to follow, connecting back to prophecies about unrest in the region."
     },
     {
-      "pk": 1939802,
+      "pk": 12001002,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 1,
       "verse": 2,
-      "text": "Ahaziah fell through the lattice in his upper room in Samaria and was injured. So he sent messengers, saying to them, 'Go, ask Baal-Zebub, the god of Ekron, if I will recover from this injury.'",
-      "links": "<a href='/ESV/12/8/29'>2 Kings 8:29</a>; <a href='/ESV/12/1/16'>2 Kings 1:16</a>",
-      "comment": "'Baal-Zebub' preserves the Hebrew term; Ekron is a Philistine city."
+      "text": "Now Ahaziah fell through the lattice of his upper room in Samaria and was injured. So he sent messengers, saying to them, 'Go, inquire of Baal-zebub, the god of Ekron, whether I shall recover from this sickness.'",
+      "links": "<a href='/AIV/12/8/8'>2 Kings 8:8</a>; <a href='/AIV/10/23/14'>2 Samuel 23:14</a>",
+      "comment": "Ahaziah’s appeal to a pagan god reveals spiritual compromise. Seeking help from Baal-zebub (literally, 'Lord of the Flies') instead of YHWH is a direct violation of fidelity to God. This foreshadows divine judgment for idolatry."
     },
     {
-      "pk": 1939803,
+      "pk": 12001003,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 1,
       "verse": 3,
-      "text": "But the angel of the Lord said to Elijah the Tishbite, 'Get up, go meet the messengers of the king of Samaria, and ask them: \"Is it because there is no God in Israel that you are going to inquire of Baal-Zebub, the god of Ekron?\"'",
-      "links": "<a href='/ESV/12/1/8'>2 Kings 1:8</a>; <a href='/ESV/12/1/15'>2 Kings 1:15</a>",
-      "comment": "Preserves rhetorical question. 'Angel of the Lord' per usual rendering."
+      "text": "But the angel of the LORD spoke to Elijah the Tishbite and said, 'Arise, go up to meet the messengers of the king of Samaria and say to them, “Is it because there is no God in Israel that you are going to inquire of Baal-zebub, the god of Ekron?”'",
+      "links": "<a href='/AIV/12/1/15'>2 Kings 1:15</a>; <a href='/AIV/09/03/14'>1 Samuel 3:14</a>",
+      "comment": "God’s messenger initiates a direct confrontation with idolatry through Elijah. The rhetorical question highlights the exclusivity of God’s revelation, echoing Deuteronomy 6:4 and the necessity of fidelity to Him alone."
     },
     {
-      "pk": 1939804,
+      "pk": 12001004,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 1,
       "verse": 4,
-      "text": "'Therefore, this is what the Lord says: \"You will not get up from the bed you are lying on. You will surely die.\"' So Elijah left.",
-      "links": "<a href='/ESV/12/1/16'>2 Kings 1:16</a>",
-      "comment": "'Surely die' is a literal rendering from the Hebrew, emphatic repetition."
+      "text": "Now therefore, thus says the LORD: 'You shall not come down from the bed to which you have gone up, but you shall surely die.' So Elijah departed.",
+      "links": "<a href='/AIV/11/21/19'>1 Kings 21:19</a>; <a href='/AIV/12/7/1'>2 Kings 7:1</a>",
+      "comment": "Judgment is pronounced immediately, demonstrating both the seriousness of idolatry and the authority of prophetic word. There is a parallel to the irrevocable nature of divine pronouncements seen in earlier judgments."
     },
     {
-      "pk": 1939805,
+      "pk": 12001005,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 1,
       "verse": 5,
-      "text": "When the messengers returned to Ahaziah, he asked them, 'Why have you come back?'",
-      "links": "<a href='/ESV/12/1/6'>2 Kings 1:6</a>",
-      "comment": "Literal rendering; direct speech."
+      "text": "When the messengers returned to the king, he said to them, 'Why have you come back?'",
+      "links": "<a href='/AIV/12/1/7'>2 Kings 1:7</a>",
+      "comment": "Ahaziah’s question shows surprise at their early return, hinting at the interruption of his plans, and setting up the next confrontation between the prophet and the king’s authority."
     },
     {
-      "pk": 1939806,
+      "pk": 12001006,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 1,
       "verse": 6,
-      "text": "They answered him, 'A man came up to meet us and said, \"Go back to the king who sent you and say: 'This is what the Lord says: Is there no God in Israel, that you are sending messengers to inquire of Baal-Zebub, the god of Ekron? Therefore, you will not get up from the bed you are lying on. You will surely die.'\"'",
-      "links": "<a href='/ESV/12/1/3'>2 Kings 1:3</a>; <a href='/ESV/12/1/4'>2 Kings 1:4</a>",
-      "comment": "Direct repetition of verse 3-4 message; maintains rhetorical force."
+      "text": "They replied, 'A man came up to meet us and said to us, “Go back to the king who sent you and say to him: ‘Thus says the LORD, “Is it because there is no God in Israel that you are sending to inquire of Baal-zebub, the god of Ekron? Therefore you shall not come down from the bed to which you have gone up, but you shall surely die.”’”'",
+      "links": "<a href='/AIV/12/1/3'>2 Kings 1:3</a>; <a href='/AIV/12/1/4'>2 Kings 1:4</a>",
+      "comment": "The messengers accurately repeat Elijah’s words, demonstrating the transmission of prophecy and reinforcing the gravity of God’s message. The repetition of the question intensifies the indictment of Ahaziah’s spiritual failure."
     },
     {
-      "pk": 1939807,
+      "pk": 12001007,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 1,
       "verse": 7,
-      "text": "Ahaziah asked them, 'What kind of man was it who came to meet you and told you these words?'",
-      "links": "<a href='/ESV/12/1/8'>2 Kings 1:8</a>",
-      "comment": "Direct question as in Hebrew text."
+      "text": "He said to them, 'What sort of man was he who came up to meet you and told you these words?'",
+      "links": "<a href='/AIV/12/1/8'>2 Kings 1:8</a>",
+      "comment": "Ahaziah seeks to identify the prophet, suggesting awareness of the prophetic presence in Israel. Prophets are recognized by their manner and authority, reflecting their distinct role as God’s spokespersons."
     },
     {
-      "pk": 1939808,
+      "pk": 12001008,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 1,
       "verse": 8,
-      "text": "They answered, 'He was a man with a hairy garment and with a leather belt around his waist.' Ahaziah said, 'It is Elijah the Tishbite.'",
-      "links": "<a href='/ESV/11/18/46'>1 Kings 18:46</a>; <a href='/ESV/40/3/4'>Matt. 3:4</a>",
-      "comment": "'Hairy garment' is literal; similar clothing description as John the Baptist (Matt. 3:4)."
+      "text": "They answered him, 'He wore a garment of hair, with a leather belt around his waist.' He said, 'It is Elijah the Tishbite.'",
+      "links": "<a href='/AIV/11/19/13'>1 Kings 19:13</a>; <a href='/AIV/40/3/4'>Matthew 3:4</a>",
+      "comment": "Elijah’s distinctive appearance prefigures John the Baptist. The external signs of prophet’s consecration are later emulated in New Testament figures who prepare the way for Christ."
     },
     {
-      "pk": 1939809,
+      "pk": 12001009,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 1,
       "verse": 9,
-      "text": "Then the king sent a captain with his fifty men to Elijah. He went up to Elijah, who was sitting on top of a hill, and said, 'Man of God, the king says, \"Come down!\"'",
-      "links": "<a href='/ESV/12/1/10'>2 Kings 1:10</a>; <a href='/ESV/12/1/13'>2 Kings 1:13</a>",
-      "comment": "'Man of God' is a maintained designation for Elijah."
+      "text": "Then the king sent to him a captain with fifty men. And he went up to him, and there Elijah was, sitting on the top of the hill. And he said to him, 'O man of God, the king says, “Come down.”'",
+      "links": "<a href='/AIV/12/6/13'>2 Kings 6:13</a>",
+      "comment": "The title 'man of God' acknowledges the prophet’s divine commission. The king’s demand is contrasted with God’s authority, highlighting the tension between secular power and prophetic calling."
     },
     {
-      "pk": 1939810,
+      "pk": 12001010,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 1,
       "verse": 10,
-      "text": "Elijah answered the captain, 'If I am a man of God, may fire come down from heaven and consume you and your fifty men.' Then fire came down from heaven and consumed him and his fifty men.",
-      "links": "<a href='/ESV/12/1/12'>2 Kings 1:12</a>; <a href='/ESV/11/18/38'>1 Kings 18:38</a>",
-      "comment": "Maintains conditional phrasing and narrative sequence."
+      "text": "But Elijah answered and said to the captain of fifty, 'If I am a man of God, let fire come down from heaven and consume you and your fifty men.' Then fire came down from heaven and consumed him and his fifty.",
+      "links": "<a href='/AIV/11/18/38'>1 Kings 18:38</a>; <a href='/AIV/42/9/54'>Luke 9:54</a>",
+      "comment": "Divine power is revealed in judgment, asserting the prophet’s authority directly from God. This episode is a prefiguration of the power Christ later entrusts to His apostles, as seen in the spiritual authority shown in the New Testament."
     },
     {
-      "pk": 1939811,
+      "pk": 12001011,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 1,
       "verse": 11,
-      "text": "So the king sent another captain with his fifty men to Elijah. He said, 'Man of God, this is what the king says, \"Come down at once!\"'",
-      "links": "<a href='/ESV/12/1/9'>2 Kings 1:9</a>",
-      "comment": "'At once' reflects intensification in command (Hebrew: 'quickly')."
+      "text": "Again, the king sent to him another captain with fifty men. And he answered and said to him, 'O man of God, thus says the king, “Come down quickly.”'",
+      "links": "<a href='/AIV/12/1/9'>2 Kings 1:9</a>",
+      "comment": "Repeated demand for Elijah’s submission shows earthly rulers seeking to assert power over spiritual authority. The urgency in 'quickly' reveals the king’s growing desperation."
     },
     {
-      "pk": 1939812,
+      "pk": 12001012,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 1,
       "verse": 12,
-      "text": "Elijah answered, 'If I am a man of God, may fire come down from heaven and consume you and your fifty men.' And the fire of God came down from heaven and consumed him and his fifty.",
-      "links": "<a href='/ESV/12/1/10'>2 Kings 1:10</a>",
-      "comment": "'Fire of God' is a literal rendering of Hebrew 'esh Elohim'."
+      "text": "But Elijah answered them, 'If I am a man of God, let fire come down from heaven and consume you and your fifty men.' And the fire of God came down from heaven and consumed him and his fifty.",
+      "links": "<a href='/AIV/12/1/10'>2 Kings 1:10</a>; <a href='/AIV/11/18/24'>1 Kings 18:24</a>",
+      "comment": "The repetition confirms the certainty of God’s judgment and the prophet’s divinely approved status. Note the phrase 'fire of God', reminiscent of sacramental signs and divine intervention found throughout salvation history."
     },
     {
-      "pk": 1939813,
+      "pk": 12001013,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 1,
       "verse": 13,
-      "text": "So the king sent a third captain with his fifty men. This captain went up, fell on his knees before Elijah, and pleaded with him, 'Man of God, please let my life and the lives of these fifty servants be precious in your sight.'",
-      "links": "<a href='/ESV/12/1/14'>2 Kings 1:14</a>",
-      "comment": "'Be precious in your sight' is a literal phrase; maintains humility and desperation."
+      "text": "Once more the king sent a third captain with fifty men. And the third captain of fifty went up, fell on his knees before Elijah, and begged him, 'O man of God, please let my life and the lives of these fifty servants be precious in your sight.'",
+      "links": "<a href='/AIV/12/1/10'>2 Kings 1:10</a>; <a href='/AIV/19/72/14'>Psalm 72:14</a>",
+      "comment": "Humility before the prophet brings mercy, illustrating the principle that reverence toward divine authority opens the way for compassion. This reflects spiritual submission necessary for divine grace."
     },
     {
-      "pk": 1939814,
+      "pk": 12001014,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 1,
       "verse": 14,
-      "text": "'See, fire has come down from heaven and consumed the first two captains and their groups of fifty, but now let my life be precious in your sight.'",
-      "links": "<a href='/ESV/12/1/10'>2 Kings 1:10</a>; <a href='/ESV/12/1/12'>2 Kings 1:12</a>",
-      "comment": "Third captain makes his plea, referencing previous events."
+      "text": "'Fire came down from heaven and consumed the two former captains of fifty men with their fifties; but now let my life be precious in your sight.'",
+      "links": "<a href='/AIV/12/1/10'>2 Kings 1:10</a>",
+      "comment": "The captain recounts the fate of his predecessors as a plea for mercy, emphasizing the value God places on contrition and humility before His agents, a key spiritual theme throughout Scripture."
     },
     {
-      "pk": 1939815,
+      "pk": 12001015,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 1,
       "verse": 15,
-      "text": "Then the angel of the Lord said to Elijah, 'Go down with him. Do not be afraid.' So he got up and went down with him to the king.",
-      "links": "<a href='/ESV/12/1/3'>2 Kings 1:3</a>",
-      "comment": "'Do not be afraid' is a literal rendering of the reassurance."
+      "text": "Then the angel of the LORD said to Elijah, 'Go down with him; do not be afraid of him.' So he arose and went down with him to the king.",
+      "links": "<a href='/AIV/12/1/3'>2 Kings 1:3</a>; <a href='/AIV/41/16/7'>Mark 16:7</a>",
+      "comment": "God’s directive assures Elijah of protection and demonstrates that humility is met with divine favor. The motif of angelic mediation reappears often in Scriptures, signifying God’s providential guidance."
     },
     {
-      "pk": 1939816,
+      "pk": 12001016,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 1,
       "verse": 16,
-      "text": "He said to the king, 'This is what the Lord says: \"Because you have sent messengers to ask Baal-Zebub, the god of Ekron—is it because there is no God in Israel to seek his word?—therefore you will not get up from the bed you are lying on. You will surely die.\"'",
-      "links": "<a href='/ESV/12/1/3'>2 Kings 1:3</a>; <a href='/ESV/12/1/4'>2 Kings 1:4</a>",
-      "comment": "Maintains emphasis and rhetorical question; direct speech."
+      "text": "He said to him, 'Thus says the LORD: “Because you have sent messengers to inquire of Baal-zebub, the god of Ekron, is it because there is no God in Israel to inquire of His word? Therefore you shall not come down from the bed to which you have gone up, but you shall surely die.”'",
+      "links": "<a href='/AIV/12/1/3'>2 Kings 1:3</a>; <a href='/AIV/12/1/4'>2 Kings 1:4</a>",
+      "comment": "Elijah’s proclamation highlights the necessity of recognizing the true God alone as the source of revelation and healing. This aligns with the concept of God's unique authority and the rejection of syncretism."
     },
     {
-      "pk": 1939817,
+      "pk": 12001017,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 1,
       "verse": 17,
-      "text": "So Ahaziah died, just as the word of the Lord spoken by Elijah had declared. Because Ahaziah had no son, Joram became king in his place in the second year of Jehoram son of Jehoshaphat, king of Judah.",
-      "links": "<a href='/ESV/11/22/51'>1 Kings 22:51</a>; <a href='/ESV/12/3/1'>2 Kings 3:1</a>",
-      "comment": "Chronological details conform to received chronology."
+      "text": "So Ahaziah died according to the word of the LORD that Elijah had spoken. And because he had no son, Jehoram became king in his place in the second year of Jehoram the son of Jehoshaphat, king of Judah.",
+      "links": "<a href='/AIV/11/21/29'>1 Kings 21:29</a>; <a href='/AIV/12/3/1'>2 Kings 3:1</a>",
+      "comment": "The fulfillment of Elijah’s prophecy demonstrates the reliability of God’s word, a theme foundational to the unity and authority of the faith. Succession of Jehoram highlights the importance of dynastic continuity in salvation history."
     },
     {
-      "pk": 1939818,
+      "pk": 12001018,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 1,
       "verse": 18,
-      "text": "The rest of the acts of Ahaziah that he did are written in the Book of the Chronicles of the Kings of Israel.",
-      "links": "<a href='/ESV/11/14/19'>1 Kings 14:19</a>",
-      "comment": "Standard closing formula in Kings; refers to lost historical record."
+      "text": "Now the rest of the acts of Ahaziah which he did, are they not written in the book of the chronicles of the kings of Israel?",
+      "links": "<a href='/AIV/13/9/1'>1 Chronicles 9:1</a>; <a href='/AIV/12/14/15'>2 Kings 14:15</a>",
+      "comment": "The closing formula points to historical records, grounding the biblical narrative in history and tradition. It affirms the integration of God’s action and human events, a pattern seen throughout both the Old and New Testaments."
     }
   ],
-  "translatedAt": "2025-12-22T10:09:42.581Z"
+  "translatedAt": "2025-12-24T03:42:43.717Z"
 }

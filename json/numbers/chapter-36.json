@@ -1,138 +1,165 @@
 {
-  "book": "Numbers",
+  "book": 4,
+  "bookName": "Numbers",
   "bookAbbreviation": "Num",
   "chapter": 36,
   "verses": [
     {
-      "pk": 1932410,
+      "pk": 4036001,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 36,
       "verse": 1,
-      "text": "The heads of the fathers’ houses of the clan of the people of Gilead, son of Machir, son of Manasseh, of the clans of the sons of Joseph, came forward and spoke before Moses, and before the chiefs, the heads of the fathers' houses of the people of Israel.",
+      "text": "The family heads from the clan of the descendants of Gilead, the son of Machir, the son of Manasseh, from the clans of the sons of Joseph, came and spoke before Moses, and before the leaders, the heads of the fathers' houses of the people of Israel.",
       "links": "<a href='/AIV/4/27/1'>Num. 27:1</a>",
-      "comment": "Follows the Hebrew structure closely, retaining genealogical detail as in the original."
+      "comment": "This verse sets the context of the clan leaders bringing their concern to Moses, which connects back to the special inheritance case of Zelophehad's daughters (Num. 27:1). The direct approach to leadership illustrates the structure and orderliness of God's people and the significance of obediently following divinely appointed authority."
     },
     {
-      "pk": 1932411,
+      "pk": 4036002,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 36,
       "verse": 2,
-      "text": "They said, 'The LORD commanded my lord to give the land for inheritance by lot to the people of Israel. And my lord was commanded by the LORD to give the inheritance of Zelophehad our brother to his daughters.'",
-      "links": "<a href='/AIV/4/26/55'>Num. 26:55</a>; <a href='/AIV/4/27/7'>Num. 27:7</a>",
-      "comment": "Maintains the formal address and references to earlier chapters."
+      "text": "They said, 'The LORD commanded my lord to give the land as an inheritance by lot to the people of Israel; and my lord was commanded by the LORD to give the inheritance of our brother Zelophehad to his daughters.'",
+      "links": "<a href='/AIV/4/26/56'>Num. 26:56</a>; <a href='/AIV/4/27/7'>Num. 27:7</a>",
+      "comment": "Here they recount God's command to distribute the Promised Land by lot (Num. 26:56) and to grant Zelophehad’s inheritance to his daughters (Num. 27:7). This is a demonstration of both the continuity and unchangeability of divine law—showing that God's word endures and must be upheld."
     },
     {
-      "pk": 1932412,
+      "pk": 4036003,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 36,
       "verse": 3,
-      "text": "'But if they are married to any of the sons of the other tribes of the people of Israel, then their inheritance will be taken from the inheritance of our fathers and added to the inheritance of the tribe into which they marry; so it will be taken away from the lot of our inheritance.'",
-      "links": "<a href='/AIV/4/27/7'>Num. 27:7</a>; <a href='/AIV/4/36/12'>Num. 36:12</a>",
-      "comment": "Faithful to the original scenario about tribal inheritance."
+      "text": "'But if they marry any of the sons from the other tribes of the people of Israel, then their inheritance will be taken away from the inheritance of our fathers and added to the inheritance of the tribe into which they marry; so it will be taken away from our allotted inheritance.'",
+      "links": "<a href='/AIV/3/27/1-11'>Num. 27:1-11</a>",
+      "comment": "This identifies a potential problem: marriages across tribal lines could destabilize Israel’s divinely-ordered inheritance. The concern is not only legal but points to the importance of protecting the unity and continuation of God's covenant promises to each tribe."
     },
     {
-      "pk": 1932413,
+      "pk": 4036004,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 36,
       "verse": 4,
-      "text": "'And when the Jubilee of the people of Israel comes, then their inheritance will be added to the inheritance of the tribe into which they marry; and their inheritance will be taken from the inheritance of the tribe of our fathers.'",
-      "links": "<a href='/AIV/3/25/10'>Lev. 25:10'</a>; <a href='/AIV/4/36/7'>Num. 36:7</a>",
-      "comment": "References Jubilee, clearly echoing Lev. 25."
+      "text": "And when the Jubilee of the people of Israel comes, their inheritance will be added to the tribe into which they marry, so their inheritance will be taken away from the inheritance of the tribe of our fathers.",
+      "links": "<a href='/AIV/3/25/10-13'>Lev. 25:10-13</a>",
+      "comment": "The Jubilee year, a time of restoration, could compound the issue by reassigning land permanently. This highlights an important principle found elsewhere: divine law carefully balances justice and mercy with practical governance, reflecting a holistic vision of God's kingdom."
     },
     {
-      "pk": 1932414,
+      "pk": 4036005,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 36,
       "verse": 5,
-      "text": "Then Moses commanded the people of Israel according to the word of the LORD, saying, 'What the tribe of the sons of Joseph is saying is right.'",
-      "links": "<a href='/AIV/4/27/6-7'>Num. 27:6-7</a>",
-      "comment": "Direct speech aligned with the Hebrew."
+      "text": "Then Moses commanded the people of Israel by the word of the LORD, saying, 'The tribe of the sons of Joseph is right in what they say.'",
+      "links": "<a href='/AIV/5/6/6'>Deut. 6:6</a>; <a href='/AIV/1/18/15'>Ex. 18:15</a>",
+      "comment": "Moses acts not on his own wisdom but by divine command, reinforcing the importance of obedient leadership in safeguarding the structure and intent of God's covenant. This principle foreshadows the function of spiritual leadership in safeguarding doctrinal purity (cf. Matt. 23:2-3)."
     },
     {
-      "pk": 1932415,
+      "pk": 4036006,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 36,
       "verse": 6,
       "text": "'This is what the LORD commands concerning the daughters of Zelophehad: “Let them marry whom they think best, only they must marry within the clan of the tribe of their father.”'",
-      "links": "<a href='/AIV/4/27/1-8'>Num. 27:1-8</a>",
-      "comment": "Close translation; 'let them marry whom they think best' is literal Hebrew phrasing."
+      "links": "<a href='/AIV/4/27/8'>Num. 27:8</a>",
+      "comment": "The Lord’s instruction upholds both individual liberty and tribal unity, preserving the inheritance. Symbolically, this anticipates the later New Testament teaching that personal freedom exists within the boundaries of God’s revealed order (cf. Gal. 5:13)."
     },
     {
-      "pk": 1932416,
+      "pk": 4036007,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 36,
       "verse": 7,
-      "text": "'So no inheritance of the people of Israel shall be transferred from tribe to tribe, for every one of the people of Israel shall hold to the inheritance of the tribe of his fathers.'",
-      "links": "<a href='/AIV/4/36/9'>Num. 36:9</a>",
-      "comment": "Follows the command about inheritance within tribes."
+      "text": "'So no inheritance of the people of Israel shall be transferred from one tribe to another, for every one of the people of Israel shall hold on to the inheritance of the tribe of his fathers.'",
+      "links": "<a href='/AIV/4/26/53'>Num. 26:53</a>",
+      "comment": "This law intends to keep the original tribal distribution intact, reflecting God's faithfulness and design. Theologically, this order models the spiritual inheritance Christians receive through the Church's unbroken tradition and unity."
     },
     {
-      "pk": 1932417,
+      "pk": 4036008,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 36,
       "verse": 8,
-      "text": "'And every daughter who possesses an inheritance in any tribe of the people of Israel shall marry one from the clan of the tribe of her father, so that every one of the people of Israel may possess the inheritance of his fathers.'",
-      "links": "<a href='/AIV/4/27/8'>Num. 27:8</a>; <a href='/AIV/4/36/12'>Num. 36:12</a>",
-      "comment": "Emphasis retained on tribal property."
+      "text": "'And every daughter who possesses an inheritance among the tribes of the people of Israel shall be wife to one of the clan of the tribe of her father, so that every Israelite may possess the inheritance of his fathers.'",
+      "links": "<a href='/AIV/3/25/46'>Lev. 25:46</a>",
+      "comment": "Girls who inherit must marry within their tribe to preserve the God-given order. This has parallels to the unity of the people of God, whose spiritual inheritance comes through family—through both physical and spiritual birth."
     },
     {
-      "pk": 1932418,
+      "pk": 4036009,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 36,
       "verse": 9,
-      "text": "'So no inheritance shall be transferred from one tribe to another tribe, for each tribe of the people of Israel shall hold on to its own inheritance.'",
+      "text": "'So no inheritance shall pass from one tribe to another tribe; for each of the tribes of the people of Israel shall hold on to its own inheritance.'",
       "links": "<a href='/AIV/4/36/7'>Num. 36:7</a>",
-      "comment": "Repetition in the original is preserved."
+      "comment": "This verse reiterates the importance of protecting each tribe's allotted share. This reflects how the New Testament church preserves unity and distinctness within the one universal body (cf. 1 Cor. 12:12–27)."
     },
     {
-      "pk": 1932419,
+      "pk": 4036010,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 36,
       "verse": 10,
-      "text": "The daughters of Zelophehad did as the LORD commanded Moses.",
-      "links": "<a href='/AIV/4/27/1'>Num. 27:1</a>; <a href='/AIV/4/36/6'>Num. 36:6</a>",
-      "comment": "Simple, direct sentence, as in the Hebrew."
+      "text": "The daughters of Zelophehad did as the LORD commanded Moses;",
+      "links": "<a href='/AIV/4/27/1-11'>Num. 27:1-11</a>",
+      "comment": "Zelophehad’s daughters exemplify obedience and faith, receiving their inheritance by faithfully obeying God’s instruction—prefiguring how believers walk in faith under authoritative spiritual guidance."
     },
     {
-      "pk": 1932420,
+      "pk": 4036011,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 36,
       "verse": 11,
-      "text": "For Mahlah, Tirzah, Hoglah, Milcah, and Noah, the daughters of Zelophehad, were married to sons of their uncles.",
-      "links": "<a href='/AIV/4/27/1'>Num. 27:1</a>",
-      "comment": "Original wording retained; 'sons of their uncles' translates literally."
+      "text": "for Mahlah, Tirzah, Hoglah, Milcah, and Noah, the daughters of Zelophehad, were married to the sons of their father's brothers.",
+      "links": "<a href='/AIV/1/24/4'>Gen. 24:4</a>",
+      "comment": "Their choice respects familial and tribal ties, supporting the principle of continuity and inheritance. It also points toward the greater spiritual family into which all Christians are called, being united not merely by blood but by faith."
     },
     {
-      "pk": 1932421,
+      "pk": 4036012,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 36,
       "verse": 12,
-      "text": "They were married into the clans of the sons of Manasseh the son of Joseph, and their inheritance remained in the tribe of the clan of their father.",
-      "links": "<a href='/AIV/4/27/1'>Num. 27:1</a>",
-      "comment": "Clear and matches the original."
+      "text": "They married those from the clans of the sons of Manasseh the son of Joseph, and their inheritance remained in the tribe of the clan of their father.",
+      "links": "<a href='/AIV/6/17/3'>Josh. 17:3</a>",
+      "comment": "The narrative confirms that faithful obedience preserves God’s gifts. Spiritually, this can remind the believer that right order and faithfulness maintain the unity of faith and ensure the fullness of God’s blessing is received and handed down across generations."
     },
     {
-      "pk": 1932422,
+      "pk": 4036013,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 36,
       "verse": 13,
-      "text": "These are the commandments and the rules that the LORD commanded through Moses to the people of Israel in the plains of Moab by the Jordan at Jericho.",
-      "links": "<a href='/AIV/4/22/1'>Num. 22:1</a>; <a href='/AIV/34/8/1'>Deut. 34:8</a>",
-      "comment": "Closing formula; phrase 'by the Jordan at Jericho' as in Hebrew."
+      "text": "These are the commandments and the judgments that the LORD commanded through Moses to the people of Israel in the plains of Moab by the Jordan at Jericho.",
+      "links": "<a href='/AIV/5/1/5'>Deut. 1:5</a>; <a href='/AIV/4/22/1'>Num. 22:1</a>",
+      "comment": "This closing summary reminds readers that all these statutes are divinely revealed, through the mediation of Moses, as the people are about to enter the Promised Land. This foreshadows how Christ mediates the New Covenant—delivering the fullness of God’s law and inheritance to his people (cf. Heb. 8:6–13)."
     }
   ],
-  "translatedAt": "2025-12-20T09:41:44.056Z"
+  "translatedAt": "2025-12-24T01:55:50.787Z"
 }

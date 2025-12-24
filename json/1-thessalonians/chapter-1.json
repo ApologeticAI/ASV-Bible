@@ -1,108 +1,129 @@
 {
-  "book": "1 Thessalonians",
+  "book": 59,
+  "bookName": "1 Thessalonians",
   "bookAbbreviation": "1Thess",
   "chapter": 1,
   "verses": [
     {
-      "pk": 1100101,
+      "pk": 59001001,
       "translation": "AIV",
-      "book": 52,
+      "book": 59,
+      "bookName": "1 Thessalonians",
+      "bookAbbreviation": "1Thess",
       "chapter": 1,
       "verse": 1,
       "text": "Paul, Silvanus, and Timothy, to the church of the Thessalonians in God the Father and the Lord Jesus Christ: Grace to you and peace.",
-      "links": "<a href='/AIV/1/1/2'>Gen. 1:2</a>; <a href='/AIV/46/1/3'>1 Cor. 1:3</a>",
-      "comment": "Paul begins his letter with a greeting typical of his epistles, invoking grace and peace from both God the Father and the Lord Jesus Christ. Notably, Jesus is described as 'Lord', affirming His divinity (see John 1:1; Phil. 2:11), and Paul addresses the church corporately, suggesting a unified community established in apostolic authority."
+      "links": "<a href='/AIV/44/16/1'>Acts 16:1</a>; <a href='/AIV/46/1/3'>1 Cor. 1:3</a>",
+      "comment": "Paul begins the letter by identifying himself and his companions. Drawing attention to the unity of the church 'in God the Father and the Lord Jesus Christ' emphasizes both the divine origin and foundation of the Christian community. The greeting's phrase 'grace to you and peace' elegantly combines traditional greetings from both Greek and Jewish backgrounds, foreshadowing the universal scope of the gospel."
     },
     {
-      "pk": 1100102,
+      "pk": 59001002,
       "translation": "AIV",
-      "book": 52,
+      "book": 59,
+      "bookName": "1 Thessalonians",
+      "bookAbbreviation": "1Thess",
       "chapter": 1,
       "verse": 2,
-      "text": "We always give thanks to God for all of you, making mention of you in our prayers.",
-      "links": "<a href='/AIV/49/1/16'>Eph. 1:16</a>; <a href='/AIV/50/1/3'>Phil. 1:3</a>",
-      "comment": "Paul's practice of continual thanksgiving and intercessory prayer demonstrates deep pastoral care, reflecting how leaders intercede for the spiritual growth of their flocks. This highlights the importance of praying for one another, consistent with spiritual traditions that emphasize communal prayer (cf. James 5:16)."
+      "text": "We give thanks to God always for all of you, remembering you in our prayers continually.",
+      "links": "<a href='/AIV/45/1/8'>Rom. 1:8-9</a>; <a href='/AIV/50/1/3'>Phil. 1:3-4</a>",
+      "comment": "Paul emphasizes the importance of praying for the whole community, showing that intercessory prayer is a constant and vital part of apostolic ministry. This communal aspect speaks to the ongoing spiritual connection between the apostles and the believers."
     },
     {
-      "pk": 1100103,
+      "pk": 59001003,
       "translation": "AIV",
-      "book": 52,
+      "book": 59,
+      "bookName": "1 Thessalonians",
+      "bookAbbreviation": "1Thess",
       "chapter": 1,
       "verse": 3,
-      "text": "Remembering before our God and Father your work of faith, labor of love, and steadfastness of hope in our Lord Jesus Christ.",
-      "links": "<a href='/AIV/46/13/13'>1 Cor. 13:13</a>; <a href='/AIV/58/6/10'>Heb. 6:10</a>",
-      "comment": "Faith, love, and hope are interconnected virtues, considered by Paul to be foundational. This echoes Paul's famous triad in 1 Corinthians 13:13 and highlights the visible fruits of true Christian life. The order—faith, love, hope—suggests a progression from belief to action, culminating in confident perseverance."
+      "text": "We continually remember before our God and Father your work of faith, labor of love, and steadfastness of hope in our Lord Jesus Christ.",
+      "links": "<a href='/AIV/46/13/13'>1 Cor. 13:13</a>; <a href='/AIV/58/6/10-12'>Heb. 6:10-12</a>",
+      "comment": "Paul highlights the three theological virtues: faith, hope, and love. These virtues, worked out in practical and persevering actions, are the marks of authentic Christian life. The early church often taught these as gifts given through grace, nurtured in the life of the believer, pointing toward both individual and communal transformation."
     },
     {
-      "pk": 1100104,
+      "pk": 59001004,
       "translation": "AIV",
-      "book": 52,
+      "book": 59,
+      "bookName": "1 Thessalonians",
+      "bookAbbreviation": "1Thess",
       "chapter": 1,
       "verse": 4,
       "text": "For we know, brothers loved by God, that He has chosen you,",
-      "links": "<a href='/AIV/45/8/29'>Rom. 8:29</a>; <a href='/AIV/49/1/4'>Eph. 1:4</a>",
-      "comment": "Paul affirms their election, which in Scripture often refers to God's sovereign initiative in salvation. This concept of being 'chosen' reflects both divine grace and a calling to holy living (cf. Deut. 7:6), encouraging believers to see themselves as part of God’s continuing plan."
+      "links": "<a href='/AIV/45/8/28-30'>Rom. 8:28-30</a>; <a href='/AIV/49/1/4-6'>Eph. 1:4-6</a>",
+      "comment": "'Chosen by God' reveals both God’s initiative in salvation and His personal love for each believer. Election is not merely a distant decree—but an ongoing relationship rooted in divine love, often lived out together as a spiritual family."
     },
     {
-      "pk": 1100105,
+      "pk": 59001005,
       "translation": "AIV",
-      "book": 52,
+      "book": 59,
+      "bookName": "1 Thessalonians",
+      "bookAbbreviation": "1Thess",
       "chapter": 1,
       "verse": 5,
-      "text": "because our gospel did not come to you in word only, but also in power, and in the Holy Spirit, and with full conviction. You know what manner of men we became among you for your sake.",
-      "links": "<a href='/AIV/46/2/4'>1 Cor. 2:4</a>; <a href='/AIV/44/2/4'>Acts 2:4</a>",
-      "comment": "The gospel is affirmed not only as a message, but as an experience powered by the Holy Spirit. The reference to 'power' and 'conviction' points to the Spirit’s role in confirming truth (see John 16:13), and the apostolic example provides a living witness. A sacramental understanding can be seen here: spiritual realities made visible through human ministry."
+      "text": "because our gospel did not come to you in word only, but also in power and in the Holy Spirit, and with full assurance. You know what kind of men we proved to be among you for your sake.",
+      "links": "<a href='/AIV/45/15/19'>Rom. 15:19</a>; <a href='/AIV/44/1/8'>Acts 1:8</a>",
+      "comment": "The proclamation of the gospel is not merely intellectual, but is accompanied by the power of the Holy Spirit. Authentic apostolic preaching is marked by both spiritual authority and holy living by those sent—continuing the visible work of Christ through the ministry and example of His followers."
     },
     {
-      "pk": 1100106,
+      "pk": 59001006,
       "translation": "AIV",
-      "book": 52,
+      "book": 59,
+      "bookName": "1 Thessalonians",
+      "bookAbbreviation": "1Thess",
       "chapter": 1,
       "verse": 6,
-      "text": "And you became imitators of us and of the Lord, receiving the word in much affliction, with the joy of the Holy Spirit.",
-      "links": "<a href='/AIV/46/11/1'>1 Cor. 11:1</a>; <a href='/AIV/40/5/10-12'>Matt. 5:10–12</a>",
-      "comment": "Christian discipleship involves imitation of apostolic example as well as Christ Himself. The paradox of suffering with joy through the Holy Spirit echoes both Jesus’ teaching on persecution (Matt. 5:10–12) and the call to joy amid trials (James 1:2). By enduring affliction while remaining faithful, believers share in Christ’s suffering and victory."
+      "text": "And you became imitators of us and of the Lord, receiving the word in much affliction, with the joy of the Holy Spirit,",
+      "links": "<a href='/AIV/46/4/16'>1 Cor. 4:16</a>; <a href='/AIV/58/10/34'>Heb. 10:34</a>",
+      "comment": "Paul points out that following Christ and His apostles means embracing both suffering and joy, a pattern consistent with the life of Jesus Himself. This willingness to suffer for the gospel while maintaining joy is a mark of transformation brought about by the Holy Spirit."
     },
     {
-      "pk": 1100107,
+      "pk": 59001007,
       "translation": "AIV",
-      "book": 52,
+      "book": 59,
+      "bookName": "1 Thessalonians",
+      "bookAbbreviation": "1Thess",
       "chapter": 1,
       "verse": 7,
-      "text": "So that you became an example to all the believers in Macedonia and Achaia.",
-      "links": "<a href='/AIV/47/8/1'>2 Cor. 8:1</a>",
-      "comment": "The Thessalonians’ faithfulness made their church a model for others, illustrating how local communities can inspire broader spiritual renewal. Their example foreshadows the principle that the Church is called to be a visible witness in the world (cf. Matt. 5:14–16)."
+      "text": "so that you became an example to all the believers in Macedonia and Achaia.",
+      "links": "<a href='/AIV/47/8/1-2'>2 Cor. 8:1-2</a>",
+      "comment": "The testimony of the Thessalonians became a model for neighboring communities, showing how witnessing to Christ is both personal and communal. The notion of being 'examples' points to the tradition of the saints whose lives inspire and instruct others on the journey of faith."
     },
     {
-      "pk": 1100108,
+      "pk": 59001008,
       "translation": "AIV",
-      "book": 52,
+      "book": 59,
+      "bookName": "1 Thessalonians",
+      "bookAbbreviation": "1Thess",
       "chapter": 1,
       "verse": 8,
-      "text": "For from you the word of the Lord has sounded forth, not only in Macedonia and Achaia, but also everywhere your faith toward God has gone out, so that we have no need to say anything.",
-      "links": "<a href='/AIV/45/1/8'>Rom. 1:8</a>",
-      "comment": "The spread of the gospel through the Thessalonian believers shows their active participation in the mission. Paul is emphasizing a living, proclaiming community that fulfills the Great Commission (Matt. 28:19), and their witness is so effective that their reputation precedes any explanation."
+      "text": "For the word of the Lord rang out from you not only in Macedonia and Achaia but in every place your faith in God has gone out, so that we have no need to say anything.",
+      "links": "<a href='/AIV/52/1/7'>1 Thess. 1:7</a>; <a href='/AIV/45/1/8'>Rom. 1:8</a>",
+      "comment": "The spread of faith through the spoken word and by example fulfills Christ's command to make disciples of all nations (<a href='/AIV/40/28/19'>Mt. 28:19</a>). Their faith is proclaimed not only by preaching but also by the witness of their lives—an early sign of the church’s evangelizing mission."
     },
     {
-      "pk": 1100109,
+      "pk": 59001009,
       "translation": "AIV",
-      "book": 52,
+      "book": 59,
+      "bookName": "1 Thessalonians",
+      "bookAbbreviation": "1Thess",
       "chapter": 1,
       "verse": 9,
-      "text": "For they themselves report about us what kind of welcome we had among you, and how you turned to God from idols to serve the living and true God,",
-      "links": "<a href='/AIV/44/14/15'>Acts 14:15</a>; <a href='/AIV/19/115/4'>Ps. 115:4</a>",
-      "comment": "Paul notes their conversion—abandoning idols for the worship of the living and true God. This recalls Old Testament teachings against idolatry (Exod. 20:3–5) and further links the continuity between the old and new covenants, as well as radical transformation in Christ."
+      "text": "For they themselves report about us what kind of reception we had among you, and how you turned to God from idols to serve the living and true God,",
+      "links": "<a href='/AIV/44/14/15'>Acts 14:15</a>; <a href='/AIV/05/5/7-9'>Deut. 5:7-9</a>",
+      "comment": "Conversion from idols to the living God recalls the call of Israel from idolatry (cf. Deut. 5:7) and reflects both an outward turning and an inward transformation. This pattern of repentance is essential for entering into the fullness of Christian life, pointing to a continuous call to holiness."
     },
     {
-      "pk": 1100110,
+      "pk": 59001010,
       "translation": "AIV",
-      "book": 52,
+      "book": 59,
+      "bookName": "1 Thessalonians",
+      "bookAbbreviation": "1Thess",
       "chapter": 1,
       "verse": 10,
-      "text": "and to wait for His Son from heaven, whom He raised from the dead—Jesus, who delivers us from the wrath to come.",
-      "links": "<a href='/AIV/40/24/30'>Matt. 24:30</a>; <a href='/AIV/45/5/9'>Rom. 5:9</a>; <a href='/AIV/19/2/12'>Ps. 2:12</a>",
-      "comment": "The Thessalonians are directed to wait for Christ’s second coming, affirming both His resurrection and universal deliverance from judgment. Reference to Jesus as the Son and the one 'raised from the dead' underlines His divine sonship and fulfills messianic prophecy (Ps. 2:7). The anticipation of deliverance echoes themes of salvation, judgment, and eternal hope, encouraging believers to remain steadfast in faith and unity until the Lord’s return."
+      "text": "and to wait for His Son from heaven, whom He raised from the dead—Jesus, who rescues us from the coming wrath.",
+      "links": "<a href='/AIV/44/1/11'>Acts 1:11</a>; <a href='/AIV/45/5/9'>Rom. 5:9</a>",
+      "comment": "Paul concludes by affirming the centrality of Christ’s resurrection and returning glory. Waiting for the Son’s return links hope to the promise of deliverance from final judgment, grounding the Christian life in expectation, Eucharistic thanksgiving, and perseverance in faith. As the early believers awaited Christ, so too does the church maintain a visible, anticipatory posture, faithfully looking toward Christ's return as the definitive fulfillment of salvation history."
     }
   ],
-  "translatedAt": "2025-12-23T03:59:08.674Z"
+  "translatedAt": "2025-12-24T12:07:47.031Z"
 }

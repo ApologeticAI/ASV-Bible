@@ -1,108 +1,129 @@
 {
-  "book": "Jonah",
+  "book": 39,
+  "bookName": "Jonah",
   "bookAbbreviation": "Jonah",
   "chapter": 2,
   "verses": [
     {
-      "pk": 1936001,
+      "pk": 39002001,
       "translation": "AIV",
-      "book": 32,
+      "book": 39,
+      "bookName": "Jonah",
+      "bookAbbreviation": "Jonah",
       "chapter": 2,
       "verse": 1,
-      "text": "Then Jonah prayed to the LORD his God from the belly of the fish,",
-      "links": "<a href='/AIV/19/18/6'>Ps. 18:6</a>; <a href='/AIV/19/120/1'>Ps. 120:1</a>",
-      "comment": "Jonah turns in prayer when he is at his lowest, showing the importance of seeking God even in dire circumstances. The act of prayer from within the fish foreshadows drawing near to God in moments of death or despair."
+      "text": "Then Jonah prayed to the LORD his God from inside the fish,",
+      "links": "<a href='/AIV/27/6/22-23'>Dan. 6:22-23</a>; <a href='/AIV/19/130/1'>Ps. 130:1</a>",
+      "comment": "Jonah's prayer marks a turn to God in distress. The context emphasizes turning to God even from seemingly impossible situations, a theme echoed throughout Scripture (e.g., Daniel in the lions' den, Psalm 130)."
     },
     {
-      "pk": 1936002,
+      "pk": 39002002,
       "translation": "AIV",
-      "book": 32,
+      "book": 39,
+      "bookName": "Jonah",
+      "bookAbbreviation": "Jonah",
       "chapter": 2,
       "verse": 2,
-      "text": "He said: 'I called out to the LORD in my distress, and he answered me; out of the depths of the grave I cried, and you heard my voice.'",
-      "links": "<a href='/AIV/19/130/1-2'>Ps. 130:1-2</a>; <a href='/AIV/19/86/13'>Ps. 86:13</a>",
-      "comment": "Jonah's prayer uses language similar to the Psalms, reflecting a pattern of lament and trust in deliverance. The phrase 'out of the depths of the grave' points to themes of death and resurrection, which will later be fulfilled in Christ's own death and victory over the grave. See also Matthew 12:40."
+      "text": "and he said, 'I called out to the LORD in my distress, and he answered me. From the belly of Sheol I cried out, and you heard my voice.'",
+      "links": "<a href='/AIV/19/18/6'>Ps. 18:6</a>; <a href='/AIV/19/120/1'>Ps. 120:1</a>",
+      "comment": "Jonah describes his location as the 'belly of Sheol,' a term often meaning 'the place of the dead.' This foreshadows Christ’s descent into death (see Matthew 12:40), and prefigures deliverance through resurrection. The language of prayer and being heard underscores the power of intercessory prayer."
     },
     {
-      "pk": 1936003,
+      "pk": 39002003,
       "translation": "AIV",
-      "book": 32,
+      "book": 39,
+      "bookName": "Jonah",
+      "bookAbbreviation": "Jonah",
       "chapter": 2,
       "verse": 3,
-      "text": "You threw me into the deep, into the heart of the seas, and the flood surrounded me; all your waves and billows passed over me.",
-      "links": "<a href='/AIV/19/42/7'>Ps. 42:7</a>; <a href='/AIV/18/22/11'>Job 22:11</a>",
-      "comment": "Jonah acknowledges God's sovereignty even in judgment. The flood and overwhelming waters often signify trials and purification in Scripture, hinting at spiritual cleansing and the mysterious working of divine providence."
+      "text": "You cast me into the deep, into the heart of the seas, and the floods surrounded me; all your waves and your breakers washed over me.",
+      "links": "<a href='/AIV/19/42/7'>Ps. 42:7</a>; <a href='/AIV/19/88/6-7'>Ps. 88:6-7</a>",
+      "comment": "Jonah recognizes God’s sovereignty in his trial—'You cast me.' This highlights God’s providence and use of means for His purpose, showing a depth of trust even in hardship. The sea, often associated with chaos, is subject to God's command."
     },
     {
-      "pk": 1936004,
+      "pk": 39002004,
       "translation": "AIV",
-      "book": 32,
+      "book": 39,
+      "bookName": "Jonah",
+      "bookAbbreviation": "Jonah",
       "chapter": 2,
       "verse": 4,
-      "text": "Then I said, ‘I am driven away from your sight; yet I will look again toward your holy temple.’",
-      "links": "<a href='/AIV/19/5/7'>Ps. 5:7</a>; <a href='/AIV/19/31/22'>Ps. 31:22</a>",
-      "comment": "Jonah’s longing to turn to God's holy temple demonstrates the enduring connection between the worshiper and God’s presence. The temple is seen as the center of worship and reconciliation, foreshadowing the greater fulfillment found in Christ's body (John 2:19-21)."
+      "text": "And I said, ‘I have been driven away from your sight; yet I will look again toward your holy temple.’",
+      "links": "<a href='/AIV/11/8/30'>1 Kgs. 8:30</a>; <a href='/AIV/19/5/7'>Ps. 5:7</a>",
+      "comment": "Jonah feels exiled but expresses hope by turning towards the temple, the earthly dwelling of God. This points to the importance of sacred spaces and ordained worship. The temple precursors New Testament teaching about God's dwelling among His people (see John 2:19-21)."
     },
     {
-      "pk": 1936005,
+      "pk": 39002005,
       "translation": "AIV",
-      "book": 32,
+      "book": 39,
+      "bookName": "Jonah",
+      "bookAbbreviation": "Jonah",
       "chapter": 2,
       "verse": 5,
-      "text": "The waters closed in over me to take my life; the deep surrounded me; seaweed was wrapped around my head.",
-      "links": "<a href='/AIV/19/69/1-2'>Ps. 69:1-2</a>",
-      "comment": "'Waters closing in' is an ancient metaphor for death and chaos. Jonah’s imagery closely echoes Psalm 69, linking personal suffering to communal lament and deliverance."
+      "text": "The waters closed in over me to take my life; the deep surrounded me; weeds were wrapped around my head",
+      "links": "<a href='/AIV/19/69/1'>Ps. 69:1</a>; <a href='/AIV/19/18/4-5'>Ps. 18:4-5</a>",
+      "comment": "The imagery of drowning intensifies the sense of death and helplessness, connecting to the Psalms where the righteous cry for deliverance. Early Christian writers often saw in this a symbol of baptism—passing through death to new life."
     },
     {
-      "pk": 1936006,
+      "pk": 39002006,
       "translation": "AIV",
-      "book": 32,
+      "book": 39,
+      "bookName": "Jonah",
+      "bookAbbreviation": "Jonah",
       "chapter": 2,
       "verse": 6,
-      "text": "I went down to the roots of the mountains; the earth with its bars closed upon me forever; yet you brought up my life from the pit, O LORD my God.",
-      "links": "<a href='/AIV/19/30/3'>Ps. 30:3</a>; <a href='/AIV/19/16/10'>Ps. 16:10</a>",
-      "comment": "The descent 'to the roots of the mountains' signifies reaching the point of no hope, even touching the realm of the dead. God's deliverance from 'the pit' reveals His power over death—a theme ultimately fulfilled in Christ’s resurrection."
+      "text": "At the roots of the mountains I went down to the land whose bars closed upon me forever; yet you brought up my life from the pit, O LORD my God.",
+      "links": "<a href='/AIV/19/16/10'>Ps. 16:10</a>; <a href='/AIV/19/30/3'>Ps. 30:3</a>",
+      "comment": "Jonah depicts utter hopelessness but then God's miraculous intervention—lifting him from 'the pit.' This line foreshadows the resurrection, referenced in Peter’s sermon (Acts 2:31)."
     },
     {
-      "pk": 1936007,
+      "pk": 39002007,
       "translation": "AIV",
-      "book": 32,
+      "book": 39,
+      "bookName": "Jonah",
+      "bookAbbreviation": "Jonah",
       "chapter": 2,
       "verse": 7,
-      "text": "When my soul fainted within me, I remembered the LORD, and my prayer came to you, into your holy temple.",
+      "text": "When my life was fainting away, I remembered the LORD, and my prayer came to you, into your holy temple.",
       "links": "<a href='/AIV/19/142/3'>Ps. 142:3</a>; <a href='/AIV/19/18/6'>Ps. 18:6</a>",
-      "comment": "Jonah’s memory of God and prayer toward the temple reinforces the importance of persevering faith and the power of intercessory prayer, particularly in crisis."
+      "comment": "Jonah’s prayer ascending to the temple highlights the value of intercessory prayer and the role of priests and the temple in mediating these prayers (see Revelation 5:8)."
     },
     {
-      "pk": 1936008,
+      "pk": 39002008,
       "translation": "AIV",
-      "book": 32,
+      "book": 39,
+      "bookName": "Jonah",
+      "bookAbbreviation": "Jonah",
       "chapter": 2,
       "verse": 8,
-      "text": "Those who worship worthless idols forsake the mercy that could be theirs.",
-      "links": "<a href='/AIV/19/31/6'>Ps. 31:6</a>; <a href='/AIV/19/16/4'>Ps. 16:4</a>",
-      "comment": "Jonah contrasts idol worship and the mercy found in faithful worship. This underscores the call to exclusive devotion to the true God—mercy is found in fidelity to God's covenant rather than in other allegiances."
+      "text": "Those who regard worthless idols forsake their loyal love.",
+      "links": "<a href='/AIV/05/32/21'>Deut. 32:21</a>; <a href='/AIV/19/31/6'>Ps. 31:6</a>",
+      "comment": "Jonah condemns idolatry, contrasting loyalty to God with empty devotion. This verse reminds us that faithfulness to God includes rejecting false teaching and clinging to the fullness of truth (see 1 Thessalonians 1:9)."
     },
     {
-      "pk": 1936009,
+      "pk": 39002009,
       "translation": "AIV",
-      "book": 32,
+      "book": 39,
+      "bookName": "Jonah",
+      "bookAbbreviation": "Jonah",
       "chapter": 2,
       "verse": 9,
-      "text": "But I, with shouts of thanksgiving, will sacrifice to you; what I have vowed I will fulfill. Salvation belongs to the LORD!",
-      "links": "<a href='/AIV/19/3/8'>Ps. 3:8</a>; <a href='/AIV/19/50/14'>Ps. 50:14</a>",
-      "comment": "Sacrifice, thanksgiving, and fulfilling vows emphasize obedient worship. Notice the importance of sacrificial offering and making vows to God—this hints at the necessity of both genuine faith and concrete acts demonstrating devotion."
+      "text": "But I, with a voice of thanksgiving, will sacrifice to you; what I have vowed I will fulfill. Salvation belongs to the LORD!'",
+      "links": "<a href='/AIV/19/50/14'>Ps. 50:14</a>; <a href='/AIV/19/3/8'>Ps. 3:8</a>",
+      "comment": "Jonah responds with worship and sacrifice, fulfilling vows. The reference to sacrifice links to the importance of liturgical worship and the continuation of offering praises to God through appointed means. Salvation as God's gift prepares the way for Christ’s redemptive work."
     },
     {
-      "pk": 1936010,
+      "pk": 39002010,
       "translation": "AIV",
-      "book": 32,
+      "book": 39,
+      "bookName": "Jonah",
+      "bookAbbreviation": "Jonah",
       "chapter": 2,
       "verse": 10,
-      "text": "And the LORD spoke to the fish, and it vomited Jonah out onto dry land.",
-      "links": "<a href='/AIV/19/66/12'>Ps. 66:12</a>; <a href='/AIV/40/12/40'>Matt. 12:40</a>",
-      "comment": "God’s command over creation is absolute. This miraculous deliverance prefigures resurrection—Jonah’s three days in the fish symbolize Christ’s three days in the tomb and His triumph over death (see Matthew 12:40)."
+      "text": "And the LORD commanded the fish, and it vomited Jonah onto the dry land.",
+      "links": "<a href='/AIV/02/14/30'>Exod. 14:30</a>; <a href='/AIV/40/12/40'>Matt. 12:40</a>",
+      "comment": "God's command to the fish demonstrates His sovereignty over creation. Jonah’s emergence from the fish after three days is a prophetic type pointing directly to Christ’s resurrection on the third day (see Matthew 12:40), affirming God’s plan of salvation accomplished through mighty works."
     }
   ],
-  "translatedAt": "2025-12-23T07:29:35.648Z"
+  "translatedAt": "2025-12-24T09:46:39.916Z"
 }

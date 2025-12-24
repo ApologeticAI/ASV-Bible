@@ -1,198 +1,237 @@
 {
-  "book": "Deuteronomy",
+  "book": 5,
+  "bookName": "Deuteronomy",
   "bookAbbreviation": "Deut",
   "chapter": 26,
   "verses": [
     {
-      "pk": 1954026,
+      "pk": 5026001,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 26,
       "verse": 1,
-      "text": "When you come into the land that the Lord your God is giving you as an inheritance and you possess it and live in it,",
-      "links": "<a href='/AIV/05/1/8'>Deut. 1:8</a>; <a href='/AIV/05/17/14'>Deut. 17:14</a>",
-      "comment": "The structure follows a conditional statement in the Hebrew, maintaining the literal development of the instruction."
+      "text": "When you enter the land the LORD your God is giving you as an inheritance, and you take possession of it and settle in it,",
+      "links": "<a href='/AIV/03/23/10'>Lev. 23:10</a>; <a href='/AIV/06/24/13'>Josh. 24:13</a>",
+      "comment": "The passage marks a transition: Israel is to act on God's promises by entering, receiving, and inhabiting the land. The act of entering relates to baptism (Col. 2:12), the entry into the promised covenant relationship."
     },
     {
-      "pk": 1954027,
+      "pk": 5026002,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 26,
       "verse": 2,
-      "text": "you shall take some of the first of all the fruit of the ground, which you harvest from your land that the Lord your God is giving you, and you shall put it in a basket and go to the place that the Lord your God will choose to make His name dwell there.",
+      "text": "you must take some of the first of all the produce from the soil, which you harvest from the land the LORD your God is giving you, and place it in a basket. Then go to the place the LORD your God will choose as a dwelling for his Name.",
       "links": "<a href='/AIV/02/23/19'>Ex. 23:19</a>; <a href='/AIV/05/12/5'>Deut. 12:5</a>",
-      "comment": "Rendered 'make His name dwell there' literally, as the Hebrew expression means God's dwelling presence."
+      "comment": "The offering of firstfruits anticipates the establishment of a central place of worship. In Christian tradition, the firstfruits are seen as an offering of our labors and hearts to God (Rom. 8:23; 1 Cor. 15:20). This prefigures Christ as our 'firstfruit.'"
     },
     {
-      "pk": 1954028,
+      "pk": 5026003,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 26,
       "verse": 3,
-      "text": "You shall go to the priest who is in office at that time and say to him, 'I declare today to the Lord your God that I have come into the land that the Lord swore to our fathers to give us.'",
-      "links": "<a href='/AIV/01/12/7'>Gen. 12:7</a>; <a href='/AIV/05/7/8'>Deut. 7:8</a>",
-      "comment": "Maintains first person form as in Hebrew; 'swore to our fathers' is a covenantal phrase, left literal."
+      "text": "Go to the priest who is in office at that time and say to him, 'I declare today to the LORD your God that I have entered the land the LORD swore to our ancestors to give us.'",
+      "links": "<a href='/AIV/03/21/10'>Lev. 21:10</a>; <a href='/AIV/01/12/7'>Gen. 12:7</a>",
+      "comment": "The confessor must make a public declaration before a priest, establishing the role of priestly mediation in covenant life. This foreshadows New Testament confessions (Rom. 10:9–10), and suggests the necessity for ordained mediators."
     },
     {
-      "pk": 1954029,
+      "pk": 5026004,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 26,
       "verse": 4,
-      "text": "Then the priest shall take the basket from your hand and set it down before the altar of the Lord your God.",
-      "links": "<a href='/AIV/02/40/29'>Ex. 40:29</a>",
-      "comment": "Kept 'before the altar' as a literal rendering of the Hebrew phrase."
+      "text": "Then the priest shall take the basket from your hand and set it down before the altar of the LORD your God.",
+      "links": "<a href='/AIV/03/02/2'>Lev. 2:2</a>",
+      "comment": "The priest again acts as the one who presents the sacrifice on behalf of the offerer before the altar. The altar prefigures the cross (Heb. 13:10), where the true High Priest, Christ, offers the perfect sacrifice."
     },
     {
-      "pk": 1954030,
+      "pk": 5026005,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 26,
       "verse": 5,
-      "text": "And you shall declare and say before the Lord your God, 'My father was a wandering Aramean. He went down to Egypt and sojourned there, few in number, and there he became a great, mighty, and populous nation.'",
-      "links": "<a href='/AIV/01/46/1-7'>Gen. 46:1–7</a>",
-      "comment": "Rendered 'wandering Aramean' literally, which refers to Jacob, per Hebrew idiom."
+      "text": "And you shall declare before the LORD your God: 'My father was a wandering Aramean. He went down into Egypt with a few people and lived there and became a great, powerful, and numerous nation.'",
+      "links": "<a href='/AIV/01/46/1-7'>Gen. 46:1-7</a>; <a href='/AIV/02/01/5-7'>Ex. 1:5-7</a>",
+      "comment": "This confession roots Israel's identity in the history of Abraham, Isaac, and Jacob. The phrase anticipates the Church’s confession of the saving history (e.g., in the creeds), seeing ourselves as pilgrims journeying to a greater inheritance (Heb. 11:13-16)."
     },
     {
-      "pk": 1954031,
+      "pk": 5026006,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 26,
       "verse": 6,
-      "text": "And the Egyptians treated us harshly, afflicted us, and placed hard labor upon us.",
-      "links": "<a href='/AIV/02/1/11-14'>Ex. 1:11–14</a>",
-      "comment": "Phrasing made direct and active, retaining the three verbs from the Hebrew."
+      "text": "But the Egyptians treated us harshly and afflicted us, laying on us hard labor.",
+      "links": "<a href='/AIV/02/01/11-14'>Ex. 1:11-14</a>",
+      "comment": "This recalls Israel's bondage and resonates as a type of spiritual slavery from which God delivers (see John 8:34; Rom. 6:17), prefiguring the redemption found in Christ."
     },
     {
-      "pk": 1954032,
+      "pk": 5026007,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 26,
       "verse": 7,
-      "text": "Then we cried out to the Lord, the God of our fathers, and the Lord heard our voice and saw our affliction, our toil, and our oppression.",
-      "links": "<a href='/AIV/02/2/23-25'>Ex. 2:23–25</a>; <a href='/AIV/02/3/7'>Ex. 3:7</a>",
-      "comment": "'The God of our fathers' directly maintains the Hebrew phrase."
+      "text": "Then we cried out to the LORD, the God of our ancestors, and the LORD heard our voice and saw our affliction, our toil, and our oppression.",
+      "links": "<a href='/AIV/02/02/23-25'>Ex. 2:23-25</a>",
+      "comment": "God’s attentive response to Israel’s suffering mirrors the mercy shown to humanity in Christ (Luke 1:68-75). Deliverance is always God’s initiative."
     },
     {
-      "pk": 1954033,
+      "pk": 5026008,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 26,
       "verse": 8,
-      "text": "And the Lord brought us out of Egypt with a mighty hand and an outstretched arm, with great terrors, with signs and wonders.",
-      "links": "<a href='/AIV/02/12/33-36'>Ex. 12:33–36</a>; <a href='/AIV/05/4/34'>Deut. 4:34</a>",
-      "comment": "The phrase 'with a mighty hand and an outstretched arm' is preserved as a Hebrew idiom."
+      "text": "And the LORD brought us out of Egypt with a mighty hand and an outstretched arm, with great terror, with signs and wonders.",
+      "links": "<a href='/AIV/02/13/14'>Ex. 13:14</a>; <a href='/AIV/05/04/34'>Deut. 4:34</a>",
+      "comment": "God’s deliverance with power and wonders foreshadows the greater exodus accomplished by Jesus through his Passion, death, and Resurrection (Luke 9:31; 2 Tim. 1:9-10)."
     },
     {
-      "pk": 1954034,
+      "pk": 5026009,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 26,
       "verse": 9,
-      "text": "And He brought us to this place and gave us this land, a land flowing with milk and honey.",
-      "links": "<a href='/AIV/02/3/8'>Ex. 3:8</a>; <a href='/AIV/05/6/3'>Deut. 6:3</a>",
-      "comment": "Literal phrase 'flowing with milk and honey' kept, per repeated OT motif."
+      "text": "And he brought us to this place and gave us this land, a land flowing with milk and honey.",
+      "links": "<a href='/AIV/02/03/8'>Ex. 3:8</a>; <a href='/AIV/05/06/3'>Deut. 6:3</a>",
+      "comment": "The Promised Land is a type of the heavenly inheritance (Heb. 4:8-11; Rev. 21:1-3), pointing to full participation in God’s household."
     },
     {
-      "pk": 1954035,
+      "pk": 5026010,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 26,
       "verse": 10,
-      "text": "Now, behold, I have brought the first of the fruit of the land which you, O Lord, have given me.' And you shall set it down before the Lord your God and worship before the Lord your God.",
-      "links": "<a href='/AIV/05/16/10'>Deut. 16:10</a>",
-      "comment": "Repetitive phrase 'before the Lord your God' is a key OT phrase and is left as is."
+      "text": "And now, behold, I have brought the firstfruits of the land that you, O LORD, have given me.' And you shall set it down before the LORD your God and bow down before the LORD your God.",
+      "links": "<a href='/AIV/03/23/10-11'>Lev. 23:10-11</a>",
+      "comment": "Offering the firstfruits in worship, with physical acts like bowing, shows the connection between faith, ritual, and physical gestures (cf. Phil. 2:10). The offering is both personal and communal, anticipating liturgical practice."
     },
     {
-      "pk": 1954036,
+      "pk": 5026011,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 26,
       "verse": 11,
-      "text": "And you shall rejoice in all the good which the Lord your God has given to you and to your house, you and the Levite and the sojourner who is among you.",
-      "links": "<a href='/AIV/03/23/22'>Lev. 23:22</a>; <a href='/AIV/05/16/11'>Deut. 16:11</a>",
-      "comment": "'Sojourner' is rendered for Hebrew 'ger' (stranger or resident alien); kept literal."
+      "text": "And you shall rejoice in all the good things the LORD your God has given to you and to your household, you and the Levite and the foreigner who is among you.",
+      "links": "<a href='/AIV/05/12/7'>Deut. 12:7</a>; <a href='/AIV/03/23/22'>Lev. 23:22</a>",
+      "comment": "Joy and sharing characterize true religion. The inclusion of the Levite and foreigner shows God's intent for the blessings to reach all people, a foreshadowing of the universality of the Gospel (Acts 10:34-35; Matt. 8:11)."
     },
     {
-      "pk": 1954037,
+      "pk": 5026012,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 26,
       "verse": 12,
-      "text": "When you have finished tithing all the tithe of your produce in the third year, the year of tithing, then you shall give it to the Levite, the sojourner, the fatherless, and the widow, so that they may eat within your gates and be filled.",
-      "links": "<a href='/AIV/05/14/28-29'>Deut. 14:28–29</a>",
-      "comment": "Hebrew 'within your gates' is an idiom for 'within your towns' but retained for literal flavor."
+      "text": "When you have finished setting aside a tenth of all your produce in the third year, the year of the tithe, you shall give it to the Levite, the foreigner, the fatherless, and the widow, so that they may eat within your gates and be filled.",
+      "links": "<a href='/AIV/05/14/28-29'>Deut. 14:28-29</a>; <a href='/AIV/03/27/30'>Lev. 27:30</a>",
+      "comment": "The law of the tithe reflects God’s justice and care for the vulnerable. Supporting ministers and the needy is repeatedly affirmed in Scripture (1 Cor. 9:13-14; James 1:27)."
     },
     {
-      "pk": 1954038,
+      "pk": 5026013,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 26,
       "verse": 13,
-      "text": "Then you shall say before the Lord your God, 'I have removed the sacred portion out of my house, and moreover, I have given it to the Levite, the sojourner, the fatherless, and the widow, according to all Your commandment which You have commanded me. I have not transgressed any of Your commandments, nor have I forgotten them.'",
-      "links": "<a href='/AIV/05/12/19'>Deut. 12:19</a>; <a href='/AIV/05/24/19'>Deut. 24:19</a>",
-      "comment": "'Sacred portion' translated for Hebrew 'kodesh'; direct rendering."
+      "text": "Then you shall say before the LORD your God, 'I have removed from my house the sacred portion, and given it to the Levite, the foreigner, the fatherless, and the widow, according to all your commandment. I have not transgressed or forgotten any of your commands.'",
+      "links": "<a href='/AIV/03/05/1'>Lev. 5:1</a>; <a href='/AIV/05/14/28-29'>Deut. 14:28-29</a>",
+      "comment": "A declaration of obedience is required before the Lord. Integrity before God is emphasized, echoing later New Testament teachings on the examination of conscience and confession (1 John 1:9)."
     },
     {
-      "pk": 1954039,
+      "pk": 5026014,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 26,
       "verse": 14,
-      "text": "'I have not eaten any of it while mourning, nor have I removed any of it while I was unclean, nor have I offered any of it to the dead. I have listened to the voice of the Lord my God; I have done according to all that You have commanded me.'",
-      "links": "<a href='/AIV/03/21/6'>Lev. 21:6</a>; <a href='/AIV/05/14/1'>Deut. 14:1</a>",
-      "comment": "Phrases about ritual purity and mourning follow Hebrew conceptual categories closely."
+      "text": "I have not eaten any of it while in mourning, or removed any of it while I was unclean, or offered any of it to the dead. I have obeyed the voice of the LORD my God; I have done all that you have commanded me.",
+      "links": "<a href='/AIV/03/07/20'>Lev. 7:20</a>; <a href='/AIV/03/21/1'>Lev. 21:1</a>",
+      "comment": "Purity and reverence for God’s commands are stressed. Observing the instructions in all circumstances is reminiscent of Paul’s exhortations to do all for the glory of God (1 Cor. 10:31)."
     },
     {
-      "pk": 1954040,
+      "pk": 5026015,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 26,
       "verse": 15,
-      "text": "'Look down from Your holy habitation, from heaven, and bless Your people Israel and the ground which You have given us, as You swore to our fathers, a land flowing with milk and honey.'",
-      "links": "<a href='/AIV/05/26/9'>Deut. 26:9</a>; <a href='/AIV/05/9/29'>Deut. 9:29</a>",
-      "comment": "The prayer motif is kept literal, with the repeated phrase 'a land flowing with milk and honey'."
+      "text": "Look down from your holy dwelling, from heaven, and bless your people Israel and the land you have given us, as you swore to our ancestors—a land flowing with milk and honey.'",
+      "links": "<a href='/AIV/05/26/9'>Deut. 26:9</a>; <a href='/AIV/05/09/26'>Deut. 9:26-27</a>",
+      "comment": "God’s people call on Him to look upon and bless them from His holy dwelling. This image points to God’s transcendent holiness, later realized in God becoming present among His people in Christ and in the sacraments (John 1:14)."
     },
     {
-      "pk": 1954041,
+      "pk": 5026016,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 26,
       "verse": 16,
-      "text": "This day the Lord your God commands you to do these statutes and rights. Therefore, you shall keep and do them with all your heart and with all your soul.",
-      "links": "<a href='/AIV/05/4/29'>Deut. 4:29</a>; <a href='/AIV/05/6/5'>Deut. 6:5</a>",
-      "comment": "'Statutes and rights' for Hebrew 'chukkim u'mishpatim', phrase left literal."
+      "text": "This day the LORD your God commands you to do these statutes and rules; therefore you must be careful to do them with all your heart and with all your soul.",
+      "links": "<a href='/AIV/05/06/5'>Deut. 6:5</a>; <a href='/AIV/40/22/37'>Matt. 22:37</a>",
+      "comment": "The call to wholehearted obedience is repeated by Jesus as the greatest commandment. True faith is always shown by faithful action (James 2:17)."
     },
     {
-      "pk": 1954042,
+      "pk": 5026017,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 26,
       "verse": 17,
-      "text": "You have declared today that the Lord is your God, and that you will walk in His ways and keep His statutes, His commandments, and His rights, and will obey His voice.",
-      "links": "<a href='/AIV/05/5/1-3'>Deut. 5:1–3</a>; <a href='/AIV/05/10/20'>Deut. 10:20</a>",
-      "comment": "'Rights' translates 'mishpatim'; maintained the triplicate formula of obedience."
+      "text": "You have declared today that the LORD is your God, and that you will walk in his ways, and keep his statutes, his commandments, and his rules, and obey his voice.",
+      "links": "<a href='/AIV/05/10/12'>Deut. 10:12-13</a>; <a href='/AIV/24/24/7'>Jer. 24:7</a>",
+      "comment": "The mutual covenant commitment echoes the vows of God's people to belong to Him. This anticipates later covenantal renewal ceremonies in the life of the Church."
     },
     {
-      "pk": 1954043,
+      "pk": 5026018,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 26,
       "verse": 18,
-      "text": "And the Lord has declared today that you are His treasured people, as He promised you, and that you are to keep all His commandments,",
-      "links": "<a href='/AIV/02/19/5'>Ex. 19:5</a>; <a href='/AIV/05/7/6'>Deut. 7:6</a>",
-      "comment": "'Treasured people' is the Hebrew 'segullah,' denoting special possession."
+      "text": "And the LORD has declared today that you are his treasured possession, as he promised you, and that you are to keep all his commandments.",
+      "links": "<a href='/AIV/02/19/5'>Ex. 19:5</a>; <a href='/AIV/60/02/9'>1 Pet. 2:9</a>",
+      "comment": "'Treasured possession' is the identity of God’s people, now applied in the New Testament to all who are united in Christ, part of the one people God has set apart for himself (Titus 2:14)."
     },
     {
-      "pk": 1954044,
+      "pk": 5026019,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 26,
       "verse": 19,
-      "text": "and that He will set you high above all nations that He has made, in praise and in fame and in honor. And that you shall be a holy people to the Lord your God, as He has spoken.",
-      "links": "<a href='/AIV/05/28/1'>Deut. 28:1</a>; <a href='/AIV/03/20/26'>Lev. 20:26</a>",
-      "comment": "Literal rendering of Hebrew emphatic contrast with other nations and the threefold elevation (praise/fame/honor)."
+      "text": "He will set you high in praise, fame, and honor above all the nations he has made. You will be a holy people to the LORD your God, as he has promised.",
+      "links": "<a href='/AIV/02/19/6'>Ex. 19:6</a>; <a href='/AIV/60/02/9'>1 Pet. 2:9</a>",
+      "comment": "Being raised up and set apart as holy points to God’s design for a visible, unified, and sanctified people. The New Testament applies this to the Church (Eph. 5:27), as God’s holy assembly in the world."
     }
   ],
-  "translatedAt": "2025-12-20T10:00:40.153Z"
+  "translatedAt": "2025-12-24T02:10:54.140Z"
 }

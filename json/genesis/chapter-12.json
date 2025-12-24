@@ -1,208 +1,249 @@
 {
-  "book": "Genesis",
+  "book": 1,
+  "bookName": "Genesis",
   "bookAbbreviation": "Gen",
   "chapter": 12,
   "verses": [
     {
-      "pk": 2001201,
+      "pk": 1012001,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 12,
       "verse": 1,
-      "text": "Now the LORD said to Abram, “Go from your land, your relatives, and your father’s house to the land that I will show you.",
-      "links": "<a href='/AIV/44/7/3'>Acts 7:3</a>; <a href='/AIV/58/11/8'>Heb. 11:8</a>",
-      "comment": "God's direct call initiates a journey of faith. Note the radical obedience required, which prefigures later calls to leave all and follow Christ (Luke 18:22)."
+      "text": "Now the LORD said to Abram, \"Go from your land, your relatives, and your father’s house to the land I will show you.\"",
+      "links": "<a href='/AIV/44/7/2-3'>Acts 7:2-3</a>; <a href='/AIV/58/11/8'>Heb. 11:8</a>",
+      "comment": "Abram is called to leave everything familiar behind in obedience and faith. The invitation reflects God’s initiative in salvation history and foreshadows later calls to leave all and follow God (Matt. 4:19; Luke 18:22). The 'land I will show you' establishes trust in divine guidance, an ongoing biblical theme."
     },
     {
-      "pk": 2001202,
+      "pk": 1012002,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 12,
       "verse": 2,
-      "text": "And I will make you into a great nation, and I will bless you, and make your name great, so that you will be a blessing.",
-      "links": "<a href='/AIV/01/17/6'>Gen. 17:6</a>; <a href='/AIV/01/22/17-18'>Gen. 22:17-18</a>",
-      "comment": "God’s promise to bless Abram will have lasting consequences for the entire world (Galatians 3:8). The phrase “make your name great” echoes the reversal of Babel (Genesis 11:4)."
+      "text": "And I will make you into a great nation, and I will bless you and make your name great, so that you will be a blessing.",
+      "links": "<a href='/AIV/01/17/4-6'>Gen. 17:4-6</a>; <a href='/AIV/01/18/18'>Gen. 18:18</a>",
+      "comment": "God’s promise includes both material greatness and spiritual calling – Abram is blessed to be a blessing, hinting at the universal scope of God's plan (Gal. 3:8). This echoes the principle that God’s gifts are meant to be shared for the benefit of all people."
     },
     {
-      "pk": 2001203,
+      "pk": 1012003,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 12,
       "verse": 3,
-      "text": "I will bless those who bless you, and whoever curses you I will curse. And in you, all the families of the earth will be blessed.",
-      "links": "<a href='/AIV/01/18/18'>Gen. 18:18</a>; <a href='/AIV/48/3/14'>Gal. 3:14</a>",
-      "comment": "This prophecy is understood by Christians as ultimately fulfilled in Jesus Christ, the true descendant of Abraham (Acts 3:25–26). It foreshadows the universality of God’s family."
+      "text": "I will bless those who bless you, and him who dishonors you I will curse; and in you all families of the earth will be blessed.",
+      "links": "<a href='/AIV/01/22/18'>Gen. 22:18</a>; <a href='/AIV/48/3/8'>Gal. 3:8</a>",
+      "comment": "God’s covenant with Abram has a global impact, culminating in Christ who is the ultimate blessing (Acts 3:25-26). The language reveals both a literal inheritance and a spiritual promise – the blessing extends through one family to all nations."
     },
     {
-      "pk": 2001204,
+      "pk": 1012004,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 12,
       "verse": 4,
-      "text": "So Abram went, as the LORD had spoken to him, and Lot went with him. Abram was seventy-five years old when he departed from Haran.",
-      "links": "<a href='/AIV/01/11/31'>Gen. 11:31</a>; <a href='/AIV/01/16/3'>Gen. 16:3</a>",
-      "comment": "Abram’s faithful response at an advanced age points to God’s power over human limitations. The path of obedience is rarely convenient."
+      "text": "So Abram went, just as the LORD had told him, and Lot went with him. Abram was seventy-five years old when he departed from Haran.",
+      "links": "<a href='/AIV/01/11/31'>Gen. 11:31</a>; <a href='/AIV/01/25/7'>Gen. 25:7</a>",
+      "comment": "Abram’s immediate obedience demonstrates deep faith, regardless of age or uncertainty. Faithfulness involves both trust and action, themes picked up throughout Scripture (James 2:21-24)."
     },
     {
-      "pk": 2001205,
+      "pk": 1012005,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 12,
       "verse": 5,
-      "text": "And Abram took Sarai his wife, and Lot his brother’s son, and all their possessions that they had gathered, and the people they had acquired in Haran; and they set out to go to the land of Canaan. When they came to the land of Canaan,",
-      "links": "<a href='/AIV/01/13/5'>Gen. 13:5</a>",
-      "comment": "Abram leads his entire household in migration, showing how faith is not just individual but communal—emphasizing the familial dimension of faith."
+      "text": "Abram took Sarai his wife, Lot his nephew, all their possessions which they had gathered, and the people they had acquired in Haran. They set out for the land of Canaan, and they came to the land of Canaan.",
+      "links": "<a href='/AIV/01/11/31'>Gen. 11:31</a>; <a href='/AIV/01/13/5'>Gen. 13:5</a>",
+      "comment": "Abram’s journey is communal – family and dependents are included, highlighting covenantal blessings as extended through lineage and community rather than isolated individuals (compare with Acts 16:31)."
     },
     {
-      "pk": 2001206,
+      "pk": 1012006,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 12,
       "verse": 6,
-      "text": "Abram passed through the land as far as the site of Shechem, to the oak of Moreh. At that time, the Canaanites were in the land.",
-      "links": "<a href='/AIV/01/35/4'>Gen. 35:4</a>; <a href='/AIV/05/11/30'>Deut. 11:30</a>",
-      "comment": "Shechem becomes an important site in Israel’s history (Joshua 24:1). The mention of Canaanites emphasizes that God’s promise occurs in a context of opposition."
+      "text": "Abram passed through the land to the place at Shechem, to the oak of Moreh. At that time, the Canaanites were in the land.",
+      "links": "<a href='/AIV/01/33/18-20'>Gen. 33:18-20</a>; <a href='/AIV/05/11/30'>Deut. 11:30</a>",
+      "comment": "Shechem later becomes a site of covenant renewal (Joshua 24:25). The mention of Canaanites signals ongoing themes of promise, challenge, and eventual fulfillment."
     },
     {
-      "pk": 2001207,
+      "pk": 1012007,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 12,
       "verse": 7,
-      "text": "Then the LORD appeared to Abram and said, “To your offspring I will give this land.” So he built an altar there to the LORD who had appeared to him.",
-      "links": "<a href='/AIV/01/13/15'>Gen. 13:15</a>; <a href='/AIV/01/17/8'>Gen. 17:8</a>",
-      "comment": "God’s physical appearing highlights the reality of divine revelation. The building of an altar marks the sanctification of space and the importance of worship after divine encounter—prefiguring the chosen places of worship in the future."
+      "text": "Then the LORD appeared to Abram and said, \"To your offspring I will give this land.\" So he built an altar there to the LORD, who had appeared to him.",
+      "links": "<a href='/AIV/01/13/15'>Gen. 13:15</a>; <a href='/AIV/06/21/43'>Josh. 21:43</a>",
+      "comment": "God’s visible manifestation anchors Abram’s faith and the physical response of building an altar reflects proper worship (Ex. 20:24). The altar establishes a pattern of reverent devotion, connected to physical places and sacred rites."
     },
     {
-      "pk": 2001208,
+      "pk": 1012008,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 12,
       "verse": 8,
-      "text": "From there, he moved on to the hill country east of Bethel and pitched his tent, with Bethel on the west and Ai on the east. There he built an altar to the LORD and called on the name of the LORD.",
-      "links": "<a href='/AIV/01/13/3-4'>Gen. 13:3-4</a>",
-      "comment": "Abram’s pattern of altar-building and calling on God shows the establishment of true worship, setting up for the later significance of Bethel. It begins a lineage of sacred tradition."
+      "text": "From there he moved to the hill country east of Bethel and pitched his tent, with Bethel on the west and Ai on the east. There he built an altar to the LORD and called on the name of the LORD.",
+      "links": "<a href='/AIV/01/13/3-4'>Gen. 13:3-4</a>; <a href='/AIV/01/21/33'>Gen. 21:33</a>",
+      "comment": "The recurring theme of altar-building indicates regular, structured worship and the call to invoke God’s presence – pointing ahead to the necessity of sacred places and specific means of approaching God (compare Ex. 29:42)."
     },
     {
-      "pk": 2001209,
+      "pk": 1012009,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 12,
       "verse": 9,
-      "text": "Then Abram journeyed on, continuing toward the Negev.",
+      "text": "And Abram journeyed on, still going toward the Negev.",
       "links": "<a href='/AIV/01/13/1'>Gen. 13:1</a>",
-      "comment": "Abram’s pilgrimage echoes the journey motif throughout Scripture. The movement toward the south symbolizes both faith and dependence on God’s guidance."
+      "comment": "Abram’s ongoing journey underscores the life of faith as pilgrimage—a pattern of trusting and moving, foreshadowing the Christian walk. The Negev, a wilderness region, will later serve as the backdrop for spiritual testing and provision."
     },
     {
-      "pk": 2001210,
+      "pk": 1012010,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 12,
       "verse": 10,
-      "text": "Now there was a famine in the land, so Abram went down to Egypt to dwell there temporarily, for the famine was severe in the land.",
-      "links": "<a href='/AIV/01/26/1'>Gen. 26:1</a>; <a href='/AIV/02/1/1'>Exod. 1:1</a>",
-      "comment": "Egypt as a place of refuge foreshadows the pattern for the nation of Israel, and later, the Holy Family’s flight into Egypt (Matthew 2:13-15)."
+      "text": "Now there was a famine in the land, so Abram went down to Egypt to live there for a while, because the famine was severe in the land.",
+      "links": "<a href='/AIV/01/26/1'>Gen. 26:1</a>; <a href='/AIV/02/1/1-5'>Ex. 1:1-5</a>",
+      "comment": "Egypt serves as a recurring symbol of refuge and trial. The famine echoes later experiences by the Patriarchs and Israel, highlighting God’s sovereignty and the testing of faith (Ps. 105:16-17)."
     },
     {
-      "pk": 2001211,
+      "pk": 1012011,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 12,
       "verse": 11,
-      "text": "When he was about to enter Egypt, he said to Sarai his wife, “Look, I know that you are a beautiful woman to look upon.",
-      "links": "<a href='/AIV/01/20/2'>Gen. 20:2</a>",
-      "comment": "Abram’s statement sets up the coming trial and test of trust in God’s protection. The mention of Sarah’s beauty later becomes significant in the lineage of Israel."
+      "text": "As Abram was about to enter Egypt, he said to Sarai his wife, \"Look, I know that you are a beautiful woman,\"",
+      "links": "<a href='/AIV/01/20/2'>Gen. 20:2</a>; <a href='/AIV/01/26/7'>Gen. 26:7</a>",
+      "comment": "Abram’s concern for Sarai’s beauty sets up the test of faith and the need for protection, echoing future episodes (Gen. 20, 26). The mention of beauty also hints at underlying cultural pressures during migrations."
     },
     {
-      "pk": 2001212,
+      "pk": 1012012,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 12,
       "verse": 12,
-      "text": "When the Egyptians see you, they will say, ‘This is his wife.’ Then they will kill me, but they will let you live.",
-      "links": "",
-      "comment": "Abram’s fear shows human frailty, even in the life of a patriarch. Despite divine promises, human weakness is evident—a recurring theme, even among those chosen by God."
+      "text": "When the Egyptians see you, they will say, 'This is his wife.' Then they will kill me, but let you live.",
+      "links": "<a href='/AIV/01/20/11'>Gen. 20:11</a>",
+      "comment": "Abram anticipates danger from human sinfulness, underlining the need for divine protection and intervention—a motif throughout Scripture (Ps. 91:3)."
     },
     {
-      "pk": 2001213,
+      "pk": 1012013,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 12,
       "verse": 13,
-      "text": "Please say you are my sister, so that it may go well with me because of you, and that my life may be spared for your sake.”",
+      "text": "Say you are my sister, so that it may go well with me because of you, and that my life may be spared for your sake.",
       "links": "<a href='/AIV/01/20/13'>Gen. 20:13</a>",
-      "comment": "The episode reveals ethical complexity among the chosen. God’s faithfulness surpasses the moral failings of his servants—contrasted in Christ’s perfect obedience."
+      "comment": "Abram’s request signals a lapse in full trust, yet God’s plan prevails in spite of human weakness. The episode challenges readers to consider how God works through imperfect agents."
     },
     {
-      "pk": 2001214,
+      "pk": 1012014,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 12,
       "verse": 14,
-      "text": "So when Abram came into Egypt, the Egyptians saw that the woman was very beautiful.",
-      "links": "",
-      "comment": "Sarai’s beauty and the resulting events highlight divine providence at work, even through human imperfection."
+      "text": "When Abram entered Egypt, the Egyptians saw that Sarai was very beautiful.",
+      "links": "<a href='/AIV/01/12/11'>Gen. 12:11</a>",
+      "comment": "The narrative confirms Abram’s fears and sets up the dramatic unfolding of God’s protection and faithfulness despite questionable human plans."
     },
     {
-      "pk": 2001215,
+      "pk": 1012015,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 12,
       "verse": 15,
-      "text": "When Pharaoh’s officials saw her, they praised her to Pharaoh, and the woman was taken into Pharaoh’s house.",
-      "links": "",
-      "comment": "Pharaoh’s court symbolizes earthly power, while Sarai’s favor foreshadows the elevation of God’s people through trials."
+      "text": "And when Pharaoh’s officials saw her, they praised her to Pharaoh, and the woman was taken into Pharaoh’s house.",
+      "links": "<a href='/AIV/01/20/2'>Gen. 20:2</a>",
+      "comment": "The narrative moves from personal to political, indicating how individual destinies are intertwined with larger powers. Sarai’s experience prefigures the later Exodus motif: God’s people in foreign hands awaiting deliverance."
     },
     {
-      "pk": 2001216,
+      "pk": 1012016,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 12,
       "verse": 16,
-      "text": "And he treated Abram well for her sake. Abram received sheep, cattle, male donkeys, male and female servants, female donkeys, and camels.",
-      "links": "<a href='/AIV/01/20/14'>Gen. 20:14</a>",
-      "comment": "The transfer of wealth to Abram hints at God’s providence working through even troubling circumstances, a theme found again in Israel’s later sojourn in Egypt."
+      "text": "For her sake he treated Abram well, and Abram acquired sheep, cattle, male and female donkeys, male and female servants, and camels.",
+      "links": "<a href='/AIV/01/13/2'>Gen. 13:2</a>",
+      "comment": "Material prosperity comes to Abram, but not by ideal means – testing the limits of human planning and God’s ability to bring good even out of less-than-ideal situations (Rom. 8:28)."
     },
     {
-      "pk": 2001217,
+      "pk": 1012017,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 12,
       "verse": 17,
-      "text": "But the LORD afflicted Pharaoh and his household with great plagues because of Sarai, Abram’s wife.",
-      "links": "<a href='/AIV/02/7/14'>Exod. 7:14</a>; <a href='/AIV/01/20/18'>Gen. 20:18</a>",
-      "comment": "Early occurrence of plagues on Egypt previews later deliverance narratives (Exodus 7–12), showing a divine defense of the promised offspring."
+      "text": "But the LORD afflicted Pharaoh and his house with severe plagues because of Sarai, Abram’s wife.",
+      "links": "<a href='/AIV/02/7/14-25'>Ex. 7:14-25</a>; <a href='/AIV/01/20/18'>Gen. 20:18</a>",
+      "comment": "God’s intervention by sending plagues foreshadows the later deliverance of Israel from Egypt. Divine protection of the chosen line is stressed, and the emphasis on God acting for another’s sake highlights intercession and mediation as part of God’s plan."
     },
     {
-      "pk": 2001218,
+      "pk": 1012018,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 12,
       "verse": 18,
-      "text": "Then Pharaoh called Abram and said, “What is this you have done to me? Why did you not tell me she was your wife?",
-      "links": "",
-      "comment": "Pharaoh’s rebuke shows the moral witness of outsiders. God’s chosen people sometimes falter, but God’s purposes prevail."
+      "text": "So Pharaoh called Abram and said, \"What have you done to me? Why didn’t you tell me she was your wife?\"",
+      "links": "<a href='/AIV/01/20/9-10'>Gen. 20:9-10</a>",
+      "comment": "Pharaoh’s reproach reminds us that even pagan leaders recognize moral duties. The narrative shows how God's purposes are accomplished through confrontation and even correction from unexpected sources."
     },
     {
-      "pk": 2001219,
+      "pk": 1012019,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 12,
       "verse": 19,
-      "text": "Why did you say, ‘She is my sister,’ so that I took her to be my wife? Now then, here is your wife; take her and go.”",
-      "links": "",
-      "comment": "Abram’s deception is exposed, but God restores through mercy. Restoration even after sin is a recurring biblical theme (Luke 15:22)."
+      "text": "\"Why did you say, ‘She is my sister,’ so that I took her for myself as wife? Now here is your wife, take her and go.\"",
+      "links": "<a href='/AIV/01/20/2-3'>Gen. 20:2-3</a>",
+      "comment": "Abram is abruptly expelled, but God’s protection of the family line remains steadfast. The expulsion motif echoes future patterns—God’s people exiled but preserved (Luke 2:39)."
     },
     {
-      "pk": 2001220,
+      "pk": 1012020,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 12,
       "verse": 20,
-      "text": "So Pharaoh gave orders about him to his men, and they sent him away, and his wife, and all that he had.",
-      "links": "<a href='/AIV/02/12/33-36'>Exod. 12:33-36</a>",
-      "comment": "Abram leaves Egypt with increased blessing, paralleling the later Exodus. God’s people are protected and provided for, even through foreign powers. This builds understanding for the way God works through human history, shepherding his people through trials and deliverance."
+      "text": "So Pharaoh ordered his men to send him away, along with his wife and all that he had.",
+      "links": "<a href='/AIV/02/12/31-32'>Ex. 12:31-32</a>",
+      "comment": "Abram leaves Egypt much like Israel in the Exodus, delivered by God and departing with abundant provisions. The prefiguration of the Exodus stresses the centrality of deliverance, mediation, and God’s faithfulness to his promises. Additionally, the longevity of Abram's line is reaffirmed, pointing ahead to the promised heir and, ultimately, the Messiah."
     }
   ],
-  "translatedAt": "2025-12-23T08:40:01.466Z"
+  "translatedAt": "2025-12-24T00:16:18.368Z"
 }

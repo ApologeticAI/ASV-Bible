@@ -1,258 +1,309 @@
 {
-  "book": "1 Samuel",
+  "book": 9,
+  "bookName": "1 Samuel",
   "bookAbbreviation": "1Sam",
   "chapter": 28,
   "verses": [
     {
-      "pk": 2802801,
+      "pk": 9028001,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 28,
       "verse": 1,
-      "text": "In those days, the Philistines gathered their armies for war to fight against Israel. Achish said to David, 'You must understand that you and your men are to go with me out to battle.'",
-      "links": "<a href='/AIV/9/27/1-12'>1 Sam. 27:1-12</a>; <a href='/AIV/9/29/1-11'>1 Sam. 29:1-11</a>",
-      "comment": "Maintains reference to Achish and David’s arrangement; 'go out to battle' aligns with the Hebrew."
+      "text": "Now in those days, the Philistines gathered their armies for war to fight against Israel. Achish said to David, 'You must surely understand that you and your men will go out with me in the army.'",
+      "links": "<a href='/AIV/9/27/2'>1Sam 27:2</a>; <a href='/AIV/9/29/2'>1Sam 29:2</a>",
+      "comment": "Achish, a Philistine king, trusts David who had sought refuge with the Philistines. This sets the stage for testing David’s loyalties. Achish's confidence foreshadows later divine providence in David's deliverance."
     },
     {
-      "pk": 2802802,
+      "pk": 9028002,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 28,
       "verse": 2,
-      "text": "David said to Achish, 'Very well, you shall find out what your servant can do.' And Achish said to David, 'Very well, I will make you my bodyguard for life.'",
-      "links": "<a href='/AIV/9/29/8'>1 Sam. 29:8</a>",
-      "comment": "Translated 'bodyguard' as literal 'keeper of my head', clarified for modern readers."
+      "text": "David said to Achish, 'Very well, you shall know what your servant can do.' Achish said to David, 'Therefore I will make you my bodyguard for life.'",
+      "links": "<a href='/AIV/9/27/9-12'>1Sam 27:9-12</a>",
+      "comment": "David answers ambiguously, not revealing his full intentions. Achish’s promise to make David his bodyguard strengthens David’s position, though divine intervention will prevent David from fighting against Israel."
     },
     {
-      "pk": 2802803,
+      "pk": 9028003,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 28,
       "verse": 3,
-      "text": "Now Samuel had died, and all Israel had mourned for him and buried him in Ramah, his own city. And Saul had removed the mediums and necromancers from the land.",
-      "links": "<a href='/AIV/9/25/1'>1 Sam. 25:1</a>; <a href='/AIV/9/15/23'>1 Sam. 15:23</a>",
-      "comment": "'Mediums and necromancers' used for Hebrew 'oboth and yiddeonim'."
+      "text": "Now Samuel had died, and all Israel had mourned for him and buried him in Ramah, his own city. Saul had removed the mediums and spiritists from the land.",
+      "links": "<a href='/AIV/9/25/1'>1Sam 25:1</a>; <a href='/AIV/3/20/6'>Lev 20:6</a>",
+      "comment": "The narrator reminds us of Samuel’s death (cf. 1Sam 25:1) and Saul’s observance of the law by expelling mediums (Lev 20:6). Ironically, Saul soon seeks out a medium, highlighting his desperation and spiritual decline."
     },
     {
-      "pk": 2802804,
+      "pk": 9028004,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 28,
       "verse": 4,
-      "text": "The Philistines assembled and came and camped at Shunem. Saul gathered all Israel, and they camped at Gilboa.",
-      "links": "<a href='/AIV/9/31/1'>1 Sam. 31:1</a>",
-      "comment": "Geographical names rendered as in Hebrew."
+      "text": "The Philistines gathered together and came and encamped at Shunem. Saul gathered all Israel, and they encamped at Gilboa.",
+      "links": "<a href='/AIV/9/31/1'>1Sam 31:1</a>; <a href='/AIV/6/19/18'>Josh 19:18</a>",
+      "comment": "The mention of Shunem and Gilboa sets the scene for the impending battle. Saul’s fear is connected to his loss of prophetic guidance and the rising threat."
     },
     {
-      "pk": 2802805,
+      "pk": 9028005,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 28,
       "verse": 5,
-      "text": "When Saul saw the camp of the Philistines, he was afraid, and his heart trembled greatly.",
-      "links": "<a href='/AIV/9/13/5-7'>1 Sam. 13:5-7</a>",
-      "comment": "Literal translation of 'his heart trembled greatly.'"
+      "text": "When Saul saw the army of the Philistines, he was afraid, and his heart trembled greatly.",
+      "links": "<a href='/AIV/5/20/8'>Deut 20:8</a>; <a href='/AIV/7/8/19-22'>Judg 8:19-22</a>",
+      "comment": "Saul's fear reveals his spiritual weakness and lack of trust in God. Compare to earlier instructions for kings not to fear (Deut 20:8); Saul’s heart is not steadfast."
     },
     {
-      "pk": 2802806,
+      "pk": 9028006,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 28,
       "verse": 6,
-      "text": "Saul inquired of the LORD, but the LORD did not answer him, neither by dreams, nor by Urim, nor by prophets.",
-      "links": "<a href='/AIV/4/27/21'>Num. 27:21</a>; <a href='/AIV/9/14/37'>1 Sam. 14:37</a>",
-      "comment": "'Urim' left untranslated as per common practice for the Hebrew term."
+      "text": "Saul inquired of the LORD, but the LORD did not answer him, neither by dreams nor by Urim nor by prophets.",
+      "links": "<a href='/AIV/2/28/30'>Exod 28:30</a>; <a href='/AIV/4/12/6'>Num 12:6</a>; <a href='/AIV/9/14/37'>1Sam 14:37</a>",
+      "comment": "God’s silence through all customary means demonstrates Saul’s separation due to his disobedience. God’s guidance was sought through various channels, including prophets and the Urim (priestly lots), but God withholds His answer."
     },
     {
-      "pk": 2802807,
+      "pk": 9028007,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 28,
       "verse": 7,
-      "text": "Then Saul said to his servants, 'Seek out for me a woman who is a medium, that I may go to her and inquire of her.' And his servants said to him, 'Behold, there is a woman who is a medium at En-dor.'",
-      "links": "<a href='/AIV/13/10/13'>1 Chr. 10:13</a>",
-      "comment": "'Medium' represents the Hebrew word 'ba‘alat-’ōb.'"
+      "text": "Then Saul said to his servants, 'Seek for me a woman who is a medium, that I may go to her and inquire of her.' His servants said to him, 'Behold, there is a woman at Endor who is a medium.'",
+      "links": "<a href='/AIV/3/19/31'>Lev 19:31</a>; <a href='/AIV/9/28/3'>1Sam 28:3</a>",
+      "comment": "Saul’s request is a direct violation of God’s law (Lev 19:31). The location, Endor, suggests secrecy and desperation; Saul is now willing to turn to forbidden practices to find guidance."
     },
     {
-      "pk": 2802808,
+      "pk": 9028008,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 28,
       "verse": 8,
-      "text": "So Saul disguised himself and put on other garments and went, he and two men with him. And they came to the woman by night. And he said, 'Divine for me by a spirit and bring up for me whomever I shall name to you.'",
-      "links": "<a href='/AIV/9/23/6'>1 Sam. 23:6</a>",
-      "comment": "'Divine for me by a spirit' renders the Hebrew idiom literally."
+      "text": "So Saul disguised himself and put on other clothes. He and two men went, and they came to the woman by night. He said, 'Please divine for me by a spirit, and bring up for me whomever I name to you.'",
+      "links": "<a href='/AIV/9/15/24'>1Sam 15:24</a>; <a href='/AIV/10/12/21'>2Sam 12:21</a>",
+      "comment": "Saul disguises himself, symbolizing his spiritual due. Seeking advice at night reflects not only secretiveness but the absence of light—both physically and spiritually—in Saul's life."
     },
     {
-      "pk": 2802809,
+      "pk": 9028009,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 28,
       "verse": 9,
-      "text": "The woman said to him, 'Surely you know what Saul has done, how he has cut off the mediums and the necromancers from the land. Why then are you laying a trap for my life to bring about my death?'",
-      "links": "<a href='/AIV/9/28/3'>1 Sam. 28:3</a>",
-      "comment": "Literal rendering of 'laying a trap for my life.'"
+      "text": "The woman said to him, 'Surely you know what Saul has done, how he has cut off the mediums and spiritists from the land. Why then are you laying a trap for my life to cause me to die?'",
+      "links": "<a href='/AIV/9/28/3'>1Sam 28:3</a>; <a href='/AIV/3/20/27'>Lev 20:27</a>",
+      "comment": "The woman is cautious, aware that Saul himself outlawed this practice (Lev 20:27). Saul's duplicity is highlighted as he himself is the cause of her fear."
     },
     {
-      "pk": 2802810,
+      "pk": 9028010,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 28,
       "verse": 10,
-      "text": "But Saul swore to her by the LORD, 'As the LORD lives, no punishment shall come upon you for this thing.'",
-      "links": "<a href='/AIV/9/14/39'>1 Sam. 14:39</a>",
-      "comment": "Translates the common oath formula 'As the LORD lives' literally."
+      "text": "Saul swore to her by the LORD, saying, 'As the LORD lives, no punishment will come upon you for this thing.'",
+      "links": "<a href='/AIV/9/14/39'>1Sam 14:39</a>; <a href='/AIV/2/20/7'>Exod 20:7</a>",
+      "comment": "Saul’s oath, invoking God’s name, is ironic and sacrilegious—he swears protection for breaking God’s law (Exod 20:7). This demonstrates how far Saul has strayed from legitimate worship and obedience."
     },
     {
-      "pk": 2802811,
+      "pk": 9028011,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 28,
       "verse": 11,
-      "text": "Then the woman said, 'Whom shall I bring up for you?' He said, 'Bring up Samuel for me.'",
-      "links": "<a href='/AIV/9/28/15'>1 Sam. 28:15</a>",
-      "comment": "'Bring up' is a literal rendering of the Hebrew."
+      "text": "Then the woman said, 'Whom shall I bring up for you?' And he said, 'Bring up Samuel for me.'",
+      "links": "<a href='/AIV/9/25/1'>1Sam 25:1</a>; <a href='/AIV/9/15/26'>1Sam 15:26</a>",
+      "comment": "Samuel, God’s prophet and Saul’s former spiritual guide, is the one Saul fervently seeks—showing how Saul longs for the true voice of God even as he takes a forbidden path."
     },
     {
-      "pk": 2802812,
+      "pk": 9028012,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 28,
       "verse": 12,
-      "text": "When the woman saw Samuel, she cried out with a loud voice. And the woman said to Saul, 'Why have you deceived me? You are Saul!'",
-      "links": "<a href='/AIV/9/28/8-9'>1 Sam. 28:8-9</a>",
-      "comment": "The woman's shocked reaction is translated as in Hebrew."
+      "text": "When the woman saw Samuel, she cried out with a loud voice. The woman spoke to Saul, saying, 'Why have you deceived me? You are Saul!'",
+      "links": "<a href='/AIV/9/15/8'>1Sam 15:8</a>",
+      "comment": "The woman recognizes Saul’s true identity upon witnessing the genuine appearance of Samuel, which frightened her. It is implied that God intervenes, making Samuel’s appearance real, not an illusion."
     },
     {
-      "pk": 2802813,
+      "pk": 9028013,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 28,
       "verse": 13,
       "text": "The king said to her, 'Do not be afraid. What do you see?' And the woman said to Saul, 'I see a god coming up out of the earth.'",
-      "links": "<a href='/AIV/9/28/8'>1 Sam. 28:8</a>",
-      "comment": "'A god' renders the Hebrew 'elohim', which often denotes a spirit being."
+      "links": "<a href='/AIV/23/8/19'>Isa 8:19</a>; <a href='/AIV/9/28/14'>1Sam 28:14</a>",
+      "comment": "She describes Samuel as 'a god' (elohim—a term sometimes applied to spirits). This indicates awe and the mysterious nature of the afterlife in the Old Testament. God allows Samuel to appear, signifying the seriousness of the event."
     },
     {
-      "pk": 2802814,
+      "pk": 9028014,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 28,
       "verse": 14,
-      "text": "He said to her, 'What is his appearance?' And she said, 'An old man is coming up, and he is wrapped in a robe.' And Saul knew that it was Samuel, and he bowed with his face to the ground and paid homage.",
-      "links": "<a href='/AIV/9/15/27'>1 Sam. 15:27</a>",
-      "comment": "'Paid homage' translates the Hebrew 'shachah,' meaning to bow in respect."
+      "text": "He said to her, 'What does he look like?' She said, 'An old man is coming up, and he is wrapped in a robe.' Saul perceived that it was Samuel, and he bowed with his face to the ground and paid him homage.",
+      "links": "<a href='/AIV/9/15/27'>1Sam 15:27</a>; <a href='/AIV/9/3/19'>1Sam 3:19</a>",
+      "comment": "The robe is a symbol of Samuel's prophetic office. Saul's gesture of bowing suggests a reverential attitude toward God’s prophet, even in the midst of disobedience."
     },
     {
-      "pk": 2802815,
+      "pk": 9028015,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 28,
       "verse": 15,
-      "text": "Then Samuel said to Saul, 'Why have you disturbed me by bringing me up?' Saul answered, 'I am in great distress, for the Philistines are warring against me, and God has turned away from me and answers me no more, either by prophets or by dreams. Therefore I have summoned you to tell me what I should do.'",
-      "links": "<a href='/AIV/9/28/6'>1 Sam. 28:6</a>",
-      "comment": "Renders 'disturbed me by bringing me up' as per Hebrew idiom."
+      "text": "Samuel said to Saul, 'Why have you disturbed me by bringing me up?' Saul answered, 'I am greatly distressed, for the Philistines are waging war against me, and God has turned away from me and does not answer me any more, either by prophets or by dreams. Therefore I have called you, to tell me what I should do.'",
+      "links": "<a href='/AIV/9/16/14'>1Sam 16:14</a>; <a href='/AIV/9/28/6'>1Sam 28:6</a>",
+      "comment": "Samuel confirms the seriousness of this supernatural event, showing that even the righteous dead reside together, yet remain aware. Saul’s desperation demonstrates the spiritual crisis of being separated from divine guidance."
     },
     {
-      "pk": 2802816,
+      "pk": 9028016,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 28,
       "verse": 16,
-      "text": "And Samuel said, 'Why then do you ask me, since the LORD has turned from you and become your enemy?'",
-      "links": "<a href='/AIV/9/15/23'>1 Sam. 15:23</a>",
-      "comment": "'Become your enemy' follows the Hebrew closely."
+      "text": "Samuel said, 'Why then do you ask me, since the LORD has turned away from you and has become your enemy?'",
+      "links": "<a href='/AIV/9/15/26'>1Sam 15:26</a>; <a href='/AIV/19/66/10'>Ps 66:10</a>",
+      "comment": "Samuel’s words stress that God’s judgment is already decreed (see 1Sam 15). Seeking forbidden counsel is futile—only repentance and submission to God can restore relationship with Him."
     },
     {
-      "pk": 2802817,
+      "pk": 9028017,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 28,
       "verse": 17,
-      "text": "The LORD has done to you as he spoke by me, for the LORD has torn the kingdom out of your hand and given it to your neighbor, David.",
-      "links": "<a href='/AIV/9/15/28'>1 Sam. 15:28</a>; <a href='/AIV/9/13/14'>1 Sam. 13:14</a>",
-      "comment": "'Torn the kingdom out of your hand' is literal wording."
+      "text": "The LORD has done to you just as He spoke by me. The LORD has torn the kingdom out of your hand and given it to your neighbor, to David.",
+      "links": "<a href='/AIV/9/15/28'>1Sam 15:28</a>; <a href='/AIV/10/5/5'>2Sam 5:5</a>",
+      "comment": "Samuel reiterates the judgment pronounced earlier (1Sam 15:28). God’s plan is unshakeable; Saul’s kingdom will go to David, the forebear of the Messiah. This anticipates the coming of Christ through David’s lineage."
     },
     {
-      "pk": 2802818,
+      "pk": 9028018,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 28,
       "verse": 18,
-      "text": "Because you did not obey the voice of the LORD and did not carry out his fierce wrath against Amalek, therefore the LORD has done this thing to you this day.",
-      "links": "<a href='/AIV/9/15/3'>1 Sam. 15:3</a>; <a href='/AIV/9/15/22-23'>1 Sam. 15:22-23</a>",
-      "comment": "'His fierce wrath' is the literal Hebrew phrase."
+      "text": "Because you did not obey the voice of the LORD and did not carry out His fierce wrath against Amalek, therefore the LORD has done this thing to you this day.",
+      "links": "<a href='/AIV/9/15/9-23'>1Sam 15:9-23</a>",
+      "comment": "The root of Saul’s rejection was his incomplete obedience in carrying out God’s judgment against the Amalekites. Obedience is crucial; partial submission is not enough for God’s standard."
     },
     {
-      "pk": 2802819,
+      "pk": 9028019,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 28,
       "verse": 19,
-      "text": "Moreover, the LORD will give Israel also with you into the hand of the Philistines. And tomorrow you and your sons shall be with me. The LORD will give the army of Israel also into the hand of the Philistines.'",
-      "links": "<a href='/AIV/9/31/2-6'>1 Sam. 31:2-6</a>",
-      "comment": "'With me' is recognized as meaning with Samuel in death."
+      "text": "Moreover, the LORD will give Israel along with you into the hand of the Philistines. Tomorrow you and your sons will be with me. The LORD will deliver the army of Israel also into the hand of the Philistines.'",
+      "links": "<a href='/AIV/9/31/2-6'>1Sam 31:2-6</a>; <a href='/AIV/26/32/18'>Ezek 32:18</a>",
+      "comment": "Samuel declares imminent defeat and Saul’s impending death. 'With me' suggests Saul and his sons will join Samuel among the dead, indicating, in Old Testament thought, a common destiny for dead souls awaiting final judgment. This concept hints at a state after death where even the chosen wait for redemption—a theme later developed at the Resurrection (see Luke 16:22)."
     },
     {
-      "pk": 2802820,
+      "pk": 9028020,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 28,
       "verse": 20,
-      "text": "Then Saul fell at once full length on the ground, filled with fear because of the words of Samuel. And there was no strength in him, for he had eaten nothing all day and all night.",
-      "links": "<a href='/AIV/9/14/24'>1 Sam. 14:24</a>",
-      "comment": "Literal phrase 'full length on the ground' preserved."
+      "text": "Then Saul fell at once full length on the ground, and was very afraid because of Samuel’s words. There was no strength in him, for he had eaten no food all day and all night.",
+      "links": "<a href='/AIV/9/14/24'>1Sam 14:24</a>; <a href='/AIV/19/102/4'>Ps 102:4</a>",
+      "comment": "Saul’s physical weakness mirrors his spiritual state. Fasting, often seen as discipline in Jewish tradition, here reflects Saul’s distress rather than devotion, and may hint at the need for proper spiritual nourishment."
     },
     {
-      "pk": 2802821,
+      "pk": 9028021,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 28,
       "verse": 21,
-      "text": "And the woman came to Saul, and when she saw that he was terrified, she said to him, 'Look, your servant has obeyed you. I have risked my life and done what you told me.'",
-      "links": "<a href='/AIV/9/28/9'>1 Sam. 28:9</a>",
-      "comment": "'Risked my life' is a literal rendering of 'put my life in my hand.'"
+      "text": "The woman came to Saul and saw that he was terrified. She said to him, 'Look, your servant has obeyed you. I have taken my life in my hand and done what you asked me to do.'",
+      "links": "<a href='/AIV/9/28/9'>1Sam 28:9</a>",
+      "comment": "The woman reminds Saul of the danger she risked for his benefit, appealing for compassion. Her approach is submissive, but also reveals the deep consequences of Saul’s actions."
     },
     {
-      "pk": 2802822,
+      "pk": 9028022,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 28,
       "verse": 22,
-      "text": "'Now therefore, please listen also to your servant, and let me set a morsel of bread before you; eat, that you may have strength when you go on your way.'",
-      "links": "<a href='/AIV/9/14/28'>1 Sam. 14:28</a>",
-      "comment": "Literal phrase 'set a morsel of bread before you.'"
+      "text": "'So now, please listen to your servant and let me set a morsel of bread before you, that you may have strength when you go on your way.'",
+      "links": "<a href='/AIV/1/18/5'>Gen 18:5</a>",
+      "comment": "The offer of bread, a gesture of hospitality, recalls themes of nourishment and care (see Gen 18:5). Receiving sustenance from another highlights God’s ongoing provision, even through unexpected means."
     },
     {
-      "pk": 2802823,
+      "pk": 9028023,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 28,
       "verse": 23,
-      "text": "But he refused and said, 'I will not eat.' But his servants, together with the woman, urged him, and he listened to their words. So he arose from the ground and sat on the bed.",
-      "links": "<a href='/AIV/9/19/13'>1 Sam. 19:13</a>",
-      "comment": "Literal 'sat on the bed' as per ancient custom."
+      "text": "But he refused and said, 'I will not eat.' But his servants, together with the woman, urged him and he listened to their words. So he arose from the ground and sat on the bed.",
+      "links": "<a href='/AIV/9/28/20'>1Sam 28:20</a>",
+      "comment": "Though initially refusing food due to sorrow, Saul is persuaded by the woman and his servants. The communal act of urging Saul to eat points to the restorative power of others’ intercession—a spiritual parallel to prayer."
     },
     {
-      "pk": 2802824,
+      "pk": 9028024,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 28,
       "verse": 24,
-      "text": "Now the woman had a fattened calf in the house, and she quickly killed it, and she took flour and kneaded it and baked unleavened bread of it.",
-      "links": "<a href='/AIV/1/18/6-7'>Gen. 18:6-7</a>",
-      "comment": "Literal rendering, including 'fattened calf.'"
+      "text": "The woman had a fattened calf in the house; she quickly killed it, took flour, kneaded it, and baked unleavened bread.",
+      "links": "<a href='/AIV/1/18/6-8'>Gen 18:6-8</a>; <a href='/AIV/2/12/8'>Exod 12:8</a>",
+      "comment": "This hospitality echoes ancient acts of care and sacrifice (see Gen 18 where Abraham serves visitors). Unleavened bread recalls Passover imagery, connecting to themes of sacrifice and preparation for deliverance."
     },
     {
-      "pk": 2802825,
+      "pk": 9028025,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 28,
       "verse": 25,
-      "text": "She put it before Saul and his servants, and they ate. Then they rose and went away that night.",
-      "links": "<a href='/AIV/9/9/24'>1 Sam. 9:24</a>",
-      "comment": "Follows Hebrew word order closely."
+      "text": "She brought it before Saul and his servants, and they ate. Then they rose and went away that night.",
+      "links": "<a href='/AIV/1/19/33'>Gen 19:33</a>",
+      "comment": "Saul eats, receives final earthly nourishment, and departs to face his destined fate. The night setting enhances the somber mood, emphasizing Saul’s spiritual darkness. The structure of this narrative, with a meal before death, foreshadows the significance of last meals as preludes to momentous events (see Luke 22:14-20)."
     }
   ],
-  "translatedAt": "2025-12-22T08:37:50.613Z"
+  "translatedAt": "2025-12-24T03:07:08.660Z"
 }

@@ -1,208 +1,249 @@
 {
-  "book": "2 Kings",
+  "book": 12,
+  "bookName": "2 Kings",
   "bookAbbreviation": "2Kgs",
   "chapter": 22,
   "verses": [
     {
-      "pk": 3052201,
+      "pk": 12022001,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 22,
       "verse": 1,
-      "text": "Josiah was eight years old when he became king, and he reigned thirty-one years in Jerusalem. His mother's name was Jedidah, the daughter of Adaiah of Bozkath.",
+      "text": "Josiah was eight years old when he began to reign, and he reigned thirty-one years in Jerusalem. His mother’s name was Jedidah, daughter of Adaiah from Bozkath.",
       "links": "<a href='/AIV/14/34/1'>2 Chron. 34:1</a>",
-      "comment": "Names and ages are consistent with the Hebrew text. Cross-reference to 2 Chronicles 34:1."
+      "comment": "Josiah ascends the throne as a child. This emphasizes God’s ability to raise up leaders from humble and unexpected origins (cf. 1 Sam. 16:11-13)."
     },
     {
-      "pk": 3052202,
+      "pk": 12022002,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 22,
       "verse": 2,
-      "text": "He did what was right in the sight of the LORD and walked in all the ways of David his father, and did not turn aside to the right or to the left.",
-      "links": "<a href='/AIV/05/17/20'>Deut. 17:20</a>; <a href='/AIV/14/34/2'>2 Chron. 34:2</a>",
-      "comment": "Phrase 'David his father' is maintained as meaning ancestor, as consistent with the Hebrew idiom."
+      "text": "He did what was right in the eyes of the LORD, and walked in all the ways of David his father. He did not turn aside to the right or to the left.",
+      "links": "<a href='/AIV/14/34/2'>2 Chron. 34:2</a>; <a href='/AIV/5/5/32'>Deut. 5:32</a>",
+      "comment": "Josiah is presented as the model of faithfulness after David. The Biblical ideal of steadfastness to God’s law is highlighted (see Josh. 1:7; Deut. 17:20)."
     },
     {
-      "pk": 3052203,
+      "pk": 12022003,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 22,
       "verse": 3,
-      "text": "In the eighteenth year of King Josiah, the king sent Shaphan, the son of Azaliah, son of Meshullam, the scribe, to the house of the LORD, saying,",
+      "text": "In the eighteenth year of King Josiah, the king sent Shaphan the son of Azaliah, son of Meshullam, the scribe, to the house of the LORD, saying:",
       "links": "<a href='/AIV/14/34/8'>2 Chron. 34:8</a>",
-      "comment": "Terms like 'scribe' can mean 'secretary' or 'court official.' The Hebrew 'bayit YHWH' is rendered 'house of the LORD.'"
+      "comment": "Eighteenth year marks a period of maturity. The involvement of royal scribes indicates the importance of the written word and sacred tradition."
     },
     {
-      "pk": 3052204,
+      "pk": 12022004,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 22,
       "verse": 4,
-      "text": "Go up to Hilkiah the high priest, so that he may count the money that has been brought into the house of the LORD, which the doorkeepers have collected from the people.",
-      "links": "<a href='/AIV/12/12/9'>2 Kings 12:9</a>; <a href='/AIV/14/34/9'>2 Chron. 34:9</a>",
-      "comment": "The phrase 'doorkeepers' is a direct translation of the Hebrew 'shomer hasaf,' meaning those responsible for collection."
+      "text": "'Go up to Hilkiah the high priest, so that he may count the money that has been brought into the house of the LORD, which the doorkeepers have collected from the people.'",
+      "links": "<a href='/AIV/12/12/9-10'>2 Kgs 12:9-10</a>",
+      "comment": "The reference to the high priest and temple offerings illustrates both hierarchy and the importance of rightly ordered worship."
     },
     {
-      "pk": 3052205,
+      "pk": 12022005,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 22,
       "verse": 5,
-      "text": "And let them deliver it into the hand of the workmen who have the oversight of the house of the LORD; and let them give it to those doing the work, who repair the damage of the house—",
-      "links": "<a href='/AIV/12/12/11'>2 Kings 12:11–12</a>",
-      "comment": "Terms like 'overseers' and 'workmen' are rendered literally for clarity."
+      "text": "'Let it be given into the hand of the workmen who have oversight of the house of the LORD, and let them give it to the workmen who are at the house of the LORD, repairing the damages of the house,'",
+      "links": "<a href='/AIV/12/12/11-12'>2 Kgs 12:11-12</a>",
+      "comment": "Care for God’s house is entrusted to accountable overseers—maintaining the sanctuary is a communal and spiritual duty."
     },
     {
-      "pk": 3052206,
+      "pk": 12022006,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 22,
       "verse": 6,
-      "text": "to the carpenters, the builders, and the masons. Also to buy timber and hewn stone to repair the house.",
-      "links": "<a href='/AIV/12/12/12'>2 Kings 12:12</a>",
-      "comment": "Trades are named as given in the text; 'hewn stone' is a literal rendering from the Hebrew."
+      "text": "'to the carpenters, builders, and masons, and also to buy timber and cut stone to repair the house.'",
+      "links": "<a href='/AIV/11/6/7'>1 Kgs 6:7</a>",
+      "comment": "Details of the repair show respect for sacred tradition, and employing skilled labor reflects ordered stewardship of God’s gifts."
     },
     {
-      "pk": 3052207,
+      "pk": 12022007,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 22,
       "verse": 7,
-      "text": "But let no accounting be required of them for the money given into their hand, because they deal faithfully.",
-      "links": "<a href='/AIV/12/12/15'>2 Kings 12:15</a>",
-      "comment": "The Hebrew term indicates implicit trust in the workers' honesty."
+      "text": "But no accounting shall be required from them for the money delivered into their hand, for they deal honestly.",
+      "links": "<a href='/AIV/12/12/15'>2 Kgs 12:15</a>",
+      "comment": "The trust placed in the workers emphasizes integrity; a sign of renewal and faith in leadership."
     },
     {
-      "pk": 3052208,
+      "pk": 12022008,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 22,
       "verse": 8,
-      "text": "And Hilkiah the high priest said to Shaphan the scribe, \"I have found the Book of the Law in the house of the LORD.\" And Hilkiah gave the book to Shaphan, and he read it.",
-      "links": "<a href='/AIV/14/34/14'>2 Chron. 34:14–15</a>",
-      "comment": "The 'Book of the Law' is traditionally understood as part or all of Deuteronomy; 'book' is from the Hebrew 'sefer.'"
+      "text": "And Hilkiah the high priest said to Shaphan the scribe, 'I have found the Book of the Law in the house of the LORD.' And Hilkiah gave the book to Shaphan, who read it.",
+      "links": "<a href='/AIV/14/34/14-15'>2 Chron. 34:14-15</a>; <a href='/AIV/5/31/24-26'>Deut. 31:24-26</a>",
+      "comment": "Finding the Book of the Law (likely Deuteronomy) is a pivotal spiritual event, showing the centrality of Scripture to renewal (cf. Neh. 8:1-8)."
     },
     {
-      "pk": 3052209,
+      "pk": 12022009,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 22,
       "verse": 9,
-      "text": "And Shaphan the scribe came to the king, and brought the king word again, and said, \"Your servants have poured out the money that was found in the house, and have delivered it into the hand of the workmen who have the oversight of the house of the LORD.\"",
-      "links": "<a href='/AIV/12/22/5'>v. 5</a>",
-      "comment": "'Brought the king word again' is rendered for modern clarity; Hebrew idiom maintained."
+      "text": "Then Shaphan the scribe went to the king and brought the king word and said, 'Your servants have emptied out the money that was found in the house and have delivered it into the hand of those who do the work, who have the oversight of the house of the LORD.'",
+      "links": "<a href='/AIV/12/22/5-7'>2 Kgs 22:5-7</a>",
+      "comment": "Fidelity to the house of God parallels faithfulness to God Himself—material restoration connected to spiritual renewal."
     },
     {
-      "pk": 3052210,
+      "pk": 12022010,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 22,
       "verse": 10,
-      "text": "And Shaphan the scribe told the king, \"Hilkiah the priest has given me a book.\" And Shaphan read it before the king.",
+      "text": "Then Shaphan the scribe reported to the king, saying, 'Hilkiah the priest has given me a book.' And Shaphan read it before the king.",
       "links": "<a href='/AIV/14/34/18'>2 Chron. 34:18</a>",
-      "comment": "The text presents the reading of the law before the king as significant. 'A book' keeps the ambiguity of the original."
+      "comment": "The public reading of Scripture is crucial; hearing the Word leads to transformation (see Neh. 8:3; Rom. 10:17)."
     },
     {
-      "pk": 3052211,
+      "pk": 12022011,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 22,
       "verse": 11,
       "text": "When the king heard the words of the Book of the Law, he tore his clothes.",
-      "links": "<a href='/AIV/14/34/19'>2 Chron. 34:19</a>; <a href='/AIV/01/37/29'>Gen. 37:29</a>",
-      "comment": "Tearing clothes is a Hebrew sign of grief or repentance."
+      "links": "<a href='/AIV/15/9/3'>Ezra 9:3</a>; <a href='/AIV/18/1/20'>Job 1:20</a>",
+      "comment": "Tearing clothes is a sign of grief and repentance. True conversion starts with contrition before God’s Word (cf. Joel 2:13)."
     },
     {
-      "pk": 3052212,
+      "pk": 12022012,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 22,
       "verse": 12,
-      "text": "Then the king commanded Hilkiah the priest, Ahikam the son of Shaphan, Achbor the son of Micaiah, Shaphan the scribe, and Asaiah the king's servant, saying,",
-      "links": "<a href='/AIV/14/34/20'>2 Chron. 34:20</a>",
-      "comment": "Names and titles rendered as in the original; 'servant' is 'eved,' a court official."
+      "text": "And the king commanded Hilkiah the priest, Ahikam the son of Shaphan, Achbor the son of Micaiah, Shaphan the scribe, and Asaiah the king’s servant, saying:",
+      "links": "",
+      "comment": "Josiah immediately gathers both priests and royal officials, connecting both sacred authority and kingly leadership in seeking God’s will."
     },
     {
-      "pk": 3052213,
+      "pk": 12022013,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 22,
       "verse": 13,
-      "text": "\"Go, inquire of the LORD for me, for the people, and for all Judah, about the words of this book that has been found. For great is the wrath of the LORD that is kindled against us, because our fathers have not listened to the words of this book, to do all that is written for us.\"",
-      "links": "<a href='/AIV/02/23/21'>Ex. 23:21</a>; <a href='/AIV/14/34/21'>2 Chron. 34:21</a>",
-      "comment": "'Wrath of the LORD' is retained as in the original for theological accuracy."
+      "text": "'Go, inquire of the LORD for me, for the people, and for all Judah, about the words of this book that has been found. For great is the LORD’s wrath that is kindled against us, because our fathers have not obeyed the words of this book, to do according to all that is written concerning us.'",
+      "links": "<a href='/AIV/5/28/15-68'>Deut. 28:15-68</a>; <a href='/AIV/14/34/21'>2 Chron. 34:21</a>",
+      "comment": "Inquiry through the priestly office underlines the importance of authoritative interpretation of Scripture (see Mal. 2:7)."
     },
     {
-      "pk": 3052214,
+      "pk": 12022014,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 22,
       "verse": 14,
-      "text": "So Hilkiah the priest, Ahikam, Achbor, Shaphan, and Asaiah went to Huldah the prophetess, the wife of Shallum son of Tikvah, son of Harhas, keeper of the wardrobe. She lived in Jerusalem in the Second Quarter, and they spoke with her.",
+      "text": "So Hilkiah the priest, Ahikam, Achbor, Shaphan, and Asaiah went to Huldah the prophetess, the wife of Shallum son of Tikvah, son of Harhas, keeper of the wardrobe. She lived in Jerusalem in the Second District, and they spoke with her.",
       "links": "<a href='/AIV/14/34/22'>2 Chron. 34:22</a>",
-      "comment": "'Second Quarter' (Hebrew 'mishneh') probably refers to a district in Jerusalem. All names are rendered in a straightforward transliteration."
+      "comment": "Seeking counsel from a prophetess shows how God can speak through various chosen persons in His people’s history (cf. Judg. 4:4; Acts 21:9)."
     },
     {
-      "pk": 3052215,
+      "pk": 12022015,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 22,
       "verse": 15,
-      "text": "And she said to them, \"Thus says the LORD, the God of Israel: Tell the man who sent you to me:",
-      "links": "<a href='/AIV/02/04/22'>Ex. 4:22</a>",
-      "comment": "'Thus says the LORD' is the standard formula for prophetic oracles."
+      "text": "And she said to them, 'Thus says the LORD, the God of Israel: Tell the man who sent you to me, ‘",
+      "links": "",
+      "comment": "The prophetess delivers a direct oracle, emphasizing authentic revelation through designated mediators (cf. Heb. 1:1)."
     },
     {
-      "pk": 3052216,
+      "pk": 12022016,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 22,
       "verse": 16,
-      "text": "\"Thus says the LORD: Behold, I will bring disaster on this place and on its inhabitants, all the words of the book which the king of Judah has read.",
-      "links": "<a href='/AIV/03/26/31-33'>Lev. 26:31–33</a>; <a href='/AIV/05/28/15'>Deut. 28:15</a>",
-      "comment": "'Disaster' (Hebrew 'ra'ah') also means 'evil' or 'trouble,' here a judgment."
+      "text": "\"Thus says the LORD: Behold, I am bringing disaster upon this place and upon its inhabitants—all the words of the book which the king of Judah has read—",
+      "links": "<a href='/AIV/5/28/15'>Deut. 28:15</a>",
+      "comment": "God’s judgment comes as fulfillment of His covenant warnings, showing the seriousness of obedience and sin."
     },
     {
-      "pk": 3052217,
+      "pk": 12022017,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 22,
       "verse": 17,
-      "text": "Because they have forsaken me and have burned incense to other gods, so as to provoke me to anger with all the works of their hands. Therefore my wrath will be kindled against this place and it will not be quenched.\"",
-      "links": "<a href='/AIV/05/31/16-17'>Deut. 31:16–17</a>",
-      "comment": "'Burned incense' is a literal translation from 'qatar.' 'Works of their hands' refers to idolatry."
+      "text": "because they have forsaken Me and have burned incense to other gods, that they might provoke Me to anger with all the works of their hands. Therefore My wrath shall be kindled against this place, and it will not be quenched.'\"",
+      "links": "<a href='/AIV/5/31/16-17'>Deut. 31:16-17</a>",
+      "comment": "Idolatry leads to destruction; worship rightly ordered toward the true God is essential for remaining under His blessing."
     },
     {
-      "pk": 3052218,
+      "pk": 12022018,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 22,
       "verse": 18,
-      "text": "But to the king of Judah who sent you to inquire of the LORD—this is what you shall say to him: Thus says the LORD, the God of Israel: About the words that you have heard—",
-      "links": "<a href='/AIV/12/22/13'>v. 13</a>",
-      "comment": "The phrase 'inquire of the LORD' is consistent with the Hebrew 'darash eth-YHWH.'"
+      "text": "But to the king of Judah, who sent you to inquire of the LORD, thus you shall say: 'Thus says the LORD, the God of Israel: As for the words you have heard,",
+      "links": "<a href='/AIV/14/34/26'>2 Chron. 34:26</a>",
+      "comment": "Josiah’s humility before the law is singled out for blessing—a pattern repeated in salvation history (e.g., 1 Kgs 21:29; Dan. 10:12)."
     },
     {
-      "pk": 3052219,
+      "pk": 12022019,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 22,
       "verse": 19,
-      "text": "Because your heart was tender, and you humbled yourself before the LORD when you heard what I spoke against this place and its inhabitants—how they would become a desolation and a curse—and you tore your clothes and wept before me, I have also heard you, says the LORD.",
-      "links": "<a href='/AIV/19/34/18'>Ps. 34:18</a>; <a href='/AIV/14/34/27'>2 Chron. 34:27</a>",
-      "comment": "'Humbled yourself' is from Hebrew 'kana', meaning submission or repentance."
+      "text": "'Because your heart was tender, and you humbled yourself before the LORD, when you heard what I spoke against this place and its inhabitants, that they should become a desolation and a curse, and you tore your clothes and wept before Me, I also have heard you, says the LORD.'",
+      "links": "<a href='/AIV/19/51/17'>Ps. 51:17</a>; <a href='/AIV/40/5/3-4'>Matt. 5:3-4</a>",
+      "comment": "God responds to true repentance—an example for all believers of the value of humility, contrition, and personal response to revelation (Lk 18:13-14)."
     },
     {
-      "pk": 3052220,
+      "pk": 12022020,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 22,
       "verse": 20,
-      "text": "Therefore, behold, I will gather you to your fathers, and you shall be gathered to your grave in peace, and your eyes shall not see all the disaster that I will bring on this place.'\" So they took the message back to the king.",
-      "links": "<a href='/AIV/01/25/8'>Gen. 25:8</a>; <a href='/AIV/14/34/28'>2 Chron. 34:28</a>",
-      "comment": "'Gathered to your fathers' is a Hebrew idiom for dying and being buried with ancestors. 'In peace' is preserved as in the original."
+      "text": "'Therefore, behold, I will gather you to your fathers, and you shall be gathered to your grave in peace, and your eyes shall not see all the evil that I will bring upon this place.' So they brought back word to the king.",
+      "links": "<a href='/AIV/23/57/1-2'>Isa. 57:1-2</a>; <a href='/AIV/14/34/28'>2 Chron. 34:28</a>",
+      "comment": "‘Gathering to your fathers’ points to the hope of being united with the faithful departed in peace—a hope fulfilled more perfectly by Christ’s victory over death (see 1 Thess 4:13-18)."
     }
   ],
-  "translatedAt": "2025-12-22T10:43:38.157Z"
+  "translatedAt": "2025-12-24T04:00:39.909Z"
 }

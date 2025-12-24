@@ -1,118 +1,141 @@
 {
-  "book": "Nehemiah",
+  "book": 16,
+  "bookName": "Nehemiah",
   "bookAbbreviation": "Neh",
   "chapter": 1,
   "verses": [
     {
-      "pk": 2001001,
+      "pk": 16001001,
       "translation": "AIV",
       "book": 16,
+      "bookName": "Nehemiah",
+      "bookAbbreviation": "Neh",
       "chapter": 1,
       "verse": 1,
-      "text": "The words of Nehemiah son of Hacaliah: In the month of Kislev in the twentieth year, while I was in the fortress city of Susa,",
-      "links": "<a href='/AIV/17/1/2'>Esther 1:2</a>",
-      "comment": "Nehemiah introduces himself and the setting, providing historical context. Susa was a prominent city of the Persian empire, also mentioned in Esther."
+      "text": "The words of Nehemiah, son of Hacaliah. In the month of Chislev, in the twentieth year, while I was in the citadel of Susa,",
+      "links": "<a href='/AIV/17/1/2'>Esth. 1:2</a>; <a href='/AIV/16/2/1'>Neh. 2:1</a>",
+      "comment": "The book's introduction roots Nehemiah within Jewish history and the Persian Empire. The mention of 'the twentieth year' refers to King Artaxerxes I, situating the events around 445 BC. Susa was a major Persian capital, emphasizing the exile context."
     },
     {
-      "pk": 2001002,
+      "pk": 16001002,
       "translation": "AIV",
       "book": 16,
+      "bookName": "Nehemiah",
+      "bookAbbreviation": "Neh",
       "chapter": 1,
       "verse": 2,
-      "text": "Hanani, one of my brothers, and certain men from Judah came. I asked them about the Jews who had survived the exile and about Jerusalem.",
-      "links": "<a href='/AIV/16/7/2'>Nehemiah 7:2</a>; <a href='/AIV/15/2/1'>Ezra 2:1</a>",
-      "comment": "Hanani, likely Nehemiah’s actual brother, brings news regarding the state of the remnant in Jerusalem. The concern for the people aligns with the theme of restoration found throughout the prophets."
+      "text": "Hanani, one of my brothers, came with some men from Judah, and I asked them about the Jews who had survived the exile, and about Jerusalem.",
+      "links": "<a href='/AIV/16/7/2'>Neh. 7:2</a>; <a href='/AIV/15/2/1'>Ezra 2:1</a>",
+      "comment": "Nehemiah's concern for his people reveals his compassionate leadership and devotion to Jerusalem. The exile context points to God's faithfulness across generations, foreshadowing restoration."
     },
     {
-      "pk": 2001003,
+      "pk": 16001003,
       "translation": "AIV",
       "book": 16,
+      "bookName": "Nehemiah",
+      "bookAbbreviation": "Neh",
       "chapter": 1,
       "verse": 3,
-      "text": "They replied, 'The remnant there in the province who survived the exile are in great trouble and shame. The wall of Jerusalem is broken down, and its gates are destroyed by fire.'",
-      "links": "<a href='/AIV/15/9/9'>Ezra 9:9</a>; <a href='/AIV/25/2/9'>Lamentations 2:9</a>",
-      "comment": "Jerusalem’s disgrace and vulnerability is emphasized. The broken walls symbolize lost protection. This evokes the spiritual restoration and healing that would later be fulfilled in Christ and His Church as the new Jerusalem."
+      "text": "They replied, 'The remnant who remain in the province and have survived the exile are in great trouble and disgrace. The wall of Jerusalem is broken down, and its gates are burned with fire.'",
+      "links": "<a href='/AIV/19/79/1'>Ps. 79:1</a>; <a href='/AIV/25/1/3-4'>Lam. 1:3-4</a>",
+      "comment": "The state of Jerusalem symbolizes spiritual desolation and loss. The broken walls indicate vulnerability (literal and spiritual)—Jerusalem, often a figure of God's dwelling place among His people. The report stirs Nehemiah's prophetic response to rebuild."
     },
     {
-      "pk": 2001004,
+      "pk": 16001004,
       "translation": "AIV",
       "book": 16,
+      "bookName": "Nehemiah",
+      "bookAbbreviation": "Neh",
       "chapter": 1,
       "verse": 4,
-      "text": "When I heard these words, I sat down and wept and mourned for days. I fasted and prayed before the God of heaven.",
-      "links": "<a href='/AIV/10/12/16'>2 Samuel 12:16</a>; <a href='/AIV/17/4/3'>Esther 4:3</a>",
-      "comment": "Nehemiah’s response of mourning, fasting, and prayer shows his deep concern for God’s people. Fasting and prayer in times of crisis is a continual pattern across Scripture and in Church tradition for seeking divine intervention."
+      "text": "When I heard these words, I sat down, wept, and mourned for days. I fasted and prayed before the God of heaven.",
+      "links": "<a href='/AIV/10/12/16'>2 Sam. 12:16</a>; <a href='/AIV/40/5/4'>Matt. 5:4</a>",
+      "comment": "Nehemiah’s reaction models deep intercessory prayer—mourning, fasting, and seeking God’s mercy reflects the biblical pattern of seeking reconciliation and restoration. Here, prayer and fasting precede action, hinting at the importance of both interior devotion and exterior works."
     },
     {
-      "pk": 2001005,
+      "pk": 16001005,
       "translation": "AIV",
       "book": 16,
+      "bookName": "Nehemiah",
+      "bookAbbreviation": "Neh",
       "chapter": 1,
       "verse": 5,
-      "text": "I said, 'O LORD, God of heaven, the great and awesome God who keeps covenant and steadfast love with those who love Him and keep His commandments,",
-      "links": "<a href='/AIV/9/8/23'>1 Kings 8:23</a>; <a href='/AIV/5/7/9'>Deuteronomy 7:9</a>",
-      "comment": "Nehemiah appeals to God’s covenant faithfulness, echoing language from Moses and Solomon’s prayers. Theological emphasis on covenant continuity is important, showing the unity of God’s plan throughout salvation history."
+      "text": "I said, 'O Lord, God of heaven, great and awesome God, who keeps covenant and steadfast love with those who love Him and keep His commandments,",
+      "links": "<a href='/AIV/02/34/6-7'>Ex. 34:6-7</a>; <a href='/AIV/05/7/9'>Deut. 7:9</a>",
+      "comment": "Nehemiah invokes God's covenant faithfulness, echoing earlier Old Testament prayers. Observance of commandments links love and obedience, an enduring theme later echoed in Christ’s teaching (<a href='/AIV/43/14/15'>John 14:15</a>)."
     },
     {
-      "pk": 2001006,
+      "pk": 16001006,
       "translation": "AIV",
       "book": 16,
+      "bookName": "Nehemiah",
+      "bookAbbreviation": "Neh",
       "chapter": 1,
       "verse": 6,
-      "text": "Let your ear be attentive and your eyes open to hear the prayer of your servant that I now pray before you day and night for your servants, the people of Israel, confessing the sins of the people of Israel, which we have sinned against you. Both I and my father's house have sinned.",
-      "links": "<a href='/AIV/19/130/2'>Psalm 130:2</a>; <a href='/AIV/27/9/5'>Daniel 9:5</a>",
-      "comment": "Nehemiah’s intercessory prayer and confession parallels Daniel and Ezra, acknowledging corporate guilt. This highlights the necessity of communal confession and repentance, a practice carried forward into the new covenant."
+      "text": "let your ear be attentive and your eyes open, to hear the prayer of your servant, which I now pray before you day and night for your servants, the people of Israel. I confess the sins we have committed against you; I and my father's house have sinned.",
+      "links": "<a href='/AIV/19/130/2'>Ps. 130:2</a>; <a href='/AIV/27/9/3-5'>Dan. 9:3-5</a>",
+      "comment": "Confession and intercession are central here. Nehemiah prays continually, demonstrating faithfulness and humility. The confession is communal, recognizing need for corporate repentance, which is deeply scriptural and emphasized in tradition. Praying for others is highlighted as a spiritual work of mercy."
     },
     {
-      "pk": 2001007,
+      "pk": 16001007,
       "translation": "AIV",
       "book": 16,
+      "bookName": "Nehemiah",
+      "bookAbbreviation": "Neh",
       "chapter": 1,
       "verse": 7,
-      "text": "We have acted very wickedly against you and have not kept the commandments, the statutes, and the ordinances that you commanded your servant Moses.",
-      "links": "<a href='/AIV/3/26/15'>Leviticus 26:15</a>; <a href='/AIV/5/30/1'>Deuteronomy 30:1</a>",
-      "comment": "The reference to Moses' law underscores continuity between Old and New Testament faithfulness and obedience to God’s commands, which takes on a fuller spiritual meaning in the teaching of Jesus."
+      "text": "We have acted very corruptly against you, and have not kept the commandments, the statutes, and the rules which you commanded your servant Moses.",
+      "links": "<a href='/AIV/03/26/14-15'>Lev. 26:14-15</a>; <a href='/AIV/05/28/15'>Deut. 28:15</a>",
+      "comment": "Nehemiah’s acknowledgment of Israel’s failure to obey all of God’s law echoes the Deuteronomic cycle: blessing for obedience, curses for disobedience. This asks the reader to consider the full scope of God’s revealed law and its binding nature."
     },
     {
-      "pk": 2001008,
+      "pk": 16001008,
       "translation": "AIV",
       "book": 16,
+      "bookName": "Nehemiah",
+      "bookAbbreviation": "Neh",
       "chapter": 1,
       "verse": 8,
-      "text": "Remember the word that you commanded your servant Moses: 'If you are unfaithful, I will scatter you among the peoples,",
-      "links": "<a href='/AIV/5/28/64'>Deuteronomy 28:64</a>; <a href='/AIV/3/26/33'>Leviticus 26:33</a>",
-      "comment": "Covenant consequences are cited, emphasizing God’s justice. Scattering was fulfilled in the Exile, foreshadowing eventual regathering and restoration, a theme that finds ultimate fulfillment in Christ."
+      "text": "Remember the word you commanded your servant Moses: 'If you are unfaithful, I will scatter you among the nations;",
+      "links": "<a href='/AIV/03/26/33'>Lev. 26:33</a>; <a href='/AIV/05/4/27'>Deut. 4:27</a>",
+      "comment": "Here, Nehemiah appeals to God’s own covenant words, recognizing both justice and mercy. The scattering alludes to exile, consistent with God's discipline but also the possibility of restoration for repentance, a theme central to biblical salvation history."
     },
     {
-      "pk": 2001009,
+      "pk": 16001009,
       "translation": "AIV",
       "book": 16,
+      "bookName": "Nehemiah",
+      "bookAbbreviation": "Neh",
       "chapter": 1,
       "verse": 9,
-      "text": "but if you return to me, keep my commandments and do them, though your outcasts are in the farthest part of the heavens, I will gather them and bring them to the place I have chosen to make my name dwell there.'",
-      "links": "<a href='/AIV/5/30/4'>Deuteronomy 30:4</a>; <a href='/AIV/14/6/6'>2 Chronicles 6:6</a>",
-      "comment": "God promises restoration upon repentance, gathering His people to the chosen place—Jerusalem. Spiritually, this points to the fullness of worship and reconciliation found in the new covenant assembly."
+      "text": "but if you return to me and keep my commandments and do them, though your outcasts are in the farthest parts of heaven, I will gather them and bring them to the place I have chosen, to make my name dwell there.'",
+      "links": "<a href='/AIV/05/30/2-4'>Deut. 30:2-4</a>; <a href='/AIV/19/106/47'>Ps. 106:47</a>",
+      "comment": "God promises restoration based on repentance and obedience, highlighting the gathering of His people to the place of His presence—a foreshadowing of the eschatological assembly. Jerusalem as God's chosen place is both literal and symbolic of spiritual union with God."
     },
     {
-      "pk": 2001010,
+      "pk": 16001010,
       "translation": "AIV",
       "book": 16,
+      "bookName": "Nehemiah",
+      "bookAbbreviation": "Neh",
       "chapter": 1,
       "verse": 10,
-      "text": "They are your servants and your people whom you have redeemed by your great power and by your strong hand.",
-      "links": "<a href='/AIV/2/15/13'>Exodus 15:13</a>; <a href='/AIV/19/77/15'>Psalm 77:15</a>",
-      "comment": "Redemption imagery is prominent here, recalling the Exodus. This anticipates the greater redemption brought about through Jesus, who delivers His people by His power."
+      "text": "These are your servants and your people, whom you have redeemed by your great power and by your strong hand.",
+      "links": "<a href='/AIV/02/6/6'>Ex. 6:6</a>; <a href='/AIV/19/77/15'>Ps. 77:15</a>",
+      "comment": "Redemption imagery links the Exodus to present deliverance. Nehemiah identifies the people as God's—chosen, redeemed, sustained by His mighty acts, echoing themes of salvation and typological pointers to Christ’s redemptive work."
     },
     {
-      "pk": 2001011,
+      "pk": 16001011,
       "translation": "AIV",
       "book": 16,
+      "bookName": "Nehemiah",
+      "bookAbbreviation": "Neh",
       "chapter": 1,
       "verse": 11,
-      "text": "O Lord, let your ear be attentive to the prayer of your servant and to the prayer of your servants who delight to fear your name. Give success to your servant today, and grant him mercy in the sight of this man.” Now I was cupbearer to the king.",
-      "links": "<a href='/AIV/19/86/6'>Psalm 86:6</a>; <a href='/AIV/17/2/21'>Esther 2:21</a>",
-      "comment": "Nehemiah closes his prayer seeking favor from God as he prepares to act on behalf of God's people. His role as cupbearer is notable—he is positioned for intercession and service, echoing the idea of mediation that will be realized in the ultimate Intercessor and Mediator, Jesus Christ."
+      "text": "O Lord, let your ear be attentive to the prayer of your servant, and to the prayers of your servants who delight to honor your name. Give success to your servant today, and grant him mercy in the sight of this man.' I was cupbearer to the king.",
+      "links": "<a href='/AIV/19/143/8'>Ps. 143:8</a>; <a href='/AIV/16/2/1'>Neh. 2:1</a>",
+      "comment": "Nehemiah closes with petition for favor, emphasizing intercessory prayer and service tied to his vocation as cupbearer—a trusted royal official. Here is a model of lay sanctity and active faith. The phrase 'delight to honor your name' points toward the importance of worship and reverence."
     }
   ],
-  "translatedAt": "2025-12-23T04:34:22.109Z"
+  "translatedAt": "2025-12-24T04:46:03.538Z"
 }

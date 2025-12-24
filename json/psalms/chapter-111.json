@@ -1,108 +1,129 @@
 {
-  "book": "Psalms",
+  "book": 23,
+  "bookName": "Psalms",
   "bookAbbreviation": "Ps",
   "chapter": 111,
   "verses": [
     {
-      "pk": 1110110,
+      "pk": 23111001,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 111,
       "verse": 1,
-      "text": "Hallelujah! I will give thanks to the LORD with all my heart, in the company of the upright, in the congregation.",
-      "links": "<a href='/AIV/19/9/1'>Ps. 9:1</a>; <a href='/AIV/19/35/18'>Ps. 35:18</a>; <a href='/AIV/19/22/25'>Ps. 22:25</a>",
-      "comment": "The psalm begins with a call to praise (Hallelujah). Expressing thanksgiving with 'all my heart' and among the assembly is significant, echoing worship both privately and publicly—a theme fulfilled in Christian tradition, where worship is both personal and communal. The Hebrew 'congregation' ('edah) can point to an assembly gathered for worship, foreshadowing Christian liturgical gatherings."
+      "text": "Praise the LORD! I will give thanks to the LORD with all my heart, in the assembly of the upright, and in the congregation.",
+      "links": "<a href='/AIV/19/9/1'>Ps. 9:1</a>; <a href='/AIV/19/35/18'>Ps. 35:18</a>; <a href='/AIV/19/86/12'>Ps. 86:12</a>",
+      "comment": "The psalm opens with public worship among the faithful. The emphasis on thanksgiving 'in the congregation' points to the importance of communal liturgy and worship, which echoes biblical patterns and anticipates the New Testament assembly of believers (<a href='/AIV/44/2/42'>Acts 2:42</a>)."
     },
     {
-      "pk": 1110111,
+      "pk": 23111002,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 111,
       "verse": 2,
-      "text": "The works of the LORD are great, studied by all who delight in them.",
-      "links": "<a href='/AIV/19/92/5'>Ps. 92:5</a>; <a href='/AIV/19/145/4'>Ps. 145:4-6</a>",
-      "comment": "This verse highlights meditative study of God's actions. The invitation to contemplate the works of God underlies the importance of tradition, reason, and reflection in faith. All who love God are called to ponder deeply His deeds, aligning faith with understanding (see <a href='/AIV/19/77/12'>Ps. 77:12</a>)."
+      "text": "Great are the works of the LORD, studied by all who delight in them.",
+      "links": "<a href='/AIV/19/104/24'>Ps. 104:24</a>; <a href='/AIV/19/145/4'>Ps. 145:4</a>",
+      "comment": "God’s works are worthy of meditation and study, inviting believers to ponder creation and providence. Early Christian writers often reflected on this verse as supporting reason and tradition in faith."
     },
     {
-      "pk": 1110112,
+      "pk": 23111003,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 111,
       "verse": 3,
-      "text": "Majesty and splendor are his work, and his righteousness endures forever.",
-      "links": "<a href='/AIV/19/145/5'>Ps. 145:5</a>; <a href='/AIV/19/119/142'>Ps. 119:142</a>",
-      "comment": "References to God's enduring righteousness are foundational and point to the eternal nature of God’s justice and mercy. These qualities are fully revealed in Christ, the embodiment of God's righteousness (see <a href='/AIV/45/3/21-22'>Rom. 3:21-22</a>)."
+      "text": "Splendid and majestic is his work, and his righteousness endures forever.",
+      "links": "<a href='/AIV/19/112/3'>Ps. 112:3</a>; <a href='/AIV/19/145/7'>Ps. 145:7</a>",
+      "comment": "The perpetuity of God's righteousness hints at His fidelity to covenant, which finds fulfillment in Christ (<a href='/AIV/42/1/68-75'>Luke 1:68-75</a>)."
     },
     {
-      "pk": 1110113,
+      "pk": 23111004,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 111,
       "verse": 4,
       "text": "He has caused his wonders to be remembered; the LORD is gracious and full of compassion.",
-      "links": "<a href='/AIV/19/145/8'>Ps. 145:8</a>; <a href='/AIV/19/103/8'>Ps. 103:8</a>",
-      "comment": "God’s miracles and saving acts are meant to be recalled continually, which becomes explicit in Christian worship and the eucharist, as Christ commands, 'Do this in remembrance of me.' The line 'gracious and full of compassion' echoes language used throughout the Old Testament for God's mercy."
+      "links": "<a href='/AIV/19/78/4'>Ps. 78:4</a>; <a href='/AIV/19/145/8'>Ps. 145:8</a>",
+      "comment": "The language here recalls miracles and redemptive acts (Exodus, etc.), and foreshadows the sacraments as enduring memorials of God's compassion (<a href='/AIV/42/22/19'>Luke 22:19</a>)."
     },
     {
-      "pk": 1110114,
+      "pk": 23111005,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 111,
       "verse": 5,
       "text": "He gives food to those who fear him; he remembers his covenant forever.",
-      "links": "<a href='/AIV/19/145/15'>Ps. 145:15</a>; <a href='/AIV/2/16/15'>Ex. 16:15</a>; <a href='/AIV/19/105/8'>Ps. 105:8</a>",
-      "comment": "'Food' recalls the manna in the wilderness and points forward to the true bread given by Christ (see <a href='/AIV/43/6/32-35'>John 6:32-35</a>). The eternal covenant reflects the unbroken bond God maintains with humanity, fulfilled in the new covenant."
+      "links": "<a href='/AIV/2/16/4'>Ex. 16:4</a>; <a href='/AIV/19/105/8'>Ps. 105:8</a>; <a href='/AIV/19/145/15'>Ps. 145:15</a>",
+      "comment": "The reference to food alludes to God’s providence, but also invites a spiritual reading linked to the bread from heaven and fulfillment in the Eucharist (<a href='/AIV/43/6/32-35'>John 6:32–35</a>)."
     },
     {
-      "pk": 1110115,
+      "pk": 23111006,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 111,
       "verse": 6,
       "text": "He has shown his people the power of his works, giving them the inheritance of the nations.",
-      "links": "<a href='/AIV/19/105/44'>Ps. 105:44</a>; <a href='/AIV/19/2/8'>Ps. 2:8</a>",
-      "comment": "The inheritance of the nations is ultimately fulfilled in the kingdom established by Christ, who brings all peoples into one family. Early Christians saw this fulfilled as Gentiles were brought into the promises given to Israel."
+      "links": "<a href='/AIV/5/4/37-38'>Deut. 4:37-38</a>; <a href='/AIV/19/105/44'>Ps. 105:44</a>",
+      "comment": "This verse recalls the gift of the Promised Land, foreshadowing the Church’s mission to inherit all nations through Christ's universal kingdom (<a href='/AIV/19/2/8'>Ps. 2:8</a>; <a href='/AIV/40/28/19'>Matt. 28:19</a>)."
     },
     {
-      "pk": 1110116,
+      "pk": 23111007,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 111,
       "verse": 7,
       "text": "The works of his hands are faithful and just; all his precepts are trustworthy.",
-      "links": "<a href='/AIV/19/119/138'>Ps. 119:138</a>; <a href='/AIV/19/33/4'>Ps. 33:4</a>",
-      "comment": "Here, the psalmist connects God’s acts with his revealed commands. The trustworthy precepts are linked to God's moral law, which Christ came not to abolish but to fulfill (<a href='/AIV/40/5/17'>Matt. 5:17</a>), showing the continuity of the Old and New Covenants."
+      "links": "<a href='/AIV/19/19/7'>Ps. 19:7</a>; <a href='/AIV/19/119/138'>Ps. 119:138</a>",
+      "comment": "God’s precepts, handed down faithfully, invite trust and obedience—a foundational affirmation for the faithful transmission of biblical and apostolic teaching (<a href='/AIV/54/3/15'>1 Tim. 3:15</a>)."
     },
     {
-      "pk": 1110117,
+      "pk": 23111008,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 111,
       "verse": 8,
-      "text": "They are established forever and ever, enacted in faithfulness and uprightness.",
-      "links": "<a href='/AIV/19/119/160'>Ps. 119:160</a>",
-      "comment": "God’s statutes are permanent, reflecting the unchanging moral and spiritual truths binding the faithful in every age. This permanence previews the unbroken, living tradition sustained from the beginning of the Church."
+      "text": "They are established forever and ever, enacted in truth and uprightness.",
+      "links": "<a href='/AIV/19/89/34'>Ps. 89:34</a>; <a href='/AIV/19/119/160'>Ps. 119:160</a>",
+      "comment": "The eternal nature of God’s commands underscores the permanence of divine law and tradition, which endures beyond cultural changes and personal opinion (<a href='/AIV/40/5/18'>Matt. 5:18</a>)."
     },
     {
-      "pk": 1110118,
+      "pk": 23111009,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 111,
       "verse": 9,
-      "text": "He sent redemption to his people; he has commanded his covenant forever. Holy and awesome is his name.",
-      "links": "<a href='/AIV/19/130/7-8'>Ps. 130:7-8</a>; <a href='/AIV/19/99/3'>Ps. 99:3</a>",
-      "comment": "Redemption accomplished through God’s intervention prefigures the ultimate redemption in Christ, who establishes a covenant that will not pass away (<a href='/AIV/58/9/12'>Heb. 9:12</a>). 'Holy and awesome is his name' calls the faithful to reverence the Lord, which the New Testament sees embodied in Christ's saving name."
+      "text": "He sent redemption to his people; he has commanded his covenant forever. Holy and awesome is his name!",
+      "links": "<a href='/AIV/19/130/7-8'>Ps. 130:7-8</a>; <a href='/AIV/42/1/68-69'>Luke 1:68-69</a>",
+      "comment": "Redemption, a central biblical theme, comes to completion in the Messiah’s saving work. Covenant language connects Old Testament promises with their fulfillment in the new and everlasting covenant (<a href='/AIV/40/26/28'>Matt. 26:28</a>)."
     },
     {
-      "pk": 1110119,
+      "pk": 23111010,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 111,
       "verse": 10,
-      "text": "The fear of the LORD is the beginning of wisdom; all who follow his commandments have good understanding. His praise endures forever.",
+      "text": "The fear of the LORD is the beginning of wisdom; all who practice it have good understanding. His praise endures forever.",
       "links": "<a href='/AIV/20/1/7'>Prov. 1:7</a>; <a href='/AIV/19/112/1'>Ps. 112:1</a>",
-      "comment": "True wisdom begins with awe and submission to God—a major theme developed throughout Scripture (see <a href='/AIV/59/3/13-17'>James 3:13-17</a>). The link between obedience and understanding prefigures New Testament teaching that love for God is shown in keeping his commandments (<a href='/AIV/43/14/15'>John 14:15</a>)."
+      "comment": "Reverent awe before God is the root of true wisdom. Practicing worship and obedience leads to understanding, emphasizing that living faith is expressed through both word and ritual (<a href='/AIV/43/13/17'>John 13:17</a>)."
     }
   ],
-  "translatedAt": "2025-12-23T05:42:07.940Z"
+  "translatedAt": "2025-12-24T06:39:28.802Z"
 }

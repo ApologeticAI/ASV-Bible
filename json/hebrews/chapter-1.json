@@ -1,148 +1,177 @@
 {
-  "book": "Hebrews",
+  "book": 65,
+  "bookName": "Hebrews",
   "bookAbbreviation": "Heb",
   "chapter": 1,
   "verses": [
     {
-      "pk": 34001001,
+      "pk": 65001001,
       "translation": "AIV",
-      "book": 58,
+      "book": 65,
+      "bookName": "Hebrews",
+      "bookAbbreviation": "Heb",
       "chapter": 1,
       "verse": 1,
-      "text": "Long ago, God spoke to our fathers in many parts and in many ways by the prophets.",
-      "links": "<a href='/AIV/2/3/6'>Ex. 3:6</a>; <a href='/AIV/23/1/1'>Isa. 1:1</a>",
-      "comment": "God's communication in the past through prophets laid the foundation for the fuller revelation in Christ, emphasizing continuity in salvation history."
+      "text": "Long ago, God spoke to our ancestors in many different ways and at many times through the prophets.",
+      "links": "<a href='/AIV/04/12/6'>Num. 12:6</a>; <a href='/AIV/23/1/1'>Isa. 1:1</a>",
+      "comment": "This opening verse provides a historical context of God's communication through chosen messengers. The reference to prophets emphasizes the authenticity and authority of divine revelation through appointed individuals. Prophetical revelation was progressive and preparatory, pointing forward to its fulfillment in Christ."
     },
     {
-      "pk": 34001002,
+      "pk": 65001002,
       "translation": "AIV",
-      "book": 58,
+      "book": 65,
+      "bookName": "Hebrews",
+      "bookAbbreviation": "Heb",
       "chapter": 1,
       "verse": 2,
-      "text": "But in these last days, He has spoken to us by His Son, whom He appointed heir of all things, through whom also He made the ages.",
-      "links": "<a href='/AIV/40/21/38'>Matt. 21:38</a>; <a href='/AIV/43/1/3'>John 1:3</a>; <a href='/AIV/51/1/16'>Col. 1:16</a>",
-      "comment": "This verse teaches that revelation is now complete in the Son, who shares in God's divine work of creation and authority (see John 1:3). The word 'ages' highlights Christ's eternal role."
+      "text": "But in these last days He has spoken to us by His Son, whom He appointed heir of all things, and through whom He made the world.",
+      "links": "<a href='/AIV/19/2/7-8'>Ps. 2:7-8</a>; <a href='/AIV/43/1/3'>John 1:3</a>; <a href='/AIV/51/1/16'>Col. 1:16</a>",
+      "comment": "Christ is presented as the final and supreme revelation of God, surpassing all previous prophets. ‘Heir of all things’ links Jesus to messianic prophecies, and ‘through whom He made the world’ asserts His divine agency in creation—indicating both His divinity and preexistence, central to traditional Christology."
     },
     {
-      "pk": 34001003,
+      "pk": 65001003,
       "translation": "AIV",
-      "book": 58,
+      "book": 65,
+      "bookName": "Hebrews",
+      "bookAbbreviation": "Heb",
       "chapter": 1,
       "verse": 3,
-      "text": "He is the radiance of God's glory and the exact imprint of His being, and He upholds all things by His powerful word. After making purification for sins, He sat down at the right hand of the Majesty on high.",
-      "links": "<a href='/AIV/43/14/9'>John 14:9</a>; <a href='/AIV/19/110/1'>Ps. 110:1</a>; <a href='/AIV/51/1/15'>Col. 1:15</a>",
-      "comment": "Christ is described here in terms used only for God, affirming His divinity and role as sustainer. Sitting 'at the right hand' refers to His exaltation, a theme that hints at His ongoing priestly ministry (Ps. 110:1)."
+      "text": "He is the radiance of God's glory and the exact imprint of His being; He sustains all things by His powerful word. After making purification for sins, He sat down at the right hand of the Majesty on high.",
+      "links": "<a href='/AIV/43/14/9'>John 14:9</a>; <a href='/AIV/19/110/1'>Ps. 110:1</a>; <a href='/AIV/51/1/17'>Col. 1:17</a>",
+      "comment": "‘Radiance of God's glory’ and ‘exact imprint’ affirm Christ’s divine nature: He is not merely similar to God, but of the same nature. Sitting at God’s right hand recalls the Old Testament image of enthronement (Ps. 110:1) and signifies authority and completion of His redemptive work."
     },
     {
-      "pk": 34001004,
+      "pk": 65001004,
       "translation": "AIV",
-      "book": 58,
+      "book": 65,
+      "bookName": "Hebrews",
+      "bookAbbreviation": "Heb",
       "chapter": 1,
       "verse": 4,
       "text": "Having become as much superior to the angels as the name He has inherited is more excellent than theirs.",
-      "links": "<a href='/AIV/50/2/9-11'>Phil. 2:9–11</a>",
-      "comment": "The 'name' refers to Sonship and divine authority. Christ is honored above the angels, reflecting His unique status."
+      "links": "<a href='/AIV/50/2/9'>Phil. 2:9</a>; <a href='/AIV/19/8/5'>Ps. 8:5</a>",
+      "comment": "The verse highlights Christ's unique status above all angelic beings, based on the ‘name’ He possesses—signifying His authority and sonship. This sets up the theological framework for understanding the true identity and power of Christ in the economy of salvation."
     },
     {
-      "pk": 34001005,
+      "pk": 65001005,
       "translation": "AIV",
-      "book": 58,
+      "book": 65,
+      "bookName": "Hebrews",
+      "bookAbbreviation": "Heb",
       "chapter": 1,
       "verse": 5,
-      "text": "For to which of the angels did God ever say, 'You are My Son, today I have begotten You'? Or again, 'I will be to Him a Father, and He shall be to Me a Son'?",
+      "text": "For to which of the angels did God ever say, 'You are My Son; today I have begotten You'? Or again, 'I will be His Father, and He will be My Son'?",
       "links": "<a href='/AIV/19/2/7'>Ps. 2:7</a>; <a href='/AIV/10/7/14'>2 Sam. 7:14</a>",
-      "comment": "Old Testament prophecy is fulfilled in Christ, declared uniquely as God's Son (Ps. 2:7). This sonship also implies authority and intimacy beyond angelic beings."
+      "comment": "The citations from Psalm 2:7 and 2 Sam. 7:14 stress Christ’s unique filial relationship with the Father. The begetting language has deep Trinitarian significance, signifying not creation, but an eternal and unique sonship."
     },
     {
-      "pk": 34001006,
+      "pk": 65001006,
       "translation": "AIV",
-      "book": 58,
+      "book": 65,
+      "bookName": "Hebrews",
+      "bookAbbreviation": "Heb",
       "chapter": 1,
       "verse": 6,
-      "text": "And again, when He brings the Firstborn into the world, He says, 'Let all God's angels worship Him.'",
-      "links": "<a href='/AIV/5/32/43'>Deut. 32:43 (LXX)</a>; <a href='/AIV/19/97/7'>Ps. 97:7</a>",
-      "comment": "Worship due to the Son shows His divine status. This worship, reserved for God alone, reflects the high christology found throughout the New Testament."
+      "text": "And again, when He brings the firstborn into the world, He says, 'Let all God's angels worship Him.'",
+      "links": "<a href='/AIV/05/32/43'>Deut. 32:43 (LXX)</a>; <a href='/AIV/19/97/7'>Ps. 97:7</a>",
+      "comment": "Calling Jesus ‘firstborn’ indicates precedence and authority, as well as inheritance. The command for angels to worship Him underscores His divinity. Note that worship is reserved for God alone (cf. Ps. 97:7) affirming Christ’s place in the Godhead."
     },
     {
-      "pk": 34001007,
+      "pk": 65001007,
       "translation": "AIV",
-      "book": 58,
+      "book": 65,
+      "bookName": "Hebrews",
+      "bookAbbreviation": "Heb",
       "chapter": 1,
       "verse": 7,
-      "text": "And of the angels He says, 'He makes His angels winds, and His servants flames of fire.'",
+      "text": "About the angels He says, 'He makes His angels winds and His ministers flames of fire.'",
       "links": "<a href='/AIV/19/104/4'>Ps. 104:4</a>",
-      "comment": "Angels are God's messengers and serve His will, but do not share in the eternal reign of the Son."
+      "comment": "Angels are described as creatures serving God, with roles compared to the elements—showing their power but also their status as servants, not divine beings."
     },
     {
-      "pk": 34001008,
+      "pk": 65001008,
       "translation": "AIV",
-      "book": 58,
+      "book": 65,
+      "bookName": "Hebrews",
+      "bookAbbreviation": "Heb",
       "chapter": 1,
       "verse": 8,
-      "text": "But of the Son He says, 'Your throne, O God, is forever and ever, and the scepter of uprightness is the scepter of Your kingdom.'",
-      "links": "<a href='/AIV/19/45/6-7'>Ps. 45:6-7</a>",
-      "comment": "God the Father addresses the Son as 'God,' reinforcing the full divinity of Christ and the eternal nature of His reign. Compare to Psalm 45:6-7 for the Old Testament context."
+      "text": "But about the Son He says, 'Your throne, O God, is forever and ever, and the scepter of righteousness is the scepter of Your kingdom.'",
+      "links": "<a href='/AIV/19/45/6'>Ps. 45:6</a>; <a href='/AIV/24/23/5'>Jer. 23:5</a>",
+      "comment": "This verse directly identifies the Son as God, quoting Psalm 45:6 (a royal psalm), attributing eternal and righteous rule to Christ. The explicit divine title upholds the doctrine of Christ’s kingship and divinity."
     },
     {
-      "pk": 34001009,
+      "pk": 65001009,
       "translation": "AIV",
-      "book": 58,
+      "book": 65,
+      "bookName": "Hebrews",
+      "bookAbbreviation": "Heb",
       "chapter": 1,
       "verse": 9,
-      "text": "You have loved righteousness and hated lawlessness; therefore God, your God, has anointed you with the oil of gladness beyond your companions.",
-      "links": "<a href='/AIV/19/45/7'>Ps. 45:7</a>; <a href='/AIV/44/10/38'>Acts 10:38</a>",
-      "comment": "Christ's perfect obedience and anointing set Him apart as the unique Messiah and mediator, interpreted by early Christians as a reference to His consecration and priestly office."
+      "text": "'You have loved righteousness and hated wickedness; therefore God, Your God, has anointed You with the oil of gladness above Your companions.'",
+      "links": "<a href='/AIV/19/45/7'>Ps. 45:7</a>; <a href='/AIV/23/61/1'>Isa. 61:1</a>",
+      "comment": "Christ’s anointing (Messiah means ‘anointed one’) is by God Himself, highlighting His unique status and the fulfillment of Old Testament messianic expectations. Spiritual anointing is also a sign of consecration and mission."
     },
     {
-      "pk": 34001010,
+      "pk": 65001010,
       "translation": "AIV",
-      "book": 58,
+      "book": 65,
+      "bookName": "Hebrews",
+      "bookAbbreviation": "Heb",
       "chapter": 1,
       "verse": 10,
       "text": "And, 'You, Lord, in the beginning laid the foundation of the earth, and the heavens are the work of Your hands.'",
       "links": "<a href='/AIV/19/102/25'>Ps. 102:25</a>; <a href='/AIV/43/1/1-3'>John 1:1-3</a>",
-      "comment": "The Son is addressed as the Creator, another clear statement of His divinity (Ps. 102:25 applied directly to Christ)."
+      "comment": "This quote (Psalm 102:25) attributes eternal creative power to the Son, strengthening the assertion of His divinity and role as creator—core affirmations in classical Christian doctrine."
     },
     {
-      "pk": 34001011,
+      "pk": 65001011,
       "translation": "AIV",
-      "book": 58,
+      "book": 65,
+      "bookName": "Hebrews",
+      "bookAbbreviation": "Heb",
       "chapter": 1,
       "verse": 11,
-      "text": "They will perish, but You remain. They will all wear out like a garment;",
+      "text": "'They will perish, but You remain; and they will all wear out like a garment.'",
       "links": "<a href='/AIV/19/102/26'>Ps. 102:26</a>",
-      "comment": "Creation is transient, but the Son is eternal. This underlines His unchanging nature, a quality unique to God."
+      "comment": "The temporal nature of creation is contrasted to the eternal existence of the Son. This serves to underscore His immutable, divine nature."
     },
     {
-      "pk": 34001012,
+      "pk": 65001012,
       "translation": "AIV",
-      "book": 58,
+      "book": 65,
+      "bookName": "Hebrews",
+      "bookAbbreviation": "Heb",
       "chapter": 1,
       "verse": 12,
-      "text": "like a robe You will roll them up, like a garment they will be changed. But You are the same, and Your years will have no end.",
-      "links": "<a href='/AIV/19/102/26-27'>Ps. 102:26-27</a>",
-      "comment": "The same attributes of God in the Old Testament are now directly ascribed to Christ, affirming His eternal kingship. This spiritual interpretation implies the permanence and ever-living priesthood of the Son."
+      "text": "'You will roll them up like a cloak, and like a garment they will be changed. But You are the same, and Your years will have no end.'",
+      "links": "<a href='/AIV/19/102/26-27'>Ps. 102:26-27</a>; <a href='/AIV/39/3/6'>Mal. 3:6</a>",
+      "comment": "Christ’s eternal and unchanging nature is compared to the transience of creation, reinforcing His perpetual divinity and sovereign power."
     },
     {
-      "pk": 34001013,
+      "pk": 65001013,
       "translation": "AIV",
-      "book": 58,
+      "book": 65,
+      "bookName": "Hebrews",
+      "bookAbbreviation": "Heb",
       "chapter": 1,
       "verse": 13,
-      "text": "But to which of the angels has He ever said, 'Sit at My right hand until I make Your enemies a footstool for Your feet'?",
+      "text": "And to which of the angels has He ever said, 'Sit at My right hand until I make Your enemies a footstool for Your feet'?",
       "links": "<a href='/AIV/19/110/1'>Ps. 110:1</a>; <a href='/AIV/40/22/44'>Matt. 22:44</a>",
-      "comment": "This is a messianic prophecy (Ps. 110:1) always applied to Christ, indicating His divine authority and the future subjection of all to Him, pointing towards His final victory and continuing rule."
+      "comment": "This quotation from Psalm 110:1 underlines the exclusive messianic authority, as Christ alone is enthroned in this position. The right hand symbolizes power, and making enemies a footstool shows complete victory, fulfilled in Christ’s heavenly session."
     },
     {
-      "pk": 34001014,
+      "pk": 65001014,
       "translation": "AIV",
-      "book": 58,
+      "book": 65,
+      "bookName": "Hebrews",
+      "bookAbbreviation": "Heb",
       "chapter": 1,
       "verse": 14,
-      "text": "Are they not all ministering spirits sent out to serve those who are to inherit salvation?",
-      "links": "<a href='/AIV/19/103/20-21'>Ps. 103:20-21</a>",
-      "comment": "Angels are servants sent to assist believers, but Christ alone is the source of salvation and eternal life. This distinction emphasizes the unique mediation and continuing ministry of the Son."
+      "text": "Are not all angels ministering spirits sent out to serve those who will inherit salvation?",
+      "links": "<a href='/AIV/19/91/11'>Ps. 91:11</a>; <a href='/AIV/42/22/43'>Luke 22:43</a>",
+      "comment": "Angelic beings, however glorious, are servants whose purpose is to aid the faithful. The text draws a sharp distinction between Christ, who is worshipped, and angels, who serve, reinforcing the divine hierarchy and dignity of Christ, around whom the entire narrative of salvation centers."
     }
   ],
-  "translatedAt": "2025-12-23T04:06:23.196Z"
+  "translatedAt": "2025-12-24T12:16:41.478Z"
 }

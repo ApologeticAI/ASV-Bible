@@ -1,68 +1,81 @@
 {
-  "book": "Psalms",
+  "book": 23,
+  "bookName": "Psalms",
   "bookAbbreviation": "Ps",
   "chapter": 23,
   "verses": [
     {
-      "pk": 2302301,
+      "pk": 23023001,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 23,
       "verse": 1,
       "text": "The LORD is my shepherd; I lack nothing.",
-      "links": "<a href='/AIV/40/9/36'>Matt. 9:36</a>; <a href='/AIV/43/10/11'>John 10:11</a>; <a href='/AIV/19/100/3'>Ps. 100:3</a>",
-      "comment": "The image of God as a shepherd is both literal and profoundly christological, anticipating Jesus’s claim in John 10:11 to be the Good Shepherd. The original Hebrew indicates not simply 'I shall not want', but full sufficiency flowing from trust in God’s providence—a truth deeply enriched in Catholic theology, particularly in the idea of supernatural grace supplied through the sacraments."
+      "links": "<a href='/AIV/19/100/3'>Ps. 100:3</a>; <a href='/AIV/26/34/11'>Ezek. 34:11-16</a>; <a href='/AIV/43/10/11'>John 10:11</a>",
+      "comment": "The image of God as shepherd speaks to His personal care and guidance. Jesus later identifies Himself as the Good Shepherd (John 10:11), fulfilling this hope. The assurance of lacking nothing alludes to God’s abundant provision—a theme echoed in the spiritual life where the soul finds rest in Him."
     },
     {
-      "pk": 2302302,
+      "pk": 23023002,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 23,
       "verse": 2,
-      "text": "He makes me lie down in green pastures; he leads me beside quiet waters.",
-      "links": "<a href='/AIV/19/46/4'>Ps. 46:4</a>; <a href='/AIV/19/65/9-13'>Ps. 65:9–13</a>",
-      "comment": "These pastoral images evoke Eden—God's abundant provision and peace. The quiet waters are reminiscent of spiritual renewal, interpreted by many Church Fathers as baptismal imagery (see Ps. 46:4); subtly affirming the necessity and grace of sacramental life, which is central in Catholic doctrine but sometimes less emphasized in Protestant circles."
+      "text": "He makes me lie down in green pastures; He leads me beside quiet waters.",
+      "links": "<a href='/AIV/19/65/9-13'>Ps. 65:9-13</a>; <a href='/AIV/19/46/4'>Ps. 46:4</a>",
+      "comment": "Green pastures and quiet waters symbolize spiritual refreshment and peace, provided through intimacy with God. This foreshadows the rest found in Christ for all who come to Him (Matt. 11:28-29). The reference to lying down hints at the security given by a trustworthy shepherd, a theme underlying the role of spiritual authority and guidance."
     },
     {
-      "pk": 2302303,
+      "pk": 23023003,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 23,
       "verse": 3,
-      "text": "He restores my soul. He leads me in paths of righteousness for his name’s sake.",
-      "links": "<a href='/AIV/19/19/7'>Ps. 19:7</a>; <a href='/AIV/19/5/8'>Ps. 5:8</a>; <a href='/AIV/45/8/28-30'>Rom. 8:28–30</a>",
-      "comment": "Restoration of the soul signifies full spiritual healing, an ongoing sanctification found richly in Catholic teaching on confession and spiritual growth. 'For his name’s sake' grounds our righteousness not in ourselves but in God's own covenant faithfulness—pointing ahead to Christ, whose name is above every name (<a href='/AIV/50/2/9'>Phil. 2:9</a>)."
+      "text": "He restores my soul. He leads me along paths of righteousness for His name’s sake.",
+      "links": "<a href='/AIV/19/51/12'>Ps. 51:12</a>; <a href='/AIV/19/5/8'>Ps. 5:8</a>; <a href='/AIV/45/8/29'>Rom. 8:29</a>",
+      "comment": "Restoration of the soul represents both forgiveness and spiritual transformation. Being led in paths of righteousness suggests that God actively guides believers into holy living, not merely passively overlooks them—pointing to both initial and ongoing sanctification. The phrase ‘for His name’s sake’ emphasizes God’s covenant faithfulness, linking His guidance directly to His promised relationship with His people."
     },
     {
-      "pk": 2302304,
+      "pk": 23023004,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 23,
       "verse": 4,
-      "text": "Even though I walk through the valley of deep darkness, I will fear no evil, for you are with me; your rod and your staff, they comfort me.",
-      "links": "<a href='/AIV/19/27/1'>Ps. 27:1</a>; <a href='/AIV/19/91/5-6'>Ps. 91:5–6</a>; <a href='/AIV/40/28/20'>Matt. 28:20</a>",
-      "comment": "The journey through darkness echoes life’s trials and the assurance of divine presence—fulfilled in Christ’s promise, 'I am with you always' (Matt. 28:20). The 'rod and staff' are symbols of both protection and guidance, paralleling the Church’s role in shepherding souls faithfully; historical Catholic interpretation sees the comforting staff as symbolic of the Church's sacramental support, especially in times of suffering."
+      "text": "Even though I walk through the valley of deep shadow, I will fear no evil, for You are with me; Your rod and Your staff, they comfort me.",
+      "links": "<a href='/AIV/19/27/1'>Ps. 27:1</a>; <a href='/AIV/19/118/6'>Ps. 118:6</a>; <a href='/AIV/40/28/20'>Matt. 28:20</a>",
+      "comment": "Walking through the 'valley of deep shadow' (often translated 'valley of the shadow of death') covers not only physical danger, but also spiritual trials. God’s presence dispels fear—anticipated in Christ’s promise to be always with His followers (Matt. 28:20). The rod and staff symbolize protection and guidance, echoing God’s discipline and care, and suggest a comfort found in spiritual authority and correction."
     },
     {
-      "pk": 2302305,
+      "pk": 23023005,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 23,
       "verse": 5,
-      "text": "You prepare a table before me in the presence of my enemies; you anoint my head with oil; my cup overflows.",
-      "links": "<a href='/AIV/19/16/5'>Ps. 16:5</a>; <a href='/AIV/19/92/10'>Ps. 92:10</a>; <a href='/AIV/42/22/19-20'>Luke 22:19–20</a>",
-      "comment": "The prepared table often prefigures the Eucharist—a subtle but essential Catholic interpretation—wherein believers share in Christ’s banquet even amidst adversity. Anointing with oil signals kingship, priesthood, and healing (see Ps. 92:10; James 5:14), which together hint at the Catholic sacramental life and the richness of liturgical worship around the altar."
+      "text": "You prepare a table before me in the presence of my enemies; You anoint my head with oil; my cup overflows.",
+      "links": "<a href='/AIV/19/92/10'>Ps. 92:10</a>; <a href='/AIV/42/22/30'>Luke 22:30</a>; <a href='/AIV/19/16/5'>Ps. 16:5</a>",
+      "comment": "The table set before enemies suggests divine hospitality and victory, a celebration in the midst of adversity. The anointing with oil recalls consecration—used for kings, priests, and prophets—pointing to a special grace imparted. The overflowing cup symbolizes abundant blessing, echoing the spiritual fullness promised to those walking in God’s ways, and hints at an ongoing, sacramental nourishment."
     },
     {
-      "pk": 2302306,
+      "pk": 23023006,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 23,
       "verse": 6,
-      "text": "Surely goodness and mercy will pursue me all the days of my life, and I will dwell in the house of the LORD forever.",
-      "links": "<a href='/AIV/19/16/11'>Ps. 16:11</a>; <a href='/AIV/19/27/4'>Ps. 27:4</a>; <a href='/AIV/66/21/3'>Rev. 21:3</a>",
-      "comment": "The promise of dwelling in God’s house forever moves beyond the earthly Temple to eternal life with God—a hope fulfilled in the heavenly liturgy (Rev. 21:3). Catholic tradition interprets 'goodness and mercy' as the ongoing, active grace pursued through the Church’s sacramental ministry. The word 'forever' emphasizes the Church’s teaching on the communion of saints and everlasting fellowship with God."
+      "text": "Surely goodness and steadfast love will pursue me all the days of my life, and I will dwell in the house of the LORD forever.",
+      "links": "<a href='/AIV/19/27/4'>Ps. 27:4</a>; <a href='/AIV/19/73/23-26'>Ps. 73:23-26</a>; <a href='/AIV/43/14/2-3'>John 14:2-3</a>",
+      "comment": "God’s goodness and steadfast love ('hesed') are relentlessly present for the believer, with pursuit suggesting an active, personal care. Dwelling in the house of the LORD points to eternal communion with God—a theme later fulfilled in Christ’s promise of a place prepared in His Father’s house (John 14:2-3), signaling both present spiritual fellowship and future hope in enduring union with God."
     }
   ],
-  "translatedAt": "2025-12-22T21:27:36.863Z"
+  "translatedAt": "2025-12-24T06:06:16.250Z"
 }

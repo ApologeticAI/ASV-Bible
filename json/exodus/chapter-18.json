@@ -1,278 +1,333 @@
 {
-  "book": "Exodus",
+  "book": 2,
+  "bookName": "Exodus",
   "bookAbbreviation": "Exod",
   "chapter": 18,
   "verses": [
     {
-      "pk": 1801801,
+      "pk": 2018001,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 18,
       "verse": 1,
-      "text": "Jethro, the priest of Midian, Moses’ father-in-law, heard of all that God had done for Moses and for Israel his people, how the LORD had brought Israel out of Egypt.",
-      "links": "<a href='/AIV/2/3/1'>Ex. 3:1</a>; <a href='/AIV/2/4/18'>Ex. 4:18</a>",
-      "comment": "Verse closely follows standard Masoretic Text ordering. 'LORD' is used for YHWH."
+      "text": "Jethro, the priest of Midian and Moses’ father-in-law, heard of everything God had done for Moses and for His people Israel—how the LORD had brought Israel out of Egypt.",
+      "links": "<a href='/AIV/2/3/1'>Exod. 3:1</a>; <a href='/AIV/2/12/51'>Exod. 12:51</a>; <a href='/AIV/19/66/6'>Ps. 66:6</a>",
+      "comment": "Jethro is identified as both Moses’ father-in-law and a priest, highlighting the important connection between leadership, family, and priesthood. The news of God’s works spreads beyond Israel, showing God's power is recognized by outsiders (cf. Psalm 66:6)."
     },
     {
-      "pk": 1801802,
+      "pk": 2018002,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 18,
       "verse": 2,
-      "text": "Now Jethro, Moses’ father-in-law, had taken Zipporah, Moses’ wife, after he had sent her away,",
-      "links": "<a href='/AIV/2/4/25'>Ex. 4:25</a>",
-      "comment": "'Sent her away' or 'sent back'; possible informal divorce or simply returning home."
+      "text": "Jethro, Moses’ father-in-law, took Zipporah, Moses’ wife, after Moses had sent her away,",
+      "links": "<a href='/AIV/2/2/21'>Exod. 2:21</a>; <a href='/AIV/2/4/25'>Exod. 4:25</a>",
+      "comment": "This verse recalls Moses’ marriage to Zipporah and hints at family divisions and reunions played out in the context of Israel’s journey."
     },
     {
-      "pk": 1801803,
+      "pk": 2018003,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 18,
       "verse": 3,
-      "text": "along with her two sons. The name of one was Gershom, for Moses said, “I have been a sojourner in a foreign land,”",
-      "links": "<a href='/AIV/2/2/22'>Ex. 2:22</a>",
-      "comment": "Name explanation preserved; 'sojourner' is literal rendering."
+      "text": "and her two sons. One was named Gershom, for Moses had said, 'I have been a foreigner in a foreign land';",
+      "links": "<a href='/AIV/2/2/22'>Exod. 2:22</a>; <a href='/AIV/1/15/13'>Gen. 15:13</a>",
+      "comment": "Names have significance in the Bible. Gershom’s name reflects Moses' sense of exile, linking his personal history with Israel’s (cf. Genesis 15:13)."
     },
     {
-      "pk": 1801804,
+      "pk": 2018004,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 18,
       "verse": 4,
-      "text": "and the name of the other, Eliezer, for he said, 'The God of my father was my help, and delivered me from the sword of Pharaoh.'",
-      "links": "<a href='/AIV/2/3/6'>Ex. 3:6</a>; <a href='/AIV/2/2/15'>Ex. 2:15</a>",
-      "comment": "Name 'Eliezer' means 'God is my help'."
+      "text": "and the other was named Eliezer, for Moses had said, 'My father’s God was my help, and delivered me from Pharaoh’s sword.'",
+      "links": "<a href='/AIV/2/2/15'>Exod. 2:15</a>; <a href='/AIV/1/31/42'>Gen. 31:42</a>",
+      "comment": "Eliezer means 'God is my help.' The experience of God’s deliverance is memorialized through naming (see Genesis 31:42)."
     },
     {
-      "pk": 1801805,
+      "pk": 2018005,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 18,
       "verse": 5,
-      "text": "Jethro, Moses’ father-in-law, came with his sons and his wife to Moses in the wilderness, where he was encamped at the mountain of God.",
-      "links": "<a href='/AIV/2/3/1'>Ex. 3:1</a>; <a href='/AIV/2/19/2'>Ex. 19:2</a>",
-      "comment": "'Mountain of God' refers to Sinai/Horeb."
+      "text": "Jethro, Moses’ father-in-law, came with Moses’ sons and wife to Moses in the wilderness, where he was encamped at the mountain of God.",
+      "links": "<a href='/AIV/2/3/1'>Exod. 3:1</a>; <a href='/AIV/2/19/2'>Exod. 19:2</a>",
+      "comment": "The mountain of God here points toward Mount Sinai, a central location of God’s presence and revelation."
     },
     {
-      "pk": 1801806,
+      "pk": 2018006,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 18,
       "verse": 6,
-      "text": "He sent word to Moses, 'I, your father-in-law Jethro, am coming to you with your wife and her two sons with her.'",
-      "links": "",
-      "comment": "Direct speech as in the original."
+      "text": "He sent word to Moses, 'I, your father-in-law Jethro, am coming to you with your wife and her two sons.'",
+      "links": "<a href='/AIV/2/4/18'>Exod. 4:18</a>",
+      "comment": "This act of communication anticipates family reunion and hospitality, essential biblical themes."
     },
     {
-      "pk": 1801807,
+      "pk": 2018007,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 18,
       "verse": 7,
-      "text": "Moses went out to meet his father-in-law. He bowed down and kissed him. They asked each other about their well-being and went into the tent.",
-      "links": "<a href='/AIV/2/4/27'>Ex. 4:27</a>",
-      "comment": "'Kissed him' is customary greeting; 'peace' = well-being."
+      "text": "Moses went out to meet his father-in-law, bowed down, and kissed him. They asked each other of their welfare and went into the tent.",
+      "links": "<a href='/AIV/1/33/4'>Gen. 33:4</a>; <a href='/AIV/1/45/15'>Gen. 45:15</a>",
+      "comment": "Moses’ humble behavior and affection honor family ties and suggest respect for spiritual elders, paralleling encounters like Jacob with Esau (Genesis 33:4)."
     },
     {
-      "pk": 1801808,
+      "pk": 2018008,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 18,
       "verse": 8,
-      "text": "Then Moses told his father-in-law all that the LORD had done to Pharaoh and to the Egyptians for Israel’s sake, all the hardship that had come upon them on the journey, and how the LORD had delivered them.",
-      "links": "<a href='/AIV/2/15/1'>Ex. 15:1</a>",
-      "comment": "Follows Hebrew word order closely."
+      "text": "Then Moses recounted to his father-in-law all that the LORD had done to Pharaoh and the Egyptians for Israel’s sake, all the hardship along the way, and how the LORD had delivered them.",
+      "links": "<a href='/AIV/2/15/1-21'>Exod. 15:1–21</a>; <a href='/AIV/2/7/1-25'>Exod. 7–12</a>",
+      "comment": "Testifying about God’s actions is an important part of faith. Moses’ recounting prefigures the role of testimony in the apostolic Church (cf. Acts 4:20)."
     },
     {
-      "pk": 1801809,
+      "pk": 2018009,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 18,
       "verse": 9,
-      "text": "Jethro rejoiced for all the good that the LORD had done to Israel, in rescuing them from the hand of the Egyptians.",
-      "links": "<a href='/AIV/2/14/30'>Ex. 14:30</a>",
-      "comment": "'Hand' is a Semitic expression indicating power; kept literal."
+      "text": "Jethro rejoiced for all the good the LORD had done for Israel, in delivering them from the hand of the Egyptians.",
+      "links": "<a href='/AIV/2/12/50-51'>Exod. 12:50–51</a>",
+      "comment": "An outsider’s joy at Israel’s deliverance foreshadows the blessing to all nations (Genesis 12:3) and echoes later Gentile rejoicing in the New Covenant (Romans 15:10)."
     },
     {
-      "pk": 1801810,
+      "pk": 2018010,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 18,
       "verse": 10,
-      "text": "Jethro said, 'Blessed be the LORD, who has delivered you out of the hand of the Egyptians and out of the hand of Pharaoh, and has delivered the people from under the hand of the Egyptians.'",
-      "links": "<a href='/AIV/1/24/27'>Gen. 24:27</a>; <a href='/AIV/2/14/13'>Ex. 14:13</a>",
-      "comment": "Blessing formula matches Hebrew."
+      "text": "Jethro said, 'Blessed be the LORD, who has delivered you out of the hand of the Egyptians and out of the hand of Pharaoh, and who has delivered the people from under the hand of the Egyptians.'",
+      "links": "<a href='/AIV/1/14/19'>Gen. 14:19–20</a>; <a href='/AIV/19/28/6'>Ps. 28:6</a>",
+      "comment": "His blessing is a prayer of thanksgiving and highlights the priestly role of interceding for God’s people through vocal blessing and prayer."
     },
     {
-      "pk": 1801811,
+      "pk": 2018011,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 18,
       "verse": 11,
-      "text": "Now I know that the LORD is greater than all the gods, because in the thing in which they dealt arrogantly, he was above them.'",
-      "links": "<a href='/AIV/2/9/16'>Ex. 9:16</a>; <a href='/AIV/2/12/12'>Ex. 12:12</a>",
-      "comment": "'Dealt arrogantly' parallels Hebrew root; some translations use 'acted proudly against.'"
+      "text": "'Now I know that the LORD is greater than all gods, because in the very thing in which the Egyptians dealt arrogantly, He was above them.'",
+      "links": "<a href='/AIV/2/12/12'>Exod. 12:12</a>; <a href='/AIV/1/18/27'>Gen. 18:27</a>",
+      "comment": "Jethro’s confession is a public acknowledgment of the LORD’s supremacy, similar to New Testament confessions of Christ’s Lordship (Philippians 2:11)."
     },
     {
-      "pk": 1801812,
+      "pk": 2018012,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 18,
       "verse": 12,
-      "text": "Jethro, Moses’ father-in-law, brought a burnt offering and sacrifices to God. Aaron came with all the elders of Israel to eat bread with Moses’ father-in-law before God.",
-      "links": "",
-      "comment": "'Eat bread' is a Semitic expression for sharing a meal."
+      "text": "Then Jethro, Moses’ father-in-law, brought a burnt offering and sacrifices to God. Aaron and all the elders of Israel came to eat bread with Moses’ father-in-law in the presence of God.",
+      "links": "<a href='/AIV/1/14/18'>Gen. 14:18</a>; <a href='/AIV/2/24/9-11'>Exod. 24:9–11</a>",
+      "comment": "Sharing a sacrificial meal points to the importance of sacred fellowship and priestly mediation, foreshadowing the deeper communion later found in the Eucharist (Luke 24:30)."
     },
     {
-      "pk": 1801813,
+      "pk": 2018013,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 18,
       "verse": 13,
-      "text": "On the next day, Moses sat to judge the people, and the people stood around Moses from morning until evening.",
-      "links": "<a href='/AIV/5/17/9'>Deut. 17:9</a>",
-      "comment": "'Sat to judge'—literal; Moses acted as judge."
+      "text": "The next day, Moses sat to judge the people, and the people stood around Moses from morning until evening.",
+      "links": "<a href='/AIV/5/1/16-17'>Deut. 1:16–17</a>",
+      "comment": "Moses acts as judge, foreshadowing the need for structured Church authority and wise judgment in matters of dispute."
     },
     {
-      "pk": 1801814,
+      "pk": 2018014,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 18,
       "verse": 14,
       "text": "When Moses’ father-in-law saw all that he was doing for the people, he said, 'What is this that you are doing for the people? Why do you sit alone, and all the people stand around you from morning until evening?'",
-      "links": "",
-      "comment": "Direct speech, Hebraic questioning preserved."
+      "links": "<a href='/AIV/2/3/1'>Exod. 3:1</a>",
+      "comment": "Jethro’s counsel highlights the principle of shared leadership, establishing the need for an organized, hierarchical system within the people of God."
     },
     {
-      "pk": 1801815,
+      "pk": 2018015,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 18,
       "verse": 15,
       "text": "Moses said to his father-in-law, 'Because the people come to me to inquire of God.'",
-      "links": "",
-      "comment": "'Inquire of God'—as in the original."
+      "links": "<a href='/AIV/5/17/8-9'>Deut. 17:8–9</a>",
+      "comment": "Here, Moses is shown as a mediator. This pattern sets the foundation for a priestly representative who mediates between God and people (cf. 1 Timothy 2:5)."
     },
     {
-      "pk": 1801816,
+      "pk": 2018016,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 18,
       "verse": 16,
-      "text": "'When they have a matter, they come to me and I judge between a man and his neighbor, and I make them know the statutes of God and his laws.'",
-      "links": "<a href='/AIV/3/24/12'>Lev. 24:12</a>",
-      "comment": "Maintains roles of Moses as both judge and teacher."
+      "text": "'When they have a dispute, they come to me and I judge between one person and another, and I make them know the statutes of God and His laws.'",
+      "links": "<a href='/AIV/2/24/3'>Exod. 24:3</a>",
+      "comment": "Moses not only judges but teaches the Law, underscoring the importance of both judicial and doctrinal authority among the people of God."
     },
     {
-      "pk": 1801817,
+      "pk": 2018017,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 18,
       "verse": 17,
       "text": "Moses’ father-in-law said to him, 'What you are doing is not good.'",
-      "links": "",
-      "comment": "Literal rendering of Hebrew negative assessment."
+      "links": "<a href='/AIV/1/2/18'>Gen. 2:18</a>",
+      "comment": "This echoes the principle that man should not be alone (Genesis 2:18), supporting the notion of collaborative ministry."
     },
     {
-      "pk": 1801818,
+      "pk": 2018018,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 18,
       "verse": 18,
-      "text": "'You will surely wear yourself out, both you and these people with you, for the task is too heavy for you. You are not able to do it alone.'",
-      "links": "",
-      "comment": "'Wear yourself out'—preserved idiom."
+      "text": "'You and the people with you will surely wear yourselves out, for the task is too heavy for you. You cannot do it alone.'",
+      "links": "<a href='/AIV/4/11/14'>Num. 11:14</a>",
+      "comment": "Jethro offers practical wisdom about shared responsibility, opening the way to a more organized, enduring authority."
     },
     {
-      "pk": 1801819,
+      "pk": 2018019,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 18,
       "verse": 19,
-      "text": "'Now listen to me; I will give you counsel, and God be with you. You represent the people before God and bring their cases to God.'",
-      "links": "",
-      "comment": "'God be with you' is a literal blessing/benediction."
+      "text": "'Now obey my voice; I will give you advice, and God be with you! You represent the people before God, and you bring their cases to God.'",
+      "links": "<a href='/AIV/5/5/5'>Deut. 5:5</a>",
+      "comment": "The role of mediator is reinforced—Moses stands before God for the people, prefiguring an ongoing pattern of priestly intercession later deepened through Christ (Hebrews 7:25)."
     },
     {
-      "pk": 1801820,
+      "pk": 2018020,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 18,
       "verse": 20,
-      "text": "'You must teach them the statutes and the laws, and show them the way in which they must walk and the work they must do.'",
-      "links": "<a href='/AIV/5/4/9'>Deut. 4:9</a>",
-      "comment": "'The way...the work'—preserved from Hebrew structure."
+      "text": "'You shall teach them the statutes and the laws, and make them know the way in which they must walk and the work they must do.'",
+      "links": "<a href='/AIV/2/24/12'>Exod. 24:12</a>",
+      "comment": "Instruction in the Law is a vital part of spiritual leadership. This teaching role anticipates the ongoing duty of the leaders of God's people to teach and uphold the faith."
     },
     {
-      "pk": 1801821,
+      "pk": 2018021,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 18,
       "verse": 21,
-      "text": "'But you shall select from all the people able men, who fear God, men of truth, hating unjust gain, and place such over them as leaders of thousands, leaders of hundreds, leaders of fifties, and leaders of tens.'",
-      "links": "<a href='/AIV/2/23/6-8'>Ex. 23:6–8</a>; <a href='/AIV/5/1/13-15'>Deut. 1:13–15</a>",
-      "comment": "'Able men'—rendered as 'men'; pronouns not altered for inclusivity."
+      "text": "'Moreover, choose from all the people able men who fear God, men of truth who hate dishonest gain; and set them as rulers of thousands, of hundreds, of fifties, and of tens.'",
+      "links": "<a href='/AIV/5/16/18'>Deut. 16:18</a>; <a href='/AIV/1/18/21'>Gen. 18:21</a>",
+      "comment": "This shows the need for qualified, virtuous leaders, forming a visible, hierarchical structure for governance and judgment in the community."
     },
     {
-      "pk": 1801822,
+      "pk": 2018022,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 18,
       "verse": 22,
-      "text": "'Let them judge the people at all times. Every great matter they shall bring to you, but every small matter they shall judge themselves. It will be easier for you, and they will bear the burden with you.'",
-      "links": "",
-      "comment": "'Bear the burden'—literal idiom."
+      "text": "'Let them judge the people at all times. Every great matter they shall bring to you, but every small matter they shall decide themselves. So it will be easier for you, and they will bear the burden with you.'",
+      "links": "<a href='/AIV/4/11/17'>Num. 11:17</a>",
+      "comment": "A clear system of appeals and delegation is modeled here, establishing an office-based structure for authority—a pattern that echoes in later ecclesial governance."
     },
     {
-      "pk": 1801823,
+      "pk": 2018023,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 18,
       "verse": 23,
-      "text": "'If you do this, and God so commands you, then you will be able to endure, and all these people also will go to their place in peace.'",
-      "links": "",
-      "comment": "'Their place'—likely refers to their tents/home."
+      "text": "'If you do this, and God so commands you, then you will be able to endure, and all this people will also go to their place in peace.'",
+      "links": "<a href='/AIV/2/4/12'>Exod. 4:12</a>",
+      "comment": "Obedience to this wise order brings peace—an enduring biblical principle for God’s people. The enduring legacy of godly leadership is peace and good order."
     },
     {
-      "pk": 1801824,
+      "pk": 2018024,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 18,
       "verse": 24,
-      "text": "So Moses listened to the voice of his father-in-law and did all that he had said.",
-      "links": "",
-      "comment": "'Voice' is idiomatic for 'advice.'"
+      "text": "So Moses obeyed the voice of his father-in-law and did all that he had said.",
+      "links": "<a href='/AIV/4/27/22'>Num. 27:22</a>",
+      "comment": "Moses’ humility is shown in his willingness to accept good counsel, a sign of true spiritual leadership open to wisdom from others."
     },
     {
-      "pk": 1801825,
+      "pk": 2018025,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 18,
       "verse": 25,
-      "text": "Moses chose able men out of all Israel and made them heads over the people: leaders of thousands, leaders of hundreds, leaders of fifties, and leaders of tens.",
-      "links": "<a href='/AIV/2/18/21'>Ex. 18:21</a>",
-      "comment": "Follows earlier suggestion, keeping word order close to Hebrew."
+      "text": "Moses chose able men from all Israel and made them heads over the people, rulers of thousands, of hundreds, of fifties, and of tens.",
+      "links": "<a href='/AIV/5/1/15'>Deut. 1:15</a>",
+      "comment": "The organization of leaders ensures the well-functioning of the people of God. The principle of apostolic succession and delegated authority is foreshadowed in practices like this."
     },
     {
-      "pk": 1801826,
+      "pk": 2018026,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 18,
       "verse": 26,
-      "text": "They judged the people at all times. The difficult matters they brought to Moses, but every small matter they judged themselves.",
-      "links": "",
-      "comment": "Matches the summary structure of the original text."
+      "text": "They judged the people at all times. Hard cases they brought to Moses, but every small matter they judged themselves.",
+      "links": "<a href='/AIV/2/18/22'>Exod. 18:22</a>",
+      "comment": "Delegated authority allows for the resolution of most disputes while reserving final judgment for Moses. This structure prefigures similar processes within later Church councils and synods."
     },
     {
-      "pk": 1801827,
+      "pk": 2018027,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 18,
       "verse": 27,
       "text": "Then Moses let his father-in-law depart, and he went his way to his own land.",
-      "links": "<a href='/AIV/4/10/29-30'>Num. 10:29–30</a>",
-      "comment": "'Depart' is literal. Jethro likely returns to Midian."
+      "links": "<a href='/AIV/4/10/29-30'>Num. 10:29-30</a>",
+      "comment": "Jethro’s visit and departure reinforce the importance of hospitality, godly counsel, and right order in the family and community of faith."
     }
   ],
-  "translatedAt": "2025-12-20T08:40:43.814Z"
+  "translatedAt": "2025-12-24T00:56:29.300Z"
 }

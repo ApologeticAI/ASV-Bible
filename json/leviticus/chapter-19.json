@@ -1,5 +1,6 @@
 {
-  "book": "Leviticus",
+  "book": 3,
+  "bookName": "Leviticus",
   "bookAbbreviation": "Lev",
   "chapter": 19,
   "verses": [
@@ -7,372 +8,446 @@
       "pk": 3019001,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 19,
       "verse": 1,
       "text": "The LORD spoke to Moses, saying,",
-      "links": "<a href='/ESV/2/4/1'>Ex. 4:1</a>; <a href='/AIV/3/18/1'>Lev. 18:1</a>",
-      "comment": "Narrative introduction, as in Hebrew; the speaker is specified."
+      "links": "",
+      "comment": "A standard formula seen throughout Leviticus, marking divine instruction: compare <a href='/AIV/3/1/1'>Lev. 1:1</a>. God’s direct speech affirms the authority of the commands which follow."
     },
     {
       "pk": 3019002,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 19,
       "verse": 2,
-      "text": "Speak to all the congregation of the people of Israel, and say to them, 'You must be holy, for I, the LORD your God, am holy.'",
-      "links": "<a href='/ESV/1/17/1'>Gen. 17:1</a>; <a href='/AIV/1/19/19'>Lev. 11:44–45</a>; <a href='/ESV/60/1/16'>1 Pet. 1:16</a>",
-      "comment": "This verse forms the central command for the chapter. 'Must be holy' reflects the imperative nature."
+      "text": "Speak to all the congregation of the children of Israel and say to them: You shall be holy, for I, the LORD your God, am holy.",
+      "links": "<a href='/AIV/60/1/16'>1 Pet. 1:16</a>; <a href='/AIV/3/11/44-45'>Lev. 11:44-45</a>",
+      "comment": "'Be holy' is the central theme of Leviticus. The New Testament affirms this in <a href='/AIV/60/1/16'>1 Peter 1:16</a>, showing the continuity of God's call from Israel to the Church. Notice the call to holiness is communal, not just individual."
     },
     {
       "pk": 3019003,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 19,
       "verse": 3,
-      "text": "Each one of you must respect his mother and his father, and you shall keep my Sabbaths. I am the LORD your God.",
-      "links": "<a href='/AIV/2/20/12'>Ex. 20:12</a>; <a href='/AIV/3/23/3'>Lev. 23:3</a>",
-      "comment": "'Respect' translates 'fear' (יִרְאָה), meaning reverent respect."
+      "text": "Each of you shall respect his mother and his father, and you shall keep my Sabbaths. I am the LORD your God.",
+      "links": "<a href='/AIV/2/20/8-12'>Ex. 20:8-12</a>; <a href='/AIV/3/26/2'>Lev. 26:2</a>",
+      "comment": "The focus on honoring parents and keeping the Sabbath echoes the Ten Commandments (<a href='/AIV/2/20/8-12'>Ex. 20:8-12</a>). Honoring father AND mother is clearly emphasized, showing the importance of the family unit."
     },
     {
       "pk": 3019004,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 19,
       "verse": 4,
-      "text": "Do not turn to idols, and do not make for yourselves molten gods. I am the LORD your God.",
-      "links": "<a href='/AIV/2/20/4'>Ex. 20:4</a>; <a href='/AIV/3/26/1'>Lev. 26:1</a>",
-      "comment": "'Molten gods' means idols cast from metal."
+      "text": "Do not turn to idols or make for yourselves any god of cast metal. I am the LORD your God.",
+      "links": "<a href='/AIV/2/20/3-4'>Ex. 20:3-4</a>; <a href='/AIV/5/27/15'>Deut. 27:15</a>",
+      "comment": "This prohibition against idolatry was central to Israel’s faith. The use of 'cast metal' refers to manufactured religious images. Notice true worship is contrasted with man-made practices, a theme later echoed in Christian tradition."
     },
     {
       "pk": 3019005,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 19,
       "verse": 5,
-      "text": "When you offer a sacrifice of peace offerings to the LORD, you shall offer it so that you may be accepted.",
-      "links": "<a href='/AIV/3/3/1'>Lev. 3:1</a>; <a href='/AIV/3/7/16'>Lev. 7:16</a>",
-      "comment": "'Accepted' means according to God’s laws for such sacrifices."
+      "text": "When you offer a sacrifice of peace offerings to the LORD, offer it so that you may be accepted.",
+      "links": "<a href='/AIV/3/3/1'>Lev. 3:1</a>; <a href='/AIV/3/22/21-23'>Lev. 22:21-23</a>",
+      "comment": "Peace offerings were about fellowship with God and the community. Being 'accepted' implies there are proper ways to worship, with an ordered liturgy and right intention."
     },
     {
       "pk": 3019006,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 19,
       "verse": 6,
-      "text": "It must be eaten on the day you offer it, and the next day; but anything left until the third day must be burned with fire.",
-      "links": "<a href='/AIV/3/7/15'>Lev. 7:15–16</a>",
-      "comment": "The eating period for peace offerings aligns exactly with previous legislation."
+      "text": "It shall be eaten the same day you offer it, and the next day; but if anything remains until the third day, it shall be burned with fire.",
+      "links": "<a href='/AIV/3/7/15-17'>Lev. 7:15-17</a>",
+      "comment": "Here, God sets boundaries for proper participation in sacrificial meals. The restriction points to the necessity of reverence in the reception of holy offerings."
     },
     {
       "pk": 3019007,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 19,
       "verse": 7,
-      "text": "If it is eaten on the third day, it is a disgusting thing; it will not be accepted.",
+      "text": "If it is eaten at all on the third day, it is defiled; it will not be accepted.",
       "links": "<a href='/AIV/3/7/18'>Lev. 7:18</a>",
-      "comment": "'Disgusting thing' renders the term 'abomination.'"
+      "comment": "God demands wholeness and purity in worship. Disregarding sacred times profanes the offering."
     },
     {
       "pk": 3019008,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 19,
       "verse": 8,
-      "text": "Everyone who eats it will bear his iniquity, because he has profaned what is holy to the LORD; that person shall be cut off from his people.",
-      "links": "<a href='/AIV/3/7/20'>Lev. 7:20–21</a>",
-      "comment": "'Cut off' may mean excommunication or death; see note."
+      "text": "Everyone who eats it will bear his iniquity, because he has profaned what is holy to the LORD, and that soul shall be cut off from his people.",
+      "links": "<a href='/AIV/3/7/20-21'>Lev. 7:20-21</a>",
+      "comment": "Profaning God’s holiness has serious consequences. This expression anticipates later teachings about being worthy to approach God, as seen in <a href='/AIV/46/11/27-30'>1 Cor. 11:27-30</a>."
     },
     {
       "pk": 3019009,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 19,
       "verse": 9,
-      "text": "When you reap the harvest of your land, you must not reap your field to its very edge, nor gather the gleanings of your harvest.",
-      "links": "<a href='/AIV/3/23/22'>Lev. 23:22</a>; <a href='/AIV/5/24/19'>Deut. 24:19</a>",
-      "comment": "'Gleanings' are leftover crops."
+      "text": "When you reap the harvest of your land, do not reap to the very edges of your field or gather the gleanings of your harvest.",
+      "links": "<a href='/AIV/3/23/22'>Lev. 23:22</a>; <a href='/AIV/5/24/19-21'>Deut. 24:19-21</a>",
+      "comment": "Provision for the poor is woven into God’s law. This charitable action foreshadows New Testament calls to almsgiving and service to others (<a href='/AIV/40/6/2-4'>Matt. 6:2-4</a>)."
     },
     {
       "pk": 3019010,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 19,
       "verse": 10,
-      "text": "You must not strip your vineyard bare, nor gather the fallen grapes of your vineyard; you shall leave them for the poor and for the foreigner. I am the LORD your God.",
-      "links": "<a href='/AIV/5/24/21'>Deut. 24:21–22</a>",
-      "comment": "'Foreigner' is the resident alien (ger)."
+      "text": "And you shall not strip your vineyard bare or gather the fallen grapes of your vineyard. You shall leave them for the poor and for the foreigner. I am the LORD your God.",
+      "links": "<a href='/AIV/3/23/22'>Lev. 23:22</a>; <a href='/AIV/8/2/2'>Ruth 2:2</a>",
+      "comment": "The command extends charity to strangers, not just to fellow Israelites. Divine ownership of the land demands generosity from those who have been blessed."
     },
     {
       "pk": 3019011,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 19,
       "verse": 11,
-      "text": "You shall not steal. You shall not deal falsely. You shall not lie to one another.",
-      "links": "<a href='/AIV/2/20/15'>Ex. 20:15–16</a>",
-      "comment": "Direct commands, all second person."
+      "text": "You shall not steal; you shall not deal falsely; you shall not lie to one another.",
+      "links": "<a href='/AIV/2/20/15-16'>Ex. 20:15-16</a>",
+      "comment": "Upholding honesty and justice is essential for communal holiness. These commands connect with the Decalogue."
     },
     {
       "pk": 3019012,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 19,
       "verse": 12,
-      "text": "You shall not swear falsely by my name, so as to profane the name of your God; I am the LORD.",
+      "text": "You shall not swear by my name falsely, and so profane the name of your God. I am the LORD.",
       "links": "<a href='/AIV/2/20/7'>Ex. 20:7</a>",
-      "comment": "'Profane' means to treat as common or unholy."
+      "comment": "Using God’s name in vain was forbidden in the Ten Commandments. Holiness is reflected in truthful speech and reverence for God's name."
     },
     {
       "pk": 3019013,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 19,
       "verse": 13,
-      "text": "You shall not oppress your neighbor, nor rob him. The wages of a hired worker must not remain with you all night until the morning.",
-      "links": "<a href='/AIV/5/24/14'>Deut. 24:14–15</a>",
-      "comment": "Employers commanded to pay wages promptly."
+      "text": "You shall not oppress your neighbor or rob him. The wages of a hired worker shall not remain with you all night until the morning.",
+      "links": "<a href='/AIV/5/24/14-15'>Deut. 24:14-15</a>; <a href='/AIV/59/5/4'>James 5:4</a>",
+      "comment": "God’s law values justice in economic dealings. The law anticipates later Christian teachings about just wages and care for workers."
     },
     {
       "pk": 3019014,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 19,
       "verse": 14,
-      "text": "You shall not curse the deaf, nor put a stumbling block before the blind, but you shall fear your God. I am the LORD.",
-      "links": "<a href='/AIV/3/25/17'>Lev. 25:17</a>",
-      "comment": "Cursing or causing harm to disabled persons is forbidden."
+      "text": "You shall not curse the deaf or put a stumbling block before the blind, but you shall fear your God. I am the LORD.",
+      "links": "<a href='/AIV/5/27/18'>Deut. 27:18</a>",
+      "comment": "The dignity of every human is upheld here, calling for compassion for the vulnerable. This connects to Christ’s teachings about the least in society."
     },
     {
       "pk": 3019015,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 19,
       "verse": 15,
-      "text": "You shall do no injustice in judgment. You shall not be partial to the poor nor show favoritism to the great, but in righteousness you shall judge your neighbor.",
-      "links": "<a href='/AIV/2/23/3'>Ex. 23:3,6</a>; <a href='/AIV/5/16/19'>Deut. 16:19</a>",
-      "comment": "No partiality is an essential aspect of biblical justice."
+      "text": "You shall not do injustice in judgment. You shall not be partial to the poor or defer to the great, but in righteousness you shall judge your neighbor.",
+      "links": "<a href='/AIV/2/23/3'>Ex. 23:3</a>; <a href='/AIV/5/1/17'>Deut. 1:17</a>",
+      "comment": "Justice must be impartial. God's people are called to imitate His righteous character, balancing both mercy and truth."
     },
     {
       "pk": 3019016,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 19,
       "verse": 16,
-      "text": "You shall not go about as a slanderer among your people, and you shall not stand against the life of your neighbor. I am the LORD.",
-      "links": "<a href='/AIV/2/23/1'>Ex. 23:1–7</a>",
-      "comment": "'Stand against' means 'endanger,' e.g. in court."
+      "text": "You shall not go around as a slanderer among your people, and you shall not stand up against the life of your neighbor. I am the LORD.",
+      "links": "<a href='/AIV/19/15/3'>Ps. 15:3</a>",
+      "comment": "'Slander' destroys communities. Loving one’s neighbor is essential, setting the stage for Christ’s command to love one another."
     },
     {
       "pk": 3019017,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 19,
       "verse": 17,
-      "text": "You shall not hate your brother in your heart, but you shall reason frankly with your neighbor, lest you incur sin because of him.",
-      "links": "<a href='/AIV/3/5/1'>Lev. 5:1</a>; <a href='/ESV/40/5/22'>Matt. 5:22</a>",
-      "comment": "'Reason frankly' renders 'surely rebuke.'"
+      "text": "You shall not hate your brother in your heart. You shall surely rebuke your neighbor, and not bear sin because of him.",
+      "links": "<a href='/AIV/40/18/15-17'>Matt. 18:15-17</a>",
+      "comment": "Love includes correction. Jesus teaches a similar principle of fraternal correction, showing a pattern of accountability."
     },
     {
       "pk": 3019018,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 19,
       "verse": 18,
-      "text": "You shall not take vengeance or bear a grudge against the sons of your people, but you shall love your neighbor as yourself. I am the LORD.",
+      "text": "You shall not take vengeance or bear any grudge against the children of your people, but you shall love your neighbor as yourself. I am the LORD.",
       "links": "<a href='/AIV/40/22/39'>Matt. 22:39</a>; <a href='/AIV/45/13/9'>Rom. 13:9</a>",
-      "comment": "'Love your neighbor as yourself' is as directly as the Hebrew allows."
+      "comment": "Jesus calls this the second greatest commandment (<a href='/AIV/40/22/39'>Matt. 22:39</a>). Love for neighbor is both an ethical and spiritual law."
     },
     {
       "pk": 3019019,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 19,
       "verse": 19,
-      "text": "You shall keep my statutes. You shall not let your livestock breed with a different kind; you shall not sow your field with two kinds of seed; and you shall not wear a garment made of two kinds of material mixed together.",
-      "links": "<a href='/AIV/3/11/44'>Lev. 11:44</a>; <a href='/AIV/5/22/9'>Deut. 22:9–11</a>",
-      "comment": "All three laws relate to God’s principle of separation."
+      "text": "You shall keep my statutes. You shall not let your livestock breed with a different kind. You shall not sow your field with two kinds of seed, nor shall you wear a garment of cloth made of two kinds of material.",
+      "links": "<a href='/AIV/5/22/9-11'>Deut. 22:9-11</a>",
+      "comment": "These commands on separation serve as reminders of God's holiness and order. The concept of purity in the Old Testament is later fulfilled spiritually in the new covenant."
     },
     {
       "pk": 3019020,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 19,
       "verse": 20,
-      "text": "If a man lies with a woman who is a slave, betrothed to another man, but not yet ransomed or set free, there must be an investigation. They shall not be put to death, because she was not free.",
-      "links": "<a href='/AIV/2/21/7'>Ex. 21:7–11</a>",
-      "comment": "Reflects nuances about slavery and betrothal in context."
+      "text": "If a man lies sexually with a woman who is a slave, betrothed to another man, but not ransomed or given her freedom, there shall be a punishment. They shall not be put to death, because she was not free.",
+      "links": "<a href='/AIV/3/18/23'>Lev. 18:23</a>; <a href='/AIV/5/22/23-29'>Deut. 22:23-29</a>",
+      "comment": "God’s law makes distinctions based on status and intent. Justice and mercy coexist, anticipating deeper teachings on forgiveness and restoration."
     },
     {
       "pk": 3019021,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 19,
       "verse": 21,
-      "text": "He shall bring his guilt offering to the LORD, to the entrance of the Tent of Meeting, a ram as a guilt offering.",
-      "links": "<a href='/AIV/3/5/14'>Lev. 5:14–19</a>",
-      "comment": "The man alone bears responsibility for the sacrifice."
+      "text": "But he shall bring his guilt offering to the LORD, to the entrance of the Tent of Meeting, a ram as a guilt offering.",
+      "links": "<a href='/AIV/3/5/14-19'>Lev. 5:14-19</a>",
+      "comment": "Restoration requires not only interpersonal repair but ritual atonement. This pattern points ahead to the need for repentance and confession."
     },
     {
       "pk": 3019022,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 19,
       "verse": 22,
-      "text": "And the priest shall make atonement for him with the ram of the guilt offering before the LORD for his sin that he has committed, and he will be forgiven for his sin which he has committed.",
-      "links": "<a href='/AIV/3/4/26'>Lev. 4:26</a>",
-      "comment": "Priestly atonement is necessary for forgiveness."
+      "text": "The priest shall make atonement for him with the ram of the guilt offering before the LORD for his sin which he has committed, and he shall be forgiven for the sin which he has committed.",
+      "links": "<a href='/AIV/3/5/16-18'>Lev. 5:16-18</a>; <a href='/AIV/59/5/16'>James 5:16</a>",
+      "comment": "The priest mediates forgiveness, foreshadowing a sacramental pattern of confession and absolution. Biblical atonement always involves both divine grace and a visible mediator."
     },
     {
       "pk": 3019023,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 19,
       "verse": 23,
-      "text": "When you come into the land and plant any kind of tree for food, you shall regard its fruit as forbidden. For three years it shall be forbidden to you; it shall not be eaten.",
-      "links": "<a href='/AIV/3/25/2'>Lev. 25:2–5</a>",
-      "comment": "'Forbidden' translates 'uncircumcised.'"
+      "text": "When you come into the land and plant any kind of tree for food, you shall regard its fruit as forbidden. For three years it shall be forbidden to you; it must not be eaten.",
+      "links": "<a href='/AIV/3/26/3-4'>Lev. 26:3-4</a>",
+      "comment": "Growth and patience are built into God’s commands. Setting apart the fruit for a time reflects trust in God’s timing and provision."
     },
     {
       "pk": 3019024,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 19,
       "verse": 24,
-      "text": "But in the fourth year all its fruit shall be holy, an offering of praise to the LORD.",
-      "links": "<a href='/AIV/5/26/1'>Deut. 26:1–2</a>",
-      "comment": "In the fourth year, fruit is for God in a special way."
+      "text": "In the fourth year all its fruit shall be holy, an offering of praise to the LORD.",
+      "links": "<a href='/AIV/3/7/12'>Lev. 7:12</a>",
+      "comment": "First fruits belong to God, signifying gratitude and recognition of His lordship. This sets a pattern for giving God the best, not just leftovers."
     },
     {
       "pk": 3019025,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 19,
       "verse": 25,
       "text": "In the fifth year you may eat of its fruit, to increase its yield for you. I am the LORD your God.",
-      "links": "<a href='/AIV/3/25/21'>Lev. 25:21</a>",
-      "comment": "The pattern expresses devotion and blessing."
+      "links": "<a href='/AIV/5/28/8'>Deut. 28:8</a>",
+      "comment": "God’s blessings come when His order is respected. Obedience leads to abundant provision."
     },
     {
       "pk": 3019026,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 19,
       "verse": 26,
-      "text": "You shall not eat any flesh with the blood in it. You shall not practice divination or seek omens.",
-      "links": "<a href='/AIV/3/7/26'>Lev. 7:26–27</a>; <a href='/AIV/5/18/10'>Deut. 18:10</a>",
-      "comment": "'Divination' and 'seek omens' are occult practices."
+      "text": "You shall not eat any flesh with the blood in it. You shall not practice divination or sorcery.",
+      "links": "<a href='/AIV/3/7/26'>Lev. 7:26</a>; <a href='/AIV/5/18/10-12'>Deut. 18:10-12</a>",
+      "comment": "Respect for the sacredness of life is expressed even in eating practices. Occult practices are consistently condemned, emphasizing God as the sole source of wisdom and revelation."
     },
     {
       "pk": 3019027,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 19,
       "verse": 27,
-      "text": "You shall not round off the hair on the sides of your heads, nor mar the edges of your beard.",
+      "text": "You shall not round off the hair on your temples or mar the edges of your beard.",
       "links": "<a href='/AIV/3/21/5'>Lev. 21:5</a>",
-      "comment": "A reference to mourning customs for the dead."
+      "comment": "These particular practices were associated with pagan mourning rites. God’s people are set apart even in outward appearance."
     },
     {
       "pk": 3019028,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 19,
       "verse": 28,
-      "text": "You shall not make cuts in your flesh for the dead or tattoo any marks upon yourselves. I am the LORD.",
+      "text": "You shall not make any cuts on your body for the dead or tattoo yourselves: I am the LORD.",
       "links": "<a href='/AIV/5/14/1'>Deut. 14:1</a>",
-      "comment": "'Tattoo' is literal; context is pagan mourning."
+      "comment": "The body is made by God and not to be defaced for superstitious reasons. Bodily integrity points forward to the respect due to the human body and to the Incarnation."
     },
     {
       "pk": 3019029,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 19,
       "verse": 29,
-      "text": "Do not profane your daughter by making her a prostitute, so that the land does not become guilty of prostitution and filled with wickedness.",
+      "text": "Do not profane your daughter by making her a prostitute, lest the land become full of wickedness and depravity.",
       "links": "<a href='/AIV/5/23/17'>Deut. 23:17</a>",
-      "comment": "Prostitution forbidden; linked to land's purity."
+      "comment": "Purity and dignity, especially of women, is protected. Holiness extends into family and society."
     },
     {
       "pk": 3019030,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 19,
       "verse": 30,
       "text": "You shall keep my Sabbaths and reverence my sanctuary. I am the LORD.",
       "links": "<a href='/AIV/3/26/2'>Lev. 26:2</a>",
-      "comment": "Sabbath and temple practices linked often in Leviticus."
+      "comment": "Worship and sacred space go together. ‘Reverence my sanctuary’ anticipates new covenant worship centered on God’s presence among His people."
     },
     {
       "pk": 3019031,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 19,
       "verse": 31,
-      "text": "Do not turn to mediums or to those who consult familiar spirits. Do not seek them out, so as to be made unclean by them. I am the LORD your God.",
-      "links": "<a href='/AIV/3/20/6'>Lev. 20:6,27</a>",
-      "comment": "'Familiar spirits' refers to necromancers, as context shows."
+      "text": "Do not turn to mediums or seek out spirits, and do not make yourselves unclean by them. I am the LORD your God.",
+      "links": "<a href='/AIV/3/20/6'>Lev. 20:6</a>; <a href='/AIV/5/18/10-11'>Deut. 18:10-11</a>",
+      "comment": "Seeking the supernatural apart from God is forbidden. True knowledge and revelation come through God's appointed means."
     },
     {
       "pk": 3019032,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 19,
       "verse": 32,
-      "text": "You shall rise up before the gray-haired and honor the face of an old man, and you shall fear your God. I am the LORD.",
+      "text": "You shall stand up before the gray head and honor the presence of the old, and you shall fear your God. I am the LORD.",
       "links": "<a href='/AIV/20/16/31'>Prov. 16:31</a>",
-      "comment": "Respect for elders is closely tied to piety."
+      "comment": "Respect for elders is commanded, mirroring reverence for God. Honor shown to authority in the community foreshadows the honor due to spiritual fathers."
     },
     {
       "pk": 3019033,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 19,
       "verse": 33,
-      "text": "When a foreigner resides with you in your land, you shall not oppress him.",
-      "links": "<a href='/AIV/2/22/21'>Ex. 22:21</a>; <a href='/AIV/5/10/19'>Deut. 10:19</a>",
-      "comment": "'Foreigner' (ger) means a resident alien."
+      "text": "When a stranger sojourns with you in your land, you shall do him no wrong.",
+      "links": "<a href='/AIV/2/22/21'>Ex. 22:21</a>",
+      "comment": "Even outsiders must be treated with justice. God’s law is universal in its reach and compassion."
     },
     {
       "pk": 3019034,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 19,
       "verse": 34,
-      "text": "The foreigner who resides with you shall be as the native among you, and you shall love him as yourself, for you were foreigners in the land of Egypt. I am the LORD your God.",
-      "links": "<a href='/AIV/2/23/9'>Ex. 23:9</a>; <a href='/AIV/5/24/18'>Deut. 24:18,22</a>",
-      "comment": "Love for the stranger directly equated to native neighbor."
+      "text": "You shall treat the stranger who sojourns with you as the native among you, and you shall love him as yourself, for you were strangers in the land of Egypt. I am the LORD your God.",
+      "links": "<a href='/AIV/3/25/23'>Lev. 25:23</a>; <a href='/AIV/5/10/19'>Deut. 10:19</a>",
+      "comment": "Hospitality is a repeated biblical virtue, mirrored in Christ’s own ministry with the outcast and foreigner."
     },
     {
       "pk": 3019035,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 19,
       "verse": 35,
-      "text": "You shall do no injustice in judgment, in measures of length or weight or quantity.",
-      "links": "<a href='/AIV/3/19/15'>Lev. 19:15</a>; <a href='/AIV/5/25/13'>Deut. 25:13–16</a>",
-      "comment": "Weights and measures are judicially important."
+      "text": "You shall do no injustice in measurements of length or weight or quantity.",
+      "links": "<a href='/AIV/20/11/1'>Prov. 11:1</a>; <a href='/AIV/5/25/13-16'>Deut. 25:13-16</a>",
+      "comment": "Fairness and honesty in commerce is a mark of divine order. God is concerned with justice not just in worship but in daily business."
     },
     {
       "pk": 3019036,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 19,
       "verse": 36,
-      "text": "You shall have honest balances, honest weights, honest measures of dry volume and liquid volume. I am the LORD your God, who brought you out of the land of Egypt.",
-      "links": "<a href='/AIV/20/11/1'>Prov. 11:1</a>, <a href='/AIV/20/16/11'>Prov. 16:11</a>",
-      "comment": "Ephah = dry; hin = liquid measure."
+      "text": "You shall have just balances, just weights, a just ephah, and a just hin. I am the LORD your God, who brought you out of the land of Egypt.",
+      "links": "<a href='/AIV/20/16/11'>Prov. 16:11</a>; <a href='/AIV/33/6/11'>Mic. 6:11</a>",
+      "comment": "Israel’s ethical conduct is rooted in their sacred history of redemption. Justice reflects God's character and His saving acts."
     },
     {
       "pk": 3019037,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 19,
       "verse": 37,
-      "text": "So you shall keep all my statutes and all my rules, and do them. I am the LORD.",
-      "links": "<a href='/AIV/3/18/4'>Lev. 18:4–5</a>",
-      "comment": "Summary: all the LORD’s commands must be obeyed."
+      "text": "And you shall observe all my statutes and all my ordinances, and do them. I am the LORD.",
+      "links": "<a href='/AIV/5/6/1-3'>Deut. 6:1-3</a>",
+      "comment": "Obedience to all of God’s commands is the true path to holiness. The fullness of the law is realized in love as taught and perfected by Christ (<a href='/AIV/40/5/17'>Matt. 5:17</a>)."
     }
   ],
-  "translatedAt": "2025-12-20T09:18:47.743Z"
+  "translatedAt": "2025-12-24T01:20:45.282Z"
 }

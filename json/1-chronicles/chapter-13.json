@@ -1,148 +1,177 @@
 {
-  "book": "1 Chronicles",
+  "book": 13,
+  "bookName": "1 Chronicles",
   "bookAbbreviation": "1Chr",
   "chapter": 13,
   "verses": [
     {
-      "pk": 13901301,
+      "pk": 13013001,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 13,
       "verse": 1,
-      "text": "David took counsel with the commanders of thousands and of hundreds, with every leader.",
-      "links": "<a href='/AIV/10/6/1'>2 Sam. 6:1</a>",
-      "comment": "Accurately reflects the sense of David consulting his military and civil leaders."
+      "text": "David consulted with the commanders of thousands and of hundreds, with every leader.",
+      "links": "<a href='/AIV/09/23/9'>1 Sam. 23:9</a>; <a href='/AIV/10/2/1'>2 Sam. 2:1</a>",
+      "comment": "David acts with prudence and counsel, showing respect for the order and structure among the leaders of Israel, prefiguring the importance of unity and proper leadership in the assembly of God's people."
     },
     {
-      "pk": 13901302,
+      "pk": 13013002,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 13,
       "verse": 2,
-      "text": "And David said to all the assembly of Israel, “If it seems good to you, and if it is from the Lord our God, let us send word to our brothers everywhere who are left in all the land of Israel, and to the priests and Levites who are with them in the cities with their pasturelands, that they may gather to us.”",
-      "links": "<a href='/AIV/05/17/8-10'>Deut. 17:8–10</a>; <a href='/AIV/03/25/32-34'>Lev. 25:32–34</a>",
-      "comment": "Keeps the sense of the original Hebrew, using 'assembly' for 'congregation'."
+      "text": "David said to all the assembly of Israel, 'If it seems good to you, and if it is from the LORD our God, let us send word to our brothers who remain in all the land of Israel, and with them to the priests and Levites in their cities with pasturelands, that they may gather with us.'",
+      "links": "<a href='/AIV/09/15/1'>1 Sam. 15:1</a>; <a href='/AIV/06/21/1-42'>Josh. 21:1-42</a>",
+      "comment": "David seeks the consensus of the assembly, echoing the gathering of the entire people of God under one purpose. Moreover, he involves both laity (brothers) and clergy (priests and Levites), reflecting the cooperation between all God's people."
     },
     {
-      "pk": 13901303,
+      "pk": 13013003,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 13,
       "verse": 3,
-      "text": "“And let us bring back the ark of our God to us, for we did not seek it during the days of Saul.”",
-      "links": "<a href='/AIV/09/6/21'>1 Sam. 6:21</a>; <a href='/AIV/09/7/1-2'>1 Sam. 7:1–2</a>",
-      "comment": "The phrase 'did not seek it' is a direct rendering of the Hebrew."
+      "text": "'Let us bring back the ark of our God to us, for we did not seek it in the days of Saul.'",
+      "links": "<a href='/AIV/09/7/1-2'>1 Sam. 7:1-2</a>; <a href='/AIV/10/6/2'>2 Sam. 6:2</a>",
+      "comment": "The Ark represents the very presence of God. David's desire to return the Ark to the center of Israel's life foreshadows the necessity of keeping God's presence, worship, and true faith central to the Church. The neglect under Saul highlights a lack of spiritual leadership."
     },
     {
-      "pk": 13901304,
+      "pk": 13013004,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 13,
       "verse": 4,
-      "text": "And all the assembly agreed to do so, for the thing seemed right in the eyes of all the people.",
-      "links": "<a href='/AIV/10/6/2'>2 Sam. 6:2</a>",
-      "comment": "Rendered as 'the thing seemed right in the eyes of all the people' to match the Hebrew idiom."
+      "text": "All the assembly agreed to do so, for the thing was right in the eyes of all the people.",
+      "links": "<a href='/AIV/09/14/40'>1 Sam. 14:40</a>; <a href='/AIV/16/8/6'>Neh. 8:6</a>",
+      "comment": "The unity of the people in seeking God's will demonstrates the importance of communal approval and consensus in decisions about worship and obedience. This anticipates the later practice of the Church councils."
     },
     {
-      "pk": 13901305,
+      "pk": 13013005,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 13,
       "verse": 5,
-      "text": "So David assembled all Israel from the Shihor of Egypt to Lebo-hamath, to bring the ark of God from Kiriath-jearim.",
-      "links": "<a href='/AIV/06/13/3-5'>Josh. 13:3–5</a>; <a href='/AIV/09/7/1'>1 Sam. 7:1</a>",
-      "comment": "Retains the place names in transliterated form."
+      "text": "So David assembled all Israel together, from the Shihor of Egypt even to the entrance of Hamath, to bring the ark of God from Kiriath-jearim.",
+      "links": "<a href='/AIV/06/15/9'>Josh. 15:9</a>; <a href='/AIV/09/7/1'>1 Sam. 7:1</a>",
+      "comment": "The vast gathering from the borders of the land emphasizes the universality and inclusiveness of true worship. It also points to the gathering of God's people from all nations."
     },
     {
-      "pk": 13901306,
+      "pk": 13013006,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 13,
       "verse": 6,
-      "text": "And David and all Israel went up to Baalah, that is, to Kiriath-jearim, which belonged to Judah, to bring up from there the ark of God, which is called by the Name of the Lord, who sits enthroned above the cherubim.",
-      "links": "<a href='/AIV/09/6/21-7/2'>1 Sam. 6:21–7:2</a>; <a href='/AIV/10/6/2'>2 Sam. 6:2</a>",
-      "comment": "Rendered 'called by the Name of the Lord' as per Hebrew phrasing."
+      "text": "David and all Israel went up to Baalah, that is, to Kiriath-jearim, which belongs to Judah, to bring up from there the ark of God, the LORD who sits enthroned above the cherubim, who is called by the Name.",
+      "links": "<a href='/AIV/09/6/21'>1 Sam. 6:21</a>; <a href='/AIV/02/25/22'>Ex. 25:22</a>",
+      "comment": "The Ark is described with divine majesty, 'the LORD who sits above the cherubim.' This image is deeply connected with the sanctuary and worship prescribed by God, and foreshadows the central place of God's presence among his people."
     },
     {
-      "pk": 13901307,
+      "pk": 13013007,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 13,
       "verse": 7,
-      "text": "And they carried the ark of God on a new cart, from the house of Abinadab. And Uzza and Ahio were driving the cart.",
-      "links": "<a href='/AIV/09/7/1'>1 Sam. 7:1</a>; <a href='/AIV/10/6/3-4'>2 Sam. 6:3–4</a>",
-      "comment": "Maintains the literal sense of Uzza and Ahio 'driving the cart'."
+      "text": "They carried the ark of God on a new cart from the house of Abinadab, and Uzza and Ahio drove the cart.",
+      "links": "<a href='/AIV/09/7/1'>1 Sam. 7:1</a>; <a href='/AIV/10/6/3'>2 Sam. 6:3</a>",
+      "comment": "Placing the Ark on a new cart followed the Philistine example, not God's Law (see Num. 4:15). This subtle deviation leads to great consequences, teaching the importance of following God's precise instructions in worship and practice."
     },
     {
-      "pk": 13901308,
+      "pk": 13013008,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 13,
       "verse": 8,
-      "text": "And David and all Israel were celebrating before God with all their might, with songs and with lyres and harps and tambourines and cymbals and trumpets.",
-      "links": "<a href='/AIV/10/6/5'>2 Sam. 6:5</a>",
-      "comment": "Maintains the original list of musical instruments."
+      "text": "David and all Israel celebrated before God with all their might, with songs and lyres and harps and tambourines and cymbals and trumpets.",
+      "links": "<a href='/AIV/10/6/5'>2 Sam. 6:5</a>; <a href='/AIV/19/150/3-5'>Ps. 150:3-5</a>",
+      "comment": "The exuberant worship points to the joy and beauty proper to the worship of God. Music, instruments, and song are fitting responses to God's presence—a tradition continued throughout salvation history."
     },
     {
-      "pk": 13901309,
+      "pk": 13013009,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 13,
       "verse": 9,
-      "text": "And when they came to the threshing floor of Chidon, Uzza put out his hand to hold the ark, for the oxen stumbled.",
-      "links": "<a href='/AIV/10/6/6'>2 Sam. 6:6</a>",
-      "comment": "Follows the Masoretic Text reading 'Chidon' instead of 'Nachon' in Samuel."
+      "text": "But when they came to the threshing floor of Chidon, Uzza reached out his hand to hold the ark, for the oxen stumbled.",
+      "links": "<a href='/AIV/10/6/6'>2 Sam. 6:6</a>; <a href='/AIV/04/4/15'>Num. 4:15</a>",
+      "comment": "Uzza's gesture seemed good intentioned but contradicted God's explicit command: only the Levites could touch the Ark. Even zeal for God must be guided by obedience to His commandments."
     },
     {
-      "pk": 13901310,
+      "pk": 13013010,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 13,
       "verse": 10,
-      "text": "And the anger of the Lord burned against Uzza, and He struck him down because he put out his hand to the ark; and he died there before God.",
-      "links": "<a href='/AIV/10/6/7'>2 Sam. 6:7</a>",
-      "comment": "Rendered 'burned against Uzza' as literal translation of Hebrew idiom."
+      "text": "The LORD's anger burned against Uzza, and he struck him down because he put out his hand to the ark, and he died there before God.",
+      "links": "<a href='/AIV/10/6/7'>2 Sam. 6:7</a>; <a href='/AIV/03/10/1-2'>Lev. 10:1-2</a>",
+      "comment": "This demonstrates the seriousness of God's holiness and the necessity of precise obedience—foreshadowing the reverence required in God's worship. The emphasis on ritual and priestly purity becomes a critical foundation for later liturgical traditions."
     },
     {
-      "pk": 13901311,
+      "pk": 13013011,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 13,
       "verse": 11,
-      "text": "And David was angry because the Lord had broken out against Uzza, so he called that place Perez-uzza, to this day.",
+      "text": "David was angry because the LORD's wrath had broken out against Uzza. That place is called Perez-uzza to this day.",
       "links": "<a href='/AIV/10/6/8'>2 Sam. 6:8</a>",
-      "comment": "'Perez-uzza' means 'outburst against Uzza', as a place-name explanation."
+      "comment": "David's emotional response shows the challenge of understanding God's holiness and justice. 'Perez-uzza' means 'the outburst against Uzza', serving as a lasting reminder of obedience in worship."
     },
     {
-      "pk": 13901312,
+      "pk": 13013012,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 13,
       "verse": 12,
-      "text": "And David was afraid of God that day, and he said, “How can I bring the ark of God to me?”",
-      "links": "<a href='/AIV/10/6/9'>2 Sam. 6:9</a>",
-      "comment": "Retains the meaning of David fearing God after the incident."
+      "text": "David was afraid of God that day, saying, 'How can I bring the ark of God home to me?'",
+      "links": "<a href='/AIV/10/6/9'>2 Sam. 6:9</a>; <a href='/AIV/12/17/13'>2 Kgs. 17:13</a>",
+      "comment": "This holy fear or reverence is essential in any approach to God. David's question hints at the profound mystery and majesty that surrounds the presence of God—fulfilled ultimately in the Incarnation (see John 1:14)."
     },
     {
-      "pk": 13901313,
+      "pk": 13013013,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 13,
       "verse": 13,
-      "text": "So David did not move the ark to himself into the city of David, but took it aside to the house of Obed-edom the Gittite.",
-      "links": "<a href='/AIV/10/6/10'>2 Sam. 6:10–11</a>",
-      "comment": "'Gittite' could mean someone from Gath or the Levite city of Gath-rimmon."
+      "text": "So David did not bring the ark home to himself, to the city of David, but carried it aside to the house of Obed-edom the Gittite.",
+      "links": "<a href='/AIV/10/6/10'>2 Sam. 6:10</a>; <a href='/AIV/19/132/8'>Ps. 132:8</a>",
+      "comment": "David pauses and entrusts the Ark to Obed-edom, reflecting a waiting upon God and humility before the sacred. Entrusting the Ark foreshadows the role of those chosen for particular stewardship in God's plan."
     },
     {
-      "pk": 13901314,
+      "pk": 13013014,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 13,
       "verse": 14,
-      "text": "And the ark of God remained with the family of Obed-edom in his house for three months. And the Lord blessed the household of Obed-edom and all that he had.",
-      "links": "<a href='/AIV/10/6/11-12'>2 Sam. 6:11–12</a>",
-      "comment": "Ends the chapter with a summary as in the Masoretic text."
+      "text": "The ark of God remained with the family of Obed-edom in his house three months. The LORD blessed the family of Obed-edom and all that he had.",
+      "links": "<a href='/AIV/10/6/11'>2 Sam. 6:11</a>; <a href='/AIV/19/24/3-5'>Ps. 24:3-5</a>",
+      "comment": "Because Obed-edom reverently received the Ark, his household is blessed—a sign that God's presence brings blessing to those who honor Him properly. This blessing points ahead to the concept of the indwelling of God among His people, ultimately fulfilled in Christ and the sacraments."
     }
   ],
-  "translatedAt": "2025-12-22T10:51:53.237Z"
+  "translatedAt": "2025-12-24T04:12:28.672Z"
 }

@@ -1,338 +1,405 @@
 {
-  "book": "Leviticus",
+  "book": 3,
+  "bookName": "Leviticus",
   "bookAbbreviation": "Lev",
   "chapter": 22,
   "verses": [
     {
-      "pk": 2202201,
+      "pk": 3022001,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 22,
       "verse": 1,
       "text": "The Lord spoke to Moses, saying,",
-      "links": "<a href='/AIV/3/1/1'>Lev. 1:1</a>",
-      "comment": "Direct introduction formula; consistent with previous sections."
+      "links": "",
+      "comment": "This begins a new section of laws addressing the sanctity required from priests. As in many places, divine instruction comes directly to Moses as intercessor (cf. Lev. 21:1)."
     },
     {
-      "pk": 2202202,
+      "pk": 3022002,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 22,
       "verse": 2,
-      "text": "Tell Aaron and his sons to be careful with the holy offerings that the people of Israel dedicate to Me, so they do not profane My holy name by what they dedicate to Me. I am the Lord.",
-      "links": "<a href='/AIV/3/10/3'>Lev. 10:3</a>; <a href='/AIV/3/18/21'>Lev. 18:21</a>",
-      "comment": "Maintains the sense of the Hebrew, using 'profane' modern equivalent."
+      "text": "Speak to Aaron and his sons, so that they keep themselves separate from the holy offerings of the Israelites, which they dedicate to me, and do not profane my holy name. I am the Lord.",
+      "links": "<a href='/AIV/3/21/6'>Lev. 21:6</a>; <a href='/AIV/4/6/15'>Num. 6:15</a>",
+      "comment": "This stresses the necessity for the priests’ sanctity. The separation from the offerings underlines the importance of reverence and purity in handling sacred things—a theme found throughout Scripture and seen fulfilled in Christ's high priesthood (Heb. 7:26-28)."
     },
     {
-      "pk": 2202203,
+      "pk": 3022003,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 22,
       "verse": 3,
-      "text": "Say to them: If any of your descendants throughout your generations approaches the holy offerings that the people of Israel dedicate to the Lord while he is unclean, that person shall be cut off from My presence. I am the Lord.",
-      "links": "<a href='/AIV/4/19/20'>Num. 19:20</a>",
-      "comment": "\"Cut off\" follows the literal rendering, indicating exclusion or judgment."
+      "text": "Say to them: If any one of all your descendants throughout your generations approaches the holy things which the Israelites dedicate to the Lord while he is unclean, that person shall be cut off from my presence. I am the Lord.",
+      "links": "<a href='/AIV/3/7/20'>Lev. 7:20</a>; <a href='/AIV/3/15/31'>Lev. 15:31</a>",
+      "comment": "Being \"cut off\" often refers to exclusion from the community or worse. Note the gravity of approaching the sacred unworthily—an idea present in New Testament warnings about receiving the Lord’s Supper unworthily (<a href='/AIV/46/11/27'>1 Cor. 11:27-30</a>)."
     },
     {
-      "pk": 2202204,
+      "pk": 3022004,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 22,
       "verse": 4,
-      "text": "None of Aaron’s descendants who has leprosy or a discharge may eat of the holy offerings until he is clean. If anyone touches anything made unclean by a corpse or has an emission of semen,",
-      "links": "<a href='/AIV/3/15/2-33'>Lev. 15:2–33</a>; <a href='/AIV/3/21/1'>Lev. 21:1</a>",
-      "comment": "Translates 'leprosy' for 'tzaraath', understood as a defiling skin disease."
+      "text": "None of Aaron’s offspring who has leprosy, or a discharge, may eat of the holy things until he is clean. Whoever touches anything made unclean by a corpse, or has an emission of semen,",
+      "links": "<a href='/AIV/3/15/16'>Lev. 15:16</a>; <a href='/AIV/4/19/11'>Num. 19:11</a>",
+      "comment": "This verse carefully lists conditions of uncleanness. Ritual purity points to the necessity of spiritual purity, later fulfilled in Christ and the sacraments that cleanse spiritually (<a href='/AIV/43/13/8-10'>John 13:8-10</a>)."
     },
     {
-      "pk": 2202205,
+      "pk": 3022005,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 22,
       "verse": 5,
-      "text": "or touches any creeping thing that makes him unclean, or touches any person who makes him unclean, whatever his uncleanness may be—",
-      "links": "<a href='/AIV/3/11/24'>Lev. 11:24</a>; <a href='/AIV/3/15/7'>Lev. 15:7</a>",
-      "comment": "Reference to ritual impurity, as defined in previous chapters."
+      "text": "or whoever touches any crawling thing by which he may be made unclean, or a person who makes him unclean, whatever his uncleanness may be—",
+      "links": "<a href='/AIV/3/11/24-28'>Lev. 11:24-28</a>",
+      "comment": "Touches on the transmission of legal uncleanness by contact. The distinction between clean and unclean foreshadows the New Testament call to holiness in all aspects of life (<a href='/AIV/60/1/15-16'>1 Peter 1:15-16</a>)."
     },
     {
-      "pk": 2202206,
+      "pk": 3022006,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 22,
       "verse": 6,
-      "text": "the person who touches any such thing shall be unclean until the evening and must not eat of the holy offerings unless he has washed his body with water.",
-      "links": "<a href='/AIV/3/11/25'>Lev. 11:25</a>",
-      "comment": "\"Washed his body\"—literal rendering; \"evening\" marks the end of ritual impurity."
+      "text": "the person who touches any of these shall be unclean until the evening, and shall not eat of the holy things, unless he bathes his body in water.",
+      "links": "<a href='/AIV/3/15/5-11'>Lev. 15:5-11</a>",
+      "comment": "Physical washing as preparation for sacred participation. Water here prefigures the cleansing that comes through Christian baptism, which purifies believers not only ritually but spiritually (<a href='/AIV/44/22/16'>Acts 22:16</a>)."
     },
     {
-      "pk": 2202207,
+      "pk": 3022007,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 22,
       "verse": 7,
-      "text": "When the sun sets, he shall be clean, and afterward he may eat of the holy offerings, because that is his food.",
-      "links": "<a href='/AIV/3/7/6'>Lev. 7:6</a>",
-      "comment": "Follows literal chronology; 'his food' as a priestly right."
+      "text": "When the sun goes down, he becomes clean, and afterward he may eat of the holy things, because that is his food.",
+      "links": "<a href='/AIV/3/11/24'>Lev. 11:24</a>",
+      "comment": "The timing of purification—marked by sunset—reflects Old Testament concern for ritual cycles. Priests rely on these holy things for their provision, anticipating the Church’s later understanding of sacred ministry and holy orders sustaining its ministers."
     },
     {
-      "pk": 2202208,
+      "pk": 3022008,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 22,
       "verse": 8,
-      "text": "He shall not eat what dies of itself or is torn by beasts and become unclean by it. I am the Lord.",
-      "links": "<a href='/AIV/3/17/15'>Lev. 17:15</a>",
-      "comment": "Renders Hebrew 'nevelah' and 'terefah' idiomatically in modern English."
+      "text": "He shall not eat what dies of itself or is torn by beasts, making himself unclean by it. I am the Lord.",
+      "links": "<a href='/AIV/3/17/15'>Lev. 17:15</a>; <a href='/AIV/5/14/21'>Deut. 14:21</a>",
+      "comment": "This precept is a reminder that not everything edible is permissible; it draws boundaries around holiness and foreshadows the need for discernment in receiving what is sacred—especially notable in the practice of the Lord’s Table (<a href='/AIV/46/11/29'>1 Cor. 11:29</a>)."
     },
     {
-      "pk": 2202209,
+      "pk": 3022009,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 22,
       "verse": 9,
-      "text": "They shall therefore keep My charge, so that they do not bear sin for it and die because they profane it. I am the Lord who sanctifies them.",
-      "links": "<a href='/AIV/3/8/35'>Lev. 8:35</a>",
-      "comment": "Phrase 'bear sin' is retained as a biblical expression."
+      "text": "They shall therefore keep my charge, lest they bear sin for it and die thereby if they profane it. I am the Lord who sanctifies them.",
+      "links": "<a href='/AIV/3/15/31'>Lev. 15:31</a>; <a href='/AIV/4/18/22'>Num. 18:22, 32</a>",
+      "comment": "Sanctification is the Lord’s work, but requires human cooperation with His commands. This balance between divine initiative and human response is echoed in New Testament exhortations to pursue holiness (<a href='/AIV/58/12/14'>Heb. 12:14</a>)."
     },
     {
-      "pk": 2202210,
+      "pk": 3022010,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 22,
       "verse": 10,
-      "text": "No outsider shall eat the holy offerings. A guest of a priest or a hired worker shall not eat of the holy things.",
-      "links": "<a href='/AIV/2/12/43'>Ex. 12:43</a>",
-      "comment": "Clarifies that only qualified priests/family may eat the offerings."
+      "text": "No outsider shall eat of a holy thing. A sojourner with the priest, or a hired servant, shall not eat of a holy thing.",
+      "links": "<a href='/AIV/2/12/43-45'>Ex. 12:43-45</a>",
+      "comment": "Only those specifically set apart can partake—pointing to the Church’s later practice of restricting participation in the sacraments to those properly initiated and prepared."
     },
     {
-      "pk": 2202211,
+      "pk": 3022011,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 22,
       "verse": 11,
-      "text": "But if a priest buys a slave as his property, that person may eat of it, and those born in his house may eat of his food.",
-      "links": "<a href='/AIV/3/25/44-46'>Lev. 25:44–46</a>",
-      "comment": "'Slave' is rendered literally; the social context is ancient Israel."
+      "text": "But if a priest buys a slave as his property, that person may eat of it, and anyone born in his house may eat of his food.",
+      "links": "<a href='/AIV/1/17/27'>Gen. 17:27</a>; <a href='/AIV/2/12/44'>Ex. 12:44</a>",
+      "comment": "Being part of the priest’s household, even through servitude, grants access—illustrating the importance of spiritual household membership, echoed in being adopted into God’s family through faith and the sacraments."
     },
     {
-      "pk": 2202212,
+      "pk": 3022012,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 22,
       "verse": 12,
-      "text": "If a priest’s daughter marries an outsider, she shall not eat of the holy contribution offerings.",
-      "links": "<a href='/AIV/2/29/33'>Ex. 29:33</a>",
-      "comment": "Literal translation, 'outsider' refers to non-priest/lay Israelite."
+      "text": "If a priest’s daughter marries an outsider, she shall not eat of the holy contribution.",
+      "links": "<a href='/AIV/4/18/11'>Num. 18:11-13</a>",
+      "comment": "Family ties to the priesthood are considered carefully. Leaving the house of the priest (e.g., by marriage) dissolves prior access to sacred food, illustrating how true participation in sacred things is tied to right relationship and incorporation into the community of faith."
     },
     {
-      "pk": 2202213,
+      "pk": 3022013,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 22,
       "verse": 13,
-      "text": "But if a priest’s daughter is widowed or divorced and has no child and returns to her father’s house as in her youth, she may eat of her father’s food; but no outsider may eat of it.",
-      "links": "<a href='/AIV/3/22/12'>Lev. 22:12</a>",
-      "comment": "Literal; gives the conditions of eligibility for eating holy food."
+      "text": "But if the priest’s daughter is widowed or divorced, has no child, and returns to her father’s house as in her youth, she may eat of her father’s food. But no outsider may eat of it.",
+      "links": "<a href='/AIV/3/10/14'>Lev. 10:14</a>",
+      "comment": "Returning to the father’s household after marital loss restores access to the holy food. This is a pattern seen later in the parable of the prodigal son (<a href='/AIV/42/15/17-20'>Luke 15:17-20</a>), suggesting God’s mercy and restoration of those who return."
     },
     {
-      "pk": 2202214,
+      "pk": 3022014,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 22,
       "verse": 14,
-      "text": "If anyone eats of a holy thing unintentionally, he shall add the fifth of its value to it and give the holy thing to the priest.",
-      "links": "<a href='/AIV/3/5/16'>Lev. 5:16</a>",
-      "comment": "Includes the restitution law for accidental consumption."
+      "text": "If anyone eats of a holy thing unintentionally, he shall add one-fifth to it and give the holy thing to the priest.",
+      "links": "<a href='/AIV/3/5/15-16'>Lev. 5:15-16</a>",
+      "comment": "Unintentional offenses require restitution plus a penalty, underlining not only justice but also the concern for reparation and restoration, found also in Christian practice (see Mt. 5:23-24)."
     },
     {
-      "pk": 2202215,
+      "pk": 3022015,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 22,
       "verse": 15,
-      "text": "They shall not profane the holy offerings of the people of Israel, which they contribute to the Lord.",
+      "text": "They shall not profane the holy offerings of the Israelites, which they contribute to the Lord,",
       "links": "<a href='/AIV/3/19/8'>Lev. 19:8</a>",
-      "comment": "Follows the Hebrew, maintaining distinction between 'profane' and 'holy'."
+      "comment": "Guarding the sanctity of offerings is essential. The idea is later spiritualized, showing that the Church is to be a pure and set-apart people (see <a href='/AIV/60/2/9'>1 Peter 2:9</a>)."
     },
     {
-      "pk": 2202216,
+      "pk": 3022016,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 22,
       "verse": 16,
-      "text": "and so cause them to bear guilt by eating their holy offerings, for I am the Lord who sanctifies them.",
-      "links": "<a href='/AIV/3/22/9'>Lev. 22:9</a>",
-      "comment": "Maintains original construction of bearing guilt."
+      "text": "and so cause them to bear iniquity and guilt by eating their holy offerings; for I am the Lord who makes them holy.",
+      "links": "<a href='/AIV/3/21/8'>Lev. 21:8</a>",
+      "comment": "Priests bear responsibility both for their own sanctity and the sanctity of the people—foreshadowing the spiritual leadership and shepherding roles found in the New Testament church (see <a href='/AIV/43/21/15-17'>John 21:15-17</a>)."
     },
     {
-      "pk": 2202217,
+      "pk": 3022017,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 22,
       "verse": 17,
       "text": "The Lord spoke to Moses, saying,",
-      "links": "<a href='/AIV/3/22/1'>Lev. 22:1</a>",
-      "comment": "Marks transition to rules about offerings."
+      "links": "",
+      "comment": "Another formulaic introduction to a new instruction. The repetition emphasizes both the seriousness and the continuity of God’s commands to His covenant people."
     },
     {
-      "pk": 2202218,
+      "pk": 3022018,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 22,
       "verse": 18,
-      "text": "Speak to Aaron and his sons and to all the people of Israel and say to them: When any one of the house of Israel or any of the foreigners in Israel offers his offering—be it for a vow or as a freewill offering that they present to the Lord for a burnt offering—",
-      "links": "<a href='/AIV/3/1/2-3'>Lev. 1:2–3</a>; <a href='/AIV/4/15/14'>Num. 15:14</a>",
-      "comment": "\"Foreigners\" is rendered as 'sojourner' in some translations; meaning is preserved."
+      "text": "Speak to Aaron and his sons and all the people of Israel, and say to them: When anyone of the house of Israel or of the foreigners in Israel presents their offering, whether for any of their vows or as a freewill offering that they present to the Lord as a burnt offering,",
+      "links": "<a href='/AIV/3/7/16'>Lev. 7:16</a>; <a href='/AIV/4/15/14-16'>Num. 15:14-16</a>",
+      "comment": "Note even the foreigner is included, suggesting God’s inclusivity and prefiguring the later opening of salvation to all nations (<a href='/AIV/44/10/34-35'>Acts 10:34-35</a>)."
     },
     {
-      "pk": 2202219,
+      "pk": 3022019,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 22,
       "verse": 19,
-      "text": "to be accepted, you shall offer a male without blemish from the cattle, the sheep, or the goats.",
-      "links": "<a href='/AIV/3/1/3'>Lev. 1:3</a>",
-      "comment": "Maintains sacrificial qualifications explicitly."
+      "text": "to be accepted, the offering must be a male without blemish, from the cattle, sheep, or goats.",
+      "links": "<a href='/AIV/3/1/3'>Lev. 1:3</a>; <a href='/AIV/3/22/20'>Lev. 22:20</a>",
+      "comment": "The demand for unblemished sacrifices points forward to Christ, the sinless Lamb offered for humanity’s redemption (<a href='/AIV/60/1/18-19'>1 Peter 1:18-19</a>)."
     },
     {
-      "pk": 2202220,
+      "pk": 3022020,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 22,
       "verse": 20,
-      "text": "But whatsoever has a blemish, you shall not offer, for it will not be acceptable for you.",
-      "links": "<a href='/AIV/3/22/21'>Lev. 22:21</a>",
-      "comment": "Phraseology matches the implication of Hebrew participle."
+      "text": "You shall not offer anything that has a blemish, for it will not be acceptable for you.",
+      "links": "<a href='/AIV/5/15/21'>Deut. 15:21</a>",
+      "comment": "The perfect, unblemished offering typifies Christ’s sinlessness—making Him the only fitting mediator (cf. <a href='/AIV/58/9/14'>Heb. 9:14</a>)."
     },
     {
-      "pk": 2202221,
+      "pk": 3022021,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 22,
       "verse": 21,
-      "text": "And when anyone offers a sacrifice of peace offerings to the Lord to fulfill a vow or as a freewill offering from the herd or from the flock, it must be perfect to be accepted; there must be no blemish in it.",
+      "text": "And when anyone offers a sacrifice of peace offerings to the Lord to fulfill a vow or as a freewill offering, whether from the herd or the flock, it must be perfect to be accepted; there shall be no blemish in it.",
       "links": "<a href='/AIV/3/3/1'>Lev. 3:1</a>",
-      "comment": "Restates the criteria for peace offerings."
+      "comment": "The call for perfection in sacrifice anticipates Christ’s perfect self-offering for peace with God (<a href='/AIV/51/1/20'>Col. 1:20</a>)."
     },
     {
-      "pk": 2202222,
+      "pk": 3022022,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 22,
       "verse": 22,
-      "text": "Animals that are blind, injured, maimed, have a running sore, scabs, or skin diseases, you shall not offer to the Lord or make any of these offerings by fire on the altar to the Lord.",
+      "text": "Animals blind or disabled, or with mutilated or missing parts, or with sores, scabs, or skin disease, you shall not offer to the Lord or make a food offering by fire on the altar to the Lord.",
       "links": "<a href='/AIV/5/15/21'>Deut. 15:21</a>",
-      "comment": "Lists defects explicitly following Hebrew terms, avoiding euphemism."
+      "comment": "More specific requirements reinforce the standard of total offering, an image later spiritualized to call for disciples to give their whole selves to God (<a href='/AIV/45/12/1'>Rom. 12:1</a>)."
     },
     {
-      "pk": 2202223,
+      "pk": 3022023,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 22,
       "verse": 23,
-      "text": "You may offer a bull or a lamb with a limb too long or too short as a freewill offering, but it will not be accepted as a vow offering.",
-      "links": "<a href='/AIV/3/22/21'>Lev. 22:21</a>",
-      "comment": "Differentiates between types of offerings explicitly."
+      "text": "A bull or a lamb that has a deformed or stunted limb you may offer as a freewill offering, but it will not be accepted for a vow.",
+      "links": "<a href='/AIV/3/7/16'>Lev. 7:16</a>",
+      "comment": "God’s standards for regular offerings and vows differ; vows require the highest standard, illustrating the seriousness of pledges made to God."
     },
     {
-      "pk": 2202224,
+      "pk": 3022024,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 22,
       "verse": 24,
-      "text": "You shall not offer to the Lord anything with bruised, crushed, torn, or cut testicles, nor shall you do this in your land.",
-      "links": "<a href='/AIV/5/23/1'>Deut. 23:1</a>",
-      "comment": "'Testicles' is rendered literally; upholding the requirement for wholeness."
+      "text": "Any animal with its testicles bruised, crushed, torn, or cut, you shall not offer to the Lord. You shall not do this in your land,",
+      "links": "",
+      "comment": "Even seemingly minor defects are cause for exclusion from sacrifice, stressing reverence and care in all things dedicated to God."
     },
     {
-      "pk": 2202225,
+      "pk": 3022025,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 22,
       "verse": 25,
-      "text": "And from a foreigner you shall not offer as the food of your God any of these, because their blemish is in them. They will not be accepted for you.",
-      "links": "<a href='/AIV/3/22/20'>Lev. 22:20</a>",
-      "comment": "Food of your God = offerings to God; follows Hebrew idiom."
+      "text": "and you shall not accept such animals from a foreigner to offer as the bread of your God, because their deformity or defect makes them unacceptable for you.",
+      "links": "",
+      "comment": "Foreign offerings are held to the same high standard, confirming the universality yet specificity of God’s call to holiness."
     },
     {
-      "pk": 2202226,
+      "pk": 3022026,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 22,
       "verse": 26,
-      "text": "The Lord spoke to Moses, saying,",
-      "links": "<a href='/AIV/3/22/1'>Lev. 22:1</a>",
-      "comment": "Standard narrative introduction."
+      "text": "And the Lord spoke to Moses, saying,",
+      "links": "",
+      "comment": "Transitional statement introducing regulations for the age of sacrificial animals."
     },
     {
-      "pk": 2202227,
+      "pk": 3022027,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 22,
       "verse": 27,
-      "text": "When an ox, a sheep, or a goat is born, it shall remain with its mother for seven days, and from the eighth day on it shall be accepted as a food offering to the Lord.",
+      "text": "When an ox or a sheep or a goat is born, it shall remain with its mother seven days; from the eighth day on it shall be accepted as a food offering to the Lord.",
       "links": "<a href='/AIV/2/22/30'>Ex. 22:30</a>",
-      "comment": "Maintains Old Testament sacrificial timeframes."
+      "comment": "Animals must reach a minimal age, paralleling later Christian practices about preparation and maturity before receiving the sacraments."
     },
     {
-      "pk": 2202228,
+      "pk": 3022028,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 22,
       "verse": 28,
       "text": "But you shall not slaughter an ox or a sheep and its young on the same day.",
-      "links": "<a href='/AIV/5/22/6-7'>Deut. 22:6–7</a>",
-      "comment": "Commands compassion for animals; translates idiomatically and clearly."
+      "links": "<a href='/AIV/5/22/6-7'>Deut. 22:6-7</a>",
+      "comment": "Instruction against killing animal and its young on the same day reflects God’s concern for mercy, a virtue expected of His people (<a href='/AIV/28/6/6'>Hosea 6:6</a>)."
     },
     {
-      "pk": 2202229,
+      "pk": 3022029,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 22,
       "verse": 29,
       "text": "When you sacrifice a thanksgiving offering to the Lord, you shall sacrifice it so that you may be accepted.",
       "links": "<a href='/AIV/3/7/12'>Lev. 7:12</a>",
-      "comment": "Explicitly states the reason for correct procedure."
+      "comment": "Thank offerings must be made acceptably—worship offered on God’s terms, not merely human initiative, is what pleases Him (<a href='/AIV/58/12/28'>Heb. 12:28</a>)."
     },
     {
-      "pk": 2202230,
+      "pk": 3022030,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 22,
       "verse": 30,
-      "text": "It shall be eaten on the same day; you shall leave none of it until morning. I am the Lord.",
-      "links": "<a href='/AIV/3/7/15'>Lev. 7:15</a>",
-      "comment": "Follows the Hebrew instruction literally."
+      "text": "It must be eaten on the same day; you shall leave none of it until morning. I am the Lord.",
+      "links": "<a href='/AIV/2/12/10'>Ex. 12:10</a>",
+      "comment": "The immediacy is reminiscent of the Passover lamb, which itself points forward to the true sacrificial feast of Christ, fulfilled in the new covenant meal taken with reverence and promptness (<a href='/AIV/40/26/26-28'>Matt. 26:26-28</a>)."
     },
     {
-      "pk": 2202231,
+      "pk": 3022031,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 22,
       "verse": 31,
-      "text": "So you shall keep My commandments and do them. I am the Lord.",
-      "links": "<a href='/AIV/3/18/4'>Lev. 18:4</a>",
-      "comment": "Reiterates obedience commandment; exact rendering."
+      "text": "So you shall keep my commandments and do them. I am the Lord.",
+      "links": "<a href='/AIV/3/19/37'>Lev. 19:37</a>",
+      "comment": "God’s authority as source and guarantor of holiness is reinforced. Obedience to divine command is a perpetual theme in both Old and New Testaments."
     },
     {
-      "pk": 2202232,
+      "pk": 3022032,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 22,
       "verse": 32,
-      "text": "And you shall not profane My holy name, but I will be sanctified among the people of Israel. I am the Lord who sanctifies you,",
-      "links": "<a href='/AIV/3/22/2'>Lev. 22:2</a>; <a href='/AIV/3/10/3'>Lev. 10:3</a>",
-      "comment": "'Sanctified' means 'set apart as holy'; 'profane' is literal."
+      "text": "You shall not profane my holy name, but I will be sanctified among the people of Israel. I am the Lord who makes you holy,",
+      "links": "<a href='/AIV/3/11/44'>Lev. 11:44</a>; <a href='/AIV/40/6/9'>Matt. 6:9</a>",
+      "comment": "God’s name is to be revered. The call to sanctify the Lord’s name is later echoed in the Lord’s Prayer, stressing the continuity of Old and New Covenant worship."
     },
     {
-      "pk": 2202233,
+      "pk": 3022033,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 22,
       "verse": 33,
-      "text": "who brought you out of the land of Egypt to be your God. I am the Lord.",
-      "links": "<a href='/AIV/2/6/7'>Ex. 6:7</a>; <a href='/AIV/3/11/45'>Lev. 11:45</a>",
-      "comment": "Concludes with the redemption formula found throughout Leviticus."
+      "text": "who brought you out of the land of Egypt to be your God: I am the Lord.",
+      "links": "<a href='/AIV/2/6/7'>Ex. 6:7</a>; <a href='/AIV/2/20/2'>Ex. 20:2</a>",
+      "comment": "The Lord’s redemptive work for Israel points forward to the greater redemption in Christ—a people delivered and formed to be His own, called to worship Him in spirit and truth."
     }
   ],
-  "translatedAt": "2025-12-20T09:20:19.246Z"
+  "translatedAt": "2025-12-24T01:22:37.087Z"
 }

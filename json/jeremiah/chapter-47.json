@@ -1,78 +1,93 @@
 {
-  "book": "Jeremiah",
+  "book": 30,
+  "bookName": "Jeremiah",
   "bookAbbreviation": "Jer",
   "chapter": 47,
   "verses": [
     {
-      "pk": 2404701,
+      "pk": 30047001,
       "translation": "AIV",
-      "book": 24,
+      "book": 30,
+      "bookName": "Jeremiah",
+      "bookAbbreviation": "Jer",
       "chapter": 47,
       "verse": 1,
-      "text": "The word of the LORD that came to Jeremiah the prophet concerning the Philistines, before Pharaoh attacked Gaza.",
-      "links": "<a href='/AIV/23/14/29'>Isa. 14:29</a>; <a href='/AIV/24/25/20'>Jer. 25:20</a>",
-      "comment": "This verse sets the historical context, signaling a prophetic message about the Philistines before Egypt's assault on Gaza. It underscores God’s sovereignty over all nations and his use of prophets to reveal his will. The Philistines frequently oppose Israel throughout the Old Testament (see Isa. 14:29)."
+      "text": "This is the word of the LORD that came to Jeremiah the prophet about the Philistines, before Pharaoh attacked Gaza:",
+      "links": "<a href='/AIV/23/14/29-31'>Isa. 14:29-31</a>; <a href='/AIV/24/25/20'>Jer. 25:20</a>",
+      "comment": "This introduction establishes both the timing and the audience of this prophecy. The Philistines were long-time enemies of Israel, and God speaks through His prophet Jeremiah before a devastating attack. Cross-references show a consistent biblical message that God is sovereign over the nations (see <a href='/AIV/23/14/29-31'>Isaiah 14:29-31</a>)."
     },
     {
-      "pk": 2404702,
+      "pk": 30047002,
       "translation": "AIV",
-      "book": 24,
+      "book": 30,
+      "bookName": "Jeremiah",
+      "bookAbbreviation": "Jer",
       "chapter": 47,
       "verse": 2,
-      "text": "Thus says the LORD: 'Behold, waters are rising out of the north, and will become an overflowing torrent. They shall overflow the land and all that fills it, the city and those who dwell in it. Mankind will cry out, and every inhabitant of the land will wail.'",
-      "links": "<a href='/AIV/24/46/7'>Jer. 46:7-8</a>; <a href='/AIV/23/8/7'>Isa. 8:7-8</a>",
-      "comment": "The floodwaters symbolize an invading army (likely Babylon), causing devastation and panic among the Philistines. Water is often used in Scripture as a metaphor for overwhelming judgment (see Isa. 8:7-8). Spiritual interpretation can see this as a warning of coming judgment for persistent sin, urging the faithful to seek God's mercy."
+      "text": "The LORD says: Look, waters are rising from the north, becoming an overflowing torrent, flooding the land and all that is in it, the city and its people. Everyone in the land will cry out, and all who live there will wail.",
+      "links": "<a href='/AIV/23/8/7'>Isa. 8:7</a>; <a href='/AIV/24/6/22-23'>Jer. 6:22-23</a>",
+      "comment": "The imagery of rising waters as judgment is found elsewhere in the prophets. Water here symbolizes overwhelming armies, likely those of Babylon. This broad devastation alludes to the all-encompassing effects of divine justice, a theme extended in the New Testament to the final judgment (cf. <a href='/AIV/40/24/39'>Matt. 24:39</a>)."
     },
     {
-      "pk": 2404703,
+      "pk": 30047003,
       "translation": "AIV",
-      "book": 24,
+      "book": 30,
+      "bookName": "Jeremiah",
+      "bookAbbreviation": "Jer",
       "chapter": 47,
       "verse": 3,
-      "text": "At the sound of the stomping hooves of his strong horses, at the rushing of his chariots and the rumbling of his wheels, the fathers will not turn back for their children, their hands grow weak,",
-      "links": "<a href='/AIV/24/46/9'>Jer. 46:9</a>; <a href='/AIV/07/4/15'>Judg. 4:15</a>",
-      "comment": "The terror induced by the invading force is so great that even parental instinct fails. This illustrates both the gravity of God’s permitted judgment and the depth of human frailty apart from divine help. Unlike earthly fathers, God never forsakes his children."
+      "text": "At the noise of the stomping hooves of his strong horses, at the rushing of his chariots, the rumble of his wheels, fathers do not turn back for their children, their hands go limp,",
+      "links": "<a href='/AIV/07/05/28'>Judg. 5:28</a>; <a href='/AIV/24/46/9'>Jer. 46:9</a>",
+      "comment": "The terror described is total—so great that fathers abandon even their own children. The horror of war and judgment evokes spiritual realities: sin separates families and communities from one another and from God, echoing the necessity of divine grace and a mediating priesthood for reconciliation."
     },
     {
-      "pk": 2404704,
+      "pk": 30047004,
       "translation": "AIV",
-      "book": 24,
+      "book": 30,
+      "bookName": "Jeremiah",
+      "bookAbbreviation": "Jer",
       "chapter": 47,
       "verse": 4,
-      "text": "because of the day that is coming to destroy all the Philistines, to cut off from Tyre and Sidon every helper that remains. For the LORD is about to destroy the Philistines, the remnant from the coastland of Caphtor.",
-      "links": "<a href='/AIV/01/10/14'>Gen. 10:14</a>; <a href='/AIV/30/9/7'>Amos 9:7</a>; <a href='/AIV/26/28/21'>Ezek. 28:21-24</a>",
-      "comment": "These cities and regions were ancient allies of the Philistines (see Gen. 10:14). This is both a literal prophecy fulfilled in history and a spiritual warning: those who ally against God's will face ultimate defeat. The enduring theme of remnants points to God’s continued faithfulness to preserve those who turn to him."
+      "text": "Because the day has come to destroy all the Philistines, to cut off from Tyre and Sidon every ally that remains. For the LORD is destroying the Philistines, the remnant from the coastland of Caphtor.",
+      "links": "<a href='/AIV/05/02/23'>Deut. 2:23</a>; <a href='/AIV/30/09/07'>Amos 9:7</a>",
+      "comment": "God’s sovereignty over Gentile nations is a recurring biblical theme. The reference to Caphtor ties back to the Philistines’ origins. The destruction of allies foreshadows God's plan to bring all nations ultimately to the knowledge of Him through an everlasting covenant—a reality fulfilled in the new covenant through Christ, in which there is no distinction between Jew and Gentile (<a href='/AIV/45/10/12'>Rom. 10:12</a>)."
     },
     {
-      "pk": 2404705,
+      "pk": 30047005,
       "translation": "AIV",
-      "book": 24,
+      "book": 30,
+      "bookName": "Jeremiah",
+      "bookAbbreviation": "Jer",
       "chapter": 47,
       "verse": 5,
-      "text": "Baldness has come upon Gaza; Ashkelon is destroyed, O remnant of their valley, how long will you cut yourself?",
-      "links": "<a href='/AIV/03/21/5'>Lev. 21:5</a>; <a href='/AIV/23/3/7'>Isa. 3:24</a>",
-      "comment": "Baldness and self-cutting were mourning rituals forbidden for God's people (Lev. 21:5). The Philistines' worldly mourning illustrates the futility of rituals apart from faithfulness to God. Spiritually, reliance on true worship, not empty rituals, brings restoration—a theme Christ fulfills and the Church maintains in its liturgy."
+      "text": "Baldness has come upon Gaza, Ashkelon is silenced. The remnant of their valley—how long will you gash yourselves?",
+      "links": "<a href='/AIV/23/15/2'>Isa. 15:2</a>; <a href='/AIV/24/16/6'>Jer. 16:6</a>",
+      "comment": "Shaving the head and self-mutilation were practices of mourning among the Philistines and other ancient peoples. However, God’s people were prohibited from these practices (cf. <a href='/AIV/03/19/28'>Lev. 19:28</a>). The contrast underscores the unique holiness required of God’s people—a foreshadowing of Christ’s call for spiritual worship and transformation, not outward ritual."
     },
     {
-      "pk": 2404706,
+      "pk": 30047006,
       "translation": "AIV",
-      "book": 24,
+      "book": 30,
+      "bookName": "Jeremiah",
+      "bookAbbreviation": "Jer",
       "chapter": 47,
       "verse": 6,
-      "text": "O sword of the LORD, how long until you are quiet? Put yourself back into your scabbard; rest and be still!",
-      "links": "<a href='/AIV/23/34/5-6'>Isa. 34:5-6</a>; <a href='/AIV/24/25/29'>Jer. 25:29</a>",
-      "comment": "The sword here signifies God's judgment. The plea for the sword to rest points towards the longing for peace and reconciliation with God—a longing ultimately satisfied in Christ, the Prince of Peace (see Isa. 9:6). The persistence of judgment reflects the seriousness of sin and the need for true repentance."
+      "text": "Ah, sword of the LORD, how long until you are quiet? Put yourself back into your scabbard; rest and be still!",
+      "links": "<a href='/AIV/23/34/6'>Isa. 34:6</a>; <a href='/AIV/26/21/28'>Ezek. 21:28</a>",
+      "comment": "This verse personifies the sword of the LORD, representing His judgment. The plea for mercy echoes throughout salvation history, culminating in the prayer for peace offered by Christ (see <a href='/AIV/42/23/34'>Luke 23:34</a>). There is both a cry for justice and for ultimate reconciliation, themes tied closely to the sacrificial mediation later fully revealed in the New Testament."
     },
     {
-      "pk": 2404707,
+      "pk": 30047007,
       "translation": "AIV",
-      "book": 24,
+      "book": 30,
+      "bookName": "Jeremiah",
+      "bookAbbreviation": "Jer",
       "chapter": 47,
       "verse": 7,
-      "text": "How can you be quiet, when the LORD has commanded it? There he has appointed it against Ashkelon and against the seacoast.",
-      "links": "<a href='/AIV/09/15/3'>1 Sam. 15:3</a>; <a href='/AIV/24/25/20'>Jer. 25:20</a>",
-      "comment": "Judgment continues at God's command until its purpose is complete. God is shown to act with authority and justice, holding all peoples accountable. The faithful see in this the call to submit to God's will, trusting in his divine plan, and finding ultimate hope in Christ’s final victory over evil."
+      "text": "But how can it be quiet, when the LORD has commanded it? Against Ashkelon and the sea coast, there He has appointed it.",
+      "links": "<a href='/AIV/24/48/10'>Jer. 48:10</a>; <a href='/AIV/24/50/25'>Jer. 50:25</a>",
+      "comment": "The inevitability of God’s purposes is emphasized. The sword cannot rest when God has appointed judgment. Spiritually, this points to the certainty of divine justice and the assurance that God’s decrees come to pass—an idea echoed in the perpetual mission of the Church to carry out God's will until His purposes are accomplished (<a href='/AIV/40/16/18'>Matt. 16:18</a>)."
     }
   ],
-  "translatedAt": "2025-12-23T06:38:31.336Z"
+  "translatedAt": "2025-12-24T08:47:00.775Z"
 }

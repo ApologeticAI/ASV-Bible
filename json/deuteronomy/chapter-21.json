@@ -1,238 +1,285 @@
 {
-  "book": "Deuteronomy",
+  "book": 5,
+  "bookName": "Deuteronomy",
   "bookAbbreviation": "Deut",
   "chapter": 21,
   "verses": [
     {
-      "pk": 2902101,
+      "pk": 5021001,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 21,
       "verse": 1,
-      "text": "If someone is found slain in the land the Lord your God is giving you to possess, lying in the field, and it is not known who struck him,",
-      "links": "<a href='/AIV/4/35/33'>Num. 35:33</a>",
-      "comment": "Introduces the case of an unsolved murder in the land."
+      "text": "If, in the land that the LORD your God is giving you to possess, someone is found lying in a field, murdered, and it is unknown who killed him,",
+      "links": "<a href='/AIV/4/35/33'>Num. 35:33</a>; <a href='/AIV/5/19/10'>Deut. 19:10</a>",
+      "comment": "God addresses justice and communal responsibility, foundational for later moral teachings."
     },
     {
-      "pk": 2902102,
+      "pk": 5021002,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 21,
       "verse": 2,
-      "text": "then your elders and your judges shall go out and measure the distance from the slain man to the surrounding cities.",
-      "links": "<a href='/AIV/18/5/8'>Job 5:8</a>",
-      "comment": "Maintains literal sense of elders/judges’ responsibility."
+      "text": "then your elders and judges must go out and measure the distance from the body to the nearby towns.",
+      "links": "<a href='/AIV/5/17/8-9'>Deut. 17:8-9</a>",
+      "comment": "Local leadership bears responsibility, prefiguring need for order and discernment."
     },
     {
-      "pk": 2902103,
+      "pk": 5021003,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 21,
       "verse": 3,
-      "text": "The elders of the city that is nearest to the slain man shall take a heifer that has not been worked and that has not pulled in a yoke.",
+      "text": "The elders of the town nearest to the body shall take a young cow that has never been worked or worn a yoke.",
       "links": "<a href='/AIV/4/19/2'>Num. 19:2</a>",
-      "comment": "Notes the requirement for an unworked heifer (compare with the red heifer ritual, Num. 19)."
+      "comment": "The unworked heifer symbolizes innocence and ritual purity, echoing sacrificial imagery for forgiveness."
     },
     {
-      "pk": 2902104,
+      "pk": 5021004,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 21,
       "verse": 4,
-      "text": "And the elders of that city shall bring the heifer down to a valley with running water, which has not been plowed or sown, and shall break the heifer’s neck there in the valley.",
-      "links": "<a href='/AIV/4/13/23'>Num. 13:23</a>",
-      "comment": "Breaking the neck is a ritual for atonement, not a typical sacrifice."
+      "text": "They shall bring the cow down to a valley with flowing water, where it has not been plowed or sown, and break the cow's neck there in the valley.",
+      "links": "<a href='/AIV/3/4/3'>Lev. 4:3</a>; <a href='/AIV/4/19/2-10'>Num. 19:2-10</a>",
+      "comment": "Purification over water and breaking the neck suggest atonement. Water often represents cleansing in Scripture (<a href='/AIV/43/3/5'>John 3:5</a>)."
     },
     {
-      "pk": 2902105,
+      "pk": 5021005,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 21,
       "verse": 5,
-      "text": "Then the priests, the sons of Levi, shall come near, for the Lord your God has chosen them to minister to Him and to bless in the Lord’s name. By their word every dispute and every assault shall be settled.",
-      "links": "<a href='/AIV/3/10/8'>Lev. 10:8-11</a>; <a href='/AIV/5/10/8'>Deut. 10:8</a>",
-      "comment": "Highlights priestly mediation in matters of law and ritual."
+      "text": "Then the priests, the descendants of Levi, shall come forward, because the LORD your God has chosen them to minister and to bless in his name, and by their word every dispute and case of assault shall be settled.",
+      "links": "<a href='/AIV/2/40/13-15'>Ex. 40:13-15</a>; <a href='/AIV/4/6/22-23'>Num. 6:22-23</a>",
+      "comment": "The priesthood mediates reconciliation and blessing; foreshadows mediatory roles for ordained ministers (<a href='/AIV/58/7/23-25'>Heb. 7:23-25</a>)."
     },
     {
-      "pk": 2902106,
+      "pk": 5021006,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 21,
       "verse": 6,
-      "text": "All the elders of that city nearest to the slain man shall wash their hands over the heifer whose neck was broken in the valley.",
+      "text": "All the elders of the town nearest to the slain man shall wash their hands over the cow whose neck was broken in the valley.",
       "links": "<a href='/AIV/19/26/6'>Ps. 26:6</a>; <a href='/AIV/40/27/24'>Matt. 27:24</a>",
-      "comment": "Washing hands symbolizes innocence—see Pilate’s act (Matt 27:24)."
+      "comment": "Washing hands symbolizes innocence; parallels Pilate's gesture in the Passion account, highlighting need for true purity."
     },
     {
-      "pk": 2902107,
+      "pk": 5021007,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 21,
       "verse": 7,
-      "text": "And they shall declare, ‘Our hands have not shed this blood, nor have our eyes seen it.’",
-      "links": "<a href='/AIV/1/9/6'>Gen. 9:6</a>",
-      "comment": "A strong oath of innocence."
+      "text": "And they shall declare, 'Our hands did not shed this blood, nor did our eyes see it done.'",
+      "links": "<a href='/AIV/32/1/14'>Jonah 1:14</a>",
+      "comment": "A communal profession of innocence, anticipating liturgical confession and prayer for forgiveness."
     },
     {
-      "pk": 2902108,
+      "pk": 5021008,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 21,
       "verse": 8,
-      "text": "Forgive, Lord, Your people Israel, whom You have redeemed, and do not let innocent blood be among Your people Israel. And the blood guilt shall be forgiven them.",
-      "links": "<a href='/AIV/3/4/20'>Lev. 4:20</a>",
-      "comment": "Explicit prayer for atonement and cleansing."
+      "text": "'Accept atonement, O LORD, for your people Israel, whom you have redeemed, and do not hold the guilt of innocent blood among your people.' Thus they shall purge the guilt of blood from among them.",
+      "links": "<a href='/AIV/19/79/9'>Ps. 79:9</a>; <a href='/AIV/58/9/14'>Heb. 9:14</a>",
+      "comment": "Intercessory prayer for atonement, foreshadows the necessity of sacrificial redemption fulfilled in Christ."
     },
     {
-      "pk": 2902109,
+      "pk": 5021009,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 21,
       "verse": 9,
-      "text": "So you shall purge the guilt of innocent blood from among you, when you do what is right in the eyes of the Lord.",
-      "links": "<a href='/AIV/5/19/13'>Deut. 19:13</a>",
-      "comment": "Echoes earlier commands to purge bloodguilt."
+      "text": "So you shall remove the guilt of innocent blood from among you, by doing what is right in the sight of the LORD.",
+      "links": "<a href='/AIV/5/19/13'>Deut. 19:13</a>; <a href='/AIV/20/21/3'>Prov. 21:3</a>",
+      "comment": "Moral cleanliness is linked with ritual; hints at the deep connection between justice, mercy, and liturgy."
     },
     {
-      "pk": 2902110,
+      "pk": 5021010,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 21,
       "verse": 10,
-      "text": "When you go out to war against your enemies, and the Lord your God gives them into your hand and you take them captive,",
-      "links": "<a href='/AIV/5/20/1'>Deut. 20:1</a>",
-      "comment": "Begins regulations for warfare and captives."
+      "text": "When you go out to battle against your enemies, and the LORD your God delivers them into your hands and you take them captive,",
+      "links": "<a href='/AIV/6/21/44'>Josh. 21:44</a>; <a href='/AIV/5/20/1'>Deut. 20:1</a>",
+      "comment": "Victory comes from God; reminds readers of dependence on divine providence, not mere human effort."
     },
     {
-      "pk": 2902111,
+      "pk": 5021011,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 21,
       "verse": 11,
-      "text": "and you see among the captives a beautiful woman, and you are attracted to her and desire to take her as your wife,",
-      "links": "<a href='/AIV/7/14/3'>Judg. 14:3</a>",
-      "comment": "Prescribes circumstances for marrying a captive woman."
+      "text": "and you see among the captives a beautiful woman and desire her, you may take her for yourself as a wife.",
+      "links": "<a href='/AIV/5/7/3'>Deut. 7:3</a>; <a href='/AIV/8/13/16'>Ruth 1:16</a>",
+      "comment": "The Law provides for marriage rather than mere exploitation; protection of dignity even in conquest foreshadows Christ's restoration of all through union."
     },
     {
-      "pk": 2902112,
+      "pk": 5021012,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 21,
       "verse": 12,
-      "text": "then you shall bring her into your house, and she shall shave her head and trim her nails.",
-      "links": "<a href='/AIV/3/14/8'>Lev. 14:8-9</a>",
-      "comment": "Shaving and trimming—symbols of leaving her old life."
+      "text": "You must bring her into your house, shave her head, trim her nails,",
+      "links": "<a href='/AIV/3/14/8'>Lev. 14:8</a>",
+      "comment": "Initiation rites signal transition from her former life; echoes themes of conversion and cleansing."
     },
     {
-      "pk": 2902113,
+      "pk": 5021013,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 21,
       "verse": 13,
-      "text": "She shall remove the clothes of her captivity and stay in your house and lament her father and her mother a full month. After that, you may go in to her and be her husband, and she shall be your wife.",
-      "links": "<a href='/AIV/19/45/10'>Ps. 45:10</a>",
-      "comment": "One month of mourning is a humane delay before marriage."
+      "text": "take off the clothes she was wearing when captured, remain in your house, and mourn her father and mother for a full month. Then you may go to her and be her husband, and she shall be your wife.",
+      "links": "<a href='/AIV/17/2/12'>Esth. 2:12</a>",
+      "comment": "Respect for the woman’s grief shows the Law’s concern for human dignity before marriage; anticipates Christ’s compassion for all, regardless of background."
     },
     {
-      "pk": 2902114,
+      "pk": 5021014,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 21,
       "verse": 14,
-      "text": "But if you no longer delight in her, you shall let her go where she wishes. But you shall not sell her for money, nor shall you treat her as a slave, because you have humbled her.",
-      "links": "<a href='/AIV/3/25/39'>Lev. 25:39-42</a>",
-      "comment": "Prohibits selling her—acknowledging dignity after marriage."
+      "text": "But if you are not pleased with her, you shall let her go wherever she desires. You must not sell her for money or treat her as a slave, because you have humbled her.",
+      "links": "<a href='/AIV/2/21/8'>Ex. 21:8</a>",
+      "comment": "The Law protects the vulnerable, showcasing principles of justice and mercy that define Christian ethics."
     },
     {
-      "pk": 2902115,
+      "pk": 5021015,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 21,
       "verse": 15,
-      "text": "If a man has two wives, the one loved and the other unloved, and both the loved and the unloved have borne him sons, and if the firstborn son belongs to the unloved woman,",
-      "links": "<a href='/AIV/1/29/30-31'>Gen. 29:30-31</a>",
-      "comment": "Issue of inheritance between loved and unloved wives’ sons."
+      "text": "If a man has two wives, one loved and the other unloved, and both have borne him sons, but the firstborn is from the unloved wife,",
+      "links": "<a href='/AIV/1/29/30-32'>Gen. 29:30-32</a>",
+      "comment": "The Law addresses issues from imperfect family situations yet upholds justice, foreshadowing the New Testament’s insistence on impartial love."
     },
     {
-      "pk": 2902116,
+      "pk": 5021016,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 21,
       "verse": 16,
-      "text": "then on the day when he assigns his sons their inheritance, he may not treat the son of the loved as the firstborn instead of the son of the unloved, the actual firstborn.",
-      "links": "<a href='/AIV/1/25/5-6'>Gen. 25:5-6</a>",
-      "comment": "Forbids changing firstborn rights on grounds of affection."
+      "text": "when dividing his inheritance among his sons, he may not choose the son of the loved wife over the firstborn of the unloved wife.",
+      "links": "<a href='/AIV/1/21/10-12'>Gen. 21:10-12</a>; <a href='/AIV/20/24/23'>Prov. 24:23</a>",
+      "comment": "God’s justice defends the rights of the firstborn regardless of favoritism, pointing toward the impartiality of grace."
     },
     {
-      "pk": 2902117,
+      "pk": 5021017,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 21,
       "verse": 17,
-      "text": "But he shall acknowledge the son of the unloved as the firstborn by giving him a double portion of all he has, for he is the beginning of his strength. The right of the firstborn is his.",
-      "links": "<a href='/AIV/13/5/1-2'>1 Chr. 5:1-2</a>",
-      "comment": "‘Double portion’ means a twofold share."
+      "text": "He must recognize the firstborn, son of the unloved wife, by giving him a double portion of all he has, for he is the first to show his father's strength; the right of the firstborn belongs to him.",
+      "links": "<a href='/AIV/1/25/31-34'>Gen. 25:31-34</a>",
+      "comment": "Firstborn rights again echoed; ultimately fulfilled when Christ, ‘firstborn’ of the dead, receives the fullness of inheritance (<a href='/AIV/51/1/18'>Col. 1:18</a>)."
     },
     {
-      "pk": 2902118,
+      "pk": 5021018,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 21,
       "verse": 18,
-      "text": "If a man has a stubborn and rebellious son who will not obey the voice of his father or the voice of his mother, and, though they discipline him, will not listen to them,",
-      "links": "<a href='/AIV/20/13/1'>Prov. 13:1</a>",
-      "comment": "Describes a case of chronic disobedience."
+      "text": "If a man has a stubborn and rebellious son who will not obey his father or mother, even when disciplined,",
+      "links": "<a href='/AIV/20/13/24'>Prov. 13:24</a>; <a href='/AIV/20/23/13'>Prov. 23:13</a>",
+      "comment": "Family order is crucial. Obedience to parents is later insisted upon in apostolic teaching (<a href='/AIV/49/6/1'>Eph. 6:1</a>)."
     },
     {
-      "pk": 2902119,
+      "pk": 5021019,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 21,
       "verse": 19,
-      "text": "then his father and his mother shall take hold of him and bring him out to the elders of his city at the gate of the place where he lives.",
+      "text": "his father and mother shall take hold of him and bring him out to the elders at the gate of his town.",
       "links": "<a href='/AIV/5/17/5'>Deut. 17:5</a>",
-      "comment": "The city gate was the place of legal decisions."
+      "comment": "Parents and community share responsibility for discipline; gates are places of judgment, emphasizing communal justice."
     },
     {
-      "pk": 2902120,
+      "pk": 5021020,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 21,
       "verse": 20,
-      "text": "And they shall say to the elders of his city, ‘This son of ours is stubborn and rebellious; he will not obey our voice; he is a glutton and a drunkard.’",
-      "links": "<a href='/AIV/20/28/7'>Prov. 28:7</a>",
-      "comment": "Disobedience and dissolute behavior are cited."
+      "text": "They shall say to the elders, 'This son of ours is stubborn and rebellious. He will not obey us. He is a glutton and a drunkard.'",
+      "links": "<a href='/AIV/20/23/20-21'>Prov. 23:20-21</a>; <a href='/AIV/42/15/13'>Luke 15:13</a>",
+      "comment": "Sinful behaviors named echo the prodigal son parable, showing the Law’s call for conversion and restoration."
     },
     {
-      "pk": 2902121,
+      "pk": 5021021,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 21,
       "verse": 21,
-      "text": "Then all the men of his city shall stone him with stones, so that he dies. So you shall purge the evil from among you, and all Israel shall hear and fear.",
-      "links": "<a href='/AIV/5/13/5'>Deut. 13:5</a>; <a href='/AIV/5/17/7'>Deut. 17:7</a>",
-      "comment": "Public execution intended as warning and deterrent."
+      "text": "Then all the men of his town shall stone him to death. So you shall purge the evil from among you, and all Israel will hear and be afraid.",
+      "links": "<a href='/AIV/5/13/5'>Deut. 13:5</a>; <a href='/AIV/46/5/5'>1 Cor. 5:5</a>",
+      "comment": "Severe discipline for community holiness; in the New Testament discipline becomes spiritual, urging repentance not vengeance."
     },
     {
-      "pk": 2902122,
+      "pk": 5021022,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 21,
       "verse": 22,
-      "text": "And if a man has committed a sin deserving of death and he is put to death, and you hang him on a tree,",
-      "links": "<a href='/AIV/6/8/29'>Josh. 8:29</a>; <a href='/AIV/48/3/13'>Gal. 3:13</a>",
-      "comment": "'Tree' refers to impaling or exposure after execution."
+      "text": "If a man is guilty of a capital offense and is executed, and you hang him on a tree,",
+      "links": "<a href='/AIV/40/27/35'>Matt. 27:35</a>; <a href='/AIV/48/3/13'>Gal. 3:13</a>",
+      "comment": "Hanging points prophetically to Christ’s crucifixion, who bore the curse for sinners; see also <a href='/AIV/48/3/13'>Galatians 3:13</a>."
     },
     {
-      "pk": 2902123,
+      "pk": 5021023,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 21,
       "verse": 23,
-      "text": "his body shall not remain all night on the tree, but you shall surely bury him the same day, for anyone who is hanged is cursed of God. You must not defile your land that the Lord your God is giving you for an inheritance.",
-      "links": "<a href='/AIV/48/3/13'>Gal. 3:13</a>; <a href='/AIV/6/10/26-27'>Josh. 10:26-27</a>",
-      "comment": "Paul references this verse in Galatians about Christ becoming a curse for us."
+      "text": "his body shall not remain on the tree overnight, but you must bury him that same day, for anyone hung on a tree is cursed by God. You must not defile your land that the LORD your God is giving you as an inheritance.",
+      "links": "<a href='/AIV/43/19/31'>John 19:31</a>; <a href='/AIV/48/3/13'>Gal. 3:13</a>",
+      "comment": "Burial and removing the curse fulfillment in Christ; He is buried swiftly after the crucifixion (<a href='/AIV/43/19/38-42'>John 19:38-42</a>), showing God’s plan even in judgment."
     }
   ],
-  "translatedAt": "2025-12-20T09:58:33.661Z"
+  "translatedAt": "2025-12-24T02:08:02.629Z"
 }

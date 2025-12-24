@@ -1,288 +1,345 @@
 {
-  "book": "Ezra",
+  "book": 15,
+  "bookName": "Ezra",
   "bookAbbreviation": "Ezra",
   "chapter": 7,
   "verses": [
     {
-      "pk": 820710,
+      "pk": 15007001,
       "translation": "AIV",
       "book": 15,
+      "bookName": "Ezra",
+      "bookAbbreviation": "Ezra",
       "chapter": 7,
       "verse": 1,
       "text": "After these events, during the reign of Artaxerxes king of Persia, Ezra son of Seraiah, son of Azariah, son of Hilkiah,",
-      "links": "<a href='/AIV/15/2/2'>Ezra 2:2</a>; <a href='/AIV/16/12/1'>Neh. 12:1-7</a>",
-      "comment": "Begins a new section introduced by the genealogy of Ezra, emphasizing his priestly lineage, which points to continuity with the Mosaic tradition."
+      "links": "<a href='/AIV/15/2/2'>Ezra 2:2</a>; <a href='/AIV/16/7/7'>Neh. 7:7</a>",
+      "comment": "A new phase begins with the introduction of Ezra, a direct priestly descendant. Artaxerxes here is most likely Artaxerxes I (465–424 BC)."
     },
     {
-      "pk": 820711,
+      "pk": 15007002,
       "translation": "AIV",
       "book": 15,
+      "bookName": "Ezra",
+      "bookAbbreviation": "Ezra",
       "chapter": 7,
       "verse": 2,
       "text": "son of Shallum, son of Zadok, son of Ahitub,",
-      "links": "<a href='/AIV/1/6/8'>1 Chr. 6:8-12</a>",
-      "comment": "Ezra’s ancestry traces him to Zadok, a high priest, underscoring his authority for religious reforms in Jerusalem."
+      "links": "<a href='/AIV/13/6/4-8'>1 Chr. 6:4–8</a>",
+      "comment": "Ezra's lineage traces through the priestly line of Zadok, signifying spiritual authority and continuity with Israel's ancient worship."
     },
     {
-      "pk": 820712,
+      "pk": 15007003,
       "translation": "AIV",
       "book": 15,
+      "bookName": "Ezra",
+      "bookAbbreviation": "Ezra",
       "chapter": 7,
       "verse": 3,
       "text": "son of Amariah, son of Azariah, son of Meraioth,",
-      "links": "<a href='/AIV/1/6/10'>1 Chr. 6:10</a>",
-      "comment": "The detailed genealogy connects Ezra to priestly tradition, granting his mission divine legitimacy and continuity."
+      "links": "<a href='/AIV/13/6/7'>1 Chr. 6:7</a>",
+      "comment": "This genealogy is detailed to highlight the continuity of God’s priestly promises from generation to generation."
     },
     {
-      "pk": 820713,
+      "pk": 15007004,
       "translation": "AIV",
       "book": 15,
+      "bookName": "Ezra",
+      "bookAbbreviation": "Ezra",
       "chapter": 7,
       "verse": 4,
       "text": "son of Zerahiah, son of Uzzi, son of Bukki,",
-      "links": "<a href='/AIV/1/6/5'>1 Chr. 6:5-6</a>",
-      "comment": "Lists further priestly ancestors, showing the deep roots of Ezra’s vocation and authority among the people."
+      "links": "<a href='/AIV/13/6/5-6'>1 Chr. 6:5-6</a>",
+      "comment": "Each name carries significance, anchoring Ezra within the legitimate line of temple servants."
     },
     {
-      "pk": 820714,
+      "pk": 15007005,
       "translation": "AIV",
       "book": 15,
+      "bookName": "Ezra",
+      "bookAbbreviation": "Ezra",
       "chapter": 7,
       "verse": 5,
       "text": "son of Abishua, son of Phinehas, son of Eleazar, son of Aaron the chief priest—",
-      "links": "<a href='/AIV/2/6/50'>Lev. 10:16; 1 Chr. 6:3-4</a>",
-      "comment": "Ezra’s lineage directly reaches back to Aaron, showing a succession of priesthood much prized for unity and tradition."
+      "links": "<a href='/AIV/02/06/25'>Exod. 6:25</a>; <a href='/AIV/04/25/11'>Num. 25:11</a>",
+      "comment": "Aaron, the first high priest, directly links Ezra to the foundational worship instituted by God. Priesthood is seen as something handed down, not self-appointed."
     },
     {
-      "pk": 820715,
+      "pk": 15007006,
       "translation": "AIV",
       "book": 15,
+      "bookName": "Ezra",
+      "bookAbbreviation": "Ezra",
       "chapter": 7,
       "verse": 6,
-      "text": "this Ezra came up from Babylon. He was a scribe skilled in the law of Moses, which the LORD, the God of Israel, had given. The king granted him all his requests, because the hand of the LORD his God was upon him.",
-      "links": "<a href='/AIV/15/5/12'>Ezra 5:12</a>; <a href='/AIV/16/2/8'>Neh. 2:8</a>",
-      "comment": "Ezra’s expertise in the Law embodies both teaching and interpretation, foreshadowing the spiritual authority given to leaders for guiding the people."
+      "text": "this Ezra went up from Babylon. He was a skilled scribe in the Law of Moses, which the LORD, the God of Israel, had given. The king granted him everything he requested, for the hand of the LORD his God was upon him.",
+      "links": "<a href='/AIV/15/1/8'>Ezra 1:8</a>; <a href='/AIV/19/119/1'>Ps. 119:1</a>",
+      "comment": "Ezra is presented as both scholar and priest. The hand of God affirms divine selection and gifting. This echoes God’s blessing on chosen leaders throughout salvation history."
     },
     {
-      "pk": 820716,
+      "pk": 15007007,
       "translation": "AIV",
       "book": 15,
+      "bookName": "Ezra",
+      "bookAbbreviation": "Ezra",
       "chapter": 7,
       "verse": 7,
-      "text": "Some of the people of Israel, and of the priests, the Levites, the singers, the gatekeepers, and the temple servants traveled up to Jerusalem in the seventh year of King Artaxerxes.",
-      "links": "<a href='/AIV/15/2/43-58'>Ezra 2:43-58</a>",
-      "comment": "The company of returnees included key temple personnel, crucial for re-establishing proper worship, hinting at the necessity of structured liturgy."
+      "text": "Some of the Israelites, along with priests, Levites, singers, gatekeepers, and the temple servants, also went up to Jerusalem in the seventh year of King Artaxerxes.",
+      "links": "<a href='/AIV/15/2/40-43'>Ezra 2:40-43</a>",
+      "comment": "The restoration involves all parts of Israel’s worship—leadership, worship, and service. True worship includes hierarchy and various vocations united together."
     },
     {
-      "pk": 820717,
+      "pk": 15007008,
       "translation": "AIV",
       "book": 15,
+      "bookName": "Ezra",
+      "bookAbbreviation": "Ezra",
       "chapter": 7,
       "verse": 8,
       "text": "Ezra arrived in Jerusalem in the fifth month, in the seventh year of the king.",
-      "links": "<a href='/AIV/15/7/7'>Ezra 7:7</a>",
-      "comment": "God’s providence is noted in the timing and safe journey, alluding to theme of pilgrimage in faith."
+      "links": "<a href='/AIV/16/2/1'>Neh. 2:1</a>",
+      "comment": "A precise date grounds the narrative in history. God’s salvific acts are always rooted in tangible reality."
     },
     {
-      "pk": 820718,
+      "pk": 15007009,
       "translation": "AIV",
       "book": 15,
+      "bookName": "Ezra",
+      "bookAbbreviation": "Ezra",
       "chapter": 7,
       "verse": 9,
-      "text": "He began the journey from Babylon on the first day of the first month, and he arrived in Jerusalem on the first day of the fifth month, because the good hand of his God was upon him.",
-      "links": "<a href='/AIV/15/8/31'>Ezra 8:31</a>",
-      "comment": "Repeated affirmation of God’s providence accentuates trust in divine protection, linking Old Testament journey themes to spiritual pilgrimage."
+      "text": "On the first day of the first month, he began his journey from Babylon, and on the first day of the fifth month he arrived in Jerusalem, because the gracious hand of his God was upon him.",
+      "links": "<a href='/AIV/15/8/31-32'>Ezra 8:31-32</a>",
+      "comment": "Four months of travel show the dedication and cost of returning to God’s city. God’s providence guides His people’s journeys, echoing Israel’s exodus."
     },
     {
-      "pk": 820719,
+      "pk": 15007010,
       "translation": "AIV",
       "book": 15,
+      "bookName": "Ezra",
+      "bookAbbreviation": "Ezra",
       "chapter": 7,
       "verse": 10,
-      "text": "For Ezra had set his heart to study the law of the LORD and to do it, and to teach His statutes and ordinances in Israel.",
-      "links": "<a href='/AIV/15/6/18'>Ezra 6:18</a>; <a href='/AIV/19/119/11'>Ps. 119:11</a>; <a href='/AIV/40/28/19-20'>Matt. 28:19-20</a>",
-      "comment": "Ezra’s triple mission—study, practice, and teach—prefigures later apostolic transmission of faith, especially the teaching authority that safeguards doctrine."
+      "text": "For Ezra had devoted himself to study the Law of the LORD, and to do it, and to teach its statutes and rules to Israel.",
+      "links": "<a href='/AIV/15/10/3'>Ezra 10:3</a>; <a href='/AIV/05/6/7'>Deut. 6:7</a>",
+      "comment": "Ezra models how teaching, living, and studying God’s law are interconnected—a pattern echoed when Christ appoints leaders to shepherd His people (cf. <a href='/AIV/43/21/15-17'>John 21:15-17</a>)."
     },
     {
-      "pk": 820720,
+      "pk": 15007011,
       "translation": "AIV",
       "book": 15,
+      "bookName": "Ezra",
+      "bookAbbreviation": "Ezra",
       "chapter": 7,
       "verse": 11,
-      "text": "This is a copy of the letter that King Artaxerxes gave to Ezra the priest, the scribe, who is expert in the words of the commands of the LORD and His statutes for Israel:",
+      "text": "This is a copy of the letter that King Artaxerxes gave to Ezra the priest and scribe, who was learned in the words of the commandments of the LORD and His statutes for Israel:",
       "links": "<a href='/AIV/15/4/11-16'>Ezra 4:11-16</a>",
-      "comment": "Presentation of royal authority invested in Ezra, demonstrating God’s use of earthly rulers in redemptive history."
+      "comment": "Official royal authority is given to the scribe-priest. Sacred leadership has both spiritual and civil dimensions."
     },
     {
-      "pk": 820721,
+      "pk": 15007012,
       "translation": "AIV",
       "book": 15,
+      "bookName": "Ezra",
+      "bookAbbreviation": "Ezra",
       "chapter": 7,
       "verse": 12,
-      "text": "Artaxerxes, king of kings, to Ezra the priest, the scribe of the law of the God of heaven: Peace.",
-      "links": "<a href='/AIV/15/4/17'>Ezra 4:17</a>",
-      "comment": "The greeting 'king of kings' recalls biblical language about God's ultimate sovereignty (cf. Dan. 2:37; Rev. 19:16), connecting temporal and divine kingship."
+      "text": "\"Artaxerxes, king of kings, to Ezra the priest, scribe of the law of the God of heaven. Peace. And now...",
+      "links": "<a href='/AIV/15/5/1-6'>Ezra 5:6</a>",
+      "comment": "The title “king of kings” for the Persian king reflects earthly authority, but true kingship is ultimately from God (cf. <a href='/AIV/27/2/47'>Dan. 2:47</a>), later fulfilled in Christ (<a href='/AIV/66/19/16'>Rev. 19:16</a>)."
     },
     {
-      "pk": 820722,
+      "pk": 15007013,
       "translation": "AIV",
       "book": 15,
+      "bookName": "Ezra",
+      "bookAbbreviation": "Ezra",
       "chapter": 7,
       "verse": 13,
-      "text": "I issue a decree that any of the people of Israel in my kingdom, including their priests and Levites, who wish to go to Jerusalem, may go with you.",
+      "text": "I issue a decree that anyone among the people of Israel, including their priests and Levites, who wishes to go to Jerusalem with you, may go.",
       "links": "<a href='/AIV/15/1/3'>Ezra 1:3</a>",
-      "comment": "The king’s permissive decree echoes Cyrus’s original edict for the return, further aligning secular authority with God’s saving purposes."
+      "comment": "The king affirms freedom for religious pilgrimage, echoing earlier royal decrees allowing spiritual restoration."
     },
     {
-      "pk": 820723,
+      "pk": 15007014,
       "translation": "AIV",
       "book": 15,
+      "bookName": "Ezra",
+      "bookAbbreviation": "Ezra",
       "chapter": 7,
       "verse": 14,
-      "text": "You are sent by the king and his seven counselors to inquire about Judah and Jerusalem according to the law of your God, which is in your hand.",
-      "links": "<a href='/AIV/17/1/14'>Esther 1:14</a>",
-      "comment": "The inclusion of 'seven counselors' connects to imagery of divine perfection (see Zech. 4:10), and demonstrates collaborative governance."
+      "text": "You are sent by the king and his seven counselors to inquire about Judah and Jerusalem, according to the Law of your God, which is in your hand,",
+      "links": "<a href='/AIV/17/1/14'>Esth. 1:14</a>",
+      "comment": "The 'seven counselors' recalls traditional royal advisory bodies (cf. Esth. 1:14). Ezra’s authority flows from both royal and divine mandate."
     },
     {
-      "pk": 820724,
+      "pk": 15007015,
       "translation": "AIV",
       "book": 15,
+      "bookName": "Ezra",
+      "bookAbbreviation": "Ezra",
       "chapter": 7,
       "verse": 15,
-      "text": "Moreover, you are to carry the silver and gold that the king and his counselors have freely given to the God of Israel, whose dwelling is in Jerusalem,",
-      "links": "<a href='/AIV/15/6/8'>Ezra 6:8</a>",
-      "comment": "Material gifts for sacred service affirm the importance of sacrificial giving and the centrality of the sanctuary."
+      "text": "and to bring the silver and gold that the king and his counselors have freely given to the God of Israel, whose dwelling is in Jerusalem,",
+      "links": "<a href='/AIV/15/1/4'>Ezra 1:4</a>",
+      "comment": "Provision for the temple is funded by Gentile rulers—God can use earthly power for His heavenly purposes."
     },
     {
-      "pk": 820725,
+      "pk": 15007016,
       "translation": "AIV",
       "book": 15,
+      "bookName": "Ezra",
+      "bookAbbreviation": "Ezra",
       "chapter": 7,
       "verse": 16,
-      "text": "and all the silver and gold that you will find throughout the province of Babylon, together with the voluntary offerings of the people and the priests, given willingly for the house of their God in Jerusalem.",
-      "links": "<a href='/AIV/15/1/4'>Ezra 1:4</a>",
-      "comment": "Highlights unity in worship through collective contributions, mirroring principles of stewardship and maintenance of sacred space."
+      "text": "along with all the silver and gold that you find throughout the province of Babylon, along with the freewill offerings of the people and the priests, offered willingly for the house of their God in Jerusalem—",
+      "links": "<a href='/AIV/15/2/68-69'>Ezra 2:68-69</a>",
+      "comment": "True worship is supported by both offerings and voluntary sacrifices from God’s people, reminiscent of the giving for the tabernacle."
     },
     {
-      "pk": 820726,
+      "pk": 15007017,
       "translation": "AIV",
       "book": 15,
+      "bookName": "Ezra",
+      "bookAbbreviation": "Ezra",
       "chapter": 7,
       "verse": 17,
-      "text": "With this money, be sure to buy bulls, rams, and lambs, and their grain offerings and drink offerings, and offer them on the altar of the house of your God in Jerusalem.",
-      "links": "<a href='/AIV/3/1/3'>Lev. 1:3</a>; <a href='/AIV/4/15/8-10'>Num. 15:8-10</a>",
-      "comment": "The prescribed offerings connect to Levitical worship, reflecting the enduring nature of sacramental rites as a means of communion with God."
+      "text": "with this money you shall buy bulls, rams, and lambs, together with their grain offerings and drink offerings, and bring them to the altar of the house of your God which is in Jerusalem.",
+      "links": "<a href='/AIV/03/1/2-3'>Lev. 1:2-3</a>; <a href='/AIV/04/15/5-7'>Num. 15:5-7</a>",
+      "comment": "The restoration of sacrificial worship emphasizes the importance of priestly mediation. This anticipates New Testament fulfillment in the perfect sacrifice of Christ."
     },
     {
-      "pk": 820727,
+      "pk": 15007018,
       "translation": "AIV",
       "book": 15,
+      "bookName": "Ezra",
+      "bookAbbreviation": "Ezra",
       "chapter": 7,
       "verse": 18,
-      "text": "And whatever seems right to you and your fellow priests to do with the rest of the silver and gold, you may do according to the will of your God.",
-      "links": "<a href='/AIV/15/7/16'>Ezra 7:16</a>",
-      "comment": "Discretion given to priests signifies trust in spiritual authority for governing worship, hinting at dynamic living tradition."
+      "text": "Whatever seems good to you and your brothers to do with the rest of the silver and gold, do it according to the will of your God.",
+      "links": "",
+      "comment": "The king grants freedom to follow divine guidance—spiritual discernment and stewardship over the community’s resources is affirmed."
     },
     {
-      "pk": 820728,
+      "pk": 15007019,
       "translation": "AIV",
       "book": 15,
+      "bookName": "Ezra",
+      "bookAbbreviation": "Ezra",
       "chapter": 7,
       "verse": 19,
-      "text": "The vessels that have been given to you for the service of the house of your God, deliver them before the God of Jerusalem.",
+      "text": "The vessels that have been given to you for the service of the house of your God, deliver directly to the God of Jerusalem.",
       "links": "<a href='/AIV/15/1/7'>Ezra 1:7</a>",
-      "comment": "Restoration of sacred vessels has deep typological resonance, prefiguring themes of restoration and reconciliation found in the New Testament (see Heb. 9:21)."
+      "comment": "Restoring temple vessels signals the recovery of true worship and the sacredness of holy objects."
     },
     {
-      "pk": 820729,
+      "pk": 15007020,
       "translation": "AIV",
       "book": 15,
+      "bookName": "Ezra",
+      "bookAbbreviation": "Ezra",
       "chapter": 7,
       "verse": 20,
-      "text": "And whatever else may be required for the house of your God, that you have occasion to supply, provide it from the royal treasury.",
-      "links": "<a href='/AIV/15/6/4'>Ezra 6:4</a>",
-      "comment": "Support from secular authority for religious practice symbolizes the harmony possible between legitimate earthly rule and divine guidance."
+      "text": "And whatever else is required for the house of your God, which you may have occasion to provide, you may do, from the king’s treasury.",
+      "links": "",
+      "comment": "The full resources of the kingdom are enlisted for God’s house, prefiguring Christ’s teaching on the building of God’s house and the support of its ministers (<a href='/AIV/40/10/10'>Matt. 10:10</a>)."
     },
     {
-      "pk": 820730,
+      "pk": 15007021,
       "translation": "AIV",
       "book": 15,
+      "bookName": "Ezra",
+      "bookAbbreviation": "Ezra",
       "chapter": 7,
       "verse": 21,
-      "text": "I, Artaxerxes the king, issue a decree to all the treasurers beyond the River: Whatever Ezra the priest, the scribe of the law of the God of heaven, may require of you, let it be done exactly and without delay—",
-      "links": "<a href='/AIV/15/6/8'>Ezra 6:8</a>",
-      "comment": "Shows the power of written decree, ensuring the uninterrupted practice of true worship; see also Divine Law’s transcending force."
+      "text": "And I, Artaxerxes the king, issue a decree to all the treasurers in the province Beyond the River: Whatever Ezra the priest, the scribe of the law of the God of heaven, asks of you, let it be done diligently,",
+      "links": "",
+      "comment": "Royal authority again recognizes the need for zeal in supporting sacred leadership."
     },
     {
-      "pk": 820731,
+      "pk": 15007022,
       "translation": "AIV",
       "book": 15,
+      "bookName": "Ezra",
+      "bookAbbreviation": "Ezra",
       "chapter": 7,
       "verse": 22,
-      "text": "up to one hundred talents of silver, one hundred cors of wheat, one hundred baths of wine, one hundred baths of oil, and salt without limit.",
-      "links": "<a href='/AIV/15/6/9'>Ezra 6:9</a>",
-      "comment": "Details of provision mirror careful statutes for worship found in the Torah; salt’s mention alludes to the covenant (see Lev. 2:13)."
+      "text": "up to one hundred talents of silver, one hundred cors of wheat, one hundred baths of wine, one hundred baths of oil, and unlimited salt.",
+      "links": "",
+      "comment": "Detailed provisions demonstrate the concrete needs of worship and priestly service, drawing on Israel’s laws of sacrifice (<a href='/AIV/03/2/13'>Lev. 2:13</a>)."
     },
     {
-      "pk": 820732,
+      "pk": 15007023,
       "translation": "AIV",
       "book": 15,
+      "bookName": "Ezra",
+      "bookAbbreviation": "Ezra",
       "chapter": 7,
       "verse": 23,
-      "text": "Whatever is commanded by the God of heaven, let it be done in full for the house of the God of heaven. Why should there be wrath against the realm of the king and his sons?",
-      "links": "<a href='/AIV/15/6/10'>Ezra 6:10</a>",
-      "comment": "Recognition that obedience to God brings blessings and averts wrath; points to universal kingship of God and spiritual consequences of worship."
+      "text": "Whatever is commanded by the God of heaven, let it be done diligently for the house of the God of heaven, lest wrath come upon the realm of the king and his sons.",
+      "links": "<a href='/AIV/27/6/26-27'>Dan. 6:26-27</a>",
+      "comment": "Obedience to God’s worship guards the welfare of nations; recognizing the spiritual authority of the priestly office shapes the people’s well-being."
     },
     {
-      "pk": 820733,
+      "pk": 15007024,
       "translation": "AIV",
       "book": 15,
+      "bookName": "Ezra",
+      "bookAbbreviation": "Ezra",
       "chapter": 7,
       "verse": 24,
-      "text": "And you are also to know that no tribute, tax, or toll shall be imposed upon any of the priests, Levites, singers, gatekeepers, temple servants, or other servants of this house of God.",
-      "links": "<a href='/AIV/15/7/7'>Ezra 7:7</a>",
-      "comment": "Sets apart sacred ministers for God’s service, supporting their vocational dedication and practical needs, anticipating ‘set-apart’ lives for spiritual service."
+      "text": "We also inform you that it is not permitted to impose tribute, custom, or toll on any of the priests, Levites, singers, gatekeepers, temple servants, or other servants of this house of God.",
+      "links": "<a href='/AIV/16/13/10'>Neh. 13:10</a>",
+      "comment": "Clergy and those set apart for sacred service are released from tax burdens—a spiritual principle that the support of ministry is the community’s concern."
     },
     {
-      "pk": 820734,
+      "pk": 15007025,
       "translation": "AIV",
       "book": 15,
+      "bookName": "Ezra",
+      "bookAbbreviation": "Ezra",
       "chapter": 7,
       "verse": 25,
-      "text": "And you, Ezra, according to the wisdom of your God that is in your hand, appoint magistrates and judges to administer justice to all the people beyond the River, all who know the laws of your God. You shall teach them to those who do not know them.",
-      "links": "<a href='/AIV/15/7/10'>Ezra 7:10</a>; <a href='/AIV/2/18/25'>Ex. 18:25-26</a>",
-      "comment": "Ezra’s charge to appoint and teach links law, education, and authority, foreshadowing the importance of sacred teaching offices guided by divine wisdom."
+      "text": "And you, Ezra, according to the wisdom of your God that is in your hand, appoint magistrates and judges who may judge all the people in the province Beyond the River, all who know the laws of your God; and you shall teach those who do not know them.",
+      "links": "<a href='/AIV/02/18/21-22'>Exod. 18:21-22</a>",
+      "comment": "Ezra is entrusted with appointing leaders and teaching law—a principle continuing in the church’s formation of leaders and teachers (see <a href='/AIV/55/2/2'>2 Tim. 2:2</a>)."
     },
     {
-      "pk": 820735,
+      "pk": 15007026,
       "translation": "AIV",
       "book": 15,
+      "bookName": "Ezra",
+      "bookAbbreviation": "Ezra",
       "chapter": 7,
       "verse": 26,
-      "text": "Whoever does not obey the law of your God and the law of the king, let judgment be executed promptly upon him, whether for death or banishment, confiscation of goods or imprisonment.",
-      "links": "<a href='/AIV/15/10/8'>Ezra 10:8</a>",
-      "comment": "The intertwining of divine and royal law shows the high standards for faithfulness, echoing the consequences of disobedience and the necessity for discipline."
+      "text": "Whoever will not observe the law of your God and the law of the king, let judgment be executed speedily on him, whether for death or for banishment, for confiscation of goods or imprisonment.",
+      "links": "",
+      "comment": "Civil and spiritual authority are united—reminding us that obedience leads to order and peace within God’s people."
     },
     {
-      "pk": 820736,
+      "pk": 15007027,
       "translation": "AIV",
       "book": 15,
+      "bookName": "Ezra",
+      "bookAbbreviation": "Ezra",
       "chapter": 7,
       "verse": 27,
-      "text": "Blessed be the LORD, the God of our ancestors, who put such a thing as this in the heart of the king, to beautify the house of the LORD in Jerusalem,",
-      "links": "<a href='/AIV/15/6/22'>Ezra 6:22</a>; <a href='/AIV/20/21/1'>Prov. 21:1</a>",
-      "comment": "Ezra’s thanksgiving recognizes divine direction of rulers for the good of the faith community; prayer for beauty and restoration anticipates themes fulfilled in Christ."
+      "text": "Blessed be the LORD, the God of our fathers, who has put such a thing as this into the king’s heart, to beautify the house of the LORD that is in Jerusalem,",
+      "links": "<a href='/AIV/15/1/1'>Ezra 1:1</a>",
+      "comment": "Ezra acknowledges God’s sovereignty, giving Him glory for stirring earthly rulers to support the temple—a spiritual parallel to the Spirit guiding leaders today."
     },
     {
-      "pk": 820737,
+      "pk": 15007028,
       "translation": "AIV",
       "book": 15,
+      "bookName": "Ezra",
+      "bookAbbreviation": "Ezra",
       "chapter": 7,
       "verse": 28,
-      "text": "and has extended His steadfast love to me before the king and his counselors, and before all the king’s mighty officers. So I took courage, because the hand of the LORD my God was upon me, and I gathered leading men from Israel to go up with me.",
-      "links": "<a href='/AIV/15/8/15'>Ezra 8:15</a>; <a href='/AIV/19/89/1'>Ps. 89:1</a>",
-      "comment": "Ezra is emboldened by God’s favor, gathering leaders to embark on the mission, a model for spiritual leadership and trust, pointing ultimately to Christ as the perfect leader (cf. Heb. 2:10)."
+      "text": "and who has extended steadfast love to me before the king, his counselors, and all the king’s mighty officials. So I was strengthened by the hand of the LORD my God upon me, and I gathered leading men from Israel to go up with me.",
+      "links": "<a href='/AIV/15/8/1-20'>Ezra 8:1-20</a>",
+      "comment": "The closing highlights God’s mercy and the role of strong, divinely guided leadership. God works through both spiritual and civic means to build His people’s unity."
     }
   ],
-  "translatedAt": "2025-12-23T09:05:10.639Z"
+  "translatedAt": "2025-12-24T04:43:49.709Z"
 }

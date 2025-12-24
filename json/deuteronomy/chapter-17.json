@@ -1,208 +1,249 @@
 {
-  "book": "Deuteronomy",
+  "book": 5,
+  "bookName": "Deuteronomy",
   "bookAbbreviation": "Deut",
   "chapter": 17,
   "verses": [
     {
-      "pk": 1701701,
+      "pk": 5017001,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 17,
       "verse": 1,
-      "text": "You must not sacrifice to the LORD your God an ox or a sheep that has any blemish or defect, for that is detestable to the LORD your God.",
-      "links": "<a href='/AIV/3/22/20-22'>Lev. 22:20–22</a>; <a href='/AIV/5/15/21'>Deut. 15:21</a>",
-      "comment": "Retains direct warning about animal sacrifice—'detestable' for clarity, as per Hebrew 'toevah'."
+      "text": "You shall not sacrifice to the LORD your God an ox or a sheep with a defect or any flaw, for that is detestable to the LORD your God.",
+      "links": "<a href='/AIV/3/22/20'>Lev. 22:20</a>; <a href='/AIV/5/15/21'>Deut. 15:21</a>",
+      "comment": "The command for sacrifices to be unblemished points to the holiness of God and foreshadows the perfect offering of Christ (cf. Heb. 9:14). Sacrifices require true devotion, not half-heartedness."
     },
     {
-      "pk": 1701702,
+      "pk": 5017002,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 17,
       "verse": 2,
-      "text": "If there is found among you, within any of your towns that the LORD your God gives you, a man or a woman who does what is evil in the sight of the LORD your God and transgresses His covenant,",
-      "links": "<a href='/AIV/5/13/13'>Deut. 13:13</a>; <a href='/AIV/5/29/25'>Deut. 29:25</a>",
-      "comment": "‘Transgresses His covenant’ closely follows original phrasing, keeping gender reference."
+      "text": "If there is found among you, within any of your towns that the LORD your God gives you, a man or woman who does what is evil in the sight of the LORD your God, transgressing his covenant,",
+      "links": "<a href='/AIV/3/24/14'>Lev. 24:14</a>; <a href='/AIV/5/13/6-8'>Deut. 13:6-8</a>",
+      "comment": "Unfaithfulness to God threatens covenant life. Faithfulness is central in the life of God's people and ultimately fulfilled in the New Covenant community."
     },
     {
-      "pk": 1701703,
+      "pk": 5017003,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 17,
       "verse": 3,
-      "text": "by going and serving other gods and worshipping them, whether the sun or moon or any of the host of heaven, which I have forbidden,",
-      "links": "<a href='/AIV/2/20/4-5'>Ex. 20:4–5</a>; <a href='/AIV/5/4/19'>Deut. 4:19</a>",
-      "comment": "Explicit enumeration 'sun or moon or any of the host of heaven' for clarity."
+      "text": "by going and serving other gods and bowing down to them, or to the sun, or the moon, or any of the host of heaven, things I have forbidden,",
+      "links": "<a href='/AIV/2/20/3'>Ex. 20:3</a>; <a href='/AIV/5/4/19'>Deut. 4:19</a>",
+      "comment": "Idolatry is considered spiritual adultery (cf. Hos. 2:2); the language anticipates warnings against worshiping creation rather than the Creator (cf. Rom. 1:25)."
     },
     {
-      "pk": 1701704,
+      "pk": 5017004,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 17,
       "verse": 4,
-      "text": "and it is told to you and you hear of it, you must investigate thoroughly. If it is true and certain that such an abomination has been committed in Israel,",
-      "links": "<a href='/AIV/5/13/14'>Deut. 13:14</a>",
-      "comment": "‘Investigate thoroughly’ mirrors Hebrew intent; ‘abomination’ for 'toevah'."
+      "text": "and it is told to you and you hear of it, then you shall investigate thoroughly. If it is true and certain that such a detestable thing has been done in Israel,",
+      "links": "<a href='/AIV/3/24/14'>Lev. 24:14</a>; <a href='/AIV/5/13/12-14'>Deut. 13:12-14</a>",
+      "comment": "This process of investigation preserves justice and due process. The community is to protect both truth and holiness."
     },
     {
-      "pk": 1701705,
+      "pk": 5017005,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 17,
       "verse": 5,
-      "text": "then you must bring out to your city gates the man or woman who has done this evil deed, and stone that person to death.",
-      "links": "<a href='/AIV/3/24/14'>Lev. 24:14</a>; <a href='/AIV/6/7/25'>Jos. 7:25</a>",
-      "comment": "‘City gates’ included for accuracy; capital punishment as per context."
+      "text": "then you shall bring out to your gates that man or woman who has done this evil thing, and you shall stone that man or woman to death with stones.",
+      "links": "<a href='/AIV/3/24/16'>Lev. 24:16</a>; <a href='/AIV/5/13/10'>Deut. 13:10</a>",
+      "comment": "The severe penalty underscores the serious danger of idolatry corrupting God's people, showing how justice in the covenant community is public and communal."
     },
     {
-      "pk": 1701706,
+      "pk": 5017006,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 17,
       "verse": 6,
-      "text": "At the mouth of two or three witnesses the one who is to die shall be put to death. No one shall be put to death on the testimony of only one witness.",
-      "links": "<a href='/AIV/4/35/30'>Num. 35:30</a>; <a href='/AIV/5/19/15'>Deut. 19:15</a>",
-      "comment": "‘Mouth’ for Hebrew idiom (‘at the mouth of’ witnesses)."
+      "text": "On the evidence of two or three witnesses the one who is to die shall be put to death. A person shall not be put to death on the evidence of one witness.",
+      "links": "<a href='/AIV/4/35/30'>Num. 35:30</a>; <a href='/AIV/5/19/15'>Deut. 19:15</a>; <a href='/AIV/40/18/16'>Matt. 18:16</a>",
+      "comment": "Establishing matters by two or three witnesses is foundational for justice, later echoed in Christ's teaching on church discipline (Matt. 18:16)."
     },
     {
-      "pk": 1701707,
+      "pk": 5017007,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 17,
       "verse": 7,
-      "text": "The hand of the witnesses shall be first against him to put him to death, and afterward the hand of all the people. In this way you shall purge the evil from among you.",
-      "links": "<a href='/AIV/5/13/9'>Deut. 13:9</a>; <a href='/AIV/5/19/19'>Deut. 19:19</a>",
-      "comment": "Witnesses initiate justice, consistent with the original."
+      "text": "The hand of the witnesses shall be first against such a person to put him to death, and afterward the hand of all the people. So you shall purge the evil from among you.",
+      "links": "<a href='/AIV/3/24/14'>Lev. 24:14</a>; <a href='/AIV/5/13/9'>Deut. 13:9</a>",
+      "comment": "Justice is also communal; the whole people must desire holiness. Purging evil points to the need for a pure community (echoed spiritually in church discipline: 1 Cor. 5:13)."
     },
     {
-      "pk": 1701708,
+      "pk": 5017008,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 17,
       "verse": 8,
-      "text": "If any case arises that is too difficult for you to judge—matters of bloodshed, legal rights, or assault, cases of dispute within your town gates—then you shall go up to the place that the LORD your God chooses.",
-      "links": "<a href='/AIV/5/12/5'>Deut. 12:5</a>; <a href='/AIV/5/19/17'>Deut. 19:17</a>",
-      "comment": "Explicit types of cases retained as per Hebrew; 'town gates' added for context."
+      "text": "If a case is too difficult for you to decide, whether it is bloodshed, a legal dispute, or assault, matters of controversy within your gates, then you shall arise and go up to the place that the LORD your God will choose.",
+      "links": "<a href='/AIV/2/18/17-26'>Ex. 18:17-26</a>; <a href='/AIV/5/12/5'>Deut. 12:5</a>",
+      "comment": "Complex cases are brought to a central place of authority. This prefigures settled authority in spiritual matters and hints at a visible, unified leadership."
     },
     {
-      "pk": 1701709,
+      "pk": 5017009,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 17,
       "verse": 9,
-      "text": "You must come to the Levitical priests and to the judge who is in office in those days, and you shall consult them, and they will declare to you the verdict in the case.",
-      "links": "<a href='/AIV/5/19/17'>Deut. 19:17</a>",
-      "comment": "‘Levitical priests’ and ‘judge’ retained; translated ‘verdict’ for clarity."
+      "text": "You shall come to the priests, the Levites, and to the judge who is in office in those days, and you shall inquire from them, and they shall declare to you the verdict of the case.",
+      "links": "<a href='/AIV/3/10/11'>Lev. 10:11</a>; <a href='/AIV/2/28/30'>Ex. 28:30</a>",
+      "comment": "Appealing to priestly and judicial authority for final decisions foreshadows authoritative teaching and continuity in spiritual guidance (cf. Mal. 2:7)."
     },
     {
-      "pk": 1701710,
+      "pk": 5017010,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 17,
       "verse": 10,
-      "text": "You shall follow the instruction they give you at the place that the LORD will choose, and you must be careful to do exactly as they direct.",
-      "links": "<a href='/AIV/5/12/5'>Deut. 12:5</a>; <a href='/AIV/2/24/3'>Ex. 24:3</a>",
-      "comment": "‘Be careful to do’ maintains original’s emphasis on obedience."
+      "text": "You shall do according to the decision which they declare to you from that place which the LORD will choose. Be careful to do all that they instruct you.",
+      "links": "<a href='/AIV/40/23/2-3'>Matt. 23:2-3</a>",
+      "comment": "Obedience to binding decisions points to the authority invested by God in His leaders. Jesus later points to listening to those who 'sit on Moses’ seat'."
     },
     {
-      "pk": 1701711,
+      "pk": 5017011,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 17,
       "verse": 11,
-      "text": "You must act according to the instruction they give you and the ruling they pronounce; do not turn aside from what they declare to you, neither to the right nor to the left.",
-      "links": "<a href='/AIV/5/5/32'>Deut. 5:32</a>; <a href='/AIV/5/28/14'>Deut. 28:14</a>",
-      "comment": "Original idiom ‘not to the right nor to the left’ retained."
+      "text": "According to the law which they teach you, and the judgment which they tell you, you shall do; you must not turn aside from the verdict they declare to you, either to the right or to the left.",
+      "links": "<a href='/AIV/2/24/14'>Ex. 24:14</a>; <a href='/AIV/4/27/17'>Num. 27:21'>Num. 27:21</a>",
+      "comment": "Refusing to deviate from authoritative rulings strengthens the idea of a living authority for the community, which God upholds."
     },
     {
-      "pk": 1701712,
+      "pk": 5017012,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 17,
       "verse": 12,
-      "text": "Any man who acts arrogantly and refuses to listen to the priest who stands to minister there to the LORD your God, or to the judge, that man shall die. You shall purge the evil from Israel.",
-      "links": "<a href='/AIV/5/13/5'>Deut. 13:5</a>; <a href='/AIV/5/15/4'>Deut. 15:4</a>",
-      "comment": "‘Acts arrogantly’ for Hebrew ‘presumes’; capital punishment retained."
+      "text": "If anyone acts presumptuously, not listening to the priest who stands to minister there before the LORD your God, or to the judge, that person shall die. So you shall purge the evil from Israel.",
+      "links": "<a href='/AIV/4/16/22'>Num. 16:22-33</a>; <a href='/AIV/5/13/5'>Deut. 13:5</a>",
+      "comment": "Authority, especially spiritual, is safeguarded by God Himself, underscoring the seriousness of rejecting rightful leadership."
     },
     {
-      "pk": 1701713,
+      "pk": 5017013,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 17,
       "verse": 13,
-      "text": "And all the people shall hear and fear and will not act arrogantly any longer.",
-      "links": "<a href='/AIV/5/13/11'>Deut. 13:11</a>; <a href='/AIV/5/19/20'>Deut. 19:20</a>",
-      "comment": "‘Hear and fear’ is a literal rendering."
+      "text": "All the people shall hear and fear and no longer act presumptuously.",
+      "links": "<a href='/AIV/5/13/11'>Deut. 13:11</a>",
+      "comment": "A community that reveres authority preserves unity and peace; the warning is for all to learn humility before God's order."
     },
     {
-      "pk": 1701714,
+      "pk": 5017014,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 17,
       "verse": 14,
-      "text": "When you come to the land that the LORD your God is giving you, and you possess it and live in it, and then say, 'I will set a king over me like all the nations around me,'",
-      "links": "<a href='/AIV/9/8/4-5'>1 Sam. 8:4–5</a>; <a href='/AIV/5/7/1'>Deut. 7:1</a>",
-      "comment": "Condition expressed in future anticipation as per original text."
+      "text": "When you come into the land the LORD your God is giving you, and possess it and dwell in it, and you say, 'Let us set a king over us like all the nations that are around me,'",
+      "links": "<a href='/AIV/9/8/5'>1 Sam. 8:5</a>",
+      "comment": "This anticipates Israel's later request for a king. The text subtly encourages the principle of divinely-sanctioned leadership."
     },
     {
-      "pk": 1701715,
+      "pk": 5017015,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 17,
       "verse": 15,
-      "text": "then you must set a king over yourselves whom the LORD your God chooses. You must appoint one from among your brothers; you must not put a foreigner over you, someone who is not your brother.",
-      "links": "<a href='/AIV/9/9/16'>1 Sam. 9:16</a>; <a href='/AIV/9/10/24'>1 Sam. 10:24</a>",
-      "comment": "‘Brothers’ retained as per Hebrew for national identity."
+      "text": "you may indeed set a king over yourselves whom the LORD your God will choose. You shall set as king over you one of your brothers. You may not put a foreigner over yourselves who is not your brother.",
+      "links": "<a href='/AIV/9/9/16-17'>1 Sam. 9:16-17</a>",
+      "comment": "God’s choice of the king is paramount, showing both the need for leadership and its origin from God's will, not human design. The requirement that the king be 'from among your brethren' hints at the importance of a shepherd-leader from among the people (cf. Heb. 2:17)."
     },
     {
-      "pk": 1701716,
+      "pk": 5017016,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 17,
       "verse": 16,
-      "text": "But he must not acquire many horses for himself or cause the people to return to Egypt in order to get more horses, since the LORD has told you, 'You shall never go back that way again.'",
-      "links": "<a href='/AIV/11/10/28-29'>1 Kgs. 10:28–29</a>; <a href='/AIV/2/14/13'>Ex. 14:13</a>",
-      "comment": "‘Return to Egypt’ maintains the original prohibition."
+      "text": "But he must not acquire many horses for himself or cause the people to return to Egypt in order to acquire many horses, for the LORD has said to you, 'You shall never return that way again.'",
+      "links": "<a href='/AIV/11/10/28-29'>1 Kings 10:28-29</a>",
+      "comment": "The king’s power is limited by God’s laws, not by earthly measures—trust in God, not military might. The warning against 'returning to Egypt' has spiritual dimensions as well: not returning to old ways after redemption."
     },
     {
-      "pk": 1701717,
+      "pk": 5017017,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 17,
       "verse": 17,
-      "text": "And he must not acquire many wives for himself, lest his heart turn away. Nor must he acquire excessive silver and gold for himself.",
-      "links": "<a href='/AIV/11/11/1-4'>1 Kgs. 11:1–4</a>; <a href='/AIV/5/7/25'>Deut. 7:25</a>",
-      "comment": "Original warnings on wives and wealth preserved."
+      "text": "He must not take many wives for himself, or his heart will turn away, nor shall he greatly multiply silver and gold for himself.",
+      "links": "<a href='/AIV/11/11/1-4'>1 Kings 11:1-4</a>",
+      "comment": "Self-indulgence in pleasure (many wives) and riches is forbidden for God's anointed leader, a principle fully realised in Christ, who is both the poor King and the Bridegroom faithful to his people."
     },
     {
-      "pk": 1701718,
+      "pk": 5017018,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 17,
       "verse": 18,
-      "text": "And when he sits on the throne of his kingdom, he shall write for himself a copy of this law in a book, approved by the Levitical priests.",
-      "links": "<a href='/AIV/10/23/3'>2 Sam. 23:3</a>; <a href='/AIV/12/22/8'>2 Kgs. 22:8</a>",
-      "comment": "‘Copy of this law’ is a literal rendering; Levitical priests retain oversight."
+      "text": "And when he sits on the throne of his kingdom, he shall write for himself in a book a copy of this law, from that which is before the priests, the Levites.",
+      "links": "<a href='/AIV/19/119/46'>Ps. 119:46</a>",
+      "comment": "The king is to meditate on and know God's law, signifying that ruling is to be performed under divine instruction. This principle of leadership through the written Word leads one to appreciate the continuity of teaching authority and tradition."
     },
     {
-      "pk": 1701719,
+      "pk": 5017019,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 17,
       "verse": 19,
-      "text": "And it shall be with him, and he shall read it all the days of his life, so that he may learn to fear the LORD his God and to keep all the words of this law and these statutes, doing them.",
-      "links": "<a href='/AIV/5/31/10-13'>Deut. 31:10–13</a>; <a href='/AIV/19/1/2'>Ps. 1:2</a>",
-      "comment": "Continuous reading and obedience emphasized as per Hebrew construct."
+      "text": "It shall be with him, and he shall read in it all the days of his life, so that he may learn to fear the LORD his God by keeping all the words of this law and these statutes, to do them,",
+      "links": "<a href='/AIV/19/1/2'>Ps. 1:2</a>; <a href='/AIV/19/119/11'>Ps. 119:11</a>",
+      "comment": "Continual reading and obedience to the law brings humility, humility being the mark of perfect leadership modeled in Christ (Phil. 2:5-8)."
     },
     {
-      "pk": 1701720,
+      "pk": 5017020,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 17,
       "verse": 20,
-      "text": "So that his heart may not be lifted up above his brothers, and that he may not turn aside from the commandment, either to the right or to the left; so that he may continue long in his kingdom, he and his children, in Israel.",
-      "links": "<a href='/AIV/5/5/32'>Deut. 5:32</a>; <a href='/AIV/5/28/13-14'>Deut. 28:13–14</a>",
-      "comment": "Purpose statement for humility and obedience; ‘in Israel’ retained for location."
+      "text": "so that his heart may not be lifted up above his brothers, and that he may not turn aside from the commandment, to the right or to the left, so that he may continue long in his kingdom, he and his children, in the midst of Israel.",
+      "links": "<a href='/AIV/1/49/10'>Gen. 49:10</a>; <a href='/AIV/19/132/12'>Ps. 132:12</a>",
+      "comment": "The humility and constancy expected of the king looks forward to the fulfillment of the promise of an everlasting kingdom (cf. 2 Sam. 7:13), realized spiritually through Christ. Such passages foreshadow the visible, enduring kingdom established among God's people."
     }
   ],
-  "translatedAt": "2025-12-20T09:56:59.070Z"
+  "translatedAt": "2025-12-24T02:06:16.438Z"
 }

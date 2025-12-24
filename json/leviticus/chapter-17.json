@@ -1,168 +1,201 @@
 {
-  "book": "Leviticus",
+  "book": 3,
+  "bookName": "Leviticus",
   "bookAbbreviation": "Lev",
   "chapter": 17,
   "verses": [
     {
-      "pk": 2417001,
+      "pk": 3017001,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 17,
       "verse": 1,
-      "text": "The LORD spoke to Moses, saying,",
-      "links": "<a href='/ESV/2/6/10'>Ex. 6:10</a>",
-      "comment": "Direct introduction, as in Hebrew text."
+      "text": "The LORD spoke to Moses, saying:",
+      "links": "<a href='/AIV/3/1/1'>Lev. 1:1</a>; <a href='/AIV/2/25/22'>Ex. 25:22</a>",
+      "comment": "A new set of laws is introduced by direct speech from the LORD to Moses. Consistent with the pattern throughout Leviticus, these words provide divine authority for what follows."
     },
     {
-      "pk": 2417002,
+      "pk": 3017002,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 17,
       "verse": 2,
-      "text": "Speak to Aaron, to his sons, and to all the people of Israel, and say to them: This is the command that the LORD has given.",
-      "links": "<a href='/ESV/3/16/2'>Lev. 16:2</a>",
-      "comment": "In keeping with the Hebrew, 'commanded.'"
+      "text": "\"Speak to Aaron, his sons, and all the people of Israel, and say to them: This is the command the LORD has given:",
+      "links": "<a href='/AIV/3/8/1-2'>Lev. 8:1-2</a>",
+      "comment": "This commandment is addressed not only to the priests but to the entire congregation, showing the collective responsibility in worship. There is an emphasis on communal observance, a pattern that later echoes in Christian worship as a family of faith."
     },
     {
-      "pk": 2417003,
+      "pk": 3017003,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 17,
       "verse": 3,
-      "text": "If anyone of the house of Israel kills an ox, a lamb, or a goat in the camp, or kills it outside the camp,",
-      "links": "<a href='/ESV/5/12/5-7'>Deut. 12:5–7</a>",
-      "comment": "'Kills' reflects 'slaughters'; species named as in Hebrew."
+      "text": "\"Anyone from the house of Israel who kills an ox, sheep, or goat in the camp or outside the camp,",
+      "links": "<a href='/AIV/5/12/15-16'>Deut. 12:15-16</a>",
+      "comment": "Animals typically used for sacrifices must not be slaughtered privately. This regulation underscores the necessity of proper, public worship, ultimately pointing toward the importance of unity and authorized leaders offering sacrifice."
     },
     {
-      "pk": 2417004,
+      "pk": 3017004,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 17,
       "verse": 4,
-      "text": "and does not bring it to the entrance of the Tent of Meeting to offer it as an offering to the LORD before the LORD’s tabernacle, that man will be guilty of bloodshed; he has shed blood, and that man will be cut off from among his people.",
-      "links": "<a href='/ESV/3/4/7'>Lev. 4:7</a>; <a href='/ESV/3/17/9'>Lev. 17:9</a>",
-      "comment": "'Guilty of bloodshed' follows Hebrew idiom for manslaughter."
+      "text": "and has not brought it to the entrance of the Tent of Meeting to offer it as an offering to the LORD before the LORD's tabernacle—this person shall be charged with bloodshed. He has shed blood, and that man shall be cut off from his people.",
+      "links": "<a href='/AIV/3/1/3'>Lev. 1:3</a>; <a href='/AIV/4/15/30'>Num. 15:30</a>",
+      "comment": "Offering sacrifices elsewhere is a grave offense, demanding expulsion. The seriousness derives from the sacredness of sacrifice and the central place of the Tent of Meeting, hinting at the later concept of a singular center of worship for God's people."
     },
     {
-      "pk": 2417005,
+      "pk": 3017005,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 17,
       "verse": 5,
-      "text": "This is so the people of Israel may bring their sacrifices that they offer in the open field to the LORD, to the priest at the entrance of the Tent of Meeting, and offer them as peace offerings to the LORD.",
-      "links": "<a href='/ESV/3/3/1'>Lev. 3:1</a>",
-      "comment": "'Peace offerings' is traditional term (Heb. 'shelamim')."
+      "text": "This is so the people of Israel will bring their sacrifices that they offer in the open fields to the LORD, at the entrance of the Tent of Meeting, to the priest, and sacrifice them as peace offerings to the LORD.",
+      "links": "<a href='/AIV/3/7/11'>Lev. 7:11</a>",
+      "comment": "The people are instructed to bring all sacrifices to the priests, reinforcing the mediating role of the priesthood. This foreshadows the ongoing need for intercession and points toward ordained ministry serving as mediators in worship."
     },
     {
-      "pk": 2417006,
+      "pk": 3017006,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 17,
       "verse": 6,
-      "text": "The priest will sprinkle the blood on the altar of the LORD at the entrance to the Tent of Meeting and burn the fat for a pleasing aroma to the LORD.",
-      "links": "<a href='/ESV/3/1/9'>Lev. 1:9</a>",
-      "comment": "Literal rendering: 'pleasing aroma.'"
+      "text": "The priest shall sprinkle the blood on the altar of the LORD at the entrance of the Tent of Meeting and burn the fat as a pleasing aroma to the LORD.",
+      "links": "<a href='/AIV/3/1/5'>Lev. 1:5</a>; <a href='/AIV/2/29/18'>Ex. 29:18</a>",
+      "comment": "Here, the priest must mediate the offering by handling the sacrificial blood, highlighting the importance of ordained priests as intercessors. This act prefigures the sacrifice of Christ, the true High Priest (<a href='/AIV/58/4/14'>Heb. 4:14</a>)."
     },
     {
-      "pk": 2417007,
+      "pk": 3017007,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 17,
       "verse": 7,
-      "text": "They must no longer sacrifice their offerings to the goat-demons, after whom they prostitute themselves. This will be a permanent statute for them throughout their generations.",
-      "links": "<a href='/ESV/3/20/5-6'>Lev. 20:5–6</a>",
-      "comment": "'Goat-demons' (Heb. 'se'irim') refers to spirits associated with goats."
+      "text": "So they must no longer offer their sacrifices to goat-demons, to whom they prostitute themselves. This shall be a lasting statute for them and all future generations.",
+      "links": "<a href='/AIV/5/32/17'>Deut. 32:17</a>; <a href='/AIV/19/106/37-38'>Ps. 106:37-38</a>",
+      "comment": "This prohibition against idolatrous sacrifice guards the people’s fidelity to God alone. The command to avoid demon worship draws clear lines between God's people and the surrounding nations, emphasizing the call to holiness and purity."
     },
     {
-      "pk": 2417008,
+      "pk": 3017008,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 17,
       "verse": 8,
-      "text": "You are to say to them: Any one of the house of Israel, or of the foreigners who sojourn among them, who offers a burnt offering or sacrifice",
-      "links": "<a href='/ESV/2/12/48-49'>Ex. 12:48–49</a>",
-      "comment": "Distinction between Israelite or resident foreigner."
+      "text": "\"You shall say to them: Anyone of the house of Israel, or any foreigner dwelling among them, who offers a burnt offering or sacrifice",
+      "links": "<a href='/AIV/3/22/18'>Lev. 22:18</a>",
+      "comment": "God's law applies both to Israelites and to sojourners among them. This inclusiveness indicates the universal scope of God's covenant plan, later echoed in the outreach to Gentiles (<a href='/AIV/44/10/34-35'>Acts 10:34-35</a>)."
     },
     {
-      "pk": 2417009,
+      "pk": 3017009,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 17,
       "verse": 9,
-      "text": "and does not bring it to the entrance of the Tent of Meeting to offer it to the LORD, that man will be cut off from his people.",
-      "links": "<a href='/ESV/3/17/4'>Lev. 17:4</a>",
-      "comment": "'Cut off' as in the Hebrew, may indicate banishment."
+      "text": "and does not bring it to the entrance of the Tent of Meeting to offer it to the LORD, that person shall be cut off from his people.",
+      "links": "<a href='/AIV/3/17/4'>Lev. 17:4</a>",
+      "comment": "Repeated for emphasis: offering sacrifices anywhere but God’s chosen place is forbidden. The unity and exclusivity of authorized worship prefigure Christ’s institution of specific means of worship and sacramental life."
     },
     {
-      "pk": 2417010,
+      "pk": 3017010,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 17,
       "verse": 10,
-      "text": "If anyone from the house of Israel or from the foreigners who sojourn among them eats any blood, I will set my face against that person and will cut him off from among his people.",
-      "links": "<a href='/ESV/3/7/26-27'>Lev. 7:26–27</a>",
-      "comment": "'Set my face against' as literal Hebrew idiom."
+      "text": "\"If anyone from the house of Israel, or any foreigner who dwells among them, eats any blood, I will set my face against that person and cut him off from among his people.",
+      "links": "<a href='/AIV/1/9/4'>Gen. 9:4</a>; <a href='/AIV/44/15/20'>Acts 15:20</a>",
+      "comment": "The prohibition of blood consumption is rooted in respect for life, as blood symbolizes life itself. This sets the stage for deeper sacramental understanding: what is forbidden here becomes fulfilled in a greater way by the blood of Christ in the new covenant (<a href='/AIV/43/6/53-56'>John 6:53-56</a>)."
     },
     {
-      "pk": 2417011,
+      "pk": 3017011,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 17,
       "verse": 11,
-      "text": "For the life of the flesh is in the blood, and I have given it to you on the altar to make atonement for your souls. For it is the blood that makes atonement by the life.",
-      "links": "<a href='/ESV/3/16/30'>Lev. 16:30</a>",
-      "comment": "'Life' is the same Hebrew word as 'soul' (nephesh)."
+      "text": "For the life of the flesh is in the blood, and I have given it to you on the altar to make atonement for your souls, for it is the blood that makes atonement by the life.",
+      "links": "<a href='/AIV/58/9/22'>Heb. 9:22</a>; <a href='/AIV/3/16/15'>Lev. 16:15</a>",
+      "comment": "Blood as the means of atonement points to the necessity of sacrifice for reconciliation with God, ultimately fulfilled in the atoning sacrifice of Christ (<a href='/AIV/41/14/24'>Mark 14:24</a>). The concept of 'life in the blood' sets a foundation for the significance of Christ’s blood in the New Testament."
     },
     {
-      "pk": 2417012,
+      "pk": 3017012,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 17,
       "verse": 12,
-      "text": "Therefore I have said to the people of Israel: No person among you shall eat blood, nor shall any foreigner who sojourns among you eat blood.",
-      "links": "<a href='/ESV/1/9/4'>Gen. 9:4</a>",
-      "comment": "Repeated for emphasis, as in original."
+      "text": "Therefore I have said to the people of Israel: None of you shall eat blood, nor shall any foreigner who dwells among you eat blood.",
+      "links": "<a href='/AIV/3/3/17'>Lev. 3:17</a>",
+      "comment": "This law is repeated to reinforce obedience, not just for Israelites but for all living among them. God’s law transcends national boundaries, showing the universality of His moral expectations."
     },
     {
-      "pk": 2417013,
+      "pk": 3017013,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 17,
       "verse": 13,
-      "text": "Any one of the people of Israel, or of the foreigners who sojourn among them, who hunts and catches any animal or bird that may be eaten, shall pour out its blood and cover it with dust.",
-      "links": "<a href='/ESV/3/1/15'>Lev. 1:15</a>",
-      "comment": "Instruction covers game animals not sacrificial animals."
+      "text": "\"Anyone from the people of Israel, or a foreigner residing among them, who hunts and catches any animal or bird that may be eaten, must drain out its blood and cover it with earth.",
+      "links": "<a href='/AIV/5/12/16'>Deut. 12:16</a>",
+      "comment": "This law requires respectful treatment of blood from hunted animals, further emphasizing the sanctity of life. Even ordinary acts like hunting are enveloped by a sense of the sacred."
     },
     {
-      "pk": 2417014,
+      "pk": 3017014,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 17,
       "verse": 14,
-      "text": "For as to the life of all flesh, its blood is related to its life. I have said to the people of Israel: You shall not eat the blood of any creature, for the life of every creature is its blood. Whoever eats it will be cut off.",
-      "links": "<a href='/ESV/3/17/11'>Lev. 17:11</a>",
-      "comment": "Faithful to Hebrew repetition for emphasis."
+      "text": "For the life of every creature is its blood. Therefore I have said to the people of Israel: You shall not eat the blood of any creature, for the life of every creature is its blood. Whoever eats it shall be cut off.",
+      "links": "<a href='/AIV/3/17/11'>Lev. 17:11</a>",
+      "comment": "The reason for abstaining is stated again. Life is sacred, and blood is its visible symbol. This foreshadows the later teaching on the true and mystical participation in Christ's life through his blood."
     },
     {
-      "pk": 2417015,
+      "pk": 3017015,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 17,
       "verse": 15,
-      "text": "And any person, native or foreigner, who eats something found dead or torn by beasts must wash his clothes and bathe in water and be unclean until evening. Then he will be clean.",
-      "links": "<a href='/ESV/3/11/39-40'>Lev. 11:39–40</a>",
-      "comment": "'Unclean until evening' follows Hebrew phrase."
+      "text": "\"Anyone, whether native or foreigner, who eats anything found dead or torn by wild animals shall wash his clothes and bathe himself in water and be unclean until evening; then he shall be clean.",
+      "links": "<a href='/AIV/3/11/39-40'>Lev. 11:39-40</a>",
+      "comment": "Contact with dead animals brings ritual uncleanness, requiring purification. The concept of ritual purity prefigures the necessity of both external and internal holiness for entering into worship."
     },
     {
-      "pk": 2417016,
+      "pk": 3017016,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 17,
       "verse": 16,
-      "text": "But if he does not wash them or bathe his body, he shall bear his iniquity.",
-      "links": "<a href='/ESV/4/19/20'>Num. 19:20</a>",
-      "comment": "'Bear his iniquity' is a literal rendering of the Hebrew idiom."
+      "text": "But if he does not wash them or bathe his flesh, he will bear his guilt.\"",
+      "links": "<a href='/AIV/3/5/1'>Lev. 5:1</a>",
+      "comment": "Failure to observe purification results in guilt. Law and ritual are given not merely as tradition but with spiritual meaning, encouraging both obedience and a readiness to receive the fullness of God’s revelation in future worship."
     }
   ],
-  "translatedAt": "2025-12-20T09:17:50.857Z"
+  "translatedAt": "2025-12-24T01:19:25.553Z"
 }

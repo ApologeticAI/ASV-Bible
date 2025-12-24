@@ -1,98 +1,117 @@
 {
-  "book": "Joshua",
+  "book": 6,
+  "bookName": "Joshua",
   "bookAbbreviation": "Josh",
   "chapter": 20,
   "verses": [
     {
-      "pk": 2020001,
+      "pk": 6020001,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 20,
       "verse": 1,
-      "text": "Then the LORD spoke to Joshua, saying,",
+      "text": "The LORD spoke to Joshua, saying,",
       "links": "<a href='/AIV/4/35/9'>Num. 35:9</a>",
-      "comment": "This verse is a direct transition, with no significant changes from the Hebrew."
+      "comment": "This introduction recalls how God Himself continues to guide Israel even after Moses, emphasizing the ongoing nature of divine instruction. The idea of God speaking through chosen leaders has deeper implications for the continuity of spiritual authority (cf. Num. 27:18-23; cf. Hebrews 13:17)."
     },
     {
-      "pk": 2020002,
+      "pk": 6020002,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 20,
       "verse": 2,
-      "text": "\"Speak to the Israelites, and say: 'Appoint the cities of refuge, about which I spoke to you through Moses,\"",
-      "links": "<a href='/AIV/4/35/11-15'>Num. 35:11–15</a>; <a href='/AIV/5/19/2-10'>Deut. 19:2–10</a>",
-      "comment": "Paraphrased for clarity; keeps the direct instruction, referencing prior commandments."
+      "text": "\"Speak to the people of Israel, saying, 'Appoint for yourselves the cities of refuge, of which I spoke to you through Moses,",
+      "links": "<a href='/AIV/4/35/6-15'>Num. 35:6-15</a>; <a href='/AIV/5/19/1-13'>Deut. 19:1-13</a>",
+      "comment": "The cities of refuge are commanded as a fulfillment of God's earlier law (Num. 35; Deut. 19). Their appointment underlines the faithfulness of God in keeping His word across generations. This introduces the theme of ordered, divinely-instituted structures for mercy and justice."
     },
     {
-      "pk": 2020003,
+      "pk": 6020003,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 20,
       "verse": 3,
-      "text": "\"so that anyone who kills a person accidentally and unintentionally may flee there. They will be a refuge from the avenger of blood.\"",
-      "links": "<a href='/AIV/4/35/15'>Num. 35:15</a>; <a href='/AIV/5/19/4'>Deut. 19:4</a>",
-      "comment": "Preserves the concept of accidental killing and the protection offered."
+      "text": "that the manslayer who kills any person unintentionally or by accident may flee there. They shall be for you a refuge from the avenger of blood.",
+      "links": "<a href='/AIV/2/21/13'>Ex. 21:13</a>; <a href='/AIV/4/35/11-12'>Num. 35:11-12</a>",
+      "comment": "God provides for the protection of those who commit manslaughter unintentionally, reflecting both justice and mercy. These cities foreshadow Christ Himself as a refuge for sinners (cf. Hebrews 6:18-20). The distinction between intentional and unintentional sin is relevant for understanding degrees of culpability in biblical law and in the sacrificial system."
     },
     {
-      "pk": 2020004,
+      "pk": 6020004,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 20,
       "verse": 4,
-      "text": "\"He shall flee to one of these cities, stand at the entrance of the city gate, and state his case before the elders of that city. They shall take him into the city to themselves and give him a place to live among them.\"",
-      "links": "<a href='/AIV/4/35/12'>Num. 35:12</a>; <a href='/AIV/5/19/6'>Deut. 19:6</a>",
-      "comment": "Keeps the order and clarity; 'state his case' means to explain his situation."
+      "text": "He shall flee to one of these cities and shall stand at the entrance of the gate of the city and state his case in the hearing of the elders of that city. Then they shall take him into the city and give him a place, and he shall dwell among them.",
+      "links": "<a href='/AIV/4/35/24-25'>Num. 35:24-25</a>; <a href='/AIV/5/21/1-9'>Deut. 21:1-9</a>",
+      "comment": "This process emphasizes the role of local elders—leaders with recognized authority—to hear and judge the accused, a sign of communal discernment and spiritual authority. The practice of seeking judgment at the gates foreshadows the ordered governance in the Church (cf. Acts 15:6, 28)."
     },
     {
-      "pk": 2020005,
+      "pk": 6020005,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 20,
       "verse": 5,
-      "text": "\"If the avenger of blood pursues him, they must not hand him over, because he killed his neighbor unintentionally and did not hate him beforehand.\"",
-      "links": "<a href='/AIV/4/35/25'>Num. 35:25'>Num. 35:25</a>; <a href='/AIV/5/19/6'>Deut. 19:6</a>",
-      "comment": "Retains the original requirement to protect those who killed unintentionally."
+      "text": "If the avenger of blood pursues him, they shall not hand the manslayer over into his hand, because he killed his neighbor unintentionally and did not hate him in the past.",
+      "links": "<a href='/AIV/4/35/22-25'>Num. 35:22-25</a>; <a href='/AIV/5/19/6-10'>Deut. 19:6-10</a>",
+      "comment": "Mercy is shown by denying personal vengeance when no malice was present. This highlights the purpose of the law—not only for retribution, but especially for justice tempered with mercy. Such regulations anticipated the Gospel pattern of mercy prevailing over judgment (cf. James 2:13)."
     },
     {
-      "pk": 2020006,
+      "pk": 6020006,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 20,
       "verse": 6,
-      "text": "\"He shall remain in that city until he stands before the congregation for judgment, and until the death of the high priest who is serving at that time. Then the slayer may return to his own city and his own house, to the city from which he fled.\"",
-      "links": "<a href='/AIV/4/35/25-28'>Num. 35:25–28</a>",
-      "comment": "'Congregation' refers to the community or court. No significant deviation."
+      "text": "He shall remain in that city until he stands before the congregation for judgment, and until the death of the high priest who is in office in those days. Then the manslayer may return to his own town and to his own home, to the town from which he fled.'\"",
+      "links": "<a href='/AIV/4/35/25-28'>Num. 35:25-28</a>",
+      "comment": "Release upon the death of the high priest is unique and symbolic. The high priest's death brings liberation, a powerful prefiguration of how Christ, our eternal High Priest (Heb. 7:26-28), by His death brings release from the penalty of sin. The connection between the priesthood and forgiveness is profound (see Hebrews 9:11-15)."
     },
     {
-      "pk": 2020007,
+      "pk": 6020007,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 20,
       "verse": 7,
       "text": "So they set apart Kedesh in Galilee in the hill country of Naphtali, Shechem in the hill country of Ephraim, and Kiriath-arba (that is, Hebron) in the hill country of Judah.",
-      "links": "<a href='/AIV/4/35/14'>Num. 35:14</a>",
-      "comment": "Preserves the naming and locations; 'Kiriath-arba (Hebron)' included per common translations."
+      "links": "<a href='/AIV/4/35/14'>Num. 35:14</a>; <a href='/AIV/6/21/13-21'>Josh. 21:13-21</a>",
+      "comment": "These three cities in central and northern Israel serve as visible signs of God's justice and mercy distributed throughout the land. Their geographical spread ensured equal access to grace and protection, a pattern reminiscent of the universality of salvation (see Isaiah 49:6; Acts 1:8)."
     },
     {
-      "pk": 2020008,
+      "pk": 6020008,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 20,
       "verse": 8,
-      "text": "And beyond the Jordan east of Jericho, they appointed Bezer in the wilderness on the plain from the tribe of Reuben, Ramoth in Gilead from the tribe of Gad, and Golan in Bashan from the tribe of Manasseh.",
-      "links": "<a href='/AIV/4/35/14'>Num. 35:14</a>; <a href='/AIV/5/4/43'>Deut. 4:43</a>",
-      "comment": "Lists the eastern cities clearly; regional names preserved as in original."
+      "text": "And beyond the Jordan east of Jericho, they appointed Bezer in the wilderness on the plain, out of the tribe of Reuben, Ramoth in Gilead, out of the tribe of Gad, and Golan in Bashan, out of the tribe of Manasseh.",
+      "links": "<a href='/AIV/5/4/43'>Deut. 4:43</a>; <a href='/AIV/4/35/14'>Num. 35:14</a>",
+      "comment": "With three more cities set east of Jordan, all major tribes and regions have access. Physical proximity to refuge symbolizes gracious invitation to all, just as salvation in Christ is offered to the nations (see Luke 2:30-32). The careful distribution points to the universality of God’s mercy and the necessity of appointed means for grace."
     },
     {
-      "pk": 2020009,
+      "pk": 6020009,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 20,
       "verse": 9,
-      "text": "These were the cities appointed for all the Israelites and for the foreigner living among them, so that anyone who kills a person unintentionally may flee there, and not die by the hand of the avenger of blood until he stands before the congregation.",
+      "text": "These were the cities designated for all the people of Israel and for the stranger sojourning among them, that anyone who killed a person unintentionally could flee there, so that he might not die by the hand of the avenger of blood, until he stood before the congregation.",
       "links": "<a href='/AIV/4/35/15'>Num. 35:15</a>; <a href='/AIV/5/19/10'>Deut. 19:10</a>",
-      "comment": "'Foreigner living among them' is a literal translation of 'sojourner.' No inclusivity added; faithful to the original."
+      "comment": "These protections applied not only to Israelites but also to resident foreigners, showing God's inclusive plan for mercy and justice (cf. Numbers 35:15). The text anticipates a broader communion where justice and grace are mediated through a visible, ordered community. This ordered, sacramental mediation of mercy points ahead to the necessary outward means God still employs to bring grace and reconciliation to His people."
     }
   ],
-  "translatedAt": "2025-12-22T07:00:16.876Z"
+  "translatedAt": "2025-12-24T02:27:22.506Z"
 }

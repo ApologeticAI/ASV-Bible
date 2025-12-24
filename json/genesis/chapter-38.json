@@ -1,5 +1,6 @@
 {
-  "book": "Genesis",
+  "book": 1,
+  "bookName": "Genesis",
   "bookAbbreviation": "Gen",
   "chapter": 38,
   "verses": [
@@ -7,302 +8,362 @@
       "pk": 1038001,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 38,
       "verse": 1,
-      "text": "At that time, Judah went down from his brothers and turned aside to a man of Adullam named Hirah.",
-      "links": "<a href='/AIV/06/15/35'>Josh. 15:35</a>",
-      "comment": "The text shifts from Joseph to Judah, showing God's providence works even amidst human error. The mention of Adullam will have significance later in David’s life (<a href='/AIV/09/22/1'>1 Sam. 22:1</a>)."
+      "text": "At that time, Judah departed from his brothers and went to stay with a man of Adullam named Hirah.",
+      "links": "<a href='/AIV/19/133/1'>Ps. 133:1</a>; <a href='/AIV/09/22/1'>1 Sam. 22:1</a>",
+      "comment": "Judah separates from his family, a recurring theme of division and reunion in Genesis. Adullam becomes significant later in David's life. Judah's journey foreshadows transformation, which is essential to salvation history."
     },
     {
       "pk": 1038002,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 38,
       "verse": 2,
-      "text": "Judah saw there the daughter of a certain Canaanite whose name was Shua. He took her and went in to her,",
-      "links": "",
-      "comment": "Judah marries outside the chosen family, hinting at the mixed ancestry later seen in Jesus’ genealogy (<a href='/AIV/40/1/3'>Matt. 1:3</a>)."
+      "text": "Judah saw there the daughter of a certain Canaanite named Shua and took her as a wife, and went in to her.",
+      "links": "<a href='/AIV/01/24/3'>Gen. 24:3</a>; <a href='/AIV/06/23/12'>Josh. 23:12'</a>",
+      "comment": "The union with a Canaanite reflects human weakness, echoing prior warnings about intermarriage (Gen. 24:3). This choice sets up the complicated lineage and consequences in the narrative."
     },
     {
       "pk": 1038003,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 38,
       "verse": 3,
-      "text": "and she conceived and bore a son, and he called his name Er.",
-      "links": "<a href='/AIV/13/2/3'>1 Chron. 2:3</a>",
-      "comment": "Naming is an act of authority and covenant identity, a recurring biblical theme."
+      "text": "She conceived and bore a son, and he named him Er.",
+      "links": "<a href='/AIV/01/46/12'>Gen. 46:12</a>",
+      "comment": "Er's naming by Judah underlines paternal authority in genealogy, crucial for messianic tracing. This is a motif that will help us identify God's providence in human history."
     },
     {
       "pk": 1038004,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 38,
       "verse": 4,
-      "text": "She conceived again and bore a son, and she called his name Onan.",
-      "links": "",
-      "comment": "The text alternates between Judah naming one son and his wife naming the other, which subtly shows the role of both parents in identity."
+      "text": "She conceived again and bore a son, and named him Onan.",
+      "links": "<a href='/AIV/01/46/12'>Gen. 46:12</a>",
+      "comment": "Onan, whose story influences Jewish law and teachings regarding levirate marriage, is integral to the family line. The naming by the mother is noteworthy."
     },
     {
       "pk": 1038005,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 38,
       "verse": 5,
-      "text": "Yet again she bore a son, and she called his name Shelah. Judah was in Chezib when she gave birth to him.",
-      "links": "<a href='/AIV/06/15/44'>Josh. 15:44</a>",
-      "comment": "The place-name Chezib can mean 'deceit', which foreshadows later events in the chapter."
+      "text": "She bore yet another son and named him Shelah; Judah was in Kezib when she gave birth to him.",
+      "links": "<a href='/AIV/01/46/12'>Gen. 46:12</a>; <a href='/AIV/01/10/24'>Gen. 10:24</a>",
+      "comment": "Location is highlighted because geography often signals theological direction in the narrative. Shelah's birth will be key to the next events."
     },
     {
       "pk": 1038006,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 38,
       "verse": 6,
-      "text": "And Judah took a wife for Er, his firstborn, and her name was Tamar.",
-      "links": "",
-      "comment": "Arranged marriages were common and established lines of inheritance, a theme fulfilled in the coming of Christ, who comes from unexpected unions (<a href='/AIV/40/1/3'>Matt. 1:3</a>)."
+      "text": "Judah took a wife for Er, his firstborn, whose name was Tamar.",
+      "links": "<a href='/AIV/40/01/03'>Matt. 1:3</a>; <a href='/AIV/08/04/12'>Ruth 4:12</a>",
+      "comment": "Tamar's entry prepares the way for redemption; Matthew includes her in Jesus' genealogy, underlining her unique role in God's plan. The importance of lineage and women in salvation history is beginning to surface."
     },
     {
       "pk": 1038007,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 38,
       "verse": 7,
-      "text": "But Er, Judah’s firstborn, was wicked in the LORD’s sight, so the LORD put him to death.",
-      "links": "<a href='/AIV/04/26/19'>Num. 26:19</a>",
-      "comment": "Direct divine judgment shows the seriousness of sin in the chosen lineage, recalling Ananias and Sapphira (<a href='/AIV/44/5/1-10'>Acts 5:1–10</a>)."
+      "text": "But Er, Judah's firstborn, was wicked in the LORD's sight, so the LORD put him to death.",
+      "links": "<a href='/AIV/03/10/2'>Lev. 10:2</a>; <a href='/AIV/44/05/5'>Acts 5:5</a>",
+      "comment": "Er's death for wickedness reminds us of divine justice and precedents for God's swift judgment (compare Lev. 10:2). This affirms that God's plan cannot be thwarted by human sin."
     },
     {
       "pk": 1038008,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 38,
       "verse": 8,
-      "text": "Then Judah said to Onan, \"Go in to your brother’s wife, and perform the duty of a brother-in-law to her, and raise up offspring for your brother.\"",
-      "links": "<a href='/AIV/05/25/5-10'>Deut. 25:5–10</a>",
-      "comment": "This practice, later called levirate marriage, protected inheritance and the widow. This tradition foreshadows spiritual continuation and new life given through another."
+      "text": "Then Judah said to Onan, 'Go in to your brother's wife and perform the duty of a brother-in-law; raise up offspring for your brother.'",
+      "links": "<a href='/AIV/05/25/5'>Deut. 25:5</a>; <a href='/AIV/08/03/9'>Ruth 3:9</a>",
+      "comment": "This command introduces the law of levirate marriage, vital for the preservation of family and messianic lineage. It reflects the communal responsibility for succession, a principle crucial to a sacramental view of family."
     },
     {
       "pk": 1038009,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 38,
       "verse": 9,
-      "text": "But Onan knew that the offspring would not be his. So whenever he went in to his brother’s wife, he would spill his seed on the ground, so that he would not give offspring to his brother.",
-      "links": "",
-      "comment": "Onan’s refusal to fulfill his duty is more than a private act—it is rejecting responsibility, inheritance, and future blessing. Sin often has communal consequences."
+      "text": "But Onan knew that the offspring would not be his; so whenever he went in to his brother's wife, he wasted the semen on the ground, so that he would not give offspring to his brother.",
+      "links": "<a href='/AIV/05/25/5-10'>Deut. 25:5-10</a>",
+      "comment": "Onan's refusal shows a disregard for duty and family. This supports traditional teachings about marital responsibility and openness to life."
     },
     {
       "pk": 1038010,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 38,
       "verse": 10,
-      "text": "What he did was evil in the LORD’s sight, so he put him to death also.",
-      "links": "",
-      "comment": "God’s immediate judgment underlines the moral seriousness of neglecting one’s duty, especially regarding life and family."
+      "text": "What he did was wicked in the LORD’s sight, so the LORD put him to death also.",
+      "links": "<a href='/AIV/44/05/10'>Acts 5:10</a>; <a href='/AIV/03/10/2'>Lev. 10:2</a>",
+      "comment": "God’s immediate judgment on Onan demonstrates the seriousness of violating divine order, reinforcing the sacred nature of marriage and reproduction."
     },
     {
       "pk": 1038011,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 38,
       "verse": 11,
-      "text": "Then Judah said to Tamar his daughter-in-law, \"Stay a widow in your father’s house until Shelah my son grows up.\" For he feared that Shelah would also die, like his brothers. So Tamar went and stayed in her father’s house.",
-      "links": "",
-      "comment": "Judah’s lack of faith and willingness to withhold Shelah creates injustice for Tamar. Biblical justice encompasses the vulnerable and the marginalized."
+      "text": "Then Judah said to Tamar, his daughter-in-law, 'Live as a widow in your father’s house until my son Shelah grows up'—for he feared that he might die like his brothers. So Tamar went and lived in her father’s house.",
+      "links": "<a href='/AIV/08/01/8'>Ruth 1:8</a>",
+      "comment": "Judah’s fear leads to delay, a human response that complicates God's plan. Tamar is obedient and patient, setting up her role as an agent of providence."
     },
     {
       "pk": 1038012,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 38,
       "verse": 12,
-      "text": "After many days the daughter of Shua, Judah's wife, died. When Judah was comforted, he went up to his sheep shearers at Timnah, he and his friend Hirah the Adullamite.",
-      "links": "<a href='/AIV/07/14/1'>Judg. 14:1</a>",
-      "comment": "Sheep shearing was a festive occasion, often associated with celebration and moral testing, as later seen with Samson."
+      "text": "Now, after much time, Judah’s wife, the daughter of Shua, died. When Judah was comforted, he went up to Timnah, to those shearing his sheep, he and his friend Hirah the Adullamite.",
+      "links": "<a href='/AIV/01/35/19'>Gen. 35:19</a>",
+      "comment": "Judah’s mourning and journey reflect recurring motifs of loss and renewal in biblical narrative. Shepherd imagery points ahead to Christ."
     },
     {
       "pk": 1038013,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 38,
       "verse": 13,
-      "text": "It was told to Tamar, \"Your father-in-law is going up to Timnah to shear his sheep.\"",
-      "links": "",
-      "comment": "Tamar actively takes initiative; biblical women often play a significant role in salvation history (see <a href='/AIV/06/2/1'>Josh. 2:1</a> Rahab, <a href='/AIV/08/4/13-17'>Ruth 4:13–17</a>)."
+      "text": "When Tamar was told, 'Your father-in-law is going up to Timnah to shear his sheep,'",
+      "links": "<a href='/AIV/09/25/2'>1 Sam. 25:2'</a>",
+      "comment": "Sheep shearing is a sign of celebration and opportunity. Tamar is informed and prepares to act, highlighting vigilance in pursuing justice."
     },
     {
       "pk": 1038014,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 38,
       "verse": 14,
-      "text": "She took off her widow's clothes, covered herself with a veil, wrapped herself up, and sat at the entrance to Enaim, which is on the way to Timnah. For she saw that Shelah had grown up, and she had not been given to him as a wife.",
-      "links": "",
-      "comment": "Tamar’s actions, while unorthodox, are driven by the demand for justice and God’s promises. Putting on the veil indicates her intent was not merely personal, but related to inheritance customs."
+      "text": "So she took off her widow’s garments, covered herself with a veil, and disguised herself. Then she sat at the entrance to Enaim, which is on the road to Timnah; for she saw that Shelah had grown up, but she had not been given to him as a wife.",
+      "links": "<a href='/AIV/40/26/65'>Matt. 26:65</a>; <a href='/AIV/08/03/3'>Ruth 3:3</a>",
+      "comment": "Tamar’s taking action reveals human cooperation with God’s plan. The veil suggests themes of mystery, presence, and covenant, later fulfilled in New Testament sacraments."
     },
     {
       "pk": 1038015,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 38,
       "verse": 15,
       "text": "When Judah saw her, he thought she was a prostitute, for she had covered her face.",
-      "links": "",
-      "comment": "Misrecognition and irony recur in Genesis, as in the stories of Isaac and Jacob (<a href='/AIV/01/27/1-23'>Gen. 27:1–23</a>)."
+      "links": "<a href='/AIV/06/02/1'>Josh. 2:1</a>",
+      "comment": "The ambiguity in identity echoes stories of misunderstood intentions and divine reversal (compare Rahab in Josh. 2:1)."
     },
     {
       "pk": 1038016,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 38,
       "verse": 16,
-      "text": "He turned to her at the roadside and said, \"Come, let me come in to you,\" for he did not know that she was his daughter-in-law. She said, \"What will you give me, that you may come in to me?\"",
-      "links": "",
-      "comment": "Tamar's question emphasizes covenant and exchange—a principle developed throughout Scripture."
+      "text": "Judah turned aside to her by the road and said, 'Come now, let me go in to you,' for he did not know that she was his daughter-in-law. She replied, 'What will you give me that you may come in to me?'",
+      "links": "<a href='/AIV/09/12/24'>2 Sam. 12:24</a>",
+      "comment": "Judah’s proposal is transactional. Tamar’s response highlights her steadfastness in seeking justice for her family."
     },
     {
       "pk": 1038017,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 38,
       "verse": 17,
-      "text": "He answered, \"I will send you a young goat from the flock.\" She said, \"If you give me a pledge, until you send it—\"",
-      "links": "",
-      "comment": "Pledges (guarantees) foreshadow sacramental realities: visible signs of promised realities."
+      "text": "'I will send you a young goat from the flock,' he said. She answered, 'Will you give me a pledge until you send it?'",
+      "links": "<a href='/AIV/07/15/1'>Judg. 15:1</a>",
+      "comment": "The request for a pledge sets up the proof of identity and justice. Symbolic exchanges prefigure sacramental assurance."
     },
     {
       "pk": 1038018,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 38,
       "verse": 18,
-      "text": "He said, \"What pledge shall I give you?\" She replied, \"Your signet, your cord, and your staff that is in your hand.\" So he gave them to her and went in to her, and she conceived by him.",
-      "links": "",
-      "comment": "These objects are symbols of identity and authority. The giving of them signifies the passing on of inheritance and name—important in both Old and New Covenant thinking."
+      "text": "He said, 'What pledge shall I give you?' She answered, 'Your signet, your cord, and the staff in your hand.' So he gave them to her and went in to her, and she conceived by him.",
+      "links": "<a href='/AIV/01/41/42'>Gen. 41:42</a>; <a href='/AIV/02/04/17'>Ex. 4:17</a>",
+      "comment": "The signet, cord, and staff are symbols of authority and identity. The conception points to God using unexpected means to further His purpose."
     },
     {
       "pk": 1038019,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 38,
       "verse": 19,
-      "text": "Then she arose and went away, and taking off her veil she put on the garments of her widowhood.",
-      "links": "",
-      "comment": "Tamar returns to her social station outwardly, but has inwardly participated in securing the family line."
+      "text": "Then she got up and left, removed her veil, and put back on her widow’s garments.",
+      "links": "<a href='/AIV/08/04/3'>Ruth 4:3</a>",
+      "comment": "Through changing her attire, Tamar returns to her state of waiting, underscoring the contrast between external appearance and internal intention."
     },
     {
       "pk": 1038020,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 38,
       "verse": 20,
-      "text": "When Judah sent the young goat by his friend the Adullamite to take back the pledge from the woman, he did not find her.",
-      "links": "",
-      "comment": "Judah tries to fulfill his deal, but Tamar’s actions remain hidden—as God’s providential working often is."
+      "text": "Judah sent the young goat by his friend, the Adullamite, to retrieve his pledge from the woman, but he did not find her.",
+      "links": "<a href='/AIV/01/37/35'>Gen. 37:35</a>",
+      "comment": "Judah's attempt to keep his word is notable, despite flawed circumstances. The missing woman hints at the hidden ways God works."
     },
     {
       "pk": 1038021,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 38,
       "verse": 21,
-      "text": "And he asked the men of that place, \"Where is the cult prostitute who was at Enaim by the roadside?\" They said, \"There has been no cult prostitute here.\"",
-      "links": "",
-      "comment": "The 'cult prostitute' (Hebrew 'qedeshah') is associated with pagan ritual, but the text is careful to note the absence—underscoring this episode’s uniqueness."
+      "text": "He asked the men of the place, 'Where is the temple prostitute who was at Enaim by the road?' They replied, 'No temple prostitute has been here.'",
+      "links": "<a href='/AIV/09/21/10'>1 Sam. 21:10</a>",
+      "comment": "The community's denial indicates Tamar’s actions were not for prostitution but for justice, reinforcing the distinction between righteous and unrighteous intent."
     },
     {
       "pk": 1038022,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 38,
       "verse": 22,
-      "text": "So he returned to Judah and said, \"I have not found her. Also, the men of the place said, ‘There has been no cult prostitute here.’\"",
-      "links": "",
-      "comment": "The search for Tamar ends in confusion—fitting for stories where appearances deceive."
+      "text": "So he returned to Judah and said, 'I did not find her, and besides, the men of the place said, ‘No temple prostitute has been here.’'",
+      "links": "<a href='/AIV/40/18/15'>Matt. 18:15</a>",
+      "comment": "The repetition affirms the mystery surrounding Tamar’s presence and Judah’s ignorance, inviting reflection on hidden providence."
     },
     {
       "pk": 1038023,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 38,
       "verse": 23,
-      "text": "Judah replied, \"Let her keep the things as her own, or we will become a laughingstock. See, I sent this young goat, and you did not find her.\"",
-      "links": "",
-      "comment": "Public shame is a recurring theme in the Bible, and here Judah wishes to avoid it. Compare with concern for honor and shame in <a href='/AIV/08/3/14'>Ruth 3:14</a>."
+      "text": "Judah replied, 'Let her keep the things, or we will be shamed. See, I sent the goat, and you did not find her.'",
+      "links": "<a href='/AIV/01/34/7'>Gen. 34:7</a>",
+      "comment": "Judah is concerned with reputation, but God’s wisdom exceeds human calculation. This mirrors the importance of honor in communal life."
     },
     {
       "pk": 1038024,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 38,
       "verse": 24,
-      "text": "About three months later, Judah was told, \"Tamar your daughter-in-law has been immoral; she is moreover pregnant by immorality.\" And Judah said, \"Bring her out, and let her be burned.\"",
-      "links": "<a href='/AIV/03/21/9'>Lev. 21:9</a>",
-      "comment": "Old Testament law prescribes severe penalties for certain transgressions, though the New Testament shows fulfillment in mercy, not condemnation (<a href='/AIV/43/8/3-11'>John 8:3–11</a>)."
+      "text": "About three months later, Judah was told, 'Tamar your daughter-in-law has acted as a prostitute, and now she is pregnant by her prostitution.' Judah said, 'Bring her out and let her be burned.'",
+      "links": "<a href='/AIV/03/21/9'>Lev. 21:9</a>; <a href='/AIV/43/08/5'>John 8:5</a>",
+      "comment": "Judah’s harsh pronouncement is compared to later legal judgments (Lev. 21:9). This strong reaction reflects the seriousness of perceived sexual sin and the need for mercy and justice."
     },
     {
       "pk": 1038025,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 38,
       "verse": 25,
-      "text": "As she was being brought out, she sent word to her father-in-law, \"By the man to whom these belong, I am pregnant.\" And she said, \"Please identify whose these are, the signet and the cord and the staff.\"",
-      "links": "",
-      "comment": "Tamar exposes Judah’s hypocrisy through his own items—reminding us how often judgment boomerangs back on the judge (<a href='/AIV/40/7/2'>Matt. 7:2</a>)."
+      "text": "As she was being brought out, she sent word to her father-in-law, 'By the man to whom these belong, I am pregnant.' She said, 'Please identify whose signet, cord, and staff these are.'",
+      "links": "<a href='/AIV/01/37/32'>Gen. 37:32</a>",
+      "comment": "Tamar’s appeal is a call for truth and justice. The identification of these items mirrors other biblical moments of recognizing sin and accepting responsibility."
     },
     {
       "pk": 1038026,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 38,
       "verse": 26,
-      "text": "Then Judah recognized them and said, \"She is more righteous than I, since I did not give her to my son Shelah.\" And he did not know her again.",
-      "links": "<a href='/AIV/40/1/3'>Matt. 1:3</a>",
-      "comment": "Judah’s repentance is genuine—he admits guilt and does not continue the relationship. This turning point is a spiritual conversion, foreshadowing the change in his later life and leadership of Israel."
+      "text": "Judah recognized them and said, 'She is more righteous than I, since I did not give her to my son Shelah.' And he did not sleep with her again.",
+      "links": "<a href='/AIV/40/01/3'>Matt. 1:3</a>; <a href='/AIV/08/03/18'>Ruth 3:18</a>",
+      "comment": "Judah’s confession marks a turning point toward reconciliation. This echoes repentance and restoration, foundational to the narrative of redemption. Tamar’s righteousness prefigures the blessedness promised to those who are obedient to God’s mysterious ways."
     },
     {
       "pk": 1038027,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 38,
       "verse": 27,
-      "text": "When the time of her labor came, there were twins in her womb.",
+      "text": "When the time came for her to give birth, there were twins in her womb.",
       "links": "<a href='/AIV/01/25/24'>Gen. 25:24</a>",
-      "comment": "The motif of twins echoes God’s sovereign election—first seen with Jacob and Esau."
+      "comment": "Twins echo Jacob and Esau, showing how God's chosen line emerges through struggle. The role of twins in biblical stories emphasizes divine election."
     },
     {
       "pk": 1038028,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 38,
       "verse": 28,
-      "text": "And when she was in labor, one put out a hand, and the midwife took and tied a scarlet thread on his hand, saying, \"This one came out first.\"",
-      "links": "<a href='/AIV/06/2/18'>Josh. 2:18</a>",
-      "comment": "The scarlet thread as a sign recalls later deliverance by means of a scarlet cord, such as Rahab’s rescue, symbolizing redemption and promise."
+      "text": "And as she was giving birth, one put out his hand, and the midwife took and tied a scarlet thread on his hand, saying, 'This one came out first.'",
+      "links": "<a href='/AIV/06/02/18'>Josh. 2:18</a>",
+      "comment": "The scarlet thread recalls the symbol of redemption (Josh. 2:18). The marking by the midwife underscores the importance of the firstborn, though God often works through the unexpected."
     },
     {
       "pk": 1038029,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 38,
       "verse": 29,
-      "text": "But as he drew back his hand, his brother came out, and she said, \"How have you broken through? This breach be upon you!\" So his name was called Perez.",
-      "links": "",
-      "comment": "Perez means 'breaking out'. The younger surpasses the older, pointing to God's reversal of human expectations—a theme found from Isaac and Jacob to King David and ultimately to Christ."
+      "text": "But as he drew back his hand, his brother came out, and the midwife said, 'So you have broken out!' Therefore he was named Perez.",
+      "links": "<a href='/AIV/08/04/18'>Ruth 4:18'</a>",
+      "comment": "Perez’s name means ‘breaking out’. His unexpected arrival reflects God’s tendency to choose the unlikely for great purposes, as later seen in the genealogy of the Messiah."
     },
     {
       "pk": 1038030,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 38,
       "verse": 30,
-      "text": "Afterward his brother came out with the scarlet thread on his hand, and his name was called Zerah.",
-      "links": "<a href='/AIV/40/1/3'>Matt. 1:3</a>",
-      "comment": "Though Zerah had the outward sign of 'firstborn', Perez becomes ancestor to King David and Jesus. This underscores that God chooses the unlikely for His purposes."
+      "text": "Afterward his brother came out, who had the scarlet thread on his hand, and he was named Zerah.",
+      "links": "<a href='/AIV/01/46/12'>Gen. 46:12</a>",
+      "comment": "Zerah, marked by the scarlet thread, is a sign within the genealogy, showing the mysterious ways God marks and blesses those in the covenant family. This story signals God’s mercy, justice, and the sanctity of the covenant family, themes that remain central throughout biblical revelation."
     }
   ],
-  "translatedAt": "2025-12-23T08:54:41.017Z"
+  "translatedAt": "2025-12-24T00:35:48.860Z"
 }

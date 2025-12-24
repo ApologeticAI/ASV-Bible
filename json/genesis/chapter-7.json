@@ -1,5 +1,6 @@
 {
-  "book": "Genesis",
+  "book": 1,
+  "bookName": "Genesis",
   "bookAbbreviation": "Gen",
   "chapter": 7,
   "verses": [
@@ -7,242 +8,290 @@
       "pk": 1007001,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 7,
       "verse": 1,
-      "text": "Then the LORD said to Noah, \"Go into the ark, you and all your household, for I have seen that you are righteous before me in this generation.\"",
-      "links": "<a href='/AIV/58/11/7'>Hebrews 11:7</a>; <a href='/AIV/1/6/9'>Genesis 6:9</a>",
-      "comment": "God’s call to Noah underscores personal righteousness as well as stewardship of the household—foreshadowing the covenantal role of family and faith community. In Christian tradition, the ark becomes a powerful symbol of salvation."
+      "text": "Then the LORD said to Noah, \"Go into the ark, you and your whole household, because I have found you righteous before Me in this generation.\"",
+      "links": "<a href='/AIV/58/11/7'>Heb. 11:7</a>; <a href='/AIV/26/14/14'>Ezek. 14:14</a>",
+      "comment": "God’s instruction singles Noah out as righteous, a sign that God’s covenant and saving favor extends through obedient faith (see Hebrews 11:7). The pattern of salvation through chosen messengers prefigures later themes—New Testament connections show this as a form of divine election and preservation, anticipating the role of leaders caring for their spiritual family."
     },
     {
       "pk": 1007002,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 7,
       "verse": 2,
-      "text": "Take with you seven pairs of every clean animal, the male and his mate, and two of every animal that is not clean, the male and his mate.",
-      "links": "<a href='/AIV/1/8/20'>Genesis 8:20</a>",
-      "comment": "‘Clean’ animals reflect future sacrificial and worship practices. The distinction anticipates ritual purity laws developed later in Leviticus."
+      "text": "Take with you seven pairs of every clean animal, the male and his mate, and a pair of every animal that is not clean, the male and his mate;",
+      "links": "<a href='/AIV/3/11/1-47'>Lev. 11:1-47</a>; <a href='/AIV/1/8/20'>Gen. 8:20</a>",
+      "comment": "The distinction between 'clean' and 'unclean' foreshadows later laws (see Leviticus 11). This highlights order and reverence in worship and sacrifice, setting a precedent for ritual purity and the importance of sacrifice."
     },
     {
       "pk": 1007003,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 7,
       "verse": 3,
-      "text": "Also take seven pairs of the birds of the air, male and female, to keep their kind alive on the surface of the earth.",
-      "links": "<a href='/AIV/1/8/17'>Genesis 8:17</a>",
-      "comment": "Careful preservation of species highlights God’s order; birds are included for continuity in creation and future offerings."
+      "text": "and seven pairs of the birds of the sky, male and female, to keep their offspring alive on the face of all the earth.",
+      "links": "<a href='/AIV/1/8/17'>Gen. 8:17</a>; <a href='/AIV/19/104/12'>Ps. 104:12</a>",
+      "comment": "God’s specific instructions about birds show His providence in preserving life and maintaining creation’s harmony. This reflects God’s continuing care for all creatures, an echo of Genesis 1 stewardship."
     },
     {
       "pk": 1007004,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 7,
       "verse": 4,
-      "text": "For in seven days I will make it rain on the earth for forty days and forty nights, and every living thing that I have made I will blot out from the face of the ground.",
-      "links": "<a href='/AIV/1/6/17'>Genesis 6:17</a>; <a href='/AIV/1/8/6'>Genesis 8:6</a>; <a href='/AIV/40/4/2'>Matthew 4:2</a>",
-      "comment": "The forty-day period is echoed in other significant events (Moses, Elijah, Jesus in the wilderness), symbolizing preparation and trial before renewal."
+      "text": "\"For in seven days I will send rain on the earth for forty days and forty nights, and I will wipe off the face of the earth every living thing I have made.\"",
+      "links": "<a href='/AIV/40/4/2'>Matt. 4:2</a>; <a href='/AIV/1/6/17'>Gen. 6:17</a>",
+      "comment": "The period of ‘forty days’ is later echoed in times of testing and preparation throughout Scripture (see Matthew 4:2). God’s judgment comes after a period of warning and opportunity for repentance—also a recurring pattern."
     },
     {
       "pk": 1007005,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 7,
       "verse": 5,
       "text": "And Noah did all that the LORD commanded him.",
-      "links": "<a href='/AIV/1/6/22'>Genesis 6:22</a>; <a href='/AIV/1/7/9'>Genesis 7:9</a>",
-      "comment": "Noah’s obedience sets a pattern for faith responding to God’s will, pointing toward the later call to be doers of the Word (<a href='/AIV/59/1/22'>James 1:22</a>)."
+      "links": "<a href='/AIV/1/6/22'>Gen. 6:22</a>; <a href='/AIV/58/11/7'>Heb.11:7</a>",
+      "comment": "Noah’s complete obedience sets the pattern for faithful response to divine commands. His trust is foundational in salvation history, later mirrored in others who submit to God’s revealed will."
     },
     {
       "pk": 1007006,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 7,
       "verse": 6,
       "text": "Noah was six hundred years old when the floodwaters came upon the earth.",
-      "links": "<a href='/AIV/1/5/32'>Genesis 5:32</a>; <a href='/AIV/1/7/11'>Genesis 7:11</a>",
-      "comment": "The age highlights the long lifespans before the flood—a point of spiritual reflection on the human condition and God’s timing."
+      "links": "<a href='/AIV/1/5/32'>Gen. 5:32</a>; <a href='/AIV/1/8/13'>Gen. 8:13</a>",
+      "comment": "The mentioning of Noah’s age emphasizes the long lifespans and ancient world context. The flood marks a transition in salvation history and earthly stewardship."
     },
     {
       "pk": 1007007,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 7,
       "verse": 7,
-      "text": "And Noah and his sons and his wife and his sons’ wives went with him into the ark to escape the waters of the flood.",
-      "links": "<a href='/AIV/1/6/18'>Genesis 6:18</a>",
-      "comment": "Family enters the ark together, deepening the motif of salvation being extended through chosen generations—echoes of covenant and spiritual household."
+      "text": "And Noah and his sons and his wife and his sons’ wives went with him into the ark, because of the floodwaters.",
+      "links": "<a href='/AIV/1/6/18'>Gen. 6:18</a>; <a href='/AIV/60/3/20'>1 Pet. 3:20</a>",
+      "comment": "Noah’s family enters together, modeling the unity of the family under faith and leadership, reminiscent of the family as a microcosm of the believing community. This anticipates future themes of the household faithfully guided by appointed leaders."
     },
     {
       "pk": 1007008,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 7,
       "verse": 8,
-      "text": "Of clean animals, and of animals that are not clean, and of birds, and of everything that creeps on the ground,",
-      "links": "<a href='/AIV/1/6/19'>Genesis 6:19</a>",
-      "comment": "The catalog of animals reflects the order of creation and the commanded care for all living things."
+      "text": "From the clean animals, the unclean animals, the birds, and every creature that moves on the ground,",
+      "links": "<a href='/AIV/1/6/20'>Gen. 6:20</a>; <a href='/AIV/1/8/19'>Gen. 8:19</a>",
+      "comment": "The completeness of the preservation echoes the comprehensiveness of creation. God saves all kinds through His appointed means, a spiritual parallel to later doctrines of universality."
     },
     {
       "pk": 1007009,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 7,
       "verse": 9,
-      "text": "two and two, male and female, went into the ark with Noah, as God had commanded Noah.",
-      "links": "<a href='/AIV/1/6/19'>Genesis 6:19</a>; <a href='/AIV/1/7/5'>Genesis 7:5</a>",
-      "comment": "Male and female echoes God’s purpose in creation, pointing to the sanctity of marital union as foundation for life and future generations."
+      "text": "Two by two, male and female, they went into the ark with Noah, as God had commanded Noah.",
+      "links": "<a href='/AIV/1/6/19'>Gen. 6:19</a>; <a href='/AIV/1/7/16'>Gen. 7:16</a>",
+      "comment": "Creation’s order and the pairing of male and female recall Genesis 1–2; God’s plan for life’s continuation is upheld through obedience to divine order."
     },
     {
       "pk": 1007010,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 7,
       "verse": 10,
       "text": "And after seven days, the waters of the flood came upon the earth.",
-      "links": "<a href='/AIV/1/7/4'>Genesis 7:4</a>",
-      "comment": "The seven-day interval may foreshadow later biblical ritual days—an anticipation of sacred cycles in worship and cleansing."
+      "links": "<a href='/AIV/1/7/4'>Gen. 7:4</a>; <a href='/AIV/1/8/10'>Gen. 8:10</a>",
+      "comment": "The seven-day period mirrors times set aside for preparation and purification, foreshadowing sacramental symbolism in later scripture."
     },
     {
       "pk": 1007011,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 7,
       "verse": 11,
-      "text": "In the six hundredth year of Noah’s life, in the second month, on the seventeenth day of the month, on that day all the fountains of the great deep burst forth, and the windows of the heavens were opened.",
-      "links": "<a href='/AIV/1/8/13'>Genesis 8:13</a>; <a href='/AIV/19/78/23'>Psalm 78:23</a>",
-      "comment": "Cosmic scale of the flood—earth and heaven—reinforces the universal scope of judgment and renewal."
+      "text": "In the six hundredth year of Noah’s life, on the seventeenth day of the second month, all the springs of the great deep burst forth, and the windows of heaven were opened.",
+      "links": "<a href='/AIV/1/8/13'>Gen. 8:13</a>; <a href='/AIV/19/78/23'>Ps. 78:23</a>",
+      "comment": "The breaking open of the deep and heaven represents cosmic upheaval—creation undone by judgment. Symbolically, water can represent both judgment and cleansing, with echoes in sacramental renewal."
     },
     {
       "pk": 1007012,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 7,
       "verse": 12,
       "text": "And rain fell upon the earth forty days and forty nights.",
-      "links": "<a href='/AIV/1/7/4'>Genesis 7:4</a>; <a href='/AIV/40/4/2'>Matthew 4:2</a>",
-      "comment": "Forty days and nights link to later periods of testing and transformation—a theme fulfilled in Christ’s fasting and in spiritual renewal."
+      "links": "<a href='/AIV/1/7/4'>Gen. 7:4</a>; <a href='/AIV/40/4/2'>Matt. 4:2</a>",
+      "comment": "'Forty' signifies a period of trial and transformation throughout the Bible—Jesus fasted forty days and Moses was forty days on Sinai, marking spiritual preparation and renewal."
     },
     {
       "pk": 1007013,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 7,
       "verse": 13,
-      "text": "On that very day Noah and his sons, Shem and Ham and Japheth, and Noah’s wife and the three wives of his sons with them, entered the ark,",
-      "links": "<a href='/AIV/1/5/32'>Genesis 5:32</a>",
-      "comment": "All who enter are named, signifying both historical continuity and emphasis on ordered household. The three sons prefigure the spread of humanity."
+      "text": "On that very day, Noah and his sons, Shem, Ham, and Japheth, and Noah’s wife and the three wives of his sons entered the ark,",
+      "links": "<a href='/AIV/1/6/10'>Gen. 6:10</a>; <a href='/AIV/60/3/20'>1 Pet. 3:20</a>",
+      "comment": "The repeated emphasis on Noah’s family signifies the holy line preserved through faithful obedience, a type of spiritual lineage and continuity."
     },
     {
       "pk": 1007014,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 7,
       "verse": 14,
-      "text": "along with every animal according to its kind, all livestock according to their kinds, and every creeping thing that creeps on the earth according to its kind, and every bird according to its kind, every bird, every winged creature.",
-      "links": "<a href='/AIV/1/1/21'>Genesis 1:21</a>; <a href='/AIV/1/6/20'>Genesis 6:20</a>",
-      "comment": "The repeated phrase ‘according to its kind’ echoes the creation narrative, showing that the flood is a re-creation episode."
+      "text": "together with every wild animal according to its kind, every livestock according to its kind, every creeping thing that creeps on the earth according to its kind, and every bird according to its kind, every winged creature.",
+      "links": "<a href='/AIV/1/1/21-25'>Gen. 1:21-25</a>; <a href='/AIV/1/7/8'>Gen. 7:8</a>",
+      "comment": "Repetition of 'according to its kind' echoes creation motifs and the importance of preserving God’s original order."
     },
     {
       "pk": 1007015,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 7,
       "verse": 15,
       "text": "They went into the ark with Noah, two and two of all flesh in which there was the breath of life.",
-      "links": "<a href='/AIV/1/2/7'>Genesis 2:7</a>",
-      "comment": "‘Breath of life’ connects to the original act of creation. Preservation of life foreshadows spiritual regeneration and later themes of baptism."
+      "links": "<a href='/AIV/1/2/7'>Gen. 2:7</a>; <a href='/AIV/1/6/19'>Gen. 6:19</a>",
+      "comment": "‘Breath of life’ is a reference to God’s giving of life in creation (see Genesis 2:7). All living things are subject to God’s judgment and mercy."
     },
     {
       "pk": 1007016,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 7,
       "verse": 16,
-      "text": "And those who went in, male and female of all flesh, went in as God had commanded him. And the LORD shut him in.",
-      "links": "<a href='/AIV/1/6/19'>Genesis 6:19</a>; <a href='/AIV/41/3/27'>Mark 3:27</a>",
-      "comment": "God’s sovereignty is emphasized—the LORD himself closes the ark. This is an image of divine protection and election."
+      "text": "And those that entered, male and female of all flesh, went in as God had commanded him; and the LORD shut him in.",
+      "links": "<a href='/AIV/1/6/20'>Gen. 6:20</a>; <a href='/AIV/1/7/9'>Gen. 7:9</a>",
+      "comment": "Divine initiative is stressed—God Himself seals them in, a sign of protection and election, a symbol later seen in spiritual enclosure and security within God’s chosen means of salvation."
     },
     {
       "pk": 1007017,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 7,
       "verse": 17,
-      "text": "The flood continued for forty days on the earth. The waters increased and lifted up the ark, so that it rose high above the earth.",
-      "links": "<a href='/AIV/1/7/12'>Genesis 7:12</a>;",
-      "comment": "The elevation of the ark is a powerful metaphor for salvation granted by grace—foreshadows spiritual ascent in Christ."
+      "text": "The flood continued forty days on the earth. The waters increased and lifted up the ark, and it rose high above the earth.",
+      "links": "<a href='/AIV/1/7/12'>Gen. 7:12</a>; <a href='/AIV/1/8/6'>Gen. 8:6</a>",
+      "comment": "The ark, lifted up by the waters, has spiritual significance as a vessel of salvation, often interpreted as a type of the Church carrying believers safely through judgment."
     },
     {
       "pk": 1007018,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 7,
       "verse": 18,
-      "text": "The waters prevailed and increased greatly on the earth, and the ark floated on the surface of the waters.",
-      "links": "<a href='/AIV/1/7/24'>Genesis 7:24</a>",
-      "comment": "The ark ‘floating’ preserves life above the judgment of the waters—Old Testament prefiguring the saving power of God’s covenant."
+      "text": "The waters prevailed and increased greatly upon the earth, and the ark floated on the face of the waters.",
+      "links": "<a href='/AIV/1/1/2'>Gen. 1:2</a>; <a href='/AIV/1/8/1'>Gen. 8:1</a>",
+      "comment": "As in creation when the Spirit moved upon waters (Genesis 1:2), here life is preserved upon the judgment waters. This symbolically points to salvation through tribulation."
     },
     {
       "pk": 1007019,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 7,
       "verse": 19,
-      "text": "And the waters greatly increased on the earth, and all the high mountains under the whole heaven were covered.",
-      "links": "<a href='/AIV/19/104/6'>Psalm 104:6</a>",
-      "comment": "The universal scope teaches totality of divine judgment and the extent of restoration needed for true re-creation."
+      "text": "The waters prevailed so greatly on the earth that all the high mountains under the whole heaven were covered.",
+      "links": "<a href='/AIV/1/8/5'>Gen. 8:5</a>; <a href='/AIV/19/104/6'>Ps. 104:6</a>",
+      "comment": "Complete covering of the mountains emphasizes total judgment—no human effort can escape it, only God’s appointed way of salvation is sufficient."
     },
     {
       "pk": 1007020,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 7,
       "verse": 20,
-      "text": "The waters rose over the mountains, covering them more than fifteen cubits deep.",
-      "links": "<a href='/AIV/1/7/19'>Genesis 7:19</a>",
-      "comment": "Details of depth stress overwhelming might of judgment, showing only God-given means are able to save."
+      "text": "The waters rose and covered the mountains by more than fifteen cubits.",
+      "links": "<a href='/AIV/1/7/19'>Gen. 7:19</a>; <a href='/AIV/1/8/4'>Gen. 8:4</a>",
+      "comment": "The thoroughness of the flood demonstrates the seriousness of divine judgment, while also highlighting the sufficiency of God’s plan of salvation."
     },
     {
       "pk": 1007021,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 7,
       "verse": 21,
-      "text": "And all flesh died that moved on the earth—birds, livestock, wild beasts, all swarming creatures that swarm on the earth, and all mankind.",
-      "links": "<a href='/AIV/1/6/13'>Genesis 6:13</a>",
-      "comment": "Here the totality of judgment is clear; mankind and animal alike suffer for the corruption. Christological readings see all humanity in need of ultimate salvation."
+      "text": "All flesh that moved on the earth perished—birds, livestock, wild animals, all creatures that swarm over the earth, and all mankind.",
+      "links": "<a href='/AIV/1/6/7'>Gen. 6:7</a>; <a href='/AIV/19/104/29'>Ps. 104:29</a>",
+      "comment": "The universal scope of judgment serves as warning and foreshadows later universal calls to repentance and salvation offered to all humanity."
     },
     {
       "pk": 1007022,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 7,
       "verse": 22,
       "text": "Everything on dry land in whose nostrils was the breath of life died.",
-      "links": "<a href='/AIV/1/2/7'>Genesis 2:7</a>",
-      "comment": "Deep connection to ‘breath’ makes all life sacred. Spiritual readings see new life only through new breath—fulfilled ultimately through Christ’s resurrection."
+      "links": "<a href='/AIV/1/2/7'>Gen. 2:7</a>; <a href='/AIV/1/6/17'>Gen. 6:17</a>",
+      "comment": "The phrase ‘breath of life’ again traces back to creation, emphasizing God as the giver and taker of life."
     },
     {
       "pk": 1007023,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 7,
       "verse": 23,
-      "text": "God blotted out every living thing that was on the face of the ground, men and animals and creeping things and birds of the heavens. They were blotted out from the earth. Only Noah was left, and those who were with him in the ark.",
-      "links": "<a href='/AIV/1/6/7'>Genesis 6:7</a>; <a href='/AIV/1/1/2'>Genesis 1:2</a>",
-      "comment": "Selective survival points to the mystery of divine election and the value of belonging to the household of faith. Typologically, Noah’s deliverance in the ark is often linked to baptism (<a href='/AIV/60/3/20-21'>1 Peter 3:20–21</a>), signaling spiritual rebirth."
+      "text": "He blotted out every living thing that was on the face of the ground—man and animals and creeping things and birds of the sky—they were blotted out from the earth. Only Noah and those who were with him in the ark survived.",
+      "links": "<a href='/AIV/40/24/37-39'>Matt. 24:37-39</a>; <a href='/AIV/60/3/20'>1 Pet. 3:20</a>",
+      "comment": "This selects Noah’s company as the sole remnant—preservation via covenant, a type of future salvation through entering God’s prepared way of deliverance (see 1 Peter 3:20). The language foreshadows the necessity of remaining in God’s chosen community for salvation."
     },
     {
       "pk": 1007024,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 7,
       "verse": 24,
       "text": "And the waters prevailed on the earth for one hundred and fifty days.",
-      "links": "<a href='/AIV/1/8/3'>Genesis 8:3</a>",
-      "comment": "A prolonged period of judgment and waiting—a season before the dawn of new life. This pattern of waiting in faith offers an image of spiritual perseverance, purification, and hope for restoration."
+      "links": "<a href='/AIV/1/8/3'>Gen. 8:3</a>",
+      "comment": "The extended duration underscores the totality and severity of the judgment. There is also an anticipation here of the restoration that follows. In spiritual interpretation, the waiting in the ark also mirrors the patient endurance required for ultimate deliverance before renewal and covenant restoration."
     }
   ],
-  "translatedAt": "2025-12-23T08:37:29.285Z"
+  "translatedAt": "2025-12-24T00:13:44.845Z"
 }

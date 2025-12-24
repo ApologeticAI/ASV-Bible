@@ -1,88 +1,105 @@
 {
-  "book": "Psalms",
+  "book": 23,
+  "bookName": "Psalms",
   "bookAbbreviation": "Ps",
   "chapter": 114,
   "verses": [
     {
-      "pk": 20021140,
+      "pk": 23114001,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 114,
       "verse": 1,
-      "text": "When Israel went out from Egypt, the house of Jacob from a people of strange language,",
-      "links": "<a href='/AIV/2/12/41'>Exod. 12:41</a>; <a href='/AIV/2/13/3'>Exod. 13:3</a>",
-      "comment": "This opening verse recalls the Exodus, a foundational event in the faith. The phrase 'a people of strange language' emphasizes Israel's distinctness and God's call to bring them out from foreign oppression. See <a href='/AIV/70/7/6'>Isaiah 28:11</a> for a spiritual application of foreign tongues."
+      "text": "When Israel came out of Egypt, when the house of Jacob left a people of foreign tongue,",
+      "links": "<a href='/AIV/02/12/51'>Ex. 12:51</a>; <a href='/AIV/19/81/6'>Ps. 81:6</a>",
+      "comment": "This verse recalls the Exodus, a foundational act in salvation history that prefigures deliverance from sin in Christ. The emphasis on 'foreign tongue' underscores Israel's separation and consecration for divine purposes. The Exodus foreshadows the journey from bondage to spiritual freedom (<a href='/AIV/45/6/17'>Rom. 6:17</a>)."
     },
     {
-      "pk": 20021141,
+      "pk": 23114002,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 114,
       "verse": 2,
-      "text": "Judah became his sanctuary, Israel his dominion.",
-      "links": "<a href='/AIV/2/19/6'>Exod. 19:6</a>; <a href='/AIV/19/78/68-71'>Ps. 78:68-71</a>",
-      "comment": "A reference to the unique status of Judah and Israel as God’s holy people and chosen domain. Note the sacramental undertone: God sets apart a people and a place for his dwelling. Cf. <a href='/AIV/1/28/17'>Gen. 28:17</a>."
+      "text": "Judah became His sanctuary, Israel His dominion.",
+      "links": "<a href='/AIV/02/19/6'>Ex. 19:6</a>; <a href='/AIV/19/78/68'>Ps. 78:68</a>",
+      "comment": "'Sanctuary' shows God's dwelling among His people. This verse affirms God’s desire to make His people holy and to reign in their midst, hinting at the future indwelling of God among His people in the new covenant (<a href='/AIV/43/1/14'>John 1:14</a>)."
     },
     {
-      "pk": 20021142,
+      "pk": 23114003,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 114,
       "verse": 3,
-      "text": "The sea looked and fled; the Jordan turned back.",
-      "links": "<a href='/AIV/2/14/21-22'>Exod. 14:21-22</a>; <a href='/AIV/6/3/14-17'>Josh. 3:14-17</a>",
-      "comment": "This recounts the miracles at the Red Sea and the Jordan River, where waters parted before God's people. This is both literal history and a foreshadowing of spiritual cleansing and new beginnings, as fulfilled in Christian baptism. See also <a href='/AIV/46/10/1-2'>1 Cor. 10:1-2</a>."
+      "text": "The sea saw and fled; the Jordan turned back.",
+      "links": "<a href='/AIV/02/14/21-22'>Ex. 14:21-22</a>; <a href='/AIV/06/3/13-16'>Josh. 3:13-16</a>",
+      "comment": "Refers to the miraculous parting of the Red Sea and the Jordan, signs of God's powerful presence leading His people. These miracles point to God's authority over nature and anticipate the new creation in Christ (<a href='/AIV/40/8/26-27'>Matt. 8:26-27</a>)."
     },
     {
-      "pk": 20021143,
+      "pk": 23114004,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 114,
       "verse": 4,
       "text": "The mountains skipped like rams, the hills like lambs.",
-      "links": "<a href='/AIV/2/19/18'>Exod. 19:18</a>; <a href='/AIV/19/29/6'>Ps. 29:6</a>",
-      "comment": "A poetic description of the earth responding to God's presence. The figurative language expresses creation’s awe and submission. Compare with <a href='/AIV/65/1/5'>Jude 1:5</a> who links these events to the Lord’s authority."
+      "links": "<a href='/AIV/07/5/5'>Judg. 5:5</a>; <a href='/AIV/19/29/6'>Ps. 29:6</a>",
+      "comment": "'Skipped' conveys the trembling of creation before God, perhaps at Sinai. The imagery evokes joyful awe, showing the universe responding to God's presence - literal trembling but also spiritual praise (<a href='/AIV/19/97/4-5'>Ps. 97:4-5</a>)."
     },
     {
-      "pk": 20021144,
+      "pk": 23114005,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 114,
       "verse": 5,
-      "text": "Why is it, O sea, that you flee? O Jordan, that you turn back?",
-      "links": "<a href='/AIV/2/14/21'>Exod. 14:21</a>; <a href='/AIV/6/3/16'>Josh. 3:16</a>",
-      "comment": "A rhetorical question, pointing to God’s overwhelming power over nature. This invites the reader to reflect on divine intervention as an ongoing reality—God acts decisively for his people."
+      "text": "What is it, O sea, that you flee? O Jordan, that you turn back?",
+      "links": "<a href='/AIV/02/14/15-22'>Ex. 14:15-22</a>; <a href='/AIV/06/3/16'>Josh. 3:16</a>",
+      "comment": "This rhetorical question highlights the supernatural character of these events. It draws attention to God's supremacy over all creation, making His power manifest not only physically but as a sign for spiritual realities (<a href='/AIV/19/77/16'>Ps. 77:16</a>)."
     },
     {
-      "pk": 20021145,
+      "pk": 23114006,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 114,
       "verse": 6,
-      "text": "O mountains, that you skip like rams? O hills, like lambs?",
-      "links": "<a href='/AIV/19/29/6'>Ps. 29:6</a>; <a href='/AIV/34/1/5'>Nahum 1:5</a>",
-      "comment": "Another repetition for poetic emphasis, highlighting creation’s obedience to its Creator. Spiritual interpretation: all creation moves in response to the presence of the Lord (see <a href='/AIV/45/8/19-22'>Rom. 8:19-22</a>)."
+      "text": "O mountains, that you leap like rams, and O hills, like lambs?",
+      "links": "<a href='/AIV/19/29/6'>Ps. 29:6</a>",
+      "comment": "Repetition emphasizes awe and worship in response to God’s revelation. Spiritually, mountains and hills throughout Scripture can represent obstacles that are overcome by divine grace (<a href='/AIV/40/17/20'>Matt. 17:20</a>)."
     },
     {
-      "pk": 20021146,
+      "pk": 23114007,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 114,
       "verse": 7,
       "text": "Tremble, O earth, at the presence of the Lord, at the presence of the God of Jacob,",
-      "links": "<a href='/AIV/2/19/16-18'>Exod. 19:16-18</a>; <a href='/AIV/19/97/4-5'>Ps. 97:4-5</a>",
-      "comment": "The earth shudders before God’s manifest presence. This reveals both God’s majesty and his closeness to his people. The phrase 'the Lord' is a title for God’s unique personal identity, anticipating the ultimate revelation in the Incarnation."
+      "links": "<a href='/AIV/19/97/4-5'>Ps. 97:4-5</a>; <a href='/AIV/02/19/18'>Ex. 19:18</a>",
+      "comment": "Creation trembling before God hints at both His majesty and at the reverence due to Him. 'Presence' echoes the notion of a real encounter with God, later made possible for all the faithful through the new covenant (<a href='/AIV/58/12/22-24'>Heb. 12:22-24</a>)."
     },
     {
-      "pk": 20021147,
+      "pk": 23114008,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 114,
       "verse": 8,
-      "text": "who turns the rock into a pool of water, the flint into a spring of water.",
-      "links": "<a href='/AIV/2/17/6'>Exod. 17:6</a>; <a href='/AIV/4/20/11'>Num. 20:11</a>; <a href='/AIV/46/10/4'>1 Cor. 10:4</a>",
-      "comment": "God provides water from the rock, sustaining his people. This miracle prefigures the spiritual sustenance given through Christ, whom the Apostle Paul calls 'the Rock.' See <a href='/AIV/46/10/4'>1 Cor. 10:4</a>. The church has always seen this as a type of spiritual nourishment—bread and living water—offered continually to God’s people."
+      "text": "Who turned the rock into a pool of water, the flint into a spring.",
+      "links": "<a href='/AIV/02/17/6'>Ex. 17:6</a>; <a href='/AIV/04/20/10-11'>Num. 20:10-11</a>; <a href='/AIV/46/10/4'>1 Cor. 10:4</a>",
+      "comment": "God miraculously provides water from the rock, which Paul saw as a type for Christ (<a href='/AIV/46/10/4'>1 Cor. 10:4</a>), the source of living water for His people. Here we see both physical and spiritual nourishment—a sign pointing to the sacramental reality of Christ’s provision."
     }
   ],
-  "translatedAt": "2025-12-23T05:42:44.849Z"
+  "translatedAt": "2025-12-24T06:40:05.918Z"
 }

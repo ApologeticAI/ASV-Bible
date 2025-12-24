@@ -1,228 +1,273 @@
 {
-  "book": "Genesis",
+  "book": 1,
+  "bookName": "Genesis",
   "bookAbbreviation": "Gen",
   "chapter": 6,
   "verses": [
     {
-      "pk": 1960001,
+      "pk": 1006001,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 6,
       "verse": 1,
-      "text": "When men began to multiply on the face of the earth, and daughters were born to them,",
-      "links": "<a href='/AIV/1/1/28'>Gen. 1:28</a>",
-      "comment": "This verse recalls God's command to 'be fruitful and multiply' in Gen. 1:28, highlighting the fulfillment of human propagation."
+      "text": "When human beings began to multiply on the face of the earth and daughters were born to them,",
+      "links": "<a href='/AIV/01/01/28'>Gen. 1:28</a>; <a href='/AIV/01/05/04'>Gen. 5:4</a>",
+      "comment": "The growth of humanity sets the stage for the events to follow, echoing the command to 'be fruitful and multiply.' This increase leads to new challenges for righteousness."
     },
     {
-      "pk": 1960002,
+      "pk": 1006002,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 6,
       "verse": 2,
-      "text": "the sons of God saw that the daughters of men were beautiful, and they took wives for themselves, whomever they chose.",
-      "links": "<a href='/AIV/18/1/6'>Job 1:6</a>; <a href='/AIV/19/82/6'>Ps. 82:6</a>",
-      "comment": "The term 'sons of God' has been interpreted as either angelic beings or the godly line of Seth, while 'daughters of men' refers to the descendants of Cain or to humans in general. The illicit unions foreshadow coming judgment."
+      "text": "the sons of God saw that the daughters of man were beautiful, and they took wives for themselves, anyone they chose.",
+      "links": "<a href='/AIV/18/01/06'>Job 1:6</a>; <a href='/AIV/19/82/6'>Ps. 82:6</a>",
+      "comment": "The phrase 'sons of God' has been interpreted in various ways, including angelic or righteous descendants of Seth. The pattern of taking wives 'anyone they chose' hints at the disorder and moral decline present before the flood."
     },
     {
-      "pk": 1960003,
+      "pk": 1006003,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 6,
       "verse": 3,
-      "text": "And the LORD said, 'My Spirit shall not strive with man forever, for he is flesh; his days shall be one hundred and twenty years.'",
-      "links": "<a href='/AIV/19/78/39'>Ps. 78:39</a>",
-      "comment": "This limitation could refer to a reduction in human lifespan or the countdown to the flood. The presence of the Spirit here connects to His role in sustaining and sanctifying creation."
+      "text": "Then the LORD said, 'My Spirit will not strive with man forever, for he is flesh; his days shall be one hundred and twenty years.'",
+      "links": "<a href='/AIV/23/11/2'>Isa. 11:2</a>; <a href='/AIV/01/05/05'>Gen. 5:5</a>",
+      "comment": "The limit of one hundred and twenty years may refer to a lifespan bound or the time until the coming flood. God's Spirit strives with humanity, an early hint at the divine presence working through salvation history."
     },
     {
-      "pk": 1960004,
+      "pk": 1006004,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 6,
       "verse": 4,
-      "text": "The Nephilim were on the earth in those days—and also afterward—when the sons of God went in to the daughters of men, and they bore children to them. These were the mighty men who were of old, men of renown.",
-      "links": "<a href='/AIV/4/13/33'>Num. 13:33</a>",
-      "comment": "The Nephilim are shrouded in mystery; some see them as giants or legendary heroes. The text emphasizes ancient wickedness and preludes the coming judgment."
+      "text": "The Nephilim were on the earth in those days—and also afterward—when the sons of God came in to the daughters of man and bore children to them. These were the mighty men who were of old, men of renown.",
+      "links": "<a href='/AIV/04/13/33'>Num. 13:33</a>",
+      "comment": "The Nephilim are mysterious figures associated with great strength. Their presence indicates a distortion in the order of creation before the flood, providing context for God's judgment."
     },
     {
-      "pk": 1960005,
+      "pk": 1006005,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 6,
       "verse": 5,
       "text": "The LORD saw that the wickedness of man was great on the earth, and every intention of the thoughts of his heart was only evil continually.",
-      "links": "<a href='/AIV/19/14/1-3'>Ps. 14:1–3</a>; <a href='/AIV/40/15/19'>Matt. 15:19</a>",
-      "comment": "This verse exposes the depth of human depravity and the universal need for divine grace, a theme that will be resolved through salvation history."
+      "links": "<a href='/AIV/19/14/1'>Ps. 14:1</a>; <a href='/AIV/24/17/9'>Jer. 17:9</a>",
+      "comment": "The inner corruption of humanity is emphasized—all thoughts were evil. Human sin is not superficial but deep-rooted. This total depravity underscores the need for divine intervention and redemption."
     },
     {
-      "pk": 1960006,
+      "pk": 1006006,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 6,
       "verse": 6,
-      "text": "And the LORD regretted that He had made man on the earth, and He was grieved in His heart.",
-      "links": "<a href='/AIV/9/15/11'>1 Sam. 15:11</a>",
-      "comment": "God's 'regret' is not a change of mind as with humans but expresses His sorrow over sin. This anthropopathism points to God's relational nature."
+      "text": "And the LORD was grieved that he had made man on the earth, and his heart was deeply troubled.",
+      "links": "<a href='/AIV/19/78/40'>Ps. 78:40</a>; <a href='/AIV/01/03/15'>Gen. 3:15</a>",
+      "comment": "The language of grief and trouble shows God's personal engagement with creation, not distant or cold. Theologically, this anthropomorphic description points towards a God who feels, prefiguring Christ's compassion (cf. John 11:35)."
     },
     {
-      "pk": 1960007,
+      "pk": 1006007,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 6,
       "verse": 7,
-      "text": "So the LORD said, 'I will wipe out man whom I have created from the face of the earth—man and animals and creeping things and birds of the heavens—for I am sorry that I have made them.'",
-      "links": "<a href='/AIV/1/1/25'>Gen. 1:25</a>; <a href='/AIV/1/7/23'>Gen. 7:23</a>",
-      "comment": "The upcoming judgment echoes the creation narrative, showing the seriousness of sin and God's justice."
+      "text": "So the LORD said, 'I will blot out man whom I have created from the face of the earth—man and animals and creeping things and birds of the heavens—for I am grieved that I have made them.'",
+      "links": "<a href='/AIV/19/104/29'>Ps. 104:29</a>; <a href='/AIV/66/21/5'>Rev. 21:5</a>",
+      "comment": "God's declaration to destroy creation highlights both judgment and sorrow. Not only humans, but all creatures linked to them, are swept up in the consequences of sin, showing the interconnectedness of creation."
     },
     {
-      "pk": 1960008,
+      "pk": 1006008,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 6,
       "verse": 8,
       "text": "But Noah found favor in the eyes of the LORD.",
-      "links": "<a href='/AIV/1/19/19'>Gen. 19:19</a>; <a href='/AIV/58/11/7'>Heb. 11:7</a>",
-      "comment": "Noah’s 'favor' prefigures the concept of grace, anticipating later themes of God's redemptive plan."
+      "links": "<a href='/AIV/58/11/7'>Heb. 11:7</a>; <a href='/AIV/01/06/18'>Gen. 6:18</a>",
+      "comment": "Noah is singled out for grace—the concept of being chosen by God amidst general judgment foreshadows themes of election and divine mercy found throughout Scripture."
     },
     {
-      "pk": 1960009,
+      "pk": 1006009,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 6,
       "verse": 9,
-      "text": "These are the generations of Noah: Noah was a righteous man, blameless among his generation. Noah walked with God.",
-      "links": "<a href='/AIV/1/5/22'>Gen. 5:22</a>; <a href='/AIV/14/6/16'>2 Chron. 6:16</a>",
-      "comment": "Noah’s righteousness sets him apart for salvation, showing that faith and obedience draw people into special relationship and mission."
+      "text": "These are the generations of Noah. Noah was a righteous man, blameless among his generation. Noah walked with God.",
+      "links": "<a href='/AIV/01/05/24'>Gen. 5:24</a>; <a href='/AIV/33/6/8'>Mic. 6:8</a>",
+      "comment": "Noah's righteousness and walking with God echo the language used of Enoch. True righteousness involves relationship, not just right actions. This 'walking' may subtly prefigure later teachings of abiding in God."
     },
     {
-      "pk": 1960010,
+      "pk": 1006010,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 6,
       "verse": 10,
-      "text": "And Noah fathered three sons: Shem, Ham, and Japheth.",
-      "links": "<a href='/AIV/1/5/32'>Gen. 5:32</a>",
-      "comment": "Noah’s sons are introduced as pivotal for the future of all humanity following the flood."
+      "text": "Noah fathered three sons: Shem, Ham, and Japheth.",
+      "links": "<a href='/AIV/01/05/32'>Gen. 5:32</a>",
+      "comment": "The naming of Noah's sons sets the foundation for future nations and genealogies, which will play a large role in salvation history."
     },
     {
-      "pk": 1960011,
+      "pk": 1006011,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 6,
       "verse": 11,
-      "text": "Now the earth was corrupt before God, and the earth was filled with violence.",
-      "links": "<a href='/AIV/19/53/1'>Ps. 53:1</a>",
-      "comment": "The intensification of human corruption signals the necessity of divine intervention for justice and restoration."
+      "text": "Now the earth was corrupt in God's sight, and the earth was filled with violence.",
+      "links": "<a href='/AIV/19/11/5'>Ps. 11:5</a>; <a href='/AIV/01/04/8'>Gen. 4:8</a>",
+      "comment": "The repeated emphasis on corruption and violence illustrates the extent of sin and echoes the consequences first seen with Cain."
     },
     {
-      "pk": 1960012,
+      "pk": 1006012,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 6,
       "verse": 12,
-      "text": "And God saw the earth, and behold, it was corrupt; for all flesh had corrupted their way upon the earth.",
-      "links": "<a href='/AIV/1/1/31'>Gen. 1:31</a>",
-      "comment": "The term 'all flesh' encompasses humanity and animals, stressing comprehensive moral disorder compared to the initial pronouncement of creation’s goodness."
+      "text": "God looked upon the earth, and indeed, it was corrupt; for all flesh had corrupted their way on the earth.",
+      "links": "<a href='/AIV/19/53/3'>Ps. 53:3</a>; <a href='/AIV/23/64/6'>Isa. 64:6</a>",
+      "comment": "Universal corruption is highlighted—'all flesh.' This prepares for the sweeping judgment to come, and points to God's justice, balanced by His subsequent mercy to Noah."
     },
     {
-      "pk": 1960013,
+      "pk": 1006013,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 6,
       "verse": 13,
-      "text": "Then God said to Noah, 'The end of all flesh has come before Me, for the earth is filled with violence through them; and behold, I will destroy them with the earth.'",
-      "links": "<a href='/AIV/1/18/17'>Gen. 18:17</a>; <a href='/AIV/61/2/5'>2 Pet. 2:5</a>",
-      "comment": "God's verdict and communication with Noah emphasize both divine justice and mercy—preserving the righteous and warning of coming judgment."
+      "text": "And God said to Noah, 'I have determined to make an end of all flesh, for the earth is filled with violence through them; behold, I will destroy them along with the earth.'",
+      "links": "<a href='/AIV/66/11/18'>Rev. 11:18</a>; <a href='/AIV/19/104/35'>Ps. 104:35</a>",
+      "comment": "God communicates directly to Noah, revealing His plan. This is one of the earliest examples of divine revelation to a chosen individual, anticipating later instances of prophetic calling."
     },
     {
-      "pk": 1960014,
+      "pk": 1006014,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 6,
       "verse": 14,
-      "text": "'Make for yourself an ark of gopher wood. Make rooms in the ark, and cover it inside and out with pitch.'",
-      "links": "<a href='/AIV/1/7/1'>Gen. 7:1</a>",
-      "comment": "The ark’s careful construction alludes to later sacred architecture. Covering with pitch foreshadows sacramental imagery of cleansing and protection."
+      "text": "'Make yourself an ark of cypress wood. Make rooms in the ark, and cover it inside and out with pitch.'",
+      "links": "<a href='/AIV/01/07/1'>Gen. 7:1</a>; <a href='/AIV/02/25/8'>Ex. 25:8</a>",
+      "comment": "The instructions for the ark foreshadow later patterns of sacred construction—like the tabernacle. The use of pitch for protection is symbolically reminiscent of spiritual safeguarding by God's grace."
     },
     {
-      "pk": 1960015,
+      "pk": 1006015,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 6,
       "verse": 15,
-      "text": "And this is how you shall make it: the length of the ark shall be three hundred cubits, its width fifty cubits, and its height thirty cubits.",
-      "links": "<a href='/AIV/2/25/10'>Exod. 25:10</a>",
-      "comment": "Precise measurements recall the exactness required of the tabernacle and later temples, symbolizing order and obedience to divine instruction."
+      "text": "'This is how you shall make it: the ark shall be three hundred cubits long, fifty cubits wide, and thirty cubits high.'",
+      "links": "<a href='/AIV/01/07/15'>Gen. 7:15</a>",
+      "comment": "Detailed, ordered measurements reinforce the importance of obedience to God's commands. The form and structure also reflect the later biblical focus on divinely-instituted order in worship and community."
     },
     {
-      "pk": 1960016,
+      "pk": 1006016,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 6,
       "verse": 16,
-      "text": "'You shall make a roof for the ark, and finish it to a cubit above. Set the door of the ark in its side. You shall make it with lower, second, and third decks.'",
-      "links": "<a href='/AIV/1/8/6'>Gen. 8:6</a>",
-      "comment": "The single door hints at the one path to safety, prefiguring later images of a singular way to salvation (<a href='/AIV/43/10/9'>John 10:9</a>)."
+      "text": "'Make a roof for the ark, and finish it to a cubit above; put a door in the side of the ark, and make lower, second, and third decks.'",
+      "links": "<a href='/AIV/01/07/16'>Gen. 7:16</a>; <a href='/AIV/43/10/9'>John 10:9</a>",
+      "comment": "Provision of divisions, a single entrance, and structure prefigures salvation’s uniqueness and ordering—Christ as the 'door' (cf. John 10:9) through whom redemption comes."
     },
     {
-      "pk": 1960017,
+      "pk": 1006017,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 6,
       "verse": 17,
-      "text": "'For behold, I will bring a flood of waters upon the earth to destroy all flesh under heaven in which there is the breath of life; everything that is on the earth shall die.'",
-      "links": "<a href='/AIV/1/7/4'>Gen. 7:4</a>",
-      "comment": "The flood’s comprehensive nature displays divine power and sovereignty, but also sets the stage for a new beginning."
+      "text": "'For behold, I will bring a flood of waters upon the earth to destroy all flesh in which is the breath of life under heaven. Everything that is on the earth shall die.'",
+      "links": "<a href='/AIV/19/29/10'>Ps. 29:10</a>; <a href='/AIV/60/3/20'>1 Pet. 3:20</a>",
+      "comment": "God’s total sovereignty over life and death is revealed. This judgment is both temporal and spiritual, being a sign of God’s just reaction to sin but also His preparation for a new creation in peace."
     },
     {
-      "pk": 1960018,
+      "pk": 1006018,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 6,
       "verse": 18,
-      "text": "'But I will establish My covenant with you, and you shall come into the ark—you, your sons, your wife, and your sons’ wives with you.'",
-      "links": "<a href='/AIV/1/9/9-17'>Gen. 9:9–17</a>",
-      "comment": "This is the first mention of covenant in Scripture, forming a foundation for the unfolding of salvation history and prefiguring later sacraments as visible signs of divine favor."
+      "text": "'But I will establish my covenant with you. You shall come into the ark—you, your sons, your wife, and your sons' wives with you.'",
+      "links": "<a href='/AIV/01/09/9'>Gen. 9:9</a>; <a href='/AIV/58/11/7'>Heb. 11:7</a>",
+      "comment": "God’s mention of 'covenant' is pivotal—the first use of the word in Scripture. Commitment to Noah and household prefigures the idea of household salvation and the continuity of the family in the plan of redemption."
     },
     {
-      "pk": 1960019,
+      "pk": 1006019,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 6,
       "verse": 19,
-      "text": "'And of every living thing of all flesh, you shall bring two of every sort into the ark, to keep them alive with you; they shall be male and female.'",
-      "links": "<a href='/AIV/1/7/15'>Gen. 7:15</a>",
-      "comment": "The preservation of animals reveals God’s care for all creation and His directive for stewardship and order."
+      "text": "'And of every living thing of all flesh, you shall bring two of every kind into the ark to keep them alive with you. They shall be male and female.'",
+      "links": "<a href='/AIV/01/07/9'>Gen. 7:9</a>; <a href='/AIV/01/01/27'>Gen. 1:27</a>",
+      "comment": "God's concern for all creation is shown here. The preservation of male and female strengthens the biblical witness for ordered complementarity, and points to redemption extending beyond humanity."
     },
     {
-      "pk": 1960020,
+      "pk": 1006020,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 6,
       "verse": 20,
-      "text": "Of the birds according to their kinds, of the animals according to their kinds, of every creeping thing of the ground according to its kind, two of every sort shall come to you, to keep them alive.",
-      "links": "<a href='/AIV/1/1/21'>Gen. 1:21</a>",
-      "comment": "The repetition of 'according to their kinds' echoes creation, underscoring order and divine providence."
+      "text": "'Of the birds according to their kinds, and of the animals according to their kinds, of every creeping thing of the ground according to its kind, two of every sort shall come to you to keep them alive.'",
+      "links": "<a href='/AIV/01/01/21'>Gen. 1:21</a>; <a href='/AIV/01/07/14'>Gen. 7:14</a>",
+      "comment": "The ordered diversity of creation is reflected. The animals ‘come to Noah,’ showing God’s sovereignty even over the creatures—a sign of providence."
     },
     {
-      "pk": 1960021,
+      "pk": 1006021,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 6,
       "verse": 21,
-      "text": "'Take with you every kind of food that is eaten and gather it, to keep as food for you and for them.'",
-      "links": "<a href='/AIV/1/41/35'>Gen. 41:35</a>",
-      "comment": "Provision for food reveals the practical side of God’s commands—safeguarding life amid judgment."
+      "text": "'Also take with you every sort of food that is eaten, and store it up. It shall serve as food for you and for them.'",
+      "links": "<a href='/AIV/01/01/29'>Gen. 1:29</a>; <a href='/AIV/01/09/3'>Gen. 9:3</a>",
+      "comment": "Noah is entrusted to provide food for all on the ark, highlighting stewardship, preparation, and obedience, which are hallmarks of faith working through love."
     },
     {
-      "pk": 1960022,
+      "pk": 1006022,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 6,
       "verse": 22,
-      "text": "Noah did all this; he did everything that God commanded him.",
-      "links": "<a href='/AIV/1/7/5'>Gen. 7:5</a>; <a href='/AIV/58/11/7'>Heb. 11:7</a>",
-      "comment": "Noah’s obedience is portrayed as complete, grounding the pattern of salvation by faith expressed through active trust in divine instruction. His faithfulness sets a precedent for future generations called to hear God’s word and respond with action."
+      "text": "Noah did everything just as God commanded him.",
+      "links": "<a href='/AIV/01/07/5'>Gen. 7:5</a>; <a href='/AIV/58/11/7'>Heb. 11:7</a>",
+      "comment": "Obedience completes the chapter—Noah’s response to grace is faith expressed in action. This anticipates later biblical teachings about salvation by faith that works through obedience—a unity manifested in God's people through the ages."
     }
   ],
-  "translatedAt": "2025-12-23T08:37:07.944Z"
+  "translatedAt": "2025-12-24T00:13:18.938Z"
 }

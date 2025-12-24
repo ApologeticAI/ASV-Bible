@@ -1,168 +1,201 @@
 {
-  "book": "Numbers",
+  "book": 4,
+  "bookName": "Numbers",
   "bookAbbreviation": "Num",
   "chapter": 30,
   "verses": [
     {
-      "pk": 3003001,
+      "pk": 4030001,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 30,
       "verse": 1,
-      "text": "Moses spoke to the heads of the tribes of the sons of Israel, saying, 'This is the word that the Lord has commanded:'",
-      "links": "<a href='/AIV/2/12/21'>Ex. 12:21</a>; <a href='/AIV/3/4/15'>Lev. 4:15</a>",
-      "comment": "‘Heads of the tribes’ refers to the leaders among Israel; see also Num. 1:4 for context."
+      "text": "Moses spoke to the leaders of the tribes of Israel, saying, \"This is what the Lord has commanded:",
+      "links": "<a href='/AIV/3/27/34'>Lev. 27:34</a>; <a href='/AIV/5/23/21'>Deut. 23:21'</a>",
+      "comment": "This introductory verse establishes Moses as the speaker to the tribal leaders, reinforcing the importance of hierarchical leadership, which foreshadows the continuity of authoritative guidance in God's people."
     },
     {
-      "pk": 3003002,
+      "pk": 4030002,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 30,
       "verse": 2,
-      "text": "'If a man vows a vow to the Lord, or swears an oath to bind himself with a binding obligation, he must not break his word. He must do everything he has spoken.'",
-      "links": "<a href='/AIV/3/27/2'>Lev. 27:2</a>; <a href='/AIV/5/23/21'>Deut. 23:21–23</a>; <a href='/AIV/19/15/4'>Ps. 15:4</a>; <a href='/AIV/40/5/33-37'>Matt. 5:33–37</a>",
-      "comment": "The words ‘binding obligation’ translate ‘issar’, a solemn kind of binding oath. See also Ecc. 5:4-5."
+      "text": "\"If a man makes a vow to the Lord or swears an oath to bind himself by a pledge, he must not break his word; he must do all that has come out of his mouth.\"",
+      "links": "<a href='/AIV/5/23/21'>Deut. 23:21</a>; <a href='/AIV/19/15/4'>Ps. 15:4</a>",
+      "comment": "The divine expectation of integrity in promises made to God points to the high standard for covenant faithfulness, prefiguring Christ’s fulfillment of all vows and oaths (cf. Matt. 5:33–37)."
     },
     {
-      "pk": 3003003,
+      "pk": 4030003,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 30,
       "verse": 3,
-      "text": "'If a woman vows a vow to the Lord and binds herself by a pledge, while still in her father’s house in her youth,'",
-      "links": "<a href='/AIV/3/27/2'>Lev. 27:2</a>; <a href='/AIV/4/6/2'>Num. 6:2</a>",
-      "comment": "'In her father’s house in her youth' refers to an unmarried young woman under her father's authority."
+      "text": "\"If a woman makes a vow to the Lord and binds herself by a pledge while living in her father's house in her youth,",
+      "links": "<a href='/AIV/7/11/30'>Judg. 11:30-31</a>",
+      "comment": "Here, vows made by women are subject to familial authority, reflecting a principle of spiritual headship that finds fulfillment in the New Testament in spiritual oversight (cf. Eph. 5:22–24)."
     },
     {
-      "pk": 3003004,
+      "pk": 4030004,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 30,
       "verse": 4,
-      "text": "'and her father hears her vow and her pledge by which she has bound herself, but her father says nothing to her, then all her vows will stand, and every pledge by which she has bound herself will stand.'",
-      "links": "<a href='/AIV/4/30/7'>Num. 30:7</a>; <a href='/AIV/4/30/11'>Num. 30:11</a>",
-      "comment": "The father’s silence means he agrees, so the vow is valid."
+      "text": "and her father hears her vow and pledge she has bound upon herself, yet keeps silent, then all her vows will stand, and every pledge she has bound herself to will stand.",
+      "links": "<a href='/AIV/8/1/11'>Ruth 1:11</a>",
+      "comment": "The silence of the father is construed as acceptance, reinforcing the principle that authority can affirm spiritual decisions, suggesting the wisdom of discerning spiritual vows in community."
     },
     {
-      "pk": 3003005,
+      "pk": 4030005,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 30,
       "verse": 5,
-      "text": "'But if her father forbids her on the day he hears, none of her vows or pledges by which she has bound herself will stand. And the Lord will forgive her, because her father has forbidden her.'",
-      "links": "<a href='/AIV/4/30/8'>Num. 30:8</a>",
-      "comment": "'Forgive her' indicates she is not guilty, since the father’s authority supersedes her vow."
+      "text": "But if her father opposes her on the day he hears, none of her vows or pledges she has bound upon herself shall stand. The Lord will forgive her, because her father has opposed her.",
+      "links": "<a href='/AIV/5/5/31'>Num. 5:31</a>",
+      "comment": "Parental authority is seen as a protective measure. It's notable that spiritual commitments can be subject to the wisdom of elders, hinting at the need for spiritual guidance and orderly discernment in vows."
     },
     {
-      "pk": 3003006,
+      "pk": 4030006,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 30,
       "verse": 6,
-      "text": "'If she marries while her vows or rash promises by which she has bound herself are still upon her,'",
-      "links": "<a href='/AIV/4/30/10'>Num. 30:10</a>",
-      "comment": "‘Rash promises’ translates a Hebrew word for unconsidered or impulsive oaths."
+      "text": "\"If she marries while her vows or rash promises are upon her,",
+      "links": "<a href='/AIV/5/5/29'>Num. 5:29</a>; <a href='/AIV/19/56/12'>Ps. 56:12</a>",
+      "comment": "Marriage entails a change in spiritual authority structure, echoing the idea that spiritual obligations can be overseen by appointed guardians within the faith community."
     },
     {
-      "pk": 3003007,
+      "pk": 4030007,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 30,
       "verse": 7,
-      "text": "'and her husband hears about it and says nothing to her on the day he hears, then her vows will stand and her pledges by which she has bound herself will stand.'",
-      "links": "<a href='/AIV/4/30/4'>Num. 30:4</a>; <a href='/AIV/4/30/14'>Num. 30:14</a>",
-      "comment": "Similar principle as with the father: silence means consent."
+      "text": "and her husband hears her vows and pledge she has bound upon herself, and he keeps silent on the day he hears, then her vows will stand and the pledges she has bound herself to will stand.",
+      "links": "<a href='/AIV/5/5/6'>Num. 5:6</a>",
+      "comment": "The power of affirmation through the silence of the husband mirrors the father’s role, underlining the scriptural emphasis on an authoritative stewardship and unity in spiritual matters."
     },
     {
-      "pk": 3003008,
+      "pk": 4030008,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 30,
       "verse": 8,
-      "text": "'But if, on the day her husband hears, he forbids her, then he makes void her vow that was on her and the rash agreement by which she bound herself, and the Lord will forgive her.'",
-      "links": "<a href='/AIV/4/30/5'>Num. 30:5</a>",
-      "comment": "The husband’s authority can also annul her vow if acted upon immediately."
+      "text": "But if, when he hears, her husband opposes her, then he makes her vow or rash pledge she has bound upon herself null and void. The Lord will forgive her.",
+      "links": "<a href='/AIV/19/103/10-12'>Ps. 103:10-12</a>",
+      "comment": "Forgiveness is available where appropriate authority overrules, reflecting the merciful nature of God and suggesting a spiritual principle of accountability and absolution through proper channels."
     },
     {
-      "pk": 3003009,
+      "pk": 4030009,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 30,
       "verse": 9,
-      "text": "'But any vow of a widow or of a divorced woman, anything by which she has bound herself, will stand against her.'",
-      "links": "<a href='/AIV/3/5/29'>Lev. 5:4–5</a>",
-      "comment": "Without father or husband, she is responsible for her own vows."
+      "text": "\"But any vow of a widow or a divorced woman, which she has bound upon herself, stands against her.",
+      "links": "<a href='/AIV/5/24/1'>Deut. 24:1</a>; <a href='/AIV/19/41/1-2'>Ps. 41:1-2</a>",
+      "comment": "When women are no longer under male family authority, their personal spiritual obligations are binding, emphasizing individual responsibility and the dignity of personal vocation."
     },
     {
-      "pk": 3003010,
+      "pk": 4030010,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 30,
       "verse": 10,
-      "text": "'If a woman in her husband’s house vows a vow or binds herself by a pledge with an oath,'",
-      "links": "<a href='/AIV/4/30/6'>Num. 30:6</a>",
-      "comment": "Now considering a married woman making a vow after marriage."
+      "text": "\"If a woman in her husband's house makes a vow or binds herself by a pledge with an oath,",
+      "links": "<a href='/AIV/5/5/19'>Num. 5:19</a>",
+      "comment": "This scenario reiterates the pattern of authority through marriage, showing the enduring nature of the faith community's structure and respect for spiritual order."
     },
     {
-      "pk": 3003011,
+      "pk": 4030011,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 30,
       "verse": 11,
-      "text": "'and her husband hears of it and says nothing to her and does not forbid her, then all her vows will stand, and every pledge by which she has bound herself will stand.'",
-      "links": "<a href='/AIV/4/30/7'>Num. 30:7</a>; <a href='/AIV/4/30/14'>Num. 30:14</a>",
-      "comment": "Repeats the principle: silence means the vow stands."
+      "text": "if her husband hears it and keeps silent, and does not oppose her, all her vows and each pledge she has bound herself to will stand.",
+      "links": "<a href='/AIV/5/5/20'>Num. 5:20</a>",
+      "comment": "Silence is equivalent to consent, reinforcing that spiritual commitments are overseen and affirmed by proper authority—a principle later seen practiced throughout the early church."
     },
     {
-      "pk": 3003012,
+      "pk": 4030012,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 30,
       "verse": 12,
-      "text": "'But if her husband makes them void on the day he hears them, then whatever comes out of her lips concerning her vows or pledges will not stand. Her husband has made them void, and the Lord will forgive her.'",
-      "links": "<a href='/AIV/4/30/8'>Num. 30:8</a>",
-      "comment": "Annulment must be immediate—on the day he hears."
+      "text": "But if her husband clearly nullifies them on the day he hears, then whatever proceeds from her lips regarding her vows and the pledge that binds her will not stand. Her husband has made them void, and the Lord will forgive her.",
+      "links": "<a href='/AIV/19/32/1-2'>Ps. 32:1-2</a>",
+      "comment": "Divine forgiveness is linked to the order of authority, suggesting that spiritual commitments—especially those connected to vows and oaths—are not isolated acts, but communal and relational."
     },
     {
-      "pk": 3003013,
+      "pk": 4030013,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 30,
       "verse": 13,
-      "text": "'Every vow and every binding oath to humble herself, her husband may establish or her husband may make void.'",
-      "links": "<a href='/AIV/4/30/7'>Num. 30:7</a>",
-      "comment": "‘To humble herself’—refers to afflicting oneself, often with fasting or sacrifice (see Lev. 16:29)."
+      "text": "\"Her husband may confirm or nullify any vow or any binding oath to humble herself.",
+      "links": "<a href='/AIV/19/61/8'>Ps. 61:8</a>",
+      "comment": "The power to confirm or nullify shows spiritual headship serving the purpose of guiding and protecting, ultimately preserving the unity of the family within God’s covenant."
     },
     {
-      "pk": 3003014,
+      "pk": 4030014,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 30,
       "verse": 14,
-      "text": "'But if her husband says nothing to her from day to day, then he establishes all her vows or all her pledges that are upon her; he has established them because he said nothing to her on the day he heard them.'",
-      "links": "<a href='/AIV/4/30/7'>Num. 30:7</a>",
-      "comment": "Ongoing silence is treated as agreement."
+      "text": "But if he keeps silent about them from day to day, then he confirms all her vows or pledges that bind her; he has confirmed them because he has not opposed her on the day he heard.",
+      "links": "<a href='/AIV/19/66/13-14'>Ps. 66:13-14</a>",
+      "comment": "Repeated silence equals affirmation, emphasizing the gravity of spoken and unspoken authority—a pattern that fosters trust and obedience within the believing community."
     },
     {
-      "pk": 3003015,
+      "pk": 4030015,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 30,
       "verse": 15,
-      "text": "'But if he makes them null and void after he has heard them, then he will bear her iniquity.'",
-      "links": "<a href='/AIV/3/5/1'>Lev. 5:1</a>",
-      "comment": "If he annuls later, the responsibility for breaking the vow falls on the husband."
+      "text": "But if he nullifies them after he has heard, then he shall bear her guilt.\"",
+      "links": "<a href='/AIV/3/5/1'>Lev. 5:1</a>; <a href='/AIV/23/53/6'>Isa. 53:6</a>",
+      "comment": "The transference of guilt if authority is exercised too late points toward substitutionary atonement—a principle fulfilled perfectly in Christ who bears the infirmity and guilt on behalf of others (cf. Isa. 53:6)."
     },
     {
-      "pk": 3003016,
+      "pk": 4030016,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 30,
       "verse": 16,
-      "text": "These are the statutes that the Lord commanded Moses, concerning a man and his wife and a father and his daughter, while she is in her youth in her father’s house.",
-      "links": "<a href='/AIV/4/30/1'>Num. 30:1</a>",
-      "comment": "Summary statement of the statutes given in this passage."
+      "text": "These are the statutes that the Lord commanded Moses concerning a man and his wife, and a father and his daughter, while she is young and living in her father’s house.",
+      "links": "<a href='/AIV/3/27/34'>Lev. 27:34</a>",
+      "comment": "The concluding verse underlines the divinely instituted statutes for orderly spiritual life. This structure of authority and obedience within God’s people prefigures the ordered unity of the body of Christ, where vows and duties are overseen with wisdom and charity, fostering holiness and communion."
     }
   ],
-  "translatedAt": "2025-12-20T09:38:36.873Z"
+  "translatedAt": "2025-12-24T01:52:03.171Z"
 }

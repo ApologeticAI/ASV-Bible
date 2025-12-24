@@ -1,228 +1,273 @@
 {
-  "book": "Numbers",
+  "book": 4,
+  "bookName": "Numbers",
   "bookAbbreviation": "Num",
   "chapter": 19,
   "verses": [
     {
-      "pk": 1941901,
+      "pk": 4019001,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 19,
       "verse": 1,
-      "text": "The LORD spoke to Moses and to Aaron, saying,",
-      "links": "<a href='/ESV/2/12/43'>Ex. 12:43</a>",
-      "comment": "Direct address, setting context; same as original."
+      "text": "The LORD spoke to Moses and Aaron,",
+      "links": "<a href='/AIV/3/1/1'>Lev. 1:1</a>",
+      "comment": "This continues the pattern of God speaking directly to Moses and Aaron, emphasizing divine authority and apostolic leadership (see <a href='/AIV/3/1/1'>Lev. 1:1</a>)."
     },
     {
-      "pk": 1941902,
+      "pk": 4019002,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 19,
       "verse": 2,
-      "text": "This is the statute of the law that the LORD has commanded: Tell the Israelites to bring you a red heifer, without defect, in which there is no blemish, and on which no yoke has ever been put.",
-      "links": "<a href='/ESV/4/8/7'>Num. 8:7</a>; <a href='/ESV/22/5/2'>Song 5:2</a>",
-      "comment": "Maintains all ritual requirements from the text."
+      "text": "\"This is the statute of the law that the LORD has commanded: Tell the Israelites to bring you a red heifer without defect, in which there is no blemish, and on which no yoke has ever been placed.\"",
+      "links": "<a href='/AIV/3/22/19'>Lev. 22:19-21</a>; <a href='/AIV/4/8/7'>Num. 8:7</a>; <a href='/AIV/58/9/13'>Heb. 9:13</a>",
+      "comment": "The red heifer symbolized purity, to be used in a unique sacrifice. The requirement for no blemish prefigures Christ as the spotless sacrifice (see <a href='/AIV/58/9/13'>Heb. 9:13-14</a>)."
     },
     {
-      "pk": 1941903,
+      "pk": 4019003,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 19,
       "verse": 3,
-      "text": "You shall give it to Eleazar the priest, and he shall take it outside the camp, and it shall be slaughtered before him.",
-      "links": "<a href='/ESV/3/16/27'>Lev. 16:27</a>",
-      "comment": "Follows the original order and persons involved."
+      "text": "You shall give it to Eleazar the priest, and it shall be taken outside the camp and slaughtered before him.",
+      "links": "<a href='/AIV/3/4/12'>Lev. 4:12</a>; <a href='/AIV/58/13/11'>Heb. 13:11-12</a>",
+      "comment": "The animal is killed outside the camp, matching the later typology of Jesus’ crucifixion outside Jerusalem (<a href='/AIV/58/13/11'>Heb. 13:11-12</a>). Priestly mediation is key."
     },
     {
-      "pk": 1941904,
+      "pk": 4019004,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 19,
       "verse": 4,
-      "text": "Eleazar the priest shall take some of its blood with his finger and sprinkle some of its blood toward the front of the tent of meeting seven times.",
-      "links": "<a href='/ESV/3/8/11'>Lev. 8:11</a>",
-      "comment": "Sprinkling of blood: ritual cleansing."
+      "text": "Eleazar the priest shall take some of its blood with his finger and sprinkle it seven times toward the front of the Tent of Meeting.",
+      "links": "<a href='/AIV/3/4/17'>Lev. 4:17</a>; <a href='/AIV/4/8/7'>Num. 8:7</a>",
+      "comment": "Sevenfold sprinkling signifies perfection and completeness in ritual purity, reflecting God's perfect sanctification."
     },
     {
-      "pk": 1941905,
+      "pk": 4019005,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 19,
       "verse": 5,
-      "text": "The heifer shall be burned in his sight. Its hide, its flesh, its blood, and its dung shall be burned.",
-      "links": "<a href='/ESV/3/4/12'>Lev. 4:12</a>",
-      "comment": "Note explicit mention of the whole heifer."
+      "text": "The heifer shall be burned in his sight. Its hide, flesh, blood, and dung shall be burned.",
+      "links": "<a href='/AIV/3/4/12'>Lev. 4:12</a>",
+      "comment": "Total consumption underscores the complete offering, pointing toward an all-encompassing sacrifice for purification."
     },
     {
-      "pk": 1941906,
+      "pk": 4019006,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 19,
       "verse": 6,
-      "text": "And the priest shall take cedar wood, hyssop, and scarlet yarn, and throw them onto the fire burning the heifer.",
-      "links": "<a href='/ESV/3/14/4'>Lev. 14:4</a>; <a href='/ESV/3/14/6'>Lev. 14:6</a>",
-      "comment": "Materials added to fire for purification as found in Leviticus."
+      "text": "The priest shall take cedar wood, hyssop, and scarlet yarn and throw them into the fire burning the heifer.",
+      "links": "<a href='/AIV/3/14/6'>Lev. 14:6</a>; <a href='/AIV/43/19/29'>John 19:29</a>",
+      "comment": "Cedar, hyssop, and scarlet are symbols used in other purification rites and tied to Christ’s Passion (the hyssop at the cross, <a href='/AIV/43/19/29'>John 19:29</a>)."
     },
     {
-      "pk": 1941907,
+      "pk": 4019007,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 19,
       "verse": 7,
-      "text": "Then the priest shall wash his clothes and bathe his body in water, and afterward he may come into the camp. The priest shall be unclean until evening.",
-      "links": "<a href='/ESV/3/16/28'>Lev. 16:28</a>",
-      "comment": "Ritual uncleanness until sunset."
+      "text": "Then the priest shall wash his clothes and bathe his body in water, and afterward he may come into the camp; but the priest shall be unclean until evening.",
+      "links": "<a href='/AIV/3/16/26'>Lev. 16:26</a>",
+      "comment": "Even priests require purification, foreshadowing Christian baptismal washing and ongoing daily cleansing."
     },
     {
-      "pk": 1941908,
+      "pk": 4019008,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 19,
       "verse": 8,
-      "text": "The one who burns the heifer shall wash his clothes in water and bathe his body in water and shall be unclean until evening.",
-      "links": "<a href='/ESV/4/19/7'>Num. 19:7</a>",
-      "comment": "Parallel to previous verse; emphasizes ritual process."
+      "text": "The one who burns the heifer must wash his clothes in water and bathe in water and will remain unclean until evening.",
+      "links": "<a href='/AIV/3/16/28'>Lev. 16:28</a>",
+      "comment": "Contact with the sacrificial remains renders a person unclean, again stressing ritual purity as a preparation for communion with God."
     },
     {
-      "pk": 1941909,
+      "pk": 4019009,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 19,
       "verse": 9,
-      "text": "And a man who is clean shall gather up the ashes of the heifer and place them outside the camp in a clean place, and they shall be kept for the congregation of the Israelites for water for impurity; it is a purification offering.",
-      "links": "<a href='/ESV/4/19/17'>Num. 19:17</a>",
-      "comment": "Clarifies the ashes' use in purification."
+      "text": "And a man who is clean shall gather up the ashes of the heifer and store them outside the camp in a clean place. These shall be kept by the Israelites for water for impurity: it is a purification offering.",
+      "links": "<a href='/AIV/3/11/32'>Lev. 11:32</a>; <a href='/AIV/58/9/13'>Heb. 9:13</a>",
+      "comment": "The ashes are kept for ongoing purification—an early sign of sacramental means extending ritual grace, helpful for later doctrine on sanctifying means."
     },
     {
-      "pk": 1941910,
+      "pk": 4019010,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 19,
       "verse": 10,
-      "text": "The one who gathers the ashes of the heifer shall wash his clothes and be unclean until evening. This shall be a lasting statute for the Israelites and for the foreigner who dwells among them.",
-      "links": "<a href='/ESV/3/16/29'>Lev. 16:29</a>",
-      "comment": "Applies ritual law to resident aliens as in original."
+      "text": "The one who gathers the ashes of the heifer must wash his clothes and will remain unclean until evening. This shall be a permanent statute to the Israelites and to the foreigner who lives among them.",
+      "links": "<a href='/AIV/3/16/28'>Lev. 16:28</a>; <a href='/AIV/4/15/15'>Num. 15:15</a>",
+      "comment": "Purity laws apply equally to foreigners, pointing to God’s plan for universal inclusion into His covenant."
     },
     {
-      "pk": 1941911,
+      "pk": 4019011,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 19,
       "verse": 11,
-      "text": "Whoever touches the dead body of any person shall be unclean for seven days.",
-      "links": "<a href='/ESV/4/5/2'>Num. 5:2</a>",
-      "comment": "Clarity of cause and duration of uncleanness."
+      "text": "\"Whoever touches the dead body of any person will be unclean for seven days.\"",
+      "links": "<a href='/AIV/3/5/2'>Lev. 5:2</a>; <a href='/AIV/4/31/19'>Num. 31:19</a>",
+      "comment": "Death brings ritual impurity, signifying the separation sin causes—a theme fully addressed in Christ’s resurrection and deliverance."
     },
     {
-      "pk": 1941912,
+      "pk": 4019012,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 19,
       "verse": 12,
-      "text": "He shall purify himself with the water on the third day and on the seventh day, and then he will be clean. But if he does not purify himself on the third and seventh days, he will not be clean.",
-      "links": "<a href='/ESV/4/8/7'>Num. 8:7</a>; <a href='/ESV/3/15/13'>Lev. 15:13</a>",
-      "comment": "Emphasizes necessity of purification at specified times."
+      "text": "He must purify himself with the water on the third day and on the seventh day, and so be clean; but if he does not purify himself on the third and seventh day, he will not be clean.",
+      "links": "<a href='/AIV/4/31/19'>Num. 31:19</a>; <a href='/AIV/40/27/63'>Matt. 27:63</a>",
+      "comment": "The third and seventh days have resonance with resurrection (cf. Jesus on the third day, <a href='/AIV/40/27/63'>Matt. 27:63</a>) and spiritual completion."
     },
     {
-      "pk": 1941913,
+      "pk": 4019013,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 19,
       "verse": 13,
-      "text": "Whoever touches a dead person, the body of anyone who has died, and does not purify himself, defiles the tabernacle of the LORD, and that person shall be cut off from Israel, because the water for impurity was not sprinkled on him. He remains unclean; his uncleanness is still on him.",
-      "links": "<a href='/ESV/3/15/31'>Lev. 15:31</a>",
-      "comment": "Clarifies consequence of neglecting purification."
+      "text": "Anyone who touches a dead body, the corpse of a man who has died, and does not purify himself, defiles the LORD’s tabernacle, and that person shall be cut off from Israel. Because the water for impurity was not sprinkled on him, he remains unclean; his uncleanness is still on him.",
+      "links": "<a href='/AIV/3/15/31'>Lev. 15:31</a>; <a href='/AIV/4/5/2'>Num. 5:2</a>",
+      "comment": "Remaining unclean blocks communion with God’s sanctuary; the sprinkling water foreshadows effective sacramental cleansing."
     },
     {
-      "pk": 1941914,
+      "pk": 4019014,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 19,
       "verse": 14,
-      "text": "This is the law when someone dies in a tent: everyone who comes into the tent and everyone who is in the tent shall be unclean for seven days.",
-      "links": "<a href='/ESV/4/19/11'>Num. 19:11</a>",
-      "comment": "States law for deaths occurring indoors."
+      "text": "\"This is the law when a man dies in a tent: Anyone who comes into the tent and all who are in the tent shall be unclean for seven days.\"",
+      "links": "<a href='/AIV/3/5/2'>Lev. 5:2</a>",
+      "comment": "Uncleanness is shared by all present, reflecting corporate responsibility and the need for ritual action together."
     },
     {
-      "pk": 1941915,
+      "pk": 4019015,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 19,
       "verse": 15,
-      "text": "And every open vessel that has no cover fastened on it is unclean.",
-      "links": "<a href='/ESV/3/11/32'>Lev. 11:32</a>",
-      "comment": "Applies uncleanness to unsealed containers."
+      "text": "Every open vessel that has no cover fastened on it will be unclean.",
+      "links": "<a href='/AIV/3/11/32'>Lev. 11:32</a>",
+      "comment": "Objects too can receive impurity, leading to doctrines about sanctified material objects and careful stewardship."
     },
     {
-      "pk": 1941916,
+      "pk": 4019016,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 19,
       "verse": 16,
-      "text": "Whoever in the open field touches someone who was killed with a sword or someone who died naturally, or touches a human bone or a grave, shall be unclean for seven days.",
-      "links": "<a href='/ESV/4/19/11'>Num. 19:11</a>",
-      "comment": "Applies uncleanness to those in contact with bones or graves."
+      "text": "Whoever touches in the open field anyone killed by a sword, or a dead body, or a human bone, or a grave, shall be unclean for seven days.",
+      "links": "<a href='/AIV/4/31/19'>Num. 31:19</a>; <a href='/AIV/40/23/27'>Matt. 23:27</a>",
+      "comment": "Contact with death always requires purification, symbolizing God’s design to remove sin’s effects in every situation."
     },
     {
-      "pk": 1941917,
+      "pk": 4019017,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 19,
       "verse": 17,
-      "text": "For the unclean person, they shall take some ashes from the burnt purification offering and put fresh water on them in a vessel.",
-      "links": "<a href='/ESV/4/19/9'>Num. 19:9</a>",
-      "comment": "Combining ashes and water for purification as prescribed."
+      "text": "For the unclean, they shall take some ashes from the burnt purification offering and put fresh water over them in a vessel.",
+      "links": "<a href='/AIV/4/19/9'>Num. 19:9</a>; <a href='/AIV/58/9/13'>Heb. 9:13</a>",
+      "comment": "Water mixed with ashes forms the ritual, blending physical signs with spiritual effects—the consistent shape of sacraments."
     },
     {
-      "pk": 1941918,
+      "pk": 4019018,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 19,
       "verse": 18,
-      "text": "And a clean person shall take hyssop, dip it in the water, and sprinkle it on the tent, on all the vessels, on the people who were there, and on anyone who touched a bone, a grave, or a dead body.",
-      "links": "<a href='/ESV/2/12/22'>Ex. 12:22</a>; <a href='/ESV/3/14/6'>Lev. 14:6</a>",
-      "comment": "Purification ritual extended in detail."
+      "text": "A clean person shall take hyssop, dip it in the water, and sprinkle it over the tent, all the vessels, and the people present, including anyone who touched a bone, a slain person, a corpse, or a grave.",
+      "links": "<a href='/AIV/2/12/22'>Ex. 12:22</a>; <a href='/AIV/43/19/29'>John 19:29</a>",
+      "comment": "Hyssop’s use echoes the Passover, and later, Christ’s sacrifice sprinkled for believers—pointing to spiritual purification by Christ."
     },
     {
-      "pk": 1941919,
+      "pk": 4019019,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 19,
       "verse": 19,
-      "text": "And the clean person shall sprinkle it on the unclean on the third day and on the seventh day; and on the seventh day he shall purify him, and he shall wash his clothes, and bathe himself in water, and at evening he will be clean.",
-      "links": "<a href='/ESV/3/15/13'>Lev. 15:13</a>",
-      "comment": "Details the purification schedule and final steps."
+      "text": "The clean person shall sprinkle the unclean on the third and seventh days. After he has purified them on the seventh day, they must wash their clothes, bathe in water, and at evening they shall be clean.",
+      "links": "<a href='/AIV/4/19/12'>Num. 19:12</a>; <a href='/AIV/3/14/8'>Lev. 14:8</a>",
+      "comment": "Purification follows God’s precise timing, both in ritual and ultimately in Christ’s resurrection work after three days."
     },
     {
-      "pk": 1941920,
+      "pk": 4019020,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 19,
       "verse": 20,
-      "text": "But the person who is unclean and does not purify himself shall be cut off from the assembly, because he has defiled the sanctuary of the LORD. The water for impurity has not been sprinkled on him; he is unclean.",
-      "links": "<a href='/ESV/3/15/31'>Lev. 15:31</a>",
-      "comment": "Repeat of severe consequence for neglect of ritual."
+      "text": "But the man who is unclean and does not purify himself, that person shall be cut off from the congregation, because he has defiled the sanctuary of the LORD. The water for impurity has not been sprinkled on him; he remains unclean.",
+      "links": "<a href='/AIV/3/15/31'>Lev. 15:31</a>; <a href='/AIV/4/19/13'>Num. 19:13</a>",
+      "comment": "Refusal to accept purification excludes from the people of God—revealing both exclusion and the necessity of mediator-administered means of grace."
     },
     {
-      "pk": 1941921,
+      "pk": 4019021,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 19,
       "verse": 21,
-      "text": "This shall be a perpetual statute for them: The one who sprinkles the water for impurity shall wash his clothes, and the one who touches the water for impurity will be unclean until evening.",
-      "links": "<a href='/ESV/4/19/10'>Num. 19:10</a>",
-      "comment": "Statute applies universally and perpetually."
+      "text": "This shall be a permanent statute for them. The one who sprinkles the water for impurity shall wash his clothes, and anyone who touches the water for impurity will be unclean until evening.",
+      "links": "<a href='/AIV/4/19/19'>Num. 19:19</a>; <a href='/AIV/3/16/28'>Lev. 16:28</a>",
+      "comment": "Administering ritual purification also requires purity—a structure resembling later administration of sacraments, with ordered procedure."
     },
     {
-      "pk": 1941922,
+      "pk": 4019022,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 19,
       "verse": 22,
-      "text": "And whatever the unclean person touches shall be unclean, and anyone who touches it shall be unclean until evening.",
-      "links": "<a href='/ESV/3/15/7'>Lev. 15:7</a>",
-      "comment": "Final verse emphasizing transfer of uncleanness; unchanged in meaning."
+      "text": "Whatever the unclean person touches will be unclean, and anyone who touches it will be unclean until evening.",
+      "links": "<a href='/AIV/3/11/32'>Lev. 11:32</a>; <a href='/AIV/3/5/2'>Lev. 5:2</a>",
+      "comment": "The transmission of uncleanness reveals the pervasive effect of sin and death—a logic reversed in Christ, whose holiness spreads to the faithful."
     }
   ],
-  "translatedAt": "2025-12-20T09:33:07.114Z"
+  "translatedAt": "2025-12-24T01:41:43.031Z"
 }

@@ -1,5 +1,6 @@
 {
-  "book": "Exodus",
+  "book": 2,
+  "bookName": "Exodus",
   "bookAbbreviation": "Exod",
   "chapter": 40,
   "verses": [
@@ -7,382 +8,458 @@
       "pk": 2040001,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 40,
       "verse": 1,
-      "text": "The LORD spoke to Moses, saying,",
-      "links": "<a href='/AIV/3/8/1'>Lev. 8:1</a>",
-      "comment": "Introduction to God's command; no major difference."
+      "text": "Then the LORD spoke to Moses, saying,",
+      "links": "<a href='/AIV/3/1/1'>Lev. 1:1</a>; <a href='/AIV/4/9/15'>Num. 9:15</a>",
+      "comment": "God’s direct speech to Moses underscores Moses’ unique mediatorial role, a foreshadowing of Christ as the ultimate mediator (1 Tim. 2:5)."
     },
     {
       "pk": 2040002,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 40,
       "verse": 2,
-      "text": "\"On the first day of the first month you shall set up the tabernacle of the tent of meeting.",
-      "links": "<a href='/AIV/2/12/2'>Ex. 12:2</a>, <a href='/AIV/2/40/17'>Ex. 40:17</a>",
-      "comment": "\"First day of the first month\" refers to the Hebrew calendar; kept literal."
+      "text": "On the first day of the first month you shall set up the tabernacle of the tent of meeting.",
+      "links": "<a href='/AIV/2/12/2'>Exod. 12:2</a>; <a href='/AIV/3/1/1'>Lev. 1:1</a>",
+      "comment": "The beginning of a new year marks a new era of worship; the timing points to renewal and covenant—anticipates New Creation motifs fulfilled in Christ."
     },
     {
       "pk": 2040003,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 40,
       "verse": 3,
-      "text": "You shall put the ark of the testimony in it, and you shall screen the ark with the veil.",
-      "links": "<a href='/AIV/2/26/33'>Ex. 26:33</a>, <a href='/AIV/2/40/21'>Ex. 40:21</a>",
-      "comment": "\"Screen the ark\" refers to the curtain separating the Holy of Holies."
+      "text": "Place the ark of the testimony in it, and shield the ark with the curtain.",
+      "links": "<a href='/AIV/2/26/33'>Exod. 26:33</a>; <a href='/AIV/58/9/3'>Heb. 9:3-4</a>",
+      "comment": "God’s presence is veiled; the separation points to humanity’s need for reconciliation. Christ later opens access to God (Heb. 10:19-20)."
     },
     {
       "pk": 2040004,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 40,
       "verse": 4,
-      "text": "And you shall bring in the table and arrange its setting; and you shall bring in the lampstand and set up its lamps.",
-      "links": "<a href='/AIV/2/26/35'>Ex. 26:35</a>",
-      "comment": "\"Arrange its setting\" means setting out the showbread; language modernized but literal."
+      "text": "Bring in the table and set its items in order. Bring in the lampstand and set up its lamps.",
+      "links": "<a href='/AIV/2/25/23'>Exod. 25:23-30</a>; <a href='/AIV/2/25/31'>Exod. 25:31-40</a>",
+      "comment": "The table and lampstand, symbols of sustenance and light, allude to the Eucharistic table and Christ as the Light of the world (John 8:12)."
     },
     {
       "pk": 2040005,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 40,
       "verse": 5,
-      "text": "You shall set the golden altar for incense before the ark of the testimony and put up the screen for the entrance of the tabernacle.",
-      "links": "<a href='/AIV/2/30/1'>Ex. 30:1</a>, <a href='/AIV/2/36/37'>Ex. 36:37</a>",
-      "comment": "Retained 'golden altar of incense' for clarity."
+      "text": "Set the golden altar for incense before the ark of the testimony, and hang the screen at the entrance of the tabernacle.",
+      "links": "<a href='/AIV/2/30/1'>Exod. 30:1-6</a>; <a href='/AIV/19/141/2'>Ps. 141:2</a>",
+      "comment": "Incense affirms the importance of prayer rising to God; it’s an image continued in New Testament worship (Rev. 5:8)."
     },
     {
       "pk": 2040006,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 40,
       "verse": 6,
-      "text": "And you shall set the altar of burnt offering before the entrance of the tabernacle of the tent of meeting.",
-      "links": "<a href='/AIV/2/27/1'>Ex. 27:1</a>",
-      "comment": "Literal rendering; no significant difference."
+      "text": "Place the altar of burnt offering in front of the entrance to the tabernacle, the tent of meeting.",
+      "links": "<a href='/AIV/2/27/1'>Exod. 27:1-2</a>; <a href='/AIV/3/1/5'>Lev. 1:5</a>",
+      "comment": "The burnt offering foreshadows Christ’s sacrifice, atoning for sin outside the veil (Heb. 13:11-12)."
     },
     {
       "pk": 2040007,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 40,
       "verse": 7,
-      "text": "And you shall set the basin between the tent of meeting and the altar, and put water in it.",
-      "links": "<a href='/AIV/2/30/18'>Ex. 30:18</a>",
-      "comment": "'Basin' refers to the laver for washing."
+      "text": "Set the basin between the tent of meeting and the altar, and put water in it.",
+      "links": "<a href='/AIV/2/30/18'>Exod. 30:18-21</a>; <a href='/AIV/56/3/5'>Titus 3:5</a>",
+      "comment": "The ritual washing prefigures baptism, cleansing required to approach God (1 Pet. 3:21)."
     },
     {
       "pk": 2040008,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 40,
       "verse": 8,
-      "text": "And you shall set up the court all around, and hang up the screen for the gate of the court.",
-      "links": "<a href='/AIV/2/27/9'>Ex. 27:9</a>, <a href='/AIV/2/38/18'>Ex. 38:18</a>",
-      "comment": "'Screen for the gate' is the entrance curtain for the courtyard."
+      "text": "Set up the courtyard around it, and hang the screen at the courtyard gate.",
+      "links": "<a href='/AIV/2/27/9'>Exod. 27:9-19</a>",
+      "comment": "The boundaries mark holiness, recalling the ‘set apart’ nature of God’s people and worship space."
     },
     {
       "pk": 2040009,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 40,
       "verse": 9,
-      "text": "Then you shall take the anointing oil and anoint the tabernacle and all that is in it, and consecrate it and all its furniture, so that it may be holy.",
-      "links": "<a href='/AIV/2/30/26-29'>Ex. 30:26–29</a>",
-      "comment": "Consecration instructions; wording kept close."
+      "text": "Take the anointing oil and anoint the tabernacle and all that is in it, consecrating it and all its furnishings, so that it will be holy.",
+      "links": "<a href='/AIV/2/30/25'>Exod. 30:25-29</a>; <a href='/AIV/3/8/10'>Lev. 8:10-11</a>",
+      "comment": "Anointing signifies the setting apart for God’s purpose—rooted in tradition of appointing priests and kings, fulfilled in Christ (Acts 10:38)."
     },
     {
       "pk": 2040010,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 40,
       "verse": 10,
-      "text": "You shall also anoint the altar of burnt offering and all its utensils and consecrate the altar, so that the altar may be most holy.",
-      "links": "<a href='/AIV/2/29/37'>Ex. 29:37</a>",
-      "comment": "'Most holy' is a literal rendering of the superlative in Hebrew."
+      "text": "Anoint the altar of burnt offering and all its utensils, consecrating the altar, so that it will be most holy.",
+      "links": "<a href='/AIV/2/29/37'>Exod. 29:37</a>",
+      "comment": "‘Most holy’ points to transcendence; God’s dwelling on earth foreshadows Christ’s incarnation."
     },
     {
       "pk": 2040011,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 40,
       "verse": 11,
-      "text": "And you shall anoint the basin and its stand, and consecrate it.",
-      "links": "<a href='/AIV/2/30/28'>Ex. 30:28</a>",
-      "comment": "'Basin and its stand' preserved as literal."
+      "text": "Anoint the basin and its stand, consecrating it.",
+      "links": "<a href='/AIV/2/30/28'>Exod. 30:28-29</a>",
+      "comment": "The basin’s consecration affirms the role of ritual cleansing—anticipates sacramental washing and sanctification."
     },
     {
       "pk": 2040012,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 40,
       "verse": 12,
-      "text": "You shall bring Aaron and his sons to the entrance of the tent of meeting and wash them with water.",
-      "links": "<a href='/AIV/2/29/4'>Ex. 29:4</a>",
-      "comment": "Literal translation; washing as ritual purification."
+      "text": "Bring Aaron and his sons to the entrance of the tent of meeting and wash them with water.",
+      "links": "<a href='/AIV/2/29/4'>Exod. 29:4</a>; <a href='/AIV/3/8/6'>Lev. 8:6</a>",
+      "comment": "Priests are washed, symbolizing purification before service. In Christian tradition, water baptism marks entry into the priesthood of believers."
     },
     {
       "pk": 2040013,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 40,
       "verse": 13,
-      "text": "And you shall put the holy garments on Aaron, and anoint him and consecrate him, so that he may serve me as priest.",
-      "links": "<a href='/AIV/2/29/5-7'>Ex. 29:5-7</a>",
-      "comment": "'Serve me as priest' is an accurate rendering of the Hebrew."
+      "text": "Put the holy garments on Aaron, and anoint and consecrate him, so he may serve Me as priest.",
+      "links": "<a href='/AIV/2/28/41'>Exod. 28:41</a>; <a href='/AIV/3/8/7'>Lev. 8:7-12</a>",
+      "comment": "Aaron’s consecration as high priest prefigures Christ, the eternal High Priest (Heb. 4:14). Vestments symbolize dignity and authority."
     },
     {
       "pk": 2040014,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 40,
       "verse": 14,
-      "text": "You shall bring his sons also and put tunics on them,",
-      "links": "<a href='/AIV/2/29/8'>Ex. 29:8</a>",
-      "comment": "Clothing for priests; kept clear and literal."
+      "text": "Bring his sons and put tunics on them.",
+      "links": "<a href='/AIV/2/28/40'>Exod. 28:40-41</a>",
+      "comment": "The vesting of priests demonstrates a continuity of spiritual authority passed down, echoing apostolic succession."
     },
     {
       "pk": 2040015,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 40,
       "verse": 15,
-      "text": "and anoint them, as you anointed their father, so that they may serve me as priests. And their anointing shall be for an everlasting priesthood throughout their generations.",
-      "links": "<a href='/AIV/2/29/9'>Ex. 29:9</a>",
-      "comment": "Everlasting priesthood; Hebrew idiom kept literal."
+      "text": "Anoint them, just as you anointed their father, so they may serve Me as priests. Their anointing will be a lasting priesthood throughout their generations.",
+      "links": "<a href='/AIV/2/29/29'>Exod. 29:29'>Exod. 29:29</a>; <a href='/AIV/19/133/2'>Ps. 133:2</a>",
+      "comment": "The enduring priesthood points to permanence in spiritual ministry and foreshadows the unending priesthood of Christ (Heb. 7:24)."
     },
     {
       "pk": 2040016,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 40,
       "verse": 16,
-      "text": "This Moses did; according to all that the LORD commanded him, so he did.",
-      "links": "<a href='/AIV/2/39/43'>Ex. 39:43</a>",
-      "comment": "Hebrew repetition for emphasis preserved in English."
+      "text": "Moses did everything just as the LORD commanded him.",
+      "links": "<a href='/AIV/2/39/43'>Exod. 39:43</a>",
+      "comment": "Obedience to every detail stresses the importance of fidelity to God’s commands—a principle for reverent worship today."
     },
     {
       "pk": 2040017,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 40,
       "verse": 17,
-      "text": "In the first month in the second year, on the first day of the month, the tabernacle was set up.",
-      "links": "<a href='/AIV/2/40/2'>Ex. 40:2</a>, <a href='/AIV/4/7/1'>Num. 7:1</a>",
-      "comment": "Literal rendering of the date."
+      "text": "In the first month of the second year, on the first day, the tabernacle was set up.",
+      "links": "<a href='/AIV/4/9/1'>Num. 9:1-2</a>",
+      "comment": "The date marks a year since the Exodus, setting apart the act as a founding moment for public, liturgical worship."
     },
     {
       "pk": 2040018,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 40,
       "verse": 18,
-      "text": "Moses set up the tabernacle. He laid its bases, set up its frames, put in its bars, and raised up its pillars.",
-      "links": "<a href='/AIV/2/26/15-30'>Ex. 26:15-30</a>",
-      "comment": "Tabernacle structure detailed; literal translation."
+      "text": "Moses set up the tabernacle, laid its bases, set up its frames, inserted its crossbars, and erected its posts.",
+      "links": "<a href='/AIV/2/26/15'>Exod. 26:15-30</a>",
+      "comment": "The structural details emphasize both the material reality and spiritual significance of God’s house among His people."
     },
     {
       "pk": 2040019,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 40,
       "verse": 19,
-      "text": "He spread the tent over the tabernacle and put the covering of the tent over it, as the LORD had commanded Moses.",
-      "links": "<a href='/AIV/2/26/7-14'>Ex. 26:7-14</a>",
-      "comment": "'Tent' and 'covering' refer to the curtains; plural maintained if present in Hebrew."
+      "text": "He spread the tent over the tabernacle and put the covering over the tent, just as the LORD commanded Moses.",
+      "links": "<a href='/AIV/2/26/14'>Exod. 26:14</a>",
+      "comment": "Coverings signify sanctity and protection, foreshadowing Christ as the sheltering presence of God."
     },
     {
       "pk": 2040020,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 40,
       "verse": 20,
-      "text": "He took the testimony and put it into the ark, and set the poles on the ark and put the atonement cover on top of the ark.",
-      "links": "<a href='/AIV/2/25/16'>Ex. 25:16</a>, <a href='/AIV/2/25/21'>Ex. 25:21</a>",
-      "comment": "'Atonement cover' is the literal meaning of 'mercy seat.'"
+      "text": "He took the testimony and put it into the ark, attached the poles to the ark, and set the mercy seat above the ark.",
+      "links": "<a href='/AIV/2/25/21'>Exod. 25:21</a>",
+      "comment": "The mercy seat is the site of God’s presence and forgiveness; this anticipates Christ’s work of atonement (Rom. 3:25)."
     },
     {
       "pk": 2040021,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 40,
       "verse": 21,
-      "text": "He brought the ark into the tabernacle, set up the veil of the screen, and screened the ark of the testimony, as the LORD had commanded Moses.",
-      "links": "<a href='/AIV/2/26/33'>Ex. 26:33</a>",
-      "comment": "'Screened' used for literalness; veil refers to the barrier to the Most Holy Place."
+      "text": "He brought the ark into the tabernacle, hung the curtain of the screen, and shielded the ark of the testimony, just as the LORD commanded Moses.",
+      "links": "<a href='/AIV/2/26/33'>Exod. 26:33</a>",
+      "comment": "The screen maintains the mystery of God’s holiness; in Christ, this division is later removed (Matt. 27:51)."
     },
     {
       "pk": 2040022,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 40,
       "verse": 22,
-      "text": "He put the table in the tent of meeting, on the north side of the tabernacle, outside the veil,",
-      "links": "<a href='/AIV/2/26/35'>Ex. 26:35</a>",
-      "comment": "Clear, accurate spatial description."
+      "text": "He set the table in the tent of meeting, on the north side of the tabernacle outside the curtain.",
+      "links": "<a href='/AIV/2/26/35'>Exod. 26:35</a>",
+      "comment": "Placement of the table signifies order and reverence; ‘table’ is later fulfilled in the Last Supper (Luke 22:19-20)."
     },
     {
       "pk": 2040023,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 40,
       "verse": 23,
-      "text": "and arranged the bread on it before the LORD, as the LORD had commanded Moses.",
-      "links": "<a href='/AIV/2/25/30'>Ex. 25:30</a>",
-      "comment": "'Bread' refers to the showbread; literal."
+      "text": "He arranged the bread on it before the LORD, as the LORD had commanded Moses.",
+      "links": "<a href='/AIV/2/25/30'>Exod. 25:30</a>; <a href='/AIV/43/6/35'>John 6:35</a>",
+      "comment": "‘Bread of the Presence’ foreshadows Christ, the bread of life, given for the world (John 6:51)."
     },
     {
       "pk": 2040024,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 40,
       "verse": 24,
-      "text": "He put the lampstand in the tent of meeting, opposite the table, on the south side of the tabernacle,",
-      "links": "<a href='/AIV/2/26/35'>Ex. 26:35</a>",
-      "comment": "Orientation given as in Hebrew."
+      "text": "He placed the lampstand in the tent of meeting, opposite the table, on the south side of the tabernacle.",
+      "links": "<a href='/AIV/2/26/35'>Exod. 26:35</a>; <a href='/AIV/43/8/12'>John 8:12</a>",
+      "comment": "The lampstand, source of light, points to Christ as the true light (John 1:9), essential for right worship."
     },
     {
       "pk": 2040025,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 40,
       "verse": 25,
-      "text": "and set up the lamps before the LORD, as the LORD had commanded Moses.",
-      "links": "<a href='/AIV/2/25/37'>Ex. 25:37</a>",
-      "comment": "'Set up the lamps' as Hebrew."
+      "text": "He set up the lamps before the LORD, just as the LORD commanded Moses.",
+      "links": "<a href='/AIV/2/27/20'>Exod. 27:20-21</a>",
+      "comment": "Lighting the lamps connects worship to daily presence and vigilance, reminiscent of continual prayer (1 Thess. 5:17)."
     },
     {
       "pk": 2040026,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 40,
       "verse": 26,
-      "text": "He put the golden altar in the tent of meeting before the veil,",
-      "links": "<a href='/AIV/2/30/6'>Ex. 30:6</a>",
-      "comment": "Position of incense altar preserved."
+      "text": "He placed the golden altar in the tent of meeting in front of the curtain.",
+      "links": "<a href='/AIV/2/30/6'>Exod. 30:6</a>",
+      "comment": "Altar of incense before the veil stresses the centrality of prayer at the threshold of God’s presence."
     },
     {
       "pk": 2040027,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 40,
       "verse": 27,
-      "text": "and burned fragrant incense on it, as the LORD had commanded Moses.",
-      "links": "<a href='/AIV/2/30/7'>Ex. 30:7</a>",
-      "comment": "Fragrant incense described as per original."
+      "text": "He burned fragrant incense on it, as the LORD commanded Moses.",
+      "links": "<a href='/AIV/2/30/7'>Exod. 30:7-8</a>; <a href='/AIV/66/8/3'>Rev. 8:3-4</a>",
+      "comment": "Fragrant incense connects Old Testament worship to New Testament heavenly prayers (Rev. 8:3-4)."
     },
     {
       "pk": 2040028,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 40,
       "verse": 28,
-      "text": "He put up the screen at the entrance of the tabernacle.",
-      "links": "<a href='/AIV/2/26/36'>Ex. 26:36</a>",
-      "comment": "Entrance 'screen' literal."
+      "text": "He set up the screen at the entrance of the tabernacle.",
+      "links": "<a href='/AIV/2/26/36'>Exod. 26:36-37</a>",
+      "comment": "The screen distinguishes sacred space, highlighting reverence for the dwelling place of God."
     },
     {
       "pk": 2040029,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 40,
       "verse": 29,
-      "text": "He set the altar of burnt offering at the entrance of the tabernacle of the tent of meeting, and offered on it the burnt offering and the grain offering, as the LORD had commanded Moses.",
-      "links": "<a href='/AIV/2/27/1-8'>Ex. 27:1-8</a>, <a href='/AIV/3/9/7'>Lev. 9:7</a>",
-      "comment": "'Offered' kept literal."
+      "text": "He placed the altar of burnt offering at the entrance to the tabernacle, the tent of meeting, and offered the burnt offering and grain offering on it, as the LORD commanded Moses.",
+      "links": "<a href='/AIV/2/27/1'>Exod. 27:1</a>; <a href='/AIV/3/1/9'>Lev. 1:9</a>",
+      "comment": "Sacrifice at the threshold affirms necessity of atonement for access to God; all fulfilled in Christ’s sacrifice."
     },
     {
       "pk": 2040030,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 40,
       "verse": 30,
-      "text": "He set the basin between the tent of meeting and the altar, and put water in it for washing,",
-      "links": "<a href='/AIV/2/30/18'>Ex. 30:18</a>",
-      "comment": "Description of placement; literal."
+      "text": "He set the basin between the tent of meeting and the altar and put water in it for washing.",
+      "links": "<a href='/AIV/2/30/18'>Exod. 30:18-20</a>",
+      "comment": "Washing signifies purification; spiritual cleanliness originates with God, prefiguring sacraments involving water."
     },
     {
       "pk": 2040031,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 40,
       "verse": 31,
-      "text": "with which Moses and Aaron and his sons washed their hands and their feet,",
-      "links": "<a href='/AIV/2/30/19'>Ex. 30:19</a>",
-      "comment": "Washing for ritual cleanness."
+      "text": "Moses, Aaron, and his sons washed their hands and feet at it.",
+      "links": "<a href='/AIV/2/30/19'>Exod. 30:19-21</a>",
+      "comment": "Purification is required before entering holy service, a pattern for reverence before God even now."
     },
     {
       "pk": 2040032,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 40,
       "verse": 32,
-      "text": "when they went into the tent of meeting and when they approached the altar, they washed, as the LORD had commanded Moses.",
-      "links": "<a href='/AIV/2/30/20-21'>Ex. 30:20–21</a>",
-      "comment": "Washing upon entering; accurate."
+      "text": "Whenever they entered the tent of meeting or approached the altar, they washed, just as the LORD had commanded Moses.",
+      "links": "<a href='/AIV/2/30/21'>Exod. 30:21</a>",
+      "comment": "The repeated washing highlights a continual need for spiritual purification in worship."
     },
     {
       "pk": 2040033,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 40,
       "verse": 33,
-      "text": "And he set up the court around the tabernacle and the altar, and put up the screen for the gate of the court. So Moses finished the work.",
-      "links": "<a href='/AIV/2/27/9-19'>Ex. 27:9-19</a>",
-      "comment": "Completion formula; literal."
+      "text": "He set up the courtyard around the tabernacle and altar, and hung the screen at the courtyard gate. So Moses finished the work.",
+      "links": "<a href='/AIV/1/2/1'>Gen. 2:1-2</a>; <a href='/AIV/66/21/3'>Rev. 21:3'</a>",
+      "comment": "Finishing echoes creation language, showing that worship and God’s dwelling ‘completes’ His people’s world."
     },
     {
       "pk": 2040034,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 40,
       "verse": 34,
       "text": "Then the cloud covered the tent of meeting, and the glory of the LORD filled the tabernacle.",
-      "links": "<a href='/AIV/2/13/21'>Ex. 13:21</a>, <a href='/AIV/1/8/11'>1 Kgs. 8:11</a>",
-      "comment": "'Glory of the LORD' a common OT phrase, kept literal."
+      "links": "<a href='/AIV/2/16/10'>Exod. 16:10</a>; <a href='/AIV/11/8/10'>1 Kgs. 8:10-11</a>; <a href='/AIV/43/1/14'>John 1:14</a>",
+      "comment": "God’s glory filling the tabernacle foreshadows the Incarnation—‘the Word became flesh and dwelt among us’ (John 1:14)."
     },
     {
       "pk": 2040035,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 40,
       "verse": 35,
-      "text": "And Moses was not able to enter the tent of meeting because the cloud settled on it, and the glory of the LORD filled the tabernacle.",
-      "links": "<a href='/AIV/2/40/34'>Ex. 40:34</a>, <a href='/AIV/3/1/1'>Lev. 1:1</a>",
-      "comment": "Reason for Moses' exclusion made clear."
+      "text": "Moses was not able to enter the tent of meeting because the cloud settled on it, and the glory of the LORD filled the tabernacle.",
+      "links": "<a href='/AIV/2/24/16'>Exod. 24:16-17</a>; <a href='/AIV/19/99/5'>Ps. 99:5</a>",
+      "comment": "Human inability to enter when God’s glory is present points to the need for a true mediator, fulfilled in Christ’s priestly work."
     },
     {
       "pk": 2040036,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 40,
       "verse": 36,
-      "text": "Throughout all their journeys, whenever the cloud was taken up from over the tabernacle, the people of Israel set out.",
-      "links": "<a href='/AIV/4/9/17-18'>Num. 9:17-18</a>",
-      "comment": "Travel instructions; 'set out' is a standard Hebrew idiom."
+      "text": "Whenever the cloud lifted up from the tabernacle, the Israelites would set out on their journey.",
+      "links": "<a href='/AIV/4/9/17'>Num. 9:17</a>; <a href='/AIV/4/10/11'>Num. 10:11-13</a>",
+      "comment": "God’s guidance is given through visible signs; emphasizes the communal journey of faith dependent on divine direction."
     },
     {
       "pk": 2040037,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 40,
       "verse": 37,
-      "text": "But if the cloud was not taken up, then they did not set out till the day that it was taken up.",
-      "links": "<a href='/AIV/4/9/19-22'>Num. 9:19-22</a>",
-      "comment": "Travel instructions continued; literal."
+      "text": "But if the cloud did not lift, they did not set out until the day it lifted.",
+      "links": "<a href='/AIV/4/9/18'>Num. 9:18-23</a>",
+      "comment": "Obedience is measured by waiting on God’s timing—a key virtue in spiritual formation."
     },
     {
       "pk": 2040038,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 40,
       "verse": 38,
-      "text": "For the cloud of the LORD was on the tabernacle by day, and fire was in it by night, in the sight of all the house of Israel throughout all their journeys.",
-      "links": "<a href='/AIV/2/13/21-22'>Ex. 13:21-22</a>, <a href='/AIV/4/9/15-16'>Num. 9:15-16</a>",
-      "comment": "Closing; traditional 'house of Israel' and pillar imagery kept literal."
+      "text": "For the cloud of the LORD was on the tabernacle by day, and fire was in it by night, in the sight of all the Israelites throughout all their journeys.",
+      "links": "<a href='/AIV/2/13/21'>Exod. 13:21-22</a>; <a href='/AIV/2/14/19'>Exod. 14:19-20</a>; <a href='/AIV/66/21/23'>Rev. 21:23'</a>",
+      "comment": "God’s visible presence with His people anticipates Christ’s promise to be with His church until the end (Matt. 28:20); the light/fire motif calls to mind the Spirit’s indwelling at Pentecost (Acts 2:3)."
     }
   ],
-  "translatedAt": "2025-12-20T09:10:39.920Z"
+  "translatedAt": "2025-12-24T01:09:43.716Z"
 }

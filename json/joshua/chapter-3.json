@@ -1,178 +1,213 @@
 {
-  "book": "Joshua",
+  "book": 6,
+  "bookName": "Joshua",
   "bookAbbreviation": "Josh",
   "chapter": 3,
   "verses": [
     {
-      "pk": 3043001,
+      "pk": 6003001,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 3,
       "verse": 1,
-      "text": "Joshua got up early in the morning, and they set out from Shittim. They came to the Jordan, he and all the people of Israel, and they camped there before they crossed over.",
-      "links": "<a href='/AIV/6/2/1'>Josh. 2:1</a>; <a href='/AIV/4/25/1'>Num. 25:1</a>",
-      "comment": "The translation keeps place names as in the original; Shittim is used as the location."
+      "text": "Joshua rose early in the morning, and he and all the Israelites set out from Shittim and came to the Jordan. They stayed there before they crossed over.",
+      "links": "<a href='/AIV/4/25/1'>Num. 25:1</a>; <a href='/AIV/6/1/10-11'>Josh. 1:10–11</a>",
+      "comment": "Joshua’s early rising shows his diligence as a leader. Shittim was the Israelites’ final camp before entering the Promised Land (see Num. 25:1), marking a pivotal transition, a prefiguration of new beginnings in the life of God’s people. The pause before crossing highlights the importance of readiness and trust in God."
     },
     {
-      "pk": 3043002,
+      "pk": 6003002,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 3,
       "verse": 2,
-      "text": "After three days, the officers went through the camp",
-      "links": "<a href='/AIV/6/1/10'>Josh. 1:10–11</a>",
-      "comment": "A simple rendering of the officers' action, matching the Hebrew structure."
+      "text": "After three days, the officers went through the camp,",
+      "links": "<a href='/AIV/6/1/11'>Josh. 1:11</a>; <a href='/AIV/2/19/11'>Ex. 19:11</a>",
+      "comment": "The three-day interval recalls other significant three-day periods in Scripture (see Ex. 19:11, referencing Sinai; also foreshadowing the resurrection—Matt. 12:40), symbolizing preparation, anticipation, and transformation—a pattern fulfilled in Christ."
     },
     {
-      "pk": 3043003,
+      "pk": 6003003,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 3,
       "verse": 3,
-      "text": "and they commanded the people, saying, \"When you see the ark of the covenant of the LORD your God being carried by the Levitical priests, then you shall set out from your place and follow it.\"",
-      "links": "<a href='/AIV/2/25/10-16'>Ex. 25:10-16</a>; <a href='/AIV/6/6/6'>Josh. 6:6</a>",
-      "comment": "Includes 'Levitical priests' for clarity, accurate per Hebrew."
+      "text": "and they commanded the people, saying, 'When you see the ark of the covenant of the LORD your God, carried by the Levitical priests, you must set out from your place and follow it.'",
+      "links": "<a href='/AIV/4/10/33'>Num. 10:33</a>; <a href='/AIV/6/6/6'>Josh. 6:6</a>",
+      "comment": "The ark, carried by the Levitical priests, symbolizes the visible presence of God among His people. The command to follow the ark highlights God’s initiative in leading His people, establishing a pattern of leadership through appointed mediators—a concept developed fully in the New Covenant, with Christ as the true High Priest (Heb. 9:11-12)."
     },
     {
-      "pk": 3043004,
+      "pk": 6003004,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 3,
       "verse": 4,
-      "text": "But there shall be a distance between you and it, about two thousand cubits by measure. Do not come near it, so that you may know the way you must go, for you have not passed this way before.\"",
-      "links": "<a href='/AIV/13/15/13-15'>1 Chron. 15:13-15</a>",
-      "comment": "The measurement 'two thousand cubits' retained for accuracy (equals roughly 3,000 feet)."
+      "text": "But keep a distance of about two thousand cubits between you and the ark; do not come near it, so that you will know the way to go, for you have not traveled this way before.",
+      "links": "<a href='/AIV/2/19/12'>Ex. 19:12</a>; <a href='/AIV/9/6/13'>2 Sam. 6:6-7</a>",
+      "comment": "This respectful distance underscores the holiness of God's presence and the reverence due, just as at Sinai (see Ex. 19:12). Human mediation and sacred distance point to the need for ordained leaders and sacraments to approach God properly, anticipating the reverence of new covenant worship (see Heb. 12:28-29)."
     },
     {
-      "pk": 3043005,
+      "pk": 6003005,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 3,
       "verse": 5,
-      "text": "And Joshua said to the people, \"Consecrate yourselves, for tomorrow the LORD will do wonders among you.\"",
-      "links": "<a href='/AIV/2/19/10-11'>Ex. 19:10-11</a>; <a href='/AIV/6/7/13'>Josh. 7:13</a>",
-      "comment": "Reflects the Hebrew 'consecrate,' meaning sanctify or prepare ceremonially."
+      "text": "Then Joshua said to the people, 'Consecrate yourselves, for tomorrow the LORD will do wonders among you.'",
+      "links": "<a href='/AIV/2/19/10-11'>Ex. 19:10–11</a>; <a href='/AIV/6/7/13'>Josh. 7:13</a>",
+      "comment": "'Consecrate yourselves' reflects the call to purification before encountering God, as at Sinai (Ex. 19:10-11). It shows God uses tangible means—rituals and preparation—to ready people for His action, a recurring theme pointing to the sanctifying power of the sacraments."
     },
     {
-      "pk": 3043006,
+      "pk": 6003006,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 3,
       "verse": 6,
-      "text": "And Joshua spoke to the priests, saying, \"Take up the ark of the covenant and go ahead of the people.\" So they took up the ark of the covenant and went before the people.",
-      "links": "<a href='/AIV/6/6/6'>Josh. 6:6</a>",
-      "comment": "Plainly translated, keeping the sequence clear."
+      "text": "And Joshua spoke to the priests, saying, 'Take up the ark of the covenant and pass on ahead of the people.' So they took up the ark of the covenant and went before the people.",
+      "links": "<a href='/AIV/6/6/6'>Josh. 6:6</a>; <a href='/AIV/4/4/5'>Num. 4:5</a>",
+      "comment": "The priests lead the procession, bearing the ark—a model of spiritual leadership and the role of consecrated ministry. The Lord’s presence is mediated through chosen vessels, a concept deepened by Christ appointing leaders with authority to shepherd His people (see Matt. 16:18-19)."
     },
     {
-      "pk": 3043007,
+      "pk": 6003007,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 3,
       "verse": 7,
-      "text": "The LORD said to Joshua, \"Today I will begin to exalt you in the sight of all Israel, so that they may know that, as I was with Moses, so I will be with you.\"",
+      "text": "And the LORD said to Joshua, 'Today I will begin to exalt you in the sight of all Israel, so that they will know that, just as I was with Moses, so I will be with you.'",
       "links": "<a href='/AIV/6/1/5'>Josh. 1:5</a>; <a href='/AIV/2/3/12'>Ex. 3:12</a>",
-      "comment": "Retains formal language for 'exalt,' matching the Hebrew verb."
+      "comment": "God’s promise to establish Joshua’s authority among the people mirrors Moses’ leadership (see Josh. 1:5). The principle of visible, God-given authority and apostolic succession appears early in Israel’s history and carries over into the New Covenant."
     },
     {
-      "pk": 3043008,
+      "pk": 6003008,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 3,
       "verse": 8,
-      "text": "\"And you shall command the priests who carry the ark of the covenant, saying, 'When you come to the edge of the waters of the Jordan, you shall stand still in the Jordan.'\"",
-      "links": "<a href='/AIV/6/4/10'>Josh. 4:10</a>",
-      "comment": "The command is rendered directly; 'edge' for literal Hebrew."
+      "text": "You shall command the priests who bear the ark of the covenant, ‘When you reach the edge of the waters of the Jordan, stand still in the Jordan.’",
+      "links": "<a href='/AIV/2/14/16'>Ex. 14:16</a>; <a href='/AIV/6/4/10'>Josh. 4:10</a>",
+      "comment": "The priests’ obedience prepares the way for a miracle akin to the Red Sea crossing. The call to stand in the water is an act of faith, trusting in God’s power through appointed mediators—a motif fulfilled in the sacraments, where grace comes through visible actions."
     },
     {
-      "pk": 3043009,
+      "pk": 6003009,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 3,
       "verse": 9,
-      "text": "Joshua said to the people of Israel, \"Come here and listen to the words of the LORD your God.\"",
-      "links": "<a href='/AIV/6/9/6'>Josh. 9:6</a>",
-      "comment": "Keeps the imperative 'Come here,' as in the literal text."
+      "text": "Joshua said to the Israelites, 'Come here, and hear the words of the LORD your God.'",
+      "links": "<a href='/AIV/5/5/1'>Deut. 5:1</a>; <a href='/AIV/6/24/1'>Josh. 24:1</a>",
+      "comment": "Joshua gathers the people to hear God’s word, highlighting the importance of assembly and proclamation, which finds its highest fulfillment in Christ’s teaching ministry and the worshiping community of the New Covenant."
     },
     {
-      "pk": 3043010,
+      "pk": 6003010,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 3,
       "verse": 10,
-      "text": "And Joshua said, \"By this you shall know that the living God is among you, and that he will certainly drive out before you the Canaanites, Hittites, Hivites, Perizzites, Girgashites, Amorites, and Jebusites.",
-      "links": "<a href='/AIV/6/23/9'>Josh. 23:9</a>; <a href='/AIV/2/3/8'>Ex. 3:8</a>",
-      "comment": "All people groups named as in the Hebrew."
+      "text": "And Joshua said, 'By this you will know that the living God is among you and that he will certainly drive out from before you the Canaanites, the Hittites, the Hivites, the Perizzites, the Girgashites, the Amorites, and the Jebusites.'",
+      "links": "<a href='/AIV/2/3/8'>Ex. 3:8</a>; <a href='/AIV/6/24/18'>Josh. 24:18</a>",
+      "comment": "‘The living God’ stands in contrast to idols (see Jer. 10:10). God’s active presence assures Israel’s victory. The conquest prefigures Christ’s defeat of evil (cf. 1 Cor. 15:24–26), and reminds us that God’s promises are enacted through history and covenant community."
     },
     {
-      "pk": 3043011,
+      "pk": 6003011,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 3,
       "verse": 11,
-      "text": "\"Look, the ark of the covenant of the Lord of all the earth is passing before you into the Jordan.\"",
-      "links": "<a href='/AIV/6/3/13'>Josh. 3:13</a>",
-      "comment": "'Lord of all the earth' preserved for theological emphasis."
+      "text": "Behold, the ark of the covenant of the Lord of all the earth is going ahead of you into the Jordan.",
+      "links": "<a href='/AIV/19/97/5'>Ps. 97:5</a>; <a href='/AIV/36/3/8'>Zech. 3:8</a>",
+      "comment": "The phrase ‘Lord of all the earth’ emphasizes God’s universal sovereignty. The ark’s passage before the people shows God’s initiative—His grace precedes and empowers His people, as seen most fully in Christ (John 1:16)."
     },
     {
-      "pk": 3043012,
+      "pk": 6003012,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 3,
       "verse": 12,
-      "text": "\"Now therefore, take twelve men from the tribes of Israel, one from each tribe.\"",
-      "links": "<a href='/AIV/6/4/2'>Josh. 4:2</a>",
-      "comment": "Matches the later instructions for selecting men."
+      "text": "Now select twelve men from the tribes of Israel, one man for each tribe.",
+      "links": "<a href='/AIV/6/4/2'>Josh. 4:2</a>; <a href='/AIV/41/3/14'>Mark 3:14</a>",
+      "comment": "Choosing the twelve prefigures the appointment of the twelve apostles, representing unity, order, and God’s chosen structure for His people (see Matt. 19:28). This foreshadows the foundational role of divinely appointed leaders in the new covenant community."
     },
     {
-      "pk": 3043013,
+      "pk": 6003013,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 3,
       "verse": 13,
-      "text": "\"And when the soles of the feet of the priests who carry the ark of the LORD, the Lord of all the earth, rest in the waters of the Jordan, the waters of the Jordan will be cut off, flowing down from above, and they will stand in one heap.\"",
-      "links": "<a href='/AIV/6/3/16'>Josh. 3:16</a>; <a href='/AIV/2/14/21-22'>Ex. 14:21-22</a>",
-      "comment": "'Heap' mirrors Exodus; language is literal."
+      "text": "And when the soles of the feet of the priests who carry the ark of the LORD, the Lord of all the earth, rest in the waters of the Jordan, the waters of the Jordan will be cut off, and the waters flowing down from above will stand in one heap.",
+      "links": "<a href='/AIV/2/14/21'>Ex. 14:21</a>; <a href='/AIV/19/114/3'>Ps. 114:3</a>",
+      "comment": "The miraculous halting of the Jordan echoes the Red Sea miracle, signifying God’s power to overcome obstacles for His people. Water as a barrier reminds us of baptism, by which God’s people pass from death to life (see 1 Pet. 3:20–21), with ordained ministry present at these defining moments."
     },
     {
-      "pk": 3043014,
+      "pk": 6003014,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 3,
       "verse": 14,
-      "text": "So when the people set out from their tents to cross the Jordan, the priests carrying the ark of the covenant went ahead of the people.",
-      "links": "<a href='/AIV/6/3/6'>Josh. 3:6</a>",
-      "comment": "Describes the order of procession, as in the original."
+      "text": "So when the people set out from their tents to cross the Jordan, with the priests carrying the ark of the covenant ahead of them,",
+      "links": "<a href='/AIV/4/10/33'>Num. 10:33</a>; <a href='/AIV/6/3/6'>Josh. 3:6</a>",
+      "comment": "The procession, led by the priests with the ark, demonstrates the essential unity of faith, leadership, and God’s presence—not a private faith, but a shared journey guided by God’s chosen instruments."
     },
     {
-      "pk": 3043015,
+      "pk": 6003015,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 3,
       "verse": 15,
-      "text": "And as soon as those carrying the ark came to the Jordan, and the feet of the priests who were carrying the ark dipped in the edge of the water (now the Jordan overflows all its banks throughout the time of harvest),",
-      "links": "<a href='/AIV/6/4/18'>Josh. 4:18</a>; <a href='/AIV/8/3/15'>Ruth 3:15</a>",
-      "comment": "Parenthesis clarifies for modern readers the seasonal flooding, preserved as a note in original."
+      "text": "and as soon as the priests who carried the ark came to the Jordan, and their feet dipped into the edge of the water—now the Jordan overflows all its banks during harvest time—",
+      "links": "<a href='/AIV/6/4/18'>Josh. 4:18</a>; <a href='/AIV/19/114/3'>Ps. 114:3</a>",
+      "comment": "The detail of the Jordan overflowing demonstrates the magnitude of the miracle. God’s miracles often occur when human effort is insufficient, requiring faith and obedience from both leaders and people."
     },
     {
-      "pk": 3043016,
+      "pk": 6003016,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 3,
       "verse": 16,
-      "text": "the waters flowing down from above stood and rose up in a heap very far away, at Adam, the city beside Zarethan. And those flowing down toward the Sea of the Arabah (the Salt Sea) were completely cut off. And the people crossed over opposite Jericho.",
-      "links": "<a href='/AIV/6/4/18'>Josh. 4:18</a>; <a href='/AIV/1/14/3'>Gen. 14:3</a>",
-      "comment": "'Sea of the Arabah' clarified as 'the Salt Sea' (Dead Sea), faithful to Hebrew."
+      "text": "the waters coming down from above stood and rose up in a heap very far away, at Adam, the city that is beside Zarethan; and the waters flowing down toward the Sea of the Arabah, the Salt Sea, were completely cut off. So the people crossed over opposite Jericho.",
+      "links": "<a href='/AIV/2/14/21'>Ex. 14:21</a>; <a href='/AIV/6/4/23'>Josh. 4:23</a>",
+      "comment": "The piling up of waters far upstream testifies to God's sovereignty over nature. This event parallels the Red Sea (Ex. 14:21), reinforcing that salvation history is marked by divinely instituted signs performed at pivotal points for His people’s benefit."
     },
     {
-      "pk": 3043017,
+      "pk": 6003017,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 3,
       "verse": 17,
-      "text": "And the priests who carried the ark of the covenant of the LORD stood firmly on dry ground in the middle of the Jordan, and all Israel crossed over on dry ground, until all the people had finished passing over the Jordan.",
-      "links": "<a href='/AIV/2/14/29'>Ex. 14:29</a>; <a href='/AIV/6/4/18'>Josh. 4:18</a>",
-      "comment": "Emphasizes 'dry ground' as in the Red Sea crossing; matches Hebrew phrasing."
+      "text": "And the priests who carried the ark of the covenant of the LORD stood firmly on dry ground in the midst of the Jordan, while all Israel crossed over on dry ground, until the entire nation had finished crossing the Jordan.",
+      "links": "<a href='/AIV/6/4/10'>Josh. 4:10</a>; <a href='/AIV/2/14/29'>Ex. 14:29</a>",
+      "comment": "The priests standing steady in the river demonstrates steadfast leadership while the people pass through. God uses mediators to provide, protect, and guide His people into the fullness of His promises—foreshadowing Christ, the High Priest, and continual spiritual guidance in the life of the Church."
     }
   ],
-  "translatedAt": "2025-12-20T10:06:08.565Z"
+  "translatedAt": "2025-12-24T02:17:57.813Z"
 }

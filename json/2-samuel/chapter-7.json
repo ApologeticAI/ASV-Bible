@@ -1,298 +1,357 @@
 {
-  "book": "2 Samuel",
+  "book": 10,
+  "bookName": "2 Samuel",
   "bookAbbreviation": "2Sam",
   "chapter": 7,
   "verses": [
     {
-      "pk": 2157001,
+      "pk": 10007001,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 7,
       "verse": 1,
-      "text": "After the king had settled in his house, and the LORD had given him rest from all his enemies around him,",
-      "links": "<a href='/AIV/13/17/1'>1 Chr. 17:1</a>; <a href='/AIV/10/21/15'>2 Sam. 21:15</a>",
-      "comment": "The construction 'rest from all his enemies' is a literal translation from the Hebrew phrase (מִכָּל־אֹיְבָיו מִסָּבִיב)."
+      "text": "When King David had settled in his house, and the LORD had given him rest from all his enemies on every side,",
+      "links": "<a href='/AIV/10/5/12'>2Sam 5:12</a>; <a href='/AIV/13/17/1'>1Chr 17:1</a>",
+      "comment": "This verse sets the context for God's covenant with David. David's peace foreshadows the blessing given to chosen leaders."
     },
     {
-      "pk": 2157002,
+      "pk": 10007002,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 7,
       "verse": 2,
-      "text": "the king said to Nathan the prophet, \"See now, I am living in a house of cedar, but the ark of God dwells inside a tent of curtains.\"",
-      "links": "<a href='/AIV/13/17/1'>1 Chr. 17:1</a>; <a href='/AIV/02/26/7'>Ex. 26:7</a>",
-      "comment": "Translated 'tent of curtains' as literal; could also be 'tent cloth', but maintained the traditional phrase."
+      "text": "The king said to Nathan the prophet, \"See now, I dwell in a house of cedar, but the ark of God dwells inside a tent.\"",
+      "links": "<a href='/AIV/10/6/17'>2Sam 6:17</a>; <a href='/AIV/13/17/1'>1Chr 17:1</a>",
+      "comment": "David desires to honor God by building a permanent dwelling for the ark, reflecting humility and stewardship. Note the implication of sacred dwelling spaces, which later connect to temple worship."
     },
     {
-      "pk": 2157003,
+      "pk": 10007003,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 7,
       "verse": 3,
       "text": "Nathan said to the king, \"Go, do all that is in your heart, for the LORD is with you.\"",
-      "links": "<a href='/AIV/13/17/2'>1 Chr. 17:2</a>",
-      "comment": "The phrase 'do all that is in your heart' follows the Hebrew idiom, meaning 'do as you desire'."
+      "links": "<a href='/AIV/10/5/10'>2Sam 5:10</a>; <a href='/AIV/10/8/14'>2Sam 8:14</a>",
+      "comment": "Nathan initially approves, seeing God's favor upon David. Prophetic approval is seen as necessary in important decisions, prefiguring the necessity for apostolic guidance in spiritual leadership."
     },
     {
-      "pk": 2157004,
+      "pk": 10007004,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 7,
       "verse": 4,
       "text": "But that night the word of the LORD came to Nathan, saying,",
-      "links": "<a href='/AIV/13/17/3'>1 Chr. 17:3</a>",
-      "comment": "'word of the LORD came' is kept literal from Hebrew expression."
+      "links": "<a href='/AIV/13/17/3'>1Chr 17:3</a>",
+      "comment": "God intervenes, revealing His plan—showing that spiritual authority comes through divine revelation, not just human intent."
     },
     {
-      "pk": 2157005,
+      "pk": 10007005,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 7,
       "verse": 5,
-      "text": "\"Go and say to My servant David, 'Thus says the LORD: Would you build Me a house to dwell in?",
-      "links": "<a href='/AIV/13/17/4'>1 Chr. 17:4</a>; <a href='/AIV/10/7/7'>2 Sam. 7:7</a>",
-      "comment": "Quoted direct speech as in the original; 'Would you build Me a house' is a direct rendering."
+      "text": "\"Go and tell my servant David, 'Thus says the LORD: Will you build me a house to dwell in?'\"",
+      "links": "<a href='/AIV/10/7/2'>2Sam 7:2</a>; <a href='/AIV/13/17/4'>1Chr 17:4</a>",
+      "comment": "God refers to David as 'my servant,' affirming his chosen status but redirecting his plan. God's dwelling is not by human initiative; His initiative prefigures His coming to dwell among men in the Incarnation."
     },
     {
-      "pk": 2157006,
+      "pk": 10007006,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 7,
       "verse": 6,
-      "text": "For I have not lived in a house from the day I brought up the children of Israel from Egypt to this day, but I have moved about in a tent and in a tabernacle.",
-      "links": "<a href='/AIV/02/40/34-38'>Ex. 40:34-38</a>; <a href='/AIV/13/17/5'>1 Chr. 17:5</a>",
-      "comment": "Maintained terms 'tent' and 'tabernacle' for accuracy; Hebrew verbs translate 'moved about.'"
+      "text": "\"I have not dwelt in a house since the day I brought up the sons of Israel out of Egypt until this day, but I have moved about in a tent and in a tabernacle.\"",
+      "links": "<a href='/AIV/02/40/34'>Exod 40:34</a>; <a href='/AIV/13/17/5'>1Chr 17:5</a>",
+      "comment": "God emphasizes His presence with His people even without permanent physical structures. This echoes His continuous guidance and foreshadows abiding spiritual presence."
     },
     {
-      "pk": 2157007,
+      "pk": 10007007,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 7,
       "verse": 7,
-      "text": "In all the places where I have moved with all the children of Israel, did I ever speak a word with any of the tribes of Israel, whom I commanded to shepherd My people Israel, saying, \"Why have you not built Me a house of cedar?\"",
-      "links": "<a href='/AIV/13/17/6'>1 Chr. 17:6</a>",
-      "comment": "Rendered as a rhetorical question, mirroring the Hebrew structure."
+      "text": "\"In all places where I have moved with all the sons of Israel, did I ever speak a word to any of the tribal leaders of Israel, whom I commanded to shepherd my people Israel, saying, 'Why have you not built me a house of cedar?'\"",
+      "links": "<a href='/AIV/09/8/6'>1Sam 8:6</a>; <a href='/AIV/13/17/6'>1Chr 17:6</a>",
+      "comment": "God clarifies that a permanent house was never His command, underscoring prioritizing obedience to His word above human tradition. Spiritual authority established by God is emphasized."
     },
     {
-      "pk": 2157008,
+      "pk": 10007008,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 7,
       "verse": 8,
-      "text": "Now therefore, say this to My servant David: 'Thus says the LORD of hosts, I took you from the pasture, from following the sheep, to be ruler over My people Israel.",
-      "links": "<a href='/AIV/13/17/7'>1 Chr. 17:7</a>; <a href='/AIV/09/16/11'>1 Sam. 16:11-13</a>",
-      "comment": "'From the pasture, from following the sheep' translates literally; 'ruler' is often 'prince' in some translations."
+      "text": "\"Now therefore, this is what you will say to my servant David: 'Thus says the LORD of hosts: I took you from the pasture, from following the sheep, to be ruler over my people Israel.'\"",
+      "links": "<a href='/AIV/09/16/11'>1Sam 16:11</a>; <a href='/AIV/10/5/2'>2Sam 5:2</a>",
+      "comment": "God highlights David’s humble beginnings and divine calling. The motif of elevation from lowliness recalls God’s pattern of choosing the humble, typified ultimately in the Virgin Mary and Christ."
     },
     {
-      "pk": 2157009,
+      "pk": 10007009,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 7,
       "verse": 9,
-      "text": "And I have been with you wherever you went and have cut off all your enemies from before you. I will make your name great, like the names of the great men of the earth.",
-      "links": "<a href='/AIV/13/17/8'>1 Chr. 17:8</a>; <a href='/AIV/01/12/2'>Gen. 12:2</a>",
-      "comment": "The promise 'make your name great' is parallel to Gen. 12:2."
+      "text": "\"I have been with you wherever you went and have cut off all your enemies before you; I will make for you a great name, like the name of the great ones of the earth.\"",
+      "links": "<a href='/AIV/01/12/2'>Gen 12:2</a>; <a href='/AIV/10/8/6'>2Sam 8:6</a>",
+      "comment": "The promise echoes God's covenant with Abraham. David’s name, made great, prefigures the everlasting kingship fulfilled in Jesus Christ, whose name is above every name (<a href='/AIV/50/2/9'>Phil. 2:9</a>)."
     },
     {
-      "pk": 2157010,
+      "pk": 10007010,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 7,
       "verse": 10,
-      "text": "And I will appoint a place for My people Israel and will plant them, so that they may live in their own place and not be disturbed anymore. Wicked men will not oppress them again as they did at the beginning,",
-      "links": "<a href='/AIV/13/17/9'>1 Chr. 17:9</a>",
-      "comment": "'I will plant them' is a metaphor from the Hebrew. 'Wicked men' translated from 'sons of wickedness.'"
+      "text": "\"Moreover, I will appoint a place for my people Israel and will plant them, that they may dwell in their own place and be disturbed no more. Violent men shall no longer oppress them as before,",
+      "links": "<a href='/AIV/10/8/11'>2Sam 8:11</a>; <a href='/AIV/24/24/6'>Jer 24:6</a>",
+      "comment": "This promise of peace and security points forward to the fulfillment of God’s kingdom, both in the land and in the spiritual Church. The ‘planting’ evokes a theme of permanence and rootedness."
     },
     {
-      "pk": 2157011,
+      "pk": 10007011,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 7,
       "verse": 11,
-      "text": "even from the time that I appointed judges over My people Israel. And I will give you rest from all your enemies. Moreover, the LORD declares to you that the LORD will make a house for you.",
-      "links": "<a href='/AIV/13/17/10'>1 Chr. 17:10</a>",
-      "comment": "'Make a house' refers to a dynasty; kept 'house' to be faithful."
+      "text": "\"Since the time I appointed judges over my people Israel, I will give you rest from all your enemies. Further, the LORD declares to you that the LORD will establish a house for you.\"",
+      "links": "<a href='/AIV/07/2/16'>Judg 2:16</a>; <a href='/AIV/13/17/10'>1Chr 17:10</a>",
+      "comment": "God promises David a ‘house’—not just a building, but a dynastic line. This is foundational for the messianic expectation fulfilled in Christ the Son of David (<a href='/AIV/40/1/1'>Matt 1:1</a>)."
     },
     {
-      "pk": 2157012,
+      "pk": 10007012,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 7,
       "verse": 12,
-      "text": "\"When your days are fulfilled and you rest with your fathers, I will raise up your offspring after you, who will come from your own body, and I will establish his kingdom.",
-      "links": "<a href='/AIV/13/17/11'>1 Chr. 17:11</a>; <a href='/AIV/10/12/7'>2 Sam. 12:7</a>",
-      "comment": "'Rest with your fathers' is a literal Hebrew idiom meaning 'die.'"
+      "text": "\"When your days are fulfilled and you rest with your ancestors, I will raise up your offspring after you, who will come from your own body, and I will establish his kingdom.\"",
+      "links": "<a href='/AIV/10/12/24'>2Sam 12:24</a>; <a href='/AIV/40/1/1'>Matt 1:1</a>",
+      "comment": "Here, God promises a royal descendant who will establish David's kingdom. This has both a literal (Solomon) and spiritual (Christ) fulfillment, signifying a divinely ordained lineage."
     },
     {
-      "pk": 2157013,
+      "pk": 10007013,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 7,
       "verse": 13,
-      "text": "He will build a house for My name, and I will establish the throne of his kingdom forever.",
-      "links": "<a href='/AIV/13/17/12'>1 Chr. 17:12</a>",
-      "comment": "'House for My name' is a Hebraism indicating the temple."
+      "text": "\"He shall build a house for my name, and I will establish the throne of his kingdom forever.\"",
+      "links": "<a href='/AIV/11/6/38'>1Kings 6:38</a>; <a href='/AIV/42/1/32-33'>Luke 1:32-33</a>",
+      "comment": "On one level, this refers to Solomon building the temple; on another, points to Christ, whose kingdom and Church (spiritual house) endures forever."
     },
     {
-      "pk": 2157014,
+      "pk": 10007014,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 7,
       "verse": 14,
-      "text": "I will be his father, and he will be My son. If he commits iniquity, I will discipline him with the rod of men and with the stripes of the sons of men.",
-      "links": "<a href='/AIV/13/17/13'>1 Chr. 17:13</a>; <a href='/AIV/58/1/5'>Heb. 1:5</a>",
-      "comment": "'With the rod of men' and 'stripes of men' are literal renderings; discipline/punishment for sin."
+      "text": "\"I will be his father, and he shall be my son. When he does wrong, I will discipline him with the rod of men and with the stripes of the sons of men,",
+      "links": "<a href='/AIV/13/28/6'>1Chr 28:6</a>; <a href='/AIV/58/1/5'>Heb 1:5</a>",
+      "comment": "These words are cited in the New Testament about Christ (<a href='/AIV/58/1/5'>Heb 1:5</a>), emphasizing divine sonship. The punishment relates to Solomon and future kings, but the perfect Son, Christ, bears discipline not for His own sins but for ours (<a href='/AIV/23/53/5'>Isa 53:5</a>)."
     },
     {
-      "pk": 2157015,
+      "pk": 10007015,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 7,
       "verse": 15,
-      "text": "But My faithful love will not depart from him, as I took it from Saul, whom I removed from before you.",
-      "links": "<a href='/AIV/13/17/13'>1 Chr. 17:13</a>; <a href='/AIV/09/15/23'>1 Sam. 15:23</a>",
-      "comment": "'Faithful love' translates Hebrew 'chesed'; 'removed from before you' is literal."
+      "text": "\"but my steadfast love will not depart from him, as I took it from Saul, whom I removed from before you.\"",
+      "links": "<a href='/AIV/09/15/28'>1Sam 15:28</a>; <a href='/AIV/10/5/2'>2Sam 5:2</a>",
+      "comment": "God’s covenant remains with David's line, contrasted to Saul. This pledge of enduring mercy echoes the faithfulness God shows to those chosen for His purposes."
     },
     {
-      "pk": 2157016,
+      "pk": 10007016,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 7,
       "verse": 16,
-      "text": "Your house and your kingdom will be made sure forever before Me; your throne will be established forever.'\"",
-      "links": "<a href='/AIV/13/17/14'>1 Chr. 17:14</a>; <a href='/AIV/19/89/29'>Ps. 89:29-37</a>",
-      "comment": "'Made sure forever before Me' is literal, expressing permanence."
+      "text": "\"And your house and your kingdom shall be made sure forever before me; your throne shall be established forever.'\"",
+      "links": "<a href='/AIV/10/23/5'>2Sam 23:5</a>; <a href='/AIV/42/1/32-33'>Luke 1:32-33</a>",
+      "comment": "The unconditional promise of David’s everlasting throne is fulfilled spiritually in Jesus, whose kingship is eternal. This supports the doctrine of apostolic succession and a visible, perpetual kingdom."
     },
     {
-      "pk": 2157017,
+      "pk": 10007017,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 7,
       "verse": 17,
-      "text": "Nathan spoke to David all these words and this entire vision.",
-      "links": "<a href='/AIV/13/17/15'>1 Chr. 17:15</a>",
-      "comment": "Maintained the phrase 'this entire vision' as in the Hebrew."
+      "text": "Nathan reported all these words and this entire vision to David.",
+      "links": "<a href='/AIV/13/17/15'>1Chr 17:15</a>",
+      "comment": "Nathan, as prophet, communicates God’s revelation accurately, underscoring the role of prophetic and teaching authority within God’s people."
     },
     {
-      "pk": 2157018,
+      "pk": 10007018,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 7,
       "verse": 18,
-      "text": "Then King David went in and sat before the LORD and said, \"Who am I, Lord GOD, and what is my house, that You have brought me this far?",
-      "links": "<a href='/AIV/13/17/16'>1 Chr. 17:16</a>",
-      "comment": "Direct speech is rendered in quotation marks; 'sat before the LORD' is a literal translation."
+      "text": "Then King David went in, sat before the LORD, and said, \"Who am I, O LORD God, and what is my house, that you have brought me this far?\"",
+      "links": "<a href='/AIV/13/17/16'>1Chr 17:16</a>",
+      "comment": "David in humility acknowledges God’s favor. This posture of prayer foreshadows the necessity of intercession and humble submission before God's majesty."
     },
     {
-      "pk": 2157019,
+      "pk": 10007019,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 7,
       "verse": 19,
-      "text": "And as if this were not enough in Your sight, Lord GOD, You have also spoken of Your servant’s house for a great while to come. And this is instruction for mankind, O Lord GOD!",
-      "links": "<a href='/AIV/13/17/17'>1 Chr. 17:17</a>",
-      "comment": "The phrase 'instruction for mankind' is literally 'Torah for man'; some translations say 'a law for mankind'."
+      "text": "\"And yet this was a small thing in your eyes, O Lord GOD. You have spoken also of your servant’s house for a great while to come, and this is instruction for mankind, O Lord GOD!\"",
+      "links": "<a href='/AIV/10/13/13'>2Sam 13:13</a>; <a href='/AIV/13/17/17'>1Chr 17:17</a>",
+      "comment": "David recognizes the far-reaching implications of God's promise. This ‘instruction for mankind’ points to the universal scope of salvation history."
     },
     {
-      "pk": 2157020,
+      "pk": 10007020,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 7,
       "verse": 20,
-      "text": "What more can David say to You? For You know Your servant, Lord GOD.",
-      "links": "<a href='/AIV/19/139/1'>Ps. 139:1</a>",
-      "comment": "'For You know Your servant' rendered literally from Hebrew."
+      "text": "\"What more can David say to you? For you know your servant, O Lord God.\"",
+      "links": "<a href='/AIV/13/17/18'>1Chr 17:18</a>",
+      "comment": "David expresses utter dependence and transparency before God. True worship is founded upon God’s knowledge of our hearts and our humble response."
     },
     {
-      "pk": 2157021,
+      "pk": 10007021,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 7,
       "verse": 21,
-      "text": "Because of Your word and according to Your own heart, You have done all this greatness, to make Your servant know it.",
-      "links": "<a href='/AIV/13/17/19'>1 Chr. 17:19</a>",
-      "comment": "'According to Your own heart' mirrors the Hebrew idiom."
+      "text": "\"Because of your word and according to your own heart, you have done all this greatness to make it known to your servant.\"",
+      "links": "<a href='/AIV/13/17/19'>1Chr 17:19</a>",
+      "comment": "God’s actions are always out of His own purpose and love. The greatness shown to David arises from covenant faithfulness, prefiguring the grace given to believers."
     },
     {
-      "pk": 2157022,
+      "pk": 10007022,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 7,
       "verse": 22,
-      "text": "Therefore You are great, O LORD God. For there is none like You, and there is no God but You, as we have heard with our ears.",
-      "links": "<a href='/AIV/05/4/35'>Deut. 4:35</a>; <a href='/AIV/19/86/8'>Ps. 86:8</a>",
-      "comment": "Faithful rendering of Hebrew superlatives."
+      "text": "\"Therefore you are great, O LORD God. There is none like you, and there is no god besides you, according to all that we have heard with our ears.\"",
+      "links": "<a href='/AIV/05/4/35'>Deut 4:35</a>; <a href='/AIV/13/17/20'>1Chr 17:20</a>",
+      "comment": "David’s praise proclaims monotheism and God’s uniqueness. The revelation of one God sets the stage for fuller understanding of His nature in salvation history."
     },
     {
-      "pk": 2157023,
+      "pk": 10007023,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 7,
       "verse": 23,
-      "text": "And who is like Your people Israel, the one nation on earth whom God went to redeem for Himself as a people, to make a name for Himself and to do for them great and awesome things by driving out nations and their gods before Your people, whom You redeemed from Egypt?",
-      "links": "<a href='/AIV/02/15/13'>Ex. 15:13</a>; <a href='/AIV/05/4/34'>Deut. 4:34</a>",
-      "comment": "'Nations and their gods' is a literal rendering; 'redeem' kept for theological accuracy."
+      "text": "\"And who is like your people Israel, the one nation on earth whom God went to redeem as a people for Himself, to make a name for Yourself, and to do for them great and awesome things, driving out nations and their gods before your people whom You redeemed from Egypt?\"",
+      "links": "<a href='/AIV/02/12/51'>Exod 12:51</a>; <a href='/AIV/05/4/34'>Deut 4:34</a>",
+      "comment": "Redemption from Egypt is a type of salvation in Christ; God’s election of Israel points toward the calling of all people through the new covenant."
     },
     {
-      "pk": 2157024,
+      "pk": 10007024,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 7,
       "verse": 24,
-      "text": "And You established Your people Israel for Yourself as a people forever. And You, LORD, became their God.",
-      "links": "<a href='/AIV/01/17/7-8'>Gen. 17:7-8</a>; <a href='/AIV/24/31/33'>Jer. 31:33</a>",
-      "comment": "Phrase structure follows the Hebrew."
+      "text": "\"You established your people Israel as your own people forever, and you, O LORD, became their God.\"",
+      "links": "<a href='/AIV/01/17/7'>Gen 17:7</a>; <a href='/AIV/13/17/22'>1Chr 17:22</a>",
+      "comment": "God’s everlasting commitment to Israel prefigures His unbreakable union with the Church, a people of God drawn from every nation."
     },
     {
-      "pk": 2157025,
+      "pk": 10007025,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 7,
       "verse": 25,
-      "text": "Now, LORD God, confirm forever the word that You have spoken concerning Your servant and concerning his house, and do as You have spoken.",
-      "links": "<a href='/AIV/13/17/23'>1 Chr. 17:23</a>",
-      "comment": "'Confirm forever' is literal."
+      "text": "\"Now, O LORD God, confirm forever the word you have spoken concerning your servant and his house, and do as you have spoken.\"",
+      "links": "<a href='/AIV/10/7/16'>2Sam 7:16</a>; <a href='/AIV/13/17/23'>1Chr 17:23</a>",
+      "comment": "David prays for the fulfillment of God's promise, modeling assent to divine will. This attitude reflects trusting acceptance of God’s revealed plan."
     },
     {
-      "pk": 2157026,
+      "pk": 10007026,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 7,
       "verse": 26,
-      "text": "And Your name will be magnified forever, saying, 'The LORD of hosts is God over Israel,' and the house of Your servant David will be established before You.",
-      "links": "<a href='/AIV/13/17/24'>1 Chr. 17:24</a>",
-      "comment": "'Magnified' is literal translation of Hebrew verb."
+      "text": "\"And your name will be magnified forever, saying, 'The LORD of hosts is God over Israel,' and the house of your servant David will be established before you.\"",
+      "links": "<a href='/AIV/13/17/24'>1Chr 17:24</a>",
+      "comment": "David desires that God’s glory be seen through the perpetuity of his line. The eternal kingdom echoes the Church’s indefectibility and visible witness on earth."
     },
     {
-      "pk": 2157027,
+      "pk": 10007027,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 7,
       "verse": 27,
-      "text": "For You, O LORD of hosts, the God of Israel, have revealed to Your servant, 'I will build you a house.' Therefore Your servant has found courage to pray this prayer to You.",
-      "links": "<a href='/AIV/13/17/25'>1 Chr. 17:25</a>",
-      "comment": "'Found courage to pray' is literal to the original meaning."
+      "text": "\"For you, O LORD of hosts, God of Israel, have revealed this to your servant, saying, 'I will build you a house.' Therefore your servant has found courage to pray this prayer to you.\"",
+      "links": "<a href='/AIV/13/17/25'>1Chr 17:25</a>",
+      "comment": "Divine revelation gives David confidence to pray for great things—an example of boldness rooted in God’s promise and election."
     },
     {
-      "pk": 2157028,
+      "pk": 10007028,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 7,
       "verse": 28,
-      "text": "Now, O Lord GOD, You are God, and Your words are true, and You have promised this good thing to Your servant.",
-      "links": "<a href='/AIV/13/17/26'>1 Chr. 17:26</a>",
-      "comment": "'Your words are true' is a literal, theological affirmation."
+      "text": "\"Now, O Lord GOD, you are God, and your words are true, and you have promised this good thing to your servant.\"",
+      "links": "<a href='/AIV/13/17/26'>1Chr 17:26</a>; <a href='/AIV/56/1/2'>Titus 1:2</a>",
+      "comment": "God’s truthfulness and fidelity to His word is extolled. This highlights the basis of trust in divine promises and their fulfillment in Christ."
     },
     {
-      "pk": 2157029,
+      "pk": 10007029,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 7,
       "verse": 29,
-      "text": "Now therefore, may it please You to bless the house of Your servant, so that it may continue forever before You. For You, O Lord GOD, have spoken, and with Your blessing the house of Your servant will be blessed forever.\"",
-      "links": "<a href='/AIV/13/17/27'>1 Chr. 17:27</a>",
-      "comment": "'May it please You to bless' reflects Hebrew; 'continue forever' rendered from Hebrew idiom."
+      "text": "\"Now therefore, may it please you to bless the house of your servant, so that it may continue forever before you; for you, O Lord GOD, have spoken, and with your blessing shall the house of your servant be blessed forever.\"",
+      "links": "<a href='/AIV/13/17/27'>1Chr 17:27</a>; <a href='/AIV/40/16/18'>Matt 16:18</a>",
+      "comment": "David asks for perpetual blessing allied to God’s irreversible promise. The theme of an everlasting dynasty ties to Christ’s kingship and the enduring visible institution He founded."
     }
   ],
-  "translatedAt": "2025-12-22T09:36:58.186Z"
+  "translatedAt": "2025-12-24T03:15:01.765Z"
 }

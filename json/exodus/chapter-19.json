@@ -1,258 +1,309 @@
 {
-  "book": "Exodus",
+  "book": 2,
+  "bookName": "Exodus",
   "bookAbbreviation": "Exod",
   "chapter": 19,
   "verses": [
     {
-      "pk": 1901901,
+      "pk": 2019001,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 19,
       "verse": 1,
-      "text": "In the third month after the sons of Israel had gone out of the land of Egypt, on that very day, they came into the wilderness of Sinai.",
-      "links": "<a href='/AIV/2/16/1'>Ex. 16:1</a>; <a href='/AIV/4/33/15'>Num. 33:15</a>",
-      "comment": "The phrase 'on that very day' follows the literal Hebrew 'in the same day.'"
+      "text": "On the third new moon after the Israelites came out of the land of Egypt, they arrived at the wilderness of Sinai.",
+      "links": "<a href='/AIV/2/12/51'>Exod. 12:51</a>; <a href='/AIV/4/33/15-16'>Num. 33:15-16</a>",
+      "comment": "This verse marks a key moment in Israel's journey toward covenant. The mention of the 'third new moon' emphasizes the ordered timing of God's plan."
     },
     {
-      "pk": 1901902,
+      "pk": 2019002,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 19,
       "verse": 2,
-      "text": "After they set out from Rephidim and came into the wilderness of Sinai, they camped in the wilderness. Israel camped there before the mountain.",
-      "links": "<a href='/AIV/2/17/1'>Ex. 17:1</a>; <a href='/AIV/4/33/14'>Num. 33:14</a>",
-      "comment": "Maintains the structure and literal word order."
+      "text": "After they set out from Rephidim and entered the wilderness of Sinai, Israel camped there in front of the mountain.",
+      "links": "<a href='/AIV/2/17/1'>Exod. 17:1</a>; <a href='/AIV/2/3/12'>Exod. 3:12</a>",
+      "comment": "The location before the mountain is significant; it fulfills God's promise in Exod. 3:12 that Moses would bring the people to worship here. There is typology here prefiguring later themes of sacred mountains."
     },
     {
-      "pk": 1901903,
+      "pk": 2019003,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 19,
       "verse": 3,
-      "text": "Moses went up to God, and the LORD called to him from the mountain, saying, 'This is what you shall say to the house of Jacob and tell the sons of Israel:",
-      "links": "<a href='/AIV/2/3/12'>Ex. 3:12</a>",
-      "comment": "The term 'sons of Israel' (Hebrew: benê yiśrā’ēl) is preserved rather than 'children' for accuracy."
+      "text": "Moses went up to God, and the LORD called to him from the mountain, saying, 'This is what you must say to the house of Jacob and declare to the children of Israel:'",
+      "links": "<a href='/AIV/2/3/6'>Exod. 3:6</a>; <a href='/AIV/2/24/12'>Exod. 24:12</a>",
+      "comment": "God initiates the dialogue, reinforcing Moses' role as a mediator and establishing the people as a distinct community."
     },
     {
-      "pk": 1901904,
+      "pk": 2019004,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 19,
       "verse": 4,
-      "text": "'You have seen what I did to Egypt, and how I bore you on eagles' wings and brought you to Myself.'",
-      "links": "<a href='/AIV/2/3/8'>Ex. 3:8</a>; <a href='/AIV/5/32/11'>Deut. 32:11–12</a>",
-      "comment": "The phrase 'how I bore you on eagles’ wings' retains the metaphor and construction of the Hebrew."
+      "text": "'You yourselves have seen what I did to Egypt, and how I carried you on eagles’ wings and brought you to myself.'",
+      "links": "<a href='/AIV/5/32/11'>Deut. 32:11'>Deut. 32:11</a>; <a href='/AIV/23/40/31'>Isa. 40:31</a>",
+      "comment": "The 'eagles’ wings' language highlights God's redeeming and protective power. There is a spiritual allusion to being brought to intimate union with God, a theme that will deepen later in scripture."
     },
     {
-      "pk": 1901905,
+      "pk": 2019005,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 19,
       "verse": 5,
-      "text": "'Now therefore, if you will indeed obey My voice and keep My covenant, then you shall be My treasured possession out of all the peoples, for all the earth is Mine.'",
-      "links": "<a href='/AIV/5/7/6'>Deut. 7:6</a>; <a href='/AIV/19/135/4'>Ps. 135:4</a>; <a href='/AIV/1/14/19'>Gen. 14:19</a>",
-      "comment": "'Treasured possession' is translated from the Hebrew segullah. Meaning preserved."
+      "text": "'Now, if you truly listen to my voice and keep my covenant, you will be my treasured possession out of all peoples, for all the earth is mine.'",
+      "links": "<a href='/AIV/5/7/6'>Deut. 7:6</a>; <a href='/AIV/19/135/4'>Ps. 135:4</a>; <a href='/AIV/60/2/9'>1 Pet. 2:9</a>",
+      "comment": "This conditional covenant is central, drawing Israel into a special relationship. The idea of a ‘treasured possession’ finds fulfillment in the New Testament as God’s people (see 1 Pet. 2:9)."
     },
     {
-      "pk": 1901906,
+      "pk": 2019006,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 19,
       "verse": 6,
-      "text": "'And you shall be to Me a kingdom of priests and a holy nation.' These are the words you shall speak to the sons of Israel.",
-      "links": "<a href='/AIV/6/1/6'>Josh. 1:6</a>; <a href='/AIV/60/2/9'>1 Pet. 2:9</a>; <a href='/AIV/3/20/26'>Lev. 20:26</a>",
-      "comment": "The phrase 'kingdom of priests and a holy nation' is translated as literally as possible."
+      "text": "'And you shall be to me a kingdom of priests and a holy nation. These are the words you shall speak to the children of Israel.'",
+      "links": "<a href='/AIV/3/8/10'>Lev. 8:10</a>; <a href='/AIV/60/2/9'>1 Pet. 2:9</a>; <a href='/AIV/66/5/10'>Rev. 5:10</a>",
+      "comment": "God intends Israel to have a priestly, mediatorial role among nations. This points toward the New Covenant’s universal priesthood and highlights Israel's mission and calling."
     },
     {
-      "pk": 1901907,
+      "pk": 2019007,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 19,
       "verse": 7,
-      "text": "So Moses came and called the elders of the people, and set before them all these words that the LORD had commanded him.",
-      "links": "<a href='/AIV/2/4/29'>Ex. 4:29–30</a>",
-      "comment": "'Set before them' follows the literal language."
+      "text": "So Moses came and called for the elders of the people, and set before them all these words that the LORD had commanded him.",
+      "links": "<a href='/AIV/2/4/29'>Exod. 4:29</a>; <a href='/AIV/2/24/3'>Exod. 24:3</a>",
+      "comment": "The role of the elders highlights the importance of ordered leadership and the transmission of God's revelation through appointed representatives."
     },
     {
-      "pk": 1901908,
+      "pk": 2019008,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 19,
       "verse": 8,
-      "text": "And all the people answered together and said, 'All that the LORD has spoken we will do.' And Moses brought back the words of the people to the LORD.",
-      "links": "<a href='/AIV/2/24/3'>Ex. 24:3</a>",
-      "comment": "Literal rendering, with the repetition of 'words.'"
+      "text": "All the people answered together, 'Everything the LORD has spoken, we will do.' So Moses brought their words back to the LORD.",
+      "links": "<a href='/AIV/2/24/3'>Exod. 24:3</a>; <a href='/AIV/2/24/7'>Exod. 24:7</a>",
+      "comment": "The people’s unified response reflects the community's acceptance of the covenant—prefiguring the later role of the faithful in responding collectively to God's initiatives."
     },
     {
-      "pk": 1901909,
+      "pk": 2019009,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 19,
       "verse": 9,
-      "text": "And the LORD said to Moses, 'Behold, I am coming to you in a thick cloud, so that the people may hear when I speak with you and believe you forever.' Then Moses told the words of the people to the LORD.",
-      "links": "<a href='/AIV/2/40/34'>Ex. 40:34</a>; <a href='/AIV/5/5/22-27'>Deut. 5:22–27</a>",
-      "comment": "'Thick cloud' is a literal translation of Hebrew 'ʿānān ʿāvēh.'"
+      "text": "The LORD said to Moses, 'Look, I am coming to you in a thick cloud, so that the people may hear when I speak with you, and may trust you forever.' Then Moses reported the people’s words to the LORD.",
+      "links": "<a href='/AIV/2/24/16'>Exod. 24:16</a>; <a href='/AIV/19/99/7'>Ps. 99:7</a>",
+      "comment": "God’s appearance in the cloud sets the stage for theophany—a revelation combining mystery and intimacy. Also, affirms Moses' unique mediatory role, an early type for later mediation in salvation history."
     },
     {
-      "pk": 1901910,
+      "pk": 2019010,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 19,
       "verse": 10,
-      "text": "The LORD said to Moses, 'Go to the people and consecrate them today and tomorrow, and let them wash their clothes.'",
-      "links": "<a href='/AIV/3/11/44'>Lev. 11:44</a>; <a href='/AIV/6/3/5'>Josh. 3:5</a>",
-      "comment": "'Consecrate' uses the literal word for sanctify/set apart."
+      "text": "The LORD said to Moses, 'Go to the people and consecrate them today and tomorrow, and let them wash their garments.'",
+      "links": "<a href='/AIV/3/11/44'>Lev. 11:44</a>; <a href='/AIV/58/10/22'>Heb. 10:22</a>",
+      "comment": "The call to consecration and ritual purity signals the importance of preparation for encountering God. The washing of garments hints at themes of cleansing and sanctification seen throughout Scripture."
     },
     {
-      "pk": 1901911,
+      "pk": 2019011,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 19,
       "verse": 11,
-      "text": "And be ready for the third day. For on the third day the LORD will come down on Mount Sinai in the sight of all the people.",
-      "links": "<a href='/AIV/2/19/20'>Ex. 19:20</a>",
-      "comment": "Closely follows the Hebrew syntax."
+      "text": "'Be ready for the third day, because on the third day the LORD will come down upon Mount Sinai in the sight of all the people.'",
+      "links": "<a href='/AIV/40/16/21'>Matt. 16:21</a>; <a href='/AIV/46/15/4'>1 Cor. 15:4</a>",
+      "comment": "The reference to the 'third day' foreshadows important future events in salvation history, including Christ's resurrection, indicating deep continuity in God's redemptive timing."
     },
     {
-      "pk": 1901912,
+      "pk": 2019012,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 19,
       "verse": 12,
-      "text": "You shall set limits for the people all around, saying, 'Beware of going up the mountain or touching its edge. Whoever touches the mountain shall surely be put to death.'",
-      "links": "<a href='/AIV/2/34/3'>Ex. 34:3</a>; <a href='/AIV/58/12/20'>Heb. 12:20</a>",
-      "comment": "The phrase 'set limits' matches the biblical expression for a boundary."
+      "text": "'Set limits for the people all around, saying, “Take care not to go up on the mountain or touch its edge. Whoever touches the mountain shall surely be put to death.”'",
+      "links": "<a href='/AIV/2/34/3'>Exod. 34:3</a>; <a href='/AIV/58/12/20'>Heb. 12:20</a>",
+      "comment": "God sets boundaries to protect people from His holiness. This separation prefigures later ritual and sacramental boundaries and sacred space."
     },
     {
-      "pk": 1901913,
+      "pk": 2019013,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 19,
       "verse": 13,
-      "text": "No hand shall touch him, but he shall surely be stoned or shot through; whether beast or man, he shall not live. When the trumpet sounds a long blast, they shall come up to the mountain.",
-      "links": "<a href='/AIV/2/24/17'>Ex. 24:17</a>; <a href='/AIV/6/6/5'>Josh. 6:5</a>",
-      "comment": "'Shot through' means pierced with arrows, following the original meaning."
+      "text": "'No hand shall touch him, but he shall be stoned or shot with arrows; whether animal or man, he shall not live. When the trumpet sounds a long blast, they shall come up to the mountain.'",
+      "links": "<a href='/AIV/2/34/3'>Exod. 34:3</a>; <a href='/AIV/9/6/6'>Josh. 6:6</a>",
+      "comment": "The strict penalty communicates the seriousness of God's holiness. The trumpet introduces liturgical elements, and the invitation after the blast anticipates public worship."
     },
     {
-      "pk": 1901914,
+      "pk": 2019014,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 19,
       "verse": 14,
-      "text": "So Moses went down from the mountain to the people and consecrated the people, and they washed their clothes.",
-      "links": "<a href='/AIV/2/19/10'>Ex. 19:10</a>",
-      "comment": "Literal rendering of 'consecrated.'"
+      "text": "So Moses went down from the mountain to the people and consecrated them, and they washed their garments.",
+      "links": "<a href='/AIV/2/19/10'>Exod. 19:10</a>; <a href='/AIV/58/10/22'>Heb. 10:22</a>",
+      "comment": "Moses performs a consecrating act, further establishing him as a mediator for God's holiness—a pattern for later rites of initiation and sanctification."
     },
     {
-      "pk": 1901915,
+      "pk": 2019015,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 19,
       "verse": 15,
-      "text": "And he said to the people, 'Be ready for the third day; do not go near a woman.'",
-      "links": "<a href='/AIV/3/15/18'>Lev. 15:18</a>; <a href='/AIV/1/20/4'>Gen. 20:4</a>",
-      "comment": "The instruction 'do not go near a woman' is a literal translation of the Hebrew."
+      "text": "He said to the people, 'Be ready for the third day; do not go near a woman.'",
+      "links": "<a href='/AIV/3/15/16-18'>Lev. 15:16-18</a>; <a href='/AIV/9/3/5'>Josh. 3:5</a>",
+      "comment": "The call to sexual abstinence before encountering God reflects deep reverence for God's presence and preparation for sacred encounters."
     },
     {
-      "pk": 1901916,
+      "pk": 2019016,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 19,
       "verse": 16,
-      "text": "On the morning of the third day there were thunders and lightnings and a thick cloud on the mountain, and a very loud sound of a trumpet, so that all the people in the camp trembled.",
-      "links": "<a href='/AIV/2/20/18'>Ex. 20:18</a>; <a href='/AIV/58/12/18'>Heb. 12:18–19</a>",
-      "comment": "'Sound of a trumpet' is literal for 'voice of the shofar.'"
+      "text": "On the third day, when morning came, there were thunder and lightning, and a thick cloud on the mountain, and a very loud trumpet blast; all the people in the camp trembled.",
+      "links": "<a href='/AIV/2/20/18'>Exod. 20:18</a>; <a href='/AIV/58/12/21'>Heb. 12:21</a>",
+      "comment": "The dramatic phenomena express God's glory and power. The trumpet prefigures liturgical worship, while the people’s fear underscores reverence before divine majesty."
     },
     {
-      "pk": 1901917,
+      "pk": 2019017,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 19,
       "verse": 17,
-      "text": "Then Moses brought the people out of the camp to meet God, and they stood at the foot of the mountain.",
-      "links": "<a href='/AIV/5/4/10'>Deut. 4:10</a>",
-      "comment": "The phrase 'at the foot of the mountain' is a literal rendering."
+      "text": "Moses led the people out of the camp to meet God, and they stood at the foot of the mountain.",
+      "links": "<a href='/AIV/2/3/12'>Exod. 3:12</a>; <a href='/AIV/2/24/17'>Exod. 24:17</a>",
+      "comment": "Moses leads the people in an act of corporate worship, fulfilling the earlier promise (Exod. 3:12). The collective encounter points toward the communal nature of worship."
     },
     {
-      "pk": 1901918,
+      "pk": 2019018,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 19,
       "verse": 18,
-      "text": "Now Mount Sinai was wrapped in smoke because the LORD descended on it in fire. Its smoke went up like the smoke of a furnace, and the whole mountain trembled greatly.",
-      "links": "<a href='/AIV/2/3/2'>Ex. 3:2</a>; <a href='/AIV/5/4/11'>Deut. 4:11</a>",
-      "comment": "The terms 'wrapped in smoke' and 'trembled greatly' maintain the sense of the Hebrew."
+      "text": "Mount Sinai was covered with smoke because the LORD had descended on it in fire. Its smoke went up like the smoke of a furnace, and the whole mountain trembled violently.",
+      "links": "<a href='/AIV/2/3/2'>Exod. 3:2</a>; <a href='/AIV/19/97/4-5'>Ps. 97:4-5</a>",
+      "comment": "Fire and trembling articulate God's holiness and presence—evoking awe. Fire imagery recurs throughout Scripture, including Pentecost."
     },
     {
-      "pk": 1901919,
+      "pk": 2019019,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 19,
       "verse": 19,
-      "text": "As the sound of the trumpet grew louder and louder, Moses spoke, and God answered him with a voice.",
-      "links": "<a href='/AIV/2/19/16'>Ex. 19:16</a>; <a href='/AIV/5/5/24'>Deut. 5:24</a>",
-      "comment": "Literal repetition and rhythm preserved."
+      "text": "As the trumpet grew louder and louder, Moses spoke, and God answered him in thunder.",
+      "links": "<a href='/AIV/2/20/1'>Exod. 20:1</a>; <a href='/AIV/19/77/18'>Ps. 77:18</a>",
+      "comment": "The interaction between Moses and God, mediated through loud signs, emphasizes mediation and worship with sound—seen later in liturgical practices."
     },
     {
-      "pk": 1901920,
+      "pk": 2019020,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 19,
       "verse": 20,
-      "text": "The LORD came down on Mount Sinai, to the top of the mountain. And the LORD called Moses to the top of the mountain, and Moses went up.",
-      "links": "<a href='/AIV/2/19/11'>Ex. 19:11</a>",
-      "comment": "Repetition reflects Hebrew style."
+      "text": "The LORD came down upon Mount Sinai, to the top of the mountain, and the LORD called Moses to the top of the mountain, so Moses went up.",
+      "links": "<a href='/AIV/2/24/12'>Exod. 24:12</a>; <a href='/AIV/2/34/2'>Exod. 34:2</a>",
+      "comment": "God’s descent and Moses' ascent reinforce God’s initiative and the mediator’s role. The vertical movement in the narrative foreshadows deeper spiritual ascent to communion with God."
     },
     {
-      "pk": 1901921,
+      "pk": 2019021,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 19,
       "verse": 21,
-      "text": "The LORD said to Moses, 'Go down and warn the people, lest they break through to the LORD to look, and many of them perish.'",
-      "links": "<a href='/AIV/2/19/24'>Ex. 19:24</a>; <a href='/AIV/4/4/20'>Num. 4:20</a>",
-      "comment": "The phrase 'break through to the LORD' is translated literally."
+      "text": "The LORD said to Moses, 'Go down and warn the people not to break through to the LORD to gaze, or many of them will die.'",
+      "links": "<a href='/AIV/2/34/3'>Exod. 34:3</a>; <a href='/AIV/9/6/20-21'>Josh. 6:20-21</a>",
+      "comment": "The need for reverence is again emphasized, showing respect for mystery and the separation between God’s holiness and humanity."
     },
     {
-      "pk": 1901922,
+      "pk": 2019022,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 19,
       "verse": 22,
-      "text": "Also let the priests who come near to the LORD consecrate themselves, lest the LORD break out against them.",
-      "links": "<a href='/AIV/3/10/3'>Lev. 10:3</a>",
-      "comment": "'Break out against them' is a literal translation."
+      "text": "'Also, let the priests who come near to the LORD consecrate themselves, or the LORD will break out against them.'",
+      "links": "<a href='/AIV/2/28/1'>Exod. 28:1</a>; <a href='/AIV/3/8/10'>Lev. 8:10</a>",
+      "comment": "Priests are singled out for special consecration, paralleling later themes of sacred ministry, showing ordered liturgical structure rooted in divine command."
     },
     {
-      "pk": 1901923,
+      "pk": 2019023,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 19,
       "verse": 23,
-      "text": "Moses said to the LORD, 'The people cannot come up to Mount Sinai, for You Yourself warned us, saying, “Set limits around the mountain to consecrate it.”'",
-      "links": "<a href='/AIV/2/19/12'>Ex. 19:12</a>",
-      "comment": "Direct quote from earlier verse is preserved."
+      "text": "Moses said to the LORD, 'The people cannot come up Mount Sinai, because you yourself warned us, “Set limits around the mountain and consecrate it.”'",
+      "links": "<a href='/AIV/2/19/12'>Exod. 19:12</a>",
+      "comment": "Moses affirms strict obedience to God’s instructions, which reveals the necessity of properly ordered worship and boundaries."
     },
     {
-      "pk": 1901924,
+      "pk": 2019024,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 19,
       "verse": 24,
-      "text": "The LORD said to him, 'Go down and come up, you and Aaron with you; but do not let the priests and the people break through to come up to the LORD, lest He break out against them.'",
-      "links": "<a href='/AIV/2/19/21'>Ex. 19:21–22</a>",
-      "comment": "Aaron is mentioned for the first time here. Literal rendering."
+      "text": "The LORD said to him, 'Go down and bring Aaron up with you. But do not let the priests and the people break through to come up to the LORD, or he will break out against them.'",
+      "links": "<a href='/AIV/2/28/1'>Exod. 28:1</a>; <a href='/AIV/3/8/2'>Lev. 8:2</a>",
+      "comment": "Aaron’s special call sets him apart for leadership, with a clear distinction between hierarchical roles. This carries over into the ordered structure of God's people in later biblical history."
     },
     {
-      "pk": 1901925,
+      "pk": 2019025,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 19,
       "verse": 25,
       "text": "So Moses went down to the people and spoke to them.",
-      "links": "<a href='/AIV/2/19/14'>Ex. 19:14</a>",
-      "comment": "Simple, direct translation as in the Hebrew."
+      "links": "<a href='/AIV/2/19/14'>Exod. 19:14</a>; <a href='/AIV/2/19/7'>Exod. 19:7</a>",
+      "comment": "The cycle of ascent and descent, mediation and instruction, sets the pattern for spiritual leadership and the transmission of God’s word to the community, a foundational principle evident throughout salvation history."
     }
   ],
-  "translatedAt": "2025-12-20T08:41:14.471Z"
+  "translatedAt": "2025-12-24T00:56:56.912Z"
 }

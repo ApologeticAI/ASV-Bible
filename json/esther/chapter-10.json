@@ -1,38 +1,45 @@
 {
-  "book": "Esther",
+  "book": 19,
+  "bookName": "Esther",
   "bookAbbreviation": "Esth",
   "chapter": 10,
   "verses": [
     {
-      "pk": 100100,
+      "pk": 19010001,
       "translation": "AIV",
-      "book": 17,
+      "book": 19,
+      "bookName": "Esther",
+      "bookAbbreviation": "Esth",
       "chapter": 10,
       "verse": 1,
-      "text": "King Xerxes imposed tribute on the land and on the islands of the sea.",
-      "links": "<a href='/AIV/17/1/1'>Est. 1:1</a>; <a href='/AIV/12/23/34'>2 Kings 23:34</a>",
-      "comment": "This verse marks the extent and authority of King Xerxes' rule, emphasizing his power over distant territories. The text parallels other Old Testament references to great monarchs exerting control beyond their borders, alluding to the fulfillment of God's providence through secular rulers."
+      "text": "King Xerxes imposed tribute both on the mainland and on the islands of the sea.",
+      "links": "<a href='/AIV/17/1/1'>Esth. 1:1</a>; <a href='/AIV/27/2/37-38'>Dan. 2:37-38</a>",
+      "comment": "This verse emphasizes the extent of King Xerxes’ authority, ruling over a vast domain. The narrative context highlights the power and order established by earthly kings, setting up a contrast with the sovereignty of God (Dan. 2:37-38). The use of 'islands of the sea' references the broadness of his reign, similar to themes in Psalms about God's universal dominion (Ps. 72:8)."
     },
     {
-      "pk": 100101,
+      "pk": 19010002,
       "translation": "AIV",
-      "book": 17,
+      "book": 19,
+      "bookName": "Esther",
+      "bookAbbreviation": "Esth",
       "chapter": 10,
       "verse": 2,
-      "text": "All the achievements of his power and might, along with a detailed account of Mordecai’s prominence, are written in the Book of the Chronicles of the Kings of Media and Persia.",
-      "links": "<a href='/AIV/17/2/23'>Est. 2:23</a>; <a href='/AIV/11/14/19'>1 Kings 14:19</a>",
-      "comment": "The public recording of Mordecai’s deeds suggests recognition and honor, echoing Old Testament traditions of righteous individuals acknowledged in authoritative registers. As with other figures entrusted with leadership, this acknowledges both historical and spiritual preservation of the faithful, hinting at God’s hidden guidance behind human history. The idea of faithful records anticipates Christ’s own inscription in the Book of Life (<a href='/AIV/66/20/12'>Rev. 20:12</a>)."
+      "text": "All the acts of his power and might, as well as the full account of the greatness of Mordecai, whom the king promoted, are they not written in the Book of the Chronicles of the kings of Media and Persia?",
+      "links": "<a href='/AIV/17/2/21-23'>Esth. 2:21-23</a>; <a href='/AIV/16/7/5'>Neh. 7:5</a>",
+      "comment": "This passage highlights the historical recording of great deeds and the honoring of Mordecai, echoing the biblical tradition of preserving memory and honoring virtue (Esth. 2:21-23). The mention of official chronicles suggests the importance of communal remembrance and tradition, pointing toward practices established by the early apostolic community in maintaining a faithful witness and authoritative record (Acts 1:21-26)."
     },
     {
-      "pk": 100102,
+      "pk": 19010003,
       "translation": "AIV",
-      "book": 17,
+      "book": 19,
+      "bookName": "Esther",
+      "bookAbbreviation": "Esth",
       "chapter": 10,
       "verse": 3,
-      "text": "For Mordecai the Jew was second in rank to King Xerxes, esteemed by his fellow Jews, beloved by many, and he worked for the good of his people and spoke peace to all their descendants.",
-      "links": "<a href='/AIV/17/8/15'>Est. 8:15</a>; <a href='/AIV/20/11/10'>Prov. 11:10</a>; <a href='/AIV/40/5/9'>Matt. 5:9</a>",
-      "comment": "Mordecai’s position as second to the king reflects a typology of mediatorship—one who intercedes on behalf of others, like Joseph in Egypt (<a href='/AIV/1/41/40'>Gen. 41:40</a>). His role in bringing peace and good to the people foreshadows Christ’s own peace-giving mission (<a href='/AIV/40/5/9'>Matt. 5:9</a>). The spiritual reading highlights the enduring legacy of righteousness and self-giving leadership, resonant with themes of mediation and communal blessing found throughout Scripture."
+      "text": "For Mordecai the Jew was second in rank to King Xerxes, and was great among the Jews, well-liked by the multitude of his people, seeking the good of his people and speaking peace to all their descendants.",
+      "links": "<a href='/AIV/17/8/15'>Esth. 8:15</a>; <a href='/AIV/19/122/6-9'>Ps. 122:6-9</a>; <a href='/AIV/40/5/9'>Matt. 5:9</a>",
+      "comment": "Mordecai’s position as advocate and peacemaker for his people mirrors aspects of biblical leadership, foreshadowing the role of Christ as mediator and advocate (Matt. 5:9; 1 Tim. 2:5). There is a spiritual application here, recognizing the significance of intercession for the community, a practice that developed in the early church’s ministry. Mordecai’s pursuit of peace and the common good reflects the scriptural call to seek the welfare of God’s people, a characteristic of authentic leadership and unity in the faith (Ps. 122:6-9)."
     }
   ],
-  "translatedAt": "2025-12-23T05:15:14.809Z"
+  "translatedAt": "2025-12-24T05:11:49.704Z"
 }

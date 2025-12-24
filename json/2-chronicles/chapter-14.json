@@ -1,158 +1,189 @@
 {
-  "book": "2 Chronicles",
+  "book": 14,
+  "bookName": "2 Chronicles",
   "bookAbbreviation": "2Chr",
   "chapter": 14,
   "verses": [
     {
-      "pk": 21401401,
+      "pk": 14014001,
       "translation": "AIV",
       "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
       "chapter": 14,
       "verse": 1,
-      "text": "Abijah rested with his ancestors, and they buried him in the city of David. Asa his son became king in his place. In his days the land had rest for ten years.",
-      "links": "<a href='/ESV/11/2/10'>1 Kings 2:10</a>; <a href='/ESV/14/13/23'>2 Chron. 13:23</a>",
-      "comment": "The verse follows the narrative style of the original text and clarifies pronouns for readability."
+      "text": "Abijah rested with his fathers, and they buried him in the city of David. Asa his son became king in his place. In his days the land was quiet for ten years.",
+      "links": "<a href='/AIV/13/3/1'>1 Chr. 3:10</a>; <a href='/AIV/11/15/8'>1 Kings 15:8</a>",
+      "comment": "Asa's peaceful reign in the early years highlights how faithfulness to God can bring rest and stability. The motif of 'rest' recalls God's promise to give His people peace when obedient (<a href='/AIV/05/12/10'>Deut. 12:10</a>)."
     },
     {
-      "pk": 21401402,
+      "pk": 14014002,
       "translation": "AIV",
       "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
       "chapter": 14,
       "verse": 2,
-      "text": "Asa did what was good and right in the eyes of the LORD his God.",
-      "links": "<a href='/ESV/11/15/11'>1 Kings 15:11</a>",
-      "comment": "The phrase 'good and right' remains; 'in the eyes of the LORD' preserves original wording."
+      "text": "Asa did what was good and right in the eyes of the Lord his God.",
+      "links": "<a href='/AIV/11/15/11'>1 Kings 15:11</a>; <a href='/AIV/05/12/25'>Deut. 12:25</a>",
+      "comment": "Righteousness is measured not only by appearance but by what pleases God. This reveals the central importance of aligning actions with God's will, a theme echoed by Christ in <a href='/AIV/40/7/21'>Matthew 7:21</a>."
     },
     {
-      "pk": 21401403,
+      "pk": 14014003,
       "translation": "AIV",
       "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
       "chapter": 14,
       "verse": 3,
       "text": "He removed the foreign altars and the high places, broke down the pillars, and cut down the Asherah poles.",
-      "links": "<a href='/ESV/14/17/6'>2 Chron. 17:6</a>; <a href='/ESV/11/15/12-13'>1 Kings 15:12–13</a>",
-      "comment": "‘Pillars’ is used instead of ‘sacred stones,’ matching common modern terms; Asherah poles is made explicit."
+      "links": "<a href='/AIV/05/12/3'>Deut. 12:3</a>; <a href='/AIV/02/23/24'>Exod. 23:24</a>",
+      "comment": "The removal of idolatry is a sign of spiritual reform. The destruction of the Asherah poles prefigures Christian practice of rejecting all that rivals the worship of the true God (<a href='/AIV/62/5/21'>1 John 5:21</a>)."
     },
     {
-      "pk": 21401404,
+      "pk": 14014004,
       "translation": "AIV",
       "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
       "chapter": 14,
       "verse": 4,
-      "text": "He ordered Judah to seek the LORD, the God of their ancestors, and to obey His law and commandment.",
-      "links": "<a href='/ESV/14/15/12'>2 Chron. 15:12</a>",
-      "comment": "‘Commandment’ singular for readability; ‘ancestors’ used for ‘fathers’."
+      "text": "He commanded Judah to seek the LORD, the God of their fathers, and to obey the law and the commandment.",
+      "links": "<a href='/AIV/05/4/29'>Deut. 4:29</a>; <a href='/AIV/19/105/4'>Ps. 105:4</a>",
+      "comment": "Seeking the Lord and obedience to His commands are foundational themes in Scripture. Asa's example sets a precedent carried forward in Christ's teaching to seek first the kingdom of God (<a href='/AIV/40/6/33'>Matt. 6:33</a>)."
     },
     {
-      "pk": 21401405,
+      "pk": 14014005,
       "translation": "AIV",
       "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
       "chapter": 14,
       "verse": 5,
-      "text": "He removed the high places and the incense altars from all the cities of Judah, and the kingdom was quiet under him.",
-      "links": "<a href='/ESV/14/17/6'>2 Chron. 17:6</a>",
-      "comment": "‘Incense altars’ is a direct translation of ‘sun images’ in alternative renderings."
+      "text": "He also removed the high places and the incense altars from all the cities of Judah. And the kingdom was quiet under him.",
+      "links": "<a href='/AIV/11/15/12-13'>1 Kings 15:12-13</a>",
+      "comment": "Peace comes as a result of proper worship. The insistence on a single center of worship foreshadows the unity Jesus prays for among His followers (<a href='/AIV/43/17/21'>John 17:21</a>)."
     },
     {
-      "pk": 21401406,
+      "pk": 14014006,
       "translation": "AIV",
       "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
       "chapter": 14,
       "verse": 6,
-      "text": "He built fortified cities in Judah, for the land was at peace. There was no war against him during those years, for the LORD gave him rest.",
-      "links": "<a href='/ESV/14/11/5-12'>2 Chron. 11:5–12</a>; <a href='/ESV/14/20/30'>2 Chron. 20:30</a>",
-      "comment": "‘At peace’ clarifies the meaning of ‘quiet’; ‘gave him rest’ maintains theological accuracy."
+      "text": "He built fortified cities in Judah, for the land had rest. During these years there was no war because the LORD had given him peace.",
+      "links": "<a href='/AIV/10/7/1'>2 Sam. 7:1</a>; <a href='/AIV/23/26/1'>Isa. 26:1</a>",
+      "comment": "The concept of rest and security when at peace with God anticipates the spiritual rest offered by Christ (<a href='/AIV/40/11/28'>Matt. 11:28</a>), signifying not merely absence of conflict but a deep, divinely-rooted peace."
     },
     {
-      "pk": 21401407,
+      "pk": 14014007,
       "translation": "AIV",
       "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
       "chapter": 14,
       "verse": 7,
-      "text": "He said to Judah, 'Let us build these cities and surround them with walls and towers, gates and bars. The land is still ours, because we have sought the LORD our God. We have sought Him, and He has given us rest on every side.' So they built and prospered.",
-      "links": "<a href='/ESV/14/13/9'>2 Chron. 13:9</a>; <a href='/ESV/14/15/15'>2 Chron. 15:15</a>",
-      "comment": "‘Prospered’ for ‘success,’ matches common biblical usage."
+      "text": "So he said to Judah, 'Let us build these cities and surround them with walls, towers, gates, and bars. The land is still ours, because we have sought the LORD our God; we have sought him, and he has given us peace on every side.' So they built and prospered.",
+      "links": "<a href='/AIV/05/28/6-7'>Deut. 28:6-7</a>; <a href='/AIV/19/122/7'>Ps. 122:7</a>",
+      "comment": "True prosperity comes when God's people actively seek Him. The image of building and prospering reminds readers of the spiritual temple built by Christ in His body, the Church (<a href='/AIV/46/3/9-11'>1 Cor. 3:9-11</a>)."
     },
     {
-      "pk": 21401408,
+      "pk": 14014008,
       "translation": "AIV",
       "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
       "chapter": 14,
       "verse": 8,
-      "text": "Asa had an army of 300,000 men from Judah, armed with large shields and spears, and 280,000 men from Benjamin, who carried small shields and drew bows. All these were mighty men of valor.",
-      "links": "<a href='/ESV/14/17/17-18'>2 Chron. 17:17–18</a>",
-      "comment": "Numbers rendered explicitly; ‘mighty men of valor’ kept from Hebrew idiom."
+      "text": "Asa had an army of three hundred thousand men from Judah, armed with large shields and spears, and two hundred eighty thousand from Benjamin, carrying shields and drawing bows. All these were mighty men of valor.",
+      "links": "<a href='/AIV/13/12/24-25'>1 Chr. 12:24-25</a>",
+      "comment": "The mention of the well-armed and courageous army underscores the need for spiritual defense as well (cf. <a href='/AIV/49/6/10-17'>Eph. 6:10-17</a>). Valor is necessary both physically and spiritually."
     },
     {
-      "pk": 21401409,
+      "pk": 14014009,
       "translation": "AIV",
       "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
       "chapter": 14,
       "verse": 9,
-      "text": "Zerah the Cushite came out against them with an army of a million men and three hundred chariots; he marched as far as Mareshah.",
-      "links": "<a href='/ESV/14/16/8'>2 Chron. 16:8</a>; <a href='/ESV/19/68/12'>Ps. 68:12</a>",
-      "comment": "‘Cushite’ (Ethiopian) used per original Hebrew; numbers and place names retain clarity."
+      "text": "Zerah the Ethiopian came out against them with an army of a million men and three hundred chariots, and advanced as far as Mareshah.",
+      "links": "<a href='/AIV/13/4/21'>1 Chr. 4:21</a>; <a href='/AIV/14/11/8'>2 Chr. 11:8</a>",
+      "comment": "The massive enemy force shows that God's people sometimes face insurmountable odds, yet God remains faithful. The numerically overwhelming opposition points to God's power to deliver beyond human strength."
     },
     {
-      "pk": 21401410,
+      "pk": 14014010,
       "translation": "AIV",
       "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
       "chapter": 14,
       "verse": 10,
-      "text": "Asa went out to meet him, and they drew up their battle lines in the Valley of Zephathah at Mareshah.",
-      "links": "<a href='/ESV/14/20/2'>2 Chron. 20:2</a>",
-      "comment": "‘Drew up their battle lines’ for ‘set the battle in array,’ modernizes phrasing."
+      "text": "So Asa went out to meet him, and they drew up their lines of battle in the Valley of Zephathah at Mareshah.",
+      "links": "<a href='/AIV/14/13/3'>2 Chr. 13:3</a>",
+      "comment": "The willingness to confront evil, trusting in God rather than in human numbers, is a recurring biblical principle (<a href='/AIV/07/7/7'>Judges 7:7</a> with Gideon)."
     },
     {
-      "pk": 21401411,
+      "pk": 14014011,
       "translation": "AIV",
       "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
       "chapter": 14,
       "verse": 11,
-      "text": "Asa called to the LORD his God and said, 'LORD, there is no one but You to help between the mighty and the powerless. Help us, LORD our God, for we rely on You, and in your name we have come against this multitude. LORD, You are our God; let not man prevail against You.'",
-      "links": "<a href='/ESV/13/5/20'>1 Chron. 5:20</a>; <a href='/ESV/19/9/19'>Ps. 9:19</a>",
-      "comment": "Prayer wording kept as close to original as makes sense in modern English."
+      "text": "Asa called out to the LORD his God, saying, 'LORD, there is none besides you to help between the mighty and the powerless. Help us, LORD our God, for we rely on you and in your name we have come against this vast multitude. LORD, you are our God; do not let man prevail against you.'",
+      "links": "<a href='/AIV/09/17/47'>1 Sam. 17:47</a>; <a href='/AIV/19/20/7'>Ps. 20:7</a>",
+      "comment": "This prayer emphasizes trust in God alone. Such supplications foreshadow later Christian prayers for divine aid in spiritual battles (<a href='/AIV/40/6/13'>Matt. 6:13</a>)."
     },
     {
-      "pk": 21401412,
+      "pk": 14014012,
       "translation": "AIV",
       "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
       "chapter": 14,
       "verse": 12,
-      "text": "So the LORD struck down the Cushites before Asa and Judah, and the Cushites fled.",
-      "links": "<a href='/ESV/14/13/15'>2 Chron. 13:15</a>; <a href='/ESV/19/68/1'>Ps. 68:1</a>",
-      "comment": "‘Struck down’ remains as literal as possible for ‘defeated.’"
+      "text": "So the LORD struck down the Ethiopians before Asa and Judah, and the Ethiopians fled.",
+      "links": "<a href='/AIV/02/14/25'>Exod. 14:25</a>; <a href='/AIV/19/68/1'>Ps. 68:1</a>",
+      "comment": "God's intervention demonstrates His authority and willingness to defend His people. The theme anticipates Christ's ultimate victory over evil (<a href='/AIV/66/17/14'>Rev. 17:14</a>)."
     },
     {
-      "pk": 21401413,
+      "pk": 14014013,
       "translation": "AIV",
       "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
       "chapter": 14,
       "verse": 13,
-      "text": "Asa and his people pursued them as far as Gerar, and so many Cushites fell that none survived. They carried away very much plunder.",
-      "links": "<a href='/ESV/14/20/25'>2 Chron. 20:25</a>",
-      "comment": "‘Plunder’ rather than ‘spoil’ to reflect modern terminology."
+      "text": "Asa and the people who were with him pursued them as far as Gerar, and the Ethiopians fell, so that none remained alive, for they were broken before the LORD and his army. And they carried away a very great amount of spoil.",
+      "links": "<a href='/AIV/06/10/10-11'>Josh. 10:10-11</a>; <a href='/AIV/14/20/25'>2 Chr. 20:25</a>",
+      "comment": "Victory is complete when it is by God's hand. The reference to 'the LORD and his army' subtly hints at spiritual realities underlying earthly events, as developed in <a href='/AIV/58/1/14'>Heb. 1:14</a>."
     },
     {
-      "pk": 21401414,
+      "pk": 14014014,
       "translation": "AIV",
       "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
       "chapter": 14,
       "verse": 14,
-      "text": "They attacked all the cities around Gerar, for the terror of the LORD was on them; they plundered all the cities, for there was much loot there.",
-      "links": "<a href='/ESV/09/14/15'>1 Sam. 14:15</a>; <a href='/ESV/14/17/10'>2 Chron. 17:10</a>",
-      "comment": "‘The terror of the LORD’ kept literal; ‘loot’ is modern term for ‘spoil.’"
+      "text": "They struck all the cities around Gerar, for the fear of the LORD had fallen upon them. They plundered all the cities, for there was much spoil in them.",
+      "links": "<a href='/AIV/01/35/5'>Gen. 35:5</a>; <a href='/AIV/06/2/9-11'>Josh. 2:9-11</a>",
+      "comment": "Fear of the Lord brings national and spiritual consequences. The motif of fear leading to blessing or judgment recurs throughout Scripture."
     },
     {
-      "pk": 21401415,
+      "pk": 14014015,
       "translation": "AIV",
       "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
       "chapter": 14,
       "verse": 15,
-      "text": "They also attacked the tents of the herdsmen and carried off many sheep and camels. Then they returned to Jerusalem.",
-      "links": "<a href='/ESV/14/20/25'>2 Chron. 20:25</a>",
-      "comment": "Sheep and camels specified per original text; phrase ‘tents of the herdsmen' retained."
+      "text": "They also attacked the tents of those who had livestock and carried away sheep and camels in abundance, and then they returned to Jerusalem.",
+      "links": "<a href='/AIV/09/30/20'>1 Sam. 30:20</a>; <a href='/AIV/14/11/5'>2 Chr. 11:5</a>",
+      "comment": "The return to Jerusalem after victory highlights the centrality of God's chosen city—a symbol later fulfilled in the heavenly Jerusalem (<a href='/AIV/58/12/22'>Heb. 12:22</a>). The gathering in unity and thanksgiving points toward forms of collective worship among believers."
     }
   ],
-  "translatedAt": "2025-12-22T11:03:06.241Z"
+  "translatedAt": "2025-12-24T04:28:43.551Z"
 }

@@ -1,238 +1,285 @@
 {
-  "book": "2 Samuel",
+  "book": 10,
+  "bookName": "2 Samuel",
   "bookAbbreviation": "2Sam",
   "chapter": 6,
   "verses": [
     {
-      "pk": 2060601,
+      "pk": 10006001,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 6,
       "verse": 1,
-      "text": "David gathered all the chosen men of Israel, thirty thousand.",
-      "links": "<a href='/ESV/13/13/5'>1 Chr. 13:5</a>",
-      "comment": "The Hebrew text says 'again', emphasizing a second gathering; 'chosen men' can also mean 'select.'"
+      "text": "David again gathered all the chosen men of Israel, thirty thousand.",
+      "links": "<a href='/AIV/13/13/1'>1 Chron. 13:1</a>",
+      "comment": "David prepares by assembling a large number of select men. The parallel account in 1 Chronicles 13:1 confirms this as a significant event in Israel’s history."
     },
     {
-      "pk": 2060602,
+      "pk": 10006002,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 6,
       "verse": 2,
-      "text": "David arose and went with all the people who were with him from Baale-judah to bring up from there the ark of God, which bears the Name, the Name of the LORD of hosts who sits above the cherubim.",
-      "links": "<a href='/ESV/13/13/6'>1 Chr. 13:6</a>; <a href='/ESV/02/25/22'>Ex. 25:22</a>",
-      "comment": "Baale-judah is otherwise known as Kiriath-jearim. The Hebrew emphasizes God’s enthronement above the cherubim."
+      "text": "And David arose and went with all the people who were with him from Baale Judah, to bring up from there the ark of God, which is called by the Name, the name of the LORD of hosts who sits enthroned above the cherubim.",
+      "links": "<a href='/AIV/13/13/6'>1 Chron. 13:6</a>; <a href='/AIV/02/25/22'>Ex. 25:22</a>",
+      "comment": "The Ark represents God’s direct presence among the people, with David’s actions foreshadowing Christ leading God’s people into the presence of the Lord. The mention of the LORD dwelling between the cherubim points to the emphasis on God's holiness."
     },
     {
-      "pk": 2060603,
+      "pk": 10006003,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 6,
       "verse": 3,
-      "text": "They set the ark of God on a new cart and brought it out of the house of Abinadab, which was on the hill. Uzzah and Ahio, the sons of Abinadab, were driving the new cart.",
-      "links": "<a href='/ESV/09/04/3'>1 Sam. 4:3</a>; <a href='/ESV/13/13/7'>1 Chr. 13:7</a>",
-      "comment": "Traditional Levitical methods required poles, not a cart; this deviation is noteworthy."
+      "text": "And they placed the ark of God on a new cart and brought it out of the house of Abinadab, which was on the hill. Uzzah and Ahio, sons of Abinadab, were guiding the new cart.",
+      "links": "<a href='/AIV/09/06/8'>1 Sam. 6:8</a>; <a href='/AIV/13/13/7'>1 Chron. 13:7</a>",
+      "comment": "Using a new cart echoes how the Philistines transported the Ark (1 Sam. 6:8); however, this was not the proper way according to God’s law (Num. 4:15), showing reverence must conform to divine instruction."
     },
     {
-      "pk": 2060604,
+      "pk": 10006004,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 6,
       "verse": 4,
-      "text": "They brought it out of the house of Abinadab, which was on the hill, with Ahio walking before the ark.",
-      "links": "<a href='/ESV/13/13/7'>1 Chr. 13:7</a>",
-      "comment": "In the Hebrew, it repeats 'out of the house'; some manuscripts add Uzzah went beside the ark."
+      "text": "And they brought it out of the house of Abinadab, which was on the hill, with the ark of God following them. Ahio was walking before the ark.",
+      "links": "<a href='/AIV/13/13/7'>1 Chron. 13:7</a>",
+      "comment": "The specific mention of Ahio leading and the Ark following highlights the importance of proper order and reverence in worship, a reminder that approaching God’s holiness requires the right disposition."
     },
     {
-      "pk": 2060605,
+      "pk": 10006005,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 6,
       "verse": 5,
-      "text": "And David and all the house of Israel were celebrating before the LORD with all kinds of instruments made of fir wood, with lyres, harps, tambourines, castanets, and cymbals.",
-      "links": "<a href='/ESV/19/150/3-5'>Ps. 150:3–5</a>",
-      "comment": "The Hebrew list of instruments varies slightly in ancient translations; 'castanets' is uncertain."
+      "text": "And David and all the house of Israel were celebrating before the LORD with all kinds of instruments made of juniper wood and with lyres, harps, tambourines, castanets, and cymbals.",
+      "links": "<a href='/AIV/13/13/8'>1 Chron. 13:8</a>; <a href='/AIV/19/150/3-5'>Ps. 150:3-5</a>",
+      "comment": "Joyful worship with instruments shows the people’s enthusiasm, paralleling the use of music in praise throughout the Psalms. True worship combines interior devotion with external acts, prefiguring Christian liturgy."
     },
     {
-      "pk": 2060606,
+      "pk": 10006006,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 6,
       "verse": 6,
-      "text": "When they came to the threshing floor of Nacon, Uzzah reached out toward the ark of God and took hold of it, because the oxen stumbled.",
-      "links": "<a href='/ESV/04/04/15'>Num. 4:15</a>; <a href='/ESV/13/13/9'>1 Chr. 13:9</a>",
-      "comment": "The name 'Nacon' is sometimes given as 'Chidon' in Chronicles."
+      "text": "But when they came to the threshing floor of Nacon, Uzzah reached out his hand to the ark of God and took hold of it, for the oxen had stumbled.",
+      "links": "<a href='/AIV/04/04/15'>Num. 4:15</a>",
+      "comment": "Though Uzzah’s intentions may have been good, touching the Ark was forbidden (Num. 4:15). This warning underlies the necessity for obedience and reverence regarding the sacred."
     },
     {
-      "pk": 2060607,
+      "pk": 10006007,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 6,
       "verse": 7,
-      "text": "And the anger of the LORD burned against Uzzah, and God struck him there for his error, and he died there beside the ark of God.",
-      "links": "<a href='/ESV/04/01/51'>Num. 1:51</a>; <a href='/ESV/04/04/15'>Num. 4:15</a>",
-      "comment": "The Hebrew word for 'error' may also mean 'irreverence' or 'rashness.'"
+      "text": "And the anger of the LORD was kindled against Uzzah, and God struck him down there for his error, and he died there beside the ark of God.",
+      "links": "<a href='/AIV/03/10/1-2'>Lev. 10:1-2</a>; <a href='/AIV/04/04/15'>Num. 4:15</a>",
+      "comment": "Uzzah’s death, similar to Nadab and Abihu (Lev. 10:1-2), shows the seriousness of God’s holiness. Approaching God’s presence without proper mediation or instruction brings judgment. Christ, as perfect Mediator (Heb. 9:15), fulfills the law."
     },
     {
-      "pk": 2060608,
+      "pk": 10006008,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 6,
       "verse": 8,
-      "text": "David became angry because the LORD had broken out against Uzzah; therefore, that place is called Perez-uzzah to this day.",
-      "links": "<a href='/ESV/09/06/19'>1 Sam. 6:19</a>; <a href='/ESV/13/13/11'>1 Chr. 13:11</a>",
-      "comment": "Perez-uzzah means 'outbreak against Uzzah.'"
+      "text": "And David was angry because the LORD had broken out against Uzzah, and that place is called Perez-uzzah to this day.",
+      "links": "<a href='/AIV/13/13/11'>1 Chron. 13:11</a>",
+      "comment": "David’s anger is both human and instructive. The incident marks the necessity of humility before God's will. The naming of the site memorializes the lesson in worship and obedience."
     },
     {
-      "pk": 2060609,
+      "pk": 10006009,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 6,
       "verse": 9,
-      "text": "David was afraid of the LORD that day and said, 'How can the ark of the LORD come to me?'",
-      "links": "<a href='/ESV/05/09/19'>Deut. 9:19</a>; <a href='/ESV/13/15/13'>1 Chr. 15:13</a>",
-      "comment": "David's fear results from the severity of God's judgment."
+      "text": "And David feared the LORD that day and said, 'How can the ark of the LORD come to me?'",
+      "links": "<a href='/AIV/13/13/12'>1 Chron. 13:12</a>; <a href='/AIV/42/01/43'>Luke 1:43</a>",
+      "comment": "David’s awe and fear echo the sense of unworthiness before God’s holiness. The query resembles Elizabeth’s words at the Visitation (Luke 1:43), drawing a typological parallel between the Ark and Mary as the God-bearer."
     },
     {
-      "pk": 2060610,
+      "pk": 10006010,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 6,
       "verse": 10,
-      "text": "So David was not willing to bring the ark of the LORD to him in the City of David; instead, David took it aside to the house of Obed-edom the Gittite.",
-      "links": "<a href='/ESV/13/13/13'>1 Chr. 13:13</a>",
-      "comment": "Obed-edom is likely a Levite; 'Gittite' may indicate his origin or residence."
+      "text": "So David was unwilling to move the ark of the LORD into the city of David. But David took it aside to the house of Obed-edom the Gittite.",
+      "links": "<a href='/AIV/13/13/13'>1 Chron. 13:13</a>",
+      "comment": "Obed-edom, possibly a Levite (1 Chron. 15:18), receives the Ark, reflecting God’s choice of worthy vessels and those prepared for his presence."
     },
     {
-      "pk": 2060611,
+      "pk": 10006011,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 6,
       "verse": 11,
       "text": "And the ark of the LORD remained in the house of Obed-edom the Gittite for three months, and the LORD blessed Obed-edom and all his household.",
-      "links": "<a href='/ESV/13/13/14'>1 Chr. 13:14</a>",
-      "comment": "'Blessed' suggests both material prosperity and spiritual favor."
+      "links": "<a href='/AIV/13/13/14'>1 Chron. 13:14</a>; <a href='/AIV/01/30/27'>Gen. 30:27</a>",
+      "comment": "God's presence brings tangible blessing to the house where proper reverence is given. The pattern of three months also prefigures important biblical time periods."
     },
     {
-      "pk": 2060612,
+      "pk": 10006012,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 6,
       "verse": 12,
-      "text": "And it was told to King David, 'The LORD has blessed the household of Obed-edom and all that belongs to him because of the ark of God.' So David went and brought up the ark of God from the house of Obed-edom to the city of David with rejoicing.",
-      "links": "<a href='/ESV/13/15/25'>1 Chr. 15:25</a>",
-      "comment": "Reports of blessing prompt David to bring the ark; 'rejoicing' is prominent."
+      "text": "And it was told King David, 'The LORD has blessed the household of Obed-edom and all that belongs to him because of the ark of God.' So David went and brought up the ark of God from the house of Obed-edom to the city of David with rejoicing.",
+      "links": "<a href='/AIV/13/15/25'>1 Chron. 15:25</a>",
+      "comment": "Recognizing the blessing, David now brings the Ark up with the proper reverence, demonstrating that God’s blessings follow rightful worship. The Ark’s movement toward Jerusalem foreshadows the city of God as the center of proper worship."
     },
     {
-      "pk": 2060613,
+      "pk": 10006013,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 6,
       "verse": 13,
       "text": "And when those who bore the ark of the LORD had gone six steps, he sacrificed an ox and a fattened animal.",
-      "links": "<a href='/ESV/13/15/2'>1 Chr. 15:2</a>; <a href='/ESV/03/07/12'>Lev. 7:12</a>",
-      "comment": "Unlike the earlier use of the cart, here Levites carry the ark as prescribed."
+      "links": "<a href='/AIV/13/15/15'>1 Chron. 15:15</a>; <a href='/AIV/01/08/20'>Gen. 8:20</a>",
+      "comment": "This time, Levites carry the Ark as prescribed (1 Chron. 15:15). Sacrifice after six steps demonstrates deep reverence and the necessity of offering to approach God’s presence."
     },
     {
-      "pk": 2060614,
+      "pk": 10006014,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 6,
       "verse": 14,
-      "text": "And David danced before the LORD with all his might, and David was wearing a linen ephod.",
-      "links": "<a href='/ESV/13/15/27'>1 Chr. 15:27</a>; <a href='/ESV/09/02/18'>1 Sam. 2:18</a>",
-      "comment": "The linen ephod is priestly attire; 'all his might' suggests joyful abandon."
+      "text": "And David danced before the LORD with all his might, wearing a linen ephod.",
+      "links": "<a href='/AIV/13/15/27'>1 Chron. 15:27</a>; <a href='/AIV/19/30/11'>Ps. 30:11</a>",
+      "comment": "David’s dancing in linen, a priestly garment, prefigures the close link between spiritual leadership and worship. His humility symbolizes joyful devotion to God, uniting kingly authority and the call to worship."
     },
     {
-      "pk": 2060615,
+      "pk": 10006015,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 6,
       "verse": 15,
       "text": "So David and all the house of Israel brought up the ark of the LORD with shouting and with the sound of the trumpet.",
-      "links": "<a href='/ESV/13/15/28'>1 Chr. 15:28</a>; <a href='/ESV/19/47/5'>Ps. 47:5</a>",
-      "comment": "Trumpet (ram’s horn) was often used for celebrations and worship."
+      "links": "<a href='/AIV/13/15/28'>1 Chron. 15:28</a>; <a href='/AIV/19/98/6'>Ps. 98:6</a>",
+      "comment": "The sound of trumpets and collective joy anticipates the liturgical celebrations of the people of God. The Ark’s ascent points forward to Christ’s ascension and the entrance of the faithful into heavenly worship."
     },
     {
-      "pk": 2060616,
+      "pk": 10006016,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 6,
       "verse": 16,
       "text": "And as the ark of the LORD came into the city of David, Michal the daughter of Saul looked out of the window and saw King David leaping and dancing before the LORD, and she despised him in her heart.",
-      "links": "<a href='/ESV/09/18/27'>1 Sam. 18:27</a>; <a href='/ESV/13/15/29'>1 Chr. 15:29</a>",
-      "comment": "Her contempt foreshadows later conflict."
+      "links": "<a href='/AIV/13/15/29'>1 Chron. 15:29</a>",
+      "comment": "Michal’s disdain contrasts with David’s joyful humility. True honor before God is counted as foolishness by the world. It suggests an inner attitude is as important as external action."
     },
     {
-      "pk": 2060617,
+      "pk": 10006017,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 6,
       "verse": 17,
-      "text": "They brought in the ark of the LORD and set it in its place inside the tent that David had pitched for it. Then David offered burnt offerings and peace offerings before the LORD.",
-      "links": "<a href='/ESV/13/16/1'>1 Chr. 16:1</a>; <a href='/ESV/03/01/03'>Lev. 1:3</a>",
-      "comment": "David acts as mediator, performing both types of offering."
+      "text": "And they brought in the ark of the LORD and set it in its place, inside the tent that David had pitched for it. And David offered burnt offerings and peace offerings before the LORD.",
+      "links": "<a href='/AIV/13/16/1'>1 Chron. 16:1</a>; <a href='/AIV/03/07/11-15'>Lev. 7:11-15</a>",
+      "comment": "The Ark is set in a tent (not the temple), showing God’s presence among his pilgrim people. Burnt and peace offerings prefigure the ultimate offering in Christ and the Eucharistic celebration of peace with God."
     },
     {
-      "pk": 2060618,
+      "pk": 10006018,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 6,
       "verse": 18,
-      "text": "When David had finished offering the burnt offerings and the peace offerings, he blessed the people in the name of the LORD of hosts.",
-      "links": "<a href='/ESV/13/16/2'>1 Chr. 16:2</a>",
-      "comment": "David’s blessing invokes God's authority."
+      "text": "And when David had finished offering the burnt offerings and the peace offerings, he blessed the people in the name of the LORD of hosts.",
+      "links": "<a href='/AIV/13/16/2'>1 Chron. 16:2</a>; <a href='/AIV/04/06/23-27'>Num. 6:23-27</a>",
+      "comment": "David’s blessing as king and spiritual leader prefigures the role of a king-priest, a theme fulfilled in Jesus Christ who gives the final blessing (Luke 24:50–51)."
     },
     {
-      "pk": 2060619,
+      "pk": 10006019,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 6,
       "verse": 19,
-      "text": "And he distributed to all the people, the whole multitude of Israel, both men and women, a cake of bread, a date cake, and a raisin cake to each one. Then all the people departed, each to his house.",
-      "links": "<a href='/ESV/13/16/3'>1 Chr. 16:3</a>",
-      "comment": "The Hebrew for 'cake' is uncertain; ESV translates as 'portion of meat.'"
+      "text": "He distributed among all the people, the whole multitude of Israel, both men and women, a loaf of bread, a portion of meat, and a cake of raisins. Then all the people departed, each to his house.",
+      "links": "<a href='/AIV/13/16/3'>1 Chron. 16:3</a>",
+      "comment": "Unified worship is celebrated by a sacred meal given to all. The sharing of bread and blessing with the people points forward to the communal meal at the heart of Christian worship."
     },
     {
-      "pk": 2060620,
+      "pk": 10006020,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 6,
       "verse": 20,
-      "text": "David returned to bless his household. But Michal the daughter of Saul came out to meet David and said, 'How the king of Israel honored himself today, uncovering himself before the eyes of his servants’ female servants, as one of the vulgar fellows shamefully uncovers himself!'",
-      "links": "<a href='/ESV/13/15/29'>1 Chr. 15:29</a>",
-      "comment": "Michal’s rebuke is biting and sarcastic."
+      "text": "And David returned to bless his household. But Michal the daughter of Saul came out to meet David and said, 'How the king of Israel honored himself today, uncovering himself before the eyes of his servants' female servants, as one of the vulgar fellows shamelessly uncovers himself!'",
+      "links": "<a href='/AIV/13/15/29'>1 Chron. 15:29</a>",
+      "comment": "Michal’s sarcasm belittles David’s act of worship. The narrative distinguishes between the approval of God and judgment from human pride, emphasizing humility as central for leaders."
     },
     {
-      "pk": 2060621,
+      "pk": 10006021,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 6,
       "verse": 21,
-      "text": "And David said to Michal, 'It was before the LORD, who chose me above your father and above all his house, to appoint me as prince over Israel, the people of the LORD—and I will celebrate before the LORD.'",
-      "links": "<a href='/ESV/09/16/13'>1 Sam. 16:13</a>",
-      "comment": "David boldly affirms his divine calling and worship."
+      "text": "And David said to Michal, 'It was before the LORD, who chose me above your father and above all his house, to appoint me as ruler over the people of the LORD, over Israel. Therefore I will celebrate before the LORD.'",
+      "links": "<a href='/AIV/09/16/1'>1 Sam. 16:1</a>",
+      "comment": "David’s defense hinges upon divine election. The right worship of God takes priority over human approval, showing that glorifying God transcends royal dignity."
     },
     {
-      "pk": 2060622,
+      "pk": 10006022,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 6,
       "verse": 22,
-      "text": "And I will become even more undignified than this, and will be humble in my own eyes. But by the female servants whom you spoke of, by them I shall be held in honor.",
-      "links": "<a href='/ESV/19/131/1'>Ps. 131:1</a>; <a href='/ESV/40/23/12'>Matt. 23:12</a>",
-      "comment": "'Humble' carries the connotation of self-abasement."
+      "text": "I will make myself even more undignified than this, and I will be lowly in my own eyes. But by the maidservants of whom you have spoken, by them I shall be held in honor.",
+      "links": "",
+      "comment": "David’s humility and willingness to be abased for the Lord’s sake reflect the attitude Christ describes (Matt. 23:12). True exaltation comes through humility before God."
     },
     {
-      "pk": 2060623,
+      "pk": 10006023,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 6,
       "verse": 23,
       "text": "And Michal the daughter of Saul had no child to the day of her death.",
-      "links": "<a href='/ESV/13/15/29'>1 Chr. 15:29</a>",
-      "comment": "Implied judgment for Michal’s contempt; the Hebrew text is terse."
+      "links": "<a href='/AIV/10/21/8'>2 Sam. 21:8</a>",
+      "comment": "Michal’s childlessness, a sign of divine disfavor, contrasts with the blessings upon those who properly honor God. This has ramifications for understanding God’s favor as following from rightly-ordered worship and faithfulness."
     }
   ],
-  "translatedAt": "2025-12-22T08:41:24.665Z"
+  "translatedAt": "2025-12-24T03:14:31.403Z"
 }

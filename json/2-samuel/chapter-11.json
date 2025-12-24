@@ -1,278 +1,333 @@
 {
-  "book": "2 Samuel",
+  "book": 10,
+  "bookName": "2 Samuel",
   "bookAbbreviation": "2Sam",
   "chapter": 11,
   "verses": [
     {
-      "pk": 2483201,
+      "pk": 10011001,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 11,
       "verse": 1,
-      "text": "In the spring, when kings go out to battle, David sent Joab and his officers and all Israel, and they destroyed the Ammonites and besieged Rabbah. But David remained in Jerusalem.",
+      "text": "At the turn of the year, at the time when kings go out to war, David sent Joab, his servants, and all Israel. They destroyed the Ammonites and besieged Rabbah. But David remained in Jerusalem.",
       "links": "<a href='/AIV/13/20/1'>1 Chron. 20:1</a>",
-      "comment": "Kept literal timing ('spring, when kings go out'), as in the Hebrew, not smoothing into narrative."
+      "comment": "This verse sets the stage for what follows by showing David's absence from the battlefield, which is significant since kings usually led in war. David's staying behind reveals a moment of spiritual laxity, a reminder that spiritual vigilance is crucial."
     },
     {
-      "pk": 2483202,
+      "pk": 10011002,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 11,
       "verse": 2,
-      "text": "One evening, David got up from his bed and walked around on the roof of the king’s house. From the roof he saw a woman bathing, and the woman was very beautiful in appearance.",
-      "links": "<a href='/AIV/19/51/1'>Ps. 51:1</a>",
-      "comment": "Retained the phrase 'beautiful in appearance' (literally 'very good in appearance')."
+      "text": "Late one afternoon, David got up from his bed and walked on the roof of the king’s house. From the roof he saw a woman bathing. The woman was very beautiful.",
+      "links": "<a href='/AIV/19/51/1-4'>Ps. 51:1-4</a>",
+      "comment": "David’s gaze on Bathsheba marks the beginning of temptation. This underlines the teaching that even great leaders can fall to sin if they allow themselves to be idle and avoid discipline."
     },
     {
-      "pk": 2483203,
+      "pk": 10011003,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 11,
       "verse": 3,
-      "text": "And David sent and inquired about the woman. And one said, 'Is this not Bathsheba, the daughter of Eliam, the wife of Uriah the Hittite?'",
-      "links": "<a href='/AIV/23/37/2'>2 Sam. 23:34-39</a>",
-      "comment": "Eliam and Uriah identified as in original. Used 'the Hittite' as in Hebrew."
+      "text": "David sent and inquired about the woman. Someone said, 'Isn’t this Bathsheba, the daughter of Eliam, the wife of Uriah the Hittite?'",
+      "links": "<a href='/AIV/13/3/5'>1 Chron. 3:5</a>; <a href='/AIV/10/23/34-39'>2 Sam. 23:34-39</a>",
+      "comment": "Bathsheba’s identity is emphasized, with her familial and marital status stated plainly. This underscores the gravity of David’s actions since he knows she is married. The moral law is at stake."
     },
     {
-      "pk": 2483204,
+      "pk": 10011004,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 11,
       "verse": 4,
-      "text": "So David sent messengers and took her, and she came to him, and he slept with her. (Now she had been purifying herself from her uncleanness.) Then she returned to her house.",
-      "links": "<a href='/AIV/3/15/18'>Lev. 15:18-19</a>",
-      "comment": "Added parenthetical as in the Hebrew; clarified ritual purification."
+      "text": "So David sent messengers and took her. She came to him, and he lay with her. (She had just purified herself from her uncleanness.) Then she returned to her house.",
+      "links": "<a href='/AIV/03/15/19-30'>Lev. 15:19-30</a>",
+      "comment": "The text notes her ritual purification, highlighting both moral and ceremonial law. David’s deliberate action reveals a willful transgression of God’s commandments."
     },
     {
-      "pk": 2483205,
+      "pk": 10011005,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 11,
       "verse": 5,
-      "text": "The woman conceived, and she sent word and told David, 'I am pregnant.'",
-      "links": "<a href='/AIV/19/51/1-4'>Ps. 51:1-4</a>",
-      "comment": "Kept word order and direct speech."
+      "text": "The woman conceived. She sent word to David, saying, 'I am pregnant.'",
+      "links": "<a href='/AIV/04/32/23'>Num. 32:23</a>",
+      "comment": "Sin often leads to further consequences. Bathsheba’s message forces David to confront his actions. The text does not excuse David but describes the natural outworkings of sin."
     },
     {
-      "pk": 2483206,
+      "pk": 10011006,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 11,
       "verse": 6,
-      "text": "So David sent word to Joab, 'Send me Uriah the Hittite.' And Joab sent Uriah to David.",
+      "text": "So David sent word to Joab, 'Send me Uriah the Hittite.' Joab sent Uriah to David.",
       "links": "<a href='/AIV/10/23/39'>2 Sam. 23:39</a>",
-      "comment": "Maintained direct order and precise names."
+      "comment": "Here begins David’s attempt to cover up his sin, showing how one transgression can foster deeper deception."
     },
     {
-      "pk": 2483207,
+      "pk": 10011007,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 11,
       "verse": 7,
-      "text": "When Uriah came to him, David asked how Joab was doing, how the people were doing, and how the war was going.",
-      "links": "",
-      "comment": "Kept David’s threefold inquiry as in Hebrew."
+      "text": "When Uriah came to him, David asked about Joab, the army, and how the war was going.",
+      "links": "<a href='/AIV/10/20/1-22'>2 Sam. 20:1-22</a>",
+      "comment": "David’s feigned concern for the battle covers his real intent. The duplicity echoes the dangers of hidden sin and hypocrisy."
     },
     {
-      "pk": 2483208,
+      "pk": 10011008,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 11,
       "verse": 8,
       "text": "Then David said to Uriah, 'Go down to your house and wash your feet.' So Uriah left the king’s house, and a gift from the king was sent after him.",
-      "links": "",
-      "comment": "‘Wash your feet’ as euphemism for rest/refreshment, retained the literal sense."
+      "links": "<a href='/AIV/01/18/4'>Gen. 18:4</a>",
+      "comment": "Washing feet is an idiom for resting at home. David’s gift is an attempt to induce Uriah to visit his wife, hoping to disguise Bathsheba’s pregnancy."
     },
     {
-      "pk": 2483209,
+      "pk": 10011009,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 11,
       "verse": 9,
-      "text": "But Uriah slept at the entrance of the king’s house with all the servants of his lord, and did not go down to his house.",
-      "links": "",
-      "comment": "Kept word order; clarified location."
+      "text": "But Uriah slept at the entrance of the king's house with all the servants of his master and did not go down to his house.",
+      "links": "<a href='/AIV/10/15/21'>2 Sam. 15:21</a>",
+      "comment": "Uriah’s loyalty and discipline is in stark contrast to David’s weakness. He models virtue under trial—an example reminiscent of true discipleship."
     },
     {
-      "pk": 2483210,
+      "pk": 10011010,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 11,
       "verse": 10,
-      "text": "When they told David, 'Uriah did not go down to his house,' David said to Uriah, 'Have you not come from a journey? Why did you not go down to your house?'",
-      "links": "",
-      "comment": "Direct questioning reflects original."
+      "text": "When they told David, 'Uriah did not go down to his house,' David said to Uriah, 'Haven’t you come from a journey? Why didn’t you go to your house?'",
+      "links": "<a href='/AIV/19/32/2'>Ps. 32:2</a>",
+      "comment": "David is surprised at Uriah’s integrity, and this further foils his plan. The passage illustrates how unrighteousness cannot be hidden from God."
     },
     {
-      "pk": 2483211,
+      "pk": 10011011,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 11,
       "verse": 11,
-      "text": "Uriah said to David, 'The ark and Israel and Judah dwell in tents, and my master Joab and my lord’s servants are encamped in the open fields. Shall I then go to my house, to eat and to drink and to lie with my wife? As you live, and as your soul lives, I will not do this thing.'",
-      "links": "",
-      "comment": "Retained formal oath language and order: 'as you live, and as your soul lives.'"
+      "text": "Uriah answered David, 'The ark and Israel and Judah stay in tents, and my master Joab and your servants are camped in the open field. Should I then go to my house to eat and drink and lie with my wife? As you live, and as your soul lives, I will not do this thing.'",
+      "links": "<a href='/AIV/09/4/3-11'>1 Sam. 4:3-11</a>",
+      "comment": "Uriah’s commitment reflects a reverence for the presence of God indicated by the ark, and his words echo the necessity of sacrifice in faith."
     },
     {
-      "pk": 2483212,
+      "pk": 10011012,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 11,
       "verse": 12,
       "text": "Then David said to Uriah, 'Stay here today also, and tomorrow I will send you back.' So Uriah remained in Jerusalem that day and the next.",
-      "links": "",
-      "comment": "Faithful to verb forms and days."
+      "links": "<a href='/AIV/10/12/1'>2 Sam. 12:1</a>",
+      "comment": "Despite Uriah’s uprightness, David increases his duplicity. The depth of David’s sin continues to grow, showing the dangers of a hardened heart."
     },
     {
-      "pk": 2483213,
+      "pk": 10011013,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 11,
       "verse": 13,
-      "text": "And David invited him, and he ate and drank in his presence and made him drunk. And in the evening he went out to sleep on his mat with the servants of his lord, but he did not go down to his house.",
-      "links": "",
-      "comment": "Kept ‘mat’ (Hebrew: 'bed') for clarity; specified continued refusal."
+      "text": "David invited him, and he ate and drank in his presence and made him drunk. But in the evening, Uriah went out to lie on his bed with the servants of his master; he did not go down to his house.",
+      "links": "<a href='/AIV/19/69/21'>Ps. 69:21</a>",
+      "comment": "Even while under the influence, Uriah resists the temptation to abandon his duty. This intensifies the tragedy of David’s plotting."
     },
     {
-      "pk": 2483214,
+      "pk": 10011014,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 11,
       "verse": 14,
       "text": "In the morning, David wrote a letter to Joab and sent it by the hand of Uriah.",
-      "links": "",
-      "comment": "Literal rendering; note Uriah carries his own death order."
+      "links": "<a href='/AIV/10/12/9'>2 Sam. 12:9</a>",
+      "comment": "David’s willingness to use Uriah to deliver his own death warrant exposes the hardening effect of sin and the depth of human depravity."
     },
     {
-      "pk": 2483215,
+      "pk": 10011015,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 11,
       "verse": 15,
-      "text": "In the letter he wrote, 'Put Uriah in the front of the hardest fighting, and then draw back from him, so that he may be struck down and die.'",
-      "links": "",
-      "comment": "Kept 'hardest fighting' as literal translation ('strongest battle')."
+      "text": "In the letter he wrote, 'Set Uriah in the front line where the fighting is fiercest, then draw back from him, so that he may be struck down and die.'",
+      "links": "<a href='/AIV/10/12/9'>2 Sam. 12:9</a>; <a href='/AIV/02/20/13'>Ex. 20:13</a>",
+      "comment": "David commands murder by proxy, violating both personal and divine law. Sin grows worse when not confessed."
     },
     {
-      "pk": 2483216,
+      "pk": 10011016,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 11,
       "verse": 16,
-      "text": "So as Joab was besieging the city, he assigned Uriah to the place where he knew there were valiant men.",
-      "links": "",
-      "comment": "Kept 'valiant men' for clarity."
+      "text": "So as Joab besieged the city, he assigned Uriah to the place where he knew there were valiant men.",
+      "links": "<a href='/AIV/10/23/8'>2 Sam. 23:8</a>",
+      "comment": "Joab follows the king’s orders without protest, a picture of hierarchical obedience with tragic consequences. The dangers of misplaced obedience are warned against elsewhere in Scripture."
     },
     {
-      "pk": 2483217,
+      "pk": 10011017,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 11,
       "verse": 17,
-      "text": "Then the men of the city came out and fought against Joab, and some of the servants of David fell. Uriah the Hittite also died.",
-      "links": "",
-      "comment": "Retained sequence; 'servants' means soldiers."
+      "text": "When the men of the city came out and fought with Joab, some of David’s servants fell. Uriah the Hittite also died.",
+      "links": "<a href='/AIV/10/12/9'>2 Sam. 12:9</a>",
+      "comment": "David's order leads to the deaths of the innocent, showing how sin affects more than just the individual sinner."
     },
     {
-      "pk": 2483218,
+      "pk": 10011018,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 11,
       "verse": 18,
-      "text": "Then Joab sent and reported to David all the news concerning the war.",
-      "links": "",
-      "comment": "Literal rendering."
+      "text": "Then Joab sent and reported to David all the things concerning the war.",
+      "links": "<a href='/AIV/10/12/26-28'>2 Sam. 12:26-28</a>",
+      "comment": "Joab notifies David of the outcome, part of the chain of deception and misplaced priorities evident in leadership gone astray."
     },
     {
-      "pk": 2483219,
+      "pk": 10011019,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 11,
       "verse": 19,
-      "text": "And he instructed the messenger, 'When you have finished reporting all the news about the war to the king,",
-      "links": "",
-      "comment": "Joab’s instructions introduced as original."
+      "text": "He instructed the messenger, 'When you have finished telling the king all about the battle,",
+      "links": "<a href='/AIV/10/18/19-32'>2 Sam. 18:19-32</a>",
+      "comment": "Joab anticipates David may be displeased, displaying the delicate relationship between kings and their commanders."
     },
     {
-      "pk": 2483220,
+      "pk": 10011020,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 11,
       "verse": 20,
-      "text": "if the king’s anger rises and he says to you, ‘Why did you go so near to the city to fight? Did you not know they would shoot from the wall?",
-      "links": "",
-      "comment": "'shoot' (literally 'strike'), context is archers."
+      "text": "if the king’s anger rises and he says to you, ‘Why did you go so near to the city to fight? Didn’t you know they would shoot from the wall?",
+      "links": "<a href='/AIV/07/9/53-54'>Judg. 9:53-54</a>",
+      "comment": "War tactics are brought up—a warning about prudence, and a subtle hint to David's misplaced anger given his covert objectives."
     },
     {
-      "pk": 2483221,
+      "pk": 10011021,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 11,
       "verse": 21,
-      "text": "Who killed Abimelech son of Jerubbesheth? Did not a woman throw an upper millstone on him from the wall, so that he died at Thebez? Why did you go so near the wall?’ then you shall say, ‘Your servant Uriah the Hittite is dead also.’”",
-      "links": "<a href='/AIV/7/9/53'>Judg. 9:53</a>",
-      "comment": "'Jerubbesheth' = Gideon; kept 'upper millstone.'"
+      "text": "Who killed Abimelech the son of Jerubbesheth? Didn’t a woman throw an upper millstone on him from the wall so that he died in Thebez? Why did you go so near the wall?’ Then you shall say, ‘Your servant Uriah the Hittite is also dead.’”",
+      "links": "<a href='/AIV/07/9/50-54'>Judg. 9:50-54</a>",
+      "comment": "The comparison to Abimelech’s death shows Joab’s expectation of criticism, yet he knows that Uriah’s death is David’s true concern."
     },
     {
-      "pk": 2483222,
+      "pk": 10011022,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 11,
       "verse": 22,
-      "text": "So the messenger went and came and told David all that Joab had sent him to say.",
-      "links": "",
-      "comment": "Literal rendering."
+      "text": "So the messenger set out, and he came and told David all that Joab had sent him to report.",
+      "links": "<a href='/AIV/10/12/26-28'>2 Sam. 12:26-28</a>",
+      "comment": "The messenger relays all the battlefield events faithfully, showing the obedience and trust embedded in royal service."
     },
     {
-      "pk": 2483223,
+      "pk": 10011023,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 11,
       "verse": 23,
-      "text": "The messenger said to David, 'The men gained an advantage over us and came out against us in the field, but we drove them back to the entrance of the gate.",
+      "text": "The messenger said to David, 'The men prevailed against us and came out to us in the field, but we drove them back to the entrance of the gate.",
       "links": "",
-      "comment": "'Gained advantage' = 'prevailed over.'"
+      "comment": "The focus is on the larger battle report, providing cover for the true purpose of Joab’s actions, which was the murder of Uriah."
     },
     {
-      "pk": 2483224,
+      "pk": 10011024,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 11,
       "verse": 24,
-      "text": "Then the archers shot at your servants from the wall, and some of the king’s servants died; and your servant Uriah the Hittite is dead also.'",
-      "links": "",
-      "comment": "'Shot' as in context, literal is 'fired' or 'drew bows.'"
+      "text": "Then the archers shot at your servants from the wall, and some of the king’s servants died. Your servant Uriah the Hittite is also dead.'",
+      "links": "<a href='/AIV/10/12/9'>2 Sam. 12:9</a>",
+      "comment": "Uriah's death, reported casually, illustrates how Joab follows David’s intent but at the cost of innocent blood. The shedding of innocent blood is seen as an offense before God."
     },
     {
-      "pk": 2483225,
+      "pk": 10011025,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 11,
       "verse": 25,
-      "text": "Then David said to the messenger, 'Thus shall you say to Joab: “Do not let this matter be evil in your eyes, for the sword devours one as well as another. Strengthen your attack against the city, and overthrow it.” And encourage him.'",
-      "links": "",
-      "comment": "Kept David's phrase, word for word as possible ('do not let this be evil in your eyes')."
+      "text": "David said to the messenger, 'Say this to Joab: Don’t let this matter trouble you, for the sword devours one as well as another. Strengthen your attack against the city and overthrow it.' So encourage him.",
+      "links": "<a href='/AIV/10/12/10'>2 Sam. 12:10</a>",
+      "comment": "David tries to minimize the moral weight of Uriah’s death. This rationalization is common with kingly power unchecked—a spiritual reality also addressed by Christ, who calls for inner transformation as well as outward restitution."
     },
     {
-      "pk": 2483226,
+      "pk": 10011026,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 11,
       "verse": 26,
-      "text": "When the wife of Uriah heard that Uriah her husband was dead, she mourned for her husband.",
-      "links": "",
-      "comment": "Literal translation."
+      "text": "When Uriah’s wife heard that her husband was dead, she mourned for him.",
+      "links": "<a href='/AIV/19/51/1-19'>Ps. 51:1-19</a>",
+      "comment": "Bathsheba’s mourning obeys the law regarding mourning for the dead. True contrition and mourning are both necessary to prepare for healing and forgiveness."
     },
     {
-      "pk": 2483227,
+      "pk": 10011027,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 11,
       "verse": 27,
-      "text": "When the mourning was over, David sent and brought her to his house, and she became his wife and bore him a son. But the thing that David had done displeased the LORD.",
-      "links": "<a href='/AIV/19/51/4'>Ps. 51:4</a>",
-      "comment": "Kept formula 'the thing David had done was evil in the LORD’s eyes.'"
+      "text": "When the time of mourning was over, David sent and brought her to his house. She became his wife and bore him a son. But what David had done displeased the LORD.",
+      "links": "<a href='/AIV/10/12/1-15'>2 Sam. 12:1-15</a>; <a href='/AIV/19/51/1-19'>Ps. 51:1-19</a>",
+      "comment": "Although David’s actions were outwardly finalized, God Himself remains the final judge. This prefigures the New Testament call to repentance and the role of spiritual authority, confession, and penance for restoration (cf. <a href='/AIV/43/20/22-23'>John 20:22-23</a>). The consequences of sin endured but also forgiveness available if sincerely sought."
     }
   ],
-  "translatedAt": "2025-12-22T09:39:52.761Z"
+  "translatedAt": "2025-12-24T03:16:38.654Z"
 }

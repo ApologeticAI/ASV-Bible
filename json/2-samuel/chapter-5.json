@@ -1,258 +1,309 @@
 {
-  "book": "2 Samuel",
+  "book": 10,
+  "bookName": "2 Samuel",
   "bookAbbreviation": "2Sam",
   "chapter": 5,
   "verses": [
     {
-      "pk": 2050001,
+      "pk": 10005001,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 5,
       "verse": 1,
-      "text": "Then all the tribes of Israel came to David at Hebron and said, \"Look, we are your bone and flesh.\"",
-      "links": "<a href='/ESV/13/11/1'>1 Chron. 11:1</a>",
-      "comment": "Phrase 'bone and flesh' means familial relationship and kinship."
+      "text": "Then all the tribes of Israel came to David at Hebron and said, 'Look, we are your flesh and bone.'",
+      "links": "<a href='/AIV/07/9/2'>Judg. 9:2</a>; <a href='/AIV/01/29/14'>Gen. 29:14</a>",
+      "comment": "Israel recognizes David as their own, echoing the ancient covenantal language about kinship. This sets the foundation for unity under one king, reflecting the biblical theme of God's people gathered together."
     },
     {
-      "pk": 2050002,
+      "pk": 10005002,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 5,
       "verse": 2,
-      "text": "Even in times past, when Saul was king over us, it was you who led Israel out and brought them in. And the LORD said to you, 'You will shepherd my people Israel, and you will be ruler over Israel.'",
-      "links": "<a href='/ESV/19/78/71'>Ps. 78:71</a>; <a href='/ESV/13/11/2'>1 Chron. 11:2</a>",
-      "comment": "Refers to David's leadership in battle and God's appointment."
+      "text": "'Even in the past, when Saul was king over us, you were the one who led Israel out and brought them in. And the LORD has said to you, \"You shall shepherd My people Israel, and you shall be ruler over Israel.\"'",
+      "links": "<a href='/AIV/09/16/1'>1Sam. 16:1</a>; <a href='/AIV/13/11/2'>1Chr. 11:2</a>",
+      "comment": "God's choice of David parallels the promises to the patriarchs and points toward God’s desire for a divinely established leadership. There is also a clear echo of messianic prophecy, linking David to the shepherding role later fulfilled by Christ (<a href='/AIV/43/10/11'>John 10:11</a>)."
     },
     {
-      "pk": 2050003,
+      "pk": 10005003,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 5,
       "verse": 3,
-      "text": "So all the elders of Israel came to the king at Hebron. King David made a covenant with them at Hebron before the LORD, and they anointed David as king over Israel.",
-      "links": "<a href='/ESV/10/2/4'>2 Sam. 2:4</a>; <a href='/ESV/13/11/3'>1 Chron. 11:3</a>",
-      "comment": "David officially made king over all Israel."
+      "text": "So all the elders of Israel came to the king at Hebron, and King David made a covenant with them at Hebron before the LORD. Then they anointed David as king over Israel.",
+      "links": "<a href='/AIV/09/11/15'>1Sam. 11:15</a>; <a href='/AIV/13/11/3'>1Chr. 11:3</a>",
+      "comment": "The public anointing and covenant show both the spiritual and communal establishment of the monarchy. The use of anointing foreshadows sacramental rites, showing the pattern of divine grace through material signs."
     },
     {
-      "pk": 2050004,
+      "pk": 10005004,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 5,
       "verse": 4,
       "text": "David was thirty years old when he began to reign, and he reigned forty years.",
-      "links": "<a href='/ESV/13/29/27'>1 Chron. 29:27</a>",
-      "comment": "Age and total reign duration are specified."
+      "links": "<a href='/AIV/01/41/46'>Gen. 41:46</a>; <a href='/AIV/42/3/23'>Luke 3:23</a>",
+      "comment": "The age and duration echo the pattern of significant biblical leaders starting their missions at thirty, as with Joseph and later Jesus Christ, suggesting a typological fulfillment."
     },
     {
-      "pk": 2050005,
+      "pk": 10005005,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 5,
       "verse": 5,
-      "text": "He reigned over Judah in Hebron for seven years and six months, and he reigned over all Israel and Judah in Jerusalem for thirty-three years.",
-      "links": "<a href='/ESV/10/2/11'>2 Sam. 2:11</a>; <a href='/ESV/13/29/27'>1 Chron. 29:27</a>",
-      "comment": "Division between reign over Judah and total reign."
+      "text": "He reigned over Judah at Hebron for seven years and six months, and over all Israel and Judah in Jerusalem for thirty-three years.",
+      "links": "<a href='/AIV/10/2/11'>2Sam. 2:11</a>; <a href='/AIV/13/29/27'>1Chr. 29:27</a>",
+      "comment": "The gradual unification of the kingdom under David marks a crucial moment in salvation history, prefiguring the gathering of all people under God's chosen king into one worshiping community."
     },
     {
-      "pk": 2050006,
+      "pk": 10005006,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 5,
       "verse": 6,
-      "text": "The king and his men went to Jerusalem against the Jebusites, the inhabitants of the land, who spoke to David, saying, \"You will not come in here; the blind and the lame will turn you away,\" thinking, \"David cannot come in here.\"",
-      "links": "<a href='/ESV/13/11/4'>1 Chron. 11:4-5</a>",
-      "comment": "Jebusites challenge David's ability to conquer Jerusalem."
+      "text": "The king and his men went to Jerusalem against the Jebusites, the inhabitants of the land, who said to David, 'You will not come in here; even the blind and the lame will turn you back.' They thought, 'David can’t come in here.'",
+      "links": "<a href='/AIV/07/1/21'>Judg. 1:21</a>; <a href='/AIV/13/11/5'>1Chr. 11:5</a>",
+      "comment": "The Jebusite challenge highlights the human impossibility that is overturned by divine purpose, foreshadowing the spiritual conquest seen in Christ’s overcoming of worldly opposition."
     },
     {
-      "pk": 2050007,
+      "pk": 10005007,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 5,
       "verse": 7,
-      "text": "Nevertheless, David captured the stronghold of Zion, that is, the city of David.",
-      "links": "<a href='/ESV/19/2/6'>Ps. 2:6</a>; <a href='/ESV/13/11/5'>1 Chron. 11:5</a>",
-      "comment": "Zion becomes the city of David: Jerusalem."
+      "text": "Nevertheless David captured the stronghold of Zion, which is now called the city of David.",
+      "links": "<a href='/AIV/13/11/5'>1Chr. 11:5</a>; <a href='/AIV/19/2/6'>Ps. 2:6</a>",
+      "comment": "David’s conquest transforms Jerusalem into his capital, laying the foundation for God's dwelling on earth, later fulfilled in the spiritual city in Revelation (<a href='/AIV/66/21/2'>Rev. 21:2</a>)."
     },
     {
-      "pk": 2050008,
+      "pk": 10005008,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 5,
       "verse": 8,
-      "text": "David said on that day, \"Whoever attacks the Jebusites, let him get up the water shaft to reach the lame and the blind, who are hated by David's soul.\" Therefore it is said, \"The blind and the lame will not enter the house.\"",
-      "links": "<a href='/ESV/13/11/6'>1 Chron. 11:6</a>",
-      "comment": "Quotation reflects David's mockery of the Jebusite taunt."
+      "text": "David said on that day, 'Whoever attacks the Jebusites, let him go up by the water shaft and strike the lame and the blind, who are hated by David's soul.' Therefore it is said, 'The blind and the lame will not enter the house.'",
+      "links": "<a href='/AIV/13/11/6'>1Chr. 11:6</a>",
+      "comment": "David's statement has both a literal and figurative meaning, signifying rejection of spiritual blindness. Later, Christ ministers to the blind and the lame, revealing mercy and deeper truth (<a href='/AIV/40/21/14'>Matt. 21:14</a>)."
     },
     {
-      "pk": 2050009,
+      "pk": 10005009,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 5,
       "verse": 9,
-      "text": "So David lived in the stronghold and called it the city of David. And David built all around from the Millo and inward.",
-      "links": "<a href='/ESV/13/11/7'>1 Chron. 11:7-8</a>",
-      "comment": "Millo possibly refers to a rampart or earthwork in Jerusalem."
+      "text": "And David lived in the stronghold and called it the city of David. David built all around from the Millo inward.",
+      "links": "<a href='/AIV/10/6/10'>2Sam. 6:10</a>; <a href='/AIV/13/11/7'>1Chr. 11:7</a>",
+      "comment": "Jerusalem’s establishment as David’s city prefigures the importance of a central place of worship. This echoes the need for unity in worship in the historic Christian tradition."
     },
     {
-      "pk": 2050010,
+      "pk": 10005010,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 5,
       "verse": 10,
-      "text": "David became greater and greater, for the LORD, the God of hosts, was with him.",
-      "links": "<a href='/ESV/10/7/9'>2 Sam. 7:9</a>; <a href='/ESV/19/89/20-21'>Ps. 89:20–21</a>",
-      "comment": "Emphasizes divine blessing and growth of David's power."
+      "text": "And David became greater and greater, for the LORD, the God of hosts, was with him.",
+      "links": "<a href='/AIV/09/16/18'>1Sam. 16:18</a>; <a href='/AIV/19/89/19-21'>Ps. 89:19-21</a>",
+      "comment": "David’s rise is attributed to God’s presence, affirming that true greatness comes from divine favor. Such language anticipates the incarnation: Christ’s greatness as the Son of God."
     },
     {
-      "pk": 2050011,
+      "pk": 10005011,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 5,
       "verse": 11,
-      "text": "Hiram king of Tyre sent messengers to David, as well as cedar trees, carpenters, and masons, and they built David a house.",
-      "links": "<a href='/ESV/10/7/2'>2 Sam. 7:2</a>; <a href='/ESV/11/5/1'>1 Kings 5:1-2</a>",
-      "comment": "Hiram's gifts connect David's kingdom with Gentiles and trade."
+      "text": "King Hiram of Tyre sent messengers to David, as well as cedar trees, carpenters, and stonemasons, and they built a house for David.",
+      "links": "<a href='/AIV/11/5/1'>1Kgs. 5:1</a>; <a href='/AIV/13/14/1'>1Chr. 14:1</a>",
+      "comment": "Foreign tribute and alliances highlight God’s providence in establishing David’s house. This anticipates the building of the Temple and the Church, where both Jew and Gentile are united."
     },
     {
-      "pk": 2050012,
+      "pk": 10005012,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 5,
       "verse": 12,
-      "text": "David knew that the LORD had established him as king over Israel and had exalted his kingdom for the sake of his people Israel.",
-      "links": "<a href='/ESV/10/7/16'>2 Sam. 7:16</a>",
-      "comment": "Theological note: David recognizes God's purpose and covenant."
+      "text": "David then knew that the LORD had established him as king over Israel and exalted his kingdom for the sake of His people Israel.",
+      "links": "<a href='/AIV/10/7/16'>2Sam. 7:16</a>; <a href='/AIV/19/18/50'>Ps. 18:50</a>",
+      "comment": "David’s recognition points towards a spiritual reality: God’s plan is bigger than personal achievements, focusing on the salvation and well-being of the community, a key principle in Christian tradition."
     },
     {
-      "pk": 2050013,
+      "pk": 10005013,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 5,
       "verse": 13,
-      "text": "David took more concubines and wives from Jerusalem, after he came from Hebron, and more sons and daughters were born to David.",
-      "links": "<a href='/ESV/13/3/9'>1 Chron. 3:9</a>; <a href='/ESV/10/3/2-5'>2 Sam. 3:2-5</a>",
-      "comment": "Polygamy common for ancient Near Eastern kings; not endorsed scripturally."
+      "text": "David took more concubines and wives from Jerusalem after he came from Hebron, and more sons and daughters were born to him.",
+      "links": "<a href='/AIV/10/3/2-5'>2Sam. 3:2-5</a>; <a href='/AIV/13/14/3'>1Chr. 14:3</a>",
+      "comment": "This ancient custom highlights David’s royal status, though later biblical prophets call for a restored marital faithfulness. This points to a spiritual meaning of exclusive devotion to God."
     },
     {
-      "pk": 2050014,
+      "pk": 10005014,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 5,
       "verse": 14,
-      "text": "These are the names of those born to him in Jerusalem: Shammua, Shobab, Nathan, Solomon,",
-      "links": "<a href='/ESV/13/3/5'>1 Chron. 3:5'>1 Chron. 3:5</a>; <a href='/ESV/10/12/24'>2 Sam. 12:24</a>",
-      "comment": "First four sons listed: notable for inclusion of Solomon."
+      "text": "Here are the names of the children born to him in Jerusalem: Shammua, Shobab, Nathan, Solomon,",
+      "links": "<a href='/AIV/10/12/24'>2Sam. 12:24</a>; <a href='/AIV/13/14/4'>1Chr. 14:4</a>",
+      "comment": "Nathan and Solomon are noteworthy. From Solomon comes the royal lineage, and from Nathan, the messianic line found in the genealogy of Christ (<a href='/AIV/42/3/31'>Luke 3:31</a>)."
     },
     {
-      "pk": 2050015,
+      "pk": 10005015,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 5,
       "verse": 15,
       "text": "Ibhar, Elishua, Nepheg, Japhia,",
-      "links": "<a href='/ESV/13/3/6'>1 Chron. 3:6</a>",
-      "comment": "Continuation of list of sons born in Jerusalem."
+      "links": "<a href='/AIV/13/14/5'>1Chr. 14:5</a>",
+      "comment": "These names of David’s sons show the growing family and dynasty, echoing God's promise of descendants, a sign of blessing and covenant."
     },
     {
-      "pk": 2050016,
+      "pk": 10005016,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 5,
       "verse": 16,
       "text": "Elishama, Eliada, and Eliphelet.",
-      "links": "<a href='/ESV/13/3/8'>1 Chron. 3:8</a>",
-      "comment": "Full list of sons as recorded (names may vary slightly between texts)."
+      "links": "<a href='/AIV/13/14/7'>1Chr. 14:7</a>",
+      "comment": "These additional sons continue the theme of kingly expansion and the blessing of God’s favor on David’s household."
     },
     {
-      "pk": 2050017,
+      "pk": 10005017,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 5,
       "verse": 17,
-      "text": "When the Philistines heard that David had been anointed king over Israel, all the Philistines went up to search for David. But David heard about it and went down to the stronghold.",
-      "links": "<a href='/ESV/13/14/8'>1 Chron. 14:8</a>",
-      "comment": "David prepares for military threat; 'stronghold' likely refers to fortress in Jerusalem."
+      "text": "When the Philistines heard that David had been anointed king over Israel, all the Philistines went up to search for David. But David heard and went down to the stronghold.",
+      "links": "<a href='/AIV/09/23/29'>1Sam. 23:29</a>; <a href='/AIV/13/14/8'>1Chr. 14:8</a>",
+      "comment": "Opposition immediately follows the establishment of authority, reminding believers of the ongoing spiritual battles faced by God's anointed."
     },
     {
-      "pk": 2050018,
+      "pk": 10005018,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 5,
       "verse": 18,
-      "text": "Now the Philistines had come and spread out in the Valley of Rephaim.",
-      "links": "<a href='/ESV/13/14/9'>1 Chron. 14:9</a>; <a href='/ESV/06/15/8'>Josh. 15:8</a>",
-      "comment": "Valley of Rephaim is southwest of Jerusalem."
+      "text": "Now the Philistines came and spread out in the Valley of Rephaim.",
+      "links": "<a href='/AIV/06/15/8'>Josh. 15:8</a>; <a href='/AIV/13/14/9'>1Chr. 14:9</a>",
+      "comment": "The Valley of Rephaim is a significant battleground. The enemy's presence there is a prelude to God's intervention and victory through His chosen king."
     },
     {
-      "pk": 2050019,
+      "pk": 10005019,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 5,
       "verse": 19,
-      "text": "David inquired of the LORD, saying, \"Should I go up against the Philistines? Will you deliver them into my hand?\" The LORD said to David, \"Go up, for I will certainly deliver the Philistines into your hand.\"",
-      "links": "<a href='/ESV/13/14/10'>1 Chron. 14:10</a>",
-      "comment": "David seeks God's guidance before battle, showing dependence on God."
+      "text": "David asked the LORD, 'Should I go up against the Philistines? Will You hand them over to me?' The LORD answered David, 'Go up, for I will surely hand the Philistines over to you.'",
+      "links": "<a href='/AIV/09/23/2'>1Sam. 23:2</a>; <a href='/AIV/13/14/10'>1Chr. 14:10</a>",
+      "comment": "David’s consultation with God demonstrates the value of seeking divine guidance before any major action—a model for prayerful discernment in the life of faith."
     },
     {
-      "pk": 2050020,
+      "pk": 10005020,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 5,
       "verse": 20,
-      "text": "So David came to Baal-perazim, and David defeated them there and said, \"The LORD has broken through my enemies before me, like the breakthrough of waters.\" Therefore he called that place Baal-perazim.",
-      "links": "<a href='/ESV/13/14/11'>1 Chron. 14:11</a>",
-      "comment": "Baal-perazim means 'Lord of breakthroughs'; name commemorates victory."
+      "text": "So David went to Baal-perazim and defeated them there. He said, 'The LORD has burst through my enemies before me like a bursting flood.' Therefore he called the place Baal-perazim.",
+      "links": "<a href='/AIV/13/14/11'>1Chr. 14:11</a>; <a href='/AIV/23/28/21'>Isa. 28:21</a>",
+      "comment": "The imagery of God breaking through powerfully underscores God as the true deliverer, using physical circumstances to reveal spiritual realities."
     },
     {
-      "pk": 2050021,
+      "pk": 10005021,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 5,
       "verse": 21,
-      "text": "And the Philistines left their idols there, and David and his men carried them away.",
-      "links": "<a href='/ESV/13/14/12'>1 Chron. 14:12</a>",
-      "comment": "David removes Philistine idols; some texts say 'burned.'"
+      "text": "The Philistines abandoned their idols there, and David and his men carried them away.",
+      "links": "<a href='/AIV/13/14/12'>1Chr. 14:12</a>; <a href='/AIV/09/5/21'>1Sam. 5:21</a>",
+      "comment": "The defeat and removal of idols signify God’s supremacy over false gods, and the cleansing of the land, a recurring theme in salvation history."
     },
     {
-      "pk": 2050022,
+      "pk": 10005022,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 5,
       "verse": 22,
-      "text": "And the Philistines came up again and spread out in the Valley of Rephaim.",
-      "links": "<a href='/ESV/13/14/13'>1 Chron. 14:13</a>",
-      "comment": "Second Philistine campaign in the same valley."
+      "text": "Then the Philistines came up again and spread out in the Valley of Rephaim.",
+      "links": "<a href='/AIV/10/5/18'>2Sam. 5:18</a>; <a href='/AIV/13/14/13'>1Chr. 14:13</a>",
+      "comment": "Repeated enemy attacks point to the persistence of evil but also the need for continual vigilance and faithfulness."
     },
     {
-      "pk": 2050023,
+      "pk": 10005023,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 5,
       "verse": 23,
-      "text": "And when David inquired of the LORD, he said, \"You shall not go up; go around to their rear, and come against them opposite the balsam trees.\"",
-      "links": "<a href='/ESV/13/14/14'>1 Chron. 14:14</a>",
-      "comment": "God gives David a new strategy rather than a frontal assault."
+      "text": "When David asked the LORD, He said, 'Do not go up directly. Circle around behind them and attack them opposite the balsam trees.'",
+      "links": "<a href='/AIV/09/23/4'>1Sam. 23:4</a>; <a href='/AIV/13/14/14'>1Chr. 14:14</a>",
+      "comment": "God gives specific guidance, teaching the need to follow divine instruction rather than relying on human wisdom alone; reminds us of Christ’s obedience to the Father’s will."
     },
     {
-      "pk": 2050024,
+      "pk": 10005024,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 5,
       "verse": 24,
-      "text": "And when you hear the sound of marching in the tops of the balsam trees, move quickly. For then the LORD has gone out before you to strike the army of the Philistines.",
-      "links": "<a href='/ESV/13/14/15'>1 Chron. 14:15</a>",
-      "comment": "The sound is a sign of God's supernatural intervention."
+      "text": "'And when you hear the sound of marching in the tops of the balsam trees, move quickly, for that will mean the LORD has gone out before you to strike the army of the Philistines.'",
+      "links": "<a href='/AIV/13/14/15'>1Chr. 14:15</a>; <a href='/AIV/02/14/19'>Ex. 14:19</a>",
+      "comment": "The supernatural intervention shows God’s presence leading His people in battle, similar to the angelic host and echoes of divine leading in Exodus."
     },
     {
-      "pk": 2050025,
+      "pk": 10005025,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 5,
       "verse": 25,
-      "text": "And David did as the LORD commanded him, and struck down the Philistines from Geba as far as Gezer.",
-      "links": "<a href='/ESV/13/14/16'>1 Chron. 14:16</a>",
-      "comment": "David's obedience and complete victory over the Philistines."
+      "text": "So David did just as the LORD commanded him, and he struck down the Philistines from Geba as far as Gezer.",
+      "links": "<a href='/AIV/06/10/33'>Josh. 10:33</a>; <a href='/AIV/13/14/16'>1Chr. 14:16</a>",
+      "comment": "David’s obedience brings victory by faith and trust in God’s word. This serves as a model for Christian perseverance and reliance on God’s direction for overcoming spiritual opposition."
     }
   ],
-  "translatedAt": "2025-12-22T08:41:00.084Z"
+  "translatedAt": "2025-12-24T03:13:54.329Z"
 }

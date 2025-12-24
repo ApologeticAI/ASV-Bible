@@ -1,5 +1,6 @@
 {
-  "book": "Genesis",
+  "book": 1,
+  "bookName": "Genesis",
   "bookAbbreviation": "Gen",
   "chapter": 2,
   "verses": [
@@ -7,252 +8,302 @@
       "pk": 1002001,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 2,
       "verse": 1,
-      "text": "Thus the heavens and the earth were finished, and all their multitude.",
-      "links": "<a href='/AIV/19/33/6'>Ps. 33:6</a>; <a href='/AIV/23/45/12'>Isa. 45:12</a>",
-      "comment": "Opens with the completion of creation. The mention of 'multitude' highlights God's sovereignty over all creation, setting the stage for mankind's place within it."
+      "text": "So the heavens and the earth and all their array were completed.",
+      "links": "<a href='/AIV/19/104/1-5'>Ps. 104:1-5</a>; <a href='/AIV/23/45/12'>Isa. 45:12</a>",
+      "comment": "This verse marks the completion of creation, emphasizing God's creative act as finished and perfect, a theme found throughout scripture. It subtly echoes the order and structure often recognized in both the natural world and liturgical worship."
     },
     {
       "pk": 1002002,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 2,
       "verse": 2,
-      "text": "On the seventh day, God finished His work that He had done, and He rested on the seventh day from all the work that He had done.",
-      "links": "<a href='/AIV/2/20/11'>Ex. 20:11</a>; <a href='/AIV/19/95/4-5'>Ps. 95:4–5</a>",
-      "comment": "The introduction of the seventh day marks the origin of rest, a practice later foundational to worship and liturgy. This foreshadows the calling of a holy day for God's people."
+      "text": "By the seventh day God finished His work which He had done, and He rested on the seventh day from all His work that He had made.",
+      "links": "<a href='/AIV/02/20/11'>Ex. 20:11</a>; <a href='/AIV/58/4/4'>Heb. 4:4</a>",
+      "comment": "God's rest on the seventh day lays the pattern for the Sabbath, foreshadowing both spiritual rest and the sacred rhythm of worship. There are echoes here of entering into God's rest through faith in Christ (see Heb. 4:4)."
     },
     {
       "pk": 1002003,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 2,
       "verse": 3,
-      "text": "So God blessed the seventh day and made it holy, because on it God rested from all His work that He had created and done.",
-      "links": "<a href='/AIV/2/31/17'>Ex. 31:17</a>; <a href='/AIV/58/4/4-10'>Heb. 4:4-10</a>",
-      "comment": "God's blessing and sanctification of the seventh day draws a spiritual parallel to the future eternal rest in union with Him, as discussed in Hebrews."
+      "text": "God blessed the seventh day and made it holy, because on it He rested from all His work that He had done in creation.",
+      "links": "<a href='/AIV/02/20/8-11'>Ex. 20:8-11</a>; <a href='/AIV/19/118/24'>Ps. 118:24</a>",
+      "comment": "The sanctification of the seventh day sets up the idea of sacred time. The sanctity of certain days leads organically to ongoing liturgical practices in Christian tradition."
     },
     {
       "pk": 1002004,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 2,
       "verse": 4,
-      "text": "These are the generations of the heavens and the earth when they were created. In the day that the LORD God made the earth and the heavens,",
-      "links": "<a href='/AIV/1/1/1'>Gen. 1:1</a>; <a href='/AIV/23/40/28'>Isa. 40:28</a>",
-      "comment": "\"Generations\" here means 'origins' or 'history.' The phrase signals a transition to the account focusing on mankind."
+      "text": "These are the generations of the heavens and the earth when they were created, in the day that the LORD God made earth and heavens.",
+      "links": "<a href='/AIV/01/1/1'>Gen. 1:1</a>; <a href='/AIV/01/5/1'>Gen. 5:1</a>",
+      "comment": "The phrase 'these are the generations' signals a new section. The name 'LORD God' (YHWH Elohim) introduces God's personal covenantal nature, which will deepen through salvation history."
     },
     {
       "pk": 1002005,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 2,
       "verse": 5,
-      "text": "before any plant of the field was yet in the earth, and before any herb of the field had sprouted—for the LORD God had not caused it to rain upon the earth, and there was no man to work the ground,",
-      "links": "<a href='/AIV/1/1/11-12'>Gen. 1:11-12</a>",
-      "comment": "Describes a time before agriculture and rain, emphasizing humanity's key role as caretaker and co-worker with God."
+      "text": "No bush of the field was yet in the land, and no plant of the field had yet sprung up; for the LORD God had not sent rain on the land, and there was no man to work the ground.",
+      "links": "<a href='/AIV/01/1/11-12'>Gen. 1:11-12</a>; <a href='/AIV/01/3/23'>Gen. 3:23</a>",
+      "comment": "Emphasizes the interdependence between creation and humanity, hinting at the future vocation of mankind in caring for creation, a stewardship role that echoes throughout scripture."
     },
     {
       "pk": 1002006,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 2,
       "verse": 6,
-      "text": "but a mist would go up from the earth and water the whole face of the ground.",
-      "links": "",
-      "comment": "Alternative translation could be 'stream' or 'spring.' The text highlights the divine provision for creation even before humans act."
+      "text": "Yet a mist would rise from the earth and water the whole surface of the ground.",
+      "links": "<a href='/AIV/18/36/27-28'>Job 36:27-28</a>",
+      "comment": "This suggests a pre-rain irrigation, reflecting order and provision. Some ancient traditions see this as a symbol of sacramental blessing, God's grace poured out on the earth."
     },
     {
       "pk": 1002007,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 2,
       "verse": 7,
-      "text": "Then the LORD God formed the man from dust of the ground and breathed into his nostrils the breath of life, and the man became a living being.",
-      "links": "<a href='/AIV/18/33/4'>Job 33:4</a>; <a href='/AIV/46/15/45'>1 Cor. 15:45</a>",
-      "comment": "The intimate act of forming man from dust is both literal and a type for Christ, the second Adam (1 Cor. 15:45). The 'breath of life' speaks to the soul as a unique spiritual reality."
+      "text": "Then the LORD God formed man from the dust of the ground, and breathed into his nostrils the breath of life; and man became a living being.",
+      "links": "<a href='/AIV/01/3/19'>Gen. 3:19</a>; <a href='/AIV/46/15/45'>1 Cor. 15:45</a>",
+      "comment": "God's personal involvement in creating man sets humanity apart. The 'breath of life' prefigures God's Spirit (see 1 Cor. 15:45), linking physical and spiritual life—anticipating the renewal found in Christ through the Spirit."
     },
     {
       "pk": 1002008,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 2,
       "verse": 8,
-      "text": "And the LORD God planted a garden in Eden, in the east, and there He put the man whom He had formed.",
-      "links": "<a href='/AIV/23/51/3'>Isa. 51:3</a>",
-      "comment": "God prepares paradise for man, showing God's intention for man to dwell in intimate fellowship with Him."
+      "text": "The LORD God planted a garden in Eden, in the east, and there He placed the man whom He had formed.",
+      "links": "<a href='/AIV/01/3/23-24'>Gen. 3:23-24</a>; <a href='/AIV/26/28/13'>Ezek. 28:13</a>",
+      "comment": "The garden is described as a place of communion, foreshadowing the spiritual realities of paradise and divine fellowship seen later in scripture."
     },
     {
       "pk": 1002009,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 2,
       "verse": 9,
-      "text": "And out of the ground the LORD God made to grow every tree that is pleasing to the sight and good for food. The tree of life was in the middle of the garden, and the tree of the knowledge of good and evil.",
-      "links": "<a href='/AIV/66/2/7'>Rev. 2:7</a>; <a href='/AIV/20/3/18'>Prov. 3:18</a>",
-      "comment": "Trees signify not only physical sustenance but spiritual realities. The tree of life reappears in Revelation, alluding to eternal union and restoration."
+      "text": "And out of the ground the LORD God made to grow every tree that is pleasant to the sight and good for food. The tree of life was in the middle of the garden, and the tree of the knowledge of good and evil.",
+      "links": "<a href='/AIV/20/3/18'>Prov. 3:18</a>; <a href='/AIV/66/2/7'>Rev. 2:7</a>",
+      "comment": "Life and knowledge are central motifs, with the tree of life prefiguring eternal life offered in Christ (Rev. 2:7), and the tree of knowledge representing moral agency and the possibility of sin."
     },
     {
       "pk": 1002010,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 2,
       "verse": 10,
-      "text": "A river went out of Eden to water the garden, and from there it was divided and became four branches.",
+      "text": "A river flows out of Eden to water the garden, and from there it divides and becomes four rivers.",
       "links": "<a href='/AIV/26/47/1-9'>Ezek. 47:1-9</a>; <a href='/AIV/66/22/1-2'>Rev. 22:1-2</a>",
-      "comment": "The sources of life and blessing in Eden prefigure the rivers of grace pictorially represented in Ezekiel and Revelation."
+      "comment": "The river is a sign of abundance and blessing, often interpreted as a symbol of life and grace flowing from God, connecting to visions of living water found in Ezekiel and Revelation."
     },
     {
       "pk": 1002011,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 2,
       "verse": 11,
-      "text": "The name of the first is Pishon. It is the one that flows around the whole land of Havilah, where there is gold.",
-      "links": "",
-      "comment": "The specifics evoke the richness and goodness of God's original creation; Havilah's gold is also described as good."
+      "text": "The name of the first is Pishon; it is the one that flows around the whole land of Havilah, where there is gold.",
+      "links": "<a href='/AIV/01/25/18'>Gen. 25:18</a>",
+      "comment": "The inclusion of gold and precious stones in the context of Eden carries hints toward later themes of sacred space, such as the tabernacle and temple worship."
     },
     {
       "pk": 1002012,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 2,
       "verse": 12,
-      "text": "And the gold of that land is good. Bdellium and onyx stone are there.",
-      "links": "<a href='/AIV/2/25/7'>Ex. 25:7</a>",
-      "comment": "Precious stones here anticipate their later use in worship, suggesting a connection between creation and worship."
+      "text": "And the gold of that land is good; bdellium and onyx stone are there.",
+      "links": "<a href='/AIV/02/28/9-11'>Ex. 28:9-11</a>",
+      "comment": "References to precious materials link creation to sanctuary imagery, later seen in the priestly garments and temple, pointing to the sacredness of creation and worship."
     },
     {
       "pk": 1002013,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 2,
       "verse": 13,
-      "text": "The name of the second river is Gihon; it is the one that flows around the whole land of Cush.",
-      "links": "",
-      "comment": "Specific geography remains uncertain, but the idea highlights the abundance and provision flowing from Eden."
+      "text": "The name of the second river is Gihon; it flows around the whole land of Cush.",
+      "links": "<a href='/AIV/11/1/33-38'>1 Kings 1:33-38</a>",
+      "comment": "Later scriptural mentions of Gihon connect the narrative to Jerusalem, signifying God's ongoing provision to His people and the centrality of sacred geography."
     },
     {
       "pk": 1002014,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 2,
       "verse": 14,
-      "text": "The name of the third river is Tigris, which goes east of Assyria. And the fourth river is the Euphrates.",
-      "links": "<a href='/AIV/27/10/4'>Dan. 10:4</a>",
-      "comment": "These rivers correspond with known rivers, grounding the paradise account in real geography."
+      "text": "The name of the third river is Tigris, which flows east of Assyria. And the fourth river is the Euphrates.",
+      "links": "<a href='/AIV/44/19/1'>Acts 19:1</a>; <a href='/AIV/66/9/14'>Rev. 9:14</a>",
+      "comment": "By naming these rivers, the passage situates Eden within real geography, underscoring both physical and spiritual realities in scripture."
     },
     {
       "pk": 1002015,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 2,
       "verse": 15,
-      "text": "The LORD God took the man and put him in the garden of Eden to work it and to keep it.",
-      "links": "<a href='/AIV/4/3/7-8'>Num. 3:7-8</a>; <a href='/AIV/1/1/28'>Gen. 1:28</a>",
-      "comment": "'Work' and 'keep' also describe priestly functions in later texts, hinting at man's sacred vocation as steward."
+      "text": "The LORD God took the man and put him in the garden of Eden to work it and keep it.",
+      "links": "<a href='/AIV/01/3/23'>Gen. 3:23</a>; <a href='/AIV/04/3/7'>Num. 3:7</a>",
+      "comment": "The vocation of man to 'work and keep' the garden mirrors priestly duties of service and guardianship, prefiguring humanity's role in sacred worship and liturgy."
     },
     {
       "pk": 1002016,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 2,
       "verse": 16,
-      "text": "And the LORD God commanded the man, saying, 'You may surely eat from every tree of the garden,",
-      "links": "<a href='/AIV/1/1/29'>Gen. 1:29</a>",
-      "comment": "God's command offers great freedom, with only a single limitation—showing His generosity and the importance of obedience."
+      "text": "And the LORD God commanded the man, saying, 'You may freely eat from every tree of the garden,'",
+      "links": "<a href='/AIV/01/1/29'>Gen. 1:29</a>",
+      "comment": "God's commandment sets up the principle of obedient freedom, the foundation of covenant relationship that is fulfilled through faith and grace in scripture."
     },
     {
       "pk": 1002017,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 2,
       "verse": 17,
-      "text": "but from the tree of the knowledge of good and evil, you must not eat, for in the day that you eat from it you shall surely die.'",
-      "links": "<a href='/AIV/1/3/3'>Gen. 3:3</a>; <a href='/AIV/45/5/12'>Rom. 5:12</a>",
-      "comment": "The command sets up the moral test. Spiritual death as separation from God enters here, pointing forward to the need for redemption."
+      "text": "But from the tree of the knowledge of good and evil, you must not eat, for in the day that you eat from it you will surely die.",
+      "links": "<a href='/AIV/01/3/3-19'>Gen. 3:3-19</a>; <a href='/AIV/45/6/23'>Rom. 6:23</a>",
+      "comment": "God warns of spiritual death as a consequence of disobedience, prefiguring the doctrine of original sin and the necessity of grace—culminating in redemption through Christ."
     },
     {
       "pk": 1002018,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 2,
       "verse": 18,
-      "text": "Then the LORD God said, 'It is not good that the man should be alone. I will make a helper suitable for him.'",
-      "links": "<a href='/AIV/20/18/22'>Prov. 18:22</a>",
-      "comment": "Refers to the complementary nature of man and woman. The term 'helper' does not imply inferiority but mutual support and partnership."
+      "text": "Then the LORD God said, 'It is not good that the man should be alone; I will make a helper suitable for him.'",
+      "links": "<a href='/AIV/01/1/27'>Gen. 1:27</a>; <a href='/AIV/20/18/22'>Prov. 18:22</a>",
+      "comment": "The creation of a helper reveals the social nature of humanity and the importance of complementarity and unity, prefiguring the relational aspects of the Christian community."
     },
     {
       "pk": 1002019,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 2,
       "verse": 19,
-      "text": "Now out of the ground the LORD God had formed every animal of the field and every bird of the sky and brought them to the man to see what he would call them. And whatever the man called each living creature, that was its name.",
-      "links": "<a href='/AIV/1/1/20-25'>Gen. 1:20-25</a>",
-      "comment": "Naming is an act of authority, symbolizing dominion and responsibility. Adam as the first steward participates in God’s ordering of creation."
+      "text": "Out of the ground the LORD God formed every beast of the field and every bird of the heavens and brought them to the man to see what he would call them. Whatever the man called each living creature, that was its name.",
+      "links": "<a href='/AIV/01/1/20-25'>Gen. 1:20-25</a>; <a href='/AIV/19/8/6-8'>Ps. 8:6-8</a>",
+      "comment": "Naming the animals shows human authority and stewardship. It hints at mankind's priestly dignity and responsibility within creation."
     },
     {
       "pk": 1002020,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 2,
       "verse": 20,
-      "text": "So the man gave names to all cattle, to the birds of the sky, and to every beast of the field. But for Adam there was not found a helper suitable for him.",
-      "links": "",
-      "comment": "Despite creation’s fullness, God’s plan for companionship and love points ahead to the marriage covenant."
+      "text": "The man gave names to all livestock, to the birds of the heavens, and to every beast of the field. But for the man there was not found a helper suitable for him.",
+      "links": "<a href='/AIV/01/2/18'>Gen. 2:18</a>",
+      "comment": "Despite his authority, Adam's solitude was not complete without companionship, foreshadowing the deeper unity found in marriage and ultimately in Christ and His Church."
     },
     {
       "pk": 1002021,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 2,
       "verse": 21,
-      "text": "So the LORD God caused a deep sleep to fall upon the man, and he slept; and He took one of his ribs and closed up the flesh in its place.",
-      "links": "<a href='/AIV/1/15/12'>Gen. 15:12</a>",
-      "comment": "The creation of woman from man’s side signifies equality and unity. This foreshadows Christ and His Bride, the Church, born from His side pierced on the cross."
+      "text": "So the LORD God caused a deep sleep to fall upon the man, and while he slept He took one of his ribs and closed up its place with flesh.",
+      "links": "<a href='/AIV/01/15/12'>Gen. 15:12</a>",
+      "comment": "God's creative act here is intimate. Ancient interpreters saw Adam's sleep as a foreshadowing of death and rebirth, prefiguring Christ's sacrifice and the new creation."
     },
     {
       "pk": 1002022,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 2,
       "verse": 22,
       "text": "And the rib that the LORD God had taken from the man He made into a woman and brought her to the man.",
-      "links": "<a href='/AIV/1/2/23'>Gen. 2:23</a>",
-      "comment": "Emphasizes both the unity in origin and dignity of man and woman. God Himself brings the woman, blessing the first union."
+      "links": "<a href='/AIV/01/2/18'>Gen. 2:18</a>; <a href='/AIV/19/139/13-14'>Ps. 139:13-14</a>",
+      "comment": "The woman is formed from the man—indicating equality, complementarity, and the foundation of sacramental marriage. This foreshadows the unity of Christ and His people."
     },
     {
       "pk": 1002023,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 2,
       "verse": 23,
-      "text": "Then the man said, 'This one, at last, is bone of my bones and flesh of my flesh; she shall be called Woman, because she was taken out of Man.'",
-      "links": "<a href='/AIV/49/5/28-32'>Eph. 5:28-32</a>",
-      "comment": "Adam's poetic response reveals the mystery of marital union, later reflected by Paul as a type of the union between Christ and the Church."
+      "text": "Then the man said, 'This is now bone of my bones and flesh of my flesh; she shall be called Woman, because she was taken out of Man.'",
+      "links": "<a href='/AIV/49/5/30-32'>Eph. 5:30-32</a>",
+      "comment": "Adam's exclamation expresses profound union and equality, echoing the later spiritual mysteries of Christian marriage (Eph. 5:32)."
     },
     {
       "pk": 1002024,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 2,
       "verse": 24,
       "text": "Therefore a man shall leave his father and his mother and hold fast to his wife, and they shall become one flesh.",
-      "links": "<a href='/AIV/40/19/5'>Matt. 19:5</a>; <a href='/AIV/49/5/31'>Eph. 5:31</a>",
-      "comment": "Foundational text for marriage as a sacramental covenant, pointing ahead to the indissoluble union of Christ and His people."
+      "links": "<a href='/AIV/40/19/5-6'>Matt. 19:5-6</a>; <a href='/AIV/49/5/31'>Eph. 5:31</a>",
+      "comment": "Marriage is divinely instituted as a union of man and woman, a mystery that is elevated in Christian teaching as a sign of Christ's unity with the Church (Eph. 5:31-32)."
     },
     {
       "pk": 1002025,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 2,
       "verse": 25,
       "text": "And the man and his wife were both naked and were not ashamed.",
-      "links": "<a href='/AIV/1/3/7'>Gen. 3:7</a>",
-      "comment": "Their innocence reveals God’s original intent of harmony without shame; a state restored by grace after redemption (see parallels in Rev. 3:18)."
+      "links": "<a href='/AIV/01/3/7'>Gen. 3:7</a>; <a href='/AIV/55/2/15'>2 Tim. 2:15</a>",
+      "comment": "Their innocence points to the original harmony with God and creation, a state lost in the fall but ultimately restored through grace and redemption, central to the story of salvation."
     }
   ],
-  "translatedAt": "2025-12-23T08:34:43.690Z"
+  "translatedAt": "2025-12-24T00:11:36.500Z"
 }

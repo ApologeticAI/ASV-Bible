@@ -1,148 +1,177 @@
 {
-  "book": "Ecclesiastes",
+  "book": 25,
+  "bookName": "Ecclesiastes",
   "bookAbbreviation": "Eccl",
   "chapter": 12,
   "verses": [
     {
-      "pk": 381201,
+      "pk": 25012001,
       "translation": "AIV",
-      "book": 21,
+      "book": 25,
+      "bookName": "Ecclesiastes",
+      "bookAbbreviation": "Eccl",
       "chapter": 12,
       "verse": 1,
-      "text": "Remember your Creator in the days of your youth, before the days of trouble come and the years approach when you will say, 'I find no pleasure in them.'",
-      "links": "<a href='/AIV/19/71/17'>Ps. 71:17</a>; <a href='/AIV/19/119/9'>Ps. 119:9</a>",
-      "comment": "The call to remember the Creator early in life is literal, but also hints at a spiritual return to God before worldly cares overwhelm the soul. Classic Christian tradition interprets this as an exhortation to lifelong devotion, not just fleeting youthful zeal."
+      "text": "Remember your Creator in the days of your youth, before the evil days come and the years approach when you will say, 'I have no pleasure in them.'",
+      "links": "<a href='/AIV/19/71/17'>Ps. 71:17</a>; <a href='/AIV/20/4/6'>Prov. 4:6</a>",
+      "comment": "The call to remember God early in life anticipates approaching old age and its difficulties. This verse encourages devotion from youth, aligning with the tradition of sanctifying one’s entire life to God. The phrase 'Creator' in Hebrew is plural, possibly pointing to the majesty of God and serves as a subtle hint of the unity and mystery within God’s being (cf. Gen. 1:26)."
     },
     {
-      "pk": 381202,
+      "pk": 25012002,
       "translation": "AIV",
-      "book": 21,
+      "book": 25,
+      "bookName": "Ecclesiastes",
+      "bookAbbreviation": "Eccl",
       "chapter": 12,
       "verse": 2,
-      "text": "Before the sun and the light, the moon and the stars grow dark, and the clouds return after the rain.",
-      "links": "<a href='/AIV/18/3/9'>Job 3:9</a>; <a href='/AIV/23/5/30'>Isa. 5:30</a>",
-      "comment": "The diminishing of the sun, moon, and stars is a poetic image for declining vigor and approaching death. Spiritually, it anticipates the fading of earthly joys, calling us to set our ultimate hope beyond this life."
+      "text": "Before the sun and the light and the moon and the stars grow dark, and the clouds return after the rain;",
+      "links": "<a href='/AIV/18/29/2'>Job 29:2-3</a>; <a href='/AIV/23/60/19-20'>Isa. 60:19-20</a>",
+      "comment": "Imagery of celestial bodies fading describes the coming of old age when the senses and faculties diminish. The recurring clouds suggest ongoing troubles near the end of life. The poetic language foreshadows eschatological themes—anticipating physical mortality and hinting at the soul’s longing for an eternal light."
     },
     {
-      "pk": 381203,
+      "pk": 25012003,
       "translation": "AIV",
-      "book": 21,
+      "book": 25,
+      "bookName": "Ecclesiastes",
+      "bookAbbreviation": "Eccl",
       "chapter": 12,
       "verse": 3,
-      "text": "In the day when the keepers of the house tremble, and the strong men stoop; when the grinders cease because they are few, and those looking through the windows grow dim;",
-      "links": "<a href='/AIV/18/4/14'>Job 4:14</a>",
-      "comment": "Symbolic language: the 'keepers' are hands, 'strong men' are legs, 'grinders' are teeth, 'windows' are eyes—all fading with age. This reminds us of the dignity of the whole human person and the need to prepare spiritually for the inevitability of death."
+      "text": "On the day when the keepers of the house tremble, and strong men stoop, when the grinders cease because they are few, and those looking through the windows are dimmed;",
+      "links": "<a href='/AIV/18/17/7'>Job 17:7</a>; <a href='/AIV/19/38/10'>Ps. 38:10</a>",
+      "comment": "This allegorical description of the body portrays the frailty of age: keepers (hands/arms), strong men (legs), grinders (teeth), windows (eyes). The passage invites reflection on the dignity and sacredness of the body, which is destined both for resurrection and glorification (see <a href='/AIV/46/15/42-44'>1 Cor. 15:42-44</a>)."
     },
     {
-      "pk": 381204,
+      "pk": 25012004,
       "translation": "AIV",
-      "book": 21,
+      "book": 25,
+      "bookName": "Ecclesiastes",
+      "bookAbbreviation": "Eccl",
       "chapter": 12,
       "verse": 4,
-      "text": "When the doors to the street are shut and the sound of grinding fades; when people rise up at the sound of a bird, but all their songs grow faint;",
-      "links": "<a href='/AIV/19/102/11'>Ps. 102:11</a>",
-      "comment": "Continuing the allegory of aging, diminished senses signal the approach of the end. Saintly tradition sees in this a call to keep spiritual watchfulness, even when the body weakens."
+      "text": "And the doors on the street are shut, when the sound of the grinding is low, and one rises at the sound of a bird, and all the daughters of song grow faint;",
+      "links": "<a href='/AIV/19/90/10'>Ps. 90:10</a>",
+      "comment": "Further symbols for advanced age: doors (mouth or ears), diminished noise (weakness), and difficulty sleeping. The 'daughters of song' fading is commonly interpreted as the loss of one's voice or hearing, connecting to the theme of remembering God while youthful strength remains."
     },
     {
-      "pk": 381205,
+      "pk": 25012005,
       "translation": "AIV",
-      "book": 21,
+      "book": 25,
+      "bookName": "Ecclesiastes",
+      "bookAbbreviation": "Eccl",
       "chapter": 12,
       "verse": 5,
-      "text": "when people are afraid of heights, and terrors along the way; when the almond tree blossoms, the grasshopper drags itself along, and desire fails—because man goes to his eternal home, and the mourners go about the streets.",
-      "links": "<a href='/AIV/19/49/14'>Ps. 49:14</a>",
-      "comment": "These vivid images show the weakness of old age before returning 'to his eternal home'—a subtle nod to an afterlife. The eternal home hints at a fuller destiny beyond this world."
+      "text": "They are also afraid of heights and terrors on the way; the almond tree blossoms, the locust drags itself along, and desire fails—because man goes to his eternal home, and mourners go about the streets.",
+      "links": "<a href='/AIV/18/17/13'>Job 17:13</a>; <a href='/AIV/19/146/4'>Ps. 146:4</a>",
+      "comment": "Almond trees blossom white, symbolizing graying hair. The locust and fading desire hint at advanced weakness. 'Eternal home' recalls humanity’s destiny after death and supports the belief in personal judgment and the continuity of the soul (cf. <a href='/AIV/40/25/46'>Matt. 25:46</a>)."
     },
     {
-      "pk": 381206,
+      "pk": 25012006,
       "translation": "AIV",
-      "book": 21,
+      "book": 25,
+      "bookName": "Ecclesiastes",
+      "bookAbbreviation": "Eccl",
       "chapter": 12,
       "verse": 6,
-      "text": "Remember him before the silver cord is snapped, and the golden bowl is broken; before the pitcher is shattered at the spring or the wheel broken at the well.",
-      "links": "<a href='/AIV/18/17/1'>Job 17:1</a>",
-      "comment": "These metaphors—cord, bowl, pitcher, wheel—speak of the fragility of life, urging us to cling to our Creator before death comes. Remembrance is both active faith and confidence in divine providence."
+      "text": "Before the silver cord is snapped, or the golden bowl is broken, or the pitcher is shattered at the spring, or the wheel is broken at the well,",
+      "links": "<a href='/AIV/19/39/4-5'>Ps. 39:4-5</a>",
+      "comment": "Metaphors for the fragility of life: valuable objects suddenly broken. This vivid imagery teaches about the preciousness and brevity of earthly existence, serving as a call to vigilance and spiritual preparation while there is still time."
     },
     {
-      "pk": 381207,
+      "pk": 25012007,
       "translation": "AIV",
-      "book": 21,
+      "book": 25,
+      "bookName": "Ecclesiastes",
+      "bookAbbreviation": "Eccl",
       "chapter": 12,
       "verse": 7,
       "text": "And the dust returns to the earth as it was, and the spirit returns to God who gave it.",
-      "links": "<a href='/AIV/1/2/7'>Gen. 2:7</a>; <a href='/AIV/19/104/29'>Ps. 104:29</a>",
-      "comment": "Echoes Genesis 2:7—the body returns to 'dust,' but the soul returns to God. Both literal death and the promise of divine judgment are implied. Jesus confirms in Matthew 10:28 the distinction of body and soul."
+      "links": "<a href='/AIV/01/2/7'>Gen. 2:7</a>; <a href='/AIV/19/104/29-30'>Ps. 104:29-30</a>",
+      "comment": "Human mortality: body to dust, spirit returning to God. This anticipates the hope of bodily resurrection and eternal life (see <a href='/AIV/46/15/53-54'>1 Cor. 15:53-54</a>). The separation of body and spirit invites reflection on the immortality of the soul and responsibility before God."
     },
     {
-      "pk": 381208,
+      "pk": 25012008,
       "translation": "AIV",
-      "book": 21,
+      "book": 25,
+      "bookName": "Ecclesiastes",
+      "bookAbbreviation": "Eccl",
       "chapter": 12,
       "verse": 8,
-      "text": "'Vanity of vanities,' says the Preacher; 'All is vanity.'",
-      "links": "<a href='/AIV/21/1/2'>Eccl. 1:2</a>",
-      "comment": "Refrain from the start of the book, summing up the fleetingness of earthly endeavors. This prepares the reader for the need for eternal hope and real treasures that do not fade (cf. Matthew 6:19–21)."
+      "text": "Vanity of vanities, says the Preacher; all is vanity.",
+      "links": "<a href='/AIV/25/1/2'>Eccl. 1:2</a>",
+      "comment": "This refrain resumes the theme of the book: apart from God, all human striving is emptiness. The Preacher’s relentless honesty sets the stage for the conclusion calling for reverence and obedience to God. The repetition emphasizes the futility of life without eternal purpose."
     },
     {
-      "pk": 381209,
+      "pk": 25012009,
       "translation": "AIV",
-      "book": 21,
+      "book": 25,
+      "bookName": "Ecclesiastes",
+      "bookAbbreviation": "Eccl",
       "chapter": 12,
       "verse": 9,
-      "text": "Because the Preacher was wise, he taught the people knowledge; he pondered, searched out, and arranged many proverbs.",
-      "links": "<a href='/AIV/20/1/1-6'>Prov. 1:1–6</a>",
-      "comment": "The deliberate teaching ministry here mirrors the tradition of passing on divine wisdom through authorized interpreters—a foreshadowing of structured teaching offices in the Church."
+      "text": "And moreover, because the Preacher was wise, he still taught the people knowledge; he considered, sought out, and arranged many proverbs with great care.",
+      "links": "<a href='/AIV/20/1/1-6'>Prov. 1:1-6</a>",
+      "comment": "The narrator commends the Preacher’s diligent search for wisdom and his careful instruction. The reference to proverbs connects to the wisdom tradition and shows the unity between reflective teaching and practical life guidance for the faithful."
     },
     {
-      "pk": 381210,
+      "pk": 25012010,
       "translation": "AIV",
-      "book": 21,
+      "book": 25,
+      "bookName": "Ecclesiastes",
+      "bookAbbreviation": "Eccl",
       "chapter": 12,
       "verse": 10,
-      "text": "The Preacher sought to find words of delight, and he wrote words of truth uprightly.",
-      "links": "<a href='/AIV/20/15/26'>Prov. 15:26</a>",
-      "comment": "Pursuing beauty and truth in teaching echoes how Scripture combines inspiration and literary form. The use of carefully chosen words shows respect for divine revelation communicated faithfully."
+      "text": "The Preacher sought to find pleasing words, and he wrote words of truth honestly.",
+      "links": "<a href='/AIV/20/22/17-21'>Prov. 22:17-21</a>; <a href='/AIV/19/12/6'>Ps. 12:6</a>",
+      "comment": "True wisdom seeks both beauty and truth. This dual focus is reflected in the inspired Scriptures, which guide with authority and grace. This verse affirms the divine origin and lasting reliability of wisdom that is consistent with God’s revelation."
     },
     {
-      "pk": 381211,
+      "pk": 25012011,
       "translation": "AIV",
-      "book": 21,
+      "book": 25,
+      "bookName": "Ecclesiastes",
+      "bookAbbreviation": "Eccl",
       "chapter": 12,
       "verse": 11,
-      "text": "The words of the wise are like goads, and like firmly fixed nails; they are given by one Shepherd.",
-      "links": "<a href='/AIV/19/80/1'>Ps. 80:1</a>; <a href='/AIV/43/10/11'>John 10:11</a>",
-      "comment": "The 'one Shepherd' statement is significant; in later revelation, Jesus calls Himself 'the Good Shepherd' (John 10:11), connecting these traditions. It hints at divinely unified teaching, entrusted through leaders."
+      "text": "The words of the wise are like goads, and like stakes firmly set are the collected sayings; they are given by one Shepherd.",
+      "links": "<a href='/AIV/19/23/1'>Ps. 23:1</a>; <a href='/AIV/43/10/16'>John 10:16</a>",
+      "comment": "'One Shepherd' anticipates Christ—the true Shepherd who unites the faithful (see Ezek. 34:23 and John 10). Wisdom is both challenging (goads) and secure (fixed nails). The Shepherd motif subtly foreshadows unity under the guidance of Christ’s appointed leaders and the safeguarding of tradition."
     },
     {
-      "pk": 381212,
+      "pk": 25012012,
       "translation": "AIV",
-      "book": 21,
+      "book": 25,
+      "bookName": "Ecclesiastes",
+      "bookAbbreviation": "Eccl",
       "chapter": 12,
       "verse": 12,
-      "text": "My son, beware of anything beyond these. Of making many books there is no end, and much study is a weariness of the flesh.",
-      "links": "<a href='/AIV/21/1/18'>Eccl. 1:18</a>",
-      "comment": "While study is good, the inspired word brings certainty that endless human speculation cannot. This sets apart divinely preserved wisdom from sheer intellectual pursuit and mirrors deference to established tradition."
+      "text": "Beyond these, my son, be warned: of making many books there is no end, and much study wearies the body.",
+      "links": "<a href='/AIV/20/24/12'>Prov. 24:12</a>",
+      "comment": "The preacher cautions against endless speculation, emphasizing trust in revealed wisdom over mere human inquiry. This principle upholds the sufficiency and protection of divine Truth accessible to the faithful—encouraging trust in sound instruction over endless private interpretation."
     },
     {
-      "pk": 381213,
+      "pk": 25012013,
       "translation": "AIV",
-      "book": 21,
+      "book": 25,
+      "bookName": "Ecclesiastes",
+      "bookAbbreviation": "Eccl",
       "chapter": 12,
       "verse": 13,
-      "text": "The end of the matter; all has been heard. Fear God and keep his commandments, for this is the whole duty of man.",
-      "links": "<a href='/AIV/5/10/12'>Deut. 10:12</a>; <a href='/AIV/19/111/10'>Ps. 111:10</a>",
-      "comment": "The summary of human purpose—fear God and keep His commandments—reflects both moral law and an implicit trust in God’s authority. Obedience and reverence, put together, signal a holistic spiritual life."
+      "text": "The end of the matter, all has been heard. Fear God and keep his commandments, for this is the whole duty of man.",
+      "links": "<a href='/AIV/05/6/2'>Deut. 6:2</a>; <a href='/AIV/48/5/14'>Gal. 5:14</a>",
+      "comment": "The path to true wisdom and fulfillment is revering God and obeying His commands. This summation can only be lived out fully by grace and in the context of a community ordered toward God. The language of 'duty' points to man's spiritual vocation and responsibility toward God."
     },
     {
-      "pk": 381214,
+      "pk": 25012014,
       "translation": "AIV",
-      "book": 21,
+      "book": 25,
+      "bookName": "Ecclesiastes",
+      "bookAbbreviation": "Eccl",
       "chapter": 12,
       "verse": 14,
       "text": "For God will bring every deed into judgment, with every secret thing, whether good or evil.",
-      "links": "<a href='/AIV/19/62/12'>Ps. 62:12</a>; <a href='/AIV/40/12/36'>Matt. 12:36</a>; <a href='/AIV/45/2/16'>Rom. 2:16</a>",
-      "comment": "A direct teaching about final judgment, which Jesus also affirms (cf. Matt. 12:36; John 5:28–29). Both the literal expectation of judgment and its spiritual implications motivate believers to strive for holiness until the end."
+      "links": "<a href='/AIV/19/62/12'>Ps. 62:12</a>; <a href='/AIV/40/25/31-46'>Matt. 25:31-46</a>; <a href='/AIV/45/2/16'>Rom. 2:16</a>",
+      "comment": "Final judgment is universal, comprehensive, and includes even secret actions. This belief in judgment according to works is affirmed throughout Scripture and points forward to the full revelation of God's justice and mercy in Christ. Spiritual preparation, repentance, and reception of grace are essential for a favorable judgment—always through God’s initiative."
     }
   ],
-  "translatedAt": "2025-12-23T06:12:04.780Z"
+  "translatedAt": "2025-12-24T07:11:42.344Z"
 }

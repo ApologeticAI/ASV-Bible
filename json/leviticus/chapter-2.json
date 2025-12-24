@@ -1,168 +1,201 @@
 {
-  "book": "Leviticus",
+  "book": 3,
+  "bookName": "Leviticus",
   "bookAbbreviation": "Lev",
   "chapter": 2,
   "verses": [
     {
-      "pk": 20241001,
+      "pk": 3002001,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 2,
       "verse": 1,
-      "text": "When anyone brings a grain offering to the LORD, his offering shall be of fine flour. He shall pour oil on it and put frankincense on it.",
-      "links": "<a href='/ESV/2/29/40'>Ex. 29:40</a>; <a href='/ESV/3/6/15'>Lev. 6:15</a>",
-      "comment": "The word for 'grain offering' is 'minchah' in Hebrew, traditionally rendered as 'meal offering' or 'grain offering.'"
+      "text": "When anyone brings a grain offering to the LORD, his offering must be of fine flour. He shall pour oil on it and put frankincense on it.",
+      "links": "<a href='/AIV/2/40/29'>Ex. 40:29</a>; <a href='/AIV/4/7/13'>Num. 7:13</a>",
+      "comment": "The grain offering emphasizes the importance of giving back to God with the best of one's produce, symbolizing devotion and surrender. Frankincense is later linked to Christ (see <a href='/AIV/40/2/11'>Matt. 2:11</a>), hinting at the pleasing aroma of Christ’s own sacrifice."
     },
     {
-      "pk": 20241002,
+      "pk": 3002002,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 2,
       "verse": 2,
-      "text": "He shall bring it to Aaron's sons, the priests, and he shall take from it a handful of the fine flour and oil, with all of its frankincense; and the priest shall burn this as its memorial portion on the altar, a fire offering, a pleasing aroma to the LORD.",
-      "links": "<a href='/ESV/3/6/15'>Lev. 6:15</a>; <a href='/ESV/4/15/4'>Num. 15:4</a>",
-      "comment": "‘Memorial portion’ refers to the part burned on the altar as a token for God."
+      "text": "He shall bring it to Aaron’s sons, the priests, and one of them shall take a handful of fine flour and oil, along with all the frankincense, and burn this as a memorial portion on the altar, a pleasing aroma to the LORD.",
+      "links": "<a href='/AIV/4/15/15'>Num. 15:15</a>; <a href='/AIV/19/141/2'>Ps. 141:2</a>",
+      "comment": "The involvement of priests foreshadows the role of spiritual leaders who mediate offerings to God. The 'pleasing aroma' is echoed in New Testament descriptions of Christ's sacrificial offering (compare <a href='/AIV/49/5/2'>Eph. 5:2</a>), pointing towards liturgical worship as central to faith."
     },
     {
-      "pk": 20241003,
+      "pk": 3002003,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 2,
       "verse": 3,
-      "text": "And what is left of the grain offering shall be for Aaron and his sons. It is a most holy part of the LORD's fire offerings.",
-      "links": "<a href='/ESV/3/6/16'>Lev. 6:16</a>",
-      "comment": "'Most holy' indicates it could only be eaten by male priests in a holy place (see Lev. 6:16-18)."
+      "text": "But the rest of the grain offering shall belong to Aaron and his sons. It is a most holy part of the offerings to the LORD made by fire.",
+      "links": "<a href='/AIV/3/6/16'>Lev. 6:16</a>; <a href='/AIV/58/13/10'>Heb. 13:10</a>",
+      "comment": "Here, the special participation of priests in consuming the offering can be seen as prefiguring the sacred communion of believers with God, later fulfilled in Eucharistic practice."
     },
     {
-      "pk": 20241004,
+      "pk": 3002004,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 2,
       "verse": 4,
-      "text": "If you bring as a grain offering an offering baked in the oven, it shall be unleavened cakes of fine flour mixed with oil, or unleavened wafers smeared with oil.",
-      "links": "<a href='/ESV/2/12/8'>Ex. 12:8</a>; <a href='/ESV/3/6/17'>Lev. 6:17</a>",
-      "comment": "'Oven' refers to a clay oven used in ancient Israel. Unleavened meanings: bread without yeast."
+      "text": "If you bring a grain offering baked in the oven, it must be of unleavened cakes of fine flour mixed with oil, or unleavened wafers spread with oil.",
+      "links": "<a href='/AIV/2/12/8'>Ex. 12:8</a>; <a href='/AIV/46/5/7'>1 Cor. 5:7</a>",
+      "comment": "Unleavened bread points to purity and removal of corruption (leaven often represents sin). This links symbolically with Passover and Christ as the sinless bread of life (<a href='/AIV/43/6/51'>John 6:51</a>)."
     },
     {
-      "pk": 20241005,
+      "pk": 3002005,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 2,
       "verse": 5,
-      "text": "And if your offering is a grain offering baked on a griddle, it shall be of unleavened fine flour mixed with oil.",
-      "links": "<a href='/ESV/3/7/9'>Lev. 7:9</a>",
-      "comment": "'Griddle' is a flat baking pan (akin to a modern skillet)."
+      "text": "If your grain offering is prepared on a griddle, it must be of unleavened fine flour mixed with oil.",
+      "links": "<a href='/AIV/3/7/9'>Lev. 7:9</a>",
+      "comment": "Both oven and griddle offerings stress unleavened bread and oil, symbolizing purity and the Holy Spirit. The different forms allowed for flexibility in worship, yet maintained spiritual meaning."
     },
     {
-      "pk": 20241006,
+      "pk": 3002006,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 2,
       "verse": 6,
-      "text": "You shall break it in pieces and pour oil on it; it is a grain offering.",
-      "links": "<a href='/ESV/3/2/5'>Lev. 2:5</a>",
-      "comment": "The breaking signifies preparation for offering; the oil for richness and dedication."
+      "text": "Break it into pieces and pour oil on it; it is a grain offering.",
+      "links": "<a href='/AIV/4/7/46'>Num. 7:46</a>",
+      "comment": "Breaking the bread and pouring oil reinforces the imagery of sharing and anointing, foreshadowing sacred meals and the outpouring of the Holy Spirit."
     },
     {
-      "pk": 20241007,
+      "pk": 3002007,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 2,
       "verse": 7,
-      "text": "And if your offering is a grain offering cooked in a pan, it shall be made of fine flour with oil.",
-      "links": "<a href='/ESV/3/2/5'>Lev. 2:5</a>; <a href='/ESV/3/7/9'>Lev. 7:9</a>",
-      "comment": "'Pan' here denotes a deeper vessel than the griddle (possibly a pot)."
+      "text": "If your offering is prepared in a pan, it must be made of fine flour with oil.",
+      "links": "<a href='/AIV/3/7/9'>Lev. 7:9</a>",
+      "comment": "The repeated call for 'fine flour with oil' across different cooking methods shows the importance of quality and spiritual significance, underscoring consistency in worship traditions."
     },
     {
-      "pk": 20241008,
+      "pk": 3002008,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 2,
       "verse": 8,
-      "text": "You shall bring the grain offering that is made from these things to the LORD, and when it is presented to the priest, he shall bring it to the altar.",
-      "links": "<a href='/ESV/3/6/21'>Lev. 6:21</a>",
-      "comment": "Faithfulness to word order; ‘presented’ means being handed over to the priestly service."
+      "text": "Bring the grain offering, made with these things, to the LORD. Present it to the priest, who shall bring it to the altar.",
+      "links": "<a href='/AIV/3/6/14-15'>Lev. 6:14-15</a>",
+      "comment": "Only priests could present offerings at the altar, highlighting the necessity of appointed mediators between God and the people—a structure found throughout sacred tradition."
     },
     {
-      "pk": 20241009,
+      "pk": 3002009,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 2,
       "verse": 9,
-      "text": "And the priest shall take from the grain offering its memorial portion and burn it on the altar, a fire offering, a pleasing aroma to the LORD.",
-      "links": "<a href='/ESV/3/2/2'>Lev. 2:2</a>",
-      "comment": "'Pleasing aroma' is a standard phrase for offerings, indicating God's acceptance."
+      "text": "The priest shall take from the grain offering a memorial portion and burn it on the altar as a pleasing aroma to the LORD. The rest shall belong to Aaron and his sons.",
+      "links": "<a href='/AIV/3/6/15-16'>Lev. 6:15-16</a>",
+      "comment": "The memorial portion burned up is given fully to God, while the rest is set apart for the priests. This division hints at the idea of worship as both sacrificial offering and spiritual nourishment for those set apart."
     },
     {
-      "pk": 20241010,
+      "pk": 3002010,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 2,
       "verse": 10,
-      "text": "But what is left of the grain offering shall be for Aaron and his sons; it is a most holy part of the LORD's fire offerings.",
-      "links": "<a href='/ESV/3/2/3'>Lev. 2:3</a>; <a href='/ESV/3/6/16'>Lev. 6:16</a>",
-      "comment": "Repetition from verse 3 emphasizes the holiness and priestly privilege."
+      "text": "It is a most holy part of the offerings to the LORD made by fire.",
+      "links": "<a href='/AIV/3/6/17'>Lev. 6:17</a>",
+      "comment": "Calling it ‘most holy’ illustrates the profound reverence commanded for acts of worship and the elements set apart for divine purposes, a theme fulfilled and expanded in the life and ministry of Jesus."
     },
     {
-      "pk": 20241011,
+      "pk": 3002011,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 2,
       "verse": 11,
-      "text": "No grain offering that you bring to the LORD shall be made with yeast, for you shall burn no leaven nor any honey as a fire offering to the LORD.",
-      "links": "<a href='/ESV/2/34/25'>Ex. 34:25</a>; <a href='/ESV/3/6/17'>Lev. 6:17</a>",
-      "comment": "'Leaven' (yeast) and 'honey' (perhaps fruit syrup) both ferment—symbolizing corruption or decay."
+      "text": "No grain offering that you bring to the LORD shall be made with leaven, for you must not burn any leaven or honey as an offering by fire to the LORD.",
+      "links": "<a href='/AIV/2/12/15'>Ex. 12:15</a>; <a href='/AIV/46/5/7-8'>1 Cor. 5:7-8</a>",
+      "comment": "Leaven and honey could corrupt or ferment the offering—symbolizing the need for spiritual purity. Paul connects these principles to Christ cleansing the Church from sin."
     },
     {
-      "pk": 20241012,
+      "pk": 3002012,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 2,
       "verse": 12,
-      "text": "As an offering of firstfruits you may bring them to the LORD, but they shall not be burned on the altar as a pleasing aroma.",
-      "links": "<a href='/ESV/2/23/17'>Ex. 23:17</a>; <a href='/ESV/3/23/17'>Lev. 23:17</a>",
-      "comment": "'Firstfruits' could be leavened (Lev. 23:17) but were not burned on the altar."
+      "text": "You may present them as an offering of firstfruits to the LORD, but they shall not be offered on the altar as a pleasing aroma.",
+      "links": "<a href='/AIV/2/23/17'>Ex. 23:17</a>; <a href='/AIV/4/18/12'>Num. 18:12</a>",
+      "comment": "Though leaven and honey couldn't be burned, they could be given as firstfruits—showing that some gifts are suitable for particular occasions but not for sacrificial worship."
     },
     {
-      "pk": 20241013,
+      "pk": 3002013,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 2,
       "verse": 13,
-      "text": "You shall season every grain offering with salt. You shall not allow the salt of the covenant of your God to be lacking from your grain offering. With all your offerings you shall offer salt.",
-      "links": "<a href='/ESV/4/18/19'>Num. 18:19</a>; <a href='/ESV/2/30/35'>Ex. 30:35</a>",
-      "comment": "'Salt of the covenant' refers to the enduring nature of God's promises."
+      "text": "Season all your grain offerings with salt. Do not let the salt of the covenant with your God be missing from your grain offering; offer salt with all your offerings.",
+      "links": "<a href='/AIV/4/18/19'>Num. 18:19</a>; <a href='/AIV/40/5/13'>Matt. 5:13</a>; <a href='/AIV/41/9/49-50'>Mark 9:49-50</a>",
+      "comment": "Salt represents preservation and faithfulness. The 'salt of the covenant' points to enduring relationship with God, and Jesus later compares believers' faith to salt's preserving quality."
     },
     {
-      "pk": 20241014,
+      "pk": 3002014,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 2,
       "verse": 14,
-      "text": "If you offer as a grain offering of firstfruits to the LORD, you shall offer for the grain offering of your firstfruits crushed new grain, roasted by fire, from fresh kernels.",
-      "links": "<a href='/ESV/3/23/14'>Lev. 23:14</a>; <a href='/ESV/2/9/19'>Ex. 9:19</a>",
-      "comment": "Crushed, roasted 'new grain' refers to the earliest harvest, prepared simply."
+      "text": "If you bring a grain offering of firstfruits to the LORD, offer crushed new grain roasted by fire, as your grain offering of firstfruits.",
+      "links": "<a href='/AIV/2/23/16-17'>Ex. 23:16-17</a>; <a href='/AIV/4/18/13'>Num. 18:13</a>",
+      "comment": "Firstfruits offerings symbolize dedicating the first and best to God, a theme fulfilled when Christ becomes the 'firstfruits of those who have fallen asleep' (<a href='/AIV/46/15/20'>1 Cor. 15:20</a>)."
     },
     {
-      "pk": 20241015,
+      "pk": 3002015,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 2,
       "verse": 15,
-      "text": "You shall put oil on it and lay frankincense on it; it is a grain offering.",
-      "links": "<a href='/ESV/3/2/1'>Lev. 2:1</a>",
-      "comment": "Oil and frankincense mark the offering as sacred and pleasing."
+      "text": "Put oil and frankincense on it; it is a grain offering.",
+      "links": "<a href='/AIV/3/2/1'>Lev. 2:1</a>",
+      "comment": "Oil and frankincense continue to carry spiritual meaning—oil symbolizing anointing and the Spirit, frankincense representing prayer and worship, as in the gifts brought to Christ."
     },
     {
-      "pk": 20241016,
+      "pk": 3002016,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 2,
       "verse": 16,
-      "text": "And the priest shall burn as its memorial portion some of the crushed grain and some of the oil, with all its frankincense. It is a fire offering to the LORD.",
-      "links": "<a href='/ESV/3/2/2'>Lev. 2:2</a>; <a href='/ESV/3/6/15'>Lev. 6:15</a>",
-      "comment": "‘Memorial portion’ repeats the core aspect: part burnt for God, part for the priest."
+      "text": "The priest shall burn the memorial portion, some of the crushed new grain and oil along with all the frankincense, as an offering by fire to the LORD.",
+      "links": "<a href='/AIV/3/2/2'>Lev. 2:2</a>; <a href='/AIV/19/141/2'>Ps. 141:2</a>",
+      "comment": "This final act returns the offering to God in sacred fire, a symbol of total dedication and purification, echoing the future sacrifice of Christ who offers Himself completely to the Father."
     }
   ],
-  "translatedAt": "2025-12-20T09:11:18.979Z"
+  "translatedAt": "2025-12-24T01:10:28.269Z"
 }

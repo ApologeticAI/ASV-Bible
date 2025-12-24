@@ -1,308 +1,369 @@
 {
-  "book": "Deuteronomy",
+  "book": 5,
+  "bookName": "Deuteronomy",
   "bookAbbreviation": "Deut",
   "chapter": 22,
   "verses": [
     {
-      "pk": 30022001,
+      "pk": 5022001,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 22,
       "verse": 1,
-      "text": "You shall not see your brother’s ox or his sheep straying and ignore them; you must surely return them to your brother.",
-      "links": "<a href='/AIV/2/23/4'>Ex. 23:4</a>; <a href='/AIV/3/19/17'>Lev. 19:17</a>",
-      "comment": "In the original Hebrew, 'brother' refers to a fellow Israelite. The word 'ignore' is a literal translation."
+      "text": "If you see your brother’s ox or sheep straying, do not ignore it; you must take it back to your brother.",
+      "links": "<a href='/AIV/2/23/4'>Ex. 23:4</a>; <a href='/AIV/3/19/18'>Lev. 19:18</a>; <a href='/AIV/42/10/27-37'>Luke 10:27–37</a>",
+      "comment": "This command establishes love for neighbor and responsibility for others' property, highlighting God's law of charity. Jesus expands on this in the Parable of the Good Samaritan."
     },
     {
-      "pk": 30022002,
+      "pk": 5022002,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 22,
       "verse": 2,
-      "text": "And if your brother does not live near you, or if you do not know him, then you must bring it to your own house, and it shall stay with you until your brother seeks it; then you shall return it to him.",
-      "links": "",
-      "comment": "Phrase 'bring it to your own house' means to keep the animal safely, not to claim ownership."
+      "text": "If your brother does not live near you or you do not know who he is, then bring the animal to your own house and keep it with you until your brother claims it; then you shall return it to him.",
+      "links": "<a href='/AIV/2/23/4'>Ex. 23:4</a>",
+      "comment": "The law clarifies practical care for what belongs to others, requiring personal stewardship and patience—a principle echoed in Jesus' teaching on stewardship."
     },
     {
-      "pk": 30022003,
+      "pk": 5022003,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 22,
       "verse": 3,
-      "text": "And you shall do the same with his donkey, with his garment, and with any lost thing of your brother’s, which he loses and you find; you may not ignore it.",
-      "links": "",
-      "comment": "Expanded to include all types of lost property."
+      "text": "You shall do the same with his donkey, with his clothes, and with anything your brother loses and you find; you must not ignore it.",
+      "links": "<a href='/AIV/3/19/18'>Lev. 19:18</a>",
+      "comment": "The call to act justly covers all property, reinforcing the law of love with practical application."
     },
     {
-      "pk": 30022004,
+      "pk": 5022004,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 22,
       "verse": 4,
-      "text": "You shall not see your brother’s donkey or his ox fallen down on the road and ignore them; you shall surely help him lift them up.",
-      "links": "<a href='/AIV/2/23/5'>Ex. 23:5</a>",
-      "comment": "Retains the force of the Hebrew phrase 'surely help.'"
+      "text": "If you see your brother’s donkey or ox fallen on the road, do not ignore it. Help him lift it up.",
+      "links": "<a href='/AIV/2/23/5'>Ex. 23:5</a>; <a href='/AIV/48/6/2'>Gal. 6:2</a>",
+      "comment": "The command to assist in hardship foreshadows carrying each other's burdens, as taught in the New Testament."
     },
     {
-      "pk": 30022005,
+      "pk": 5022005,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 22,
       "verse": 5,
-      "text": "A woman shall not wear a man’s clothing, nor shall a man put on a woman’s garment, for whoever does these things is detestable to the LORD your God.",
-      "links": "<a href='/AIV/3/18/22'>Lev. 18:22</a>",
-      "comment": "Literal rendering. No idioms or reinterpretations added."
+      "text": "A woman shall not wear a man’s clothing, nor shall a man put on a woman’s garment, for everyone who does these things is an abomination to the LORD your God.",
+      "links": "<a href='/AIV/3/18/22'>Lev. 18:22</a>; <a href='/AIV/3/20/13'>Lev. 20:13</a>",
+      "comment": "Emphasizing God’s distinctions in creation, this law addresses the importance of honoring the order set by God."
     },
     {
-      "pk": 30022006,
+      "pk": 5022006,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 22,
       "verse": 6,
-      "text": "If you come across a bird’s nest along the way, in any tree or on the ground, with young ones or eggs, and the mother sitting on the young or on the eggs, you shall not take the mother with the young.",
-      "links": "",
-      "comment": "Translation keeps the structure of the Hebrew."
+      "text": "If you come across a bird’s nest by the road, in any tree or on the ground, with young ones or eggs, and the mother sitting on the young or on the eggs, you shall not take the mother with the young.",
+      "links": "<a href='/AIV/3/22/28'>Lev. 22:28</a>",
+      "comment": "This mercy extends God’s care to creation, instructing reverence for life and the stewardship required of God’s people."
     },
     {
-      "pk": 30022007,
+      "pk": 5022007,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 22,
       "verse": 7,
-      "text": "You must surely let the mother go, but you may take the young for yourself, so that it may go well with you and you may live long.",
-      "links": "<a href='/AIV/5/5/16'>Deut. 5:16</a>",
-      "comment": "'So that it may go well with you' is a common Deuteronomic blessing formula."
+      "text": "You shall surely let the mother go, but you may take the young for yourself, that it may go well with you, and you may live long.",
+      "links": "<a href='/AIV/2/20/12'>Ex. 20:12</a>",
+      "comment": "The promise ‘that it may go well with you’ echoes the fifth commandment, suggesting blessings for obedience to God’s detailed care laws."
     },
     {
-      "pk": 30022008,
+      "pk": 5022008,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 22,
       "verse": 8,
-      "text": "When you build a new house, you shall make a parapet for your roof, so that you do not bring blood upon your house if anyone falls from it.",
-      "links": "",
-      "comment": "'Parapet' means a protective barrier. Context is flat roofs in ancient Israel."
+      "text": "When you build a new house, you shall make a parapet for your roof, so that you may not bring guilt of blood upon your house if anyone falls from it.",
+      "links": "<a href='/AIV/3/19/16'>Lev. 19:16</a>",
+      "comment": "Safety laws recognize the communal dimensions of sin and responsibility. The concern for the wellbeing of others points to a communal ethic that is vital in the New Covenant."
     },
     {
-      "pk": 30022009,
+      "pk": 5022009,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 22,
       "verse": 9,
-      "text": "You shall not sow your vineyard with two kinds of seed, or all the yield of the seed you have sown and the increase of the vineyard will be defiled.",
+      "text": "You shall not sow your vineyard with two kinds of seed, or the whole crop will be forfeited—the seed you have sown and the yield of the vineyard.",
       "links": "<a href='/AIV/3/19/19'>Lev. 19:19</a>",
-      "comment": "'Defiled' renders Hebrew word meaning 'set apart as forbidden.'"
+      "comment": "Mixed seed laws point to the requirement for spiritual purity and separation. Paul applies similar language to the gathering of believers (<a href='/AIV/47/6/14-18'>2 Cor. 6:14-18</a>)."
     },
     {
-      "pk": 30022010,
+      "pk": 50220010,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 22,
       "verse": 10,
       "text": "You shall not plow with an ox and a donkey together.",
-      "links": "<a href='/AIV/2/34/26'>Ex. 34:26</a>",
-      "comment": "Literal rendering of Hebrew idiom about mixing animals for plowing."
+      "links": "<a href='/AIV/3/19/19'>Lev. 19:19</a>",
+      "comment": "This law teaches against mixing incompatible things, pointing to deeper symbolic divisions in God’s law about holiness."
     },
     {
-      "pk": 30022011,
+      "pk": 50220011,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 22,
       "verse": 11,
-      "text": "You shall not wear cloth of wool and linen mixed together.",
+      "text": "You shall not wear a garment made of wool and linen together.",
       "links": "<a href='/AIV/3/19/19'>Lev. 19:19</a>",
-      "comment": "Follows closely the Hebrew language for 'mixed together.'"
+      "comment": "Garments mixed of wool and linen again figuratively represent pure, undivided devotion in worship and life."
     },
     {
-      "pk": 30022012,
+      "pk": 50220012,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 22,
       "verse": 12,
-      "text": "You shall make tassels on the four corners of the cloak with which you cover yourself.",
-      "links": "<a href='/AIV/4/15/38'>Num. 15:38-39</a>",
-      "comment": "'Tassels' renders the Hebrew 'tzitzit.'"
+      "text": "You shall make yourself fringes on the four corners of the cloak with which you cover yourself.",
+      "links": "<a href='/AIV/4/15/38-40'>Num. 15:38-40</a>; <a href='/AIV/40/9/20'>Matt. 9:20</a>",
+      "comment": "Fringes (tzitzit) function as a visible reminder of God’s commandments. Jesus wore such, connecting Old and New Covenants in visible obedience."
     },
     {
-      "pk": 30022013,
+      "pk": 50220013,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 22,
       "verse": 13,
-      "text": "If a man takes a wife and goes in to her and then hates her,",
-      "links": "",
-      "comment": "'Hates her' is a Hebrew idiom meaning 'turns against her' or 'rejects her.'"
+      "text": "If a man takes a wife and goes in to her and then despises her,",
+      "links": "<a href='/AIV/5/24/1-4'>Deut. 24:1-4</a>",
+      "comment": "Marriage laws highlight the sacredness and binding nature of marriage, preparing for the full revelation of the sacramental nature of marriage."
     },
     {
-      "pk": 30022014,
+      "pk": 50220014,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 22,
       "verse": 14,
-      "text": "and accuses her of shameful things and gives her a bad reputation and says, ‘I took this woman, and when I came near her, I did not find evidence of virginity in her,’",
-      "links": "",
-      "comment": "Phrase 'evidence of virginity' is a literal translation of the Hebrew."
+      "text": "and brings charges against her, saying, ‘I took this woman, but when I came near her, I did not find evidence of her virginity,’",
+      "links": "<a href='/AIV/5/24/1'>Deut. 24:1</a>",
+      "comment": "The gravity placed on sexual purity is a sign of the holiness God prepares for His people ahead of the Messiah."
     },
     {
-      "pk": 30022015,
+      "pk": 50220015,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 22,
       "verse": 15,
-      "text": "then the father and mother of the young woman shall take and bring out evidence of her virginity to the elders of the city at the gate.",
-      "links": "",
-      "comment": "'Elders of the city at the gate' refers to the place where judgment was made."
+      "text": "then the father and mother of the young woman shall take and bring out the evidence of the young woman’s virginity to the elders of the city at the gate.",
+      "links": "<a href='/AIV/5/17/5'>Deut. 17:5</a>",
+      "comment": "Elders serve as witnesses, foreshadowing the Church’s future role in safeguarding the integrity of sacraments."
     },
     {
-      "pk": 30022016,
+      "pk": 50220016,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 22,
       "verse": 16,
-      "text": "And the young woman’s father shall say to the elders, ‘I gave my daughter to this man as a wife, and he hates her;",
+      "text": "And the young woman’s father shall say to the elders, ‘I gave my daughter to this man as a wife, and he has despised her.’",
       "links": "",
-      "comment": "'Hates her' repeated for parallelism with v. 13."
+      "comment": "Parental responsibility and the community’s role in justice highlight the family as foundational in God’s plan."
     },
     {
-      "pk": 30022017,
+      "pk": 50220017,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 22,
       "verse": 17,
-      "text": "and behold, he has accused her of shameful things, saying, “I did not find evidence of your daughter’s virginity.” But here is the evidence of my daughter’s virginity.’ And they shall spread the cloth before the elders of the city.",
+      "text": "‘Now he has accused her of shameful things, saying, “I did not find in your daughter evidence of virginity,” but here is the evidence of my daughter’s virginity.’ And they shall spread the garment before the elders of the city.",
       "links": "",
-      "comment": "The 'cloth' is a literal reference to a physical sign presented as evidence."
+      "comment": "This ceremony underscores the importance of honesty, family honor, and public truth—all fulfilled in Christ’s upholding of the Law."
     },
     {
-      "pk": 30022018,
+      "pk": 50220018,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 22,
       "verse": 18,
       "text": "Then the elders of that city shall take the man and punish him.",
-      "links": "",
-      "comment": "Literal. 'Punish' is general, as Hebrew is not specific here."
+      "links": "<a href='/AIV/5/25/1-3'>Deut. 25:1-3</a>",
+      "comment": "Upholding justice preserves the purity and order of God’s people, prefiguring the Church’s guardianship of moral discipline."
     },
     {
-      "pk": 30022019,
+      "pk": 50220019,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 22,
       "verse": 19,
-      "text": "And they shall fine him one hundred shekels of silver and give them to the young woman’s father, because he has brought a bad name upon a virgin of Israel. And she shall be his wife; he may not divorce her all his days.",
-      "links": "",
-      "comment": "'May not divorce her' is a clear rendering of the Hebrew, which forbids separation."
+      "text": "They shall fine him a hundred shekels of silver, giving them to the father of the young woman, because he has spread a bad name about a virgin of Israel. She shall remain his wife; he may not divorce her all his days.",
+      "links": "<a href='/AIV/2/22/17'>Ex. 22:17</a>; <a href='/AIV/40/19/9'>Matt. 19:9</a>",
+      "comment": "The indissolubility of marriage is emphasized, reflecting Christ’s later teaching that marriage is a permanent covenant."
     },
     {
-      "pk": 30022020,
+      "pk": 50220020,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 22,
       "verse": 20,
-      "text": "But if the thing is true, and evidence of virginity was not found in the young woman,",
+      "text": "But if the accusation is true, and evidence of virginity is not found for the young woman,",
       "links": "",
-      "comment": "Literal; follows Hebrew sequence."
+      "comment": "God’s people are called to personal holiness and accountability."
     },
     {
-      "pk": 30022021,
+      "pk": 50220021,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 22,
       "verse": 21,
-      "text": "then they shall bring out the young woman to the door of her father’s house, and the men of her city shall stone her to death with stones, because she has done a disgraceful thing in Israel by playing the harlot in her father’s house. So you shall purge the evil from your midst.",
-      "links": "<a href='/AIV/5/13/5'>Deut. 13:5</a>",
-      "comment": "'Playing the harlot' is a literal translation of the Hebrew idiom for sexual immorality."
+      "text": "then they shall bring out the young woman to the door of her father’s house, and the men of her city shall stone her to death with stones, because she has done a disgraceful thing in Israel, to play the harlot in her father’s house. So you shall purge the evil from among you.",
+      "links": "<a href='/AIV/3/20/10'>Lev. 20:10</a>; <a href='/AIV/40/1/19'>Matt. 1:19</a>",
+      "comment": "The severity of the Old Law points to the seriousness of sin and the need for mercy—fulfilled in Christ’s forgiveness (see <a href='/AIV/43/8/3-11'>John 8:3-11</a>)."
     },
     {
-      "pk": 30022022,
+      "pk": 50220022,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 22,
       "verse": 22,
-      "text": "If a man is found lying with a woman married to a husband, then both of them shall die, the man who lay with the woman and the woman. So you shall purge the evil from Israel.",
-      "links": "<a href='/AIV/3/20/10'>Lev. 20:10</a>",
-      "comment": "Literal rendering; 'lying with' is Hebrew idiom for sexual relation."
+      "text": "If a man is found lying with another man’s wife, both of them shall die—the man who lay with the woman, and the woman. So you shall purge the evil from Israel.",
+      "links": "<a href='/AIV/3/20/10'>Lev. 20:10</a>; <a href='/AIV/40/19/6'>Matt. 19:6</a>",
+      "comment": "Adultery’s seriousness prefigures Christ’s teaching on the sanctity of marital union."
     },
     {
-      "pk": 30022023,
+      "pk": 50220023,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 22,
       "verse": 23,
-      "text": "If there is a virgin pledged to be married to a husband, and a man finds her in the city and lies with her,",
+      "text": "If there is a young woman who is a virgin, betrothed to a man, and another man meets her in the city and lies with her,",
       "links": "",
-      "comment": "'Pledged to be married' or 'betrothed.'"
+      "comment": "Betrothal was considered binding, foreshadowing the New Covenant understanding of marriage’s sacred preeminence."
     },
     {
-      "pk": 30022024,
+      "pk": 50220024,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 22,
       "verse": 24,
-      "text": "then you shall bring them both out to the gate of that city and stone them to death with stones, the young woman because she did not cry out in the city, and the man because he has violated his neighbor’s wife. So you shall purge the evil from among you.",
+      "text": "then you shall bring both of them out to the gate of that city and stone them to death with stones—the young woman, because she did not cry for help in the city; and the man, because he violated his neighbor’s wife. So you shall purge the evil from among you.",
       "links": "",
-      "comment": "Emphasis is on both participants and the need for justice."
+      "comment": "The law distinguishes between consensual sin and coercion, setting the groundwork for deeper moral discernment in Christ’s teaching."
     },
     {
-      "pk": 30022025,
+      "pk": 50220025,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 22,
       "verse": 25,
-      "text": "But if in the open country the man finds the woman who is pledged to be married and forces her, and lies with her, then only the man who lay with her shall die.",
-      "links": "",
-      "comment": "'Forces her' renders Hebrew for rape."
+      "text": "But if in the open country a man meets a young woman who is betrothed, and the man seizes her and lies with her, then only the man who lay with her shall die.",
+      "links": "<a href='/AIV/5/22/27'>Deut. 22:27</a>",
+      "comment": "Here mercy is shown to the victim and justice for the aggressor, echoing God’s justice tempered by mercy in the New Covenant (<a href='/AIV/59/2/13'>Jas. 2:13</a>)."
     },
     {
-      "pk": 30022026,
+      "pk": 50220026,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 22,
       "verse": 26,
-      "text": "But to the young woman you shall do nothing; there is in the young woman no sin deserving death. For just as when a man rises against his neighbor and kills him, so is this case.",
+      "text": "But you shall do nothing to the young woman; she has committed no sin worthy of death. For just as when a man rises against his neighbor and kills him, so is this case.",
       "links": "",
-      "comment": "Draws a direct parallel to murder; preserves the legal structure."
+      "comment": "Sin cannot be presumed. This establishes the principle of full investigation and truth—practiced in the life of the early Church."
     },
     {
-      "pk": 30022027,
+      "pk": 50220027,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 22,
       "verse": 27,
-      "text": "For he found her in the open country, and though the betrothed young woman cried out, there was no one to save her.",
+      "text": "For he found her in the open country, and though the betrothed young woman cried for help, there was no one to rescue her.",
       "links": "",
-      "comment": "Literally, 'no one to save her.'"
+      "comment": "Situational justice is a hallmark of God’s law, preparing the way for Christ’s fulfillment of perfect justice."
     },
     {
-      "pk": 30022028,
+      "pk": 50220028,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 22,
       "verse": 28,
-      "text": "If a man finds a young woman, a virgin who is not pledged to be married, and he seizes her and lies with her, and they are found,",
+      "text": "If a man meets a young woman who is a virgin, who is not betrothed, and seizes her and lies with her, and they are discovered,",
       "links": "",
-      "comment": "'Seizes her' represents a debated Hebrew word; context indicates forced sexual contact."
+      "comment": "This law aims at repairing harm through restitution and family formation, underlying the sanctity of the marital bond."
     },
     {
-      "pk": 30022029,
+      "pk": 50220029,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 22,
       "verse": 29,
-      "text": "then the man who lay with her shall give to the young woman’s father fifty shekels of silver, and she shall be his wife because he has violated her. He may not divorce her all his days.",
-      "links": "",
-      "comment": "'Violated her' is the literal Hebrew. Divorce prohibition repeated from earlier in the chapter."
+      "text": "then the man who lay with her shall give to the young woman’s father fifty shekels of silver, and she shall be his wife, because he has violated her. He may not divorce her all his days.",
+      "links": "<a href='/AIV/2/22/16-17'>Ex. 22:16-17</a>; <a href='/AIV/40/19/6'>Matt. 19:6</a>",
+      "comment": "Marriage is indissoluble once established, prefiguring the permanence of the marital covenant affirmed by Jesus."
     },
     {
-      "pk": 30022030,
+      "pk": 50220030,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 22,
       "verse": 30,
-      "text": "A man shall not take his father’s wife, and he shall not uncover his father’s skirt.",
-      "links": "<a href='/AIV/3/18/8'>Lev. 18:8</a>; <a href='/AIV/5/27/20'>Deut. 27:20</a>",
-      "comment": "'Uncover his father’s skirt' is a Hebrew euphemism for incest."
+      "text": "A man shall not take his father’s wife, nor uncover his father’s nakedness.",
+      "links": "<a href='/AIV/3/18/8'>Lev. 18:8</a>; <a href='/AIV/3/20/11'>Lev. 20:11</a>; <a href='/AIV/46/5/1'>1 Cor. 5:1</a>",
+      "comment": "This law upholds the sanctity of family relations and foreshadows Christ’s perfect fulfillment of the Law."
     }
   ],
-  "translatedAt": "2025-12-20T09:59:00.442Z"
+  "translatedAt": "2025-12-24T02:08:39.401Z"
 }

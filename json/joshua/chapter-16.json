@@ -1,98 +1,129 @@
 {
-  "book": "Joshua",
+  "book": 6,
+  "bookName": "Joshua",
   "bookAbbreviation": "Josh",
   "chapter": 16,
   "verses": [
     {
-      "pk": 401601,
+      "pk": 6016001,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 16,
       "verse": 1,
-      "text": "The allotment for the descendants of Joseph went from the Jordan near Jericho, to the waters of Jericho on the east, then up through the wilderness from Jericho into the hill country of Bethel.",
-      "links": "<a href='/AIV/6/15/13'>Josh. 15:13</a>; <a href='/AIV/6/17/1'>Josh. 17:1</a>",
-      "comment": "Geographical locations preserved; 'children of Joseph' refers to Ephraim and Manasseh."
+      "text": "The allotment for the descendants of Joseph went from the Jordan at Jericho, east of the waters of Jericho, up through the wilderness that rises from Jericho into the hill country of Bethel.",
+      "links": "<a href='/AIV/06/13/29'>Josh. 13:29</a>; <a href='/AIV/06/17/1'>Josh. 17:1</a>",
+      "comment": "The passage begins the description of the land assigned to Joseph's descendants, namely Ephraim and Manasseh, highlighting the importance of inheritance. The allotment points forward to the unity of God's people in Christ (cf. Eph. 2:14-22), where spiritual inheritance is fulfilled."
     },
     {
-      "pk": 401602,
+      "pk": 6016002,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 16,
       "verse": 2,
-      "text": "From Bethel it went out to Luz, and continued to Ataroth, the territory of the Archites.",
-      "links": "<a href='/AIV/7/1/22'>Judg. 1:22</a>; <a href='/AIV/6/18/13'>Josh. 18:13</a>",
-      "comment": "Bethel and Luz are traditionally seen as the same city; Ataroth and Archites preserved from original wording."
+      "text": "It went on from Bethel (that is, Luz), passed along to Ataroth, the territory of the Archites.",
+      "links": "<a href='/AIV/01/28/19'>Gen. 28:19</a>; <a href='/AIV/06/18/13'>Josh. 18:13</a>",
+      "comment": "The dual name Bethel (Luz) reflects the tradition of patriarch Jacob in Gen. 28:19. Having multiple layers of meaning, Bethel becomes a place of divine encounter, anticipating the presence of God that will dwell among His people (John 1:51)."
     },
     {
-      "pk": 401604,
+      "pk": 6016003,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
+      "chapter": 16,
+      "verse": 3,
+      "text": "It went down westward to the territory of the Japhletites, to the land of Lower Beth-horon, then to Gezer, and ended at the sea.",
+      "links": "<a href='/AIV/06/10/10'>Josh. 10:10</a>; <a href='/AIV/06/21/22'>Josh. 21:22</a>",
+      "comment": "Lower Beth-horon and Gezer were important military and trade locations. This distribution of land echoes the role of order and hierarchy within the community of God's people. For New Testament believers, this anticipates the spiritual inheritance given to the faithful (Col. 1:12)."
+    },
+    {
+      "pk": 6016004,
+      "translation": "AIV",
+      "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 16,
       "verse": 4,
       "text": "So the descendants of Joseph, Manasseh and Ephraim, received their inheritance.",
-      "links": "<a href='/AIV/6/17/1'>Josh. 17:1</a>; <a href='/AIV/6/14/4'>Josh. 14:4</a>",
-      "comment": "Clarifies Joseph's descendants are Ephraim and Manasseh; kept the redundancy of the wording."
+      "links": "<a href='/AIV/01/48/5'>Gen. 48:5</a>; <a href='/AIV/06/17/1'>Josh. 17:1</a>",
+      "comment": "The division of the inheritance fulfills Jacob's blessing on Joseph's sons (Gen. 48). This respect for tradition and blessing handed down through generations becomes a model for the Church's understanding of spiritual inheritance (Heb. 9:15)."
     },
     {
-      "pk": 401605,
+      "pk": 6016005,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 16,
       "verse": 5,
-      "text": "The border of the descendants of Ephraim according to their clans was as follows: the eastern boundary of their inheritance began at Ataroth-addar, as far as Upper Beth-horon.",
-      "links": "<a href='/AIV/6/18/13'>Josh. 18:13</a>",
-      "comment": "Details preserved per tradition; 'by their clans' refers to the Hebrew mishpachot (families)."
+      "text": "The territory of the descendants of Ephraim by their clans was as follows: The boundary of their inheritance on the east was Ataroth-addar up to Upper Beth-horon.",
+      "links": "<a href='/AIV/06/18/13'>Josh. 18:13</a>; <a href='/AIV/06/21/22'>Josh. 21:22</a>",
+      "comment": "A careful outline of Ephraim's borders highlights the importance of ordered and recognized leadership among God's people. Order in community is essential for unity in worship and practice (Acts 2:42)."
     },
     {
-      "pk": 401606,
+      "pk": 6016006,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 16,
       "verse": 6,
-      "text": "Then the border went out westward at Michmethath on the north, turned eastward to Taanath-shiloh, and passed beyond it to Janoah.",
-      "links": "<a href='/AIV/6/17/7'>Josh. 17:7</a>; <a href='/AIV/6/18/19'>Josh. 18:19</a>",
-      "comment": "Hebrew place names kept for accuracy."
+      "text": "The boundary went out toward the sea on the north to Michmethath, then turned eastward to Taanath-shiloh, and passed along it to the east of Janoah.",
+      "links": "<a href='/AIV/06/17/7'>Josh. 17:7</a>",
+      "comment": "These boundaries frame the inheritance in a concrete way, showing God's specific care and providence for His people. Each tribe had a defined place, echoing order and unity, linking to the New Testament reality of the one Church as God's chosen people (1 Peter 2:9)."
     },
     {
-      "pk": 401607,
+      "pk": 6016007,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 16,
       "verse": 7,
-      "text": "From Janoah it went down to Ataroth and Naarah, touched Jericho, and ended at the Jordan.",
-      "links": "<a href='/AIV/6/18/21'>Josh. 18:21</a>",
-      "comment": "Border markers maintained; 'touched Jericho' reflects proximity to the city."
+      "text": "Then it went down from Janoah to Ataroth and Naarah, reached Jericho, and came out at the Jordan.",
+      "links": "<a href='/AIV/06/18/12'>Josh. 18:12</a>",
+      "comment": "The inclusion of Jericho, the city of the great victory, reminds readers of God's mighty acts and the faith required to dwell in His promised land (Heb. 11:30)."
     },
     {
-      "pk": 401608,
+      "pk": 6016008,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 16,
       "verse": 8,
-      "text": "From Tappuah the boundary went westward to the brook of Kanah, and ended at the sea. This is the inheritance of the tribe of the descendants of Ephraim by their clans.",
-      "links": "<a href='/AIV/6/17/9'>Josh. 17:9</a>",
-      "comment": "Repeated phrase 'inheritance' matches the original emphasis."
+      "text": "From Tappuah the boundary went west to the brook of Kanah and ended at the sea. This was the inheritance of the tribe of Ephraim by its clans.",
+      "links": "<a href='/AIV/06/17/8'>Josh. 17:8</a>",
+      "comment": "The territory's clear boundaries stress the importance of a tangible, united community. This prefigures the unity Christ desired for His followers, reflected in His high priestly prayer (John 17:20-23)."
     },
     {
-      "pk": 401609,
+      "pk": 6016009,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 16,
       "verse": 9,
-      "text": "Along with the cities set apart for the descendants of Ephraim that were in the midst of the inheritance of the descendants of Manasseh—all the cities with their villages.",
-      "links": "<a href='/AIV/6/21/21'>Josh. 21:21</a>",
-      "comment": "'Set apart' means those cities given to Ephraim within Manasseh's territory."
+      "text": "Together with the land assigned to them, the tribe of Ephraim also had towns set apart within the inheritance of the descendants of Manasseh, all the towns with their villages.",
+      "links": "<a href='/AIV/01/48/20'>Gen. 48:20</a>; <a href='/AIV/06/17/9'>Josh. 17:9</a>",
+      "comment": "Some towns were shared between the tribes. This mutual sharing of blessings foreshadows the unity among believers, a theme central to the apostolic Church (Acts 4:32)."
     },
     {
-      "pk": 401610,
+      "pk": 6016010,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 16,
       "verse": 10,
-      "text": "But they did not drive out the Canaanites who lived in Gezer; so the Canaanites have lived among the descendants of Ephraim to this day, but have been forced to work as laborers.",
-      "links": "<a href='/AIV/6/17/12-13'>Josh. 17:12-13</a>; <a href='/AIV/7/1/29'>Judg. 1:29</a>",
-      "comment": "Clarifies original sense: Canaanites remained as forced labor. 'Laborers' translates Hebrew 'mas', meaning conscripted workers."
+      "text": "They did not drive out the Canaanites who lived in Gezer; so the Canaanites have lived among the Ephraimites to this day, but they became forced laborers.",
+      "links": "<a href='/AIV/07/1/29'>Judg. 1:29</a>; <a href='/AIV/01/9/25'>Gen. 9:25</a>",
+      "comment": "The failure to fully drive out the Canaanites becomes a repeated theme, leading Israel to compromise in holiness (cf. Judg. 1:29). In the spiritual life, complete obedience and rooting out of sin is necessary for sanctification and true unity with God (Heb. 12:14)."
     }
   ],
-  "translatedAt": "2025-12-22T06:58:44.036Z"
+  "translatedAt": "2025-12-24T02:25:19.713Z"
 }

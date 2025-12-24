@@ -1,208 +1,249 @@
 {
-  "book": "2 Kings",
+  "book": 12,
+  "bookName": "2 Kings",
   "bookAbbreviation": "2Kgs",
   "chapter": 24,
   "verses": [
     {
-      "pk": 2402401,
+      "pk": 12024001,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 24,
       "verse": 1,
-      "text": "During Jehoiakim’s reign, Nebuchadnezzar king of Babylon came, and Jehoiakim became his servant for three years. Then he turned and rebelled against him.",
-      "links": "<a href='/AIV/14/36/6-7'>2 Chr. 36:6-7</a>; <a href='/AIV/24/27/1-7'>Jer. 27:1-7</a>",
-      "comment": "Follows the Masoretic text. 'Servant' here means vassal king."
+      "text": "In his days, Nebuchadnezzar king of Babylon came up, and Jehoiakim became his servant for three years. Then he turned and rebelled against him.",
+      "links": "<a href='/AIV/24/25/1'>Jer. 25:1</a>; <a href='/AIV/14/36/5-7'>2 Chr. 36:5-7</a>",
+      "comment": "The start of the Babylonian domination signals God's continued discipline of Judah. This begins the exile foretold by the prophets (<a href='/AIV/24/25/11'>Jer. 25:11</a>)."
     },
     {
-      "pk": 2402402,
+      "pk": 12024002,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 24,
       "verse": 2,
-      "text": "And the LORD sent against Jehoiakim bands of Chaldeans, Arameans, Moabites, and Ammonites. He sent them against Judah to destroy it, according to the word of the LORD that He spoke through His servants the prophets.",
-      "links": "<a href='/AIV/24/20/4-6'>Jer. 20:4-6</a>; <a href='/AIV/13/20/1'>2 Chr. 20:1</a>",
-      "comment": "Retains the sequence of invading groups as per Hebrew text."
+      "text": "And the LORD sent against him bands of Chaldeans, Arameans, Moabites, and Ammonites. He sent them against Judah to destroy it, according to the word of the LORD which he spoke by his servants the prophets.",
+      "links": "<a href='/AIV/24/21/10'>Jer. 21:10</a>; <a href='/AIV/24/25/9'>Jer. 25:9</a>",
+      "comment": "God uses foreign nations as instruments of judgment. The prophets had warned Judah repeatedly, revealing how God works through both spiritual and earthly powers."
     },
     {
-      "pk": 2402403,
+      "pk": 12024003,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 24,
       "verse": 3,
-      "text": "Surely this came upon Judah by the command of the LORD, to remove them from His sight, because of all the sins of Manasseh, according to all that he had done.",
-      "links": "<a href='/AIV/12/21/11-16'>2 Kgs. 21:11-16</a>",
-      "comment": "‘Remove from His sight’ is literal; includes the causal reference."
+      "text": "Surely at the command of the LORD this came upon Judah, to remove them from his sight for the sins of Manasseh, according to all that he had done,",
+      "links": "<a href='/AIV/12/21/11'>2 Kgs 21:11</a>; <a href='/AIV/24/15/4'>Jer. 15:4</a>",
+      "comment": "The sins of past kings still bear fruit, demonstrating the communal consequences of sin. This also underscores the seriousness of idolatry and the unity of the people."
     },
     {
-      "pk": 2402404,
+      "pk": 12024004,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 24,
       "verse": 4,
-      "text": "And also for the innocent blood that he had shed; for he filled Jerusalem with innocent blood, and the LORD would not forgive.",
-      "links": "<a href='/AIV/12/21/16'>2 Kgs. 21:16</a>; <a href='/AIV/24/15/1-4'>Jer. 15:1-4</a>",
-      "comment": "‘Would not forgive’ echoes the finality of God’s judgment."
+      "text": "and also for the innocent blood that he shed; for he filled Jerusalem with innocent blood, and the LORD would not forgive.",
+      "links": "<a href='/AIV/12/21/16'>2 Kgs 21:16</a>; <a href='/AIV/19/106/38'>Ps. 106:38</a>",
+      "comment": "Rejection of justice invites divine retribution. The refusal to forgive marks the severity of Judah's crimes."
     },
     {
-      "pk": 2402405,
+      "pk": 12024005,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 24,
       "verse": 5,
-      "text": "The rest of the deeds of Jehoiakim, and all that he did, are they not written in the Book of the Chronicles of the Kings of Judah?",
-      "links": "<a href='/AIV/14/36/5-8'>2 Chr. 36:5-8</a>",
-      "comment": "Follows the formulaic language for historical records."
+      "text": "Now the rest of the acts of Jehoiakim and all that he did, are they not written in the Book of the Chronicles of the Kings of Judah?",
+      "links": "<a href='/AIV/14/36/8'>2 Chr. 36:8</a>",
+      "comment": "The Chronicles provide further historical details. The focus remains not only on political history but also on faithfulness to God."
     },
     {
-      "pk": 2402406,
+      "pk": 12024006,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 24,
       "verse": 6,
-      "text": "So Jehoiakim slept with his fathers, and Jehoiachin his son reigned in his place.",
-      "links": "<a href='/AIV/12/24/15'>2 Kgs. 24:15</a>; <a href='/AIV/14/36/8'>2 Chr. 36:8</a>",
-      "comment": "'Slept with his fathers' is retained for traditional phrasing."
+      "text": "So Jehoiakim slept with his fathers, and Jehoiachin his son became king in his place.",
+      "links": "<a href='/AIV/24/22/18-19'>Jer. 22:18-19</a>",
+      "comment": "Succession here is swift, emphasizing the instability brought by disobedience. God’s providence continues through the line of David."
     },
     {
-      "pk": 2402407,
+      "pk": 12024007,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 24,
       "verse": 7,
-      "text": "And the king of Egypt did not come out of his land anymore, for the king of Babylon had taken all that belonged to the king of Egypt from the Brook of Egypt to the Euphrates River.",
-      "links": "<a href='/AIV/12/23/29'>2 Kgs. 23:29</a>; <a href='/AIV/24/46/2'>Jer. 46:2</a>",
-      "comment": "'Brook of Egypt' left literal; this refers to Egypt’s loss of influence."
+      "text": "The king of Egypt did not come out of his land again, for the king of Babylon had taken all that belonged to the king of Egypt from the Brook of Egypt to the river Euphrates.",
+      "links": "<a href='/AIV/24/46/2'>Jer. 46:2</a>",
+      "comment": "The major world powers shift; Babylon now dominates where Egypt once held sway, fulfilling prophecy and setting the stage for the Exile."
     },
     {
-      "pk": 2402408,
+      "pk": 12024008,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 24,
       "verse": 8,
-      "text": "Jehoiachin was eighteen years old when he began to reign, and he reigned three months in Jerusalem. His mother’s name was Nehushta, the daughter of Elnathan from Jerusalem.",
-      "links": "<a href='/AIV/14/36/9'>2 Chr. 36:9</a>; <a href='/AIV/24/22/24-28'>Jer. 22:24-28</a>",
-      "comment": "Age aligns with most Hebrew manuscripts; some differ (see Chronicles)."
+      "text": "Jehoiachin was eighteen years old when he became king, and he reigned in Jerusalem three months. His mother’s name was Nehushta the daughter of Elnathan of Jerusalem.",
+      "links": "<a href='/AIV/24/22/24-26'>Jer. 22:24-26</a>",
+      "comment": "A brief reign, signifying Judah’s political fragility. His mother’s mention shows the importance of royal lineage and family."
     },
     {
-      "pk": 2402409,
+      "pk": 12024009,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 24,
       "verse": 9,
-      "text": "And he did what was evil in the sight of the LORD, according to all that his father had done.",
-      "links": "<a href='/AIV/12/23/37'>2 Kgs. 23:37</a>; <a href='/AIV/14/36/9'>2 Chr. 36:9</a>",
-      "comment": "Maintains parallel phrasing from Kings and Chronicles."
+      "text": "He did what was evil in the sight of the LORD, just as his father had done.",
+      "links": "<a href='/AIV/12/23/37'>2 Kgs 23:37</a>",
+      "comment": "Repeated failure to repent leads to national downfall. The continuity of evil brings about fullness of judgment."
     },
     {
-      "pk": 2402410,
+      "pk": 12024010,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 24,
       "verse": 10,
       "text": "At that time, the servants of Nebuchadnezzar king of Babylon came up to Jerusalem, and the city was besieged.",
-      "links": "<a href='/AIV/12/25/1-3'>2 Kgs. 25:1-3</a>; <a href='/AIV/24/34/1-3'>Jer. 34:1-3</a>",
-      "comment": "Straightforward rendering of siege event."
+      "links": "<a href='/AIV/12/25/1'>2 Kgs 25:1</a>; <a href='/AIV/24/34/2'>Jer. 34:2</a>",
+      "comment": "This siege is a key turning point: the beginning of the exile, with tremendous consequence for salvation history."
     },
     {
-      "pk": 2402411,
+      "pk": 12024011,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 24,
       "verse": 11,
-      "text": "And Nebuchadnezzar king of Babylon came to the city while his servants were besieging it.",
-      "links": "<a href='/AIV/24/52/28'>Jer. 52:28</a>",
-      "comment": "Simple recounting of Nebuchadnezzar’s arrival."
+      "text": "Nebuchadnezzar king of Babylon himself came up to the city while his servants were besieging it.",
+      "links": "<a href='/AIV/26/17/12'>Ezek. 17:12</a>",
+      "comment": "Personal involvement of Nebuchadnezzar shows the immense geopolitical consequences of Judah’s disobedience."
     },
     {
-      "pk": 2402412,
+      "pk": 12024012,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 24,
       "verse": 12,
-      "text": "Then Jehoiachin king of Judah, along with his mother, his servants, his officials, and his eunuchs, surrendered to the king of Babylon. And in the eighth year of his reign, the king of Babylon took him prisoner.",
-      "links": "<a href='/AIV/14/36/10'>2 Chr. 36:10</a>; <a href='/AIV/24/52/28'>Jer. 52:28</a>",
-      "comment": "‘Eunuchs’ used as per original; ‘surrendered’ clarifies ‘went out.’"
+      "text": "Jehoiachin king of Judah, his mother, his servants, his officials, and his eunuchs went out to the king of Babylon. The king of Babylon took him prisoner in the eighth year of his reign.",
+      "links": "<a href='/AIV/24/22/24'>Jer. 22:24</a>; <a href='/AIV/26/19/8-9'>Ezek. 19:8-9</a>",
+      "comment": "This surrender fulfills God’s warnings. The humiliation of the royal house points to the future hope for restoration through the true King, foreshadowing the humble Messiah (see <a href='/AIV/40/1/17'>Matt. 1:17</a>)."
     },
     {
-      "pk": 2402413,
+      "pk": 12024013,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 24,
       "verse": 13,
-      "text": "And he carried out all the treasures of the house of the LORD, and the treasures of the king’s house. He cut in pieces all the gold vessels which Solomon king of Israel had made in the temple of the LORD, as the LORD had foretold.",
-      "links": "<a href='/AIV/12/20/17'>2 Kgs. 20:17</a>; <a href='/AIV/12/22/16'>2 Kgs. 22:16</a>",
-      "comment": "Divides gold vessels ‘cut in pieces’ as literal per text."
+      "text": "He carried out from there all the treasures of the house of the LORD, and the treasures of the king’s house. He cut in pieces all the articles of gold that Solomon king of Israel had made in the temple of the LORD, as the LORD had spoken.",
+      "links": "<a href='/AIV/11/7/51'>1 Kgs 7:51</a>; <a href='/AIV/24/27/19'>Jer. 27:19</a>",
+      "comment": "The loss of the temple’s treasures symbolizes the removal of God’s visible glory due to Israel’s faithlessness. Yet, later restoration through the chosen people is hinted in prophecy."
     },
     {
-      "pk": 2402414,
+      "pk": 12024014,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 24,
       "verse": 14,
-      "text": "And he carried away all Jerusalem, all the officials, all the mighty men of valor, ten thousand captives, and all the craftsmen and smiths. None remained except the poorest people of the land.",
-      "links": "<a href='/AIV/24/52/28-30'>Jer. 52:28-30</a>; <a href='/AIV/14/36/20'>2 Chr. 36:20</a>",
-      "comment": "Retains separate classes as listed; 'craftsmen and smiths' kept literal."
+      "text": "He carried away all Jerusalem, all the officials and all the mighty men of valor—ten thousand captives, as well as all the craftsmen and smiths. None remained except the poorest people of the land.",
+      "links": "<a href='/AIV/24/29/2'>Jer. 29:2</a>; <a href='/AIV/14/36/20'>2 Chr. 36:20</a>",
+      "comment": "The exile removes the leaders and skilled people, a devastating blow. Yet God preserves a remnant, keeping hope and faith alive among the humble."
     },
     {
-      "pk": 2402415,
+      "pk": 12024015,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 24,
       "verse": 15,
-      "text": "He carried away Jehoiachin to Babylon along with the king’s mother, the king’s wives, his officials, and the leading men of the land. He took them into exile from Jerusalem to Babylon.",
-      "links": "<a href='/AIV/24/22/24-28'>Jer. 22:24-28</a>",
-      "comment": "‘Into exile’ clarifies forced migration."
+      "text": "And he carried away Jehoiachin to Babylon; also the king’s mother, the king’s wives, his officials, and the leading men of the land, all carried into captivity from Jerusalem to Babylon.",
+      "links": "<a href='/AIV/24/22/26-27'>Jer. 22:26-27</a>",
+      "comment": "The royal family’s captivity marks the end of an era. The line of David remains in exile, preserving the messianic hope."
     },
     {
-      "pk": 2402416,
+      "pk": 12024016,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 24,
       "verse": 16,
-      "text": "All the men of valor, seven thousand, and the craftsmen and smiths, one thousand—all strong and fit for war—the king of Babylon brought captive to Babylon.",
-      "links": "<a href='/AIV/24/29/2'>Jer. 29:2</a>",
-      "comment": "Numerical details maintained as per text."
+      "text": "All the men of valor, seven thousand, and the craftsmen and the smiths, one thousand, all of them strong and fit for war, were brought by the king of Babylon as captives to Babylon.",
+      "links": "<a href='/AIV/12/25/11'>2 Kgs 25:11</a>",
+      "comment": "This repeated mention highlights total defeat. Outward strength is powerless without spiritual fidelity; Israel’s true restoration will be spiritual and not merely political."
     },
     {
-      "pk": 2402417,
+      "pk": 12024017,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 24,
       "verse": 17,
-      "text": "And the king of Babylon made Mattaniah, Jehoiachin’s uncle, king in his place and changed his name to Zedekiah.",
-      "links": "<a href='/AIV/12/25/1'>2 Kgs. 25:1</a>; <a href='/AIV/24/37/1'>Jer. 37:1</a>",
-      "comment": "‘Changed his name’ is literal; Mattaniah = Zedekiah."
+      "text": "The king of Babylon made Mattaniah, Jehoiachin’s uncle, king in his place, and changed his name to Zedekiah.",
+      "links": "<a href='/AIV/24/37/1'>Jer. 37:1</a>",
+      "comment": "Name changes represent power and authority; only God’s promise through David’s descendants remains unchanging (<a href='/AIV/19/89/3-4'>Ps. 89:3-4</a>)."
     },
     {
-      "pk": 2402418,
+      "pk": 12024018,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 24,
       "verse": 18,
-      "text": "Zedekiah was twenty-one years old when he became king, and he reigned eleven years in Jerusalem. His mother’s name was Hamutal, daughter of Jeremiah of Libnah.",
-      "links": "<a href='/AIV/12/23/31'>2 Kgs. 23:31</a>; <a href='/AIV/24/52/1'>Jer. 52:1</a>",
-      "comment": "Details kept as per narrative."
+      "text": "Zedekiah was twenty-one years old when he became king, and he reigned eleven years in Jerusalem. His mother’s name was Hamutal the daughter of Jeremiah of Libnah.",
+      "links": "<a href='/AIV/12/23/31'>2 Kgs 23:31</a>",
+      "comment": "The final king before Jerusalem’s fall. The repeated genealogies stress continuity; God’s covenant line still awaits its true fulfillment."
     },
     {
-      "pk": 2402419,
+      "pk": 12024019,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 24,
       "verse": 19,
-      "text": "And he did what was evil in the sight of the LORD, just as Jehoiakim had done.",
-      "links": "<a href='/AIV/12/23/37'>2 Kgs. 23:37</a>; <a href='/AIV/12/24/9'>2 Kgs. 24:9</a>",
-      "comment": "Parallels prior kings’ repeated sinfulness."
+      "text": "He did what was evil in the sight of the LORD, just as Jehoiakim had done.",
+      "links": "<a href='/AIV/12/23/37'>2 Kgs 23:37</a>",
+      "comment": "Persistent evil leads to destruction. This mirrors the biblical pattern—God’s patience allows many chances, but eventual justice prevails, preparing the stage for future renewal."
     },
     {
-      "pk": 2402420,
+      "pk": 12024020,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 24,
       "verse": 20,
-      "text": "For because of the anger of the LORD, this happened to Jerusalem and Judah, until He cast them out from His presence. And Zedekiah rebelled against the king of Babylon.",
-      "links": "<a href='/AIV/24/25/9'>Jer. 25:9</a>; <a href='/AIV/24/52/3'>Jer. 52:3</a>",
-      "comment": "'Cast them out from His presence' preserves literal phrasing."
+      "text": "For because of the anger of the LORD it came to the point in Jerusalem and Judah that he cast them out from his presence. And Zedekiah rebelled against the king of Babylon.",
+      "links": "<a href='/AIV/24/52/3'>Jer. 52:3</a>; <a href='/AIV/26/17/15-16'>Ezek. 17:15-16</a>",
+      "comment": "Divine anger brings exile, as foretold. Yet, the casting out is not permanent—God’s plan includes eventual gathering and restoration, foreshadowing the return from exile and, spiritually, the future ingathering of all God’s people. The need for faithfulness to divine authority is implied—a major theme that will blossom in the unity and sacramental life of God’s redeemed people."
     }
   ],
-  "translatedAt": "2025-12-22T10:44:38.871Z"
+  "translatedAt": "2025-12-24T04:02:21.233Z"
 }

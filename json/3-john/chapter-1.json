@@ -1,158 +1,189 @@
 {
-  "book": "3 John",
+  "book": 71,
+  "bookName": "3 John",
   "bookAbbreviation": "3John",
   "chapter": 1,
   "verses": [
     {
-      "pk": 4029301,
+      "pk": 71001001,
       "translation": "AIV",
-      "book": 64,
+      "book": 71,
+      "bookName": "3 John",
+      "bookAbbreviation": "3John",
       "chapter": 1,
       "verse": 1,
-      "text": "The elder, to the beloved Gaius, whom I love in truth.",
-      "links": "<a href='/AIV/62/2/1'>2 John 1:1</a>",
-      "comment": "John addresses himself as 'the elder,' emphasizing apostolic authority rooted in the tradition handed down from Christ and the Apostles (see Matt. 16:19). The phrase 'whom I love in truth' highlights the importance of authentic Christian love, grounded in the truth of Christ."
+      "text": "The elder, to the beloved Gaius, whom I truly love in the truth.",
+      "links": "<a href='/AIV/62/2/1'>1 John 2:1</a>; <a href='/AIV/62/4/1'>1 John 4:1</a>",
+      "comment": "John calls himself 'the elder,' signaling both authority and pastoral care. His love 'in truth' emphasizes fidelity to Christ, blending doctrinal reality and charity—a model for authentically united Christian fellowship."
     },
     {
-      "pk": 4029302,
+      "pk": 71001002,
       "translation": "AIV",
-      "book": 64,
+      "book": 71,
+      "bookName": "3 John",
+      "bookAbbreviation": "3John",
       "chapter": 1,
       "verse": 2,
       "text": "Beloved, I pray that you may prosper in all things and be in good health, just as your soul prospers.",
-      "links": "<a href='/AIV/19/35/27'>Psalm 35:27</a>",
-      "comment": "John prays for Gaius' well-being, both spiritually and physically, reflecting a holistic view of salvation and blessing. This parallels the concept that grace transforms body and soul together (see 1 Thess. 5:23)."
+      "links": "<a href='/AIV/62/1/2'>1 John 1:2</a>; <a href='/AIV/19/67/7'>Psalm 67:7</a>",
+      "comment": "John shows care for both the physical and spiritual wellbeing of Gaius. The prayer for holistic prosperity reflects early Christian concern for the whole person, echoing biblical teaching on unity of soul and body."
     },
     {
-      "pk": 4029303,
+      "pk": 71001003,
       "translation": "AIV",
-      "book": 64,
+      "book": 71,
+      "bookName": "3 John",
+      "bookAbbreviation": "3John",
       "chapter": 1,
       "verse": 3,
-      "text": "For I rejoiced greatly when brothers came and testified to your truth, that you are walking in the truth.",
-      "links": "<a href='/AIV/19/26/3'>Psalm 26:3</a>; <a href='/AIV/43/8/31'>John 8:31-32</a>",
-      "comment": "The theme of 'walking in the truth' involves both right belief and living faithfully in God's commandments—a continuity of the faith 'once for all delivered' (Jude 1:3)."
+      "text": "I rejoiced greatly when brothers came and testified about your truth, how you walk in truth.",
+      "links": "<a href='/AIV/62/2/4'>1 John 2:4</a>; <a href='/AIV/43/8/31-32'>John 8:31-32</a>",
+      "comment": "Walking in truth is living according to the gospel and apostolic teaching. Early Christians bore witness (literally 'martureó'), showing the importance of communal accountability and faithful living."
     },
     {
-      "pk": 4029304,
+      "pk": 71001004,
       "translation": "AIV",
-      "book": 64,
+      "book": 71,
+      "bookName": "3 John",
+      "bookAbbreviation": "3John",
       "chapter": 1,
       "verse": 4,
       "text": "I have no greater joy than this: to hear that my children are walking in the truth.",
-      "links": "<a href='/AIV/66/2/2'>Revelation 2:2</a>",
-      "comment": "John calls believers his 'children,' signifying spiritual fatherhood and apostolic care, reflecting the unity and continuity of the one true Church's shepherding ministry."
+      "links": "<a href='/AIV/62/2/6'>1 John 2:6</a>; <a href='/AIV/20/23/24'>Proverbs 23:24</a>",
+      "comment": "John refers to disciples as 'children,' representing spiritual fatherhood—rooted in apostolic succession. True joy for a leader is found in the faithfulness of those under his spiritual care."
     },
     {
-      "pk": 4029305,
+      "pk": 71001005,
       "translation": "AIV",
-      "book": 64,
+      "book": 71,
+      "bookName": "3 John",
+      "bookAbbreviation": "3John",
       "chapter": 1,
       "verse": 5,
-      "text": "Beloved, you are acting faithfully in whatever you do for the brothers and strangers;",
-      "links": "<a href='/AIV/40/25/40'>Matthew 25:40</a>",
-      "comment": "Christian hospitality, especially to believers and strangers, is a hallmark of authentic faith. This reflects the corporal works of mercy taught by Christ. The term 'faithfully' also connects to perseverance in tradition."
+      "text": "Beloved, you do faithfully in whatever you do for the brothers—even though they are strangers.",
+      "links": "<a href='/AIV/40/25/40'>Matthew 25:40</a>; <a href='/AIV/58/13/2'>Hebrews 13:2</a>",
+      "comment": "Hospitality is a Christian virtue, reflecting Christ’s teaching to love those unknown to us. Welcoming traveling evangelists and missionaries upheld unity and expanded the reach of the Church."
     },
     {
-      "pk": 4029306,
+      "pk": 71001006,
       "translation": "AIV",
-      "book": 64,
+      "book": 71,
+      "bookName": "3 John",
+      "bookAbbreviation": "3John",
       "chapter": 1,
       "verse": 6,
-      "text": "They have testified to your love before the church. You will do well to help them on their journey in a manner worthy of God.",
-      "links": "<a href='/AIV/58/13/2'>Hebrews 13:2</a>; <a href='/AIV/44/9/43'>Acts 9:43</a>",
-      "comment": "Here, the 'church' is referenced as a visible gathering—a sign of unity and order. Helping fellow laborers is seen as fulfilling God's command and contributing to the mission entrusted to the Church."
+      "text": "These brothers have testified to your love before the church. You will do well to send them on their way in a manner worthy of God.",
+      "links": "<a href='/AIV/45/12/13'>Romans 12:13</a>; <a href='/AIV/52/5/12'>1 Thessalonians 5:12</a>",
+      "comment": "'Church' is mentioned here as the visible gathered community. Manifesting love publicly and supporting missionaries underscores the duty of every Christian to sustain the mission in a fitting, reverent way."
     },
     {
-      "pk": 4029307,
+      "pk": 71001007,
       "translation": "AIV",
-      "book": 64,
+      "book": 71,
+      "bookName": "3 John",
+      "bookAbbreviation": "3John",
       "chapter": 1,
       "verse": 7,
-      "text": "For they have gone out for the sake of the Name, accepting nothing from the Gentiles.",
-      "links": "<a href='/AIV/40/10/10'>Matthew 10:10</a>",
-      "comment": "The term 'the Name' refers to Jesus, indicating a willingness to suffer and work solely for Christ's glory. The refusal to take support from gentiles demonstrates purity of mission and reliance on Christian community."
+      "text": "For they set out for the sake of the Name, accepting nothing from the Gentiles.",
+      "links": "<a href='/AIV/44/5/41'>Acts 5:41</a>; <a href='/AIV/40/10/8-10'>Matthew 10:8-10</a>",
+      "comment": "Missionaries relied only on Christian support, not outsiders, showing faith in God’s provision and avoiding accusation of self-interest in ministry. 'For the sake of the Name' points to devotion to Jesus."
     },
     {
-      "pk": 4029308,
+      "pk": 71001008,
       "translation": "AIV",
-      "book": 64,
+      "book": 71,
+      "bookName": "3 John",
+      "bookAbbreviation": "3John",
       "chapter": 1,
       "verse": 8,
-      "text": "Therefore, we ought to support such people, so that we may become coworkers for the truth.",
-      "links": "<a href='/AIV/46/3/9'>1 Corinthians 3:9</a>",
-      "comment": "The call for support emphasizes communion and cooperation within the Church, underscoring the shared mission and responsibility for truth and teaching."
+      "text": "Therefore, we ought to support such people, so that we can be fellow workers in the truth.",
+      "links": "<a href='/AIV/46/3/9'>1 Corinthians 3:9</a>; <a href='/AIV/50/4/3'>Philippians 4:3</a>",
+      "comment": "Supporting those who proclaim the gospel makes believers co-laborers in God’s work—not just passive recipients. This calls for active partnership in sustaining the apostolic mission of the Church."
     },
     {
-      "pk": 4029309,
+      "pk": 71001009,
       "translation": "AIV",
-      "book": 64,
+      "book": 71,
+      "bookName": "3 John",
+      "bookAbbreviation": "3John",
       "chapter": 1,
       "verse": 9,
       "text": "I wrote something to the church, but Diotrephes, who loves to be first among them, does not accept us.",
-      "links": "<a href='/AIV/57/1/19'>Philemon 1:19</a>; <a href='/AIV/40/23/6'>Matthew 23:6</a>",
-      "comment": "Diotrephes' rejection of apostolic authority exhibits the dangers of schism and pride. The verse warns against breaking fellowship with the apostolic tradition, suggesting the necessity of visible unity."
+      "links": "<a href='/AIV/43/13/16'>John 13:16</a>; <a href='/AIV/52/5/12'>1 Thessalonians 5:12</a>",
+      "comment": "Diotrephes' refusal exposes the danger of rejecting legitimate spiritual authority and apostolic leadership. Endeavoring to be 'first' is warned against by Jesus, who taught humility and submission to church leadership."
     },
     {
-      "pk": 4029310,
+      "pk": 71001010,
       "translation": "AIV",
-      "book": 64,
+      "book": 71,
+      "bookName": "3 John",
+      "bookAbbreviation": "3John",
       "chapter": 1,
       "verse": 10,
-      "text": "Therefore, if I come, I will bring up what he is doing, accusing us with evil words. And not content with that, he himself does not welcome the brothers, and those who wish to, he prevents and throws them out of the church.",
-      "links": "<a href='/AIV/62/1/10'>1 John 1:10</a>; <a href='/AIV/43/9/34'>John 9:34</a>",
-      "comment": "John's authority to rebuke Diotrephes highlights the importance of apostolic oversight. Expelling others from the church for desiring communion shows the seriousness of division from the body—a theme deeply rooted in early Christian practice."
+      "text": "So if I come, I will call attention to what he is doing, spreading wicked words against us. Not satisfied with this, he refuses to welcome the brothers, and even prevents those who would, and puts them out of the church.",
+      "links": "<a href='/AIV/40/18/17'>Matthew 18:17</a>; <a href='/AIV/46/5/2'>1 Corinthians 5:2</a>",
+      "comment": "John intends to exercise corrective discipline, keeping the community pure and orderly. The apostolic leader’s responsibility includes rebuking sin and upholding unity, consistent with Christ’s instructions about church governance and discipline."
     },
     {
-      "pk": 4029311,
+      "pk": 71001011,
       "translation": "AIV",
-      "book": 64,
+      "book": 71,
+      "bookName": "3 John",
+      "bookAbbreviation": "3John",
       "chapter": 1,
       "verse": 11,
-      "text": "Beloved, do not imitate evil, but imitate good. Whoever does good is from God; whoever does evil has not seen God.",
-      "links": "<a href='/AIV/40/7/17'>Matthew 7:17</a>; <a href='/AIV/62/3/6'>1 John 3:6</a>",
-      "comment": "The practice of good over evil is proof of fellowship with God, implying that faith is lived out in actions, as taught by the apostles and demonstrated by Christ's own example."
+      "text": "Beloved, do not imitate evil but imitate good. Whoever does good is from God; whoever does evil has not seen God.",
+      "links": "<a href='/AIV/40/5/16'>Matthew 5:16</a>; <a href='/AIV/62/3/10'>1 John 3:10</a>",
+      "comment": "Christianity is a call to practical holiness. Good works flow from God’s life within, confirming genuine relationship with Him. Spiritual sight—seeing God—is tagently both literal and spiritual, hinting at the importance of sacramental grace."
     },
     {
-      "pk": 4029312,
+      "pk": 71001012,
       "translation": "AIV",
-      "book": 64,
+      "book": 71,
+      "bookName": "3 John",
+      "bookAbbreviation": "3John",
       "chapter": 1,
       "verse": 12,
       "text": "Demetrius has received a good testimony from everyone, and from the truth itself. We also testify, and you know that our testimony is true.",
-      "links": "<a href='/AIV/43/19/35'>John 19:35</a>; <a href='/AIV/62/5/20'>1 John 5:20</a>",
-      "comment": "The reliability of apostolic testimony about Demetrius points to the importance of recognizing true witnesses and role models, in line with tradition and verification of doctrine."
+      "links": "<a href='/AIV/43/19/35'>John 19:35</a>; <a href='/AIV/62/5/6'>1 John 5:6</a>",
+      "comment": "Demetrius is affirmed by the community, by apostolic witness, and by the truth. The triple witness structure echoes biblical standards for establishing truth, reinforcing the Church’s role in discernment and affirmation."
     },
     {
-      "pk": 4029313,
+      "pk": 71001013,
       "translation": "AIV",
-      "book": 64,
+      "book": 71,
+      "bookName": "3 John",
+      "bookAbbreviation": "3John",
       "chapter": 1,
       "verse": 13,
       "text": "I have much to write to you, but I do not wish to write with pen and ink.",
-      "links": "<a href='/AIV/62/2/12'>2 John 1:12</a>",
-      "comment": "John's preference for face-to-face communication reflects the value placed on personal fellowship and the transmission of apostolic teaching in living tradition, not just written text."
+      "links": "<a href='/AIV/63/1/12'>2 John 1:12</a>; <a href='/AIV/46/16/20'>1 Corinthians 16:20</a>",
+      "comment": "The desire for face-to-face fellowship is prioritized over written communication, highlighting the importance of the gathered community and personal relationships in Christian living."
     },
     {
-      "pk": 4029314,
+      "pk": 71001014,
       "translation": "AIV",
-      "book": 64,
+      "book": 71,
+      "bookName": "3 John",
+      "bookAbbreviation": "3John",
       "chapter": 1,
       "verse": 14,
       "text": "But I hope to see you soon, and we will speak face to face.",
-      "links": "<a href='/AIV/52/3/10'>1 Thessalonians 3:10</a>",
-      "comment": "The desire for physical presence highlights the incarnational aspect of Christian community—truth is best conveyed through embodied tradition."
+      "links": "<a href='/AIV/63/1/12'>2 John 1:12</a>; <a href='/AIV/52/2/17'>1 Thessalonians 2:17</a>",
+      "comment": "Personal encounter is prized; early Christians valued sacramental presence and apostolic fellowship, seen as the fullness of communion among believers, going beyond mere words."
     },
     {
-      "pk": 4029315,
+      "pk": 71001015,
       "translation": "AIV",
-      "book": 64,
+      "book": 71,
+      "bookName": "3 John",
+      "bookAbbreviation": "3John",
       "chapter": 1,
       "verse": 15,
       "text": "Peace to you. The friends greet you. Greet the friends by name.",
-      "links": "<a href='/AIV/45/16/16'>Romans 16:16</a>",
-      "comment": "The closing greeting emphasizes peace and the personal bonds within the Church, reinforcing unity and mutual recognition among believers as a mark of true fellowship in Christ."
+      "links": "<a href='/AIV/43/20/19-21'>John 20:19-21</a>; <a href='/AIV/45/16/16'>Romans 16:16</a>",
+      "comment": "'Peace' is both greeting and blessing, drawing on Christ’s resurrection appearances. Naming the friends points to personal connection and unity. Early Christian practice prioritized specific prayer, blessing, and relational bonds."
     }
   ],
-  "translatedAt": "2025-12-23T04:20:13.842Z"
+  "translatedAt": "2025-12-24T12:32:39.140Z"
 }

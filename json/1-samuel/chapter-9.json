@@ -1,278 +1,333 @@
 {
-  "book": "1 Samuel",
+  "book": 9,
+  "bookName": "1 Samuel",
   "bookAbbreviation": "1Sam",
   "chapter": 9,
   "verses": [
     {
-      "pk": 1090901,
+      "pk": 9009001,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 9,
       "verse": 1,
-      "text": "Now there was a man from Benjamin whose name was Kish, son of Abiel, son of Zeror, son of Becorath, son of Aphiah, a Benjamite, a man of wealth.",
-      "links": "<a href='/AIV/13/8/33'>1 Chr. 8:33</a>; <a href='/AIV/44/13/21'>Acts 13:21</a>",
-      "comment": "Closely follows the genealogical listing."
+      "text": "There was a man of Benjamin named Kish, son of Abiel, son of Zeror, son of Becorath, son of Aphiah, a Benjamite—a man of influence and wealth.",
+      "links": "<a href='/AIV/13/8/33'>1 Chron. 8:33</a>; <a href='/AIV/45/11/1'>Rom. 11:1</a>",
+      "comment": "This verse provides the genealogy of Kish, showing Saul's lineage from Benjamin. Ancestry and family heritage play an important role in the identity and destiny of individuals in the biblical narrative."
     },
     {
-      "pk": 1090902,
+      "pk": 9009002,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 9,
       "verse": 2,
-      "text": "He had a son named Saul, a handsome young man. There was not a man among the sons of Israel more handsome than he. From his shoulders upward, he was taller than any of the people.",
-      "links": "<a href='/AIV/10/14/25'>2 Sam. 14:25</a>",
-      "comment": "Preserves physical description; 'heads taller' rendered for clarity."
+      "text": "He had a son named Saul, a handsome young man. No one among the Israelites was more handsome than he; from his shoulders upward he was taller than any of the people.",
+      "links": "<a href='/AIV/1/10/23'>1 Sam. 10:23</a>",
+      "comment": "Saul’s appearance set him apart as an impressive leader in the eyes of the people, showing how outward qualities often mark those whom God will use, even as inward qualities matter more."
     },
     {
-      "pk": 1090903,
+      "pk": 9009003,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 9,
       "verse": 3,
-      "text": "Now the donkeys of Kish, Saul's father, were lost. So Kish said to Saul his son, 'Take one of the servants with you, and go look for the donkeys.'",
-      "links": "<a href='/AIV/11/18/10'>1 Kgs. 18:10</a>",
-      "comment": "Maintains narrative setup."
+      "text": "Now the donkeys of Kish, Saul’s father, were lost. So Kish said to Saul, his son, 'Take one of the servants with you and go look for the donkeys.'",
+      "links": "<a href='/AIV/1/10/14'>1 Sam. 10:14</a>",
+      "comment": "A seemingly mundane task becomes the occasion for God’s providence, leading Saul to his divine appointment. This hints at how God uses ordinary events for extraordinary purposes."
     },
     {
-      "pk": 1090904,
+      "pk": 9009004,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 9,
       "verse": 4,
-      "text": "He passed through the hill country of Ephraim, and through the land of Shalishah, but they did not find them. Then they passed through the land of Shaalim, but they were not there. Then they passed through the territory of Benjamin, but did not find them.",
-      "links": "<a href='/AIV/09/11/1'>1 Sam. 11:1</a>",
-      "comment": "Retains geographical markers."
+      "text": "He passed through the hill country of Ephraim and through the land of Shalishah, but they did not find them. Then they passed through the land of Shaalim, but the donkeys were not there. Then through the territory of Benjamin, but they did not find them.",
+      "links": "",
+      "comment": "The detailed tracing of Saul’s journey shows the theme of seeking and finding, a spiritual image for the search for God’s will."
     },
     {
-      "pk": 1090905,
+      "pk": 9009005,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 9,
       "verse": 5,
-      "text": "When they came to the land of Zuph, Saul said to his servant who was with him, 'Come, let us return. Otherwise my father might stop thinking about the donkeys and become anxious for us.'",
-      "links": "<a href='/AIV/09/1/1'>1 Sam. 1:1</a>",
-      "comment": "Explains Saul's concern naturally."
+      "text": "When they came to the land of Zuph, Saul said to his servant who was with him, 'Come, let us go back, so that my father does not stop caring about the donkeys and begin to worry about us.'",
+      "links": "<a href='/AIV/1/1/1'>1 Sam. 1:1</a>",
+      "comment": "'Zuph' is significant as Samuel’s home region (cf. 1 Sam. 1:1). Saul’s concern for his father shows a natural filial love and respect, prefiguring strong family loyalty in Biblical leadership."
     },
     {
-      "pk": 1090906,
+      "pk": 9009006,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 9,
       "verse": 6,
-      "text": "But he said to him, 'Look, there is a man of God in this city, and he is an honored man. All that he says surely comes true. Let us go there; perhaps he can tell us the way we should go.'",
-      "links": "<a href='/AIV/09/3/20'>1 Sam. 3:20</a>",
-      "comment": "'Man of God' used; maintains high status and prophetic reputation."
+      "text": "But the servant said, 'See, there is a man of God in this city. He is highly respected, and all that he says surely comes true. Let us go there. Perhaps he can tell us the way we should go.'",
+      "links": "<a href='/AIV/1/3/20'>1 Sam. 3:20</a>",
+      "comment": "The servant’s reference to the “man of God” (the prophet Samuel) shows faith in spiritual authority. This reverence for spiritual leaders is foundational for the ongoing guidance of God’s people."
     },
     {
-      "pk": 1090907,
+      "pk": 9009007,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 9,
       "verse": 7,
-      "text": "Then Saul said to his servant, 'But if we go, what shall we bring the man? For the bread in our bags is gone, and there is no gift to bring to the man of God. What do we have?'",
-      "links": "<a href='/AIV/09/9/8'>1 Sam. 9:8</a>",
-      "comment": "Gift-giving custom is clear."
+      "text": "Then Saul said to his servant, 'But if we go, what can we bring to the man? The bread in our sacks is gone, and there is no gift to take to the man of God. What do we have?'",
+      "links": "<a href='/AIV/1/9/8'>1 Sam. 9:8</a>; <a href='/AIV/1/6/5'>1 Sam. 6:5</a>",
+      "comment": "Saul’s question reveals the customary practice of offering gifts to prophets. The importance of honoring God’s ministers through material means echoes throughout the Old and New Testaments."
     },
     {
-      "pk": 1090908,
+      "pk": 9009008,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 9,
       "verse": 8,
-      "text": "The servant answered Saul, 'Here, I have a quarter shekel of silver. I will give it to the man of God so that he may tell us our way.'",
-      "links": "<a href='/AIV/05/16/17'>Deut. 16:17</a>",
-      "comment": "Coin amount modernized as 'quarter shekel.'"
+      "text": "The servant answered Saul, 'Look, I have a quarter shekel of silver. I will give it to the man of God, so he will tell us our way.'",
+      "links": "",
+      "comment": "The readiness of the servant to provide the offering shows humility and the principle of supporting those who serve in God’s name."
     },
     {
-      "pk": 1090909,
+      "pk": 9009009,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 9,
       "verse": 9,
-      "text": "(Formerly in Israel, when a man went to inquire of God, he would say, 'Come, let us go to the seer'; for today’s 'prophet' used to be called a 'seer.')",
-      "links": "<a href='/AIV/13/29/29'>1 Chr. 29:29</a>",
-      "comment": "Historical note on terminology made clear."
+      "text": "(Formerly in Israel, when a man went to inquire of God, he would say, 'Come, let us go to the seer.' For what is now called a prophet was formerly called a seer.)",
+      "links": "<a href='/AIV/1/3/20'>1 Sam. 3:20</a>; <a href='/AIV/12/17/13'>2 Kings 17:13</a>",
+      "comment": "A parenthetical note clarifying the evolution of terms. This illustrates how divine revelation adapts to human understanding through time."
     },
     {
-      "pk": 1090910,
+      "pk": 9009010,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 9,
       "verse": 10,
-      "text": "Saul said to his servant, 'Well said; come, let us go.' So they went to the city where the man of God was.",
-      "links": "<a href='/AIV/09/10/5'>1 Sam. 10:5</a>",
-      "comment": "Renders Saul's agreement and action plainly."
+      "text": "Saul said to his servant, 'Well said. Let us go.' So they went to the city where the man of God was.",
+      "links": "",
+      "comment": "Their willingness to seek spiritual guidance points to a humble acceptance of God’s direction through His appointed servants."
     },
     {
-      "pk": 1090911,
+      "pk": 9009011,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 9,
       "verse": 11,
       "text": "As they went up the hill to the city, they met young women coming out to draw water and asked them, 'Is the seer here?'",
-      "links": "<a href='/AIV/01/24/15'>Gen. 24:15-16</a>",
-      "comment": "Retains narrative sequence and cultural context."
+      "links": "<a href='/AIV/1/10/11'>1 Sam. 10:11</a>",
+      "comment": "The detail of young women at the well echoes other key Biblical meetings at wells (Gen. 24:15, John 4:7), foreshadowing moments of divine encounter."
     },
     {
-      "pk": 1090912,
+      "pk": 9009012,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 9,
       "verse": 12,
-      "text": "They answered, 'Yes, he is here. See, he is just ahead of you. Hurry now, for he has come to the city today because the people have a sacrifice on the high place.",
-      "links": "<a href='/AIV/09/7/17'>1 Sam. 7:17</a>; <a href='/AIV/11/3/2-4'>1 Kgs. 3:2-4</a>",
-      "comment": "Phrase 'high place' kept as used in original."
+      "text": "They answered, 'He is. Behold, he is ahead of you. Hurry now, for today he has come into the city because the people have a sacrifice at the high place.'",
+      "links": "<a href='/AIV/1/7/9'>1 Sam. 7:9</a>; <a href='/AIV/1/16/2'>1 Sam. 16:2</a>",
+      "comment": "The mention of the sacrifice at the high place shows Samuel’s liturgical role in offering sacrifice—a sign of spiritual leadership."
     },
     {
-      "pk": 1090913,
+      "pk": 9009013,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 9,
       "verse": 13,
-      "text": "As soon as you enter the city, you will find him before he goes up to the high place to eat. The people will not eat until he comes, because he must bless the sacrifice. Afterward, those invited will eat. Now go up; for you will find him right now.'",
-      "links": "<a href='/AIV/09/16/4-5'>1 Sam. 16:4-5</a>",
-      "comment": "Blessing of sacrifice and customary waiting explained."
+      "text": "'As soon as you enter the city, you will find him before he goes up to the high place to eat. The people will not eat until he comes, because he must bless the sacrifice. After that, the guests will eat. Go up now, for you will find him immediately.'",
+      "links": "<a href='/AIV/1/9/19'>1 Sam. 9:19</a>; <a href='/AIV/1/16/5'>1 Sam. 16:5</a>",
+      "comment": "The prophet’s role includes blessing and presiding over sacred meals, foreshadowing the priestly mediation between God and the people. This communicates the importance of ordained authority in spiritual matters."
     },
     {
-      "pk": 1090914,
+      "pk": 9009014,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 9,
       "verse": 14,
-      "text": "So they went up to the city. As they were entering the city, Samuel came out toward them on his way up to the high place.",
-      "links": "<a href='/AIV/09/16/13'>1 Sam. 16:13</a>",
-      "comment": "Visual narrative remains."
+      "text": "So they went up to the city. As they were entering, Samuel was coming out toward them on his way up to the high place.",
+      "links": "<a href='/AIV/1/10/5'>1 Sam. 10:5</a>",
+      "comment": "God orchestrates precise timing for Saul to meet Samuel, affirming the doctrine of divine providence guiding each step."
     },
     {
-      "pk": 1090915,
+      "pk": 9009015,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 9,
       "verse": 15,
-      "text": "Now the day before Saul came, the LORD had revealed to Samuel,",
-      "links": "<a href='/AIV/09/8/7'>1 Sam. 8:7</a>",
-      "comment": "'Revealed' as in original Hebrew 'uncovered the ear.'"
+      "text": "Now the LORD had revealed to Samuel the day before Saul came,",
+      "links": "<a href='/AIV/1/15/1'>1 Sam. 15:1</a>",
+      "comment": "God’s revelation to Samuel highlights how God speaks to His chosen representatives for the good of His people. The principle of divine prophecy is fundamental in guiding the faithful."
     },
     {
-      "pk": 1090916,
+      "pk": 9009016,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 9,
       "verse": 16,
-      "text": "'Tomorrow about this time I will send you a man from the land of Benjamin, and you shall anoint him to be leader over my people Israel. He will save my people from the hand of the Philistines; for I have looked on my people, because their cry has come to me.'",
-      "links": "<a href='/AIV/09/10/1'>1 Sam. 10:1</a>; <a href='/AIV/02/3/7'>Ex. 3:7</a>",
-      "comment": "Hebrew 'prince' rendered as 'leader'; theological meaning preserved."
+      "text": "'Tomorrow about this time I will send you a man from the land of Benjamin. Anoint him ruler over My people Israel. He will save My people from the hand of the Philistines; for I have looked upon My people, because their cry has come to Me.'",
+      "links": "<a href='/AIV/1/10/1'>1 Sam. 10:1</a>; <a href='/AIV/1/8/22'>1 Sam. 8:22</a>",
+      "comment": "The LORD’s command to anoint Saul as ruler and savior underscores the sacramental nature of anointing (messiah/‘anointed one’). This anticipates the fullness of anointing in Christ (see Luke 4:18)."
     },
     {
-      "pk": 1090917,
+      "pk": 9009017,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 9,
       "verse": 17,
-      "text": "When Samuel saw Saul, the LORD told him, 'Here is the man of whom I spoke to you! He will rule over my people.'",
-      "links": "<a href='/AIV/09/13/14'>1 Sam. 13:14</a>",
-      "comment": "Divine identification direct and clear."
+      "text": "When Samuel saw Saul, the LORD said to him, 'Here is the man of whom I spoke to you. He will rule over My people.'",
+      "links": "<a href='/AIV/1/9/16'>1 Sam. 9:16</a>",
+      "comment": "Divine confirmation is essential when establishing God’s chosen leader. This principle holds in the understanding of divine guidance for leadership through history."
     },
     {
-      "pk": 1090918,
+      "pk": 9009018,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 9,
       "verse": 18,
-      "text": "Then Saul approached Samuel at the gate and said, 'Please tell me where the seer’s house is.'",
-      "links": "<a href='/AIV/09/10/14'>1 Sam. 10:14</a>",
-      "comment": "Dialogue rendered simply."
+      "text": "Then Saul approached Samuel in the gateway and said, 'Please tell me, where is the house of the seer?'",
+      "links": "",
+      "comment": "Saul humbly seeks Samuel without awareness of his destiny. This humility opens the way for God’s grace."
     },
     {
-      "pk": 1090919,
+      "pk": 9009019,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 9,
       "verse": 19,
-      "text": "Samuel answered Saul, 'I am the seer. Go up before me to the high place, for you will eat with me today. In the morning, I will let you go and will tell you all that is in your heart.'",
-      "links": "<a href='/AIV/09/19/24'>1 Sam. 19:24</a>",
-      "comment": "Samuel's hospitality and prophetic insight preserved."
+      "text": "Samuel answered Saul, 'I am the seer. Go up ahead of me to the high place, for you shall eat with me today. In the morning I will let you go and will tell you all that is in your heart.'",
+      "links": "<a href='/AIV/1/9/13'>1 Sam. 9:13</a>",
+      "comment": "Samuel’s invitation reflects both hospitality and spiritual authority, reminiscent of sacred feasts and sharing in fellowship with God’s representatives."
     },
     {
-      "pk": 1090920,
+      "pk": 9009020,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 9,
       "verse": 20,
-      "text": "As for your donkeys that were lost three days ago, do not be concerned about them; they have been found. For whom is all that is desirable in Israel? Is it not for you and for all your father's house?'",
-      "links": "<a href='/AIV/09/10/16'>1 Sam. 10:16</a>",
-      "comment": "'Desirable' highlights Saul's coming elevation."
+      "text": "As for your donkeys that were lost three days ago, do not be concerned about them, for they have been found. And for whom is all that is desirable in Israel? Is it not for you and for all your father’s house?'",
+      "links": "<a href='/AIV/1/10/2'>1 Sam. 10:2</a>",
+      "comment": "Samuel’s knowledge of Saul’s lost donkeys reveals that God’s prophet possesses supernatural insight and provides spiritual assurance regarding material needs."
     },
     {
-      "pk": 1090921,
+      "pk": 9009021,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 9,
       "verse": 21,
-      "text": "Saul answered, 'Am I not a Benjamite, from the smallest of the tribes of Israel? And is my family the least of all the families of the tribe of Benjamin? Why then have you spoken to me in this way?'",
-      "links": "<a href='/AIV/07/20/46'>Judg. 20:46</a>; <a href='/AIV/09/15/17'>1 Sam. 15:17</a>",
-      "comment": "Saul's humility rendered as per original intent."
+      "text": "Saul answered, 'Am I not a Benjaminite, from the least of the tribes of Israel? And is not my clan the least of all the clans of the tribe of Benjamin? Why then have you spoken to me in this way?'",
+      "links": "<a href='/AIV/1/15/17'>1 Sam. 15:17</a>; <a href='/AIV/7/6/15'>Judg. 6:15</a>",
+      "comment": "Saul’s humility in protesting his insignificance echoes the LORD’s preference for raising the lowly to places of dignity—anticipating the humble origins of later redeemers."
     },
     {
-      "pk": 1090922,
+      "pk": 9009022,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 9,
       "verse": 22,
-      "text": "Then Samuel took Saul and his servant and brought them into the hall and gave them a place at the head of the guests, about thirty persons.",
-      "links": "<a href='/AIV/09/16/11'>1 Sam. 16:11</a>",
-      "comment": "'Head of the guests' made explicit."
+      "text": "Then Samuel took Saul and his servant and brought them into the hall. He gave them a place at the head of those who were invited—about thirty persons.",
+      "links": "",
+      "comment": "Samuel gives Saul the place of honor at the meal, a deliberate sign of his coming elevation. This anticipates the principle that authority and honor in the community are conferred, not usurped."
     },
     {
-      "pk": 1090923,
+      "pk": 9009023,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 9,
       "verse": 23,
-      "text": "Samuel said to the cook, 'Bring the portion I gave you, the one I told you to put aside.'",
-      "links": "<a href='/AIV/09/1/5'>1 Sam. 1:5</a>",
-      "comment": "Instruction to cook kept literal."
+      "text": "Samuel said to the cook, 'Bring the portion I gave you, the one I told you to set aside.'",
+      "links": "<a href='/AIV/1/1/5'>1 Sam. 1:5</a>",
+      "comment": "The reserved portion of food is a mark of honor. The spiritual leader appoints a sacred share, reminiscent of ritual portions given in sacrificial meals—a type pointing toward the future Messianic banquet."
     },
     {
-      "pk": 1090924,
+      "pk": 9009024,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 9,
       "verse": 24,
-      "text": "So the cook took up the thigh and what was on it, and set it before Saul. Then Samuel said, 'See, what was kept is set before you. Eat, because it was kept for you for this appointed time, since I said, \"I have invited the people.\"' So Saul ate with Samuel that day.",
-      "links": "<a href='/AIV/03/7/32'>Lev. 7:32-34</a>",
-      "comment": "'Thigh' (or 'leg') used as per Hebrew; special portion noted."
+      "text": "So the cook took up the leg and what was attached to it and set it before Saul. And Samuel said, 'See, what was kept is set before you. Eat, because it was kept for you until the appointed time, so that you might eat with the guests.' So Saul ate with Samuel that day.",
+      "links": "<a href='/AIV/1/2/13-16'>1 Sam. 2:13–16</a>",
+      "comment": "The best portion is set apart for Saul, signifying God’s foreknowledge and deliberate selection. This picture of a sacred meal looks forward to the sacred meals and feasts in the new covenant."
     },
     {
-      "pk": 1090925,
+      "pk": 9009025,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 9,
       "verse": 25,
       "text": "When they came down from the high place into the city, Samuel spoke with Saul on the roof.",
-      "links": "<a href='/AIV/09/10/25'>1 Sam. 10:25</a>",
-      "comment": "Rooftop conference preserved as in original, implying privacy."
+      "links": "",
+      "comment": "Private conversation on the rooftop—common in ancient cultures—shows the intimacy of divine instruction, often delivered quietly and personally."
     },
     {
-      "pk": 1090926,
+      "pk": 9009026,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 9,
       "verse": 26,
-      "text": "They rose early, and at daybreak Samuel called to Saul on the roof, 'Get up, so I can send you on your way.' So Saul arose, and both he and Samuel went out into the street.",
-      "links": "<a href='/AIV/01/19/27'>Gen. 19:27</a>",
-      "comment": "Sequence made clear: early rising and travel."
+      "text": "They rose early, and at daybreak Samuel called to Saul on the roof, 'Get up, that I may send you on your way.' So Saul arose, and both he and Samuel went outside together.",
+      "links": "",
+      "comment": "Samuel sends Saul forth, marking the transition from private instruction to public commission—a pattern for the formation of leaders in God’s community."
     },
     {
-      "pk": 1090927,
+      "pk": 9009027,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 9,
       "verse": 27,
-      "text": "As they were going down to the edge of the city, Samuel said to Saul, 'Tell the servant to go on ahead of us—and he went on—but you stay here a while, so I may reveal to you the word of God.'",
-      "links": "<a href='/AIV/09/15/16'>1 Sam. 15:16</a>",
-      "comment": "Samuel's intention to deliver God's message to Saul noted."
+      "text": "As they were going down to the edge of the city, Samuel said to Saul, 'Tell the servant to go on ahead of us.' And as he passed on, Samuel said, 'Wait, that I may make known to you the word of God.'",
+      "links": "<a href='/AIV/1/10/1'>1 Sam. 10:1</a>",
+      "comment": "The deliberate sending ahead of the servant and keeping Saul alone sets the stage for the anointing. It shows that God's call and the mysteries of vocation are often revealed in quiet, sacred moments, and through the hands of His chosen representatives. This anticipates the conferral of spiritual grace through sacramental means (see Acts 8:17; James 5:14)."
     }
   ],
-  "translatedAt": "2025-12-22T08:28:42.893Z"
+  "translatedAt": "2025-12-24T02:53:18.923Z"
 }

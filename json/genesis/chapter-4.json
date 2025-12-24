@@ -1,268 +1,321 @@
 {
-  "book": "Genesis",
+  "book": 1,
+  "bookName": "Genesis",
   "bookAbbreviation": "Gen",
   "chapter": 4,
   "verses": [
     {
-      "pk": 1040001,
+      "pk": 1004001,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 4,
       "verse": 1,
-      "text": "Now Adam knew his wife Eve, and she became pregnant and gave birth to Cain. She said, \"I have gotten a man with the help of the LORD.\"",
-      "links": "<a href='/AIV/1/3/16'>Gen. 3:16</a>; <a href='/AIV/1/4/25'>Gen. 4:25</a>",
-      "comment": "The phrase \"knew his wife\" is a Hebrew idiom for marital relations. Eve's statement acknowledges the LORD's involvement in the gift of new life. Some manuscripts read \"with the help of the LORD\" as implying God's cooperation in procreation."
+      "text": "Now Adam knew Eve his wife, and she conceived and bore Cain, saying, 'I have gotten a man with the help of the Lord.'",
+      "links": "<a href='/AIV/1/3/20'>Gen. 3:20</a>; <a href='/AIV/19/127/3'>Ps. 127:3</a>",
+      "comment": "The phrase 'knew' refers to intimate marital union. Eve recognizes God’s active role in the birth of her child, a theme pointing toward the divine gift of human life."
     },
     {
-      "pk": 1040002,
+      "pk": 1004002,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 4,
       "verse": 2,
-      "text": "Again, she gave birth to his brother Abel. Now Abel was a keeper of sheep, but Cain was a worker of the ground.",
-      "links": "<a href='/AIV/1/4/25'>Gen. 4:25</a>; <a href='/AIV/1/46/32'>Gen. 46:32</a>",
-      "comment": "The occupations of Abel and Cain prefigure later biblical themes: shepherds often have special favor, as seen in figures like David (1 Sam. 16:11) and ultimately in Christ (John 10:11)."
+      "text": "And again, she bore his brother Abel. Now Abel was a keeper of sheep, and Cain was a worker of the ground.",
+      "links": "<a href='/AIV/1/46/32'>Gen. 46:32</a>",
+      "comment": "The mention of occupation foreshadows later biblical imagery: Abel as a shepherd prefigures Christ, the Good Shepherd (<a href='/AIV/43/10/11'>John 10:11</a>)."
     },
     {
-      "pk": 1040003,
+      "pk": 1004003,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 4,
       "verse": 3,
-      "text": "In the course of time, Cain brought an offering to the LORD from the fruit of the ground.",
-      "links": "<a href='/AIV/3/2/12'>Lev. 2:12</a>; <a href='/AIV/58/11/4'>Heb. 11:4</a>",
-      "comment": "The first mention of sacrifice in Scripture. The practice of offering the fruits of one’s labor to God is foundational for later worship. See Heb. 11:4 for a New Testament reflection."
+      "text": "In the course of time Cain brought to the Lord an offering of the fruit of the ground.",
+      "links": "<a href='/AIV/3/2/12'>Lev. 2:12</a>",
+      "comment": "Here we see the earliest form of worship through offerings. The concept of first fruits and sacrifice forms the basis for later liturgical actions."
     },
     {
-      "pk": 1040004,
+      "pk": 1004004,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 4,
       "verse": 4,
-      "text": "And Abel also brought an offering, from the firstborn of his flock and from their fat portions. And the LORD looked with favor on Abel and his offering,",
-      "links": "<a href='/AIV/3/3/16'>Lev. 3:16</a>; <a href='/AIV/20/21/27'>Prov. 21:27</a>; <a href='/AIV/58/11/4'>Heb. 11:4</a>",
-      "comment": "Abel brings the best, the 'firstborn and their fat portions,' which prefigures the biblical idea of giving God our first and best (see Ex. 13:2; Lev. 3:16). Abel’s faith is highlighted in Heb. 11:4."
+      "text": "And Abel also brought an offering—of the firstborn of his flock and of their fat portions. The Lord looked with favor on Abel and his offering,",
+      "links": "<a href='/AIV/58/11/4'>Heb. 11:4</a>; <a href='/AIV/3/3/16'>Lev. 3:16</a>",
+      "comment": "Abel’s offering, which involved the best and firstborn, aligns with the later principle of offering our very best to God. This also foreshadows sacrificial themes, culminating in Christ as the Lamb of God (<a href='/AIV/43/1/29'>John 1:29</a>)."
     },
     {
-      "pk": 1040005,
+      "pk": 1004005,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 4,
       "verse": 5,
-      "text": "but on Cain and his offering he did not look with favor. So Cain became very angry, and his face fell.",
-      "links": "<a href='/AIV/1/4/7'>Gen. 4:7</a>; <a href='/AIV/58/11/4'>Heb. 11:4</a>",
-      "comment": "Divine acceptance is connected not just to the offering, but the heart behind it. This theme runs throughout Scripture (cf. 1 Sam. 16:7; Matt. 5:23–24)."
+      "text": "but for Cain and his offering he had no regard. So Cain was very angry, and his face fell.",
+      "links": "<a href='/AIV/20/15/8'>Prov. 15:8</a>; <a href='/AIV/62/3/12'>1 John 3:12</a>",
+      "comment": "God’s response highlights the importance of the heart behind worship. The contrast points toward true interior devotion beyond mere ritual."
     },
     {
-      "pk": 1040006,
+      "pk": 1004006,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 4,
       "verse": 6,
-      "text": "The LORD said to Cain, \"Why are you angry, and why has your face fallen?\"",
-      "links": "<a href='/AIV/1/4/5'>Gen. 4:5</a>",
-      "comment": "God’s inquiry reflects His desire for repentance and restoration. God pursues the sinner—foreshadowing Christ’s seeking the lost (Luke 19:10)."
+      "text": "The Lord said to Cain, 'Why are you angry? And why has your face fallen?'",
+      "links": "<a href='/AIV/19/42/5'>Ps. 42:5</a>",
+      "comment": "God initiates dialogue, offering Cain a chance for self-examination and repentance—a pattern that recurs throughout Scripture."
     },
     {
-      "pk": 1040007,
+      "pk": 1004007,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 4,
       "verse": 7,
-      "text": "\"If you do well, will you not be accepted? And if you do not do well, sin is crouching at the door. Its desire is for you, but you must rule over it.\"",
-      "links": "<a href='/AIV/1/3/16'>Gen. 3:16</a>; <a href='/AIV/45/6/12'>Rom. 6:12</a>",
-      "comment": "The struggle with sin begins here. Sin is personified as something lying in wait, a recurring theme (Rom. 6:12). God's call to 'rule over it' anticipates the New Testament call to self-mastery and virtue."
+      "text": "'If you do well, will you not be accepted? But if you do not do well, sin is crouching at the door. Its desire is for you, but you must rule over it.'",
+      "links": "<a href='/AIV/45/6/12'>Rom. 6:12</a>; <a href='/AIV/60/5/8'>1 Pet. 5:8</a>",
+      "comment": "The warning marks the human struggle with sin but also a call to moral responsibility. The language of 'ruling over' sin anticipates themes of spiritual discipline and grace."
     },
     {
-      "pk": 1040008,
+      "pk": 1004008,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 4,
       "verse": 8,
-      "text": "Cain said to Abel his brother, \"Let us go out to the field.\" And while they were in the field, Cain rose up against his brother Abel and killed him.",
+      "text": "Cain spoke to Abel his brother. And when they were in the field, Cain rose up against his brother Abel and killed him.",
       "links": "<a href='/AIV/62/3/12'>1 John 3:12</a>; <a href='/AIV/40/23/35'>Matt. 23:35</a>",
-      "comment": "The first murder, showing the rapid spread of sin (Rom. 5:12). Abel is later called righteous (Heb. 11:4) and a type of the innocent sufferer—a theme fulfilled in Christ (Heb. 12:24)."
+      "comment": "The first murder is not just a historical fact but a sign of separation caused by sin. Abel’s death prefigures innocent suffering in Scripture and is a type of Christ’s sacrificial death."
     },
     {
-      "pk": 1040009,
+      "pk": 1004009,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 4,
       "verse": 9,
-      "text": "Then the LORD said to Cain, \"Where is Abel your brother?\" He said, \"I do not know; am I my brother's keeper?\"",
-      "links": "<a href='/AIV/1/3/9'>Gen. 3:9</a>; <a href='/AIV/40/22/39'>Matt. 22:39</a>",
-      "comment": "Like Adam, Cain tries to deflect responsibility. This highlights the call to care for others—a principle foundational to Christian ethics (Luke 10:29-37)."
+      "text": "Then the Lord said to Cain, 'Where is Abel your brother?' He said, 'I do not know; am I my brother’s keeper?'",
+      "links": "<a href='/AIV/40/22/39'>Matt. 22:39</a>",
+      "comment": "Cain’s reply reflects moral evasion and denial of responsibility. The question 'Am I my brother’s keeper?' underpins later teaching on charity and love of neighbor."
     },
     {
-      "pk": 1040010,
+      "pk": 1004010,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 4,
       "verse": 10,
-      "text": "And the LORD said, \"What have you done? The voice of your brother’s blood is crying to me from the ground.\"",
-      "links": "<a href='/AIV/58/12/24'>Heb. 12:24</a>; <a href='/AIV/19/9/12'>Ps. 9:12</a>",
-      "comment": "The motif of blood crying out is picked up in Hebrews 12:24, where Christ's blood \"speaks a better word\" than Abel’s—showing both judgment and mercy."
+      "text": "And the Lord said, 'What have you done? The voice of your brother’s blood cries out to me from the ground.'",
+      "links": "<a href='/AIV/58/12/24'>Heb. 12:24</a>",
+      "comment": "This verse is foundational for doctrines regarding the sanctity of life. Abel’s blood crying out prefigures the greater blood that speaks mercy—Christ (<a href='/AIV/58/12/24'>Heb. 12:24</a>)."
     },
     {
-      "pk": 1040011,
+      "pk": 1004011,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 4,
       "verse": 11,
       "text": "And now you are cursed from the ground, which has opened its mouth to receive your brother’s blood from your hand.",
-      "links": "<a href='/AIV/1/3/17'>Gen. 3:17</a>; <a href='/AIV/40/23/35'>Matt. 23:35</a>",
-      "comment": "For the first time, the ground itself is said to participate in the curse, deepening the consequences of sin in creation (Rom. 8:20–22)."
+      "links": "<a href='/AIV/1/3/17'>Gen. 3:17</a>; <a href='/AIV/19/106/18'>Ps. 106:18</a>",
+      "comment": "The curse deepens. Unlike Adam, who was cursed for disobedience, Cain is cursed directly for violence, showing the escalating effects of sin."
     },
     {
-      "pk": 1040012,
+      "pk": 1004012,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 4,
       "verse": 12,
-      "text": "When you work the ground, it will no longer yield its strength to you. You shall be a fugitive and a wanderer on the earth.\"",
-      "links": "<a href='/AIV/19/107/17'>Ps. 107:17</a>",
-      "comment": "Cain’s punishment is both physical and relational: alienation from the land and from community, paralleling deeper spiritual isolation."
+      "text": "When you work the ground, it shall no longer yield its strength to you. You shall be a fugitive and a wanderer on the earth.",
+      "links": "<a href='/AIV/1/3/18'>Gen. 3:18</a>; <a href='/AIV/19/119/176'>Ps. 119:176</a>",
+      "comment": "The consequences of sin are both spiritual and physical. The wandering motif prefigures themes of exile and restoration later in Scripture."
     },
     {
-      "pk": 1040013,
+      "pk": 1004013,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 4,
       "verse": 13,
-      "text": "Cain said to the LORD, \"My punishment is greater than I can bear.",
+      "text": "Cain said to the Lord, 'My punishment is greater than I can bear.'",
       "links": "<a href='/AIV/19/38/4'>Ps. 38:4</a>",
-      "comment": "Cain’s lament is ambiguous; it reflects remorse for consequences, but not repentance for sin—a distinction later highlighted by Paul (2 Cor. 7:10)."
+      "comment": "Cain’s lament reveals the weight of sin and prompts reflection on the need for mercy and redemption, themes fulfilled in Christ."
     },
     {
-      "pk": 1040014,
+      "pk": 1004014,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 4,
       "verse": 14,
-      "text": "Look, you have driven me away today from the face of the ground, and from your face I shall be hidden. I will be a fugitive and a wanderer on the earth, and whoever finds me will kill me.\"",
-      "links": "<a href='/AIV/19/51/11'>Ps. 51:11</a>",
-      "comment": "Cain fears separation from God’s presence. The concern for being killed hints at an early sense of justice and retribution in human society."
+      "text": "'Behold, you have driven me this day away from the ground, and from your face I shall be hidden. I shall be a fugitive and a wanderer on the earth, and whoever finds me will kill me.'",
+      "links": "<a href='/AIV/1/3/8'>Gen. 3:8</a>; <a href='/AIV/23/59/2'>Isa. 59:2</a>",
+      "comment": "Cain fears alienation not only from the land but from God’s presence. The notion of being ‘hidden from God’s face’ is significant for spiritual consequences of sin."
     },
     {
-      "pk": 1040015,
+      "pk": 1004015,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 4,
       "verse": 15,
-      "text": "But the LORD said to him, \"Not so! If anyone kills Cain, vengeance will be taken on him seven times.\" And the LORD put a mark on Cain, so that anyone who found him would not kill him.",
-      "links": "<a href='/AIV/3/26/28'>Lev. 26:28</a>; <a href='/AIV/19/94/1'>Ps. 94:1</a>",
-      "comment": "God mitigates the punishment with mercy, protecting even the sinner. The 'mark' is unspecified, but serves as both a sign of protection and of warning—a pattern seen in the sacraments which provide grace and signify covenant."
+      "text": "Then the Lord said to him, 'Not so! If anyone kills Cain, vengeance shall be taken on him sevenfold.' And the Lord put a mark on Cain, lest any who found him should kill him.",
+      "links": "<a href='/AIV/1/9/6'>Gen. 9:6</a>",
+      "comment": "Despite Cain’s sin, God shows mercy and protection, establishing the principle of measured justice and mercy (a precursor to spiritual forgiveness and reconciliation)."
     },
     {
-      "pk": 1040016,
+      "pk": 1004016,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 4,
       "verse": 16,
-      "text": "Then Cain went away from the presence of the LORD and settled in the land of Nod, east of Eden.",
+      "text": "So Cain went out from the presence of the Lord and settled in the land of Nod, east of Eden.",
       "links": "<a href='/AIV/1/3/24'>Gen. 3:24</a>",
-      "comment": "Leaving God's presence is the ultimate consequence of sin, foreshadowing themes of exile and the hope of return and restoration in the future."
+      "comment": "Departure from God’s presence signifies spiritual exile. The eastward movement is associated with distancing from paradise, a motif recurring throughout biblical history."
     },
     {
-      "pk": 1040017,
+      "pk": 1004017,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 4,
       "verse": 17,
-      "text": "Cain knew his wife, and she conceived and bore Enoch. Cain was building a city, and he named the city after his son, Enoch.",
+      "text": "Cain knew his wife, and she conceived and bore Enoch. Cain was building a city, and he named the city after his son Enoch.",
       "links": "<a href='/AIV/1/5/18'>Gen. 5:18</a>",
-      "comment": "Even after sin and exile, humans continue to create and build, reflecting the image of God and the persistence of human society beyond the fall."
+      "comment": "The act of building a city marks the beginning of human civilization, though in the context of Cain’s alienation, this parallels later themes of cities but also human estrangement from God."
     },
     {
-      "pk": 1040018,
+      "pk": 1004018,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 4,
       "verse": 18,
-      "text": "To Enoch was born Irad. And Irad fathered Mehujael, Mehujael fathered Methushael, and Methushael fathered Lamech.",
+      "text": "To Enoch was born Irad; and Irad fathered Mehujael, and Mehujael fathered Methushael, and Methushael fathered Lamech.",
       "links": "<a href='/AIV/1/5/25'>Gen. 5:25</a>",
-      "comment": "A genealogy is presented, marking the development of human history, and the continuity of life despite sin."
+      "comment": "These genealogies show the continuation of humanity despite sin, setting up the contrast between righteous and unrighteous lines."
     },
     {
-      "pk": 1040019,
+      "pk": 1004019,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 4,
       "verse": 19,
-      "text": "Lamech took two wives. The name of one was Adah, and the name of the other was Zillah.",
+      "text": "And Lamech took two wives: the name of one was Adah, and the name of the other Zillah.",
       "links": "<a href='/AIV/1/2/24'>Gen. 2:24</a>",
-      "comment": "Here is the first reference to polygamy, diverging from the monogamous ideal seen in Genesis 2:24. This development underscores the spread of sin’s effects in society."
+      "comment": "Lamech’s polygamy contrasts with the established ideal of monogamous union earlier in Genesis, showing departure from divine intention."
     },
     {
-      "pk": 1040020,
+      "pk": 1004020,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 4,
       "verse": 20,
-      "text": "Adah gave birth to Jabal; he was the father of those who dwell in tents and have livestock.",
-      "links": "<a href='/AIV/1/13/2'>Gen. 13:2</a>",
-      "comment": "Jabal is seen as the ancestor of nomads, herders, and livestock owners. The development of civilization continues."
+      "text": "Adah bore Jabal; he was the father of those who dwell in tents and have livestock.",
+      "links": "<a href='/AIV/1/25/27'>Gen. 25:27</a>",
+      "comment": "Jabal’s line is credited with shepherding and nomadic living, which becomes a significant motif in salvation history (see Abraham, Moses, David)."
     },
     {
-      "pk": 1040021,
+      "pk": 1004021,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 4,
       "verse": 21,
-      "text": "His brother’s name was Jubal; he was the father of all who play the lyre and pipe.",
-      "links": "<a href='/AIV/19/150/3-4'>Ps. 150:3-4</a>",
-      "comment": "Jubal initiates music and culture in human society, a gift which comes to play a vital role in liturgical and spiritual life (Ps. 150:3-4)."
+      "text": "His brother’s name was Jubal; he was the father of all those who play the lyre and pipe.",
+      "links": "<a href='/AIV/19/150/4'>Ps. 150:4</a>",
+      "comment": "The mention of music points ahead to its important role in worship and liturgy throughout biblical tradition."
     },
     {
-      "pk": 1040022,
+      "pk": 1004022,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 4,
       "verse": 22,
-      "text": "Zillah also gave birth to Tubal-cain, who forged all kinds of tools out of bronze and iron. The sister of Tubal-cain was Naamah.",
-      "links": "<a href='/AIV/1/4/20'>Gen. 4:20</a>",
-      "comment": "The technological advance with bronze and iron shows human creativity—even after the fall, humans remain God’s image-bearers. Naamah’s mention highlights the importance of women in genealogies, foreshadowing later significant women in salvation history."
+      "text": "Zillah bore Tubal-cain; he was the forger of all instruments of bronze and iron. The sister of Tubal-cain was Naamah.",
+      "links": "<a href='/AIV/29/3/10'>Joel 3:10</a>",
+      "comment": "Tubal-cain’s skills in metalwork foreshadow later advances in civilization and even the use of materials for sacred purposes."
     },
     {
-      "pk": 1040023,
+      "pk": 1004023,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 4,
       "verse": 23,
-      "text": "Lamech said to his wives, \"Adah and Zillah, hear my voice; you wives of Lamech, listen to my words: I have killed a man for wounding me, a young man for striking me.",
-      "links": "<a href='/AIV/1/3/17'>Gen. 3:17</a>",
-      "comment": "Lamech’s poem expresses a boastful escalation of violence, going beyond even Cain. The poetic form may echo later biblical songs and declarations (cf. Ex. 15:1-18)."
+      "text": "Lamech said to his wives, 'Adah and Zillah, hear my voice; you wives of Lamech, listen to what I say: I have killed a man for wounding me, a young man for striking me.'",
+      "links": "<a href='/AIV/1/9/6'>Gen. 9:6</a>",
+      "comment": "Lamech boasts of violence, intensifying the legacy of Cain. This narrative arc contrasts with aspirations for peace and reconciliation found later in scripture."
     },
     {
-      "pk": 1040024,
+      "pk": 1004024,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 4,
       "verse": 24,
-      "text": "If Cain’s vengeance is sevenfold, then Lamech’s is seventy-sevenfold.\"",
+      "text": "'If Cain is avenged sevenfold, then Lamech seventy-sevenfold.'",
       "links": "<a href='/AIV/40/18/22'>Matt. 18:22</a>",
-      "comment": "Jesus later reverses this boast with his teaching on forgiveness, urging not 'seven times,' but 'seventy-seven times' (Matt. 18:22). Violence begets violence, but forgiveness is the true path to healing."
+      "comment": "Lamech’s escalation is contrasted by Christ’s call to forgive ‘seventy times seven’ (<a href='/AIV/40/18/22'>Matt. 18:22</a>), exemplifying reversal and fulfillment in the Gospel."
     },
     {
-      "pk": 1040025,
+      "pk": 1004025,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 4,
       "verse": 25,
-      "text": "Adam knew his wife again, and she gave birth to a son and called his name Seth, for she said, \"God has appointed me another offspring instead of Abel, because Cain killed him.\"",
+      "text": "And Adam knew his wife again, and she bore a son and named him Seth, for she said, 'God has appointed for me another offspring instead of Abel, for Cain killed him.'",
       "links": "<a href='/AIV/1/5/3'>Gen. 5:3</a>; <a href='/AIV/42/3/38'>Luke 3:38</a>",
-      "comment": "Seth’s birth represents the preservation of the righteous line, ultimately leading to Christ (Luke 3:38)—highlighting God's faithfulness even after tragedy."
+      "comment": "The birth of Seth marks renewal and hope after tragedy. Seth’s line is preserved, ultimately leading to the fulfillment of God’s plan in salvation history."
     },
     {
-      "pk": 1040026,
+      "pk": 1004026,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 4,
       "verse": 26,
-      "text": "To Seth also a son was born, and he called his name Enosh. At that time people began to call upon the name of the LORD.",
-      "links": "<a href='/AIV/32/2/32'>Joel 2:32</a>; <a href='/AIV/45/10/13'>Rom. 10:13</a>",
-      "comment": "A crucial turning point: public worship and invocation of the LORD begins, preparing God’s people to seek Him together. This points ahead to the importance of communal prayer and the gathered people in the story of redemption."
+      "text": "To Seth also a son was born, and he called his name Enosh. At that time people began to call upon the name of the Lord.",
+      "links": "<a href='/AIV/19/116/13'>Ps. 116:13</a>; <a href='/AIV/45/10/13'>Rom. 10:13</a>",
+      "comment": "The beginning of public worship here anticipates both individual and communal prayer traditions, later developed in the history of the church, which carries this calling forward through centuries of liturgy and prayer."
     }
   ],
-  "translatedAt": "2025-12-23T08:35:52.775Z"
+  "translatedAt": "2025-12-24T00:12:30.916Z"
 }

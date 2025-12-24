@@ -1,108 +1,129 @@
 {
-  "book": "Jonah",
+  "book": 39,
+  "bookName": "Jonah",
   "bookAbbreviation": "Jonah",
   "chapter": 3,
   "verses": [
     {
-      "pk": 1953001,
+      "pk": 39003001,
       "translation": "AIV",
-      "book": 32,
+      "book": 39,
+      "bookName": "Jonah",
+      "bookAbbreviation": "Jonah",
       "chapter": 3,
       "verse": 1,
-      "text": "Then the word of the LORD came to Jonah a second time, saying,",
-      "links": "<a href='/AIV/32/1/1'>Jonah 1:1</a>; <a href='/AIV/24/18/1-6'>Jeremiah 18:1-6</a>",
-      "comment": "God's persistence in calling Jonah mirrors how God continues to call His servants despite failure, emphasizing His mercy and patience. The repetition recalls other prophets receiving renewed calls."
+      "text": "The word of the Lord came to Jonah a second time, saying:",
+      "links": "<a href='/AIV/39/1/1'>Jonah 1:1</a>; <a href='/AIV/24/1/4'>Jer. 1:4</a>",
+      "comment": "God's initiative with Jonah is repeated, showing divine persistence and mercy. Compare to prophetic calls throughout Scripture. God calls even those who previously resisted."
     },
     {
-      "pk": 1953002,
+      "pk": 39003002,
       "translation": "AIV",
-      "book": 32,
+      "book": 39,
+      "bookName": "Jonah",
+      "bookAbbreviation": "Jonah",
       "chapter": 3,
       "verse": 2,
       "text": "\"Arise, go to Nineveh, that great city, and proclaim to it the message that I tell you.\"",
-      "links": "<a href='/AIV/32/1/2'>Jonah 1:2</a>, <a href='/AIV/26/2/7'>Ezekiel 2:7</a>",
-      "comment": "Nineveh was a notoriously pagan city, yet God shows concern for all nations, prefiguring the expansion of salvation beyond Israel. The command to proclaim signifies the prophetic office and the obedience required of God's messengers."
+      "links": "<a href='/AIV/39/1/2'>Jonah 1:2</a>; <a href='/AIV/40/28/19'>Matt. 28:19</a>",
+      "comment": "Nineveh is highlighted as 'great,' implying its importance and the vastness of God’s mercy. Significant parallel to Jesus' commission to his disciples."
     },
     {
-      "pk": 1953003,
+      "pk": 39003003,
       "translation": "AIV",
-      "book": 32,
+      "book": 39,
+      "bookName": "Jonah",
+      "bookAbbreviation": "Jonah",
       "chapter": 3,
       "verse": 3,
-      "text": "So Jonah arose and went to Nineveh, according to the word of the LORD. Now Nineveh was an exceedingly great city, a three days' journey in breadth.",
-      "links": "<a href='/AIV/32/1/3'>Jonah 1:3</a>, <a href='/AIV/1/10/20'>Genesis 10:20-12</a>",
-      "comment": "Jonah's obedience contrasts his earlier flight, symbolizing repentance and return to God's will. Nineveh's size represents the extent of its influence and its need for conversion—foreshadowing the universal offer of God's mercy."
+      "text": "So Jonah arose and went to Nineveh according to the word of the Lord. Now Nineveh was an exceedingly large city, a three days’ journey in breadth.",
+      "links": "<a href='/AIV/39/1/3'>Jonah 1:3</a>; <a href='/AIV/01/10/12'>Gen. 10:12</a>",
+      "comment": "Jonah’s obedience contrasts his previous flight. The mention of 'three days’ journey' may foreshadow Jesus' three days in the tomb (see Matt. 12:40), which ties the narrative to Christ's resurrection."
     },
     {
-      "pk": 1953004,
+      "pk": 39003004,
       "translation": "AIV",
-      "book": 32,
+      "book": 39,
+      "bookName": "Jonah",
+      "bookAbbreviation": "Jonah",
       "chapter": 3,
       "verse": 4,
-      "text": "Jonah began to go into the city, about a day's journey, and he called out, \"Yet forty days, and Nineveh shall be overthrown!\"",
-      "links": "<a href='/AIV/32/4/1'>Jonah 4:1</a>, <a href='/AIV/2/7/4'>Exodus 7:4</a>",
-      "comment": "Forty days suggests a period of testing or repentance (see <a href='/AIV/40/4/2'>Matthew 4:2</a>), echoing Israel’s forty years in the wilderness and Jesus’ forty days of fasting. The warning presents God’s justice but also allows the possibility of mercy if the people repent."
+      "text": "Jonah began to enter the city, going a day’s journey, and he cried out, \"Yet forty days, and Nineveh will be overthrown!\"",
+      "links": "<a href='/AIV/01/07/04'>Gen. 7:4</a>; <a href='/AIV/40/04/02'>Matt. 4:2</a>",
+      "comment": "The term 'forty days' signals a period of testing and repentance (see Noah's flood, Jesus' fasting). God often uses such periods for transformation."
     },
     {
-      "pk": 1953005,
+      "pk": 39003005,
       "translation": "AIV",
-      "book": 32,
+      "book": 39,
+      "bookName": "Jonah",
+      "bookAbbreviation": "Jonah",
       "chapter": 3,
       "verse": 5,
-      "text": "And the people of Nineveh believed God. They called for a fast and put on sackcloth, from the greatest of them to the least.",
-      "links": "<a href='/AIV/18/42/6'>Job 42:6</a>, <a href='/AIV/42/3/7-9'>Luke 3:7-9</a>",
-      "comment": "Collective repentance, shown by fasting and sackcloth, reflects true contrition. From the highest to the lowest, all are called to forgiveness—anticipating the sacramental confession and communal penance found in the Church."
+      "text": "And the people of Nineveh believed God. They proclaimed a fast and put on sackcloth, from the greatest of them to the least.",
+      "links": "<a href='/AIV/27/09/03'>Daniel 9:3</a>; <a href='/AIV/40/11/21'>Matt. 11:21</a>",
+      "comment": "Repentance is shown by hearts turned to God and external acts—even fasting and sackcloth—for all people, echoing communal acts of penance found elsewhere. Note how true repentance involves both belief and action."
     },
     {
-      "pk": 1953006,
+      "pk": 39003006,
       "translation": "AIV",
-      "book": 32,
+      "book": 39,
+      "bookName": "Jonah",
+      "bookAbbreviation": "Jonah",
       "chapter": 3,
       "verse": 6,
-      "text": "When the news reached the king of Nineveh, he arose from his throne, removed his robe, covered himself with sackcloth, and sat in ashes.",
-      "links": "<a href='/AIV/27/9/3'>Daniel 9:3</a>, <a href='/AIV/24/6/26'>Jeremiah 6:26</a>",
-      "comment": "The king’s humility before God exemplifies leadership leading by example in repentance. Removal of royal attire for sackcloth points to the abandonment of earthly honors in favor of God’s grace."
+      "text": "When the word reached the king of Nineveh, he rose from his throne, took off his robe, covered himself with sackcloth, and sat in ashes.",
+      "links": "<a href='/AIV/18/02/08'>Job 2:8</a>; <a href='/AIV/27/04/27'>Daniel 4:27</a>",
+      "comment": "The king’s humble response is reminiscent of Old Testament leaders showing humility before God. Leadership in repentance sets an example for all—a theme echoed in Christ’s call to humility and self-emptying."
     },
     {
-      "pk": 1953007,
+      "pk": 39003007,
       "translation": "AIV",
-      "book": 32,
+      "book": 39,
+      "bookName": "Jonah",
+      "bookAbbreviation": "Jonah",
       "chapter": 3,
       "verse": 7,
-      "text": "He issued a proclamation and published it throughout Nineveh: 'By the decree of the king and his nobles, neither man nor beast, herd nor flock, shall taste anything. They shall not eat nor drink water.'",
-      "links": "<a href='/AIV/29/2/15-16'>Joel 2:15-16</a>",
-      "comment": "Even animals are included in the fast, signifying a total, communal turning to God. The unity in penance recalls the importance of corporate expressions of faith, which would later be seen in liturgical traditions."
+      "text": "He issued a proclamation and published it throughout Nineveh: \"By the decree of the king and his nobles: No man or animal, herd or flock, shall taste anything; let them not eat or drink water.\"",
+      "links": "<a href='/AIV/29/02/15'>Joel 2:15</a>; <a href='/AIV/03/16/29'>Lev. 16:29'>",
+      "comment": "Fasting is imposed universally, even upon animals, emphasizing total communal repentance. The unity of external practices in seeking God’s mercy subtly reinforces the value of corporate worship and shared penance."
     },
     {
-      "pk": 1953008,
+      "pk": 39003008,
       "translation": "AIV",
-      "book": 32,
+      "book": 39,
+      "bookName": "Jonah",
+      "bookAbbreviation": "Jonah",
       "chapter": 3,
       "verse": 8,
-      "text": "But let both man and beast be covered with sackcloth, and let them cry forcefully to God. Let everyone turn from his evil way and from the violence that is in his hands.",
-      "links": "<a href='/AIV/23/58/5'>Isaiah 58:5</a>; <a href='/AIV/20/28/13'>Proverbs 28:13</a>",
-      "comment": "The demand for heartfelt repentance (not just outward acts) affirms the necessity of both publicly expressed and interior conversion, preparing for future understandings of sacramental penance."
+      "text": "\"But let man and animal be covered in sackcloth, and let everyone call urgently on God. Let each turn away from their evil ways and from the violence in their hands.\"",
+      "links": "<a href='/AIV/23/58/07'>Isaiah 58:7</a>; <a href='/AIV/19/34/14'>Ps. 34:14</a>",
+      "comment": "Genuine repentance combines external actions and interior conversion. Notice the use of 'call urgently,' indicating intercessory prayer, which is modeled in the assembly of believers throughout Scripture."
     },
     {
-      "pk": 1953009,
+      "pk": 39003009,
       "translation": "AIV",
-      "book": 32,
+      "book": 39,
+      "bookName": "Jonah",
+      "bookAbbreviation": "Jonah",
       "chapter": 3,
       "verse": 9,
-      "text": "Who knows? God may turn and relent and turn away from his fierce anger, so that we may not perish.\"",
-      "links": "<a href='/AIV/29/2/14'>Joel 2:14</a>; <a href='/AIV/19/106/45'>Psalm 106:45</a>",
-      "comment": "Hope in God's mercy is a recurring biblical theme—repentance can move God to show compassion, demonstrating the interplay of divine justice and mercy foundational to Christian theology."
+      "text": "\"Who knows? God may turn and relent, and turn away from his fierce anger, so that we may not perish.\"",
+      "links": "<a href='/AIV/20/16/06'>Prov. 16:6</a>; <a href='/AIV/19/78/38'>Ps. 78:38</a>",
+      "comment": "The call for mercy acknowledges that salvation is a gift, not a right—relying on God’s gracious response. The hope for God’s mercy through repentance is a theme that continues in the New Testament (see Luke 15:7)."
     },
     {
-      "pk": 1953010,
+      "pk": 39003010,
       "translation": "AIV",
-      "book": 32,
+      "book": 39,
+      "bookName": "Jonah",
+      "bookAbbreviation": "Jonah",
       "chapter": 3,
       "verse": 10,
-      "text": "And God saw what they did, how they turned from their evil way. And God relented from the disaster which he had threatened to bring upon them, and he did not do it.",
-      "links": "<a href='/AIV/19/51/17'>Psalm 51:17</a>; <a href='/AIV/24/18/8'>Jeremiah 18:8</a>; <a href='/AIV/40/12/41'>Matthew 12:41</a>",
-      "comment": "True conversion touches the heart of God, revealing that sincere repentance is effective. Jesus referenced the repentance of Nineveh (<a href='/AIV/40/12/41'>Matthew 12:41</a>) as a model, pointing to the power of penance and the necessity of responding when called to conversion."
+      "text": "When God saw what they did, how they turned from their evil ways, God relented from the disaster that he had said he would bring upon them, and he did not do it.",
+      "links": "<a href='/AIV/02/32/14'>Ex. 32:14</a>; <a href='/AIV/26/18/21'>Ezekiel 18:21</a>",
+      "comment": "This verse affirms God’s readiness to forgive those who turn from sin. The act of communal repentance leads to divine mercy, demonstrating God’s love for all nations. Spiritual transformation brings forth real change—an image fulfilled in Christ’s call for all people to repentance and life."
     }
   ],
-  "translatedAt": "2025-12-23T07:29:48.045Z"
+  "translatedAt": "2025-12-24T09:46:51.799Z"
 }

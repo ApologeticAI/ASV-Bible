@@ -1,228 +1,273 @@
 {
-  "book": "Exodus",
+  "book": 2,
+  "bookName": "Exodus",
   "bookAbbreviation": "Exod",
   "chapter": 1,
   "verses": [
     {
-      "pk": 2010001,
+      "pk": 2001001,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 1,
       "verse": 1,
       "text": "These are the names of the sons of Israel who came to Egypt with Jacob, each with his household:",
-      "links": "<a href='/AIV/1/46/8-27'>Gen. 46:8–27</a>; <a href='/AIV/2/1/5'>Ex. 1:5</a>",
-      "comment": "Opening listing echoes Genesis 46. Intentionally preserves 'Israel' as Jacob’s name."
+      "links": "<a href='/AIV/1/46/8-27'>Gen. 46:8-27</a>",
+      "comment": "Begins the list of those who came to Egypt, emphasizing the continuity of God's covenant with the patriarchs. The preservation of names points to the importance of lineage and tradition in salvation history."
     },
     {
-      "pk": 2010002,
+      "pk": 2001002,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 1,
       "verse": 2,
       "text": "Reuben, Simeon, Levi, and Judah,",
-      "links": "<a href='/AIV/1/35/23-26'>Gen. 35:23–26</a>",
-      "comment": "Names retained as transliterated."
+      "links": "<a href='/AIV/1/29/32-35'>Gen. 29:32-35</a>",
+      "comment": "These are the first sons born to Jacob by Leah, representing the initial foundation stones of the tribes of Israel."
     },
     {
-      "pk": 2010003,
+      "pk": 2001003,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 1,
       "verse": 3,
       "text": "Issachar, Zebulun, and Benjamin,",
-      "links": "<a href='/AIV/1/35/23-24'>Gen. 35:23–24</a>",
-      "comment": "Retains traditional names as per Hebrew."
+      "links": "<a href='/AIV/1/30/18-20'>Gen. 30:18-20</a>; <a href='/AIV/1/35/18'>Gen. 35:18</a>",
+      "comment": "Completes the list of Jacob's sons who enter Egypt, symbolizing unity and the fulfillment of promises given to Abraham."
     },
     {
-      "pk": 2010004,
+      "pk": 2001004,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 1,
       "verse": 4,
       "text": "Dan and Naphtali, Gad and Asher.",
-      "links": "<a href='/AIV/1/35/25-26'>Gen. 35:25–26</a>",
-      "comment": "Same family order as Genesis 35. No change."
+      "links": "<a href='/AIV/1/30/4-13'>Gen. 30:4-13</a>",
+      "comment": "These are the sons born to Jacob by Rachel's and Leah's handmaidens. All tribes are included, showing the full, twelvefold unity of the people."
     },
     {
-      "pk": 2010005,
+      "pk": 2001005,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 1,
       "verse": 5,
-      "text": "All the descendants of Jacob were seventy people. Joseph was already in Egypt.",
-      "links": "<a href='/AIV/1/46/27'>Gen. 46:27</a>",
-      "comment": "Hebrew literally, “all the souls.” Rendered as ‘descendants’ for clarity."
+      "text": "All the descendants of Jacob were seventy persons. Joseph was already in Egypt.",
+      "links": "<a href='/AIV/1/46/27'>Gen. 46:27</a>; <a href='/AIV/5/10/22'>Deut. 10:22</a>",
+      "comment": "The number seventy represents fullness and completeness (cf. Lk 10:1). The narrative reminds the reader of how a small family will become a great nation as God promised (Gen 12:2)."
     },
     {
-      "pk": 2010006,
+      "pk": 2001006,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 1,
       "verse": 6,
-      "text": "Then Joseph died, and all his brothers and all that generation.",
+      "text": "Joseph died, and all his brothers, and all that generation.",
       "links": "<a href='/AIV/1/50/26'>Gen. 50:26</a>",
-      "comment": "“Generation” translates Hebrew ‘dor’, meaning age/group of people."
+      "comment": "Closes the time of the patriarchs, marking the end of an era. The successive generations foreshadow the need for ongoing leadership and tradition to keep faith alive."
     },
     {
-      "pk": 2010007,
+      "pk": 2001007,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 1,
       "verse": 7,
-      "text": "But the sons of Israel were fruitful and greatly multiplied. They grew so numerous and became very strong, so that the land was filled with them.",
-      "links": "<a href='/AIV/1/47/27'>Gen. 47:27</a>; <a href='/AIV/1/1/28'>Gen. 1:28</a>",
-      "comment": "Hebrew uses multiple verbs for 'increase,' retained for emphasis."
+      "text": "But the descendants of Israel were fruitful and multiplied greatly, and increased in number, and became exceedingly strong, so that the land was filled with them.",
+      "links": "<a href='/AIV/1/1/28'>Gen. 1:28</a>; <a href='/AIV/1/46/3'>Gen. 46:3</a>",
+      "comment": "Echoes the original command to be fruitful and multiply (Gen 1:28). The fruitfulness of Israel is a sign of God's blessing and fidelity to His promises."
     },
     {
-      "pk": 2010008,
+      "pk": 2001008,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 1,
       "verse": 8,
-      "text": "Now a new king arose over Egypt who did not know Joseph.",
-      "links": "<a href='/AIV/1/47/31'>Gen. 47:31</a>",
-      "comment": "‘Arose’ for the Hebrew verb. Doesn't know = not familiar or not favorable."
+      "text": "Now there arose a new king over Egypt who did not know Joseph.",
+      "links": "<a href='/AIV/1/41/40-41'>Gen. 41:40-41</a>",
+      "comment": "The passing of memory brings hardship. The forgetfulness of the new king marks the beginning of enslavement, illustrating the importance of maintaining tradition and oral history."
     },
     {
-      "pk": 2010009,
+      "pk": 2001009,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 1,
       "verse": 9,
-      "text": "He said to his people, “Behold, the people of the sons of Israel are more numerous and stronger than we are.",
-      "links": "<a href='/AIV/2/1/7'>Ex. 1:7</a>",
-      "comment": "‘Sons of Israel’ closely follows Hebrew. ‘Behold’ is retained for direct address."
+      "text": "He said to his people, 'Look, the people of the children of Israel are more numerous and stronger than we are.'",
+      "links": "<a href='/AIV/7/6/3'>Judg. 6:3</a>",
+      "comment": "The growth of Israel causes fear in Pharaoh, echoing nations later threatened by God's chosen people."
     },
     {
-      "pk": 2010010,
+      "pk": 2001010,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 1,
       "verse": 10,
-      "text": "Come, let us deal shrewdly with them, so they do not multiply further, and if war breaks out, they might join our enemies and fight against us and escape from the land.”",
-      "links": "<a href='/AIV/2/14/5'>Ex. 14:5</a>",
-      "comment": "‘Deal shrewdly’ is literal. ‘Escape from the land’ preserves ambiguity of Heb. word."
+      "text": "'Come, let us deal wisely with them, or else they will multiply, and in the event of war, they might join our enemies, fight against us and leave the land.'",
+      "links": "<a href='/AIV/43/11/47-48'>John 11:47-48</a>",
+      "comment": "Parallels the counsel of the high priests against Jesus in John 11. Fear leads to unjust oppression and prefigures similar hostility to God's chosen instrument in salvation history."
     },
     {
-      "pk": 2010011,
+      "pk": 2001011,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 1,
       "verse": 11,
-      "text": "Therefore they set taskmasters over them to oppress them with forced labor. And they built for Pharaoh the store cities, Pithom and Raamses.",
-      "links": "<a href='/AIV/1/47/11'>Gen. 47:11</a>",
-      "comment": "‘Taskmasters’ is literal. ‘Store cities’ translates for Heb. 'miskenot.'"
+      "text": "So they set taskmasters over them to oppress them with forced labor. They built for Pharaoh the store cities, Pithom and Raamses.",
+      "links": "<a href='/AIV/5/26/6'>Deut. 26:6</a>; <a href='/AIV/1/47/11'>Gen. 47:11</a>",
+      "comment": "The theme of slavery and hard labor under unjust authorities foreshadows later themes of redemption and deliverance. The city-building connects to God's call to spiritual labor in a new covenant."
     },
     {
-      "pk": 2010012,
+      "pk": 2001012,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 1,
       "verse": 12,
-      "text": "But the more they oppressed them, the more they multiplied and spread, so that the Egyptians were afraid of the sons of Israel.",
-      "links": "<a href='/AIV/2/1/7'>Ex. 1:7</a>",
-      "comment": "‘Multiplied and spread’ directly follows doubling of Heb. verbs."
+      "text": "But the more they were oppressed, the more they multiplied and spread out, so that the Egyptians came to dread the children of Israel.",
+      "links": "<a href='/AIV/27/3/12-13'>Dan. 3:12-13</a>",
+      "comment": "God's blessing cannot be thwarted by human opposition. This endurance of God's people prefigures the triumph of the faithful under persecution."
     },
     {
-      "pk": 2010013,
+      "pk": 2001013,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 1,
       "verse": 13,
-      "text": "So the Egyptians made the sons of Israel serve ruthlessly.",
-      "links": "<a href='/AIV/2/1/14'>Ex. 1:14</a>",
-      "comment": "‘Serve ruthlessly’ is a close rendering of Hebrew for harsh bondage."
+      "text": "So the Egyptians made the children of Israel work ruthlessly.",
+      "links": "<a href='/AIV/3/26/13'>Lev. 26:13</a>",
+      "comment": "Describes the cruelty of oppression. The deliverance from this harsh slavery becomes the foundational story for later spiritual liberation, especially as fulfilled in Christ (Rom 8:2)."
     },
     {
-      "pk": 2010014,
+      "pk": 2001014,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 1,
       "verse": 14,
-      "text": "They made their lives bitter with hard labor in mortar and brick, and with all kinds of work in the field. All their labor which they forced on them was ruthless.",
-      "links": "<a href='/AIV/2/5/7-19'>Ex. 5:7–19</a>",
-      "comment": "Retains list of duties as in Hebrew. Emphasis on bitter suffering."
+      "text": "They made their lives bitter with hard service in mortar and brick, and in all sorts of work in the field. In all their harsh labor, the Egyptians worked them ruthlessly.",
+      "links": "<a href='/AIV/1/15/13'>Gen. 15:13</a>",
+      "comment": "Highlights the severity of the Israelites' suffering. This bitterness would be commemorated in the remembrance of Passover and points towards Christian spiritual disciplines as a means of sharing in Christ's suffering (Phil 3:10)."
     },
     {
-      "pk": 2010015,
+      "pk": 2001015,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 1,
       "verse": 15,
-      "text": "Then the king of Egypt spoke to the Hebrew midwives, one of whom was named Shiphrah and the other Puah.",
-      "links": "<a href='/AIV/2/15/20'>Ex. 15:20</a>",
-      "comment": "Names transliterated from Hebrew. ‘Midwives’ matches context."
+      "text": "Then the king of Egypt spoke to the Hebrew midwives, one of whom was named Shiphrah and the other Puah,",
+      "links": "<a href='/AIV/2/15/20'>Exod. 15:20</a>",
+      "comment": "The naming of these women underscores the honoring of faithfulness and courage, even in the face of opposition from powerful rulers. Women are prominent instruments of deliverance in God's plan."
     },
     {
-      "pk": 2010016,
+      "pk": 2001016,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 1,
       "verse": 16,
-      "text": "He said, “When you serve as midwife to the Hebrew women and see them on the birth stool, if it is a son, you shall kill him; but if it is a daughter, she shall live.”",
-      "links": "<a href='/AIV/2/1/22'>Ex. 1:22</a>",
-      "comment": "‘Birth stool’ translates Hebrew ‘oven stones’ (likely a birthing seat)."
+      "text": "and he said, 'When you serve as midwife to the Hebrew women and see them on the birthstool, if it is a son, you shall kill him; but if it is a daughter, she shall live.'",
+      "links": "<a href='/AIV/40/2/16'>Matt. 2:16</a>",
+      "comment": "Parallels the slaughter of the innocents by Herod (Matt 2:16). Both episodes prefigure attempts by evil to destroy God's chosen but ultimately fail. The deliverance of the infants finds its fulfillment in Christ, the true Deliverer."
     },
     {
-      "pk": 2010017,
+      "pk": 2001017,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 1,
       "verse": 17,
       "text": "But the midwives feared God and did not do as the king of Egypt commanded them, but let the boys live.",
-      "links": "<a href='/AIV/2/1/21'>Ex. 1:21</a>; <a href='/AIV/2/9/20'>Ex. 9:20</a>",
-      "comment": "‘Feared God’ preserves Hebrew emphasis on piety."
+      "links": "<a href='/AIV/4/1/17'>Acts 5:29</a>",
+      "comment": "Obedience to God above earthly authorities is commended here, echoing the apostolic teaching (Acts 5:29)."
     },
     {
-      "pk": 2010018,
+      "pk": 2001018,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 1,
       "verse": 18,
-      "text": "So the king of Egypt called the midwives and said to them, “Why have you done this, and let the boys live?”",
-      "links": "<a href='/AIV/2/1/17'>Ex. 1:17</a>",
-      "comment": "Formal accusation is retained; matches legal tone."
+      "text": "So the king of Egypt called the midwives and said to them, 'Why have you done this, and let the boys live?'",
+      "links": "<a href='/AIV/1/20/9-10'>Gen. 20:9-10</a>",
+      "comment": "Divine wisdom often confounds human power. The midwives' response demonstrates how God defends the faithful and humble."
     },
     {
-      "pk": 2010019,
+      "pk": 2001019,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 1,
       "verse": 19,
-      "text": "The midwives answered Pharaoh, “Because the Hebrew women are not like the Egyptian women, for they are vigorous and give birth before the midwife comes to them.”",
-      "links": "<a href='/AIV/2/1/16'>Ex. 1:16</a>",
-      "comment": "‘Vigorous’ chosen for Heb. ‘chayot,’ lit. “lively.”"
+      "text": "The midwives said to Pharaoh, 'Because the Hebrew women are not like the Egyptian women, for they are vigorous and give birth before the midwife comes to them.'",
+      "links": "<a href='/AIV/40/10/16'>Matt. 10:16</a>",
+      "comment": "Their clever response, perhaps a pious deception, is rewarded by God. The role of wisdom and discernment in following God's law is elevated here."
     },
     {
-      "pk": 2010020,
+      "pk": 2001020,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 1,
       "verse": 20,
-      "text": "So God dealt well with the midwives, and the people multiplied and grew very strong.",
-      "links": "<a href='/AIV/2/1/12'>Ex. 1:12</a>",
-      "comment": "‘Dealt well’ follows Hebrew ‘made good to.’"
+      "text": "So God dealt well with the midwives. And the people multiplied and became very strong.",
+      "links": "<a href='/AIV/58/6/10'>Heb. 6:10</a>",
+      "comment": "God rewards those who act in faith. The blessings are not only spiritual but also extend to the physical fruitfulness and growth of His people."
     },
     {
-      "pk": 2010021,
+      "pk": 2001021,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 1,
       "verse": 21,
-      "text": "And because the midwives feared God, He gave them families of their own.",
-      "links": "<a href='/AIV/2/1/17'>Ex. 1:17</a>",
-      "comment": "‘Families of their own’ for Heb. ‘houses’ (social status), clarified for modern readers."
+      "text": "And because the midwives feared God, he gave them families of their own.",
+      "links": "<a href='/AIV/19/128/3'>Ps. 128:3</a>",
+      "comment": "The reverence for God leads to blessing and fruitfulness (cf. Ps 128:3). God honors those whose actions are rooted in faith and obedience."
     },
     {
-      "pk": 2010022,
+      "pk": 2001022,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 1,
       "verse": 22,
-      "text": "Then Pharaoh commanded all his people, saying, “Every son who is born to the Hebrews you shall throw into the Nile, but every daughter you shall let live.”",
-      "links": "<a href='/AIV/7/6/21'>Judg. 6:21</a>; <a href='/AIV/2/2/3'>Ex. 2:3</a>",
-      "comment": "‘Throw into the Nile’ is literal; keeps horrific force of decree."
+      "text": "Then Pharaoh commanded all his people, 'Every son that is born to the Hebrews you shall throw into the Nile, but you shall let every daughter live.'",
+      "links": "<a href='/AIV/44/7/19'>Acts 7:19</a>; <a href='/AIV/2/2/3'>Exod. 2:3</a>",
+      "comment": "The climax of Pharaoh’s cruelty sets the stage for the miraculous deliverance of Moses, who will prefigure the ultimate redeemer. Water, a symbol of death here, later becomes the means of salvation in Israel’s escape and, later, in the sacrament of initiation under the new covenant (cf. 1 Pet 3:20-21)."
     }
   ],
-  "translatedAt": "2025-12-20T08:33:02.807Z"
+  "translatedAt": "2025-12-24T00:47:12.245Z"
 }

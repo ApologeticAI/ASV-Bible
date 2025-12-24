@@ -1,178 +1,213 @@
 {
-  "book": "Leviticus",
+  "book": 3,
+  "bookName": "Leviticus",
   "bookAbbreviation": "Lev",
   "chapter": 1,
   "verses": [
     {
-      "pk": 2401001,
+      "pk": 3001001,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 1,
       "verse": 1,
-      "text": "The LORD called to Moses and spoke to him from the tent of meeting, saying:",
-      "links": "<a href='/AIV/2/33/7'>Ex. 33:7</a>; <a href='/AIV/4/7/89'>Num. 7:89</a>",
-      "comment": "God initiates the laws from the tabernacle; 'tent of meeting' is a standard rendering."
+      "text": "The LORD called to Moses and spoke to him from the Tent of Meeting, saying,",
+      "links": "<a href='/AIV/2/25/22'>Ex. 25:22</a>",
+      "comment": "God speaks from within the Tent of Meeting, showing His intention to draw near to His people through established means. This sets the tone for the sacrificial system as a divinely appointed channel for worship and reconciliation."
     },
     {
-      "pk": 2401002,
+      "pk": 3001002,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 1,
       "verse": 2,
-      "text": "Speak to the people of Israel and say to them, 'When any one of you brings an offering to the LORD, you shall bring your offering of livestock, either from the herd or from the flock.'",
-      "links": "<a href='/AIV/2/25/2'>Ex. 25:2</a>; <a href='/AIV/3/22/18'>Lev. 22:18</a>",
-      "comment": "Clarifies 'when any man of you' as 'any one of you' to reflect the original audience inclusively, consistent with the Hebrew."
+      "text": "\"Speak to the sons of Israel and say to them: When any one of you brings an offering to the LORD, you shall bring your offering of livestock from the herd or from the flock.",
+      "links": "<a href='/AIV/1/4/4'>Gen. 4:4</a>; <a href='/AIV/3/22/19'>Lev. 22:19</a>",
+      "comment": "The Hebrew for 'offering' (korban) suggests bringing near; animal sacrifice is understood as both gift and drawing close. The use of livestock recalls ancient patterns of worship and points forward to the sacrificial Lamb (John 1:29)."
     },
     {
-      "pk": 2401003,
+      "pk": 3001003,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 1,
       "verse": 3,
-      "text": "If his offering is a burnt offering from the herd, he shall offer a male without blemish. He shall offer it at the entrance of the tent of meeting, so that he may be accepted before the LORD.",
-      "links": "<a href='/AIV/3/22/19-20'>Lev. 22:19–20</a>; <a href='/AIV/1/8/20'>Gen. 8:20</a>",
-      "comment": "'Burnt offering' translates 'olah'; 'male without blemish' preserves the sacrificial requirement."
+      "text": "If his offering is a burnt offering from the herd, he shall offer a male without defect; he shall bring it to the entrance of the Tent of Meeting, that he may be accepted before the LORD.",
+      "links": "<a href='/AIV/3/22/20'>Lev. 22:20</a>; <a href='/AIV/1/8/20-21'>Gen. 8:20-21</a>",
+      "comment": "A perfect male is required, foreshadowing the ultimate spotless sacrifice (Heb. 9:14). Bringing the animal to the entrance shows public worship and priestly mediation, emphasizing a structured pattern of approach to God."
     },
     {
-      "pk": 2401004,
+      "pk": 3001004,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 1,
       "verse": 4,
       "text": "He shall lay his hand on the head of the burnt offering, and it shall be accepted for him to make atonement for him.",
-      "links": "<a href='/AIV/3/4/15'>Lev. 4:15</a>; <a href='/AIV/2/29/10'>Ex. 29:10</a>",
-      "comment": "'To make atonement' is a direct rendering of the Hebrew 'lekapper'."
+      "links": "<a href='/AIV/3/4/15'>Lev. 4:15</a>; <a href='/AIV/23/53/6'>Isa. 53:6</a>",
+      "comment": "Laying on of hands communicates identification and transfer of sin, a key sacramental sign that prefigures how Christ bears the sins of many. The priest's action is vital for valid atonement, hinting at a necessary ordained mediator."
     },
     {
-      "pk": 2401005,
+      "pk": 3001005,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 1,
       "verse": 5,
-      "text": "Then he shall slaughter the bull before the LORD, and Aaron’s sons the priests shall bring the blood and throw the blood against the sides of the altar at the entrance of the tent of meeting.",
-      "links": "<a href='/AIV/3/8/15'>Lev. 8:15</a>; <a href='/AIV/3/17/6'>Lev. 17:6</a>",
-      "comment": "Kept 'slaughter' and 'throw'; some versions soften to 'kill' or 'sprinkle'."
+      "text": "Then he shall slaughter the bull before the LORD; and Aaron's sons, the priests, shall offer the blood and sprinkle the blood all around on the altar that is at the entrance of the Tent of Meeting.",
+      "links": "<a href='/AIV/3/17/11'>Lev. 17:11</a>; <a href='/AIV/58/9/22'>Heb. 9:22</a>",
+      "comment": "Only the priests, descendants of Aaron, may handle the sacrificial blood, which further establishes the need for an ordained priesthood as part of God’s plan of mediation. Blood is linked to life and atonement."
     },
     {
-      "pk": 2401006,
+      "pk": 3001006,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 1,
       "verse": 6,
       "text": "He shall flay the burnt offering and cut it into pieces.",
-      "links": "<a href='/AIV/3/7/8'>Lev. 7:8</a>; <a href='/AIV/1/22/9'>Gen. 22:9</a>",
-      "comment": "'Flay' is a direct translation of the Hebrew for 'skin'."
+      "links": "<a href='/AIV/3/8/20'>Lev. 8:20</a>",
+      "comment": "These specific priestly duties emphasize the order, reverence, and ritual detail of Old Testament worship, all reflecting divine instruction."
     },
     {
-      "pk": 2401007,
+      "pk": 3001007,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 1,
       "verse": 7,
-      "text": "Then the sons of Aaron the priest shall put fire on the altar and arrange wood on the fire.",
+      "text": "The sons of Aaron the priest shall put fire on the altar and arrange wood on the fire.",
       "links": "<a href='/AIV/3/6/12'>Lev. 6:12</a>",
-      "comment": "'Arrange wood' translates literally from the Hebrew."
+      "comment": "Even the preparing of fire and wood is not left to chance; God gives comprehensive instructions for worship, underlining its sacredness and the role of priests."
     },
     {
-      "pk": 2401008,
+      "pk": 3001008,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 1,
       "verse": 8,
-      "text": "And Aaron’s sons the priests shall arrange the pieces, the head, and the fat on the wood that is on the fire on the altar.",
-      "links": "<a href='/AIV/3/8/21'>Lev. 8:21</a>",
-      "comment": "'Arrange' echoes the Hebrew; kept 'head, and the fat' as explicit items."
+      "text": "Then Aaron’s sons, the priests, shall arrange the pieces, the head and the fat, on the wood that is on the fire on the altar.",
+      "links": "<a href='/AIV/3/9/13-14'>Lev. 9:13–14</a>",
+      "comment": "Every element of the offering has its place; the fat, considered the best part, is reserved for God, showing reverence and giving the best to Him."
     },
     {
-      "pk": 2401009,
+      "pk": 3001009,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 1,
       "verse": 9,
-      "text": "But its entrails and its legs he shall wash with water. And the priest shall offer all of it and burn it on the altar. It is a burnt offering, a food offering with a pleasing aroma to the LORD.",
-      "links": "<a href='/AIV/3/4/31'>Lev. 4:31</a>; <a href='/AIV/2/29/18'>Ex. 29:18</a>",
-      "comment": "'A food offering' is 'ishsheh' in Hebrew, lit. 'offering by fire'."
+      "text": "But its entrails and its legs he shall wash with water. And the priest shall burn all of it on the altar as a burnt offering, a food offering with a pleasing aroma to the LORD.",
+      "links": "<a href='/AIV/2/29/18'>Ex. 29:18</a>; <a href='/AIV/50/4/18'>Phil. 4:18</a>",
+      "comment": "Washing prevents impurity and points to the need for interior cleansing before God. The complete burning highlights total dedication—Christ offers Himself wholly (Eph. 5:2)."
     },
     {
-      "pk": 2401010,
+      "pk": 3001010,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 1,
       "verse": 10,
-      "text": "If his offering is a burnt offering from the flock, from the sheep or from the goats, he shall offer a male without blemish.",
+      "text": "If his offering is from the flock, from the sheep or from the goats, as a burnt offering, he shall offer a male without defect.",
       "links": "<a href='/AIV/3/22/19'>Lev. 22:19</a>",
-      "comment": "'From the sheep or from the goats' follows the Hebrew closely."
+      "comment": "Options for offerings accommodate different economic means but always require a spotless male, foreshadowing Christ as the perfect sacrificial Lamb."
     },
     {
-      "pk": 2401011,
+      "pk": 3001011,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 1,
       "verse": 11,
-      "text": "He shall slaughter it on the north side of the altar before the LORD, and Aaron’s sons the priests shall throw its blood against the sides of the altar.",
-      "links": "<a href='/AIV/3/1/5'>Lev. 1:5</a>; <a href='/AIV/3/6/25'>Lev. 6:25</a>",
-      "comment": "'North side' is a literal rendering—important for ritual precision."
+      "text": "He shall slaughter it on the north side of the altar before the LORD, and Aaron’s sons, the priests, shall sprinkle its blood around on the altar.",
+      "links": "<a href='/AIV/3/5/9'>Lev. 5:9</a>",
+      "comment": "Direction and place are important in the ritual; the priest’s role remains at the center as the one called to offer and mediate the sacrifice."
     },
     {
-      "pk": 2401012,
+      "pk": 3001012,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 1,
       "verse": 12,
-      "text": "And he shall cut it into pieces, with its head and its fat, and the priest shall arrange them on the wood that is on the fire on the altar.",
-      "links": "<a href='/AIV/3/1/8'>Lev. 1:8</a>",
-      "comment": "Closely parallels verse 8, as in the Hebrew."
+      "text": "He shall cut it into pieces, with its head and its fat, and the priest shall arrange them on the wood that is on the fire on the altar.",
+      "links": "<a href='/AIV/3/8/18-21'>Lev. 8:18-21</a>",
+      "comment": "Sacrifice is not a random act, but ordered participation in worship led by priests. It points to the structure and tradition later seen in Christian worship."
     },
     {
-      "pk": 2401013,
+      "pk": 3001013,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 1,
       "verse": 13,
-      "text": "But the entrails and the legs he shall wash with water. And the priest shall offer all of it and burn it on the altar; it is a burnt offering, a food offering with a pleasing aroma to the LORD.",
-      "links": "<a href='/AIV/3/1/9'>Lev. 1:9</a>",
-      "comment": "Repetition preserves Hebrew style; 'offer all of it' preserves the totality."
+      "text": "But the entrails and the legs he shall wash with water, and the priest shall offer all of it and burn it on the altar; it is a burnt offering, a food offering with a pleasing aroma to the LORD.",
+      "links": "<a href='/AIV/2/29/25'>Ex. 29:25</a>",
+      "comment": "Purification by water continues to foreshadow later sacraments. The whole offering points to Christ’s total self-giving and to the transformation of gifts into a spiritual offering."
     },
     {
-      "pk": 2401014,
+      "pk": 3001014,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 1,
       "verse": 14,
       "text": "If his offering to the LORD is a burnt offering of birds, then he shall bring his offering of turtledoves or young pigeons.",
-      "links": "<a href='/AIV/3/5/7'>Lev. 5:7</a>; <a href='/AIV/3/12/8'>Lev. 12:8</a>",
-      "comment": "'Turtledoves or young pigeons'—preserves the distinction of possible birds."
+      "links": "<a href='/AIV/3/5/7'>Lev. 5:7</a>; <a href='/AIV/42/2/24'>Luke 2:24</a>",
+      "comment": "Provision for the poor to offer birds shows God’s accessibility and mercy. Mary and Joseph offered such birds for Jesus, tying these rituals to Christ’s life (Luke 2:24)."
     },
     {
-      "pk": 2401015,
+      "pk": 3001015,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 1,
       "verse": 15,
-      "text": "And the priest shall bring it to the altar, and wring off its head and burn it on the altar. Its blood shall be drained out on the side of the altar.",
-      "links": "<a href='/AIV/3/5/9'>Lev. 5:9</a>",
-      "comment": "'Wring off' is literal; some translations use 'pinch off'."
+      "text": "The priest shall bring it to the altar and wring off its head and burn it on the altar, and its blood shall be drained out at the side of the altar.",
+      "links": "<a href='/AIV/2/29/16'>Ex. 29:16</a>",
+      "comment": "Even the simplest offering requires priestly mediation. Blood is always treated as sacred, reserved for the altar, and is a sign of atonement."
     },
     {
-      "pk": 2401016,
+      "pk": 3001016,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 1,
       "verse": 16,
-      "text": "He shall remove its crop with its contents and throw it beside the altar on the east side, in the place for the ashes.",
+      "text": "He shall remove its crop with its contents and throw it beside the altar on the east side, to the place for ashes.",
       "links": "<a href='/AIV/3/6/10'>Lev. 6:10</a>",
-      "comment": "'Crop with its contents' captures the Hebrew 'with its feathers.'"
+      "comment": "Details like the place for ashes show the thorough organization of worship and the deep concern for purity and order in Old Testament practice."
     },
     {
-      "pk": 2401017,
+      "pk": 3001017,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 1,
       "verse": 17,
-      "text": "He shall tear it open by its wings without dividing it completely. And the priest shall burn it on the altar, on the wood that is on the fire. It is a burnt offering, a food offering with a pleasing aroma to the LORD.",
-      "links": "<a href='/AIV/3/1/9'>Lev. 1:9</a>",
-      "comment": "'Without dividing it completely' closely matches the Hebrew; ending phrase repeated as in Hebrew."
+      "text": "Then he shall tear it open by its wings, but shall not divide it completely. The priest shall burn it on the altar, on the wood that is on the fire. It is a burnt offering, a food offering, with a pleasing aroma to the LORD.",
+      "links": "<a href='/AIV/1/8/20-21'>Gen. 8:20–21</a>; <a href='/AIV/49/5/2'>Eph. 5:2</a>",
+      "comment": "Even the small details are divinely ordained for worship. The aroma pleasing to the LORD foreshadows Christian teaching that sacrificial love, above all, is pleasing to God. The unity and order in sacrifice anticipate the order of later Christian liturgy."
     }
   ],
-  "translatedAt": "2025-12-20T09:11:01.032Z"
+  "translatedAt": "2025-12-24T01:10:09.082Z"
 }

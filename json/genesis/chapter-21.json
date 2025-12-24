@@ -1,348 +1,417 @@
 {
-  "book": "Genesis",
+  "book": 1,
+  "bookName": "Genesis",
   "bookAbbreviation": "Gen",
   "chapter": 21,
   "verses": [
     {
-      "pk": 2102101,
+      "pk": 1021001,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 21,
       "verse": 1,
-      "text": "The Lord visited Sarah as he had said, and the Lord did for Sarah as he had promised.",
-      "links": "<a href='/AIV/1/18/10'>Gen. 18:10</a>; <a href='/AIV/1/17/19'>Gen. 17:19</a>",
-      "comment": "God’s faithfulness is shown here, fulfilling the earlier promise of a son to Sarah in her old age. See also the connection to the theme of miraculous births pointing forward to future events in salvation history."
+      "text": "The LORD visited Sarah as he had said, and the LORD did to Sarah just as he had promised.",
+      "links": "<a href='/AIV/1/18/10'>Gen 18:10</a>; <a href='/AIV/58/11/11'>Heb 11:11</a>",
+      "comment": "God’s faithfulness is shown here as He accomplishes what He promised, a theme fulfilled in the New Testament when God keeps His promises in Christ (cf. Luke 1:37)."
     },
     {
-      "pk": 2102102,
+      "pk": 1021002,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 21,
       "verse": 2,
-      "text": "Sarah conceived and bore Abraham a son in his old age at the time God had set, just as he had spoken.",
-      "links": "<a href='/AIV/1/17/21'>Gen. 17:21</a>; <a href='/AIV/1/18/10-14'>Gen. 18:10–14</a>",
-      "comment": "The specific timing reinforces that God’s plan unfolds according to His will. Compare to <a href='/AIV/42/1/57'>Luke 1:57</a>, where Elizabeth also conceives in old age."
+      "text": "Sarah conceived and bore Abraham a son in his old age, at the time God had spoken to him.",
+      "links": "<a href='/AIV/1/17/21'>Gen 17:21</a>; <a href='/AIV/45/4/19'>Rom 4:19</a>",
+      "comment": "The miraculous birth echoes later miraculous births in salvation history, culminating in Jesus’ own virgin birth (see Isaiah 7:14; Luke 1:34-35)."
     },
     {
-      "pk": 2102103,
+      "pk": 1021003,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 21,
       "verse": 3,
-      "text": "Abraham called the name of his son who was born to him, whom Sarah bore him, Isaac.",
-      "links": "<a href='/AIV/1/17/19'>Gen. 17:19</a>; <a href='/AIV/1/21/6'>Gen. 21:6</a>",
-      "comment": "Isaac means 'he laughs,' reflecting both Abraham and Sarah’s laughter at God’s surprise. See <a href='/AIV/1/17/17'>Gen. 17:17</a>, <a href='/AIV/1/18/12'>18:12</a>."
+      "text": "Abraham called the name of his son who was born to him, whom Sarah bore to him, Isaac.",
+      "links": "<a href='/AIV/1/17/19'>Gen 17:19</a>; <a href='/AIV/1/18/14'>Gen 18:14</a>",
+      "comment": "‘Isaac’ means ‘he laughs,’ pointing to the joy and fulfillment of God’s promise despite initial disbelief (see Genesis 18:12)."
     },
     {
-      "pk": 2102104,
+      "pk": 1021004,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 21,
       "verse": 4,
-      "text": "Abraham circumcised his son Isaac when he was eight days old, just as God had commanded him.",
-      "links": "<a href='/AIV/1/17/12'>Gen. 17:12</a>; <a href='/AIV/3/12/3'>Lev. 12:3</a>",
-      "comment": "The act of circumcision marks Isaac’s entry into the covenant, showing obedience to God’s command—prefiguring later signs of covenantal belonging."
+      "text": "Abraham circumcised his son Isaac when he was eight days old, as God had commanded him.",
+      "links": "<a href='/AIV/1/17/12'>Gen 17:12</a>; <a href='/AIV/45/4/11'>Rom 4:11</a>",
+      "comment": "Circumcision as a physical sign of covenant marks Isaac’s belonging, prefiguring the New Covenant’s spiritual sign (see Colossians 2:11-12; Luke 2:21)."
     },
     {
-      "pk": 2102105,
+      "pk": 1021005,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 21,
       "verse": 5,
       "text": "Abraham was one hundred years old when his son Isaac was born to him.",
-      "links": "<a href='/AIV/1/17/17'>Gen. 17:17</a>; <a href='/AIV/1/17/24'>Gen. 17:24</a>",
-      "comment": "This detail underscores the miraculous nature of Isaac’s birth, reinforcing God's power to fulfill His promises against all human expectation."
+      "links": "<a href='/AIV/1/17/17'>Gen 17:17</a>; <a href='/AIV/45/4/19'>Rom 4:19</a>",
+      "comment": "This highlights the supernatural element of Isaac’s birth, a recurring theme when God intervenes in human history in unexpected ways."
     },
     {
-      "pk": 2102106,
+      "pk": 1021006,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 21,
       "verse": 6,
-      "text": "Sarah said, 'God has brought me laughter, and everyone who hears will laugh over me.'",
-      "links": "<a href='/AIV/1/18/12-15'>Gen. 18:12–15</a>; <a href='/AIV/42/1/58'>Luke 1:58</a>",
-      "comment": "Sarah’s joy is a testimony to God's faithfulness—paralleling the later joy announced at other miraculous births in Scripture."
+      "text": "And Sarah said, 'God has made laughter for me; everyone who hears will laugh with me.'",
+      "links": "<a href='/AIV/1/18/12'>Gen 18:12</a>; <a href='/AIV/19/126/2'>Ps. 126:2</a>",
+      "comment": "Sarah recognizes her joy originates from God’s grace, teaching us gratitude and awe before divine generosity."
     },
     {
-      "pk": 2102107,
+      "pk": 1021007,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 21,
       "verse": 7,
-      "text": "She also said, 'Who would have said to Abraham that Sarah would nurse children? Yet I have borne him a son in his old age.'",
-      "links": "<a href='/AIV/1/18/11'>Gen. 18:11</a>; <a href='/AIV/42/1/36'>Luke 1:36</a>",
-      "comment": "Sarah’s wonder affirms that with God nothing is impossible—an idea echoed in later scripture (<a href='/AIV/42/1/37'>Luke 1:37</a>)."
+      "text": "She said, 'Who would have told Abraham that Sarah would nurse children? Yet I have borne him a son in his old age.'",
+      "links": "<a href='/AIV/1/18/11'>Gen 18:11</a>; <a href='/AIV/42/1/36-37'>Luke 1:36-37</a>",
+      "comment": "This verse emphasizes that with God, nothing is impossible—anticipating Christ’s ministry of miraculous power."
     },
     {
-      "pk": 2102108,
+      "pk": 1021008,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 21,
       "verse": 8,
-      "text": "The child grew and was weaned, and Abraham made a great feast on the day that Isaac was weaned.",
-      "links": "<a href='/AIV/1/30/23'>Gen. 30:23</a>; <a href='/AIV/1/40/20'>Gen. 40:20</a>",
-      "comment": "The weaning is a celebration of life and future, showing thanksgiving for God’s gift. Such feasts foreshadow themes of celebration in God’s family."
+      "text": "The child grew and was weaned, and Abraham made a great feast on the day Isaac was weaned.",
+      "links": "<a href='/AIV/1/1/28'>Gen 1:28</a>; <a href='/AIV/19/127/3'>Ps. 127:3</a>",
+      "comment": "The feast celebrates God’s gift of new life; throughout Scripture, feasts honor divine mercy and covenant milestones."
     },
     {
-      "pk": 2102109,
+      "pk": 1021009,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 21,
       "verse": 9,
       "text": "But Sarah saw the son of Hagar the Egyptian, whom she had borne to Abraham, mocking.",
-      "links": "<a href='/AIV/1/16/15'>Gen. 16:15</a>; <a href='/AIV/48/4/29'>Galatians 4:29</a>",
-      "comment": "Ishmael’s behavior here later becomes a spiritual symbol, as Paul draws a comparison between bondage and promise (<a href='/AIV/48/4/29'>Gal. 4:29</a>)."
+      "links": "<a href='/AIV/1/16/1'>Gen 16:1</a>; <a href='/AIV/48/4/29'>Gal 4:29</a>",
+      "comment": "Ishmael’s mocking foreshadows division contrasted later by unity in the people of God brought through Christ (Eph 2:13-16)."
     },
     {
-      "pk": 2102110,
+      "pk": 1021010,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 21,
       "verse": 10,
-      "text": "So she said to Abraham, 'Drive out this slave woman with her son, for the son of this slave woman shall not share the inheritance with my son Isaac.'",
-      "links": "<a href='/AIV/1/25/5'>Gen. 25:5</a>; <a href='/AIV/48/4/30'>Galatians 4:30</a>",
-      "comment": "Sarah’s insistence on Isaac's priority prefigures the distinction between what is born according to the flesh and what is born by promise, as elaborated by Paul."
+      "text": "So she said to Abraham, 'Cast out this slave woman with her son; for the son of this slave woman shall not be heir with my son Isaac.'",
+      "links": "<a href='/AIV/1/16/5-6'>Gen 16:5-6</a>; <a href='/AIV/48/4/30'>Gal 4:30</a>",
+      "comment": "Sarah’s concern for Isaac’s inheritance sets the stage for later teachings about spiritual sonship and the fulfillment of covenant in Christ."
     },
     {
-      "pk": 2102111,
+      "pk": 1021011,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 21,
       "verse": 11,
       "text": "The matter was very distressing to Abraham because of his son.",
-      "links": "<a href='/AIV/1/17/18'>Gen. 17:18</a>",
-      "comment": "Abraham’s sorrow shows his real human feelings and the personal cost of following God’s plan."
+      "links": "<a href='/AIV/1/17/18'>Gen 17:18</a>; <a href='/AIV/19/34/18'>Ps 34:18</a>",
+      "comment": "Abraham’s grief highlights the tensions between justice and mercy, a theme developed further in God’s redemptive plan."
     },
     {
-      "pk": 2102112,
+      "pk": 1021012,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 21,
       "verse": 12,
-      "text": "But God said to Abraham, 'Do not be distressed because of the boy and because of your slave woman. Listen to whatever Sarah tells you, because it is through Isaac that your offspring shall be called.'",
-      "links": "<a href='/AIV/1/17/19'>Gen. 17:19</a>; <a href='/AIV/58/11/18'>Hebrews 11:18</a>; <a href='/AIV/45/9/7'>Romans 9:7</a>",
-      "comment": "This verse highlights God’s sovereign election. The chosen line comes through Isaac, which points to God's mysterious way of choosing even in salvation history."
+      "text": "But God said to Abraham, 'Do not be distressed about the boy and your slave woman. Listen to Sarah, because through Isaac your offspring shall be named.'",
+      "links": "<a href='/AIV/1/17/19'>Gen 17:19</a>; <a href='/AIV/45/9/7'>Rom 9:7</a>",
+      "comment": "God’s sovereign choice is underlined, prefiguring His choosing to work through a particular people for salvation."
     },
     {
-      "pk": 2102113,
+      "pk": 1021013,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 21,
       "verse": 13,
-      "text": "But I will also make the son of the slave woman into a nation, because he is your offspring.",
-      "links": "<a href='/AIV/1/16/10'>Gen. 16:10</a>; <a href='/AIV/1/21/18'>Gen. 21:18</a>",
-      "comment": "Despite the chosen status of Isaac, God remains merciful to Ishmael, showing that His mercy extends outward, hinting towards a future blessing for the nations."
+      "text": "'And I will also make a nation of the son of the slave woman, because he is your offspring.'",
+      "links": "<a href='/AIV/1/17/20'>Gen 17:20</a>; <a href='/AIV/1/25/12-18'>Gen 25:12-18</a>",
+      "comment": "God’s compassion extends to Ishmael, revealing a universal scope to His providence, as seen when salvation is offered to all nations."
     },
     {
-      "pk": 2102114,
+      "pk": 1021014,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 21,
       "verse": 14,
-      "text": "So Abraham rose early in the morning, took bread and a container of water, and gave them to Hagar, putting them on her shoulder, along with the boy, and sent her away. She departed and wandered in the wilderness of Beersheba.",
-      "links": "<a href='/AIV/1/16/14'>Gen. 16:14</a>",
-      "comment": "Abraham’s obedience showcases his trust in God. Beersheba becomes a significant location for future covenants."
+      "text": "So Abraham rose early in the morning, took bread and a skin of water, and gave them to Hagar, putting them on her shoulder, and sent her away with the boy. She departed and wandered in the wilderness of Beersheba.",
+      "links": "<a href='/AIV/1/16/14'>Gen 16:14</a>; <a href='/AIV/19/107/4'>Ps 107:4</a>",
+      "comment": "Despite the sorrow, Abraham obeys God, showing submission to divine will even in personal suffering—a virtue modeled by saints throughout salvation history."
     },
     {
-      "pk": 2102115,
+      "pk": 1021015,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 21,
       "verse": 15,
-      "text": "When the water in the skin was gone, she placed the child under one of the bushes.",
-      "links": "<a href='/AIV/1/21/19'>Gen. 21:19</a>",
-      "comment": "The desperation of Hagar underscores her vulnerability, inviting the reader to consider God’s care for those in distress."
+      "text": "When the water in the skin was gone, she put the boy under one of the bushes.",
+      "links": "<a href='/AIV/1/16/6'>Gen 16:6</a>; <a href='/AIV/1/37/24'>Gen 37:24</a>",
+      "comment": "The image of being in the wilderness and near death echoes later deliverance stories and points forward to God’s saving intervention."
     },
     {
-      "pk": 2102116,
+      "pk": 1021016,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 21,
       "verse": 16,
-      "text": "Then she went and sat down opposite him, a good distance away, about a bowshot, for she said, 'Let me not look upon the death of the child.' And as she sat opposite, she lifted up her voice and wept.",
-      "links": "<a href='/AIV/1/27/38'>Gen. 27:38</a>",
-      "comment": "Hagar’s anguish and prayer echo other moments in Scripture where desperate cries are met by divine response."
+      "text": "She went and sat down opposite him, a good way off, about a bowshot away, for she said, 'Let me not look upon the death of the boy.' She sat opposite him and lifted up her voice and wept.",
+      "links": "<a href='/AIV/1/16/7-8'>Gen 16:7-8</a>; <a href='/AIV/19/61/2'>Ps 61:2</a>",
+      "comment": "Hagar’s cry to God prefigures the cries for deliverance heard throughout Scripture and answered in Christ."
     },
     {
-      "pk": 2102117,
+      "pk": 1021017,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 21,
       "verse": 17,
-      "text": "God heard the voice of the boy, and the angel of God called to Hagar from heaven and said to her, 'What is troubling you, Hagar? Do not be afraid; God has heard the voice of the boy where he is.'",
-      "links": "<a href='/AIV/1/16/7'>Gen. 16:7</a>; <a href='/AIV/1/16/11'>Gen. 16:11</a>",
-      "comment": "A divine messenger intervenes, as earlier in Hagar’s life. God’s providence for the marginalized is a recurring theme."
+      "text": "And God heard the voice of the boy, and the angel of God called to Hagar from heaven and said to her, 'What troubles you, Hagar? Do not fear, for God has heard the voice of the boy where he is.'",
+      "links": "<a href='/AIV/1/16/9-11'>Gen 16:9-11</a>; <a href='/AIV/19/34/4'>Ps 34:4</a>",
+      "comment": "God’s compassion in hearing Ishmael prefigures the effectual prayers of the righteous seen throughout Scripture (James 5:16)."
     },
     {
-      "pk": 2102118,
+      "pk": 1021018,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 21,
       "verse": 18,
-      "text": "Get up, lift up the boy and hold him with your hand, for I will make him a great nation.",
-      "links": "<a href='/AIV/1/16/10'>Gen. 16:10</a>",
-      "comment": "The Lord reiterates His promise, showing that human despair does not thwart God’s plans. Physical and spiritual rescue are unified in God’s action."
+      "text": "'Arise, lift up the boy, and hold him fast with your hand, for I will make him into a great nation.'",
+      "links": "<a href='/AIV/1/17/20'>Gen 17:20</a>; <a href='/AIV/1/25/12-18'>Gen 25:12-18</a>",
+      "comment": "God’s providence and continued blessing toward Ishmael reflects His universal care yet particular covenant blessings through Isaac."
     },
     {
-      "pk": 2102119,
+      "pk": 1021019,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 21,
       "verse": 19,
-      "text": "Then God opened her eyes, and she saw a well of water. She went and filled the container with water, and gave the boy a drink.",
-      "links": "<a href='/AIV/1/16/14'>Gen. 16:14</a>; <a href='/AIV/2/15/25'>Exodus 15:25</a>",
-      "comment": "The opening of Hagar’s eyes to water prefigures God’s gracious provision; later biblical themes show water as a symbol of God’s life-giving grace."
+      "text": "Then God opened her eyes, and she saw a well of water. She went, filled the skin with water, and gave the boy a drink.",
+      "links": "<a href='/AIV/1/16/13-14'>Gen 16:13-14</a>; <a href='/AIV/19/107/9'>Ps 107:9</a>",
+      "comment": "Water as a symbol of life points forward to the living water Christ offers (John 4:14), showing God as the provider."
     },
     {
-      "pk": 2102120,
+      "pk": 1021020,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 21,
       "verse": 20,
-      "text": "God was with the boy, and he grew. He lived in the wilderness and became an archer.",
-      "links": "<a href='/AIV/1/16/12'>Gen. 16:12</a>; <a href='/AIV/1/25/27'>Gen. 25:27</a>",
-      "comment": "Despite being excluded from the covenant family, Ishmael thrives under God's providential care."
+      "text": "God was with the boy, and he grew; he lived in the wilderness and became an expert with the bow.",
+      "links": "<a href='/AIV/1/16/12'>Gen 16:12</a>; <a href='/AIV/1/25/27'>Gen 25:27</a>",
+      "comment": "God’s guidance and presence is a theme developed in Christ’s promise to be with His people always (Matt 28:20)."
     },
     {
-      "pk": 2102121,
+      "pk": 1021021,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 21,
       "verse": 21,
       "text": "He lived in the wilderness of Paran, and his mother took a wife for him from the land of Egypt.",
-      "links": "<a href='/AIV/1/24/4'>Gen. 24:4</a>; <a href='/AIV/1/25/12'>Gen. 25:12'>Gen. 25:12</a>",
-      "comment": "Hagar’s choice of an Egyptian wife for Ishmael indicates the enduring link to Egypt and contrasts with the spiritual significance placed on Isaac’s lineage."
+      "links": "<a href='/AIV/1/25/12'>Gen 25:12</a>; <a href='/AIV/1/16/1'>Gen 16:1</a>",
+      "comment": "This verse shows the continuing spread of Abraham’s legacy and the importance of familial ties shaping nations."
     },
     {
-      "pk": 2102122,
+      "pk": 1021022,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 21,
       "verse": 22,
-      "text": "At that time Abimelech and Phicol, the commander of his army, spoke to Abraham, saying, 'God is with you in all that you do.'",
-      "links": "<a href='/AIV/1/20/2'>Gen. 20:2</a>; <a href='/AIV/1/26/26-28'>Gen. 26:26–28</a>",
-      "comment": "The acknowledgment by foreign leaders of God's presence with Abraham foreshadows recognition of God’s blessed people in the future."
+      "text": "At that time Abimelech and Phicol, the commander of his army, said to Abraham, 'God is with you in all that you do.'",
+      "links": "<a href='/AIV/1/20/2'>Gen 20:2</a>; <a href='/AIV/19/46/7'>Ps 46:7</a>",
+      "comment": "Abimelech’s recognition of God’s presence reflects the witness of the chosen people to surrounding nations, anticipating universal blessing."
     },
     {
-      "pk": 2102123,
+      "pk": 1021023,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 21,
       "verse": 23,
-      "text": "Now therefore, swear to me here by God that you will not deal falsely with me, or with my descendants or my posterity, but as I have dealt kindly with you, so you will deal with me and with the land where you have lived as a foreigner.",
-      "links": "<a href='/AIV/1/20/14'>Gen. 20:14</a>",
-      "comment": "The request for an oath elevates the importance of faithfulness and peace between peoples, which is a recurring biblical theme."
+      "text": "'Now therefore swear to me here by God that you will not deal falsely with me or with my descendants or with my posterity, but as I have dealt kindly with you, so you will deal with me and with the land where you have stayed.'",
+      "links": "<a href='/AIV/1/20/14-15'>Gen 20:14-15</a>; <a href='/AIV/19/15/4'>Ps 15:4</a>",
+      "comment": "Oaths and covenants reflect the binding seriousness of promises made before God, foreshadowing future biblical covenants."
     },
     {
-      "pk": 2102124,
+      "pk": 1021024,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 21,
       "verse": 24,
-      "text": "And Abraham said, 'I will swear.'",
-      "links": "",
-      "comment": "Abraham’s readiness to swear affirms the value of oaths and trust in God’s name."
+      "text": "And Abraham said, 'I swear.'",
+      "links": "<a href='/AIV/1/21/31'>Gen 21:31</a>; <a href='/AIV/19/105/9'>Ps 105:9</a>",
+      "comment": "Abraham’s affirmation of the oath reflects faithfulness and integrity, virtues central in Christian moral teaching."
     },
     {
-      "pk": 2102125,
+      "pk": 1021025,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 21,
       "verse": 25,
-      "text": "But Abraham reproved Abimelech because of a well of water that Abimelech's servants had seized.",
-      "links": "<a href='/AIV/1/26/15'>Gen. 26:15</a>",
-      "comment": "Disputes over wells were matters of survival and stewardship – later biblical leaders will also defend and restore what is rightfully theirs."
+      "text": "Abraham complained to Abimelech about a well of water that Abimelech’s servants had seized.",
+      "links": "<a href='/AIV/1/26/20'>Gen 26:20</a>; <a href='/AIV/19/120/5-7'>Ps 120:5-7</a>",
+      "comment": "Disputes over water highlight the necessity and value of peace and justice in community life, echoing later teachings."
     },
     {
-      "pk": 2102126,
+      "pk": 1021026,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 21,
       "verse": 26,
-      "text": "Abimelech said, 'I do not know who has done this thing. You did not tell me, and I have not heard about it until today.'",
-      "links": "",
-      "comment": "Abimelech presents himself as innocent, establishing the grounds for reconciliation."
+      "text": "Abimelech said, 'I do not know who has done this thing; you did not tell me, and I have not heard of it until today.'",
+      "links": "<a href='/AIV/1/20/9-10'>Gen 20:9-10</a>",
+      "comment": "Peaceful resolution of conflict is modeled here, prefiguring Christ’s teachings on reconciliation (Matt 5:9)."
     },
     {
-      "pk": 2102127,
+      "pk": 1021027,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 21,
       "verse": 27,
       "text": "So Abraham took sheep and oxen and gave them to Abimelech, and the two men made a covenant.",
-      "links": "<a href='/AIV/1/15/9-10'>Gen. 15:9–10</a>; <a href='/AIV/1/26/31'>Gen. 26:31</a>",
-      "comment": "Covenants sealed with gifts anticipate later sacramental covenants that define God's relationship with His people."
+      "links": "<a href='/AIV/1/15/9-10'>Gen 15:9-10</a>; <a href='/AIV/1/26/28-29'>Gen 26:28-29</a>",
+      "comment": "Sacrificial gifts as part of covenant-making reflect liturgical practices developed throughout salvation history, showing the centrality of offering in worship."
     },
     {
-      "pk": 2102128,
+      "pk": 1021028,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 21,
       "verse": 28,
-      "text": "Abraham set seven ewe lambs of the flock by themselves.",
-      "links": "",
-      "comment": "The setting apart of seven lambs underlines the solemnity and completeness of the agreement."
+      "text": "Abraham set apart seven ewe lambs of the flock.",
+      "links": "<a href='/AIV/1/21/30'>Gen 21:30</a>; <a href='/AIV/1/4/4'>Gen 4:4</a>",
+      "comment": "The symbol of ‘seven’ often represents completeness, and offering lambs foreshadows the sacrificial system fulfilled in Christ, the Lamb of God (John 1:29)."
     },
     {
-      "pk": 2102129,
+      "pk": 1021029,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 21,
       "verse": 29,
       "text": "Abimelech said to Abraham, 'What is the meaning of these seven ewe lambs that you have set apart?'",
-      "links": "",
-      "comment": "The question seeks clarification, emphasizing the importance of ritual actions in sealing agreements."
+      "links": "<a href='/AIV/1/21/30'>Gen 21:30</a>",
+      "comment": "Intentional acts in covenant rituals signify a deeper spiritual reality, often reflected in worship traditions."
     },
     {
-      "pk": 2102130,
+      "pk": 1021030,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 21,
       "verse": 30,
-      "text": "He replied, 'You are to accept these seven ewe lambs from my hand as a witness that I dug this well.'",
-      "links": "",
-      "comment": "The lambs become a testimony and memorial—physical signs of an oath, similar to outward signs accompanying deeper meanings in Scripture."
+      "text": "He said, 'These seven ewe lambs you will take from my hand, that this may be a witness for me that I dug this well.'",
+      "links": "<a href='/AIV/1/21/31'>Gen 21:31</a>; <a href='/AIV/1/26/32-33'>Gen 26:32-33</a>",
+      "comment": "Testimony and remembrance through ritual objects is a pattern recurring in Scripture, and in the life of the Church’s worship."
     },
     {
-      "pk": 2102131,
+      "pk": 1021031,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 21,
       "verse": 31,
       "text": "Therefore that place was called Beersheba, because there both of them swore an oath.",
-      "links": "<a href='/AIV/1/26/33'>Gen. 26:33</a>",
-      "comment": "'Beersheba' means 'well of the oath' or 'well of seven,' referencing both the oath and the seven lambs, recalling how place names in Scripture often have spiritual significance."
+      "links": "<a href='/AIV/1/26/33'>Gen 26:33</a>; <a href='/AIV/1/22/19'>Gen 22:19</a>",
+      "comment": "Naming places after significant spiritual events invites future generations to remember God’s acts, a tradition that calls believers to honor sacred history."
     },
     {
-      "pk": 2102132,
+      "pk": 1021032,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 21,
       "verse": 32,
-      "text": "So they made a covenant at Beersheba. Then Abimelech and Phicol, the commander of his army, returned to the land of the Philistines.",
-      "links": "<a href='/AIV/1/26/26-31'>Gen. 26:26–31</a>",
-      "comment": "The peace is restored through a covenant, a pattern that continues throughout the Old Testament and finds fulfillment in God’s definitive covenant with all humanity."
+      "text": "So they made a covenant at Beersheba. Then Abimelech and Phicol, the commander of his army, arose and returned to the land of the Philistines.",
+      "links": "<a href='/AIV/1/26/28-33'>Gen 26:28-33</a>",
+      "comment": "Making covenants safeguards peace and exemplifies faithfulness in relationships, a virtue repeated in Christian tradition."
     },
     {
-      "pk": 2102133,
+      "pk": 1021033,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 21,
       "verse": 33,
-      "text": "Abraham planted a tamarisk tree in Beersheba and called there on the name of the Lord, the Everlasting God.",
-      "links": "<a href='/AIV/1/4/26'>Gen. 4:26</a>; <a href='/AIV/1/26/25'>Gen. 26:25</a>; <a href='/AIV/23/40/28'>Isaiah 40:28</a>",
-      "comment": "Planting the tree is an act of worship and commemoration. Calling on 'the Everlasting God' emphasizes God’s unchanging nature—a theme that finds its ultimate expression in the final revelation of God."
+      "text": "Abraham planted a tamarisk tree in Beersheba and called there on the name of the LORD, the Everlasting God.",
+      "links": "<a href='/AIV/1/13/4'>Gen 13:4</a>; <a href='/AIV/19/90/2'>Ps 90:2</a>",
+      "comment": "Planting a tree is an act of remembrance and worship, while calling on the eternal Lord points to the unchanging nature of God, foundational for the Christian understanding of God’s identity."
     },
     {
-      "pk": 2102134,
+      "pk": 1021034,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 21,
       "verse": 34,
-      "text": "And Abraham lived as a sojourner in the land of the Philistines for many days.",
-      "links": "<a href='/AIV/1/26/1'>Gen. 26:1</a>",
-      "comment": "The theme of sojourning reminds the reader that the faithful are often 'strangers and pilgrims,' ultimately seeking a better homeland—see <a href='/AIV/58/11/13'>Hebrews 11:13–16</a>."
+      "text": "Abraham lived many days as a sojourner in the land of the Philistines.",
+      "links": "<a href='/AIV/1/23/4'>Gen 23:4</a>; <a href='/AIV/58/11/9'>Heb 11:9</a>",
+      "comment": "Abraham’s journey underscores the pilgrim nature of God’s people, living as strangers yet trusting in the inheritance promised—an important theme for understanding salvation history and the communal journey toward God."
     }
   ],
-  "translatedAt": "2025-12-23T08:44:11.733Z"
+  "translatedAt": "2025-12-24T00:21:14.572Z"
 }

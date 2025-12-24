@@ -1,228 +1,273 @@
 {
-  "book": "Deuteronomy",
+  "book": 5,
+  "bookName": "Deuteronomy",
   "bookAbbreviation": "Deut",
   "chapter": 16,
   "verses": [
     {
-      "pk": 3016001,
+      "pk": 5016001,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 16,
       "verse": 1,
-      "text": "Observe the month of Abib, and keep the Passover to the LORD your God. For in the month of Abib, the LORD your God brought you out of Egypt by night.",
-      "links": "<a href='/AIV/2/12/2'>Ex. 12:2</a>; <a href='/AIV/2/12/29-30'>Ex. 12:29–30</a>",
-      "comment": "‘Abib’ refers to the first month of the Hebrew calendar (March/April)."
+      "text": "Keep the month of Abib, and observe the Passover to the LORD your God; for in the month of Abib the LORD your God brought you out of Egypt by night.",
+      "links": "<a href='/AIV/2/12/2-14'>Ex. 12:2-14</a>; <a href='/AIV/3/23/5'>Lev. 23:5</a>",
+      "comment": "The month of Abib corresponds to spring, when Passover is celebrated. Passover prefigures Christ as the true Lamb who brings salvation (see 1 Cor. 5:7)."
     },
     {
-      "pk": 3016002,
+      "pk": 5016002,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 16,
       "verse": 2,
-      "text": "You shall offer the Passover sacrifice to the LORD your God, from the flock and the herd, at the place that the LORD will choose as a dwelling for His name.",
-      "links": "<a href='/AIV/2/12/3-6'>Ex. 12:3–6</a>; <a href='/AIV/5/12/5'>Deut. 12:5</a>",
-      "comment": "‘Place that the LORD will choose’ refers to the future temple location in Jerusalem."
+      "text": "And you shall offer the Passover sacrifice to the LORD your God, from the flock and the herd, at the place which the LORD will choose to make His name dwell.",
+      "links": "<a href='/AIV/2/12/6'>Ex. 12:6</a>; <a href='/AIV/5/12/5'>Deut. 12:5</a>",
+      "comment": "The centralization of worship at one place points towards later ideas of a universal worship centered around God's presence."
     },
     {
-      "pk": 3016003,
+      "pk": 5016003,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 16,
       "verse": 3,
-      "text": "You shall not eat it with leavened bread. For seven days you shall eat unleavened bread with it, the bread of affliction—because you came out of the land of Egypt in haste—so that you may remember the day when you came out of Egypt all the days of your life.",
-      "links": "<a href='/AIV/2/12/8'>Ex. 12:8</a>; <a href='/AIV/2/12/17'>Ex. 12:17</a>",
-      "comment": "‘Bread of affliction’ indicates the hardship of Israel’s flight from Egypt."
+      "text": "Do not eat with it any leavened bread. For seven days you shall eat unleavened bread with it, the bread of affliction—for you came out of the land of Egypt in haste—so that you may remember the day when you came out of the land of Egypt all the days of your life.",
+      "links": "<a href='/AIV/2/12/8-20'>Ex. 12:8-20</a>; <a href='/AIV/3/23/6'>Lev. 23:6</a>",
+      "comment": "Unleavened bread symbolizes purity and separation from sin, echoing how Christ, without sin, is our true bread (see John 6:51). The memorial aspect anticipates later forms of worship remembering redemptive acts."
     },
     {
-      "pk": 3016004,
+      "pk": 5016004,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 16,
       "verse": 4,
-      "text": "No leaven shall be seen with you in all your territory for seven days; and none of the meat that you sacrifice on the evening of the first day shall remain until morning.",
-      "links": "<a href='/AIV/2/12/19'>Ex. 12:19</a>; <a href='/AIV/2/12/10'>Ex. 12:10</a>",
-      "comment": "Requirement for complete removal of leaven and consumption of sacrificial meat."
+      "text": "No leaven shall be seen with you in all your territory for seven days; nor shall any of the flesh that you offer in the evening of the first day remain overnight until morning.",
+      "links": "<a href='/AIV/2/12/10'>Ex. 12:10</a>",
+      "comment": "The complete removal of leavened bread highlights the seriousness of removal of sin. The requirement of not keeping leftovers emphasizes the sacredness and finality of the offering."
     },
     {
-      "pk": 3016005,
+      "pk": 5016005,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 16,
       "verse": 5,
-      "text": "You are not allowed to offer the Passover sacrifice within any of your towns that the LORD your God gives you.",
-      "links": "<a href='/AIV/5/12/13-14'>Deut. 12:13–14</a>",
-      "comment": "Sacrifice can only be made at the chosen central sanctuary."
+      "text": "You may not sacrifice the Passover within any of your towns that the LORD your God is giving you.",
+      "links": "<a href='/AIV/5/12/13-14'>Deut. 12:13-14</a>",
+      "comment": "Sacrifice is to be made only in the place God chooses, prefiguring the unity of worship and authority in the worshiping community."
     },
     {
-      "pk": 3016006,
+      "pk": 5016006,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 16,
       "verse": 6,
-      "text": "But at the place that the LORD your God will choose as a dwelling for His name, there you shall offer the Passover sacrifice in the evening, at sunset, at the time when you came out of Egypt.",
-      "links": "<a href='/AIV/2/12/6'>Ex. 12:6</a>; <a href='/AIV/5/16/2'>v.2</a>",
-      "comment": "Time of sacrifice specified as sunset, paralleling the Exodus timing."
+      "text": "But at the place that the LORD your God will choose to make His name dwell, there you shall offer the Passover sacrifice in the evening at the setting of the sun, at the time you came out of Egypt.",
+      "links": "<a href='/AIV/2/12/42'>Ex. 12:42</a>",
+      "comment": "This foreshadows the gathering of God’s people to one table and one altar, pointing ahead to later Christian practices around unity in the worship of the one Lord."
     },
     {
-      "pk": 3016007,
+      "pk": 5016007,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 16,
       "verse": 7,
-      "text": "You shall cook it and eat it at the place the LORD your God chooses. Then you shall turn in the morning and go to your tents.",
-      "links": "<a href='/AIV/2/12/8'>Ex. 12:8</a>",
-      "comment": "‘Go to your tents’ means to return home after the festival observance."
+      "text": "And you shall cook it and eat it in the place which the LORD your God will choose. In the morning you shall return to your tents.",
+      "links": "<a href='/AIV/2/12/46-50'>Ex. 12:46-50</a>",
+      "comment": "The emphasis on location recalls the importance of sacred places and times. Gathering for worship in one place remains a biblical principle."
     },
     {
-      "pk": 3016008,
+      "pk": 5016008,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 16,
       "verse": 8,
-      "text": "For six days you shall eat unleavened bread, and on the seventh day there shall be a solemn assembly to the LORD your God. You shall do no work.",
-      "links": "<a href='/AIV/2/12/16'>Ex. 12:16</a>; <a href='/AIV/3/23/8'>Lev. 23:8</a>",
-      "comment": "Solemn assembly marks the end of the Feast of Unleavened Bread."
+      "text": "For six days you shall eat unleavened bread, and on the seventh day there shall be a solemn assembly to the LORD your God. You shall do no work on it.",
+      "links": "<a href='/AIV/3/23/8'>Lev. 23:8</a>",
+      "comment": "The solemn assembly points to the importance of liturgical gatherings and communal worship, anticipating later developments in Christian liturgy."
     },
     {
-      "pk": 3016009,
+      "pk": 5016009,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 16,
       "verse": 9,
-      "text": "You shall count seven weeks. Begin to count the seven weeks when the sickle is first put to the grain.",
-      "links": "<a href='/AIV/2/23/16'>Ex. 23:16</a>; <a href='/AIV/3/23/15'>Lev. 23:15</a>",
-      "comment": "Marks the beginning of the festival of weeks (Pentecost)."
+      "text": "You shall count seven weeks; begin to count the seven weeks from the time you start to put the sickle to the standing grain.",
+      "links": "<a href='/AIV/3/23/15-16'>Lev. 23:15-16</a>",
+      "comment": "This marks the beginning of counting towards the Feast of Weeks (Pentecost), foreshadowing the New Testament Pentecost when the Holy Spirit was given (Acts 2:1)."
     },
     {
-      "pk": 3016010,
+      "pk": 5016010,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 16,
       "verse": 10,
-      "text": "Then you shall keep the Feast of Weeks to the LORD your God with the tribute of a freewill offering from your hand, which you shall give as the LORD your God blesses you.",
-      "links": "<a href='/AIV/3/23/21'>Lev. 23:21</a>",
-      "comment": "Freewill offering enjoined alongside the festival celebration."
+      "text": "Then you shall keep the Feast of Weeks to the LORD your God with a freewill offering from your hand, which you shall give as the LORD your God blesses you.",
+      "links": "<a href='/AIV/2/23/16'>Ex. 23:16</a>; <a href='/AIV/3/23/17'>Lev. 23:17</a>",
+      "comment": "The Feast of Weeks celebrates the first fruits and God’s provision, paralleled by the coming of the Holy Spirit as first fruits of the new covenant."
     },
     {
-      "pk": 3016011,
+      "pk": 5016011,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 16,
       "verse": 11,
-      "text": "And you shall rejoice before the LORD your God, you and your son and your daughter, your male servant and your female servant, and the Levite who is within your towns, and the stranger, the fatherless, and the widow who are among you, at the place that the LORD your God will choose as a dwelling for His name.",
-      "links": "<a href='/AIV/5/12/12'>Deut. 12:12</a>; <a href='/AIV/3/23/22'>Lev. 23:22</a>",
-      "comment": "Command includes all segments of society in communal celebration."
+      "text": "And you shall rejoice before the LORD your God, you, your son, your daughter, your male and female servant, the Levite who is within your towns, the sojourner, the orphan, and the widow who are among you, at the place which the LORD your God will choose to make His name dwell.",
+      "links": "<a href='/AIV/5/14/29'>Deut. 14:29</a>; <a href='/AIV/3/23/22'>Lev. 23:22</a>",
+      "comment": "True worship is inclusive of all: family, clergy, strangers, and the poor. This reflects God’s desire for a worshiping community united, transcending social barriers."
     },
     {
-      "pk": 3016012,
+      "pk": 5016012,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 16,
       "verse": 12,
-      "text": "You shall remember that you were a slave in Egypt. Therefore, you shall be careful to observe these statutes.",
+      "text": "Remember that you were a slave in Egypt; so you shall be careful to observe these statutes.",
       "links": "<a href='/AIV/5/5/15'>Deut. 5:15</a>",
-      "comment": "Remembrance as motivation for keeping God’s commandments."
+      "comment": "Redemption from slavery is a recurring theme, reminding believers continually of salvation’s cost. This also forms the pattern for later celebrations of redemption in Christian practice."
     },
     {
-      "pk": 3016013,
+      "pk": 5016013,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 16,
       "verse": 13,
-      "text": "You shall keep the Feast of Booths for seven days, when you have gathered in the produce from your threshing floor and your winepress.",
-      "links": "<a href='/AIV/3/23/34'>Lev. 23:34</a>; <a href='/AIV/2/23/16'>Ex. 23:16</a>",
-      "comment": "Feast of Booths (Tabernacles) celebrates the harvest."
+      "text": "You shall keep the Feast of Booths for seven days, when you have gathered in from your threshing floor and your winepress.",
+      "links": "<a href='/AIV/3/23/34-39'>Lev. 23:34-39</a>",
+      "comment": "The Feast of Booths commemorates Israel’s journey through the wilderness, emphasizing God's protection. Spiritually, it points to the pilgrimage of the Christian life, and thanksgiving for God’s provision."
     },
     {
-      "pk": 3016014,
+      "pk": 5016014,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 16,
       "verse": 14,
-      "text": "You shall rejoice in your feast, you and your son and your daughter, your male servant and your female servant, and the Levite, the stranger, the fatherless, and the widow who are within your towns.",
-      "links": "<a href='/AIV/5/16/11'>v.11</a>; <a href='/AIV/3/23/40'>Lev. 23:40</a>",
-      "comment": "Repeats inclusive joy and unity in festival observance."
+      "text": "You shall rejoice in your feast, you and your son, your daughter, your male and female servant, the Levite, the sojourner, the orphan, and the widow who are within your towns.",
+      "links": "<a href='/AIV/5/16/11'>Deut. 16:11</a>",
+      "comment": "Joy and community are core to worship; all are called to celebrate together, reflecting a vision of unity and shared blessing."
     },
     {
-      "pk": 3016015,
+      "pk": 5016015,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 16,
       "verse": 15,
-      "text": "For seven days you shall keep the feast to the LORD your God at the place that the LORD will choose. For the LORD your God will bless you in all your produce and in all the work of your hands, so that you will be altogether joyful.",
-      "links": "<a href='/AIV/3/23/39'>Lev. 23:39</a>",
-      "comment": "The result of obedience to God’s festal statute is joy and blessing."
+      "text": "For seven days you shall keep the feast to the LORD your God in the place that the LORD will choose, because the LORD your God will bless you in all your produce and in all the work of your hands, so that you will be altogether joyful.",
+      "links": "<a href='/AIV/3/23/40-43'>Lev. 23:40-43</a>",
+      "comment": "Joy in worship is not optional but the result of God’s blessing. The place chosen by God remains central."
     },
     {
-      "pk": 3016016,
+      "pk": 5016016,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 16,
       "verse": 16,
-      "text": "Three times a year all your males shall appear before the LORD your God at the place He will choose: at the Feast of Unleavened Bread, at the Feast of Weeks, and at the Feast of Booths. No one shall appear before the LORD empty-handed.",
-      "links": "<a href='/AIV/2/23/17'>Ex. 23:17</a>; <a href='/AIV/3/23/6'>Lev. 23:6</a>",
-      "comment": "Mandatory attendance for males at three major annual festivals."
+      "text": "Three times a year all your males shall appear before the LORD your God in the place that He will choose: at the Feast of Unleavened Bread, at the Feast of Weeks, and at the Feast of Booths. They shall not appear before the LORD empty-handed.",
+      "links": "<a href='/AIV/2/23/17'>Ex. 23:17</a>; <a href='/AIV/3/23/14,21,41'>Lev. 23:14,21,41</a>",
+      "comment": "Obligatory pilgrimages to the worship site prefigure Christian pilgrimage and attendance at communal worship. The idea of not coming empty-handed implies the offering of one’s best to the Lord."
     },
     {
-      "pk": 3016017,
+      "pk": 5016017,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 16,
       "verse": 17,
-      "text": "Each man shall bring a gift as he is able, according to the blessing of the LORD your God that He has given you.",
-      "links": "<a href='/AIV/5/16/10'>v.10</a>; <a href='/AIV/2/23/15'>Ex. 23:15</a>",
-      "comment": "Freewill offering proportionate to God’s blessing."
+      "text": "Each shall give as he is able, according to the blessing of the LORD your God which He has given you.",
+      "links": "<a href='/AIV/2/35/5'>Ex. 35:5</a>; <a href='/AIV/2/25/2'>Ex. 25:2</a>",
+      "comment": "Giving is proportionate to God’s blessing, a motif further developed in New Testament teaching on generosity (see 2 Cor. 9:7)."
     },
     {
-      "pk": 3016018,
+      "pk": 5016018,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 16,
       "verse": 18,
-      "text": "You shall appoint judges and officers in all your towns that the LORD your God gives you, according to your tribes. They shall judge the people with righteous judgment.",
-      "links": "<a href='/AIV/5/1/16'>Deut. 1:16–17</a>; <a href='/AIV/2/18/21'>Ex. 18:21</a>",
-      "comment": "Introduction of local judicial officers for righteous governance."
+      "text": "You shall appoint judges and officers in all your towns that the LORD your God is giving you, according to your tribes; and they shall judge the people with righteous judgment.",
+      "links": "<a href='/AIV/2/18/21-26'>Ex. 18:21-26</a>",
+      "comment": "The establishment of a just authority structure is divinely commanded. The concept of appointed spiritual and civic leaders continues in later biblical history."
     },
     {
-      "pk": 3016019,
+      "pk": 5016019,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 16,
       "verse": 19,
-      "text": "You shall not pervert justice. You shall not show partiality, and you shall not take a bribe, for a bribe blinds the eyes of the wise and twists the words of the righteous.",
+      "text": "You shall not pervert justice. You shall not show partiality, and you shall not take a bribe, for a bribe blinds the eyes of the wise and subverts the cause of the righteous.",
       "links": "<a href='/AIV/2/23/8'>Ex. 23:8</a>; <a href='/AIV/3/19/15'>Lev. 19:15</a>",
-      "comment": "Strong condemnation of judicial corruption and bribery."
+      "comment": "Justice is central to God’s law. The command not to show partiality is echoed in the teachings of Jesus and the apostles (see Jas. 2:1-9)."
     },
     {
-      "pk": 3016020,
+      "pk": 5016020,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 16,
       "verse": 20,
-      "text": "Justice, and only justice, you shall pursue, so that you may live and possess the land that the LORD your God is giving you.",
-      "links": "<a href='/AIV/5/4/1'>Deut. 4:1</a>; <a href='/AIV/5/17/1'>Deut. 17:1</a>",
-      "comment": "Emphasizes the central ethical obligation: unwavering pursuit of justice."
+      "text": "Righteousness, righteousness you shall pursue, so that you may live and possess the land which the LORD your God is giving you.",
+      "links": "<a href='/AIV/3/19/15'>Lev. 19:15</a>",
+      "comment": "The repetition emphasizes the absolute necessity of living righteously—a theme picked up in the Beatitudes (Matt. 5:6)."
     },
     {
-      "pk": 3016021,
+      "pk": 5016021,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 16,
       "verse": 21,
-      "text": "You shall not plant any tree as an Asherah beside the altar of the LORD your God, which you shall make.",
+      "text": "You shall not plant any tree as an Asherah beside the altar of the LORD your God that you shall make.",
       "links": "<a href='/AIV/2/34/13'>Ex. 34:13</a>; <a href='/AIV/5/7/5'>Deut. 7:5</a>",
-      "comment": "Prohibition of any pagan worship concepts near God’s altar."
+      "comment": "Asherah poles were associated with pagan worship. Mixing idols with the true worship of God is strictly forbidden, ensuring purity in worship (cf. 1 Cor. 10:21)."
     },
     {
-      "pk": 3016022,
+      "pk": 5016022,
       "translation": "AIV",
       "book": 5,
+      "bookName": "Deuteronomy",
+      "bookAbbreviation": "Deut",
       "chapter": 16,
       "verse": 22,
       "text": "And you shall not set up a pillar, which the LORD your God hates.",
-      "links": "<a href='/AIV/3/26/1'>Lev. 26:1</a>; <a href='/AIV/5/7/5'>Deut. 7:5</a>",
-      "comment": "‘Pillar’ refers to a stone monument used in idolatrous worship."
+      "links": "<a href='/AIV/2/23/24'>Ex. 23:24</a>",
+      "comment": "Pillars were objects of idolatrous worship. The LORD’s hatred of such things underscores the requirement for exclusive, pure devotion and foreshadows later commands to separate from all forms of syncretism."
     }
   ],
-  "translatedAt": "2025-12-20T09:56:37.722Z"
+  "translatedAt": "2025-12-24T02:05:42.925Z"
 }

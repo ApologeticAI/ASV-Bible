@@ -1,278 +1,333 @@
 {
-  "book": "1 Samuel",
+  "book": 9,
+  "bookName": "1 Samuel",
   "bookAbbreviation": "1Sam",
   "chapter": 10,
   "verses": [
     {
-      "pk": 1010001,
+      "pk": 9010001,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 10,
       "verse": 1,
-      "text": "Then Samuel took a flask of oil, poured it on Saul’s head, kissed him, and said, \"Has not the LORD anointed you to be ruler over his inheritance?",
-      "links": "<a href='/ESV/10/9/16'>1 Sam. 9:16</a>; <a href='/ESV/10/16/13'>1 Sam. 16:13</a>",
-      "comment": "The Hebrew literally reads 'over his people, over Israel,' but 'his inheritance' remains faithful to the original wording."
+      "text": "Then Samuel took a flask of oil and poured it on Saul’s head, kissed him, and said, 'Has not the Lord anointed you ruler over his inheritance?'",
+      "links": "<a href='/AIV/9/9/16'>1Sam 9:16</a>; <a href='/AIV/11/1/34-39'>1 Kings 1:34-39</a>",
+      "comment": "Samuel’s anointing of Saul establishes kingship through a divine calling and ritual act. Anointing with oil foreshadows later uses of anointing for priests, prophets, and ultimately, the Messiah (Christ means 'anointed one'). The act of anointing shows that leadership comes from above, not merely human ambition."
     },
     {
-      "pk": 1010002,
+      "pk": 9010002,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 10,
       "verse": 2,
-      "text": "When you leave me today, you will meet two men near Rachel’s tomb in the territory of Benjamin at Zelzah. They will say to you, 'The donkeys you went to look for have been found. And now your father has stopped worrying about the donkeys and is anxious about you, saying, “What shall I do about my son?”'",
-      "links": "<a href='/ESV/01/35/19'>Gen. 35:19</a>",
-      "comment": "Maintains the literal sequence and geographic detail."
+      "text": "'When you leave me today, you will meet two men near Rachel’s tomb, on the border of Benjamin, at Zelzah. They will say to you, ‘The donkeys you went looking for have been found. Now your father has stopped worrying about the donkeys and is anxious about you. He is asking, “What shall I do about my son?”’'",
+      "links": "<a href='/AIV/1/35/19-20'>Gen 35:19-20</a>; <a href='/AIV/9/9/3'>1Sam 9:3</a>",
+      "comment": "Samuel predicts specific signs that will confirm Saul’s calling. The reference to Rachel’s tomb reminds the reader of Israel’s heritage. The change in Saul’s father’s concern also hints at the transition in Saul’s purpose from the ordinary (donkeys) to the extraordinary (rule)."
     },
     {
-      "pk": 1010003,
+      "pk": 9010003,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 10,
       "verse": 3,
-      "text": "Then you shall go from there farther and come to the oak of Tabor. Three men going up to God at Bethel will meet you there, one carrying three young goats, another carrying three loaves of bread, and another carrying a skin of wine.",
-      "links": "<a href='/ESV/01/28/19'>Gen. 28:19</a>",
-      "comment": "Preserves the Heb. 'oak of Tabor'; some translations have 'plain of Tabor.'"
+      "text": "'Then you will go on from there until you reach the oak of Tabor. Three men going up to God at Bethel will meet you there. One will be carrying three young goats, another three loaves of bread, and another a skin of wine.'",
+      "links": "<a href='/AIV/1/12/6-8'>Gen 12:6-8</a>; <a href='/AIV/28/12/4'>Hos 12:4</a>",
+      "comment": "The three men with gifts for worship foreshadow proper sacrifice, unity, and communion. Their journey to Bethel (a place of encounter with God) symbolizes the spiritual foundation underlying Saul’s kingship."
     },
     {
-      "pk": 1010004,
+      "pk": 9010004,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 10,
       "verse": 4,
-      "text": "They will greet you and give you two loaves of bread, which you will accept from their hand.",
-      "links": "<a href='/ESV/09/09/07'>1 Sam. 9:7</a>",
-      "comment": "Follows Heb. closely; 'give you two loaves of bread from three,' implied from context."
+      "text": "'They will greet you and give you two loaves of bread, which you shall accept from them.'",
+      "links": "<a href='/AIV/40/14/19'>Matt 14:19</a>; <a href='/AIV/9/9/7'>1Sam 9:7</a>",
+      "comment": "Receiving the bread is both a sign of acceptance and provision. It echoes later symbolism of bread as spiritual sustenance and priestly provision (cf. Jesus’ multiplication of loaves)."
     },
     {
-      "pk": 1010005,
+      "pk": 9010005,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 10,
       "verse": 5,
-      "text": "After that you will come to Gibeah of God, where there is a garrison of Philistines. As you enter the city, you will meet a group of prophets coming down from the high place with harp, tambourine, flute, and lyre before them, and they will be prophesying.",
-      "links": "<a href='/ESV/10/19/20'>1 Sam. 19:20</a>",
-      "comment": "‘Garrison of Philistines’ is as in many manuscripts; some Heb. manuscripts lack this phrase."
+      "text": "'After that you will come to Gibeah of God, where there is a Philistine outpost. As you are entering the town, you will meet a group of prophets coming down from the high place with harp, tambourine, flute and lyre, prophesying.'",
+      "links": "<a href='/AIV/9/19/20'>1Sam 19:20</a>; <a href='/AIV/13/25/1'>1 Chr 25:1</a>",
+      "comment": "The gathering of prophets foreshadows the Spirit’s work through community, music, and worship. Saul’s proximity to them anticipates his own transformation by the Spirit."
     },
     {
-      "pk": 1010006,
+      "pk": 9010006,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 10,
       "verse": 6,
-      "text": "Then the Spirit of the LORD will come upon you mightily, and you will prophesy with them, and you will be changed into a different man.",
-      "links": "<a href='/ESV/10/19/23'>1 Sam. 19:23</a>",
-      "comment": "'Come upon you mightily' translates the Heb. 'rush upon you.'"
+      "text": "'The Spirit of the Lord will come on you powerfully, and you will prophesy with them, and you will be changed into a different person.'",
+      "links": "<a href='/AIV/9/19/23'>1Sam 19:23</a>; <a href='/AIV/44/2/3-4'>Acts 2:3-4</a>",
+      "comment": "The Spirit's descent transforms Saul, a prefigurement of how the Spirit works to change hearts. This closely parallels events at Pentecost, showing that the Spirit animates both leadership in the Old Testament and the Church in the New Testament era."
     },
     {
-      "pk": 1010007,
+      "pk": 9010007,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 10,
       "verse": 7,
-      "text": "When these signs happen to you, do whatever your hand finds to do, for God is with you.",
-      "links": "<a href='/ESV/07/06/12'>Judg. 6:12</a>; <a href='/ESV/09/16/18'>1 Sam. 16:18</a>",
-      "comment": "'Do whatever your hand finds to do' is a Hebraic idiom."
+      "text": "'When these signs have happened to you, do whatever your hand finds to do, for God is with you.'",
+      "links": "<a href='/AIV/7/6/12'>Judg 6:12</a>; <a href='/AIV/13/22/18'>1 Chr 22:18</a>",
+      "comment": "Once endowed with the Spirit, Saul is commissioned freely, as God's presence enables him. This models faith responding to grace: the initiative of God comes first, followed by human cooperation."
     },
     {
-      "pk": 1010008,
+      "pk": 9010008,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 10,
       "verse": 8,
-      "text": "Go down ahead of me to Gilgal. Then surely I will come down to you to offer burnt offerings and sacrifice peace offerings. Wait seven days until I come to you and show you what you should do.",
-      "links": "<a href='/ESV/10/13/8'>1 Sam. 13:8</a>",
-      "comment": "Accurately reflects instruction and sequence."
+      "text": "'Go down ahead of me to Gilgal. I will come to offer burnt offerings and peace offerings. Wait seven days until I arrive and show you what to do.'",
+      "links": "<a href='/AIV/9/13/8'>1Sam 13:8</a>; <a href='/AIV/1/29/35'>Gen 29:35</a>",
+      "comment": "Samuel instructs Saul to wait for sacrificial leadership. The seven-day wait underscores obedience and liturgical timing, reminiscent of ordered worship and the importance of mediation between God and his people."
     },
     {
-      "pk": 1010009,
+      "pk": 9010009,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 10,
       "verse": 9,
-      "text": "As Saul turned away to leave Samuel, God gave him another heart. And all these signs came to pass that day.",
-      "links": "<a href='/ESV/10/10/6'>1 Sam. 10:6</a>",
-      "comment": "'Another heart' meaning God changed his heart."
+      "text": "As Saul turned to leave Samuel, God gave him a new heart, and all these signs happened that day.",
+      "links": "<a href='/AIV/26/36/26-27'>Ezek 36:26-27</a>; <a href='/AIV/9/10/6'>1Sam 10:6</a>",
+      "comment": "The giving of a new heart hints at interior renewal—a theme later echoed in the promise of spiritual regeneration and sanctification. The fulfillment of signs confirms the authenticity of God’s call."
     },
     {
-      "pk": 1010010,
+      "pk": 9010010,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 10,
       "verse": 10,
-      "text": "When they came to Gibeah, a group of prophets met him, and the Spirit of God rushed upon him, and he prophesied among them.",
-      "links": "<a href='/ESV/10/10/6'>1 Sam. 10:6</a>; <a href='/ESV/10/19/23'>1 Sam. 19:23</a>",
-      "comment": "'Rushed upon him' follows Heb. for God's Spirit coming on Saul."
+      "text": "When they reached Gibeah, a group of prophets met him, and the Spirit of God came upon him, and he prophesied with them.",
+      "links": "<a href='/AIV/9/19/23'>1Sam 19:23</a>; <a href='/AIV/44/19/6'>Acts 19:6</a>",
+      "comment": "Saul's prophetic activity aligns him with a spiritual leadership tradition, showing how the Spirit conveys authority and signalizes election. This pattern continues into New Testament ministers marked by the Spirit."
     },
     {
-      "pk": 1010011,
+      "pk": 9010011,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 10,
       "verse": 11,
-      "text": "When all who knew him before saw him prophesying with the prophets, the people said to one another, 'What has happened to the son of Kish? Is Saul also among the prophets?'",
-      "links": "<a href='/ESV/10/19/24'>1 Sam. 19:24</a>",
-      "comment": "Captures the astonished reaction, as in text."
+      "text": "Everyone who had known Saul previously asked, 'What’s happened to the son of Kish? Is Saul also among the prophets?'",
+      "links": "<a href='/AIV/9/19/24'>1Sam 19:24</a>; <a href='/AIV/43/7/15'>John 7:15</a>",
+      "comment": "The unexpectedness of Saul’s prophetic activity demonstrates that God’s call transcends social expectations, reminiscent of Christ’s appointment of unanticipated apostles."
     },
     {
-      "pk": 1010012,
+      "pk": 9010012,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 10,
       "verse": 12,
-      "text": "A man from there said, 'And who is their father?' Therefore it became a proverb, 'Is Saul also among the prophets?'",
-      "links": "<a href='/ESV/10/19/24'>1 Sam. 19:24</a>",
-      "comment": "The phrase became proverbial in Israel."
+      "text": "A man from that place said, 'Who is their father?' So it became a saying: 'Is Saul also among the prophets?'",
+      "links": "<a href='/AIV/9/19/24'>1Sam 19:24</a>",
+      "comment": "Prophecy is portrayed as a gift rather than inheritance; God can bestow spiritual gifts on whomever He chooses, regardless of lineage—foreshadowing spiritual rather than merely hereditary succession."
     },
     {
-      "pk": 1010013,
+      "pk": 9010013,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 10,
       "verse": 13,
-      "text": "When he finished prophesying, he came to the high place.",
-      "links": "",
-      "comment": "Simple and direct translation."
+      "text": "After Saul finished prophesying, he went up to the high place.",
+      "links": "<a href='/AIV/9/9/12'>1Sam 9:12</a>; <a href='/AIV/28/12/4'>Hos 12:4</a>",
+      "comment": "Saul’s ascent to a sacred place, after his spiritual encounter, mirrors the pattern of communal worship and sacrificial acts in God’s service, highlighting the integration of spiritual experiences and liturgical life."
     },
     {
-      "pk": 1010014,
+      "pk": 9010014,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 10,
       "verse": 14,
-      "text": "Saul’s uncle said to him and to his servant, 'Where did you go?' And he said, 'To look for the donkeys. When we saw they were not to be found, we went to Samuel.'",
-      "links": "<a href='/ESV/10/9/3-10'>1 Sam. 9:3–10</a>",
-      "comment": "Faithful to conversation sequence."
+      "text": "Saul’s uncle asked him and his servant, 'Where did you go?' Saul replied, 'To look for the donkeys. When we saw they were not to be found, we went to Samuel.'",
+      "links": "<a href='/AIV/9/9/3-4'>1Sam 9:3-4</a>",
+      "comment": "Saul’s conversation with family reflects the transition from normal life to divine calling. Like other biblical figures, ordinary circumstances form the backdrop for God’s extraordinary work."
     },
     {
-      "pk": 1010015,
+      "pk": 9010015,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 10,
       "verse": 15,
-      "text": "And Saul’s uncle said, 'Please, tell me what Samuel said to you.'",
-      "links": "",
-      "comment": "The text recognizes the uncle’s curiosity."
+      "text": "Saul’s uncle said, 'Tell me what Samuel said to you.'",
+      "links": "<a href='/AIV/9/9/27'>1Sam 9:27</a>; <a href='/AIV/9/10/1-8'>1Sam 10:1-8</a>",
+      "comment": "The inquiry shows family awareness and curiosity about God’s prophet, indicating that divine messages invite investigation and dialogue (see also Jesus’ interactions with family about his mission)."
     },
     {
-      "pk": 1010016,
+      "pk": 9010016,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 10,
       "verse": 16,
-      "text": "Saul said to his uncle, 'He told us plainly that the donkeys had been found.' But about the matter of the kingdom, he did not tell him anything that Samuel had said.",
-      "links": "",
-      "comment": "Saul conceals news about the kingship, per Heb. text."
+      "text": "Saul replied, 'He assured us the donkeys had been found.' But he did not tell his uncle about the matter of kingship Samuel had spoken of.",
+      "links": "<a href='/AIV/9/9/20'>1Sam 9:20</a>",
+      "comment": "Saul's discretion regarding his anointing reflects humility and waiting on God’s timing for public revelation of divine mysteries—a principle seen also in Christ’s progression to manifest his identity."
     },
     {
-      "pk": 1010017,
+      "pk": 9010017,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 10,
       "verse": 17,
-      "text": "Samuel called the people together to the LORD at Mizpah.",
-      "links": "<a href='/ESV/07/20/1'>Judg. 20:1</a>",
-      "comment": "Mizpah was a significant meeting place in Israel."
+      "text": "Samuel summoned the people to the Lord at Mizpah.",
+      "links": "<a href='/AIV/9/7/5-6'>1Sam 7:5-6</a>; <a href='/AIV/9/10/19'>1Sam 10:19</a>",
+      "comment": "The gathering at Mizpah, a site of previous renewal, signals corporate worship and covenant renewal before God, anticipating later assemblies where leaders are set apart by divine decree."
     },
     {
-      "pk": 1010018,
+      "pk": 9010018,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 10,
       "verse": 18,
-      "text": "He said to the people of Israel, 'This is what the LORD, the God of Israel, says: I brought Israel out of Egypt, and I rescued you from the hand of the Egyptians and from every kingdom that oppressed you.'",
-      "links": "<a href='/ESV/02/20/2'>Ex. 20:2</a>; <a href='/ESV/07/06/8-9'>Judg. 6:8–9</a>",
-      "comment": "Follows Heb. structure; kingdom refers to oppressors’ rule."
+      "text": "He said to the Israelites, 'This is what the Lord, the God of Israel, says: I brought Israel up out of Egypt and saved you from all the kingdoms that oppressed you.'",
+      "links": "<a href='/AIV/2/3/7-10'>Ex 3:7-10</a>; <a href='/AIV/7/6/8-9'>Judg 6:8-9</a>",
+      "comment": "Samuel’s speech recalls the Exodus, pointing to God’s saving initiative as the foundation of Israel’s identity. Divine deliverance precedes and legitimizes earthly authority, a paradigm foundational to interpreting later Christian leadership."
     },
     {
-      "pk": 1010019,
+      "pk": 9010019,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 10,
       "verse": 19,
-      "text": "But today you have rejected your God, who saves you from all your troubles and your distresses, and you have said to him, 'Set a king over us.' Now therefore present yourselves before the LORD by your tribes and by your clans.",
-      "links": "<a href='/ESV/09/8/7'>1 Sam. 8:7</a>",
-      "comment": "'Tribes and clans' corresponds to Heb. 'thousands.'"
+      "text": "'But today you have rejected your God, who saves you from all your disasters and troubles; and you have said, “No, appoint a king over us.” Now, therefore, present yourselves before the Lord by your tribes and by your clans.'",
+      "links": "<a href='/AIV/9/8/7'>1Sam 8:7</a>; <a href='/AIV/9/12/12'>1Sam 12:12</a>",
+      "comment": "Demanding a king marks Israel’s lack of trust in divine providence, yet God works through their request to establish a greater plan, teaching that imperfect choices can prepare the way for fulfillment and a unifying kingdom."
     },
     {
-      "pk": 1010020,
+      "pk": 9010020,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 10,
       "verse": 20,
-      "text": "So Samuel brought all the tribes of Israel near, and the tribe of Benjamin was chosen by lot.",
-      "links": "<a href='/ESV/06/7/14-16'>Josh. 7:14–16</a>",
-      "comment": "Casting lots for selection—literal."
+      "text": "Samuel had all the tribes of Israel come forward, and the tribe of Benjamin was chosen by lot.",
+      "links": "<a href='/AIV/6/7/14'>Josh 7:14</a>; <a href='/AIV/1/49/27'>Gen 49:27</a>",
+      "comment": "The use of lots signifies divine sovereignty in choosing Saul. Benjamin’s selection stresses God’s initiative in raising up unexpected leaders."
     },
     {
-      "pk": 1010021,
+      "pk": 9010021,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 10,
       "verse": 21,
-      "text": "Then he brought the tribe of Benjamin near by its clans, and the clan of the Matrites was chosen. And Saul the son of Kish was chosen. But when they looked for him, he could not be found.",
-      "links": "",
-      "comment": "Matrites: some manuscripts read differently; Heb. text followed."
+      "text": "Then he brought forward the tribe of Benjamin, clan by clan, and Matri’s clan was chosen. Finally, Saul son of Kish was chosen. But when they looked for him, he was nowhere to be found.",
+      "links": "<a href='/AIV/9/14/51'>1Sam 14:51</a>",
+      "comment": "Saul's hiddenness at his calling echoes themes of humility and reluctance to seek power, reminiscent of Moses and others who hesitated yet were called. The process also underscores the role of spiritual discernment in leadership selection."
     },
     {
-      "pk": 1010022,
+      "pk": 9010022,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 10,
       "verse": 22,
-      "text": "Therefore they inquired of the LORD again, 'Has the man come here?' And the LORD said, 'See, he has hidden himself among the baggage.'",
-      "links": "",
-      "comment": "'Baggage' here means the supplies or equipment of the assembly."
+      "text": "So they inquired of the Lord, 'Has the man come here yet?' And the Lord said, 'Yes, he has hidden himself among the baggage.'",
+      "links": "<a href='/AIV/9/15/17'>1Sam 15:17</a>",
+      "comment": "Saul’s concealment further highlights humility and the sense of unworthiness, common in God’s chosen. Seeking God’s guidance in all things demonstrates the centrality of divine direction in discovery of vocation."
     },
     {
-      "pk": 1010023,
+      "pk": 9010023,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 10,
       "verse": 23,
-      "text": "So they ran and took him from there. When he stood among the people, he was taller than any of the people from his shoulders upward.",
-      "links": "<a href='/ESV/10/09/02'>1 Sam. 9:2</a>",
-      "comment": "Literally, 'taller than all the people from his shoulders upward.'"
+      "text": "They ran and brought him out, and as he stood among the people he was a head taller than anyone else.",
+      "links": "<a href='/AIV/9/9/2'>1Sam 9:2</a>",
+      "comment": "Saul’s physical stature signals outward qualifications but stands in contrast with the Biblical principle that inner spiritual credentials are essential—seen in later leaders whose greatness is not merely by appearance."
     },
     {
-      "pk": 1010024,
+      "pk": 9010024,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 10,
       "verse": 24,
-      "text": "Samuel said to all the people, 'Do you see the one whom the LORD has chosen? Surely there is no one like him among all the people.' And all the people shouted, 'Long live the king!'",
-      "links": "<a href='/ESV/11/01/25'>1 Kgs. 1:25</a>",
-      "comment": "'Long live the king!' (Heb. 'May the king live!'), a traditional acclamation."
+      "text": "Samuel said to all the people, 'Do you see the man whom the Lord has chosen? There is no one like him among all the people.' Then the people shouted, 'Long live the king!'",
+      "links": "<a href='/AIV/9/9/17'>1Sam 9:17</a>; <a href='/AIV/10/11/12'>2Sam 11:12</a>",
+      "comment": "Samuel’s acclamation points to God's unique choice. The acclamation 'Long live the king!' brings unity under authority, foreshadowing later acclamations of Christ as King by his followers."
     },
     {
-      "pk": 1010025,
+      "pk": 9010025,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 10,
       "verse": 25,
-      "text": "Then Samuel told the people the rights and duties of kingship, and wrote them in a scroll and laid it up before the LORD. Then Samuel sent all the people away, each to his home.",
-      "links": "<a href='/ESV/05/17/14-20'>Deut. 17:14–20</a>",
-      "comment": "'Laid it up before the LORD' is literal for depositing an official record."
+      "text": "Then Samuel explained to the people the rights and duties of kingship, wrote it down on a scroll, and deposited it before the Lord. Then Samuel sent all the people home.",
+      "links": "<a href='/AIV/5/17/14-20'>Deut 17:14-20</a>; <a href='/AIV/9/8/11-18'>1Sam 8:11-18</a>",
+      "comment": "Samuel's instructions set the parameters for just and righteous leadership. Writing it down for public remembrance links to the tradition of apostolic teaching and the preservation of sacred doctrine within the Church. Depositing it 'before the Lord' emphasizes that divine law grounds earthly authority."
     },
     {
-      "pk": 1010026,
+      "pk": 9010026,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 10,
       "verse": 26,
-      "text": "Saul also went to his home at Gibeah, and with him went valiant men whose hearts God had touched.",
-      "links": "<a href='/ESV/10/11/7'>1 Sam. 11:7</a>",
-      "comment": "Follows Heb. idiom 'valiant men.'"
+      "text": "Saul also went to his home in Gibeah, accompanied by valiant men whose hearts God had touched.",
+      "links": "<a href='/AIV/9/11/6-7'>1Sam 11:6-7</a>; <a href='/AIV/44/16/14'>Acts 16:14</a>",
+      "comment": "Those who accompany Saul have hearts moved by God, showing that spiritual unity and support among believers is fostered by the action of the Spirit. This communal dimension recalls how authentic leadership is supported by a devoted community."
     },
     {
-      "pk": 1010027,
+      "pk": 9010027,
       "translation": "AIV",
       "book": 9,
+      "bookName": "1 Samuel",
+      "bookAbbreviation": "1Sam",
       "chapter": 10,
       "verse": 27,
-      "text": "But some worthless men said, 'How can this man save us?' And they despised him and brought him no gift. But he held his peace.",
-      "links": "",
-      "comment": "'Worthless men' translates Heb. 'sons of Belial.' 'Held his peace' means he kept silent."
+      "text": "But some worthless men said, 'How can this man save us?' They despised him and gave him no gift. But Saul kept silent.",
+      "links": "<a href='/AIV/9/17/28-30'>1Sam 17:28-30</a>; <a href='/AIV/40/13/57'>Matt 13:57</a>",
+      "comment": "The rejection Saul experiences foreshadows the rejection faced by God’s chosen leaders, including Christ, who was similarly despised. Saul’s silence here is an example of the patience and forbearance often needed in vocation, urging us to trust God’s timing for vindication."
     }
   ],
-  "translatedAt": "2025-12-22T08:29:12.434Z"
+  "translatedAt": "2025-12-24T02:53:49.452Z"
 }

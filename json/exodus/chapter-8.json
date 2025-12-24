@@ -1,5 +1,6 @@
 {
-  "book": "Exodus",
+  "book": 2,
+  "bookName": "Exodus",
   "bookAbbreviation": "Exod",
   "chapter": 8,
   "verses": [
@@ -7,322 +8,386 @@
       "pk": 2008001,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 8,
       "verse": 1,
-      "text": "Then the LORD said to Moses, \"Go to Pharaoh and say to him, ‘This is what the LORD says: Let my people go, so that they may serve me.’\"",
-      "links": "<a href='/AIV/2/7/16'>Ex. 7:16</a>",
-      "comment": "The phrase ‘serve me’ is translated to convey both worship and service, as in the original Hebrew."
+      "text": "Then the LORD said to Moses, “Go to Pharaoh and say to him, ‘This is what the LORD says: Let My people go, so that they may serve Me.’”",
+      "links": "<a href='/AIV/2/5/1'>Exod. 5:1</a>; <a href='/AIV/2/7/16'>Exod. 7:16</a>",
+      "comment": "The phrase “Let My people go, so that they may serve Me” is repeated throughout the Exodus account, showing God’s desire for worship and service. This foreshadows the Christian calling to service and worship (Rom. 12:1)."
     },
     {
       "pk": 2008002,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 8,
       "verse": 2,
-      "text": "If you refuse to let them go, then I will plague all your territory with frogs.",
-      "links": "<a href='/AIV/2/7/27'>Ex. 7:27</a>",
-      "comment": "The specific threat is clear in the Hebrew: frogs as a widespread plague."
+      "text": "But if you refuse to let them go, behold, I will plague your whole territory with frogs.",
+      "links": "<a href='/AIV/2/7/27'>Exod. 7:27</a>; <a href='/AIV/19/78/45'>Ps. 78:45</a>",
+      "comment": "God’s warnings escalate in severity, demonstrating both His justice and mercy in giving Pharaoh a clear choice. The plagues often symbolize the unraveling of creation, reflecting what happens when humanity rejects God’s order."
     },
     {
       "pk": 2008003,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 8,
       "verse": 3,
-      "text": "The river will swarm with frogs, and they will come up and enter your house, into your bedroom, onto your bed, into the houses of your servants and your people, and into your ovens and kneading bowls.",
-      "links": "<a href='/AIV/2/7/28'>Ex. 7:28</a>",
-      "comment": "‘Swarm’ is a word-for-word rendering of the Hebrew yishretz. Physical locations are listed as in the original text."
+      "text": "The river will swarm with frogs; they will come up and enter your house, your bedroom, and onto your bed; into the houses of your servants and your people; into your ovens and your kneading bowls.",
+      "links": "<a href='/AIV/19/105/30'>Ps. 105:30</a>",
+      "comment": "The infestation invades every aspect of Egyptian life, underscoring God’s absolute power. Such images point later to the fullness of redemption permeating every part of life (cf. 1 Cor. 6:20)."
     },
     {
       "pk": 2008004,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 8,
       "verse": 4,
-      "text": "The frogs will come up on you, on your people, and on all your servants.’”",
-      "links": "<a href='/AIV/2/7/29'>Ex. 7:29</a>",
-      "comment": "Maintains the threefold repetition found in Hebrew: ‘you, your people, your servants’."
+      "text": "The frogs will come up upon you and your people and all your servants.’”",
+      "links": "<a href='/AIV/2/8/18'>Exod. 8:18</a>",
+      "comment": "Emphasizes the comprehensive nature of the plague. In biblical symbolism, frogs are sometimes linked to impurity (Rev. 16:13)."
     },
     {
       "pk": 2008005,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 8,
       "verse": 5,
-      "text": "Then the LORD said to Moses, \"Say to Aaron, ‘Stretch out your hand with your staff over the rivers, canals, and ponds, and make frogs come up over the land of Egypt.’\"",
-      "links": "<a href='/AIV/2/7/19'>Ex. 7:19</a>",
-      "comment": "Specific water sources listed per Hebrew: rivers, canals, ponds."
+      "text": "The LORD said to Moses, “Say to Aaron, ‘Stretch out your hand with your staff over the rivers, canals, and ponds, and cause frogs to come up over the land of Egypt.’”",
+      "links": "<a href='/AIV/2/7/19'>Exod. 7:19</a>",
+      "comment": "Aaron acts at Moses’ command, highlighting the order and authority in God’s covenant people. Staffs are symbols of leadership and spiritual authority—see Num. 17:8."
     },
     {
       "pk": 2008006,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 8,
       "verse": 6,
-      "text": "So Aaron stretched out his hand over the waters of Egypt, and the frogs came up and covered the land of Egypt.",
-      "links": "<a href='/AIV/2/7/20'>Ex. 7:20</a>",
-      "comment": "‘Covered’ is a literal translation of the Hebrew kasah."
+      "text": "Aaron stretched out his hand over the waters of Egypt, and the frogs came up and covered the land of Egypt.",
+      "links": "<a href='/AIV/2/7/20'>Exod. 7:20</a>",
+      "comment": "This act demonstrates the mediatory role of Aaron, anticipating later priestly mediation on behalf of God’s people. Mediators remain a theme throughout scripture (Heb. 5:1)."
     },
     {
       "pk": 2008007,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 8,
       "verse": 7,
-      "text": "But the magicians did the same by their secret arts, and made frogs come up on the land of Egypt.",
-      "links": "<a href='/AIV/2/7/11'>Ex. 7:11</a>",
-      "comment": "‘Secret arts’ is literal for Hebrew latêhem (secret acts/magic)."
+      "text": "But the magicians did the same with their secret arts and brought up frogs upon the land of Egypt.",
+      "links": "<a href='/AIV/2/7/11'>Exod. 7:11</a>; <a href='/AIV/55/3/8'>2 Tim. 3:8</a>",
+      "comment": "The magicians’ imitation highlights the limits of false power. Ultimately, God alone triumphs, which foreshadows Christ’s defeat of evil powers (Col. 2:15)."
     },
     {
       "pk": 2008008,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 8,
       "verse": 8,
-      "text": "Then Pharaoh called Moses and Aaron and said, \"Pray to the LORD to take away the frogs from me and from my people, and I will let the people go to sacrifice to the LORD.\"",
-      "links": "<a href='/AIV/2/9/28'>Ex. 9:28</a>",
-      "comment": "‘Sacrifice to the LORD’ mirrors Hebrew le-zavach la-YHWH."
+      "text": "Then Pharaoh called Moses and Aaron and said, “Pray to the LORD to take the frogs away from me and my people, and I will let the people go to sacrifice to the LORD.”",
+      "links": "<a href='/AIV/2/9/28'>Exod. 9:28</a>; <a href='/AIV/19/66/3'>Ps. 66:3</a>",
+      "comment": "Pharaoh, despite his defiance, recognizes the distinctiveness of the LORD’s power and seeks intercession, prefiguring the value of intercessory prayer."
     },
     {
       "pk": 2008009,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 8,
       "verse": 9,
-      "text": "Moses said to Pharaoh, \"Specify when I should pray for you, for your servants, and your people, to destroy the frogs from you and your houses, so that they remain only in the river.\"",
-      "links": "<a href='/AIV/2/9/29'>Ex. 9:29</a>",
-      "comment": "Moses offers Pharaoh choice of timing, per Hebrew 'Hitpaer'."
+      "text": "Moses said to Pharaoh, “Set the time for me to pray for you, for your servants, and for your people, that the frogs may be removed from you and your houses and remain only in the Nile.”",
+      "links": "<a href='/AIV/2/8/29'>Exod. 8:29</a>",
+      "comment": "This emphasizes the prophetic role of Moses as one through whom God hears and acts—anticipating Christ as the ultimate intercessor (Heb. 7:25)."
     },
     {
-      "pk": 2008010,
+      "pk": 20080010,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 8,
       "verse": 10,
-      "text": "He said, \"Tomorrow.\" So Moses replied, \"Let it be as you say, so that you may know that there is no one like the LORD our God.\"",
-      "links": "<a href='/AIV/5/4/35'>Deut. 4:35</a>",
-      "comment": "‘No one like the LORD’ reflects Hebrew uniqueness."
+      "text": "Pharaoh said, “Tomorrow.” Moses replied, “Let it be according to your word, that you may know there is no one like the LORD our God.”",
+      "links": "<a href='/AIV/19/86/8'>Ps. 86:8</a>; <a href='/AIV/2/9/14'>Exod. 9:14</a>",
+      "comment": "Affirms God’s uniqueness and supremacy, a truth foundational to biblical revelation (Deut. 4:35; Isaiah 45:5)."
     },
     {
-      "pk": 2008011,
+      "pk": 20080011,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 8,
       "verse": 11,
-      "text": "The frogs will depart from you, your houses, your servants, and your people. They will remain only in the river.\"",
-      "links": "<a href='/AIV/2/7/19'>Ex. 7:19</a>",
-      "comment": "Fourfold repetition matches original."
+      "text": "The frogs will leave you, your houses, your servants, and your people; they will remain only in the Nile.”",
+      "links": "<a href='/AIV/2/8/3'>Exod. 8:3</a>",
+      "comment": "God’s control over the plague’s removal further demonstrates His sovereignty over creation and history."
     },
     {
-      "pk": 2008012,
+      "pk": 20080012,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 8,
       "verse": 12,
-      "text": "Then Moses and Aaron went out from Pharaoh, and Moses cried out to the LORD about the frogs which he had brought upon Pharaoh.",
-      "links": "<a href='/AIV/2/7/25'>Ex. 7:25</a>",
-      "comment": "‘Cried out’ rather than only ‘prayed’; original Hebrew verb."
+      "text": "Moses and Aaron went out from Pharaoh, and Moses cried out to the LORD concerning the frogs He had brought upon Pharaoh.",
+      "links": "<a href='/AIV/19/77/1'>Ps. 77:1</a>",
+      "comment": "This shows the humility of true spiritual leaders, trusting in God’s power, and echoes the need for fervent prayer."
     },
     {
-      "pk": 2008013,
+      "pk": 20080013,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 8,
       "verse": 13,
-      "text": "And the LORD did as Moses asked; the frogs died out in the houses, courtyards, and fields.",
-      "links": "<a href='/AIV/2/9/33'>Ex. 9:33</a>",
-      "comment": "‘Died out’ (Hebrew va-yamutu); ‘courtyards’ and ‘fields’ as listed."
+      "text": "The LORD did as Moses asked, and the frogs died out from the houses, the courtyards, and the fields.",
+      "links": "<a href='/AIV/19/99/6'>Ps. 99:6</a>",
+      "comment": "God’s hearing of Moses’ petition highlights the unique friendship and mediation between Moses and God."
     },
     {
-      "pk": 2008014,
+      "pk": 20080014,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 8,
       "verse": 14,
-      "text": "They gathered them together in heaps, and the land stank.",
-      "links": "<a href='/AIV/2/7/21'>Ex. 7:21</a>",
-      "comment": "‘Heaps’ and ‘stank’ are literal and vivid as Hebrew."
+      "text": "They piled the dead frogs in heaps, and the land stank.",
+      "links": "<a href='/AIV/19/105/30'>Ps. 105:30</a>",
+      "comment": "The aftermath of judgement left a mark on the land, signifying that sin has lasting consequences even after its immediate removal."
     },
     {
-      "pk": 2008015,
+      "pk": 20080015,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 8,
       "verse": 15,
-      "text": "But when Pharaoh saw that there was relief, he hardened his heart and would not listen to them, just as the LORD had said.",
-      "links": "<a href='/AIV/2/4/21'>Ex. 4:21</a>; <a href='/AIV/2/7/13'>Ex. 7:13</a>",
-      "comment": "‘Hardened his heart’ as literal Hebrew; matches prophecy."
+      "text": "But when Pharaoh saw that there was relief, he hardened his heart and did not listen to them, just as the LORD had said.",
+      "links": "<a href='/AIV/2/7/13'>Exod. 7:13</a>; <a href='/AIV/2/4/21'>Exod. 4:21</a>",
+      "comment": "Pharaoh’s hardened heart is a recurring theme (cf. Rom. 9:17-18). Persistent resistance to grace has serious spiritual consequences."
     },
     {
-      "pk": 2008016,
+      "pk": 20080016,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 8,
       "verse": 16,
-      "text": "Then the LORD said to Moses, \"Tell Aaron, ‘Stretch out your staff and strike the dust of the earth, so that it may become gnats throughout all the land of Egypt.’\"",
-      "links": "<a href='/AIV/2/8/17'>Ex. 8:17</a>",
-      "comment": "‘Gnats’ for Hebrew kinnim; could mean lice or mosquitoes, but ‘gnats’ is standard."
+      "text": "Then the LORD said to Moses, “Say to Aaron, ‘Stretch out your staff and strike the dust of the earth, so that it may become gnats throughout all the land of Egypt.’”",
+      "links": "<a href='/AIV/2/7/19'>Exod. 7:19</a>",
+      "comment": "Gnats (or lice) from dust echo the curse of the ground after the Fall (Gen. 3:17). The staff again signifies divinely sanctioned authority."
     },
     {
-      "pk": 2008017,
+      "pk": 20080017,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 8,
       "verse": 17,
-      "text": "So they did so. Aaron stretched out his hand with his staff and struck the dust of the earth, and there were gnats on man and beast. All the dust of the earth became gnats throughout all the land of Egypt.",
-      "links": "<a href='/AIV/2/8/16'>Ex. 8:16</a>",
-      "comment": "‘On man and beast’ follows exact order of original text."
+      "text": "And they did so; Aaron stretched out his hand with his staff and struck the dust of the earth, and gnats came upon man and beast. All the dust of the earth became gnats throughout all Egypt.",
+      "links": "<a href='/AIV/19/105/31'>Ps. 105:31</a>",
+      "comment": "The entire nation is afflicted, emphasizing divine judgement and the universal scope of sin and its effects."
     },
     {
-      "pk": 2008018,
+      "pk": 20080018,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 8,
       "verse": 18,
-      "text": "The magicians tried with their secret arts to bring forth gnats, but they could not. So there were gnats on man and beast.",
-      "links": "<a href='/AIV/2/7/22'>Ex. 7:22</a>",
-      "comment": "Clearly renders magicians’ failure."
+      "text": "The magicians tried by their secret arts to produce gnats, but they could not. So there were gnats on man and beast.",
+      "links": "<a href='/AIV/2/8/7'>Exod. 8:7</a>",
+      "comment": "Here, human power fails utterly before God. Such boundaries foreshadow the weakness of human efforts without divine grace."
     },
     {
-      "pk": 2008019,
+      "pk": 20080019,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 8,
       "verse": 19,
-      "text": "Then the magicians said to Pharaoh, \"This is the finger of God.\" But Pharaoh's heart was hardened, and he did not listen to them, just as the LORD had said.",
-      "links": "<a href='/AIV/2/31/18'>Ex. 31:18</a>; <a href='/AIV/2/7/13'>Ex. 7:13</a>",
-      "comment": "‘Finger of God’ as literal Hebrew expression, meaning divine power."
+      "text": "The magicians said to Pharaoh, “This is the finger of God.” But Pharaoh’s heart was hardened, and he would not listen to them, just as the LORD had said.",
+      "links": "<a href='/AIV/42/11/20'>Luke 11:20</a>; <a href='/AIV/2/7/14'>Exod. 7:14</a>",
+      "comment": "Recognition of ‘the finger of God’ is later echoed by Jesus casting out demons (Luke 11:20), showing continuity in God’s mighty acts."
     },
     {
-      "pk": 2008020,
+      "pk": 20080020,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 8,
       "verse": 20,
-      "text": "Then the LORD said to Moses, \"Rise up early in the morning and stand before Pharaoh as he goes out to the water. Say to him, ‘This is what the LORD says: Let my people go, so that they may serve me.’\"",
-      "links": "<a href='/AIV/2/7/15'>Ex. 7:15</a>",
-      "comment": "Translation retains command to rise early, matching original sequence."
+      "text": "Then the LORD said to Moses, “Rise early in the morning and present yourself before Pharaoh as he comes out to the water and say to him, ‘This is what the LORD says: Let My people go, so that they may serve Me.’”",
+      "links": "<a href='/AIV/2/7/15'>Exod. 7:15</a>; <a href='/AIV/2/8/1'>Exod. 8:1</a>",
+      "comment": "The repeated demand for worship establishes true religion as founded on obedience to God, not human rulers."
     },
     {
-      "pk": 2008021,
+      "pk": 20080021,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 8,
       "verse": 21,
-      "text": "If you do not let my people go, I will send swarms of flies on you, your servants, your people, and into your houses. The houses of the Egyptians shall be full of swarms of flies, and also the ground they stand on.",
-      "links": "<a href='/AIV/2/8/24'>Ex. 8:24</a>",
-      "comment": "‘Swarms of flies’ translates Hebrew arov, which implies harmful, biting flies."
+      "text": "If you do not let My people go, I will send swarms of flies upon you, your servants, your people, and into your houses. The houses of the Egyptians will be full of flies, and also the ground they stand on.",
+      "links": "<a href='/AIV/19/105/31'>Ps. 105:31</a>",
+      "comment": "‘Swarms of flies’ represent disorder and corruption. Purity and cleanliness are vital spiritual lessons (Matt. 23:27)."
     },
     {
-      "pk": 2008022,
+      "pk": 20080022,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 8,
       "verse": 22,
-      "text": "But on that day I will set apart the land of Goshen, where my people live, so that no swarms of flies will be there. This will happen so you may know that I am the LORD in the midst of the land.",
-      "links": "<a href='/AIV/2/9/4'>Ex. 9:4</a>",
-      "comment": "‘Set apart’ for Hebrew hiphlé; Goshen’s protection emphasized."
+      "text": "But on that day, I will set apart the land of Goshen, where My people live, so that no swarms of flies will be there, so that you may know I am the LORD in the midst of the land.",
+      "links": "<a href='/AIV/2/9/26'>Exod. 9:26</a>; <a href='/AIV/26/37/27'>Ezek. 37:27</a>",
+      "comment": "God’s protection of Goshen prefigures spiritual preservation and distinction of the faithful. God’s presence among His people is central throughout scripture."
     },
     {
-      "pk": 2008023,
+      "pk": 20080023,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 8,
       "verse": 23,
-      "text": "I will make a distinction between my people and your people. Tomorrow this sign shall happen.’\"",
-      "links": "<a href='/AIV/2/11/7'>Ex. 11:7</a>",
-      "comment": "‘Distinction’ is literal for Hebrew pedut."
+      "text": "I will put a division between My people and your people. Tomorrow this sign will occur.”",
+      "links": "<a href='/AIV/19/4/3'>Ps. 4:3</a>",
+      "comment": "God’s act of separating His people points to election—God chooses and sets apart for His purpose, a theme carried forward into the New Covenant (Eph. 1:4)."
     },
     {
-      "pk": 2008024,
+      "pk": 20080024,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 8,
       "verse": 24,
-      "text": "And the LORD did so. Dense swarms of flies came into the house of Pharaoh, his servants' houses, and through all the land of Egypt. The land was ruined because of the swarms of flies.",
-      "links": "<a href='/AIV/2/8/21'>Ex. 8:21</a>",
-      "comment": "‘Ruined’ (Hebrew shachat); swarms described as ‘dense’ as in context."
+      "text": "And the LORD did so; there came great swarms of flies into Pharaoh’s house and his servants’ houses; all the land of Egypt was ruined because of the swarms of flies.",
+      "links": "<a href='/AIV/19/105/31'>Ps. 105:31</a>",
+      "comment": "Egypt’s devastation is a sign of divine judgement, similar to later events in Old Testament prophecy (Isaiah 10:22)."
     },
     {
-      "pk": 2008025,
+      "pk": 20080025,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 8,
       "verse": 25,
-      "text": "Pharaoh called Moses and Aaron and said, \"Go sacrifice to your God within the land.\"",
-      "links": "<a href='/AIV/2/8/8'>Ex. 8:8</a>",
-      "comment": "‘Sacrifice to your God within the land’ preserves Pharaoh’s compromise offer."
+      "text": "Pharaoh summoned Moses and Aaron and said, “Go, sacrifice to your God in the land.”",
+      "links": "<a href='/AIV/2/8/8'>Exod. 8:8</a>",
+      "comment": "Pharaoh proposes compromise, but true worship requires the place and manner ordained by God. Shows the necessity of worship in spirit and truth (John 4:24)."
     },
     {
-      "pk": 2008026,
+      "pk": 20080026,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 8,
       "verse": 26,
-      "text": "But Moses said, \"That would not be right, for the offerings we sacrifice to the LORD our God are an abomination to the Egyptians. If we sacrifice what is abominable to the Egyptians before their eyes, will they not stone us?\"",
-      "links": "<a href='/AIV/1/43/32'>Gen. 43:32</a>",
-      "comment": "‘Abomination’ keeps the theological and cultural meaning of Hebrew to'evah."
+      "text": "But Moses said, “It would not be right to do so, for our sacrifices to the LORD our God would be an abomination to the Egyptians. If we sacrifice what is abominable to the Egyptians before their eyes, will they not stone us?”",
+      "links": "<a href='/AIV/1/43/32'>Gen. 43:32</a>; <a href='/AIV/1/46/34'>Gen. 46:34</a>",
+      "comment": "Worship must be according to God’s prescription, even when that differs from surrounding cultures. The unity of worship in God’s people is an enduring theme."
     },
     {
-      "pk": 2008027,
+      "pk": 20080027,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 8,
       "verse": 27,
-      "text": "We must go a three-day journey into the wilderness and sacrifice to the LORD our God, as he commands us.\"",
-      "links": "<a href='/AIV/2/3/18'>Ex. 3:18</a>",
-      "comment": "‘Three-day journey’ follows the Hebrew idiom."
+      "text": "We must go three days’ journey into the wilderness and sacrifice to the LORD our God, as He commands us.”",
+      "links": "<a href='/AIV/2/3/18'>Exod. 3:18</a>; <a href='/AIV/2/5/3'>Exod. 5:3</a>",
+      "comment": "Emphasizes obedience to divine command rather than human negotiation. True worship always seeks God’s will above compromise."
     },
     {
-      "pk": 2008028,
+      "pk": 20080028,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 8,
       "verse": 28,
-      "text": "Pharaoh said, \"I will let you go to sacrifice to the LORD your God in the wilderness; only do not go very far away. Plead for me.\"",
-      "links": "<a href='/AIV/2/9/28'>Ex. 9:28</a>",
-      "comment": "‘Plead for me’ is literal for Hebrew hitpa'el from ‘pray/intercede.’"
+      "text": "Pharaoh said, “I will let you go to sacrifice to the LORD your God in the wilderness, only do not go very far; plead for me.”",
+      "links": "<a href='/AIV/2/8/8'>Exod. 8:8</a>",
+      "comment": "Pharaoh continues to seek limits; however, God calls for fullness of commitment—akin to whole-hearted discipleship (Luke 9:62)."
     },
     {
-      "pk": 2008029,
+      "pk": 20080029,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 8,
       "verse": 29,
-      "text": "Moses said, \"As soon as I leave you, I will pray to the LORD, and tomorrow the swarms of flies will leave Pharaoh, his servants, and his people. But let Pharaoh not deceive us again by refusing to let the people go to sacrifice to the LORD.\"",
-      "links": "<a href='/AIV/2/9/29'>Ex. 9:29</a>",
-      "comment": "‘Not deceive us again’ matches Hebrew verb for ‘act deceitfully.’"
+      "text": "Moses said, “As soon as I leave you, I will pray to the LORD that the swarms of flies may depart from Pharaoh, his servants, and his people tomorrow. But let Pharaoh not deal falsely again by refusing to let the people go to sacrifice to the LORD.”",
+      "links": "<a href='/AIV/2/8/9'>Exod. 8:9</a>",
+      "comment": "Warns of faithfulness. Moses models integrity and clear warning about disobedience, a trait necessary for spiritual leaders."
     },
     {
-      "pk": 2008030,
+      "pk": 20080030,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 8,
       "verse": 30,
       "text": "So Moses went out from Pharaoh and prayed to the LORD.",
-      "links": "<a href='/AIV/2/8/12'>Ex. 8:12</a>",
-      "comment": "‘Prayed’ is literal, as in Hebrew ‘va-yetar.’"
+      "links": "<a href='/AIV/2/8/12'>Exod. 8:12</a>",
+      "comment": "Prayer as the means by which leaders seek God’s strength and favor is a recurring biblical principle."
     },
     {
-      "pk": 2008031,
+      "pk": 20080031,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 8,
       "verse": 31,
-      "text": "And the LORD did as Moses asked; he removed the swarms of flies from Pharaoh, from his servants, and from his people. Not one remained.",
-      "links": "<a href='/AIV/2/10/19'>Ex. 10:19</a>",
-      "comment": "‘Not one remained’ (Hebrew: ‘lo nishar echad’)."
+      "text": "And the LORD did what Moses asked: He removed the swarms of flies from Pharaoh, his servants, and his people; not a single one remained.",
+      "links": "<a href='/AIV/19/77/20'>Ps. 77:20</a>",
+      "comment": "Emphasizes the efficacy of intercessory prayer when offered with faith. God’s complete removal points to His total authority."
     },
     {
-      "pk": 2008032,
+      "pk": 20080032,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 8,
       "verse": 32,
-      "text": "But Pharaoh hardened his heart this time also, and did not let the people go.",
-      "links": "<a href='/AIV/2/7/13'>Ex. 7:13</a>; <a href='/AIV/2/9/34'>Ex. 9:34</a>",
-      "comment": "Consistent with earlier ‘hardening of heart’ language in Exodus."
+      "text": "But Pharaoh hardened his heart this time also and did not let the people go.",
+      "links": "<a href='/AIV/2/7/13'>Exod. 7:13</a>; <a href='/AIV/2/9/7'>Exod. 9:7</a>",
+      "comment": "Again, persistent resistance to God signals spiritual danger. The need for conversion is underscored—foreshadowing the transformation that Christ brings (Acts 3:19)."
     }
   ],
-  "translatedAt": "2025-12-20T08:35:52.659Z"
+  "translatedAt": "2025-12-24T00:50:45.369Z"
 }

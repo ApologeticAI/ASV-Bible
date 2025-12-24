@@ -1,348 +1,417 @@
 {
-  "book": "Genesis",
+  "book": 1,
+  "bookName": "Genesis",
   "bookAbbreviation": "Gen",
   "chapter": 44,
   "verses": [
     {
-      "pk": 1944401,
+      "pk": 1044001,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 44,
       "verse": 1,
-      "text": "Then Joseph commanded the steward of his house, saying, “Fill the men’s sacks with as much food as they can carry, and put each man’s silver in the mouth of his sack.”",
-      "links": "<a href='/AIV/1/43/16-17'>Gen. 43:16-17</a>",
-      "comment": "Joseph continues to test his brothers, but also shows generosity by again returning their silver."
+      "text": "Joseph commanded the steward of his house, saying, \"Fill the men's sacks with as much grain as they can carry, and put each man's money in the opening of his sack.\"",
+      "links": "<a href='/AIV/1/42/25'>Gen. 42:25</a>; <a href='/AIV/1/43/2'>Gen. 43:2</a>",
+      "comment": "Joseph continues the test of his brothers, providing grain and returning their money just as he did before, laying the groundwork for the final act of reconciliation."
     },
     {
-      "pk": 1944402,
+      "pk": 1044002,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 44,
       "verse": 2,
-      "text": "And put my cup, the silver cup, in the mouth of the youngest one’s sack, along with his grain money.” So the steward did as Joseph had said.",
-      "links": "<a href='/AIV/1/44/12'>Gen. 44:12</a>",
-      "comment": "Joseph’s cup, often used for divination, is placed with Benjamin, intentionally leading toward the test of the brothers’ character."
+      "text": "Put my cup, the silver one, in the opening of the youngest one's sack, along with his grain money.\" So he did as Joseph said.",
+      "links": "<a href='/AIV/1/44/12'>Gen. 44:12</a>; <a href='/AIV/1/42/15'>Gen. 42:15</a>",
+      "comment": "The silver cup is a symbol of authority and discernment. Its placement with Benjamin foreshadows the coming test of the brothers' loyalty and repentance."
     },
     {
-      "pk": 1944403,
+      "pk": 1044003,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 44,
       "verse": 3,
-      "text": "As soon as the morning dawned, the men were sent away with their donkeys.",
-      "links": "<a href='/AIV/1/44/11'>Gen. 44:11</a>",
-      "comment": "The brothers believe their business is complete, unaware of the test to come."
+      "text": "At dawn, the men were sent off with their donkeys.",
+      "links": "<a href='/AIV/1/43/13'>Gen. 43:13</a>",
+      "comment": "This verse marks the brothers' departure, unaware of the hidden test awaiting them."
     },
     {
-      "pk": 1944404,
+      "pk": 1044004,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 44,
       "verse": 4,
-      "text": "They had gone just out of the city, but had not gone far, when Joseph said to his steward, “Get up, pursue the men! When you overtake them, say, ‘Why have you repaid good with evil?’”",
-      "links": "<a href='/AIV/1/44/6'>Gen. 44:6</a>",
-      "comment": "Joseph’s actions recall earlier betrayals. The question also foreshadows themes of mercy and justice."
+      "text": "They had gone only a short distance outside the city when Joseph said to his steward, \"Go after those men. When you catch up to them, say, 'Why have you repaid good with evil?'\"",
+      "links": "<a href='/AIV/1/44/15'>Gen. 44:15</a>",
+      "comment": "Joseph initiates a confrontation that will reveal the brothers' true hearts. The language 'repaid good with evil' echoes later biblical themes of man's free response to God's kindness."
     },
     {
-      "pk": 1944405,
+      "pk": 1044005,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 44,
       "verse": 5,
-      "text": "‘Is not this the cup from which my lord drinks and by which he practices divination? You have done evil in doing this.’”",
-      "links": "<a href='/AIV/1/44/15'>Gen. 44:15</a>",
-      "comment": "Ancient rulers often claimed knowledge of the divine through objects; Joseph’s divination may be a test as much as a cultural norm (cf. Num. 24:1)."
+      "text": "\"Is not this the cup my master drinks from, and by which he divines? You have done wrong in what you have done.\"",
+      "links": "<a href='/AIV/1/41/15'>Gen. 41:15</a>",
+      "comment": "While Joseph does not actually practice divination, the cup symbolized his unique power among Egyptians. This scenario demonstrates God bringing about His purposes even through human customs."
     },
     {
-      "pk": 1944406,
+      "pk": 1044006,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 44,
       "verse": 6,
-      "text": "So the steward overtook them and spoke these words to them.",
+      "text": "When the steward caught up with them, he repeated these words to them.",
       "links": "<a href='/AIV/1/44/4'>Gen. 44:4</a>",
-      "comment": "Joseph’s steward obeys completely, enacting the plan perfectly."
+      "comment": "The steward acts out Joseph’s command precisely, ensuring the test’s progression."
     },
     {
-      "pk": 1944407,
+      "pk": 1044007,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 44,
       "verse": 7,
-      "text": "They said to him, “Why does my lord speak such words as these? Far be it from your servants to do such a thing!”",
-      "links": "<a href='/AIV/1/43/18'>Gen. 43:18</a>",
-      "comment": "The brothers immediately protest their innocence, emphasizing their change from past wrongs."
+      "text": "They replied, \"Why does my lord say such things? Far be it from your servants to do anything like this!\"",
+      "links": "<a href='/AIV/1/44/17'>Gen. 44:17</a>",
+      "comment": "Their response echoes their growing honesty, moving away from deception toward integrity."
     },
     {
-      "pk": 1944408,
+      "pk": 1044008,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 44,
       "verse": 8,
-      "text": "“Look, the money that we found in the mouths of our sacks, we brought back to you from the land of Canaan. How then could we steal silver or gold from your lord’s house?”",
-      "links": "<a href='/AIV/1/43/21-22'>Gen. 43:21-22</a>",
-      "comment": "Their honesty in returning the past silver points to their reformed character (cf. Luke 19:8)."
+      "text": "\"Remember, we brought back to you from the land of Canaan the money we found in our sacks. Why would we steal silver or gold from your master’s house?\"",
+      "links": "<a href='/AIV/1/43/21'>Gen. 43:21</a>",
+      "comment": "The brothers defend themselves by referencing their previous act of honesty, demonstrating moral progress."
     },
     {
-      "pk": 1944409,
+      "pk": 1044009,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 44,
       "verse": 9,
-      "text": "“Whichever of your servants is found with it shall die, and we also will be my lord’s slaves.”",
+      "text": "\"If any of your servants is found to have it, he shall die; and we also will become my lord’s slaves.\"",
       "links": "<a href='/AIV/1/31/32'>Gen. 31:32</a>",
-      "comment": "A severe pledge, recalling earlier statements by Jacob’s family, shows the seriousness with which they take the accusation."
+      "comment": "A rash vow akin to Jacob's in Gen. 31:32. Their earnestness recalls the ancient customs of oaths and justice."
     },
     {
-      "pk": 1944410,
+      "pk": 1044010,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 44,
       "verse": 10,
-      "text": "He said, “Let it be as you say: he who is found with it shall be my slave, but you will be blameless.”",
+      "text": "He replied, \"Let it be as you say: whoever is found with it will be my slave; the rest will be innocent.\"",
       "links": "<a href='/AIV/1/44/17'>Gen. 44:17</a>",
-      "comment": "Joseph’s steward softens their suggestion, offering a punishment focused on personal responsibility—a model seen in later biblical law (Deut. 24:16)."
+      "comment": "The steward lessens the punishment, displaying mercy and justice, reflecting God’s economy of grace and discipline."
     },
     {
-      "pk": 1944411,
+      "pk": 1044011,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 44,
       "verse": 11,
-      "text": "Then each man quickly lowered his sack to the ground, and each man opened his sack.",
-      "links": "<a href='/AIV/1/44/3'>Gen. 44:3</a>",
-      "comment": "Their readiness to be searched shows their trust in each other and their innocence."
+      "text": "Each of them quickly lowered his sack to the ground and opened it.",
+      "links": "<a href='/AIV/1/43/21'>Gen. 43:21</a>",
+      "comment": "Their readiness to submit to inspection reveals their sincerity and transformation from their prior duplicity."
     },
     {
-      "pk": 1944412,
+      "pk": 1044012,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 44,
       "verse": 12,
-      "text": "And the steward searched, beginning with the eldest and ending with the youngest. And the cup was found in Benjamin’s sack.",
-      "links": "<a href='/AIV/1/42/3-4'>Gen. 42:3-4</a>",
-      "comment": "The order of the search heightens suspense and emphasizes Benjamin’s role as the favored son, prefiguring themes of chosen instruments throughout salvation history (cf. 1 Sam. 16:12-13)."
+      "text": "The steward searched, beginning with the oldest and ending with the youngest—and the cup was found in Benjamin’s sack.",
+      "links": "<a href='/AIV/1/43/33'>Gen. 43:33</a>; <a href='/AIV/1/44/2'>Gen. 44:2</a>",
+      "comment": "The order of search highlights Benjamin’s favored status, and the anticipation mirrors narrative techniques used to build suspense and test character."
     },
     {
-      "pk": 1944413,
+      "pk": 1044013,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 44,
       "verse": 13,
-      "text": "Then they tore their clothes, and every man loaded his donkey, and they returned to the city.",
-      "links": "<a href='/AIV/1/37/29'>Gen. 37:29</a>",
-      "comment": "Tearing garments is an ancient sign of grief. Their shared sorrow contrasts the earlier jealousy over Joseph."
+      "text": "At this, they tore their clothes. Then each man loaded his donkey, and they returned to the city.",
+      "links": "<a href='/AIV/1/37/29'>Gen. 37:29</a>; <a href='/AIV/2/33/4'>Ex. 33:4</a>",
+      "comment": "Tearing clothes is a sign of grief and repentance, a motif repeated throughout Scripture indicating contrition and the brokenness needed for reconciliation."
     },
     {
-      "pk": 1944414,
+      "pk": 1044014,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 44,
       "verse": 14,
-      "text": "When Judah and his brothers came to Joseph’s house, he was still there. They fell to the ground before him.",
-      "links": "<a href='/AIV/1/42/6'>Gen. 42:6</a>",
-      "comment": "Their obeisance again fulfills Joseph’s earlier dreams (Gen. 37:7, 9), hinting at God’s providential design."
+      "text": "When Judah and his brothers came to Joseph's house, he was still there. They fell to the ground before him.",
+      "links": "<a href='/AIV/1/43/28'>Gen. 43:28</a>; <a href='/AIV/1/37/7'>Gen. 37:7</a>",
+      "comment": "Their act of falling prostrate echoes Joseph’s dreams and signifies humble submission before authority—later seen as a figure for Christ's kingship and the submission of all nations."
     },
     {
-      "pk": 1944415,
+      "pk": 1044015,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 44,
       "verse": 15,
-      "text": "And Joseph said to them, “What deed is this that you have done? Do you not know that a man like me can surely practice divination?”",
-      "links": "<a href='/AIV/1/44/5'>Gen. 44:5</a>",
-      "comment": "Joseph, still concealed from them, uses the language of Egyptian wisdom and power, preparing the moment of revelation."
+      "text": "Joseph said to them, \"What is this you have done? Did you not know that a man like me can surely divine?\"",
+      "links": "<a href='/AIV/1/41/38-39'>Gen. 41:38-39</a>",
+      "comment": "Joseph continues to play his role as Egyptian ruler, prompting further reflection on authority, justice, and divine wisdom."
     },
     {
-      "pk": 1944416,
+      "pk": 1044016,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 44,
       "verse": 16,
-      "text": "And Judah said, “What shall we say to my lord? What shall we speak? Or how can we clear ourselves? God has found out the guilt of your servants. Behold, we are my lord’s slaves, both we and he in whose hand the cup was found.”",
-      "links": "<a href='/AIV/1/42/21'>Gen. 42:21</a>",
-      "comment": "Judah’s confession shows a recognition of sin and the need for mercy, paralleling biblical themes of confession and grace (cf. Ps. 32:5). Foreshadowing intercessory roles found later in Scripture."
+      "text": "Judah replied, \"What can we say to my lord? What can we speak? How can we clear ourselves? God has uncovered the guilt of your servants. We are now my lord’s slaves, both we and the one found to have the cup.\"",
+      "links": "<a href='/AIV/1/42/21'>Gen. 42:21</a>; <a href='/AIV/19/32/5'>Ps. 32:5</a>",
+      "comment": "Judah’s confession expresses collective guilt and a sense of divine justice. Similar attitudes surface in the Psalms as precursors to true repentance needed for reconciliation."
     },
     {
-      "pk": 1944417,
+      "pk": 1044017,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 44,
       "verse": 17,
-      "text": "But he said, “Far be it from me that I should do so! The man in whose hand the cup was found, he shall be my slave. But as for you, go up in peace to your father.”",
+      "text": "But Joseph said, \"Far be it from me to do that! The one found with the cup will be my slave. The rest of you, go back to your father in peace.\"",
       "links": "<a href='/AIV/1/44/10'>Gen. 44:10</a>",
-      "comment": "Joseph insists on individual justice, recalling God’s demand for personal responsibility and justice."
+      "comment": "Joseph offers justice tempered with mercy, again reflecting divine principles found in later biblical revelation."
     },
     {
-      "pk": 1944418,
+      "pk": 1044018,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 44,
       "verse": 18,
-      "text": "Then Judah drew near to him and said, “O my lord, please let your servant speak a word in my lord’s ear, and do not let your anger burn against your servant, for you are like Pharaoh himself.”",
-      "links": "<a href='/AIV/1/18/27'>Gen. 18:27</a>",
-      "comment": "Judah’s plea reflects humility before authority, like Abraham’s intercession for Sodom, and prefigures the mediating role of one who will offer himself for many (cf. Isa. 53:12)."
+      "text": "Then Judah approached him and said, \"Please, my lord, let your servant speak a word in my lord’s ear, and do not be angry with your servant, for you are like Pharaoh himself.\"",
+      "links": "<a href='/AIV/1/43/20'>Gen. 43:20</a>",
+      "comment": "Judah mediates, prefiguring the role of intercessors throughout Scripture. The appeal to mercy is a profound picture of advocacy that is ultimately fulfilled in Christ."
     },
     {
-      "pk": 1944419,
+      "pk": 1044019,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 44,
       "verse": 19,
-      "text": "My lord asked his servants, saying, ‘Have you a father or a brother?’",
-      "links": "<a href='/AIV/1/42/13'>Gen. 42:13</a>",
-      "comment": "Judah recounts their previous conversation, preparing to highlight Jacob’s love for Benjamin."
+      "text": "\"My lord asked his servants, ‘Have you a father or a brother?’\"",
+      "links": "<a href='/AIV/1/43/7'>Gen. 43:7</a>",
+      "comment": "Judah recounts the initial inquiry, vital for understanding the motivation behind their journey and Joseph’s orchestrated reunion."
     },
     {
-      "pk": 1944420,
+      "pk": 1044020,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 44,
       "verse": 20,
-      "text": "And we said to my lord, ‘We have a father, an old man, and a child of his old age, a little one. His brother is dead, and he alone is left of his mother’s children, and his father loves him.’",
-      "links": "<a href='/AIV/1/42/38'>Gen. 42:38</a>",
-      "comment": "Benjamin’s status as the “one left” of Rachel’s children emphasizes the special role of beloved sons, a biblical motif that prefigures the ‘beloved Son’ in the New Testament (cf. Matt. 3:17)."
+      "text": "\"We answered, ‘We have an aged father and a young child of his old age, and his brother is dead. He alone is left of his mother’s children, and his father loves him.'\"",
+      "links": "<a href='/AIV/1/42/38'>Gen. 42:38</a>; <a href='/AIV/1/43/8'>Gen. 43:8</a>",
+      "comment": "The special love the father has for Benjamin recalls images of unique sonship and beloved children found elsewhere in Scripture."
     },
     {
-      "pk": 1944421,
+      "pk": 1044021,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 44,
       "verse": 21,
-      "text": "Then you said to your servants, ‘Bring him down to me, that I may set my eyes on him.’",
-      "links": "<a href='/AIV/1/42/15'>Gen. 42:15</a>",
-      "comment": "Joseph’s demand initiates the crisis that tests the family’s unity."
+      "text": "\"Then you said to your servants, ‘Bring him down to me so I can see him.'\"",
+      "links": "<a href='/AIV/1/43/3'>Gen. 43:3</a>",
+      "comment": "Joseph’s directive, while appearing harsh, ultimately leads to deeper encounter and reconciliation—a principle found throughout redemptive history."
     },
     {
-      "pk": 1944422,
+      "pk": 1044022,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 44,
       "verse": 22,
-      "text": "And we said to my lord, ‘The boy cannot leave his father, for if he should leave his father, his father would die.’",
+      "text": "\"We said to my lord, ‘The boy cannot leave his father; if he leaves him, his father will die.'\"",
       "links": "<a href='/AIV/1/42/38'>Gen. 42:38</a>",
-      "comment": "A father’s love illustrated here anticipates the love of the heavenly Father who gives up the Beloved Son (cf. John 3:16)."
+      "comment": "The familial bond is stressed here, a motif recurring throughout Scripture and culminating in Christ’s relationships in the Gospels."
     },
     {
-      "pk": 1944423,
+      "pk": 1044023,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 44,
       "verse": 23,
-      "text": "But you said to your servants, ‘Unless your youngest brother comes down with you, you shall not see my face again.’",
+      "text": "\"But you told your servants, ‘Unless your youngest brother comes down with you, you will not see my face again.'\"",
       "links": "<a href='/AIV/1/43/5'>Gen. 43:5</a>",
-      "comment": "Repeated for emphasis, Joseph’s test calls the brothers to solidarity and sacrifice for one another."
+      "comment": "Seeing Joseph’s face was conditional, echoing how access to true communion is connected to obedience and the willingness to reunite in truth."
     },
     {
-      "pk": 1944424,
+      "pk": 1044024,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 44,
       "verse": 24,
-      "text": "When we went back to your servant my father, we told him the words of my lord.",
-      "links": "<a href='/AIV/1/42/29'>Gen. 42:29</a>",
-      "comment": "The full account demonstrates transparency not present when Joseph was first sold."
+      "text": "\"And when we went back to your servant my father, we told him what my lord had said.\"",
+      "links": "<a href='/AIV/1/43/6'>Gen. 43:6</a>",
+      "comment": "Judah demonstrates obedience to his father, underscoring intergenerational faithfulness, a key theme throughout the Old and New Testaments."
     },
     {
-      "pk": 1944425,
+      "pk": 1044025,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 44,
       "verse": 25,
-      "text": "And when our father said, ‘Go again, buy us a little food,’",
+      "text": "\"Our father said, ‘Go again, buy us a little food.'\"",
       "links": "<a href='/AIV/1/43/2'>Gen. 43:2</a>",
-      "comment": "A reference to the second journey; these events are ordered for God’s purpose."
+      "comment": "Physical sustenance serves here to move the plot forward, but also has spiritual parallels in later Scripture where food is a symbol of God’s provision."
     },
     {
-      "pk": 1944426,
+      "pk": 1044026,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 44,
       "verse": 26,
-      "text": "We said, ‘We cannot go down. If our youngest brother goes with us, then we will go down. For we cannot see the man’s face unless our youngest brother is with us.’",
-      "links": "<a href='/AIV/1/43/5'>Gen. 43:5</a>",
-      "comment": "Judah’s full disclosure again contrasts past deceits, signifying growth in virtue."
+      "text": "\"We said, ‘We cannot go down unless our youngest brother goes with us. We will not see the man’s face unless our youngest brother is with us.'\"",
+      "links": "<a href='/AIV/1/43/3'>Gen. 43:3</a>",
+      "comment": "The requirement recalls later biblical language about seeking God’s face—access to divine favor is connected to obedience (cf. Ps. 105:4)."
     },
     {
-      "pk": 1944427,
+      "pk": 1044027,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 44,
       "verse": 27,
-      "text": "Then your servant my father said to us, ‘You know that my wife bore me two sons.’",
-      "links": "<a href='/AIV/1/35/18'>Gen. 35:18</a>",
-      "comment": "Rachel’s sons are set apart, a recurring pattern of favored offspring. Spiritual tradition sees a type or foreshadowing of those uniquely chosen by God’s providence."
+      "text": "\"Your servant my father said to us, ‘You know that my wife bore me two sons.'\"",
+      "links": "<a href='/AIV/1/35/24'>Gen. 35:24</a>",
+      "comment": "Jacob’s special relationship with Rachel and her sons shapes the drama, foreshadowing themes of chosen lineage and promise."
     },
     {
-      "pk": 1944428,
+      "pk": 1044028,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 44,
       "verse": 28,
-      "text": "One went away from me, and I said, ‘Surely he has been torn to pieces,’ and I have not seen him since.",
-      "links": "<a href='/AIV/1/37/33-35'>Gen. 37:33-35</a>",
-      "comment": "Jacob’s suffering and assumed loss prefigures the sorrow felt over the loss of the beloved Son, a theme realized fully in the Passion narratives."
+      "text": "\"One of them went away from me, and I said, ‘Surely he has been torn to pieces,’ and I have not seen him since.\"",
+      "links": "<a href='/AIV/1/37/33'>Gen. 37:33</a>",
+      "comment": "The presumed loss of Joseph is an ongoing wound for Jacob and a continual source of guilt for his brothers."
     },
     {
-      "pk": 1944429,
+      "pk": 1044029,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 44,
       "verse": 29,
-      "text": "If you take this one also from me, and harm befalls him, you will bring down my gray hairs in sorrow to Sheol.’",
+      "text": "\"If you take this one from me and harm comes to him, you will bring my gray head down to the grave in sorrow.'\"",
       "links": "<a href='/AIV/1/42/38'>Gen. 42:38</a>",
-      "comment": "The depth of a father’s grief points to the seriousness of familial bonds, significant in moral and theological reflection on obedience and honor."
+      "comment": "Jacob’s reference to Sheol reflects ancient understandings of death, grief, and the afterlife, later clarified in progressive revelation."
     },
     {
-      "pk": 1944430,
+      "pk": 1044030,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 44,
       "verse": 30,
-      "text": "Now therefore, as soon as I come to your servant my father, and the boy is not with us, then—as his life is bound up with the boy’s life—",
-      "links": "<a href='/AIV/1/44/31'>Gen. 44:31</a>",
-      "comment": "Judah argues from the deep union of souls, a mysterious yet real bond, which points toward the communion of persons that lies at the heart of biblical revelation."
+      "text": "\"So now, if I come to your servant my father and the boy is not with us—since his life is so closely bound up with the boy’s—\"",
+      "links": "<a href='/AIV/1/44/20'>Gen. 44:20</a>",
+      "comment": "The inseparable bond between father and son recalls biblical patterns of chosen sons and how their destinies shape the future of God’s people."
     },
     {
-      "pk": 1944431,
+      "pk": 1044031,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 44,
       "verse": 31,
-      "text": "when he sees that the boy is not with us, he will die. And your servants will bring down the gray hairs of your servant our father with sorrow to Sheol.",
-      "links": "<a href='/AIV/1/37/35'>Gen. 37:35</a>",
-      "comment": "Again references the ancient worldview concerning Sheol, the place of the dead, highlighting the anguish of loss."
+      "text": "\"When he sees the boy is not there, he will die. Your servants will bring the gray head of your servant our father down to the grave in sorrow.\"",
+      "links": "<a href='/AIV/1/44/29'>Gen. 44:29</a>",
+      "comment": "Judah stresses the gravity of Benjamin’s absence, emphasizing the lasting impact of familial choices and actions."
     },
     {
-      "pk": 1944432,
+      "pk": 1044032,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 44,
       "verse": 32,
-      "text": "For your servant became surety for the boy to my father, saying, ‘If I do not bring him back to you, then I shall bear the blame before my father all my life.’",
+      "text": "\"Your servant gave his father a guarantee for the boy, saying, ‘If I do not bring him back to you, I will bear the blame before my father all my life.'\"",
       "links": "<a href='/AIV/1/43/9'>Gen. 43:9</a>",
-      "comment": "Judah’s offer of himself for Benjamin is a profound act of substitution; this act foreshadows the Christ who will become the substitute for many (cf. John 10:11; Rom. 5:8)."
+      "comment": "Judah’s personal pledge is a profound act of self-sacrifice, prefiguring substitutionary roles in biblical redemption, ultimately culminating in Christ’s offering."
     },
     {
-      "pk": 1944433,
+      "pk": 1044033,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 44,
       "verse": 33,
-      "text": "Now therefore, please let your servant remain instead of the boy as a slave to my lord, and let the boy go up with his brothers.",
-      "links": "<a href='/AIV/1/22/13'>Gen. 22:13</a>; <a href='/AIV/43/15/13'>John 15:13</a>",
-      "comment": "Judah’s self-offering prefigures ultimate sacrifice in redemptive history. The willingness to lay down one’s life for another is fulfilled in the Gospel (cf. John 15:13)."
+      "text": "\"So now, please let your servant stay here as the slave to my lord instead of the boy, and let the boy return with his brothers.\"",
+      "links": "<a href='/AIV/1/22/13'>Gen. 22:13</a>; <a href='/AIV/19/49/7'>Ps. 49:7</a>",
+      "comment": "Judah offers himself as a substitute, an act echoing Abraham’s provision on Mount Moriah. The concept of substitution is fully realized in the Messiah’s sacrificial work (cf. Jn. 10:11)."
     },
     {
-      "pk": 1944434,
+      "pk": 1044034,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 44,
       "verse": 34,
-      "text": "For how can I go up to my father if the boy is not with me? I fear to see the evil that would come upon my father.”",
-      "links": "<a href='/AIV/1/37/35'>Gen. 37:35</a>",
-      "comment": "Judah’s empathy and concern for his father marks a complete reversal from the earlier betrayal of Joseph, manifesting the full conversion and spiritual maturity possibly associated with true repentance and ongoing transformation—a pattern lived out by later saints and fulfilled supremely in Christ."
+      "text": "\"For how can I go back to my father if the boy is not with me? I could not bear to see the misery that would come upon my father.\"",
+      "links": "<a href='/AIV/1/44/31'>Gen. 44:31</a>",
+      "comment": "Judah’s closing appeal is not only a moving picture of love and sacrifice but also embodies the spirit of true repentance, self-giving, and concern for others—virtues foundational in the maturity of faith. The role of mediation and substitution here anticipates Christ’s mediation for humanity (cf. 1 Tim 2:5)."
     }
   ],
-  "translatedAt": "2025-12-23T08:58:22.217Z"
+  "translatedAt": "2025-12-24T00:39:43.659Z"
 }

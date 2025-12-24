@@ -1,188 +1,225 @@
 {
-  "book": "Genesis",
+  "book": 1,
+  "bookName": "Genesis",
   "bookAbbreviation": "Gen",
   "chapter": 13,
   "verses": [
     {
-      "pk": 101301,
+      "pk": 1013001,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 13,
       "verse": 1,
-      "text": "So Abram went up from Egypt to the Negev, he and his wife, and all that he had, and Lot with him.",
-      "links": "<a href='/AIV/1/12/10'>Gen. 12:10</a>; <a href='/AIV/1/20/1'>Gen. 20:1</a>",
-      "comment": "Abram’s return from Egypt marks a turning point showing his detachment from previous burdens. The Negev, a southern region, anticipates movement toward God's promise."
+      "text": "So Abram went up from Egypt to the Negev, he and his wife, and all that belonged to him, and Lot with him.",
+      "links": "<a href='/AIV/1/12/9'>Gen 12:9</a>; <a href='/AIV/1/12/10'>Gen 12:10</a>",
+      "comment": "Abram leaves Egypt after the episode with Pharaoh, setting the context for his continued journey in faith. This mirrors the pattern of God's people entering and later departing Egypt (see Exodus 12:41)."
     },
     {
-      "pk": 101302,
+      "pk": 1013002,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 13,
       "verse": 2,
-      "text": "Now Abram was very wealthy in livestock, silver, and gold.",
-      "links": "<a href='/AIV/1/24/35'>Gen. 24:35</a>; <a href='/AIV/19/105/37'>Ps. 105:37</a>",
-      "comment": "Material blessings often accompany obedience to God’s call, foreshadowing how God's chosen line is set apart and provided for."
+      "text": "Now Abram was very rich in livestock, in silver, and in gold.",
+      "links": "<a href='/AIV/1/24/35'>Gen 24:35</a>; <a href='/AIV/19/105/37'>Ps 105:37</a>",
+      "comment": "Abram's wealth demonstrates God's blessing upon those who trust and follow Him, echoing the later concept that faithfulness leads to spiritual riches, not just material ones (see Matthew 6:33)."
     },
     {
-      "pk": 101303,
+      "pk": 1013003,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 13,
       "verse": 3,
-      "text": "He journeyed on from the Negev as far as Bethel, to the place where his tent had been at the beginning, between Bethel and Ai.",
-      "links": "<a href='/AIV/1/12/8'>Gen. 12:8</a>; <a href='/AIV/1/28/19'>Gen. 28:19</a>",
-      "comment": "Abram’s return to Bethel symbolically recalls a return to first devotion, a theme reappearing in calls to spiritual renewal."
+      "text": "He traveled by stages from the Negev as far as Bethel, to the place where his tent had been at the beginning, between Bethel and Ai,",
+      "links": "<a href='/AIV/1/12/8'>Gen 12:8</a>; <a href='/AIV/1/28/19'>Gen 28:19</a>",
+      "comment": "Returning to Bethel shows a pattern of spiritual renewal, revisiting the place where God was previously encountered. This demonstrates the importance of worshiping at consecrated places."
     },
     {
-      "pk": 101304,
+      "pk": 1013004,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 13,
       "verse": 4,
-      "text": "To the place where he had built the altar at first, and there Abram called upon the name of the LORD.",
-      "links": "<a href='/AIV/1/12/7'>Gen. 12:7</a>; <a href='/AIV/19/116/17'>Ps. 116:17</a>",
-      "comment": "Returning to worship at the altar signals the central role of sacrifice and prayer in maintaining communion with God; altars foreshadow Christ’s once-for-all sacrifice."
+      "text": "to the place of the altar that he had made there earlier. There Abram called upon the Name of the LORD.",
+      "links": "<a href='/AIV/1/12/7-8'>Gen 12:7-8</a>; <a href='/AIV/19/116/17'>Ps 116:17</a>",
+      "comment": "Abram offers worship at the altar. This emphasizes the centrality of sacrificial worship, a theme fulfilled in the ultimate sacrifice of Christ (see Hebrews 9:14)."
     },
     {
-      "pk": 101305,
+      "pk": 1013005,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 13,
       "verse": 5,
-      "text": "And Lot, who went with Abram, also had flocks, herds, and tents.",
-      "links": "<a href='/AIV/1/12/5'>Gen. 12:5</a>",
-      "comment": "Lot’s abundance reflects the blessings that overflow onto those who journey with God’s chosen, similar to spiritual inheritance through faithful community."
+      "text": "Lot, who went with Abram, also had flocks and herds and tents.",
+      "links": "<a href='/AIV/1/12/4-5'>Gen 12:4-5</a>",
+      "comment": "Lot shares in Abram’s blessing by association. This suggests the spiritual benefit that comes to those united in close relationship with the people of God (cf. Acts 16:31)."
     },
     {
-      "pk": 101306,
+      "pk": 1013006,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 13,
       "verse": 6,
-      "text": "But the land could not support them while they stayed together, for their possessions were so great that they could not dwell together.",
-      "links": "<a href='/AIV/1/36/7'>Gen. 36:7</a>",
-      "comment": "The scarcity points to the need for separation and discernment in pursuing God’s specific promises, echoing later divisions among peoples for divine purposes."
+      "text": "But the land could not support them while they stayed together, because their possessions were so great that they could not remain together.",
+      "links": "<a href='/AIV/1/36/7'>Gen 36:7</a>",
+      "comment": "Material blessing brings the challenge of unity in community. Throughout Scripture, division over possessions foreshadows the necessity of peace and charity (see John 17:21)."
     },
     {
-      "pk": 101307,
+      "pk": 1013007,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 13,
       "verse": 7,
-      "text": "And there was strife between the herdsmen of Abram’s livestock and the herdsmen of Lot’s livestock. At that time, the Canaanites and Perizzites were living in the land.",
-      "links": "<a href='/AIV/1/12/6'>Gen. 12:6</a>; <a href='/AIV/1/34/30'>Gen. 34:30</a>",
-      "comment": "The mention of strife highlights human conflict arising from abundance, and the people dwelling in the land reveal it was not yet possessed by God’s promised line."
+      "text": "There was strife between the herders of Abram’s livestock and the herders of Lot’s livestock. The Canaanites and the Perizzites were dwelling in the land at that time.",
+      "links": "<a href='/AIV/1/26/20'>Gen 26:20</a>; <a href='/AIV/1/12/6'>Gen 12:6</a>",
+      "comment": "The mention of Canaanites and Perizzites underlines the theme of pilgrimage and the challenge of living in a land not yet inherited. The need for peace within the community is emphasized over rivalry."
     },
     {
-      "pk": 101308,
+      "pk": 1013008,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 13,
       "verse": 8,
-      "text": "So Abram said to Lot, 'Let there be no strife between you and me, or between your herdsmen and mine, for we are relatives.'",
-      "links": "<a href='/AIV/19/133/1'>Ps. 133:1</a>; <a href='/AIV/40/5/9'>Matt. 5:9</a>",
-      "comment": "Abram’s initiative for peace reflects the calling to harmony among God’s people, anticipating teachings on reconciliation and unity found in later scripture."
+      "text": "So Abram said to Lot, 'Please, let there be no strife between you and me, or between my herders and your herders, for we are close relatives.'",
+      "links": "<a href='/AIV/1/45/24'>Gen 45:24</a>; <a href='/AIV/1/29/15'>Gen 29:15</a>",
+      "comment": "Abram’s appeal to peace and unity among brothers foreshadows Christ’s call for unity among his followers (John 17:20-23)."
     },
     {
-      "pk": 101309,
+      "pk": 1013009,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 13,
       "verse": 9,
-      "text": "'Is not the whole land before you? Please separate from me. If you take the left, then I will go to the right; or if you take the right, then I will go to the left.'",
-      "links": "<a href='/AIV/1/20/15'>Gen. 20:15</a>",
-      "comment": "Abram’s trusting generosity reveals faith in God’s provision, willingly surrendering his own interests—an early model for humility that reflects self-emptying (cf. Phil. 2:5–8)."
+      "text": "Is not the whole land before you? Please separate yourself from me. If you go to the left, then I will go to the right; or if to the right, then I will go to the left.",
+      "links": "<a href='/AIV/1/20/15'>Gen 20:15</a>; <a href='/AIV/11/3/16'>1 Kgs 3:16-28</a>",
+      "comment": "Abram’s generous offer reveals humility and trust in God’s providence. This self-emptying is a model of Christian charity, anticipating Christ’s teaching to put others first (Philippians 2:3-4)."
     },
     {
-      "pk": 101310,
+      "pk": 1013010,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 13,
       "verse": 10,
-      "text": "Lot lifted his eyes and saw all the valley of the Jordan, that it was well-watered everywhere—like the garden of the LORD, like the land of Egypt—as you go toward Zoar. (This was before the LORD destroyed Sodom and Gomorrah.)",
-      "links": "<a href='/AIV/1/19/24'>Gen. 19:24</a>; <a href='/AIV/1/2/10'>Gen. 2:10</a>",
-      "comment": "Lot’s choice, based on appearance, reflects humanity’s tendency toward superficial judgment, echoing Eden’s allure and Egypt’s abundance but ending in separation from the place of promise."
+      "text": "Lot lifted up his eyes and saw all the valley of the Jordan, that it was well watered everywhere—like the garden of the LORD, like the land of Egypt—as you go toward Zoar. (This was before the LORD destroyed Sodom and Gomorrah.)",
+      "links": "<a href='/AIV/1/2/10-14'>Gen 2:10-14</a>; <a href='/AIV/1/19/24-25'>Gen 19:24-25</a>",
+      "comment": "Lot is attracted by appearances, but the land he chooses is close to the wickedness of Sodom. Biblical wisdom often warns against judging only by appearances (1 Samuel 16:7; 2 Cor 5:7)."
     },
     {
-      "pk": 101311,
+      "pk": 1013011,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 13,
       "verse": 11,
-      "text": "So Lot chose for himself all the valley of the Jordan, and Lot journeyed east. Thus they separated from each other.",
-      "links": "<a href='/AIV/1/19/17'>Gen. 19:17</a>",
-      "comment": "Eastward movement is often associated with exile or moving away from the presence of God (cf. Gen. 3:24), hinting at Lot’s future difficulties."
+      "text": "So Lot chose for himself all the valley of the Jordan, and Lot journeyed eastward. Thus they separated from each other.",
+      "links": "<a href='/AIV/1/19/17'>Gen 19:17</a>",
+      "comment": "Lot’s choice marks a separation, echoing later moments when God separates his people for their spiritual good. There is a pattern in salvation history where choosing immediate gain leads to unforeseen spiritual peril (cf. Luke 12:21)."
     },
     {
-      "pk": 101312,
+      "pk": 1013012,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 13,
       "verse": 12,
-      "text": "Abram settled in the land of Canaan, while Lot settled among the cities of the valley and pitched his tents near Sodom.",
-      "links": "<a href='/AIV/1/19/1'>Gen. 19:1</a>",
-      "comment": "Abram’s location aligns with God’s promises, while Lot’s choice places him near corruption—a lesson about the spiritual consequences of where we dwell."
+      "text": "Abram settled in the land of Canaan, while Lot settled among the cities of the valley and pitched his tents as far as Sodom.",
+      "links": "<a href='/AIV/1/19/1'>Gen 19:1</a>",
+      "comment": "Abram remains in Canaan, the land of promise. His faithfulness in remaining in the promised land contrasts with Lot’s proximity to sin. Living near wickedness can put one’s faith at risk (1 Cor 15:33)."
     },
     {
-      "pk": 101313,
+      "pk": 1013013,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 13,
       "verse": 13,
-      "text": "Now the men of Sodom were wicked, sinning greatly against the LORD.",
-      "links": "<a href='/AIV/1/18/20'>Gen. 18:20</a>; <a href='/AIV/1/19/13'>Gen. 19:13</a>",
-      "comment": "Sodom's wickedness is contrasted with the righteousness God seeks, foreshadowing coming judgment and identifying the need for intercession."
+      "text": "Now the men of Sodom were wicked and great sinners against the LORD.",
+      "links": "<a href='/AIV/1/18/20'>Gen 18:20</a>; <a href='/AIV/19/1/1'>Ps 1:1</a>",
+      "comment": "The moral warning here underlines God’s call for his people to pursue righteousness and avoid cooperation with evil, a call repeated in both Old and New Testaments (see 2 Timothy 2:22)."
     },
     {
-      "pk": 101314,
+      "pk": 1013014,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 13,
       "verse": 14,
-      "text": "The LORD said to Abram, after Lot had separated from him, 'Lift up your eyes and look from the place where you are—northward and southward and eastward and westward.'",
-      "links": "<a href='/AIV/1/28/14'>Gen. 28:14</a>; <a href='/AIV/1/15/5'>Gen. 15:5</a>",
-      "comment": "Abram receives personal reassurance from God, with language recalling the breadth of spiritual inheritance later promised to believers (cf. Rom. 4:13)."
+      "text": "The LORD said to Abram, after Lot had separated from him, 'Lift up your eyes and look from the place where you are—northward, southward, eastward, and westward.'",
+      "links": "<a href='/AIV/1/12/7'>Gen 12:7</a>; <a href='/AIV/1/28/13-14'>Gen 28:13-14</a>",
+      "comment": "This renewed promise shows God’s faithfulness. Separation precedes blessing, suggesting the spiritual principle that detachment for God’s sake brings a greater inheritance (cf. Mark 10:29-30)."
     },
     {
-      "pk": 101315,
+      "pk": 1013015,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 13,
       "verse": 15,
-      "text": "'For all the land that you see I will give to you and to your offspring forever.'",
-      "links": "<a href='/AIV/1/17/8'>Gen. 17:8</a>; <a href='/AIV/1/28/13'>Gen. 28:13</a>",
-      "comment": "God’s promise is not only material but spiritual and eternal, prefiguring the everlasting Kingdom made present among God’s people."
+      "text": "For all the land which you see I will give to you and to your descendants forever.",
+      "links": "<a href='/AIV/1/17/8'>Gen 17:8</a>; <a href='/AIV/6/1/4'>Josh 1:4</a>",
+      "comment": "God’s promise to Abram’s descendants is everlasting. The promise of an eternal inheritance points beyond earthly land to a spiritual heritage—a theme fulfilled in Christ’s Kingdom (Galatians 3:16-29)."
     },
     {
-      "pk": 101316,
+      "pk": 1013016,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 13,
       "verse": 16,
-      "text": "'And I will make your offspring as the dust of the earth, so that if anyone could count the dust of the earth, your offspring also could be counted.'",
-      "links": "<a href='/AIV/1/22/17'>Gen. 22:17</a>; <a href='/AIV/1/28/14'>Gen. 28:14</a>",
-      "comment": "The multiplication of Abram’s descendants anticipates both physical and spiritual multitudes who become united in faith through a shared covenant."
+      "text": "I will make your descendants as the dust of the earth, so that if someone can count the dust of the earth, your descendants also can be counted.",
+      "links": "<a href='/AIV/1/15/5'>Gen 15:5</a>; <a href='/AIV/1/22/17'>Gen 22:17</a>",
+      "comment": "This imagery of countless descendants spiritually prefigures the multitude of the redeemed who are spiritually children of Abraham through faith (Romans 4:16-17)."
     },
     {
-      "pk": 101317,
+      "pk": 1013017,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 13,
       "verse": 17,
-      "text": "'Arise, walk through the land in its length and breadth, for I will give it to you.'",
-      "links": "<a href='/AIV/1/17/8'>Gen. 17:8</a>; <a href='/AIV/6/1/3'>Josh. 1:3</a>",
-      "comment": "God’s command to ‘walk’ demonstrates participation in the promise—a dynamic, active inheritance paralleling the call to walk in faith and obedience."
+      "text": "Arise, walk through the land in its length and breadth, for I will give it to you.",
+      "links": "<a href='/AIV/1/17/8'>Gen 17:8</a>; <a href='/AIV/6/1/3'>Josh 1:3</a>",
+      "comment": "Abram’s act of walking through the land anticipates later ritual acts of possessing what God has given. This bodily action has parallels in Christian liturgy, where faith is expressed physically as well as spiritually (see James 2:18)."
     },
     {
-      "pk": 101318,
+      "pk": 1013018,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 13,
       "verse": 18,
-      "text": "So Abram moved his tent and came to live by the oaks of Mamre, which are at Hebron, and he built an altar there to the LORD.",
-      "links": "<a href='/AIV/1/18/1'>Gen. 18:1</a>; <a href='/AIV/19/26/2'>Ps. 26:2</a>",
-      "comment": "Abram's settling and altar building emphasize sacred space and continuity of worship, pointing ahead to the establishment of holy places and the importance of ongoing sacrifice—spiritually fulfilled through the perfect offering of Christ."
+      "text": "So Abram moved his tent and came to live by the oaks of Mamre, which are at Hebron, and there he built an altar to the LORD.",
+      "links": "<a href='/AIV/1/14/13'>Gen 14:13</a>; <a href='/AIV/1/18/1'>Gen 18:1</a>",
+      "comment": "Abram’s building of an altar marks Hebron as a place of communion with God. Altars are a sign of true worship and covenant. The emphasis on worshiping God in specific places prefigures the Christian practice of sacred spaces (cf. Revelation 8:3)."
     }
   ],
-  "translatedAt": "2025-12-23T08:40:18.744Z"
+  "translatedAt": "2025-12-24T00:16:46.998Z"
 }

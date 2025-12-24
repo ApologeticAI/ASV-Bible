@@ -1,148 +1,177 @@
 {
-  "book": "Hebrews",
+  "book": 65,
+  "bookName": "Hebrews",
   "bookAbbreviation": "Heb",
   "chapter": 5,
   "verses": [
     {
-      "pk": 503051,
+      "pk": 65005001,
       "translation": "AIV",
-      "book": 58,
+      "book": 65,
+      "bookName": "Hebrews",
+      "bookAbbreviation": "Heb",
       "chapter": 5,
       "verse": 1,
-      "text": "For every high priest chosen from among men is appointed on behalf of people in matters relating to God, to offer both gifts and sacrifices for sins.",
-      "links": "<a href='/AIV/3/16/15'>Lev. 16:15</a>; <a href='/AIV/4/18/1'>Num. 18:1</a>",
-      "comment": "The high priest serves as a mediator between God and man, prefiguring the ultimate high priesthood of Christ. The concept of offering sacrifices for sins is rooted in Old Testament practices (see Leviticus 16)."
+      "text": "Every high priest chosen from among men is appointed to act on behalf of people in matters related to God, offering gifts and sacrifices for sins.",
+      "links": "<a href='/AIV/2/28/1'>Ex. 28:1</a>; <a href='/AIV/3/9/7'>Lev. 9:7</a>",
+      "comment": "This verse emphasizes that high priests are selected from among men, highlighting the need for mediation between God and humanity through a priestly office. This reflects the Old Testament command for a sacrificial system and prefigures the role Christ will fulfill as the ultimate High Priest. See also <a href='/AIV/3/16/6'>Lev. 16:6</a>."
     },
     {
-      "pk": 503052,
+      "pk": 65005002,
       "translation": "AIV",
-      "book": 58,
+      "book": 65,
+      "bookName": "Hebrews",
+      "bookAbbreviation": "Heb",
       "chapter": 5,
       "verse": 2,
-      "text": "He is able to deal gently with those who are ignorant and going astray, since he himself is also subject to weakness.",
-      "links": "<a href='/AIV/5/9/3'>Deut. 9:3</a>; <a href='/AIV/58/2/18'>Heb. 2:18</a>",
-      "comment": "Human priests are compassionate because they share in human frailty. Christ's identification with human weakness is a theme developed throughout Hebrews (see Hebrews 2:18)."
+      "text": "He is able to deal gently with those who are ignorant and going astray, since he himself is subject to weakness.",
+      "links": "<a href='/AIV/3/16/6'>Lev. 16:6</a>",
+      "comment": "Priests can sympathize with others' weaknesses because they, too, are human and need God's mercy. The sympathetic role of the priesthood foreshadows the compassion of Christ, who shares our humanity. Compare <a href='/AIV/65/4/15'>Heb. 4:15</a>."
     },
     {
-      "pk": 503053,
+      "pk": 65005003,
       "translation": "AIV",
-      "book": 58,
+      "book": 65,
+      "bookName": "Hebrews",
+      "bookAbbreviation": "Heb",
       "chapter": 5,
       "verse": 3,
-      "text": "Because of this, he must offer sacrifices for his own sins as well as for the sins of the people.",
-      "links": "<a href='/AIV/3/9/7'>Lev. 9:7</a>; <a href='/AIV/58/7/27'>Heb. 7:27</a>",
-      "comment": "Unlike Christ, earthly priests must atone for their own sins. This highlights Christ's unique sinlessness and His superior priesthood (see Hebrews 7:27)."
+      "text": "Because of this, he is required to offer sacrifices for his own sins as well as for those of the people.",
+      "links": "<a href='/AIV/3/4/3'>Lev. 4:3</a>; <a href='/AIV/3/9/7'>Lev. 9:7</a>",
+      "comment": "Earthly priests must offer sacrifices for themselves, highlighting their imperfection. In contrast, Christ, the perfect High Priest, is sinless and offers the ultimate sacrifice for all."
     },
     {
-      "pk": 503054,
+      "pk": 65005004,
       "translation": "AIV",
-      "book": 58,
+      "book": 65,
+      "bookName": "Hebrews",
+      "bookAbbreviation": "Heb",
       "chapter": 5,
       "verse": 4,
-      "text": "And no one takes this honor upon himself; instead, he is called by God, just as Aaron was.",
-      "links": "<a href='/AIV/2/28/1'>Exod. 28:1</a>; <a href='/AIV/4/16/40'>Num. 16:40</a>",
-      "comment": "The priestly office is established by God's direct call, emphasizing apostolic succession and authority in church leadership (see Exodus 28:1)."
+      "text": "No one takes this honor upon himself, but receives it only when called by God, just as Aaron was.",
+      "links": "<a href='/AIV/2/28/1'>Ex. 28:1</a>",
+      "comment": "Priesthood is a divine calling, not self-appointed. This underscores God’s authority in establishing spiritual offices and hints at the importance of apostolic succession and authority, connecting to how church leaders are chosen."
     },
     {
-      "pk": 503055,
+      "pk": 65005005,
       "translation": "AIV",
-      "book": 58,
+      "book": 65,
+      "bookName": "Hebrews",
+      "bookAbbreviation": "Heb",
       "chapter": 5,
       "verse": 5,
-      "text": "In the same way, Christ did not exalt Himself to become high priest, but was appointed by Him who said to Him, 'You are My Son, today I have begotten You.'",
+      "text": "In the same way, Christ did not glorify Himself to become a high priest, but was appointed by the One who said to Him: \"You are My Son, today I have begotten You.\"",
       "links": "<a href='/AIV/19/2/7'>Ps. 2:7</a>; <a href='/AIV/40/3/17'>Matt. 3:17</a>",
-      "comment": "Christ receives His priesthood by divine appointment, fulfilling Old Testament prophecy (Psalm 2:7). The divine declaration affirms Christ's unique sonship and authority."
+      "comment": "Jesus' priesthood is established by divine appointment, fulfilling Old Testament prophecy. Psalm 2:7 points to the messianic Sonship and unique priestly role of Christ."
     },
     {
-      "pk": 503056,
+      "pk": 65005006,
       "translation": "AIV",
-      "book": 58,
+      "book": 65,
+      "bookName": "Hebrews",
+      "bookAbbreviation": "Heb",
       "chapter": 5,
       "verse": 6,
-      "text": "As He also says in another place, 'You are a priest forever, according to the order of Melchizedek.'",
-      "links": "<a href='/AIV/19/110/4'>Ps. 110:4</a>; <a href='/AIV/1/14/18'>Gen. 14:18</a>",
-      "comment": "The order of Melchizedek represents an eternal and royal-priestly office (see Psalm 110:4), foreshadowing a perpetual priestly ministry in Christ."
+      "text": "As He also says in another place: \"You are a priest forever, in the order of Melchizedek.\"",
+      "links": "<a href='/AIV/19/110/4'>Ps. 110:4</a>",
+      "comment": "The reference to Melchizedek presents a superior, eternal priesthood. This order predates and transcends the Old Testament priesthood of Aaron, foreshadowing Christ’s unique mediation and His perpetual priestly ministry."
     },
     {
-      "pk": 503057,
+      "pk": 65005007,
       "translation": "AIV",
-      "book": 58,
+      "book": 65,
+      "bookName": "Hebrews",
+      "bookAbbreviation": "Heb",
       "chapter": 5,
       "verse": 7,
-      "text": "In the days of His flesh, Jesus offered prayers and petitions with loud cries and tears to Him who was able to save Him from death, and He was heard because of His reverent submission.",
-      "links": "<a href='/AIV/42/22/44'>Luke 22:44</a>; <a href='/AIV/40/26/39'>Matt. 26:39</a>",
-      "comment": "This verse points to Jesus' prayer at Gethsemane, revealing His true humanity and deep submission to the Father's will. Christ’s prayers show His solidarity with human suffering."
+      "text": "During His earthly life, He offered prayers and supplications, with loud cries and tears, to the One able to save Him from death, and He was heard because of His reverence.",
+      "links": "<a href='/AIV/42/22/41-44'>Luke 22:41-44</a>; <a href='/AIV/19/22/1-2'>Ps. 22:1-2</a>",
+      "comment": "Christ’s true humanity is shown in His anguished prayers, especially in Gethsemane. His obedience and submission model perfect faith. This also underscores how deep prayer and reverence are central to the spiritual life."
     },
     {
-      "pk": 503058,
+      "pk": 65005008,
       "translation": "AIV",
-      "book": 58,
+      "book": 65,
+      "bookName": "Hebrews",
+      "bookAbbreviation": "Heb",
       "chapter": 5,
       "verse": 8,
-      "text": "Though He was a Son, He learned obedience through what He suffered.",
+      "text": "Although He was a Son, He learned obedience through what He suffered.",
       "links": "<a href='/AIV/50/2/8'>Phil. 2:8</a>",
-      "comment": "Jesus, in His humanity, matured through suffering, modeling perfect obedience for believers (Philippians 2:8). This underscores the value of suffering in spiritual growth and sanctification."
+      "comment": "Christ’s suffering perfects His human experience, making Him the true representative of mankind while retaining His divine Sonship. Obedience through suffering is central to Christian discipleship."
     },
     {
-      "pk": 503059,
+      "pk": 65005009,
       "translation": "AIV",
-      "book": 58,
+      "book": 65,
+      "bookName": "Hebrews",
+      "bookAbbreviation": "Heb",
       "chapter": 5,
       "verse": 9,
-      "text": "And having been made perfect, He became the source of eternal salvation for all who obey Him.",
-      "links": "<a href='/AIV/58/2/10'>Heb. 2:10</a>; <a href='/AIV/40/7/21'>Matt. 7:21</a>",
-      "comment": "Christ's perfection through suffering establishes Him as the exclusive source of salvation, given to those who obey (see Hebrews 2:10). Obedience is closely linked to saving faith."
+      "text": "And once made perfect, He became the source of eternal salvation for all who obey Him.",
+      "links": "<a href='/AIV/45/5/19'>Rom. 5:19</a>; <a href='/AIV/58/9/28'>Heb. 9:28</a>",
+      "comment": "Through perfect obedience, Christ becomes the fountain of salvation, emphasizing the need for faith and obedience. The language suggests a continuing effect and possibility of participation in Christ’s saving work."
     },
     {
-      "pk": 503060,
+      "pk": 65005010,
       "translation": "AIV",
-      "book": 58,
+      "book": 65,
+      "bookName": "Hebrews",
+      "bookAbbreviation": "Heb",
       "chapter": 5,
       "verse": 10,
-      "text": "Having been declared by God a high priest according to the order of Melchizedek.",
-      "links": "<a href='/AIV/19/110/4'>Ps. 110:4</a>; <a href='/AIV/58/7/17'>Heb. 7:17</a>",
-      "comment": "Again, the writer emphasizes God's direct appointment of Jesus to an everlasting priesthood, distinct from the Levitical line (Psalm 110:4)."
+      "text": "He was designated by God as a high priest in the order of Melchizedek.",
+      "links": "<a href='/AIV/19/110/4'>Ps. 110:4</a>; <a href='/AIV/65/7/17'>Heb. 7:17</a>",
+      "comment": "The repetition of Christ's priesthood after Melchizedek reinforces its eternal and universal nature, setting the foundation for understanding Christian worship and sacrificial ministry as more than a symbol."
     },
     {
-      "pk": 503061,
+      "pk": 65005011,
       "translation": "AIV",
-      "book": 58,
+      "book": 65,
+      "bookName": "Hebrews",
+      "bookAbbreviation": "Heb",
       "chapter": 5,
       "verse": 11,
-      "text": "About this we have much to say, and it is hard to explain, since you have become dull in your hearing.",
-      "links": "",
-      "comment": "The author shifts to a pastoral warning, suggesting the audience’s spiritual immaturity is an obstacle to deeper theological understanding."
+      "text": "About this we have much to say, and it is hard to explain, since you have become dull of hearing.",
+      "links": "<a href='/AIV/46/3/2'>1 Cor. 3:2</a>",
+      "comment": "Spiritual dullness or immaturity hinders deeper understanding, signaling the importance of doctrinal teaching and growth under trustworthy spiritual authority."
     },
     {
-      "pk": 503062,
+      "pk": 65005012,
       "translation": "AIV",
-      "book": 58,
+      "book": 65,
+      "bookName": "Hebrews",
+      "bookAbbreviation": "Heb",
       "chapter": 5,
       "verse": 12,
-      "text": "For though by this time you ought to be teachers, you need someone to teach you again the basic principles of the oracles of God. You need milk, not solid food.",
+      "text": "For though by this time you ought to be teachers, you still need someone to teach you again the basic principles of God’s message. You need milk, not solid food.",
       "links": "<a href='/AIV/46/3/2'>1 Cor. 3:2</a>; <a href='/AIV/60/2/2'>1 Pet. 2:2</a>",
-      "comment": "Basic Christian teachings are compared to milk, reserved for spiritual infants, whereas mature teaching is solid food. The theme of progressing beyond elementary doctrines is seen here."
+      "comment": "There is a call to maturity in faith—growing from basic teachings to a fuller understanding. This highlights the value of spiritual instruction and progression within a community of faith."
     },
     {
-      "pk": 503063,
+      "pk": 65005013,
       "translation": "AIV",
-      "book": 58,
+      "book": 65,
+      "bookName": "Hebrews",
+      "bookAbbreviation": "Heb",
       "chapter": 5,
       "verse": 13,
-      "text": "For everyone who lives on milk is inexperienced with the word of righteousness, for he is a child.",
-      "links": "",
-      "comment": "The 'word of righteousness' points to deeper, life-transforming doctrine and a call to spiritual maturity—beyond a basic understanding of the faith."
+      "text": "For everyone who lives on milk is unskilled in the word of righteousness, for he is a child.",
+      "links": "<a href='/AIV/46/3/2'>1 Cor. 3:2</a>",
+      "comment": "Milk represents beginner's teaching, and the goal is to grow into deeper truths. This progression parallels stages of formation, showing the importance of discipline, sacramental life, and spiritual exercises as one matures."
     },
     {
-      "pk": 503064,
+      "pk": 65005014,
       "translation": "AIV",
-      "book": 58,
+      "book": 65,
+      "bookName": "Hebrews",
+      "bookAbbreviation": "Heb",
       "chapter": 5,
       "verse": 14,
-      "text": "But solid food is for the mature, for those whose senses have been trained by practice to distinguish good and evil.",
-      "links": "<a href='/AIV/50/1/9-10'>Phil. 1:9-10</a>",
-      "comment": "Spiritual maturity involves constant practice and moral discernment. The church’s sacramental and doctrinal life is intended to nurture believers toward this maturity and unity."
+      "text": "But solid food is for the mature, for those whose powers of discernment have been trained by constant practice to distinguish good from evil.",
+      "links": "<a href='/AIV/50/1/9-10'>Phil. 1:9-10</a>; <a href='/AIV/60/1/13-16'>1 Pet. 1:13-16</a>",
+      "comment": "Spiritual maturity comes through training and practice. The mature Christian, guided by the Church and the Spirit, discerns rightly between good and evil, participating more fully in the life of Christ."
     }
   ],
-  "translatedAt": "2025-12-23T04:07:49.907Z"
+  "translatedAt": "2025-12-24T12:18:02.542Z"
 }

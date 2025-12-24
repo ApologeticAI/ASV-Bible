@@ -1,278 +1,333 @@
 {
-  "book": "Leviticus",
+  "book": 3,
+  "bookName": "Leviticus",
   "bookAbbreviation": "Lev",
   "chapter": 20,
   "verses": [
     {
-      "pk": 3012001,
+      "pk": 3020001,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 20,
       "verse": 1,
-      "text": "The Lord spoke to Moses, saying,",
-      "links": "<a href='/AIV/26/3/16'>Ezek. 3:16</a>",
-      "comment": "Direct speech introduction, common in this section."
+      "text": "The LORD spoke to Moses, saying,",
+      "links": "<a href='/AIV/3/19/1'>Lev. 19:1</a>; <a href='/AIV/4/15/1'>Num. 15:1</a>",
+      "comment": "God directly addresses Moses to convey a new set of laws, emphasizing the solemnity and authority behind this section."
     },
     {
-      "pk": 3012002,
+      "pk": 3020002,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 20,
       "verse": 2,
-      "text": "Say to the people of Israel: Any man of the people of Israel, or of the foreigners living in Israel, who gives any of his offspring to Molech shall surely be put to death. The people of the land shall stone him with stones.",
+      "text": "Say to the people of Israel, ‘Any man from the people of Israel or from the foreigners living in Israel who gives any of his children to Molech shall surely be put to death. The people of the land shall stone him with stones.",
       "links": "<a href='/AIV/3/18/21'>Lev. 18:21</a>; <a href='/AIV/5/12/31'>Deut. 12:31</a>",
-      "comment": "Retains 'Molech' (Hebrew: molek) and phrasing of 'give his offspring', signifying child sacrifice."
+      "comment": "Sacrifice to Molech involved abhorrent child offerings condemned throughout the Old Testament. The text upholds the sanctity of life and absolute opposition to idolatry."
     },
     {
-      "pk": 3012003,
+      "pk": 3020003,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 20,
       "verse": 3,
-      "text": "I myself will set my face against that man and will cut him off from among his people, because he has given one of his children to Molech, to make my sanctuary unclean and to profane my holy name.",
+      "text": "I Myself will set My face against that man and will cut him off from among his people, because he has given one of his children to Molech, defiling My sanctuary and profaning My holy name.",
       "links": "<a href='/AIV/3/18/21'>Lev. 18:21</a>; <a href='/AIV/26/20/39'>Ezek. 20:39</a>",
-      "comment": "\"Set my face against\" is a literal rendering of the Hebrew idiom for determined opposition."
+      "comment": "Sacrilege is seen both as a social and spiritual crime. God's punishment is not only physical death but spiritual separation—a theme ultimately remedied in Christ’s atoning sacrifice."
     },
     {
-      "pk": 3012004,
+      "pk": 3020004,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 20,
       "verse": 4,
-      "text": "But if the people of the land at all close their eyes to that man when he gives one of his children to Molech, and do not put him to death,",
-      "links": "<a href='/AIV/5/13/8'>Deut. 13:8</a>",
-      "comment": "Literal: 'at all hide their eyes.'"
+      "text": "If the people of the land ever close their eyes to that man when he gives his children to Molech, not putting him to death,",
+      "links": "<a href='/AIV/3/18/21'>Lev. 18:21</a>",
+      "comment": "Communal responsibility for maintaining holiness is required; neglect enables corruption within the covenant community."
     },
     {
-      "pk": 3012005,
+      "pk": 3020005,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 20,
       "verse": 5,
-      "text": "then I will set my face against that man and against his family, and will cut them off from among their people, both him and all who follow him in whoring after Molech.",
-      "links": "<a href='/AIV/3/17/7'>Lev. 17:7</a>; <a href='/AIV/3/20/3'>Lev. 20:3</a>",
-      "comment": "Phrase 'whoring after Molech' maintains metaphor for idolatry."
+      "text": "then I Myself will set My face against that man and his family, and I will cut off from among their people both him and all who follow him in prostituting themselves with Molech.",
+      "links": "<a href='/AIV/3/17/7'>Lev. 17:7</a>; <a href='/AIV/24/7/31'>Jer. 7:31</a>",
+      "comment": "‘Prostituting’ is a spiritual analogy for idolatry, showing the depth of covenant fidelity expected. God’s justice is both personal and corporate."
     },
     {
-      "pk": 3012006,
+      "pk": 3020006,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 20,
       "verse": 6,
-      "text": "If a person turns to mediums or to necromancers, whoring after them, I will set my face against that person and will cut him off from among his people.",
-      "links": "<a href='/AIV/3/19/31'>Lev. 19:31</a>; <a href='/AIV/9/22/23'>1 Sam. 28:3</a>",
-      "comment": "Terminology from Hebrew for 'mediums' (ovoth) and 'necromancers' (yiddeonim)."
+      "text": "If a person turns to mediums or to those who consult with spirits, prostituting themselves by following them, I will set My face against that person and cut them off from among their people.",
+      "links": "<a href='/AIV/3/19/31'>Lev. 19:31</a>; <a href='/AIV/9/13/1'>1 Sam. 28:7</a>",
+      "comment": "Prohibition against occultism highlights exclusive devotion due to God alone. Separation from the community hints toward the concept of excommunication, showing the seriousness of spiritual fidelity."
     },
     {
-      "pk": 3012007,
+      "pk": 3020007,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 20,
       "verse": 7,
-      "text": "Consecrate yourselves, therefore, and be holy, for I am the Lord your God.",
-      "links": "<a href='/AIV/3/19/2'>Lev. 19:2</a>; <a href='/AIV/60/1/16'>1 Pet. 1:16</a>",
-      "comment": "Retains imperative, 'be holy.'"
+      "text": "Consecrate yourselves and be holy, because I am the LORD your God.",
+      "links": "<a href='/AIV/3/11/44'>Lev. 11:44</a>; <a href='/AIV/60/1/16'>1 Pet. 1:16</a>",
+      "comment": "The call to holiness finds fulfillment in the New Testament call for Christians to be holy as God is holy (<a href='/AIV/60/1/16'>1 Peter 1:16</a>)."
     },
     {
-      "pk": 3012008,
+      "pk": 3020008,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 20,
       "verse": 8,
-      "text": "Keep my statutes and do them. I am the Lord who sanctifies you.",
-      "links": "<a href='/AIV/3/21/8'>Lev. 21:8</a>",
-      "comment": "\"Sanctifies\" literally, 'makes you holy.'"
+      "text": "Keep My statutes and follow them. I am the LORD who makes you holy.",
+      "links": "<a href='/AIV/3/20/7'>Lev. 20:7</a>; <a href='/AIV/24/31/33'>Jer. 31:33</a>",
+      "comment": "God Himself sanctifies His people. True sanctification is not by human effort alone, but by God’s action—seen fully in the life and sacramental ministry of Christ."
     },
     {
-      "pk": 3012009,
+      "pk": 3020009,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 20,
       "verse": 9,
-      "text": "For anyone who curses his father or his mother shall surely be put to death. He has cursed his father or his mother; his blood is upon him.",
-      "links": "<a href='/AIV/2/21/17'>Ex. 21:17</a>; <a href='/AIV/40/15/4'>Matt. 15:4</a>",
-      "comment": "\"His blood is upon him\" is a Hebrew idiom meaning he is responsible for his own death."
+      "text": "Anyone who curses his father or his mother shall surely be put to death; he has cursed his father or his mother—his blood is upon him.",
+      "links": "<a href='/AIV/5/27/16'>Deut. 27:16</a>; <a href='/AIV/40/15/4'>Matt. 15:4</a>",
+      "comment": "Honoring parents is paramount. Jesus upholds this commandment in the Gospels, demonstrating its continuity (see <a href='/AIV/40/15/4'>Matt. 15:4</a>)."
     },
     {
-      "pk": 3012010,
+      "pk": 3020010,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 20,
       "verse": 10,
-      "text": "If a man commits adultery with the wife of another man, that is, with the wife of his neighbor, both the adulterer and the adulteress shall surely be put to death.",
-      "links": "<a href='/AIV/3/18/20'>Lev. 18:20</a>; <a href='/AIV/5/22/22'>Deut. 22:22</a>",
-      "comment": "Preserves clear indication of both parties being guilty."
+      "text": "If a man commits adultery with the wife of another man, with the wife of his neighbor, both the adulterer and the adulteress shall surely be put to death.",
+      "links": "<a href='/AIV/5/22/22'>Deut. 22:22</a>; <a href='/AIV/43/8/4-5'>John 8:4-5</a>",
+      "comment": "Adultery threatens the covenant structure. Jesus, in the New Testament, calls for both justice and mercy in cases of adultery (see <a href='/AIV/43/8/4-11'>John 8:4-11</a>)."
     },
     {
-      "pk": 3012011,
+      "pk": 3020011,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 20,
       "verse": 11,
-      "text": "If a man lies with his father’s wife, he has uncovered his father’s nakedness. Both of them shall surely be put to death; their blood is upon them.",
-      "links": "<a href='/AIV/3/18/8'>Lev. 18:8</a>; <a href='/AIV/5/27/20'>Deut. 27:20</a>",
-      "comment": "\"Uncovered his father’s nakedness\" is a Hebrew idiom explained in Lev. 18:8."
+      "text": "If a man lies with his father’s wife, he has uncovered his father’s nakedness; both of them shall surely be put to death; their blood is upon them.",
+      "links": "<a href='/AIV/3/18/8'>Lev. 18:8</a>; <a href='/AIV/5/22/30'>Deut. 22:30</a>",
+      "comment": "Expanding the application of sexual immorality, rooting the law in respect for both persons and family structures—themes revisited by Paul in <a href='/AIV/46/5/1'>1 Corinthians 5:1</a>."
     },
     {
-      "pk": 3012012,
+      "pk": 3020012,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 20,
       "verse": 12,
-      "text": "If a man lies with his daughter-in-law, both of them shall surely be put to death; they have committed perversion; their blood is upon them.",
-      "links": "<a href='/AIV/3/18/15'>Lev. 18:15</a>; <a href='/AIV/5/27/23'>Deut. 27:23</a>",
-      "comment": "\"Perversion\" renders literal Hebrew."
+      "text": "If a man lies with his daughter-in-law, both of them shall surely be put to death; they have committed a perversion. Their blood is upon them.",
+      "links": "<a href='/AIV/3/18/15'>Lev. 18:15</a>",
+      "comment": "Maintaining family purity is essential for covenant holiness. Violations are severe, echoing the gravity in both Testaments."
     },
     {
-      "pk": 3012013,
+      "pk": 3020013,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 20,
       "verse": 13,
       "text": "If a man lies with a male as with a woman, both of them have committed an abomination; they shall surely be put to death; their blood is upon them.",
-      "links": "<a href='/AIV/3/18/22'>Lev. 18:22</a>; <a href='/AIV/45/1/27'>Rom. 1:27</a>",
-      "comment": "\"Abomination\" employs the standard rendering of Hebrew 'toevah'."
+      "links": "<a href='/AIV/3/18/22'>Lev. 18:22</a>; <a href='/AIV/45/1/26-27'>Rom. 1:26-27</a>",
+      "comment": "The text prohibits same-sex acts, which is reiterated and expanded upon in the New Testament's moral teachings (see <a href='/AIV/45/1/26-27'>Romans 1:26-27</a>)."
     },
     {
-      "pk": 3012014,
+      "pk": 3020014,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 20,
       "verse": 14,
-      "text": "If a man takes a woman and her mother, it is depravity; they shall be burned with fire, both he and they, that there may be no depravity among you.",
-      "links": "<a href='/AIV/3/18/17'>Lev. 18:17</a>; <a href='/AIV/5/13/16'>Deut. 13:16</a>",
-      "comment": "\"Depravity\" is literal for Hebrew 'zimmah'; burning may refer to after execution."
+      "text": "If a man marries a woman and her mother, it is depravity; they shall be burned with fire, both he and they, so that there may be no depravity among you.",
+      "links": "<a href='/AIV/3/18/17'>Lev. 18:17</a>",
+      "comment": "Prevents corruption of basic family roles. The severe penalty reflects the importance of preserving ordered relationships."
     },
     {
-      "pk": 3012015,
+      "pk": 3020015,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 20,
       "verse": 15,
-      "text": "If a man lies with an animal, he shall surely be put to death, and you shall kill the animal.",
-      "links": "<a href='/AIV/3/18/23'>Lev. 18:23</a>; <a href='/AIV/2/22/19'>Ex. 22:19</a>",
-      "comment": "'Lies with' retains euphemistic original."
+      "text": "If a man has sexual relations with an animal, he shall surely be put to death, and you shall kill the animal.",
+      "links": "<a href='/AIV/3/18/23'>Lev. 18:23</a>",
+      "comment": "Beastiality is condemned as a gross violation of both human and animal order, underscoring humanity’s unique dignity."
     },
     {
-      "pk": 3012016,
+      "pk": 3020016,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 20,
       "verse": 16,
-      "text": "If a woman approaches any animal and lies with it, you shall kill the woman and the animal; they shall surely be put to death; their blood is upon them.",
+      "text": "If a woman approaches any animal and has sexual relations with it, you shall kill both the woman and the animal; they shall surely be put to death; their blood is upon them.",
       "links": "<a href='/AIV/3/18/23'>Lev. 18:23</a>",
-      "comment": ""
+      "comment": "Again, acts against the natural law are treated as especially grievous, symbolizing pollution of the sacred."
     },
     {
-      "pk": 3012017,
+      "pk": 3020017,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 20,
       "verse": 17,
-      "text": "If a man takes his sister, his father’s daughter or his mother’s daughter, and sees her nakedness, and she sees his nakedness, it is a disgrace. They shall be cut off in the sight of the children of their people. He has uncovered his sister’s nakedness, and he shall bear his iniquity.",
+      "text": "If a man takes his sister, his father’s daughter or his mother’s daughter, and sees her nakedness, and she sees his nakedness, it is a disgrace, and they shall be cut off in the sight of their people. He has uncovered his sister’s nakedness, he shall bear his guilt.",
       "links": "<a href='/AIV/3/18/9'>Lev. 18:9</a>",
-      "comment": "'Cut off' (kareth) may mean excommunication or death."
+      "comment": "Incest defiles both the individual and the wider community. ‘Cut off’ could mean excommunication or death, emphasizing corporate holiness."
     },
     {
-      "pk": 3012018,
+      "pk": 3020018,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 20,
       "verse": 18,
-      "text": "If a man lies with a woman during her menstrual period and uncovers her nakedness, he has made naked her flow, and she has uncovered the source of her blood; both of them shall be cut off from among their people.",
+      "text": "If a man lies with a woman during her menstrual period and uncovers her nakedness, he has made her fountain naked, and she has uncovered the fountain of her blood; both of them shall be cut off from among their people.",
       "links": "<a href='/AIV/3/18/19'>Lev. 18:19</a>",
-      "comment": "Literal rendering of Hebrew idioms."
+      "comment": "Ritual and physical purity are intimately linked here, uncovering spiritual realities later made explicit under the Law of Christ."
     },
     {
-      "pk": 3012019,
+      "pk": 3020019,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 20,
       "verse": 19,
-      "text": "You shall not uncover the nakedness of your mother’s sister or of your father’s sister, for that is to make naked one’s close relative; they shall bear their iniquity.",
-      "links": "<a href='/AIV/3/18/12'>Lev. 18:12-13</a>",
-      "comment": ""
+      "text": "You shall not uncover the nakedness of your mother’s sister or of your father’s sister, for that is to make naked one’s own relative; they shall bear their guilt.",
+      "links": "<a href='/AIV/3/18/12-13'>Lev. 18:12-13</a>",
+      "comment": "These family boundaries foreshadow the importance of spiritual kinship and purity in the people of God."
     },
     {
-      "pk": 3012020,
+      "pk": 3020020,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 20,
       "verse": 20,
       "text": "If a man lies with his uncle’s wife, he has uncovered his uncle’s nakedness; they shall bear their sin; they shall die childless.",
       "links": "<a href='/AIV/3/18/14'>Lev. 18:14</a>",
-      "comment": "'Die childless' can mean no descendants or literal lack of children."
+      "comment": "Certain sins disrupt generational blessing and continuity, an important theme regarding inheritance and blessing under both covenants."
     },
     {
-      "pk": 3012021,
+      "pk": 3020021,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 20,
       "verse": 21,
       "text": "If a man takes his brother’s wife, it is impurity. He has uncovered his brother’s nakedness; they shall be childless.",
-      "links": "<a href='/AIV/3/18/16'>Lev. 18:16</a>",
-      "comment": ""
+      "links": "<a href='/AIV/3/18/16'>Lev. 18:16</a>; <a href='/AIV/40/22/24'>Matt. 22:24</a>",
+      "comment": "There are exceptions (Levirate marriage, <a href='/AIV/5/25/5-10'>Deut. 25:5–10</a>) but generally, these unions are restricted. Jesus references this law in debate with the Sadducees."
     },
     {
-      "pk": 3012022,
+      "pk": 3020022,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 20,
       "verse": 22,
-      "text": "You shall therefore keep all my statutes and all my rules and do them, so that the land where I am bringing you to live may not vomit you out.",
-      "links": "<a href='/AIV/3/18/25'>Lev. 18:25-28</a>",
-      "comment": "'Vomit you out' is a literal and vivid Hebrew metaphor."
+      "text": "You shall therefore keep all My statutes and all My rules and do them, so that the land where I am bringing you to dwell may not vomit you out.",
+      "links": "<a href='/AIV/3/18/25'>Lev. 18:25</a>; <a href='/AIV/5/4/25-27'>Deut. 4:25-27</a>",
+      "comment": "Obedience is necessary for remaining in God’s promised land—a type foretelling the need for faithfulness to remain in God’s grace."
     },
     {
-      "pk": 3012023,
+      "pk": 3020023,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 20,
       "verse": 23,
-      "text": "And you shall not walk in the statutes of the nation that I am driving out before you, for they did all these things, and therefore I abhorred them.",
-      "links": "<a href='/AIV/3/18/3'>Lev. 18:3</a>",
-      "comment": "'Abhorred' (Hebrew: qatz) keeps literal sense."
+      "text": "And you shall not walk in the statutes of the nations that I am driving out before you, for they did all these things, and therefore I abhorred them.",
+      "links": "<a href='/AIV/3/18/24-30'>Lev. 18:24-30</a>",
+      "comment": "God’s people are called to be distinct and avoid the sins of surrounding peoples—a spiritual call later echoed by Paul (<a href='/AIV/47/6/17'>2 Cor. 6:17</a>)."
     },
     {
-      "pk": 3012024,
+      "pk": 3020024,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 20,
       "verse": 24,
-      "text": "But I have said to you, ‘You shall inherit their land, and I will give it to you to possess, a land flowing with milk and honey.’ I am the Lord your God, who has set you apart from the peoples.",
+      "text": "But I have said to you, ‘You shall inherit their land, and I will give it to you to possess, a land flowing with milk and honey.’ I am the LORD your God, who has separated you from the peoples.",
       "links": "<a href='/AIV/2/3/8'>Ex. 3:8</a>; <a href='/AIV/3/18/24'>Lev. 18:24</a>",
-      "comment": "'Set you apart' is literal, not a paraphrase."
+      "comment": "The concept of God separating a people for Himself becomes the root for the idea of a chosen, holy community."
     },
     {
-      "pk": 3012025,
+      "pk": 3020025,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 20,
       "verse": 25,
-      "text": "You shall therefore distinguish between the clean animal and the unclean, and between the unclean bird and the clean. You shall not make yourselves detestable by animal or by bird or by anything with which the ground teems, which I have set apart for you to hold unclean.",
-      "links": "<a href='/AIV/3/11/2'>Lev. 11:2-47</a>",
-      "comment": ""
+      "text": "You shall therefore separate the clean beast from the unclean, and the unclean bird from the clean. You shall not make yourselves detestable by animal or bird or anything that creeps on the ground, which I have set apart for you to hold as unclean.",
+      "links": "<a href='/AIV/3/11/47'>Lev. 11:47</a>",
+      "comment": "Laws of ritual purity illustrate the reality of separation from sin. Such distinctions foreshadow the call to moral and spiritual purity under the new covenant."
     },
     {
-      "pk": 3012026,
+      "pk": 3020026,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 20,
       "verse": 26,
-      "text": "You shall be holy to me, for I the Lord am holy and have separated you from the peoples, that you should be mine.",
-      "links": "<a href='/AIV/2/19/6'>Ex. 19:6</a>; <a href='/AIV/3/19/2'>Lev. 19:2</a>",
-      "comment": "Maintains possessive 'be mine.'"
+      "text": "You shall be holy to Me, for I the LORD am holy and have separated you from the peoples, that you should be Mine.",
+      "links": "<a href='/AIV/2/19/5'>Ex. 19:5-6</a>; <a href='/AIV/60/2/9'>1 Pet. 2:9</a>",
+      "comment": "God’s people are set apart to belong to Him, a foundational theme in Scripture. The concept of being chosen and holy is repeated in the New Testament as the Church is described as a ‘holy nation’ (<a href='/AIV/60/2/9'>1 Pet. 2:9</a>)."
     },
     {
-      "pk": 3012027,
+      "pk": 3020027,
       "translation": "AIV",
       "book": 3,
+      "bookName": "Leviticus",
+      "bookAbbreviation": "Lev",
       "chapter": 20,
       "verse": 27,
-      "text": "A man or a woman who is a medium or a necromancer shall surely be put to death. They shall be stoned with stones; their blood is upon them.",
-      "links": "<a href='/AIV/3/19/31'>Lev. 19:31</a>; <a href='/AIV/9/28/7'>1 Sam. 28:7–9</a>",
-      "comment": "Final ban, retains gendered language of the Hebrew."
+      "text": "A man or a woman who is a medium or who consults spirits shall surely be put to death. They shall be stoned with stones; their blood is upon them.",
+      "links": "<a href='/AIV/3/19/31'>Lev. 19:31</a>; <a href='/AIV/9/28/7-9'>1 Sam. 28:7-9</a>",
+      "comment": "Consulting spirits is forbidden, underscoring total reliance on God for guidance. In the New Testament, the Holy Spirit supplants all forms of divination—and the faithful are called to discern true spiritual direction within the Church instituted by Christ."
     }
   ],
-  "translatedAt": "2025-12-20T09:19:18.073Z"
+  "translatedAt": "2025-12-24T01:21:20.880Z"
 }

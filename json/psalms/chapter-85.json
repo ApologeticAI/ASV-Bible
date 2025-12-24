@@ -1,138 +1,165 @@
 {
-  "book": "Psalms",
+  "book": 23,
+  "bookName": "Psalms",
   "bookAbbreviation": "Ps",
   "chapter": 85,
   "verses": [
     {
-      "pk": 1985085,
+      "pk": 23085001,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 85,
       "verse": 1,
-      "text": "O LORD, you showed favor to your land; you restored the fortunes of Jacob.",
-      "links": "<a href='/AIV/19/126/1'>Ps. 126:1</a>; <a href='/AIV/1/28/13'>Gen. 28:13</a>",
-      "comment": "The opening recalls God's gracious dealings with Israel, setting the tone for hope and restoration, foundational themes throughout the Psalms. Jacob stands as the covenant figure, echoing God's faithfulness to His promises."
+      "text": "LORD, you showed favor to your land; you restored the fortunes of Jacob.",
+      "links": "<a href='/AIV/19/14/7'>Ps. 14:7</a>; <a href='/AIV/19/126/1'>Ps. 126:1</a>",
+      "comment": "This verse recalls God bringing His people back from exile and restoring their blessings. 'Jacob' is a poetic term for Israel. The restoration of Israel prefigures God’s ultimate act of salvation fulfilled in Christ, who restores humanity in an even greater way."
     },
     {
-      "pk": 1985086,
+      "pk": 23085002,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 85,
       "verse": 2,
       "text": "You forgave the guilt of your people; you covered all their sin. Selah.",
-      "links": "<a href='/AIV/19/32/1'>Ps. 32:1</a>; <a href='/AIV/19/103/12'>Ps. 103:12</a>",
-      "comment": "The language of forgiveness and atonement points to God's merciful nature, foreshadowing New Testament redemption in Christ (see Rom. 3:25). The covering of sin evokes liturgical atonement—anticipating the sacramental life of the Church. 'Selah' invites contemplation of this mercy."
+      "links": "<a href='/AIV/19/32/1'>Ps. 32:1</a>; <a href='/AIV/23/6/7'>Isa. 6:7</a>",
+      "comment": "'Covered all their sin' uses language that points towards atonement. In the Old Testament, sin was covered by sacrifice, yet in the New Testament, sins are taken away entirely by Christ’s sacrifice (Heb. 10:4, 10:10). The word 'Selah' indicates a pause for reflection."
     },
     {
-      "pk": 1985087,
+      "pk": 23085003,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 85,
       "verse": 3,
-      "text": "You withdrew all your wrath; you turned from your burning anger.",
-      "links": "<a href='/AIV/19/78/38'>Ps. 78:38</a>; <a href='/AIV/19/30/5'>Ps. 30:5</a>",
-      "comment": "God's turning away of wrath shows His justice and mercy in perfect harmony, which Catholic theology interprets through the lens of God's paternal care and the necessity of repentance."
+      "text": "You withdrew all your wrath; you turned from your fierce anger.",
+      "links": "<a href='/AIV/19/78/38'>Ps. 78:38</a>; <a href='/AIV/25/3/22'>Lam. 3:22</a>",
+      "comment": "God’s mercy tempers His justice, as seen throughout salvation history. This verse anticipates how God’s anger is ultimately appeased through reconciliation, which is completed perfectly in Christ (Rom. 5:10)."
     },
     {
-      "pk": 1985088,
+      "pk": 23085004,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 85,
       "verse": 4,
-      "text": "Restore us, O God of our salvation, and put away your indignation toward us.",
+      "text": "Restore us again, God of our salvation, and put away your anger toward us.",
       "links": "<a href='/AIV/19/80/3'>Ps. 80:3</a>; <a href='/AIV/19/51/12'>Ps. 51:12</a>",
-      "comment": "The plea for restoration highlights God as the source of salvation, a theme fulfilled in Christ—the definitive restorer. The Catholic understanding stresses participation in salvation through grace and sacraments."
+      "comment": "'Restore us' is a recurring prayer in the Psalms (cf. Ps. 80), indicating the people’s dependence on God for spiritual renewal. This daily continual restoration points to the ongoing process of sanctification in the believer’s life."
     },
     {
-      "pk": 1985089,
+      "pk": 23085005,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 85,
       "verse": 5,
-      "text": "Will you be angry with us forever? Will you prolong your wrath to all generations?",
-      "links": "<a href='/AIV/19/74/1'>Ps. 74:1</a>; <a href='/AIV/19/77/7'>Ps. 77:7</a>",
-      "comment": "These questions express human longing for relational reconciliation, which is paradigmatic of confessional practice and penance—echoes of Catholic spirituality and trust in God's enduring mercy."
+      "text": "Will you be angry with us forever? Will you prolong your wrath through all generations?",
+      "links": "<a href='/AIV/19/77/7'>Ps. 77:7</a>; <a href='/AIV/23/57/16'>Isa. 57:16</a>",
+      "comment": "The psalmist questions God, acknowledging His righteousness but appealing to His mercy. Throughout salvation history, though God may chastise, His mercy never fails (see Ps. 103:9)."
     },
     {
-      "pk": 1985090,
+      "pk": 23085006,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 85,
       "verse": 6,
-      "text": "Will you not revive us again, that your people may rejoice in you?",
-      "links": "<a href='/AIV/19/71/20'>Ps. 71:20</a>; <a href='/AIV/19/80/18'>Ps. 80:18</a>",
-      "comment": "Revival is both literal and spiritual, anticipating not only national restoration but the renewal of hearts—a Catholic interpretive tradition recognizes such renewal through the grace poured out in the Church."
+      "text": "Will you not revive us again, so that your people may rejoice in you?",
+      "links": "<a href='/AIV/19/80/18'>Ps. 80:18</a>; <a href='/AIV/35/3/2'>Hab. 3:2</a>",
+      "comment": "The plea for revival asks God to breathe new life into His people. This has spiritual implications—the continual action of the Spirit reviving the Church, fulfilling Jesus’ words about sending the Spirit as the Comforter (Jn. 14:26)."
     },
     {
-      "pk": 1985091,
+      "pk": 23085007,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 85,
       "verse": 7,
-      "text": "Show us your steadfast love, LORD, and grant us your salvation.",
-      "links": "<a href='/AIV/19/25/6'>Ps. 25:6</a>; <a href='/AIV/19/86/15'>Ps. 86:15</a>",
-      "comment": "The Hebrew 'hesed' (steadfast love) underlines covenantal fidelity, which Catholics see fulfilled perfectly in Christ’s sacrifice. Salvation here is comprehensive, touching both temporal and eternal needs."
+      "text": "Show us your faithful love, LORD, and grant us your salvation.",
+      "links": "<a href='/AIV/19/106/4'>Ps. 106:4</a>; <a href='/AIV/19/25/6'>Ps. 25:6</a>",
+      "comment": "God’s faithful love (Hebrew: hesed) and salvation are joined. The fullness of this love is most clearly shown in the person and work of Christ, who brings eternal salvation (Tit. 3:4-6)."
     },
     {
-      "pk": 1985092,
+      "pk": 23085008,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 85,
       "verse": 8,
-      "text": "I will listen to what God the LORD will speak, for he will speak peace to his people, to his faithful ones—yet let them not turn back to folly.",
-      "links": "<a href='/AIV/19/29/11'>Ps. 29:11</a>; <a href='/AIV/19/34/14'>Ps. 34:14</a>",
-      "comment": "Hearing God is central to spiritual life; in Catholic tradition, this includes Scripture and Sacred Tradition. Peace ('shalom') is the presence of fullness in God, warning against relapse into sin—hinting at the call to ongoing conversion."
+      "text": "I will hear what God the LORD will say, for he promises peace to his people, his faithful ones; but let them not turn back to folly.",
+      "links": "<a href='/AIV/19/29/11'>Ps. 29:11</a>; <a href='/AIV/23/57/19'>Isa. 57:19</a>",
+      "comment": "This verse emphasizes listening to God’s word. God’s peace (shalom) is granted to those who are faithful and remain in relationship with Him. Turning away from sin is essential for preserving peace—a principle underlining the importance of repentance and ongoing conversion (cf. Heb. 3:12-15)."
     },
     {
-      "pk": 1985093,
+      "pk": 23085009,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 85,
       "verse": 9,
-      "text": "Surely his salvation is near to those who fear him, that glory may dwell in our land.",
-      "links": "<a href='/AIV/19/24/7'>Ps. 24:7-10</a>; <a href='/AIV/19/72/19'>Ps. 72:19</a>",
-      "comment": "Glory dwelling among us alludes to God's Shekinah presence. Catholic liturgy sees this fulfilled most tangibly in the Eucharist, God’s glory manifesting through Christ's real presence."
+      "text": "Surely his salvation is near those who fear him, that glory may dwell in our land.",
+      "links": "<a href='/AIV/19/25/14'>Ps. 25:14</a>; <a href='/AIV/37/2/7'>Hag. 2:7</a>",
+      "comment": "'Glory may dwell in our land' anticipates the coming of God’s presence among His people, fulfilled ultimately in the Incarnation (Jn. 1:14). Fearing God is not just about reverence—but living in accordance with His ways, preparing the way for His indwelling."
     },
     {
-      "pk": 1985094,
+      "pk": 23085010,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 85,
       "verse": 10,
       "text": "Steadfast love and faithfulness meet; righteousness and peace kiss each other.",
-      "links": "<a href='/AIV/19/89/14'>Ps. 89:14</a>; <a href='/AIV/19/72/7'>Ps. 72:7</a>; <a href='/AIV/40/5/9'>Matt. 5:9</a>",
-      "comment": "This poetic vision finds fulfillment in Christ—the union of justice and mercy (see Rom. 3:26), especially in the Incarnation and Cross. It's also a picture of the Church as the meeting place of God’s attributes."
+      "links": "<a href='/AIV/19/89/14'>Ps. 89:14</a>; <a href='/AIV/19/72/7'>Ps. 72:7</a>",
+      "comment": "This poetic imagery describes the unity of God’s attributes, ultimately fulfilled in Christ crucified, where justice and mercy are perfectly joined (Rom. 3:25-26). In the life of the Church, these virtues are to be reflected among the faithful."
     },
     {
-      "pk": 1985095,
+      "pk": 23085011,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 85,
       "verse": 11,
-      "text": "Faithfulness springs up from the earth, and righteousness looks down from heaven.",
-      "links": "<a href='/AIV/19/72/6'>Ps. 72:6</a>; <a href='/AIV/40/3/17'>Matt. 3:17</a>",
-      "comment": "An image of vertical and horizontal righteousness, fulfilled as the Word became flesh—heaven meeting earth in Christ (John 1:14). Catholic interpretation sees in this the sacramental reality: God’s grace coming to us physically."
+      "text": "Faithfulness springs up from the earth, and righteousness looks down from the heavens.",
+      "links": "<a href='/AIV/19/72/3'>Ps. 72:3</a>; <a href='/AIV/23/45/8'>Isa. 45:8</a>",
+      "comment": "There is a sense of union: humanity’s faithfulness and God’s righteousness meeting, fulfilled as heaven and earth are joined in Christ’s coming. The people’s response of faith is met by divine initiative."
     },
     {
-      "pk": 1985096,
+      "pk": 23085012,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 85,
       "verse": 12,
-      "text": "Indeed, the LORD will give what is good, and our land will yield its increase.",
-      "links": "<a href='/AIV/19/67/6'>Ps. 67:6</a>; <a href='/AIV/19/107/37'>Ps. 107:37</a>",
-      "comment": "This touches on God’s providence and blessing, both material and spiritual. In Catholic practice, blessings are sacramental—outward signs of God’s inner grace, a subtle nod to the Church's lived liturgy."
+      "text": "Yes, the LORD will give what is good, and our land will yield its harvest.",
+      "links": "<a href='/AIV/19/67/6'>Ps. 67:6</a>; <a href='/AIV/24/31/12'>Jer. 31:12</a>",
+      "comment": "Physical blessings, like fruitful land, are signs of God’s favor but also prefigure spiritual abundance—sacramental life and grace that God continues to pour out on His people (Jn. 6:35; 2 Cor. 9:10)."
     },
     {
-      "pk": 1985097,
+      "pk": 23085013,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 85,
       "verse": 13,
-      "text": "Righteousness will go before him and make a path for his footsteps.",
+      "text": "Righteousness will go before him and will make his footsteps a way.",
       "links": "<a href='/AIV/19/89/14'>Ps. 89:14</a>; <a href='/AIV/23/40/3'>Isa. 40:3</a>; <a href='/AIV/40/3/3'>Matt. 3:3</a>",
-      "comment": "The final verse is deeply messianic, prefiguring John the Baptist’s message (Isa. 40:3; Matt. 3:3) and the coming of Christ. Catholic tradition reads this as the Church’s call to prepare the way for Christ, both in history and in each believer’s heart."
+      "comment": "Righteousness preparing the way points toward John the Baptist’s call to prepare for the Lord’s coming (Isa. 40:3; Matt. 3:3). Christ walks the path of righteousness first, and His people are called to follow in His ways, participating in the fullness of His life and grace."
     }
   ],
-  "translatedAt": "2025-12-22T21:47:09.129Z"
+  "translatedAt": "2025-12-24T06:29:18.080Z"
 }

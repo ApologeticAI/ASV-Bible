@@ -1,248 +1,297 @@
 {
-  "book": "Genesis",
+  "book": 1,
+  "bookName": "Genesis",
   "bookAbbreviation": "Gen",
   "chapter": 3,
   "verses": [
     {
-      "pk": 1933080,
+      "pk": 1003001,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 3,
       "verse": 1,
-      "text": "Now the serpent was more cunning than any beast of the field that the LORD God had made. He said to the woman, \"Did God actually say, 'You must not eat from any tree in the garden'?\"",
-      "links": "<a href='/AIV/66/12/9'>Rev. 12:9</a>; <a href='/AIV/47/11/3'>2 Cor. 11:3</a>",
-      "comment": "The serpent is later revealed to symbolize Satan (see Rev. 12:9). The question introduces doubt about God's word."
+      "text": "Now the serpent was more cunning than any of the animals the LORD God had made. He said to the woman, 'Did God really say, “You shall not eat from any tree in the garden”?'",
+      "links": "<a href='/AIV/66/12/9'>Rev. 12:9</a>; <a href='/AIV/43/8/44'>John 8:44</a>",
+      "comment": "The serpent is later revealed as Satan (cf. Rev. 12:9). The question is designed to sow doubt about God's word. Note the stress on God's command and the subtle twisting of it."
     },
     {
-      "pk": 1933081,
+      "pk": 1003002,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 3,
       "verse": 2,
-      "text": "And the woman said to the serpent, \"We may eat fruit from the trees in the garden,",
-      "links": "<a href='/AIV/1/2/16'>Gen. 2:16</a>",
-      "comment": "Eve correctly recalls God's permission, distinguishing the specific command."
+      "text": "The woman said to the serpent, 'We may eat the fruit from the trees in the garden,",
+      "links": "<a href='/AIV/01/2/16'>Gen. 2:16</a>",
+      "comment": "Eve correctly summarizes God's generous permission, setting the stage for Satan’s temptation."
     },
     {
-      "pk": 1933082,
+      "pk": 1003003,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 3,
       "verse": 3,
-      "text": "but about the fruit of the tree that is in the middle of the garden, God has said, 'You must not eat of it, nor shall you touch it, or you will die.'\"",
-      "links": "<a href='/AIV/1/2/17'>Gen. 2:17</a>",
-      "comment": "Eve adds 'nor shall you touch it,' perhaps a sign of growing uncertainty about the command."
+      "text": "but of the fruit of the tree that is in the middle of the garden, God said, “You shall not eat from it, nor shall you touch it, or else you will die.”'",
+      "links": "<a href='/AIV/01/2/17'>Gen. 2:17</a>",
+      "comment": "Eve adds 'nor shall you touch it,' which is not part of the original command (Gen. 2:17). This extra detail shows how the command was already being distorted, a warning about altering God's word."
     },
     {
-      "pk": 1933083,
+      "pk": 1003004,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 3,
       "verse": 4,
-      "text": "But the serpent said to the woman, \"You will surely not die,",
+      "text": "But the serpent said to the woman, 'You will not surely die.",
       "links": "<a href='/AIV/43/8/44'>John 8:44</a>",
-      "comment": "Here Satan directly contradicts God’s warning, introducing the first lie (John 8:44—Satan as the father of lies)."
+      "comment": "Here the serpent directly contradicts God's word, a classic strategy of the tempter: denial of divine judgment. Compare Jesus’ words about the devil being a liar in John 8:44."
     },
     {
-      "pk": 1933084,
+      "pk": 1003005,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 3,
       "verse": 5,
-      "text": "For God knows that when you eat of it your eyes will be opened, and you will be like God, knowing good and evil.\"",
-      "links": "<a href='/AIV/1/2/9'>Gen. 2:9</a>; <a href='/AIV/26/28/2'>Ezek. 28:2</a>",
-      "comment": "The temptation was to seek God-like status through disobedience. Compare to desires for self-exaltation (Ezekiel 28:2)."
+      "text": "For God knows that when you eat of it your eyes will be opened, and you will be like God, knowing good and evil.'",
+      "links": "<a href='/AIV/23/14/14'>Isa. 14:14</a>, <a href='/AIV/01/3/22'>Gen. 3:22</a>",
+      "comment": "The temptation is to usurp God's authority and seek autonomy. Satan tempts humans to pride, the root of all sin (see Isa. 14:14)."
     },
     {
-      "pk": 1933085,
+      "pk": 1003006,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 3,
       "verse": 6,
-      "text": "So when the woman saw that the tree was good for food, and that it was a delight to the eyes, and that the tree was desirable to make one wise, she took of its fruit and ate. She also gave some to her husband, who was with her, and he ate.",
-      "links": "<a href='/AIV/59/1/14-15'>James 1:14–15</a>; <a href='/AIV/45/5/12'>Rom. 5:12</a>",
-      "comment": "This verse describes the three aspects of temptation (cf. 1 John 2:16). Adam willfully participates (Rom. 5:12—sin entered through one man)."
+      "text": "When the woman saw that the tree was good for food, and that it was a delight to the eyes, and that the tree was desirable to make one wise, she took some of its fruit and ate; and she also gave some to her husband, who was with her, and he ate.",
+      "links": "<a href='/AIV/62/2/16'>1 John 2:16</a>",
+      "comment": "Threefold desire: flesh, eyes, and pride (cf. 1 John 2:16). Both Adam and Eve freely choose disobedience. Adam's silence and consent are significant."
     },
     {
-      "pk": 1933086,
+      "pk": 1003007,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 3,
       "verse": 7,
-      "text": "Then the eyes of both of them were opened, and they knew that they were naked. So they sewed fig leaves together and made themselves coverings.",
-      "links": "<a href='/AIV/1/2/25'>Gen. 2:25</a>; <a href='/AIV/23/59/6'>Isa. 59:6</a>",
-      "comment": "Their innocence is lost, leading to shame and inadequate self-covering, symbolizing human attempts to deal with sin."
+      "text": "Then the eyes of both were opened, and they knew that they were naked. They sewed fig leaves together and made themselves loincloths.",
+      "links": "<a href='/AIV/01/2/25'>Gen. 2:25</a>",
+      "comment": "Their 'eyes are opened' to shame. Innocence is lost, and they respond by covering themselves. Sin brings alienation and a need for remedy."
     },
     {
-      "pk": 1933087,
+      "pk": 1003008,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 3,
       "verse": 8,
-      "text": "And they heard the sound of the LORD God walking in the garden in the cool of the day, and the man and his wife hid themselves from the presence of the LORD God among the trees of the garden.",
+      "text": "Then they heard the sound of the LORD God walking in the garden in the cool of the day, and the man and his wife hid themselves from the presence of the LORD God among the trees of the garden.",
       "links": "<a href='/AIV/19/139/7'>Ps. 139:7</a>",
-      "comment": "God’s presence is immediate, indicating a personal relationship. Sin causes separation and shame."
+      "comment": "Fear and hiding result from guilt. God's presence is described in human terms ('walking'); sin separates humanity from God, a recurring biblical theme."
     },
     {
-      "pk": 1933088,
+      "pk": 1003009,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 3,
       "verse": 9,
-      "text": "But the LORD God called to the man and said to him, \"Where are you?\"",
-      "links": "<a href='/AIV/1/4/9'>Gen. 4:9</a>",
-      "comment": "God initiates, seeking out the sinner. The question is for Adam’s self-examination, not for information."
+      "text": "But the LORD God called to the man and said, 'Where are you?'",
+      "links": "<a href='/AIV/01/18/9'>Gen. 18:9</a>",
+      "comment": "God seeks out the lost, an early hint of salvation history–God initiates reconciliation even after sin. Compare Luke 19:10."
     },
     {
-      "pk": 1933089,
+      "pk": 1003010,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 3,
       "verse": 10,
-      "text": "He said, \"I heard the sound of you in the garden, and I was afraid because I was naked, so I hid.\"",
-      "links": "<a href='/AIV/1/2/25'>Gen. 2:25</a>",
-      "comment": "Fear replaces innocence. Nakedness now brings shame due to guilt."
+      "text": "And he said, 'I heard the sound of you in the garden, and I was afraid, because I was naked, and I hid myself.'",
+      "links": "<a href='/AIV/01/2/25'>Gen. 2:25</a>",
+      "comment": "The first mention of fear; sin brings separation and loss of intimacy. Shame leads to hiding from God."
     },
     {
-      "pk": 1933090,
+      "pk": 1003011,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 3,
       "verse": 11,
-      "text": "And He said, \"Who told you that you were naked? Have you eaten from the tree of which I commanded you not to eat?\"",
-      "links": "<a href='/AIV/1/2/17'>Gen. 2:17</a>",
-      "comment": "God’s questions invite confession, revealing the connection between disobedience and new awareness."
+      "text": "He said, 'Who told you that you were naked? Have you eaten from the tree of which I commanded you not to eat?'",
+      "links": "<a href='/AIV/01/2/17'>Gen. 2:17</a>",
+      "comment": "God’s interrogation leads Adam to confess. This is not for God's knowledge, but an invitation to repentance."
     },
     {
-      "pk": 1933091,
+      "pk": 1003012,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 3,
       "verse": 12,
-      "text": "The man said, \"The woman whom You gave to be with me, she gave me some of the fruit from the tree, and I ate.\"",
-      "links": "<a href='/AIV/1/2/18'>Gen. 2:18</a>",
-      "comment": "Adam shifts blame to the woman and implicitly to God Himself. The harmony is broken."
+      "text": "The man said, 'The woman whom you gave to be with me—she gave me fruit from the tree, and I ate.'",
+      "links": "<a href='/AIV/01/2/18'>Gen. 2:18</a>",
+      "comment": "Adam passes the blame to both the woman and indirectly to God. Human nature often resists personal responsibility."
     },
     {
-      "pk": 1933092,
+      "pk": 1003013,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 3,
       "verse": 13,
-      "text": "Then the LORD God said to the woman, \"What is this that you have done?\" The woman said, \"The serpent deceived me, and I ate.\"",
-      "links": "<a href='/AIV/54/2/14'>1 Tim. 2:14</a>",
-      "comment": "Eve confesses her deception (cf. 1 Tim. 2:14). God engages each responsible party."
+      "text": "Then the LORD God said to the woman, 'What is this you have done?' And the woman said, 'The serpent deceived me, and I ate.'",
+      "links": "<a href='/AIV/54/2/14'>1 Tim. 2:14</a>; <a href='/AIV/47/11/3'>2 Cor. 11:3</a>",
+      "comment": "The pattern of shifting blame continues. Paul reflects on Eve’s deception in 1 Tim. 2:14 and 2 Cor. 11:3."
     },
     {
-      "pk": 1933093,
+      "pk": 1003014,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 3,
       "verse": 14,
-      "text": "So the LORD God said to the serpent, \"Because you have done this, you are cursed above all livestock and all the wild animals. On your belly you shall go, and dust you shall eat all the days of your life.",
+      "text": "So the LORD God said to the serpent, 'Because you have done this, cursed are you above all livestock and above all wild animals. On your belly you will go, and dust you will eat all the days of your life.'",
       "links": "<a href='/AIV/23/65/25'>Isa. 65:25</a>",
-      "comment": "The serpent receives immediate judgment, symbolizing ultimate defeat."
+      "comment": "The judgment falls first on the serpent, symbolizing humiliation and defeat. Eating dust means total abasement."
     },
     {
-      "pk": 1933094,
+      "pk": 1003015,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 3,
       "verse": 15,
-      "text": "And I will put enmity between you and the woman, and between your offspring and her offspring. He will crush your head, and you will strike his heel.\"",
-      "links": "<a href='/AIV/45/16/20'>Rom. 16:20</a>; <a href='/AIV/48/4/4'>Gal. 4:4</a>; <a href='/AIV/43/12/31-33'>John 12:31–33</a>",
-      "comment": "Known as the 'Protoevangelium,' this is the first announcement of a Redeemer. The singular 'he' refers prophetically to Christ, who conquers evil (Rom. 16:20; Gal. 4:4). This also hints at a woman’s unique role in salvation history, later mirrored in the New Testament (Luke 1:38)."
+      "text": "I will put enmity between you and the woman, and between your offspring and her offspring; he will strike your head, and you will strike his heel.'",
+      "links": "<a href='/AIV/45/16/20'>Rom. 16:20</a>; <a href='/AIV/23/7/14'>Isa. 7:14</a>, <a href='/AIV/48/4/4'>Gal. 4:4</a>",
+      "comment": "This verse, called 'the first Gospel,' points forward to the defeat of evil through the woman's offspring (see Rom. 16:20). Early Christians saw this fulfilled in Jesus, born of a woman (cf. Isa. 7:14; Gal. 4:4). It hints at the unique, singular role of a woman in salvation history."
     },
     {
-      "pk": 1933095,
+      "pk": 1003016,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 3,
       "verse": 16,
-      "text": "To the woman He said, \"I will greatly multiply your pain in childbirth; in pain you will bring forth children. Yet your desire will be for your husband, and he will rule over you.\"",
+      "text": "To the woman he said, 'I will greatly increase your pain in childbirth; in pain you will bring forth children. Your desire will be for your husband, and he will rule over you.'",
       "links": "<a href='/AIV/54/2/15'>1 Tim. 2:15</a>",
-      "comment": "Human suffering and disorder enter relationships. Childbearing, tied to salvation hope (1 Tim. 2:15), remains dignified despite pain."
+      "comment": "The consequences of sin affect womanhood, motherhood, and marital harmony. Salvation and redemption are later shown in the context of family (cf. 1 Tim. 2:15)."
     },
     {
-      "pk": 1933096,
+      "pk": 1003017,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 3,
       "verse": 17,
-      "text": "And to Adam He said, \"Because you have listened to the voice of your wife and have eaten from the tree of which I commanded you, 'You shall not eat from it,' cursed is the ground because of you; in pain you shall eat from it all the days of your life.",
-      "links": "<a href='/AIV/45/8/20-22'>Rom. 8:20–22</a>",
-      "comment": "Creation suffers alongside humanity due to sin (Rom. 8:20–22)."
+      "text": "To Adam he said, 'Because you have listened to the voice of your wife and have eaten from the tree about which I commanded you, “You shall not eat from it,” cursed is the ground because of you; in painful toil you will eat of it all the days of your life.",
+      "links": "<a href='/AIV/45/8/20-22'>Rom. 8:20-22</a>",
+      "comment": "Man's original task (cf. Gen. 2:15) is now marred by hardship. Creation itself suffers because of sin (Rom. 8:20-22)—the effects of the Fall are cosmic in scope."
     },
     {
-      "pk": 1933097,
+      "pk": 1003018,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 3,
       "verse": 18,
-      "text": "It will produce thorns and thistles for you, and you will eat the plants of the field.",
-      "links": "<a href='/AIV/23/55/13'>Isa. 55:13</a>",
-      "comment": "Contrast between blessings of creation and the fallen world; thorns later become a symbol in Christ’s Passion (Matt. 27:29)."
+      "text": "Both thorns and thistles it will bring forth for you, and you will eat the plants of the field.",
+      "links": "<a href='/AIV/28/10/8'>Hos. 10:8</a>",
+      "comment": "The ground now produces obstacles as a sign of the disorder introduced by sin, requiring greater effort to live."
     },
     {
-      "pk": 1933098,
+      "pk": 1003019,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 3,
       "verse": 19,
-      "text": "By the sweat of your face you will eat bread, until you return to the ground, for out of it you were taken; you are dust, and to dust you will return.\"",
-      "links": "<a href='/AIV/1/2/7'>Gen. 2:7</a>; <a href='/AIV/19/90/3'>Psalm 90:3</a>",
-      "comment": "'To dust you will return' indicates mortality. This verse is echoed in funeral liturgies and emphasizes humanity’s dependence on God for resurrection hope."
+      "text": "By the sweat of your face you will eat bread, until you return to the ground, for out of it you were taken; for you are dust, and to dust you will return.'",
+      "links": "<a href='/AIV/21/12/7'>Eccl. 12:7</a>; <a href='/AIV/19/103/14'>Ps. 103:14</a>",
+      "comment": "Death enters the human story. The phrase 'to dust you will return' echoes throughout Scripture as a reminder of human mortality and the need of redemption."
     },
     {
-      "pk": 1933099,
+      "pk": 1003020,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 3,
       "verse": 20,
-      "text": "The man called his wife's name Eve, because she was the mother of all the living.",
-      "links": "<a href='/AIV/1/4/1'>Gen. 4:1</a>",
-      "comment": "Naming symbolizes Adam’s faith in God’s promise of life even after the Fall. Eve’s role is dignified as a new beginning for humanity."
+      "text": "The man called his wife's name Eve, because she was the mother of all living.",
+      "links": "<a href='/AIV/01/4/1'>Gen. 4:1</a>",
+      "comment": "Naming affirms Adam's authority and Eve's unique role in humanity and salvation history—the promise that life comes even after the Fall."
     },
     {
-      "pk": 1933100,
+      "pk": 1003021,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 3,
       "verse": 21,
-      "text": "And the LORD God made for Adam and for his wife garments of skins and clothed them.",
-      "links": "<a href='/AIV/3/7/11'>Lev. 7:11</a>; <a href='/AIV/58/9/22'>Heb. 9:22</a>",
-      "comment": "God Himself provides suitable clothing, hinting at the necessity of sacrifice for covering sin. Early type of atonement (Heb. 9:22)."
+      "text": "And the LORD God made garments of skins for Adam and his wife, and clothed them.",
+      "links": "<a href='/AIV/03/7/8'>Lev. 7:8</a>, <a href='/AIV/58/9/22'>Heb. 9:22</a>",
+      "comment": "God provides a covering, possibly hinting at sacrifice and pointing forward to the need for atonement (cf. Heb. 9:22). The motif of God covering our shame returns throughout Scripture."
     },
     {
-      "pk": 1933101,
+      "pk": 1003022,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 3,
       "verse": 22,
-      "text": "Then the LORD God said, \"Behold, the man has become like one of us in knowing good and evil. Now, lest he reach out his hand and take also from the tree of life, and eat, and live forever...\"",
-      "links": "<a href='/AIV/1/1/26'>Gen. 1:26</a>; <a href='/AIV/66/2/7'>Rev. 2:7</a>",
-      "comment": "Plural 'us' hints at the divine mystery. The tree of life is closed until opened again in Christ’s future victory (Rev. 2:7)."
+      "text": "Then the LORD God said, 'Behold, the man has become like one of us in knowing good and evil. Now, lest he reach out his hand and take also from the tree of life and eat, and live forever—'",
+      "links": "<a href='/AIV/01/1/26'>Gen. 1:26</a>; <a href='/AIV/66/2/7'>Rev. 2:7</a>",
+      "comment": "Plural language (‘like one of us’) mirrors Gen. 1:26, hinting at the mystery of the divine. Access to eternal life is now denied—restored only in Christ (Rev. 2:7)."
     },
     {
-      "pk": 1933102,
+      "pk": 1003023,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 3,
       "verse": 23,
-      "text": "Therefore the LORD God sent him out from the garden of Eden to work the ground from which he was taken.",
-      "links": "<a href='/AIV/23/59/2'>Isa. 59:2</a>",
-      "comment": "Separation from Eden is both judgment and mercy—to prevent immortal life in sin and to prepare the way for redemption."
+      "text": "Therefore the LORD God sent him out from the garden of Eden to work the ground from which he had been taken.",
+      "links": "<a href='/AIV/01/2/15'>Gen. 2:15</a>, <a href='/AIV/42/15/18'>Luke 15:18</a>",
+      "comment": "Expulsion from the garden shows the consequences of sin yet points to a journey ahead that will culminate in restoration. Humanity’s exile is not the end—see the parable of the prodigal son (Luke 15:18)."
     },
     {
-      "pk": 1933103,
+      "pk": 1003024,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 3,
       "verse": 24,
-      "text": "He drove out the man, and at the east of the garden of Eden He placed the cherubim and a flaming sword that turned every way to guard the way to the tree of life.",
-      "links": "<a href='/AIV/2/25/18-22'>Ex. 25:18-22</a>; <a href='/AIV/66/22/14'>Rev. 22:14</a>",
-      "comment": "Guarded not out of cruelty but out of love, pointing forward to restored access to the tree of life through salvation history (Rev. 22:14). Cherubim connection foreshadows sacred spaces and priestly mediation."
+      "text": "So he drove the man out, and at the east of the garden of Eden he placed the cherubim and a flaming sword that turned every way to guard the way to the tree of life.",
+      "links": "<a href='/AIV/02/25/18-22'>Exod. 25:18-22</a>; <a href='/AIV/66/22/14'>Rev. 22:14</a>",
+      "comment": "Access to the presence of God is now blocked. The cherubim later appear in the tabernacle and temple (see Exod. 25:18-22), prefiguring how God will restore access. The tree of life returns in Rev. 22:14, fulfilled in Christ's sacrifice and the sacraments that unite us to eternal life."
     }
   ],
-  "translatedAt": "2025-12-23T08:35:16.546Z"
+  "translatedAt": "2025-12-24T00:12:05.870Z"
 }

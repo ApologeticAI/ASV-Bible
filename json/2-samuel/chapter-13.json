@@ -1,398 +1,477 @@
 {
-  "book": "2 Samuel",
+  "book": 10,
+  "bookName": "2 Samuel",
   "bookAbbreviation": "2Sam",
   "chapter": 13,
   "verses": [
     {
-      "pk": 2131301,
+      "pk": 10013001,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 13,
       "verse": 1,
-      "text": "After this, Absalom the son of David had a beautiful sister, whose name was Tamar. And Amnon, the son of David, loved her.",
-      "links": "<a href='/AIV/13/3/9'>1 Chr. 3:9</a>",
-      "comment": "Some manuscripts clarify that Tamar and Absalom are full siblings; Amnon is their half-brother."
+      "text": "After this, Absalom the son of David had a beautiful sister whose name was Tamar, and Amnon the son of David loved her.",
+      "links": "<a href='/AIV/10/3/3'>2Sam 3:3</a>",
+      "comment": "David’s complicated family relationships set the scene for this chapter’s tragic events."
     },
     {
-      "pk": 2131302,
+      "pk": 10013002,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 13,
       "verse": 2,
-      "text": "And Amnon was so distressed over his sister Tamar that he made himself sick, for she was a virgin, and it seemed impossible to Amnon to do anything to her.",
-      "links": "",
-      "comment": "Phrase 'do anything to her' literally means 'to do anything with her'; context indicates wrong intention."
+      "text": "Amnon was so tormented that he made himself sick because of his sister Tamar, for she was a virgin, and it seemed impossible to Amnon to do anything to her.",
+      "links": "<a href='/AIV/18/19/8'>Job 19:8</a>",
+      "comment": "The focus on Tamar’s virginity reflects the cultural importance of purity and family honor."
     },
     {
-      "pk": 2131303,
+      "pk": 10013003,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 13,
       "verse": 3,
-      "text": "But Amnon had a friend whose name was Jonadab, the son of Shimeah, David's brother. And Jonadab was a very crafty man.",
-      "links": "<a href='/AIV/13/2/13'>1 Sam. 16:9</a>; <a href='/AIV/13/21/21'>1 Chr. 2:13</a>",
-      "comment": "'Crafty' renders 'wise' or 'shrewd,' but with a negative connotation here."
+      "text": "But Amnon had a friend, whose name was Jonadab, the son of Shimeah, David’s brother. Now, Jonadab was a very crafty man.",
+      "links": "<a href='/AIV/1/3/1'>Gen 3:1</a>",
+      "comment": "Jonadab’s craftiness echoes the serpent’s cunning in Genesis 3:1, hinting at the role of evil counsel in the corruption of hearts."
     },
     {
-      "pk": 2131304,
+      "pk": 10013004,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 13,
       "verse": 4,
-      "text": "He said to him, 'O son of the king, why are you so dejected morning after morning? Will you not tell me?' Amnon said to him, 'I love Tamar, my brother Absalom's sister.'",
+      "text": "He said to him, 'O son of the king, why are you so depressed morning after morning? Will you not tell me?' Amnon said to him, 'I love Tamar, my brother Absalom’s sister.'",
       "links": "",
-      "comment": "'My brother Absalom's sister' clarifies the relationship."
+      "comment": "Amnon’s confession reveals misplaced desire, setting up the sinful act to follow."
     },
     {
-      "pk": 2131305,
+      "pk": 10013005,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 13,
       "verse": 5,
-      "text": "Then Jonadab said to him, 'Lie down on your bed and pretend to be sick. And when your father comes to see you, say to him, “Please let my sister Tamar come and give me food to eat, and prepare the food in my sight, so that I may see it and eat it from her hand.”'",
+      "text": "Jonadab said to him, 'Lie down on your bed and pretend to be ill. When your father comes to see you, say to him, “Let my sister Tamar come and give me food to eat, and prepare the food in my sight, so that I may see it and eat from her hand.”'",
       "links": "",
-      "comment": "Direct speech; preserves the original plan's details."
+      "comment": "Jonadab’s advice encourages deception and the abuse of familial trust."
     },
     {
-      "pk": 2131306,
+      "pk": 10013006,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 13,
       "verse": 6,
-      "text": "So Amnon lay down and pretended to be sick. When the king came to see him, Amnon said to the king, 'Please let my sister Tamar come and make a couple of cakes in my sight, that I may eat from her hand.'",
-      "links": "",
-      "comment": "'Cakes': literal 'heart-shaped cakes'; likely a kind of bread or pastry."
+      "text": "So Amnon lay down and pretended to be sick. When the king came to see him, Amnon said to the king, 'Please let my sister Tamar come and make a couple of cakes in my sight, so that I may eat from her hand.'",
+      "links": "<a href='/AIV/1/27/19'>Gen 27:19</a>",
+      "comment": "The repeated theme of deception (cf. Jacob and Esau in Genesis 27) shows the destructive consequences of sin."
     },
     {
-      "pk": 2131307,
+      "pk": 10013007,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 13,
       "verse": 7,
       "text": "Then David sent home to Tamar, saying, 'Go to your brother Amnon’s house and prepare food for him.'",
       "links": "",
-      "comment": "David’s order repeats the ruse; 'prepare food' is idiomatic for 'make food.'"
+      "comment": "David, unaware of the scheme, sends Tamar, demonstrating how even righteous leaders can be misled or used for the wrong purposes."
     },
     {
-      "pk": 2131308,
+      "pk": 10013008,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 13,
       "verse": 8,
-      "text": "So Tamar went to her brother Amnon’s house, where he was lying down. And she took dough, kneaded it, made cakes in his sight, and baked the cakes.",
+      "text": "So Tamar went to her brother Amnon’s house, where he was lying down. She took dough, kneaded it, made cakes in his sight, and baked the cakes.",
       "links": "",
-      "comment": "Follows sequence of original Hebrew verbs closely."
+      "comment": "Tamar’s obedience and innocence heighten the tragedy about to unfold."
     },
     {
-      "pk": 2131309,
+      "pk": 10013009,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 13,
       "verse": 9,
-      "text": "Then she took the pan and emptied them out before him, but he refused to eat. And Amnon said, 'Send out everyone from me.' So everyone went out from him.",
-      "links": "",
-      "comment": "'Emptied them out' literally, 'poured them out'; indicates placing food before him."
+      "text": "She took the pan and emptied it out before him, but he refused to eat. Then Amnon said, 'Send everyone out from me.' So everyone went out from him.",
+      "links": "<a href='/AIV/1/39/9-12'>Gen 39:9-12</a>",
+      "comment": "Amnon’s intent is revealed as he removes all witnesses."
     },
     {
-      "pk": 2131310,
+      "pk": 10013010,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 13,
       "verse": 10,
-      "text": "Then Amnon said to Tamar, 'Bring the food into the bedroom, so that I may eat from your hand.' So Tamar took the cakes she had made and brought them into the bedroom to Amnon her brother.",
+      "text": "Then Amnon said to Tamar, 'Bring the food into the bedroom, so that I may eat from your hand.' So Tamar took the cakes she had made and brought them into the bedroom to her brother Amnon.",
       "links": "",
-      "comment": ""
+      "comment": "The setting moves to a secluded place, underscoring the gravity of the sin about to be committed."
     },
     {
-      "pk": 2131311,
+      "pk": 10013011,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 13,
       "verse": 11,
-      "text": "But when she brought them near him to eat, he seized her and said to her, 'Come, lie with me, my sister.'",
-      "links": "",
-      "comment": "Translation keeps literal wording; 'lie with me' is biblical idiom for sexual union."
+      "text": "But when she brought them close to him to eat, he seized her and said to her, 'Come, lie with me, my sister.'",
+      "links": "<a href='/AIV/1/39/7'>Gen 39:7</a>",
+      "comment": "Like Joseph’s temptation by Potiphar’s wife, but with tragic different results."
     },
     {
-      "pk": 2131312,
+      "pk": 10013012,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 13,
       "verse": 12,
-      "text": "But she answered him, 'No, my brother! Do not violate me, for such a thing is not done in Israel; do not do this disgraceful thing.'",
-      "links": "<a href='/AIV/03/18/9'>Lev. 18:9</a>; <a href='/AIV/01/34/7'>Gen. 34:7</a>",
-      "comment": "'Violate' translates 'do not humble me'; 'disgraceful thing' is literally 'folly.'"
+      "text": "She answered him, 'No, my brother, do not violate me, for such a thing is not done in Israel; do not do this disgraceful thing.'",
+      "links": "<a href='/AIV/3/18/24'>Lev 18:24</a>; <a href='/AIV/7/19/23-24'>Judg 19:23-24</a>",
+      "comment": "Tamar’s protest invokes Israel’s moral law. Her appeal shows moral clarity in face of assault."
     },
     {
-      "pk": 2131313,
+      "pk": 10013013,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 13,
       "verse": 13,
-      "text": "'As for me, where could I carry my shame? And as for you, you would be as one of the wicked fools in Israel. Now therefore, please speak to the king, for he will not withhold me from you.'",
-      "links": "<a href='/AIV/01/34/7'>Gen. 34:7</a>",
-      "comment": "'You would be as one of the fools'—'Fool' denotes moral rebellion and disgrace."
+      "text": "As for me, where would I carry my shame? And as for you, you would be as one of the fools in Israel. Now therefore, please speak to the king, for he will not withhold me from you.'",
+      "links": "",
+      "comment": "Tamar appeals to the possibility of lawful marriage, suggesting order and blessing in following God-ordained authority."
     },
     {
-      "pk": 2131314,
+      "pk": 10013014,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 13,
       "verse": 14,
       "text": "But he would not listen to her, and being stronger than she, he violated her and lay with her.",
       "links": "",
-      "comment": "Literal translation; 'violated' for 'forced.'"
+      "comment": "A grave sin is committed. The consequences of disordered passion and the violation of God’s law are paramount."
     },
     {
-      "pk": 2131315,
+      "pk": 10013015,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 13,
       "verse": 15,
-      "text": "Then Amnon hated her with a very great hatred, so that the hatred with which he hated her was greater than the love with which he had loved her. And Amnon said to her, 'Get up, go away!'",
+      "text": "Then Amnon hated her with very great hatred, so much that the hatred with which he hated her was greater than the love with which he had loved her. And Amnon said to her, 'Get up! Go!'",
       "links": "",
-      "comment": "Wordplay between love and hate is retained from Hebrew."
+      "comment": "Sin corrupts love into hatred; Amnon’s desire turns instantly to rejection."
     },
     {
-      "pk": 2131316,
+      "pk": 10013016,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 13,
       "verse": 16,
-      "text": "But she said to him, 'No, my brother, for this wrong in sending me away is greater than the other that you did to me.' But he would not listen to her.",
+      "text": "But she said to him, 'No, because this wrong in sending me away is greater than the other that you did to me.' But he would not listen to her.",
       "links": "",
-      "comment": "'Wrong' translates 'evil'; the expulsion compounded the trauma."
+      "comment": "Tamar’s plea highlights social consequences and deepens the injustice. Law (Deut 22:29) prohibited sending her away."
     },
     {
-      "pk": 2131317,
+      "pk": 10013017,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 13,
       "verse": 17,
-      "text": "He called the young man who served him and said, 'Put this woman out from me, and bolt the door after her.'",
+      "text": "He called his young servant who attended him and said, 'Put this woman out from me, and bolt the door after her.'",
       "links": "",
-      "comment": "'This woman' is dismissive in Hebrew."
+      "comment": "Amnon’s callousness contrasts with Christ’s compassion toward women caught in shame."
     },
     {
-      "pk": 2131318,
+      "pk": 10013018,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 13,
       "verse": 18,
-      "text": "Now she was wearing a long robe with sleeves, for this was the kind of garment the virgin daughters of the king wore. So his servant put her out and bolted the door after her.",
-      "links": "<a href='/AIV/37/5/3'>Gen. 37:3</a>",
-      "comment": "'Long robe with sleeves’—the precise meaning is uncertain, but denotes a garment marking status as a virgin princess."
+      "text": "Now she was wearing a long robe with sleeves, for thus were the virgin daughters of the king clothed in earlier times. So his servant put her out and bolted the door after her.",
+      "links": "",
+      "comment": "Her royal garment underscores her innocence and the tragedy of its loss."
     },
     {
-      "pk": 2131319,
+      "pk": 10013019,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 13,
       "verse": 19,
-      "text": "Then Tamar put ashes on her head and tore the long robe that she wore. She laid her hand on her head and went away, crying aloud as she went.",
-      "links": "<a href='/AIV/01/37/29'>Gen. 37:29</a>; <a href='/AIV/10/1/2'>2 Sam. 1:2</a>",
-      "comment": "Typical ancient signs of mourning and shame."
+      "text": "Tamar put ashes on her head and tore the long robe that she wore. She laid her hand on her head and went away, crying loudly as she went.",
+      "links": "<a href='/AIV/1/37/34'>Gen 37:34</a>",
+      "comment": "Tearing of the garment and ashes signify public mourning and shame."
     },
     {
-      "pk": 2131320,
+      "pk": 10013020,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 13,
       "verse": 20,
-      "text": "And her brother Absalom said to her, 'Has Amnon your brother been with you? But now, my sister, be quiet; he is your brother. Do not take this matter to heart.' So Tamar lived, a desolate woman, in her brother Absalom’s house.",
+      "text": "Her brother Absalom said to her, 'Has Amnon your brother been with you? Now, my sister, keep silent; he is your brother. Do not take this matter to heart.' So Tamar lived, a desolate woman, in Absalom’s house.",
       "links": "",
-      "comment": "Absalom’s words reflect the difficult social realities of the time, not approval."
+      "comment": "Social structures failed Tamar, who is instead cared for by Absalom. The effects of sin ripple through communities."
     },
     {
-      "pk": 2131321,
+      "pk": 10013021,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 13,
       "verse": 21,
-      "text": "When King David heard all these things, he was very angry.",
+      "text": "When King David heard of all these things, he was very angry.",
       "links": "",
-      "comment": "Text does not record David as taking action."
+      "comment": "David’s anger is recorded, but his lack of direct action will later haunt his family."
     },
     {
-      "pk": 2131322,
+      "pk": 10013022,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 13,
       "verse": 22,
-      "text": "But Absalom spoke to Amnon neither good nor bad, for Absalom hated Amnon because he had violated his sister Tamar.",
-      "links": "",
-      "comment": "Literal rendering; 'neither good nor bad' means no interaction at all."
+      "text": "But Absalom spoke to Amnon neither good nor bad, for Absalom hated Amnon, because he had violated his sister Tamar.",
+      "links": "<a href='/AIV/1/27/41'>Gen 27:41</a>",
+      "comment": "This silence mirrors Esau’s hatred for Jacob, foreshadowing revenge."
     },
     {
-      "pk": 2131323,
+      "pk": 10013023,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 13,
       "verse": 23,
-      "text": "Two years later, when Absalom was shearing his sheep at Baal Hazor, near Ephraim, Absalom invited all the king’s sons.",
-      "links": "<a href='/AIV/09/25/2'>1 Sam. 25:2</a>",
-      "comment": "Sheep-shearing was a time of feasting."
+      "text": "After two full years, Absalom had sheep shearers at Baal-hazor, which is near Ephraim, and Absalom invited all the king’s sons.",
+      "links": "<a href='/AIV/1/38/12'>Gen 38:12</a>",
+      "comment": "Sheep shearing festivals were common times for gatherings and sometimes intrigue (see Gen 38:12)."
     },
     {
-      "pk": 2131324,
+      "pk": 10013024,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 13,
       "verse": 24,
-      "text": "And Absalom came to the king and said, 'Your servant has sheep shearers. Please let the king and his servants go with your servant.'",
+      "text": "Absalom came to the king and said, 'Behold, your servant has sheep shearers. Please let the king and his servants go with your servant.'",
       "links": "",
-      "comment": ""
+      "comment": "Absalom extends an invitation appearing generous but has hidden motives."
     },
     {
-      "pk": 2131325,
+      "pk": 10013025,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 13,
       "verse": 25,
-      "text": "But the king said to Absalom, 'No, my son, let us not all go, so we will not be a burden to you.' He pressed him, but he would not go, yet he gave him his blessing.",
+      "text": "But the king said to Absalom, 'No, my son, let us not all go, lest we be a burden to you.' He pressed him, but he would not go, and he blessed him.",
       "links": "",
-      "comment": ""
+      "comment": "David’s blessing retains royal authority but shows passivity."
     },
     {
-      "pk": 2131326,
+      "pk": 10013026,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 13,
       "verse": 26,
       "text": "Then Absalom said, 'If not, please let my brother Amnon go with us.' And the king said to him, 'Why should he go with you?'",
       "links": "",
-      "comment": "'Why should he go?' is suspicious; Hebrew makes David seem cautious."
+      "comment": "David senses something is amiss, but ultimately he allows it."
     },
     {
-      "pk": 2131327,
+      "pk": 10013027,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 13,
       "verse": 27,
       "text": "But Absalom pressed him until he let Amnon and all the king’s sons go with him.",
       "links": "",
-      "comment": ""
+      "comment": "Persistence wins, and the king’s restraint is ultimately passive consent."
     },
     {
-      "pk": 2131328,
+      "pk": 10013028,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 13,
       "verse": 28,
-      "text": "Then Absalom commanded his servants, 'Mark when Amnon’s heart is merry with wine, and when I say to you, “Strike Amnon,” then kill him. Do not be afraid; have I not commanded you? Be strong and be courageous.'",
-      "links": "",
-      "comment": "'Be strong and courageous' is a stock phrase for bold action (cf. Josh. 1:6)."
+      "text": "Then Absalom commanded his servants, 'Mark when Amnon’s heart is merry with wine, and when I say to you, “Strike Amnon,” then kill him. Do not fear; have I not commanded you? Be courageous and do it.'",
+      "links": "<a href='/AIV/7/4/18-21'>Judg 4:18-21</a>",
+      "comment": "Absalom’s command echoes other biblical accounts of revenge killings, showing sin begetting further sin."
     },
     {
-      "pk": 2131329,
+      "pk": 10013029,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 13,
       "verse": 29,
-      "text": "So Absalom’s servants did to Amnon as Absalom had commanded. Then all the king’s sons rose, and each mounted his mule and fled.",
+      "text": "So the servants of Absalom did to Amnon just as Absalom had commanded. Then all the king’s sons arose, and each mounted his mule and fled.",
       "links": "",
-      "comment": "Mules were royal mounts."
+      "comment": "Fear spreads; violence among brethren divides the royal family."
     },
     {
-      "pk": 2131330,
+      "pk": 10013030,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 13,
       "verse": 30,
-      "text": "While they were on the way, news came to David, 'Absalom has struck down all the king’s sons, and not one of them is left.'",
+      "text": "While they were on their way, a report came to David, 'Absalom has struck down all the king’s sons, and not one of them is left.'",
       "links": "",
-      "comment": "Initial report is exaggerated or mistaken."
+      "comment": "The first news exaggerates the tragedy, a common reaction in crisis."
     },
     {
-      "pk": 2131331,
+      "pk": 10013031,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 13,
       "verse": 31,
-      "text": "Then the king arose and tore his garments and lay on the ground, and all his servants who were standing by tore their garments.",
-      "links": "",
-      "comment": "Ancient mourning custom."
+      "text": "Then the king arose and tore his garments and lay on the ground; all his servants who stood by tore their garments as well.",
+      "links": "<a href='/AIV/18/1/20'>Job 1:20</a>",
+      "comment": "David and his court grieve deeply. Tearing garments is a sign of mourning (see Job 1:20)."
     },
     {
-      "pk": 2131332,
+      "pk": 10013032,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 13,
       "verse": 32,
-      "text": "But Jonadab, the son of Shimeah, David’s brother, said, 'Let not my lord suppose they have killed all the young men, the king’s sons; for Amnon alone is dead. For Absalom has determined this since the day he violated his sister Tamar.'",
+      "text": "But Jonadab, the son of Shimeah, David’s brother, said, 'Let not my lord suppose that they have killed all the young men, the king’s sons, for Amnon alone is dead. This has been determined by Absalom since the day he violated his sister Tamar.'",
       "links": "",
-      "comment": "Jonadab knows the details; Hebrew indicates 'set his mind' or 'fixed in his heart.'"
+      "comment": "Jonadab, though crafty, clarifies the situation—revealing hidden intentions known to some in David’s court."
     },
     {
-      "pk": 2131333,
+      "pk": 10013033,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 13,
       "verse": 33,
-      "text": "'Now therefore, let not my lord the king take the matter to heart, as if all the king’s sons are dead. For Amnon alone is dead.'",
+      "text": "Now therefore, let not my lord the king take this thing to heart, thinking all the king’s sons are dead, for only Amnon is dead.",
       "links": "",
-      "comment": ""
+      "comment": "Jonadab reduces the scale of the tragedy to manageable proportions."
     },
     {
-      "pk": 2131334,
+      "pk": 10013034,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 13,
       "verse": 34,
-      "text": "But Absalom had fled. And the young man who kept watch lifted up his eyes and looked, and behold, many people were coming by the road behind him on the hillside.",
+      "text": "But Absalom fled. And the young man who kept the watch lifted up his eyes and looked, and there were many people coming from the road behind him by the side of the mountain.",
       "links": "",
-      "comment": "'Watchman' was standard lookout on the wall."
+      "comment": "Absalom’s flight marks the beginning of further divisions in David’s kingdom."
     },
     {
-      "pk": 2131335,
+      "pk": 10013035,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 13,
       "verse": 35,
-      "text": "And Jonadab said to the king, 'Behold, the king’s sons have come; as your servant said, so it has come to pass.'",
+      "text": "Jonadab said to the king, 'Behold, the king’s sons have come; as your servant said, so it has come about.'",
       "links": "",
-      "comment": ""
+      "comment": "Jonadab’s report is confirmed; not all is lost."
     },
     {
-      "pk": 2131336,
+      "pk": 10013036,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 13,
       "verse": 36,
-      "text": "As soon as he had finished speaking, behold, the king’s sons came and lifted up their voice and wept. And the king also and all his servants wept very bitterly.",
+      "text": "As soon as he had finished speaking, the king’s sons came and lifted up their voices and wept. The king and all his servants wept very bitterly also.",
       "links": "",
-      "comment": ""
+      "comment": "Weeping together expresses communal sorrow, showing the deep wounds sin causes in relationships."
     },
     {
-      "pk": 2131337,
+      "pk": 10013037,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 13,
       "verse": 37,
-      "text": "But Absalom fled and went to Talmai the son of Ammihud, king of Geshur. And David mourned for his son day after day.",
-      "links": "<a href='/AIV/10/3/3'>2 Sam. 3:3</a>",
-      "comment": "Talmai was Absalom’s maternal grandfather; Geshur was outside David’s jurisdiction."
+      "text": "Absalom fled and went to Talmai the son of Ammihud, king of Geshur. And David mourned for his son day after day.",
+      "links": "",
+      "comment": "Absalom seeks asylum with his maternal grandfather; David’s grief demonstrates ongoing consequences of unresolved sin."
     },
     {
-      "pk": 2131338,
+      "pk": 10013038,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 13,
       "verse": 38,
-      "text": "So Absalom fled and went to Geshur, and was there three years.",
+      "text": "So Absalom fled and went to Geshur, and was there for three years.",
       "links": "",
-      "comment": "'Geshur' was a small Aramean kingdom."
+      "comment": "Three years of exile parallel other notable biblical exiles (cf. Moses, Christ’s three days in the tomb)."
     },
     {
-      "pk": 2131339,
+      "pk": 10013039,
       "translation": "AIV",
       "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
       "chapter": 13,
       "verse": 39,
       "text": "And the spirit of the king longed to go out to Absalom, for he was comforted concerning Amnon, since he was dead.",
       "links": "",
-      "comment": "Hebrew is ambiguous: could mean David’s heart was set on Absalom, or that he had given up on him; translated as longing for him."
+      "comment": "David’s paternal heart yearns for mercy and reconciliation, themes fulfilled when the true Messiah heals even deeper familial wounds (cf. Luke 15:20)."
     }
   ],
-  "translatedAt": "2025-12-22T09:41:09.119Z"
+  "translatedAt": "2025-12-24T03:18:05.344Z"
 }

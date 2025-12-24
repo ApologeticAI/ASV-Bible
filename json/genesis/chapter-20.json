@@ -1,196 +1,225 @@
 {
-  "book": "Genesis",
+  "book": 1,
+  "bookName": "Genesis",
   "bookAbbreviation": "Gen",
   "chapter": 20,
   "verses": [
     {
-      "pk": 1200801,
+      "pk": 1020001,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 20,
       "verse": 1,
-      "text": "Abraham journeyed from there toward the region of the Negev, and dwelled between Kadesh and Shur. Then he sojourned in Gerar.",
-      "links": "<a href='/AIV/1/12/9'>Gen. 12:9</a>; <a href='/AIV/1/16/7'>Gen. 16:7</a>",
-      "comment": "‘Sojourned’ indicates Abraham was a traveler, residing temporarily among foreign peoples. This period is a continuation of his journeys, trusting God’s providence."
+      "text": "Abraham traveled from there toward the region of the Negev, and settled between Kadesh and Shur. While he was staying in Gerar as a foreigner,",
+      "links": "<a href='/AIV/1/16/7'>Gen. 16:7</a>; <a href='/AIV/1/12/9'>Gen. 12:9</a>",
+      "comment": "Gerar was a Philistine city. The migration of the patriarchs shows God's providence across different lands, reminiscent of the future Exodus (see Gen. 12:10; Ex. 3:8)."
     },
     {
-      "pk": 1200802,
+      "pk": 1020002,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 20,
       "verse": 2,
-      "text": "And Abraham said of Sarah his wife, 'She is my sister.' So Abimelech, king of Gerar, sent and took Sarah.",
+      "text": "Abraham said about Sarah his wife, 'She is my sister.' So Abimelech king of Gerar sent and took Sarah.",
       "links": "<a href='/AIV/1/12/13'>Gen. 12:13</a>; <a href='/AIV/1/26/7'>Gen. 26:7</a>",
-      "comment": "Abraham repeats a previous deception (see Genesis 12:13), showing his human weakness. This verse sets up God’s later intervention."
+      "comment": "Abraham's repeated action (see Gen. 12:13) shows human weakness, yet God's faithfulness remains. The taking of Sarah draws parallels to Eve's temptation and the need for divine protection (1 Cor. 10:13)."
     },
     {
-      "pk": 1200803,
+      "pk": 1020003,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 20,
       "verse": 3,
-      "text": "But God came to Abimelech in a dream by night and said to him, 'Behold, you are a dead man because of the woman you have taken, for she is a man's wife.'",
-      "links": "<a href='/AIV/1/31/24'>Gen. 31:24</a>; <a href='/AIV/1/20/18'>Gen. 20:18</a>",
-      "comment": "God protects Sarah and the promissory line Himself. Like other Theophanies (divine revelations), God’s providence upholds the promised seed (see Gen 3:15 for protoevangelium context)."
+      "text": "But God came to Abimelech in a dream by night and said, 'You are as good as dead because of the woman whom you have taken, for she is a man’s wife.'",
+      "links": "<a href='/AIV/1/12/17'>Gen. 12:17</a>; <a href='/AIV/1/31/24'>Gen. 31:24</a>",
+      "comment": "God's intervention in dreams (cf. Gen. 31:24; Matt. 2:12) indicates that His sovereignty extends beyond Israel to all nations. Defending marriage prefigures Christ’s defense of the Church, His bride (Eph. 5:25-27)."
     },
     {
-      "pk": 1200804,
+      "pk": 1020004,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 20,
       "verse": 4,
-      "text": "Now Abimelech had not come near her. So he said, 'Lord, will you destroy a righteous nation also?'",
-      "links": "<a href='/AIV/1/18/23'>Gen. 18:23</a>; <a href='/AIV/1/19/25'>Gen. 19:25</a>",
-      "comment": "Abimelech's plea echoes Abraham’s earlier intercession for Sodom. God’s mercy considers innocence and intention, a recurring biblical theme."
+      "text": "Now Abimelech had not come near her, so he said, 'Lord, will you destroy an innocent nation also?'",
+      "links": "<a href='/AIV/1/18/23'>Gen. 18:23</a>; <a href='/AIV/1/19/4-5'>Gen. 19:4-5</a>",
+      "comment": "Abimelech appeals to God's justice. Compare with Abraham’s intercession for Sodom in Gen. 18:23. Here, the emphasis lies on conscience and natural law (Rom. 2:14-15)."
     },
     {
-      "pk": 1200805,
+      "pk": 1020005,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 20,
       "verse": 5,
-      "text": "'Did he not say to me, "
+      "text": "'Didn’t he say to me, “She is my sister”? And she herself even said, “He is my brother.” I have done this with a clear heart and clean hands.'",
+      "links": "<a href='/AIV/18/22/30'>Job 22:30</a>; <a href='/AIV/19/24/4'>Ps. 24:4</a>",
+      "comment": "Abimelech claims innocence, reflecting ethical awareness. 'Clean hands' evokes the call to moral purity (Ps. 24:4), a theme fulfilled in the New Covenant sacraments (1 John 1:7)."
     },
     {
-      "pk": 1200805,
+      "pk": 1020006,
       "translation": "AIV",
       "book": 1,
-      "chapter": 20,
-      "verse": 5,
-      "text": "'Did he not say to me, \"She is my sister\"? And she herself even said, \"He is my brother.\" In the integrity of my heart and the innocence of my hands I have done this.'",
-      "links": "<a href='/AIV/1/12/19'>Gen. 12:19</a>; <a href='/AIV/1/20/6'>Gen. 20:6</a>",
-      "comment": "Abimelech claims innocence based on Abraham’s misleading words. The theme of moral culpability and intention appears here, paralleling further teachings about sin and conscience (see 1 Sam. 16:7)."
-    },
-    {
-      "pk": 1200806,
-      "translation": "AIV",
-      "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 20,
       "verse": 6,
-      "text": "And God said to him in the dream, 'Yes, I know that you did this in the integrity of your heart. For I also withheld you from sinning against Me; therefore I did not let you touch her.'",
-      "links": "<a href='/AIV/1/20/18'>Gen. 20:18</a>; <a href='/AIV/1/39/9'>Gen. 39:9</a>",
-      "comment": "God’s sovereign grace prevents Abimelech from unknowingly sinning. This reinforces divine initiative in preserving holiness and the chosen line (see Ps. 19:13)."
+      "text": "Then God said to him in the dream, 'Yes, I know that you have done this with a pure heart. That is why I withheld you from sinning against Me; therefore I did not let you touch her.'",
+      "links": "<a href='/AIV/19/19/13'>Ps. 19:13</a>; <a href='/AIV/1/39/9'>Gen. 39:9</a>",
+      "comment": "God’s prevenient grace operates to keep Abimelech from sin, anticipating the way God's grace empowers believers to resist evil (Phil. 2:13). God’s direct involvement emphasizes His holiness."
     },
     {
-      "pk": 1200807,
+      "pk": 1020007,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 20,
       "verse": 7,
-      "text": "'Now therefore, restore the man's wife; for he is a prophet, and he will pray for you and you shall live. But if you do not restore her, be sure that you shall surely die, you and all who are yours.'",
-      "links": "<a href='/AIV/1/12/17'>Gen. 12:17</a>; <a href='/AIV/1/27/19'>Gen. 27:19</a>",
-      "comment": "This is the first time in Scripture Abraham is called a 'prophet.' The role of intercessory prayer is highlighted—a theme foundational in biblical mediation (see James 5:16)."
+      "text": "Now therefore, restore the man’s wife; for he is a prophet, and he will pray for you and you will live. But if you do not restore her, know that you will surely die, you and all who are yours.'",
+      "links": "<a href='/AIV/18/42/8'>Job 42:8</a>; <a href='/AIV/1/12/17'>Gen. 12:17</a>",
+      "comment": "Abraham's unique role as prophet and intercessor foreshadows the priestly mediation later fulfilled in Christ (Heb. 7:25). The sacramental power of intercessory prayer for others is alluded to (James 5:16)."
     },
     {
-      "pk": 1200808,
+      "pk": 1020008,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 20,
       "verse": 8,
-      "text": "So Abimelech rose early in the morning, called all his servants, and told all these things in their hearing; and the men were very much afraid.",
-      "links": "<a href='/AIV/1/41/8'>Gen. 41:8</a>; <a href='/AIV/19/33/8'>Psalm 33:8</a>",
-      "comment": "Fear of God’s judgment is seen as just and wise. The narrative reflects a communal seriousness about sin and obedience."
+      "text": "So Abimelech rose early in the morning and called all his servants, and told them all these things; and the men were greatly afraid.",
+      "links": "<a href='/AIV/1/41/8'>Gen. 41:8</a>; <a href='/AIV/2/9/20-21'>Ex. 9:20-21</a>",
+      "comment": "Reverence and fear before God’s warnings illustrate the wisdom found in heeding divine revelation (Prov. 1:7)."
     },
     {
-      "pk": 1200809,
+      "pk": 1020009,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 20,
       "verse": 9,
-      "text": "Then Abimelech called Abraham and said to him, 'What have you done to us? How have I sinned against you, that you have brought on me and my kingdom a great sin? You have done deeds to me that should not be done.'",
+      "text": "Then Abimelech called Abraham, and said to him, 'What have you done to us? How have I sinned against you, that you have brought upon me and my kingdom a great sin? You have done things to me that ought not to have been done.'",
       "links": "<a href='/AIV/1/12/18'>Gen. 12:18</a>; <a href='/AIV/1/26/10'>Gen. 26:10</a>",
-      "comment": "Abimelech rebukes Abraham for his actions. Even non-Israelite kings recognize moral law. God's moral order is for all peoples (see Rom. 2:15)."
+      "comment": "Abimelech rebukes Abraham. Even those outside God's covenant can discern moral truth (Rom. 2:14-15), emphasizing the universality of the moral law written on every heart."
     },
     {
-      "pk": 1200810,
+      "pk": 1020010,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 20,
       "verse": 10,
-      "text": "And Abimelech said to Abraham, 'What did you see, that you have done this thing?'",
-      "links": "<a href='/AIV/1/12/18'>Gen. 12:18</a>",
-      "comment": "Abimelech demands Abraham explain his actions. This account exposes Abraham’s fear and frailty, reminding us that even the righteous falter."
+      "text": "Abimelech also said to Abraham, 'What were you thinking, that you did this thing?'",
+      "links": "<a href='/AIV/1/26/9-10'>Gen. 26:9-10</a>",
+      "comment": "A call for moral reasoning. This highlights human responsibility in cooperating with God’s will (Phil. 2:12-13)."
     },
     {
-      "pk": 1200811,
+      "pk": 1020011,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 20,
       "verse": 11,
-      "text": "Abraham replied, 'Because I thought, Surely there is no fear of God in this place, and they will kill me because of my wife.'",
-      "links": "<a href='/AIV/1/12/12'>Gen. 12:12</a>",
-      "comment": "Abraham justifies his actions by lack of trust. The narrative reveals God's faithfulness despite human weakness."
+      "text": "Abraham said, 'I thought, Surely there is no fear of God in this place, and they will kill me because of my wife.'",
+      "links": "<a href='/AIV/1/12/12'>Gen. 12:12</a>; <a href='/AIV/19/36/1'>Ps. 36:1</a>",
+      "comment": "Abraham confesses his fear and lack of trust. This demonstrates the need for ongoing sanctification, as even the greatest saints make imperfect moral judgments."
     },
     {
-      "pk": 1200812,
+      "pk": 1020012,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 20,
       "verse": 12,
-      "text": "'Besides, she is indeed my sister, the daughter of my father, but not the daughter of my mother; and she became my wife.'",
+      "text": "And besides, she really is my sister, the daughter of my father but not the daughter of my mother, and she became my wife.",
       "links": "<a href='/AIV/1/11/29'>Gen. 11:29</a>",
-      "comment": "Abraham admits a partial truth. Early patriarchal marriages were sometimes between close kin, later prohibited (see Lev. 18:9)."
+      "comment": "Abraham's explanation reflects ancient Near Eastern customs. God's progressive revelation clarifies moral standards over time (Acts 17:30)."
     },
     {
-      "pk": 1200813,
+      "pk": 1020013,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 20,
       "verse": 13,
-      "text": "'And when God caused me to wander from my father’s house, I said to her, “This is the kindness you must show me: at every place where we come, say of me, 'He is my brother.'”'",
-      "links": "<a href='/AIV/1/12/1'>Gen. 12:1</a>",
-      "comment": "Abraham had formed a defensive pact with Sarah. His wandering (exile) recalls themes of pilgrimage and dependence on God's guidance (see Heb. 11:9-10)."
+      "text": "When God caused me to wander from my father’s house, I said to her, \"This is the kindness you must show me: at every place to which we come, say of me, ‘He is my brother.’\"",
+      "links": "<a href='/AIV/1/12/1'>Gen. 12:1</a>; <a href='/AIV/1/12/13'>Gen. 12:13</a>",
+      "comment": "Abraham’s wandering prefigures the spiritual journey of faith, later embodied in Israel’s pilgrim experience (Heb. 11:8-10)."
     },
     {
-      "pk": 1200814,
+      "pk": 1020014,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 20,
       "verse": 14,
-      "text": "Then Abimelech took sheep and oxen, male and female servants, and gave them to Abraham; and he returned Sarah his wife to him.",
+      "text": "Then Abimelech took sheep and oxen, male servants and female servants, and gave them to Abraham, and he returned Sarah his wife to him.",
       "links": "<a href='/AIV/1/12/16'>Gen. 12:16</a>; <a href='/AIV/1/13/2'>Gen. 13:2</a>",
-      "comment": "Despite Abraham's failing, God blesses him through Gentile gifts. Blessing is promised even through difficult circumstances (see Gen. 12:3)."
+      "comment": "Restitution with gifts reflects the importance of reparation and making right relations, a theme key in both Old and New Testament morality (Matt. 5:23-24)."
     },
     {
-      "pk": 1200815,
+      "pk": 1020015,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 20,
       "verse": 15,
-      "text": "And Abimelech said, 'See, my land is before you; dwell wherever it pleases you.'",
-      "links": "<a href='/AIV/1/13/9'>Gen. 13:9</a>",
-      "comment": "Hospitality from a foreign king prefigures the blessing of all nations through Abraham’s line (see Gal. 3:8)."
+      "text": "Abimelech said, 'See, my land is before you; settle wherever you please.'",
+      "links": "<a href='/AIV/1/13/9'>Gen. 13:9</a>; <a href='/AIV/1/34/10'>Gen. 34:10</a>",
+      "comment": "Abimelech’s generosity echoes Melchizedek’s blessing in Gen. 14:18–20, pointing forward to hospitality as a mark of true faith (Heb. 13:2)."
     },
     {
-      "pk": 1200816,
+      "pk": 1020016,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 20,
       "verse": 16,
-      "text": "Then to Sarah he said, 'Look, I have given your brother a thousand pieces of silver; indeed this is a sign of your vindication before all who are with you, and before everyone you are cleared.'",
-      "links": "<a href='/AIV/1/26/11'>Gen. 26:11</a>",
-      "comment": "The gift publicly exonerates Sarah, restoring her honor. This points to restoration and even purification after moral danger—a motif developed in further scripture (see Zech. 3:1-5)."
+      "text": "To Sarah he said, 'Look, I have given your brother a thousand pieces of silver. This is to vindicate you before all who are with you. You are completely cleared.'",
+      "links": "<a href='/AIV/1/24/53'>Gen. 24:53</a>; <a href='/AIV/1/26/11'>Gen. 26:11</a>",
+      "comment": "The gift serves to publicly restore Sarah’s dignity. Spiritual restoration and making amends parallel New Testament teaching on confession and reconciliation (John 8:11)."
     },
     {
-      "pk": 1200817,
+      "pk": 1020017,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 20,
       "verse": 17,
-      "text": "Then Abraham prayed to God, and God healed Abimelech, his wife, and his female servants; so they bore children.",
-      "links": "<a href='/AIV/1/20/7'>Gen. 20:7</a>; <a href='/AIV/19/107/20'>Ps. 107:20</a>",
-      "comment": "Abraham’s intercession brings healing and fruitfulness. Prophetic intercession is a recurring biblical theme, anticipating the role of mediators between God and man (see 1 Tim. 2:1-5)."
+      "text": "Then Abraham prayed to God, and God healed Abimelech, and his wife and female servants, so they could have children again.",
+      "links": "<a href='/AIV/1/12/17'>Gen. 12:17</a>; <a href='/AIV/18/42/9-10'>Job 42:9-10</a>",
+      "comment": "Intercessory prayer mediates God’s healing, prefiguring Christ’s mediation and the Church’s ministry of reconciliation (James 5:14-16)."
     },
     {
-      "pk": 1200818,
+      "pk": 1020018,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 20,
       "verse": 18,
-      "text": "For the Lord had completely closed up all the wombs of the house of Abimelech because of Sarah, Abraham's wife.",
-      "links": "<a href='/AIV/1/12/17'>Gen. 12:17</a>",
-      "comment": "This passage underlines God’s control over fertility and blessing. The restoration points to the importance of divine grace restoring what is lost through sin. See Christ’s miracles of healing and restoration as echoes of this motif."
+      "text": "For the LORD had closed all the wombs in the household of Abimelech because of Sarah, Abraham’s wife.",
+      "links": "<a href='/AIV/1/16/2'>Gen. 16:2</a>; <a href='/AIV/1/30/2'>Gen. 30:2</a>",
+      "comment": "God’s sovereign opening and closing of wombs demonstrates His authority over life. This continues the theme of barrenness and miraculous birth found throughout Scripture (cf. Luke 1:7, 1:36), often paralleling salvation history."
     }
   ],
-  "translatedAt": "2025-12-23T08:43:31.739Z"
+  "translatedAt": "2025-12-24T00:20:40.541Z"
 }

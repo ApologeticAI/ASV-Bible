@@ -1,208 +1,249 @@
 {
-  "book": "Genesis",
+  "book": 1,
+  "bookName": "Genesis",
   "bookAbbreviation": "Gen",
   "chapter": 23,
   "verses": [
     {
-      "pk": 1002301,
+      "pk": 1023001,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 23,
       "verse": 1,
-      "text": "Sarah lived one hundred twenty-seven years; these were the years of Sarah’s life.",
-      "links": "<a href='/AIV/1/17/17'>Gen. 17:17</a>",
-      "comment": "Sarah is the only woman in Scripture whose age at death is specifically recorded, highlighting her significance in salvation history."
+      "text": "Sarah lived one hundred and twenty-seven years; these were the years of Sarah's life.",
+      "links": "<a href='/AIV/1/17/17'>Gen. 17:17</a>; <a href='/AIV/1/21/2'>Gen. 21:2</a>",
+      "comment": "This verse highlights Sarah's advanced age, underscoring the extraordinary nature of Isaac's birth as fulfillment of God's promise (see Gen. 21:2)."
     },
     {
-      "pk": 1002302,
+      "pk": 1023002,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 23,
       "verse": 2,
-      "text": "Sarah died at Kiriath-arba (that is, Hebron) in the land of Canaan, and Abraham went in to mourn for Sarah and to weep over her.",
-      "links": "<a href='/AIV/1/13/18'>Gen. 13:18</a>; <a href='/AIV/1/35/19'>Gen. 35:19</a>",
-      "comment": "Kiriath-arba is later known as Hebron, an important city in Israel’s history. Abraham shows deep humanity in mourning, underscoring family bonds."
+      "text": "Sarah died in Kiriath-arba (that is, Hebron) in the land of Canaan, and Abraham went in to mourn for Sarah and weep for her.",
+      "links": "<a href='/AIV/6/14/15'>Josh. 14:15</a>; <a href='/AIV/1/13/18'>Gen. 13:18</a>",
+      "comment": "Abraham's weeping for Sarah shows the deep covenantal relationship of marriage. Hebron (Kiriath-arba) carries significance as a locus for the ancestors' faith journey."
     },
     {
-      "pk": 1002303,
+      "pk": 1023003,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 23,
       "verse": 3,
-      "text": "Abraham rose up from before his dead, and spoke to the Hittites, saying,",
-      "links": "<a href='/AIV/1/10/15'>Gen. 10:15</a>; <a href='/AIV/6/9/1'>Josh. 9:1</a>",
-      "comment": "Abraham interacts peaceably with the Hittites, emphasizing his temporary status and distinction from surrounding nations."
+      "text": "Abraham rose up from before his dead and spoke to the sons of Heth, saying,",
+      "links": "<a href='/AIV/1/10/15'>Gen. 10:15</a>; <a href='/AIV/1/15/20'>Gen. 15:20</a>",
+      "comment": "The sons of Heth (Hittites) were local Canaanite inhabitants. Abraham's respectful dealings suggest a theme of witness and peaceful coexistence with the nations."
     },
     {
-      "pk": 1002304,
+      "pk": 1023004,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 23,
       "verse": 4,
-      "text": "“I am a sojourner and a foreigner among you. Sell me a burial place among you, so I may bury my dead.”",
+      "text": "\"I am a stranger and a sojourner among you. Give me property among you for a burial site, that I may bury my dead out of my sight.\"",
       "links": "<a href='/AIV/1/17/8'>Gen. 17:8</a>; <a href='/AIV/58/11/13'>Heb. 11:13</a>",
-      "comment": "Abraham’s words echo the idea that God’s people are pilgrims in the world (Heb. 11:13). This foreshadows faithful obedience and longing for a promised land."
+      "comment": "Despite the promised land, Abraham acknowledges his pilgrim status (cf. Heb. 11:13), reflecting humility before God and men. The theme of pilgrimage prefigures the faithful's heavenly journey."
     },
     {
-      "pk": 1002305,
+      "pk": 1023005,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 23,
       "verse": 5,
-      "text": "The Hittites answered Abraham:",
-      "links": "<a href='/AIV/1/15/20'>Gen. 15:20</a>",
-      "comment": "The respectful response from the Hittites shows Abraham’s high reputation, reflecting God’s favor upon him."
+      "text": "The sons of Heth answered Abraham,",
+      "links": "",
+      "comment": "The Hittites’ respectful response to Abraham emphasizes his reputation and relationship with surrounding peoples."
     },
     {
-      "pk": 1002306,
+      "pk": 1023006,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 23,
       "verse": 6,
-      "text": "“Hear us, my lord; you are a mighty prince among us. Bury your dead in the choicest of our tombs. None of us will withhold his tomb from you lest you bury your dead.”",
-      "links": "<a href='/AIV/1/21/22-23'>Gen. 21:22–23</a>",
-      "comment": "The Hittites call Abraham ‘a mighty prince,’ reflecting his blessed status among the nations—echoing God’s promise to exalt Abraham."
+      "text": "\"Hear us, my lord; you are a mighty prince among us. Bury your dead in the choicest of our tombs. None of us will refuse you his tomb to bury your dead.\"",
+      "links": "<a href='/AIV/1/21/22'>Gen. 21:22</a>",
+      "comment": "Abraham is called a 'mighty prince,' hinting at the respect God's chosen ones receive even among nonbelievers. This status points to the universal respect for true faith."
     },
     {
-      "pk": 1002307,
+      "pk": 1023007,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 23,
       "verse": 7,
-      "text": "Abraham rose and bowed to the people of the land, the Hittites.",
+      "text": "Then Abraham stood up, and bowed himself down before the people of the land, before the sons of Heth.",
       "links": "<a href='/AIV/1/18/2'>Gen. 18:2</a>",
-      "comment": "Abraham’s humility before others reflects the virtue of reverence and respect—a model for spiritual leadership."
+      "comment": "Abraham’s humility and public respect demonstrates godly character. True believers witness through both word and deed."
     },
     {
-      "pk": 1002308,
+      "pk": 1023008,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 23,
       "verse": 8,
-      "text": "He spoke to them saying, “If you agree that I should bury my dead, listen to me and ask Ephron the son of Zohar",
-      "links": "<a href='/AIV/1/25/9'>Gen. 25:9</a>",
-      "comment": "Abraham requests Ephron’s field, showing proper channels and peaceful dealings—an early witness to the value of just transactions."
+      "text": "He spoke with them, saying, \"If you are willing for me to bury my dead out of my sight, hear me, and speak to Ephron the son of Zohar for me,",
+      "links": "<a href='/AIV/1/23/16'>Gen. 23:16</a>",
+      "comment": "Abraham requests a specific burial place, emphasizing order and propriety in sacred obligations, which reflects a broader tradition of reverence for burial."
     },
     {
-      "pk": 1002309,
+      "pk": 1023009,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 23,
       "verse": 9,
-      "text": "to give me the cave of Machpelah, which is in the end of his field. Let him sell it to me for the full price, as a burial place among you.”",
-      "links": "<a href='/AIV/1/49/30-31'>Gen. 49:30–31</a>; <a href='/AIV/1/50/13'>Gen. 50:13</a>",
-      "comment": "The cave of Machpelah later becomes the burial place for Abraham and his descendants, prefiguring the sacredness of honoring the bodies of the faithful—a principle that reverberates in later spiritual tradition."
+      "text": "\"that he may give me the cave of Machpelah, which he owns, at the end of his field. Let him give it to me among you for the full price as a burial site.\"",
+      "links": "<a href='/AIV/1/49/29'>Gen. 49:29-32</a>",
+      "comment": "The cave of Machpelah would later be the family tomb. Abraham’s insistence on paying full price underlines justice, and foreshadows reverent traditions regarding sacred spaces."
     },
     {
-      "pk": 1002310,
+      "pk": 1023010,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 23,
       "verse": 10,
-      "text": "Ephron was sitting among the Hittites. Ephron the Hittite answered Abraham in the hearing of all the Hittites who had come to the gate of his city:",
-      "links": "<a href='/AIV/1/34/20'>Gen. 34:20</a>",
-      "comment": "Ephron’s presence at the city gate demonstrates the communal and legal nature of ancient negotiations, underscoring transparency."
+      "text": "Now Ephron was sitting among the sons of Heth. And Ephron the Hittite answered Abraham in the hearing of the sons of Heth, all who went in at the gate of his city, saying,",
+      "links": "<a href='/AIV/1/23/18'>Gen. 23:18</a>",
+      "comment": "Business at the city gate marks official and public agreements. Trust and communal witness are fundamental in biblical covenants and foreshadow the visible aspect of faith communities."
     },
     {
-      "pk": 1002311,
+      "pk": 1023011,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 23,
       "verse": 11,
-      "text": "“No, my lord. Listen to me: I give you the field and the cave that is in it. I give it to you in the presence of my people. Bury your dead.”",
-      "links": "<a href='/AIV/1/14/22-23'>Gen. 14:22–23</a>",
-      "comment": "Ephron’s generosity may be formal rather than literal, expecting reciprocal honor, but the giving is done publicly, pointing towards the necessity of proper witness."
+      "text": "\"No, my lord, listen to me: I give you the field and the cave that is in it; in the presence of my people I give it to you. Bury your dead.\"",
+      "links": "",
+      "comment": "Ephron makes a generous offer, though social custom required a formal acceptance of payment. Public generosity and propriety reflect God’s model of honorable dealings."
     },
     {
-      "pk": 1002312,
+      "pk": 1023012,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 23,
       "verse": 12,
       "text": "Abraham bowed before the people of the land.",
-      "links": "<a href='/AIV/1/18/2'>Gen. 18:2</a>",
-      "comment": "Abraham again displays humility before the people, reflecting the biblical theme of serving others in love."
+      "links": "",
+      "comment": "Further humility and gratitude highlight Abraham’s example as a leader marked by peace and diplomacy."
     },
     {
-      "pk": 1002313,
+      "pk": 1023013,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 23,
       "verse": 13,
-      "text": "He said to Ephron, in the hearing of the people of the land, “If you will, please listen to me. I will give you the price of the field. Accept it from me, so that I may bury my dead there.”",
-      "links": "<a href='/AIV/1/14/23'>Gen. 14:23</a>",
-      "comment": "Abraham insists on purchasing the land, rejecting the appearance of entitlement, which demonstrates upright stewardship and sets the pattern for legal ownership among the faithful."
+      "text": "And he spoke to Ephron in the hearing of the people of the land, saying, \"If you will, please listen to me. I will give the price of the field. Accept it from me, that I may bury my dead there.\"",
+      "links": "<a href='/AIV/1/23/9'>Gen. 23:9</a>",
+      "comment": "Abraham insists on a legitimate, uncompromised transaction, modeling moral uprightness. This foreshadows sacred trust in handling spiritual matters among God’s people."
     },
     {
-      "pk": 1002314,
+      "pk": 1023014,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 23,
       "verse": 14,
-      "text": "Ephron answered Abraham,",
-      "links": "<a href='/AIV/1/23/16'>Gen. 23:16</a>",
-      "comment": "The dialogue between Ephron and Abraham continues the tension between gift and proper payment, highlighting the value placed on solemn agreements."
+      "text": "Ephron answered Abraham, saying to him,",
+      "links": "",
+      "comment": "Negotiation in the Ancient Near East culture was expected to show mutual respect and honor."
     },
     {
-      "pk": 1002315,
+      "pk": 1023015,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 23,
       "verse": 15,
-      "text": "“My lord, listen to me: The land is worth four hundred shekels of silver. What is that between you and me? Bury your dead.”",
-      "links": "<a href='/AIV/1/37/28'>Gen. 37:28</a>",
-      "comment": "Ephron sets a price, but downplays its importance—this echoes the principle of charity within financial dealings, and the significance of just compensation."
+      "text": "\"My lord, listen to me: the land is worth four hundred shekels of silver. What is that between you and me? Bury your dead.\"",
+      "links": "",
+      "comment": "Ephron names a price, allowing Abraham to pay. The details provide insight into economic practices and the value of transparent dealings amongst God's people."
     },
     {
-      "pk": 1002316,
+      "pk": 1023016,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 23,
       "verse": 16,
-      "text": "Abraham agreed to Ephron’s terms, and weighed out for Ephron the silver he had named in the hearing of the Hittites: four hundred shekels of silver, according to the weights current among the merchants.",
-      "links": "<a href='/AIV/1/43/21'>Gen. 43:21</a>; <a href='/AIV/11/10/21'>1 Kgs. 10:21</a>",
-      "comment": "The precise fulfillment of the transaction exemplifies the ethical conduct expected of God’s people regarding property and promises."
+      "text": "So Abraham agreed with Ephron, and Abraham weighed out to Ephron the silver that he had named in the hearing of the sons of Heth, four hundred shekels of silver, according to the weights current among the merchants.",
+      "links": "<a href='/AIV/24/32/9-10'>Jer. 32:9-10</a>",
+      "comment": "Abraham’s honesty and fulfillment of custom contrast with later abuses of sacred obligations (cf. Jer. 32:9-10). This scene grounds religious authority in visible, verifiable actions."
     },
     {
-      "pk": 1002317,
+      "pk": 1023017,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 23,
       "verse": 17,
-      "text": "So the field of Ephron in Machpelah, east of Mamre, the field and the cave that was in it, and all the trees within the field, throughout its borders, were deeded",
-      "links": "<a href='/AIV/1/25/9'>Gen. 25:9</a>; <a href='/AIV/1/49/29-32'>Gen. 49:29–32</a>",
-      "comment": "The inclusion of the field, cave, and trees reflects the biblical pattern of sanctified land set apart for the righteous, hinting at sacred heritage."
+      "text": "So the field of Ephron in Machpelah, which was before Mamre, the field and the cave that was in it, and all the trees that were in the field, within all its borders, were deeded",
+      "links": "<a href='/AIV/1/25/9'>Gen. 25:9</a>",
+      "comment": "The specific mention of legal ownership sets a precedent for later sacred inheritances. Burial in consecrated ground will be a repeated pattern in the history of God’s people."
     },
     {
-      "pk": 1002318,
+      "pk": 1023018,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 23,
       "verse": 18,
-      "text": "to Abraham as a possession in the presence of the Hittites, before all who went in at the gate of his city.",
-      "links": "<a href='/AIV/1/23/10'>Gen. 23:10</a>; <a href='/AIV/1/24/60'>Gen. 24:60</a>",
-      "comment": "Legal witnesses establish Abraham’s ownership; public witness accords with spiritual truth, as faith is meant to be lived openly."
+      "text": "to Abraham as a possession in the presence of the sons of Heth, before all who entered the gate of his city.",
+      "links": "<a href='/AIV/1/23/10'>Gen. 23:10</a>",
+      "comment": "This public, communal transaction guarantees the legitimacy of Abraham’s claim, hinting at God’s pattern of acting visibly in history through covenant and witnesses."
     },
     {
-      "pk": 1002319,
+      "pk": 1023019,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 23,
       "verse": 19,
-      "text": "After this, Abraham buried Sarah his wife in the cave of Machpelah in the field east of Mamre (which is Hebron), in the land of Canaan.",
-      "links": "<a href='/AIV/1/35/27'>Gen. 35:27</a>",
-      "comment": "The burial takes place in Canaan, signifying Abraham’s faith in the promise that his descendants will inherit this very land—connecting to Hebrews 11:9–10."
+      "text": "After this, Abraham buried Sarah his wife in the cave of the field of Machpelah east of Mamre (that is, Hebron) in the land of Canaan.",
+      "links": "<a href='/AIV/1/49/31'>Gen. 49:31</a>; <a href='/AIV/1/50/13'>Gen. 50:13</a>",
+      "comment": "The burial at Machpelah initiates a tradition of honoring ancestors—prefiguring later memorial practices and the concept of the communion of saints."
     },
     {
-      "pk": 1002320,
+      "pk": 1023020,
       "translation": "AIV",
       "book": 1,
+      "bookName": "Genesis",
+      "bookAbbreviation": "Gen",
       "chapter": 23,
       "verse": 20,
-      "text": "So the field and the cave that is in it were deeded to Abraham as a burial place from the Hittites.",
-      "links": "<a href='/AIV/1/25/9-10'>Gen. 25:9–10</a>; <a href='/AIV/1/50/13'>Gen. 50:13</a>",
-      "comment": "Abraham’s first owned land is a tomb, not farmland—foreshadowing how places of sacrifice and burial become integral to Israel’s story and devotion. This points toward both the importance of honoring the faithful departed and the promised resurrection, which finds rich fulfillment in the risen Christ (John 20:1–18)."
+      "text": "So the field and the cave that is in it were deeded to Abraham by the sons of Heth as a possession for a burial site.",
+      "links": "",
+      "comment": "This legally binding property becomes a perpetual memorial. Respect for the resting places of the departed anticipates later traditions within the whole people of God."
     }
   ],
-  "translatedAt": "2025-12-23T08:45:01.445Z"
+  "translatedAt": "2025-12-24T00:22:11.049Z"
 }

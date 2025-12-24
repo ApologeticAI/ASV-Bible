@@ -1,248 +1,297 @@
 {
-  "book": "Joshua",
+  "book": 6,
+  "bookName": "Joshua",
   "bookAbbreviation": "Josh",
   "chapter": 4,
   "verses": [
     {
-      "pk": 2404001,
+      "pk": 6004001,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 4,
       "verse": 1,
-      "text": "When all the nation had finished crossing over the Jordan, the LORD spoke to Joshua,",
-      "links": "<a href='/ESV/6/3/17'>Josh. 3:17</a>; <a href='/ESV/2/14/30'>Ex. 14:30</a>",
-      "comment": "The word 'nation' is rendered for the Hebrew 'people,' signifying the entire community of Israel."
+      "text": "After all the people had finished crossing over the Jordan, the LORD spoke to Joshua,",
+      "links": "<a href='/AIV/6/3/17'>Josh. 3:17</a>",
+      "comment": "This opening verse establishes the narrative transition from the miraculous crossing to God's further instructions. The phrase 'the LORD spoke to Joshua' shows God's direct guidance, which is continued from Moses to Joshua, highlighting apostolic succession (see Josh. 1:1-2)."
     },
     {
-      "pk": 2404002,
+      "pk": 6004002,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 4,
       "verse": 2,
-      "text": "\"Take twelve men from the people, one man from each tribe,",
-      "links": "<a href='/ESV/6/3/12'>Josh. 3:12</a>",
-      "comment": "Twelve men reflect the unity and representation of the twelve tribes of Israel."
+      "text": "\"Take twelve men from among the people, one from each tribe,",
+      "links": "<a href='/AIV/6/3/12'>Josh. 3:12</a>",
+      "comment": "Selecting one man per tribe represents the unity and fullness of Israel as one people, reflecting the apostolic model of twelve leaders (cf. Matt. 10:1-2)."
     },
     {
-      "pk": 2404003,
+      "pk": 6004003,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 4,
       "verse": 3,
-      "text": "and command them, saying, 'Take twelve stones from here out of the middle of the Jordan, from the spot where the priests' feet stood firm, and carry them over with you, and lay them down in the place where you will stay tonight.'\"",
-      "links": "<a href='/ESV/6/4/8'>Josh. 4:8</a>; <a href='/ESV/6/4/19'>Josh. 4:19</a>",
-      "comment": "The 'middle of the Jordan' points to the exact location of the miraculous crossing."
+      "text": "\"and command them, 'Take up twelve stones from here out of the midst of the Jordan, from the place where the priests’ feet stood firmly, and carry them over with you, and lay them down in the place where you lodge tonight.'\"",
+      "links": "<a href='/AIV/6/4/8'>Josh. 4:8</a>; <a href='/AIV/1/28/18'>Gen. 28:18</a>",
+      "comment": "The twelve stones act as a perpetual memorial, connecting future generations to this saving event. This sacramental principle of visible signs recalling divine acts is echoed in many later religious practices."
     },
     {
-      "pk": 2404004,
+      "pk": 6004004,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 4,
       "verse": 4,
-      "text": "So Joshua called the twelve men whom he had appointed from the children of Israel, one man from each tribe.",
-      "links": "<a href='/ESV/6/3/12'>Josh. 3:12</a>",
-      "comment": "Affirms the earlier selection of the twelve representatives."
+      "text": "Then Joshua called the twelve men whom he had appointed from the sons of Israel, one man from each tribe.",
+      "links": "<a href='/AIV/6/3/12'>Josh. 3:12</a>",
+      "comment": "Joshua’s obedience demonstrates the right response to God’s commands, and the structure mirrors the church’s later organization around appointed leaders."
     },
     {
-      "pk": 2404005,
+      "pk": 6004005,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 4,
       "verse": 5,
-      "text": "And Joshua said to them, \"Cross over before the ark of the LORD your God into the middle of the Jordan, and each of you take up a stone upon his shoulder, according to the number of the tribes of the children of Israel,",
-      "links": "<a href='/ESV/6/4/3'>Josh. 4:3</a>",
-      "comment": "Carrying stones on the shoulder emphasizes their size and the solemnity of the act."
+      "text": "And Joshua said to them, \"Pass on before the ark of the LORD your God into the midst of the Jordan, and take up each of you a stone upon his shoulder, according to the number of the tribes of the sons of Israel,",
+      "links": "<a href='/AIV/6/3/6'>Josh. 3:6</a>",
+      "comment": "The ark’s centrality here emphasizes God’s presence and the importance of what He has established, a theme that continues into new covenant realities."
     },
     {
-      "pk": 2404006,
+      "pk": 6004006,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 4,
       "verse": 6,
-      "text": "so this will be a sign among you. When your children ask in time to come, 'What do these stones mean to you?'",
-      "links": "<a href='/ESV/6/4/21'>Josh. 4:21</a>; <a href='/ESV/2/12/26'>Ex. 12:26</a>",
-      "comment": "The Hebrew term for 'sign' (oth) signifies a memorial or marker."
+      "text": "that this may be a sign among you. When your children ask in time to come, 'What do these stones mean to you?'",
+      "links": "<a href='/AIV/2/12/26-27'>Ex. 12:26-27</a>; <a href='/AIV/6/22/27-28'>Josh. 22:27-28</a>",
+      "comment": "The institution of memorials for teaching the faith to children reflects the need for continuing tradition, echoing themes of sacred remembrance and catechesis."
     },
     {
-      "pk": 2404007,
+      "pk": 6004007,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 4,
       "verse": 7,
-      "text": "then you shall answer them, 'Because the waters of the Jordan were cut off before the ark of the covenant of the LORD; when it passed over the Jordan, the waters of the Jordan were cut off.' So these stones shall be for a memorial to the children of Israel forever.\"",
-      "links": "<a href='/ESV/6/3/13'>Josh. 3:13</a>; <a href='/ESV/19/78/4'>Ps. 78:4</a>",
-      "comment": "The phrase 'cut off' directly reflects the miraculous stopping of the river."
+      "text": "then you shall tell them that the waters of the Jordan were cut off before the ark of the LORD’s covenant. When it passed over the Jordan, the waters of the Jordan were cut off. So these stones shall be to the people of Israel a memorial forever.\"",
+      "links": "<a href='/AIV/2/14/21'>Ex. 14:21</a>; <a href='/AIV/19/78/5-7'>Ps. 78:5-7</a>",
+      "comment": "This memorial points to God’s saving power through both word and sign. The typology of passing through water prefigures Christian sacraments and entrance into the new covenant community."
     },
     {
-      "pk": 2404008,
+      "pk": 6004008,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 4,
       "verse": 8,
-      "text": "So the children of Israel did as Joshua commanded, and took up twelve stones out of the middle of the Jordan, just as the LORD had spoken to Joshua, according to the number of the tribes of the children of Israel. And they carried them over to the place where they lodged, and set them down there.",
-      "links": "<a href='/ESV/6/4/3'>Josh. 4:3</a>; <a href='/ESV/6/4/19'>Josh. 4:19</a>",
-      "comment": "Highlights obedience to Joshua and continuity with God's command."
+      "text": "And the sons of Israel did just as Joshua commanded, and took up twelve stones out of the midst of the Jordan, as the LORD had told Joshua, according to the number of the tribes of the sons of Israel, and carried them over with them to the place where they lodged, and laid them down there.",
+      "links": "<a href='/AIV/6/4/3'>Josh. 4:3</a>",
+      "comment": "Obedience to God’s directives is highlighted again. Participation in these visible rituals strengthens communal identity and remembrance."
     },
     {
-      "pk": 2404009,
+      "pk": 6004009,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 4,
       "verse": 9,
-      "text": "Joshua also set up twelve stones in the middle of the Jordan, in the place where the feet of the priests who carried the ark of the covenant stood. And they are there to this day.",
-      "links": "<a href='/ESV/6/4/20'>Josh. 4:20</a>",
-      "comment": "Potential textual note: 'to this day' signals the memorial’s continued presence at the time of writing."
+      "text": "And Joshua set up twelve stones in the midst of the Jordan, in the place where the feet of the priests who bore the ark of the covenant had stood; and they are there to this day.",
+      "links": "<a href='/AIV/6/4/20'>Josh. 4:20</a>",
+      "comment": "The dual memorials—on land and in the river—stress the reality of God’s intervention and the enduring witness of sacred history. Such continuity points forward to practices of commemorating God’s acts in visible ways."
     },
     {
-      "pk": 2404010,
+      "pk": 6004010,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 4,
       "verse": 10,
-      "text": "For the priests who carried the ark stood in the middle of the Jordan until everything the LORD commanded Joshua to tell the people was finished, according to what Moses had commanded Joshua. Then the people hurried and crossed over.",
-      "links": "<a href='/ESV/6/3/17'>Josh. 3:17</a>; <a href='/ESV/6/1/7'>Josh. 1:7</a>",
-      "comment": "Cross-reference to Moses anticipates the continuity of leadership and obedience."
+      "text": "For the priests bearing the ark stood in the midst of the Jordan until everything was finished that the LORD commanded Joshua to speak to the people, according to all that Moses had commanded Joshua. The people hurried and passed over.",
+      "links": "<a href='/AIV/6/3/8'>Josh. 3:8</a>; <a href='/AIV/2/14/22'>Ex. 14:22</a>",
+      "comment": "Priestly mediation is seen here, as they hold their place until all is accomplished. Moses’ commands being continued by Joshua highlight legitimate succession in leadership and teaching authority."
     },
     {
-      "pk": 2404011,
+      "pk": 6004011,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 4,
       "verse": 11,
-      "text": "And when all the people had finished crossing over, the ark of the LORD and the priests crossed over before the people.",
-      "links": "<a href='/ESV/6/3/6'>Josh. 3:6</a>",
-      "comment": "Shows the priests and ark as the last to cross, highlighting God's presence and order."
+      "text": "And when all the people had finished passing over, the ark of the LORD and the priests passed over before the people.",
+      "links": "<a href='/AIV/6/3/17'>Josh. 3:17</a>",
+      "comment": "The leaders only depart after the safety of the people is secured, demonstrating pastoral care that is a model for subsequent spiritual leaders."
     },
     {
-      "pk": 2404012,
+      "pk": 6004012,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 4,
       "verse": 12,
-      "text": "And the sons of Reuben and the sons of Gad and half the tribe of Manasseh crossed over armed in front of the Israelites, just as Moses had spoken to them.",
-      "links": "<a href='/ESV/4/32/20'>Num. 32:20–22</a>; <a href='/ESV/5/3/18'>Deut. 3:18</a>",
-      "comment": "Armed crossing remembered as fulfillment of their earlier vow."
+      "text": "The sons of Reuben, the sons of Gad, and the half-tribe of Manasseh passed over armed before the people of Israel, as Moses had spoken to them;",
+      "links": "<a href='/AIV/4/32/20-22'>Num. 32:20-22</a>",
+      "comment": "This fulfills the prior agreement that these tribes would help the others. Their unity and solidarity serve as an example for internal cohesion in the community."
     },
     {
-      "pk": 2404013,
+      "pk": 6004013,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 4,
       "verse": 13,
-      "text": "About forty thousand armed men, ready for war, passed over before the LORD for battle, to the plains of Jericho.",
-      "links": "<a href='/ESV/6/1/14'>Josh. 1:14</a>",
-      "comment": "“Ready for war” renders the Hebrew 'prepared for battle.'"
+      "text": "about forty thousand armed for war crossed over before the LORD for battle, to the plains of Jericho.",
+      "links": "<a href='/AIV/6/1/14'>Josh. 1:14</a>",
+      "comment": "The preparation for battle under God's direction foreshadows the call for the faithful to be spiritually armed in the new covenant era (cf. Eph. 6:10-17)."
     },
     {
-      "pk": 2404014,
+      "pk": 6004014,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 4,
       "verse": 14,
-      "text": "On that day the LORD exalted Joshua in the sight of all Israel, and they respected him just as they had respected Moses all the days of his life.",
-      "links": "<a href='/ESV/6/3/7'>Josh. 3:7</a>; <a href='/ESV/2/14/31'>Ex. 14:31</a>",
-      "comment": "‘Exalted’ signals public confirmation of Joshua as God’s chosen leader."
+      "text": "On that day the LORD exalted Joshua in the sight of all Israel; and they revered him, just as they had revered Moses, all the days of his life.",
+      "links": "<a href='/AIV/6/3/7'>Josh. 3:7</a>",
+      "comment": "Joshua’s recognition signals divine appointment and authenticates legitimate leadership. This pattern anticipates later understandings of visible shepherds in the faith community."
     },
     {
-      "pk": 2404015,
+      "pk": 6004015,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 4,
       "verse": 15,
       "text": "And the LORD said to Joshua,",
-      "links": "<a href='/ESV/6/3/7'>Josh. 3:7</a>",
-      "comment": "Simple narrative marker displays ongoing divine instruction."
+      "links": "",
+      "comment": "Direct revelation and continual instruction are consistent marks of true leadership. Joshua’s receptivity is key to all remaining faithful."
     },
     {
-      "pk": 2404016,
+      "pk": 6004016,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 4,
       "verse": 16,
-      "text": "\"Command the priests who carry the ark of the testimony to come up out of the Jordan.\"",
-      "links": "<a href='/ESV/6/3/13'>Josh. 3:13</a>",
-      "comment": "‘Ark of the testimony’ is a common synonym for ‘ark of the covenant.’"
+      "text": "\"Command the priests bearing the ark of the testimony, to come up out of the Jordan.\"",
+      "links": "<a href='/AIV/6/3/6'>Josh. 3:6</a>",
+      "comment": "Notice the necessity of divine command even in small matters, emphasizing obedience. The ark of the testimony here is a visible sign of God's covenant."
     },
     {
-      "pk": 2404017,
+      "pk": 6004017,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 4,
       "verse": 17,
-      "text": "So Joshua commanded the priests, saying, \"Come up out of the Jordan.\"",
-      "links": "<a href='/ESV/6/3/6'>Josh. 3:6</a>; <a href='/ESV/6/4/18'>Josh. 4:18</a>",
-      "comment": "Direct obedience to the LORD’s command."
+      "text": "So Joshua commanded the priests, \"Come up out of the Jordan.\"",
+      "links": "<a href='/AIV/6/4/16'>Josh. 4:16</a>",
+      "comment": "Joshua acts as God's instrument, showing obedience and mediatorship between God and the people, foreshadowing the role of leaders in guiding the faithful."
     },
     {
-      "pk": 2404018,
+      "pk": 6004018,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 4,
       "verse": 18,
-      "text": "And when the priests who carried the ark of the covenant of the LORD came up out of the middle of the Jordan, and the soles of the priests' feet were raised up onto dry ground, the waters of the Jordan returned to their place and overflowed all its banks as before.",
-      "links": "<a href='/ESV/6/3/15'>Josh. 3:15–17</a>",
-      "comment": "‘Overflowed all its banks’ ties to the earlier description in ch. 3."
+      "text": "And when the priests bearing the ark of the covenant of the LORD came up out of the midst of the Jordan, and the soles of the priests’ feet were lifted up onto dry ground, the waters of the Jordan returned to their place and overflowed all its banks as before.",
+      "links": "<a href='/AIV/6/3/15-17'>Josh. 3:15-17</a>",
+      "comment": "God’s power is clearly demonstrated. The timing emphasizes that the miraculous persisted only as long as the priests stood in God's presence and service—a mark of the efficacy that accompanies rightly ordered leadership and liturgy."
     },
     {
-      "pk": 2404019,
+      "pk": 6004019,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 4,
       "verse": 19,
-      "text": "On the tenth day of the first month, the people went up from the Jordan and camped at Gilgal, on the east side of Jericho.",
-      "links": "<a href='/ESV/6/5/10'>Josh. 5:10</a>; <a href='/ESV/2/12/3'>Ex. 12:3</a>",
-      "comment": "‘Tenth day of the first month’ corresponds with the Passover preparation."
+      "text": "Now the people came up out of the Jordan on the tenth day of the first month, and they camped at Gilgal, on the eastern border of Jericho.",
+      "links": "<a href='/AIV/2/12/2-3'>Ex. 12:2-3</a>",
+      "comment": "The tenth day of the first month connects this event to the original Passover (see Ex. 12:3), illustrating the continuity of salvation history and commemorative feasting."
     },
     {
-      "pk": 2404020,
+      "pk": 6004020,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 4,
       "verse": 20,
-      "text": "And those twelve stones which they took out of the Jordan, Joshua set up at Gilgal.",
-      "links": "<a href='/ESV/6/4/3'>Josh. 4:3</a>",
-      "comment": "Gilgal becomes a site of remembrance for the crossing."
+      "text": "And those twelve stones, which they had taken out of the Jordan, Joshua set up at Gilgal.",
+      "links": "<a href='/AIV/6/4/3'>Josh. 4:3</a>",
+      "comment": "Gilgal becomes a center for remembrance and renewal—set apart as a place of encounter with God, reminiscent of holy sites where God’s work is proclaimed to future generations."
     },
     {
-      "pk": 2404021,
+      "pk": 6004021,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 4,
       "verse": 21,
-      "text": "He said to the people of Israel, \"When your children ask their fathers in time to come, 'What do these stones mean?'",
-      "links": "<a href='/ESV/6/4/6'>Josh. 4:6</a>",
-      "comment": "Almost identical repetition, stressing generational instruction."
+      "text": "And he said to the sons of Israel, \"When your children ask their fathers in times to come, 'What do these stones mean?'",
+      "links": "<a href='/AIV/6/4/6'>Josh. 4:6</a>",
+      "comment": "Passing on the faith through visible memorials anticipates spiritual formation handed down within the community, emphasizing the role of tradition and instruction."
     },
     {
-      "pk": 2404022,
+      "pk": 6004022,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 4,
       "verse": 22,
-      "text": "then you shall let your children know, saying, 'Israel crossed over this Jordan on dry ground.'",
-      "links": "<a href='/ESV/6/3/17'>Josh. 3:17</a>",
-      "comment": "Mirroring earlier wording of the divine sign."
+      "text": "then you shall let your children know, ‘Israel passed over this Jordan on dry ground.’",
+      "links": "<a href='/AIV/2/14/22'>Ex. 14:22</a>",
+      "comment": "The parallel with the crossing of the Red Sea underlines the importance of remembering saving acts. These reminders guard against forgetting the Lord’s work."
     },
     {
-      "pk": 2404023,
+      "pk": 6004023,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 4,
       "verse": 23,
-      "text": "\"For the LORD your God dried up the waters of the Jordan before you until you crossed over, as the LORD your God did to the Red Sea, which He dried up before us until we had crossed over.",
-      "links": "<a href='/ESV/2/14/21'>Ex. 14:21</a>; <a href='/ESV/19/114/3'>Ps. 114:3</a>",
-      "comment": "Draws a theological parallel between the crossing of the Red Sea and the Jordan."
+      "text": "For the LORD your God dried up the waters of the Jordan for you until you had crossed over, just as the LORD your God did to the Red Sea, when he dried it up before us until we had crossed over,",
+      "links": "<a href='/AIV/2/14/21-22'>Ex. 14:21-22</a>; <a href='/AIV/19/66/6'>Ps. 66:6</a>",
+      "comment": "This verse explicitly links the two great miracles, showing how God’s power is consistent in history. Such typological connections enrich later Christian interpretations of deliverance and baptism."
     },
     {
-      "pk": 2404024,
+      "pk": 6004024,
       "translation": "AIV",
       "book": 6,
+      "bookName": "Joshua",
+      "bookAbbreviation": "Josh",
       "chapter": 4,
       "verse": 24,
-      "text": "so that all the peoples of the earth may know the hand of the LORD, that it is mighty, so that you may fear the LORD your God forever.\"",
-      "links": "<a href='/ESV/6/2/10'>Josh. 2:10</a>; <a href='/ESV/2/15/16'>Ex. 15:16</a>",
-      "comment": "‘Hand of the LORD’ is an idiom for God’s power and action."
+      "text": "so that all the peoples of the earth may know that the hand of the LORD is mighty, so that you may fear the LORD your God forever.\"",
+      "links": "<a href='/AIV/2/9/16'>Ex. 9:16</a>; <a href='/AIV/19/106/8'>Ps. 106:8</a>",
+      "comment": "The ultimate purpose is both for the nations to recognize God’s power and for His people to hold Him in reverence perpetually. The call to a lasting, visible faith aligns with the enduring nature of the visible community of believers."
     }
   ],
-  "translatedAt": "2025-12-20T10:06:28.509Z"
+  "translatedAt": "2025-12-24T02:18:25.757Z"
 }

@@ -1,248 +1,297 @@
 {
-  "book": "1 Chronicles",
+  "book": 13,
+  "bookName": "1 Chronicles",
   "bookAbbreviation": "1Chr",
   "chapter": 3,
   "verses": [
     {
-      "pk": 1390303,
+      "pk": 13003001,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 3,
       "verse": 1,
-      "text": "These were the sons of David who were born to him in Hebron: Amnon was the firstborn, by Ahinoam the Jezreelitess; Daniel was the second, by Abigail the Carmelitess;",
+      "text": "These are the sons of David who were born to him in Hebron: Amnon, the firstborn, by Ahinoam the Jezreelite; Daniel, the second, by Abigail the Carmelite;",
       "links": "<a href='/AIV/10/3/2'>2 Sam. 3:2</a>",
-      "comment": "Daniel is called 'Chileab' in 2 Samuel 3:3; 'Daniel' is the alternate name listed here."
+      "comment": "The chronicler begins with David's sons born in Hebron, emphasizing legitimacy and royal succession. See 2 Sam. 3:2 for parallel genealogy."
     },
     {
-      "pk": 1390304,
+      "pk": 13003002,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 3,
       "verse": 2,
-      "text": "Absalom the third, the son of Maacah the daughter of Talmai, king of Geshur; Adonijah the fourth, the son of Haggith;",
+      "text": "the third, Absalom the son of Maacah, daughter of Talmai, king of Geshur; the fourth, Adonijah, son of Haggith;",
       "links": "<a href='/AIV/10/3/3-4'>2 Sam. 3:3-4</a>",
-      "comment": "Lists birth order and mothers."
+      "comment": "Absalom’s mother’s royal heritage from Geshur shows political alliances formed in David’s marriages."
     },
     {
-      "pk": 1390305,
+      "pk": 13003003,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 3,
       "verse": 3,
-      "text": "Shephatiah the fifth, by Abital; Ithream the sixth, by his wife Eglah.",
+      "text": "the fifth, Shephatiah, by Abital; the sixth, Ithream, by his wife Eglah.",
       "links": "<a href='/AIV/10/3/4'>2 Sam. 3:4</a>",
-      "comment": "The children were born during David's time in Hebron."
+      "comment": "Each son comes from a different mother, showing the complexity of royal family lines."
     },
     {
-      "pk": 1390306,
+      "pk": 13003004,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 3,
       "verse": 4,
-      "text": "Six were born to him in Hebron, and he reigned there seven years and six months. He reigned thirty-three years in Jerusalem.",
-      "links": "<a href='/AIV/10/5/5'>2 Sam. 5:5</a>",
-      "comment": "David's total reign was forty years; split between Hebron and Jerusalem."
+      "text": "Six were born to him in Hebron, where he reigned seven years and six months. And he reigned thirty-three years in Jerusalem.",
+      "links": "<a href='/AIV/10/2/11'>2 Sam. 2:11</a>; <a href='/AIV/11/2/11'>1 Kgs. 2:11</a>",
+      "comment": "David’s divided reign in Hebron and Jerusalem highlights the consolidation of Israel under one king and the significance of Jerusalem as the chosen city."
     },
     {
-      "pk": 1390307,
+      "pk": 13003005,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 3,
       "verse": 5,
-      "text": "These were born to him in Jerusalem: Shimea, Shobab, Nathan, and Solomon—four—by Bath-shua the daughter of Ammiel.",
-      "links": "<a href='/AIV/10/5/14'>2 Sam. 5:14; 2 Sam. 12:24</a>",
-      "comment": "Bath-shua is another name for Bathsheba. 'Shimea' is 'Shammua' in 2 Sam. 5:14."
+      "text": "These were born to him in Jerusalem: Shimea, Shobab, Nathan, and Solomon, four by Bath-shua daughter of Ammiel.",
+      "links": "<a href='/AIV/10/5/14'>2 Sam. 5:14</a>; <a href='/AIV/40/1/6'>Matt. 1:6</a>; <a href='/AIV/42/3/31'>Luke 3:31</a>",
+      "comment": "Notably, Solomon and Nathan are listed—Solomon as the future king, Nathan as the ancestor of the Messiah according to Luke’s genealogy (Luke 3:31). Bath-shua is another name for Bathsheba, indicating restoration after sin (cf. 2 Sam. 11–12)."
     },
     {
-      "pk": 1390308,
+      "pk": 13003006,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 3,
       "verse": 6,
-      "text": "And there were Ibhar, Elishama, Eliphelet,",
-      "links": "<a href='/AIV/10/5/16'>2 Sam. 5:16</a>",
-      "comment": "Continuing list of sons born in Jerusalem."
+      "text": "Ibhar, Elishama, Eliphelet,",
+      "links": "<a href='/AIV/10/5/15'>2 Sam. 5:15</a>",
+      "comment": "These names record David’s other sons born in Jerusalem, expanding his legacy."
     },
     {
-      "pk": 1390309,
+      "pk": 13003007,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 3,
       "verse": 7,
       "text": "Nogah, Nepheg, Japhia,",
       "links": "<a href='/AIV/10/5/15'>2 Sam. 5:15</a>",
-      "comment": ""
+      "comment": "The succession of names shows David’s house growing, important for the messianic promise."
     },
     {
-      "pk": 1390310,
+      "pk": 13003008,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 3,
       "verse": 8,
-      "text": "Elishama, Eliada, and Eliphelet—nine in all.",
+      "text": "Elishama, Eliada, and Eliphelet, nine in all.",
       "links": "<a href='/AIV/10/5/16'>2 Sam. 5:16</a>",
-      "comment": "The text appears to repeat some names. The presence of two Elishamas and two Eliphelets reflects possible different children with the same name or textual variants."
+      "comment": "Repetition of some names may indicate children who died young or were named after deceased siblings."
     },
     {
-      "pk": 1390311,
+      "pk": 13003009,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 3,
       "verse": 9,
-      "text": "All these were sons of David, besides the sons of the concubines; and Tamar was their sister.",
+      "text": "All these were sons of David, besides the sons of the concubines. Tamar was their sister.",
       "links": "<a href='/AIV/10/13/1'>2 Sam. 13:1</a>",
-      "comment": "Tamar was David's daughter; other sons from concubines are not named here."
+      "comment": "Tamar is the only daughter named, highlighting her later role in the royal history. The mention of concubines shows the complexity and humanity in David’s life."
     },
     {
-      "pk": 1390312,
+      "pk": 13003010,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 3,
       "verse": 10,
-      "text": "Solomon’s son was Rehoboam; Abijah his son, Asa his son, Jehoshaphat his son,",
-      "links": "<a href='/AIV/11/14/21'>1 Kgs. 14:21</a>",
-      "comment": "Begins the royal line of Judah."
+      "text": "Solomon’s son was Rehoboam, whose son was Abijah; his son, Asa; his son, Jehoshaphat;",
+      "links": "<a href='/AIV/11/14/21'>1 Kgs. 14:21</a>; <a href='/AIV/40/1/7'>Matt. 1:7</a>",
+      "comment": "The royal line from Solomon is traced. This genealogy carries significant weight in the New Testament, linking Jesus with the line of David (Matt. 1:7)."
     },
     {
-      "pk": 1390313,
+      "pk": 13003011,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 3,
       "verse": 11,
-      "text": "Joram his son, Ahaziah his son, Joash his son,",
-      "links": "<a href='/AIV/12/8/16'>2 Kgs. 8:16; 2 Chr. 22:1</a>",
-      "comment": ""
+      "text": "his son, Joram; his son, Ahaziah; his son, Joash;",
+      "links": "<a href='/AIV/12/8/16-24'>2 Kgs. 8:16-24</a>",
+      "comment": "The genealogy continues with the kings of Judah, showing God’s faithfulness to His promise to David despite failings in the line."
     },
     {
-      "pk": 1390314,
+      "pk": 13003012,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 3,
       "verse": 12,
-      "text": "Amaziah his son, Azariah his son, Jotham his son,",
-      "links": "<a href='/AIV/12/14/1'>2 Kgs. 14:1; 2 Kgs. 15:1, 32</a>",
-      "comment": "Azariah is also known as Uzziah (see 2 Kgs. 15:1)."
+      "text": "his son, Amaziah; his son, Azariah; his son, Jotham;",
+      "links": "<a href='/AIV/12/14/1-21'>2 Kgs. 14:1-21</a>",
+      "comment": "Azariah is often called Uzziah in other passages, demonstrating name variants in Hebrew genealogies."
     },
     {
-      "pk": 1390315,
+      "pk": 13003013,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 3,
       "verse": 13,
-      "text": "Ahaz his son, Hezekiah his son, Manasseh his son,",
-      "links": "<a href='/AIV/12/16/2'>2 Kgs. 16:2; 2 Chr. 28:1</a>",
-      "comment": ""
+      "text": "his son, Ahaz; his son, Hezekiah; his son, Manasseh;",
+      "links": "<a href='/AIV/12/16/1-21/18'>2 Kgs. 16:1–21:18</a>",
+      "comment": "Hezekiah and Manasseh were prominent kings—Hezekiah known for reform and faithfulness, Manasseh for repentance after much evil (cf. 2 Chr. 33:12–13; significant for the theme of repentance and mercy)."
     },
     {
-      "pk": 1390316,
+      "pk": 13003014,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 3,
       "verse": 14,
-      "text": "Amon his son, Josiah his son.",
-      "links": "<a href='/AIV/12/21/18'>2 Kgs. 21:18–24; 2 Chr. 33:20–22</a>",
-      "comment": ""
+      "text": "his son, Amon; his son, Josiah.",
+      "links": "<a href='/AIV/12/21/19-26/1'>2 Kgs. 21:19—22:1</a>; <a href='/AIV/12/22/1-30'>2 Kgs. 22:1-30</a>",
+      "comment": "Josiah’s reforms reflect a return to right worship and the Law, holding a strong spiritual lesson about faithfulness during troubled times."
     },
     {
-      "pk": 1390317,
+      "pk": 13003015,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 3,
       "verse": 15,
       "text": "The sons of Josiah: Johanan the firstborn, Jehoiakim the second, Zedekiah the third, Shallum the fourth.",
-      "links": "<a href='/AIV/24/22/10-12'>Jer. 22:10–12; 2 Kgs. 23:30–34</a>",
-      "comment": "Shallum is another name for Jehoahaz."
+      "links": "<a href='/AIV/24/22/11'>Jer. 22:11</a>; <a href='/AIV/24/37/1'>Jer. 37:1</a>",
+      "comment": "Some of Josiah’s sons are known by alternative names (e.g., Shallum = Jehoahaz). This helps explain biblical name variations."
     },
     {
-      "pk": 1390318,
+      "pk": 13003016,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 3,
       "verse": 16,
       "text": "The sons of Jehoiakim: Jeconiah his son, Zedekiah his son.",
-      "links": "<a href='/AIV/12/24/6'>2 Kgs. 24:6; Jer. 37:1</a>",
-      "comment": "Jeconiah is also known as Jehoiachin. Zedekiah, a different one from Josiah’s son."
+      "links": "<a href='/AIV/12/24/6'>2 Kgs. 24:6</a>; <a href='/AIV/24/27/20'>Jer. 27:20</a>",
+      "comment": "Jeconiah (also called Jehoiachin) is a key figure in the exile. See Matt. 1:12 where he appears in Jesus’ genealogy."
     },
     {
-      "pk": 1390319,
+      "pk": 13003017,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 3,
       "verse": 17,
-      "text": "The sons of Jeconiah, the captive: Shealtiel his son,",
-      "links": "<a href='/AIV/15/2/2'>Ezra 3:2; Matt. 1:12</a>",
-      "comment": "Jeconiah was taken to Babylon."
+      "text": "The sons of Jeconiah, who was taken captive: Shealtiel his son,",
+      "links": "<a href='/AIV/15/3/2'>Ezra 3:2</a>; <a href='/AIV/40/1/12'>Matt. 1:12</a>",
+      "comment": "Shealtiel is significant in the return from exile (Ezra 3:2) and part of the messianic line, thus maintaining hope during Israel’s captivity."
     },
     {
-      "pk": 1390320,
+      "pk": 13003018,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 3,
       "verse": 18,
-      "text": "And Malchiram, Pedaiah, Shenazzar, Jekamiah, Hoshama, and Nedabiah.",
-      "links": "",
-      "comment": ""
+      "text": "and Malchiram, Pedaiah, Shenazzar, Jekamiah, Hoshama, and Nedabiah.",
+      "links": "<a href='/AIV/37/1/1'>Hag. 1:1</a>",
+      "comment": "The descendants of Jeconiah continue the Davidic heritage, vital for the restoration after the exile and continuity of God’s promises."
     },
     {
-      "pk": 1390321,
+      "pk": 13003019,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 3,
       "verse": 19,
-      "text": "The sons of Pedaiah: Zerubbabel and Shimei. The sons of Zerubbabel: Meshullam and Hananiah, and Shelomith was their sister;",
-      "links": "<a href='/AIV/16/12/1'>Neh. 12:1; Ezra 3:2</a>",
-      "comment": "Zerubbabel is significant as the governor who led the return from exile."
+      "text": "The sons of Pedaiah: Zerubbabel and Shimei. The sons of Zerubbabel: Meshullam and Hananiah; Shelomith was their sister;",
+      "links": "<a href='/AIV/15/2/2'>Ezra 2:2</a>; <a href='/AIV/37/1/1'>Hag. 1:1</a>",
+      "comment": "Zerubbabel becomes a leader in rebuilding Jerusalem, a ‘type’ or foreshadowing of the coming King who rebuilds God’s people (cf. Zech. 4:6–7; Matt. 1:12)."
     },
     {
-      "pk": 1390322,
+      "pk": 13003020,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 3,
       "verse": 20,
-      "text": "and Hashubah, Ohel, Berechiah, Hasadiah, and Jushab-hesed—five sons in all.",
-      "links": "",
-      "comment": ""
+      "text": "and Hashubah, Ohel, Berechiah, Hasadiah, and Jushab-hesed—five.",
+      "links": "<a href='/AIV/16/12/1'>Neh. 12:1</a>",
+      "comment": "These names further confirm Zerubbabel’s descendants and establish the legitimacy of leadership after the return."
     },
     {
-      "pk": 1390323,
+      "pk": 13003021,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 3,
       "verse": 21,
-      "text": "The sons of Hananiah: Pelatiah and Jeshaiah. The sons of Rephaiah, Arnan, Obadiah, and Shecaniah.",
-      "links": "",
-      "comment": "The line continues several generations after the exile."
+      "text": "The descendants of Hananiah: Pelatiah and Jeshaiah, and the sons of Rephaiah, the sons of Arnan, the sons of Obadiah, the sons of Shecaniah.",
+      "links": "<a href='/AIV/15/2/2'>Ezra 2:2</a>",
+      "comment": "The genealogy document helps tie community leaders in post-exilic Jerusalem into the Covenant line."
     },
     {
-      "pk": 1390324,
+      "pk": 13003022,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 3,
       "verse": 22,
-      "text": "The son of Shecaniah: Shemaiah. And the sons of Shemaiah: Hattush, Igal, Bariah, Neariah, and Shaphat—six in all.",
-      "links": "",
-      "comment": "'Six in all' includes Shemaiah himself (potential minor translation variant; some manuscripts read 'five')."
+      "text": "The sons of Shecaniah: Shemaiah. The sons of Shemaiah: Hattush, Igal, Bariah, Neariah, and Shaphat—five.",
+      "links": "<a href='/AIV/15/8/2'>Ezra 8:2</a>",
+      "comment": "Shemaiah’s lineage continues the post-exilic Davidic legacy. Names have spiritual meanings—e.g., Hattush means 'renewed,' reflecting hope and restoration."
     },
     {
-      "pk": 1390325,
+      "pk": 13003023,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 3,
       "verse": 23,
-      "text": "The sons of Neariah: Elioenai, Hezekiah, and Azrikam—three in all.",
+      "text": "The sons of Neariah: Elioenai, Hizkiah, and Azrikam—three.",
       "links": "",
-      "comment": ""
+      "comment": "Detailed recordings show the care with which God preserves the royal line, even through exile."
     },
     {
-      "pk": 1390326,
+      "pk": 13003024,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 3,
       "verse": 24,
-      "text": "The sons of Elioenai: Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah, and Anani—seven in all.",
+      "text": "The sons of Elioenai: Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Dalaiah, and Anani—seven.",
       "links": "",
-      "comment": "This traces the royal line several generations past the return from exile."
+      "comment": "The genealogy ends in the post-exilic period, with the number seven (a symbol of completeness), emphasizing God’s faithfulness regardless of circumstances. God’s providential hand guides the messianic line through history, establishing authority and unity in the lineage leading to Christ (see Matt. 1:11-16, Luke 3:23-38 for its fulfillment)."
     }
   ],
-  "translatedAt": "2025-12-22T10:47:10.162Z"
+  "translatedAt": "2025-12-24T04:05:16.986Z"
 }

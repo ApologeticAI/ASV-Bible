@@ -1,296 +1,357 @@
 {
-  "book": "2 Kings",
+  "book": 12,
+  "bookName": "2 Kings",
   "bookAbbreviation": "2Kgs",
   "chapter": 14,
   "verses": [
     {
-      "pk": 2101401,
+      "pk": 12014001,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 14,
       "verse": 1,
-      "text": "In the second year of Jehoash son of Jehoahaz, king of Israel, Amaziah son of Joash, king of Judah, began to reign.",
-      "links": "<a href='/AIV/10/12/10'>2 Kings 12:10</a>; <a href='/AIV/14/25/1'>2 Chron. 25:1</a>",
-      "comment": "Opening formula matches Chronicles account."
+      "text": "In the second year of Joash son of Jehoahaz, king of Israel, Amaziah the son of Joash, king of Judah, began to reign.",
+      "links": "<a href='/AIV/12/13/10'>2 Kgs 13:10</a>; <a href='/AIV/14/25/1'>2 Chr 25:1</a>",
+      "comment": "The timeline links Judah and Israel, showing the interconnectedness of God’s people, and the continuity of leadership in both kingdoms."
     },
     {
-      "pk": 2101402,
+      "pk": 12014002,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 14,
       "verse": 2,
       "text": "He was twenty-five years old when he began to reign, and he reigned twenty-nine years in Jerusalem. His mother’s name was Jehoaddin of Jerusalem.",
-      "links": "<a href='/AIV/14/25/1'>2 Chron. 25:1</a>",
-      "comment": "Standard regnal details, see parallel in 2 Chronicles."
+      "links": "<a href='/AIV/14/25/1'>2 Chr 25:1</a>",
+      "comment": "The emphasis on his mother’s name shows the importance of lineage and family heritage within the royal line."
     },
     {
-      "pk": 2101403,
+      "pk": 12014003,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 14,
       "verse": 3,
-      "text": "He did what was right in the sight of the LORD, yet not like his father David. He did everything as Joash his father had done.",
-      "links": "<a href='/AIV/14/25/2'>2 Chron. 25:2</a>",
-      "comment": "Note distinction: not fully faithful like David."
+      "text": "He did what was right in the eyes of the LORD, yet not like David his father. He did according to all that Joash his father had done.",
+      "links": "<a href='/AIV/12/12/2'>2 Kgs 12:2</a>; <a href='/AIV/14/25/2'>2 Chr 25:2</a>",
+      "comment": "Amaziah obeys God but not perfectly, highlighting the need for true, wholehearted devotion—pointing toward the fulfillment in Christ who obeys fully."
     },
     {
-      "pk": 2101404,
+      "pk": 12014004,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 14,
       "verse": 4,
-      "text": "However, the high places were not removed; the people still sacrificed and burned incense on the high places.",
-      "links": "<a href='/AIV/14/15/17'>2 Kings 15:4</a>; <a href='/AIV/14/25/2'>2 Chron. 25:2</a>",
-      "comment": "Consistent issue: high places not abolished."
+      "text": "But the high places were not removed; the people continued to sacrifice and make offerings on the high places.",
+      "links": "<a href='/AIV/12/12/3'>2 Kgs 12:3</a>; <a href='/AIV/14/25/2'>2 Chr 25:2'</a>",
+      "comment": "Worship outside the designated place foreshadows the call to unity in worship under one spiritual authority and one altar (see John 4:21-24)."
     },
     {
-      "pk": 2101405,
+      "pk": 12014005,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 14,
       "verse": 5,
-      "text": "When the kingdom was firmly in his hand, he killed his servants who had struck down the king his father.",
-      "links": "<a href='/AIV/14/12/20'>2 Kings 12:20</a>; <a href='/AIV/14/25/3'>2 Chron. 25:3</a>",
-      "comment": "Refers back to the assassination of his father Joash."
+      "text": "And as soon as the kingdom was firmly in his hand, he struck down his servants who had struck down the king his father.",
+      "links": "<a href='/AIV/12/12/20-21'>2 Kgs 12:20-21</a>; <a href='/AIV/14/25/3'>2 Chr 25:3</a>",
+      "comment": "Justice administered after a period of instability; parallels the necessity for order and mediation through divinely-appointed leadership."
     },
     {
-      "pk": 2101406,
+      "pk": 12014006,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 14,
       "verse": 6,
-      "text": "But the sons of the murderers he did not put to death, according to what is written in the Book of the Law of Moses—where the LORD commanded, 'Fathers shall not be put to death because of their children, nor shall children be put to death because of their fathers; each one shall die for his own sin.'",
-      "links": "<a href='/AIV/5/24/16'>Deut. 24:16</a>; <a href='/AIV/14/25/4'>2 Chron. 25:4</a>",
-      "comment": "Cites Deuteronomy as his basis and restraint."
+      "text": "But he did not put to death the children of the murderers, according to what is written in the Book of the Law of Moses, where the LORD commanded, \"Fathers shall not be put to death for the children, nor children be put to death for the fathers; but each one shall die for his own sin.\"",
+      "links": "<a href='/AIV/5/24/16'>Deut 24:16</a>; <a href='/AIV/14/25/4'>2 Chr 25:4</a>",
+      "comment": "The text points to personal responsibility before God and the justice of God’s law, anticipating Christ’s personal bearing of mankind’s sins (<a href='/AIV/23/53/5'>Isaiah 53:5</a>), yet with order and law maintained."
     },
     {
-      "pk": 2101407,
+      "pk": 12014007,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 14,
       "verse": 7,
-      "text": "He struck down ten thousand Edomites in the Valley of Salt, and captured Sela in battle. He called it Joktheel, which is its name to this day.",
-      "links": "<a href='/AIV/10/8/13'>2 Sam. 8:13</a>; <a href='/AIV/14/25/11'>2 Chron. 25:11-12</a>",
-      "comment": "Valley of Salt: site of previous victories (cf. David)."
+      "text": "He struck down 10,000 Edomites in the Valley of Salt and took Sela by storm, renaming it Joktheel, which is its name to this day.",
+      "links": "<a href='/AIV/10/8/13'>2 Sam 8:13</a>; <a href='/AIV/14/25/11-12'>2 Chr 25:11-12</a>",
+      "comment": "Amaziah’s success over Edom builds on the earlier victories of David; the conquest of Sela shows the fulfillment of God’s promises to the house of David."
     },
     {
-      "pk": 2101408,
+      "pk": 12014008,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 14,
       "verse": 8,
-      "text": "Then Amaziah sent messengers to Jehoash son of Jehoahaz son of Jehu, king of Israel, saying, 'Come, let us face each other in battle.'",
-      "links": "<a href='/AIV/14/25/17'>2 Chron. 25:17-19</a>",
-      "comment": "Amaziah challenges Israel’s king."
+      "text": "Then Amaziah sent messengers to Jehoash son of Jehoahaz, son of Jehu, king of Israel, saying, \"Come, let us look one another in the face.\"",
+      "links": "<a href='/AIV/14/25/17'>2 Chr 25:17</a>",
+      "comment": "Amaziah’s challenge displays self-confidence but also division among God’s people—foreshadowing the necessity of unity in the future (Eph 4:3)."
     },
     {
-      "pk": 2101409,
+      "pk": 12014009,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 14,
       "verse": 9,
-      "text": "Jehoash king of Israel sent a reply to Amaziah king of Judah: 'A thistle in Lebanon sent to a cedar in Lebanon, saying, "
+      "text": "Jehoash king of Israel sent to Amaziah king of Judah, saying, \"A thistle in Lebanon sent to a cedar in Lebanon, saying, ‘Give your daughter to my son in marriage’; but a wild beast of Lebanon passed by and trampled down the thistle.\"",
+      "links": "<a href='/AIV/14/25/18'>2 Chr 25:18</a>",
+      "comment": "This parable illustrates humility—reminding rulers that pride leads to downfall; spiritual pride can also destroy unity and order within the body of Christ."
     },
     {
-      "pk": 2101410,
+      "pk": 12014010,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 14,
       "verse": 10,
-      "text": "\"You have indeed defeated Edom, and your heart has lifted you up. Enjoy your glory and stay at home. Why should you provoke trouble so that you fall and Judah with you?\"",
-      "links": "<a href='/AIV/14/25/19'>2 Chron. 25:19</a>",
-      "comment": "Jehoash warns Amaziah about pride after his victory."
+      "text": "\"You have indeed struck down Edom, and your heart has lifted you up. Be content with your glory, and stay at home. Why should you provoke trouble so that you fall, you and Judah with you?\"",
+      "links": "<a href='/AIV/20/16/18'>Prov 16:18</a>; <a href='/AIV/14/25/19'>2 Chr 25:19</a>",
+      "comment": "The warning against pride and unnecessary conflict teaches wisdom for leadership, and for humility in Christian living (James 4:6)."
     },
     {
-      "pk": 2101411,
+      "pk": 12014011,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 14,
       "verse": 11,
       "text": "But Amaziah would not listen. So Jehoash king of Israel went up, and he and Amaziah king of Judah faced each other at Beth-shemesh, which belongs to Judah.",
-      "links": "<a href='/AIV/10/19/41'>2 Sam. 19:41</a>; <a href='/AIV/14/25/21'>2 Chron. 25:21</a>",
-      "comment": "Battle occurs at Beth-shemesh."
+      "links": "<a href='/AIV/14/25/21'>2 Chr 25:21</a>",
+      "comment": "Persistence in pride leads to strife and division; the consequences of disunity and unwillingness to heed wise counsel."
     },
     {
-      "pk": 2101412,
+      "pk": 12014012,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 14,
       "verse": 12,
-      "text": "Judah was defeated by Israel, and every man fled to his tent.",
-      "links": "<a href='/AIV/14/25/22'>2 Chron. 25:22</a>",
-      "comment": "Standard battle reporting formula."
+      "text": "Judah was defeated before Israel, and every man fled to his home.",
+      "links": "<a href='/AIV/14/25/22'>2 Chr 25:22</a>",
+      "comment": "Disunity brings downfall; prefigures the importance of unity in the true community of believers gathered under one spiritual authority."
     },
     {
-      "pk": 2101413,
+      "pk": 12014013,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 14,
       "verse": 13,
-      "text": "Jehoash king of Israel captured Amaziah king of Judah, son of Joash, son of Ahaziah, at Beth-shemesh. Then he came to Jerusalem and broke down the wall of Jerusalem from the Gate of Ephraim to the Corner Gate, a section four hundred cubits long.",
-      "links": "<a href='/AIV/14/25/23'>2 Chron. 25:23</a>",
-      "comment": "Specific wall measurement: approximately 600 feet."
+      "text": "Jehoash king of Israel captured Amaziah king of Judah, the son of Joash, son of Ahaziah, at Beth-shemesh, and came to Jerusalem and broke down four hundred cubits of the wall of Jerusalem, from the Ephraim Gate to the Corner Gate.",
+      "links": "<a href='/AIV/14/25/23'>2 Chr 25:23</a>",
+      "comment": "The destruction of Jerusalem’s wall symbolizes vulnerability due to lack of unity and faithfulness; only through one Shepherd is Jerusalem secure."
     },
     {
-      "pk": 2101414,
+      "pk": 12014014,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 14,
       "verse": 14,
-      "text": "He took all the gold and silver and all the vessels found in the house of the LORD and in the treasuries of the king’s palace, including hostages, and returned to Samaria.",
-      "links": "<a href='/AIV/10/12/18'>2 Kings 12:18</a>; <a href='/AIV/14/25/24'>2 Chron. 25:24</a>",
-      "comment": "Material and human plunder described."
+      "text": "And he took all the gold and silver and all the vessels found in the house of the LORD and in the treasuries of the king’s palace, plus hostages, and returned to Samaria.",
+      "links": "<a href='/AIV/12/18/15-16'>2 Kgs 18:15-16</a>; <a href='/AIV/14/25/24'>2 Chr 25:24</a>",
+      "comment": "The loss of temple treasures recalls later exiles; points to the necessity for safeguarding the sacred, especially the true worship and treasures of faith."
     },
     {
-      "pk": 2101415,
+      "pk": 12014015,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 14,
       "verse": 15,
-      "text": "Now the rest of the acts of Jehoash that he did, his might, and how he fought with Amaziah king of Judah, are they not written in the Book of the Chronicles of the Kings of Israel?",
-      "links": "<a href='/AIV/12/13/12'>2 Kings 13:12</a>",
-      "comment": "Standard annalistic formula."
+      "text": "Now the rest of the acts of Jehoash, what he did and his might, and how he fought with Amaziah king of Judah, are they not written in the Book of the Chronicles of the Kings of Israel?",
+      "links": "<a href='/AIV/14/25/25'>2 Chr 25:25</a>; <a href='/AIV/13/8/14-27'>1 Chr 8:14-27</a>",
+      "comment": "Reference to historical records confirms the scriptural account; points out the thoroughness and reliability of scriptural history."
     },
     {
-      "pk": 2101416,
+      "pk": 12014016,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 14,
       "verse": 16,
-      "text": "And Jehoash rested with his fathers and was buried in Samaria with the kings of Israel. Then Jeroboam his son became king in his place.",
-      "links": "<a href='/AIV/12/13/13'>2 Kings 13:13</a>; <a href='/AIV/12/14/23'>2 Kings 14:23</a>",
-      "comment": "Succession summary."
+      "text": "So Jehoash slept with his fathers and was buried in Samaria with the kings of Israel, and Jeroboam his son reigned in his place.",
+      "links": "<a href='/AIV/12/13/13'>2 Kgs 13:13</a>; <a href='/AIV/12/14/23'>2 Kgs 14:23</a>",
+      "comment": "The passing of the kingdom, father to son, affirms hereditary succession and the continuity of divine promises through generations."
     },
     {
-      "pk": 2101417,
+      "pk": 12014017,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 14,
       "verse": 17,
-      "text": "Amaziah the son of Joash, king of Judah, lived fifteen years after the death of Jehoash son of Jehoahaz, king of Israel.",
-      "links": "<a href='/AIV/14/25/25'>2 Chron. 25:25</a>",
-      "comment": "States timespan after defeat."
+      "text": "Amaziah son of Joash, king of Judah, lived fifteen years after the death of Jehoash son of Jehoahaz, king of Israel.",
+      "links": "<a href='/AIV/14/25/25'>2 Chr 25:25</a>",
+      "comment": "Amaziah’s extended reign, even after defeat, shows that God’s mercy may endure despite judgment."
     },
     {
-      "pk": 2101418,
+      "pk": 12014018,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 14,
       "verse": 18,
       "text": "Now the rest of the acts of Amaziah, are they not written in the Book of the Chronicles of the Kings of Judah?",
-      "links": "<a href='/AIV/14/25/26'>2 Chron. 25:26</a>",
-      "comment": "Standard formula for further reading source."
+      "links": "<a href='/AIV/14/25/26'>2 Chr 25:26</a>",
+      "comment": "Again, scriptural records reinforce the faithfulness of God’s Word and the factual nature of Biblical history."
     },
     {
-      "pk": 2101419,
+      "pk": 12014019,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 14,
       "verse": 19,
-      "text": "They conspired against him in Jerusalem, and he fled to Lachish. But they sent men after him to Lachish, and killed him there.",
-      "links": "<a href='/AIV/14/25/27'>2 Chron. 25:27</a>",
-      "comment": "Describes assassination and location."
+      "text": "They made a conspiracy against him in Jerusalem, and he fled to Lachish. But they sent after him to Lachish and killed him there.",
+      "links": "<a href='/AIV/14/25/27'>2 Chr 25:27</a>",
+      "comment": "The repetition of conspiracy and assassination in Judah’s history shows the consequences of sin and faithless leadership; highlights the need of a faithful redeemer King."
     },
     {
-      "pk": 2101420,
+      "pk": 12014020,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 14,
       "verse": 20,
-      "text": "They carried him on horses, and he was buried in Jerusalem with his fathers in the city of David.",
-      "links": "<a href='/AIV/14/25/28'>2 Chron. 25:28</a>",
-      "comment": "Burial custom highlighted."
+      "text": "They brought him on horses, and he was buried in Jerusalem with his fathers in the city of David.",
+      "links": "<a href='/AIV/14/25/28'>2 Chr 25:28</a>",
+      "comment": "Burial in the city of David connects Amaziah with the promised lineage, maintaining the hope for the future messianic King."
     },
     {
-      "pk": 2101421,
+      "pk": 12014021,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 14,
       "verse": 21,
       "text": "All the people of Judah took Azariah, who was sixteen years old, and made him king in place of his father Amaziah.",
-      "links": "<a href='/AIV/14/26/1'>2 Chron. 26:1</a>",
-      "comment": "Notable as Azariah (Uzziah) begins reign early."
+      "links": "<a href='/AIV/14/26/1'>2 Chr 26:1</a>",
+      "comment": "Popular acclamation of Azariah hints at both hereditary and communal guidance in choosing leadership, blending spiritual and temporal authority."
     },
     {
-      "pk": 2101422,
+      "pk": 12014022,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 14,
       "verse": 22,
-      "text": "He rebuilt Elath and restored it to Judah after the king slept with his fathers.",
-      "links": "<a href='/AIV/14/26/2'>2 Chron. 26:2</a>",
-      "comment": "Elath was a strategic city (Red Sea port)."
+      "text": "He rebuilt Elath and restored it to Judah, after the king slept with his fathers.",
+      "links": "<a href='/AIV/14/26/2'>2 Chr 26:2</a>",
+      "comment": "Restoration of Elath represents recovering what was lost through faithfulness, a theme pointing toward spiritual restoration for the faithful."
     },
     {
-      "pk": 2101423,
+      "pk": 12014023,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 14,
       "verse": 23,
-      "text": "In the fifteenth year of Amaziah son of Joash, king of Judah, Jeroboam son of Jehoash, king of Israel, began to reign in Samaria; he reigned forty-one years.",
-      "links": "<a href='/AIV/12/13/13'>2 Kings 13:13</a>; <a href='/AIV/14/26/1'>2 Chron. 26:1</a>",
-      "comment": "Synchronizes Israel/Judah timelines."
+      "text": "In the fifteenth year of Amaziah the son of Joash king of Judah, Jeroboam son of Joash king of Israel began to reign in Samaria, and he reigned forty-one years.",
+      "links": "<a href='/AIV/12/14/16'>2 Kgs 14:16</a>",
+      "comment": "A long reign for Jeroboam II is noted, setting the stage for Israel’s growth and subsequent judgment."
     },
     {
-      "pk": 2101424,
+      "pk": 12014024,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 14,
       "verse": 24,
-      "text": "He did evil in the sight of the LORD. He did not turn away from all the sins of Jeroboam son of Nebat, who made Israel sin.",
-      "links": "<a href='/AIV/11/12/26'>1 Kings 12:26-33</a>; <a href='/AIV/14/26/1'>2 Chron. 26:1</a>",
-      "comment": "The sin of Jeroboam refers to golden calf worship."
+      "text": "He did what was evil in the eyes of the LORD. He did not turn away from all the sins of Jeroboam son of Nebat, which he made Israel to sin.",
+      "links": "<a href='/AIV/11/12/28-30'>1 Kgs 12:28-30</a>; <a href='/AIV/14/25/2'>2 Chr 25:2</a>",
+      "comment": "Jeroboam II’s evil ways reinforce the destructive pattern begun by his ancestor, indicating the danger of persistent false worship and doctrine."
     },
     {
-      "pk": 2101425,
+      "pk": 12014025,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 14,
       "verse": 25,
-      "text": "He restored the border of Israel from Lebo-hamath as far as the Sea of the Arabah, according to the word of the LORD, the God of Israel, which he spoke by his servant Jonah son of Amittai, the prophet, from Gath-hepher.",
-      "links": "<a href='/AIV/32/1/1'>Jonah 1:1</a>; <a href='/AIV/14/26/2'>2 Chron. 26:2</a>",
-      "comment": "Only occurrence of Jonah outside of the book of Jonah."
+      "text": "He restored the border of Israel from Lebo-hamath as far as the Sea of the Arabah, according to the word of the LORD, the God of Israel, which He spoke through His servant Jonah son of Amittai, the prophet, from Gath-hepher.",
+      "links": "<a href='/AIV/32/1/1'>Jonah 1:1</a>; <a href='/AIV/6/13/5'>Josh 13:5</a>",
+      "comment": "Here Jonah is mentioned as a prophet; God’s faithfulness in keeping His word is seen even when leaders are unfaithful. The role of the prophet as spokesperson for God’s authority is emphasized."
     },
     {
-      "pk": 2101426,
+      "pk": 12014026,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 14,
       "verse": 26,
-      "text": "For the LORD saw that the affliction of Israel was very bitter; there was no one left, neither slave nor free, nor any helper for Israel.",
-      "links": "<a href='/AIV/14/26/5'>2 Chron. 26:5</a>",
-      "comment": "Emphasizes Israel's dire state before restoration."
+      "text": "For the LORD saw that the affliction of Israel was very bitter, there was no helper for Israel, neither bond nor free.",
+      "links": "<a href='/AIV/19/107/12'>Ps 107:12</a>; <a href='/AIV/23/59/16'>Isa 59:16</a>",
+      "comment": "God’s compassion shines through—even in judgment—demonstrating a type of Christ who takes pity and comes as our true Helper (John 14:16)."
     },
     {
-      "pk": 2101427,
+      "pk": 12014027,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 14,
       "verse": 27,
-      "text": "But the LORD had not said he would blot out the name of Israel from under heaven; so he delivered them by the hand of Jeroboam son of Jehoash.",
-      "links": "<a href='/AIV/3/26/44'>Lev. 26:44</a>; <a href='/AIV/12/10/32'>2 Kings 10:32</a>",
-      "comment": "Gracious intervention despite evil."
+      "text": "Yet the LORD did not say that He would blot out the name of Israel from under heaven, so He delivered them by the hand of Jeroboam son of Joash.",
+      "links": "<a href='/AIV/3/26/44'>Lev 26:44</a>; <a href='/AIV/45/11/29'>Rom 11:29</a>",
+      "comment": "Despite Israel’s sins, God’s irrevocable promises remain—prefiguring His faithfulness to the new covenant people upheld through authoritative teaching and apostolic succession."
     },
     {
-      "pk": 2101428,
+      "pk": 12014028,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 14,
       "verse": 28,
-      "text": "Now the rest of the acts of Jeroboam, and all that he did, and his might—how he fought and how he regained Damascus and Hamath for Judah in Israel—are they not written in the Book of the Chronicles of the Kings of Israel?",
-      "links": "<a href='/AIV/12/13/12'>2 Kings 13:12</a>",
-      "comment": "Jeroboam extended Israel’s boundaries."
+      "text": "Now the rest of the acts of Jeroboam and all that he did, and his might—how he fought and how he recovered Damascus and Hamath for Israel—are they not written in the Book of the Chronicles of the Kings of Israel?",
+      "links": "<a href='/AIV/14/26/6-8'>2 Chr 26:6-8</a>",
+      "comment": "Recovered lands signify restoration, but a warning remains about relying on temporal power rather than spiritual fidelity and unity."
     },
     {
-      "pk": 2101429,
+      "pk": 12014029,
       "translation": "AIV",
       "book": 12,
+      "bookName": "2 Kings",
+      "bookAbbreviation": "2Kgs",
       "chapter": 14,
       "verse": 29,
-      "text": "And Jeroboam slept with his fathers, the kings of Israel, and Zechariah his son became king in his place.",
-      "links": "<a href='/AIV/12/15/8'>2 Kings 15:8</a>",
-      "comment": "Transitions to next king—Zechariah."
+      "text": "So Jeroboam slept with his fathers, the kings of Israel; and Zechariah his son reigned in his place.",
+      "links": "<a href='/AIV/12/15/8'>2 Kgs 15:8</a>",
+      "comment": "This verse closes the chapter with continued succession, emphasizing the enduring significance of family, tradition, and continuity—prefiguring the safeguarding of truth through ordered succession in God’s people."
     }
   ],
-  "translatedAt": "2025-12-22T10:17:31.767Z"
+  "translatedAt": "2025-12-24T03:55:52.251Z"
 }

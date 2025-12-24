@@ -1,158 +1,189 @@
 {
-  "book": "Nahum",
+  "book": 41,
+  "bookName": "Nahum",
   "bookAbbreviation": "Nah",
   "chapter": 1,
   "verses": [
     {
-      "pk": 940011,
+      "pk": 41001001,
       "translation": "AIV",
-      "book": 34,
+      "book": 41,
+      "bookName": "Nahum",
+      "bookAbbreviation": "Nah",
       "chapter": 1,
       "verse": 1,
-      "text": "An oracle concerning Nineveh. The book of the vision of Nahum of Elkosh.",
-      "links": "<a href='/AIV/36/2/13'>Zeph. 2:13</a>; <a href='/AIV/32/1/1'>Jonah 1:1–2</a>",
-      "comment": "Nineveh is the capital of Assyria. This introduction sets the context for the prophecy."
+      "text": "A prophecy about Nineveh. The book of the vision of Nahum from Elkosh.",
+      "links": "<a href='/AIV/23/13/1'>Isa. 13:1</a>; <a href='/AIV/36/2/13'>Zeph. 2:13</a>",
+      "comment": "Nahum’s opening identifies this work as a prophetic oracle, like many Old Testament prophets (see Isa. 13:1). 'Vision' suggests divine revelation—the prophet speaks God's word, not his own."
     },
     {
-      "pk": 940012,
+      "pk": 41001002,
       "translation": "AIV",
-      "book": 34,
+      "book": 41,
+      "bookName": "Nahum",
+      "bookAbbreviation": "Nah",
       "chapter": 1,
       "verse": 2,
-      "text": "The LORD is a jealous and avenging God; the LORD takes vengeance and is filled with wrath. The LORD takes vengeance on His adversaries and stores up fury for His enemies.",
-      "links": "<a href='/AIV/2/20/5'>Exod. 20:5</a>; <a href='/AIV/5/32/35'>Deut. 32:35</a>; <a href='/AIV/19/79/5'>Ps. 79:5</a>",
-      "comment": "The text underscores God's justice and zeal for righteousness. Jealousy here refers to divine possessiveness for His people. See also Hebrews 10:30 for New Testament application."
+      "text": "The LORD is a jealous and avenging God; the LORD takes vengeance and is filled with wrath. The LORD takes vengeance against his adversaries, and keeps wrath for his enemies.",
+      "links": "<a href='/AIV/2/20/5'>Ex. 20:5</a>; <a href='/AIV/5/4/24'>Deut. 4:24</a>; <a href='/AIV/19/94/1'>Ps. 94:1</a>",
+      "comment": "God’s jealousy refers to his passionate commitment to his people, like Ex. 20:5 and Deut. 4:24. The depiction of God as avenger emphasizes his justice, timeless throughout salvation history."
     },
     {
-      "pk": 940013,
+      "pk": 41001003,
       "translation": "AIV",
-      "book": 34,
+      "book": 41,
+      "bookName": "Nahum",
+      "bookAbbreviation": "Nah",
       "chapter": 1,
       "verse": 3,
-      "text": "The LORD is slow to anger and great in power, yet He will by no means clear the guilty. His way is in the whirlwind and the storm, and the clouds are the dust of His feet.",
-      "links": "<a href='/AIV/2/34/6-7'>Exod. 34:6–7</a>; <a href='/AIV/19/104/3'>Ps. 104:3</a>",
-      "comment": "God is patient and merciful but still holds the guilty accountable—demonstrating both perfect mercy and perfect justice. Compare with Romans 2:4 for the New Testament view of God's patience."
+      "text": "The LORD is slow to anger but great in power; and he will by no means leave the guilty unpunished. His way is in the whirlwind and the storm, and the clouds are the dust of his feet.",
+      "links": "<a href='/AIV/2/34/6-7'>Ex. 34:6-7</a>; <a href='/AIV/19/18/9-11'>Ps. 18:9-11</a>",
+      "comment": "God’s patience is echoed in Ex. 34:6, yet his justice is unwavering (Ex. 34:7). ‘Clouds are the dust of his feet’ is poetic imagery about God’s sovereignty over creation, linking to other theophanies."
     },
     {
-      "pk": 940014,
+      "pk": 41001004,
       "translation": "AIV",
-      "book": 34,
+      "book": 41,
+      "bookName": "Nahum",
+      "bookAbbreviation": "Nah",
       "chapter": 1,
       "verse": 4,
-      "text": "He rebukes the sea and makes it dry; He dries up all the rivers. Bashan and Carmel wither, and the blossom of Lebanon fades.",
-      "links": "<a href='/AIV/2/14/21'>Exod. 14:21</a>; <a href='/AIV/6/3/15-17'>Josh. 3:15–17</a>",
-      "comment": "This shows God's supremacy over nature and the land. Bashan, Carmel, and Lebanon were known for their fertileness, emphasizing that nothing is beyond God's power."
+      "text": "He rebukes the sea and makes it dry; he dries up all the rivers. Bashan and Carmel wither, and the flowers of Lebanon fade.",
+      "links": "<a href='/AIV/2/14/21'>Ex. 14:21</a>; <a href='/AIV/19/106/9'>Ps. 106:9</a>; <a href='/AIV/24/50/19'>Jer. 50:19</a>",
+      "comment": "God’s command over nature recalls the Exodus miracle (Ex. 14:21). Bashan, Carmel, and Lebanon, famed for their abundance, withering points to judgment affecting even the most prosperous."
     },
     {
-      "pk": 940015,
+      "pk": 41001005,
       "translation": "AIV",
-      "book": 34,
+      "book": 41,
+      "bookName": "Nahum",
+      "bookAbbreviation": "Nah",
       "chapter": 1,
       "verse": 5,
-      "text": "The mountains quake before Him; the hills melt away. The earth trembles at His presence, the world and all who dwell in it.",
-      "links": "<a href='/AIV/19/97/5'>Ps. 97:5</a>; <a href='/AIV/19/114/7'>Ps. 114:7</a>",
-      "comment": "A theophany—God's manifest presence—undermines even the strongest elements of creation. This imagery is also present at Sinai (Exodus 19:18)."
+      "text": "The mountains quake before him, and the hills melt away. The earth heaves at his presence—the world and all who dwell in it.",
+      "links": "<a href='/AIV/19/97/5'>Ps. 97:5</a>; <a href='/AIV/34/2/6'>Mic. 1:4</a>",
+      "comment": "God’s overwhelming presence causes all creation to tremble, similar to Ps. 97:5 and Mic. 1:4. This points to his supreme authority, anticipating the eschatological shaking of all things (cf. Heb. 12:26-27)."
     },
     {
-      "pk": 940016,
+      "pk": 41001006,
       "translation": "AIV",
-      "book": 34,
+      "book": 41,
+      "bookName": "Nahum",
+      "bookAbbreviation": "Nah",
       "chapter": 1,
       "verse": 6,
-      "text": "Who can stand before His anger? Who can withstand the heat of His fury? His wrath is poured out like fire, and the rocks are shattered by Him.",
+      "text": "Who can stand before his indignation? Who can endure the fury of his anger? His wrath is poured out like fire, and the rocks are shattered before him.",
       "links": "<a href='/AIV/19/76/7'>Ps. 76:7</a>; <a href='/AIV/66/6/17'>Rev. 6:17</a>",
-      "comment": "This verse raises rhetorical questions to stress the overwhelming power of God's judgment. Also see Revelation 6:17, connecting God’s wrath to the final judgment."
+      "comment": "This rhetorical question is found elsewhere (Ps. 76:7; Rev. 6:17) and underlines that no one can withstand God’s judgment, showing our total dependence on his mercy."
     },
     {
-      "pk": 940017,
+      "pk": 41001007,
       "translation": "AIV",
-      "book": 34,
+      "book": 41,
+      "bookName": "Nahum",
+      "bookAbbreviation": "Nah",
       "chapter": 1,
       "verse": 7,
-      "text": "The LORD is good, a stronghold in the day of trouble; He knows those who take refuge in Him.",
-      "links": "<a href='/AIV/19/46/1'>Ps. 46:1</a>; <a href='/AIV/19/34/8'>Ps. 34:8</a>",
-      "comment": "A note of comfort: The Lord's nature is both just and benevolent. 'Knows' suggests intimate, covenantal relationship—a theme running from Genesis to Jesus’ description of His sheep in John 10:14."
+      "text": "The LORD is good, a stronghold in the day of trouble; he knows those who take refuge in him.",
+      "links": "<a href='/AIV/19/34/8'>Ps. 34:8</a>; <a href='/AIV/19/37/39'>Ps. 37:39</a>",
+      "comment": "In contrast to his wrath, God’s goodness and protection are offered to those who seek him. ‘Knows those’ has covenantal overtones, hinting at a familial relationship with his people, consistent with a visible community of faith."
     },
     {
-      "pk": 940018,
+      "pk": 41001008,
       "translation": "AIV",
-      "book": 34,
+      "book": 41,
+      "bookName": "Nahum",
+      "bookAbbreviation": "Nah",
       "chapter": 1,
       "verse": 8,
-      "text": "But with an overflowing flood, He will make a complete end of His adversaries, and will pursue His enemies into darkness.",
-      "links": "<a href='/AIV/1/7/11-12'>Gen. 7:11–12</a>; <a href='/AIV/19/18/9'>Ps. 18:9</a>",
-      "comment": "The 'overflowing flood' may symbolize both literal judgment and a spiritual purging. The total defeat of evil is anticipated, echoed in Revelation 20:10."
+      "text": "But with an overwhelming flood he will make a complete end of his foes, and he will pursue his enemies into darkness.",
+      "links": "<a href='/AIV/1/6/17'>Gen. 6:17</a>; <a href='/AIV/19/46/2-3'>Ps. 46:2-3</a>",
+      "comment": "‘Flood’ echoes Genesis and is a symbol of irresistible judgment. Darkness as a destination for God’s enemies recalls spiritual separation, often interpreted as the ultimate justice of God."
     },
     {
-      "pk": 940019,
+      "pk": 41001009,
       "translation": "AIV",
-      "book": 34,
+      "book": 41,
+      "bookName": "Nahum",
+      "bookAbbreviation": "Nah",
       "chapter": 1,
       "verse": 9,
       "text": "What do you plot against the LORD? He will make a complete end; trouble will not rise up a second time.",
-      "links": "<a href='/AIV/23/14/27'>Isa. 14:27</a>; <a href='/AIV/38/1/6'>Zech. 1:6</a>",
-      "comment": "This is an assurance that God's enemies cannot oppose Him. The permanence of God's judgment—'trouble will not rise a second time'—underscores the completeness of His victory."
+      "links": "<a href='/AIV/6/11/20'>Josh. 11:20</a>; <a href='/AIV/19/21/11'>Ps. 21:11</a>",
+      "comment": "Human schemes are futile against God’s purpose, related to Ps. 21:11. The finality of God’s judgment is emphasized: those judged are not judged again—hinting at a final, once-for-all act of divine justice."
     },
     {
-      "pk": 940020,
+      "pk": 41001010,
       "translation": "AIV",
-      "book": 34,
+      "book": 41,
+      "bookName": "Nahum",
+      "bookAbbreviation": "Nah",
       "chapter": 1,
       "verse": 10,
-      "text": "For they are entangled like thorns, and drunk as with their drink; they are consumed like stubble fully dry.",
-      "links": "<a href='/AIV/19/58/9'>Ps. 58:9</a>; <a href='/AIV/23/5/24'>Isa. 5:24</a>",
-      "comment": "Use of agricultural images (thorns, stubble) denotes the swiftness and certainty of divine destruction, a familiar image in both Old and New Testaments."
+      "text": "For they are tangled like thorns, and drunk like drunkards; they are consumed like stubble fully dry.",
+      "links": "<a href='/AIV/23/10/17'>Isa. 10:17</a>; <a href='/AIV/19/83/13'>Ps. 83:13</a>",
+      "comment": "Thorns and stubble are consistent images of worthless and doomed opposition (see Isa. 10:17). ‘Drunkards’ indicates spiritual blindness from pleasure, disconnected from the discipline found in God’s true community."
     },
     {
-      "pk": 940021,
+      "pk": 41001011,
       "translation": "AIV",
-      "book": 34,
+      "book": 41,
+      "bookName": "Nahum",
+      "bookAbbreviation": "Nah",
       "chapter": 1,
       "verse": 11,
-      "text": "From you came one who plotted evil against the LORD, a worthless counselor.",
-      "links": "<a href='/AIV/23/10/7'>Isa. 10:7</a>; <a href='/AIV/42/23/12'>Luke 23:12</a>",
-      "comment": "Refers to a specific leader of Assyria but foreshadows figures opposed to God’s plan throughout salvation history, with echoes of the 'man of sin' in 2 Thessalonians 2:3-4."
+      "text": "From you has come one who plots evil against the LORD, a wicked counselor.",
+      "links": "<a href='/AIV/12/18/32-35'>2 Kings 18:32-35</a>; <a href='/AIV/23/36/8-10'>Isa. 36:8-10</a>",
+      "comment": "Refers to Assyrian rulers, especially those who opposed Israel. False guidance stands in contrast to true spiritual leadership, which is recognized through apostolic succession and fidelity to revealed truth."
     },
     {
-      "pk": 940022,
+      "pk": 41001012,
       "translation": "AIV",
-      "book": 34,
+      "book": 41,
+      "bookName": "Nahum",
+      "bookAbbreviation": "Nah",
       "chapter": 1,
       "verse": 12,
-      "text": "This is what the LORD says: Though they are at full strength and many, they will be cut down and pass away. Though I have afflicted you, I will not afflict you again.",
-      "links": "<a href='/AIV/23/37/36-38'>Isa. 37:36–38</a>; <a href='/AIV/19/94/13'>Ps. 94:13</a>",
-      "comment": "God assures His people of deliverance. Temporarily permitting affliction, God brings ultimate relief—suggestive of spiritual purification and discipline, not loosed from His sovereign plan."
+      "text": "This is what the LORD says: 'Though they are at full strength and many, they will be cut down and pass away. Though I have afflicted you, I will afflict you no more.'",
+      "links": "<a href='/AIV/23/14/22'>Isa. 14:22</a>; <a href='/AIV/19/135/8-12'>Ps. 135:8-12</a>",
+      "comment": "Assyria at its peak is no match for God’s power. Promise of relief for God’s people links to themes of restoration and divine compassion—hallmarks of the true, ongoing covenant community."
     },
     {
-      "pk": 940023,
+      "pk": 41001013,
       "translation": "AIV",
-      "book": 34,
+      "book": 41,
+      "bookName": "Nahum",
+      "bookAbbreviation": "Nah",
       "chapter": 1,
       "verse": 13,
-      "text": "Now I will break his yoke from upon you and burst your bonds apart.",
-      "links": "<a href='/AIV/23/9/4'>Isa. 9:4</a>; <a href='/AIV/40/11/29-30'>Matt. 11:29–30</a>",
-      "comment": "Freedom is given by God alone. Jesus’ words in Matthew 11 echo this promise of breaking oppressive yokes, pointing to both physical and spiritual liberation."
+      "text": "Now I will break his yoke from you and tear your bonds apart.",
+      "links": "<a href='/AIV/23/10/27'>Isa. 10:27</a>; <a href='/AIV/19/107/14'>Ps. 107:14</a>",
+      "comment": "Breaking the yoke is a common metaphor for liberation (Isa. 10:27). This anticipates God delivering his people in history—and spiritually, freedom offered through Christ and the sacraments."
     },
     {
-      "pk": 940024,
+      "pk": 41001014,
       "translation": "AIV",
-      "book": 34,
+      "book": 41,
+      "bookName": "Nahum",
+      "bookAbbreviation": "Nah",
       "chapter": 1,
       "verse": 14,
-      "text": "The LORD has commanded concerning you: 'No more descendants shall bear your name; I will cut off the carved image and the cast idol from the house of your gods. I will prepare your grave, for you are vile.'",
-      "links": "<a href='/AIV/23/37/38'>Isa. 37:38</a>; <a href='/AIV/19/115/4-8'>Ps. 115:4–8</a>",
-      "comment": "The destruction of idolatry and the end of the enemy’s lineage is decreed. The Lord is uncompromising about pure worship. This theme is deepened in Christ, who fulfills and surpasses the Old Testament law."
+      "text": "The LORD has given a command about you: 'Your name will no longer be spread; I will cut off the carved image and the cast idol from the house of your gods. I will prepare your grave, for you are vile.'",
+      "links": "<a href='/AIV/23/37/38'>Isa. 37:38</a>; <a href='/AIV/24/51/52'>Jer. 51:52</a>",
+      "comment": "Divine judgment includes the destruction of idolatry. Removal of idols points to a call for pure worship, rooted in a visible, unified community of faith that guards truth and practice."
     },
     {
-      "pk": 940025,
+      "pk": 41001015,
       "translation": "AIV",
-      "book": 34,
+      "book": 41,
+      "bookName": "Nahum",
+      "bookAbbreviation": "Nah",
       "chapter": 1,
       "verse": 15,
-      "text": "Behold, on the mountains, the feet of him who brings good news, who proclaims peace! Keep your feasts, O Judah; fulfill your vows. For never again shall the wicked pass through you; he is cut off completely.",
+      "text": "Look! On the mountains the feet of one who brings good news, who proclaims peace! Celebrate your festivals, Judah, fulfill your vows! For the wicked will never again invade you; they are completely cut off.",
       "links": "<a href='/AIV/23/52/7'>Isa. 52:7</a>; <a href='/AIV/45/10/15'>Rom. 10:15</a>",
-      "comment": "This verse is cited by Paul in Romans as foretelling the gospel’s arrival. The command to keep the feasts and vows points to the ongoing importance of both communal worship and sacramental life, inviting reflection on the way Christ continues God's saving work and establishes lasting peace."
+      "comment": "This verse is quoted in Isaiah 52:7 and echoed in Rom. 10:15. 'Good news' and 'peace' point prophetically to the Gospel and Christ’s work. The mention of festivals and vows reveals continuity of worship and covenant faith, fulfilled in Christ who established public, sacramental worship."
     }
   ],
-  "translatedAt": "2025-12-23T07:32:55.098Z"
+  "translatedAt": "2025-12-24T09:49:56.474Z"
 }

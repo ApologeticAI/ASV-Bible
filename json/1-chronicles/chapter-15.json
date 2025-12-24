@@ -1,298 +1,357 @@
 {
-  "book": "1 Chronicles",
+  "book": 13,
+  "bookName": "1 Chronicles",
   "bookAbbreviation": "1Chr",
   "chapter": 15,
   "verses": [
     {
-      "pk": 1935001,
+      "pk": 13015001,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 15,
       "verse": 1,
-      "text": "David built houses for himself in the City of David. He prepared a place for the ark of God and pitched a tent for it.",
-      "links": "<a href='/AIV/10/6/17'>2 Sam. 6:17</a>; <a href='/AIV/13/16/1'>1 Chr. 16:1</a>",
-      "comment": "Faithful rendering; 'houses' refers to buildings, not tents. 'Pitched a tent' is literal."
+      "text": "David built houses for himself in the city of David, and he prepared a place for the ark of God, and set up a tent for it.",
+      "links": "<a href='/AIV/10/6/17'>2 Sam. 6:17</a>; <a href='/AIV/19/132/5'>Ps. 132:5</a>",
+      "comment": "David's preparation emphasizes the separation of the ark as God's holy presence among His people, paralleling the importance of right worship and proper dwelling for God (see Numbers 1:50)."
     },
     {
-      "pk": 1935002,
+      "pk": 13015002,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 15,
       "verse": 2,
-      "text": "Then David said, 'No one but the Levites may carry the ark of God, for the Lord has chosen them to carry the ark of the Lord and to minister to him forever.'",
-      "links": "<a href='/AIV/4/4/15'>Num. 4:15</a>; <a href='/AIV/5/10/8'>Deut. 10:8</a>",
-      "comment": "'Minister to him' refers to Levitical service duties."
+      "text": "Then David said, 'No one but the Levites may carry the ark of God, for the LORD has chosen them to carry the ark of the LORD and to minister to him forever.'",
+      "links": "<a href='/AIV/4/4/15'>Num. 4:15</a>; <a href='/AIV/4/7/9'>Num. 7:9</a>",
+      "comment": "David's correction recalls the need for proper authority and order in worship—a foreshadowing of apostolic succession and sacred ministry, which God establishes for ongoing service."
     },
     {
-      "pk": 1935003,
+      "pk": 13015003,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 15,
       "verse": 3,
-      "text": "And David gathered all Israel together at Jerusalem to bring up the ark of the Lord to its place, which he had prepared for it.",
-      "links": "<a href='/AIV/13/13/5'>1 Chr. 13:5</a>",
-      "comment": "No significant differences; 'bring up' is a literal translation."
+      "text": "David assembled all Israel in Jerusalem to bring up the ark of the LORD to the place that he had prepared for it.",
+      "links": "<a href='/AIV/10/6/15'>2 Sam. 6:15</a>",
+      "comment": "The gathering of all Israel signifies a unified act of worship; the centrality of the ark prefigures the central role of God's presence among His people."
     },
     {
-      "pk": 1935004,
+      "pk": 13015004,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 15,
       "verse": 4,
-      "text": "David assembled the sons of Aaron and the Levites:",
-      "links": "<a href='/AIV/2/6/16'>Ex. 6:16</a>; <a href='/AIV/4/4/2'>Num. 4:2</a>",
-      "comment": "The phrase 'sons of Aaron and the Levites' is literal."
+      "text": "David gathered together the sons of Aaron and the Levites:",
+      "links": "<a href='/AIV/2/28/1'>Ex. 28:1</a>; <a href='/AIV/4/3/6-10'>Num. 3:6–10</a>",
+      "comment": "Aaron’s line was set apart for sacred duty (Numbers 18:7), showing the need for a set-apart priesthood."
     },
     {
-      "pk": 1935005,
+      "pk": 13015005,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 15,
       "verse": 5,
-      "text": "Of the sons of Kohath, Uriel the chief, with 120 of his relatives;",
-      "links": "<a href='/AIV/4/3/27'>Num. 3:27</a>",
-      "comment": "Names and numbers are preserved."
+      "text": "From Kohath: Uriel the chief, and his relatives—120;",
+      "links": "<a href='/AIV/4/3/17-20'>Num. 3:17-20</a>",
+      "comment": "The careful count and division of the Levites shows the importance of order and lineage in worship leadership."
     },
     {
-      "pk": 1935006,
+      "pk": 13015006,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 15,
       "verse": 6,
-      "text": "Of the sons of Merari, Asaiah the chief, with 220 of his relatives;",
-      "links": "<a href='/AIV/4/3/33'>Num. 3:33</a>",
-      "comment": "Direct translation of lineage and numbers."
+      "text": "From Merari: Asaiah the chief, and his relatives—220;",
+      "links": "<a href='/AIV/4/3/33-34'>Num. 3:33-34</a>",
+      "comment": "Merari’s line, like Kohath’s, fulfills specialized tasks, emphasizing different roles within the people of God."
     },
     {
-      "pk": 1935007,
+      "pk": 13015007,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 15,
       "verse": 7,
-      "text": "Of the sons of Gershom, Joel the chief, with 130 of his relatives;",
-      "links": "<a href='/AIV/4/3/21'>Num. 3:21</a>",
-      "comment": "Same as Hebrew structure."
+      "text": "From Gershom: Joel the chief, and his relatives—130;",
+      "links": "<a href='/AIV/4/3/21-22'>Num. 3:21-22</a>",
+      "comment": "All three sons of Levi are honored, pointing to a full yet diverse spiritual household."
     },
     {
-      "pk": 1935008,
+      "pk": 13015008,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 15,
       "verse": 8,
-      "text": "Of the sons of Elizaphan, Shemaiah the chief, with 200 of his relatives;",
+      "text": "From the sons of Elizaphan: Shemaiah the chief, and his relatives—200;",
       "links": "<a href='/AIV/4/3/30'>Num. 3:30</a>",
-      "comment": "No significant differences."
+      "comment": "Meticulous lists display reverence and respect for heritage (Matthew 1:1-16)."
     },
     {
-      "pk": 1935009,
+      "pk": 13015009,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 15,
       "verse": 9,
-      "text": "Of the sons of Hebron, Eliel the chief, with 80 of his relatives;",
-      "links": "<a href='/AIV/4/3/19'>Num. 3:19</a>",
-      "comment": "Literal translation of the name and amount."
+      "text": "From the sons of Hebron: Eliel the chief, and his relatives—80;",
+      "links": "<a href='/AIV/4/3/27'>Num. 3:27</a>",
+      "comment": "Their inclusion demonstrates attention to every branch of sacred leadership."
     },
     {
-      "pk": 1935010,
+      "pk": 13015010,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 15,
       "verse": 10,
-      "text": "Of the sons of Uzziel, Amminadab the chief, with 112 of his relatives.",
-      "links": "<a href='/AIV/2/6/22'>Ex. 6:22</a>",
-      "comment": "All names and numbers are kept precise."
+      "text": "From the sons of Uzziel: Amminadab the chief, and his relatives—112.",
+      "links": "<a href='/AIV/4/3/27'>Num. 3:27</a>",
+      "comment": "The Levites, chosen according to their family lines, hint at a continuity and tradition in spiritual service."
     },
     {
-      "pk": 1935011,
+      "pk": 13015011,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 15,
       "verse": 11,
-      "text": "David summoned the priests Zadok and Abiathar and the Levites: Uriel, Asaiah, Joel, Shemaiah, Eliel, and Amminadab.",
+      "text": "David summoned Zadok and Abiathar the priests, and for the Levites: Uriel, Asaiah, Joel, Shemaiah, Eliel, and Amminadab,",
       "links": "<a href='/AIV/10/8/17'>2 Sam. 8:17</a>",
-      "comment": "Names are consistent with the Hebrew."
+      "comment": "Mentioning both priestly and Levitical leaders shows the unity and hierarchy within devoted worship (Hebrews 5:1–4)."
     },
     {
-      "pk": 1935012,
+      "pk": 13015012,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 15,
       "verse": 12,
-      "text": "He said to them, 'You are the heads of the fathers’ houses of the Levites. Consecrate yourselves, you and your brothers, so that you may bring up the ark of the Lord, the God of Israel, to the place I have prepared for it.'",
-      "links": "<a href='/AIV/2/19/22'>Ex. 19:22</a>; <a href='/AIV/13/13/7-14'>1 Chr. 13:7–14</a>",
-      "comment": "Literal translation; 'consecrate' signifies ritual cleansing."
+      "text": "and said to them, 'You are the heads of the fathers' households among the Levites; consecrate yourselves, you and your relatives, so you may bring up the ark of the LORD, the God of Israel, to the place I have prepared for it.'",
+      "links": "<a href='/AIV/2/19/10-15'>Ex. 19:10-15</a>; <a href='/AIV/10/6/6-7'>2 Sam. 6:6-7</a>",
+      "comment": "Consecration before approaching God’s presence points to the necessity of spiritual preparation and purity (Hebrews 10:22)."
     },
     {
-      "pk": 1935013,
+      "pk": 13015013,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 15,
       "verse": 13,
-      "text": "'Because you did not carry it the first time, the Lord our God broke out against us, because we did not seek him according to the rule.'",
-      "links": "<a href='/AIV/10/6/7-8'>2 Sam. 6:7–8</a>",
-      "comment": "'Broke out against us' is a literal rendering."
+      "text": "'Because you did not carry it the first time, the LORD our God broke out in anger against us, for we did not seek him according to the prescribed order.'",
+      "links": "<a href='/AIV/10/6/6-8'>2 Sam. 6:6-8</a>; <a href='/AIV/3/10/1-2'>Lev. 10:1-2</a>",
+      "comment": "Divine order and tradition are emphasized. Right worship is not only about intention or enthusiasm, but also following sacred guidelines."
     },
     {
-      "pk": 1935014,
+      "pk": 13015014,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 15,
       "verse": 14,
-      "text": "So the priests and the Levites consecrated themselves to bring up the ark of the Lord, the God of Israel.",
-      "links": "<a href='/AIV/2/19/10'>Ex. 19:10</a>",
-      "comment": "Direct rendering of the original."
+      "text": "So the priests and the Levites consecrated themselves to bring up the ark of the LORD, the God of Israel.",
+      "links": "<a href='/AIV/2/19/22'>Ex. 19:22</a>; <a href='/AIV/3/8/6'>Lev. 8:6</a>",
+      "comment": "The act of consecration reveals the permanence and necessity of sanctification in coming before God."
     },
     {
-      "pk": 1935015,
+      "pk": 13015015,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 15,
       "verse": 15,
-      "text": "And the Levites carried the ark of God on their shoulders, with poles, as Moses had commanded by the word of the Lord.",
-      "links": "<a href='/AIV/2/25/14'>Ex. 25:14</a>; <a href='/AIV/4/4/15'>Num. 4:15</a>",
-      "comment": "'Poles' is a literal object."
+      "text": "The Levites carried the ark of God on their shoulders with poles, as Moses had commanded according to the word of the LORD.",
+      "links": "<a href='/AIV/2/25/14'>Ex. 25:14</a>; <a href='/AIV/4/7/9'>Num. 7:9</a>",
+      "comment": "Obedience to divine instruction for worship highlights the necessity of following God-given forms, both then and now."
     },
     {
-      "pk": 1935016,
+      "pk": 13015016,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 15,
       "verse": 16,
-      "text": "David told the chiefs of the Levites to appoint their brothers as singers, with instruments of music: harps, lyres, and cymbals, to raise their voices with joy.",
-      "links": "<a href='/AIV/13/6/31'>1 Chr. 6:31</a>; <a href='/AIV/13/16/42'>1 Chr. 16:42</a>",
-      "comment": "'Harps, lyres, cymbals' are accurate terms for the Hebrew instruments."
+      "text": "David told the chiefs of the Levites to appoint their brothers as singers, with musical instruments—harps, lyres, and cymbals—to raise joyful sounds.",
+      "links": "<a href='/AIV/19/150/3-5'>Ps. 150:3-5</a>",
+      "comment": "Joyful worship with music is encouraged and was organized under authority, reflecting the proper order in communal praise."
     },
     {
-      "pk": 1935017,
+      "pk": 13015017,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 15,
       "verse": 17,
-      "text": "So the Levites appointed Heman the son of Joel, and from his brothers, Asaph the son of Berechiah, and from the sons of Merari, their brothers, Ethan the son of Kushaiah;",
-      "links": "<a href='/AIV/13/6/33'>1 Chr. 6:33</a>; <a href='/AIV/13/6/39'>1 Chr. 6:39</a>",
-      "comment": "Names are carefully rendered."
+      "text": "So the Levites appointed Heman the son of Joel, and from his brothers Asaph the son of Berechiah, and from the sons of Merari, Ethan the son of Kushaiah;",
+      "links": "<a href='/AIV/19/88/1'>Ps. 88:1</a>; <a href='/AIV/19/50/1'>Ps. 50:1</a>",
+      "comment": "Naming the leaders of sacred music echoes the lasting legacy and lineage of those who guide others in praise."
     },
     {
-      "pk": 1935018,
+      "pk": 13015018,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 15,
       "verse": 18,
-      "text": "and with them their relatives of the second order: Zechariah, Ben, Jaaziel, Shemiramoth, Jehiel, Unni, Eliab, Benaiah, Maaseiah, Mattithiah, Eliphelehu, Mikneiah, and the gatekeepers, Obed-edom and Jeiel.",
+      "text": "and with them their relatives of the second order: Zechariah, Ben, Jaaziel, Shemiramoth, Jehiel, Unni, Eliab, Benaiah, Maaseiah, Mattithiah, Eliphelehu, Mikneiah, Obed-edom, and Jeiel, the gatekeepers.",
       "links": "<a href='/AIV/13/16/5'>1 Chr. 16:5</a>",
-      "comment": "The term 'second order' matches the Hebrew (less prominent singers)."
+      "comment": "Gatekeepers ensured proper order and reverence at the entrance to worship, similar to sacred ministry roles of guardianship in the Church."
     },
     {
-      "pk": 1935019,
+      "pk": 13015019,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 15,
       "verse": 19,
-      "text": "The singers, Heman, Asaph, and Ethan, were to sound the bronze cymbals;",
+      "text": "The singers, Heman, Asaph, and Ethan, were to play bronze cymbals loudly.",
       "links": "<a href='/AIV/19/150/5'>Ps. 150:5</a>",
-      "comment": "Instrument type (bronze cymbals) kept accurate."
+      "comment": "The use of skilled musicians reflects God’s delight in beauty and excellence within worship."
     },
     {
-      "pk": 1935020,
+      "pk": 13015020,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 15,
       "verse": 20,
       "text": "Zechariah, Aziel, Shemiramoth, Jehiel, Unni, Eliab, Maaseiah, and Benaiah were to play harps according to Alamoth;",
-      "links": "<a href='/AIV/19/46/1'>Ps. 46:1, musical direction</a>",
-      "comment": "'According to Alamoth' is a musical term with uncertain meaning, kept as is."
+      "links": "<a href='/AIV/19/46/1'>Ps. 46:1</a>",
+      "comment": "'Alamoth' likely refers to a high-pitched style; precision in worship is valued."
     },
     {
-      "pk": 1935021,
+      "pk": 13015021,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 15,
       "verse": 21,
-      "text": "and Mattithiah, Eliphelehu, Mikneiah, Obed-edom, Jeiel, and Azaziah were to lead with lyres according to the Sheminith, to guide the music.",
-      "links": "<a href='/AIV/19/6/1'>Ps. 6:1, musical direction</a>",
-      "comment": "'Sheminith' is a musical term, left untranslated for accuracy."
+      "text": "and Mattithiah, Eliphelehu, Mikneiah, Obed-edom, Jeiel, and Azaziah were to play lyres, according to Sheminith, to lead the singing.",
+      "links": "<a href='/AIV/19/6/1'>Ps. 6:1</a>; <a href='/AIV/19/12/1'>Ps. 12:1</a>",
+      "comment": "'Sheminith' possibly means 'eighth,' referring to musical style—showing great care for musical liturgy."
     },
     {
-      "pk": 1935022,
+      "pk": 13015022,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 15,
       "verse": 22,
-      "text": "Kenaniah, chief of the Levites, was in charge of the singing; he instructed in music, because he was skillful.",
-      "links": "<a href='/AIV/13/26/29'>1 Chr. 26:29</a>",
-      "comment": "'Skillful' reflects Hebrew 'understanding.'"
+      "text": "Kenaniah, the head Levite in charge of the singing, gave instruction in singing because he was skillful.",
+      "links": "<a href='/AIV/13/25/7'>1 Chr. 25:7</a>",
+      "comment": "Kenaniah as instructor reveals divine approval of ordered teaching authority, paralleling the importance of guidance and tradition."
     },
     {
-      "pk": 1935023,
+      "pk": 13015023,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 15,
       "verse": 23,
-      "text": "Berechiah and Elkanah were doorkeepers for the ark.",
-      "links": "<a href='/AIV/13/9/17'>1 Chr. 9:17</a>",
-      "comment": "No significant change from original."
+      "text": "Berechiah and Elkanah guarded the ark.",
+      "links": "<a href='/AIV/13/15/18'>1 Chr. 15:18</a>",
+      "comment": "Guardianship of the ark was a sacred trust, depicting responsible stewardship of the mysteries of faith (1 Corinthians 4:1)."
     },
     {
-      "pk": 1935024,
+      "pk": 13015024,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 15,
       "verse": 24,
-      "text": "Shebaniah, Josaphat, Nethanel, Amasai, Zechariah, Benaiah, and Eliezer, the priests, were to blow the trumpets before the ark of God. Obed-edom and Jehiah were to be doorkeepers for the ark.",
-      "links": "<a href='/AIV/4/10/8'>Num. 10:8</a>",
-      "comment": "Priests blowing trumpets conveyed as in Hebrew."
+      "text": "Shebaniah, Joshaphat, Nethanel, Amasai, Zechariah, Benaiah, and Eliezer, the priests, blew the trumpets before the ark of God; Obed-edom and Jehiah were doorkeepers for the ark.",
+      "links": "<a href='/AIV/4/10/8-10'>Num. 10:8-10</a>",
+      "comment": "Trumpets signal sacred action and the attention due to God; doorkeepers highlight that some serve by ensuring reverence is maintained."
     },
     {
-      "pk": 1935025,
+      "pk": 13015025,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 15,
       "verse": 25,
-      "text": "So David, the elders of Israel, and the commanders of thousands, went to bring up the ark of the covenant of the Lord from the house of Obed-edom with rejoicing.",
+      "text": "So David, the elders of Israel, and the commanders of thousands went to bring up the ark of the covenant of the LORD from the house of Obed-edom with rejoicing.",
       "links": "<a href='/AIV/10/6/12'>2 Sam. 6:12</a>",
-      "comment": "'Rejoicing' is a literal term here."
+      "comment": "The joint participation of king, elders, and people signifies the harmony of authority and assembly in true worship."
     },
     {
-      "pk": 1935026,
+      "pk": 13015026,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 15,
       "verse": 26,
-      "text": "And because God helped the Levites who were carrying the ark of the covenant of the Lord, they sacrificed seven bulls and seven rams.",
-      "links": "<a href='/AIV/4/23/18'>Num. 23:18</a>",
-      "comment": "'Helped' reflects God's provision; sacrifice details are precise."
+      "text": "Because God helped the Levites who carried the ark of the covenant of the LORD, they sacrificed seven bulls and seven rams.",
+      "links": "<a href='/AIV/19/107/22'>Ps. 107:22</a>; <a href='/AIV/4/23/1'>Num. 23:1</a>",
+      "comment": "Sacrifice accompanies and seals the act of worship; true worship involves offering—a spiritual and material dimension."
     },
     {
-      "pk": 1935027,
+      "pk": 13015027,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 15,
       "verse": 27,
-      "text": "David was clothed with a robe of fine linen, as were all the Levites who carried the ark, the singers, and Kenaniah the leader of the singing. David also wore a linen ephod.",
-      "links": "<a href='/AIV/9/22/18'>1 Sam. 22:18</a>; <a href='/AIV/10/6/14'>2 Sam. 6:14</a>",
-      "comment": "Description of garments is word-for-word."
+      "text": "David was clothed with a robe of fine linen, as were all the Levites who carried the ark, the singers and Kenaniah, the leader of the singing. David also wore a linen ephod.",
+      "links": "<a href='/AIV/10/6/14'>2 Sam. 6:14</a>; <a href='/AIV/2/28/6'>Ex. 28:6</a>",
+      "comment": "The special garments indicate the dignity of worship and that leaders often model humility and reverence before God."
     },
     {
-      "pk": 1935028,
+      "pk": 13015028,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 15,
       "verse": 28,
-      "text": "So all Israel brought up the ark of the covenant of the Lord with shouting, with sound of horns and trumpets, and with cymbals, making music with harps and lyres.",
-      "links": "<a href='/AIV/13/16/42'>1 Chr. 16:42</a>; <a href='/AIV/19/150/3-5'>Ps. 150:3–5</a>",
-      "comment": "All instrument names and terms are literal."
+      "text": "So all Israel brought up the ark of the covenant of the LORD with shouting LAW, with the sound of the horn, trumpets, and cymbals, making music with harps and lyres.",
+      "links": "<a href='/AIV/13/16/1-3'>1 Chr. 16:1-3</a>; <a href='/AIV/19/98/4-6'>Ps. 98:4-6</a>",
+      "comment": "Joyful noise in praise is biblical; full participation by God’s people—body and soul—is highlighted in true worship."
     },
     {
-      "pk": 1935029,
+      "pk": 13015029,
       "translation": "AIV",
       "book": 13,
+      "bookName": "1 Chronicles",
+      "bookAbbreviation": "1Chr",
       "chapter": 15,
       "verse": 29,
-      "text": "As the ark of the covenant of the Lord came to the City of David, Michal the daughter of Saul looked out of the window and saw King David dancing and celebrating; and she despised him in her heart.",
+      "text": "As the ark of the covenant of the LORD came to the city of David, Michal the daughter of Saul looked out through the window, and she saw King David leaping and dancing, and she despised him in her heart.",
       "links": "<a href='/AIV/10/6/16'>2 Sam. 6:16</a>",
-      "comment": "'Despised him in her heart' is word-for-word from the Hebrew."
+      "comment": "Michal's reaction serves as a warning—pride and disdain toward authentic, joyful, and even physical worship can distance one from God’s blessing. David’s holy joy prefigures the word made flesh dwelling amidst His people (John 1:14)."
     }
   ],
-  "translatedAt": "2025-12-22T10:52:44.774Z"
+  "translatedAt": "2025-12-24T04:13:31.456Z"
 }

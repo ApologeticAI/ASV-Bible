@@ -1,68 +1,81 @@
 {
-  "book": "Psalms",
+  "book": 23,
+  "bookName": "Psalms",
   "bookAbbreviation": "Ps",
   "chapter": 128,
   "verses": [
     {
-      "pk": 1280061,
+      "pk": 23128001,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 128,
       "verse": 1,
-      "text": "Blessed is everyone who fears the LORD, who walks in His ways.",
-      "links": "<a href='/AIV/19/112/1'>Psalm 112:1</a>; <a href='/AIV/19/1/1'>Psalm 1:1</a>; <a href='/AIV/20/3/7'>Proverbs 3:7</a>",
-      "comment": "This verse introduces the theme of reverent obedience as the path to blessing. The word 'fear' here has a dual sense of awe and filial respect, reflected throughout Scripture (Proverbs 1:7) and fulfilled in Christ's perfect reverence (Hebrews 5:7)."
+      "text": "Blessed is everyone who fears the LORD, who walks in his ways.",
+      "links": "<a href='/AIV/19/1/1'>Ps. 1:1</a>; <a href='/AIV/19/112/1'>Ps. 112:1</a>; <a href='/AIV/19/119/1'>Ps. 119:1</a>",
+      "comment": "This opening verse sets the theme of blessing for those who revere the LORD and live in obedience. In the Hebrew, 'fears' carries the sense of reverent awe rather than mere terror, implying a relationship of respect and trust. Walking in God's ways echoes the biblical emphasis on living out faith through action (see <a href='/AIV/19/1/1'>Ps. 1:1</a>). The concept of blessing tied to obedience is both literal (physical prosperity) and spiritual (union with God)."
     },
     {
-      "pk": 1280062,
+      "pk": 23128002,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 128,
       "verse": 2,
-      "text": "You will eat the fruit of the labor of your hands; you will be blessed, and it will be well with you.",
-      "links": "<a href='/AIV/19/127/2'>Psalm 127:2</a>; <a href='/AIV/5/28/4'>Deuteronomy 28:4'</a>; <a href='/AIV/23/3/10'>Isaiah 3:10</a>",
-      "comment": "The promise of enjoying the fruits of one's labor echoes the covenant blessings in Deuteronomy 28. The physical blessings anticipate spiritual fulfillment through abiding in Christ (John 15:4–5)."
+      "text": "You will eat the fruit of your labor; you will be blessed and it will be well with you.",
+      "links": "<a href='/AIV/5/28/2-6'>Deut. 28:2-6</a>; <a href='/AIV/19/90/17'>Ps. 90:17</a>",
+      "comment": "This verse promises that faithfulness and diligence will result in enjoying the fruits of one’s own work—a practical, earthly blessing but also hinting at spiritual fulfillment. Compare with <a href='/AIV/5/28/2-6'>Deut. 28:2-6</a> where obedience leads to blessings. Spiritually, this points to the idea that our cooperation with grace has real rewards both here and in eternity."
     },
     {
-      "pk": 1280063,
+      "pk": 23128003,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 128,
       "verse": 3,
-      "text": "Your wife will be like a fruitful vine within your house; your children will be like olive shoots around your table.",
-      "links": "<a href='/AIV/19/52/8'>Psalm 52:8</a>; <a href='/AIV/20/31/10-31'>Proverbs 31:10–31</a>",
-      "comment": "The imagery of the fruitful vine and olive shoots conveys vitality, unity, and lasting blessings in the household. This points to the importance of family within God's design, reflecting the spiritual fruitfulness of the Church and individual believers (Galatians 5:22)."
+      "text": "Your wife will be like a fruitful vine within your house, your children like olive shoots around your table.",
+      "links": "<a href='/AIV/19/52/8'>Ps. 52:8</a>; <a href='/AIV/20/31/10-31'>Prov. 31:10-31</a>",
+      "comment": "The vine and olive tree are symbols of prosperity, peace, and covenant blessing. The image of the faithful spouse and fruitful children echoes the biblical view of family as a covenantal blessing, foreshadowing the faithful as the spiritual family of God. The spiritual sense reads this as an image of the household of faith flourishing around the table, recalling sacred feasts and the importance of unity."
     },
     {
-      "pk": 1280064,
+      "pk": 23128004,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 128,
       "verse": 4,
-      "text": "See, thus shall the man be blessed who fears the LORD.",
-      "links": "<a href='/AIV/19/112/2'>Psalm 112:2</a>; <a href='/AIV/20/14/26'>Proverbs 14:26</a>",
-      "comment": "The verse restates the blessing linked with fearing the Lord, forming an inclusio to emphasize its certainty. This spiritual reality finds its ultimate expression in the beatitudes Jesus taught (Matthew 5:1-12)."
+      "text": "Behold, thus shall the man be blessed who fears the LORD.",
+      "links": "<a href='/AIV/19/127/3-5'>Ps. 127:3-5</a>; <a href='/AIV/19/1/1-3'>Ps. 1:1-3</a>",
+      "comment": "This verse summarizes the previous promises, reaffirming that reverent worship and obedience bring divine favor. The language points to the beatitude tradition seen throughout the Psalms and eventually fulfilled by Christ in the Sermon on the Mount (<a href='/AIV/40/5/3-12'>Matt. 5:3-12</a>)."
     },
     {
-      "pk": 1280065,
+      "pk": 23128005,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 128,
       "verse": 5,
-      "text": "The LORD bless you from Zion! May you see the prosperity of Jerusalem all the days of your life.",
-      "links": "<a href='/AIV/19/134/3'>Psalm 134:3</a>; <a href='/AIV/23/65/20-22'>Isaiah 65:20–22</a>",
-      "comment": "Blessing 'from Zion' holds deep significance, as Zion is both the earthly center of worship and foreshadowing the heavenly Jerusalem (Hebrews 12:22). This has literal and spiritual implications: believers look forward to the fullness of blessing mediated through the New Covenant and gathered worship."
+      "text": "May the LORD bless you from Zion; may you see the prosperity of Jerusalem all the days of your life.",
+      "links": "<a href='/AIV/19/134/3'>Ps. 134:3</a>; <a href='/AIV/19/122/6'>Ps. 122:6</a>",
+      "comment": "Blessing from Zion draws together personal and communal dimensions of faith: personal blessing overflows as part of God's plan through his chosen city. Jerusalem’s well-being is closely tied with God’s favor, and in Christian interpretation, Jerusalem often prefigures the heavenly city (<a href='/AIV/66/21/2'>Rev. 21:2</a>), a vision completed in Christ as the new temple."
     },
     {
-      "pk": 1280066,
+      "pk": 23128006,
       "translation": "AIV",
-      "book": 19,
+      "book": 23,
+      "bookName": "Psalms",
+      "bookAbbreviation": "Ps",
       "chapter": 128,
       "verse": 6,
-      "text": "May you see your children's children! Peace be upon Israel!",
-      "links": "<a href='/AIV/19/125/5'>Psalm 125:5</a>; <a href='/AIV/1/50/23'>Genesis 50:23</a>; <a href='/AIV/19/122/6'>Psalm 122:6</a>",
-      "comment": "Witnessing sons’ sons is an expression of generational blessing and continuity, a concept highly valued in Scripture (Genesis 50:23). The prayer for peace upon Israel links personal blessing to the communal flourishing of God’s people, echoing the spiritual peace brought by the Messiah (John 14:27; Romans 5:1)."
+      "text": "May you see your children's children. Peace be upon Israel!",
+      "links": "<a href='/AIV/5/6/2'>Deut. 6:2</a>; <a href='/AIV/19/125/5'>Ps. 125:5</a>",
+      "comment": "Longevity to see descendants is the crowning blessing, reflecting the value placed on generational heritage. The closing invocation for peace upon Israel is both literal and spiritual: ‘peace’ (shalom) suggests completeness, security, and well-being. In the spiritual sense, Israel symbolizes the gathered people of God, future hope for all faithful believers. This echoes the Pauline teaching on the unified people of God (<a href='/AIV/45/11/26'>Rom. 11:26</a>), hinting at the enduring unity and universality of God’s blessing."
     }
   ],
-  "translatedAt": "2025-12-23T05:47:14.839Z"
+  "translatedAt": "2025-12-24T06:43:43.743Z"
 }

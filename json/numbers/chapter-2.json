@@ -1,348 +1,417 @@
 {
-  "book": "Numbers",
+  "book": 4,
+  "bookName": "Numbers",
   "bookAbbreviation": "Num",
   "chapter": 2,
   "verses": [
     {
-      "pk": 3482001,
+      "pk": 4002001,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 2,
       "verse": 1,
       "text": "The LORD spoke to Moses and to Aaron, saying:",
-      "links": "<a href='/AIV/2/6/14'>Exod. 6:14</a>; <a href='/AIV/4/1/1'>Num. 1:1</a>",
-      "comment": "This closely matches the Hebrew; 'The LORD' renders the Tetragrammaton (YHWH) as per standard practice."
+      "links": "<a href='/AIV/3/1/1'>Lev. 1:1</a>",
+      "comment": "God continues to speak directly to Moses and Aaron, showing his chosen pattern of leadership for guiding His people, hinting toward the importance of divinely appointed leadership in the faith community."
     },
     {
-      "pk": 3482002,
+      "pk": 4002002,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 2,
       "verse": 2,
       "text": "The people of Israel shall camp, each by his own standard, with the banners of their fathers’ houses. They shall camp facing the tent of meeting on every side.",
-      "links": "<a href='/AIV/4/1/52'>Num. 1:52</a>; <a href='/AIV/4/10/14'>Num. 10:14</a>",
-      "comment": "Rendered 'standard' and 'banners' as literal to reflect the tribal ensigns."
+      "links": "<a href='/AIV/4/1/52'>Num. 1:52</a>; <a href='/AIV/4/2/34'>Num. 2:34</a>",
+      "comment": "The arrangement underscores the centrality of worship and the presence of God among His people: all tribes are oriented towards the sanctuary—prefiguring Christ as the true center of God's people (John 1:14)."
     },
     {
-      "pk": 3482003,
+      "pk": 4002003,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 2,
       "verse": 3,
-      "text": "Those who camp on the east side, toward the sunrise, shall be of the standard of the camp of Judah by their divisions. The leader of the sons of Judah shall be Nahshon the son of Amminadab,",
-      "links": "<a href='/AIV/4/1/7'>Num. 1:7</a>; <a href='/AIV/4/7/12'>Num. 7:12</a>",
-      "comment": "‘Toward the sunrise’ explicitly translates the direction (literally, ‘east’ in Hebrew)."
+      "text": "Those who camp on the east side, toward the sunrise, shall be the standard of the camp of Judah by their armies. The leader of the people of Judah shall be Nahshon the son of Amminadab.",
+      "links": "<a href='/AIV/4/1/7'>Num. 1:7</a>; <a href='/AIV/40/1/2-3'>Matt. 1:2-3</a>",
+      "comment": "Judah is given a position of honor, facing the sunrise. Judah’s prominence points forward to the Messiah coming from this tribe (Genesis 49:10; Matthew 1:2-3)."
     },
     {
-      "pk": 3482004,
+      "pk": 4002004,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 2,
       "verse": 4,
-      "text": "and his company, as listed by their names, were seventy-four thousand six hundred.",
+      "text": "And his army, those numbered of them, were 74,600.",
       "links": "<a href='/AIV/4/1/27'>Num. 1:27</a>",
-      "comment": "‘Company’ translates the Hebrew ‘tz’va’am’, often 'hosts' or 'divisions'."
+      "comment": "Numbers are repeated from chapter 1. Accurate records reveal God's orderliness and care for His people."
     },
     {
-      "pk": 3482005,
+      "pk": 4002005,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 2,
       "verse": 5,
-      "text": "And those camping next to him shall be the tribe of Issachar. The leader of the sons of Issachar shall be Nethanel the son of Zuar,",
+      "text": "Those camping next to him shall be the tribe of Issachar. The leader of the people of Issachar shall be Nethanel the son of Zuar.",
       "links": "<a href='/AIV/4/1/8'>Num. 1:8</a>",
-      "comment": "The original has 'next to him' - rendered closely."
+      "comment": "Issachar accompanies Judah, stressing unity among the tribes, and indicating the importance of close association with spiritual leadership."
     },
     {
-      "pk": 3482006,
+      "pk": 4002006,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 2,
       "verse": 6,
-      "text": "and his company, as listed, were fifty-four thousand four hundred.",
+      "text": "And his army, those numbered of them, were 54,400.",
       "links": "<a href='/AIV/4/1/29'>Num. 1:29</a>",
-      "comment": "Text follows the enumeration in the census."
+      "comment": "A continuation of the orderly accounting of God’s people, each tribe recognized and counted."
     },
     {
-      "pk": 3482007,
+      "pk": 4002007,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 2,
       "verse": 7,
-      "text": "Then the tribe of Zebulun. The leader of the sons of Zebulun shall be Eliab the son of Helon,",
+      "text": "Then the tribe of Zebulun. The leader of the people of Zebulun shall be Eliab the son of Helon.",
       "links": "<a href='/AIV/4/1/9'>Num. 1:9</a>",
-      "comment": "Literal rendering of tribal order."
+      "comment": "Zebulun is included on the east side, close to Judah, maintaining family and tribal connections as God’s chosen structure."
     },
     {
-      "pk": 3482008,
+      "pk": 4002008,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 2,
       "verse": 8,
-      "text": "and his company, as listed, were fifty-seven thousand four hundred.",
+      "text": "And his army, those numbered of them, were 57,400.",
       "links": "<a href='/AIV/4/1/31'>Num. 1:31</a>",
-      "comment": "Follows the numbering as in the census."
+      "comment": "Each tribe is carefully counted, continuing the motif of order and community."
     },
     {
-      "pk": 3482009,
+      "pk": 4002009,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 2,
       "verse": 9,
-      "text": "All those listed of the camp of Judah, by their divisions, were one hundred eighty-six thousand four hundred. They shall set out first on the march.",
+      "text": "All those numbered of the camp of Judah, by their armies, were 186,400. They shall set out first on the march.",
       "links": "<a href='/AIV/4/10/14'>Num. 10:14</a>",
-      "comment": "‘Set out first’—lit. go out in the lead; stays very close to Hebrew."
+      "comment": "Judah leads the procession, foreshadowing leadership and kingship promised to Judah’s line (Genesis 49:10), ultimately fulfilled in Christ the King."
     },
     {
-      "pk": 3482010,
+      "pk": 4002010,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 2,
       "verse": 10,
-      "text": "On the south side shall be the standard of the camp of Reuben by their divisions. The leader of the sons of Reuben shall be Elizur the son of Shedeur,",
+      "text": "On the south side shall be the standard of the camp of Reuben by their armies. The leader of the people of Reuben shall be Elizur the son of Shedeur.",
       "links": "<a href='/AIV/4/1/5'>Num. 1:5</a>",
-      "comment": "‘South side’ renders the Hebrew 'teman'."
+      "comment": "Reuben, firstborn of Jacob, has a prominent position, but not the preeminent one. God’s order often differs from human expectations."
     },
     {
-      "pk": 3482011,
+      "pk": 4002011,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 2,
       "verse": 11,
-      "text": "and his company, as listed, were forty-six thousand five hundred.",
+      "text": "And his army, those numbered of them, were 46,500.",
       "links": "<a href='/AIV/4/1/21'>Num. 1:21</a>",
-      "comment": "Census number for Reuben."
+      "comment": "Precise counts serve God’s greater plan and organization for His people."
     },
     {
-      "pk": 3482012,
+      "pk": 4002012,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 2,
       "verse": 12,
-      "text": "And those who camp next to him shall be the tribe of Simeon. The leader of the sons of Simeon shall be Shelumiel the son of Zurishaddai,",
+      "text": "And those who camp next to him shall be the tribe of Simeon. The leader of the people of Simeon shall be Shelumiel the son of Zurishaddai.",
       "links": "<a href='/AIV/4/1/6'>Num. 1:6</a>",
-      "comment": "Follows order of tribes as listed in the Hebrew."
+      "comment": "Simeon’s positioning alongside Reuben shows continuity with their family heritage, recalling the blessings and warnings of Genesis 49."
     },
     {
-      "pk": 3482013,
+      "pk": 4002013,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 2,
       "verse": 13,
-      "text": "and his company, as listed, were fifty-nine thousand three hundred.",
+      "text": "And his army, those numbered of them, were 59,300.",
       "links": "<a href='/AIV/4/1/23'>Num. 1:23</a>",
-      "comment": "Literal enumeration."
+      "comment": "Each tribe contributes to the nation’s strength and purpose."
     },
     {
-      "pk": 3482014,
+      "pk": 4002014,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 2,
       "verse": 14,
-      "text": "Then the tribe of Gad. The leader of the sons of Gad shall be Eliasaph the son of Deuel,",
+      "text": "Then the tribe of Gad. The leader of the people of Gad shall be Eliasaph the son of Deuel.",
       "links": "<a href='/AIV/4/1/14'>Num. 1:14</a>",
-      "comment": "Preserves order and names."
+      "comment": "Gad completes the order on the south, each tribe united under a divinely appointed leader."
     },
     {
-      "pk": 3482015,
+      "pk": 4002015,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 2,
       "verse": 15,
-      "text": "and his company, as listed, were forty-five thousand six hundred fifty.",
+      "text": "And his army, those numbered of them, were 45,650.",
       "links": "<a href='/AIV/4/1/25'>Num. 1:25</a>",
-      "comment": "Literal census figure."
+      "comment": "Each number underscores the significance and value of every tribe in God’s family."
     },
     {
-      "pk": 3482016,
+      "pk": 4002016,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 2,
       "verse": 16,
-      "text": "All those listed of the camp of Reuben, by their divisions, were one hundred fifty-one thousand four hundred fifty. They shall set out second.",
+      "text": "All those numbered of the camp of Reuben by their armies were 151,450. They shall set out second.",
       "links": "<a href='/AIV/4/10/18'>Num. 10:18</a>",
-      "comment": "'Set out second' as in the Hebrew (lit. 'they shall move forward second')."
+      "comment": "Orderliness in movement reflects God’s desire for unity and harmony among His people."
     },
     {
-      "pk": 3482017,
+      "pk": 4002017,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 2,
       "verse": 17,
-      "text": "Then the tent of meeting shall set out with the camp of the Levites in the midst of the camps. As they camp, so they shall set out, each in order, standard by standard.",
+      "text": "Then the tent of meeting shall set out, with the camp of the Levites in the middle of the camps. As they camp, so shall they set out, each in position, standard by standard.",
       "links": "<a href='/AIV/4/1/50'>Num. 1:50</a>; <a href='/AIV/4/10/17'>Num. 10:17</a>",
-      "comment": "‘Standard by standard’ means banner by banner; kept literal."
+      "comment": "The Levites and the tent of meeting at the center point to the spiritual heart of God's community. The presence of God is centralized—a pattern fulfilled in Christ, the true tabernacle (John 1:14; Heb. 9:11-12)."
     },
     {
-      "pk": 3482018,
+      "pk": 4002018,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 2,
       "verse": 18,
-      "text": "On the west side shall be the standard of the camp of Ephraim by their divisions. The leader of the sons of Ephraim shall be Elishama the son of Ammihud,",
+      "text": "On the west side shall be the standard of the camp of Ephraim by their armies. The leader of the people of Ephraim shall be Elishama the son of Ammihud.",
       "links": "<a href='/AIV/4/1/10'>Num. 1:10</a>",
-      "comment": "‘West side’ renders Hebrew ‘yama’."
+      "comment": "Ephraim is given a strategic, significant place—reflecting God’s sovereignty in allocating roles according to His purpose."
     },
     {
-      "pk": 3482019,
+      "pk": 4002019,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 2,
       "verse": 19,
-      "text": "and his company, as listed, were forty thousand five hundred.",
+      "text": "And his army, those numbered of them, were 40,500.",
       "links": "<a href='/AIV/4/1/33'>Num. 1:33</a>",
-      "comment": "Literal census statistic."
+      "comment": "Another example of careful enumeration, reinforcing community and accountability."
     },
     {
-      "pk": 3482020,
+      "pk": 4002020,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 2,
       "verse": 20,
-      "text": "And next to him shall be the tribe of Manasseh. The leader of the sons of Manasseh shall be Gamaliel the son of Pedahzur,",
+      "text": "Next to him shall be the tribe of Manasseh. The leader of the people of Manasseh shall be Gamaliel the son of Pedahzur.",
       "links": "<a href='/AIV/4/1/10'>Num. 1:10</a>",
-      "comment": "‘Next to him’ follows Hebrew word order."
+      "comment": "Ephraim and Manasseh, Joseph’s sons, are joined together, signifying family unity, and God’s faithfulness to His promises."
     },
     {
-      "pk": 3482021,
+      "pk": 4002021,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 2,
       "verse": 21,
-      "text": "and his company, as listed, were thirty-two thousand two hundred.",
+      "text": "And his army, those numbered of them, were 32,200.",
       "links": "<a href='/AIV/4/1/35'>Num. 1:35</a>",
-      "comment": "Enumeration matches the census."
+      "comment": "Diligent numbering signifies value and order among God’s chosen people."
     },
     {
-      "pk": 3482022,
+      "pk": 4002022,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 2,
       "verse": 22,
-      "text": "Then the tribe of Benjamin. The leader of the sons of Benjamin shall be Abidan the son of Gideoni,",
+      "text": "Then the tribe of Benjamin. The leader of the people of Benjamin shall be Abidan the son of Gideoni.",
       "links": "<a href='/AIV/4/1/11'>Num. 1:11</a>",
-      "comment": "Follows the original list."
+      "comment": "Benjamin is closely associated with Ephraim and Manasseh, symbolizing fraternity and completeness among the tribes."
     },
     {
-      "pk": 3482023,
+      "pk": 4002023,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 2,
       "verse": 23,
-      "text": "and his company, as listed, were thirty-five thousand four hundred.",
+      "text": "And his army, those numbered of them, were 35,400.",
       "links": "<a href='/AIV/4/1/37'>Num. 1:37</a>",
-      "comment": "Literal rendering."
+      "comment": "God’s faithfulness to Abraham’s descendants is shown in their continued growth and order."
     },
     {
-      "pk": 3482024,
+      "pk": 4002024,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 2,
       "verse": 24,
-      "text": "All those listed of the camp of Ephraim, by their divisions, were one hundred eight thousand one hundred. They shall set out third.",
+      "text": "All those numbered of the camp of Ephraim by their armies were 108,100. They shall set out third.",
       "links": "<a href='/AIV/4/10/22'>Num. 10:22</a>",
-      "comment": "‘Set out third’ matches Hebrew syntax."
+      "comment": "The numerical order aligns with God’s plan for the formation and journey of His people."
     },
     {
-      "pk": 3482025,
+      "pk": 4002025,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 2,
       "verse": 25,
-      "text": "On the north side shall be the standard of the camp of Dan by their divisions. The leader of the sons of Dan shall be Ahiezer the son of Ammishaddai,",
+      "text": "On the north side shall be the standard of the camp of Dan by their armies. The leader of the people of Dan shall be Ahiezer the son of Ammishaddai.",
       "links": "<a href='/AIV/4/1/12'>Num. 1:12</a>",
-      "comment": "‘North side’ is literal."
+      "comment": "Dan’s place on the north signals both protection and watchfulness, upholding the completeness of Israel."
     },
     {
-      "pk": 3482026,
+      "pk": 4002026,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 2,
       "verse": 26,
-      "text": "and his company, as listed, were sixty-two thousand seven hundred.",
+      "text": "And his army, those numbered of them, were 62,700.",
       "links": "<a href='/AIV/4/1/39'>Num. 1:39</a>",
-      "comment": ""
+      "comment": "Meticulous numbers reveal how all are accounted for in God’s plan, a theme fulfilled in Christ’s gathering of all nations."
     },
     {
-      "pk": 3482027,
+      "pk": 4002027,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 2,
       "verse": 27,
-      "text": "And those who camp next to him shall be the tribe of Asher. The leader of the sons of Asher shall be Pagiel the son of Ochran,",
+      "text": "And those who camp next to him shall be the tribe of Asher. The leader of the people of Asher shall be Pagiel the son of Ochran.",
       "links": "<a href='/AIV/4/1/13'>Num. 1:13</a>",
-      "comment": ""
+      "comment": "Dan, Asher, and Naphtali camp together, highlighting God’s structured community, with strong bonds among tribes."
     },
     {
-      "pk": 3482028,
+      "pk": 4002028,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 2,
       "verse": 28,
-      "text": "and his company, as listed, were forty-one thousand five hundred.",
+      "text": "And his army, those numbered of them, were 41,500.",
       "links": "<a href='/AIV/4/1/41'>Num. 1:41</a>",
-      "comment": ""
+      "comment": "Each tribe is honored and given its due place, mirroring the diversity and unity of the faithful in the Body of Christ (1 Cor. 12:12)."
     },
     {
-      "pk": 3482029,
+      "pk": 4002029,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 2,
       "verse": 29,
-      "text": "Then the tribe of Naphtali. The leader of the sons of Naphtali shall be Ahira the son of Enan,",
+      "text": "Then the tribe of Naphtali. The leader of the people of Naphtali shall be Ahira the son of Enan.",
       "links": "<a href='/AIV/4/1/15'>Num. 1:15</a>",
-      "comment": ""
+      "comment": "Naphtali completes the order on the north, all tribes represented, affirming the fullness of God’s promises."
     },
     {
-      "pk": 3482030,
+      "pk": 4002030,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 2,
       "verse": 30,
-      "text": "and his company, as listed, were fifty-three thousand four hundred.",
+      "text": "And his army, those numbered of them, were 53,400.",
       "links": "<a href='/AIV/4/1/43'>Num. 1:43</a>",
-      "comment": ""
+      "comment": "God’s accounting reinforces the dignity of each tribe and the unity of the whole community."
     },
     {
-      "pk": 3482031,
+      "pk": 4002031,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 2,
       "verse": 31,
-      "text": "All those listed of the camp of Dan, by their divisions, were one hundred fifty-seven thousand six hundred. They shall set out last, standard by standard.",
+      "text": "All those numbered of the camp of Dan were 157,600. They shall set out last, with their standards.",
       "links": "<a href='/AIV/4/10/25'>Num. 10:25</a>",
-      "comment": "'Set out last' and 'standard by standard' kept literal to match the Hebrew."
+      "comment": "Dan’s role as rearguard demonstrates the protective order of God’s community, all united with common purpose."
     },
     {
-      "pk": 3482032,
+      "pk": 4002032,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 2,
       "verse": 32,
-      "text": "These are those of the people of Israel, as listed by their fathers’ houses. All those listed in the camps, by their divisions, were six hundred three thousand five hundred fifty.",
+      "text": "These are the people of Israel by their fathers’ houses. All those numbered of the camps by their armies were 603,550.",
       "links": "<a href='/AIV/4/1/46'>Num. 1:46</a>",
-      "comment": "Reflects final census total of all tribes except Levites."
+      "comment": "The total mirrors the census earlier in Numbers, showing continuity and emphasizing the fullness of God’s chosen nation."
     },
     {
-      "pk": 3482033,
+      "pk": 4002033,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 2,
       "verse": 33,
-      "text": "But the Levites were not listed among the people of Israel, as the LORD commanded Moses.",
-      "links": "<a href='/AIV/4/1/49'>Num. 1:49</a>",
-      "comment": "Explicit note that Levites were excluded, as in the Hebrew."
+      "text": "But the Levites were not numbered among the people of Israel, as the LORD commanded Moses.",
+      "links": "<a href='/AIV/4/1/47-53'>Num. 1:47-53</a>",
+      "comment": "Levites are set apart for sacred service, a priestly ministry that foreshadows the priesthood of Christ and His appointed ministers (Heb. 7:23-28; 1 Pet. 2:5)."
     },
     {
-      "pk": 3482034,
+      "pk": 4002034,
       "translation": "AIV",
       "book": 4,
+      "bookName": "Numbers",
+      "bookAbbreviation": "Num",
       "chapter": 2,
       "verse": 34,
-      "text": "Thus the people of Israel did. According to all that the LORD commanded Moses, so they camped by their standards, and so they set out, each one by his clan, according to his fathers’ house.",
-      "links": "<a href='/AIV/4/1/54'>Num. 1:54</a>; <a href='/AIV/4/9/23'>Num. 9:23</a>",
-      "comment": "Preserves word order; ‘standards’ is literal for banners or ensigns."
+      "text": "Thus the people of Israel did according to all that the LORD commanded Moses. So they camped by their standards, and so they set out, each one by their clans, according to their fathers’ houses.",
+      "links": "<a href='/AIV/4/1/54'>Num. 1:54</a>; <a href='/AIV/2/40/16'>Ex. 40:16</a>",
+      "comment": "Israel’s faithful obedience signals God’s desire for orderly worship, community, and unity—an early form of spiritual discipline central to the life of faith, ultimately gathered around Christ."
     }
   ],
-  "translatedAt": "2025-12-20T09:24:32.896Z"
+  "translatedAt": "2025-12-24T01:28:41.341Z"
 }

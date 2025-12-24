@@ -1,188 +1,225 @@
 {
-  "book": "Exodus",
+  "book": 2,
+  "bookName": "Exodus",
   "bookAbbreviation": "Exod",
   "chapter": 31,
   "verses": [
     {
-      "pk": 10431001,
+      "pk": 2031001,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 31,
       "verse": 1,
       "text": "The LORD spoke to Moses, saying,",
-      "links": "<a href='/AIV/2/24/12'>Ex. 24:12</a>",
-      "comment": "Introduction of God's address to Moses. Follows standard formula in Exodus."
+      "links": "<a href='/AIV/2/25/1'>Exod. 25:1</a>; <a href='/AIV/3/1/1'>Lev. 1:1</a>",
+      "comment": "This marks another direct communication from God to Moses, continuing the instructions for the Tabernacle. See similar directives at Exod. 25:1."
     },
     {
-      "pk": 10431002,
+      "pk": 2031002,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 31,
       "verse": 2,
-      "text": "\"See, I have called by name Bezalel the son of Uri, son of Hur, of the tribe of Judah.",
-      "links": "<a href='/AIV/2/35/30'>Ex. 35:30</a>; <a href='/AIV/2/36/1'>Ex. 36:1</a>",
-      "comment": "Bezalel is designated as the chosen craftsman. Name structure as in the original."
+      "text": "\"See, I have called by name Bezalel the son of Uri, the son of Hur, of the tribe of Judah.",
+      "links": "<a href='/AIV/2/35/30'>Exod. 35:30</a>",
+      "comment": "God chooses Bezalel by name, emphasizing divine initiative in appointing skilled servants for sacred service. Reference: Exod. 35:30."
     },
     {
-      "pk": 10431003,
+      "pk": 2031003,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 31,
       "verse": 3,
-      "text": "And I have filled him with the Spirit of God, with wisdom, with understanding, with knowledge, and with all kinds of craftsmanship,",
-      "links": "<a href='/AIV/2/28/3'>Ex. 28:3</a>; <a href='/AIV/2/35/31'>Ex. 35:31</a>",
-      "comment": "The Spirit of God is understood as divine empowerment for skilled work."
+      "text": "And I have filled him with the Spirit of God, with wisdom, understanding, and knowledge, and with all kinds of craftsmanship,",
+      "links": "<a href='/AIV/2/35/31'>Exod. 35:31</a>; <a href='/AIV/23/11/2'>Isa. 11:2</a>",
+      "comment": "Bezalel's empowerment by the Spirit echoes the gifts given for sacred tasks, prefiguring spiritual gifts seen elsewhere (Isa. 11:2). Crafts are divinely inspired for worship."
     },
     {
-      "pk": 10431004,
+      "pk": 2031004,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 31,
       "verse": 4,
-      "text": "to create artistic designs, to work in gold, silver, and bronze,",
-      "links": "<a href='/AIV/2/35/32'>Ex. 35:32</a>",
-      "comment": "Crafts include metalwork and artistic design as specified for the tabernacle."
+      "text": "to design artistic works, to work in gold, silver, and bronze,",
+      "links": "<a href='/AIV/2/25/3'>Exod. 25:3</a>",
+      "comment": "The precious materials are the same as those specified for holy use earlier (Exod. 25:3); artistry is for the glory of God’s dwelling."
     },
     {
-      "pk": 10431005,
+      "pk": 2031005,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 31,
       "verse": 5,
-      "text": "in cutting stones for setting, and in carving wood, to work in all kinds of craftsmanship.",
-      "links": "<a href='/AIV/2/28/9-11'>Ex. 28:9–11</a>",
-      "comment": "Continues listing different crafts; 'cutting stones for setting' refers to gemstone work."
+      "text": "and in cutting stones for engraving, and in carving wood, to work in every craft.",
+      "links": "<a href='/AIV/13/22/15'>1 Chr. 22:15</a>",
+      "comment": "Compare to other craftsmen in temple construction (1 Chr. 22:15). The diversity of skills highlights the richness of liturgical worship."
     },
     {
-      "pk": 10431006,
+      "pk": 2031006,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 31,
       "verse": 6,
-      "text": "And I have appointed with him Oholiab, the son of Ahisamach, of the tribe of Dan. And I have given skill to all the craftsmen, so that they may make everything I have commanded you:",
-      "links": "<a href='/AIV/2/35/34'>Ex. 35:34</a>",
-      "comment": "Lists Oholiab as co-leader; acknowledges broader group of craftsmen."
+      "text": "And I have chosen Oholiab, the son of Ahisamach, of the tribe of Dan; and I have given skill to all the craftsmen, so they may make all that I have commanded you:",
+      "links": "<a href='/AIV/2/38/23'>Exod. 38:23</a>",
+      "comment": "God appoints not only leaders but many skilled workers, showing the need for visible unity and cooperation in sacred service."
     },
     {
-      "pk": 10431007,
+      "pk": 2031007,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 31,
       "verse": 7,
       "text": "the tent of meeting, the ark of the testimony, the mercy seat that is on it, and all the furnishings of the tent,",
-      "links": "<a href='/AIV/2/25/10-22'>Ex. 25:10–22</a>",
-      "comment": "Refers specifically to the tabernacle and its key items."
+      "links": "<a href='/AIV/2/25/10-22'>Exod. 25:10–22</a>",
+      "comment": "These objects make up the center of Israelite worship, prefiguring later fulfillment of God’s dwelling among His people. The mercy seat foreshadows the concept of grace and atonement (Exod. 25:17–22)."
     },
     {
-      "pk": 10431008,
+      "pk": 2031008,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 31,
       "verse": 8,
-      "text": "the table and its utensils, the pure lampstand with all its utensils, the altar of incense,",
-      "links": "<a href='/AIV/2/25/23-40'>Ex. 25:23–40</a>",
-      "comment": "List of sacred objects continues."
+      "text": "the table and its utensils, the pure gold lampstand with all its equipment, the altar of incense,",
+      "links": "<a href='/AIV/2/25/23-40'>Exod. 25:23–40</a>; <a href='/AIV/2/30/1'>Exod. 30:1</a>",
+      "comment": "The lampstand and incense altar are key symbols, signifying light and prayer. Compare lampstand in Rev. 1:12–13 representing the presence of God with His people."
     },
     {
-      "pk": 10431009,
+      "pk": 2031009,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 31,
       "verse": 9,
-      "text": "the altar of burnt offering with all its utensils, the basin and its stand,",
-      "links": "<a href='/AIV/2/27/1-8'>Ex. 27:1–8</a>; <a href='/AIV/2/30/18'>Ex. 30:18</a>",
-      "comment": "Continues listing key items for worship."
+      "text": "the altar of burnt offering with all its utensils, the basin with its stand,",
+      "links": "<a href='/AIV/2/27/1-8'>Exod. 27:1–8</a>; <a href='/AIV/2/30/18'>Exod. 30:18</a>",
+      "comment": "Burnt offerings and washings point to purification needed to approach God—later fulfilled more perfectly in Christ's sacrifice (Heb. 9:13–14)."
     },
     {
-      "pk": 10431010,
+      "pk": 2031010,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 31,
       "verse": 10,
-      "text": "the finely woven garments—the holy garments for Aaron the priest, and the garments of his sons, for their service as priests,",
-      "links": "<a href='/AIV/2/28/2-4'>Ex. 28:2–4</a>",
-      "comment": "'Finely woven' reflects the meaning of 'woven' and 'of skill.'"
+      "text": "the finely woven garments, the holy garments for Aaron the priest and for his sons to serve as priests,",
+      "links": "<a href='/AIV/2/28/2-4'>Exod. 28:2–4</a>",
+      "comment": "Priestly garments set Aaron and his sons apart for sacred ministry. These point to a divinely instituted priesthood (Exod. 28:2–4; Heb. 5:1–4)."
     },
     {
-      "pk": 10431011,
+      "pk": 2031011,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 31,
       "verse": 11,
-      "text": "the anointing oil and the fragrant incense for the Holy Place. They must do all that I have commanded you.\"",
-      "links": "<a href='/AIV/2/30/22-38'>Ex. 30:22–38</a>",
-      "comment": "Concludes the list of objects and materials."
+      "text": "the anointing oil, and the fragrant incense for the sanctuary. They shall make them according to all that I have commanded you.\"",
+      "links": "<a href='/AIV/2/30/22-38'>Exod. 30:22–38</a>",
+      "comment": "The anointing oil and incense represent consecration and the prayers of the people, connecting worshipers with the divine (compare Ps. 141:2, Rev. 5:8)."
     },
     {
-      "pk": 10431012,
+      "pk": 2031012,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 31,
       "verse": 12,
-      "text": "And the LORD said to Moses,",
-      "links": "",
-      "comment": "New section: the Sabbath command."
+      "text": "The LORD said to Moses,",
+      "links": "<a href='/AIV/2/24/12'>Exod. 24:12</a>",
+      "comment": "God provides further divine instructions. This continued dialogue points to an authoritative transmission of divine law."
     },
     {
-      "pk": 10431013,
+      "pk": 2031013,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 31,
       "verse": 13,
-      "text": "\"Speak also to the Israelites, saying: 'You must surely keep my Sabbaths, for this is a sign between me and you throughout your generations, so that you may know that I am the LORD who sanctifies you.",
-      "links": "<a href='/AIV/2/20/8-11'>Ex. 20:8–11</a>; <a href='/AIV/3/19/30'>Lev. 19:30</a>",
-      "comment": "'You must surely keep' translates an emphatic Hebrew construction."
+      "text": "\"Speak also to the Israelites, saying: 'Above all, you shall keep my Sabbaths, for this is a sign between me and you throughout your generations, that you may know that I am the LORD who sanctifies you.",
+      "links": "<a href='/AIV/2/20/8-11'>Exod. 20:8–11</a>; <a href='/AIV/26/20/12'>Ezek. 20:12</a>",
+      "comment": "The Sabbath is everlasting sign of covenant and sanctification by God. Sanctification is God’s work, not merely human effort. Also referenced in Exod. 20:8–11; Ezek. 20:12."
     },
     {
-      "pk": 10431014,
+      "pk": 2031014,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 31,
       "verse": 14,
-      "text": "Therefore you must keep the Sabbath, for it is holy to you. Everyone who profanes it must surely be put to death, for whoever does any work on it—that person must be cut off from among his people.",
-      "links": "<a href='/AIV/4/15/32-36'>Num. 15:32–36</a>",
-      "comment": "Literal translation of severe penalty; 'cut off' can mean excommunication or execution."
+      "text": "Therefore, you shall keep the Sabbath, for it is holy to you. Everyone who profanes it shall surely be put to death; whoever does any work on that day, that person shall be cut off from among his people.",
+      "links": "<a href='/AIV/2/35/2'>Exod. 35:2</a>",
+      "comment": "Sabbath law is strictly enforced, emphasizing the seriousness of sacred times. This sets the precedent for distinguishing days and times as holy (Exod. 35:2)."
     },
     {
-      "pk": 10431015,
+      "pk": 2031015,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 31,
       "verse": 15,
-      "text": "Six days shall work be done, but on the seventh day is a Sabbath of complete rest, holy to the LORD. Whoever does any work on the Sabbath day must surely be put to death.",
-      "links": "<a href='/AIV/2/20/9-10'>Ex. 20:9–10</a>",
-      "comment": "'Complete rest' translates Hebrew Shabbat Shabbaton."
+      "text": "Six days work shall be done, but the seventh day is a Sabbath of solemn rest, holy to the LORD. Whoever does any work on the Sabbath day shall surely be put to death.",
+      "links": "<a href='/AIV/2/20/9-10'>Exod. 20:9–10</a>; <a href='/AIV/3/23/3'>Lev. 23:3</a>",
+      "comment": "Rest on the seventh day highlights both creation’s rhythm and God’s authority over time. A holy rhythm is given for worship and rest."
     },
     {
-      "pk": 10431016,
+      "pk": 2031016,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 31,
       "verse": 16,
-      "text": "Therefore the Israelites must keep the Sabbath, to observe the Sabbath throughout their generations as a covenant forever.",
-      "links": "<a href='/AIV/2/31/13'>v. 13</a>",
-      "comment": "Covenant aspect of Sabbath is emphasized."
+      "text": "Therefore, the Israelites shall keep the Sabbath, observing the Sabbath throughout their generations as a perpetual covenant.",
+      "links": "<a href='/AIV/2/31/13'>Exod. 31:13</a>",
+      "comment": "The perpetual nature of Sabbath connects to the unbroken continuity of the covenant. It hints at enduring sacred observances that transcend generations, prefiguring Christ rising on the first day of the week."
     },
     {
-      "pk": 10431017,
+      "pk": 2031017,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 31,
       "verse": 17,
-      "text": "It is a sign forever between me and the Israelites. For in six days the LORD made heaven and earth, but on the seventh day he rested and was refreshed.\"",
-      "links": "<a href='/AIV/1/2/2-3'>Gen. 2:2–3</a>",
-      "comment": "'Was refreshed' is a literal translation of 'took a breath.'"
+      "text": "It is a sign forever between me and the Israelites. For in six days the LORD made heaven and earth, and on the seventh day he rested and was refreshed.'\"",
+      "links": "<a href='/AIV/1/2/2-3'>Gen. 2:2–3</a>; <a href='/AIV/2/20/11'>Exod. 20:11</a>",
+      "comment": "God’s own rest is the model for Israel’s Sabbath. It shows both imitation of the Creator and participation in His renewal (see Gen. 2:2–3, Exod. 20:11)."
     },
     {
-      "pk": 10431018,
+      "pk": 2031018,
       "translation": "AIV",
       "book": 2,
+      "bookName": "Exodus",
+      "bookAbbreviation": "Exod",
       "chapter": 31,
       "verse": 18,
-      "text": "When he finished speaking with him on Mount Sinai, he gave Moses the two tablets of the testimony, tablets of stone, written with the finger of God.",
-      "links": "<a href='/AIV/2/24/12'>Ex. 24:12</a>; <a href='/AIV/2/32/16'>Ex. 32:16</a>",
-      "comment": "'Finger of God' is a literal and traditional rendering."
+      "text": "When the LORD finished speaking with Moses on Mount Sinai, he gave him the two tablets of the testimony, tablets of stone written with the finger of God.",
+      "links": "<a href='/AIV/2/24/12'>Exod. 24:12</a>; <a href='/AIV/5/9/10'>Deut. 9:10</a>",
+      "comment": "The tablets, written by God Himself, show the unmediated authority of divine law. The ‘finger of God’ also connects to Luke 11:20—God’s direct intervention among His people. The giving of stone tablets foreshadows the permanence and spiritual authority granted to the Church (cf. 2 Cor. 3:3)."
     }
   ],
-  "translatedAt": "2025-12-20T09:05:30.269Z"
+  "translatedAt": "2025-12-24T01:03:46.980Z"
 }

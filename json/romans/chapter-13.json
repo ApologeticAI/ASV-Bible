@@ -1,148 +1,177 @@
 {
-  "book": "Romans",
+  "book": 52,
+  "bookName": "Romans",
   "bookAbbreviation": "Rom",
   "chapter": 13,
   "verses": [
     {
-      "pk": 2001301,
+      "pk": 52013001,
       "translation": "AIV",
-      "book": 45,
+      "book": 52,
+      "bookName": "Romans",
+      "bookAbbreviation": "Rom",
       "chapter": 13,
       "verse": 1,
       "text": "Let every person be subject to the governing authorities. For there is no authority except from God, and those that exist have been established by God.",
-      "links": "<a href='/AIV/27/4/17'>Dan. 4:17</a>; <a href='/AIV/43/19/11'>John 19:11</a>",
-      "comment": "Paul here affirms that all legitimate authority is ultimately grounded in God’s sovereignty. This reflects Old Testament tradition (see Daniel 4:17) and connects to Jesus’ words before Pilate. The implication is a divine order and an obedience that resembles submission to spiritual authority, hinting at unity and hierarchy within the faith."
+      "links": "<a href='/AIV/20/8/15'>Prov. 8:15</a>; <a href='/AIV/27/2/21'>Dan. 2:21</a>; <a href='/AIV/43/19/11'>John 19:11</a>",
+      "comment": "Paul teaches that all civil authorities have their origin and legitimacy from God Himself. There is an implicit call to order, hierarchy, and respect for divinely instituted structures, reflecting the importance of visible authority even within the church. This mirrors Jesus' teaching before Pilate (John 19:11) that authority comes from above."
     },
     {
-      "pk": 2001302,
+      "pk": 52013002,
       "translation": "AIV",
-      "book": 45,
+      "book": 52,
+      "bookName": "Romans",
+      "bookAbbreviation": "Rom",
       "chapter": 13,
       "verse": 2,
-      "text": "Therefore whoever resists the authority resists what God has appointed, and those who resist will incur judgment.",
-      "links": "<a href='/AIV/04/16/30'>Num. 16:30</a>; <a href='/AIV/54/2/2'>1 Tim. 2:2</a>",
-      "comment": "Disobedience to lawful authority is seen as defiance against God’s order. This mirrors the rebellion of Korah (Num. 16:30) and Paul’s exhortation for peaceful living, reinforcing the connection between obeying civil and spiritual authorities."
+      "text": "Therefore, whoever resists the authority resists what God has appointed, and those who resist will incur judgment.",
+      "links": "<a href='/AIV/19/2/2'>Ps. 2:2</a>; <a href='/AIV/56/3/1'>Titus 3:1</a>",
+      "comment": "Rebelling against lawful authority is portrayed as rebellion against God’s will. This shows that both civic and spiritual authority have divine foundation and should be respected except when contrary to God's higher law (see Acts 5:29)."
     },
     {
-      "pk": 2001303,
+      "pk": 52013003,
       "translation": "AIV",
-      "book": 45,
+      "book": 52,
+      "bookName": "Romans",
+      "bookAbbreviation": "Rom",
       "chapter": 13,
       "verse": 3,
-      "text": "For rulers are not a terror to good conduct, but to evil. Would you have no fear of the one in authority? Then do what is good, and you will receive approval;",
-      "links": "<a href='/AIV/60/2/14'>1 Pet. 2:14</a>",
-      "comment": "Rulers ideally serve justice. Paul aligns with Peter’s teaching, showing the consistency and value of obedience for right living and affirming the peace that comes from honoring the order God has provided."
+      "text": "For rulers are not a terror to good conduct, but to bad. Would you have no fear of the one who is in authority? Do what is good, and you will receive approval;",
+      "links": "<a href='/AIV/60/2/13-14'>1 Pet. 2:13-14</a>",
+      "comment": "Paul emphasizes the positive function of authority: protecting moral order. This parallels instructions in 1 Peter and highlights the importance of cooperation with established structures for the sake of peace and conscience."
     },
     {
-      "pk": 2001304,
+      "pk": 52013004,
       "translation": "AIV",
-      "book": 45,
+      "book": 52,
+      "bookName": "Romans",
+      "bookAbbreviation": "Rom",
       "chapter": 13,
       "verse": 4,
-      "text": "For he is God’s servant for your good. But if you do wrong, be afraid, for he does not bear the sword in vain. He is a servant of God, an avenger who carries out wrath on the wrongdoer.",
-      "links": "<a href='/AIV/01/9/6'>Gen. 9:6</a>; <a href='/AIV/19/101/8'>Ps. 101:8</a>",
-      "comment": "Rulers are described as God’s ministers, indicating a sense of spiritual service. The reference to the sword echoes Genesis 9:6 and the psalms, connecting justice, discipline, and the divinely appointed role of leaders in maintaining order, both temporal and spiritual."
+      "text": "for he is God’s servant for your good. But if you do wrong, be afraid, for he does not bear the sword for nothing. For he is the servant of God, an avenger who carries out God’s wrath on the wrongdoer.",
+      "links": "<a href='/AIV/20/16/14'>Prov. 16:14</a>; <a href='/AIV/45/12/19'>Rom. 12:19</a>",
+      "comment": "Here, Paul calls rulers 'God’s servant' or 'diakonos,' which points toward a divinely appointed mediator. The judicial role of authority echoes Old Testament teaching on God's use of human agents to uphold justice."
     },
     {
-      "pk": 2001305,
+      "pk": 52013005,
       "translation": "AIV",
-      "book": 45,
+      "book": 52,
+      "bookName": "Romans",
+      "bookAbbreviation": "Rom",
       "chapter": 13,
       "verse": 5,
-      "text": "Therefore you must be subject, not only because of fear of punishment, but also for the sake of conscience.",
+      "text": "Therefore, it is necessary to submit, not only because of fear of punishment but also for the sake of conscience.",
       "links": "<a href='/AIV/60/2/19'>1 Pet. 2:19</a>",
-      "comment": "Paul raises the standard of obedience from mere fear to conscience, linking it to internal conversion and rightness before God. Christian submission to legitimate authority bears a deeper moral foundation and spiritual resonance."
+      "comment": "Obedience is not just about avoiding consequence, but about acting in accordance with a well-formed conscience. The written law is seen as intimately linked to the heart and mind, echoing Old Testament prophecy about the law being written on our hearts (Jer. 31:33)."
     },
     {
-      "pk": 2001306,
+      "pk": 52013006,
       "translation": "AIV",
-      "book": 45,
+      "book": 52,
+      "bookName": "Romans",
+      "bookAbbreviation": "Rom",
       "chapter": 13,
       "verse": 6,
-      "text": "For this reason you also pay taxes, for authorities are ministers of God, attending to this very thing.",
+      "text": "For this reason you also pay taxes, for the authorities are God’s ministers, attending continually to this very thing.",
       "links": "<a href='/AIV/40/22/21'>Matt. 22:21</a>",
-      "comment": "Taxes, like obedience, are part of honoring God’s ordained order. Jesus affirms this principle, underlining the legitimacy of civil authority and the spiritual dimension of fulfilling one’s duty to society."
+      "comment": "Paul aligns with Jesus’ teaching to 'render to Caesar what is Caesar’s.' Taxes, like other civic duties, are seen as part of obeying God's ministers, underscoring a spiritual dimension to daily life."
     },
     {
-      "pk": 2001307,
+      "pk": 52013007,
       "translation": "AIV",
-      "book": 45,
+      "book": 52,
+      "bookName": "Romans",
+      "bookAbbreviation": "Rom",
       "chapter": 13,
       "verse": 7,
-      "text": "Pay to all what is owed to them: taxes to whom taxes are due, revenue to whom revenue is due, respect to whom respect is due, and honor to whom honor is due.",
-      "links": "<a href='/AIV/40/22/21'>Matt. 22:21</a>",
-      "comment": "Paul summarizes with a call to justice and virtue. The echo of Jesus’ teaching suggests divine wisdom in rendering each his due, encouraging Christians to practice both justice and humility."
+      "text": "Pay to all what is owed to them: taxes to whom taxes are owed, revenue to whom revenue is owed, respect to whom respect is owed, honor to whom honor is owed.",
+      "links": "<a href='/AIV/20/3/27-28'>Prov. 3:27-28</a>; <a href='/AIV/40/22/21'>Matt. 22:21</a>",
+      "comment": "Paul emphasizes justice and integrity in all relationships, reflecting wisdom literature's teaching that we are to render to each what is due, not just material but also spiritual respect and honor."
     },
     {
-      "pk": 2001308,
+      "pk": 52013008,
       "translation": "AIV",
-      "book": 45,
+      "book": 52,
+      "bookName": "Romans",
+      "bookAbbreviation": "Rom",
       "chapter": 13,
       "verse": 8,
-      "text": "Owe no one anything, except to love one another; for whoever loves another has fulfilled the law.",
-      "links": "<a href='/AIV/43/13/34'>John 13:34</a>; <a href='/AIV/03/19/18'>Lev. 19:18</a>",
-      "comment": "Paul centers Christian life on love, directly referencing Jesus’ new commandment and the heart of the Mosaic Law. The fulfillment of the law through love connects the teachings of Moses and Christ, inviting deeper reflection on how communal love completes God’s law."
+      "text": "Owe no one anything, except to love one another, for the one who loves another has fulfilled the law.",
+      "links": "<a href='/AIV/03/19/18'>Lev. 19:18</a>; <a href='/AIV/40/22/39-40'>Matt. 22:39-40</a>; <a href='/AIV/43/13/34'>John 13:34</a>",
+      "comment": "Paul highlights love as the debt that is never fully paid and as the fulfillment of the law. This links to Jesus’ summary of the law and His commandment on love (John 13:34), emphasizing both the letter and spirit of the law."
     },
     {
-      "pk": 2001309,
+      "pk": 52013009,
       "translation": "AIV",
-      "book": 45,
+      "book": 52,
+      "bookName": "Romans",
+      "bookAbbreviation": "Rom",
       "chapter": 13,
       "verse": 9,
-      "text": "For the commandments, 'You shall not commit adultery, You shall not kill, You shall not steal, You shall not covet,' and any other commandment can be summed up in this: 'You shall love your neighbor as yourself.'",
-      "links": "<a href='/AIV/02/20/13-17'>Exod. 20:13–17</a>; <a href='/AIV/03/19/18'>Lev. 19:18</a>",
-      "comment": "Paul draws directly from the Decalogue and Leviticus, showing the unity and continuity between Old and New Testament ethics. The spiritual interpretation sees all commandments leading to charity, a virtue at the heart of the Gospel and apostolic tradition."
+      "text": "For the commandments, 'You shall not commit adultery, you shall not murder, you shall not steal, you shall not covet,' and any other commandment, are summed up in this word: 'You shall love your neighbor as yourself.'",
+      "links": "<a href='/AIV/02/20/13-17'>Ex. 20:13-17</a>; <a href='/AIV/03/19/18'>Lev. 19:18</a>",
+      "comment": "Paul restates several commandments from the Decalogue, showing that loving one's neighbor completes the underlying intent of the law. The order of commandments reflects their enduring moral authority."
     },
     {
-      "pk": 2001310,
+      "pk": 52013010,
       "translation": "AIV",
-      "book": 45,
+      "book": 52,
+      "bookName": "Romans",
+      "bookAbbreviation": "Rom",
       "chapter": 13,
       "verse": 10,
       "text": "Love does no harm to a neighbor; therefore love is the fulfillment of the law.",
-      "links": "<a href='/AIV/40/22/39-40'>Matt. 22:39–40</a>",
-      "comment": "Both literal and spiritual sense: Love transcends and fulfills every negative command by establishing authentic, sacrificial care for others. The teaching of Jesus about the greatest commandment is underlined here."
+      "links": "<a href='/AIV/40/22/37-40'>Matt. 22:37-40</a>; <a href='/AIV/48/5/14'>Gal. 5:14</a>",
+      "comment": "Loving actively means not causing harm; this summary shows the moral law is still relevant and fulfilled by genuine charity. This verse encapsulates a spiritual reading of the commandments, calling for both external and internal obedience."
     },
     {
-      "pk": 2001311,
+      "pk": 52013011,
       "translation": "AIV",
-      "book": 45,
+      "book": 52,
+      "bookName": "Romans",
+      "bookAbbreviation": "Rom",
       "chapter": 13,
       "verse": 11,
-      "text": "And do this, knowing the time, that now it is the hour for you to wake from sleep. For now our salvation is nearer than when we first believed.",
-      "links": "<a href='/AIV/49/5/14'>Eph. 5:14</a>; <a href='/AIV/42/21/28'>Luke 21:28</a>",
-      "comment": "Paul urges watchfulness. The spiritual meaning connects to Christ’s second coming, calling for moral vigilance and spiritual renewal, hallmarks of apostolic exhortation."
+      "text": "And do this, understanding the present time, that it is already the hour for you to wake from sleep. For now our salvation is nearer than when we first believed.",
+      "links": "<a href='/AIV/41/13/33-37'>Mark 13:33-37</a>; <a href='/AIV/49/5/14'>Eph. 5:14</a>",
+      "comment": "Paul stresses the urgency of conversion—Christian life is a continual awakening to grace and readiness for the final coming of Christ. Early church tradition often linked this passage with the sacrament of spiritual awakening and perseverance."
     },
     {
-      "pk": 2001312,
+      "pk": 52013012,
       "translation": "AIV",
-      "book": 45,
+      "book": 52,
+      "bookName": "Romans",
+      "bookAbbreviation": "Rom",
       "chapter": 13,
       "verse": 12,
-      "text": "The night is far gone, and the day is near. So let us cast off the works of darkness and put on the armor of light.",
-      "links": "<a href='/AIV/49/6/11-13'>Eph. 6:11–13</a>; <a href='/AIV/52/5/5'>1 Thess. 5:5</a>",
-      "comment": "Day and night represent the spiritual battle between sin and holiness. The armor metaphor is echoed in Ephesians and Thessalonians, inviting believers to practice sanctification, which is a spiritual discipline rooted in tradition."
+      "text": "The night is far gone; the day is at hand. So let us cast off the works of darkness and put on the armor of light.",
+      "links": "<a href='/AIV/49/6/11-13'>Eph. 6:11-13</a>; <a href='/AIV/52/5/5-8'>1 Thess. 5:5-8</a>",
+      "comment": "Darkness and light represent sin and righteousness. The call to 'put on' the armor of light is likely a baptismal allusion and the call to sanctification, which was viewed as both a moment and a lifelong process of transformation."
     },
     {
-      "pk": 2001313,
+      "pk": 52013013,
       "translation": "AIV",
-      "book": 45,
+      "book": 52,
+      "bookName": "Romans",
+      "bookAbbreviation": "Rom",
       "chapter": 13,
       "verse": 13,
-      "text": "Let us walk properly, as in the daytime, not in drunkenness and partying, not in sexual immorality and debauchery, not in quarrels and jealousy.",
-      "links": "<a href='/AIV/48/5/19-21'>Gal. 5:19–21</a>",
-      "comment": "Paul lists vices in opposition to living in the light. Connections to Galatians emphasize the importance of moral discipline and self-control, virtues fostered in the life of the church through prayer and guidance."
+      "text": "Let us walk decently, as in the daytime, not in revelry and drunkenness, not in sexual immorality and debauchery, not in quarreling and jealousy.",
+      "links": "<a href='/AIV/48/5/19-21'>Gal. 5:19-21</a>; <a href='/AIV/52/5/6-8'>1 Thess. 5:6-8</a>",
+      "comment": "Paul uses vivid language to describe the sins to be rejected as unworthy of those in the light of Christ. Christians are called to visible holiness, both in public and private life."
     },
     {
-      "pk": 2001314,
+      "pk": 52013014,
       "translation": "AIV",
-      "book": 45,
+      "book": 52,
+      "bookName": "Romans",
+      "bookAbbreviation": "Rom",
       "chapter": 13,
       "verse": 14,
-      "text": "But put on the Lord Jesus Christ, and make no provision for the desires of the flesh.",
-      "links": "<a href='/AIV/48/3/27'>Gal. 3:27</a>; <a href='/AIV/56/2/12'>Titus 2:12</a>",
-      "comment": "Putting on Christ evokes baptismal language (Gal 3:27), pointing toward participation in Christ’s life and the sacramental mystery. The spiritual interpretation highlights how union with Christ equips believers to resist sin, a continuous process in the journey of faith."
+      "text": "But put on the Lord Jesus Christ, and make no provision for the flesh, to gratify its desires.",
+      "links": "<a href='/AIV/48/3/27'>Gal. 3:27</a>; <a href='/AIV/49/4/24'>Eph. 4:24</a>",
+      "comment": "To 'put on Christ' is a call to be united with Jesus, to participate in His life and grace—a theme deeply rooted in the church from the earliest creeds. This points to the necessity of responding to grace in daily conduct and walking in union with Christ."
     }
   ],
-  "translatedAt": "2025-12-23T03:36:28.347Z"
+  "translatedAt": "2025-12-24T11:42:02.212Z"
 }
