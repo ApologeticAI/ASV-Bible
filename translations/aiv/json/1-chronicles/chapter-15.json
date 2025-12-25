@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "David built houses for himself in the city of David, and he prepared a place for the ark of God, and set up a tent for it.",
       "links": "<a href='/AIV/10/6/17'>2 Sam. 6:17</a>; <a href='/AIV/19/132/5'>Ps. 132:5</a>",
-      "comment": "David's preparation emphasizes the separation of the ark as God's holy presence among His people, paralleling the importance of right worship and proper dwelling for God (see Numbers 1:50)."
+      "comment": "David's preparation emphasizes the separation of the ark as God's holy presence among His people, paralleling the importance of right worship and proper dwelling for God (see Numbers 1:50).",
+      "sectionHeader": "David Prepares to Bring the Ark to Jerusalem"
     },
     {
       "pk": 13015002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "David summoned Zadok and Abiathar the priests, and for the Levites: Uriel, Asaiah, Joel, Shemaiah, Eliel, and Amminadab,",
       "links": "<a href='/AIV/10/8/17'>2 Sam. 8:17</a>",
-      "comment": "Mentioning both priestly and Levitical leaders shows the unity and hierarchy within devoted worship (Hebrews 5:1–4)."
+      "comment": "Mentioning both priestly and Levitical leaders shows the unity and hierarchy within devoted worship (Hebrews 5:1–4).",
+      "sectionHeader": "The Levites Consecrated to Carry the Ark"
     },
     {
       "pk": 13015012,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "David told the chiefs of the Levites to appoint their brothers as singers, with musical instruments—harps, lyres, and cymbals—to raise joyful sounds.",
       "links": "<a href='/AIV/19/150/3-5'>Ps. 150:3-5</a>",
-      "comment": "Joyful worship with music is encouraged and was organized under authority, reflecting the proper order in communal praise."
+      "comment": "Joyful worship with music is encouraged and was organized under authority, reflecting the proper order in communal praise.",
+      "sectionHeader": "Organization of Singers and Musicians"
     },
     {
       "pk": 13015017,
@@ -302,7 +305,8 @@
       "verse": 25,
       "text": "So David, the elders of Israel, and the commanders of thousands went to bring up the ark of the covenant of the LORD from the house of Obed-edom with rejoicing.",
       "links": "<a href='/AIV/10/6/12'>2 Sam. 6:12</a>",
-      "comment": "The joint participation of king, elders, and people signifies the harmony of authority and assembly in true worship."
+      "comment": "The joint participation of king, elders, and people signifies the harmony of authority and assembly in true worship.",
+      "sectionHeader": "The Ark Brought to Jerusalem and David’s Dance"
     },
     {
       "pk": 13015026,
@@ -353,5 +357,27 @@
       "comment": "Michal's reaction serves as a warning—pride and disdain toward authentic, joyful, and even physical worship can distance one from God’s blessing. David’s holy joy prefigures the word made flesh dwelling amidst His people (John 1:14)."
     }
   ],
-  "translatedAt": "2025-12-24T04:13:31.456Z"
+  "translatedAt": "2025-12-24T04:13:31.456Z",
+  "sections": [
+    {
+      "title": "David Prepares to Bring the Ark to Jerusalem",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "The Levites Consecrated to Carry the Ark",
+      "startVerse": 11,
+      "endVerse": 15
+    },
+    {
+      "title": "Organization of Singers and Musicians",
+      "startVerse": 16,
+      "endVerse": 24
+    },
+    {
+      "title": "The Ark Brought to Jerusalem and David’s Dance",
+      "startVerse": 25,
+      "endVerse": 29
+    }
+  ]
 }

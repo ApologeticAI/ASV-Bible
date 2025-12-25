@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When Balaam saw that it pleased the LORD to bless Israel, he did not go, as at other times, to seek omens, but he set his face toward the wilderness.",
       "links": "<a href='/AIV/4/23/27'>Num. 23:27</a>; <a href='/AIV/5/18/10'>Deut. 18:10</a>",
-      "comment": "Balaam stops seeking omens, showing the superiority of divine revelation over pagan divination. The shift from superstition to obedience reflects a sanctified approach to discerning God's will."
+      "comment": "Balaam stops seeking omens, showing the superiority of divine revelation over pagan divination. The shift from superstition to obedience reflects a sanctified approach to discerning God's will.",
+      "sectionHeader": "Balaam’s Third Oracle"
     },
     {
       "pk": 4024002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "He took up his oracle and said: \"The oracle of Balaam the son of Beor, the oracle of the man whose eye is opened,\"",
       "links": "<a href='/AIV/4/24/3'>Num. 24:3</a>",
-      "comment": "Repeated refrain signals the solemnity and authority of the prophecy."
+      "comment": "Repeated refrain signals the solemnity and authority of the prophecy.",
+      "sectionHeader": "Balaam’s Final Oracles"
     },
     {
       "pk": 40240016,
@@ -242,7 +244,8 @@
       "verse": 20,
       "text": "Then Balaam saw Amalek and took up his oracle and said: \"Amalek was the first among the nations, but he shall come to destruction.\"",
       "links": "<a href='/AIV/9/15/2-3'>1 Sam. 15:2-3</a>",
-      "comment": "Amalek, though prominent, faces divine judgment—demonstrating that human power cannot prevent ultimate defeat apart from God’s will."
+      "comment": "Amalek, though prominent, faces divine judgment—demonstrating that human power cannot prevent ultimate defeat apart from God’s will.",
+      "sectionHeader": "Balaam’s Oracles Against the Nations"
     },
     {
       "pk": 40240021,
@@ -305,5 +308,22 @@
       "comment": "Balaam and Balak part ways; the fulfillment of these prophecies reminds us that God's word always prevails. Fidelity to the totality of revelation is crucial for rightly understanding salvation history."
     }
   ],
-  "translatedAt": "2025-12-24T01:48:16.909Z"
+  "translatedAt": "2025-12-24T01:48:16.909Z",
+  "sections": [
+    {
+      "title": "Balaam’s Third Oracle",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "Balaam’s Final Oracles",
+      "startVerse": 15,
+      "endVerse": 19
+    },
+    {
+      "title": "Balaam’s Oracles Against the Nations",
+      "startVerse": 20,
+      "endVerse": 25
+    }
+  ]
 }

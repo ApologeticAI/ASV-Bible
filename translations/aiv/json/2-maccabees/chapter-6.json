@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Not long after this, the king sent an elder from Athens to force the Jews to abandon the customs of their ancestors and to stop living according to the laws of God.",
       "links": "<a href='/AIV/19/119/1-4'>Psalm 119:1-4</a>; <a href='/AIV/05/30/15-20'>Deut. 30:15-20</a>",
-      "comment": "The order to forsake ancestral customs underlines the gravity of faithful adherence to divine law. This theme echoes through the Old and New Testaments, inviting reflection on steadfastness in the face of adversity and the unity of God’s people."
+      "comment": "The order to forsake ancestral customs underlines the gravity of faithful adherence to divine law. This theme echoes through the Old and New Testaments, inviting reflection on steadfastness in the face of adversity and the unity of God’s people.",
+      "sectionHeader": "The Suppression of Jewish Customs"
     },
     {
       "pk": 21006002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "Two women who had circumcised their children were led openly around the city with their babies hung at their breasts and then hurled down from the wall.",
       "links": "<a href='/AIV/05/28/53-57'>Deut. 28:53-57</a>",
-      "comment": "The tragic fate of these women affirms both the sanctity of the Law and the cost of faithfulness. This echoes later in Christian history, where loyalty to God’s commands faces opposition."
+      "comment": "The tragic fate of these women affirms both the sanctity of the Law and the cost of faithfulness. This echoes later in Christian history, where loyalty to God’s commands faces opposition.",
+      "sectionHeader": "Punishments for Observing the Law"
     },
     {
       "pk": 21006011,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "Now I urge those who read this book not to let these tragedies discourage them, but to consider that these punishments are for the correction, not the destruction, of our people.",
       "links": "<a href='/AIV/20/3/11-12'>Proverbs 3:11-12</a>; <a href='/AIV/58/12/6-7'>Hebrews 12:6-7</a>",
-      "comment": "Divine discipline is presented here as fatherly correction, not wrathful condemnation—a theme picked up in Hebrews to encourage perseverance."
+      "comment": "Divine discipline is presented here as fatherly correction, not wrathful condemnation—a theme picked up in Hebrews to encourage perseverance.",
+      "sectionHeader": "Divine Discipline of Israel"
     },
     {
       "pk": 21006013,
@@ -218,7 +221,8 @@
       "verse": 18,
       "text": "Eleazar, one of the leading scribes, a man well advanced in years and of noble appearance, was forced to open his mouth to eat swine’s flesh.",
       "links": "<a href='/AIV/03/11/7'>Leviticus 11:7</a>",
-      "comment": "Eleazar’s refusal to eat what is forbidden shows the integrity required of spiritual leaders. The context here honors witness and martyrdom."
+      "comment": "Eleazar’s refusal to eat what is forbidden shows the integrity required of spiritual leaders. The context here honors witness and martyrdom.",
+      "sectionHeader": "The Martyrdom of Eleazar"
     },
     {
       "pk": 21006019,
@@ -377,5 +381,27 @@
       "comment": "The enduring witness of the faithful nourishes the life of the Church throughout time. This encourages perseverance, inspired by the example of those who have gone before."
     }
   ],
-  "translatedAt": "2025-12-24T05:32:52.685Z"
+  "translatedAt": "2025-12-24T05:32:52.685Z",
+  "sections": [
+    {
+      "title": "The Suppression of Jewish Customs",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "Punishments for Observing the Law",
+      "startVerse": 10,
+      "endVerse": 11
+    },
+    {
+      "title": "Divine Discipline of Israel",
+      "startVerse": 12,
+      "endVerse": 17
+    },
+    {
+      "title": "The Martyrdom of Eleazar",
+      "startVerse": 18,
+      "endVerse": 31
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Jesus spoke to them again in parables, saying:",
       "links": "<a href='/AIV/40/13/34'>Matt. 13:34</a>",
-      "comment": "This verse introduces another parable from Jesus, continuing His teaching ministry. The use of parables is a method Jesus often used to communicate deep spiritual truths while also revealing and concealing meaning depending on the listener's openness."
+      "comment": "This verse introduces another parable from Jesus, continuing His teaching ministry. The use of parables is a method Jesus often used to communicate deep spiritual truths while also revealing and concealing meaning depending on the listener's openness.",
+      "sectionHeader": "The Parable of the Wedding Feast"
     },
     {
       "pk": 47022002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "Then the Pharisees went and plotted how they might trap Him in His words.",
       "links": "<a href='/AIV/41/12/13'>Mark 12:13</a>; <a href='/AIV/42/20/20'>Luke 20:20</a>",
-      "comment": "Jesus' teaching provokes opposition from religious leaders who seek to undermine His authority."
+      "comment": "Jesus' teaching provokes opposition from religious leaders who seek to undermine His authority.",
+      "sectionHeader": "Paying Taxes to Caesar"
     },
     {
       "pk": 47022016,
@@ -278,7 +280,8 @@
       "verse": 23,
       "text": "That same day, some Sadducees, who say there is no resurrection, came to Him and asked,",
       "links": "<a href='/AIV/44/23/8'>Acts 23:8</a>",
-      "comment": "Sadducees denied the resurrection, angels, and spirits—distinguishing themselves from Pharisees."
+      "comment": "Sadducees denied the resurrection, angels, and spirits—distinguishing themselves from Pharisees.",
+      "sectionHeader": "The Question about the Resurrection"
     },
     {
       "pk": 47022024,
@@ -410,7 +413,8 @@
       "verse": 34,
       "text": "But when the Pharisees heard that He had silenced the Sadducees, they gathered together.",
       "links": "<a href='/AIV/41/12/28'>Mark 12:28</a>",
-      "comment": "Jesus’ triumph over the Sadducees’ argument leads the Pharisees to regroup and attempt another challenge."
+      "comment": "Jesus’ triumph over the Sadducees’ argument leads the Pharisees to regroup and attempt another challenge.",
+      "sectionHeader": "The Greatest Commandment"
     },
     {
       "pk": 47022035,
@@ -494,7 +498,8 @@
       "verse": 41,
       "text": "While the Pharisees were gathered together, Jesus asked them,",
       "links": "",
-      "comment": "Jesus now turns the tables, seizing the initiative in debate with the Pharisees."
+      "comment": "Jesus now turns the tables, seizing the initiative in debate with the Pharisees.",
+      "sectionHeader": "The Question about David’s Son"
     },
     {
       "pk": 47022042,
@@ -557,5 +562,32 @@
       "comment": "Jesus' divine wisdom silences His adversaries, establishing His authority. This section shows Christ’s power and knowledge, which foreshadow the foundation and unity of His Church, centered on divine truth revealed through Him."
     }
   ],
-  "translatedAt": "2025-12-24T10:15:33.843Z"
+  "translatedAt": "2025-12-24T10:15:33.843Z",
+  "sections": [
+    {
+      "title": "The Parable of the Wedding Feast",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "Paying Taxes to Caesar",
+      "startVerse": 15,
+      "endVerse": 22
+    },
+    {
+      "title": "The Question about the Resurrection",
+      "startVerse": 23,
+      "endVerse": 33
+    },
+    {
+      "title": "The Greatest Commandment",
+      "startVerse": 34,
+      "endVerse": 40
+    },
+    {
+      "title": "The Question about David’s Son",
+      "startVerse": 41,
+      "endVerse": 46
+    }
+  ]
 }

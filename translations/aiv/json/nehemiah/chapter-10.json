@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now those who sealed it were: Nehemiah the governor, the son of Hacaliah, and Zedekiah,",
       "links": "<a href='/AIV/16/8/9'>Neh. 8:9</a>",
-      "comment": "A formal list of leaders beginning with Nehemiah, signifying the importance of leadership in covenant renewal. In the original Hebrew, Nehemiah is called the 'Tirshatha' (governor), echoing themes of authority."
+      "comment": "A formal list of leaders beginning with Nehemiah, signifying the importance of leadership in covenant renewal. In the original Hebrew, Nehemiah is called the 'Tirshatha' (governor), echoing themes of authority.",
+      "sectionHeader": "The Sealers of the Covenant"
     },
     {
       "pk": 16010002,
@@ -338,7 +339,8 @@
       "verse": 28,
       "text": "The rest of the people—the priests, the Levites, the gatekeepers, the singers, the temple servants, and all those who separated themselves from the peoples of the lands to the Law of God, their wives, their sons, and their daughters, everyone knowledgeable and understanding—",
       "links": "<a href='/AIV/16/13/3'>Neh. 13:3</a>",
-      "comment": "The separation from the peoples of the land is crucial for spiritual purity and unity under God's Law. This echoes the New Testament concept of the Church as a chosen community (cf. 2 Cor. 6:17)."
+      "comment": "The separation from the peoples of the land is crucial for spiritual purity and unity under God's Law. This echoes the New Testament concept of the Church as a chosen community (cf. 2 Cor. 6:17).",
+      "sectionHeader": "The Obligations of the Covenant"
     },
     {
       "pk": 16010029,
@@ -473,5 +475,17 @@
       "comment": "The whole community’s support ensures worship continues, affirming a call to maintain and honor God's house—fulfilling Israel’s vocation, pointing to Christ's fulfillment of all priestly and sacrificial work (Heb. 9:11–14)."
     }
   ],
-  "translatedAt": "2025-12-24T04:51:12.344Z"
+  "translatedAt": "2025-12-24T04:51:12.344Z",
+  "sections": [
+    {
+      "title": "The Sealers of the Covenant",
+      "startVerse": 1,
+      "endVerse": 27
+    },
+    {
+      "title": "The Obligations of the Covenant",
+      "startVerse": 28,
+      "endVerse": 39
+    }
+  ]
 }

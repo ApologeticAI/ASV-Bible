@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In the beginning, God created the heavens and the earth.",
       "links": "<a href='/AIV/18/38/4-7'>Job 38:4-7</a>; <a href='/AIV/19/33/6'>Ps. 33:6</a>; <a href='/AIV/43/1/1-3'>John 1:1-3</a>",
-      "comment": "This opening verse affirms God as the Creator of all things. The phrase 'in the beginning' links directly to the prologue of John's Gospel (<a href='/AIV/43/1/1'>John 1:1</a>), suggesting that Christ, the Word, was present at creation. Both the 'heavens and the earth' represent all that exists, seen and unseen."
+      "comment": "This opening verse affirms God as the Creator of all things. The phrase 'in the beginning' links directly to the prologue of John's Gospel (<a href='/AIV/43/1/1'>John 1:1</a>), suggesting that Christ, the Word, was present at creation. Both the 'heavens and the earth' represent all that exists, seen and unseen.",
+      "sectionHeader": "The Creation of the World"
     },
     {
       "pk": 1001002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "And God said, 'Let there be light,' and there was light.",
       "links": "<a href='/AIV/19/33/9'>Ps. 33:9</a>; <a href='/AIV/43/8/12'>John 8:12</a>",
-      "comment": "God creates through His word, reflecting divine power. 'Let there be light' demonstrates the efficacy of God's command. This anticipates Christ, the light of the world (<a href='/AIV/43/8/12'>John 8:12</a>)."
+      "comment": "God creates through His word, reflecting divine power. 'Let there be light' demonstrates the efficacy of God's command. This anticipates Christ, the light of the world (<a href='/AIV/43/8/12'>John 8:12</a>).",
+      "sectionHeader": "The First Day: Creation of Light"
     },
     {
       "pk": 1001004,
@@ -74,7 +76,8 @@
       "verse": 6,
       "text": "And God said, 'Let there be a firmament in the midst of the waters, and let it separate the waters from the waters.'",
       "links": "<a href='/AIV/19/148/4'>Ps. 148:4</a>",
-      "comment": "The 'firmament' (expanse, sky) marks the division of cosmic waters, reflecting ancient cosmology but emphasizing God's power to order creation."
+      "comment": "The 'firmament' (expanse, sky) marks the division of cosmic waters, reflecting ancient cosmology but emphasizing God's power to order creation.",
+      "sectionHeader": "The Second Day: Creation of the Firmament"
     },
     {
       "pk": 1001007,
@@ -110,7 +113,8 @@
       "verse": 9,
       "text": "And God said, 'Let the waters under the heaven be gathered together into one place, and let dry land appear.' And it was so.",
       "links": "<a href='/AIV/19/104/7-9'>Ps. 104:7-9</a>",
-      "comment": "God commands the earth's features to take shape, creating a suitable environment for life. This act prefigures baptism, where water and Spirit are used for restoration and new life."
+      "comment": "God commands the earth's features to take shape, creating a suitable environment for life. This act prefigures baptism, where water and Spirit are used for restoration and new life.",
+      "sectionHeader": "The Third Day: Separation of Land and Sea; Creation of Vegetation"
     },
     {
       "pk": 1001010,
@@ -170,7 +174,8 @@
       "verse": 14,
       "text": "And God said, 'Let there be lights in the firmament of the heaven to separate the day from the night, and let them be for signs and for seasons, and for days and years.'",
       "links": "<a href='/AIV/19/104/19-20'>Ps. 104:19-20</a>",
-      "comment": "The creation of lights for timekeeping relates to liturgical cycles and sacred time, which become important for worship and feasts throughout Scripture."
+      "comment": "The creation of lights for timekeeping relates to liturgical cycles and sacred time, which become important for worship and feasts throughout Scripture.",
+      "sectionHeader": "The Fourth Day: Creation of Sun, Moon, and Stars"
     },
     {
       "pk": 1001015,
@@ -242,7 +247,8 @@
       "verse": 20,
       "text": "And God said, 'Let the waters abound with living creatures, and let birds fly above the earth across the firmament of the heaven.'",
       "links": "<a href='/AIV/19/104/25'>Ps. 104:25</a>",
-      "comment": "Creation now fills with animated life, reflecting God’s generosity and the harmony intended for all creatures."
+      "comment": "Creation now fills with animated life, reflecting God’s generosity and the harmony intended for all creatures.",
+      "sectionHeader": "The Fifth Day: Creation of Sea Creatures and Birds"
     },
     {
       "pk": 1001021,
@@ -290,7 +296,8 @@
       "verse": 24,
       "text": "And God said, 'Let the earth bring forth living creatures according to their kinds: livestock, creeping things, and wild animals of the earth according to their kinds.' And it was so.",
       "links": "",
-      "comment": "The earth continues to respond to God's word, producing a range of living things. This diversity points to God’s wisdom and order."
+      "comment": "The earth continues to respond to God's word, producing a range of living things. This diversity points to God’s wisdom and order.",
+      "sectionHeader": "The Sixth Day: Creation of Land Animals and Man"
     },
     {
       "pk": 1001025,
@@ -377,5 +384,42 @@
       "comment": "With the completion of creation, God declares all is 'very good.' This affirmation shows the inherent goodness of creation, later marred by the fall but ultimately redeemed through Christ. The number six, followed by rest, has spiritual significance related to sacred time and worship, seen in the Sabbath."
     }
   ],
-  "translatedAt": "2025-12-24T00:11:11.470Z"
+  "translatedAt": "2025-12-24T00:11:11.470Z",
+  "sections": [
+    {
+      "title": "The Creation of the World",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "The First Day: Creation of Light",
+      "startVerse": 3,
+      "endVerse": 5
+    },
+    {
+      "title": "The Second Day: Creation of the Firmament",
+      "startVerse": 6,
+      "endVerse": 8
+    },
+    {
+      "title": "The Third Day: Separation of Land and Sea; Creation of Vegetation",
+      "startVerse": 9,
+      "endVerse": 13
+    },
+    {
+      "title": "The Fourth Day: Creation of Sun, Moon, and Stars",
+      "startVerse": 14,
+      "endVerse": 19
+    },
+    {
+      "title": "The Fifth Day: Creation of Sea Creatures and Birds",
+      "startVerse": 20,
+      "endVerse": 23
+    },
+    {
+      "title": "The Sixth Day: Creation of Land Animals and Man",
+      "startVerse": 24,
+      "endVerse": 31
+    }
+  ]
 }

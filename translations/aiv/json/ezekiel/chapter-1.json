@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In the thirtieth year, in the fourth month, on the fifth day, as I was among the exiles by the Kebar River, the heavens opened, and I saw visions from God.",
       "links": "<a href='/AIV/01/28/12'>Gen. 28:12</a>; <a href='/AIV/26/10/20'>Ezek. 10:20</a>",
-      "comment": "Ezekiel recounts his first prophetic encounter in exile. The opening of the heavens and visions recall other theophanies (see Gen. 28:12, Jacob's ladder). Note the historical detail and connection to Babylonian exile—a time when God still revealed Himself outside Jerusalem."
+      "comment": "Ezekiel recounts his first prophetic encounter in exile. The opening of the heavens and visions recall other theophanies (see Gen. 28:12, Jacob's ladder). Note the historical detail and connection to Babylonian exile—a time when God still revealed Himself outside Jerusalem.",
+      "sectionHeader": "The Vision of God at the Kebar River"
     },
     {
       "pk": 33001002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "I looked, and saw a stormy wind coming from the north—a great cloud with brightness around it and fire flashing forth continually, and in the midst of the fire something like gleaming metal.",
       "links": "<a href='/AIV/02/19/18'>Exod. 19:18</a>; <a href='/AIV/26/8/2'>Ezek. 8:2</a>",
-      "comment": "God's glory is revealed in dramatic, fearful imagery similar to Sinai (Exod. 19:18). Fire and brightness emphasize God’s transcendence."
+      "comment": "God's glory is revealed in dramatic, fearful imagery similar to Sinai (Exod. 19:18). Fire and brightness emphasize God’s transcendence.",
+      "sectionHeader": "The Four Living Creatures"
     },
     {
       "pk": 33001005,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "As I looked at the living creatures, I saw a wheel on the ground beside each one.",
       "links": "<a href='/AIV/26/10/9'>Ezek. 10:9</a>",
-      "comment": "God’s throne chariot is depicted—wheels signal movement and omnipresence. Compare Ezekiel 10 for repeated imagery."
+      "comment": "God’s throne chariot is depicted—wheels signal movement and omnipresence. Compare Ezekiel 10 for repeated imagery.",
+      "sectionHeader": "The Vision of the Wheels"
     },
     {
       "pk": 33001016,
@@ -266,7 +269,8 @@
       "verse": 22,
       "text": "Over the heads of the living creatures was something like an expanse, shining like crystal, stretched out above their heads.",
       "links": "<a href='/AIV/26/10/1'>Ezek. 10:1</a>; <a href='/AIV/66/4/6'>Rev. 4:6</a>",
-      "comment": "The expanse or firmament mirrors creation’s order and separation; it also suggests heaven’s glory and the transcendent throne (cf. Rev. 4:6, ‘sea of glass’)."
+      "comment": "The expanse or firmament mirrors creation’s order and separation; it also suggests heaven’s glory and the transcendent throne (cf. Rev. 4:6, ‘sea of glass’).",
+      "sectionHeader": "The Throne and the Glory of the Lord"
     },
     {
       "pk": 33001023,
@@ -341,5 +345,27 @@
       "comment": "The rainbow recalls God’s covenant with Noah (Gen. 9:13)—symbolizing hope, mercy, and faithfulness. Falling face down is a standard biblical reaction to divine glory (see Rev. 1:17); tradition sees this as the necessary posture of worship before God, suggesting the deep reverence and sacramental awe expected of believers in God’s presence."
     }
   ],
-  "translatedAt": "2025-12-24T08:58:52.195Z"
+  "translatedAt": "2025-12-24T08:58:52.195Z",
+  "sections": [
+    {
+      "title": "The Vision of God at the Kebar River",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "The Four Living Creatures",
+      "startVerse": 4,
+      "endVerse": 14
+    },
+    {
+      "title": "The Vision of the Wheels",
+      "startVerse": 15,
+      "endVerse": 21
+    },
+    {
+      "title": "The Throne and the Glory of the Lord",
+      "startVerse": 22,
+      "endVerse": 28
+    }
+  ]
 }

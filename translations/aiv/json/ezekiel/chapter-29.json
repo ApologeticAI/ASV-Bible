@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In the tenth year, in the tenth month, on the twelfth day of the month, the word of the LORD came to me, saying:",
       "links": "<a href='/AIV/24/46/2'>Jer. 46:2</a>",
-      "comment": "Ezekiel precisely dates this prophecy, emphasizing its historical reliability. The phrase 'word of the LORD came' establishes divine authority—a concept foundational for understanding prophetic revelation. See also <a href='/AIV/26/1/1'>Ezek. 1:1</a>."
+      "comment": "Ezekiel precisely dates this prophecy, emphasizing its historical reliability. The phrase 'word of the LORD came' establishes divine authority—a concept foundational for understanding prophetic revelation. See also <a href='/AIV/26/1/1'>Ezek. 1:1</a>.",
+      "sectionHeader": "Prophecy Against Pharaoh and Egypt"
     },
     {
       "pk": 33029002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "'Yet thus says the Lord GOD: At the end of forty years I will gather the Egyptians from the peoples where they were scattered.'",
       "links": "<a href='/AIV/26/28/25'>Ezek. 28:25</a>",
-      "comment": "God’s mercy is revealed after judgment. Restoration after exile models ultimate healing and unity in God’s plan, prefiguring Christ’s work of bringing all nations together."
+      "comment": "God’s mercy is revealed after judgment. Restoration after exile models ultimate healing and unity in God’s plan, prefiguring Christ’s work of bringing all nations together.",
+      "sectionHeader": "Restoration and Humbling of Egypt"
     },
     {
       "pk": 33029014,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "In the twenty-seventh year, in the first month, on the first day of the month, the word of the LORD came to me, saying:",
       "links": "<a href='/AIV/26/30/20'>Ezek. 30:20</a>",
-      "comment": "This date places the prophecy 17 years after the previous one. Demonstrates the continuity of God’s word and faithfulness in fulfilling promises over time."
+      "comment": "This date places the prophecy 17 years after the previous one. Demonstrates the continuity of God’s word and faithfulness in fulfilling promises over time.",
+      "sectionHeader": "Egypt Given to Nebuchadnezzar"
     },
     {
       "pk": 33029018,
@@ -257,5 +260,22 @@
       "comment": "The 'horn' symbolizes strength and deliverance, a messianic image ultimately fulfilled in Christ (<a href='/AIV/42/1/69'>Luke 1:69</a>). God empowering Ezekiel to speak prefigures divinely-appointed authority and inspired proclamation for the people."
     }
   ],
-  "translatedAt": "2025-12-24T09:14:29.433Z"
+  "translatedAt": "2025-12-24T09:14:29.433Z",
+  "sections": [
+    {
+      "title": "Prophecy Against Pharaoh and Egypt",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "Restoration and Humbling of Egypt",
+      "startVerse": 13,
+      "endVerse": 16
+    },
+    {
+      "title": "Egypt Given to Nebuchadnezzar",
+      "startVerse": 17,
+      "endVerse": 21
+    }
+  ]
 }

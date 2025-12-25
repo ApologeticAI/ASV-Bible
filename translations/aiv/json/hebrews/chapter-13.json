@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Let brotherly love continue.",
       "links": "<a href='/AIV/19/133/1'>Ps. 133:1</a>; <a href='/AIV/43/13/34'>John 13:34</a>",
-      "comment": "The author urges steadfastness in love for fellow believers. This recurring command links back to Jesus urging His followers to love one another, highlighting the ongoing call for unity in the community of faith."
+      "comment": "The author urges steadfastness in love for fellow believers. This recurring command links back to Jesus urging His followers to love one another, highlighting the ongoing call for unity in the community of faith.",
+      "sectionHeader": "Exhortations to Christian Conduct"
     },
     {
       "pk": 65013002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "Through him then, let us continually offer up a sacrifice of praise to God, that is, the fruit of lips that acknowledge his name.",
       "links": "<a href='/AIV/19/50/23'>Ps. 50:23</a>; <a href='/AIV/28/14/2'>Hos. 14:2</a>",
-      "comment": "The true sacrifice now is continual praise and confession, made possible through Jesus’ mediation. The spiritual worship of Christians fulfills the prophecy of constant praise to God."
+      "comment": "The true sacrifice now is continual praise and confession, made possible through Jesus’ mediation. The spiritual worship of Christians fulfills the prophecy of constant praise to God.",
+      "sectionHeader": "Sacrifice Through Christ and Pleasing God"
     },
     {
       "pk": 65013016,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "Obey your leaders and submit to them, for they are keeping watch over your souls as those who will have to give an account. Let them do this with joy and not with grief, for that would be of no advantage to you.",
       "links": "<a href='/AIV/58/13/7'>Heb. 13:7</a>; <a href='/AIV/44/20/28'>Acts 20:28</a>",
-      "comment": "The authority of the spiritual shepherds is emphasized, revealing the structure of leadership and accountability established by Christ for His Church. Submission and obedience here are key to the order and unity of the community."
+      "comment": "The authority of the spiritual shepherds is emphasized, revealing the structure of leadership and accountability established by Christ for His Church. Submission and obedience here are key to the order and unity of the community.",
+      "sectionHeader": "Obedience, Prayer, and Benediction"
     },
     {
       "pk": 65013018,
@@ -266,7 +269,8 @@
       "verse": 22,
       "text": "I urge you, brothers, bear with this word of exhortation, for I have written to you briefly.",
       "links": "<a href='/AIV/58/13/19'>Heb. 13:19</a>",
-      "comment": "The tone is pastoral, reminding readers that although the letter is brief, its teachings are to be received earnestly. Apostolic exhortation carries enduring authority for the Church."
+      "comment": "The tone is pastoral, reminding readers that although the letter is brief, its teachings are to be received earnestly. Apostolic exhortation carries enduring authority for the Church.",
+      "sectionHeader": "Final Greetings and Blessing"
     },
     {
       "pk": 65013023,
@@ -305,5 +309,27 @@
       "comment": "The apostolic blessing concludes the letter, emphasizing the centrality of grace in the Christian life—the gift of God that sustains His people until the end."
     }
   ],
-  "translatedAt": "2025-12-24T12:23:44.005Z"
+  "translatedAt": "2025-12-24T12:23:44.005Z",
+  "sections": [
+    {
+      "title": "Exhortations to Christian Conduct",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "Sacrifice Through Christ and Pleasing God",
+      "startVerse": 15,
+      "endVerse": 16
+    },
+    {
+      "title": "Obedience, Prayer, and Benediction",
+      "startVerse": 17,
+      "endVerse": 21
+    },
+    {
+      "title": "Final Greetings and Blessing",
+      "startVerse": 22,
+      "endVerse": 25
+    }
+  ]
 }

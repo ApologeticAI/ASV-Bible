@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When the Sabbath was over, Mary Magdalene, Mary the mother of James, and Salome bought spices, so they could go and anoint Him.",
       "links": "<a href='/AIV/42/24/1'>Luke 24:1</a>; <a href='/AIV/40/28/1'>Matt. 28:1</a>",
-      "comment": "The act of women anointing Jesus' body reflects deep reverence and discipleship, connecting with the tradition of honoring the body, similar to Old Testament practices (Gen. 50:2). The inclusion of women highlights their faithful witness to the Resurrection."
+      "comment": "The act of women anointing Jesus' body reflects deep reverence and discipleship, connecting with the tradition of honoring the body, similar to Old Testament practices (Gen. 50:2). The inclusion of women highlights their faithful witness to the Resurrection.",
+      "sectionHeader": "The Resurrection of Jesus"
     },
     {
       "pk": 48016002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "Now after He rose early on the first day of the week, He appeared first to Mary Magdalene, from whom He had cast out seven demons.",
       "links": "<a href='/AIV/42/8/2'>Luke 8:2</a>; <a href='/AIV/43/20/14-16'>John 20:14-16</a>",
-      "comment": "This encounter highlights Mary Magdalene's important role as the first witness to the risen Lord, evidence of Jesus’ mercy and His restoring power."
+      "comment": "This encounter highlights Mary Magdalene's important role as the first witness to the risen Lord, evidence of Jesus’ mercy and His restoring power.",
+      "sectionHeader": "Jesus Appears to Mary Magdalene"
     },
     {
       "pk": 48016010,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "After this, He appeared in a different form to two of them, as they were walking into the country.",
       "links": "<a href='/AIV/42/24/13-16'>Luke 24:13-16</a>",
-      "comment": "This parallel to the Emmaus road story demonstrates Jesus’ glorified body and His freedom from earthly limitations (see 1 Cor. 15:44; Luke 24:31)."
+      "comment": "This parallel to the Emmaus road story demonstrates Jesus’ glorified body and His freedom from earthly limitations (see 1 Cor. 15:44; Luke 24:31).",
+      "sectionHeader": "Jesus Appears to Two Disciples"
     },
     {
       "pk": 48016013,
@@ -170,7 +173,8 @@
       "verse": 14,
       "text": "Later, He appeared to the Eleven as they were reclining at table; and He rebuked them for their lack of faith and stubbornness, because they had not believed those who had seen Him after He had risen.",
       "links": "<a href='/AIV/42/24/36-38'>Luke 24:36-38</a>; <a href='/AIV/43/20/19-29'>John 20:19-29</a>",
-      "comment": "Jesus’ appearance to the Eleven validates the meaning and necessity of apostolic faith, handed on through chosen witnesses."
+      "comment": "Jesus’ appearance to the Eleven validates the meaning and necessity of apostolic faith, handed on through chosen witnesses.",
+      "sectionHeader": "The Commissioning of the Eleven"
     },
     {
       "pk": 48016015,
@@ -230,7 +234,8 @@
       "verse": 19,
       "text": "So then the Lord Jesus, after He had spoken to them, was taken up into heaven and sat down at the right hand of God.",
       "links": "<a href='/AIV/42/24/51'>Luke 24:51</a>; <a href='/AIV/19/110/1'>Ps. 110:1</a>; <a href='/AIV/58/1/3'>Heb. 1:3</a>",
-      "comment": "The Ascension fulfills Psalm 110:1, affirming Jesus' divine kingship and ongoing priestly intercession (see Heb. 7:25). Sitting at God's right hand denotes full authority."
+      "comment": "The Ascension fulfills Psalm 110:1, affirming Jesus' divine kingship and ongoing priestly intercession (see Heb. 7:25). Sitting at God's right hand denotes full authority.",
+      "sectionHeader": "The Ascension of Jesus"
     },
     {
       "pk": 48016020,
@@ -245,5 +250,32 @@
       "comment": "The close cooperation between the Lord and His messengers points to God continuously affirming the truth of the apostolic preaching through miracles, laying the foundation of the one, holy, apostolic faith."
     }
   ],
-  "translatedAt": "2025-12-24T10:35:05.195Z"
+  "translatedAt": "2025-12-24T10:35:05.195Z",
+  "sections": [
+    {
+      "title": "The Resurrection of Jesus",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "Jesus Appears to Mary Magdalene",
+      "startVerse": 9,
+      "endVerse": 11
+    },
+    {
+      "title": "Jesus Appears to Two Disciples",
+      "startVerse": 12,
+      "endVerse": 13
+    },
+    {
+      "title": "The Commissioning of the Eleven",
+      "startVerse": 14,
+      "endVerse": 18
+    },
+    {
+      "title": "The Ascension of Jesus",
+      "startVerse": 19,
+      "endVerse": 20
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Out of the depths I cry to you, O LORD.",
       "links": "<a href='/AIV/19/69/2'>Ps. 69:2</a>; <a href='/AIV/25/3/55'>Lam. 3:55</a>",
-      "comment": "This verse opens with a groaning from deep distress—a common theme in the Psalms. The soul’s cry from the 'depths' conveys not merely emotional anguish, but also a sense of alienation from God. Spiritual tradition sees this as the soul recognizing its need for divine mercy. Compare to Jonah’s cry from the depths (Jon. 2:2) and Christ's agony in Gethsemane (<a href='/AIV/40/26/39'>Matt. 26:39</a>), both pointing toward trust in God’s deliverance."
+      "comment": "This verse opens with a groaning from deep distress—a common theme in the Psalms. The soul’s cry from the 'depths' conveys not merely emotional anguish, but also a sense of alienation from God. Spiritual tradition sees this as the soul recognizing its need for divine mercy. Compare to Jonah’s cry from the depths (Jon. 2:2) and Christ's agony in Gethsemane (<a href='/AIV/40/26/39'>Matt. 26:39</a>), both pointing toward trust in God’s deliverance.",
+      "sectionHeader": "A Cry for Mercy"
     },
     {
       "pk": 23130002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "O Israel, hope in the LORD! For with the LORD there is steadfast love, and with him is abundant redemption.",
       "links": "<a href='/AIV/19/131/3'>Ps. 131:3</a>; <a href='/AIV/23/44/22'>Isa. 44:22</a>",
-      "comment": "Redemption here is both national and personal. The language anticipates the fullness of redemption accomplished in Christ (<a href='/AIV/45/3/24'>Rom. 3:24</a>). 'Steadfast love' (Hebrew: 'hesed') points to God’s covenantal faithfulness, which is made effective and manifest through the mediation of grace, a theme later crucial to understanding the unity and sanctity of the Church."
+      "comment": "Redemption here is both national and personal. The language anticipates the fullness of redemption accomplished in Christ (<a href='/AIV/45/3/24'>Rom. 3:24</a>). 'Steadfast love' (Hebrew: 'hesed') points to God’s covenantal faithfulness, which is made effective and manifest through the mediation of grace, a theme later crucial to understanding the unity and sanctity of the Church.",
+      "sectionHeader": "Hope in the Lord's Redemption"
     },
     {
       "pk": 23130008,
@@ -101,5 +103,17 @@
       "comment": "The promise of comprehensive redemption from sin foreshadows the complete salvation offered through Christ. In Christian reflection, this is realized through both personal and communal restoration—pointing to the final deliverance and purification of God’s people. The hope of being freed from all iniquities rests not on individual effort but on divine initiative and participation in the means of grace."
     }
   ],
-  "translatedAt": "2025-12-24T06:44:11.419Z"
+  "translatedAt": "2025-12-24T06:44:11.419Z",
+  "sections": [
+    {
+      "title": "A Cry for Mercy",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Hope in the Lord's Redemption",
+      "startVerse": 7,
+      "endVerse": 8
+    }
+  ]
 }

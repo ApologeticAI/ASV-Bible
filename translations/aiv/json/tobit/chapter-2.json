@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Afterward, during the feast of Pentecost, which is the holy festival of Weeks, I cooked a meal and sat down to eat.",
       "links": "<a href='/AIV/3/23/15-21'>Lev. 23:15-21</a>; <a href='/AIV/2/34/22'>Ex. 34:22</a>",
-      "comment": "The reference to the festival of Weeks (Pentecost) connects Tobit's devotion to the ancient law, affirming the continuity of God's covenant. The tradition of celebrating feasts ties believers together across generations, foreshadowing the greater fulfillment found in Christ (Acts 2:1-4)."
+      "comment": "The reference to the festival of Weeks (Pentecost) connects Tobit's devotion to the ancient law, affirming the continuity of God's covenant. The tradition of celebrating feasts ties believers together across generations, foreshadowing the greater fulfillment found in Christ (Acts 2:1-4).",
+      "sectionHeader": "Tobit's Burial of the Murdered Israelite"
     },
     {
       "pk": 17002002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "That night, after I buried him, I came home, washed myself, and lay down by the wall of the courtyard, leaving my face uncovered because I was defiled.",
       "links": "<a href='/AIV/3/11/24-25'>Lev. 11:24-25</a>; <a href='/AIV/20/28/13'>Prov. 28:13</a>",
-      "comment": "Tobit’s purification and humility reveal trust in God's law and a recognition of human frailty. His actions point ahead to Christian practices of confession and purification."
+      "comment": "Tobit’s purification and humility reveal trust in God's law and a recognition of human frailty. His actions point ahead to Christian practices of confession and purification.",
+      "sectionHeader": "Tobit's Blindness"
     },
     {
       "pk": 17002008,
@@ -122,7 +124,8 @@
       "verse": 10,
       "text": "During that time, my wife Anna supported the household by spinning wool.",
       "links": "<a href='/AIV/20/31/10-13'>Prov. 31:10-13</a>; <a href='/AIV/4/14/23'>Num. 14:23</a>",
-      "comment": "Anna’s diligent support recalls the virtuous woman praised in Proverbs. The inclusion of her labor shows the mutual support and dignity of family life set forth by God."
+      "comment": "Anna’s diligent support recalls the virtuous woman praised in Proverbs. The inclusion of her labor shows the mutual support and dignity of family life set forth by God.",
+      "sectionHeader": "Anna Earns a Living and Tobit's Dispute over the Goat"
     },
     {
       "pk": 17002011,
@@ -173,5 +176,22 @@
       "comment": "Anna’s defense highlights recognition of good deeds among the community. Authentic righteousness is known by fruit, as Christ taught (Matt. 7:16). Personal conflict teaches humility and the reality of virtue practiced in hidden ways."
     }
   ],
-  "translatedAt": "2025-12-24T04:54:40.628Z"
+  "translatedAt": "2025-12-24T04:54:40.628Z",
+  "sections": [
+    {
+      "title": "Tobit's Burial of the Murdered Israelite",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Tobit's Blindness",
+      "startVerse": 7,
+      "endVerse": 9
+    },
+    {
+      "title": "Anna Earns a Living and Tobit's Dispute over the Goat",
+      "startVerse": 10,
+      "endVerse": 14
+    }
+  ]
 }

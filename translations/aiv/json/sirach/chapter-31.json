@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Worry about wealth makes a man lose sleep; anxiety about it deprives him of rest.",
       "links": "<a href='/AIV/20/23/4'>Prov. 23:4</a>; <a href='/AIV/19/127/2'>Ps. 127:2</a>",
-      "comment": "This verse emphasizes the heavy burden that the pursuit of wealth can bring. Solomon often warns against the anxiety of riches (see Proverbs), reminding us to trust God for our daily needs."
+      "comment": "This verse emphasizes the heavy burden that the pursuit of wealth can bring. Solomon often warns against the anxiety of riches (see Proverbs), reminding us to trust God for our daily needs.",
+      "sectionHeader": "The Dangers of Wealth and Greed"
     },
     {
       "pk": 28031002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Blessed is the rich person who is found without fault, who does not pursue gold with greed.",
       "links": "<a href='/AIV/40/5/3'>Matt. 5:3</a>",
-      "comment": "True blessedness is possible even for the wealthy, if they resist greed and remain upright. Recall Jesus’ teaching about the ‘poor in spirit’ finding the kingdom of heaven."
+      "comment": "True blessedness is possible even for the wealthy, if they resist greed and remain upright. Recall Jesus’ teaching about the ‘poor in spirit’ finding the kingdom of heaven.",
+      "sectionHeader": "Blessed Is the One Who Uses Wealth Rightly"
     },
     {
       "pk": 28031009,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "Are you seated at a lavish table? Do not reach out first, nor be greedy with what is placed before you.",
       "links": "<a href='/AIV/20/23/1-2'>Prov. 23:1-2</a>",
-      "comment": "This verse offers practical wisdom about moderation, guarding against gluttony and greed. Such virtue is echoed in Paul’s teachings on self-control (Gal. 5:23)."
+      "comment": "This verse offers practical wisdom about moderation, guarding against gluttony and greed. Such virtue is echoed in Paul’s teachings on self-control (Gal. 5:23).",
+      "sectionHeader": "Moderation at the Table"
     },
     {
       "pk": 28031013,
@@ -326,7 +329,8 @@
       "verse": 27,
       "text": "Wine is like life to a person, if it is drunk moderately; what is life to one without wine?",
       "links": "<a href='/AIV/19/104/14-15'>Ps. 104:14-15</a>; <a href='/AIV/54/5/23'>1 Tim. 5:23</a>",
-      "comment": "Wine is praised, not condemned, but only if used with moderation. The celebration of wine in Psalm 104 is balanced by warnings elsewhere (e.g., Proverbs 20:1). Wine also foreshadows the New Covenant in Christ’s blood (Matt. 26:27-28)."
+      "comment": "Wine is praised, not condemned, but only if used with moderation. The celebration of wine in Psalm 104 is balanced by warnings elsewhere (e.g., Proverbs 20:1). Wine also foreshadows the New Covenant in Christ’s blood (Matt. 26:27-28).",
+      "sectionHeader": "Moderation in Wine and Avoidance of Drunkenness"
     },
     {
       "pk": 28031028,
@@ -377,5 +381,27 @@
       "comment": "Peace and goodwill, especially at times of celebration, are always preferable to conflict. This wisdom harmonizes with Jesus’ teaching to seek reconciliation before bringing an offering to God (see Matthew 5)."
     }
   ],
-  "translatedAt": "2025-12-24T07:39:44.417Z"
+  "translatedAt": "2025-12-24T07:39:44.417Z",
+  "sections": [
+    {
+      "title": "The Dangers of Wealth and Greed",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Blessed Is the One Who Uses Wealth Rightly",
+      "startVerse": 8,
+      "endVerse": 11
+    },
+    {
+      "title": "Moderation at the Table",
+      "startVerse": 12,
+      "endVerse": 26
+    },
+    {
+      "title": "Moderation in Wine and Avoidance of Drunkenness",
+      "startVerse": 27,
+      "endVerse": 31
+    }
+  ]
 }

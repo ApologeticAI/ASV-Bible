@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "After the plague, the LORD spoke to Moses and to Eleazar the son of Aaron the priest, saying:",
       "links": "<a href='/AIV/4/25/9'>Num. 25:9</a>; <a href='/AIV/4/1/1'>Num. 1:1</a>",
-      "comment": "The context here follows immediately after the plague because of Israel's sin with Baal-peor (see Numbers 25). Notice also the divine initiative in renewal after judgment, a pattern echoed in later salvation history."
+      "comment": "The context here follows immediately after the plague because of Israel's sin with Baal-peor (see Numbers 25). Notice also the divine initiative in renewal after judgment, a pattern echoed in later salvation history.",
+      "sectionHeader": "The Second Census of Israel"
     },
     {
       "pk": 4026002,
@@ -626,7 +627,8 @@
       "verse": 52,
       "text": "The LORD spoke to Moses, saying:",
       "links": "<a href='/AIV/4/1/1'>Num. 1:1</a>",
-      "comment": "Once again, every directive comes from the Lord, underlining the necessity of obedience to divinely ordained leadership in the people of God."
+      "comment": "Once again, every directive comes from the Lord, underlining the necessity of obedience to divinely ordained leadership in the people of God.",
+      "sectionHeader": "Instructions for Division of the Land"
     },
     {
       "pk": 4026053,
@@ -686,7 +688,8 @@
       "verse": 57,
       "text": "These are those who were numbered of the Levites according to their families: of Gershon, the family of the Gershonites; of Kohath, the family of the Kohathites; of Merari, the family of the Merarites.",
       "links": "<a href='/AIV/4/3/17'>Num. 3:17</a>",
-      "comment": "The Levites are counted separately, as they serve sacred functions. God calls and sets apart individuals for service for the sake of the whole people—a principle fulfilled in ordained ministry in the NT."
+      "comment": "The Levites are counted separately, as they serve sacred functions. God calls and sets apart individuals for service for the sake of the whole people—a principle fulfilled in ordained ministry in the NT.",
+      "sectionHeader": "The Census of the Levites"
     },
     {
       "pk": 4026058,
@@ -770,7 +773,8 @@
       "verse": 64,
       "text": "But among these there was not a man from those numbered by Moses and Aaron the priest, who had numbered the people of Israel in the wilderness of Sinai.",
       "links": "<a href='/AIV/4/14/29-30'>Num. 14:29-30</a>",
-      "comment": "All the older generation except Joshua and Caleb have died, fulfilling God’s word due to Israel’s unbelief. God’s promises stand, but the unfaithful are not part of the inheritance."
+      "comment": "All the older generation except Joshua and Caleb have died, fulfilling God’s word due to Israel’s unbelief. God’s promises stand, but the unfaithful are not part of the inheritance.",
+      "sectionHeader": "Only Caleb and Joshua Remain from the First Census"
     },
     {
       "pk": 4026065,
@@ -785,5 +789,27 @@
       "comment": "Caleb and Joshua alone remain as faithful witnesses. Their perseverance prefigures the promise of entering the eternal inheritance through faithfulness and obedience—shadows of Christ’s perfect obedience and inheritance for His people (<a href='/AIV/58/4/8-9'>Hebrews 4:8-9</a>)."
     }
   ],
-  "translatedAt": "2025-12-24T01:49:56.868Z"
+  "translatedAt": "2025-12-24T01:49:56.868Z",
+  "sections": [
+    {
+      "title": "The Second Census of Israel",
+      "startVerse": 1,
+      "endVerse": 51
+    },
+    {
+      "title": "Instructions for Division of the Land",
+      "startVerse": 52,
+      "endVerse": 56
+    },
+    {
+      "title": "The Census of the Levites",
+      "startVerse": 57,
+      "endVerse": 63
+    },
+    {
+      "title": "Only Caleb and Joshua Remain from the First Census",
+      "startVerse": 64,
+      "endVerse": 65
+    }
+  ]
 }

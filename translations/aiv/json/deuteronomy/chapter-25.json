@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "If there is a dispute between men, and they come before the judges, and they judge them, and declare the righteous innocent and pronounce the wicked guilty,",
       "links": "<a href='/AIV/2/23/7'>Ex. 23:7</a>; <a href='/AIV/5/16/18'>Deut. 16:18</a>",
-      "comment": "This verse establishes the principle of justice through judges, a theme that echoes through Scripture. Notice the role of authorized judgment among God's people, prefiguring the divine authority given to church leaders in the New Testament (see <a href='/AIV/40/16/19'>Matt. 16:19</a>)."
+      "comment": "This verse establishes the principle of justice through judges, a theme that echoes through Scripture. Notice the role of authorized judgment among God's people, prefiguring the divine authority given to church leaders in the New Testament (see <a href='/AIV/40/16/19'>Matt. 16:19</a>).",
+      "sectionHeader": "Judicial Punishment and Its Limits"
     },
     {
       "pk": 5025002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "You shall not muzzle an ox when it is treading out the grain.",
       "links": "<a href='/AIV/46/9/9'>1 Cor. 9:9</a>; <a href='/AIV/54/5/18'>1 Tim. 5:18</a>",
-      "comment": "Paul cites this law to show that those who labor in spiritual work should share in its fruits, affirming a principle of support for those entrusted with teaching and leading the Church."
+      "comment": "Paul cites this law to show that those who labor in spiritual work should share in its fruits, affirming a principle of support for those entrusted with teaching and leading the Church.",
+      "sectionHeader": "Kindness to Working Animals"
     },
     {
       "pk": 5025005,
@@ -62,7 +64,8 @@
       "verse": 5,
       "text": "If brothers dwell together, and one of them dies without having a son, the wife of the dead man shall not marry outside of the family to a stranger. Her husband's brother shall take her as his wife and perform the duty of a brother-in-law to her.",
       "links": "<a href='/AIV/1/38/8'>Gen. 38:8</a>; <a href='/AIV/40/22/24'>Matt. 22:24</a>",
-      "comment": "This law supports the preservation of family lineage—a vital issue in salvation history. It prepares the way for the genealogy of Jesus (as in <a href='/AIV/40/1/5'>Matt. 1:5</a>), and hints at deeper spiritual realities of kinship within the People of God."
+      "comment": "This law supports the preservation of family lineage—a vital issue in salvation history. It prepares the way for the genealogy of Jesus (as in <a href='/AIV/40/1/5'>Matt. 1:5</a>), and hints at deeper spiritual realities of kinship within the People of God.",
+      "sectionHeader": "The Law of Levirate Marriage"
     },
     {
       "pk": 5025006,
@@ -134,7 +137,8 @@
       "verse": 11,
       "text": "If two men are fighting with each other, and the wife of one comes near to rescue her husband from the hand of him who is beating him, and puts out her hand and seizes him by the private parts,",
       "links": "",
-      "comment": "This specific law is about personal boundaries and protecting human dignity, which has deeper implications for sexual purity and respecting the order established by God."
+      "comment": "This specific law is about personal boundaries and protecting human dignity, which has deeper implications for sexual purity and respecting the order established by God.",
+      "sectionHeader": "Penalty for Improper Intervention in a Fight"
     },
     {
       "pk": 5025012,
@@ -158,7 +162,8 @@
       "verse": 13,
       "text": "You shall not have in your bag differing weights, a heavy and a light.",
       "links": "<a href='/AIV/3/19/35-36'>Lev. 19:35-36</a>; <a href='/AIV/20/20/10'>Prov. 20:10</a>",
-      "comment": "This law condemns dishonesty in business. Scripture consistently calls for integrity—a foundation for right worship and faithful living. ‘Weights and measures’ became symbols for justice and judgment."
+      "comment": "This law condemns dishonesty in business. Scripture consistently calls for integrity—a foundation for right worship and faithful living. ‘Weights and measures’ became symbols for justice and judgment.",
+      "sectionHeader": "Honest Weights and Measures"
     },
     {
       "pk": 5025014,
@@ -206,7 +211,8 @@
       "verse": 17,
       "text": "Remember what Amalek did to you on the way as you came out of Egypt,",
       "links": "<a href='/AIV/2/17/8-16'>Ex. 17:8-16</a>; <a href='/AIV/9/15/2-3'>1 Sam. 15:2-3</a>",
-      "comment": "Recollection of Amalek’s attack frames Israel’s journey as spiritual warfare—the New Testament later applies such themes to the Church’s battle against sin and evil (<a href='/AIV/49/6/12'>Eph. 6:12</a>)."
+      "comment": "Recollection of Amalek’s attack frames Israel’s journey as spiritual warfare—the New Testament later applies such themes to the Church’s battle against sin and evil (<a href='/AIV/49/6/12'>Eph. 6:12</a>).",
+      "sectionHeader": "Command to Blot Out Amalek"
     },
     {
       "pk": 5025018,
@@ -233,5 +239,37 @@
       "comment": "Complete obedience to divine command symbolizes the ultimate victory over evil. This points forward to Christ's final triumph over the powers of darkness. 'Do not forget' is a call to faithful remembrance—a key theme in worship and spiritual life (<a href='/AIV/42/22/19'>Luke 22:19</a>)."
     }
   ],
-  "translatedAt": "2025-12-24T02:10:24.050Z"
+  "translatedAt": "2025-12-24T02:10:24.050Z",
+  "sections": [
+    {
+      "title": "Judicial Punishment and Its Limits",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "Kindness to Working Animals",
+      "startVerse": 4,
+      "endVerse": 4
+    },
+    {
+      "title": "The Law of Levirate Marriage",
+      "startVerse": 5,
+      "endVerse": 10
+    },
+    {
+      "title": "Penalty for Improper Intervention in a Fight",
+      "startVerse": 11,
+      "endVerse": 12
+    },
+    {
+      "title": "Honest Weights and Measures",
+      "startVerse": 13,
+      "endVerse": 16
+    },
+    {
+      "title": "Command to Blot Out Amalek",
+      "startVerse": 17,
+      "endVerse": 19
+    }
+  ]
 }

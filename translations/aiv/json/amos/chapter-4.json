@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Hear this word, you cows of Bashan who are on the mountain of Samaria, you who oppress the poor, crush the needy, and say to your husbands, 'Bring us something to drink.'",
       "links": "<a href='/AIV/19/22/12'>Ps. 22:12</a>; <a href='/AIV/30/3/9'>Amos 3:9</a>",
-      "comment": "The women of Samaria are rebuked for luxury and oppression. The word 'cows of Bashan' is figurative for wealthy women who indulge at the expense of the poor. This calls to mind the importance of both justice and mercy, reminiscent of Mary's Magnificat (<a href='/AIV/42/1/52-53'>Luke 1:52-53</a>), where God opposes the proud but lifts up the lowly."
+      "comment": "The women of Samaria are rebuked for luxury and oppression. The word 'cows of Bashan' is figurative for wealthy women who indulge at the expense of the poor. This calls to mind the importance of both justice and mercy, reminiscent of Mary's Magnificat (<a href='/AIV/42/1/52-53'>Luke 1:52-53</a>), where God opposes the proud but lifts up the lowly.",
+      "sectionHeader": "Judgment on the Wealthy Women of Samaria"
     },
     {
       "pk": 37004002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "'Go to Bethel and transgress, to Gilgal and multiply transgression; bring your sacrifices every morning, your tithes every three days.'",
       "links": "<a href='/AIV/09/15/22'>1 Sam. 15:22</a>; <a href='/AIV/28/8/11'>Hos. 8:11</a>",
-      "comment": "This is irony: God mocks their religious activity that lacks true devotion. Even frequent sacrifices mean nothing without obedience (cf. <a href='/AIV/09/15/22'>1 Sam. 15:22</a>). The cycle of sacrifice anticipates the need for a true, once-for-all sacrifice, fulfilled in Christ (<a href='/AIV/58/10/10'>Heb. 10:10</a>)."
+      "comment": "This is irony: God mocks their religious activity that lacks true devotion. Even frequent sacrifices mean nothing without obedience (cf. <a href='/AIV/09/15/22'>1 Sam. 15:22</a>). The cycle of sacrifice anticipates the need for a true, once-for-all sacrifice, fulfilled in Christ (<a href='/AIV/58/10/10'>Heb. 10:10</a>).",
+      "sectionHeader": "Israel’s False Worship"
     },
     {
       "pk": 37004005,
@@ -74,7 +76,8 @@
       "verse": 6,
       "text": "'I gave you empty stomachs in all your cities, and lack of bread in all your places, yet you did not return to Me,' declares the Lord.",
       "links": "<a href='/AIV/03/26/26'>Lev. 26:26</a>; <a href='/AIV/23/9/13'>Isa. 9:13</a>",
-      "comment": "God's discipline—hunger—was meant to turn Israel back. Yet they did not repent. This highlights the call for ongoing conversion, not merely a one-time acknowledgment. Repentance is a continual turning to God's grace."
+      "comment": "God's discipline—hunger—was meant to turn Israel back. Yet they did not repent. This highlights the call for ongoing conversion, not merely a one-time acknowledgment. Repentance is a continual turning to God's grace.",
+      "sectionHeader": "The Lord’s Warnings and Israel’s Refusal to Return"
     },
     {
       "pk": 37004007,
@@ -146,7 +149,8 @@
       "verse": 12,
       "text": "'Therefore thus I will do to you, O Israel; because I will do this to you, prepare to meet your God, O Israel!'",
       "links": "<a href='/AIV/02/19/17'>Exod. 19:17</a>; <a href='/AIV/58/12/29'>Heb. 12:29</a>",
-      "comment": "'Prepare to meet your God' is both a threat and a mercy—a final summons to repentance. Compare with the 'Day of the Lord' theme throughout Scripture (<a href='/AIV/23/13/6'>Isa. 13:6</a>). The motif anticipates New Testament teaching on judgment and readiness (<a href='/AIV/40/25/13'>Matt. 25:13</a>)."
+      "comment": "'Prepare to meet your God' is both a threat and a mercy—a final summons to repentance. Compare with the 'Day of the Lord' theme throughout Scripture (<a href='/AIV/23/13/6'>Isa. 13:6</a>). The motif anticipates New Testament teaching on judgment and readiness (<a href='/AIV/40/25/13'>Matt. 25:13</a>).",
+      "sectionHeader": "Prepare to Meet Your God"
     },
     {
       "pk": 37004013,
@@ -161,5 +165,27 @@
       "comment": "Amos closes with a hymn-like ascription to God as Creator and Ruler—a reminder of divine majesty. This encourages reverent awe before God. In Christ, the fullness of this revelation is seen (<a href='/AIV/43/1/3'>John 1:3</a>)."
     }
   ],
-  "translatedAt": "2025-12-24T09:42:55.654Z"
+  "translatedAt": "2025-12-24T09:42:55.654Z",
+  "sections": [
+    {
+      "title": "Judgment on the Wealthy Women of Samaria",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "Israel’s False Worship",
+      "startVerse": 4,
+      "endVerse": 5
+    },
+    {
+      "title": "The Lord’s Warnings and Israel’s Refusal to Return",
+      "startVerse": 6,
+      "endVerse": 11
+    },
+    {
+      "title": "Prepare to Meet Your God",
+      "startVerse": 12,
+      "endVerse": 13
+    }
+  ]
 }

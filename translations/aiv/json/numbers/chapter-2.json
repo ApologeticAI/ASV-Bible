@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The LORD spoke to Moses and to Aaron, saying:",
       "links": "<a href='/AIV/3/1/1'>Lev. 1:1</a>",
-      "comment": "God continues to speak directly to Moses and Aaron, showing his chosen pattern of leadership for guiding His people, hinting toward the importance of divinely appointed leadership in the faith community."
+      "comment": "God continues to speak directly to Moses and Aaron, showing his chosen pattern of leadership for guiding His people, hinting toward the importance of divinely appointed leadership in the faith community.",
+      "sectionHeader": "Arrangement of the Camps"
     },
     {
       "pk": 4002002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "Those who camp on the east side, toward the sunrise, shall be the standard of the camp of Judah by their armies. The leader of the people of Judah shall be Nahshon the son of Amminadab.",
       "links": "<a href='/AIV/4/1/7'>Num. 1:7</a>; <a href='/AIV/40/1/2-3'>Matt. 1:2-3</a>",
-      "comment": "Judah is given a position of honor, facing the sunrise. Judah’s prominence points forward to the Messiah coming from this tribe (Genesis 49:10; Matthew 1:2-3)."
+      "comment": "Judah is given a position of honor, facing the sunrise. Judah’s prominence points forward to the Messiah coming from this tribe (Genesis 49:10; Matthew 1:2-3).",
+      "sectionHeader": "Camp of Judah on the East"
     },
     {
       "pk": 4002004,
@@ -122,7 +124,8 @@
       "verse": 10,
       "text": "On the south side shall be the standard of the camp of Reuben by their armies. The leader of the people of Reuben shall be Elizur the son of Shedeur.",
       "links": "<a href='/AIV/4/1/5'>Num. 1:5</a>",
-      "comment": "Reuben, firstborn of Jacob, has a prominent position, but not the preeminent one. God’s order often differs from human expectations."
+      "comment": "Reuben, firstborn of Jacob, has a prominent position, but not the preeminent one. God’s order often differs from human expectations.",
+      "sectionHeader": "Camp of Reuben on the South"
     },
     {
       "pk": 4002011,
@@ -218,7 +221,8 @@
       "verse": 18,
       "text": "On the west side shall be the standard of the camp of Ephraim by their armies. The leader of the people of Ephraim shall be Elishama the son of Ammihud.",
       "links": "<a href='/AIV/4/1/10'>Num. 1:10</a>",
-      "comment": "Ephraim is given a strategic, significant place—reflecting God’s sovereignty in allocating roles according to His purpose."
+      "comment": "Ephraim is given a strategic, significant place—reflecting God’s sovereignty in allocating roles according to His purpose.",
+      "sectionHeader": "Camp of Ephraim on the West"
     },
     {
       "pk": 4002019,
@@ -302,7 +306,8 @@
       "verse": 25,
       "text": "On the north side shall be the standard of the camp of Dan by their armies. The leader of the people of Dan shall be Ahiezer the son of Ammishaddai.",
       "links": "<a href='/AIV/4/1/12'>Num. 1:12</a>",
-      "comment": "Dan’s place on the north signals both protection and watchfulness, upholding the completeness of Israel."
+      "comment": "Dan’s place on the north signals both protection and watchfulness, upholding the completeness of Israel.",
+      "sectionHeader": "Camp of Dan on the North"
     },
     {
       "pk": 4002026,
@@ -386,7 +391,8 @@
       "verse": 32,
       "text": "These are the people of Israel by their fathers’ houses. All those numbered of the camps by their armies were 603,550.",
       "links": "<a href='/AIV/4/1/46'>Num. 1:46</a>",
-      "comment": "The total mirrors the census earlier in Numbers, showing continuity and emphasizing the fullness of God’s chosen nation."
+      "comment": "The total mirrors the census earlier in Numbers, showing continuity and emphasizing the fullness of God’s chosen nation.",
+      "sectionHeader": "Summary of the Encampment"
     },
     {
       "pk": 4002033,
@@ -413,5 +419,37 @@
       "comment": "Israel’s faithful obedience signals God’s desire for orderly worship, community, and unity—an early form of spiritual discipline central to the life of faith, ultimately gathered around Christ."
     }
   ],
-  "translatedAt": "2025-12-24T01:28:41.341Z"
+  "translatedAt": "2025-12-24T01:28:41.341Z",
+  "sections": [
+    {
+      "title": "Arrangement of the Camps",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "Camp of Judah on the East",
+      "startVerse": 3,
+      "endVerse": 9
+    },
+    {
+      "title": "Camp of Reuben on the South",
+      "startVerse": 10,
+      "endVerse": 17
+    },
+    {
+      "title": "Camp of Ephraim on the West",
+      "startVerse": 18,
+      "endVerse": 24
+    },
+    {
+      "title": "Camp of Dan on the North",
+      "startVerse": 25,
+      "endVerse": 31
+    },
+    {
+      "title": "Summary of the Encampment",
+      "startVerse": 32,
+      "endVerse": 34
+    }
+  ]
 }

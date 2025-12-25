@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "After this, the Lord appointed seventy-two others and sent them ahead of him, two by two, into every town and place where he himself was about to go.",
       "links": "<a href='/AIV/40/28/19'>Matt. 28:19</a>; <a href='/AIV/02/18/21-22'>Ex. 18:21-22</a>",
-      "comment": "Jesus's sending of seventy-two foreshadows universal mission, connecting to Moses appointing elders (Ex. 18). The number “seventy-two” signifies fullness and inclusiveness, not just the twelve apostles. This hints at a structured, hierarchical, and worldwide mission of the Church."
+      "comment": "Jesus's sending of seventy-two foreshadows universal mission, connecting to Moses appointing elders (Ex. 18). The number “seventy-two” signifies fullness and inclusiveness, not just the twelve apostles. This hints at a structured, hierarchical, and worldwide mission of the Church.",
+      "sectionHeader": "The Mission of the Seventy-Two"
     },
     {
       "pk": 49010002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "'Woe to you, Chorazin! Woe to you, Bethsaida! For if the mighty works done in you had been done in Tyre and Sidon, they would have repented long ago, sitting in sackcloth and ashes.'",
       "links": "<a href='/AIV/40/11/21'>Matt. 11:21</a>; <a href='/AIV/23/23/1-11'>Isa. 23:1-11</a>",
-      "comment": "Greater responsibility follows greater revelation. Those who encounter Christ through tangible means are called to deep conversion."
+      "comment": "Greater responsibility follows greater revelation. Those who encounter Christ through tangible means are called to deep conversion.",
+      "sectionHeader": "Woes to Unrepentant Cities"
     },
     {
       "pk": 49010014,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "The seventy-two returned with joy, saying, 'Lord, even the demons submit to us in your name!'",
       "links": "<a href='/AIV/41/6/13'>Mark 6:13</a>; <a href='/AIV/44/19/13-17'>Acts 19:13-17</a>",
-      "comment": "The invocation of ‘in your name’ reveals the power of Christ’s personal authority, received by his ministers. This demonstrates the delegated but real authority present in the Church."
+      "comment": "The invocation of ‘in your name’ reveals the power of Christ’s personal authority, received by his ministers. This demonstrates the delegated but real authority present in the Church.",
+      "sectionHeader": "The Return of the Seventy-Two"
     },
     {
       "pk": 49010018,
@@ -254,7 +257,8 @@
       "verse": 21,
       "text": "At that same hour, Jesus rejoiced greatly in the Holy Spirit and said, 'I thank you, Father, Lord of heaven and earth, that you have hidden these things from the wise and learned and have revealed them to little children. Yes, Father, for such was your gracious will.'",
       "links": "<a href='/AIV/19/8/2'>Ps. 8:2</a>; <a href='/AIV/40/11/25'>Matt. 11:25</a>",
-      "comment": "Here Jesus is depicted in intimate unity with the Father and the Spirit – an implicit claim to divinity and illustration of Trinitarian mystery."
+      "comment": "Here Jesus is depicted in intimate unity with the Father and the Spirit – an implicit claim to divinity and illustration of Trinitarian mystery.",
+      "sectionHeader": "Jesus' Thanksgiving to the Father"
     },
     {
       "pk": 49010022,
@@ -302,7 +306,8 @@
       "verse": 25,
       "text": "And behold, a certain lawyer stood up to test him, saying, 'Teacher, what must I do to inherit eternal life?'",
       "links": "<a href='/AIV/40/19/16'>Matt. 19:16</a>; <a href='/AIV/03/18/5'>Lev. 18:5</a>",
-      "comment": "The question of eternal life is central; Jesus is depicted as the source and authoritative guide for salvation."
+      "comment": "The question of eternal life is central; Jesus is depicted as the source and authoritative guide for salvation.",
+      "sectionHeader": "The Parable of the Good Samaritan"
     },
     {
       "pk": 49010026,
@@ -458,7 +463,8 @@
       "verse": 38,
       "text": "Now as they were going along, he entered a village; and a woman named Martha welcomed him into her house.",
       "links": "<a href='/AIV/43/11/1'>John 11:1</a>",
-      "comment": "Hospitality toward Christ is both spiritual and practical, laying foundations for the necessity of welcoming Jesus into daily life."
+      "comment": "Hospitality toward Christ is both spiritual and practical, laying foundations for the necessity of welcoming Jesus into daily life.",
+      "sectionHeader": "Jesus at the Home of Martha and Mary"
     },
     {
       "pk": 49010039,
@@ -509,5 +515,37 @@
       "comment": "Mary’s focus on the Lord points to the primacy of spiritual contemplation above all else—a foundation for true discipleship and unity in faith, rooted in direct encounter with Christ."
     }
   ],
-  "translatedAt": "2025-12-24T10:47:48.932Z"
+  "translatedAt": "2025-12-24T10:47:48.932Z",
+  "sections": [
+    {
+      "title": "The Mission of the Seventy-Two",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "Woes to Unrepentant Cities",
+      "startVerse": 13,
+      "endVerse": 16
+    },
+    {
+      "title": "The Return of the Seventy-Two",
+      "startVerse": 17,
+      "endVerse": 20
+    },
+    {
+      "title": "Jesus' Thanksgiving to the Father",
+      "startVerse": 21,
+      "endVerse": 24
+    },
+    {
+      "title": "The Parable of the Good Samaritan",
+      "startVerse": 25,
+      "endVerse": 37
+    },
+    {
+      "title": "Jesus at the Home of Martha and Mary",
+      "startVerse": 38,
+      "endVerse": 42
+    }
+  ]
 }

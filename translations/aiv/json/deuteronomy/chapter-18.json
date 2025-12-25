@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The priests, the Levites—indeed, the whole tribe of Levi—shall have no share nor inheritance with Israel; they are to eat the offerings made by fire to the LORD and his inheritance.",
       "links": "<a href='/AIV/4/18/20'>Num. 18:20</a>; <a href='/AIV/5/10/9'>Deut. 10:9</a>",
-      "comment": "This establishes the unique status of the tribe of Levi, set apart for ministering before God, relying on sacred offerings for sustenance. Similar to later traditions where ministers rely on the gifts of the faithful."
+      "comment": "This establishes the unique status of the tribe of Levi, set apart for ministering before God, relying on sacred offerings for sustenance. Similar to later traditions where ministers rely on the gifts of the faithful.",
+      "sectionHeader": "Portion and Duties of the Levites"
     },
     {
       "pk": 5018002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "When you enter the land that the LORD your God is giving you, do not learn to imitate the detestable ways of those nations.",
       "links": "<a href='/AIV/3/18/24'>Lev. 18:24</a>; <a href='/AIV/5/12/30-31'>Deut. 12:30-31</a>",
-      "comment": "A clear warning against syncretism and adopting pagan customs ensures purity of worship, foreshadowing concern for spiritual integrity in the community."
+      "comment": "A clear warning against syncretism and adopting pagan customs ensures purity of worship, foreshadowing concern for spiritual integrity in the community.",
+      "sectionHeader": "Forbidden Pagan Practices"
     },
     {
       "pk": 5018010,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "The LORD your God will raise up for you a prophet like me from among your own brothers. You must listen to him.",
       "links": "<a href='/AIV/44/3/22'>Acts 3:22</a>; <a href='/AIV/44/7/37'>Acts 7:37</a>; <a href='/AIV/40/17/5'>Matt. 17:5</a>",
-      "comment": "This verse is christologically significant. Early Christian tradition sees Moses’ prophecy fulfilled in Jesus, the greatest Prophet, who surpasses all previous messengers. God himself commands us to heed him (cf. Matthew 17:5)."
+      "comment": "This verse is christologically significant. Early Christian tradition sees Moses’ prophecy fulfilled in Jesus, the greatest Prophet, who surpasses all previous messengers. God himself commands us to heed him (cf. Matthew 17:5).",
+      "sectionHeader": "A Prophet Like Moses"
     },
     {
       "pk": 5018016,
@@ -242,7 +245,8 @@
       "verse": 20,
       "text": "But the prophet who presumes to speak a word in my name that I have not commanded him to speak, or who speaks in the name of other gods, that prophet must die.",
       "links": "<a href='/AIV/5/13/1-5'>Deut. 13:1-5</a>",
-      "comment": "False prophecy is a grave offense. Safeguarding true doctrine remains vital throughout Scripture and Tradition, protecting the community from error."
+      "comment": "False prophecy is a grave offense. Safeguarding true doctrine remains vital throughout Scripture and Tradition, protecting the community from error.",
+      "sectionHeader": "Test of a True Prophet"
     },
     {
       "pk": 5018021,
@@ -269,5 +273,27 @@
       "comment": "True prophecy is vindicated by fulfillment. This foundation for trustworthy teaching anticipates a later magisterial authority in guiding God’s people, ensuring doctrinal purity and unity."
     }
   ],
-  "translatedAt": "2025-12-24T02:06:39.426Z"
+  "translatedAt": "2025-12-24T02:06:39.426Z",
+  "sections": [
+    {
+      "title": "Portion and Duties of the Levites",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "Forbidden Pagan Practices",
+      "startVerse": 9,
+      "endVerse": 14
+    },
+    {
+      "title": "A Prophet Like Moses",
+      "startVerse": 15,
+      "endVerse": 19
+    },
+    {
+      "title": "Test of a True Prophet",
+      "startVerse": 20,
+      "endVerse": 22
+    }
+  ]
 }

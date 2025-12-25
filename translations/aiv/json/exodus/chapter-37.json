@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Bezalel made the ark of acacia wood. It was two and a half cubits long, one and a half cubits wide, and one and a half cubits high.",
       "links": "<a href='/AIV/2/25/10'>Exod. 25:10</a>",
-      "comment": "Here the skilled craftsman, Bezalel, fulfills the command given earlier for constructing the ark. The precise measurements emphasize obedience and the sacredness of God's instruction, pointing to reverence in worship."
+      "comment": "Here the skilled craftsman, Bezalel, fulfills the command given earlier for constructing the ark. The precise measurements emphasize obedience and the sacredness of God's instruction, pointing to reverence in worship.",
+      "sectionHeader": "The Ark of the Covenant"
     },
     {
       "pk": 2037002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "He made the table of acacia wood, two cubits long, one cubit wide, and one and a half cubits high.",
       "links": "<a href='/AIV/2/25/23'>Exod. 25:23</a>",
-      "comment": "The table holds the bread of the Presence, a continual offering foreshadowing the perpetual sacrifice in Christian worship (<a href='/AIV/40/26/26'>Matt. 26:26</a>)."
+      "comment": "The table holds the bread of the Presence, a continual offering foreshadowing the perpetual sacrifice in Christian worship (<a href='/AIV/40/26/26'>Matt. 26:26</a>).",
+      "sectionHeader": "The Table for the Bread of the Presence"
     },
     {
       "pk": 2037011,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "He made the lampstand of pure gold. He made the lampstand of hammered work, its base and its shaft; its cups, its buds, and its flowers were of one piece with it.",
       "links": "<a href='/AIV/2/25/31'>Exod. 25:31</a>",
-      "comment": "The lampstand, or menorah, is styled to resemble a tree, linking creation and worship. Its light prefigures the light of Christ, who is the true light to the world (<a href='/AIV/43/8/12'>John 8:12</a>)."
+      "comment": "The lampstand, or menorah, is styled to resemble a tree, linking creation and worship. Its light prefigures the light of Christ, who is the true light to the world (<a href='/AIV/43/8/12'>John 8:12</a>).",
+      "sectionHeader": "The Golden Lampstand"
     },
     {
       "pk": 2037018,
@@ -302,7 +305,8 @@
       "verse": 25,
       "text": "He made the altar of incense of acacia wood. It was a cubit long and a cubit wide—it was square—and two cubits high. Its horns were of one piece with it.",
       "links": "<a href='/AIV/2/30/1-2'>Exod. 30:1-2</a>",
-      "comment": "The altar of incense, like the prayers of the saints rising to God, will be echoed in <a href='/AIV/66/8/3-4'>Revelation 8:3-4</a>, showing a continuity of spiritual worship."
+      "comment": "The altar of incense, like the prayers of the saints rising to God, will be echoed in <a href='/AIV/66/8/3-4'>Revelation 8:3-4</a>, showing a continuity of spiritual worship.",
+      "sectionHeader": "The Altar of Incense"
     },
     {
       "pk": 2037026,
@@ -350,8 +354,36 @@
       "verse": 29,
       "text": "He made the holy anointing oil and the pure fragrant incense, the work of a perfumer.",
       "links": "<a href='/AIV/2/30/22-38'>Exod. 30:22-38</a>",
-      "comment": "The anointing oil and incense signify the setting apart of persons and objects for God’s service—echoing how God marks His own with His Spirit. Such sacramental language and action foreshadow the sanctifying work of Christ and the Spirit in the life of the faithful."
+      "comment": "The anointing oil and incense signify the setting apart of persons and objects for God’s service—echoing how God marks His own with His Spirit. Such sacramental language and action foreshadow the sanctifying work of Christ and the Spirit in the life of the faithful.",
+      "sectionHeader": "The Anointing Oil and the Incense"
     }
   ],
-  "translatedAt": "2025-12-24T01:08:00.370Z"
+  "translatedAt": "2025-12-24T01:08:00.370Z",
+  "sections": [
+    {
+      "title": "The Ark of the Covenant",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "The Table for the Bread of the Presence",
+      "startVerse": 10,
+      "endVerse": 16
+    },
+    {
+      "title": "The Golden Lampstand",
+      "startVerse": 17,
+      "endVerse": 24
+    },
+    {
+      "title": "The Altar of Incense",
+      "startVerse": 25,
+      "endVerse": 28
+    },
+    {
+      "title": "The Anointing Oil and the Incense",
+      "startVerse": 29,
+      "endVerse": 29
+    }
+  ]
 }

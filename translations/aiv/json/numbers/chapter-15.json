@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The LORD spoke to Moses, saying,",
       "links": "",
-      "comment": "A new section begins; the LORD gives direct revelation to Moses for the people of Israel. See also Ex. 12:1."
+      "comment": "A new section begins; the LORD gives direct revelation to Moses for the people of Israel. See also Ex. 12:1.",
+      "sectionHeader": "Laws for Offerings in the Promised Land"
     },
     {
       "pk": 4015002,
@@ -206,7 +207,8 @@
       "verse": 17,
       "text": "The LORD spoke to Moses, saying,",
       "links": "",
-      "comment": "A new oracle begins. The repetition points to the seriousness of these instructions."
+      "comment": "A new oracle begins. The repetition points to the seriousness of these instructions.",
+      "sectionHeader": "Offering the Firstfruits of Dough"
     },
     {
       "pk": 4015018,
@@ -266,7 +268,8 @@
       "verse": 22,
       "text": "But if you unintentionally fail and do not observe all these commandments which the LORD has spoken to Moses,",
       "links": "<a href='/AIV/3/4/2'>Lev. 4:2</a>",
-      "comment": "God distinguishes unintentional from deliberate sin, emphasizing His mercy and justice."
+      "comment": "God distinguishes unintentional from deliberate sin, emphasizing His mercy and justice.",
+      "sectionHeader": "Atonement for Unintentional Sins"
     },
     {
       "pk": 4015023,
@@ -362,7 +365,8 @@
       "verse": 30,
       "text": "But the person who does anything with a high hand, whether he is native or a sojourner, insults the LORD, and that person shall be cut off from among his people.",
       "links": "<a href='/AIV/5/17/12'>Deut. 17:12</a>",
-      "comment": "'High hand' means a deliberate, willful sin—showing contempt for God’s rule. The consequence is exclusion from the community, a theme Christ warns against in Matt. 12:31-32."
+      "comment": "'High hand' means a deliberate, willful sin—showing contempt for God’s rule. The consequence is exclusion from the community, a theme Christ warns against in Matt. 12:31-32.",
+      "sectionHeader": "Punishment for Willful Sin"
     },
     {
       "pk": 4015031,
@@ -386,7 +390,8 @@
       "verse": 32,
       "text": "While the sons of Israel were in the wilderness, they found a man gathering sticks on the Sabbath day.",
       "links": "<a href='/AIV/2/20/8-10'>Ex. 20:8-10</a>",
-      "comment": "An incident illustrating the seriousness of Sabbath observance, referencing the fourth commandment."
+      "comment": "An incident illustrating the seriousness of Sabbath observance, referencing the fourth commandment.",
+      "sectionHeader": "The Sabbath-Breaker Stoned"
     },
     {
       "pk": 4015033,
@@ -446,7 +451,8 @@
       "verse": 37,
       "text": "The LORD spoke to Moses, saying,",
       "links": "",
-      "comment": "A new instruction begins—emphasizing continual openness to God’s revelation."
+      "comment": "A new instruction begins—emphasizing continual openness to God’s revelation.",
+      "sectionHeader": "The Law of Tassels"
     },
     {
       "pk": 4015038,
@@ -497,5 +503,37 @@
       "comment": "This covenant declaration is central: God redeems and claims a people for Himself, fulfilled in the redemption won by Christ."
     }
   ],
-  "translatedAt": "2025-12-24T01:38:56.786Z"
+  "translatedAt": "2025-12-24T01:38:56.786Z",
+  "sections": [
+    {
+      "title": "Laws for Offerings in the Promised Land",
+      "startVerse": 1,
+      "endVerse": 16
+    },
+    {
+      "title": "Offering the Firstfruits of Dough",
+      "startVerse": 17,
+      "endVerse": 21
+    },
+    {
+      "title": "Atonement for Unintentional Sins",
+      "startVerse": 22,
+      "endVerse": 29
+    },
+    {
+      "title": "Punishment for Willful Sin",
+      "startVerse": 30,
+      "endVerse": 31
+    },
+    {
+      "title": "The Sabbath-Breaker Stoned",
+      "startVerse": 32,
+      "endVerse": 36
+    },
+    {
+      "title": "The Law of Tassels",
+      "startVerse": 37,
+      "endVerse": 41
+    }
+  ]
 }

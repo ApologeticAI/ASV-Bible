@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then Holofernes said to her, \"Take courage, woman. Do not be afraid in your heart, for I have never harmed anyone who chose to serve Nebuchadnezzar, the king of all the earth.",
       "links": "<a href='/AIV/27/3/4'>Dan 3:4</a>; <a href='/AIV/12/18/25'>2 Kgs 18:25</a>",
-      "comment": "Holofernes presents himself as merciful to those who submit, echoing the theme of rulers demanding ultimate loyalty. Nebuchadnezzar's title, 'king of all the earth,' points towards rulers claiming divine authority, which has parallels in later biblical prophecy."
+      "comment": "Holofernes presents himself as merciful to those who submit, echoing the theme of rulers demanding ultimate loyalty. Nebuchadnezzar's title, 'king of all the earth,' points towards rulers claiming divine authority, which has parallels in later biblical prophecy.",
+      "sectionHeader": "Judith Before Holofernes"
     },
     {
       "pk": 18011002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "But now, in order that my lord may not be defeated and God may not forsake them, I will explain their fault and how they have sinned.",
       "links": "<a href='/AIV/07/10/6'>Judg 10:6</a>; <a href='/AIV/02/32/7'>Ex 32:7</a>",
-      "comment": "Judith promises to reveal Israel’s sin, mirroring the prophetic role of calling out transgression and acting as an intercessor."
+      "comment": "Judith promises to reveal Israel’s sin, mirroring the prophetic role of calling out transgression and acting as an intercessor.",
+      "sectionHeader": "Judith Reveals Israel’s Plight and Her Plan"
     },
     {
       "pk": 18011011,
@@ -266,7 +268,8 @@
       "verse": 22,
       "text": "Then Holofernes’ attendants said to him, \"No other woman from one end of the earth to the other looks so beautiful or speaks so wisely.\"",
       "links": "<a href='/AIV/11/10/23-24'>1 Kgs 10:23-24</a>",
-      "comment": "This praise echoes the worldwide reputation of Solomon’s wisdom and the Queen of Sheba’s reactions (1 Kgs 10:23-24). Physical beauty and wisdom together are seen as signs of divine favor."
+      "comment": "This praise echoes the worldwide reputation of Solomon’s wisdom and the Queen of Sheba’s reactions (1 Kgs 10:23-24). Physical beauty and wisdom together are seen as signs of divine favor.",
+      "sectionHeader": "Judith Wins Favor with Holofernes"
     },
     {
       "pk": 18011023,
@@ -281,5 +284,22 @@
       "comment": "Holofernes’ declaration parallels Ruth's words of conversion (Ruth 1:16), foreshadowing the universality and outreach of the faith. The idea of becoming renowned among all peoples points to God's desire for His truth to reach all nations through the holy example of His servants."
     }
   ],
-  "translatedAt": "2025-12-24T05:05:36.303Z"
+  "translatedAt": "2025-12-24T05:05:36.303Z",
+  "sections": [
+    {
+      "title": "Judith Before Holofernes",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "Judith Reveals Israel’s Plight and Her Plan",
+      "startVerse": 10,
+      "endVerse": 21
+    },
+    {
+      "title": "Judith Wins Favor with Holofernes",
+      "startVerse": 22,
+      "endVerse": 23
+    }
+  ]
 }

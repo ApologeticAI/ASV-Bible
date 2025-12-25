@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now I do not want you to be unaware, brothers, that our ancestors were all under the cloud, and all passed through the sea.",
       "links": "<a href='/AIV/2/13/21-22'>Exod. 13:21-22</a>; <a href='/AIV/2/14/22'>Exod. 14:22</a>",
-      "comment": "Paul refers to the Exodus, connecting the Israelites' journey with Christian baptism as a spiritual precursor. The 'cloud' symbolizes God's presence and guidance (see also Exod. 13:21-22)."
+      "comment": "Paul refers to the Exodus, connecting the Israelites' journey with Christian baptism as a spiritual precursor. The 'cloud' symbolizes God's presence and guidance (see also Exod. 13:21-22).",
+      "sectionHeader": "Lessons from Israel's Wilderness Experience"
     },
     {
       "pk": 53010002,
@@ -170,7 +171,8 @@
       "verse": 14,
       "text": "Therefore, my beloved, flee from idolatry.",
       "links": "<a href='/AIV/62/5/21'>1 John 5:21</a>; <a href='/AIV/46/6/18'>1 Cor. 6:18</a>",
-      "comment": "Paul's exhortation points to the radical nature of conversion—a complete turning away from all worship not owed to the one true God."
+      "comment": "Paul's exhortation points to the radical nature of conversion—a complete turning away from all worship not owed to the one true God.",
+      "sectionHeader": "Warning Against Idolatry and Pagan Fellowship"
     },
     {
       "pk": 53010015,
@@ -278,7 +280,8 @@
       "verse": 23,
       "text": "\"All things are lawful,\" but not all things are beneficial. \"All things are lawful,\" but not all things build up.",
       "links": "<a href='/AIV/46/6/12'>1 Cor. 6:12</a>",
-      "comment": "Freedom in Christ is meant for edification, not self-indulgence. True liberty seeks the good of others and the building up of the community."
+      "comment": "Freedom in Christ is meant for edification, not self-indulgence. True liberty seeks the good of others and the building up of the community.",
+      "sectionHeader": "Concerning Food Offered to Idols"
     },
     {
       "pk": 53010024,
@@ -401,5 +404,22 @@
       "comment": "Paul models self-giving love, reflecting Christ’s own service, so that all may come to salvation through the unity and charity of the Church."
     }
   ],
-  "translatedAt": "2025-12-24T11:48:54.121Z"
+  "translatedAt": "2025-12-24T11:48:54.121Z",
+  "sections": [
+    {
+      "title": "Lessons from Israel's Wilderness Experience",
+      "startVerse": 1,
+      "endVerse": 13
+    },
+    {
+      "title": "Warning Against Idolatry and Pagan Fellowship",
+      "startVerse": 14,
+      "endVerse": 22
+    },
+    {
+      "title": "Concerning Food Offered to Idols",
+      "startVerse": 23,
+      "endVerse": 33
+    }
+  ]
 }

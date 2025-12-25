@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "After these deeds of faithfulness, Sennacherib king of Assyria came and invaded Judah. He set up camp against the fortified cities, intending to break through and conquer them.",
       "links": "<a href='/AIV/12/18/13'>2 Kings 18:13</a>; <a href='/AIV/23/36/1'>Isaiah 36:1</a>",
-      "comment": "The author highlights Sennacherib’s attack as a test that follows Hezekiah’s faithfulness, showing how faithfulness does not prevent trials. This introduces the pattern that God’s people are often tested in their faith (cf. James 1:2-3)."
+      "comment": "The author highlights Sennacherib’s attack as a test that follows Hezekiah’s faithfulness, showing how faithfulness does not prevent trials. This introduces the pattern that God’s people are often tested in their faith (cf. James 1:2-3).",
+      "sectionHeader": "Sennacherib Invades Judah"
     },
     {
       "pk": 14032002,
@@ -26,7 +27,8 @@
       "verse": 2,
       "text": "When Hezekiah saw that Sennacherib had come and intended to make war against Jerusalem,",
       "links": "<a href='/AIV/12/18/17'>2 Kings 18:17</a>",
-      "comment": "Hezekiah’s recognition of the threat sets up his response as a model for leadership under pressure, anticipating both practical and spiritual measures."
+      "comment": "Hezekiah’s recognition of the threat sets up his response as a model for leadership under pressure, anticipating both practical and spiritual measures.",
+      "sectionHeader": "Hezekiah Prepares Jerusalem for Siege"
     },
     {
       "pk": 14032003,
@@ -74,7 +76,8 @@
       "verse": 6,
       "text": "He appointed military commanders over the people, assembled them in the square at the city gate, and encouraged them, saying,",
       "links": "<a href='/AIV/05/20/3-4'>Deut. 20:3-4</a>",
-      "comment": "Hezekiah’s public address echoes the tradition of Israel’s leaders encouraging the people before battle, reminding them of God’s faithfulness in history."
+      "comment": "Hezekiah’s public address echoes the tradition of Israel’s leaders encouraging the people before battle, reminding them of God’s faithfulness in history.",
+      "sectionHeader": "Hezekiah’s Encouragement to the People"
     },
     {
       "pk": 14032007,
@@ -110,7 +113,8 @@
       "verse": 9,
       "text": "After this, Sennacherib king of Assyria, while he was laying siege to Lachish with all his forces, sent his servants to Jerusalem, to Hezekiah king of Judah and to all the people there, saying,",
       "links": "<a href='/AIV/12/18/17'>2 Kings 18:17-35</a>; <a href='/AIV/23/36/2-20'>Isaiah 36:2-20</a>",
-      "comment": "Here begins the psychological warfare intended to instill fear. The chronicler shifts the focus from the military threat to the spiritual trial."
+      "comment": "Here begins the psychological warfare intended to instill fear. The chronicler shifts the focus from the military threat to the spiritual trial.",
+      "sectionHeader": "Sennacherib’s Threatening Messages"
     },
     {
       "pk": 14032010,
@@ -135,5 +139,27 @@
       "text": "'Isn’t Hezekiah misleading you, to let you die by famine and thirst, when he says, "
     }
   ],
-  "translatedAt": "2025-12-24T04:37:45.895Z"
+  "translatedAt": "2025-12-24T04:37:45.895Z",
+  "sections": [
+    {
+      "title": "Sennacherib Invades Judah",
+      "startVerse": 1,
+      "endVerse": 1
+    },
+    {
+      "title": "Hezekiah Prepares Jerusalem for Siege",
+      "startVerse": 2,
+      "endVerse": 5
+    },
+    {
+      "title": "Hezekiah’s Encouragement to the People",
+      "startVerse": 6,
+      "endVerse": 8
+    },
+    {
+      "title": "Sennacherib’s Threatening Messages",
+      "startVerse": 9,
+      "endVerse": 11
+    }
+  ]
 }

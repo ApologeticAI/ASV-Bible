@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "So these three men stopped answering Job, because he considered himself righteous.",
       "links": "<a href='/AIV/18/27/6'>Job 27:6</a>; <a href='/AIV/18/29/14'>Job 29:14</a>",
-      "comment": "Job's insistence on his own righteousness silences his friends. The concept of personal righteousness is later fulfilled in Christ, who alone is truly righteous (Rom. 3:10)."
+      "comment": "Job's insistence on his own righteousness silences his friends. The concept of personal righteousness is later fulfilled in Christ, who alone is truly righteous (Rom. 3:10).",
+      "sectionHeader": "Elihu Appears and Is Angry"
     },
     {
       "pk": 22032002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "So Elihu son of Barachel the Buzite said, 'I am young in years, and you are old; that is why I was afraid to tell you what I think.'",
       "links": "<a href='/AIV/18/15/10'>Job 15:10</a>",
-      "comment": "Elihu’s humility in addressing the elders reflects the virtue of humility, which is exalted throughout Scripture (Prov. 11:2; Luke 14:11)."
+      "comment": "Elihu’s humility in addressing the elders reflects the virtue of humility, which is exalted throughout Scripture (Prov. 11:2; Luke 14:11).",
+      "sectionHeader": "Elihu Prepares to Speak"
     },
     {
       "pk": 22032007,
@@ -269,5 +271,17 @@
       "comment": "False speech and hypocrisy lead to judgment. Authentic witness is valued, and Elihu’s warning anticipates Jesus’ condemnation of hypocrisy (Matt. 23:27-28)."
     }
   ],
-  "translatedAt": "2025-12-24T05:53:53.519Z"
+  "translatedAt": "2025-12-24T05:53:53.519Z",
+  "sections": [
+    {
+      "title": "Elihu Appears and Is Angry",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Elihu Prepares to Speak",
+      "startVerse": 6,
+      "endVerse": 22
+    }
+  ]
 }

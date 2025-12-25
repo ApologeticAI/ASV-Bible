@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then the heads of the fathers’ houses of the Levites came to Eleazar the priest, to Joshua the son of Nun, and to the heads of the fathers’ houses of the tribes of the children of Israel.",
       "links": "<a href='/AIV/4/35/1-2'>Num. 35:1-2</a>; <a href='/AIV/6/14/1'>Josh. 14:1</a>",
-      "comment": "This verse sets the scene for the giving of Levitical cities, fulfilling God’s command to provide for the priestly tribe (see Num. 35:2). The Levites' special election points toward the pattern of priestly mediation between God and His people—fulfilled perfectly in Christ, the High Priest (<a href='/AIV/58/4/14'>Heb. 4:14</a>)."
+      "comment": "This verse sets the scene for the giving of Levitical cities, fulfilling God’s command to provide for the priestly tribe (see Num. 35:2). The Levites' special election points toward the pattern of priestly mediation between God and His people—fulfilled perfectly in Christ, the High Priest (<a href='/AIV/58/4/14'>Heb. 4:14</a>).",
+      "sectionHeader": "Levitical Cities Allotted"
     },
     {
       "pk": 6021002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "From the tribes of Judah and Simeon, they gave the cities listed below.",
       "links": "<a href='/AIV/13/6/57-60'>1 Chr. 6:57-60</a>",
-      "comment": "These lists were preserved for reference, pointing to the importance of order and historical memory within the faith community."
+      "comment": "These lists were preserved for reference, pointing to the importance of order and historical memory within the faith community.",
+      "sectionHeader": "Cities Given to the Kohathites"
     },
     {
       "pk": 60210010,
@@ -326,7 +328,8 @@
       "verse": 27,
       "text": "To the Gershonites, one of the families of the Levites, from the half-tribe of Manasseh: Golan in Bashan, the city of refuge for the slayer, with its pasturelands, and Be Eshterah with its pasturelands—two cities.",
       "links": "<a href='/AIV/6/20/8'>Josh. 20:8</a>",
-      "comment": "Again, another city of refuge. The presence of sanctuary cities in every region shows God’s mercy available to all Israel—unitive and universal."
+      "comment": "Again, another city of refuge. The presence of sanctuary cities in every region shows God’s mercy available to all Israel—unitive and universal.",
+      "sectionHeader": "Cities Given to the Gershonites"
     },
     {
       "pk": 60210028,
@@ -410,7 +413,8 @@
       "verse": 34,
       "text": "To the families of the Merarite Levites, the rest of the Levites, from the tribe of Zebulun: Jokneam with its pasturelands, Kartah with its pasturelands,",
       "links": "<a href='/AIV/6/19/10-16'>Josh. 19:10-16</a>",
-      "comment": ""
+      "comment": "",
+      "sectionHeader": "Cities Given to the Merarites"
     },
     {
       "pk": 60210035,
@@ -494,7 +498,8 @@
       "verse": 41,
       "text": "All the cities of the Levites within the inheritance of the Israelites were forty-eight cities with their pasturelands.",
       "links": "<a href='/AIV/4/35/7'>Num. 35:7</a>",
-      "comment": "The complete provision for the Levites reflects the wholeness and sufficiency of God’s care for His people."
+      "comment": "The complete provision for the Levites reflects the wholeness and sufficiency of God’s care for His people.",
+      "sectionHeader": "Summary of the Allotment and Fulfillment of God's Promises"
     },
     {
       "pk": 60210042,
@@ -545,5 +550,32 @@
       "comment": "God’s faithfulness is absolute; His promises are trustworthy. In Christ, ALL God’s promises reach their fulfillment (<a href='/AIV/47/1/20'>2 Cor. 1:20</a>)."
     }
   ],
-  "translatedAt": "2025-12-24T02:28:07.681Z"
+  "translatedAt": "2025-12-24T02:28:07.681Z",
+  "sections": [
+    {
+      "title": "Levitical Cities Allotted",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "Cities Given to the Kohathites",
+      "startVerse": 9,
+      "endVerse": 26
+    },
+    {
+      "title": "Cities Given to the Gershonites",
+      "startVerse": 27,
+      "endVerse": 33
+    },
+    {
+      "title": "Cities Given to the Merarites",
+      "startVerse": 34,
+      "endVerse": 40
+    },
+    {
+      "title": "Summary of the Allotment and Fulfillment of God's Promises",
+      "startVerse": 41,
+      "endVerse": 45
+    }
+  ]
 }

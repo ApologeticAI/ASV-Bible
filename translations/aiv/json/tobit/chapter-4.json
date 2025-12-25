@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "That day, Tobit remembered the silver he had deposited with Gabael at Rhages in Media, and he said to himself,",
       "links": "<a href='/AIV/17/1/14'>Tob. 1:14</a>; <a href='/AIV/17/4/20'>Tob. 4:20</a>",
-      "comment": "Tobit is mindful of his family’s well-being and seeks to secure their future, a recurring theme in wisdom literature. See also Proverbs 13:22 for similar concern."
+      "comment": "Tobit is mindful of his family’s well-being and seeks to secure their future, a recurring theme in wisdom literature. See also Proverbs 13:22 for similar concern.",
+      "sectionHeader": "Tobit Prepares for Death"
     },
     {
       "pk": 17004002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "So he called his son Tobias. When Tobias came, he said, \"My son, when I die, bury me properly. Honor your mother, and do not neglect her all the days of her life. Remember how many dangers she endured for you while you were in her womb.\"",
       "links": "<a href='/AIV/2/20/12'>Ex. 20:12</a>; <a href='/AIV/5/26/17'>Deut. 26:17</a>",
-      "comment": "Tobit’s command echoes the fourth commandment, to honor one’s parents. The stress on burial mirrors the care for the body found in Jewish and early Christian tradition."
+      "comment": "Tobit’s command echoes the fourth commandment, to honor one’s parents. The stress on burial mirrors the care for the body found in Jewish and early Christian tradition.",
+      "sectionHeader": "Tobit's Instructions and Counsel to Tobias"
     },
     {
       "pk": 17004004,
@@ -257,5 +259,17 @@
       "comment": "True riches are found in devotion to God and upright living, echoing Christ’s teaching that godliness surpasses material wealth. The notion also hints at spiritual inheritance, pointing toward a more sacramental understanding of God’s gracious provision."
     }
   ],
-  "translatedAt": "2025-12-24T04:55:39.008Z"
+  "translatedAt": "2025-12-24T04:55:39.008Z",
+  "sections": [
+    {
+      "title": "Tobit Prepares for Death",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "Tobit's Instructions and Counsel to Tobias",
+      "startVerse": 3,
+      "endVerse": 21
+    }
+  ]
 }

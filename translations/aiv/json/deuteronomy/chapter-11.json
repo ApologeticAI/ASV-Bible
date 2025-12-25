@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Therefore, you shall love the LORD your God and always keep His requirements, His statutes, His judgments, and His commandments.",
       "links": "<a href='/AIV/5/6/5'>Deut 6:5</a>; <a href='/AIV/40/22/37'>Matt 22:37</a>",
-      "comment": "The command to love God forms the foundation of the entire law and echoes the Shema (Deut 6:5), later affirmed by Jesus as the greatest commandment. The mention of statutes, judgments, and commandments stresses fidelity and total devotion."
+      "comment": "The command to love God forms the foundation of the entire law and echoes the Shema (Deut 6:5), later affirmed by Jesus as the greatest commandment. The mention of statutes, judgments, and commandments stresses fidelity and total devotion.",
+      "sectionHeader": "Remembering the Lord’s Mighty Deeds"
     },
     {
       "pk": 5011002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Therefore you shall keep all the commandment which I command you today, so that you may be strong and go in and possess the land which you cross over to possess;",
       "links": "<a href='/AIV/5/31/6'>Deut 31:6</a>; <a href='/AIV/8/1/6'>Josh 1:6</a>",
-      "comment": "Obedience fortifies the people and secures their inheritance, teaching that grace and perseverance in faith are necessary for entering the promised inheritance."
+      "comment": "Obedience fortifies the people and secures their inheritance, teaching that grace and perseverance in faith are necessary for entering the promised inheritance.",
+      "sectionHeader": "Blessings of Love and Obedience"
     },
     {
       "pk": 5011009,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "Therefore you shall lay up these words of Mine in your heart and in your soul, and bind them as a sign on your hand, and as frontlets between your eyes.",
       "links": "<a href='/AIV/5/6/6-8'>Deut 6:6-8</a>; <a href='/AIV/19/119/11'>Ps. 119:11</a>",
-      "comment": "God’s Word must be internalized and ever-present; physical signs point to a spiritual reality of setting God’s law foremost in one’s life."
+      "comment": "God’s Word must be internalized and ever-present; physical signs point to a spiritual reality of setting God’s law foremost in one’s life.",
+      "sectionHeader": "Admonition to Teach God’s Words"
     },
     {
       "pk": 5011019,
@@ -314,7 +317,8 @@
       "verse": 26,
       "text": "See, I am setting before you today a blessing and a curse:",
       "links": "<a href='/AIV/5/30/19'>Deut 30:19</a>; <a href='/AIV/24/21/8'>Jer. 21:8</a>",
-      "comment": "Choice is presented as central to covenantal life; linking obedience with blessing and disobedience with curse. Christ re-emphasizes free, loving acceptance of the Gospel."
+      "comment": "Choice is presented as central to covenantal life; linking obedience with blessing and disobedience with curse. Christ re-emphasizes free, loving acceptance of the Gospel.",
+      "sectionHeader": "A Blessing and a Curse Set Before Israel"
     },
     {
       "pk": 5011027,
@@ -389,5 +393,27 @@
       "comment": "Faithfulness to God’s commands is required and rewarded; complete commitment leads to being presented holy and blameless, as Paul later writes (Col 1:22-23)."
     }
   ],
-  "translatedAt": "2025-12-24T02:02:52.521Z"
+  "translatedAt": "2025-12-24T02:02:52.521Z",
+  "sections": [
+    {
+      "title": "Remembering the Lord’s Mighty Deeds",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Blessings of Love and Obedience",
+      "startVerse": 8,
+      "endVerse": 17
+    },
+    {
+      "title": "Admonition to Teach God’s Words",
+      "startVerse": 18,
+      "endVerse": 25
+    },
+    {
+      "title": "A Blessing and a Curse Set Before Israel",
+      "startVerse": 26,
+      "endVerse": 32
+    }
+  ]
 }

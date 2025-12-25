@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Do you know when the mountain goats give birth? Have you observed the calving of the deer?",
       "links": "<a href='/AIV/19/104/18'>Ps. 104:18</a>; <a href='/AIV/18/38/39'>Job 38:39</a>",
-      "comment": "This verse begins God's continued questioning of Job, stressing God's knowledge and providential care for creation. There is an underlying theme that points to God's intimate governance, foreshadowing the New Testament understanding of divine providence (cf. Matt. 6:26)."
+      "comment": "This verse begins God's continued questioning of Job, stressing God's knowledge and providential care for creation. There is an underlying theme that points to God's intimate governance, foreshadowing the New Testament understanding of divine providence (cf. Matt. 6:26).",
+      "sectionHeader": "God's Care for Wild Animals"
     },
     {
       "pk": 22039002,
@@ -230,7 +231,8 @@
       "verse": 19,
       "text": "Do you give the horse its strength? Do you clothe his neck with a mane?",
       "links": "<a href='/AIV/19/147/10'>Ps. 147:10</a>",
-      "comment": "The horse’s strength comes from God alone. This mirrors the Christian understanding of all gifts coming from above (James 1:17)."
+      "comment": "The horse’s strength comes from God alone. This mirrors the Christian understanding of all gifts coming from above (James 1:17).",
+      "sectionHeader": "The Strength of the Horse"
     },
     {
       "pk": 22039020,
@@ -314,7 +316,8 @@
       "verse": 26,
       "text": "Is it by your wisdom that the hawk soars and spreads his wings toward the south?",
       "links": "<a href='/AIV/24/8/7'>Jer. 8:7</a>",
-      "comment": "The migration instinct in birds testifies to a divine imprint on nature, suggesting a higher wisdom at work—a theme that points to the Holy Spirit’s guidance of the faithful."
+      "comment": "The migration instinct in birds testifies to a divine imprint on nature, suggesting a higher wisdom at work—a theme that points to the Holy Spirit’s guidance of the faithful.",
+      "sectionHeader": "The Wisdom of the Birds"
     },
     {
       "pk": 22039027,
@@ -365,5 +368,22 @@
       "comment": "Jesus echoes this imagery in His eschatological teaching (Matt. 24:28; Luke 17:37), reinforcing the prophetic and typological nature of Job. Just as the eagle is drawn to the slain, so will judgment and gathering come at the end, emphasizing vigilance and readiness for the final day."
     }
   ],
-  "translatedAt": "2025-12-24T05:57:41.716Z"
+  "translatedAt": "2025-12-24T05:57:41.716Z",
+  "sections": [
+    {
+      "title": "God's Care for Wild Animals",
+      "startVerse": 1,
+      "endVerse": 18
+    },
+    {
+      "title": "The Strength of the Horse",
+      "startVerse": 19,
+      "endVerse": 25
+    },
+    {
+      "title": "The Wisdom of the Birds",
+      "startVerse": 26,
+      "endVerse": 30
+    }
+  ]
 }

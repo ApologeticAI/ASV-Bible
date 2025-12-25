@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "They came to the other side of the sea, to the region of the Gerasenes.",
       "links": "<a href='/AIV/40/8/28'>Matt. 8:28</a>; <a href='/AIV/42/8/26'>Luke 8:26</a>",
-      "comment": "The Gerasenes may also be referred to as Gadarenes in some manuscripts. This sets the stage for Jesus' miraculous actions among the Gentiles, showing His mission extends to all peoples (cf. Matt. 28:19)."
+      "comment": "The Gerasenes may also be referred to as Gadarenes in some manuscripts. This sets the stage for Jesus' miraculous actions among the Gentiles, showing His mission extends to all peoples (cf. Matt. 28:19).",
+      "sectionHeader": "The Healing of the Gerasene Demoniac"
     },
     {
       "pk": 48005002,
@@ -254,7 +255,8 @@
       "verse": 21,
       "text": "When Jesus had crossed again by boat to the other side, a large crowd gathered around Him, and He stayed by the sea.",
       "links": "<a href='/AIV/40/9/18'>Matt. 9:18</a>; <a href='/AIV/42/8/40'>Luke 8:40</a>",
-      "comment": "The sea often symbolizes chaos. Jesus’ ministries on both shores illustrate His universal outreach."
+      "comment": "The sea often symbolizes chaos. Jesus’ ministries on both shores illustrate His universal outreach.",
+      "sectionHeader": "The Raising of Jairus' Daughter"
     },
     {
       "pk": 48005022,
@@ -302,7 +304,8 @@
       "verse": 25,
       "text": "And there was a woman who had suffered from bleeding for twelve years.",
       "links": "<a href='/AIV/40/9/20'>Matt. 9:20</a>; <a href='/AIV/42/8/43'>Luke 8:43</a>",
-      "comment": "Twelve years matches Jairus’ daughter’s age (v.42), symbolizing completeness and a parallelism in these miracles."
+      "comment": "Twelve years matches Jairus’ daughter’s age (v.42), symbolizing completeness and a parallelism in these miracles.",
+      "sectionHeader": "The Healing of a Woman with a Hemorrhage"
     },
     {
       "pk": 48005026,
@@ -531,5 +534,22 @@
       "comment": "The command for secrecy is part of the Messianic Secret motif in Mark. Jesus’ provision for the girl’s care shows concern for both body and soul—a holistic, incarnational approach reflected throughout the ministry of the Church."
     }
   ],
-  "translatedAt": "2025-12-24T10:25:09.091Z"
+  "translatedAt": "2025-12-24T10:25:09.091Z",
+  "sections": [
+    {
+      "title": "The Healing of the Gerasene Demoniac",
+      "startVerse": 1,
+      "endVerse": 24
+    },
+    {
+      "title": "The Healing of a Woman with a Hemorrhage",
+      "startVerse": 25,
+      "endVerse": 20
+    },
+    {
+      "title": "The Raising of Jairus' Daughter",
+      "startVerse": 21,
+      "endVerse": 43
+    }
+  ]
 }

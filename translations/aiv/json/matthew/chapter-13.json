@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "That same day, Jesus left the house and sat beside the sea.",
       "links": "",
-      "comment": "Matthew's narrative sets the scene for a series of parables. Jesus teaching by the sea recalls imagery of wisdom dispensed to the people, with echoes of prophetic gatherings in 1 Kings 18:43 and Isaiah 9:1."
+      "comment": "Matthew's narrative sets the scene for a series of parables. Jesus teaching by the sea recalls imagery of wisdom dispensed to the people, with echoes of prophetic gatherings in 1 Kings 18:43 and Isaiah 9:1.",
+      "sectionHeader": "The Parable of the Sower"
     },
     {
       "pk": 47013002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "The disciples came to Him and asked, 'Why do You speak to them in parables?'",
       "links": "",
-      "comment": "The disciples seek revelation, indicating their close relationship and deeper formation—a principle of growing into spiritual understanding through guidance of tradition."
+      "comment": "The disciples seek revelation, indicating their close relationship and deeper formation—a principle of growing into spiritual understanding through guidance of tradition.",
+      "sectionHeader": "The Purpose of Parables"
     },
     {
       "pk": 47013011,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "So hear the parable of the sower:",
       "links": "",
-      "comment": "Jesus moves to explain the parable, showing care for inner circle understanding—reinforcing the idea of received tradition."
+      "comment": "Jesus moves to explain the parable, showing care for inner circle understanding—reinforcing the idea of received tradition.",
+      "sectionHeader": "The Parable of the Sower Explained"
     },
     {
       "pk": 47013019,
@@ -290,7 +293,8 @@
       "verse": 24,
       "text": "Jesus presented another parable to them, saying: 'The kingdom of heaven may be compared to a man who sowed good seed in his field.'",
       "links": "",
-      "comment": "The topic shifts to the nature of the kingdom. The ‘field’ is the world; sowing is a divine act. Early church interpretations often see this as insight into God’s universal plan."
+      "comment": "The topic shifts to the nature of the kingdom. The ‘field’ is the world; sowing is a divine act. Early church interpretations often see this as insight into God’s universal plan.",
+      "sectionHeader": "The Parable of the Weeds"
     },
     {
       "pk": 47013025,
@@ -374,7 +378,8 @@
       "verse": 31,
       "text": "He put another parable before them, saying: 'The kingdom of heaven is like a mustard seed, which a man took and sowed in his field.'",
       "links": "<a href='/AIV/41/4/31'>Mark 4:31</a>; <a href='/AIV/42/13/19'>Luke 13:19</a>",
-      "comment": "The mustard seed’s small size and great growth symbolizes the humble beginnings of the church, and its enduring, global expansion."
+      "comment": "The mustard seed’s small size and great growth symbolizes the humble beginnings of the church, and its enduring, global expansion.",
+      "sectionHeader": "The Parables of the Mustard Seed and the Leaven"
     },
     {
       "pk": 47013032,
@@ -434,7 +439,8 @@
       "verse": 36,
       "text": "Then He left the crowds and went into the house. His disciples came to Him and said, 'Explain to us the parable of the weeds in the field.'",
       "links": "",
-      "comment": "The shift to private teaching for disciples points to the authority and tradition handed down through leaders, a sign of the value of the church’s interpretive heritage."
+      "comment": "The shift to private teaching for disciples points to the authority and tradition handed down through leaders, a sign of the value of the church’s interpretive heritage.",
+      "sectionHeader": "The Parable of the Weeds Explained"
     },
     {
       "pk": 47013037,
@@ -530,7 +536,8 @@
       "verse": 44,
       "text": "'The kingdom of heaven is like treasure hidden in a field, which a man found and hid; then in his joy, he goes and sells all he has and buys that field.'",
       "links": "<a href='/AIV/19/19/10'>Ps. 19:10</a>",
-      "comment": "The immense value of the kingdom calls for total commitment. This image of treasure points to the importance of hidden spiritual realities made manifest through faith."
+      "comment": "The immense value of the kingdom calls for total commitment. This image of treasure points to the importance of hidden spiritual realities made manifest through faith.",
+      "sectionHeader": "The Parables of the Hidden Treasure, the Pearl, and the Net"
     },
     {
       "pk": 47013045,
@@ -638,7 +645,8 @@
       "verse": 53,
       "text": "When Jesus had finished these parables, He departed from there.",
       "links": "",
-      "comment": "Shift in locale signifies a transition in ministry focus. Teaching through parables completed, Jesus moves toward direct confrontation and miracles."
+      "comment": "Shift in locale signifies a transition in ministry focus. Teaching through parables completed, Jesus moves toward direct confrontation and miracles.",
+      "sectionHeader": "The Rejection at Nazareth"
     },
     {
       "pk": 47013054,
@@ -701,5 +709,47 @@
       "comment": "Faith enables miracles. Unbelief limits spiritual fruit and divine intervention—pointing to the necessity of trusting and belonging to the household of faith."
     }
   ],
-  "translatedAt": "2025-12-24T10:09:38.739Z"
+  "translatedAt": "2025-12-24T10:09:38.739Z",
+  "sections": [
+    {
+      "title": "The Parable of the Sower",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "The Purpose of Parables",
+      "startVerse": 10,
+      "endVerse": 17
+    },
+    {
+      "title": "The Parable of the Sower Explained",
+      "startVerse": 18,
+      "endVerse": 23
+    },
+    {
+      "title": "The Parable of the Weeds",
+      "startVerse": 24,
+      "endVerse": 30
+    },
+    {
+      "title": "The Parables of the Mustard Seed and the Leaven",
+      "startVerse": 31,
+      "endVerse": 35
+    },
+    {
+      "title": "The Parable of the Weeds Explained",
+      "startVerse": 36,
+      "endVerse": 43
+    },
+    {
+      "title": "The Parables of the Hidden Treasure, the Pearl, and the Net",
+      "startVerse": 44,
+      "endVerse": 52
+    },
+    {
+      "title": "The Rejection at Nazareth",
+      "startVerse": 53,
+      "endVerse": 58
+    }
+  ]
 }

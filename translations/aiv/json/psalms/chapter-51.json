@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Have mercy on me, O God, according to your steadfast love; according to the greatness of your compassion blot out my transgressions.",
       "links": "<a href='/AIV/23/25/7'>Ps. 25:7</a>; <a href='/AIV/23/103/8-12'>Ps. 103:8-12</a>",
-      "comment": "David appeals to the unfailing love of God. The reference to 'blot out' evokes the idea of God erasing sins—paralleling concepts of divine forgiveness seen in Isaiah 43:25. Early Christian writers spiritually connected these words with sacramental forgiveness and interior conversion."
+      "comment": "David appeals to the unfailing love of God. The reference to 'blot out' evokes the idea of God erasing sins—paralleling concepts of divine forgiveness seen in Isaiah 43:25. Early Christian writers spiritually connected these words with sacramental forgiveness and interior conversion.",
+      "sectionHeader": "Prayer for Mercy and Cleansing"
     },
     {
       "pk": 23051002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "Create in me a pure heart, O God, and renew a steadfast spirit within me.",
       "links": "<a href='/AIV/26/36/26'>Ezek. 36:26</a>; <a href='/AIV/23/73/1'>Ps. 73:1</a>",
-      "comment": "David recognizes only God can transform the human heart. Christian tradition links this with spiritual rebirth (Ezekiel 36:26, John 3:5)."
+      "comment": "David recognizes only God can transform the human heart. Christian tradition links this with spiritual rebirth (Ezekiel 36:26, John 3:5).",
+      "sectionHeader": "Renewal of Heart and Spirit"
     },
     {
       "pk": 23051011,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "Then I will teach transgressors your ways, and sinners will return to you.",
       "links": "<a href='/AIV/23/32/5-8'>Ps. 32:5-8</a>",
-      "comment": "Repentance and forgiveness lead to evangelization; David wants to guide others to repentance. Forgiven sinners can best witness the mercy of God, fulfilling Christ’s call to make disciples (Matt. 28:19)."
+      "comment": "Repentance and forgiveness lead to evangelization; David wants to guide others to repentance. Forgiven sinners can best witness the mercy of God, fulfilling Christ’s call to make disciples (Matt. 28:19).",
+      "sectionHeader": "Promise of Praise and True Sacrifice"
     },
     {
       "pk": 23051014,
@@ -218,7 +221,8 @@
       "verse": 18,
       "text": "Do good in your good pleasure to Zion; build up the walls of Jerusalem.",
       "links": "<a href='/AIV/23/102/16'>Ps. 102:16</a>; <a href='/AIV/16/2/17'>Neh. 2:17</a>",
-      "comment": "David’s personal prayer extends to the whole people of God. Spiritually, this verse foreshadows the corporate nature of worship, where God’s favor is sought for the community."
+      "comment": "David’s personal prayer extends to the whole people of God. Spiritually, this verse foreshadows the corporate nature of worship, where God’s favor is sought for the community.",
+      "sectionHeader": "Prayer for Zion"
     },
     {
       "pk": 23051019,
@@ -233,5 +237,27 @@
       "comment": "God desires sincere worship, not mere ritual. Once the heart is made right, external worship pleases God, highlighting the seamless connection between interior conversion and public worship—anticipating the union of heart and ritual in the new covenant."
     }
   ],
-  "translatedAt": "2025-12-24T06:16:43.387Z"
+  "translatedAt": "2025-12-24T06:16:43.387Z",
+  "sections": [
+    {
+      "title": "Prayer for Mercy and Cleansing",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "Renewal of Heart and Spirit",
+      "startVerse": 10,
+      "endVerse": 12
+    },
+    {
+      "title": "Promise of Praise and True Sacrifice",
+      "startVerse": 13,
+      "endVerse": 17
+    },
+    {
+      "title": "Prayer for Zion",
+      "startVerse": 18,
+      "endVerse": 19
+    }
+  ]
 }

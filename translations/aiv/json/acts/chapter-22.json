@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Brothers and fathers, listen now to my defense which I am about to present to you.",
       "links": "<a href='/AIV/44/7/2'>Acts 7:2</a>; <a href='/AIV/44/21/40'>Acts 21:40</a>",
-      "comment": "Paul addresses the crowd with a respectful greeting, echoing Stephen's approach before his defense (Acts 7:2). The use of 'fathers' shows honor for tradition and authority."
+      "comment": "Paul addresses the crowd with a respectful greeting, echoing Stephen's approach before his defense (Acts 7:2). The use of 'fathers' shows honor for tradition and authority.",
+      "sectionHeader": "Paul’s Defense before the People"
     },
     {
       "pk": 51022002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "As I was traveling and drawing near to Damascus, about noon, suddenly a great light from heaven flashed around me.",
       "links": "<a href='/AIV/44/9/3'>Acts 9:3</a>; <a href='/AIV/26/1/28'>Ezek. 1:28</a>",
-      "comment": "The noonday brightness emphasizes the supernatural nature of the encounter. Light from heaven often symbolizes divine presence, recalling Moses' burning bush (Exodus 3:2) or Ezekiel's visions."
+      "comment": "The noonday brightness emphasizes the supernatural nature of the encounter. Light from heaven often symbolizes divine presence, recalling Moses' burning bush (Exodus 3:2) or Ezekiel's visions.",
+      "sectionHeader": "Paul’s Conversion and Mission"
     },
     {
       "pk": 51022007,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "After I returned to Jerusalem and was praying in the temple, I fell into a trance",
       "links": "<a href='/AIV/44/9/26'>Acts 9:26</a>; <a href='/AIV/44/10/10'>Acts 10:10</a>",
-      "comment": "Prayer in the temple reveals Paul’s ongoing respect for the Jewish liturgical tradition. Divine revelation often comes through prayer, and the temple setting shows a bridge between old and new covenants."
+      "comment": "Prayer in the temple reveals Paul’s ongoing respect for the Jewish liturgical tradition. Divine revelation often comes through prayer, and the temple setting shows a bridge between old and new covenants.",
+      "sectionHeader": "Paul Sent to the Gentiles"
     },
     {
       "pk": 51022018,
@@ -290,7 +293,8 @@
       "verse": 24,
       "text": "the commander ordered Paul to be brought into the barracks, directing that he be examined by scourging so that they might know why the people were crying out against him.",
       "links": "<a href='/AIV/44/16/22'>Acts 16:22</a>; <a href='/AIV/44/23/10'>Acts 23:10</a>",
-      "comment": "Roman interrogation methods include scourging, an echo of Christ's suffering (John 19:1). Paul as Christ’s apostle endures similar persecution, deepening spiritual participation in Christ’s Passion."
+      "comment": "Roman interrogation methods include scourging, an echo of Christ's suffering (John 19:1). Paul as Christ’s apostle endures similar persecution, deepening spiritual participation in Christ’s Passion.",
+      "sectionHeader": "Paul Asserts His Roman Citizenship"
     },
     {
       "pk": 51022025,
@@ -365,5 +369,27 @@
       "comment": "Paul faces the highest religious authority, foreshadowing Christ’s own trial before the Sanhedrin. The apostolic witness continues through proper order and governance, ensuring doctrinal fidelity and unity."
     }
   ],
-  "translatedAt": "2025-12-24T11:31:33.810Z"
+  "translatedAt": "2025-12-24T11:31:33.810Z",
+  "sections": [
+    {
+      "title": "Paul’s Defense before the People",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Paul’s Conversion and Mission",
+      "startVerse": 6,
+      "endVerse": 16
+    },
+    {
+      "title": "Paul Sent to the Gentiles",
+      "startVerse": 17,
+      "endVerse": 23
+    },
+    {
+      "title": "Paul Asserts His Roman Citizenship",
+      "startVerse": 24,
+      "endVerse": 30
+    }
+  ]
 }

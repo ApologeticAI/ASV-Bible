@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Why are times not set by the Almighty, and why do those who know Him never see His days?",
       "links": "<a href='/AIV/19/73/11'>Ps. 73:11</a>; <a href='/AIV/35/2/3'>Hab. 2:3</a>",
-      "comment": "Job expresses anguish at God's apparent silence and lack of judgment. This verse reveals the ancient longing for an appointed day of justice, which is later fulfilled in Christ's final judgment (cf. Matthew 25:31-46)."
+      "comment": "Job expresses anguish at God's apparent silence and lack of judgment. This verse reveals the ancient longing for an appointed day of justice, which is later fulfilled in Christ's final judgment (cf. Matthew 25:31-46).",
+      "sectionHeader": "Job's Complaint of Divine Silence and Injustice"
     },
     {
       "pk": 22024002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "There are those who rebel against the light, who do not know its ways nor stay in its paths.",
       "links": "<a href='/AIV/19/36/9'>Ps. 36:9</a>; <a href='/AIV/43/3/19-21'>John 3:19-21</a>",
-      "comment": "The theme of 'light' recurs in the New Testament, where Christ is the light of the world, revealing and overcoming darkness (John 8:12)."
+      "comment": "The theme of 'light' recurs in the New Testament, where Christ is the light of the world, revealing and overcoming darkness (John 8:12).",
+      "sectionHeader": "Sins of the Wicked in Darkness"
     },
     {
       "pk": 22024014,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "They are swift on the surface of the waters; their portion in the land is cursed; they turn not toward the way of the vineyards.",
       "links": "<a href='/AIV/19/73/18-19'>Ps. 73:18-19</a>",
-      "comment": "An image of instability and curse for the wicked—justice may be hidden, but God’s ultimate righteousness prevails in Christ."
+      "comment": "An image of instability and curse for the wicked—justice may be hidden, but God’s ultimate righteousness prevails in Christ.",
+      "sectionHeader": "The Fate of the Wicked and God's Judgment"
     },
     {
       "pk": 22024019,
@@ -305,5 +308,22 @@
       "comment": "Job challenges anyone to refute his observations—foreshadowing Christ’s authority and the certainty of divine revelation, which cannot be broken."
     }
   ],
-  "translatedAt": "2025-12-24T05:50:08.637Z"
+  "translatedAt": "2025-12-24T05:50:08.637Z",
+  "sections": [
+    {
+      "title": "Job's Complaint of Divine Silence and Injustice",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "Sins of the Wicked in Darkness",
+      "startVerse": 13,
+      "endVerse": 17
+    },
+    {
+      "title": "The Fate of the Wicked and God's Judgment",
+      "startVerse": 18,
+      "endVerse": 25
+    }
+  ]
 }

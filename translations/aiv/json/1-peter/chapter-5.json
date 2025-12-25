@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "So I urge the elders among you, as a fellow elder and as a witness of the sufferings of Christ, and as one who will share in the glory that is about to be revealed:",
       "links": "<a href='/AIV/44/1/8'>Acts 1:8</a>; <a href='/AIV/60/4/13'>1 Pet. 4:13</a>",
-      "comment": "Peter identifies himself as an elder, emphasizing shared leadership but also witness to Christ’s passion—a unique apostolic role. The glory refers to the future revelation, pointing towards the resurrection and eschatological hope."
+      "comment": "Peter identifies himself as an elder, emphasizing shared leadership but also witness to Christ’s passion—a unique apostolic role. The glory refers to the future revelation, pointing towards the resurrection and eschatological hope.",
+      "sectionHeader": "Duties of Elders and the Flock"
     },
     {
       "pk": 67005002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "Likewise, you who are younger, submit yourselves to the elders. And all of you, clothe yourselves with humility toward one another, because, ‘God opposes the proud but gives grace to the humble.’",
       "links": "<a href='/AIV/20/3/34'>Prov. 3:34</a>; <a href='/AIV/59/4/6'>James 4:6</a>",
-      "comment": "Peter teaches humility and order—spiritual authority and submission, grounded in the Old Testament principle of grace for the humble. This echoes a structured community with roles and mutual respect."
+      "comment": "Peter teaches humility and order—spiritual authority and submission, grounded in the Old Testament principle of grace for the humble. This echoes a structured community with roles and mutual respect.",
+      "sectionHeader": "Exhortations to Humility and Vigilance"
     },
     {
       "pk": 67005006,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "By Silvanus, a faithful brother as I consider him, I have written to you briefly, exhorting and testifying that this is the true grace of God. Stand firm in it.",
       "links": "<a href='/AIV/44/15/22'>Acts 15:22</a>; <a href='/AIV/47/1/19'>2 Cor. 1:19</a>",
-      "comment": "Silvanus is known as an apostolic companion, indicating the letter’s authority and continuity of teaching. ‘True grace’ suggests a singular apostolic tradition to be kept steadfastly."
+      "comment": "Silvanus is known as an apostolic companion, indicating the letter’s authority and continuity of teaching. ‘True grace’ suggests a singular apostolic tradition to be kept steadfastly.",
+      "sectionHeader": "Final Greetings and Blessing"
     },
     {
       "pk": 67005013,
@@ -173,5 +176,22 @@
       "comment": "The kiss of love symbolizes deep spiritual unity and peace—the fellowship of believers united in Christ, practiced from the earliest days as a sign of communion and peace."
     }
   ],
-  "translatedAt": "2025-12-24T12:28:21.219Z"
+  "translatedAt": "2025-12-24T12:28:21.219Z",
+  "sections": [
+    {
+      "title": "Duties of Elders and the Flock",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "Exhortations to Humility and Vigilance",
+      "startVerse": 5,
+      "endVerse": 11
+    },
+    {
+      "title": "Final Greetings and Blessing",
+      "startVerse": 12,
+      "endVerse": 14
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Therefore, I, the prisoner for the Lord, urge you to walk in a manner worthy of the calling with which you have been called,",
       "links": "<a href='/AIV/50/1/27'>Phil. 1:27</a>; <a href='/AIV/51/1/10'>Col. 1:10</a>",
-      "comment": "Paul describes himself as a prisoner for Christ, highlighting suffering as a mark of authentic apostleship and unity with Christ's sufferings (cf. Col. 1:24)."
+      "comment": "Paul describes himself as a prisoner for Christ, highlighting suffering as a mark of authentic apostleship and unity with Christ's sufferings (cf. Col. 1:24).",
+      "sectionHeader": "Unity in the Body of Christ"
     },
     {
       "pk": 56004002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "But to each one of us grace has been given according to the measure of Christ’s gift.",
       "links": "<a href='/AIV/45/12/3'>Rom. 12:3</a>; <a href='/AIV/46/12/7'>1 Cor. 12:7</a>",
-      "comment": "Despite the unity, each believer receives graces or gifts specific to their vocation or service in the Church, determined by Christ Himself."
+      "comment": "Despite the unity, each believer receives graces or gifts specific to their vocation or service in the Church, determined by Christ Himself.",
+      "sectionHeader": "Diversity of Gifts"
     },
     {
       "pk": 56004008,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "So I tell you this, and testify in the Lord, that you must no longer walk as the Gentiles do, in the futility of their minds.",
       "links": "<a href='/AIV/45/1/21'>Rom. 1:21</a>; <a href='/AIV/51/3/7'>Col. 3:7</a>",
-      "comment": "Paul draws a sharp distinction between a renewed Christian life and the empty ways of the world apart from God."
+      "comment": "Paul draws a sharp distinction between a renewed Christian life and the empty ways of the world apart from God.",
+      "sectionHeader": "New Life in Christ"
     },
     {
       "pk": 56004018,
@@ -302,7 +305,8 @@
       "verse": 25,
       "text": "Therefore, having put away falsehood, let each one of you speak the truth with his neighbor, for we are members of one another.",
       "links": "<a href='/AIV/38/8/16'>Zech. 8:16</a>; <a href='/AIV/46/12/27'>1 Cor. 12:27</a>",
-      "comment": "Moral truth builds communal life; the appeal is based on the reality of believers as one body."
+      "comment": "Moral truth builds communal life; the appeal is based on the reality of believers as one body.",
+      "sectionHeader": "Christian Conduct"
     },
     {
       "pk": 56004026,
@@ -389,5 +393,27 @@
       "comment": "Forgiveness is patterned after God’s mercy in Christ. The obligation to forgive shares in Christ’s ministry of reconciliation, a work entrusted to the whole Church."
     }
   ],
-  "translatedAt": "2025-12-24T12:02:46.921Z"
+  "translatedAt": "2025-12-24T12:02:46.921Z",
+  "sections": [
+    {
+      "title": "Unity in the Body of Christ",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Diversity of Gifts",
+      "startVerse": 7,
+      "endVerse": 16
+    },
+    {
+      "title": "New Life in Christ",
+      "startVerse": 17,
+      "endVerse": 24
+    },
+    {
+      "title": "Christian Conduct",
+      "startVerse": 25,
+      "endVerse": 32
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Simon, son of Onias, the high priest, repaired the house of the Lord in his lifetime, and in his days he fortified the temple.",
       "links": "<a href='/AIV/14/29/12'>2 Chr. 29:12</a>; <a href='/AIV/16/3/8'>Neh. 3:8</a>",
-      "comment": "Simon II, a revered high priest, initiated building and fortifying efforts in Jerusalem, typifying the role of a spiritual leader as restorer and guardian of true worship."
+      "comment": "Simon II, a revered high priest, initiated building and fortifying efforts in Jerusalem, typifying the role of a spiritual leader as restorer and guardian of true worship.",
+      "sectionHeader": "The Glory and Duties of Simon the High Priest"
     },
     {
       "pk": 28050002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "When he donned his glorious robe and clothed himself in perfect splendor, ascending the holy altar, he made the court of the sanctuary glorious.",
       "links": "<a href='/AIV/02/28/4'>Ex. 28:4</a>; <a href='/AIV/19/93/1'>Ps. 93:1</a>",
-      "comment": "The priest's garments stress the dignity of the office instituted by God, anticipating Christ’s priesthood and the visible rituals that continue to honor God."
+      "comment": "The priest's garments stress the dignity of the office instituted by God, anticipating Christ’s priesthood and the visible rituals that continue to honor God.",
+      "sectionHeader": "The Liturgical Worship Led by Simon"
     },
     {
       "pk": 28050012,
@@ -266,7 +268,8 @@
       "verse": 22,
       "text": "Now bless the God of all, who in every way does great things, who exalts our days from the womb and deals with us according to His mercy.",
       "links": "<a href='/AIV/19/103/1-5'>Ps. 103:1-5</a>; <a href='/AIV/42/1/68'>Luke 1:68</a>",
-      "comment": "God’s mercy and blessing extend from womb to old age. Here is a call to perpetual gratitude, echoed in Mary’s Magnificat (Luke 1:46–55)."
+      "comment": "God’s mercy and blessing extend from womb to old age. Here is a call to perpetual gratitude, echoed in Mary’s Magnificat (Luke 1:46–55).",
+      "sectionHeader": "A Hymn of Blessing and Prayer for Israel"
     },
     {
       "pk": 28050023,
@@ -302,7 +305,8 @@
       "verse": 25,
       "text": "There are two nations that my soul detests, and the third is not even a nation:",
       "links": "<a href='/AIV/18/34/7-9'>Job 34:7-9</a>",
-      "comment": "The author’s denunciation underscores Israel’s unique calling and the dangers of division from true worship, a subtle call to maintain full unity in the one faith."
+      "comment": "The author’s denunciation underscores Israel’s unique calling and the dangers of division from true worship, a subtle call to maintain full unity in the one faith.",
+      "sectionHeader": "Hatred of Sinful Nations"
     },
     {
       "pk": 28050026,
@@ -326,7 +330,8 @@
       "verse": 27,
       "text": "Instruction in wise understanding and knowledge has been written in this book by Jesus, the son of Sirach, son of Eleazar, from Jerusalem, who poured out wisdom from his heart.",
       "links": "<a href='/AIV/20/1/1-7'>Prov. 1:1-7</a>",
-      "comment": "The author’s attribution connects the wisdom here with other wisdom literature, emphasizing that sound teaching in faith and morals is meant to guide God’s people."
+      "comment": "The author’s attribution connects the wisdom here with other wisdom literature, emphasizing that sound teaching in faith and morals is meant to guide God’s people.",
+      "sectionHeader": "Conclusion: Exhortation to Wisdom"
     },
     {
       "pk": 28050028,
@@ -353,5 +358,32 @@
       "comment": "Obedience to wisdom brings steadfastness, with the Lord Himself as guide—the true light, fulfilled perfectly in Christ (John 8:12), leading His people along the path of truth to everlasting life."
     }
   ],
-  "translatedAt": "2025-12-24T07:50:20.112Z"
+  "translatedAt": "2025-12-24T07:50:20.112Z",
+  "sections": [
+    {
+      "title": "The Glory and Duties of Simon the High Priest",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "The Liturgical Worship Led by Simon",
+      "startVerse": 11,
+      "endVerse": 21
+    },
+    {
+      "title": "A Hymn of Blessing and Prayer for Israel",
+      "startVerse": 22,
+      "endVerse": 24
+    },
+    {
+      "title": "Hatred of Sinful Nations",
+      "startVerse": 25,
+      "endVerse": 26
+    },
+    {
+      "title": "Conclusion: Exhortation to Wisdom",
+      "startVerse": 27,
+      "endVerse": 29
+    }
+  ]
 }

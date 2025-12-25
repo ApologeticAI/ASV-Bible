@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Woe to the shepherds who destroy and scatter the sheep of my pasture, declares the Lord.",
       "links": "<a href='/AIV/26/34/2'>Ezek. 34:2</a>; <a href='/AIV/19/23/1'>Ps. 23:1</a>",
-      "comment": "Here, 'shepherds' refers to Israel's rulers and spiritual leaders who failed their people. This is both literal and points ahead to the need for true, faithful leadership over God's people."
+      "comment": "Here, 'shepherds' refers to Israel's rulers and spiritual leaders who failed their people. This is both literal and points ahead to the need for true, faithful leadership over God's people.",
+      "sectionHeader": "Woe to the False Shepherds"
     },
     {
       "pk": 30023002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "Behold, the days are coming, declares the Lord, when I will raise up for David a righteous Branch, and he will reign as king and act wisely, and will do justice and righteousness in the land.",
       "links": "<a href='/AIV/09/07/16'>2 Sam. 7:16</a>; <a href='/AIV/23/11/1'>Isa. 11:1</a>; <a href='/AIV/40/1/1'>Matt. 1:1</a>",
-      "comment": "The 'righteous Branch' foretells the coming Messiah, Jesus, who will fulfill the Davidic line and rule with wisdom and justice—points clearly to Christ’s kingship (cf. <a href='/AIV/42/1/32'>Luke 1:32</a>)."
+      "comment": "The 'righteous Branch' foretells the coming Messiah, Jesus, who will fulfill the Davidic line and rule with wisdom and justice—points clearly to Christ’s kingship (cf. <a href='/AIV/42/1/32'>Luke 1:32</a>).",
+      "sectionHeader": "The Righteous Branch and Restoration"
     },
     {
       "pk": 30023006,
@@ -110,7 +112,8 @@
       "verse": 9,
       "text": "Concerning the prophets: My heart is broken within me, all my bones tremble; I am like a drunken man, like a man overcome by wine, because of the Lord and because of his holy words.",
       "links": "<a href='/AIV/19/60/3'>Ps. 60:3</a>; <a href='/AIV/29/1/5'>Joel 1:5</a>",
-      "comment": "Jeremiah is overwhelmed by the burden of false prophets and the weight of God's judgment. Speaking for God is serious and fearful."
+      "comment": "Jeremiah is overwhelmed by the burden of false prophets and the weight of God's judgment. Speaking for God is serious and fearful.",
+      "sectionHeader": "Condemnation of False Prophets"
     },
     {
       "pk": 30023010,
@@ -398,7 +401,8 @@
       "verse": 33,
       "text": "When one of this people or a prophet or a priest asks you, 'What is the burden of the Lord?' you shall say to them, 'You are the burden, and I will cast you off, declares the Lord.'",
       "links": "<a href='/AIV/24/17/1'>Jer. 17:1</a>",
-      "comment": "God will reject those who persist in disrespect and self-deceit—even the leaders are held accountable."
+      "comment": "God will reject those who persist in disrespect and self-deceit—even the leaders are held accountable.",
+      "sectionHeader": "The Burden of the Lord"
     },
     {
       "pk": 30023034,
@@ -485,5 +489,27 @@
       "comment": "Final judgment is real and eternal for those who corrupt God’s people or abuse leadership, reminding all to cling to truth and the divinely-constituted order of faith."
     }
   ],
-  "translatedAt": "2025-12-24T08:34:11.137Z"
+  "translatedAt": "2025-12-24T08:34:11.137Z",
+  "sections": [
+    {
+      "title": "Woe to the False Shepherds",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "The Righteous Branch and Restoration",
+      "startVerse": 5,
+      "endVerse": 8
+    },
+    {
+      "title": "Condemnation of False Prophets",
+      "startVerse": 9,
+      "endVerse": 32
+    },
+    {
+      "title": "The Burden of the Lord",
+      "startVerse": 33,
+      "endVerse": 40
+    }
+  ]
 }

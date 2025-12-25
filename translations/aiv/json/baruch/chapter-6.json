@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now, because of the sins you have committed before God, you will be taken captive to Babylon by Nebuchadnezzar king of Babylon.",
       "links": "<a href='/AIV/24/29/4'>Jer. 29:4</a>",
-      "comment": "The verse sets the historical scene of the exile, demonstrating the consequences of Israel's disobedience. Babylonian captivity is a common biblical theme, relating to God's disciplinary justice."
+      "comment": "The verse sets the historical scene of the exile, demonstrating the consequences of Israel's disobedience. Babylonian captivity is a common biblical theme, relating to God's disciplinary justice.",
+      "sectionHeader": "The Exile and Promise of Return"
     },
     {
       "pk": 32006002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "Now in Babylon you will see gods of silver, gold, wood carried about on shoulders, causing fear to the nations.",
       "links": "<a href='/AIV/19/115/4-7'>Ps. 115:4-7</a>; <a href='/AIV/23/44/9-20'>Isa. 44:9-20</a>",
-      "comment": "Describes idolatry among the Gentiles; recalls other texts on the foolishness of idol worship. Highlights the contrast between the living God and lifeless images."
+      "comment": "Describes idolatry among the Gentiles; recalls other texts on the foolishness of idol worship. Highlights the contrast between the living God and lifeless images.",
+      "sectionHeader": "The Futility of Idols"
     },
     {
       "pk": 32006004,
@@ -518,7 +520,8 @@
       "verse": 43,
       "text": "Why then must anyone think they are gods or call them gods?",
       "links": "<a href='/AIV/19/115/4'>Ps. 115:4</a>",
-      "comment": "Invites discernment—calls the reader to recognize falsehood in idolatry."
+      "comment": "Invites discernment—calls the reader to recognize falsehood in idolatry.",
+      "sectionHeader": "The Powerlessness of Babylonian Gods"
     },
     {
       "pk": 32006044,
@@ -818,7 +821,8 @@
       "verse": 68,
       "text": "Therefore, do not fear them.",
       "links": "<a href='/AIV/19/27/1'>Ps. 27:1</a>",
-      "comment": "Final exhortation repeating the theme: only God deserves awe and reverence."
+      "comment": "Final exhortation repeating the theme: only God deserves awe and reverence.",
+      "sectionHeader": "Admonition Not to Fear Idols"
     },
     {
       "pk": 32006069,
@@ -881,5 +885,27 @@
       "comment": "The chapter closes with a final command not to fear idols—a central biblical principle. The spiritual meaning prefigures the Church's insistence on exclusive worship of the one true God. This passage also hints at the necessity of apostolic tradition that safeguards correct worship, linking true faith to the revealed worship established by God. The emphasis on exclusivity of worship and the futility of idols points toward the fullness of faith found in the continuity of apostolic teaching and those sacraments established directly by Christ Himself."
     }
   ],
-  "translatedAt": "2025-12-24T08:58:19.172Z"
+  "translatedAt": "2025-12-24T08:58:19.172Z",
+  "sections": [
+    {
+      "title": "The Exile and Promise of Return",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "The Futility of Idols",
+      "startVerse": 3,
+      "endVerse": 42
+    },
+    {
+      "title": "The Powerlessness of Babylonian Gods",
+      "startVerse": 43,
+      "endVerse": 67
+    },
+    {
+      "title": "Admonition Not to Fear Idols",
+      "startVerse": 68,
+      "endVerse": 73
+    }
+  ]
 }

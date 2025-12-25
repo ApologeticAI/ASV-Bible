@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "I too am a mortal man, like all others, a descendant of him who was first formed from the earth.",
       "links": "<a href='/AIV/01/2/7'>Gen 2:7</a>; <a href='/AIV/18/33/6'>Job 33:6</a>",
-      "comment": "Solomon affirms his common humanity, grounding wisdom in our shared human nature. See the humility of great biblical leaders connecting to Adam, highlighting the dignity and limitations of humankind."
+      "comment": "Solomon affirms his common humanity, grounding wisdom in our shared human nature. See the humility of great biblical leaders connecting to Adam, highlighting the dignity and limitations of humankind.",
+      "sectionHeader": "The Common Origin of Humanity"
     },
     {
       "pk": 27007002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "I preferred her to scepters and thrones, and I counted riches as nothing compared to her.",
       "links": "<a href='/AIV/20/8/10-11'>Prov 8:10-11</a>",
-      "comment": "Solomon values wisdom above all material and political power. This echoes Christ’s teaching (e.g., <a href='/AIV/40/6/33'>Matt 6:33</a>), prioritizing the Kingdom of God over earthly treasures."
+      "comment": "Solomon values wisdom above all material and political power. This echoes Christ’s teaching (e.g., <a href='/AIV/40/6/33'>Matt 6:33</a>), prioritizing the Kingdom of God over earthly treasures.",
+      "sectionHeader": "The Value of Wisdom Above All Things"
     },
     {
       "pk": 27007008,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "May God grant me to speak with insight and to think worthy thoughts, for he is the guide of wisdom and directs the wise.",
       "links": "<a href='/AIV/19/19/14'>Ps 19:14</a>",
-      "comment": "The prayer acknowledges God as the origin and guide of all true wisdom. The request for worthy thoughts ties to prayerful meditation on divine truth."
+      "comment": "The prayer acknowledges God as the origin and guide of all true wisdom. The request for worthy thoughts ties to prayerful meditation on divine truth.",
+      "sectionHeader": "Wisdom: Gift of God and Source of Knowledge"
     },
     {
       "pk": 27007016,
@@ -266,7 +269,8 @@
       "verse": 22,
       "text": "For in her is a spirit intelligent, holy, unique, manifold, subtle, lively, clear, undefiled, distinct, invulnerable, loving what is good, sharp, irresistible,",
       "links": "<a href='/AIV/20/8/12-14'>Prov 8:12-14</a>",
-      "comment": "Wisdom is described with divine and personal attributes, some overlapping with the Holy Spirit. The unity, purity, and perfection ascribed to Wisdom reinforce her heavenly origin."
+      "comment": "Wisdom is described with divine and personal attributes, some overlapping with the Holy Spirit. The unity, purity, and perfection ascribed to Wisdom reinforce her heavenly origin.",
+      "sectionHeader": "The Nature and Excellence of Wisdom"
     },
     {
       "pk": 27007023,
@@ -365,5 +369,27 @@
       "comment": "Light may fade, but wisdom endures—just as evil cannot conquer divine truth. A spiritual reading points to the ultimate triumph of God’s Word and Wisdom—fulfilled ultimately in Christ, who is the eternal Light."
     }
   ],
-  "translatedAt": "2025-12-24T07:17:27.743Z"
+  "translatedAt": "2025-12-24T07:17:27.743Z",
+  "sections": [
+    {
+      "title": "The Common Origin of Humanity",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "The Value of Wisdom Above All Things",
+      "startVerse": 7,
+      "endVerse": 14
+    },
+    {
+      "title": "Wisdom: Gift of God and Source of Knowledge",
+      "startVerse": 15,
+      "endVerse": 21
+    },
+    {
+      "title": "The Nature and Excellence of Wisdom",
+      "startVerse": 22,
+      "endVerse": 30
+    }
+  ]
 }

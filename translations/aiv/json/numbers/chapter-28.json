@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The Lord spoke to Moses, saying,",
       "links": "<a href='/AIV/3/1/1'>Lev. 1:1</a>",
-      "comment": "This begins a new section where God gives Moses instructions regarding the daily, weekly, and festival offerings. The clarity of speech shows the authority of God in legislating proper worship."
+      "comment": "This begins a new section where God gives Moses instructions regarding the daily, weekly, and festival offerings. The clarity of speech shows the authority of God in legislating proper worship.",
+      "sectionHeader": "Daily and Sabbath Offerings"
     },
     {
       "pk": 4028002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "At the beginning of your months, you shall offer a burnt offering to the Lord: two bulls of the herd, one ram, seven male lambs a year old without blemish;",
       "links": "<a href='/AIV/4/10/10'>Num. 10:10</a>; <a href='/AIV/19/81/3'>Ps. 81:3</a>",
-      "comment": "Monthly (new moon) offerings suggest God’s lordship over times and seasons, and a pattern of continual renewal. The number and quality of sacrifices again point to completion and perfection."
+      "comment": "Monthly (new moon) offerings suggest God’s lordship over times and seasons, and a pattern of continual renewal. The number and quality of sacrifices again point to completion and perfection.",
+      "sectionHeader": "Offerings at the Beginning of the Months"
     },
     {
       "pk": 4028012,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "In the first month, on the fourteenth day of the month, is the Lord’s Passover.",
       "links": "<a href='/AIV/2/12/6'>Ex. 12:6</a>; <a href='/AIV/3/23/5'>Lev. 23:5</a>",
-      "comment": "Passover commemorates Israel’s deliverance, which is fulfilled in Christ, our Passover Lamb, sacrificed for us (1 Cor. 5:7)."
+      "comment": "Passover commemorates Israel’s deliverance, which is fulfilled in Christ, our Passover Lamb, sacrificed for us (1 Cor. 5:7).",
+      "sectionHeader": "Offerings for Passover and the Feast of Unleavened Bread"
     },
     {
       "pk": 4028017,
@@ -314,7 +317,8 @@
       "verse": 26,
       "text": "On the day of the firstfruits, when you offer a new grain offering to the Lord at your Feast of Weeks, you shall have a holy convocation; you shall do no regular work.",
       "links": "<a href='/AIV/3/23/15-21'>Lev. 23:15-21</a>; <a href='/AIV/5/16/9-10'>Deut. 16:9-10</a>",
-      "comment": "The Feast of Weeks (Pentecost) points forward to the outpouring of the Spirit and the birth of the Church in Acts 2."
+      "comment": "The Feast of Weeks (Pentecost) points forward to the outpouring of the Spirit and the birth of the Church in Acts 2.",
+      "sectionHeader": "Offerings for the Feast of Weeks (Pentecost)"
     },
     {
       "pk": 4028027,
@@ -377,5 +381,27 @@
       "comment": "The repeated injunction for animals 'without blemish' anticipates the perfect sacrifice of Christ. The phrase 'in addition to' emphasizes ongoing, structured worship, which the early Church maintained in practice and meaning."
     }
   ],
-  "translatedAt": "2025-12-24T01:51:10.070Z"
+  "translatedAt": "2025-12-24T01:51:10.070Z",
+  "sections": [
+    {
+      "title": "Daily and Sabbath Offerings",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "Offerings at the Beginning of the Months",
+      "startVerse": 11,
+      "endVerse": 15
+    },
+    {
+      "title": "Offerings for Passover and the Feast of Unleavened Bread",
+      "startVerse": 16,
+      "endVerse": 25
+    },
+    {
+      "title": "Offerings for the Feast of Weeks (Pentecost)",
+      "startVerse": 26,
+      "endVerse": 31
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "On that day, the Book of Moses was read aloud in the hearing of the people. It was found written that no Ammonite or Moabite should ever enter the assembly of God.",
       "links": "<a href='/AIV/05/23/3'>Deut. 23:3</a>; <a href='/AIV/04/25/1-9'>Num. 25:1-9</a>",
-      "comment": "This recalls the restrictions in Deuteronomy against certain foreign groups joining Israel's worship. It highlights the importance of maintaining the purity of communal worship, which has spiritual implications concerning preparation to receive God's presence, later mirrored in teachings about holiness and the need for separation from sin."
+      "comment": "This recalls the restrictions in Deuteronomy against certain foreign groups joining Israel's worship. It highlights the importance of maintaining the purity of communal worship, which has spiritual implications concerning preparation to receive God's presence, later mirrored in teachings about holiness and the need for separation from sin.",
+      "sectionHeader": "Exclusion of Foreigners from the Assembly"
     },
     {
       "pk": 16013002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "Now before this, Eliashib the priest, appointed over the storerooms of the house of our God, was related to Tobiah.",
       "links": "<a href='/AIV/16/2/10'>Neh. 2:10</a>; <a href='/AIV/16/6/17-19'>Neh. 6:17-19</a>",
-      "comment": "Eliashib’s relationship with Tobiah led to compromise within the temple, revealing the danger of divided loyalties in spiritual leadership. The integrity of worship space is a recurring biblical theme."
+      "comment": "Eliashib’s relationship with Tobiah led to compromise within the temple, revealing the danger of divided loyalties in spiritual leadership. The integrity of worship space is a recurring biblical theme.",
+      "sectionHeader": "Nehemiah Purifies the Temple"
     },
     {
       "pk": 16013005,
@@ -122,7 +124,8 @@
       "verse": 10,
       "text": "I also found that the portions assigned to the Levites had not been given to them. The Levites and singers who did the work had each returned to his field.",
       "links": "<a href='/AIV/16/12/44'>Neh. 12:44</a>; <a href='/AIV/04/18/21'>Num. 18:21</a>",
-      "comment": "When ministry leaders are neglected, spiritual life suffers. The proper support for those serving God is both a practical and spiritual principle, traced throughout Old and New Testaments (<a href='/AIV/54/5/17-18'>1 Tim. 5:17-18</a>)."
+      "comment": "When ministry leaders are neglected, spiritual life suffers. The proper support for those serving God is both a practical and spiritual principle, traced throughout Old and New Testaments (<a href='/AIV/54/5/17-18'>1 Tim. 5:17-18</a>).",
+      "sectionHeader": "Restoration of Tithes and Levites’ Duties"
     },
     {
       "pk": 16013011,
@@ -182,7 +185,8 @@
       "verse": 15,
       "text": "In those days I saw people in Judah treading winepresses on the Sabbath, and bringing in heaps of grain, loading them on donkeys, as well as wine, grapes, figs, and other burdens, bringing them into Jerusalem on the Sabbath day. I warned them about selling food on that day.",
       "links": "<a href='/AIV/02/20/8-11'>Ex. 20:8-11</a>; <a href='/AIV/24/17/21-22'>Jer. 17:21-22</a>",
-      "comment": "The sabbath observance, central to worship, points toward a theology of sacred time. Neglecting it leads to spiritual decline, underscoring the New Testament’s emphasis on a day dedicated to worship and rest for the Lord."
+      "comment": "The sabbath observance, central to worship, points toward a theology of sacred time. Neglecting it leads to spiritual decline, underscoring the New Testament’s emphasis on a day dedicated to worship and rest for the Lord.",
+      "sectionHeader": "Observance of the Sabbath Restored"
     },
     {
       "pk": 16013016,
@@ -278,7 +282,8 @@
       "verse": 23,
       "text": "In those days I also saw Jews who had married women of Ashdod, Ammon, and Moab.",
       "links": "<a href='/AIV/16/10/30'>Neh. 10:30</a>; <a href='/AIV/15/9/1-2'>Ezra 9:1-2</a>",
-      "comment": "Intermarriage with pagan nations posed threats to Israel’s spiritual identity, leading to syncretism and dilution of faith. Spiritual unity in worship and life is a recurring biblical theme."
+      "comment": "Intermarriage with pagan nations posed threats to Israel’s spiritual identity, leading to syncretism and dilution of faith. Spiritual unity in worship and life is a recurring biblical theme.",
+      "sectionHeader": "Separation from Foreign Wives"
     },
     {
       "pk": 16013024,
@@ -377,5 +382,32 @@
       "comment": "Nehemiah’s last prayer again places trust in God’s remembrance and mercy. The offerings and firstfruits are emblematic of further dedication and thankfulness, finalized in the perpetual ministry and sacrificial offerings of the Church."
     }
   ],
-  "translatedAt": "2025-12-24T04:53:40.454Z"
+  "translatedAt": "2025-12-24T04:53:40.454Z",
+  "sections": [
+    {
+      "title": "Exclusion of Foreigners from the Assembly",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "Nehemiah Purifies the Temple",
+      "startVerse": 4,
+      "endVerse": 9
+    },
+    {
+      "title": "Restoration of Tithes and Levites’ Duties",
+      "startVerse": 10,
+      "endVerse": 14
+    },
+    {
+      "title": "Observance of the Sabbath Restored",
+      "startVerse": 15,
+      "endVerse": 22
+    },
+    {
+      "title": "Separation from Foreign Wives",
+      "startVerse": 23,
+      "endVerse": 31
+    }
+  ]
 }

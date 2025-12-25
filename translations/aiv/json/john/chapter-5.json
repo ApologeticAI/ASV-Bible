@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "After these things there was a feast of the Jews, and Jesus went up to Jerusalem.",
       "links": "<a href='/AIV/43/2/13'>John 2:13</a>; <a href='/AIV/5/16/16'>Deut. 16:16</a>",
-      "comment": "Jesus' participation in the Jewish feast shows His obedience to the Law and connection with Israel's liturgical calendar, highlighting the continuity between God's Old Covenant and New Covenant people."
+      "comment": "Jesus' participation in the Jewish feast shows His obedience to the Law and connection with Israel's liturgical calendar, highlighting the continuity between God's Old Covenant and New Covenant people.",
+      "sectionHeader": "The Healing at the Pool of Bethesda"
     },
     {
       "pk": 50005002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "So the Jews were saying to the man who was cured, \"It is the Sabbath, and it is not lawful for you to carry your mat.\"",
       "links": "<a href='/AIV/24/17/21-22'>Jer. 17:21-22</a>",
-      "comment": "The religious leaders focus on legal observance over mercy. This anticipates later teaching about the true spirit of the law and tradition."
+      "comment": "The religious leaders focus on legal observance over mercy. This anticipates later teaching about the true spirit of the law and tradition.",
+      "sectionHeader": "Jesus Confronted About the Sabbath"
     },
     {
       "pk": 50005011,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "But Jesus answered them, \"My Father is working until now, and I am working.\"",
       "links": "<a href='/AIV/1/2/2-3'>Gen. 2:2-3</a>; <a href='/AIV/19/121/4'>Ps. 121:4</a>",
-      "comment": "Here, Jesus aligns Himself with God's continuous activity, claiming a unique relationship as God’s Son. This is an implicit claim to divinity, as Jews recognized only God as Lord of the Sabbath."
+      "comment": "Here, Jesus aligns Himself with God's continuous activity, claiming a unique relationship as God’s Son. This is an implicit claim to divinity, as Jews recognized only God as Lord of the Sabbath.",
+      "sectionHeader": "The Authority of the Son"
     },
     {
       "pk": 50005018,
@@ -374,7 +377,8 @@
       "verse": 31,
       "text": "\"If I alone testify about Myself, My testimony is not valid.\"",
       "links": "<a href='/AIV/5/19/15'>Deut. 19:15</a>",
-      "comment": "Jesus appeals to the biblical principle of multiple witnesses, showing fidelity to Scriptural standards and tradition."
+      "comment": "Jesus appeals to the biblical principle of multiple witnesses, showing fidelity to Scriptural standards and tradition.",
+      "sectionHeader": "Witnesses to Jesus"
     },
     {
       "pk": 50005032,
@@ -569,5 +573,27 @@
       "comment": "Faith in Scripture and faith in Christ go together. Disbelief in God’s revelation blocks all further understanding, underlining the necessity of faith and Tradition as living interpretation."
     }
   ],
-  "translatedAt": "2025-12-24T11:04:51.688Z"
+  "translatedAt": "2025-12-24T11:04:51.688Z",
+  "sections": [
+    {
+      "title": "The Healing at the Pool of Bethesda",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "Jesus Confronted About the Sabbath",
+      "startVerse": 10,
+      "endVerse": 16
+    },
+    {
+      "title": "The Authority of the Son",
+      "startVerse": 17,
+      "endVerse": 30
+    },
+    {
+      "title": "Witnesses to Jesus",
+      "startVerse": 31,
+      "endVerse": 47
+    }
+  ]
 }

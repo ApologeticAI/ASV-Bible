@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Again I looked up and saw four chariots coming out from between two mountains, and the mountains were of bronze.",
       "links": "<a href='/AIV/38/1/8'>Zech. 1:8</a>; <a href='/AIV/27/2/32-45'>Dan. 2:32-45</a>",
-      "comment": "The mountains of bronze symbolize stability and strength—possibly the unshakeable purposes of God. The connection to Zechariah 1:8 shows a continuation of the vision motif. The chariots often signify divine judgment going out over the earth."
+      "comment": "The mountains of bronze symbolize stability and strength—possibly the unshakeable purposes of God. The connection to Zechariah 1:8 shows a continuation of the vision motif. The chariots often signify divine judgment going out over the earth.",
+      "sectionHeader": "The Vision of the Four Chariots"
     },
     {
       "pk": 45006002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "The word of the Lord came to me, saying,",
       "links": "<a href='/AIV/38/4/8'>Zech. 4:8</a>",
-      "comment": "A new prophetic message signals a significant shift—from vision to direct instruction."
+      "comment": "A new prophetic message signals a significant shift—from vision to direct instruction.",
+      "sectionHeader": "The Crowning of Joshua and the Prophecy of the Branch"
     },
     {
       "pk": 45006010,
@@ -185,5 +187,17 @@
       "comment": "The involvement of outsiders foreshadows the ingathering of the nations into the true worship of God. Full realization of these blessings depends on obedience, showing the need for perseverance in faith and practice."
     }
   ],
-  "translatedAt": "2025-12-24T09:56:29.903Z"
+  "translatedAt": "2025-12-24T09:56:29.903Z",
+  "sections": [
+    {
+      "title": "The Vision of the Four Chariots",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "The Crowning of Joshua and the Prophecy of the Branch",
+      "startVerse": 9,
+      "endVerse": 15
+    }
+  ]
 }

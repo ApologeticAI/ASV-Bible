@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "By the rivers of Babylon, there we sat down and wept when we remembered Zion.",
       "links": "<a href='/AIV/25/1/7'>Lam. 1:7</a>; <a href='/AIV/19/42/4'>Ps. 42:4</a>",
-      "comment": "Israel's exile in Babylon evoked deep sorrow, recalling their lost homeland, Zion—often a symbol of God's dwelling and promise. The literal meaning highlights historical lament; spiritual interpretation sees longing for God's presence and restoration. The communal weeping suggests the importance of unity, worship, and remembrance within the covenant people."
+      "comment": "Israel's exile in Babylon evoked deep sorrow, recalling their lost homeland, Zion—often a symbol of God's dwelling and promise. The literal meaning highlights historical lament; spiritual interpretation sees longing for God's presence and restoration. The communal weeping suggests the importance of unity, worship, and remembrance within the covenant people.",
+      "sectionHeader": "Lament by the Rivers of Babylon"
     },
     {
       "pk": 23137002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "If I forget you, Jerusalem, let my right hand forget its skill.",
       "links": "<a href='/AIV/19/137/6'>Ps. 137:6</a>; <a href='/AIV/19/84/1'>Ps. 84:1</a>",
-      "comment": "A vow links fidelity to Jerusalem with personal ability, signifying how identity and worship are tied to the holy city. Spiritually, Jerusalem prefigures the Church as both the present and future dwelling of God’s people (<a href='/AIV/66/21/2'>Rev. 21:2</a>). The pledge shows the importance of ordered worship and corporate memory."
+      "comment": "A vow links fidelity to Jerusalem with personal ability, signifying how identity and worship are tied to the holy city. Spiritually, Jerusalem prefigures the Church as both the present and future dwelling of God’s people (<a href='/AIV/66/21/2'>Rev. 21:2</a>). The pledge shows the importance of ordered worship and corporate memory.",
+      "sectionHeader": "Prayer for the Remembrance of Jerusalem"
     },
     {
       "pk": 23137006,
@@ -86,7 +88,8 @@
       "verse": 7,
       "text": "Remember, Lord, against the sons of Edom the day of Jerusalem, those who said, 'Tear it down, tear it down, down to its foundations!'",
       "links": "<a href='/AIV/25/4/21'>Lam. 4:21</a>; <a href='/AIV/31/1/10-14'>Obad. 1:10-14</a>",
-      "comment": "The prayer appeals to God’s justice against Edom for their betrayal during Jerusalem’s destruction. This intercession highlights the longing for divine vindication and protection of God’s dwelling. Such pleas anticipate deliverance and restoration, ultimately fulfilled in Christ’s victory over His enemies (<a href='/AIV/66/19/15'>Rev. 19:15</a>)."
+      "comment": "The prayer appeals to God’s justice against Edom for their betrayal during Jerusalem’s destruction. This intercession highlights the longing for divine vindication and protection of God’s dwelling. Such pleas anticipate deliverance and restoration, ultimately fulfilled in Christ’s victory over His enemies (<a href='/AIV/66/19/15'>Rev. 19:15</a>).",
+      "sectionHeader": "Imprecation Against Zion’s Enemies"
     },
     {
       "pk": 23137008,
@@ -113,5 +116,22 @@
       "comment": "This difficult verse expresses the depth of pain and desire for justice after Babylon’s cruelty. While literal, the spiritual implication shifts in Christian interpretation: Christ transforms such cries for vengeance into calls for forgiveness and spiritual battle against evil (see <a href='/AIV/40/26/52'>Matt. 26:52</a>). The verse invites prayer for purification and an ultimate trust in God’s righteous judgment."
     }
   ],
-  "translatedAt": "2025-12-24T06:46:13.564Z"
+  "translatedAt": "2025-12-24T06:46:13.564Z",
+  "sections": [
+    {
+      "title": "Lament by the Rivers of Babylon",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "Prayer for the Remembrance of Jerusalem",
+      "startVerse": 5,
+      "endVerse": 6
+    },
+    {
+      "title": "Imprecation Against Zion’s Enemies",
+      "startVerse": 7,
+      "endVerse": 9
+    }
+  ]
 }

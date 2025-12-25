@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now the boy Samuel was ministering to the LORD before Eli. In those days the word of the LORD was rare; visions were not widespread.",
       "links": "<a href='/AIV/3/10/11'>Lev. 10:11</a>; <a href='/AIV/9/28/6'>1Sam 28:6</a>; <a href='/AIV/23/29/18'>Isa. 29:18</a>",
-      "comment": "Samuel begins his service under Eli's oversight, showing the importance of faithful youth in spiritual ministry. The rarity of divine revelation emphasizes the spiritual dryness of the era."
+      "comment": "Samuel begins his service under Eli's oversight, showing the importance of faithful youth in spiritual ministry. The rarity of divine revelation emphasizes the spiritual dryness of the era.",
+      "sectionHeader": "The Lord Calls Samuel"
     },
     {
       "pk": 9003002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "And the LORD came, stood there, and called as at the other times, \"Samuel! Samuel!\" Then Samuel said, \"Speak, for your servant is listening.\"",
       "links": "<a href='/AIV/2/3/4'>Exod. 3:4</a>; <a href='/AIV/9/3/4'>1Sam 3:4</a>",
-      "comment": "God's personal presence is described vividly. The double naming signified significance (cf. Moses, Exodus 3:4). The act of listening is central to faith."
+      "comment": "God's personal presence is described vividly. The double naming signified significance (cf. Moses, Exodus 3:4). The act of listening is central to faith.",
+      "sectionHeader": "The Lord's Message to Samuel"
     },
     {
       "pk": 9003011,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "Samuel lay until morning; then he opened the doors of the house of the LORD. And Samuel was afraid to tell the vision to Eli.",
       "links": "<a href='/AIV/26/3/15'>Ezek. 3:15</a>",
-      "comment": "Faithful service in liturgical duties is seen alongside the natural fear of bearing a hard prophetic message, a balance often faced by God's servants."
+      "comment": "Faithful service in liturgical duties is seen alongside the natural fear of bearing a hard prophetic message, a balance often faced by God's servants.",
+      "sectionHeader": "Samuel Tells Eli the Vision"
     },
     {
       "pk": 9003016,
@@ -230,7 +233,8 @@
       "verse": 19,
       "text": "Samuel grew, and the LORD was with him, and let none of his words fall to the ground.",
       "links": "<a href='/AIV/9/2/26'>1Sam 2:26</a>; <a href='/AIV/24/1/7-10'>Jer. 1:7-10</a>",
-      "comment": "God confirms Samuel as prophet. This foreshadows the authority granted to God's chosen servants, with God Himself validating their teaching."
+      "comment": "God confirms Samuel as prophet. This foreshadows the authority granted to God's chosen servants, with God Himself validating their teaching.",
+      "sectionHeader": "Samuel Established as Prophet"
     },
     {
       "pk": 9003020,
@@ -257,5 +261,27 @@
       "comment": "God’s revelation through His chosen serves as foundation for the people. Regular divine revelation through the prophet points to the principle of authoritative revelation entrusted to select individuals, a concept fulfilled in the apostolic and ecclesial structure later fully established in the New Testament era."
     }
   ],
-  "translatedAt": "2025-12-24T02:50:23.676Z"
+  "translatedAt": "2025-12-24T02:50:23.676Z",
+  "sections": [
+    {
+      "title": "The Lord Calls Samuel",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "The Lord's Message to Samuel",
+      "startVerse": 10,
+      "endVerse": 14
+    },
+    {
+      "title": "Samuel Tells Eli the Vision",
+      "startVerse": 15,
+      "endVerse": 18
+    },
+    {
+      "title": "Samuel Established as Prophet",
+      "startVerse": 19,
+      "endVerse": 21
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now there was a man from the Pharisees named Nicodemus, a ruler of the Jews.",
       "links": "<a href='/AIV/44/5/34'>Acts 5:34</a>; <a href='/AIV/43/7/50'>John 7:50</a>",
-      "comment": "Nicodemus was a prominent religious leader and member of the Jewish ruling council called the Sanhedrin. His sincere approach is similar to seekers elsewhere in the Old and New Testament."
+      "comment": "Nicodemus was a prominent religious leader and member of the Jewish ruling council called the Sanhedrin. His sincere approach is similar to seekers elsewhere in the Old and New Testament.",
+      "sectionHeader": "Jesus and Nicodemus"
     },
     {
       "pk": 50003002,
@@ -194,7 +195,8 @@
       "verse": 16,
       "text": "For God so loved the world that He gave His one and only Son, so that whoever believes in Him should not perish but have eternal life.",
       "links": "<a href='/AIV/45/5/8'>Rom. 5:8</a>; <a href='/AIV/62/4/9'>1 John 4:9</a>",
-      "comment": "God’s love is self-giving and universal, and Jesus is His unique Son (Greek: monogenēs, ‘only begotten’). Salvation is both a gift and a call to personal faith, but belief entails obedience and transformation, not mere intellectual assent (<a href='/AIV/40/7/21'>Matt. 7:21</a>)."
+      "comment": "God’s love is self-giving and universal, and Jesus is His unique Son (Greek: monogenēs, ‘only begotten’). Salvation is both a gift and a call to personal faith, but belief entails obedience and transformation, not mere intellectual assent (<a href='/AIV/40/7/21'>Matt. 7:21</a>).",
+      "sectionHeader": "For God So Loved the World"
     },
     {
       "pk": 50003017,
@@ -266,7 +268,8 @@
       "verse": 22,
       "text": "After this, Jesus and His disciples went into the Judean countryside, and He remained there with them and was baptizing.",
       "links": "<a href='/AIV/43/4/1-2'>John 4:1-2</a>",
-      "comment": "Although John clarifies in Chapter 4 that Jesus Himself did not baptize, His disciples performed baptisms under His authority, foreshadowing the later role of sacramental initiation into the new covenant community."
+      "comment": "Although John clarifies in Chapter 4 that Jesus Himself did not baptize, His disciples performed baptisms under His authority, foreshadowing the later role of sacramental initiation into the new covenant community.",
+      "sectionHeader": "Further Testimony of John the Baptist"
     },
     {
       "pk": 50003023,
@@ -437,5 +440,22 @@
       "comment": "Eternal life comes through faith joined with obedience. 'Does not obey' in the original literally means \"refuses to be persuaded or comply with.\" Faith that does not result in obedience is not saving faith (see <a href='/AIV/59/2/14-26'>James 2:14-26</a>)."
     }
   ],
-  "translatedAt": "2025-12-24T11:02:34.859Z"
+  "translatedAt": "2025-12-24T11:02:34.859Z",
+  "sections": [
+    {
+      "title": "Jesus and Nicodemus",
+      "startVerse": 1,
+      "endVerse": 15
+    },
+    {
+      "title": "For God So Loved the World",
+      "startVerse": 16,
+      "endVerse": 21
+    },
+    {
+      "title": "Further Testimony of John the Baptist",
+      "startVerse": 22,
+      "endVerse": 36
+    }
+  ]
 }

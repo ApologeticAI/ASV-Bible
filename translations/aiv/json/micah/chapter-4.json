@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "But in the last days, the mountain of the LORD’s house will be established as the highest of the mountains; it will be lifted up above the hills, and peoples will stream to it.",
       "links": "<a href='/AIV/23/2/2'>Isaiah 2:2</a>; <a href='/AIV/19/68/15'>Psalm 68:15-16</a>",
-      "comment": "The phrase 'the last days' is prophetic, indicating the Messianic age and the establishment of God’s reign. The mountain symbolizes God's dwelling and kingdom—fulfilled in Christ and the gathering of all nations to true worship. See Isaiah 2:2 for a parallel prophecy."
+      "comment": "The phrase 'the last days' is prophetic, indicating the Messianic age and the establishment of God’s reign. The mountain symbolizes God's dwelling and kingdom—fulfilled in Christ and the gathering of all nations to true worship. See Isaiah 2:2 for a parallel prophecy.",
+      "sectionHeader": "The Peaceful Reign of the Messiah"
     },
     {
       "pk": 40004002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "In that day, declares the LORD, I will gather the lame and assemble those who have been driven away, and those whom I have afflicted.",
       "links": "<a href='/AIV/23/35/5-6'>Isaiah 35:5-6</a>; <a href='/AIV/40/15/30'>Matthew 15:30-31</a>",
-      "comment": "God’s promise to gather the broken is both literal (the return from exile) and spiritual (the inclusion of all, even the outcast, in the new covenant people). Christ fulfilled this by healing the sick and drawing in the marginalized."
+      "comment": "God’s promise to gather the broken is both literal (the return from exile) and spiritual (the inclusion of all, even the outcast, in the new covenant people). Christ fulfilled this by healing the sick and drawing in the marginalized.",
+      "sectionHeader": "The Restoration of Zion"
     },
     {
       "pk": 40004007,
@@ -110,7 +112,8 @@
       "verse": 9,
       "text": "Now, why do you cry aloud? Is there no king among you? Has your counselor perished, that pain has seized you like a woman in labor?",
       "links": "<a href='/AIV/24/8/19'>Jeremiah 8:19</a>; <a href='/AIV/23/66/7'>Isaiah 66:7-8</a>",
-      "comment": "The loss of earthly leaders causes anguish, fulfilling God’s warnings about judgment, but ultimately pointing toward the hope for a new, greater King and Counselor to come."
+      "comment": "The loss of earthly leaders causes anguish, fulfilling God’s warnings about judgment, but ultimately pointing toward the hope for a new, greater King and Counselor to come.",
+      "sectionHeader": "The Exile and Deliverance of Zion"
     },
     {
       "pk": 40004010,
@@ -134,7 +137,8 @@
       "verse": 11,
       "text": "Now many nations are assembled against you, saying, 'Let her be defiled, and let our eyes look on Zion.'",
       "links": "<a href='/AIV/19/83/4-5'>Psalm 83:4-5</a>; <a href='/AIV/23/29/7-8'>Isaiah 29:7-8</a>",
-      "comment": "Though surrounded by enemies, God’s people are never forsaken. The nations’ plans to dishonor Zion are ultimately frustrated, showing God’s providential protection and preservation of His chosen people."
+      "comment": "Though surrounded by enemies, God’s people are never forsaken. The nations’ plans to dishonor Zion are ultimately frustrated, showing God’s providential protection and preservation of His chosen people.",
+      "sectionHeader": "The Defeat of Zion’s Enemies"
     },
     {
       "pk": 40004012,
@@ -161,5 +165,27 @@
       "comment": "God empowers Zion, signifying strength given to God’s people to carry out His victory and purpose. The dedication of the nations' wealth to the LORD foreshadows the universal mission and the gathering of all things to God—a key theme in the ultimate unity and sanctification of the people of God."
     }
   ],
-  "translatedAt": "2025-12-24T09:48:33.835Z"
+  "translatedAt": "2025-12-24T09:48:33.835Z",
+  "sections": [
+    {
+      "title": "The Peaceful Reign of the Messiah",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "The Restoration of Zion",
+      "startVerse": 6,
+      "endVerse": 8
+    },
+    {
+      "title": "The Exile and Deliverance of Zion",
+      "startVerse": 9,
+      "endVerse": 10
+    },
+    {
+      "title": "The Defeat of Zion’s Enemies",
+      "startVerse": 11,
+      "endVerse": 13
+    }
+  ]
 }

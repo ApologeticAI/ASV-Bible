@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "My heart overflows with a noble theme; I recite my verses for the king; my tongue is like the pen of a skilled writer.",
       "links": "<a href='/AIV/19/39/3'>Ps. 39:3</a>; <a href='/AIV/19/119/11'>Ps. 119:11</a>",
-      "comment": "The psalmist begins with a burst of inspiration, addressing the king, who is also seen as a type foreshadowing Christ—the true King. This anticipates later liturgical prayers focused on Christ as King (cf. Rev. 19:16), connecting piety with royal imagery."
+      "comment": "The psalmist begins with a burst of inspiration, addressing the king, who is also seen as a type foreshadowing Christ—the true King. This anticipates later liturgical prayers focused on Christ as King (cf. Rev. 19:16), connecting piety with royal imagery.",
+      "sectionHeader": "The Royal Bridegroom and His Majesty"
     },
     {
       "pk": 23045002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "Listen, O daughter, and consider; incline your ear. Forget your people and your father’s house.",
       "links": "<a href='/AIV/19/45/13'>Ps. 45:13</a>; <a href='/AIV/01/2/24'>Gen. 2:24</a>",
-      "comment": "The bride is invited to leave her former life—echoing Genesis 2:24 with marital transformation, a motif later used in Pauline teaching about spiritual union with Christ (cf. Eph. 5:22-32)."
+      "comment": "The bride is invited to leave her former life—echoing Genesis 2:24 with marital transformation, a motif later used in Pauline teaching about spiritual union with Christ (cf. Eph. 5:22-32).",
+      "sectionHeader": "The Bride and Her Wedding Procession"
     },
     {
       "pk": 23045011,
@@ -209,5 +211,17 @@
       "comment": "The king’s enduring name anticipates the everlasting praise given to Christ by all nations and generations, connecting earthly royalty with universal worship in the Kingdom of God."
     }
   ],
-  "translatedAt": "2025-12-24T06:14:21.469Z"
+  "translatedAt": "2025-12-24T06:14:21.469Z",
+  "sections": [
+    {
+      "title": "The Royal Bridegroom and His Majesty",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "The Bride and Her Wedding Procession",
+      "startVerse": 10,
+      "endVerse": 17
+    }
+  ]
 }

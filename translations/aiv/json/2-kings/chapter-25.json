@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "So in the ninth year of Zedekiah’s reign, in the tenth month, on the tenth day of the month, Nebuchadnezzar king of Babylon came with his entire army against Jerusalem and camped around it. They built siege ramps all around the city.",
       "links": "<a href='/AIV/24/39/1'>Jer. 39:1</a>; <a href='/AIV/26/24/1-2'>Ezek. 24:1-2</a>",
-      "comment": "The siege of Jerusalem marks the final phase of Judah's downfall. Cross-referenced in Jeremiah and Ezekiel; this date is foundational for exile chronology."
+      "comment": "The siege of Jerusalem marks the final phase of Judah's downfall. Cross-referenced in Jeremiah and Ezekiel; this date is foundational for exile chronology.",
+      "sectionHeader": "The Fall of Jerusalem and Capture of Zedekiah"
     },
     {
       "pk": 12025002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "On the seventh day of the fifth month, which was the nineteenth year of Nebuchadnezzar king of Babylon, Nebuzaradan, captain of the guard and servant of the king of Babylon, came to Jerusalem.",
       "links": "<a href='/AIV/24/52/12'>Jer. 52:12</a>",
-      "comment": "This records the next phase in judgment: the destruction of the temple and city. The precision of dates shows God’s control over history."
+      "comment": "This records the next phase in judgment: the destruction of the temple and city. The precision of dates shows God’s control over history.",
+      "sectionHeader": "Destruction of the City and Temple"
     },
     {
       "pk": 12025009,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "The captain of the guard took Seraiah the chief priest, Zephaniah the second priest, and the three doorkeepers.",
       "links": "<a href='/AIV/24/52/24'>Jer. 52:24</a>",
-      "comment": "Removal of priests foreshadows the end of the old priesthood, and the need for a new covenant priesthood instituted by Christ and His apostles (see Heb 7:23-28)."
+      "comment": "Removal of priests foreshadows the end of the old priesthood, and the need for a new covenant priesthood instituted by Christ and His apostles (see Heb 7:23-28).",
+      "sectionHeader": "The Exile of Judah"
     },
     {
       "pk": 12025019,
@@ -266,7 +269,8 @@
       "verse": 22,
       "text": "Nebuchadnezzar king of Babylon appointed Gedaliah son of Ahikam, son of Shaphan, to be governor over the people he had left in the land of Judah.",
       "links": "<a href='/AIV/24/39/14'>Jer. 39:14</a>; <a href='/AIV/24/40/5'>Jer. 40:5</a>",
-      "comment": "Gedaliah’s governorship shows God’s provision for a remnant. Lineage links to former faithfulness; foreshadows the coming unity and oversight in the future Church."
+      "comment": "Gedaliah’s governorship shows God’s provision for a remnant. Lineage links to former faithfulness; foreshadows the coming unity and oversight in the future Church.",
+      "sectionHeader": "Gedaliah Made Governor; His Assassination"
     },
     {
       "pk": 12025023,
@@ -326,7 +330,8 @@
       "verse": 27,
       "text": "In the thirty-seventh year of the exile of Jehoiachin king of Judah, in the twelfth month, on the twenty-seventh day of the month, Evil-merodach king of Babylon released Jehoiachin king of Judah from prison and spoke kindly to him.",
       "links": "<a href='/AIV/24/52/31'>Jer. 52:31</a>",
-      "comment": "The release hints at restoration. Jehoiachin’s mercy foreshadows God’s ultimate plan to restore the Davidic line, culminating in Christ."
+      "comment": "The release hints at restoration. Jehoiachin’s mercy foreshadows God’s ultimate plan to restore the Davidic line, culminating in Christ.",
+      "sectionHeader": "Jehoiachin Released from Prison"
     },
     {
       "pk": 12025028,
@@ -365,5 +370,32 @@
       "comment": "Provision points to God’s faithfulness. Daily bread for Jehoiachin foreshadows Christ’s promise of daily grace and spiritual sustenance, fulfilled in the new covenant."
     }
   ],
-  "translatedAt": "2025-12-24T04:02:56.629Z"
+  "translatedAt": "2025-12-24T04:02:56.629Z",
+  "sections": [
+    {
+      "title": "The Fall of Jerusalem and Capture of Zedekiah",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Destruction of the City and Temple",
+      "startVerse": 8,
+      "endVerse": 17
+    },
+    {
+      "title": "The Exile of Judah",
+      "startVerse": 18,
+      "endVerse": 21
+    },
+    {
+      "title": "Gedaliah Made Governor; His Assassination",
+      "startVerse": 22,
+      "endVerse": 26
+    },
+    {
+      "title": "Jehoiachin Released from Prison",
+      "startVerse": 27,
+      "endVerse": 30
+    }
+  ]
 }

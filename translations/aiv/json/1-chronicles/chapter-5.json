@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The sons of Reuben, the firstborn of Israel—he was the firstborn, but because he defiled his father’s bed, his birthright was given to the sons of Joseph, the son of Israel; so Reuben is not listed in the genealogy according to the firstborn right.",
       "links": "<a href='/AIV/01/35/22'>Gen. 35:22</a>; <a href='/AIV/01/49/3-4'>Gen. 49:3-4</a>; <a href='/AIV/01/48/5'>Gen. 48:5</a>",
-      "comment": "Reuben forfeited his privileged position because of immorality (see Gen. 35:22). The right of the firstborn, typically involving leadership and a double portion, was transferred to Joseph's sons. This has typological echoes in the New Testament of those who, despite human weakness, are chosen by God for leadership (see Rom. 9:10-13)."
+      "comment": "Reuben forfeited his privileged position because of immorality (see Gen. 35:22). The right of the firstborn, typically involving leadership and a double portion, was transferred to Joseph's sons. This has typological echoes in the New Testament of those who, despite human weakness, are chosen by God for leadership (see Rom. 9:10-13).",
+      "sectionHeader": "The Descendants and Birthright of Reuben"
     },
     {
       "pk": 13005002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "The sons of Gad lived next to them in the land of Bashan as far as Salekah.",
       "links": "<a href='/AIV/06/13/11-13'>Josh. 13:11-13</a>",
-      "comment": "The tribe of Gad shared the Transjordan territory with Reuben and half-Manasseh. The inheritance of land maintained God’s order within the people."
+      "comment": "The tribe of Gad shared the Transjordan territory with Reuben and half-Manasseh. The inheritance of land maintained God’s order within the people.",
+      "sectionHeader": "The Tribe of Gad"
     },
     {
       "pk": 13005012,
@@ -278,7 +280,8 @@
       "verse": 23,
       "text": "The half-tribe of Manasseh lived in the land from Bashan to Baal-hermon, Senir, and Mount Hermon, and they multiplied greatly.",
       "links": "<a href='/AIV/06/13/29-31'>Josh. 13:29-31</a>",
-      "comment": "Their multiplication recalls God's command to ‘be fruitful and multiply’ (Gen. 1:28), a sign of blessing tied to obedience."
+      "comment": "Their multiplication recalls God's command to ‘be fruitful and multiply’ (Gen. 1:28), a sign of blessing tied to obedience.",
+      "sectionHeader": "The Half-Tribe of Manasseh"
     },
     {
       "pk": 13005024,
@@ -302,7 +305,8 @@
       "verse": 25,
       "text": "But they were unfaithful to the God of their fathers and played the prostitute after the gods of the peoples of the land, whom God had destroyed before them.",
       "links": "<a href='/AIV/02/34/15-16'>Ex. 34:15-16</a>; <a href='/AIV/07/02/17'>Judg. 2:17</a>",
-      "comment": "Unfaithfulness is likened to spiritual adultery (see Jer. 3:6-9; James 4:4). The people forsook the exclusive worship of the one true God—a warning repeated throughout Scripture and a call to undivided devotion."
+      "comment": "Unfaithfulness is likened to spiritual adultery (see Jer. 3:6-9; James 4:4). The people forsook the exclusive worship of the one true God—a warning repeated throughout Scripture and a call to undivided devotion.",
+      "sectionHeader": "The Exile of the Transjordan Tribes"
     },
     {
       "pk": 13005026,
@@ -317,5 +321,27 @@
       "comment": "God sovereignly uses nations for judgment. The exile emphasizes both God’s justice and the hope of eventual restoration—a theme fulfilled in Christ, who brings the true return and gathering of God’s people (see Luke 1:68-75; Eph. 2:13-19)."
     }
   ],
-  "translatedAt": "2025-12-24T04:06:49.056Z"
+  "translatedAt": "2025-12-24T04:06:49.056Z",
+  "sections": [
+    {
+      "title": "The Descendants and Birthright of Reuben",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "The Tribe of Gad",
+      "startVerse": 11,
+      "endVerse": 22
+    },
+    {
+      "title": "The Half-Tribe of Manasseh",
+      "startVerse": 23,
+      "endVerse": 24
+    },
+    {
+      "title": "The Exile of the Transjordan Tribes",
+      "startVerse": 25,
+      "endVerse": 26
+    }
+  ]
 }

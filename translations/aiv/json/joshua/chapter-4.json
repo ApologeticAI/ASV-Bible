@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "After all the people had finished crossing over the Jordan, the LORD spoke to Joshua,",
       "links": "<a href='/AIV/6/3/17'>Josh. 3:17</a>",
-      "comment": "This opening verse establishes the narrative transition from the miraculous crossing to God's further instructions. The phrase 'the LORD spoke to Joshua' shows God's direct guidance, which is continued from Moses to Joshua, highlighting apostolic succession (see Josh. 1:1-2)."
+      "comment": "This opening verse establishes the narrative transition from the miraculous crossing to God's further instructions. The phrase 'the LORD spoke to Joshua' shows God's direct guidance, which is continued from Moses to Joshua, highlighting apostolic succession (see Josh. 1:1-2).",
+      "sectionHeader": "The Twelve Memorial Stones Taken from the Jordan"
     },
     {
       "pk": 6004002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "For the priests bearing the ark stood in the midst of the Jordan until everything was finished that the LORD commanded Joshua to speak to the people, according to all that Moses had commanded Joshua. The people hurried and passed over.",
       "links": "<a href='/AIV/6/3/8'>Josh. 3:8</a>; <a href='/AIV/2/14/22'>Ex. 14:22</a>",
-      "comment": "Priestly mediation is seen here, as they hold their place until all is accomplished. Moses’ commands being continued by Joshua highlight legitimate succession in leadership and teaching authority."
+      "comment": "Priestly mediation is seen here, as they hold their place until all is accomplished. Moses’ commands being continued by Joshua highlight legitimate succession in leadership and teaching authority.",
+      "sectionHeader": "The Ark and the People Complete the Crossing"
     },
     {
       "pk": 6004011,
@@ -230,7 +232,8 @@
       "verse": 19,
       "text": "Now the people came up out of the Jordan on the tenth day of the first month, and they camped at Gilgal, on the eastern border of Jericho.",
       "links": "<a href='/AIV/2/12/2-3'>Ex. 12:2-3</a>",
-      "comment": "The tenth day of the first month connects this event to the original Passover (see Ex. 12:3), illustrating the continuity of salvation history and commemorative feasting."
+      "comment": "The tenth day of the first month connects this event to the original Passover (see Ex. 12:3), illustrating the continuity of salvation history and commemorative feasting.",
+      "sectionHeader": "The Memorial Set Up at Gilgal"
     },
     {
       "pk": 6004020,
@@ -293,5 +296,22 @@
       "comment": "The ultimate purpose is both for the nations to recognize God’s power and for His people to hold Him in reverence perpetually. The call to a lasting, visible faith aligns with the enduring nature of the visible community of believers."
     }
   ],
-  "translatedAt": "2025-12-24T02:18:25.757Z"
+  "translatedAt": "2025-12-24T02:18:25.757Z",
+  "sections": [
+    {
+      "title": "The Twelve Memorial Stones Taken from the Jordan",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "The Ark and the People Complete the Crossing",
+      "startVerse": 10,
+      "endVerse": 18
+    },
+    {
+      "title": "The Memorial Set Up at Gilgal",
+      "startVerse": 19,
+      "endVerse": 24
+    }
+  ]
 }

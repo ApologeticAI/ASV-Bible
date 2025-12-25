@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When anyone brings a grain offering to the LORD, his offering must be of fine flour. He shall pour oil on it and put frankincense on it.",
       "links": "<a href='/AIV/2/40/29'>Ex. 40:29</a>; <a href='/AIV/4/7/13'>Num. 7:13</a>",
-      "comment": "The grain offering emphasizes the importance of giving back to God with the best of one's produce, symbolizing devotion and surrender. Frankincense is later linked to Christ (see <a href='/AIV/40/2/11'>Matt. 2:11</a>), hinting at the pleasing aroma of Christ’s own sacrifice."
+      "comment": "The grain offering emphasizes the importance of giving back to God with the best of one's produce, symbolizing devotion and surrender. Frankincense is later linked to Christ (see <a href='/AIV/40/2/11'>Matt. 2:11</a>), hinting at the pleasing aroma of Christ’s own sacrifice.",
+      "sectionHeader": "Laws Concerning Grain Offerings"
     },
     {
       "pk": 3002002,
@@ -170,7 +171,8 @@
       "verse": 14,
       "text": "If you bring a grain offering of firstfruits to the LORD, offer crushed new grain roasted by fire, as your grain offering of firstfruits.",
       "links": "<a href='/AIV/2/23/16-17'>Ex. 23:16-17</a>; <a href='/AIV/4/18/13'>Num. 18:13</a>",
-      "comment": "Firstfruits offerings symbolize dedicating the first and best to God, a theme fulfilled when Christ becomes the 'firstfruits of those who have fallen asleep' (<a href='/AIV/46/15/20'>1 Cor. 15:20</a>)."
+      "comment": "Firstfruits offerings symbolize dedicating the first and best to God, a theme fulfilled when Christ becomes the 'firstfruits of those who have fallen asleep' (<a href='/AIV/46/15/20'>1 Cor. 15:20</a>).",
+      "sectionHeader": "Grain Offerings of Firstfruits"
     },
     {
       "pk": 3002015,
@@ -197,5 +199,17 @@
       "comment": "This final act returns the offering to God in sacred fire, a symbol of total dedication and purification, echoing the future sacrifice of Christ who offers Himself completely to the Father."
     }
   ],
-  "translatedAt": "2025-12-24T01:10:28.269Z"
+  "translatedAt": "2025-12-24T01:10:28.269Z",
+  "sections": [
+    {
+      "title": "Laws Concerning Grain Offerings",
+      "startVerse": 1,
+      "endVerse": 13
+    },
+    {
+      "title": "Grain Offerings of Firstfruits",
+      "startVerse": 14,
+      "endVerse": 16
+    }
+  ]
 }

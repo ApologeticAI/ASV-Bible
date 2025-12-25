@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Hear, Israel! You are crossing the Jordan today, to go in and dispossess nations greater and mightier than you, cities great and fortified up to heaven.",
       "links": "<a href='/AIV/6/3/10'>Josh. 3:10</a>; <a href='/AIV/1/15/16-21'>Gen. 15:16-21</a>",
-      "comment": "This sets the context of Israel’s entry into the Promised Land, underscoring the impossible odds, which prepare us to see God's work through weakness—a theme that will echo in later Scripture (see 2 Cor. 12:9)."
+      "comment": "This sets the context of Israel’s entry into the Promised Land, underscoring the impossible odds, which prepare us to see God's work through weakness—a theme that will echo in later Scripture (see 2 Cor. 12:9).",
+      "sectionHeader": "Warning Against Self-Righteousness"
     },
     {
       "pk": 5009002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "Remember, and do not forget, how you provoked the LORD your God to wrath in the wilderness. From the day you left the land of Egypt until you came to this place, you have been rebellious against the LORD.",
       "links": "<a href='/AIV/2/14/11'>Ex. 14:11</a>; <a href='/AIV/4/14/2'>Num. 14:2</a>",
-      "comment": "The call to remember past failures is the beginning of repentance and humility—both crucial for genuine faith and ongoing sanctification (James 4:6-10)."
+      "comment": "The call to remember past failures is the beginning of repentance and humility—both crucial for genuine faith and ongoing sanctification (James 4:6-10).",
+      "sectionHeader": "Rebellion at Horeb"
     },
     {
       "pk": 5009008,
@@ -302,7 +304,8 @@
       "verse": 25,
       "text": "So I fell down before the LORD the forty days and forty nights, as I had done before, because the LORD had said he would destroy you.",
       "links": "<a href='/AIV/2/34/28'>Ex. 34:28</a>",
-      "comment": "Moses models persevering intercession and humility before God, something reflected in the ministry and prayer of leaders throughout biblical history."
+      "comment": "Moses models persevering intercession and humility before God, something reflected in the ministry and prayer of leaders throughout biblical history.",
+      "sectionHeader": "Moses Intercedes for Israel"
     },
     {
       "pk": 5009026,
@@ -353,5 +356,22 @@
       "comment": "Israel is described with terms of belonging and redemption, emphasizing salvation by divine initiative—an ongoing truth for all believers. The language of ‘inheritance’ will become a major New Testament theme (1 Pet. 1:4)."
     }
   ],
-  "translatedAt": "2025-12-24T02:01:56.765Z"
+  "translatedAt": "2025-12-24T02:01:56.765Z",
+  "sections": [
+    {
+      "title": "Warning Against Self-Righteousness",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Rebellion at Horeb",
+      "startVerse": 7,
+      "endVerse": 24
+    },
+    {
+      "title": "Moses Intercedes for Israel",
+      "startVerse": 25,
+      "endVerse": 29
+    }
+  ]
 }

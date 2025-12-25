@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "These are the priests and the Levites who came up with Zerubbabel son of Shealtiel, and Jeshua: Seraiah, Jeremiah, Ezra,",
       "links": "<a href='/AIV/15/2/2'>Ezra 2:2</a>",
-      "comment": "This verse establishes the list of spiritual leaders who returned from exile. This careful record shows the importance of apostolic succession and preserving right worship (cf. <a href='/AIV/15/2/2'>Ezra 2:2</a>)."
+      "comment": "This verse establishes the list of spiritual leaders who returned from exile. This careful record shows the importance of apostolic succession and preserving right worship (cf. <a href='/AIV/15/2/2'>Ezra 2:2</a>).",
+      "sectionHeader": "Priests and Levites Who Returned with Zerubbabel"
     },
     {
       "pk": 16012002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "In the days of Joiakim, these were the heads of the priestly families: of Seraiah, Meraiah; of Jeremiah, Hananiah;",
       "links": "",
-      "comment": "These names show generational leadership, emphasizing tradition and continuity of faith."
+      "comment": "These names show generational leadership, emphasizing tradition and continuity of faith.",
+      "sectionHeader": "Heads of Priestly and Levitical Families"
     },
     {
       "pk": 16012013,
@@ -326,7 +328,8 @@
       "verse": 27,
       "text": "At the dedication of the wall of Jerusalem, they sought out the Levites wherever they lived to bring them to Jerusalem to celebrate joyfully with songs of thanksgiving, with cymbals, harps, and lyres.",
       "links": "<a href='/AIV/19/150/3-6'>Ps. 150:3-6</a>",
-      "comment": "This organized worship foreshadows the joyful praise in heaven, led by those appointed over worship (<a href='/AIV/19/150/3-6'>Ps. 150:3-6</a>)."
+      "comment": "This organized worship foreshadows the joyful praise in heaven, led by those appointed over worship (<a href='/AIV/19/150/3-6'>Ps. 150:3-6</a>).",
+      "sectionHeader": "Dedication of the Wall of Jerusalem"
     },
     {
       "pk": 16012028,
@@ -530,7 +533,8 @@
       "verse": 44,
       "text": "On that day men were appointed over the storerooms for the contributions, the firstfruits, and the tithes, to gather into them the portions required by the Law for the priests and Levites from the fields of the towns. For Judah rejoiced over the priests and Levites who served.",
       "links": "",
-      "comment": "Provision for ministers of worship is biblically based, underscoring the importance of stewardship and support for God’s servants (cf. <a href='/AIV/46/9/13-14'>1 Cor. 9:13-14</a>)."
+      "comment": "Provision for ministers of worship is biblically based, underscoring the importance of stewardship and support for God’s servants (cf. <a href='/AIV/46/9/13-14'>1 Cor. 9:13-14</a>).",
+      "sectionHeader": "Provisions for Priests, Levites, and Temple Service"
     },
     {
       "pk": 16012045,
@@ -569,5 +573,27 @@
       "comment": "This verse shows layering of ministry, with each group providing for the next in holiness. This order prefigures the sacramental and hierarchical life of the Church (<a href='/AIV/04/18/21'>Num. 18:21</a>)."
     }
   ],
-  "translatedAt": "2025-12-24T04:53:04.304Z"
+  "translatedAt": "2025-12-24T04:53:04.304Z",
+  "sections": [
+    {
+      "title": "Priests and Levites Who Returned with Zerubbabel",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "Heads of Priestly and Levitical Families",
+      "startVerse": 12,
+      "endVerse": 26
+    },
+    {
+      "title": "Dedication of the Wall of Jerusalem",
+      "startVerse": 27,
+      "endVerse": 43
+    },
+    {
+      "title": "Provisions for Priests, Levites, and Temple Service",
+      "startVerse": 44,
+      "endVerse": 47
+    }
+  ]
 }

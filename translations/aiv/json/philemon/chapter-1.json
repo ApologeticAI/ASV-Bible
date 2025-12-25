@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Paul, a prisoner for Christ Jesus, and Timothy our brother, to Philemon our beloved co-worker,",
       "links": "<a href='/AIV/60/5/1'>1 Pet. 5:1</a>; <a href='/AIV/56/1/4'>Titus 1:4</a>",
-      "comment": "Paul introduces himself as a prisoner of Christ, emphasizing his suffering for the faith. His mention of Timothy suggests fellowship and apostolic teamwork, a theme central to the unity and authority in the early Church."
+      "comment": "Paul introduces himself as a prisoner of Christ, emphasizing his suffering for the faith. His mention of Timothy suggests fellowship and apostolic teamwork, a theme central to the unity and authority in the early Church.",
+      "sectionHeader": "Greeting and Thanksgiving"
     },
     {
       "pk": 64001002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Therefore, though I have boldness in Christ to order you to do what is proper,",
       "links": "<a href='/AIV/47/10/8'>2 Cor. 10:8</a>; <a href='/AIV/46/7/6'>1 Cor. 7:6</a>",
-      "comment": "Paul acknowledges his apostolic authority but chooses persuasion over command, displaying humility and pastoral wisdom used by the church's ordained leaders."
+      "comment": "Paul acknowledges his apostolic authority but chooses persuasion over command, displaying humility and pastoral wisdom used by the church's ordained leaders.",
+      "sectionHeader": "Paul’s Plea for Onesimus"
     },
     {
       "pk": 64001009,
@@ -266,7 +268,8 @@
       "verse": 22,
       "text": "At the same time, prepare a guest room for me, for I hope that through your prayers I will be graciously given to you.",
       "links": "<a href='/AIV/45/15/30'>Rom. 15:30</a>; <a href='/AIV/58/13/19'>Heb. 13:19</a>",
-      "comment": "Paul’s request for hospitality is a sign of faith in the efficacy of communal prayer and the importance of fellowship."
+      "comment": "Paul’s request for hospitality is a sign of faith in the efficacy of communal prayer and the importance of fellowship.",
+      "sectionHeader": "Final Requests and Greetings"
     },
     {
       "pk": 64001023,
@@ -305,5 +308,22 @@
       "comment": "The epistle closes with a blessing for grace, the sustaining power of Christ for the church. This echoes similar endings, signifying divine favor on the spiritual life of believers."
     }
   ],
-  "translatedAt": "2025-12-24T12:16:23.168Z"
+  "translatedAt": "2025-12-24T12:16:23.168Z",
+  "sections": [
+    {
+      "title": "Greeting and Thanksgiving",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Paul’s Plea for Onesimus",
+      "startVerse": 8,
+      "endVerse": 21
+    },
+    {
+      "title": "Final Requests and Greetings",
+      "startVerse": 22,
+      "endVerse": 25
+    }
+  ]
 }

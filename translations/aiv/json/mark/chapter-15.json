@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Very early in the morning, the chief priests, together with the elders, scribes, and the whole council, made a decision. They bound Jesus, led him away, and handed him over to Pilate.",
       "links": "<a href='/AIV/42/22/66'>Luke 22:66</a>; <a href='/AIV/43/18/28'>John 18:28</a>",
-      "comment": "The religious leaders deliver Jesus to the Roman authority. This also fulfills the Psalm about the nations conspiring against the Lord and His Anointed (Psalm 2)."
+      "comment": "The religious leaders deliver Jesus to the Roman authority. This also fulfills the Psalm about the nations conspiring against the Lord and His Anointed (Psalm 2).",
+      "sectionHeader": "Jesus Before Pilate"
     },
     {
       "pk": 48015002,
@@ -194,7 +195,8 @@
       "verse": 16,
       "text": "The soldiers led him away inside the courtyard (that is, the Praetorium), and they called together the whole cohort.",
       "links": "<a href='/AIV/40/27/27'>Matthew 27:27</a>",
-      "comment": "Jesus is humiliated not only by the religious leaders but also by the state’s representatives."
+      "comment": "Jesus is humiliated not only by the religious leaders but also by the state’s representatives.",
+      "sectionHeader": "The Mocking by the Soldiers"
     },
     {
       "pk": 48015017,
@@ -254,7 +256,8 @@
       "verse": 21,
       "text": "They forced a man named Simon of Cyrene, who was passing by, coming from the countryside, the father of Alexander and Rufus, to carry his cross.",
       "links": "<a href='/AIV/40/27/32'>Matthew 27:32</a>; <a href='/AIV/45/16/13'>Romans 16:13</a>",
-      "comment": "Simon represents the discipleship call to take up one’s cross (<a href='/AIV/48/8/34'>Mark 8:34</a>). The mention of his sons points to the historicity of the account."
+      "comment": "Simon represents the discipleship call to take up one’s cross (<a href='/AIV/48/8/34'>Mark 8:34</a>). The mention of his sons points to the historicity of the account.",
+      "sectionHeader": "The Crucifixion"
     },
     {
       "pk": 48015022,
@@ -398,7 +401,8 @@
       "verse": 33,
       "text": "When it was the sixth hour, darkness came over the whole land until the ninth hour.",
       "links": "<a href='/AIV/19/22/2'>Psalm 22:2</a>; <a href='/AIV/40/27/45'>Matthew 27:45</a>",
-      "comment": "Darkness symbolizes judgment and the gravity of this moment in salvation history (see <a href='/AIV/2/10/21-22'>Exodus 10:21-22</a>)."
+      "comment": "Darkness symbolizes judgment and the gravity of this moment in salvation history (see <a href='/AIV/2/10/21-22'>Exodus 10:21-22</a>).",
+      "sectionHeader": "The Death of Jesus"
     },
     {
       "pk": 48015034,
@@ -506,7 +510,8 @@
       "verse": 42,
       "text": "It was already evening, and since it was the day of Preparation (that is, the day before the Sabbath),",
       "links": "<a href='/AIV/40/27/62'>Matthew 27:62</a>",
-      "comment": "The timing connects Jesus’ death to the Passover, alluding to him as the true Passover Lamb (<a href='/AIV/2/12/6'>Exodus 12:6</a>)."
+      "comment": "The timing connects Jesus’ death to the Passover, alluding to him as the true Passover Lamb (<a href='/AIV/2/12/6'>Exodus 12:6</a>).",
+      "sectionHeader": "The Burial of Jesus"
     },
     {
       "pk": 48015043,
@@ -569,5 +574,32 @@
       "comment": "Women serve as the first witnesses to Jesus' burial—key evidence for the Resurrection accounts. Their faithful presence hints at the ongoing importance of witness and tradition in the life of the Church."
     }
   ],
-  "translatedAt": "2025-12-24T10:34:27.967Z"
+  "translatedAt": "2025-12-24T10:34:27.967Z",
+  "sections": [
+    {
+      "title": "Jesus Before Pilate",
+      "startVerse": 1,
+      "endVerse": 15
+    },
+    {
+      "title": "The Mocking by the Soldiers",
+      "startVerse": 16,
+      "endVerse": 20
+    },
+    {
+      "title": "The Crucifixion",
+      "startVerse": 21,
+      "endVerse": 32
+    },
+    {
+      "title": "The Death of Jesus",
+      "startVerse": 33,
+      "endVerse": 41
+    },
+    {
+      "title": "The Burial of Jesus",
+      "startVerse": 42,
+      "endVerse": 47
+    }
+  ]
 }

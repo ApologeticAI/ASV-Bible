@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Rehoboam went to Shechem, for all Israel had come to Shechem to make him king.",
       "links": "<a href='/AIV/11/12/1'>1 Kings 12:1</a>",
-      "comment": "Shechem was historically a central and significant location for the tribes of Israel (see Genesis 12:6; Joshua 24:1). The gathering of 'all Israel' underscores the united expectation of the people for their king."
+      "comment": "Shechem was historically a central and significant location for the tribes of Israel (see Genesis 12:6; Joshua 24:1). The gathering of 'all Israel' underscores the united expectation of the people for their king.",
+      "sectionHeader": "Rehoboam's Inauguration at Shechem"
     },
     {
       "pk": 14010002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "They sent for him, and Jeroboam and all Israel came and spoke to Rehoboam, saying,",
       "links": "<a href='/AIV/11/12/3'>1 Kings 12:3</a>",
-      "comment": "The united act of sending for Jeroboam reveals his rising influence and the people's readiness to seek change in leadership."
+      "comment": "The united act of sending for Jeroboam reveals his rising influence and the people's readiness to seek change in leadership.",
+      "sectionHeader": "The Request of Jeroboam and the People"
     },
     {
       "pk": 14010004,
@@ -74,7 +76,8 @@
       "verse": 6,
       "text": "Then King Rehoboam consulted the elders who had served his father Solomon, saying, 'How do you advise me to answer these people?'",
       "links": "<a href='/AIV/11/12/6'>1 Kings 12:6</a>",
-      "comment": "Seeking counsel from elders emphasizes the biblical value of tradition and wisdom handed down (see Proverbs 11:14, Hebrews 13:7). This points to the importance of apostolic succession in leadership and teaching."
+      "comment": "Seeking counsel from elders emphasizes the biblical value of tradition and wisdom handed down (see Proverbs 11:14, Hebrews 13:7). This points to the importance of apostolic succession in leadership and teaching.",
+      "sectionHeader": "Rehoboam Rejects Wise Counsel"
     },
     {
       "pk": 14010007,
@@ -164,5 +167,27 @@
       "comment": "This summarizes the enduring division of God's people—a division finally reconciled in Christ, the true Son of David, who calls all nations to unity and one faith (John 17:20-23; Eph. 2:14-16)."
     }
   ],
-  "translatedAt": "2025-12-24T04:26:44.806Z"
+  "translatedAt": "2025-12-24T04:26:44.806Z",
+  "sections": [
+    {
+      "title": "Rehoboam's Inauguration at Shechem",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "The Request of Jeroboam and the People",
+      "startVerse": 3,
+      "endVerse": 5
+    },
+    {
+      "title": "Rehoboam Rejects Wise Counsel",
+      "startVerse": 6,
+      "endVerse": 15
+    },
+    {
+      "title": "The Revolt of the Ten Tribes",
+      "startVerse": 16,
+      "endVerse": 19
+    }
+  ]
 }

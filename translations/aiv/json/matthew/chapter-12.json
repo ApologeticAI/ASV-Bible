@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "At that time, Jesus was walking through the grain fields on the Sabbath. His disciples were hungry, and began to pick the heads of grain and eat them.",
       "links": "<a href='/AIV/05/23/25'>Deut. 23:25</a>; <a href='/AIV/41/2/23'>Mark 2:23</a>",
-      "comment": "The disciples’ actions, permitted under the Law for the hungry, would later be scrutinized for breaking Sabbath tradition. Shows the humanity and need of the disciples."
+      "comment": "The disciples’ actions, permitted under the Law for the hungry, would later be scrutinized for breaking Sabbath tradition. Shows the humanity and need of the disciples.",
+      "sectionHeader": "Jesus, Lord of the Sabbath"
     },
     {
       "pk": 47012002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "He went on from there and entered their synagogue.",
       "links": "<a href='/AIV/41/3/1'>Mark 3:1</a>",
-      "comment": "Jesus enters the heart of Jewish worship, setting the stage to further interpret Sabbath laws."
+      "comment": "Jesus enters the heart of Jewish worship, setting the stage to further interpret Sabbath laws.",
+      "sectionHeader": "The Healing of the Man with the Withered Hand"
     },
     {
       "pk": 47012010,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "Jesus, aware of this, withdrew from there. Many followed Him, and He healed them all.",
       "links": "<a href='/AIV/40/4/23'>Matt. 4:23</a>; <a href='/AIV/41/3/7'>Mark 3:7</a>",
-      "comment": "Jesus responds to opposition with continued mercy. The crowd demonstrates the universal reach of His healing."
+      "comment": "Jesus responds to opposition with continued mercy. The crowd demonstrates the universal reach of His healing.",
+      "sectionHeader": "The Chosen Servant"
     },
     {
       "pk": 47012016,
@@ -266,7 +269,8 @@
       "verse": 22,
       "text": "Then a demon-possessed man who was blind and mute was brought to Him. Jesus healed him, so that he could speak and see.",
       "links": "<a href='/AIV/40/9/32-33'>Matt. 9:32-33</a>; <a href='/AIV/41/9/17-27'>Mark 9:17-27</a>",
-      "comment": "Shows Jesus' authority over spiritual evil, restoring physical and spiritual senses. Considered a sign of the messianic age."
+      "comment": "Shows Jesus' authority over spiritual evil, restoring physical and spiritual senses. Considered a sign of the messianic age.",
+      "sectionHeader": "Jesus and Beelzebul"
     },
     {
       "pk": 47012023,
@@ -458,7 +462,8 @@
       "verse": 38,
       "text": "Then some of the scribes and Pharisees answered Him, saying, 'Teacher, we want to see a sign from you.'",
       "links": "<a href='/AIV/43/6/30'>John 6:30</a>; <a href='/AIV/42/11/16'>Luke 11:16</a>",
-      "comment": "Despite His miracles, they demand more proof—a sign of hardness of heart and unbelief."
+      "comment": "Despite His miracles, they demand more proof—a sign of hardness of heart and unbelief.",
+      "sectionHeader": "The Demand for a Sign"
     },
     {
       "pk": 47012039,
@@ -518,7 +523,8 @@
       "verse": 43,
       "text": "'When an unclean spirit goes out of a person, it passes through waterless places seeking rest, but finds none.'",
       "links": "<a href='/AIV/42/11/24'>Luke 11:24</a>",
-      "comment": "Describes spiritual realities behind exorcism. Deliverance is incomplete unless filled with God’s grace."
+      "comment": "Describes spiritual realities behind exorcism. Deliverance is incomplete unless filled with God’s grace.",
+      "sectionHeader": "The Return of the Unclean Spirit"
     },
     {
       "pk": 47012044,
@@ -554,7 +560,8 @@
       "verse": 46,
       "text": "While He was still speaking to the crowds, His mother and His brothers stood outside, wanting to talk to Him.",
       "links": "<a href='/AIV/41/3/31'>Mark 3:31</a>; <a href='/AIV/42/8/19'>Luke 8:19</a>",
-      "comment": "Mary and Jesus’ kin seek Him, indicating family inclusion but also the transition to spiritual family."
+      "comment": "Mary and Jesus’ kin seek Him, indicating family inclusion but also the transition to spiritual family.",
+      "sectionHeader": "Jesus' True Family"
     },
     {
       "pk": 47012047,
@@ -605,5 +612,42 @@
       "comment": "Jesus finalizes the definition of spiritual family. Obedience and communion form membership in God’s household—a foundation of the one, united apostolic community."
     }
   ],
-  "translatedAt": "2025-12-24T10:08:52.056Z"
+  "translatedAt": "2025-12-24T10:08:52.056Z",
+  "sections": [
+    {
+      "title": "Jesus, Lord of the Sabbath",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "The Healing of the Man with the Withered Hand",
+      "startVerse": 9,
+      "endVerse": 14
+    },
+    {
+      "title": "The Chosen Servant",
+      "startVerse": 15,
+      "endVerse": 21
+    },
+    {
+      "title": "Jesus and Beelzebul",
+      "startVerse": 22,
+      "endVerse": 37
+    },
+    {
+      "title": "The Demand for a Sign",
+      "startVerse": 38,
+      "endVerse": 42
+    },
+    {
+      "title": "The Return of the Unclean Spirit",
+      "startVerse": 43,
+      "endVerse": 45
+    },
+    {
+      "title": "Jesus' True Family",
+      "startVerse": 46,
+      "endVerse": 50
+    }
+  ]
 }

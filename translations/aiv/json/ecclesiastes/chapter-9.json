@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "But I considered all this in my heart, and concluded that the righteous and the wise and their works are in God’s hand. People do not know whether love or hatred awaits them; all is before them.",
       "links": "<a href='/AIV/19/31/15'>Ps. 31:15</a>; <a href='/AIV/20/16/9'>Prov. 16:9</a>",
-      "comment": "The verse expresses God’s sovereignty over human destiny, subtlely emphasizing predestination and divine providence. There is an echo of trust in God's mysterious plan, reinforced in Psalm 31:15. While salvation is ultimately in God's hands, wisdom and righteousness flow from a heart in right communion with Him."
+      "comment": "The verse expresses God’s sovereignty over human destiny, subtlely emphasizing predestination and divine providence. There is an echo of trust in God's mysterious plan, reinforced in Psalm 31:15. While salvation is ultimately in God's hands, wisdom and righteousness flow from a heart in right communion with Him.",
+      "sectionHeader": "The Common Fate of All"
     },
     {
       "pk": 25009002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "Go, eat your bread with joy and drink your wine with a cheerful heart, for God has already accepted your works.",
       "links": "<a href='/AIV/19/104/15'>Ps. 104:15</a>; <a href='/AIV/22/2/24'>Eccl. 2:24</a>",
-      "comment": "There is a call to holy enjoyment of God’s gifts, echoing Psalm 104:15. The approval of works hints at the value of righteous deeds—not only as faith’s fruit, but also as a pleasing offering to God, a foundation of sacramental worldview."
+      "comment": "There is a call to holy enjoyment of God’s gifts, echoing Psalm 104:15. The approval of works hints at the value of righteous deeds—not only as faith’s fruit, but also as a pleasing offering to God, a foundation of sacramental worldview.",
+      "sectionHeader": "Enjoy Life While You Can"
     },
     {
       "pk": 25009008,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "Again I saw under the sun that the race is not to the swift, nor the battle to the strong, nor bread to the wise, nor riches to the intelligent, nor favor to those with knowledge, but time and chance happen to them all.",
       "links": "<a href='/AIV/19/127/1-2'>Ps. 127:1-2</a>; <a href='/AIV/20/21/30'>Prov. 21:30</a>",
-      "comment": "Human effort cannot guarantee success; God’s providence rules over all. Echoing Psalm 127:1-2, this verse subtly points to trust in divine mercy—for spiritual progress relies not on human achievement alone, but on grace."
+      "comment": "Human effort cannot guarantee success; God’s providence rules over all. Echoing Psalm 127:1-2, this verse subtly points to trust in divine mercy—for spiritual progress relies not on human achievement alone, but on grace.",
+      "sectionHeader": "The Uncertainty of Life"
     },
     {
       "pk": 25009012,
@@ -158,7 +161,8 @@
       "verse": 13,
       "text": "I also saw this example of wisdom under the sun, and it impressed me:",
       "links": "<a href='/AIV/22/7/19'>Eccl. 7:19</a>",
-      "comment": "The author introduces a parable to showcase wisdom’s value. The narrative creates space for spiritual lessons embodied in everyday realities, with deep implications for living a holy life."
+      "comment": "The author introduces a parable to showcase wisdom’s value. The narrative creates space for spiritual lessons embodied in everyday realities, with deep implications for living a holy life.",
+      "sectionHeader": "The Power of Wisdom and Its Neglect"
     },
     {
       "pk": 25009014,
@@ -221,5 +225,27 @@
       "comment": "The destructive power of sin is set against the constructive power of wisdom. This dichotomy points towards the need for continual conversion and reconciliation, and the enduring value of intercession and sacramental life."
     }
   ],
-  "translatedAt": "2025-12-24T07:10:24.372Z"
+  "translatedAt": "2025-12-24T07:10:24.372Z",
+  "sections": [
+    {
+      "title": "The Common Fate of All",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Enjoy Life While You Can",
+      "startVerse": 7,
+      "endVerse": 10
+    },
+    {
+      "title": "The Uncertainty of Life",
+      "startVerse": 11,
+      "endVerse": 12
+    },
+    {
+      "title": "The Power of Wisdom and Its Neglect",
+      "startVerse": 13,
+      "endVerse": 18
+    }
+  ]
 }

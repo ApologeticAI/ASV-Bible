@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "David again gathered all the chosen men of Israel, thirty thousand.",
       "links": "<a href='/AIV/13/13/1'>1 Chron. 13:1</a>",
-      "comment": "David prepares by assembling a large number of select men. The parallel account in 1 Chronicles 13:1 confirms this as a significant event in Israel’s history."
+      "comment": "David prepares by assembling a large number of select men. The parallel account in 1 Chronicles 13:1 confirms this as a significant event in Israel’s history.",
+      "sectionHeader": "David Brings the Ark from Baale Judah"
     },
     {
       "pk": 10006002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "But when they came to the threshing floor of Nacon, Uzzah reached out his hand to the ark of God and took hold of it, for the oxen had stumbled.",
       "links": "<a href='/AIV/04/04/15'>Num. 4:15</a>",
-      "comment": "Though Uzzah’s intentions may have been good, touching the Ark was forbidden (Num. 4:15). This warning underlies the necessity for obedience and reverence regarding the sacred."
+      "comment": "Though Uzzah’s intentions may have been good, touching the Ark was forbidden (Num. 4:15). This warning underlies the necessity for obedience and reverence regarding the sacred.",
+      "sectionHeader": "Uzzah Struck Down"
     },
     {
       "pk": 10006007,
@@ -122,7 +124,8 @@
       "verse": 10,
       "text": "So David was unwilling to move the ark of the LORD into the city of David. But David took it aside to the house of Obed-edom the Gittite.",
       "links": "<a href='/AIV/13/13/13'>1 Chron. 13:13</a>",
-      "comment": "Obed-edom, possibly a Levite (1 Chron. 15:18), receives the Ark, reflecting God’s choice of worthy vessels and those prepared for his presence."
+      "comment": "Obed-edom, possibly a Levite (1 Chron. 15:18), receives the Ark, reflecting God’s choice of worthy vessels and those prepared for his presence.",
+      "sectionHeader": "The Ark in the House of Obed-edom"
     },
     {
       "pk": 10006011,
@@ -146,7 +149,8 @@
       "verse": 12,
       "text": "And it was told King David, 'The LORD has blessed the household of Obed-edom and all that belongs to him because of the ark of God.' So David went and brought up the ark of God from the house of Obed-edom to the city of David with rejoicing.",
       "links": "<a href='/AIV/13/15/25'>1 Chron. 15:25</a>",
-      "comment": "Recognizing the blessing, David now brings the Ark up with the proper reverence, demonstrating that God’s blessings follow rightful worship. The Ark’s movement toward Jerusalem foreshadows the city of God as the center of proper worship."
+      "comment": "Recognizing the blessing, David now brings the Ark up with the proper reverence, demonstrating that God’s blessings follow rightful worship. The Ark’s movement toward Jerusalem foreshadows the city of God as the center of proper worship.",
+      "sectionHeader": "The Ark Brought to Jerusalem"
     },
     {
       "pk": 10006013,
@@ -194,7 +198,8 @@
       "verse": 16,
       "text": "And as the ark of the LORD came into the city of David, Michal the daughter of Saul looked out of the window and saw King David leaping and dancing before the LORD, and she despised him in her heart.",
       "links": "<a href='/AIV/13/15/29'>1 Chron. 15:29</a>",
-      "comment": "Michal’s disdain contrasts with David’s joyful humility. True honor before God is counted as foolishness by the world. It suggests an inner attitude is as important as external action."
+      "comment": "Michal’s disdain contrasts with David’s joyful humility. True honor before God is counted as foolishness by the world. It suggests an inner attitude is as important as external action.",
+      "sectionHeader": "Michal's Contempt for David"
     },
     {
       "pk": 10006017,
@@ -281,5 +286,32 @@
       "comment": "Michal’s childlessness, a sign of divine disfavor, contrasts with the blessings upon those who properly honor God. This has ramifications for understanding God’s favor as following from rightly-ordered worship and faithfulness."
     }
   ],
-  "translatedAt": "2025-12-24T03:14:31.403Z"
+  "translatedAt": "2025-12-24T03:14:31.403Z",
+  "sections": [
+    {
+      "title": "David Brings the Ark from Baale Judah",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Uzzah Struck Down",
+      "startVerse": 6,
+      "endVerse": 9
+    },
+    {
+      "title": "The Ark in the House of Obed-edom",
+      "startVerse": 10,
+      "endVerse": 11
+    },
+    {
+      "title": "The Ark Brought to Jerusalem",
+      "startVerse": 12,
+      "endVerse": 15
+    },
+    {
+      "title": "Michal's Contempt for David",
+      "startVerse": 16,
+      "endVerse": 23
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The LORD visited Sarah as he had said, and the LORD did to Sarah just as he had promised.",
       "links": "<a href='/AIV/1/18/10'>Gen 18:10</a>; <a href='/AIV/58/11/11'>Heb 11:11</a>",
-      "comment": "God’s faithfulness is shown here as He accomplishes what He promised, a theme fulfilled in the New Testament when God keeps His promises in Christ (cf. Luke 1:37)."
+      "comment": "God’s faithfulness is shown here as He accomplishes what He promised, a theme fulfilled in the New Testament when God keeps His promises in Christ (cf. Luke 1:37).",
+      "sectionHeader": "The Birth of Isaac"
     },
     {
       "pk": 1021002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "But Sarah saw the son of Hagar the Egyptian, whom she had borne to Abraham, mocking.",
       "links": "<a href='/AIV/1/16/1'>Gen 16:1</a>; <a href='/AIV/48/4/29'>Gal 4:29</a>",
-      "comment": "Ishmael’s mocking foreshadows division contrasted later by unity in the people of God brought through Christ (Eph 2:13-16)."
+      "comment": "Ishmael’s mocking foreshadows division contrasted later by unity in the people of God brought through Christ (Eph 2:13-16).",
+      "sectionHeader": "The Expulsion of Hagar and Ishmael"
     },
     {
       "pk": 1021010,
@@ -266,7 +268,8 @@
       "verse": 22,
       "text": "At that time Abimelech and Phicol, the commander of his army, said to Abraham, 'God is with you in all that you do.'",
       "links": "<a href='/AIV/1/20/2'>Gen 20:2</a>; <a href='/AIV/19/46/7'>Ps 46:7</a>",
-      "comment": "Abimelech’s recognition of God’s presence reflects the witness of the chosen people to surrounding nations, anticipating universal blessing."
+      "comment": "Abimelech’s recognition of God’s presence reflects the witness of the chosen people to surrounding nations, anticipating universal blessing.",
+      "sectionHeader": "The Covenant at Beersheba"
     },
     {
       "pk": 1021023,
@@ -413,5 +416,22 @@
       "comment": "Abraham’s journey underscores the pilgrim nature of God’s people, living as strangers yet trusting in the inheritance promised—an important theme for understanding salvation history and the communal journey toward God."
     }
   ],
-  "translatedAt": "2025-12-24T00:21:14.572Z"
+  "translatedAt": "2025-12-24T00:21:14.572Z",
+  "sections": [
+    {
+      "title": "The Birth of Isaac",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "The Expulsion of Hagar and Ishmael",
+      "startVerse": 9,
+      "endVerse": 21
+    },
+    {
+      "title": "The Covenant at Beersheba",
+      "startVerse": 22,
+      "endVerse": 34
+    }
+  ]
 }

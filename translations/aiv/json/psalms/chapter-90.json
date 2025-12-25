@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Lord, you have been our dwelling place through all generations.",
       "links": "<a href='/AIV/05/33/27'>Deut. 33:27</a>; <a href='/AIV/19/91/9'>Ps. 91:9</a>",
-      "comment": "Opening with God as the eternal refuge for His people, this verse reminds us of God's continuous presence. The dwelling place motif is spiritually rich, prefiguring the sanctuary and points to a deeper communion with God, as later fulfilled in Christ (John 1:14)."
+      "comment": "Opening with God as the eternal refuge for His people, this verse reminds us of God's continuous presence. The dwelling place motif is spiritually rich, prefiguring the sanctuary and points to a deeper communion with God, as later fulfilled in Christ (John 1:14).",
+      "sectionHeader": "The Eternal God and Man's Frailty"
     },
     {
       "pk": 23090002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "So teach us to number our days, that we may gain a heart of wisdom.",
       "links": "<a href='/AIV/19/39/4'>Ps. 39:4</a>; <a href='/AIV/19/111/10'>Ps. 111:10</a>",
-      "comment": "A prayer for wisdom to appreciate life's brevity. Wisdom has always been understood as a divine gift, leading to true knowledge and intimacy with God."
+      "comment": "A prayer for wisdom to appreciate life's brevity. Wisdom has always been understood as a divine gift, leading to true knowledge and intimacy with God.",
+      "sectionHeader": "A Prayer for Wisdom and Mercy"
     },
     {
       "pk": 23090013,
@@ -209,5 +211,17 @@
       "comment": "The repetition emphasizes the need for God’s grace to make human efforts fruitful. The prayer to be established in God’s favor anticipates the spiritual fruits of a life deeply rooted in faith and the sacraments."
     }
   ],
-  "translatedAt": "2025-12-24T06:31:28.040Z"
+  "translatedAt": "2025-12-24T06:31:28.040Z",
+  "sections": [
+    {
+      "title": "The Eternal God and Man's Frailty",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "A Prayer for Wisdom and Mercy",
+      "startVerse": 12,
+      "endVerse": 17
+    }
+  ]
 }

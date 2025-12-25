@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When Demetrius heard that Nicanor and his army had fallen in battle, he sent Bacchides and Alcimus again into the land of Judah, together with the right wing of his army.",
       "links": "<a href='/AIV/20/7/26'>1Macc 7:26</a>; <a href='/AIV/20/7/43'>1Macc 7:43</a>",
-      "comment": "Demetrius’ continuing aggression mirrors earlier oppressions of God's people, but also foreshadows later persecutions seen throughout Scripture; Bacchides and Alcimus, both prominent in past resistance, are again instruments of hardship for the faithful remnant."
+      "comment": "Demetrius’ continuing aggression mirrors earlier oppressions of God's people, but also foreshadows later persecutions seen throughout Scripture; Bacchides and Alcimus, both prominent in past resistance, are again instruments of hardship for the faithful remnant.",
+      "sectionHeader": "Bacchides and Alcimus Return to Judea"
     },
     {
       "pk": 20009002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "Judas was encamped at Elasa with about three thousand select men.",
       "links": "<a href='/AIV/20/4/29'>1Macc 4:29</a>",
-      "comment": "Judas’ leadership of a small, dedicated force mirrors the pattern of God working through a faithful remnant (Judges 7:7, Gideon's three hundred)."
+      "comment": "Judas’ leadership of a small, dedicated force mirrors the pattern of God working through a faithful remnant (Judges 7:7, Gideon's three hundred).",
+      "sectionHeader": "The Death of Judas Maccabeus"
     },
     {
       "pk": 20009006,
@@ -302,7 +304,8 @@
       "verse": 25,
       "text": "But Jonathan, the son of Mattathias, and Simon, gathered those who were left and became leaders in the place of Judas their brother.",
       "links": "<a href='/AIV/20/2/65-66'>1Macc 2:65-66</a>",
-      "comment": "A chain of godly leadership is maintained, paralleling the importance of succession and continuity in God's people."
+      "comment": "A chain of godly leadership is maintained, paralleling the importance of succession and continuity in God's people.",
+      "sectionHeader": "Jonathan and Simon Lead Israel"
     },
     {
       "pk": 20009026,
@@ -350,7 +353,8 @@
       "verse": 29,
       "text": "He made camp against Bethbasi and besieged it for many days. He made engines of war.",
       "links": "",
-      "comment": "Siege warfare and the use of engines underlines the cruel tools deployed to suppress Israel. Bethbasi becomes a new point of resistance."
+      "comment": "Siege warfare and the use of engines underlines the cruel tools deployed to suppress Israel. Bethbasi becomes a new point of resistance.",
+      "sectionHeader": "Siege of Bethbasi and Revenge upon Jambri"
     },
     {
       "pk": 20009030,
@@ -398,7 +402,8 @@
       "verse": 33,
       "text": "At that time, Alcimus ordered the destruction of the altar wall within the inner court of the sanctuary. He sought to abolish the ancient practices.",
       "links": "<a href='/AIV/20/4/43'>1Macc 4:43</a>",
-      "comment": "The attack on the Temple's sanctity highlights the centrality of true worship, pointing forward to the need for authentic, unbroken worship of the one true God."
+      "comment": "The attack on the Temple's sanctity highlights the centrality of true worship, pointing forward to the need for authentic, unbroken worship of the one true God.",
+      "sectionHeader": "Death of Alcimus and Temporary Peace"
     },
     {
       "pk": 20009034,
@@ -446,7 +451,8 @@
       "verse": 37,
       "text": "But in the second year, the lawless men in southern Israel plotted to remove Jonathan and his followers.",
       "links": "",
-      "comment": "Internal dissent—the greatest threats often come from within the community, not from external enemies."
+      "comment": "Internal dissent—the greatest threats often come from within the community, not from external enemies.",
+      "sectionHeader": "Renewed Hostilities and Final Peace"
     },
     {
       "pk": 20009038,
@@ -881,5 +887,37 @@
       "comment": "In the end, the community's restoration and joy echo the greater promises of God’s kingdom—where perseverance, renewal, and unity are blessed."
     }
   ],
-  "translatedAt": "2025-12-24T05:21:17.820Z"
+  "translatedAt": "2025-12-24T05:21:17.820Z",
+  "sections": [
+    {
+      "title": "Bacchides and Alcimus Return to Judea",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "The Death of Judas Maccabeus",
+      "startVerse": 5,
+      "endVerse": 24
+    },
+    {
+      "title": "Jonathan and Simon Lead Israel",
+      "startVerse": 25,
+      "endVerse": 28
+    },
+    {
+      "title": "Siege of Bethbasi and Revenge upon Jambri",
+      "startVerse": 29,
+      "endVerse": 32
+    },
+    {
+      "title": "Death of Alcimus and Temporary Peace",
+      "startVerse": 33,
+      "endVerse": 36
+    },
+    {
+      "title": "Renewed Hostilities and Final Peace",
+      "startVerse": 37,
+      "endVerse": 73
+    }
+  ]
 }

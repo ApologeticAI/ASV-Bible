@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In the year one hundred forty-nine, news reached Judas and his companions that Antiochus was marching against Judea with a huge army.",
       "links": "<a href='/AIV/17/1/1'>Esth. 1:1</a>; <a href='/AIV/18/1/1'>Job 1:1</a>",
-      "comment": "This sets the historical context during the reign of Antiochus Eupator, reinforcing the persistent threats against the faithful remnant of Israel. The precision of the date grounds the narrative in real events."
+      "comment": "This sets the historical context during the reign of Antiochus Eupator, reinforcing the persistent threats against the faithful remnant of Israel. The precision of the date grounds the narrative in real events.",
+      "sectionHeader": "The Campaign of Antiochus and the Death of Menelaus"
     },
     {
       "pk": 21013002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "But when the people heard the news, they prayed to the One who made all things, not to surrender them to such a ruthless nation, but to rescue them by his mighty power.",
       "links": "<a href='/AIV/19/121/2'>Ps. 121:2</a>; <a href='/AIV/2/1/11-12'>2 Macc. 1:11-12</a>",
-      "comment": "The faithful cry to God as Creator; prayer and reliance on divine help stand at the center of God's redemptive acts (Psalm 121:2; Jonah 2:2)."
+      "comment": "The faithful cry to God as Creator; prayer and reliance on divine help stand at the center of God's redemptive acts (Psalm 121:2; Jonah 2:2).",
+      "sectionHeader": "The Prayer of the People and Jewish Resistance"
     },
     {
       "pk": 21013011,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "When Lysias saw that the Jews were prepared to fight, he tried to use strategy, attacking their strongholds.",
       "links": "<a href='/AIV/2/11/3'>2 Macc. 11:3</a>",
-      "comment": "Human efforts to circumvent God’s people can never prevail against his ultimate will (Matthew 16:18)."
+      "comment": "Human efforts to circumvent God’s people can never prevail against his ultimate will (Matthew 16:18).",
+      "sectionHeader": "The Siege of Beth-zur and Peace Negotiations"
     },
     {
       "pk": 21013018,
@@ -317,5 +320,22 @@
       "comment": "The ratification of peace, following prayer and perseverance, is a reminder of God’s faithfulness and the efficacy of communal intercession—a principle emphasized in Christian worship when the church prays as one (Acts 12:5, Matthew 18:19-20)."
     }
   ],
-  "translatedAt": "2025-12-24T05:37:51.819Z"
+  "translatedAt": "2025-12-24T05:37:51.819Z",
+  "sections": [
+    {
+      "title": "The Campaign of Antiochus and the Death of Menelaus",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "The Prayer of the People and Jewish Resistance",
+      "startVerse": 10,
+      "endVerse": 16
+    },
+    {
+      "title": "The Siege of Beth-zur and Peace Negotiations",
+      "startVerse": 17,
+      "endVerse": 26
+    }
+  ]
 }

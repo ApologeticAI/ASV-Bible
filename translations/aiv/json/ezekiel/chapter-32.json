@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In the twelfth year, in the twelfth month, on the first day of the month, the word of the LORD came to me, saying:",
       "links": "<a href='/AIV/26/24/1'>Ezek. 24:1</a>; <a href='/AIV/26/30/20'>Ezek. 30:20</a>",
-      "comment": "The date shows God's revelations to Ezekiel are precise; comparable dates frame major events and judgments."
+      "comment": "The date shows God's revelations to Ezekiel are precise; comparable dates frame major events and judgments.",
+      "sectionHeader": "Lament over Pharaoh and the Fall of Egypt"
     },
     {
       "pk": 33032002,
@@ -206,7 +207,8 @@
       "verse": 17,
       "text": "In the twelfth year, on the fifteenth day of the month, the word of the LORD came to me, saying:",
       "links": "<a href='/AIV/26/1/1'>Ezek. 1:1</a>",
-      "comment": "Another set date, showing God's careful oversight of history and salvation."
+      "comment": "Another set date, showing God's careful oversight of history and salvation.",
+      "sectionHeader": "Egypt Among the Dead Nations"
     },
     {
       "pk": 33032018,
@@ -389,5 +391,17 @@
       "comment": "All nations face God's righteous judgment. New Testament echoes point to Christ’s power over death and final vindication for those united to Him (<a href='/AIV/46/15/54'>1 Cor. 15:54</a>)."
     }
   ],
-  "translatedAt": "2025-12-24T09:16:20.448Z"
+  "translatedAt": "2025-12-24T09:16:20.448Z",
+  "sections": [
+    {
+      "title": "Lament over Pharaoh and the Fall of Egypt",
+      "startVerse": 1,
+      "endVerse": 16
+    },
+    {
+      "title": "Egypt Among the Dead Nations",
+      "startVerse": 17,
+      "endVerse": 32
+    }
+  ]
 }

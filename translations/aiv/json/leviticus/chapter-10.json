@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now Aaron’s sons, Nadab and Abihu, each took his censer, put fire in it, laid incense on it, and offered unauthorized fire before the LORD, which He had not commanded them.",
       "links": "<a href='/AIV/2/30/9'>Ex. 30:9</a>; <a href='/AIV/3/16/1'>Lev. 16:1</a>",
-      "comment": "Nadab and Abihu acted presumptuously, offering worship not prescribed by God. This highlights the importance of obedience and sacred tradition in worship practices. Even priests are not free to innovate contrary to clear divine instruction."
+      "comment": "Nadab and Abihu acted presumptuously, offering worship not prescribed by God. This highlights the importance of obedience and sacred tradition in worship practices. Even priests are not free to innovate contrary to clear divine instruction.",
+      "sectionHeader": "The Sin and Death of Nadab and Abihu"
     },
     {
       "pk": 3010002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "And Moses said to Aaron, and to Eleazar and Ithamar, his sons, 'Do not let your hair hang loose or tear your clothes, lest you die, and wrath come upon all the congregation. But let your brothers, the whole house of Israel, mourn for the burning which the LORD has kindled.'",
       "links": "<a href='/AIV/3/21/10'>Lev. 21:10</a>; <a href='/AIV/3/13/45'>Lev. 13:45</a>",
-      "comment": "Priests are called to maintain dignity and composure in liturgical service, even in crisis. Their unique role requires them to offer spiritual leadership above personal emotion."
+      "comment": "Priests are called to maintain dignity and composure in liturgical service, even in crisis. Their unique role requires them to offer spiritual leadership above personal emotion.",
+      "sectionHeader": "Conduct of Priests in Mourning"
     },
     {
       "pk": 3010007,
@@ -98,7 +100,8 @@
       "verse": 8,
       "text": "And the LORD spoke to Aaron, saying:",
       "links": "<a href='/AIV/3/6/8'>Lev. 6:8</a>",
-      "comment": "God speaks directly to Aaron, affirming his continuing office and responsibility as high priest even after tragedy. Note direct communication from God, analogous to apostolic succession."
+      "comment": "God speaks directly to Aaron, affirming his continuing office and responsibility as high priest even after tragedy. Note direct communication from God, analogous to apostolic succession.",
+      "sectionHeader": "Prohibition of Wine for Priests"
     },
     {
       "pk": 3010009,
@@ -146,7 +149,8 @@
       "verse": 12,
       "text": "And Moses spoke to Aaron and to Eleazar and Ithamar, his surviving sons, 'Take the grain offering that remains of the LORD’s offerings made by fire, and eat it unleavened beside the altar, for it is most holy.'",
       "links": "<a href='/AIV/3/2/3'>Lev. 2:3</a>; <a href='/AIV/3/6/16'>Lev. 6:16-18</a>",
-      "comment": "Eating the offering by the altar emphasizes participation in the sacrifice, a theme found in later understandings of priestly communion with God."
+      "comment": "Eating the offering by the altar emphasizes participation in the sacrifice, a theme found in later understandings of priestly communion with God.",
+      "sectionHeader": "Regulations for the Priestly Portions"
     },
     {
       "pk": 3010013,
@@ -194,7 +198,8 @@
       "verse": 16,
       "text": "Now Moses diligently sought the goat of the sin offering, and behold, it was burned up. And he was angry with Eleazar and Ithamar, the surviving sons of Aaron, saying:",
       "links": "<a href='/AIV/3/9/3'>Lev. 9:3</a>",
-      "comment": "Moses carefully oversees the sacrificial order, emphasizing reverence for sacred procedures."
+      "comment": "Moses carefully oversees the sacrificial order, emphasizing reverence for sacred procedures.",
+      "sectionHeader": "The Sin Offering Eaten or Burned"
     },
     {
       "pk": 3010017,
@@ -245,5 +250,32 @@
       "comment": "Mercy and understanding within the structure of God’s law is illustrated here—a sign of pastoral wisdom, reminiscent of how Christ fulfills and perfects the Law (see <a href='/AIV/40/5/17'>Matt. 5:17</a>)."
     }
   ],
-  "translatedAt": "2025-12-24T01:15:09.412Z"
+  "translatedAt": "2025-12-24T01:15:09.412Z",
+  "sections": [
+    {
+      "title": "The Sin and Death of Nadab and Abihu",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Conduct of Priests in Mourning",
+      "startVerse": 6,
+      "endVerse": 7
+    },
+    {
+      "title": "Prohibition of Wine for Priests",
+      "startVerse": 8,
+      "endVerse": 11
+    },
+    {
+      "title": "Regulations for the Priestly Portions",
+      "startVerse": 12,
+      "endVerse": 15
+    },
+    {
+      "title": "The Sin Offering Eaten or Burned",
+      "startVerse": 16,
+      "endVerse": 20
+    }
+  ]
 }

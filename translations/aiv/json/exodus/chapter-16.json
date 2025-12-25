@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "And they set out from Elim, and all the congregation of the sons of Israel came to the Wilderness of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after they had departed from the land of Egypt.",
       "links": "<a href='/AIV/4/33/10-11'>Num. 33:10-11</a>",
-      "comment": "The Wilderness of Sin is not related to the English word 'sin,' but is a location name. This marks the first full month of Israel's journey in the wilderness."
+      "comment": "The Wilderness of Sin is not related to the English word 'sin,' but is a location name. This marks the first full month of Israel's journey in the wilderness.",
+      "sectionHeader": "The Israelites Grumble for Food"
     },
     {
       "pk": 2016002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "Then the Lord said to Moses, 'Behold, I will rain bread from heaven for you, and the people shall go out and gather a day's portion every day, so that I may test them, whether or not they will walk in My law.'",
       "links": "<a href='/AIV/19/78/24'>Ps. 78:24</a>; <a href='/AIV/5/8/3'>Deut. 8:3</a>; <a href='/AIV/43/6/31-33'>John 6:31-33</a>",
-      "comment": "God introduces the manna as both provision and test. This has spiritual significance; Jesus refers to Himself as the true bread from heaven (<a href='/AIV/43/6/32-35'>John 6:32-35</a>), prefiguring the Eucharistic themes found in Christian worship."
+      "comment": "God introduces the manna as both provision and test. This has spiritual significance; Jesus refers to Himself as the true bread from heaven (<a href='/AIV/43/6/32-35'>John 6:32-35</a>), prefiguring the Eucharistic themes found in Christian worship.",
+      "sectionHeader": "The Giving of Manna and Quail"
     },
     {
       "pk": 2016005,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "'This is what the Lord has commanded: \"Gather of it, every man as much as he should eat; you shall take an omer apiece according to the number of persons each of you has in his tent.\"'",
       "links": "<a href='/AIV/2/16/36'>Exod. 16:36</a>",
-      "comment": "God provides enough for each family's need, foreshadowing the principle of sufficiency and trust in God’s provision."
+      "comment": "God provides enough for each family's need, foreshadowing the principle of sufficiency and trust in God’s provision.",
+      "sectionHeader": "Instructions for Gathering Manna"
     },
     {
       "pk": 2016017,
@@ -266,7 +269,8 @@
       "verse": 22,
       "text": "And it came to pass on the sixth day, they gathered twice as much bread, two omers for each. And all the leaders of the congregation came and told Moses.",
       "links": "",
-      "comment": "God sanctifies the seventh day by preparing His people for it, anticipating the importance of rest and worship."
+      "comment": "God sanctifies the seventh day by preparing His people for it, anticipating the importance of rest and worship.",
+      "sectionHeader": "The Sabbath and the Double Portion"
     },
     {
       "pk": 2016023,
@@ -374,7 +378,8 @@
       "verse": 31,
       "text": "And the house of Israel called its name manna. It was like coriander seed, white, and its taste was like wafers made with honey.",
       "links": "<a href='/AIV/4/11/7'>Num. 11:7</a>",
-      "comment": "Manna is described as sweet—pointing spiritually to God's gracious provision, later echoed in the goodness of divine promises fulfilled in Christ."
+      "comment": "Manna is described as sweet—pointing spiritually to God's gracious provision, later echoed in the goodness of divine promises fulfilled in Christ.",
+      "sectionHeader": "Preservation of the Manna"
     },
     {
       "pk": 2016032,
@@ -437,5 +442,32 @@
       "comment": "This provides clarity about the measurement, showing attention to careful tradition and preserving precise details for worship."
     }
   ],
-  "translatedAt": "2025-12-24T00:55:21.356Z"
+  "translatedAt": "2025-12-24T00:55:21.356Z",
+  "sections": [
+    {
+      "title": "The Israelites Grumble for Food",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "The Giving of Manna and Quail",
+      "startVerse": 4,
+      "endVerse": 15
+    },
+    {
+      "title": "Instructions for Gathering Manna",
+      "startVerse": 16,
+      "endVerse": 21
+    },
+    {
+      "title": "The Sabbath and the Double Portion",
+      "startVerse": 22,
+      "endVerse": 30
+    },
+    {
+      "title": "Preservation of the Manna",
+      "startVerse": 31,
+      "endVerse": 36
+    }
+  ]
 }

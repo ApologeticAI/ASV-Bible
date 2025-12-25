@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "These are the words of the covenant which the LORD commanded Moses to make with the children of Israel in the land of Moab, in addition to the covenant that He made with them at Horeb.",
       "links": "<a href='/AIV/2/24/3-8'>Ex. 24:3-8</a>; <a href='/AIV/5/5/2'>Deut. 5:2</a>",
-      "comment": "This verse marks the renewal and continuation of the covenant, building upon the earlier covenant at Horeb (Sinai). It emphasizes continuity and deepening of God’s saving relationship with His people (see Jer. 31:31-34 for New Covenant connections)."
+      "comment": "This verse marks the renewal and continuation of the covenant, building upon the earlier covenant at Horeb (Sinai). It emphasizes continuity and deepening of God’s saving relationship with His people (see Jer. 31:31-34 for New Covenant connections).",
+      "sectionHeader": "Renewal of the Covenant in Moab"
     },
     {
       "pk": 5029002,
@@ -194,7 +195,8 @@
       "verse": 16,
       "text": "You know how we lived in the land of Egypt, and how we passed through the midst of the nations through which you passed.",
       "links": "<a href='/AIV/2/12/40-41'>Ex. 12:40-41</a>",
-      "comment": "Reminding the people of their journey and call to holiness while living among nations, keeping faith pure from compromise."
+      "comment": "Reminding the people of their journey and call to holiness while living among nations, keeping faith pure from compromise.",
+      "sectionHeader": "Warning Against Idolatry and Apostasy"
     },
     {
       "pk": 5029017,
@@ -266,7 +268,8 @@
       "verse": 22,
       "text": "The coming generation, your children who rise up after you, and the foreigner who comes from a distant land, will say, when they see the plagues of that land and the sicknesses which the LORD has laid upon it:",
       "links": "<a href='/AIV/5/31/17'>Deut. 31:17</a>; <a href='/AIV/11/9/8'>1 Kgs 9:8</a>",
-      "comment": "Future generations and outsiders are impacted by Israel’s covenant faithfulness or lack thereof—reminding us of the witness of the Church to the world."
+      "comment": "Future generations and outsiders are impacted by Israel’s covenant faithfulness or lack thereof—reminding us of the witness of the Church to the world.",
+      "sectionHeader": "Consequences of Breaking the Covenant"
     },
     {
       "pk": 5029023,
@@ -353,5 +356,22 @@
       "comment": "God’s ways are mysterious, yet He graciously reveals what is necessary for salvation. The passage underscores the importance of passing down the faith—both Word and Tradition—to future generations."
     }
   ],
-  "translatedAt": "2025-12-24T02:13:20.069Z"
+  "translatedAt": "2025-12-24T02:13:20.069Z",
+  "sections": [
+    {
+      "title": "Renewal of the Covenant in Moab",
+      "startVerse": 1,
+      "endVerse": 15
+    },
+    {
+      "title": "Warning Against Idolatry and Apostasy",
+      "startVerse": 16,
+      "endVerse": 21
+    },
+    {
+      "title": "Consequences of Breaking the Covenant",
+      "startVerse": 22,
+      "endVerse": 29
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Keep silent before Me, coastlands, and let the peoples renew their strength. Let them come near, then let them speak; let us meet together for judgment.",
       "links": "<a href='/AIV/29/40/31'>Isa. 40:31</a>; <a href='/AIV/19/46/10'>Ps. 46:10</a>",
-      "comment": "God calls all nations to come before Him in reverence and silence, an image of a universal calling before divine judgment. The theme of renewed strength connects with the spiritual idea of grace sustaining the faithful."
+      "comment": "God calls all nations to come before Him in reverence and silence, an image of a universal calling before divine judgment. The theme of renewed strength connects with the spiritual idea of grace sustaining the faithful.",
+      "sectionHeader": "The LORD’s Sovereignty over the Nations"
     },
     {
       "pk": 29041002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "But you, Israel, My servant, Jacob whom I have chosen, descendant of Abraham My friend—",
       "links": "<a href='/AIV/01/12/1-3'>Gen. 12:1–3</a>; <a href='/AIV/02/32/13'>Ex. 32:13</a>",
-      "comment": "The designation of Israel as 'servant' connects with Christ, the suffering servant. God’s intimate friendship with Abraham foreshadows a personal relationship realized in Christ."
+      "comment": "The designation of Israel as 'servant' connects with Christ, the suffering servant. God’s intimate friendship with Abraham foreshadows a personal relationship realized in Christ.",
+      "sectionHeader": "Israel Assured of God’s Help"
     },
     {
       "pk": 29041009,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "The poor and needy seek water, but there is none; their tongues are parched with thirst. I, the LORD, will answer them; I, the God of Israel, will not forsake them.",
       "links": "<a href='/AIV/19/107/9'>Ps. 107:9</a>; <a href='/AIV/40/5/6'>Matt. 5:6</a>",
-      "comment": "A promise to the poor, recalling Jesus’ words about thirst for righteousness. God’s faithfulness is a recurring theme."
+      "comment": "A promise to the poor, recalling Jesus’ words about thirst for righteousness. God’s faithfulness is a recurring theme.",
+      "sectionHeader": "God’s Promise to the Poor and Needy"
     },
     {
       "pk": 29041018,
@@ -254,7 +257,8 @@
       "verse": 21,
       "text": "Present your case,' says the LORD. 'Bring forth your arguments,' says the King of Jacob.",
       "links": "<a href='/AIV/29/43/9'>Isa. 43:9</a>; <a href='/AIV/19/47/7'>Ps. 47:7</a>",
-      "comment": "God challenges idols to stand trial, underscoring His role as just Judge, anticipating Christ’s authority to judge."
+      "comment": "God challenges idols to stand trial, underscoring His role as just Judge, anticipating Christ’s authority to judge.",
+      "sectionHeader": "The Futility of Idols"
     },
     {
       "pk": 29041022,
@@ -353,5 +357,27 @@
       "comment": "The futility of idols is exposed. The call to renounce false images finds fulfillment in the embrace of true worship, which is spiritual and centered on God’s revelation."
     }
   ],
-  "translatedAt": "2025-12-24T08:09:56.122Z"
+  "translatedAt": "2025-12-24T08:09:56.122Z",
+  "sections": [
+    {
+      "title": "The LORD’s Sovereignty over the Nations",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Israel Assured of God’s Help",
+      "startVerse": 8,
+      "endVerse": 16
+    },
+    {
+      "title": "God’s Promise to the Poor and Needy",
+      "startVerse": 17,
+      "endVerse": 20
+    },
+    {
+      "title": "The Futility of Idols",
+      "startVerse": 21,
+      "endVerse": 29
+    }
+  ]
 }

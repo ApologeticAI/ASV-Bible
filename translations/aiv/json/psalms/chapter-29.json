@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Ascribe to the LORD, O sons of God, ascribe to the LORD glory and strength.",
       "links": "<a href='/AIV/19/96/7'>Ps. 96:7</a>; <a href='/AIV/18/1/6'>Job 1:6</a>",
-      "comment": "The term 'sons of God' (Hebrew: 'bene elohim') can mean angelic beings, but also points to God's heavenly assembly—echoing divine council language seen elsewhere. Christians, by faith and baptism, are also adopted as sons of God (see <a href='/AIV/45/8/15'>Rom. 8:15</a>), hinting at both little and great spiritual realities."
+      "comment": "The term 'sons of God' (Hebrew: 'bene elohim') can mean angelic beings, but also points to God's heavenly assembly—echoing divine council language seen elsewhere. Christians, by faith and baptism, are also adopted as sons of God (see <a href='/AIV/45/8/15'>Rom. 8:15</a>), hinting at both little and great spiritual realities.",
+      "sectionHeader": "Call to Worship and Praise"
     },
     {
       "pk": 23029002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "The voice of the LORD is over the waters; the God of glory thunders, the LORD over the mighty waters.",
       "links": "<a href='/AIV/19/18/13'>Ps. 18:13</a>; <a href='/AIV/40/3/16-17'>Matt. 3:16-17</a>",
-      "comment": "Here, God's voice is depicted as powerful over the chaotic waters, reminiscent of Genesis 1 and Jesus' baptism, when the Father's voice came over the waters (<a href='/AIV/40/3/16-17'>Matt. 3:16-17</a>). This alludes to both divine creation and new creation through Christ."
+      "comment": "Here, God's voice is depicted as powerful over the chaotic waters, reminiscent of Genesis 1 and Jesus' baptism, when the Father's voice came over the waters (<a href='/AIV/40/3/16-17'>Matt. 3:16-17</a>). This alludes to both divine creation and new creation through Christ.",
+      "sectionHeader": "The Majesty of the Voice of the Lord"
     },
     {
       "pk": 23029004,
@@ -122,7 +124,8 @@
       "verse": 10,
       "text": "The LORD sits enthroned over the flood; the LORD sits enthroned as King forever.",
       "links": "<a href='/AIV/01/7/16'>Gen. 7:16</a>; <a href='/AIV/19/10/16'>Ps. 10:16</a>",
-      "comment": "God reigns not just in calm but even over the chaos ('flood'), suggesting His perpetual, sovereign kingship. This verse echoes the concept of an undivided, enduring kingdom that Christ inaugurates as King (<a href='/AIV/42/1/33'>Luke 1:33</a>)."
+      "comment": "God reigns not just in calm but even over the chaos ('flood'), suggesting His perpetual, sovereign kingship. This verse echoes the concept of an undivided, enduring kingdom that Christ inaugurates as King (<a href='/AIV/42/1/33'>Luke 1:33</a>).",
+      "sectionHeader": "The Lord Enthroned in Power and Peace"
     },
     {
       "pk": 23029011,
@@ -137,5 +140,22 @@
       "comment": "Strength and peace are gifts only God can bestow—which, in Christian interpretation, come fully through Christ (see <a href='/AIV/43/14/27'>John 14:27</a>: 'Peace I leave with you; my peace I give you'). This verse closes the Psalm with a promise fulfilled for God's gathered people through the new covenant."
     }
   ],
-  "translatedAt": "2025-12-24T06:08:07.459Z"
+  "translatedAt": "2025-12-24T06:08:07.459Z",
+  "sections": [
+    {
+      "title": "Call to Worship and Praise",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "The Majesty of the Voice of the Lord",
+      "startVerse": 3,
+      "endVerse": 9
+    },
+    {
+      "title": "The Lord Enthroned in Power and Peace",
+      "startVerse": 10,
+      "endVerse": 11
+    }
+  ]
 }

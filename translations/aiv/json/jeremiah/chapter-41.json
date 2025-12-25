@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In the seventh month, Ishmael son of Nethaniah, son of Elishama, of the royal family and one of the king’s chief officers, came with ten men to Gedaliah son of Ahikam at Mizpah. While they were eating together there at Mizpah,",
       "links": "<a href='/AIV/24/40/8'>Jer. 40:8</a>; <a href='/AIV/24/40/14'>Jer. 40:14</a>",
-      "comment": "Ishmael, being of royal blood, was trusted by Gedaliah. The eating of bread together signified trust and covenant (see Ps. 41:9). Here we see again the theme of betrayal from within God's own chosen people. This foreshadows the betrayal of Jesus at the Last Supper (see Matt. 26:23), signifying the deeper meaning of meals as a sign of true fellowship and responsibility."
+      "comment": "Ishmael, being of royal blood, was trusted by Gedaliah. The eating of bread together signified trust and covenant (see Ps. 41:9). Here we see again the theme of betrayal from within God's own chosen people. This foreshadows the betrayal of Jesus at the Last Supper (see Matt. 26:23), signifying the deeper meaning of meals as a sign of true fellowship and responsibility.",
+      "sectionHeader": "The Assassination of Gedaliah"
     },
     {
       "pk": 30041002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "The next day, before anyone knew about it,",
       "links": "",
-      "comment": "The secrecy of these events emphasizes the suddenness of sin’s consequences. Compare with 1 Thess. 5:2, the day of the Lord coming 'like a thief in the night.'"
+      "comment": "The secrecy of these events emphasizes the suddenness of sin’s consequences. Compare with 1 Thess. 5:2, the day of the Lord coming 'like a thief in the night.'",
+      "sectionHeader": "The Slaughter of the Pilgrims"
     },
     {
       "pk": 30041005,
@@ -122,7 +124,8 @@
       "verse": 10,
       "text": "Then Ishmael took captive all the rest of the people who were in Mizpah, including the king’s daughters and all the people left in Mizpah over whom Nebuzaradan, the captain of the guard, had put Gedaliah son of Ahikam, and he took them captive and set out to cross over to the Ammonites.",
       "links": "<a href='/AIV/24/39/10'>Jer. 39:10</a>; <a href='/AIV/24/40/7'>Jer. 40:7</a>",
-      "comment": "The mention of the king’s daughters suggests the lingering hope of Davidic succession, but the remnant is led away into exile because of rebellion. Spiritual exile from God is always worse than physical suffering."
+      "comment": "The mention of the king’s daughters suggests the lingering hope of Davidic succession, but the remnant is led away into exile because of rebellion. Spiritual exile from God is always worse than physical suffering.",
+      "sectionHeader": "Ishmael Takes Captives to the Ammonites"
     },
     {
       "pk": 30041011,
@@ -134,7 +137,8 @@
       "verse": 11,
       "text": "But when Johanan son of Kareah and all the commanders of the forces with him heard of all the evil that Ishmael son of Nethaniah had done,",
       "links": "<a href='/AIV/24/40/8'>Jer. 40:8</a>",
-      "comment": "Johanan represents the remnant’s resistance to lawlessness. The response to evil within the community often points to the need for faithful leadership. Compare with Paul's call for discernment and correction in the Church (1 Cor. 5:1-13)."
+      "comment": "Johanan represents the remnant’s resistance to lawlessness. The response to evil within the community often points to the need for faithful leadership. Compare with Paul's call for discernment and correction in the Church (1 Cor. 5:1-13).",
+      "sectionHeader": "The Rescue by Johanan"
     },
     {
       "pk": 30041012,
@@ -194,7 +198,8 @@
       "verse": 16,
       "text": "Then Johanan son of Kareah and all the commanders who were with him took all the rest of the people whom he had recovered from Ishmael son of Nethaniah after he had killed Gedaliah—the soldiers, the women, the children, and the eunuchs whom Johanan brought back from Gibeon.",
       "links": "",
-      "comment": "Johanan’s effort to recover the remnant—including soldiers, women, children, and eunuchs—foreshadows God’s inclusive restoration of His people. See how Isaiah prophesies even eunuchs finding a place within God's house (Isa. 56:3-5)."
+      "comment": "Johanan’s effort to recover the remnant—including soldiers, women, children, and eunuchs—foreshadows God’s inclusive restoration of His people. See how Isaiah prophesies even eunuchs finding a place within God's house (Isa. 56:3-5).",
+      "sectionHeader": "Flight Toward Egypt"
     },
     {
       "pk": 30041017,
@@ -221,5 +226,32 @@
       "comment": "Fear drives the remnant away from the land promised to them. Fear, and not faith, can cause God’s people to miss blessings and fulfillment of God's promises. In times of crisis, seeking leadership grounded in divine mandate, rooted in tradition, safeguards against destructive fear. Compare with Paul’s call for 'not a spirit of fear' but of power and self-control (2 Tim. 1:7)."
     }
   ],
-  "translatedAt": "2025-12-24T08:44:21.229Z"
+  "translatedAt": "2025-12-24T08:44:21.229Z",
+  "sections": [
+    {
+      "title": "The Assassination of Gedaliah",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "The Slaughter of the Pilgrims",
+      "startVerse": 4,
+      "endVerse": 9
+    },
+    {
+      "title": "Ishmael Takes Captives to the Ammonites",
+      "startVerse": 10,
+      "endVerse": 10
+    },
+    {
+      "title": "The Rescue by Johanan",
+      "startVerse": 11,
+      "endVerse": 15
+    },
+    {
+      "title": "Flight Toward Egypt",
+      "startVerse": 16,
+      "endVerse": 18
+    }
+  ]
 }

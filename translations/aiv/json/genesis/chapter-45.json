@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then Joseph could not control himself before all those who stood by him, and he cried out, \"Make everyone go out from me!\" So no one stayed with him when Joseph made himself known to his brothers.",
       "links": "<a href='/AIV/01/43/30-31'>Gen 43:30-31</a>; <a href='/AIV/44/7/13'>Acts 7:13</a>",
-      "comment": "Joseph's strong emotion reveals his deep love for his brothers despite their betrayal. This points to Christ's forgiving heart (Luke 23:34)."
+      "comment": "Joseph's strong emotion reveals his deep love for his brothers despite their betrayal. This points to Christ's forgiving heart (Luke 23:34).",
+      "sectionHeader": "Joseph Reveals Himself to His Brothers"
     },
     {
       "pk": 1045002,
@@ -194,7 +195,8 @@
       "verse": 16,
       "text": "When the news was heard in Pharaoh's house, “Joseph’s brothers have come,” it pleased Pharaoh and his servants.",
       "links": "<a href='/AIV/01/47/2'>Gen 47:2</a>",
-      "comment": "Pharaoh’s welcome of Joseph’s family indicates God sovereignly works through nations and rulers for the good of his people."
+      "comment": "Pharaoh’s welcome of Joseph’s family indicates God sovereignly works through nations and rulers for the good of his people.",
+      "sectionHeader": "Pharaoh Invites Jacob to Egypt"
     },
     {
       "pk": 1045017,
@@ -302,7 +304,8 @@
       "verse": 25,
       "text": "So they went up out of Egypt and came to the land of Canaan to their father Jacob.",
       "links": "<a href='/AIV/01/46/5-6'>Gen 46:5-6</a>",
-      "comment": "The return to Jacob closes a narrative circle, foreshadowing the eventual return of God’s people to the promised land."
+      "comment": "The return to Jacob closes a narrative circle, foreshadowing the eventual return of God’s people to the promised land.",
+      "sectionHeader": "Jacob Learns Joseph Is Alive"
     },
     {
       "pk": 1045026,
@@ -341,5 +344,22 @@
       "comment": "Jacob’s words echo Simeon’s, who declared he could depart in peace having seen God’s salvation (Luke 2:29-30). Fullness of joy comes when God’s promises are finally beheld."
     }
   ],
-  "translatedAt": "2025-12-24T00:43:37.047Z"
+  "translatedAt": "2025-12-24T00:43:37.047Z",
+  "sections": [
+    {
+      "title": "Joseph Reveals Himself to His Brothers",
+      "startVerse": 1,
+      "endVerse": 15
+    },
+    {
+      "title": "Pharaoh Invites Jacob to Egypt",
+      "startVerse": 16,
+      "endVerse": 24
+    },
+    {
+      "title": "Jacob Learns Joseph Is Alive",
+      "startVerse": 25,
+      "endVerse": 28
+    }
+  ]
 }

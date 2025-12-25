@@ -3,7 +3,6 @@
   "bookName": "Esther",
   "bookAbbreviation": "Esth",
   "chapter": 2,
-  "sections": [],
   "verses": [
     {
       "pk": 19002001,
@@ -15,7 +14,8 @@
       "verse": 1,
       "text": "After these things, when King Ahasuerus’s anger had subsided, he remembered Vashti, what she had done, and what had been decreed against her.",
       "links": "<a href='/AIV/19/1/12'>Esth. 1:12</a>;<a href='/AIV/19/1/19'>Esth. 1:19</a>",
-      "comment": "The king’s remembrance of Vashti sets the stage for the search for a new queen. The decree's irrevocability shows the authority and finality of royal edicts in the Persian empire, reflecting how divine decrees cannot be overturned. (cf. Dan. 6:8-15)"
+      "comment": "The king’s remembrance of Vashti sets the stage for the search for a new queen. The decree's irrevocability shows the authority and finality of royal edicts in the Persian empire, reflecting how divine decrees cannot be overturned. (cf. Dan. 6:8-15)",
+      "sectionHeader": "Esther Chosen as Queen"
     },
     {
       "pk": 19002002,
@@ -255,7 +255,8 @@
       "verse": 21,
       "text": "In those days, while Mordecai was sitting at the king’s gate, Bigthan and Teresh, two of the king’s eunuchs who guarded the doorway, became angry and conspired to assassinate King Ahasuerus.",
       "links": "<a href='/AIV/19/6/2'>Esth. 6:2</a>",
-      "comment": "The conspiracy introduces the theme of divine protection over rulers and God’s providence working through human agents for the good of all, a motif often seen in salvation history."
+      "comment": "The conspiracy introduces the theme of divine protection over rulers and God’s providence working through human agents for the good of all, a motif often seen in salvation history.",
+      "sectionHeader": "Mordecai Discovers the Plot"
     },
     {
       "pk": 19002022,
@@ -282,5 +283,17 @@
       "comment": "Justice is executed and the deed remembered in the chronicles, foreshadowing the biblical idea of the Book of Life where every deed is recorded (cf. Mal. 3:16; Rev. 20:12)."
     }
   ],
-  "translatedAt": "2025-12-24T05:08:52.505Z"
+  "translatedAt": "2025-12-24T05:08:52.505Z",
+  "sections": [
+    {
+      "title": "Esther Chosen as Queen",
+      "startVerse": 1,
+      "endVerse": 20
+    },
+    {
+      "title": "Mordecai Discovers the Plot",
+      "startVerse": 21,
+      "endVerse": 23
+    }
+  ]
 }

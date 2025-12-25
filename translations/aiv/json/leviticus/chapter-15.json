@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The LORD spoke to Moses and Aaron, saying:",
       "links": "<a href='/AIV/3/13/1'>Lev. 13:1</a>; <a href='/AIV/4/5/2'>Num. 5:2</a>",
-      "comment": "This introductory formula highlights the divine source of the instructions, establishing their authority. It is similar to other passages where God gives direct commands to Moses and Aaron."
+      "comment": "This introductory formula highlights the divine source of the instructions, establishing their authority. It is similar to other passages where God gives direct commands to Moses and Aaron.",
+      "sectionHeader": "Laws Concerning Male Bodily Discharges"
     },
     {
       "pk": 3015002,
@@ -194,7 +195,8 @@
       "verse": 16,
       "text": "If a man has an emission of semen, he must wash his whole body with water and will be unclean until evening.",
       "links": "<a href='/AIV/3/22/4'>Lev. 22:4</a>; <a href='/AIV/5/23/10'>Deut. 23:10</a>",
-      "comment": "Sexual emissions, even natural, require ritual cleansing, demonstrating respect for the body and its functions as part of spiritual discipline."
+      "comment": "Sexual emissions, even natural, require ritual cleansing, demonstrating respect for the body and its functions as part of spiritual discipline.",
+      "sectionHeader": "Laws Concerning Seminal Emission"
     },
     {
       "pk": 3015017,
@@ -230,7 +232,8 @@
       "verse": 19,
       "text": "When a woman has a discharge, and the discharge in her body is blood, she will be unclean for seven days. Anyone who touches her will be unclean until evening.",
       "links": "<a href='/AIV/3/12/2'>Lev. 12:2</a>; <a href='/AIV/3/15/24'>Lev. 15:24</a>",
-      "comment": "This passage refers to menstruation and builds on previous regulations. The prescribed period mirrors other creation cycles, again expressing the sanctity of the rhythms of life."
+      "comment": "This passage refers to menstruation and builds on previous regulations. The prescribed period mirrors other creation cycles, again expressing the sanctity of the rhythms of life.",
+      "sectionHeader": "Laws Concerning Menstrual Impurity"
     },
     {
       "pk": 3015020,
@@ -302,7 +305,8 @@
       "verse": 25,
       "text": "If a woman’s discharge of blood continues for many days beyond her regular period, or if it runs outside her normal cycle, she will be unclean during the time of her abnormal discharge, just as she is during her period.",
       "links": "<a href='/AIV/3/15/19'>Lev. 15:19</a>; <a href='/AIV/4/12/12'>Num. 12:12</a>",
-      "comment": "Unusual or persistent discharges receive special attention, showing that even atypical situations are addressed by God’s care for the holy people. This passage is directly referenced in the Gospels in the healing of the woman with the issue of blood (see <a href='/AIV/40/9/20-22'>Matt. 9:20-22</a>)."
+      "comment": "Unusual or persistent discharges receive special attention, showing that even atypical situations are addressed by God’s care for the holy people. This passage is directly referenced in the Gospels in the healing of the woman with the issue of blood (see <a href='/AIV/40/9/20-22'>Matt. 9:20-22</a>).",
+      "sectionHeader": "Laws Concerning Abnormal Female Discharges"
     },
     {
       "pk": 3015026,
@@ -374,7 +378,8 @@
       "verse": 31,
       "text": "\"You must separate the Israelites from their uncleanness, so they do not die in their uncleanness by defiling my sanctuary, which is among them.\"",
       "links": "<a href='/AIV/3/16/16'>Lev. 16:16</a>; <a href='/AIV/4/5/3'>Num. 5:3</a>",
-      "comment": "God dwells among His people, so ritual purity is crucial for survival and fellowship. This foreshadows spiritual purity and God’s presence in Christ and His Church (Eph. 2:21-22)."
+      "comment": "God dwells among His people, so ritual purity is crucial for survival and fellowship. This foreshadows spiritual purity and God’s presence in Christ and His Church (Eph. 2:21-22).",
+      "sectionHeader": "Summary of Laws on Bodily Discharges"
     },
     {
       "pk": 3015032,
@@ -401,5 +406,32 @@
       "comment": "The end of the chapter summarizes both men’s and women’s purity laws, reiterating the centrality of holiness and purification. These ancient rites foreshadow baptism and sacramental cleansing in Christian faith, which brings believers from uncleanness into grace and communion with God."
     }
   ],
-  "translatedAt": "2025-12-24T01:18:26.305Z"
+  "translatedAt": "2025-12-24T01:18:26.305Z",
+  "sections": [
+    {
+      "title": "Laws Concerning Male Bodily Discharges",
+      "startVerse": 1,
+      "endVerse": 15
+    },
+    {
+      "title": "Laws Concerning Seminal Emission",
+      "startVerse": 16,
+      "endVerse": 18
+    },
+    {
+      "title": "Laws Concerning Menstrual Impurity",
+      "startVerse": 19,
+      "endVerse": 24
+    },
+    {
+      "title": "Laws Concerning Abnormal Female Discharges",
+      "startVerse": 25,
+      "endVerse": 30
+    },
+    {
+      "title": "Summary of Laws on Bodily Discharges",
+      "startVerse": 31,
+      "endVerse": 33
+    }
+  ]
 }

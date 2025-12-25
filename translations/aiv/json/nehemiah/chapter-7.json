@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now it came to pass, when the wall was rebuilt and I had set up the doors, and the gatekeepers, the singers, and the Levites were appointed,",
       "links": "<a href='/AIV/13/9/17'>1 Chr. 9:17</a>; <a href='/AIV/15/3/10'>Ezra 3:10-11</a>",
-      "comment": "Nehemiah’s organizational efforts follow the tradition of sacred order, displaying the importance of structure in worship and community life. The appointment of gatekeepers and ministers echoes the orderliness of God’s house in other Scriptures."
+      "comment": "Nehemiah’s organizational efforts follow the tradition of sacred order, displaying the importance of structure in worship and community life. The appointment of gatekeepers and ministers echoes the orderliness of God’s house in other Scriptures.",
+      "sectionHeader": "Appointment of Gatekeepers and Officials"
     },
     {
       "pk": 16007002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "Then my God put it into my heart to assemble the nobles, the officials, and the people, so they could be registered by genealogy. And I found the book of the genealogy of those who came up at the beginning, and I found written in it:",
       "links": "<a href='/AIV/16/2/12'>Neh. 2:12</a>; <a href='/AIV/15/2/1'>Ezra 2:1</a>",
-      "comment": "God moves hearts towards order and remembrance. The importance of genealogy emphasizes the continuity and identity of God’s people—pointing toward the greater inheritance we have in Christ (cf. Matt. 1:1)."
+      "comment": "God moves hearts towards order and remembrance. The importance of genealogy emphasizes the continuity and identity of God’s people—pointing toward the greater inheritance we have in Christ (cf. Matt. 1:1).",
+      "sectionHeader": "Genealogical Registration of the Returned Exiles"
     },
     {
       "pk": 16007006,
@@ -74,7 +76,8 @@
       "verse": 6,
       "text": "These are the people of the province who came back from captivity—from those exiles whom Nebuchadnezzar king of Babylon had carried away, and who returned to Jerusalem and Judah, each to his own city.",
       "links": "<a href='/AIV/15/2/1'>Ezra 2:1</a>; <a href='/AIV/24/29/10'>Jer. 29:10</a>",
-      "comment": "The return from exile fulfills prophecy, showing God’s faithfulness to restore His chosen. This echoes the spiritual return from bondage to freedom in Christ."
+      "comment": "The return from exile fulfills prophecy, showing God’s faithfulness to restore His chosen. This echoes the spiritual return from bondage to freedom in Christ.",
+      "sectionHeader": "List of the Returned Exiles"
     },
     {
       "pk": 16007007,
@@ -470,7 +473,8 @@
       "verse": 39,
       "text": "The priests: the sons of Jedaiah, of the house of Jeshua: nine hundred and seventy-three.",
       "links": "<a href='/AIV/15/2/36'>Ezra 2:36</a>",
-      "comment": "Priestal families indicate restoration of worship and sacramental order, vital to spiritual renewal."
+      "comment": "Priestal families indicate restoration of worship and sacramental order, vital to spiritual renewal.",
+      "sectionHeader": "Priests, Levites, and Temple Servants"
     },
     {
       "pk": 16007040,
@@ -734,7 +738,8 @@
       "verse": 61,
       "text": "These were the ones who came up from Tel-melah, Tel-harsha, Cherub, Addon, and Immer—but they could not show their fathers’ house nor their genealogy, whether they were of Israel:",
       "links": "<a href='/AIV/15/2/59'>Ezra 2:59</a>",
-      "comment": "Lineage is important for belonging; yet, God’s mercy is wider even than genealogical limitations."
+      "comment": "Lineage is important for belonging; yet, God’s mercy is wider even than genealogical limitations.",
+      "sectionHeader": "Those of Uncertain Genealogy"
     },
     {
       "pk": 16007062,
@@ -794,7 +799,8 @@
       "verse": 66,
       "text": "The whole assembly together was forty-two thousand three hundred and sixty,",
       "links": "<a href='/AIV/15/2/64'>Ezra 2:64</a>",
-      "comment": "This unified total points to both visible and spiritual unity among God’s people."
+      "comment": "This unified total points to both visible and spiritual unity among God’s people.",
+      "sectionHeader": "Summary of the Assembly and Their Offerings"
     },
     {
       "pk": 16007067,
@@ -881,5 +887,37 @@
       "comment": "This verse emphasizes complete restoration, gathering all ministries under one spiritual community as the new worship cycle begins. The unity of leadership, laity, and service points toward the fullness of God’s plan to dwell among His people—an image later seen in the Church united under Christ’s Headship."
     }
   ],
-  "translatedAt": "2025-12-24T04:49:17.826Z"
+  "translatedAt": "2025-12-24T04:49:17.826Z",
+  "sections": [
+    {
+      "title": "Appointment of Gatekeepers and Officials",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "Genealogical Registration of the Returned Exiles",
+      "startVerse": 5,
+      "endVerse": 5
+    },
+    {
+      "title": "List of the Returned Exiles",
+      "startVerse": 6,
+      "endVerse": 38
+    },
+    {
+      "title": "Priests, Levites, and Temple Servants",
+      "startVerse": 39,
+      "endVerse": 60
+    },
+    {
+      "title": "Those of Uncertain Genealogy",
+      "startVerse": 61,
+      "endVerse": 65
+    },
+    {
+      "title": "Summary of the Assembly and Their Offerings",
+      "startVerse": 66,
+      "endVerse": 73
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Write to the angel of the church in Sardis: Thus says the one who has the seven spirits of God and the seven stars: I know your works. You have a reputation for being alive, but you are dead.",
       "links": "<a href='/AIV/66/5/6'>Rev. 1:4</a>; <a href='/AIV/66/1/16'>Rev. 1:16</a>; <a href='/AIV/23/29/13'>Isa. 29:13</a>",
-      "comment": "The 'seven spirits' likely represents the fullness of the Holy Spirit. Jesus' opening judgment is that outward reputation (appearance of life) is not enough if inward reality (spiritual life) is lacking. This calls to mind the importance of authentic faith, not just outward profession (see also James 2:17)."
+      "comment": "The 'seven spirits' likely represents the fullness of the Holy Spirit. Jesus' opening judgment is that outward reputation (appearance of life) is not enough if inward reality (spiritual life) is lacking. This calls to mind the importance of authentic faith, not just outward profession (see also James 2:17).",
+      "sectionHeader": "To the Church in Sardis"
     },
     {
       "pk": 73003002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "Write to the angel of the church in Philadelphia: Thus says the Holy One, the True One, who holds the key of David, who opens and no one will shut, who shuts and no one will open:",
       "links": "<a href='/AIV/23/22/22'>Isa. 22:22</a>; <a href='/AIV/66/1/18'>Rev. 1:18</a>",
-      "comment": "Jesus is described with messianic titles, signifying his authority. The 'key of David' symbolizes Christ as possessing supreme authority over God’s Kingdom—fulfilling Old Testament prophecy (see Isa. 22:22)."
+      "comment": "Jesus is described with messianic titles, signifying his authority. The 'key of David' symbolizes Christ as possessing supreme authority over God’s Kingdom—fulfilling Old Testament prophecy (see Isa. 22:22).",
+      "sectionHeader": "To the Church in Philadelphia"
     },
     {
       "pk": 73003008,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "Write to the angel of the church in Laodicea: Thus says the Amen, the faithful and true witness, the origin of God’s creation:",
       "links": "<a href='/AIV/41/14/36'>Mark 14:36</a>; <a href='/AIV/43/1/3'>John 1:3</a>; <a href='/AIV/51/1/15-18'>Col. 1:15-18</a>",
-      "comment": "‘The Amen’ is a title indicating ultimate truth and faithfulness (2 Cor 1:20). ‘The origin of God’s creation’ means Jesus is the source and ruler of all creation (see John 1:3, Col 1:16-18), affirming his divinity."
+      "comment": "‘The Amen’ is a title indicating ultimate truth and faithfulness (2 Cor 1:20). ‘The origin of God’s creation’ means Jesus is the source and ruler of all creation (see John 1:3, Col 1:16-18), affirming his divinity.",
+      "sectionHeader": "To the Church in Laodicea"
     },
     {
       "pk": 73003015,
@@ -269,5 +272,22 @@
       "comment": "The message concludes with a universal call to listen. Believers are to remain attentive to the Spirit’s guidance, staying united in faith, doctrine, and practice."
     }
   ],
-  "translatedAt": "2025-12-24T12:34:35.199Z"
+  "translatedAt": "2025-12-24T12:34:35.199Z",
+  "sections": [
+    {
+      "title": "To the Church in Sardis",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "To the Church in Philadelphia",
+      "startVerse": 7,
+      "endVerse": 13
+    },
+    {
+      "title": "To the Church in Laodicea",
+      "startVerse": 14,
+      "endVerse": 22
+    }
+  ]
 }

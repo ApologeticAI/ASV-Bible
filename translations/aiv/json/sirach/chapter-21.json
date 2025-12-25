@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "My child, have you sinned? Do not do it again, but pray for forgiveness for your past faults.",
       "links": "<a href='/AIV/19/32/5'>Ps. 32:5</a>; <a href='/AIV/20/28/13'>Prov. 28:13</a>; <a href='/AIV/62/1/9'>1 John 1:9</a>",
-      "comment": "The verse presents repentance as immediate and practical: avoid repeating sin, and ask for forgiveness. This reflects the biblical pattern of confession and turning away from wrongdoing (see also Prov. 28:13; 1 John 1:9)."
+      "comment": "The verse presents repentance as immediate and practical: avoid repeating sin, and ask for forgiveness. This reflects the biblical pattern of confession and turning away from wrongdoing (see also Prov. 28:13; 1 John 1:9).",
+      "sectionHeader": "Warning Against Sin"
     },
     {
       "pk": 28021002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "Whoever keeps the law controls his own thoughts, and the accomplishment of the fear of the Lord is wisdom.",
       "links": "<a href='/AIV/19/119/9-11'>Ps. 119:9-11</a>; <a href='/AIV/20/9/10'>Prov. 9:10</a>",
-      "comment": "Obedience to the law brings alignment of mind and reverent wisdom, closely linking adherence to God’s commands with inner transformation."
+      "comment": "Obedience to the law brings alignment of mind and reverent wisdom, closely linking adherence to God’s commands with inner transformation.",
+      "sectionHeader": "Conduct of the Wise and the Foolish"
     },
     {
       "pk": 28021012,
@@ -230,7 +232,8 @@
       "verse": 19,
       "text": "The foot of a fool rushes quickly into a house, but a well-mannered person stands outside respectfully.",
       "links": "<a href='/AIV/20/25/6-7'>Prov. 25:6-7</a>; <a href='/AIV/42/14/10'>Luke 14:10</a>",
-      "comment": "The wise show respect and humility, echoing Jesus’ teaching about places of honor and humility in Luke."
+      "comment": "The wise show respect and humility, echoing Jesus’ teaching about places of honor and humility in Luke.",
+      "sectionHeader": "Behavior and Speech"
     },
     {
       "pk": 28021020,
@@ -302,7 +305,8 @@
       "verse": 25,
       "text": "A whisperer slanders himself and will be hated wherever he goes.",
       "links": "<a href='/AIV/20/26/20'>Prov. 26:20</a>",
-      "comment": "Gossip destroys reputations—especially the speaker’s own—a proverb echoed frequently throughout wisdom literature."
+      "comment": "Gossip destroys reputations—especially the speaker’s own—a proverb echoed frequently throughout wisdom literature.",
+      "sectionHeader": "Consequences of Slander and Laziness"
     },
     {
       "pk": 28021026,
@@ -341,5 +345,27 @@
       "comment": "The wise embrace correction and confession of faults, in harmony with Jesus’ teaching on self-examination and mercy. The principle of confession and amendment of life is a mark of spiritual maturity."
     }
   ],
-  "translatedAt": "2025-12-24T07:34:15.706Z"
+  "translatedAt": "2025-12-24T07:34:15.706Z",
+  "sections": [
+    {
+      "title": "Warning Against Sin",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "Conduct of the Wise and the Foolish",
+      "startVerse": 11,
+      "endVerse": 18
+    },
+    {
+      "title": "Behavior and Speech",
+      "startVerse": 19,
+      "endVerse": 24
+    },
+    {
+      "title": "Consequences of Slander and Laziness",
+      "startVerse": 25,
+      "endVerse": 28
+    }
+  ]
 }

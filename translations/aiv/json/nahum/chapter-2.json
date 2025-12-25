@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "A scatterer has come up against you. Guard the fortress, watch the road, strengthen your loins, reinforce your power greatly.",
       "links": "<a href='/AIV/23/21/6'>Isa. 21:6</a>; <a href='/AIV/34/3/14'>Nah. 3:14</a>",
-      "comment": "Nahum prophesies the impending invasion of Nineveh. The command to 'guard the fortress' reveals an imminent attack, prompting defense readiness. The military imagery anticipates the thorough defeat of evil, echoing God’s just judgment against oppressors."
+      "comment": "Nahum prophesies the impending invasion of Nineveh. The command to 'guard the fortress' reveals an imminent attack, prompting defense readiness. The military imagery anticipates the thorough defeat of evil, echoing God’s just judgment against oppressors.",
+      "sectionHeader": "The Assault Against Nineveh"
     },
     {
       "pk": 41002002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "The river gates are opened, and the palace melts away.",
       "links": "<a href='/AIV/27/5/30-31'>Dan. 5:30-31</a>",
-      "comment": "Historical note: Nineveh’s destruction involved the flooding of the city, fulfilling prophecy. The melting palace is both literal and symbolic; ultimate security comes only from God’s protection and the water imagery subtly recalls the waters of judgment (Gen. 7)."
+      "comment": "Historical note: Nineveh’s destruction involved the flooding of the city, fulfilling prophecy. The melting palace is both literal and symbolic; ultimate security comes only from God’s protection and the water imagery subtly recalls the waters of judgment (Gen. 7).",
+      "sectionHeader": "The Fall and Plundering of Nineveh"
     },
     {
       "pk": 41002007,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "Where is the lions’ den, the feeding place of the young lions, where the lion and lioness went, where none made them afraid?",
       "links": "<a href='/AIV/26/19/2'>Ezek. 19:2</a>",
-      "comment": "Nineveh is compared to a den of lions—once feared, now gone. The question highlights the collapse of earthly power, reminding us that even the mightiest empires fall. Symbolically, the steadfastness found within God’s house remains even when worldly kingdoms perish."
+      "comment": "Nineveh is compared to a den of lions—once feared, now gone. The question highlights the collapse of earthly power, reminding us that even the mightiest empires fall. Symbolically, the steadfastness found within God’s house remains even when worldly kingdoms perish.",
+      "sectionHeader": "Lament Over Nineveh's Ruin"
     },
     {
       "pk": 41002012,
@@ -161,5 +164,22 @@
       "comment": "God’s judgment is emphatic and final. Those who trust in violence and pride face destruction. The silence of the messengers and the cessation of messages serve as a reminder that God’s word endures above all human institutions. Christologically, the true King and His message will never be silenced, establishing an everlasting kingdom built on unity and authority."
     }
   ],
-  "translatedAt": "2025-12-24T09:50:16.479Z"
+  "translatedAt": "2025-12-24T09:50:16.479Z",
+  "sections": [
+    {
+      "title": "The Assault Against Nineveh",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "The Fall and Plundering of Nineveh",
+      "startVerse": 6,
+      "endVerse": 10
+    },
+    {
+      "title": "Lament Over Nineveh's Ruin",
+      "startVerse": 11,
+      "endVerse": 13
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Flee for safety, you people of Benjamin, out of Jerusalem! Blow the trumpet in Tekoa, and raise a signal over Beth-Hakkerem; for disaster threatens from the north, even great destruction.",
       "links": "<a href='/AIV/24/4/5-6'>Jer. 4:5-6</a>; <a href='/AIV/24/1/14-15'>Jer. 1:14-15</a>",
-      "comment": "Jeremiah warns Benjamin, the tribe surrounding Jerusalem, about impending invasion from the north—traditionally the direction of enemy attacks, symbolizing judgment. The call to blow the trumpet and raise a signal emphasizes urgent warning, drawing parallels to prophetic warnings in <a href='/AIV/26/33/3-6'>Ezek. 33:3-6</a> where watchmen must warn the people."
+      "comment": "Jeremiah warns Benjamin, the tribe surrounding Jerusalem, about impending invasion from the north—traditionally the direction of enemy attacks, symbolizing judgment. The call to blow the trumpet and raise a signal emphasizes urgent warning, drawing parallels to prophetic warnings in <a href='/AIV/26/33/3-6'>Ezek. 33:3-6</a> where watchmen must warn the people.",
+      "sectionHeader": "Impending Siege of Jerusalem"
     },
     {
       "pk": 30006002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "'From the least to the greatest, all are greedy for gain; prophets and priests alike practice deceit.",
       "links": "<a href='/AIV/24/8/10'>Jer. 8:10</a>; <a href='/AIV/26/22/27-28'>Ezek. 22:27-28</a>",
-      "comment": "Corruption runs through all ranks, including spiritual leaders. The prophetic critique of priests and prophets forms a foreshadowing of Christ’s opposition to false spiritual authority (<a href='/AIV/40/23/27'>Matt. 23:27</a>)."
+      "comment": "Corruption runs through all ranks, including spiritual leaders. The prophetic critique of priests and prophets forms a foreshadowing of Christ’s opposition to false spiritual authority (<a href='/AIV/40/23/27'>Matt. 23:27</a>).",
+      "sectionHeader": "Corruption and False Prophets"
     },
     {
       "pk": 30006014,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "This is what the LORD says: 'Stand at the crossroads and look; ask for the ancient paths, where the good way is, and walk in it, and you will find rest for your souls. But you said, \"We will not walk in it.\"'",
       "links": "<a href='/AIV/19/23/3'>Ps. 23:3</a>; <a href='/AIV/40/11/29'>Matt. 11:29</a>",
-      "comment": "God invites the people to rediscover authentic tradition, obedience, and true rest. Christ alludes to this in <a href='/AIV/40/11/29'>Matt. 11:29</a>, promising rest. Note the word 'ancient paths'—a theme that values the security and authority of divinely-instituted tradition and the importance of historical faith continuity."
+      "comment": "God invites the people to rediscover authentic tradition, obedience, and true rest. Christ alludes to this in <a href='/AIV/40/11/29'>Matt. 11:29</a>, promising rest. Note the word 'ancient paths'—a theme that values the security and authority of divinely-instituted tradition and the importance of historical faith continuity.",
+      "sectionHeader": "The Call to Repentance and Consequences of Rejection"
     },
     {
       "pk": 30006017,
@@ -266,7 +269,8 @@
       "verse": 22,
       "text": "This is what the LORD says: 'Look, a people is coming from the land of the north; a great nation is being stirred up from the ends of the earth.'",
       "links": "<a href='/AIV/24/1/14-15'>Jer. 1:14-15</a>; <a href='/AIV/24/4/6'>Jer. 4:6</a>",
-      "comment": "The invader from the north represents Babylon. The reference to 'ends of the earth' suggests divine orchestration of global history, foreshadowing the gathering of nations under Messiah in the last days."
+      "comment": "The invader from the north represents Babylon. The reference to 'ends of the earth' suggests divine orchestration of global history, foreshadowing the gathering of nations under Messiah in the last days.",
+      "sectionHeader": "An Invading Nation from the North"
     },
     {
       "pk": 30006023,
@@ -326,7 +330,8 @@
       "verse": 27,
       "text": "I have made you a tester of metals among My people, that you may know and test their ways.",
       "links": "<a href='/AIV/19/66/10'>Ps. 66:10</a>; <a href='/AIV/24/9/7'>Jer. 9:7</a>",
-      "comment": "Jeremiah is appointed as a examiner of Israel’s purity; this metaphor anticipates the later role of spiritual authority in guiding and correcting the people’s faith and morals."
+      "comment": "Jeremiah is appointed as a examiner of Israel’s purity; this metaphor anticipates the later role of spiritual authority in guiding and correcting the people’s faith and morals.",
+      "sectionHeader": "Jeremiah Appointed to Test the People"
     },
     {
       "pk": 30006028,
@@ -365,5 +370,32 @@
       "comment": "‘Rejected silver’ represents the people’s failure to be purified. This closes the chapter with a somber declaration of judgment—yet scripture will go on to show that God’s ultimate plan involves restoration through a new and living way (see <a href='/AIV/58/10/20'>Heb. 10:20</a>)."
     }
   ],
-  "translatedAt": "2025-12-24T08:24:45.234Z"
+  "translatedAt": "2025-12-24T08:24:45.234Z",
+  "sections": [
+    {
+      "title": "Impending Siege of Jerusalem",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "Corruption and False Prophets",
+      "startVerse": 13,
+      "endVerse": 15
+    },
+    {
+      "title": "The Call to Repentance and Consequences of Rejection",
+      "startVerse": 16,
+      "endVerse": 21
+    },
+    {
+      "title": "An Invading Nation from the North",
+      "startVerse": 22,
+      "endVerse": 26
+    },
+    {
+      "title": "Jeremiah Appointed to Test the People",
+      "startVerse": 27,
+      "endVerse": 30
+    }
+  ]
 }

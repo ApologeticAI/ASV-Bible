@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Elihu continued, and said:",
       "links": "<a href='/AIV/22/34/1'>Job 34:1</a>; <a href='/AIV/22/35/1'>Job 35:1</a>",
-      "comment": "Elihu, the youngest of Job's friends, continues his speech. He claims to bring further insight, showing youthful confidence and a claim to divinely inspired wisdom. Elihu stands as a mediator who foreshadows the idea of instruction by those raised up by God."
+      "comment": "Elihu, the youngest of Job's friends, continues his speech. He claims to bring further insight, showing youthful confidence and a claim to divinely inspired wisdom. Elihu stands as a mediator who foreshadows the idea of instruction by those raised up by God.",
+      "sectionHeader": "Elihu Proclaims God's Justice"
     },
     {
       "pk": 22036002,
@@ -194,7 +195,8 @@
       "verse": 16,
       "text": "He also lures you out of distress into a broad place, where there is no narrowness, and your table is loaded with fatness.",
       "links": "<a href='/AIV/19/23/5'>Ps. 23:5</a>; <a href='/AIV/19/31/8'>Ps. 31:8</a>",
-      "comment": "God’s redemption leads from suffering to abundance, a theme central both to Israel’s exodus and fulfilled by Christ who prepares the heavenly banquet."
+      "comment": "God’s redemption leads from suffering to abundance, a theme central both to Israel’s exodus and fulfilled by Christ who prepares the heavenly banquet.",
+      "sectionHeader": "Elihu Urges Job to Repentance"
     },
     {
       "pk": 22036017,
@@ -290,7 +292,8 @@
       "verse": 24,
       "text": "\"Remember to exalt His work, of which people have sung.",
       "links": "<a href='/AIV/19/92/4'>Ps. 92:4</a>",
-      "comment": "Praise and worship is the right response to God's works—a theme central to all sacred liturgy where God is exalted communally."
+      "comment": "Praise and worship is the right response to God's works—a theme central to all sacred liturgy where God is exalted communally.",
+      "sectionHeader": "The Majesty of God's Works"
     },
     {
       "pk": 22036025,
@@ -401,5 +404,22 @@
       "comment": "Even nature proclaims God’s approach—in thunder, in animal instincts—affirming that creation testifies to the Creator’s power and authority."
     }
   ],
-  "translatedAt": "2025-12-24T05:56:20.023Z"
+  "translatedAt": "2025-12-24T05:56:20.023Z",
+  "sections": [
+    {
+      "title": "Elihu Proclaims God's Justice",
+      "startVerse": 1,
+      "endVerse": 15
+    },
+    {
+      "title": "Elihu Urges Job to Repentance",
+      "startVerse": 16,
+      "endVerse": 23
+    },
+    {
+      "title": "The Majesty of God's Works",
+      "startVerse": 24,
+      "endVerse": 33
+    }
+  ]
 }

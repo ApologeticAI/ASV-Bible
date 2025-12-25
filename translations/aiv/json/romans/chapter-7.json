@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Or do you not know, brothers—for I am speaking to those who know the Law—that the Law has authority over a person only as long as he lives?",
       "links": "<a href='/AIV/2/20/13'>Ex. 20:13</a>; <a href='/AIV/48/3/24'>Gal. 3:24</a>",
-      "comment": "Paul addresses those familiar with the Law, highlighting that its authority is limited to one's lifetime. The mention of 'brothers' underscores fellowship among believers."
+      "comment": "Paul addresses those familiar with the Law, highlighting that its authority is limited to one's lifetime. The mention of 'brothers' underscores fellowship among believers.",
+      "sectionHeader": "Freedom from the Law through Christ"
     },
     {
       "pk": 52007002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "What then shall we say? That the Law is sin? Absolutely not! On the contrary, I would not have known sin except through the Law. For I would not have known about coveting unless the Law had said, 'You shall not covet.'",
       "links": "<a href='/AIV/2/20/17'>Ex. 20:17</a>; <a href='/AIV/45/3/20'>Rom. 3:20</a>",
-      "comment": "Paul vindicates the Law as holy. Its purpose is to reveal sin, not to create it. The Law gives clarity to moral boundaries—pointing to the need for grace."
+      "comment": "Paul vindicates the Law as holy. Its purpose is to reveal sin, not to create it. The Law gives clarity to moral boundaries—pointing to the need for grace.",
+      "sectionHeader": "Purpose and Limits of the Law"
     },
     {
       "pk": 52007008,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "For we know that the Law is spiritual, but I am fleshly, sold under sin.",
       "links": "<a href='/AIV/45/8/3'>Rom. 8:3</a>",
-      "comment": "Paul confesses the contrast between God's Law and human nature. Humanity requires spiritual transformation—an organic change far deeper than legal reform."
+      "comment": "Paul confesses the contrast between God's Law and human nature. Humanity requires spiritual transformation—an organic change far deeper than legal reform.",
+      "sectionHeader": "The Struggle with Sin"
     },
     {
       "pk": 52007015,
@@ -305,5 +308,22 @@
       "comment": "Victory comes only through Christ—who offers not only forgiveness but real and ongoing victory over sin. The spiritual dimension of Christian life is united with physical transformation, anticipating new life in Christ both now and in glory."
     }
   ],
-  "translatedAt": "2025-12-24T11:38:59.538Z"
+  "translatedAt": "2025-12-24T11:38:59.538Z",
+  "sections": [
+    {
+      "title": "Freedom from the Law through Christ",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Purpose and Limits of the Law",
+      "startVerse": 7,
+      "endVerse": 13
+    },
+    {
+      "title": "The Struggle with Sin",
+      "startVerse": 14,
+      "endVerse": 25
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "This is the book of the commandments of God and the Law that endures forever. All who keep it will live, but those who forsake it will die.",
       "links": "<a href='/AIV/05/30/15'>Deut. 30:15-16</a>; <a href='/AIV/19/119/1'>Ps. 119:1</a>",
-      "comment": "Baruch begins by magnifying the Law, echoing Deuteronomy and Psalm 119, and stressing its enduring relevance."
+      "comment": "Baruch begins by magnifying the Law, echoing Deuteronomy and Psalm 119, and stressing its enduring relevance.",
+      "sectionHeader": "The Blessing of the Law and Israel's Exile"
     },
     {
       "pk": 32004002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "For when she saw God’s wrath coming upon you, she said: Listen, all you who dwell near Zion,",
       "links": "<a href='/AIV/25/2/15'>Lam. 2:15</a>",
-      "comment": "Jerusalem is personified as a grieving mother—a figure later echoed in Christian tradition regarding the Church and the Virgin Mary."
+      "comment": "Jerusalem is personified as a grieving mother—a figure later echoed in Christian tradition regarding the Church and the Virgin Mary.",
+      "sectionHeader": "Jerusalem Laments for Her Children"
     },
     {
       "pk": 32004010,
@@ -254,7 +256,8 @@
       "verse": 21,
       "text": "For I have put my hope in the Everlasting to save you, and the Holy One will bring me joy in the mercy that will soon come to you.",
       "links": "<a href='/AIV/19/130/7'>Ps. 130:7</a>",
-      "comment": "Divine mercy is expected with certain hope—a spiritual anticipation realized in the coming of Christ."
+      "comment": "Divine mercy is expected with certain hope—a spiritual anticipation realized in the coming of Christ.",
+      "sectionHeader": "Promise of Restoration and Comfort"
     },
     {
       "pk": 32004022,
@@ -374,7 +377,8 @@
       "verse": 31,
       "text": "Wretched are those who have mistreated you, who rejoice in your downfall.",
       "links": "<a href='/AIV/19/137/7'>Ps. 137:7-9</a>",
-      "comment": "God’s justice extends against those who oppress and mock Jerusalem, assuring retribution for enemies of the faithful."
+      "comment": "God’s justice extends against those who oppress and mock Jerusalem, assuring retribution for enemies of the faithful.",
+      "sectionHeader": "Judgment on the Enemies of Jerusalem"
     },
     {
       "pk": 32004032,
@@ -434,7 +438,8 @@
       "verse": 36,
       "text": "Look toward the east, Jerusalem, and see the joy that is coming to you from God.",
       "links": "<a href='/AIV/23/60/1'>Isa. 60:1</a>",
-      "comment": "The east is symbolic of new beginnings and salvation; a messianic hope pointing ultimately to the coming of Christ."
+      "comment": "The east is symbolic of new beginnings and salvation; a messianic hope pointing ultimately to the coming of Christ.",
+      "sectionHeader": "The Return of the Exiles"
     },
     {
       "pk": 32004037,
@@ -449,5 +454,32 @@
       "comment": "A vision of the final gathering—foreshadowing the universal gathering of all God’s people to Himself, as prophesied in both Old and New Testaments."
     }
   ],
-  "translatedAt": "2025-12-24T08:57:11.868Z"
+  "translatedAt": "2025-12-24T08:57:11.868Z",
+  "sections": [
+    {
+      "title": "The Blessing of the Law and Israel's Exile",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "Jerusalem Laments for Her Children",
+      "startVerse": 9,
+      "endVerse": 20
+    },
+    {
+      "title": "Promise of Restoration and Comfort",
+      "startVerse": 21,
+      "endVerse": 30
+    },
+    {
+      "title": "Judgment on the Enemies of Jerusalem",
+      "startVerse": 31,
+      "endVerse": 35
+    },
+    {
+      "title": "The Return of the Exiles",
+      "startVerse": 36,
+      "endVerse": 37
+    }
+  ]
 }

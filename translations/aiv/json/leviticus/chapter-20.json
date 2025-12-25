@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The LORD spoke to Moses, saying,",
       "links": "<a href='/AIV/3/19/1'>Lev. 19:1</a>; <a href='/AIV/4/15/1'>Num. 15:1</a>",
-      "comment": "God directly addresses Moses to convey a new set of laws, emphasizing the solemnity and authority behind this section."
+      "comment": "God directly addresses Moses to convey a new set of laws, emphasizing the solemnity and authority behind this section.",
+      "sectionHeader": "Punishment for Offering Children to Molech"
     },
     {
       "pk": 3020002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "If a person turns to mediums or to those who consult with spirits, prostituting themselves by following them, I will set My face against that person and cut them off from among their people.",
       "links": "<a href='/AIV/3/19/31'>Lev. 19:31</a>; <a href='/AIV/9/13/1'>1 Sam. 28:7</a>",
-      "comment": "Prohibition against occultism highlights exclusive devotion due to God alone. Separation from the community hints toward the concept of excommunication, showing the seriousness of spiritual fidelity."
+      "comment": "Prohibition against occultism highlights exclusive devotion due to God alone. Separation from the community hints toward the concept of excommunication, showing the seriousness of spiritual fidelity.",
+      "sectionHeader": "Penalties for Occult Practices and Cursing Parents"
     },
     {
       "pk": 3020007,
@@ -122,7 +124,8 @@
       "verse": 10,
       "text": "If a man commits adultery with the wife of another man, with the wife of his neighbor, both the adulterer and the adulteress shall surely be put to death.",
       "links": "<a href='/AIV/5/22/22'>Deut. 22:22</a>; <a href='/AIV/43/8/4-5'>John 8:4-5</a>",
-      "comment": "Adultery threatens the covenant structure. Jesus, in the New Testament, calls for both justice and mercy in cases of adultery (see <a href='/AIV/43/8/4-11'>John 8:4-11</a>)."
+      "comment": "Adultery threatens the covenant structure. Jesus, in the New Testament, calls for both justice and mercy in cases of adultery (see <a href='/AIV/43/8/4-11'>John 8:4-11</a>).",
+      "sectionHeader": "Penalties for Sexual Immorality"
     },
     {
       "pk": 3020011,
@@ -266,7 +269,8 @@
       "verse": 22,
       "text": "You shall therefore keep all My statutes and all My rules and do them, so that the land where I am bringing you to dwell may not vomit you out.",
       "links": "<a href='/AIV/3/18/25'>Lev. 18:25</a>; <a href='/AIV/5/4/25-27'>Deut. 4:25-27</a>",
-      "comment": "Obedience is necessary for remaining in God’s promised land—a type foretelling the need for faithfulness to remain in God’s grace."
+      "comment": "Obedience is necessary for remaining in God’s promised land—a type foretelling the need for faithfulness to remain in God’s grace.",
+      "sectionHeader": "Call to Holiness and Separation"
     },
     {
       "pk": 3020023,
@@ -326,8 +330,36 @@
       "verse": 27,
       "text": "A man or a woman who is a medium or who consults spirits shall surely be put to death. They shall be stoned with stones; their blood is upon them.",
       "links": "<a href='/AIV/3/19/31'>Lev. 19:31</a>; <a href='/AIV/9/28/7-9'>1 Sam. 28:7-9</a>",
-      "comment": "Consulting spirits is forbidden, underscoring total reliance on God for guidance. In the New Testament, the Holy Spirit supplants all forms of divination—and the faithful are called to discern true spiritual direction within the Church instituted by Christ."
+      "comment": "Consulting spirits is forbidden, underscoring total reliance on God for guidance. In the New Testament, the Holy Spirit supplants all forms of divination—and the faithful are called to discern true spiritual direction within the Church instituted by Christ.",
+      "sectionHeader": "Penalty for Mediums and Spiritists"
     }
   ],
-  "translatedAt": "2025-12-24T01:21:20.880Z"
+  "translatedAt": "2025-12-24T01:21:20.880Z",
+  "sections": [
+    {
+      "title": "Punishment for Offering Children to Molech",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Penalties for Occult Practices and Cursing Parents",
+      "startVerse": 6,
+      "endVerse": 9
+    },
+    {
+      "title": "Penalties for Sexual Immorality",
+      "startVerse": 10,
+      "endVerse": 21
+    },
+    {
+      "title": "Call to Holiness and Separation",
+      "startVerse": 22,
+      "endVerse": 26
+    },
+    {
+      "title": "Penalty for Mediums and Spiritists",
+      "startVerse": 27,
+      "endVerse": 27
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then the LORD said to Moses, “Go to Pharaoh and say to him, ‘This is what the LORD says: Let My people go, so that they may serve Me.’”",
       "links": "<a href='/AIV/2/5/1'>Exod. 5:1</a>; <a href='/AIV/2/7/16'>Exod. 7:16</a>",
-      "comment": "The phrase “Let My people go, so that they may serve Me” is repeated throughout the Exodus account, showing God’s desire for worship and service. This foreshadows the Christian calling to service and worship (Rom. 12:1)."
+      "comment": "The phrase “Let My people go, so that they may serve Me” is repeated throughout the Exodus account, showing God’s desire for worship and service. This foreshadows the Christian calling to service and worship (Rom. 12:1).",
+      "sectionHeader": "The Second Plague: Frogs"
     },
     {
       "pk": 2008002,
@@ -194,7 +195,8 @@
       "verse": 16,
       "text": "Then the LORD said to Moses, “Say to Aaron, ‘Stretch out your staff and strike the dust of the earth, so that it may become gnats throughout all the land of Egypt.’”",
       "links": "<a href='/AIV/2/7/19'>Exod. 7:19</a>",
-      "comment": "Gnats (or lice) from dust echo the curse of the ground after the Fall (Gen. 3:17). The staff again signifies divinely sanctioned authority."
+      "comment": "Gnats (or lice) from dust echo the curse of the ground after the Fall (Gen. 3:17). The staff again signifies divinely sanctioned authority.",
+      "sectionHeader": "The Third Plague: Gnats"
     },
     {
       "pk": 20080017,
@@ -242,7 +244,8 @@
       "verse": 20,
       "text": "Then the LORD said to Moses, “Rise early in the morning and present yourself before Pharaoh as he comes out to the water and say to him, ‘This is what the LORD says: Let My people go, so that they may serve Me.’”",
       "links": "<a href='/AIV/2/7/15'>Exod. 7:15</a>; <a href='/AIV/2/8/1'>Exod. 8:1</a>",
-      "comment": "The repeated demand for worship establishes true religion as founded on obedience to God, not human rulers."
+      "comment": "The repeated demand for worship establishes true religion as founded on obedience to God, not human rulers.",
+      "sectionHeader": "The Fourth Plague: Flies"
     },
     {
       "pk": 20080021,
@@ -389,5 +392,22 @@
       "comment": "Again, persistent resistance to God signals spiritual danger. The need for conversion is underscored—foreshadowing the transformation that Christ brings (Acts 3:19)."
     }
   ],
-  "translatedAt": "2025-12-24T00:50:45.369Z"
+  "translatedAt": "2025-12-24T00:50:45.369Z",
+  "sections": [
+    {
+      "title": "The Second Plague: Frogs",
+      "startVerse": 1,
+      "endVerse": 15
+    },
+    {
+      "title": "The Third Plague: Gnats",
+      "startVerse": 16,
+      "endVerse": 19
+    },
+    {
+      "title": "The Fourth Plague: Flies",
+      "startVerse": 20,
+      "endVerse": 32
+    }
+  ]
 }

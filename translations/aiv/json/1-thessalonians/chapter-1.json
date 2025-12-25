@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Paul, Silvanus, and Timothy, to the church of the Thessalonians in God the Father and the Lord Jesus Christ: Grace to you and peace.",
       "links": "<a href='/AIV/44/16/1'>Acts 16:1</a>; <a href='/AIV/46/1/3'>1 Cor. 1:3</a>",
-      "comment": "Paul begins the letter by identifying himself and his companions. Drawing attention to the unity of the church 'in God the Father and the Lord Jesus Christ' emphasizes both the divine origin and foundation of the Christian community. The greeting's phrase 'grace to you and peace' elegantly combines traditional greetings from both Greek and Jewish backgrounds, foreshadowing the universal scope of the gospel."
+      "comment": "Paul begins the letter by identifying himself and his companions. Drawing attention to the unity of the church 'in God the Father and the Lord Jesus Christ' emphasizes both the divine origin and foundation of the Christian community. The greeting's phrase 'grace to you and peace' elegantly combines traditional greetings from both Greek and Jewish backgrounds, foreshadowing the universal scope of the gospel.",
+      "sectionHeader": "Greeting"
     },
     {
       "pk": 59001002,
@@ -26,7 +27,8 @@
       "verse": 2,
       "text": "We give thanks to God always for all of you, remembering you in our prayers continually.",
       "links": "<a href='/AIV/45/1/8'>Rom. 1:8-9</a>; <a href='/AIV/50/1/3'>Phil. 1:3-4</a>",
-      "comment": "Paul emphasizes the importance of praying for the whole community, showing that intercessory prayer is a constant and vital part of apostolic ministry. This communal aspect speaks to the ongoing spiritual connection between the apostles and the believers."
+      "comment": "Paul emphasizes the importance of praying for the whole community, showing that intercessory prayer is a constant and vital part of apostolic ministry. This communal aspect speaks to the ongoing spiritual connection between the apostles and the believers.",
+      "sectionHeader": "Thanksgiving for the Faith of the Thessalonians"
     },
     {
       "pk": 59001003,
@@ -125,5 +127,17 @@
       "comment": "Paul concludes by affirming the centrality of Christ’s resurrection and returning glory. Waiting for the Son’s return links hope to the promise of deliverance from final judgment, grounding the Christian life in expectation, Eucharistic thanksgiving, and perseverance in faith. As the early believers awaited Christ, so too does the church maintain a visible, anticipatory posture, faithfully looking toward Christ's return as the definitive fulfillment of salvation history."
     }
   ],
-  "translatedAt": "2025-12-24T12:07:47.031Z"
+  "translatedAt": "2025-12-24T12:07:47.031Z",
+  "sections": [
+    {
+      "title": "Greeting",
+      "startVerse": 1,
+      "endVerse": 1
+    },
+    {
+      "title": "Thanksgiving for the Faith of the Thessalonians",
+      "startVerse": 2,
+      "endVerse": 10
+    }
+  ]
 }

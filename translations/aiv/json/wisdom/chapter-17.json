@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Great are your judgments and impossible to describe, therefore souls without discipline go astray.",
       "links": "<a href='/AIV/19/36/6'>Ps. 36:6</a>; <a href='/AIV/19/147/5'>Ps. 147:5</a>",
-      "comment": "The verse emphasizes God’s unfathomable wisdom and the necessity of moral discipline, echoing the Psalms’ theme of God’s inscrutable ways. This sets the tone for the chapter’s meditation on divine justice."
+      "comment": "The verse emphasizes God’s unfathomable wisdom and the necessity of moral discipline, echoing the Psalms’ theme of God’s inscrutable ways. This sets the tone for the chapter’s meditation on divine justice.",
+      "sectionHeader": "The Punishment of the Egyptians with Darkness"
     },
     {
       "pk": 27017002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "Wickedness is cowardly and condemned by its own evidence; disturbed conscience always expects punishment.",
       "links": "<a href='/AIV/01/04/13-14'>Gen. 4:13-14</a>; <a href='/AIV/19/32/4'>Ps. 32:4</a>",
-      "comment": "Draws upon Cain’s distress after sinning (Genesis 4), explaining how guilt leads to fear. Suggests that freedom from fear comes through mercy and reconciliation."
+      "comment": "Draws upon Cain’s distress after sinning (Genesis 4), explaining how guilt leads to fear. Suggests that freedom from fear comes through mercy and reconciliation.",
+      "sectionHeader": "The Nature of Fear and Guilt"
     },
     {
       "pk": 27017012,
@@ -254,8 +256,26 @@
       "verse": 21,
       "text": "Thus, while heaven’s power remained calm, and the stars moved steadily through their paths, the darkness held them captive, showing that faithfulness to the higher order brings peace while rebellion invites chaos.",
       "links": "<a href='/AIV/01/01/14-18'>Gen. 1:14-18</a>; <a href='/AIV/19/19/1-6'>Ps. 19:1-6</a>",
-      "comment": "Contrasts the order of creation with the confusion wrought by sin. The constancy of the heavens is a symbol of the peace given to those who live within God’s covenant—a subtle reminder of the preservation offered through apostolic continuity and obedience to divine authority."
+      "comment": "Contrasts the order of creation with the confusion wrought by sin. The constancy of the heavens is a symbol of the peace given to those who live within God’s covenant—a subtle reminder of the preservation offered through apostolic continuity and obedience to divine authority.",
+      "sectionHeader": "The Inescapable Judgment of God"
     }
   ],
-  "translatedAt": "2025-12-24T07:22:06.804Z"
+  "translatedAt": "2025-12-24T07:22:06.804Z",
+  "sections": [
+    {
+      "title": "The Punishment of the Egyptians with Darkness",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "The Nature of Fear and Guilt",
+      "startVerse": 11,
+      "endVerse": 20
+    },
+    {
+      "title": "The Inescapable Judgment of God",
+      "startVerse": 21,
+      "endVerse": 21
+    }
+  ]
 }

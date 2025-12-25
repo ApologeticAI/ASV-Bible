@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The word of the LORD of hosts came to me, saying:",
       "links": "<a href='/AIV/38/1/1'>Zech. 1:1</a>",
-      "comment": "Throughout Zechariah, 'LORD of hosts' emphasizes God's sovereign power. This phrase is deeply rooted in Hebrew Scripture as a declaration of God’s authority over all armies—earthly and heavenly."
+      "comment": "Throughout Zechariah, 'LORD of hosts' emphasizes God's sovereign power. This phrase is deeply rooted in Hebrew Scripture as a declaration of God’s authority over all armies—earthly and heavenly.",
+      "sectionHeader": "The Lord’s Zeal and Promise to Zion"
     },
     {
       "pk": 45008002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "Thus says the LORD of hosts: 'Let your hands be strong, you who now hear these words that were spoken by the prophets when the foundation was laid for the house of the LORD of hosts, that the temple might be built.'",
       "links": "<a href='/AIV/15/5/1-2'>Ezra 5:1-2</a>; <a href='/AIV/37/2/4'>Hag. 2:4</a>",
-      "comment": "God commands perseverance in rebuilding the Temple—highlighting the importance of sacred space and worship. This points ahead to worship in Spirit and truth."
+      "comment": "God commands perseverance in rebuilding the Temple—highlighting the importance of sacred space and worship. This points ahead to worship in Spirit and truth.",
+      "sectionHeader": "Blessings for the Remnant and Restoration of Jerusalem"
     },
     {
       "pk": 45008010,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "'These are the things you shall do: Speak truth to one another; judge with truth and justice in your gates.'",
       "links": "<a href='/AIV/03/19/15-18'>Lev. 19:15-18</a>; <a href='/AIV/49/4/25'>Eph. 4:25</a>",
-      "comment": "Ethical commands shape God’s people; truth and justice are foundational both for the nation and the Church’s mission."
+      "comment": "Ethical commands shape God’s people; truth and justice are foundational both for the nation and the Church’s mission.",
+      "sectionHeader": "Call to Justice and Truth"
     },
     {
       "pk": 45008017,
@@ -218,7 +221,8 @@
       "verse": 18,
       "text": "The word of the LORD of hosts came to me, saying:",
       "links": "<a href='/AIV/38/1/1'>Zech. 1:1</a>",
-      "comment": "A new message signals a transition, marking hope and change in prophetic announcements."
+      "comment": "A new message signals a transition, marking hope and change in prophetic announcements.",
+      "sectionHeader": "Fasts Turned to Festivals; Jerusalem Sought by the Nations"
     },
     {
       "pk": 45008019,
@@ -300,5 +304,26 @@
     },
     "links"
   ],
-  "translatedAt": "2025-12-24T09:57:20.924Z"
+  "translatedAt": "2025-12-24T09:57:20.924Z",
+  "sections": [
+    {
+      "title": "The Lord’s Zeal and Promise to Zion",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "Blessings for the Remnant and Restoration of Jerusalem",
+      "startVerse": 9,
+      "endVerse": 15
+    },
+    {
+      "title": "Call to Justice and Truth",
+      "startVerse": 16,
+      "endVerse": 17
+    },
+    {
+      "title": "Fasts Turned to Festivals; Jerusalem Sought by the Nations",
+      "startVerse": 18
+    }
+  ]
 }

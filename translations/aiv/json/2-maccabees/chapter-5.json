@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "About this time, Antiochus set out on a second expedition into Egypt.",
       "links": "<a href='/AIV/27/11/29'>Dan. 11:29</a>",
-      "comment": "Antiochus Epiphanes, the persecutor of the Jews, invades Egypt again as predicted in Daniel 11. The text highlights how the turmoil unfolds due to his ambition. This prepares for God's intervention, reminiscent of God's sovereignty over empires (see Daniel)."
+      "comment": "Antiochus Epiphanes, the persecutor of the Jews, invades Egypt again as predicted in Daniel 11. The text highlights how the turmoil unfolds due to his ambition. This prepares for God's intervention, reminiscent of God's sovereignty over empires (see Daniel).",
+      "sectionHeader": "Omens and Disturbances in Jerusalem"
     },
     {
       "pk": 21005002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "But a false report was spread that Antiochus had died. Jason took at least a thousand men and made a sudden attack on the city. When the defenders on the wall were forced to retreat, the city was finally taken; Menelaus fled to the citadel.",
       "links": "<a href='/AIV/21/4/41-42'>1 Macc. 4:41-42</a>",
-      "comment": "Jason, the former high priest, exploits civil turmoil for power. Internal strife weakens the people, mirroring conflicts over rightful leadership—a recurring theme in Israel's history and the early Church."
+      "comment": "Jason, the former high priest, exploits civil turmoil for power. Internal strife weakens the people, mirroring conflicts over rightful leadership—a recurring theme in Israel's history and the early Church.",
+      "sectionHeader": "Jason's Violent Coup and Downfall"
     },
     {
       "pk": 21005005,
@@ -110,7 +112,8 @@
       "verse": 9,
       "text": "Returning to Antiochus, after his defeat in Egypt, Antiochus advanced against the city in a fury, believing the Jews had rebelled.",
       "links": "<a href='/AIV/21/1/16'>1 Macc. 1:16</a>",
-      "comment": "Antiochus’s wrath against Jerusalem is a well-documented historical event. Persecution often follows when God's people are faithful. This passage sets the stage for the 'abomination'—an event prefiguring later spiritual persecutions."
+      "comment": "Antiochus’s wrath against Jerusalem is a well-documented historical event. Persecution often follows when God's people are faithful. This passage sets the stage for the 'abomination'—an event prefiguring later spiritual persecutions.",
+      "sectionHeader": "Antiochus IV's Attack and Desecration of the Temple"
     },
     {
       "pk": 21005010,
@@ -266,7 +269,8 @@
       "verse": 22,
       "text": "He left governors to oppress the people: in Jerusalem, Philip, a Phrygian by birth, more brutal than the one who appointed him;",
       "links": "<a href='/AIV/21/1/34'>1 Macc. 1:34</a>",
-      "comment": "The appointment of oppressive officials further highlights the sufferings endured. Leadership either builds up or destroys God's people—a motif that sets the stage for Christ’s promise of shepherds after His own heart."
+      "comment": "The appointment of oppressive officials further highlights the sufferings endured. Leadership either builds up or destroys God's people—a motif that sets the stage for Christ’s promise of shepherds after His own heart.",
+      "sectionHeader": "Oppression Under Foreign Governors"
     },
     {
       "pk": 21005023,
@@ -314,7 +318,8 @@
       "verse": 26,
       "text": "But Judas Maccabeus, with about nine others, escaped to the mountains, living like wild animals in the wilderness. They survived on what grew naturally, to avoid defiling themselves by sharing in the unclean food.",
       "links": "<a href='/AIV/19/11/1'>Ps. 11:1</a>; <a href='/AIV/42/4/1-2'>Luke 4:1-2</a>",
-      "comment": "Judas’s withdrawal is an act of faithfulness, reminiscent of prophets and the Messiah spending time in the wilderness. The idea of avoiding 'unclean food' connects to the importance of holiness and the discipline of fasting."
+      "comment": "Judas’s withdrawal is an act of faithfulness, reminiscent of prophets and the Messiah spending time in the wilderness. The idea of avoiding 'unclean food' connects to the importance of holiness and the discipline of fasting.",
+      "sectionHeader": "Judas Maccabeus Flees to the Wilderness"
     },
     {
       "pk": 21005027,
@@ -329,5 +334,32 @@
       "comment": "Faithfulness to the law, especially under trial, is seen as evidence of true devotion. The call to be 'holy as God is holy' remains central. This pursuit of holiness is fulfilled in the body of Christ, who forms a pure and holy assembly set apart for God."
     }
   ],
-  "translatedAt": "2025-12-24T05:32:15.679Z"
+  "translatedAt": "2025-12-24T05:32:15.679Z",
+  "sections": [
+    {
+      "title": "Omens and Disturbances in Jerusalem",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "Jason's Violent Coup and Downfall",
+      "startVerse": 4,
+      "endVerse": 8
+    },
+    {
+      "title": "Antiochus IV's Attack and Desecration of the Temple",
+      "startVerse": 9,
+      "endVerse": 21
+    },
+    {
+      "title": "Oppression Under Foreign Governors",
+      "startVerse": 22,
+      "endVerse": 25
+    },
+    {
+      "title": "Judas Maccabeus Flees to the Wilderness",
+      "startVerse": 26,
+      "endVerse": 27
+    }
+  ]
 }

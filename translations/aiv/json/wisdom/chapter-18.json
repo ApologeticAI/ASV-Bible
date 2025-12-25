@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "But your holy ones had unshaken light; the Egyptians, who heard their voices but could not see their forms, considered them blessed because they were not suffering as they were.",
       "links": "<a href='/AIV/2/10/23'>Exod. 10:23</a>; <a href='/AIV/19/97/11'>Psalm 97:11</a>",
-      "comment": "The 'holy ones' refers to the Israelites preserved in light during Egypt’s plague of darkness (Exod. 10:23). The contrast with the Egyptians emphasizes God's favor toward His chosen people."
+      "comment": "The 'holy ones' refers to the Israelites preserved in light during Egypt’s plague of darkness (Exod. 10:23). The contrast with the Egyptians emphasizes God's favor toward His chosen people.",
+      "sectionHeader": "Light for Israel, Darkness for Egypt"
     },
     {
       "pk": 27018002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "When they resolved to kill infants of the holy people, one child who had been exposed and rescued was to be their destroyer; but you, in punishment, took away their multitude of children and destroyed them together in a mighty water.",
       "links": "<a href='/AIV/2/1/22'>Exod. 1:22</a>; <a href='/AIV/2/14/28'>Exod. 14:28</a>",
-      "comment": "Moses, once threatened with death as an infant, becomes the agent of the Egyptians’ downfall. The motif of water recalls both the Red Sea and Baptism as deliverance."
+      "comment": "Moses, once threatened with death as an infant, becomes the agent of the Egyptians’ downfall. The motif of water recalls both the Red Sea and Baptism as deliverance.",
+      "sectionHeader": "The Slaying of the Firstborn"
     },
     {
       "pk": 27018006,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "For while gentle silence enveloped all things and night was midway through its swift course,",
       "links": "<a href='/AIV/2/12/29'>Exod. 12:29</a>",
-      "comment": "The imagery of silence and midnight deepens the solemnity of God’s action. Early Christian writers used this passage to foreshadow Christ’s Incarnation—God acting in hiddenness (cf. Luke 2:6-7)."
+      "comment": "The imagery of silence and midnight deepens the solemnity of God’s action. Early Christian writers used this passage to foreshadow Christ’s Incarnation—God acting in hiddenness (cf. Luke 2:6-7).",
+      "sectionHeader": "The All-Powerful Word Executes Judgment"
     },
     {
       "pk": 27018015,
@@ -242,7 +245,8 @@
       "verse": 20,
       "text": "But against your holy ones, not even the forces of death could prevail, for a deadly plague struck the multitude in the desert, yet your anger did not last long.",
       "links": "<a href='/AIV/4/16/46-48'>Num. 16:46-48</a>; <a href='/AIV/2/8/22'>Exod. 8:22</a>",
-      "comment": "Here the contrast is between the holy and the wicked. Israel is not free from discipline (cf. Num. 16:46–48), but God’s mercy tempers his justice."
+      "comment": "Here the contrast is between the holy and the wicked. Israel is not free from discipline (cf. Num. 16:46–48), but God’s mercy tempers his justice.",
+      "sectionHeader": "The Intercession of the High Priest"
     },
     {
       "pk": 27018021,
@@ -305,5 +309,27 @@
       "comment": "The 'destroyer,' restrained by the sanctified minister, points to the victory of intercession and authority established by divine ordination. Ultimately, this prefigures the victory over death through Christ."
     }
   ],
-  "translatedAt": "2025-12-24T07:22:37.522Z"
+  "translatedAt": "2025-12-24T07:22:37.522Z",
+  "sections": [
+    {
+      "title": "Light for Israel, Darkness for Egypt",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "The Slaying of the Firstborn",
+      "startVerse": 5,
+      "endVerse": 13
+    },
+    {
+      "title": "The All-Powerful Word Executes Judgment",
+      "startVerse": 14,
+      "endVerse": 19
+    },
+    {
+      "title": "The Intercession of the High Priest",
+      "startVerse": 20,
+      "endVerse": 25
+    }
+  ]
 }

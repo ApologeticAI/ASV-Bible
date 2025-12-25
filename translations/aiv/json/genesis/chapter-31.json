@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Jacob heard the words of Laban’s sons, saying, “Jacob has taken away all that was our father’s; and from what belonged to our father, he has gotten all this wealth.”",
       "links": "<a href='/AIV/1/30/43'>Gen 30:43</a>; <a href='/AIV/1/31/16'>Gen 31:16</a>",
-      "comment": "Laban's sons accuse Jacob of gaining wealth at Laban's expense, setting the stage for tension and Jacob's departure."
+      "comment": "Laban's sons accuse Jacob of gaining wealth at Laban's expense, setting the stage for tension and Jacob's departure.",
+      "sectionHeader": "Jacob Flees from Laban"
     },
     {
       "pk": 1031002,
@@ -230,7 +231,8 @@
       "verse": 19,
       "text": "Now while Laban was away shearing his sheep, Rachel stole the household gods that belonged to her father.",
       "links": "<a href='/AIV/1/35/2'>Gen 35:2</a>; <a href='/AIV/6/24/2'>Josh 24:2</a>",
-      "comment": "The theft of the household idols (teraphim) demonstrates ongoing attachment to old traditions. Note the later biblical stress on exclusive worship and purification from idols."
+      "comment": "The theft of the household idols (teraphim) demonstrates ongoing attachment to old traditions. Note the later biblical stress on exclusive worship and purification from idols.",
+      "sectionHeader": "Rachel Steals Laban's Household Gods"
     },
     {
       "pk": 1031020,
@@ -266,7 +268,8 @@
       "verse": 22,
       "text": "Laban was told on the third day that Jacob had fled.",
       "links": "<a href='/AIV/1/31/19-20'>Gen 31:19-20</a>",
-      "comment": "The narrative builds drama, as Laban learns of the escape after some delay."
+      "comment": "The narrative builds drama, as Laban learns of the escape after some delay.",
+      "sectionHeader": "Laban Pursues and Confronts Jacob"
     },
     {
       "pk": 1031023,
@@ -518,7 +521,8 @@
       "verse": 43,
       "text": "Laban answered and said to Jacob, 'The daughters are my daughters, the children are my children, and the flocks are my flocks. Everything you see is mine; but what can I do this day to these my daughters, or to their children whom they have borne?'",
       "links": "<a href='/AIV/1/29/21-30'>Gen 29:21-30</a>",
-      "comment": "Laban's possessiveness highlights mankind's struggle to surrender to God’s sovereignty over people and possessions."
+      "comment": "Laban's possessiveness highlights mankind's struggle to surrender to God’s sovereignty over people and possessions.",
+      "sectionHeader": "Jacob and Laban Make a Covenant"
     },
     {
       "pk": 1031044,
@@ -665,5 +669,27 @@
       "comment": "Laban departs in peace after blessing his family. Blessing is significant, as it confers spiritual favor and closure—themes fulfilled in the giving of benediction and peace throughout Scripture."
     }
   ],
-  "translatedAt": "2025-12-24T00:28:36.693Z"
+  "translatedAt": "2025-12-24T00:28:36.693Z",
+  "sections": [
+    {
+      "title": "Jacob Flees from Laban",
+      "startVerse": 1,
+      "endVerse": 18
+    },
+    {
+      "title": "Rachel Steals Laban's Household Gods",
+      "startVerse": 19,
+      "endVerse": 21
+    },
+    {
+      "title": "Laban Pursues and Confronts Jacob",
+      "startVerse": 22,
+      "endVerse": 42
+    },
+    {
+      "title": "Jacob and Laban Make a Covenant",
+      "startVerse": 43,
+      "endVerse": 55
+    }
+  ]
 }

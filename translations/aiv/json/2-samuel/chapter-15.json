@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "After this, Absalom prepared for himself a chariot and horses, and fifty men to run before him.",
       "links": "<a href='/AIV/11/1/5'>1 Kings 1:5</a>",
-      "comment": "Absalom's actions here suggest ambition and a desire to display royal authority, hinting at his future attempt to take the throne."
+      "comment": "Absalom's actions here suggest ambition and a desire to display royal authority, hinting at his future attempt to take the throne.",
+      "sectionHeader": "Absalom Wins the Hearts of Israel"
     },
     {
       "pk": 10015002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "After four years, Absalom said to the king, 'Please let me go to Hebron and fulfill a vow I made to the LORD.'",
       "links": "<a href='/AIV/01/13/18'>Gen. 13:18</a>",
-      "comment": "Hebron is a significant location, both as David's first capital and a place of covenant. Absalom uses religious language to mask his intentions."
+      "comment": "Hebron is a significant location, both as David's first capital and a place of covenant. Absalom uses religious language to mask his intentions.",
+      "sectionHeader": "Absalom's Revolt at Hebron"
     },
     {
       "pk": 10015008,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "A messenger came to David, saying, 'The hearts of the men of Israel have gone after Absalom.'",
       "links": "<a href='/AIV/10/19/14'>2Sam 19:14</a>",
-      "comment": "David finds himself rejected by his own, prefiguring the rejection of Christ by His people (<a href='/AIV/19/118/22'>Ps. 118:22</a>, <a href='/AIV/41/12/10'>Mark 12:10</a>)."
+      "comment": "David finds himself rejected by his own, prefiguring the rejection of Christ by His people (<a href='/AIV/19/118/22'>Ps. 118:22</a>, <a href='/AIV/41/12/10'>Mark 12:10</a>).",
+      "sectionHeader": "David Flees from Jerusalem"
     },
     {
       "pk": 10015014,
@@ -230,7 +233,8 @@
       "verse": 19,
       "text": "Then the king said to Ittai the Gittite, 'Why should you also go with us? Go back and stay with the king, for you are a foreigner and also an exile from your own land.'",
       "links": "<a href='/AIV/10/18/2'>2Sam 18:2</a>",
-      "comment": "David’s openness to outsiders reveals a deeper mystery later fulfilled in the Church’s universal outreach."
+      "comment": "David’s openness to outsiders reveals a deeper mystery later fulfilled in the Church’s universal outreach.",
+      "sectionHeader": "Ittai's Loyalty to David"
     },
     {
       "pk": 10015020,
@@ -290,7 +294,8 @@
       "verse": 24,
       "text": "And Zadok came also, and all the Levites with him, carrying the ark of the covenant of God. They set down the ark of God, and Abiathar went up until all the people had finished passing out of the city.",
       "links": "<a href='/AIV/10/6/17'>2Sam 6:17</a>",
-      "comment": "The ark’s presence highlights God’s leadership, prefiguring the perpetual guidance of God’s Holy Spirit among the faithful."
+      "comment": "The ark’s presence highlights God’s leadership, prefiguring the perpetual guidance of God’s Holy Spirit among the faithful.",
+      "sectionHeader": "The Ark Returned to Jerusalem"
     },
     {
       "pk": 10015025,
@@ -362,7 +367,8 @@
       "verse": 30,
       "text": "But David went up the ascent of the Mount of Olives, weeping as he went, with his head covered and barefoot. All the people with him covered their heads, and they went up, weeping as they went.",
       "links": "<a href='/AIV/42/19/37-41'>Luke 19:37-41</a>",
-      "comment": "This journey over the Mount of Olives parallels Christ’s own Passion; both endure rejection and suffering outside Jerusalem."
+      "comment": "This journey over the Mount of Olives parallels Christ’s own Passion; both endure rejection and suffering outside Jerusalem.",
+      "sectionHeader": "David on the Mount of Olives"
     },
     {
       "pk": 10015031,
@@ -386,7 +392,8 @@
       "verse": 32,
       "text": "While David was coming to the summit, where he worshiped God, behold, Hushai the Archite came to meet him, with his coat torn and dirt on his head.",
       "links": "<a href='/AIV/10/17/5-14'>2Sam 17:5-14</a>",
-      "comment": "Worship during tribulation and the solidarity of friends are shown here, a template for perseverance in faith."
+      "comment": "Worship during tribulation and the solidarity of friends are shown here, a template for perseverance in faith.",
+      "sectionHeader": "Hushai Sent as David's Spy"
     },
     {
       "pk": 10015033,
@@ -449,5 +456,42 @@
       "comment": "Hushai’s fidelity to David presents the virtue of faithfulness even in times of danger, prefiguring Christ’s loyal disciples."
     }
   ],
-  "translatedAt": "2025-12-24T03:19:52.908Z"
+  "translatedAt": "2025-12-24T03:19:52.908Z",
+  "sections": [
+    {
+      "title": "Absalom Wins the Hearts of Israel",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Absalom's Revolt at Hebron",
+      "startVerse": 7,
+      "endVerse": 12
+    },
+    {
+      "title": "David Flees from Jerusalem",
+      "startVerse": 13,
+      "endVerse": 18
+    },
+    {
+      "title": "Ittai's Loyalty to David",
+      "startVerse": 19,
+      "endVerse": 23
+    },
+    {
+      "title": "The Ark Returned to Jerusalem",
+      "startVerse": 24,
+      "endVerse": 29
+    },
+    {
+      "title": "David on the Mount of Olives",
+      "startVerse": 30,
+      "endVerse": 31
+    },
+    {
+      "title": "Hushai Sent as David's Spy",
+      "startVerse": 32,
+      "endVerse": 37
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "If a man steals an ox or a sheep, and kills it or sells it, he must repay five oxen for an ox, and four sheep for a sheep.",
       "links": "<a href='/AIV/2/21/37'>Exod 21:37</a>; <a href='/AIV/20/6/30-31'>Prov 6:30-31</a>",
-      "comment": "This verse shows strict justice and restitution for theft. The penalties exceed the value stolen, indicating the seriousness of the crime. The call for restoration can be seen as foreshadowing the principle of satisfaction for sins, a theme that ultimately finds fulfillment in Christ restoring what was lost (Luke 19:8-10)."
+      "comment": "This verse shows strict justice and restitution for theft. The penalties exceed the value stolen, indicating the seriousness of the crime. The call for restoration can be seen as foreshadowing the principle of satisfaction for sins, a theme that ultimately finds fulfillment in Christ restoring what was lost (Luke 19:8-10).",
+      "sectionHeader": "Laws on Theft and Restitution"
     },
     {
       "pk": 2022002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "If a man gives his neighbor money or goods to keep for him, and it is stolen from the man’s house, if the thief is found, he must pay double.",
       "links": "<a href='/AIV/2/22/4'>Exod 22:4</a>",
-      "comment": "Entrusted property involves a special duty. This verse prefigures the importance of faithfulness with what is entrusted, a theme later applied by Jesus to spiritual stewardship (see Luke 19:17)."
+      "comment": "Entrusted property involves a special duty. This verse prefigures the importance of faithfulness with what is entrusted, a theme later applied by Jesus to spiritual stewardship (see Luke 19:17).",
+      "sectionHeader": "Laws on Deposit and Borrowing"
     },
     {
       "pk": 2022008,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "If a man entices a virgin who is not pledged to be married, and sleeps with her, he must pay the bride price for her and make her his wife.",
       "links": "<a href='/AIV/5/22/28-29'>Deut 22:28-29</a>",
-      "comment": "Sexual relations imply commitment and responsibility. This builds the foundation for the biblical view of marriage as both covenantal and communal, seen later in Christ’s teaching (Matt 19:5-6)."
+      "comment": "Sexual relations imply commitment and responsibility. This builds the foundation for the biblical view of marriage as both covenantal and communal, seen later in Christ’s teaching (Matt 19:5-6).",
+      "sectionHeader": "Laws Concerning Seduction"
     },
     {
       "pk": 2022017,
@@ -218,7 +221,8 @@
       "verse": 18,
       "text": "You shall not allow a sorceress to live.",
       "links": "<a href='/AIV/5/18/10-12'>Deut 18:10-12</a>; <a href='/AIV/9/28/7'>1 Sam 28:7</a>",
-      "comment": "Occult practices were absolute rejections of God’s sovereignty. The severity shows God’s desire for spiritual purity. In Christian tradition, refusal to seek power apart from God anticipates Christ’s total victory over evil (Col 2:15)."
+      "comment": "Occult practices were absolute rejections of God’s sovereignty. The severity shows God’s desire for spiritual purity. In Christian tradition, refusal to seek power apart from God anticipates Christ’s total victory over evil (Col 2:15).",
+      "sectionHeader": "Various Laws"
     },
     {
       "pk": 2022019,
@@ -377,5 +381,27 @@
       "comment": "God calls His people to be set apart—holy. Dietary laws shaped their identity. In Christ, all are called to holiness and spiritual purity (1 Pet 1:15-16)."
     }
   ],
-  "translatedAt": "2025-12-24T00:58:48.821Z"
+  "translatedAt": "2025-12-24T00:58:48.821Z",
+  "sections": [
+    {
+      "title": "Laws on Theft and Restitution",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Laws on Deposit and Borrowing",
+      "startVerse": 7,
+      "endVerse": 15
+    },
+    {
+      "title": "Laws Concerning Seduction",
+      "startVerse": 16,
+      "endVerse": 17
+    },
+    {
+      "title": "Various Laws",
+      "startVerse": 18,
+      "endVerse": 31
+    }
+  ]
 }

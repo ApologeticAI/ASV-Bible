@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The LORD answered Job and said:",
       "links": "<a href='/AIV/22/38/1'>Job 38:1</a>; <a href='/AIV/22/39/1'>Job 39:1</a>",
-      "comment": "This verse marks the continuation of God's direct speech to Job (see Job 38:1). The LORD's reply continues a pattern in Scripture where God is the initiator of covenant dialogue with His people."
+      "comment": "This verse marks the continuation of God's direct speech to Job (see Job 38:1). The LORD's reply continues a pattern in Scripture where God is the initiator of covenant dialogue with His people.",
+      "sectionHeader": "The LORD Challenges Job"
     },
     {
       "pk": 22040002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "Then Job answered the LORD and said:",
       "links": "<a href='/AIV/22/42/1'>Job 42:1</a>",
-      "comment": "Job's reply shows his humility before God's infinitely higher wisdom. This dialogue sets up Job's eventual repentance (see Job 42:1-6)."
+      "comment": "Job's reply shows his humility before God's infinitely higher wisdom. This dialogue sets up Job's eventual repentance (see Job 42:1-6).",
+      "sectionHeader": "Job’s Humble Response"
     },
     {
       "pk": 22040004,
@@ -74,7 +76,8 @@
       "verse": 6,
       "text": "Then the LORD answered Job out of the whirlwind and said:",
       "links": "<a href='/AIV/22/38/1'>Job 38:1</a>; <a href='/AIV/12/2/1'>2 Kings 2:1</a>",
-      "comment": "God's speaking 'from the whirlwind' recalls many Old Testament theophanies. The presence within the whirlwind signifies God's transcendence and power."
+      "comment": "God's speaking 'from the whirlwind' recalls many Old Testament theophanies. The presence within the whirlwind signifies God's transcendence and power.",
+      "sectionHeader": "God’s Second Speech: The Power of the Almighty"
     },
     {
       "pk": 22040007,
@@ -182,7 +185,8 @@
       "verse": 15,
       "text": "\"Look now at Behemoth, which I made as I made you; he eats grass like an ox.\"",
       "links": "<a href='/AIV/01/1/24'>Gen. 1:24</a>; <a href='/AIV/22/39/9-12'>Job 39:9-12</a>",
-      "comment": "The LORD points Job to a mighty creature—Behemoth, a visible sign of God's creative power. The text emphasizes a literal, historical creation."
+      "comment": "The LORD points Job to a mighty creature—Behemoth, a visible sign of God's creative power. The text emphasizes a literal, historical creation.",
+      "sectionHeader": "The Majesty of Behemoth"
     },
     {
       "pk": 22040016,
@@ -293,5 +297,27 @@
       "comment": "The rhetorical question emphasizes human limitation in the face of God’s wondrous, untamable works. This prepares the way for a humble faith that trusts God's authority and His mysterious wisdom—an important step for participation in Christ, who is the wisdom and power of God (1 Cor. 1:24)."
     }
   ],
-  "translatedAt": "2025-12-24T05:58:05.570Z"
+  "translatedAt": "2025-12-24T05:58:05.570Z",
+  "sections": [
+    {
+      "title": "The LORD Challenges Job",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "Job’s Humble Response",
+      "startVerse": 3,
+      "endVerse": 5
+    },
+    {
+      "title": "God’s Second Speech: The Power of the Almighty",
+      "startVerse": 6,
+      "endVerse": 14
+    },
+    {
+      "title": "The Majesty of Behemoth",
+      "startVerse": 15,
+      "endVerse": 24
+    }
+  ]
 }

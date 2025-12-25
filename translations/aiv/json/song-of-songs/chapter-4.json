@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "See, you are beautiful, my love; you are beautiful! Your eyes are like doves behind your veil. Your hair is like a flock of goats streaming down from Mount Gilead.",
       "links": "<a href='/AIV/19/68/15'>Ps. 68:15</a>; <a href='/AIV/22/1/15'>Song 1:15</a>",
-      "comment": "The imagery of doves and the veil represents purity and mystery, reflecting both human love and the hidden beauty of the soul seeking God. The poetic comparison to goats descending Mount Gilead draws on pastoral imagery familiar in ancient Israel."
+      "comment": "The imagery of doves and the veil represents purity and mystery, reflecting both human love and the hidden beauty of the soul seeking God. The poetic comparison to goats descending Mount Gilead draws on pastoral imagery familiar in ancient Israel.",
+      "sectionHeader": "The Bridegroom Praises the Bride's Beauty"
     },
     {
       "pk": 26004002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Come with me from Lebanon, my bride, come with me from Lebanon. Depart from the peak of Amana, from the peak of Senir and Hermon, from the dens of lions, from the mountains of leopards.",
       "links": "<a href='/AIV/22/5/1'>Song 5:1</a>; <a href='/AIV/10/23/3'>2 Sam. 23:3</a>",
-      "comment": "Invitation to leave dangerous places suggests leaving behind worldly dangers to embrace union with the beloved. 'Bride' here is a profound image of covenant—echoing the relationship between God and his people, ultimately fulfilled in the one, visible apostolic Church."
+      "comment": "Invitation to leave dangerous places suggests leaving behind worldly dangers to embrace union with the beloved. 'Bride' here is a profound image of covenant—echoing the relationship between God and his people, ultimately fulfilled in the one, visible apostolic Church.",
+      "sectionHeader": "Invitation to the Bride"
     },
     {
       "pk": 26004009,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "A garden locked is my sister, my bride, a spring locked, a fountain sealed.",
       "links": "<a href='/AIV/22/4/15'>Song 4:15</a>; <a href='/AIV/22/8/10'>Song 8:10</a>",
-      "comment": "A sealed garden conveys exclusivity, sanctity, and purity—often understood as referring to the spiritual purity and sacramental life of the faithful, reserved wholly for divine fellowship."
+      "comment": "A sealed garden conveys exclusivity, sanctity, and purity—often understood as referring to the spiritual purity and sacramental life of the faithful, reserved wholly for divine fellowship.",
+      "sectionHeader": "The Bride Compared to a Locked Garden"
     },
     {
       "pk": 26004013,
@@ -194,8 +197,31 @@
       "verse": 16,
       "text": "Awake, north wind, and come, south wind! Blow upon my garden, let its spices flow. Let my beloved come to his garden, and eat its choicest fruits.",
       "links": "<a href='/AIV/22/2/3'>Song 2:3</a>; <a href='/AIV/19/67/6'>Ps. 67:6</a>",
-      "comment": "The call for winds to awaken the garden symbolizes the action of the Spirit stirring the soul. The union between the beloved and the garden portrays profound communion, both individually and corporately within the Church as the mystical body of Christ, drawing believers into deeper sacramental life and spiritual intimacy."
+      "comment": "The call for winds to awaken the garden symbolizes the action of the Spirit stirring the soul. The union between the beloved and the garden portrays profound communion, both individually and corporately within the Church as the mystical body of Christ, drawing believers into deeper sacramental life and spiritual intimacy.",
+      "sectionHeader": "The Bride Invites the Bridegroom"
     }
   ],
-  "translatedAt": "2025-12-24T07:13:06.525Z"
+  "translatedAt": "2025-12-24T07:13:06.525Z",
+  "sections": [
+    {
+      "title": "The Bridegroom Praises the Bride's Beauty",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Invitation to the Bride",
+      "startVerse": 8,
+      "endVerse": 11
+    },
+    {
+      "title": "The Bride Compared to a Locked Garden",
+      "startVerse": 12,
+      "endVerse": 15
+    },
+    {
+      "title": "The Bride Invites the Bridegroom",
+      "startVerse": 16,
+      "endVerse": 16
+    }
+  ]
 }

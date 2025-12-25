@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Hear us, Shepherd of Israel, you who lead Joseph like a flock; you who sit enthroned between the cherubim, shine forth.",
       "links": "<a href='/AIV/18/1/6'>Job 1:6</a>; <a href='/AIV/19/99/1'>Ps. 99:1</a>; <a href='/AIV/02/25/22'>Ex. 25:22</a>",
-      "comment": "This verse appeals to God as the Shepherd, an image tied to both the leadership of Israel and, christologically, to Jesus as the Good Shepherd (John 10:11). The one enthroned between the cherubim points to God’s dwelling in the Holy of Holies, anticipating the future manifestation of His presence in Jesus."
+      "comment": "This verse appeals to God as the Shepherd, an image tied to both the leadership of Israel and, christologically, to Jesus as the Good Shepherd (John 10:11). The one enthroned between the cherubim points to God’s dwelling in the Holy of Holies, anticipating the future manifestation of His presence in Jesus.",
+      "sectionHeader": "Prayer for Restoration and Deliverance"
     },
     {
       "pk": 23080002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "You brought a vine out of Egypt; you drove out the nations and planted it.",
       "links": "<a href='/AIV/02/15/17'>Ex. 15:17</a>; <a href='/AIV/23/5/1-7'>Isa. 5:1-7</a>; <a href='/AIV/19/44/2'>Ps. 44:2</a>",
-      "comment": "The vine symbolizes Israel, transplanted and nurtured by God. In the New Testament, Jesus refers to Himself as the true Vine (John 15:1), fulfilling the imagery of God’s people united in Him."
+      "comment": "The vine symbolizes Israel, transplanted and nurtured by God. In the New Testament, Jesus refers to Himself as the true Vine (John 15:1), fulfilling the imagery of God’s people united in Him.",
+      "sectionHeader": "The Parable of the Vine and Israel’s Ruin"
     },
     {
       "pk": 23080009,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "Return, O God of Hosts; look down from heaven and see, and care for this vine,",
       "links": "<a href='/AIV/19/14/2'>Ps. 14:2</a>; <a href='/AIV/19/33/13-14'>Ps. 33:13-14</a>",
-      "comment": "The prayer calls God to restore and tend His people, prefiguring Christ’s role as the divine caretaker and mediator."
+      "comment": "The prayer calls God to restore and tend His people, prefiguring Christ’s role as the divine caretaker and mediator.",
+      "sectionHeader": "Plea for God’s Favor and Mercy"
     },
     {
       "pk": 23080015,
@@ -233,5 +236,22 @@
       "comment": "The psalm closes with a plea for God’s saving presence, echoing themes of restoration and grace. The repeated invocation emphasizes communal intercession, a core principle of the apostolic faith and the lived experience of the ancient Church."
     }
   ],
-  "translatedAt": "2025-12-24T06:27:37.456Z"
+  "translatedAt": "2025-12-24T06:27:37.456Z",
+  "sections": [
+    {
+      "title": "Prayer for Restoration and Deliverance",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "The Parable of the Vine and Israel’s Ruin",
+      "startVerse": 8,
+      "endVerse": 13
+    },
+    {
+      "title": "Plea for God’s Favor and Mercy",
+      "startVerse": 14,
+      "endVerse": 19
+    }
+  ]
 }

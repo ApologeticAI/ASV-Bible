@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "How lovely are your dwelling places, LORD of hosts!",
       "links": "<a href='/AIV/23/27/4'>Ps. 27:4</a>; <a href='/AIV/23/46/4'>Ps. 46:4</a>",
-      "comment": "The psalmist expresses desire for God's presence, focusing on His 'dwelling places'—a theme often connected to the tabernacle or temple, foreshadowing the fullness of worship fulfilled in Christ."
+      "comment": "The psalmist expresses desire for God's presence, focusing on His 'dwelling places'—a theme often connected to the tabernacle or temple, foreshadowing the fullness of worship fulfilled in Christ.",
+      "sectionHeader": "Longing for the House of the Lord"
     },
     {
       "pk": 23084002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "Blessed is the man whose strength is in you, whose heart is set on pilgrimage.",
       "links": "<a href='/AIV/23/28/7'>Ps. 28:7</a>; <a href='/AIV/23/119/1-2'>Ps. 119:1-2</a>",
-      "comment": "The pilgrimage reflects the journey toward God, both literal and spiritual. Dependence on God's strength sets true worship in motion—a foretaste of the spiritual journey toward the heavenly sanctuary."
+      "comment": "The pilgrimage reflects the journey toward God, both literal and spiritual. Dependence on God's strength sets true worship in motion—a foretaste of the spiritual journey toward the heavenly sanctuary.",
+      "sectionHeader": "Blessedness of Those Who Trust in God"
     },
     {
       "pk": 23084006,
@@ -98,7 +100,8 @@
       "verse": 8,
       "text": "LORD God of hosts, listen to my prayer; give ear, O God of Jacob! Selah.",
       "links": "<a href='/AIV/23/59/5'>Ps. 59:5</a>; <a href='/AIV/23/80/1'>Ps. 80:1</a>",
-      "comment": "A prayer for God's attentive ear, invoking the ancestral God of Jacob. This emphasizes continuity of faith from the patriarchs to the worship of the community."
+      "comment": "A prayer for God's attentive ear, invoking the ancestral God of Jacob. This emphasizes continuity of faith from the patriarchs to the worship of the community.",
+      "sectionHeader": "Prayer for God’s Favor"
     },
     {
       "pk": 23084009,
@@ -149,5 +152,22 @@
       "comment": "The Psalm ends by highlighting the blessing of faith—trust in God brings true happiness, drawing believers into deeper fellowship with God, which forms the foundation of both prayer and the entire spiritual life."
     }
   ],
-  "translatedAt": "2025-12-24T06:29:00.741Z"
+  "translatedAt": "2025-12-24T06:29:00.741Z",
+  "sections": [
+    {
+      "title": "Longing for the House of the Lord",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "Blessedness of Those Who Trust in God",
+      "startVerse": 5,
+      "endVerse": 7
+    },
+    {
+      "title": "Prayer for God’s Favor",
+      "startVerse": 8,
+      "endVerse": 12
+    }
+  ]
 }

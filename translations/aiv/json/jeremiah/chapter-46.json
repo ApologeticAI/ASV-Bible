@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The word of the Lord that came to Jeremiah the prophet concerning the nations:",
       "links": "<a href='/AIV/24/1/5'>Jeremiah 1:5</a>; <a href='/AIV/24/25/15'>Jeremiah 25:15</a>",
-      "comment": "This introduction marks a new section focused on prophecies about foreign nations. Jeremiah is emphasized as God’s chosen instrument, a reminder of God’s sovereign ability to speak to and judge all peoples, not just Israel."
+      "comment": "This introduction marks a new section focused on prophecies about foreign nations. Jeremiah is emphasized as God’s chosen instrument, a reminder of God’s sovereign ability to speak to and judge all peoples, not just Israel.",
+      "sectionHeader": "Prophecy Against Egypt: Defeat at Carchemish"
     },
     {
       "pk": 30046002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "The word that the Lord spoke to Jeremiah the prophet about Babylon's coming to strike the land of Egypt:",
       "links": "<a href='/AIV/24/43/10'>Jeremiah 43:10</a>",
-      "comment": "New oracle—Babylon’s attack on Egypt is prophesied. God’s sovereignty extends over Gentile nations, laying the groundwork for the inclusion of all peoples in salvation history."
+      "comment": "New oracle—Babylon’s attack on Egypt is prophesied. God’s sovereignty extends over Gentile nations, laying the groundwork for the inclusion of all peoples in salvation history.",
+      "sectionHeader": "Babylon's Invasion of Egypt"
     },
     {
       "pk": 30046014,
@@ -326,7 +328,8 @@
       "verse": 27,
       "text": "\"But do not fear, Jacob my servant, nor be dismayed, O Israel; for behold, I will save you from afar, and your descendants from the land of their captivity. Jacob shall return and have quiet and ease, and no one shall make him afraid.",
       "links": "<a href='/AIV/24/30/10'>Jeremiah 30:10</a>; <a href='/AIV/26/39/25-28'>Ezekiel 39:25-28</a>",
-      "comment": "Promise to God’s chosen remnant, showing He preserves His people for His purpose. Parallels with Christ’s promise of peace and return from exile—seen ultimately in the Church."
+      "comment": "Promise to God’s chosen remnant, showing He preserves His people for His purpose. Parallels with Christ’s promise of peace and return from exile—seen ultimately in the Church.",
+      "sectionHeader": "Promise of Restoration for Israel"
     },
     {
       "pk": 30046028,
@@ -341,5 +344,22 @@
       "comment": "Displays God’s justice and mercy together—discipline is not abandonment. God’s loving correction points forward to Christ, who fulfills both judgment and salvation (Hebrews 12:6)."
     }
   ],
-  "translatedAt": "2025-12-24T08:46:46.383Z"
+  "translatedAt": "2025-12-24T08:46:46.383Z",
+  "sections": [
+    {
+      "title": "Prophecy Against Egypt: Defeat at Carchemish",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "Babylon's Invasion of Egypt",
+      "startVerse": 13,
+      "endVerse": 26
+    },
+    {
+      "title": "Promise of Restoration for Israel",
+      "startVerse": 27,
+      "endVerse": 28
+    }
+  ]
 }

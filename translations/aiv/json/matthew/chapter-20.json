@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "For the kingdom of heaven is like a landowner who went out early in the morning to hire workers for his vineyard.",
       "links": "<a href='/AIV/23/5/1-7'>Isa. 5:1-7</a>; <a href='/AIV/40/13/24'>Matt. 13:24</a>",
-      "comment": "Jesus uses the imagery of a vineyard, echoing Isaiah 5:1-7, to describe God's kingdom. The landowner represents God, who initiates salvation and calls laborers at His own initiative."
+      "comment": "Jesus uses the imagery of a vineyard, echoing Isaiah 5:1-7, to describe God's kingdom. The landowner represents God, who initiates salvation and calls laborers at His own initiative.",
+      "sectionHeader": "Parable of the Workers in the Vineyard"
     },
     {
       "pk": 47020002,
@@ -206,7 +207,8 @@
       "verse": 17,
       "text": "As Jesus was going up to Jerusalem, He took the twelve aside privately and said to them on the way,",
       "links": "<a href='/AIV/41/10/32-34'>Mark 10:32-34</a>; <a href='/AIV/42/18/31-33'>Luke 18:31-33</a>",
-      "comment": "The journey to Jerusalem marks a turning point where Jesus reveals His redemptive mission to the Apostles."
+      "comment": "The journey to Jerusalem marks a turning point where Jesus reveals His redemptive mission to the Apostles.",
+      "sectionHeader": "Third Prediction of the Passion"
     },
     {
       "pk": 47020018,
@@ -242,7 +244,8 @@
       "verse": 20,
       "text": "Then the mother of the sons of Zebedee came to Him with her sons, kneeling before Him and asking something from Him.",
       "links": "<a href='/AIV/41/10/35'>Mark 10:35</a>",
-      "comment": "The mother’s reverent posture (kneeling) before Jesus implicitly recognizes His authority and divinity."
+      "comment": "The mother’s reverent posture (kneeling) before Jesus implicitly recognizes His authority and divinity.",
+      "sectionHeader": "The Request of the Mother of James and John"
     },
     {
       "pk": 47020021,
@@ -350,7 +353,8 @@
       "verse": 29,
       "text": "As they went out from Jericho, a great crowd followed Him.",
       "links": "<a href='/AIV/41/10/46'>Mark 10:46</a>; <a href='/AIV/42/18/35'>Luke 18:35</a>",
-      "comment": "Jericho is close to Jerusalem, marking the final approach before Jesus’ passion."
+      "comment": "Jericho is close to Jerusalem, marking the final approach before Jesus’ passion.",
+      "sectionHeader": "Healing of Two Blind Men"
     },
     {
       "pk": 47020030,
@@ -413,5 +417,27 @@
       "comment": "The miracle demonstrates both Jesus’ compassion and divine power. The response of the formerly blind men is to follow Jesus, symbolizing the journey from spiritual blindness to discipleship."
     }
   ],
-  "translatedAt": "2025-12-24T10:13:38.129Z"
+  "translatedAt": "2025-12-24T10:13:38.129Z",
+  "sections": [
+    {
+      "title": "Parable of the Workers in the Vineyard",
+      "startVerse": 1,
+      "endVerse": 16
+    },
+    {
+      "title": "Third Prediction of the Passion",
+      "startVerse": 17,
+      "endVerse": 19
+    },
+    {
+      "title": "The Request of the Mother of James and John",
+      "startVerse": 20,
+      "endVerse": 28
+    },
+    {
+      "title": "Healing of Two Blind Men",
+      "startVerse": 29,
+      "endVerse": 34
+    }
+  ]
 }

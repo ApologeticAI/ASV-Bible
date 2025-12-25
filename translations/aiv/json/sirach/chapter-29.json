@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "He who shows mercy lends to his neighbor, and he who supports him with a helping hand keeps the commandments.",
       "links": "<a href='/AIV/5/15/7-8'>Deut. 15:7-8</a>; <a href='/AIV/40/25/35-40'>Matt. 25:35-40</a>",
-      "comment": "This verse connects the act of lending and mercy directly to obedience to God’s law, showing practical love. The emphasis on works highlights a holistic approach to faith and charity."
+      "comment": "This verse connects the act of lending and mercy directly to obedience to God’s law, showing practical love. The emphasis on works highlights a holistic approach to faith and charity.",
+      "sectionHeader": "The Virtue of Lending and Repaying Debts"
     },
     {
       "pk": 28029002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "Spend your treasure according to the commandments of the Most High, and it will yield you more profit than gold.",
       "links": "<a href='/AIV/19/19/9-10'>Ps. 19:9-10</a>",
-      "comment": "Faithfully following divine law in the use of resources is blessed with spiritual reward, valuing God’s will over material gain."
+      "comment": "Faithfully following divine law in the use of resources is blessed with spiritual reward, valuing God’s will over material gain.",
+      "sectionHeader": "Almsgiving and Its Reward"
     },
     {
       "pk": 28029013,
@@ -302,7 +304,8 @@
       "verse": 25,
       "text": "Better to live with little in peace than to depend on others and wander as a beggar.",
       "links": "<a href='/AIV/19/37/16'>Ps. 37:16</a>",
-      "comment": "Spiritual contentment prioritizes peace over abundance. A subtle reference to humility and reliance on God’s provision."
+      "comment": "Spiritual contentment prioritizes peace over abundance. A subtle reference to humility and reliance on God’s provision.",
+      "sectionHeader": "The Wisdom of Living Within Your Means"
     },
     {
       "pk": 28029026,
@@ -341,5 +344,22 @@
       "comment": "Concludes with a warning about the insecurity of debt—true hope and dignity come from trust in God and practical wisdom."
     }
   ],
-  "translatedAt": "2025-12-24T07:38:29.901Z"
+  "translatedAt": "2025-12-24T07:38:29.901Z",
+  "sections": [
+    {
+      "title": "The Virtue of Lending and Repaying Debts",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "Almsgiving and Its Reward",
+      "startVerse": 12,
+      "endVerse": 24
+    },
+    {
+      "title": "The Wisdom of Living Within Your Means",
+      "startVerse": 25,
+      "endVerse": 28
+    }
+  ]
 }

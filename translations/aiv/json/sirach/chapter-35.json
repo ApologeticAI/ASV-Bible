@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "One who keeps the law offers many sacrifices;",
       "links": "<a href='/AIV/3/1/2-3'>Lev. 1:2-3</a>; <a href='/AIV/1/15/22'>1 Sam. 15:22</a>",
-      "comment": "Sirach begins by emphasizing that obedience to God's commandments is as precious as making a multitude of sacrifices. This foreshadows Jesus' teaching on internal obedience over external ritual (see Matt. 9:13; Heb. 10:8-9)."
+      "comment": "Sirach begins by emphasizing that obedience to God's commandments is as precious as making a multitude of sacrifices. This foreshadows Jesus' teaching on internal obedience over external ritual (see Matt. 9:13; Heb. 10:8-9).",
+      "sectionHeader": "True Worship and Sacrifice"
     },
     {
       "pk": 28035002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "He will not show partiality against the poor, but he listens to the prayer of the oppressed.",
       "links": "<a href='/AIV/19/34/6'>Ps. 34:6</a>; <a href='/AIV/59/2/5'>James 2:5</a>",
-      "comment": "God’s particular care for the poor foreshadows Jesus’ own preferential concern for the marginalized (Luke 4:18; 6:20)."
+      "comment": "God’s particular care for the poor foreshadows Jesus’ own preferential concern for the marginalized (Luke 4:18; 6:20).",
+      "sectionHeader": "God's Justice Toward the Oppressed"
     },
     {
       "pk": 28035016,
@@ -317,5 +319,17 @@
       "comment": "The chapter closes by again stressing God’s hearing of the afflicted, urging constant works of charity, mercy, and justice. In the Christian era, this takes fuller shape in the community’s shared life, prayer, and service—means by which grace and mercy reach the world."
     }
   ],
-  "translatedAt": "2025-12-24T07:42:05.517Z"
+  "translatedAt": "2025-12-24T07:42:05.517Z",
+  "sections": [
+    {
+      "title": "True Worship and Sacrifice",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "God's Justice Toward the Oppressed",
+      "startVerse": 15,
+      "endVerse": 26
+    }
+  ]
 }

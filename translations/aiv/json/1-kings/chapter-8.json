@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then Solomon assembled the elders of Israel, all the heads of the tribes, the leaders of the ancestral houses of the Israelites, before himself in Jerusalem, to bring up the ark of the covenant of the LORD from the city of David, which is Zion.",
       "links": "<a href='/AIV/10/6/17'>2 Sam. 6:17</a>; <a href='/AIV/13/15/3-28'>1 Chron. 15:3-28</a>",
-      "comment": "The beginning of the chapter focuses on the solemn gathering of Israel’s leaders for the ark’s transfer. This prefigures moments of unity and sacred assembly later seen in the Church’s history, where leaders gather for solemn rites."
+      "comment": "The beginning of the chapter focuses on the solemn gathering of Israel’s leaders for the ark’s transfer. This prefigures moments of unity and sacred assembly later seen in the Church’s history, where leaders gather for solemn rites.",
+      "sectionHeader": "The Ark Brought to the Temple"
     },
     {
       "pk": 11008002,
@@ -170,7 +171,8 @@
       "verse": 14,
       "text": "Then the king turned around and blessed all the assembly of Israel, while all the assembly of Israel stood.",
       "links": "<a href='/AIV/1/27/27'>Gen. 27:27</a>; <a href='/AIV/14/6/3'>2 Chron. 6:3</a>",
-      "comment": "Kingly blessings anticipate Christ’s priestly and royal role to bless His people (cf. Heb. 7:1)."
+      "comment": "Kingly blessings anticipate Christ’s priestly and royal role to bless His people (cf. Heb. 7:1).",
+      "sectionHeader": "Solomon Blesses the People"
     },
     {
       "pk": 11008015,
@@ -266,7 +268,8 @@
       "verse": 22,
       "text": "Then Solomon stood before the altar of the LORD in the presence of all the assembly of Israel and spread out his hands toward heaven.",
       "links": "<a href='/AIV/14/6/12'>2 Chron. 6:12</a>",
-      "comment": "Solomon’s posture of prayer exemplifies intercessory prayer in the presence of God, setting precedent for liturgical prayer in communal worship."
+      "comment": "Solomon’s posture of prayer exemplifies intercessory prayer in the presence of God, setting precedent for liturgical prayer in communal worship.",
+      "sectionHeader": "Solomon’s Prayer of Dedication"
     },
     {
       "pk": 11008023,
@@ -650,7 +653,8 @@
       "verse": 54,
       "text": "When Solomon finished praying all this prayer and plea to the LORD, he arose from before the altar of the LORD, where he had knelt with hands spread out toward heaven.",
       "links": "<a href='/AIV/19/28/2'>Ps. 28:2</a>",
-      "comment": "Solomon’s kneeling posture sets a precedent for humility and reverence in formal worship, a key posture in many worship traditions."
+      "comment": "Solomon’s kneeling posture sets a precedent for humility and reverence in formal worship, a key posture in many worship traditions.",
+      "sectionHeader": "Solomon’s Blessing after the Prayer"
     },
     {
       "pk": 11008055,
@@ -746,7 +750,8 @@
       "verse": 62,
       "text": "Then the king and all Israel with him offered sacrifices before the LORD.",
       "links": "<a href='/AIV/14/7/4'>2 Chron. 7:4</a>",
-      "comment": "Sacrificial offerings in abundance foreshadow the total self-giving later taught by Christ."
+      "comment": "Sacrificial offerings in abundance foreshadow the total self-giving later taught by Christ.",
+      "sectionHeader": "The Dedication Sacrifices and the Feast"
     },
     {
       "pk": 11008063,
@@ -797,5 +802,32 @@
       "comment": "The people’s joy and blessing conclude the account; celebrating after worship demonstrates the real effects of God’s goodness, shaping communal life. Note how the visible unity of worship and leaders prefigures the later apostolic gatherings."
     }
   ],
-  "translatedAt": "2025-12-24T03:32:47.616Z"
+  "translatedAt": "2025-12-24T03:32:47.616Z",
+  "sections": [
+    {
+      "title": "The Ark Brought to the Temple",
+      "startVerse": 1,
+      "endVerse": 13
+    },
+    {
+      "title": "Solomon Blesses the People",
+      "startVerse": 14,
+      "endVerse": 21
+    },
+    {
+      "title": "Solomon’s Prayer of Dedication",
+      "startVerse": 22,
+      "endVerse": 53
+    },
+    {
+      "title": "Solomon’s Blessing after the Prayer",
+      "startVerse": 54,
+      "endVerse": 61
+    },
+    {
+      "title": "The Dedication Sacrifices and the Feast",
+      "startVerse": 62,
+      "endVerse": 66
+    }
+  ]
 }

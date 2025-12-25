@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then David fled from Naioth in Ramah and came to Jonathan. He said, \"What have I done? What is my guilt? What sin have I committed against your father, that he wants to take my life?\"",
       "links": "<a href='/AIV/9/19/18'>1Sam 19:18</a>; <a href='/AIV/19/59/3'>Ps. 59:3</a>",
-      "comment": "David appeals to Jonathan, expressing his innocence and confusion at Saul’s hostility. This reflects the motif of the innocent suffering unjustly, prefiguring Christ's innocence before His accusers (see <a href='/AIV/40/27/23'>Matt. 27:23</a>)."
+      "comment": "David appeals to Jonathan, expressing his innocence and confusion at Saul’s hostility. This reflects the motif of the innocent suffering unjustly, prefiguring Christ's innocence before His accusers (see <a href='/AIV/40/27/23'>Matt. 27:23</a>).",
+      "sectionHeader": "David and Jonathan Devise a Plan to Test Saul"
     },
     {
       "pk": 9020002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "Jonathan said to David, \"By the Lord, the God of Israel, I will sound out my father about this time tomorrow. If he is well disposed toward you, will I not then send word to you and disclose it to you?\"",
       "links": "<a href='/AIV/9/20/7'>1Sam 20:7</a>",
-      "comment": "Jonathan invokes a divine oath, expressing the seriousness of his commitment. This points to the sacredness of covenants and sworn promises, essential in biblical theology."
+      "comment": "Jonathan invokes a divine oath, expressing the seriousness of his commitment. This points to the sacredness of covenants and sworn promises, essential in biblical theology.",
+      "sectionHeader": "Jonathan’s Covenant with David"
     },
     {
       "pk": 9020013,
@@ -290,7 +292,8 @@
       "verse": 24,
       "text": "So David hid in the field; and when the New Moon came, the king sat down to eat the meal.",
       "links": "<a href='/AIV/9/20/5'>1Sam 20:5</a>; <a href='/AIV/9/20/18'>1Sam 20:18</a>",
-      "comment": "David’s absence from the king’s table can be read as symbolic exclusion from the holy feast, underscoring but prefiguring exclusion and restoration found in salvation history."
+      "comment": "David’s absence from the king’s table can be read as symbolic exclusion from the holy feast, underscoring but prefiguring exclusion and restoration found in salvation history.",
+      "sectionHeader": "David Absent from Saul’s Table"
     },
     {
       "pk": 9020025,
@@ -422,7 +425,8 @@
       "verse": 35,
       "text": "In the morning, Jonathan went out into the field at the time appointed with David, and a little boy was with him.",
       "links": "<a href='/AIV/9/20/19'>1Sam 20:19</a>",
-      "comment": "Jonathan keeps his word, emphasizing the virtue of fidelity even amid hardship—an echo of Christ’s faithfulness."
+      "comment": "Jonathan keeps his word, emphasizing the virtue of fidelity even amid hardship—an echo of Christ’s faithfulness.",
+      "sectionHeader": "Jonathan Warns David"
     },
     {
       "pk": 9020036,
@@ -494,7 +498,8 @@
       "verse": 41,
       "text": "After the boy had gone, David rose from the south side, fell on his face to the ground, and bowed three times. They kissed each other and wept together, but David wept the more.",
       "links": "<a href='/AIV/10/1/12'>2Sam 1:12</a>; <a href='/AIV/9/18/1'>1Sam 18:1</a>",
-      "comment": "David bows three times, a sign of deep respect and submission. The mutual weeping shows genuine love and grief, a vivid model for Christian friendship and holy sorrow."
+      "comment": "David bows three times, a sign of deep respect and submission. The mutual weeping shows genuine love and grief, a vivid model for Christian friendship and holy sorrow.",
+      "sectionHeader": "The Farewell of David and Jonathan"
     },
     {
       "pk": 9020042,
@@ -509,5 +514,32 @@
       "comment": "Their oath invokes the Lord’s perpetual witness over generations, quietly pointing to the unbroken faith that marks God’s people and how the continuity of such covenants prefigures the lasting unity of the Church."
     }
   ],
-  "translatedAt": "2025-12-24T03:00:50.114Z"
+  "translatedAt": "2025-12-24T03:00:50.114Z",
+  "sections": [
+    {
+      "title": "David and Jonathan Devise a Plan to Test Saul",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "Jonathan’s Covenant with David",
+      "startVerse": 12,
+      "endVerse": 23
+    },
+    {
+      "title": "David Absent from Saul’s Table",
+      "startVerse": 24,
+      "endVerse": 34
+    },
+    {
+      "title": "Jonathan Warns David",
+      "startVerse": 35,
+      "endVerse": 40
+    },
+    {
+      "title": "The Farewell of David and Jonathan",
+      "startVerse": 41,
+      "endVerse": 42
+    }
+  ]
 }

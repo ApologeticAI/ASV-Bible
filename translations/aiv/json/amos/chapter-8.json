@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "This is what the Lord GOD showed me: behold, a basket of ripe summer fruit.",
       "links": "<a href='/AIV/37/7/1'>Amos 7:1</a>; <a href='/AIV/24/24/2'>Jer. 24:2</a>",
-      "comment": "The imagery of the basket of fruit symbolizes the imminent end—just as summer fruit is ready to be consumed, Israel is ripe for judgment. The use of 'showed me' continues the visionary pattern from previous chapters."
+      "comment": "The imagery of the basket of fruit symbolizes the imminent end—just as summer fruit is ready to be consumed, Israel is ripe for judgment. The use of 'showed me' continues the visionary pattern from previous chapters.",
+      "sectionHeader": "The Vision of the Basket of Summer Fruit"
     },
     {
       "pk": 37008002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "Hear this, you who trample on the needy and bring ruin to the poor of the land:",
       "links": "<a href='/AIV/37/2/6-7'>Amos 2:6-7</a>; <a href='/AIV/20/22/22-23'>Prov. 22:22-23</a>",
-      "comment": "This verse brings out God’s concern for social justice, which is a recurring theme prophetically and in apostolic teaching. The condemnation of economic oppression points toward the principle of mercy and care found throughout Scripture."
+      "comment": "This verse brings out God’s concern for social justice, which is a recurring theme prophetically and in apostolic teaching. The condemnation of economic oppression points toward the principle of mercy and care found throughout Scripture.",
+      "sectionHeader": "The Oppression of the Poor and Dishonest Traders"
     },
     {
       "pk": 37008005,
@@ -110,7 +112,8 @@
       "verse": 9,
       "text": "'And on that day,' declares the Lord GOD, 'I will make the sun go down at noon and darken the earth in broad daylight.'",
       "links": "<a href='/AIV/02/10/22'>Exod. 10:22</a>; <a href='/AIV/40/27/45'>Matt. 27:45</a>",
-      "comment": "A supernatural darkness in broad daylight links directly to the darkness at Christ's crucifixion (Matt. 27:45): a sign of judgment and fulfillment of prophecy. This verse allows for both literal and typological readings pointing to God's sovereignty."
+      "comment": "A supernatural darkness in broad daylight links directly to the darkness at Christ's crucifixion (Matt. 27:45): a sign of judgment and fulfillment of prophecy. This verse allows for both literal and typological readings pointing to God's sovereignty.",
+      "sectionHeader": "The Coming Day of Mourning and Darkness"
     },
     {
       "pk": 37008010,
@@ -134,7 +137,8 @@
       "verse": 11,
       "text": "'Behold, the days are coming,' declares the Lord GOD, 'when I will send a famine on the land—not a famine of bread, nor a thirst for water, but of hearing the words of the LORD.'",
       "links": "<a href='/AIV/05/8/3'>Deut. 8:3</a>; <a href='/AIV/40/4/4'>Matt. 4:4</a>",
-      "comment": "The prophetic announcement of a spiritual famine has deep christological resonance—the Word of God is the ultimate sustenance (Deut. 8:3; Matt. 4:4). Spiritual deprivation points to the necessity of searching for God in both word and sacrament."
+      "comment": "The prophetic announcement of a spiritual famine has deep christological resonance—the Word of God is the ultimate sustenance (Deut. 8:3; Matt. 4:4). Spiritual deprivation points to the necessity of searching for God in both word and sacrament.",
+      "sectionHeader": "The Famine of Hearing the Word of the Lord"
     },
     {
       "pk": 37008012,
@@ -173,5 +177,27 @@
       "comment": "Idolatrous devotion ends in destruction. Dan and Beersheba were sites of alternate worship apart from Jerusalem, representing schism and error—the call is for unity under the one true worship endorsed by God, foreshadowing the singular apostolic community established by Christ."
     }
   ],
-  "translatedAt": "2025-12-24T09:44:53.229Z"
+  "translatedAt": "2025-12-24T09:44:53.229Z",
+  "sections": [
+    {
+      "title": "The Vision of the Basket of Summer Fruit",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "The Oppression of the Poor and Dishonest Traders",
+      "startVerse": 4,
+      "endVerse": 8
+    },
+    {
+      "title": "The Coming Day of Mourning and Darkness",
+      "startVerse": 9,
+      "endVerse": 10
+    },
+    {
+      "title": "The Famine of Hearing the Word of the Lord",
+      "startVerse": 11,
+      "endVerse": 14
+    }
+  ]
 }

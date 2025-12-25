@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "I will sing forever of the LORD’s steadfast love; with my mouth I will make known Your faithfulness to all generations.",
       "links": "<a href='/AIV/19/88/11'>Ps. 88:11</a>; <a href='/AIV/19/100/5'>Ps. 100:5</a>",
-      "comment": "The psalm opens with a proclamation of God’s enduring love and loyalty, themes central to the covenant and fulfilled in Christ's eternal kingship (Luke 1:32-33)."
+      "comment": "The psalm opens with a proclamation of God’s enduring love and loyalty, themes central to the covenant and fulfilled in Christ's eternal kingship (Luke 1:32-33).",
+      "sectionHeader": "God’s Covenant with David"
     },
     {
       "pk": 23089002,
@@ -230,7 +231,8 @@
       "verse": 19,
       "text": "Once You spoke in vision to Your faithful one and said, ‘I have bestowed help on a mighty one; I have exalted one chosen from the people.",
       "links": "<a href='/AIV/09/16/1'>1 Sam. 16:1</a>; <a href='/AIV/19/78/70'>Ps. 78:70</a>",
-      "comment": "God’s choice of David prefigures His election of Christ, the true Chosen One (Acts 2:22), and the principle of divine appointment for leadership."
+      "comment": "God’s choice of David prefigures His election of Christ, the true Chosen One (Acts 2:22), and the principle of divine appointment for leadership.",
+      "sectionHeader": "The Promises to David Recalled"
     },
     {
       "pk": 23089020,
@@ -458,7 +460,8 @@
       "verse": 38,
       "text": "But now You have cast off and rejected; You are angry with Your anointed.",
       "links": "<a href='/AIV/19/44/9'>Ps. 44:9</a>; <a href='/AIV/19/74/1'>Ps. 74:1</a>",
-      "comment": "Psalmist laments God’s apparent rejection, recalling the historical downfall of David’s line, yet prophetically hinting towards later restoration in Christ."
+      "comment": "Psalmist laments God’s apparent rejection, recalling the historical downfall of David’s line, yet prophetically hinting towards later restoration in Christ.",
+      "sectionHeader": "A Lament over the King’s Rejection"
     },
     {
       "pk": 23089039,
@@ -554,7 +557,8 @@
       "verse": 46,
       "text": "How long, O LORD? Will You hide Yourself forever? How long will Your wrath burn like fire?",
       "links": "<a href='/AIV/19/13/1'>Ps. 13:1</a>; <a href='/AIV/19/79/5'>Ps. 79:5</a>",
-      "comment": "The cry for restoration reflects the longing of God’s people for redemption, fulfilled in Christ and the promises made to His followers."
+      "comment": "The cry for restoration reflects the longing of God’s people for redemption, fulfilled in Christ and the promises made to His followers.",
+      "sectionHeader": "A Prayer for Restoration"
     },
     {
       "pk": 23089047,
@@ -629,5 +633,27 @@
       "comment": "The doxology affirms God’s eternal praise. The double ‘Amen’ is a liturgical confirmation of faith, echoed in New Testament worship (Revelation 7:12)."
     }
   ],
-  "translatedAt": "2025-12-24T06:31:12.459Z"
+  "translatedAt": "2025-12-24T06:31:12.459Z",
+  "sections": [
+    {
+      "title": "God’s Covenant with David",
+      "startVerse": 1,
+      "endVerse": 18
+    },
+    {
+      "title": "The Promises to David Recalled",
+      "startVerse": 19,
+      "endVerse": 37
+    },
+    {
+      "title": "A Lament over the King’s Rejection",
+      "startVerse": 38,
+      "endVerse": 45
+    },
+    {
+      "title": "A Prayer for Restoration",
+      "startVerse": 46,
+      "endVerse": 52
+    }
+  ]
 }

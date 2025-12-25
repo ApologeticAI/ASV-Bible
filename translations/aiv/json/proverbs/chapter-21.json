@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The king's heart is like a stream of water in the hand of the LORD; He directs it wherever He wishes.",
       "links": "<a href='/AIV/20/16/1'>Prov 16:1</a>; <a href='/AIV/23/45/13'>Isa 45:13</a>; <a href='/AIV/02/9/16'>Ex 9:16</a>",
-      "comment": "This verse highlights God's sovereignty over rulers, suggesting that earthly authority is subject to God's will. Reflects the belief that all legitimate authority is ultimately from God. See also Romans 13:1."
+      "comment": "This verse highlights God's sovereignty over rulers, suggesting that earthly authority is subject to God's will. Reflects the belief that all legitimate authority is ultimately from God. See also Romans 13:1.",
+      "sectionHeader": "The LORD Weighs the Heart"
     },
     {
       "pk": 24021002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "The violence of the wicked will sweep them away, because they refuse to do what is just.",
       "links": "<a href='/AIV/20/11/5'>Prov 11:5</a>; <a href='/AIV/19/7/16'>Ps 7:16</a>",
-      "comment": "Shows how evil deeds bring their own destruction. Points to Divine justice, fulfilled in both judgment and mercy."
+      "comment": "Shows how evil deeds bring their own destruction. Points to Divine justice, fulfilled in both judgment and mercy.",
+      "sectionHeader": "Warnings against Wickedness and Folly"
     },
     {
       "pk": 24021008,
@@ -254,7 +256,8 @@
       "verse": 21,
       "text": "Whoever pursues righteousness and mercy will find life, righteousness, and honor.",
       "links": "<a href='/AIV/19/34/14'>Ps 34:14</a>; <a href='/AIV/40/5/6-7'>Matt 5:6-7</a>",
-      "comment": "Righteousness and mercy are divine attributes. Pursuing these leads not just to earthly honor but to everlasting life as promised in Christ."
+      "comment": "Righteousness and mercy are divine attributes. Pursuing these leads not just to earthly honor but to everlasting life as promised in Christ.",
+      "sectionHeader": "The Rewards of Righteousness"
     },
     {
       "pk": 24021022,
@@ -362,7 +365,8 @@
       "verse": 30,
       "text": "There is no wisdom, no understanding, and no counsel against the LORD.",
       "links": "<a href='/AIV/18/12/13'>Job 12:13</a>; <a href='/AIV/20/19/21'>Prov 19:21</a>",
-      "comment": "All human intellect and strategy fail before God’s purposes. Echoes Divine omnipotence and sovereignty."
+      "comment": "All human intellect and strategy fail before God’s purposes. Echoes Divine omnipotence and sovereignty.",
+      "sectionHeader": "True Wisdom and the Sovereignty of God"
     },
     {
       "pk": 24021031,
@@ -377,5 +381,27 @@
       "comment": "Preparation is important, but final success depends on God. Invites trust and reliance on Divine Providence above mere human effort."
     }
   ],
-  "translatedAt": "2025-12-24T07:01:13.521Z"
+  "translatedAt": "2025-12-24T07:01:13.521Z",
+  "sections": [
+    {
+      "title": "The LORD Weighs the Heart",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Warnings against Wickedness and Folly",
+      "startVerse": 7,
+      "endVerse": 20
+    },
+    {
+      "title": "The Rewards of Righteousness",
+      "startVerse": 21,
+      "endVerse": 29
+    },
+    {
+      "title": "True Wisdom and the Sovereignty of God",
+      "startVerse": 30,
+      "endVerse": 31
+    }
+  ]
 }

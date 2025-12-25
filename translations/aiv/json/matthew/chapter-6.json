@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Be careful not to do your acts of righteousness before others in order to be seen by them. If you do, you will have no reward from your Father in heaven.",
       "links": "<a href='/AIV/40/23/5'>Matt. 23:5</a>; <a href='/AIV/19/127/1'>Ps. 127:1</a>",
-      "comment": "Jesus warns against seeking the approval of people rather than God, echoing the theme of pure motives found throughout Scripture. Righteous acts are meant to please the Father, not to gain human praise."
+      "comment": "Jesus warns against seeking the approval of people rather than God, echoing the theme of pure motives found throughout Scripture. Righteous acts are meant to please the Father, not to gain human praise.",
+      "sectionHeader": "Almsgiving in Secret"
     },
     {
       "pk": 47006002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "Pray then like this: 'Our Father in heaven, hallowed be Your name.'",
       "links": "<a href='/AIV/42/11/2'>Luke 11:2</a>; <a href='/AIV/19/103/13'>Ps. 103:13</a>",
-      "comment": "Jesus offers a model prayer that emphasizes God's holiness and fatherhood—a pattern for communal and individual prayer. Roman tradition retains this form as the basis of liturgical prayer."
+      "comment": "Jesus offers a model prayer that emphasizes God's holiness and fatherhood—a pattern for communal and individual prayer. Roman tradition retains this form as the basis of liturgical prayer.",
+      "sectionHeader": "The Lord's Prayer"
     },
     {
       "pk": 47006010,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "And when you fast, do not look gloomy like the hypocrites, for they disfigure their faces so that others will notice their fasting. Truly I tell you, they have received their reward.",
       "links": "<a href='/AIV/23/58/5'>Isa. 58:5</a>; <a href='/AIV/40/9/14-15'>Matt. 9:14–15</a>",
-      "comment": "Jesus lays out another spiritual discipline—fasting. This is to be done sincerely and joyfully, suggesting that private practices of faith are highly valued."
+      "comment": "Jesus lays out another spiritual discipline—fasting. This is to be done sincerely and joyfully, suggesting that private practices of faith are highly valued.",
+      "sectionHeader": "Fasting Without Display"
     },
     {
       "pk": 47006017,
@@ -230,7 +233,8 @@
       "verse": 19,
       "text": "Do not store up for yourselves treasures on earth, where moth and rust destroy and where thieves break in and steal.",
       "links": "<a href='/AIV/21/5/13-14'>Eccl. 5:13-14</a>; <a href='/AIV/54/6/9-10'>1 Tim. 6:9-10</a>",
-      "comment": "Jesus shifts to teachings on wealth. Earthly treasures are temporary and insecure, highlighting the need for a focus on heavenly rewards."
+      "comment": "Jesus shifts to teachings on wealth. Earthly treasures are temporary and insecure, highlighting the need for a focus on heavenly rewards.",
+      "sectionHeader": "Treasure in Heaven"
     },
     {
       "pk": 47006020,
@@ -302,7 +306,8 @@
       "verse": 25,
       "text": "Therefore I tell you, do not be anxious about your life, what you will eat or what you will drink; nor about your body, what you will wear. Is not life more than food and the body more than clothing?",
       "links": "<a href='/AIV/19/37/3-5'>Ps. 37:3-5</a>; <a href='/AIV/50/4/6'>Phil. 4:6</a>",
-      "comment": "Jesus assures us of God’s providence, teaching trust over anxiety. This teaching frames dependence on God as a path to spiritual freedom."
+      "comment": "Jesus assures us of God’s providence, teaching trust over anxiety. This teaching frames dependence on God as a path to spiritual freedom.",
+      "sectionHeader": "Trust in Divine Providence"
     },
     {
       "pk": 47006026,
@@ -413,5 +418,32 @@
       "comment": "Jesus commands present trust, not future worry. Christian hope is rooted in daily dependence on God’s grace, rather than in securing our own future—a call to spiritual rest and surrender."
     }
   ],
-  "translatedAt": "2025-12-24T10:04:42.019Z"
+  "translatedAt": "2025-12-24T10:04:42.019Z",
+  "sections": [
+    {
+      "title": "Almsgiving in Secret",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "The Lord's Prayer",
+      "startVerse": 9,
+      "endVerse": 15
+    },
+    {
+      "title": "Fasting Without Display",
+      "startVerse": 16,
+      "endVerse": 18
+    },
+    {
+      "title": "Treasure in Heaven",
+      "startVerse": 19,
+      "endVerse": 24
+    },
+    {
+      "title": "Trust in Divine Providence",
+      "startVerse": 25,
+      "endVerse": 34
+    }
+  ]
 }

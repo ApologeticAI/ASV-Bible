@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Have mercy on us, Lord of all, and look upon us,",
       "links": "<a href='/AIV/19/123/3'>Psalm 123:3</a>; <a href='/AIV/26/9/8'>Ezekiel 9:8</a>",
-      "comment": "Sirach begins this prayer seeking God's mercy, a theme central to the wisdom literature and echoed in Psalm 123. The address to the 'Lord of all' emphasizes God's sovereignty over every nation and individual."
+      "comment": "Sirach begins this prayer seeking God's mercy, a theme central to the wisdom literature and echoed in Psalm 123. The address to the 'Lord of all' emphasizes God's sovereignty over every nation and individual.",
+      "sectionHeader": "Prayer for the Vindication of Israel"
     },
     {
       "pk": 28036002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "Shower mercy upon your people whom you have called by your name, O Lord.",
       "links": "<a href='/AIV/14/7/14'>2 Chronicles 7:14</a>; <a href='/AIV/01/12/2'>Genesis 12:2</a>",
-      "comment": "There is an emphasis on God's chosen people, echoing both the Abrahamic calling and the later idea of the church as God's own."
+      "comment": "There is an emphasis on God's chosen people, echoing both the Abrahamic calling and the later idea of the church as God's own.",
+      "sectionHeader": "Petition for God's Mercy and Blessings"
     },
     {
       "pk": 28036016,
@@ -254,7 +256,8 @@
       "verse": 21,
       "text": "The stomach can take any food, but one food is better than another.",
       "links": "<a href='/AIV/20/25/16'>Proverbs 25:16</a>; <a href='/AIV/03/11/2'>Leviticus 11:2</a>",
-      "comment": "Beginning a wisdom section, with parallels to Proverbs and food laws, symbolically contrasting spiritual nourishment and wisdom."
+      "comment": "Beginning a wisdom section, with parallels to Proverbs and food laws, symbolically contrasting spiritual nourishment and wisdom.",
+      "sectionHeader": "On Discerning a Worthy Wife"
     },
     {
       "pk": 28036022,
@@ -377,5 +380,22 @@
       "comment": "The wisdom tradition culminates in the imagery of wisdom as the builder and sustainer—a deeper allegory for the church and the communion of saints extending across generations. The spiritual reading points forward to the later development of the people of God united in faith and truth."
     }
   ],
-  "translatedAt": "2025-12-24T07:42:44.399Z"
+  "translatedAt": "2025-12-24T07:42:44.399Z",
+  "sections": [
+    {
+      "title": "Prayer for the Vindication of Israel",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "Petition for God's Mercy and Blessings",
+      "startVerse": 15,
+      "endVerse": 20
+    },
+    {
+      "title": "On Discerning a Worthy Wife",
+      "startVerse": 21,
+      "endVerse": 31
+    }
+  ]
 }

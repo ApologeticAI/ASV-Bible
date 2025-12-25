@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Clap your hands, all you peoples! Shout to God with a voice of triumph!",
       "links": "<a href='/AIV/19/66/1'>Ps. 66:1</a>; <a href='/AIV/19/98/4'>Ps. 98:4</a>",
-      "comment": "This call to worship is given to all the nations, pointing forward to a time when God’s kingdom will include every people. There is a foreshadowing here of the universality of God’s plan, which finds fulfillment in the New Testament with the inclusion of the Gentiles (see <a href='/AIV/44/15/16-17'>Acts 15:16-17</a>)."
+      "comment": "This call to worship is given to all the nations, pointing forward to a time when God’s kingdom will include every people. There is a foreshadowing here of the universality of God’s plan, which finds fulfillment in the New Testament with the inclusion of the Gentiles (see <a href='/AIV/44/15/16-17'>Acts 15:16-17</a>).",
+      "sectionHeader": "God, King of All the Earth"
     },
     {
       "pk": 23047002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "God has gone up with a shout, the LORD with the sound of a trumpet.",
       "links": "<a href='/AIV/19/68/18'>Ps. 68:18</a>; <a href='/AIV/42/24/51'>Luke 24:51</a>; <a href='/AIV/46/15/52'>1 Cor. 15:52</a>",
-      "comment": "This alludes to God's exaltation, and for Christians, prefigures Christ’s Ascension. The mention of trumpets evokes liturgical worship, central to biblical faith, and establishes a model of worship with ceremony and music."
+      "comment": "This alludes to God's exaltation, and for Christians, prefigures Christ’s Ascension. The mention of trumpets evokes liturgical worship, central to biblical faith, and establishes a model of worship with ceremony and music.",
+      "sectionHeader": "The Ascension of the Lord"
     },
     {
       "pk": 23047006,
@@ -113,5 +115,17 @@
       "comment": "The gathering of the nations around the God of Abraham points toward the unity of all peoples in one faith, fulfilling the promises to Abraham. The 'shields' symbolize rulers; all earthly authority is ultimately subject to God. This prefigures the unity of all believers under one divine shepherd as seen in <a href='/AIV/43/10/16'>John 10:16</a>."
     }
   ],
-  "translatedAt": "2025-12-24T06:14:50.645Z"
+  "translatedAt": "2025-12-24T06:14:50.645Z",
+  "sections": [
+    {
+      "title": "God, King of All the Earth",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "The Ascension of the Lord",
+      "startVerse": 5,
+      "endVerse": 9
+    }
+  ]
 }

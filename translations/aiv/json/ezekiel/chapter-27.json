@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The word of the LORD came to me, saying:",
       "links": "<a href='/AIV/26/26/1'>Ezek. 26:1</a>; <a href='/AIV/24/1/4'>Jer. 1:4</a>",
-      "comment": "Ezekiel receives direct revelation from the Lord, a pattern seen throughout biblical prophecy. The prophetic office is divinely instituted, with the prophet speaking God's words, anticipating the way God later speaks through appointed messengers (cf. Acts 3:21)."
+      "comment": "Ezekiel receives direct revelation from the Lord, a pattern seen throughout biblical prophecy. The prophetic office is divinely instituted, with the prophet speaking God's words, anticipating the way God later speaks through appointed messengers (cf. Acts 3:21).",
+      "sectionHeader": "Lament Over the Fall of Tyre"
     },
     {
       "pk": 33027002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "and say to Tyre, who sits at the entry of the sea, trading with the peoples to many coastlands, 'This is what the Lord GOD says: O Tyre, you have said, \"I am perfect in beauty.\"'",
       "links": "<a href='/AIV/26/27/32'>Ezek. 27:32</a>; <a href='/AIV/12/9/27'>1 Kings 9:27</a>",
-      "comment": "Tyre's claim to perfection echoes the human tendency towards pride and self-sufficiency, themes later addressed by Christ (Matt. 23:12). The city's global influence foreshadows how spiritual pride brings judgment."
+      "comment": "Tyre's claim to perfection echoes the human tendency towards pride and self-sufficiency, themes later addressed by Christ (Matt. 23:12). The city's global influence foreshadows how spiritual pride brings judgment.",
+      "sectionHeader": "The Glory and Commerce of Tyre"
     },
     {
       "pk": 33027004,
@@ -314,7 +316,8 @@
       "verse": 26,
       "text": "Your rowers have brought you into great waters; but the east wind has shattered you in the heart of the seas.",
       "links": "<a href='/AIV/19/48/7'>Ps. 48:7</a>; <a href='/AIV/02/14/21'>Ex. 14:21</a>",
-      "comment": "The east wind often symbolizes judgment (Ex. 14:21). Tyre's pride led to downfall, a type of spiritual warning for all."
+      "comment": "The east wind often symbolizes judgment (Ex. 14:21). Tyre's pride led to downfall, a type of spiritual warning for all.",
+      "sectionHeader": "The Destruction and Lamentation for Tyre"
     },
     {
       "pk": 33027027,
@@ -437,5 +440,22 @@
       "comment": "Tyre’s utter destruction emphasizes the temporal nature of earthly glory. In contrast, the promise of Christ’s kingdom is everlasting (Dan. 2:44; Rev. 11:15)."
     }
   ],
-  "translatedAt": "2025-12-24T09:13:23.976Z"
+  "translatedAt": "2025-12-24T09:13:23.976Z",
+  "sections": [
+    {
+      "title": "Lament Over the Fall of Tyre",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "The Glory and Commerce of Tyre",
+      "startVerse": 3,
+      "endVerse": 25
+    },
+    {
+      "title": "The Destruction and Lamentation for Tyre",
+      "startVerse": 26,
+      "endVerse": 36
+    }
+  ]
 }

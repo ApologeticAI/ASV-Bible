@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Behold My servant, whom I uphold, My chosen one in whom My soul delights. I have put My Spirit upon him; he will bring forth justice to the nations.",
       "links": "<a href='/AIV/40/3/17'>Matt. 3:17</a>; <a href='/AIV/23/11/2'>Isa. 11:2</a>; <a href='/AIV/40/12/18-21'>Matt. 12:18-21</a>",
-      "comment": "This passage points to the coming Messiah, fulfilled in Jesus, who is both God’s servant and the one anointed with the Spirit. Matthew cites this passage directly about Christ (Matt. 12:18–21), indicating its messianic fulfillment."
+      "comment": "This passage points to the coming Messiah, fulfilled in Jesus, who is both God’s servant and the one anointed with the Spirit. Matthew cites this passage directly about Christ (Matt. 12:18–21), indicating its messianic fulfillment.",
+      "sectionHeader": "The Servant of the Lord, Light to the Nations"
     },
     {
       "pk": 29042002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "Sing to the LORD a new song, his praise from the ends of the earth, you who go down to the sea, and all that fills it, the coastlands and their inhabitants.",
       "links": "<a href='/AIV/19/96/1'>Ps. 96:1</a>; <a href='/AIV/19/98/1'>Ps. 98:1</a>; <a href='/AIV/66/5/9'>Rev. 5:9</a>",
-      "comment": "The invitation to sing a new song signals a new era of salvation that involves all nations. The liturgical aspect of worship is highlighted here."
+      "comment": "The invitation to sing a new song signals a new era of salvation that involves all nations. The liturgical aspect of worship is highlighted here.",
+      "sectionHeader": "A New Song of Praise to the Lord"
     },
     {
       "pk": 29042011,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "The LORD goes out like a mighty man; like a warrior he stirs up his zeal; he cries out, yes, he shouts aloud; he shows himself mighty against his enemies.",
       "links": "<a href='/AIV/02/15/3'>Ex. 15:3</a>; <a href='/AIV/19/24/8'>Ps. 24:8</a>",
-      "comment": "God is depicted as a warrior, fighting for justice and salvation of His people, a theme fulfilled in Christ’s victory over sin and death."
+      "comment": "God is depicted as a warrior, fighting for justice and salvation of His people, a theme fulfilled in Christ’s victory over sin and death.",
+      "sectionHeader": "The Lord’s Mighty Deeds and Guidance"
     },
     {
       "pk": 29042014,
@@ -218,7 +221,8 @@
       "verse": 18,
       "text": "Hear, you deaf, and look, you blind, that you may see!",
       "links": "<a href='/AIV/23/6/9-10'>Isa. 6:9-10</a>; <a href='/AIV/40/13/13-15'>Matt. 13:13-15</a>",
-      "comment": "God calls His people to spiritual awakening. The language is used by Jesus in reference to those resistant to His message."
+      "comment": "God calls His people to spiritual awakening. The language is used by Jesus in reference to those resistant to His message.",
+      "sectionHeader": "Israel’s Blindness and Punishment"
     },
     {
       "pk": 29042019,
@@ -305,5 +309,27 @@
       "comment": "Chastisement leads to repentance and purification. The language of fire often anticipates later sacramental themes of cleansing and renewal, eventually fulfilled in the work of Christ and his Church."
     }
   ],
-  "translatedAt": "2025-12-24T08:10:34.707Z"
+  "translatedAt": "2025-12-24T08:10:34.707Z",
+  "sections": [
+    {
+      "title": "The Servant of the Lord, Light to the Nations",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "A New Song of Praise to the Lord",
+      "startVerse": 10,
+      "endVerse": 12
+    },
+    {
+      "title": "The Lord’s Mighty Deeds and Guidance",
+      "startVerse": 13,
+      "endVerse": 17
+    },
+    {
+      "title": "Israel’s Blindness and Punishment",
+      "startVerse": 18,
+      "endVerse": 25
+    }
+  ]
 }

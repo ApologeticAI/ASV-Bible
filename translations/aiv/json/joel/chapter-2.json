@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Blow a trumpet in Zion; sound the alarm on my holy mountain! Let all the inhabitants of the land tremble, for the Day of the LORD is coming—it is near!",
       "links": "<a href='/AIV/23/13/6'>Isa. 13:6</a>; <a href='/AIV/29/1/15'>Joel 1:15</a>",
-      "comment": "The phrase 'Day of the LORD' refers to a time of divine judgment and restoration. 'Zion' represents the spiritual center of God's people, foreshadowing the fullness of worship and community found in the New Covenant."
+      "comment": "The phrase 'Day of the LORD' refers to a time of divine judgment and restoration. 'Zion' represents the spiritual center of God's people, foreshadowing the fullness of worship and community found in the New Covenant.",
+      "sectionHeader": "The Day of the LORD: The Invading Army"
     },
     {
       "pk": 36002002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "Yet even now, declares the LORD, return to me with all your heart, with fasting, with weeping, and with mourning.",
       "links": "<a href='/AIV/26/18/32'>Ezek. 18:32</a>; <a href='/AIV/40/5/4'>Matt. 5:4</a>",
-      "comment": "God’s call to repentance is always urgent and heartfelt. Fasting, mourning, and contrition are essential responses to God, reflected throughout Scripture and liturgical tradition."
+      "comment": "God’s call to repentance is always urgent and heartfelt. Fasting, mourning, and contrition are essential responses to God, reflected throughout Scripture and liturgical tradition.",
+      "sectionHeader": "A Call to Repentance"
     },
     {
       "pk": 36002013,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "Then the LORD became jealous for his land and had pity on his people.",
       "links": "<a href='/AIV/02/20/5'>Exod. 20:5</a>; <a href='/AIV/19/102/13'>Ps. 102:13</a>",
-      "comment": "God’s jealous love means protective care and mercy, not anger. Divine mercy is granted through communal repentance, hinting at ongoing sacramental life."
+      "comment": "God’s jealous love means protective care and mercy, not anger. Divine mercy is granted through communal repentance, hinting at ongoing sacramental life.",
+      "sectionHeader": "The LORD's Compassion and Restoration"
     },
     {
       "pk": 36002019,
@@ -338,7 +341,8 @@
       "verse": 28,
       "text": "And afterward, I will pour out my Spirit on all flesh; your sons and daughters will prophesy, your old men will dream dreams, and your young men will see visions.",
       "links": "<a href='/AIV/44/2/17'>Acts 2:17</a>; <a href='/AIV/04/11/29'>Num. 11:29</a>",
-      "comment": "This prophecy was fulfilled at Pentecost. The universality of God’s Spirit points to the full inclusion of all believers into the one Body of Christ."
+      "comment": "This prophecy was fulfilled at Pentecost. The universality of God’s Spirit points to the full inclusion of all believers into the one Body of Christ.",
+      "sectionHeader": "The Outpouring of the Spirit and Signs of the Day"
     },
     {
       "pk": 36002029,
@@ -389,5 +393,27 @@
       "comment": "Salvation is offered universally to all who call on the LORD, but salvation is realized in the communion of the faithful centered on Zion—a type for the visible, sacramental Church in the new covenant."
     }
   ],
-  "translatedAt": "2025-12-24T09:40:48.135Z"
+  "translatedAt": "2025-12-24T09:40:48.135Z",
+  "sections": [
+    {
+      "title": "The Day of the LORD: The Invading Army",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "A Call to Repentance",
+      "startVerse": 12,
+      "endVerse": 17
+    },
+    {
+      "title": "The LORD's Compassion and Restoration",
+      "startVerse": 18,
+      "endVerse": 27
+    },
+    {
+      "title": "The Outpouring of the Spirit and Signs of the Day",
+      "startVerse": 28,
+      "endVerse": 32
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When He opened the seventh seal, there was silence in heaven for about half an hour.",
       "links": "<a href='/AIV/73/6/1'>Rev. 6:1</a>; <a href='/AIV/36/1/7'>Zeph. 1:7</a>; <a href='/AIV/19/76/8'>Ps. 76:8</a>",
-      "comment": "The seventh seal’s opening marks a dramatic pause, symbolizing both awe and expectancy before God’s next act. This silence recalls times in Scripture when God’s presence evokes reverent stillness (Zephaniah 1:7; Psalm 76:8), emphasizing both the gravity and sacredness of divine action."
+      "comment": "The seventh seal’s opening marks a dramatic pause, symbolizing both awe and expectancy before God’s next act. This silence recalls times in Scripture when God’s presence evokes reverent stillness (Zephaniah 1:7; Psalm 76:8), emphasizing both the gravity and sacredness of divine action.",
+      "sectionHeader": "The Seventh Seal and the Silence in Heaven"
     },
     {
       "pk": 73008002,
@@ -26,7 +27,8 @@
       "verse": 2,
       "text": "Then I saw the seven angels who stand before God, and seven trumpets were given to them.",
       "links": "<a href='/AIV/15/2/3'>Tobit 12:15</a>; <a href='/AIV/07/6/16'>Judg. 6:16</a>; <a href='/AIV/04/10/2'>Num. 10:2-10</a>",
-      "comment": "The seven angels recall imagery from Jewish tradition where they serve in the heavenly presence. Trumpets in biblical usage often announce God’s actions (Num. 10:2-10), reinforcing these events’ ritual and cosmic significance. Angelic mediation at this scale points to a structured, hierarchical approach to divine judgment."
+      "comment": "The seven angels recall imagery from Jewish tradition where they serve in the heavenly presence. Trumpets in biblical usage often announce God’s actions (Num. 10:2-10), reinforcing these events’ ritual and cosmic significance. Angelic mediation at this scale points to a structured, hierarchical approach to divine judgment.",
+      "sectionHeader": "The Seven Trumpets and the Angel with the Censer"
     },
     {
       "pk": 73008003,
@@ -86,7 +88,8 @@
       "verse": 7,
       "text": "The first angel sounded his trumpet, and there came hail and fire mixed with blood, and these were thrown down on the earth. A third of the earth was burned up, a third of the trees were burned up, and all green grass was burned up.",
       "links": "<a href='/AIV/02/9/24'>Ex. 9:24</a>; <a href='/AIV/26/5/2'>Ezek. 5:2-12</a>; <a href='/AIV/73/11/19'>Rev. 11:19</a>",
-      "comment": "This judgment recalls the Exodus plagues (Exodus 9), reinforcing theological continuity. The repeated quantities—‘a third’—imply mercy within judgment, sparing some for repentance and restoration."
+      "comment": "This judgment recalls the Exodus plagues (Exodus 9), reinforcing theological continuity. The repeated quantities—‘a third’—imply mercy within judgment, sparing some for repentance and restoration.",
+      "sectionHeader": "The First Four Trumpet Judgments"
     },
     {
       "pk": 73008008,
@@ -158,8 +161,31 @@
       "verse": 13,
       "text": "Then I looked, and I heard an eagle flying high overhead, crying with a loud voice, 'Woe, woe, woe to those who live on the earth, because of the blasts of the other trumpets which the three angels are about to sound!'",
       "links": "<a href='/AIV/26/10/14'>Ezek. 10:14</a>; <a href='/AIV/23/6/2'>Isa. 6:2-3</a>; <a href='/AIV/73/9/12'>Rev. 9:12</a>",
-      "comment": "The triple ‘woe’ intensifies what is to come, marking a transition in heavenly revelation. The eagle often symbolizes both prophetic warning and divine messenger (Ezekiel 10:14). This call to repentance is urgent, implying a further need for sacramental grace and steadfastness in the sacred tradition to be preserved from coming judgments."
+      "comment": "The triple ‘woe’ intensifies what is to come, marking a transition in heavenly revelation. The eagle often symbolizes both prophetic warning and divine messenger (Ezekiel 10:14). This call to repentance is urgent, implying a further need for sacramental grace and steadfastness in the sacred tradition to be preserved from coming judgments.",
+      "sectionHeader": "The Three Woes Announced"
     }
   ],
-  "translatedAt": "2025-12-24T12:36:16.022Z"
+  "translatedAt": "2025-12-24T12:36:16.022Z",
+  "sections": [
+    {
+      "title": "The Seventh Seal and the Silence in Heaven",
+      "startVerse": 1,
+      "endVerse": 1
+    },
+    {
+      "title": "The Seven Trumpets and the Angel with the Censer",
+      "startVerse": 2,
+      "endVerse": 6
+    },
+    {
+      "title": "The First Four Trumpet Judgments",
+      "startVerse": 7,
+      "endVerse": 12
+    },
+    {
+      "title": "The Three Woes Announced",
+      "startVerse": 13,
+      "endVerse": 13
+    }
+  ]
 }

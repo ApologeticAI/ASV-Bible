@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "After the death of Joshua, the Israelites asked the LORD, \"Who among us should go up first against the Canaanites to fight for us?\"",
       "links": "<a href='/AIV/6/24/29'>Josh. 24:29</a>; <a href='/AIV/9/23/2'>1 Sam. 23:2</a>",
-      "comment": "The transition after Joshua's death calls to mind the need for continued divine guidance in the absence of a single leader. The Israelites' seeking of God's will foreshadows later moments where guidance is sought through established leaders and traditions."
+      "comment": "The transition after Joshua's death calls to mind the need for continued divine guidance in the absence of a single leader. The Israelites' seeking of God's will foreshadows later moments where guidance is sought through established leaders and traditions.",
+      "sectionHeader": "Conquest of Southern Canaan"
     },
     {
       "pk": 7001002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "Judah went against the Canaanites living in Hebron (formerly called Kiriath-arba) and struck down Sheshai, Ahiman, and Talmai.",
       "links": "<a href='/AIV/6/15/13-14'>Josh. 15:13-14</a>",
-      "comment": "The mention of the city’s former name reminds the reader of the continuity between the patriarchs (Abraham dwelt in Hebron) and the conquest."
+      "comment": "The mention of the city’s former name reminds the reader of the continuity between the patriarchs (Abraham dwelt in Hebron) and the conquest.",
+      "sectionHeader": "Caleb and Othniel Capture Hebron and Debir"
     },
     {
       "pk": 7001011,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "The descendants of the Kenite, Moses’ father-in-law, went up with the people of Judah from the city of palms into the wilderness of Judah, which is in the Negev near Arad. They went and lived among the people there.",
       "links": "<a href='/AIV/2/3/1'>Exod. 3:1</a>; <a href='/AIV/6/1/16'>Josh. 1:16</a>",
-      "comment": "The presence of non-Israelites (Kenites) within Israel's inheritance reflects how God’s covenant family extends beyond mere physical lineage—a foreshadowing of inclusivity to come."
+      "comment": "The presence of non-Israelites (Kenites) within Israel's inheritance reflects how God’s covenant family extends beyond mere physical lineage—a foreshadowing of inclusivity to come.",
+      "sectionHeader": "Settlement of the Kenites and Further Conquests"
     },
     {
       "pk": 7001017,
@@ -266,7 +269,8 @@
       "verse": 22,
       "text": "The house of Joseph also went up against Bethel, and the LORD was with them.",
       "links": "<a href='/AIV/6/18/13'>Josh. 18:13</a>",
-      "comment": "Again, divine presence guarantees success, but only in partnership with faithful action. Bethel's significance as a site of God’s appearance to Jacob (Gen. 28:19) underlines its spiritual importance."
+      "comment": "Again, divine presence guarantees success, but only in partnership with faithful action. Bethel's significance as a site of God’s appearance to Jacob (Gen. 28:19) underlines its spiritual importance.",
+      "sectionHeader": "Partial Conquests of the Northern Tribes"
     },
     {
       "pk": 7001023,
@@ -326,7 +330,8 @@
       "verse": 27,
       "text": "Manasseh did not drive out the people of Beth-shean, Taanach, Dor, Ibleam, or Megiddo and their surrounding towns. The Canaanites were determined to live in that land.",
       "links": "<a href='/AIV/6/17/11-12'>Josh. 17:11-12</a>",
-      "comment": "Partial obedience leads to persistent struggles. Spiritually, unrooted sin or compromise often resists removal, showing the need for ongoing conversion."
+      "comment": "Partial obedience leads to persistent struggles. Spiritually, unrooted sin or compromise often resists removal, showing the need for ongoing conversion.",
+      "sectionHeader": "Incompleteness of Israel’s Conquest"
     },
     {
       "pk": 7001028,
@@ -437,5 +442,32 @@
       "comment": "The mention of borders situates the narrative historically and geographically. The clear distinctions between territories symbolize boundaries between God's people and the world, reinforcing the call to holiness and separation from sinful influence."
     }
   ],
-  "translatedAt": "2025-12-24T02:30:51.942Z"
+  "translatedAt": "2025-12-24T02:30:51.942Z",
+  "sections": [
+    {
+      "title": "Conquest of Southern Canaan",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "Caleb and Othniel Capture Hebron and Debir",
+      "startVerse": 10,
+      "endVerse": 15
+    },
+    {
+      "title": "Settlement of the Kenites and Further Conquests",
+      "startVerse": 16,
+      "endVerse": 21
+    },
+    {
+      "title": "Partial Conquests of the Northern Tribes",
+      "startVerse": 22,
+      "endVerse": 26
+    },
+    {
+      "title": "Incompleteness of Israel’s Conquest",
+      "startVerse": 27,
+      "endVerse": 36
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Let me sing for my beloved, a song of my dear one about his vineyard: My beloved had a vineyard on a fertile hillside.",
       "links": "<a href='/AIV/19/80/8-16'>Ps. 80:8-16</a>; <a href='/AIV/40/21/33-45'>Matt. 21:33-45</a>",
-      "comment": "The 'beloved' represents God, and the vineyard is often interpreted as Israel or the people of God. Jesus uses this imagery in parables, giving it a prophetic and messianic fulfillment (see Matt. 21:33-45)."
+      "comment": "The 'beloved' represents God, and the vineyard is often interpreted as Israel or the people of God. Jesus uses this imagery in parables, giving it a prophetic and messianic fulfillment (see Matt. 21:33-45).",
+      "sectionHeader": "The Song of the Vineyard"
     },
     {
       "pk": 29005002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Woe to those who join house to house, who add field to field, until there is no more room, and you are made to dwell alone in the midst of the land!",
       "links": "<a href='/AIV/33/2/2'>Mic. 2:2</a>; <a href='/AIV/03/25/23'>Lev. 25:23-24</a>",
-      "comment": "Condemnation of greed and land grabbing. Old Testament law prohibited the permanent loss of ancestral land (Lev. 25:23-24). Sharing resources and care for the poor are consistent themes through the Bible."
+      "comment": "Condemnation of greed and land grabbing. Old Testament law prohibited the permanent loss of ancestral land (Lev. 25:23-24). Sharing resources and care for the poor are consistent themes through the Bible.",
+      "sectionHeader": "The Six Woes Against Israel"
     },
     {
       "pk": 29005009,
@@ -290,7 +292,8 @@
       "verse": 24,
       "text": "Therefore, as the tongue of fire devours the stubble, and as dry grass sinks down in the flame, so their root will be as rottenness, and their blossom will go up like dust, because they have rejected the law of the LORD of Hosts and despised the word of the Holy One of Israel.",
       "links": "<a href='/AIV/19/1/4'>Ps. 1:4</a>; <a href='/AIV/40/3/10-12'>Matt. 3:10-12</a>",
-      "comment": "There is a direct connection between accepting God’s law and fruitfulness. Rejecting the 'Word of the Holy One' points toward the consequences of refusing Christ (Matt. 3:12)."
+      "comment": "There is a direct connection between accepting God’s law and fruitfulness. Rejecting the 'Word of the Holy One' points toward the consequences of refusing Christ (Matt. 3:12).",
+      "sectionHeader": "The Judgment of the Lord"
     },
     {
       "pk": 29005025,
@@ -314,7 +317,8 @@
       "verse": 26,
       "text": "He will raise a signal for nations far away, and whistle for them from the ends of the earth; and behold, quickly, speedily they come.",
       "links": "<a href='/AIV/23/13/2,5'>Isa. 13:2,5</a>",
-      "comment": "God uses even foreign nations as instruments of His will. The sovereignty of God over all the nations is a demonstration of His kingship."
+      "comment": "God uses even foreign nations as instruments of His will. The sovereignty of God over all the nations is a demonstration of His kingship.",
+      "sectionHeader": "The Coming Invaders"
     },
     {
       "pk": 29005027,
@@ -365,5 +369,27 @@
       "comment": "Darkness is a symbol of judgment and separation from God, echoed in the passion narratives. Yet throughout, God’s mercy remains available for those who seek the light—even amid severe judgment."
     }
   ],
-  "translatedAt": "2025-12-24T07:53:26.660Z"
+  "translatedAt": "2025-12-24T07:53:26.660Z",
+  "sections": [
+    {
+      "title": "The Song of the Vineyard",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "The Six Woes Against Israel",
+      "startVerse": 8,
+      "endVerse": 23
+    },
+    {
+      "title": "The Judgment of the Lord",
+      "startVerse": 24,
+      "endVerse": 25
+    },
+    {
+      "title": "The Coming Invaders",
+      "startVerse": 26,
+      "endVerse": 30
+    }
+  ]
 }

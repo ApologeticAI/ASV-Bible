@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "God of my praise, do not remain silent.",
       "links": "<a href='/AIV/19/28/1'>Ps. 28:1</a>; <a href='/AIV/19/71/6'>Ps. 71:6</a>",
-      "comment": "The psalmist begins with a direct plea to God, emphasizing God's worthiness of praise even in distress. This invocation sets a tone of trust amid persecution—a theme consistent in Scripture."
+      "comment": "The psalmist begins with a direct plea to God, emphasizing God's worthiness of praise even in distress. This invocation sets a tone of trust amid persecution—a theme consistent in Scripture.",
+      "sectionHeader": "Plea for Deliverance from Malicious Enemies"
     },
     {
       "pk": 23109002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "Appoint a wicked man against him; let an accuser stand at his right hand.",
       "links": "<a href='/AIV/19/35/8'>Ps. 35:8</a>; <a href='/AIV/38/3/1'>Zech. 3:1</a>",
-      "comment": "Here begins a series of imprecations. The term accuser (Satan) echoes later biblical imagery (Zech 3:1; Rev 12:10), where spiritual conflict is at the fore."
+      "comment": "Here begins a series of imprecations. The term accuser (Satan) echoes later biblical imagery (Zech 3:1; Rev 12:10), where spiritual conflict is at the fore.",
+      "sectionHeader": "Imprecation Against the Wicked"
     },
     {
       "pk": 23109007,
@@ -254,7 +256,8 @@
       "verse": 21,
       "text": "But You, O God my Lord, deal kindly with me for Your name’s sake; because Your steadfast love is good, deliver me.",
       "links": "<a href='/AIV/19/69/16'>Ps. 69:16</a>; <a href='/AIV/19/31/16'>Ps. 31:16</a>",
-      "comment": "The psalmist appeals to God’s mercy and covenant love, foreshadowing Christ’s work of redemption by invoking deliverance based on God’s own nature."
+      "comment": "The psalmist appeals to God’s mercy and covenant love, foreshadowing Christ’s work of redemption by invoking deliverance based on God’s own nature.",
+      "sectionHeader": "Prayer for Mercy and Praise to the Lord"
     },
     {
       "pk": 23109022,
@@ -377,5 +380,22 @@
       "comment": "God as advocate—a role taken up supremely by Christ, who intercedes for His people (Rom 8:34; Heb 7:25). The image foreshadows New Testament intercessory ministry and continual presence."
     }
   ],
-  "translatedAt": "2025-12-24T06:39:00.215Z"
+  "translatedAt": "2025-12-24T06:39:00.215Z",
+  "sections": [
+    {
+      "title": "Plea for Deliverance from Malicious Enemies",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Imprecation Against the Wicked",
+      "startVerse": 6,
+      "endVerse": 20
+    },
+    {
+      "title": "Prayer for Mercy and Praise to the Lord",
+      "startVerse": 21,
+      "endVerse": 31
+    }
+  ]
 }

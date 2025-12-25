@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The words of Tobit, son of Tobiel, son of Hananiel, son of Aduel, son of Gabael, of the descendants of Asiel and the tribe of Naphtali,",
       "links": "<a href='/AIV/06/19/32-39'>Josh. 19:32–39</a>",
-      "comment": "This introduction traces Tobit’s genealogy to the tribe of Naphtali, highlighting the continuation of Israel’s family lines, similar to how Matthew and Luke begin the narratives of Christ by establishing genealogy, emphasizing continuity and fulfillment of God’s promises (see <a href='/AIV/40/1/1-17'>Matt. 1:1–17</a> and <a href='/AIV/42/3/23-38'>Luke 3:23–38</a>)."
+      "comment": "This introduction traces Tobit’s genealogy to the tribe of Naphtali, highlighting the continuation of Israel’s family lines, similar to how Matthew and Luke begin the narratives of Christ by establishing genealogy, emphasizing continuity and fulfillment of God’s promises (see <a href='/AIV/40/1/1-17'>Matt. 1:1–17</a> and <a href='/AIV/42/3/23-38'>Luke 3:23–38</a>).",
+      "sectionHeader": "Tobit’s Ancestry and Faithfulness"
     },
     {
       "pk": 17001002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "When I was taken captive and brought to Assyria, I went to Nineveh; all my brothers and those of my people ate the food of the Gentiles,",
       "links": "<a href='/AIV/27/1/8'>Dan 1:8</a>",
-      "comment": "Eating the Gentiles’ food symbolizes assimilation to foreign customs. Faithful resistance to such compromise is a recurring theme for righteous Israelites, seen also in Daniel’s refusal in Babylon."
+      "comment": "Eating the Gentiles’ food symbolizes assimilation to foreign customs. Faithful resistance to such compromise is a recurring theme for righteous Israelites, seen also in Daniel’s refusal in Babylon.",
+      "sectionHeader": "Tobit in Captivity and Service to the King"
     },
     {
       "pk": 17001011,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "During the days of Sennacherib, I gave many alms to my brethren;",
       "links": "<a href='/AIV/19/41/1'>Ps 41:1</a>",
-      "comment": "The steadfastness in almsgiving amid hardship imitates the sacrificial love taught in the Gospels."
+      "comment": "The steadfastness in almsgiving amid hardship imitates the sacrificial love taught in the Gospels.",
+      "sectionHeader": "Charity and Persecution under Sennacherib"
     },
     {
       "pk": 17001017,
@@ -254,7 +257,8 @@
       "verse": 21,
       "text": "But forty days later, Sennacherib was killed by his two sons, and they fled to the mountains of Ararat. Then Esarhaddon his son became king, and he appointed Ahikar, the son of my brother Anael, over all the accounts of his kingdom.",
       "links": "<a href='/AIV/12/19/37'>2 Kgs 19:37</a>",
-      "comment": "This shift of fortune for Tobit and Ahikar underscores God’s ability to raise the lowly in His own time (see <a href='/AIV/09/2/7-8'>1 Sam 2:7-8</a>)."
+      "comment": "This shift of fortune for Tobit and Ahikar underscores God’s ability to raise the lowly in His own time (see <a href='/AIV/09/2/7-8'>1 Sam 2:7-8</a>).",
+      "sectionHeader": "Restoration through Ahikar"
     },
     {
       "pk": 17001022,
@@ -269,5 +273,27 @@
       "comment": "Ahikar’s intercession models the power of faithful mediation, which foreshadows Christ’s mediation and the importance of intercessory prayer among the faithful."
     }
   ],
-  "translatedAt": "2025-12-24T04:54:22.200Z"
+  "translatedAt": "2025-12-24T04:54:22.200Z",
+  "sections": [
+    {
+      "title": "Tobit’s Ancestry and Faithfulness",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "Tobit in Captivity and Service to the King",
+      "startVerse": 10,
+      "endVerse": 15
+    },
+    {
+      "title": "Charity and Persecution under Sennacherib",
+      "startVerse": 16,
+      "endVerse": 20
+    },
+    {
+      "title": "Restoration through Ahikar",
+      "startVerse": 21,
+      "endVerse": 22
+    }
+  ]
 }

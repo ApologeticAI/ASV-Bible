@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "These are the ordinances that you must set before them:",
       "links": "<a href='/AIV/2/20/1'>Exod 20:1</a>; <a href='/AIV/5/4/8'>Deut 4:8</a>",
-      "comment": "God gives specific laws for Israel to follow, highlighting that faith must be lived out through obedience to God's structure. See also Deuteronomy 4:8."
+      "comment": "God gives specific laws for Israel to follow, highlighting that faith must be lived out through obedience to God's structure. See also Deuteronomy 4:8.",
+      "sectionHeader": "Laws Regarding Hebrew Servants"
     },
     {
       "pk": 2021002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "If a man sells his daughter to be a female servant, she shall not go out as the male servants do.",
       "links": "<a href='/AIV/3/25/6'>Lev 25:6</a>",
-      "comment": "The law protected vulnerable girls with specific stipulations. In Christ, all are called to dignity and sonship (Galatians 3:28)."
+      "comment": "The law protected vulnerable girls with specific stipulations. In Christ, all are called to dignity and sonship (Galatians 3:28).",
+      "sectionHeader": "Laws Regarding Female Servants"
     },
     {
       "pk": 2021008,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "Whoever strikes a man so that he dies must surely be put to death.",
       "links": "<a href='/AIV/1/9/6'>Gen 9:6</a>; <a href='/AIV/4/35/16'>Num 35:16-18</a>",
-      "comment": "The seriousness of taking innocent life affirms the sacredness of life—a foundation for later teaching on the value of every person."
+      "comment": "The seriousness of taking innocent life affirms the sacredness of life—a foundation for later teaching on the value of every person.",
+      "sectionHeader": "Laws on Capital Offenses"
     },
     {
       "pk": 2021013,
@@ -218,7 +221,8 @@
       "verse": 18,
       "text": "If men quarrel and one strikes the other with a stone or with his fist, but he does not die but is confined to bed,",
       "links": "<a href='/AIV/3/24/19-20'>Lev 24:19-20</a>",
-      "comment": "The law carefully weighs personal responsibility and restitution, forming the basis for later Christian social teaching (Luke 10:35-37)."
+      "comment": "The law carefully weighs personal responsibility and restitution, forming the basis for later Christian social teaching (Luke 10:35-37).",
+      "sectionHeader": "Laws on Personal Injuries"
     },
     {
       "pk": 2021019,
@@ -242,7 +246,8 @@
       "verse": 20,
       "text": "If a man strikes his male or female slave with a rod, and the slave dies under his hand, he shall surely be punished.",
       "links": "<a href='/AIV/3/25/53'>Lev 25:53</a>",
-      "comment": "Even the life of a servant is protected, underscoring the value God places on every person."
+      "comment": "Even the life of a servant is protected, underscoring the value God places on every person.",
+      "sectionHeader": "Laws on Injury to Slaves"
     },
     {
       "pk": 2021021,
@@ -266,7 +271,8 @@
       "verse": 22,
       "text": "When men strive together and hit a pregnant woman so that her children come out, but there is no harm, he shall be fined as the woman’s husband demands of him, and he shall pay as the judges determine.",
       "links": "<a href='/AIV/1/9/6'>Gen 9:6</a>",
-      "comment": "Human life, even in the womb, is protected, foreshadowing the deeper Christian doctrine of the sanctity of life."
+      "comment": "Human life, even in the womb, is protected, foreshadowing the deeper Christian doctrine of the sanctity of life.",
+      "sectionHeader": "Laws Concerning Pregnant Women and Retaliation"
     },
     {
       "pk": 2021023,
@@ -338,7 +344,8 @@
       "verse": 28,
       "text": "If an ox gores a man or a woman to death, the ox shall surely be stoned and its flesh shall not be eaten, but the owner of the ox shall not be held liable.",
       "links": "<a href='/AIV/3/17/15'>Lev 17:15</a>; <a href='/AIV/4/35/21-24'>Num 35:21-24</a>",
-      "comment": "The law makes clear separation between accidental and intentional harm—prefiguring the later distinction between different kinds of sin (see 1 John 5:16-17)."
+      "comment": "The law makes clear separation between accidental and intentional harm—prefiguring the later distinction between different kinds of sin (see 1 John 5:16-17).",
+      "sectionHeader": "Laws about Animals Causing Harm"
     },
     {
       "pk": 2021029,
@@ -398,7 +405,8 @@
       "verse": 33,
       "text": "If a man opens a pit, or if a man digs a pit and does not cover it, and an ox or a donkey falls into it,",
       "links": "<a href='/AIV/5/22/8'>Deut 22:8</a>",
-      "comment": "This law illustrates the need for care and accountability—preventing harm is a sign of true love for neighbor."
+      "comment": "This law illustrates the need for care and accountability—preventing harm is a sign of true love for neighbor.",
+      "sectionHeader": "Laws about Liability for Pits and Animal Fights"
     },
     {
       "pk": 2021034,
@@ -437,5 +445,47 @@
       "comment": "Greater knowledge brings greater responsibility, a theme carried into the New Testament (James 4:17)."
     }
   ],
-  "translatedAt": "2025-12-24T00:58:08.808Z"
+  "translatedAt": "2025-12-24T00:58:08.808Z",
+  "sections": [
+    {
+      "title": "Laws Regarding Hebrew Servants",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Laws Regarding Female Servants",
+      "startVerse": 7,
+      "endVerse": 11
+    },
+    {
+      "title": "Laws on Capital Offenses",
+      "startVerse": 12,
+      "endVerse": 17
+    },
+    {
+      "title": "Laws on Personal Injuries",
+      "startVerse": 18,
+      "endVerse": 19
+    },
+    {
+      "title": "Laws on Injury to Slaves",
+      "startVerse": 20,
+      "endVerse": 21
+    },
+    {
+      "title": "Laws Concerning Pregnant Women and Retaliation",
+      "startVerse": 22,
+      "endVerse": 27
+    },
+    {
+      "title": "Laws about Animals Causing Harm",
+      "startVerse": 28,
+      "endVerse": 32
+    },
+    {
+      "title": "Laws about Liability for Pits and Animal Fights",
+      "startVerse": 33,
+      "endVerse": 36
+    }
+  ]
 }

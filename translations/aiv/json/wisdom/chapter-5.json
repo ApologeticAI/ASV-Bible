@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then the righteous will stand with great confidence before those who oppressed them and those who made light of their labors.",
       "links": "<a href='/AIV/19/1/5-6'>Ps. 1:5-6</a>; <a href='/AIV/40/5/11-12'>Matt. 5:11-12</a>",
-      "comment": "The scene points to final vindication at the judgment, echoing Psalm 1 and Christ’s Sermon on the Mount, which assures endurance leads to true glory."
+      "comment": "The scene points to final vindication at the judgment, echoing Psalm 1 and Christ’s Sermon on the Mount, which assures endurance leads to true glory.",
+      "sectionHeader": "The Vindication of the Righteous"
     },
     {
       "pk": 27005002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "So it was we who strayed from the path of truth; the light of righteousness did not shine for us, nor did the sun rise upon us.",
       "links": "<a href='/AIV/19/36/9'>Ps. 36:9</a>; <a href='/AIV/43/8/12'>John 8:12</a>",
-      "comment": "The imagery of missing the true light calls back to Christ as the Light of the World, underscoring the necessity of walking faithfully."
+      "comment": "The imagery of missing the true light calls back to Christ as the Light of the World, underscoring the necessity of walking faithfully.",
+      "sectionHeader": "The Fate of the Wicked"
     },
     {
       "pk": 27005007,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "But the righteous live forever, and their reward is with the Lord; the Most High takes care of them.",
       "links": "<a href='/AIV/19/16/11'>Ps. 16:11</a>; <a href='/AIV/43/6/40'>John 6:40</a>",
-      "comment": "Eternal life and reward are themes developed by Jesus and Paul, confirming the hope offered to the faithful."
+      "comment": "Eternal life and reward are themes developed by Jesus and Paul, confirming the hope offered to the faithful.",
+      "sectionHeader": "The Reward of the Righteous"
     },
     {
       "pk": 27005016,
@@ -206,7 +209,8 @@
       "verse": 17,
       "text": "He will take His zeal as armor, and arm creation to punish His enemies.",
       "links": "<a href='/AIV/23/59/17'>Isa. 59:17</a>",
-      "comment": "God’s zeal appears as protective and just, connecting to the messianic prophecies of divine judgment."
+      "comment": "God’s zeal appears as protective and just, connecting to the messianic prophecies of divine judgment.",
+      "sectionHeader": "God’s Judgement on the Wicked"
     },
     {
       "pk": 27005018,
@@ -281,5 +285,27 @@
       "comment": "Final destruction by fire is a strong motif of judgment, connecting to the teachings of Jesus about the ultimate fate of those outside God's grace. The passage closes with an appeal to repentance, ongoing conversion, and perseverance in grace—core themes of apostolic faith."
     }
   ],
-  "translatedAt": "2025-12-24T07:16:12.767Z"
+  "translatedAt": "2025-12-24T07:16:12.767Z",
+  "sections": [
+    {
+      "title": "The Vindication of the Righteous",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "The Fate of the Wicked",
+      "startVerse": 6,
+      "endVerse": 14
+    },
+    {
+      "title": "The Reward of the Righteous",
+      "startVerse": 15,
+      "endVerse": 16
+    },
+    {
+      "title": "God’s Judgement on the Wicked",
+      "startVerse": 17,
+      "endVerse": 23
+    }
+  ]
 }

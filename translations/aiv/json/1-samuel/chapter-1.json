@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "There was a man from Ramathaim Zophim, from the hill country of Ephraim, and his name was Elkanah the son of Jeroham, son of Elihu, son of Tohu, son of Zuph, an Ephraimite.",
       "links": "<a href='/AIV/09/09/4'>1 Samuel 9:4</a>; <a href='/AIV/13/06/22-28'>1 Chronicles 6:22-28</a>",
-      "comment": "The genealogy here sets the background for Samuel's priestly and prophetic authority, highlighting his Levite heritage through the Ephraimite region (cf. 1 Chronicles 6)."
+      "comment": "The genealogy here sets the background for Samuel's priestly and prophetic authority, highlighting his Levite heritage through the Ephraimite region (cf. 1 Chronicles 6).",
+      "sectionHeader": "Elkanah and His Family"
     },
     {
       "pk": 9001002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "After they had eaten and drunk in Shiloh, Hannah arose. Now Eli the priest was sitting on his seat by the doorpost of the temple of the Lord.",
       "links": "<a href='/AIV/09/03/3'>1 Samuel 3:3</a>",
-      "comment": "The 'temple' refers to the sanctuary at Shiloh, preceding the Jerusalem temple. Eli’s role frames the forthcoming miracle in a sanctioned place of worship."
+      "comment": "The 'temple' refers to the sanctuary at Shiloh, preceding the Jerusalem temple. Eli’s role frames the forthcoming miracle in a sanctioned place of worship.",
+      "sectionHeader": "Hannah's Prayer for a Son"
     },
     {
       "pk": 9001010,
@@ -230,7 +232,8 @@
       "verse": 19,
       "text": "They rose early in the morning and worshipped before the Lord. Then they returned and came to their house at Ramah. Elkanah knew Hannah his wife, and the Lord remembered her.",
       "links": "<a href='/AIV/01/21/1'>Genesis 21:1</a>",
-      "comment": "God's remembering results in the fulfillment of His promises. The language echoes Isaac’s birth, suggesting God's ongoing plan for salvation."
+      "comment": "God's remembering results in the fulfillment of His promises. The language echoes Isaac’s birth, suggesting God's ongoing plan for salvation.",
+      "sectionHeader": "The Birth of Samuel"
     },
     {
       "pk": 9001020,
@@ -290,7 +293,8 @@
       "verse": 24,
       "text": "When she had weaned him, she took him up with her, along with a three-year-old bull, an ephah of flour, and a skin of wine, and brought him to the house of the Lord at Shiloh. The child was young.",
       "links": "<a href='/AIV/03/01/10-11'>Leviticus 1:10-11</a>",
-      "comment": "The offerings represent the completeness of dedication; giving her son and these sacrifices prefigure total self-offering to God."
+      "comment": "The offerings represent the completeness of dedication; giving her son and these sacrifices prefigure total self-offering to God.",
+      "sectionHeader": "Hannah Presents Samuel to the Lord"
     },
     {
       "pk": 9001025,
@@ -341,5 +345,27 @@
       "comment": "Like Jesus, who was presented at the temple (Luke 2:22), Samuel's consecration prefigures complete dedication to God’s service. The notion of giving one’s life or one’s children completely to God’s work is the basis for the spiritual commitment seen in the Church."
     }
   ],
-  "translatedAt": "2025-12-24T02:46:00.007Z"
+  "translatedAt": "2025-12-24T02:46:00.007Z",
+  "sections": [
+    {
+      "title": "Elkanah and His Family",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "Hannah's Prayer for a Son",
+      "startVerse": 9,
+      "endVerse": 18
+    },
+    {
+      "title": "The Birth of Samuel",
+      "startVerse": 19,
+      "endVerse": 23
+    },
+    {
+      "title": "Hannah Presents Samuel to the Lord",
+      "startVerse": 24,
+      "endVerse": 28
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "But you, our Lord God, are gracious and true, patient, and rule all things in mercy.",
       "links": "<a href='/AIV/19/86/15'>Ps. 86:15</a>; <a href='/AIV/23/30/18'>Isa. 30:18</a>",
-      "comment": "The description of God's attributes here—grace, truth, patience, and merciful rule—are consistent with many Old Testament depictions, highlighting His enduring qualities. The language affirms God's sovereign kingship, a sign of His authority over creation and judgment."
+      "comment": "The description of God's attributes here—grace, truth, patience, and merciful rule—are consistent with many Old Testament depictions, highlighting His enduring qualities. The language affirms God's sovereign kingship, a sign of His authority over creation and judgment.",
+      "sectionHeader": "God's Mercy and Sovereignty"
     },
     {
       "pk": 27015002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "For we were led astray by human inventions, by the worthless works of human skill and imagination.",
       "links": "<a href='/AIV/45/1/21-23'>Rom. 1:21-23</a>; <a href='/AIV/23/44/9-20'>Isa. 44:9-20</a>",
-      "comment": "Sinful human creativity often turns to idolatry and false worship. Cross-references reinforce that idolatry is not just the making of statues, but the misplaced works of human effort apart from God, distorting the relationship He desires."
+      "comment": "Sinful human creativity often turns to idolatry and false worship. Cross-references reinforce that idolatry is not just the making of statues, but the misplaced works of human effort apart from God, distorting the relationship He desires.",
+      "sectionHeader": "The Folly of Idolatry"
     },
     {
       "pk": 27015005,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "But the most foolish are those who live in exile, oppressing others and making idols of all manner of animals—even the wild beasts, and more grotesque creatures—likening gods to these senseless forms.",
       "links": "<a href='/AIV/45/1/23'>Rom. 1:23</a>; <a href='/AIV/19/106/36-38'>Ps. 106:36-38</a>",
-      "comment": "The passage reflects the absurdity of idolatry—worshiping even detestable or monstrous things. This also echoes Old Testament prohibitions on worshipping animals, underlying the necessity for a pure and uncorrupted worship."
+      "comment": "The passage reflects the absurdity of idolatry—worshiping even detestable or monstrous things. This also echoes Old Testament prohibitions on worshipping animals, underlying the necessity for a pure and uncorrupted worship.",
+      "sectionHeader": "The Degradation of Animal Worship"
     },
     {
       "pk": 27015015,
@@ -233,5 +236,22 @@
       "comment": "The chapter concludes rebuking idolatrous confusion of creation and Creator, pointing towards the principle of rightly ordered worship and an invitation to embrace the fullness of revelation and discernment available in God's true worship."
     }
   ],
-  "translatedAt": "2025-12-24T07:21:14.229Z"
+  "translatedAt": "2025-12-24T07:21:14.229Z",
+  "sections": [
+    {
+      "title": "God's Mercy and Sovereignty",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "The Folly of Idolatry",
+      "startVerse": 4,
+      "endVerse": 13
+    },
+    {
+      "title": "The Degradation of Animal Worship",
+      "startVerse": 14,
+      "endVerse": 19
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "I said, \"I will guard my ways, so that I may not sin with my tongue; I will keep a muzzle on my mouth while the wicked are before me.\"",
       "links": "<a href='/AIV/19/34/13'>Ps. 34:13</a>; <a href='/AIV/59/1/26'>James 1:26</a>",
-      "comment": "David pledges self-control, especially regarding his speech in the presence of evildoers. The emphasis on the tongue links both to wisdom literature and New Testament exhortations for believers to exercise discipline in their words."
+      "comment": "David pledges self-control, especially regarding his speech in the presence of evildoers. The emphasis on the tongue links both to wisdom literature and New Testament exhortations for believers to exercise discipline in their words.",
+      "sectionHeader": "The Brevity of Life"
     },
     {
       "pk": 23039002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "\"And now, Lord, what do I wait for? My hope is in you.\"",
       "links": "<a href='/AIV/19/62/5'>Ps. 62:5</a>; <a href='/AIV/45/5/5'>Rom. 5:5</a>",
-      "comment": "Despite fleeting human pursuits, the psalmist turns to God as the only source of hope. The shift points toward the virtue of hope, which the New Testament connects to trust in the promises of Christ."
+      "comment": "Despite fleeting human pursuits, the psalmist turns to God as the only source of hope. The shift points toward the virtue of hope, which the New Testament connects to trust in the promises of Christ.",
+      "sectionHeader": "A Prayer for Deliverance"
     },
     {
       "pk": 23039008,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "\"Hear my prayer, O LORD, and give ear to my cry; do not be silent at my tears. For I am a stranger with you, a sojourner, as all my fathers were.\"",
       "links": "<a href='/AIV/19/119/19'>Ps. 119:19</a>; <a href='/AIV/58/11/13'>Heb. 11:13</a>",
-      "comment": "All the faithful are pilgrims on earth, longing for their eternal home with God. In Christian tradition, this prepares believers to seek not transient pleasures, but abiding communion and perseverance in faith."
+      "comment": "All the faithful are pilgrims on earth, longing for their eternal home with God. In Christian tradition, this prepares believers to seek not transient pleasures, but abiding communion and perseverance in faith.",
+      "sectionHeader": "Plea for Mercy"
     },
     {
       "pk": 23039013,
@@ -161,5 +164,22 @@
       "comment": "David’s request for respite before death is a humble acknowledgment of the need for God’s mercy at life’s end. This prefigures the Christian desire for a peaceful death and trust in God’s judgment and redemption."
     }
   ],
-  "translatedAt": "2025-12-24T06:12:26.497Z"
+  "translatedAt": "2025-12-24T06:12:26.497Z",
+  "sections": [
+    {
+      "title": "The Brevity of Life",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "A Prayer for Deliverance",
+      "startVerse": 7,
+      "endVerse": 11
+    },
+    {
+      "title": "Plea for Mercy",
+      "startVerse": 12,
+      "endVerse": 13
+    }
+  ]
 }

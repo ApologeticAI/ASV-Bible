@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The eternal Lord alone is righteous, and there is none beside Him.",
       "links": "<a href='/AIV/01/1/1'>Gen. 1:1</a>; <a href='/AIV/19/90/2'>Ps. 90:2</a>",
-      "comment": "This verse acknowledges God's unique, eternal nature, highlighting His righteousness as a core divine attribute. A focus on God's righteousness underpins later teachings about holiness and justice."
+      "comment": "This verse acknowledges God's unique, eternal nature, highlighting His righteousness as a core divine attribute. A focus on God's righteousness underpins later teachings about holiness and justice.",
+      "sectionHeader": "The Lord’s Mercy and Knowledge of Humanity"
     },
     {
       "pk": 28018002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "Do not be slow to show mercy nor hesitate to forgive.",
       "links": "<a href='/AIV/40/6/14'>Matt. 6:14</a>; <a href='/AIV/51/3/13'>Col. 3:13</a>",
-      "comment": "Encourages prompt mercy, echoing Jesus’ teaching about forgiving others as God forgives us."
+      "comment": "Encourages prompt mercy, echoing Jesus’ teaching about forgiving others as God forgives us.",
+      "sectionHeader": "Exhortation to Show Mercy and Generosity"
     },
     {
       "pk": 28018016,
@@ -230,7 +232,8 @@
       "verse": 19,
       "text": "Before you speak, learn; before you become sick, take care of yourself.",
       "links": "<a href='/AIV/20/18/13'>Prov. 18:13</a>; <a href='/AIV/20/13/16'>Prov. 13:16</a>",
-      "comment": "Wisdom calls for preparation and prudence, which are marks of the spiritual life attentive to discipline and stewardship."
+      "comment": "Wisdom calls for preparation and prudence, which are marks of the spiritual life attentive to discipline and stewardship.",
+      "sectionHeader": "The Call to Repentance and Self-Examination"
     },
     {
       "pk": 28018020,
@@ -362,7 +365,8 @@
       "verse": 30,
       "text": "Do not give yourself to your passions; restrain your desires, lest you be torn apart.",
       "links": "<a href='/AIV/20/25/28'>Prov. 25:28</a>; <a href='/AIV/48/5/24'>Gal. 5:24</a>",
-      "comment": "Self-mastery is a principle for holiness and reflects the importance of virtue, especially the control of passions."
+      "comment": "Self-mastery is a principle for holiness and reflects the importance of virtue, especially the control of passions.",
+      "sectionHeader": "Warning Against Following Passions"
     },
     {
       "pk": 28018031,
@@ -401,5 +405,27 @@
       "comment": "Final verse calls for receiving wisdom through obedient listening, a foundation for both faith and spiritual understanding, preparing the heart for fullness of divine life revealed in Christ."
     }
   ],
-  "translatedAt": "2025-12-24T07:32:31.490Z"
+  "translatedAt": "2025-12-24T07:32:31.490Z",
+  "sections": [
+    {
+      "title": "The Lord’s Mercy and Knowledge of Humanity",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "Exhortation to Show Mercy and Generosity",
+      "startVerse": 15,
+      "endVerse": 18
+    },
+    {
+      "title": "The Call to Repentance and Self-Examination",
+      "startVerse": 19,
+      "endVerse": 29
+    },
+    {
+      "title": "Warning Against Following Passions",
+      "startVerse": 30,
+      "endVerse": 33
+    }
+  ]
 }

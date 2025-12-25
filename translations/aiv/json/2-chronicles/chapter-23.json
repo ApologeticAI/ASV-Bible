@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In the seventh year, Jehoiada made himself strong and entered into a covenant with the commanders of hundreds: Azariah son of Jeroham, Ishmael son of Jehohanan, Azariah son of Obed, Maaseiah son of Adaiah, and Elishaphat son of Zichri.",
       "links": "<a href='/AIV/12/11/4'>2 Kings 11:4</a>",
-      "comment": "Jehoiada's covenant marks the initiation of a divine restoration, as God uses faithful leaders to re-establish proper worship and order. The phrase 'made himself strong' suggests action and resolve, foreshadowing the vital role of priestly mediators, a theme deeply rooted in the spiritual leadership of the people (see <a href='/AIV/3/8/30-36'>Leviticus 8:30-36</a>)."
+      "comment": "Jehoiada's covenant marks the initiation of a divine restoration, as God uses faithful leaders to re-establish proper worship and order. The phrase 'made himself strong' suggests action and resolve, foreshadowing the vital role of priestly mediators, a theme deeply rooted in the spiritual leadership of the people (see <a href='/AIV/3/8/30-36'>Leviticus 8:30-36</a>).",
+      "sectionHeader": "Jehoiada Organizes the Restoration of the Davidic King"
     },
     {
       "pk": 14023002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "Then they brought out the king’s son, put the crown on him, and gave him the testimony. They proclaimed him king, anointed him, and shouted, 'Long live the king!'",
       "links": "<a href='/AIV/10/23/3'>2 Samuel 23:3</a>; <a href='/AIV/19/132/11-12'>Psalm 132:11-12</a>",
-      "comment": "Anointing with oil is a symbol of God's chosen one and echoes Davidic kingship, later fulfilled in Christ the anointed Messiah (<a href='/AIV/40/16/16'>Matthew 16:16</a>). Inclusion of the ‘testimony’ (the law/scroll) signifies the king’s commitment to God’s covenant."
+      "comment": "Anointing with oil is a symbol of God's chosen one and echoes Davidic kingship, later fulfilled in Christ the anointed Messiah (<a href='/AIV/40/16/16'>Matthew 16:16</a>). Inclusion of the ‘testimony’ (the law/scroll) signifies the king’s commitment to God’s covenant.",
+      "sectionHeader": "Joash Proclaimed King"
     },
     {
       "pk": 14023012,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "When Athaliah heard the noise of the people running and praising the king, she went to the LORD’s house, to where the people were.",
       "links": "<a href='/AIV/12/11/13'>2 Kings 11:13</a>",
-      "comment": "Athaliah’s intrusion into the temple underscores the seriousness of usurped authority and improper worship. God’s house remains the locus of true leadership and spiritual renewal."
+      "comment": "Athaliah’s intrusion into the temple underscores the seriousness of usurped authority and improper worship. God’s house remains the locus of true leadership and spiritual renewal.",
+      "sectionHeader": "Death of Athaliah"
     },
     {
       "pk": 14023013,
@@ -194,7 +197,8 @@
       "verse": 16,
       "text": "Then Jehoiada made a covenant between himself, all the people, and the king, that they would be the LORD’s people.",
       "links": "<a href='/AIV/2/19/4-6'>Exodus 19:4-6</a>",
-      "comment": "This covenant renewal echoes God’s call for Israel to be His people, establishing the centrality of covenant and obedience to God's statutes—parallels in New Testament community life (<a href='/AIV/60/2/9-10'>1 Peter 2:9-10</a>)."
+      "comment": "This covenant renewal echoes God’s call for Israel to be His people, establishing the centrality of covenant and obedience to God's statutes—parallels in New Testament community life (<a href='/AIV/60/2/9-10'>1 Peter 2:9-10</a>).",
+      "sectionHeader": "Renewal of the Covenant and Reformation"
     },
     {
       "pk": 14023017,
@@ -257,5 +261,27 @@
       "comment": "Joy and peace follow the removal of wickedness and restoration of legitimate authority, echoing the peace and joy that comes through Christ, the true King, who brings order and holiness to God's people."
     }
   ],
-  "translatedAt": "2025-12-24T04:32:46.428Z"
+  "translatedAt": "2025-12-24T04:32:46.428Z",
+  "sections": [
+    {
+      "title": "Jehoiada Organizes the Restoration of the Davidic King",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "Joash Proclaimed King",
+      "startVerse": 11,
+      "endVerse": 11
+    },
+    {
+      "title": "Death of Athaliah",
+      "startVerse": 12,
+      "endVerse": 15
+    },
+    {
+      "title": "Renewal of the Covenant and Reformation",
+      "startVerse": 16,
+      "endVerse": 21
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The LORD spoke to Moses, 'Depart, go up from here, you and the people whom you have brought out of the land of Egypt, to the land I swore to Abraham, to Isaac, and to Jacob, saying, \"To your descendants I will give it.\"'",
       "links": "<a href='/AIV/01/12/7'>Gen. 12:7</a>; <a href='/AIV/02/32/13'>Exod. 32:13</a>",
-      "comment": "God reiterates the promise He made to the patriarchs. Notice the emphasis on God's covenant faithfulness, a key theme throughout Scripture and a pointer toward the new covenant established in Christ (see <a href='/AIV/42/01/72-73'>Luke 1:72-73</a>)."
+      "comment": "God reiterates the promise He made to the patriarchs. Notice the emphasis on God's covenant faithfulness, a key theme throughout Scripture and a pointer toward the new covenant established in Christ (see <a href='/AIV/42/01/72-73'>Luke 1:72-73</a>).",
+      "sectionHeader": "The LORD’s Command to Depart from Sinai"
     },
     {
       "pk": 2033002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "Now Moses used to take the tent and pitch it outside the camp, far off from the camp, and he called it the Tent of Meeting. And everyone who sought the LORD would go out to the Tent of Meeting, which was outside the camp.",
       "links": "<a href='/AIV/02/29/42'>Exod. 29:42</a>; <a href='/AIV/03/01/1'>Lev. 1:1</a>",
-      "comment": "The Tent of Meeting outside the camp shows Israel’s separation from God's presence due to their sin. Yet God still allows access via an intercessor—Moses—prefiguring the ultimate Mediator (see <a href='/AIV/54/02/5'>1 Tim. 2:5</a>)."
+      "comment": "The Tent of Meeting outside the camp shows Israel’s separation from God's presence due to their sin. Yet God still allows access via an intercessor—Moses—prefiguring the ultimate Mediator (see <a href='/AIV/54/02/5'>1 Tim. 2:5</a>).",
+      "sectionHeader": "The Tent of Meeting Outside the Camp"
     },
     {
       "pk": 2033008,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "Moses said to the LORD, 'See, you say to me, \"Bring up this people,\" but you have not let me know whom you will send with me. Yet you have said, \"I know you by name, and you have also found favor in my sight.\"'",
       "links": "<a href='/AIV/02/32/34'>Exod. 32:34</a>; <a href='/AIV/02/33/17'>Exod. 33:17</a>",
-      "comment": "Moses’s plea for clarity demonstrates the importance of personal relationship with God and the assurance of divine favor given to those set apart for God’s purposes."
+      "comment": "Moses’s plea for clarity demonstrates the importance of personal relationship with God and the assurance of divine favor given to those set apart for God’s purposes.",
+      "sectionHeader": "Moses Intercedes for the People"
     },
     {
       "pk": 2033013,
@@ -218,7 +221,8 @@
       "verse": 18,
       "text": "Moses said, 'Please, show me your glory.'",
       "links": "<a href='/AIV/02/24/16-17'>Exod. 24:16-17</a>; <a href='/AIV/43/01/14'>John 1:14</a>",
-      "comment": "Moses' desire to see God's glory anticipates the Incarnation, where the Word is made flesh and God’s glory is fully revealed in Christ."
+      "comment": "Moses' desire to see God's glory anticipates the Incarnation, where the Word is made flesh and God’s glory is fully revealed in Christ.",
+      "sectionHeader": "Moses Asks to See God’s Glory"
     },
     {
       "pk": 2033019,
@@ -281,5 +285,27 @@
       "comment": "Even Moses could only glimpse a partial revelation. The fullness of God is revealed in Christ (see John 1:18), but remains mysterious until the final vision of God in glory."
     }
   ],
-  "translatedAt": "2025-12-24T01:04:57.306Z"
+  "translatedAt": "2025-12-24T01:04:57.306Z",
+  "sections": [
+    {
+      "title": "The LORD’s Command to Depart from Sinai",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "The Tent of Meeting Outside the Camp",
+      "startVerse": 7,
+      "endVerse": 11
+    },
+    {
+      "title": "Moses Intercedes for the People",
+      "startVerse": 12,
+      "endVerse": 17
+    },
+    {
+      "title": "Moses Asks to See God’s Glory",
+      "startVerse": 18,
+      "endVerse": 23
+    }
+  ]
 }

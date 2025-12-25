@@ -3,7 +3,6 @@
   "bookName": "Esther",
   "bookAbbreviation": "Esth",
   "chapter": 8,
-  "sections": [],
   "verses": [
     {
       "pk": 19008001,
@@ -15,7 +14,8 @@
       "verse": 1,
       "text": "On that same day King Xerxes gave Queen Esther the house of Haman, the enemy of the Jews. And Mordecai came before the king, for Esther had told what relation he was to her.",
       "links": "<a href='/AIV/19/2/22'>Esth. 2:22</a>; <a href='/AIV/19/7/6'>Esth. 7:6</a>",
-      "comment": "By revealing her relationship to Mordecai, Esther places her trust in both the king and God’s providence. This act demonstrates divine guidance at work, a theme seen throughout Scripture, emphasizing faith and obedience (cf. Gen. 45:4; Rom. 8:28)."
+      "comment": "By revealing her relationship to Mordecai, Esther places her trust in both the king and God’s providence. This act demonstrates divine guidance at work, a theme seen throughout Scripture, emphasizing faith and obedience (cf. Gen. 45:4; Rom. 8:28).",
+      "sectionHeader": "Esther and Mordecai Honored"
     },
     {
       "pk": 19008002,
@@ -39,7 +39,8 @@
       "verse": 3,
       "text": "Esther spoke again before the king. She fell at his feet, weeping and pleading with him to put an end to the evil scheme Haman the Agagite had planned against the Jews.",
       "links": "<a href='/AIV/19/4/8'>Esth. 4:8</a>; <a href='/AIV/19/7/3-4'>Esth. 7:3-4</a>",
-      "comment": "Esther’s humility and bold intercession prefigure the Church’s relentless prayer before God for deliverance (cf. Rom. 8:26). Her plea for her people highlights the power of persistent intercession."
+      "comment": "Esther’s humility and bold intercession prefigure the Church’s relentless prayer before God for deliverance (cf. Rom. 8:26). Her plea for her people highlights the power of persistent intercession.",
+      "sectionHeader": "Esther Pleads for Her People"
     },
     {
       "pk": 19008004,
@@ -111,7 +112,8 @@
       "verse": 9,
       "text": "So the king’s scribes were summoned at that time, in the third month (that is, the month of Sivan), on the twenty-third day. An edict was written, according to all that Mordecai commanded, to the Jews, the satraps, governors, and officials of the provinces from India to Cush—127 provinces—to each province in its own script and to each people in its own language, and to the Jews in their own writing and language.",
       "links": "<a href='/AIV/19/1/1'>Esth. 1:1</a>; <a href='/AIV/19/3/12'>Esth. 3:12</a>",
-      "comment": "Just as at Pentecost the Holy Spirit spoke to every nation in their own language (Acts 2:6-11), so here the message reaches everyone without distinction, foreshadowing the universal nature of God’s saving plan."
+      "comment": "Just as at Pentecost the Holy Spirit spoke to every nation in their own language (Acts 2:6-11), so here the message reaches everyone without distinction, foreshadowing the universal nature of God’s saving plan.",
+      "sectionHeader": "The King's Decree in Favor of the Jews"
     },
     {
       "pk": 19008010,
@@ -183,7 +185,8 @@
       "verse": 15,
       "text": "Mordecai went out from the presence of the king wearing royal robes of blue and white, a large crown of gold, and a purple garment of fine linen. And the city of Susa shouted and rejoiced.",
       "links": "<a href='/AIV/19/3/10'>Esth. 3:10</a>; <a href='/AIV/19/6/8'>Esth. 6:8</a>",
-      "comment": "Mordecai’s exaltation and royal garments are reminiscent of priestly and kingly roles, reflecting a motif seen later fulfilled perfectly in Christ, the true King and High Priest (Heb. 4:14; Rev. 19:16)."
+      "comment": "Mordecai’s exaltation and royal garments are reminiscent of priestly and kingly roles, reflecting a motif seen later fulfilled perfectly in Christ, the true King and High Priest (Heb. 4:14; Rev. 19:16).",
+      "sectionHeader": "Joy and Celebration among the Jews"
     },
     {
       "pk": 19008016,
@@ -210,5 +213,27 @@
       "comment": "The spread of joy and conversion hints at the prophetic promise that many nations will join God’s people (Isa. 56:6-8). The outward celebration and public witness recalls the visible, communal aspect of worship central throughout Scripture."
     }
   ],
-  "translatedAt": "2025-12-24T05:11:04.845Z"
+  "translatedAt": "2025-12-24T05:11:04.845Z",
+  "sections": [
+    {
+      "title": "Esther and Mordecai Honored",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "Esther Pleads for Her People",
+      "startVerse": 3,
+      "endVerse": 8
+    },
+    {
+      "title": "The King's Decree in Favor of the Jews",
+      "startVerse": 9,
+      "endVerse": 14
+    },
+    {
+      "title": "Joy and Celebration among the Jews",
+      "startVerse": 15,
+      "endVerse": 17
+    }
+  ]
 }

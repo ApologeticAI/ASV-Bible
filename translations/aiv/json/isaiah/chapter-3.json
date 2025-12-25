@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "For look, the Lord, the LORD of hosts, is about to take from Jerusalem and from Judah supply and support—every supply of bread and every supply of water—",
       "links": "<a href='/AIV/11/17/1'>1 Kings 17:1</a>; <a href='/AIV/23/1/19-20'>Isa. 1:19-20</a>",
-      "comment": "A severe judgment is announced: loss of basic necessities. This sets up the consequences of turning away from God. Allegorically, it suggests spiritual deprivation when the people abandon true worship. The mention of 'bread and water' foreshadows Christ as the true Bread and Living Water (John 6:35; John 4:14), pointing to future spiritual fulfillment."
+      "comment": "A severe judgment is announced: loss of basic necessities. This sets up the consequences of turning away from God. Allegorically, it suggests spiritual deprivation when the people abandon true worship. The mention of 'bread and water' foreshadows Christ as the true Bread and Living Water (John 6:35; John 4:14), pointing to future spiritual fulfillment.",
+      "sectionHeader": "Judgment on Jerusalem and Judah"
     },
     {
       "pk": 29003002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "The LORD stands to plead His case; He rises to judge the peoples.",
       "links": "<a href='/AIV/19/82/1'>Ps. 82:1</a>; <a href='/AIV/23/66/16'>Isa. 66:16</a>",
-      "comment": "God is portrayed as the divine Judge over all nations, a theme fulfilled in Christ who will return to judge the living and the dead (Acts 10:42). The concept of universal judgment is foundational in biblical theology."
+      "comment": "God is portrayed as the divine Judge over all nations, a theme fulfilled in Christ who will return to judge the living and the dead (Acts 10:42). The concept of universal judgment is foundational in biblical theology.",
+      "sectionHeader": "Condemnation of the Oppressors"
     },
     {
       "pk": 29003014,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "The LORD says, 'Because the daughters of Zion are proud and walk with stretched necks, flirting with their eyes, walking with mincing steps and jingling with their feet,'",
       "links": "<a href='/AIV/23/32/9'>Isa. 32:9</a>",
-      "comment": "Pride and outward display mark spiritual danger. The emphasis on vanity and external show mirrors New Testament warnings on humility (1 Pet. 3:3-4) and interior transformation. True faith centers on reverence, not external appearances."
+      "comment": "Pride and outward display mark spiritual danger. The emphasis on vanity and external show mirrors New Testament warnings on humility (1 Pet. 3:3-4) and interior transformation. True faith centers on reverence, not external appearances.",
+      "sectionHeader": "The Pride and Humbling of the Daughters of Zion"
     },
     {
       "pk": 29003017,
@@ -317,5 +320,22 @@
       "comment": "Isaiah ends the chapter with a vision of desolation, yet the sorrow sets up the hope for future restoration. Throughout scripture, lament leads to renewal and resurrection, anticipating Christ who turns mourning into gladness for His Church (Isa. 61:3, Rev. 21:4)."
     }
   ],
-  "translatedAt": "2025-12-24T07:52:36.636Z"
+  "translatedAt": "2025-12-24T07:52:36.636Z",
+  "sections": [
+    {
+      "title": "Judgment on Jerusalem and Judah",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "Condemnation of the Oppressors",
+      "startVerse": 13,
+      "endVerse": 15
+    },
+    {
+      "title": "The Pride and Humbling of the Daughters of Zion",
+      "startVerse": 16,
+      "endVerse": 26
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "See what kind of love the Father has given to us, that we should be called children of God—and that is what we are! The reason the world does not know us is that it did not know Him.",
       "links": "<a href='/AIV/43/1/12'>John 1:12</a>; <a href='/AIV/45/8/14-16'>Rom. 8:14-16</a>",
-      "comment": "John emphasizes God's fatherly love that adopts us as His children. This adoption comes through grace. The world's ignorance points to spiritual blindness. Spiritual adoption implies an intimate relationship mediated by God's action. See also Rom. 8:14-16 for the Spirit's role in this adoption."
+      "comment": "John emphasizes God's fatherly love that adopts us as His children. This adoption comes through grace. The world's ignorance points to spiritual blindness. Spiritual adoption implies an intimate relationship mediated by God's action. See also Rom. 8:14-16 for the Spirit's role in this adoption.",
+      "sectionHeader": "Children of God and Purity in Christ"
     },
     {
       "pk": 69003002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "Everyone who commits sin practices lawlessness; sin is lawlessness.",
       "links": "<a href='/AIV/45/6/19'>Rom. 6:19</a>",
-      "comment": "Sin is described as rebellion against God's order. This helps clarify that sin is not just a mistake but a serious rupture of relationship with God. See also Rom. 6:19 for the language of slavery to sin."
+      "comment": "Sin is described as rebellion against God's order. This helps clarify that sin is not just a mistake but a serious rupture of relationship with God. See also Rom. 6:19 for the language of slavery to sin.",
+      "sectionHeader": "Sin and Righteousness"
     },
     {
       "pk": 69003005,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "For this is the message you have heard from the beginning: that we should love one another.",
       "links": "<a href='/AIV/43/13/34'>John 13:34</a>;<a href='/AIV/03/19/18'>Lev. 19:18</a>",
-      "comment": "Love is emphasized as a foundational command. This echoes Jesus' new commandment in John 13:34 but also roots it in the long tradition of God's revelation (Lev. 19:18)."
+      "comment": "Love is emphasized as a foundational command. This echoes Jesus' new commandment in John 13:34 but also roots it in the long tradition of God's revelation (Lev. 19:18).",
+      "sectionHeader": "Love One Another"
     },
     {
       "pk": 69003012,
@@ -230,7 +233,8 @@
       "verse": 19,
       "text": "By this we shall know that we are of the truth and assure our heart before Him;",
       "links": "<a href='/AIV/43/18/37'>John 18:37</a>",
-      "comment": "A life of truth and genuine love gives us confidence before God. Assurance comes through our lived conformity to Christ, rather than just mental assent."
+      "comment": "A life of truth and genuine love gives us confidence before God. Assurance comes through our lived conformity to Christ, rather than just mental assent.",
+      "sectionHeader": "Confidence Before God"
     },
     {
       "pk": 69003020,
@@ -293,5 +297,27 @@
       "comment": "Final emphasis is on reciprocal abiding—believers in God and God in believers. The Holy Spirit’s indwelling is the sign and means of this abiding presence. Faith, obedience, and the gift of the Spirit are united in the life of a Christian."
     }
   ],
-  "translatedAt": "2025-12-24T12:31:03.335Z"
+  "translatedAt": "2025-12-24T12:31:03.335Z",
+  "sections": [
+    {
+      "title": "Children of God and Purity in Christ",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "Sin and Righteousness",
+      "startVerse": 4,
+      "endVerse": 10
+    },
+    {
+      "title": "Love One Another",
+      "startVerse": 11,
+      "endVerse": 18
+    },
+    {
+      "title": "Confidence Before God",
+      "startVerse": 19,
+      "endVerse": 24
+    }
+  ]
 }

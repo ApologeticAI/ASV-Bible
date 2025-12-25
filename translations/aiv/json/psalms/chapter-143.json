@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "LORD, hear my prayer; listen to my pleas in your faithfulness; in your righteousness, answer me.",
       "links": "<a href='/AIV/19/86/6'>Ps. 86:6</a>; <a href='/AIV/19/102/1'>Ps. 102:1</a>",
-      "comment": "David appeals to God's righteousness and faithfulness as the basis for answered prayer. The word 'faithfulness' points to God’s absolute reliability, prefiguring the trust believers have in Christ’s intercession (Heb. 7:25)."
+      "comment": "David appeals to God's righteousness and faithfulness as the basis for answered prayer. The word 'faithfulness' points to God’s absolute reliability, prefiguring the trust believers have in Christ’s intercession (Heb. 7:25).",
+      "sectionHeader": "Prayer for Deliverance and Mercy"
     },
     {
       "pk": 23143002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "Answer me quickly, LORD! My spirit fails! Do not hide your face from me, or I will be like those who go down to the pit.",
       "links": "<a href='/AIV/19/13/3'>Ps. 13:3</a>; <a href='/AIV/19/27/9'>Ps. 27:9</a>",
-      "comment": "David dramatically pleads for God’s presence. The phrase ‘hide your face’ expresses the terror of separation from God, which Christ himself endured for humanity (Mt. 27:46)."
+      "comment": "David dramatically pleads for God’s presence. The phrase ‘hide your face’ expresses the terror of separation from God, which Christ himself endured for humanity (Mt. 27:46).",
+      "sectionHeader": "Supplication for Guidance and Protection"
     },
     {
       "pk": 23143008,
@@ -149,5 +151,17 @@
       "comment": "Justice and mercy are linked here—God’s loyal love brings salvation and vindication. The identification as ‘your servant’ is taken up by Christ himself (Phil. 2:7), forming the model for Christian life and prayer."
     }
   ],
-  "translatedAt": "2025-12-24T06:47:57.420Z"
+  "translatedAt": "2025-12-24T06:47:57.420Z",
+  "sections": [
+    {
+      "title": "Prayer for Deliverance and Mercy",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Supplication for Guidance and Protection",
+      "startVerse": 7,
+      "endVerse": 12
+    }
+  ]
 }

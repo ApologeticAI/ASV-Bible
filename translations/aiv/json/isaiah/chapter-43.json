@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "But now, thus says the LORD, who created you, O Jacob, and he who formed you, O Israel: 'Do not fear, for I have redeemed you; I have called you by name, you are mine.'",
       "links": "<a href='/AIV/01/1/27'>Gen 1:27</a>; <a href='/AIV/23/41/10'>Isa 41:10</a>; <a href='/AIV/24/31/3'>Jer 31:3</a>",
-      "comment": "This verse shows God's personal relationship and ownership of His people. 'Redeemed' is used here in the context of rescue, which finds a fuller meaning in the redemption accomplished by Christ (1 Pet 1:18-19). The calling by name signifies a selection and election reminiscent of baptism, where a person is claimed by God."
+      "comment": "This verse shows God's personal relationship and ownership of His people. 'Redeemed' is used here in the context of rescue, which finds a fuller meaning in the redemption accomplished by Christ (1 Pet 1:18-19). The calling by name signifies a selection and election reminiscent of baptism, where a person is claimed by God.",
+      "sectionHeader": "Israel’s Redemption and Restoration"
     },
     {
       "pk": 29043002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "'Bring out the people who are blind, yet have eyes, who are deaf, yet have ears.'",
       "links": "<a href='/AIV/23/6/9-10'>Isa 6:9-10</a>; <a href='/AIV/40/13/13'>Matt 13:13</a>",
-      "comment": "Refers to spiritual blindness and deafness—a major theme continued by Jesus when he speaks in parables, implying the need for healing not just of the senses but of the soul."
+      "comment": "Refers to spiritual blindness and deafness—a major theme continued by Jesus when he speaks in parables, implying the need for healing not just of the senses but of the soul.",
+      "sectionHeader": "Israel God’s Witness"
     },
     {
       "pk": 29043009,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "Thus says the LORD, who makes a way in the sea, a path in the mighty waters,",
       "links": "<a href='/AIV/02/14/21-22'>Exod 14:21-22</a>",
-      "comment": "Recalls the Exodus, a foundational act of salvation in the Old Testament, repeated liturgically as a pattern for later deliverance."
+      "comment": "Recalls the Exodus, a foundational act of salvation in the Old Testament, repeated liturgically as a pattern for later deliverance.",
+      "sectionHeader": "The LORD Does a New Thing"
     },
     {
       "pk": 29043017,
@@ -266,7 +269,8 @@
       "verse": 22,
       "text": "'Yet you did not call upon me, O Jacob; but you have been weary of me, O Israel!'",
       "links": "<a href='/AIV/23/1/15'>Isa 1:15</a>",
-      "comment": "God notes His people's neglect, which anticipates Christ's frequent call for repentance and genuine worship."
+      "comment": "God notes His people's neglect, which anticipates Christ's frequent call for repentance and genuine worship.",
+      "sectionHeader": "Israel’s Sin and God’s Mercy"
     },
     {
       "pk": 29043023,
@@ -341,5 +345,27 @@
       "comment": "The judgment includes even the religious leaders—the need for a new, holy priesthood is made clear, as fulfilled in the perfect mediation of Christ and His appointed leaders."
     }
   ],
-  "translatedAt": "2025-12-24T08:11:16.710Z"
+  "translatedAt": "2025-12-24T08:11:16.710Z",
+  "sections": [
+    {
+      "title": "Israel’s Redemption and Restoration",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Israel God’s Witness",
+      "startVerse": 8,
+      "endVerse": 15
+    },
+    {
+      "title": "The LORD Does a New Thing",
+      "startVerse": 16,
+      "endVerse": 21
+    },
+    {
+      "title": "Israel’s Sin and God’s Mercy",
+      "startVerse": 22,
+      "endVerse": 28
+    }
+  ]
 }

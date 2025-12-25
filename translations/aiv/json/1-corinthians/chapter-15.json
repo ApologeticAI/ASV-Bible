@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now I remind you, brothers, of the gospel I preached to you, which you received, in which you stand,",
       "links": "<a href='/AIV/48/1/6-9'>Gal. 1:6-9</a>; <a href='/AIV/45/1/16'>Rom. 1:16</a>",
-      "comment": "Paul begins by recalling the foundational message of the gospel, emphasizing the necessity of receiving and standing firm in it. This connects with his earlier stress on the centrality of the apostolic teaching."
+      "comment": "Paul begins by recalling the foundational message of the gospel, emphasizing the necessity of receiving and standing firm in it. This connects with his earlier stress on the centrality of the apostolic teaching.",
+      "sectionHeader": "The Resurrection of Christ"
     },
     {
       "pk": 53015002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "Now if Christ is proclaimed as raised from the dead, how can some of you say there is no resurrection of the dead?",
       "links": "<a href='/AIV/44/23/8'>Acts 23:8</a>",
-      "comment": "Paul addresses error regarding the resurrection, affirming the essential link between Christ’s resurrection and the future resurrection of believers."
+      "comment": "Paul addresses error regarding the resurrection, affirming the essential link between Christ’s resurrection and the future resurrection of believers.",
+      "sectionHeader": "The Resurrection of the Dead"
     },
     {
       "pk": 53015013,
@@ -242,7 +244,8 @@
       "verse": 20,
       "text": "But in fact Christ has been raised from the dead, the firstfruits of those who have fallen asleep.",
       "links": "<a href='/AIV/45/8/29'>Rom. 8:29</a>; <a href='/AIV/03/23/10-11'>Lev. 23:10-11</a>",
-      "comment": "Christ is the 'firstfruits', a term from the Old Testament harvest, symbolizing the beginning of the resurrection for all believers."
+      "comment": "Christ is the 'firstfruits', a term from the Old Testament harvest, symbolizing the beginning of the resurrection for all believers.",
+      "sectionHeader": "The Order of the Resurrection"
     },
     {
       "pk": 53015021,
@@ -350,7 +353,8 @@
       "verse": 29,
       "text": "Otherwise, what will they do who are baptized for the dead? If the dead are not raised at all, why are they baptized for them?",
       "links": "<a href='/AIV/60/3/21'>1 Pet. 3:21</a>",
-      "comment": "A difficult verse; Paul refers to a practice possibly unique to Corinth. It demonstrates early Christians believed in the necessity of resurrection and the efficacy of action on behalf of others—a sign of sacramental economy."
+      "comment": "A difficult verse; Paul refers to a practice possibly unique to Corinth. It demonstrates early Christians believed in the necessity of resurrection and the efficacy of action on behalf of others—a sign of sacramental economy.",
+      "sectionHeader": "Practical Implications of the Resurrection"
     },
     {
       "pk": 53015030,
@@ -422,7 +426,8 @@
       "verse": 35,
       "text": "But someone will say, ‘How are the dead raised? With what kind of body do they come?’",
       "links": "<a href='/AIV/50/3/21'>Phil. 3:21</a>",
-      "comment": "Paul anticipates objections about the nature of resurrection bodies."
+      "comment": "Paul anticipates objections about the nature of resurrection bodies.",
+      "sectionHeader": "The Resurrection Body"
     },
     {
       "pk": 53015036,
@@ -602,7 +607,8 @@
       "verse": 50,
       "text": "Now this I declare, brothers: Flesh and blood cannot inherit the kingdom of God, nor does the perishable inherit the imperishable.",
       "links": "<a href='/AIV/43/3/5'>John 3:5</a>",
-      "comment": "Earthly, perishable life cannot enter God’s eternal kingdom—spiritual rebirth and transformation are necessary."
+      "comment": "Earthly, perishable life cannot enter God’s eternal kingdom—spiritual rebirth and transformation are necessary.",
+      "sectionHeader": "The Triumph Over Death"
     },
     {
       "pk": 53015051,
@@ -701,5 +707,37 @@
       "comment": "Paul closes by urging unwavering hope and faithful action, for labor in Christ partakes of the everlasting victory won through the resurrection. This verse ties together faith, hope, and love as works that endure eternally."
     }
   ],
-  "translatedAt": "2025-12-24T11:52:06.932Z"
+  "translatedAt": "2025-12-24T11:52:06.932Z",
+  "sections": [
+    {
+      "title": "The Resurrection of Christ",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "The Resurrection of the Dead",
+      "startVerse": 12,
+      "endVerse": 19
+    },
+    {
+      "title": "The Order of the Resurrection",
+      "startVerse": 20,
+      "endVerse": 28
+    },
+    {
+      "title": "Practical Implications of the Resurrection",
+      "startVerse": 29,
+      "endVerse": 34
+    },
+    {
+      "title": "The Resurrection Body",
+      "startVerse": 35,
+      "endVerse": 49
+    },
+    {
+      "title": "The Triumph Over Death",
+      "startVerse": 50,
+      "endVerse": 58
+    }
+  ]
 }

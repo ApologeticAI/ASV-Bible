@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Come near, O nations, to hear, and give attention, O peoples! Let the earth hear, and all that fills it; the world, and all that comes from it.",
       "links": "<a href='/AIV/23/1/2'>Isaiah 1:2</a>; <a href='/AIV/19/49/1'>Psalm 49:1</a>",
-      "comment": "Isaiah summons all peoples to listen to God's coming judgment, demonstrating the universality of God's authority."
+      "comment": "Isaiah summons all peoples to listen to God's coming judgment, demonstrating the universality of God's authority.",
+      "sectionHeader": "The Lord’s Judgment Against the Nations"
     },
     {
       "pk": 29034002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "Edom’s streams will be turned into pitch, her soil into sulfur; her land shall become burning pitch.",
       "links": "<a href='/AIV/01/19/24'>Genesis 19:24</a>; <a href='/AIV/66/19/3'>Revelation 19:3</a>",
-      "comment": "The fate of Edom mirrors that of Sodom, symbolizing complete destruction that is a warning to all who reject God’s authority."
+      "comment": "The fate of Edom mirrors that of Sodom, symbolizing complete destruction that is a warning to all who reject God’s authority.",
+      "sectionHeader": "Desolation of Edom"
     },
     {
       "pk": 29034010,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "But the desert owl and the screech owl shall possess it; the owl and the raven shall dwell in it. He shall stretch the line of confusion over it, and the plumb line of emptiness.",
       "links": "<a href='/AIV/24/4/23-26'>Jeremiah 4:23-26</a>",
-      "comment": "Isaiah describes Edom’s transformation from a city to a wasteland, echoing Genesis imagery of uncreation—order returning to chaos."
+      "comment": "Isaiah describes Edom’s transformation from a city to a wasteland, echoing Genesis imagery of uncreation—order returning to chaos.",
+      "sectionHeader": "The Possession of Wild Creatures"
     },
     {
       "pk": 29034012,
@@ -209,5 +212,22 @@
       "comment": "The final verse claims God’s sovereignty over judgment and inheritance. Just as God’s people inherit blessing, God’s justice is everlasting. This points forward to the promise of an eternal inheritance for the faithful, maintained throughout generations according to God’s plan."
     }
   ],
-  "translatedAt": "2025-12-24T08:06:34.448Z"
+  "translatedAt": "2025-12-24T08:06:34.448Z",
+  "sections": [
+    {
+      "title": "The Lord’s Judgment Against the Nations",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "Desolation of Edom",
+      "startVerse": 9,
+      "endVerse": 10
+    },
+    {
+      "title": "The Possession of Wild Creatures",
+      "startVerse": 11,
+      "endVerse": 17
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Simon Peter, a servant and apostle of Jesus Christ, to those who have obtained a faith as precious as ours by the righteousness of our God and Savior Jesus Christ:",
       "links": "<a href='/AIV/45/1/17'>Rom. 1:17</a>; <a href='/AIV/56/1/1'>Titus 1:1</a>; <a href='/AIV/50/3/9'>Phil. 3:9</a>",
-      "comment": "Peter opens by affirming both his role as servant and apostle. The use of 'our God and Savior Jesus Christ' is a high Christology statement, affirming Christ's divinity (see also Titus 2:13). The recipients have obtained the same 'precious faith', echoing unity in belief, and the means of faith is God's righteousness, not human effort."
+      "comment": "Peter opens by affirming both his role as servant and apostle. The use of 'our God and Savior Jesus Christ' is a high Christology statement, affirming Christ's divinity (see also Titus 2:13). The recipients have obtained the same 'precious faith', echoing unity in belief, and the means of faith is God's righteousness, not human effort.",
+      "sectionHeader": "Growth in Christian Virtue"
     },
     {
       "pk": 68001002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "Therefore I intend to remind you of these things, though you know them and are established in the truth that is present with you.",
       "links": "<a href='/AIV/54/4/6'>2 Tim. 4:6</a>",
-      "comment": "Peter aims to repeatedly remind the believers of foundational teachings, showing the importance of continual catechesis and spiritual formation."
+      "comment": "Peter aims to repeatedly remind the believers of foundational teachings, showing the importance of continual catechesis and spiritual formation.",
+      "sectionHeader": "Peter’s Reminder of His Imminent Departure"
     },
     {
       "pk": 68001013,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "For we did not follow cleverly devised myths when we made known to you the power and coming of our Lord Jesus Christ, but we were eyewitnesses of His majesty.",
       "links": "<a href='/AIV/40/17/1-6'>Matt. 17:1-6</a>; <a href='/AIV/43/1/14'>John 1:14</a>",
-      "comment": "This claim of apostolic eyewitness to Jesus’ majesty refers particularly to the Transfiguration. The faith is grounded in historic events, not mere stories (see Matt. 17:1-6). Apostolic testimony is central for transmitting the faith."
+      "comment": "This claim of apostolic eyewitness to Jesus’ majesty refers particularly to the Transfiguration. The faith is grounded in historic events, not mere stories (see Matt. 17:1-6). Apostolic testimony is central for transmitting the faith.",
+      "sectionHeader": "Eyewitnesses of Christ’s Glory and the Reliability of Prophecy"
     },
     {
       "pk": 68001017,
@@ -257,5 +260,22 @@
       "comment": "Scripture’s divine inspiration means that the Spirit leads the apostles and prophets. Divine guidance, not human initiative, brings about true prophecy. This continues the emphasis on the importance of apostolic and authorized transmission."
     }
   ],
-  "translatedAt": "2025-12-24T12:28:49.867Z"
+  "translatedAt": "2025-12-24T12:28:49.867Z",
+  "sections": [
+    {
+      "title": "Growth in Christian Virtue",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "Peter’s Reminder of His Imminent Departure",
+      "startVerse": 12,
+      "endVerse": 15
+    },
+    {
+      "title": "Eyewitnesses of Christ’s Glory and the Reliability of Prophecy",
+      "startVerse": 16,
+      "endVerse": 21
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The oracle concerning the desert by the sea: As tempests sweep through the Negev, so it comes from the desert, from a terrifying land.",
       "links": "<a href='/AIV/23/13/1'>Isa. 13:1</a>; <a href='/AIV/24/50/36-38'>Jer. 50:36-38</a>",
-      "comment": "The 'desert by the sea' refers prophetically to Babylon, which was near a desert and called 'by the sea' because of its canals. This oracle foreshadows judgment."
+      "comment": "The 'desert by the sea' refers prophetically to Babylon, which was near a desert and called 'by the sea' because of its canals. This oracle foreshadows judgment.",
+      "sectionHeader": "Oracle Against Babylon"
     },
     {
       "pk": 29021002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "The oracle concerning Dumah: One calls to me from Seir, 'Watchman, what of the night? Watchman, what of the night?'",
       "links": "<a href='/AIV/1/25/23'>Gen. 25:23</a>",
-      "comment": "Dumah and Seir refer to Edom’s territory. The repeated question signifies spiritual longing and uncertainty about God’s timing. Spiritual darkness here points symbolically to life without the light of revelation."
+      "comment": "Dumah and Seir refer to Edom’s territory. The repeated question signifies spiritual longing and uncertainty about God’s timing. Spiritual darkness here points symbolically to life without the light of revelation.",
+      "sectionHeader": "Oracle Against Dumah"
     },
     {
       "pk": 29021012,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "The oracle concerning Arabia: In the thickets in Arabia you will lodge, O caravans of Dedanites.",
       "links": "<a href='/AIV/1/25/3'>Gen. 25:3</a>",
-      "comment": "The Dedanites—a trading people—are forced into hiding. The prophecy shows how even those dwelling in remote regions are not beyond God’s reach."
+      "comment": "The Dedanites—a trading people—are forced into hiding. The prophecy shows how even those dwelling in remote regions are not beyond God’s reach.",
+      "sectionHeader": "Oracle Against Arabia"
     },
     {
       "pk": 29021014,
@@ -209,5 +212,22 @@
       "comment": "A remnant motif reappears here. God’s word is unfailing. The few who remain reflect the preserving grace that always accompanies divine judgment, pointing to the remnant principle fulfilled in Christ and His body."
     }
   ],
-  "translatedAt": "2025-12-24T08:00:00.510Z"
+  "translatedAt": "2025-12-24T08:00:00.510Z",
+  "sections": [
+    {
+      "title": "Oracle Against Babylon",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "Oracle Against Dumah",
+      "startVerse": 11,
+      "endVerse": 12
+    },
+    {
+      "title": "Oracle Against Arabia",
+      "startVerse": 13,
+      "endVerse": 17
+    }
+  ]
 }

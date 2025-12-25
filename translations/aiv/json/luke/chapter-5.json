@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now it happened, as the crowd pressed in on Him to hear the word of God, that He stood by the Lake of Gennesaret.",
       "links": "<a href='/AIV/43/6/1'>John 6:1</a>; <a href='/AIV/40/4/18'>Matt. 4:18</a>",
-      "comment": "The Lake of Gennesaret is another name for the Sea of Galilee. The crowd's eagerness to hear Jesus suggests His unique authority as a teacher. The repeated title 'word of God' implies divinity and fulfillment of Old Testament prophecy (Deut. 18:18; Isa. 61:1–2)."
+      "comment": "The Lake of Gennesaret is another name for the Sea of Galilee. The crowd's eagerness to hear Jesus suggests His unique authority as a teacher. The repeated title 'word of God' implies divinity and fulfillment of Old Testament prophecy (Deut. 18:18; Isa. 61:1–2).",
+      "sectionHeader": "The Call of the First Disciples"
     },
     {
       "pk": 49005002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "While He was in one of the towns, there came a man covered with leprosy. When he saw Jesus, he fell on his face and begged Him, 'Lord, if You are willing, You can make me clean.'",
       "links": "<a href='/AIV/03/13/45-46'>Lev. 13:45-46</a>; <a href='/AIV/40/8/2'>Matt. 8:2</a>",
-      "comment": "Lepers were outcasts under Mosaic Law (Lev. 13:45-46). The man’s faith in Jesus’ ability to cleanse points to Jesus’ unique holiness and power to restore."
+      "comment": "Lepers were outcasts under Mosaic Law (Lev. 13:45-46). The man’s faith in Jesus’ ability to cleanse points to Jesus’ unique holiness and power to restore.",
+      "sectionHeader": "The Cleansing of a Leper"
     },
     {
       "pk": 49005013,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "One day, as He was teaching, Pharisees and teachers of the law were sitting there, who had come from every village of Galilee, Judea, and Jerusalem. And the power of the Lord was with Him to heal.",
       "links": "<a href='/AIV/42/4/32'>Luke 4:32</a>",
-      "comment": "Jesus teaches with divine authority and power. The presence of religious leaders from all regions sets the stage for conflict and the manifestation of Jesus' heavenly mandate."
+      "comment": "Jesus teaches with divine authority and power. The presence of religious leaders from all regions sets the stage for conflict and the manifestation of Jesus' heavenly mandate.",
+      "sectionHeader": "The Healing of the Paralytic"
     },
     {
       "pk": 49005018,
@@ -326,7 +329,8 @@
       "verse": 27,
       "text": "After this He went out and saw a tax collector named Levi sitting at the tax booth, and He said to him, 'Follow Me.'",
       "links": "<a href='/AIV/40/9/9'>Matt. 9:9</a>",
-      "comment": "Levi (Matthew) would have been despised as a collaborator with Rome. Jesus’ call shows the inclusivity of His kingdom and authority to transform lives through relationship."
+      "comment": "Levi (Matthew) would have been despised as a collaborator with Rome. Jesus’ call shows the inclusivity of His kingdom and authority to transform lives through relationship.",
+      "sectionHeader": "The Call of Levi"
     },
     {
       "pk": 49005028,
@@ -398,7 +402,8 @@
       "verse": 33,
       "text": "They said to Him, 'Why do the disciples of John fast often and offer prayers, and likewise those of the Pharisees, but Yours eat and drink?'",
       "links": "<a href='/AIV/40/9/14'>Matt. 9:14</a>",
-      "comment": "Fasting was a traditional act of piety. The question challenges Jesus’ interpretation of spiritual practices, showing the tension between the old and the new."
+      "comment": "Fasting was a traditional act of piety. The question challenges Jesus’ interpretation of spiritual practices, showing the tension between the old and the new.",
+      "sectionHeader": "The Question About Fasting"
     },
     {
       "pk": 49005034,
@@ -473,5 +478,32 @@
       "comment": "This closing note gently critiques those who prefer established traditions and resist new revelation. Yet, ‘the old is good’ suggests continuity and respect for what came before—hinting that the new way does not reject the old, but fulfills and raises it to a greater level within God’s plan."
     }
   ],
-  "translatedAt": "2025-12-24T10:40:04.418Z"
+  "translatedAt": "2025-12-24T10:40:04.418Z",
+  "sections": [
+    {
+      "title": "The Call of the First Disciples",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "The Cleansing of a Leper",
+      "startVerse": 12,
+      "endVerse": 16
+    },
+    {
+      "title": "The Healing of the Paralytic",
+      "startVerse": 17,
+      "endVerse": 26
+    },
+    {
+      "title": "The Call of Levi",
+      "startVerse": 27,
+      "endVerse": 32
+    },
+    {
+      "title": "The Question About Fasting",
+      "startVerse": 33,
+      "endVerse": 39
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then Satan rose up against Israel and incited David to count the people of Israel.",
       "links": "<a href='/AIV/10/24/1'>2 Sam. 24:1</a>; <a href='/AIV/18/1/6-12'>Job 1:6–12</a>; <a href='/AIV/66/12/9'>Rev. 12:9</a>",
-      "comment": "The name 'Satan' here means adversary or accuser. In 2 Samuel 24:1, it is the anger of the LORD that moves David, showing the mystery of divine providence and permission of evil for greater good. The introduction of Satan as tempter hints at spiritual warfare underlying visible events."
+      "comment": "The name 'Satan' here means adversary or accuser. In 2 Samuel 24:1, it is the anger of the LORD that moves David, showing the mystery of divine providence and permission of evil for greater good. The introduction of Satan as tempter hints at spiritual warfare underlying visible events.",
+      "sectionHeader": "David Numbers Israel"
     },
     {
       "pk": 13021002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "But God was displeased with this thing and struck Israel.",
       "links": "<a href='/AIV/10/24/10-15'>2 Sam. 24:10–15</a>",
-      "comment": "The census is not inherently wrong, but doing it for prideful motives brings guilt. God’s discipline reveals the seriousness of trusting in numbers or human strength rather than in His providence."
+      "comment": "The census is not inherently wrong, but doing it for prideful motives brings guilt. God’s discipline reveals the seriousness of trusting in numbers or human strength rather than in His providence.",
+      "sectionHeader": "David’s Repentance and God's Judgment"
     },
     {
       "pk": 13021008,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "So the LORD sent a plague on Israel, and seventy thousand men of Israel fell.",
       "links": "<a href='/AIV/10/24/15'>2 Sam. 24:15</a>",
-      "comment": "The heavy consequence underscores the seriousness of leadership and collective responsibility. Yet even this harsh punishment is brief compared to the potential length of other options."
+      "comment": "The heavy consequence underscores the seriousness of leadership and collective responsibility. Yet even this harsh punishment is brief compared to the potential length of other options.",
+      "sectionHeader": "The Plague and David’s Intercession"
     },
     {
       "pk": 13021015,
@@ -218,7 +221,8 @@
       "verse": 18,
       "text": "Then the angel of the LORD commanded Gad to tell David to go up and build an altar to the LORD on the threshing floor of Ornan the Jebusite.",
       "links": "<a href='/AIV/01/22/2'>Gen. 22:2</a>; <a href='/AIV/10/24/18'>2 Sam. 24:18</a>",
-      "comment": "The chosen site links back to Abraham’s offering of Isaac (Gen. 22:2), highlighting continuity of sacrifice and foreshadowing the one perfect sacrifice to come."
+      "comment": "The chosen site links back to Abraham’s offering of Isaac (Gen. 22:2), highlighting continuity of sacrifice and foreshadowing the one perfect sacrifice to come.",
+      "sectionHeader": "David Purchases the Threshing Floor of Ornan"
     },
     {
       "pk": 13021019,
@@ -314,7 +318,8 @@
       "verse": 26,
       "text": "David built an altar to the LORD there and offered burnt offerings and peace offerings. He called to the LORD, and He answered him with fire from heaven on the altar of burnt offering.",
       "links": "<a href='/AIV/03/9/24'>Lev. 9:24</a>; <a href='/AIV/11/18/38'>1 Kgs. 18:38</a>",
-      "comment": "The divine fire confirms that David’s sacrifice is accepted, a prefiguration of God’s approval of true worship and sacrifice—fulfilled perfectly in Christ’s self-offering."
+      "comment": "The divine fire confirms that David’s sacrifice is accepted, a prefiguration of God’s approval of true worship and sacrifice—fulfilled perfectly in Christ’s self-offering.",
+      "sectionHeader": "David Builds an Altar"
     },
     {
       "pk": 13021027,
@@ -365,5 +370,32 @@
       "comment": "David’s fear shows that encountering the true and holy presence of God is not to be taken lightly. The need for an accessible but holy place of worship, mediated through sacrifice, finds its fulfillment in later worship through Christ, who removes the barrier between God and man."
     }
   ],
-  "translatedAt": "2025-12-24T04:16:41.049Z"
+  "translatedAt": "2025-12-24T04:16:41.049Z",
+  "sections": [
+    {
+      "title": "David Numbers Israel",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "David’s Repentance and God's Judgment",
+      "startVerse": 7,
+      "endVerse": 13
+    },
+    {
+      "title": "The Plague and David’s Intercession",
+      "startVerse": 14,
+      "endVerse": 17
+    },
+    {
+      "title": "David Purchases the Threshing Floor of Ornan",
+      "startVerse": 18,
+      "endVerse": 25
+    },
+    {
+      "title": "David Builds an Altar",
+      "startVerse": 26,
+      "endVerse": 30
+    }
+  ]
 }

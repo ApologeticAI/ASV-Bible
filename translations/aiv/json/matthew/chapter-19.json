@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When Jesus finished saying these things, he departed from Galilee and went into the region of Judea beyond the Jordan.",
       "links": "<a href='/AIV/47/16/1'>Matt. 16:1</a>; <a href='/AIV/41/10/1'>Mark 10:1</a>",
-      "comment": "Jesus transitions from teaching in Galilee to Judea, highlighting a change in ministry focus and context. Mark's Gospel parallels this journey, pointing to the importance of this teaching moment."
+      "comment": "Jesus transitions from teaching in Galilee to Judea, highlighting a change in ministry focus and context. Mark's Gospel parallels this journey, pointing to the importance of this teaching moment.",
+      "sectionHeader": "Jesus Teaches about Marriage and Divorce"
     },
     {
       "pk": 47019002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "Then children were brought to him so that he might lay his hands on them and pray. But the disciples rebuked those who brought them.",
       "links": "<a href='/AIV/41/10/13'>Mark 10:13</a>; <a href='/AIV/42/18/15'>Luke 18:15</a>",
-      "comment": "Children are welcomed as objects of blessing and prayer, showing Jesus’ tenderness. Laying on of hands points to impartation of grace, hinting at sacramental themes."
+      "comment": "Children are welcomed as objects of blessing and prayer, showing Jesus’ tenderness. Laying on of hands points to impartation of grace, hinting at sacramental themes.",
+      "sectionHeader": "Jesus Blesses the Children"
     },
     {
       "pk": 47019014,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "And behold, a man came up and asked, 'Teacher, what good must I do to have eternal life?'",
       "links": "<a href='/AIV/41/10/17'>Mark 10:17</a>; <a href='/AIV/42/18/18'>Luke 18:18</a>",
-      "comment": "The question is about inheriting eternal life, highlighting the relationship between grace and works. Jesus will point to the fullness of the law and the need for interior transformation."
+      "comment": "The question is about inheriting eternal life, highlighting the relationship between grace and works. Jesus will point to the fullness of the law and the need for interior transformation.",
+      "sectionHeader": "The Rich Young Man"
     },
     {
       "pk": 47019017,
@@ -326,7 +329,8 @@
       "verse": 27,
       "text": "Peter answered him, 'See, we have left everything and followed you. What then will there be for us?'",
       "links": "<a href='/AIV/40/4/20'>Matt. 4:20</a>; <a href='/AIV/41/10/28'>Mark 10:28</a>",
-      "comment": "Peter expresses the sacrificial nature of discipleship, laying groundwork for Jesus to promise a unique reward to those who embrace radical commitment."
+      "comment": "Peter expresses the sacrificial nature of discipleship, laying groundwork for Jesus to promise a unique reward to those who embrace radical commitment.",
+      "sectionHeader": "Reward for Leaving Everything"
     },
     {
       "pk": 47019028,
@@ -365,5 +369,27 @@
       "comment": "Jesus closes teaching with a paradox about divine justice and grace. External privilege does not guarantee spiritual precedence; humility and surrender undergird true greatness."
     }
   ],
-  "translatedAt": "2025-12-24T10:12:59.472Z"
+  "translatedAt": "2025-12-24T10:12:59.472Z",
+  "sections": [
+    {
+      "title": "Jesus Teaches about Marriage and Divorce",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "Jesus Blesses the Children",
+      "startVerse": 13,
+      "endVerse": 15
+    },
+    {
+      "title": "The Rich Young Man",
+      "startVerse": 16,
+      "endVerse": 26
+    },
+    {
+      "title": "Reward for Leaving Everything",
+      "startVerse": 27,
+      "endVerse": 30
+    }
+  ]
 }

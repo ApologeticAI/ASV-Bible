@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Paul, Silvanus, and Timothy, to the church of the Thessalonians in God our Father and the Lord Jesus Christ:",
       "links": "<a href='/AIV/44/15/40'>Acts 15:40</a>; <a href='/AIV/44/17/1'>Acts 17:1</a>",
-      "comment": "Paul includes his companions, Silvanus (Silas) and Timothy, in this greeting, emphasizing unity and apostolic authority. Note the dual reference to God the Father and the Lord Jesus Christ, underscoring the importance of both persons in the spiritual life and the close connection between Christ and the believers (see <a href='/AIV/45/1/7'>Romans 1:7</a>)."
+      "comment": "Paul includes his companions, Silvanus (Silas) and Timothy, in this greeting, emphasizing unity and apostolic authority. Note the dual reference to God the Father and the Lord Jesus Christ, underscoring the importance of both persons in the spiritual life and the close connection between Christ and the believers (see <a href='/AIV/45/1/7'>Romans 1:7</a>).",
+      "sectionHeader": "Greeting"
     },
     {
       "pk": 60001002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "We must always give thanks to God for you, brothers, as is fitting, because your faith is growing abundantly, and the love of every one of you for one another is increasing.",
       "links": "<a href='/AIV/52/1/2-3'>1 Thessalonians 1:2-3</a>; <a href='/AIV/51/1/4'>Colossians 1:4</a>",
-      "comment": "Paul notes the continuous growth of both faith and love within the community, two foundational virtues. The mention of 'as is fitting' highlights a spiritual duty to give thanks for visible fruit within the church, reflecting a belief in the organic growth of the Church as a living body (<a href='/AIV/46/12/27'>1 Corinthians 12:27</a>)."
+      "comment": "Paul notes the continuous growth of both faith and love within the community, two foundational virtues. The mention of 'as is fitting' highlights a spiritual duty to give thanks for visible fruit within the church, reflecting a belief in the organic growth of the Church as a living body (<a href='/AIV/46/12/27'>1 Corinthians 12:27</a>).",
+      "sectionHeader": "Thanksgiving and Boasting in Suffering"
     },
     {
       "pk": 60001004,
@@ -62,7 +64,8 @@
       "verse": 5,
       "text": "This is evidence of the righteous judgment of God, so that you may be considered worthy of the kingdom of God, for which you are suffering.",
       "links": "<a href='/AIV/40/5/10-12'>Matthew 5:10-12</a>; <a href='/AIV/45/8/17'>Romans 8:17</a>",
-      "comment": "Enduring suffering for the kingdom is seen as evidence for God's just judgment and the believer's worthiness. This affirms a theology of suffering and sanctification. Being 'considered worthy' points to a process and divine initiative, hinting at the sanctifying work through trial."
+      "comment": "Enduring suffering for the kingdom is seen as evidence for God's just judgment and the believer's worthiness. This affirms a theology of suffering and sanctification. Being 'considered worthy' points to a process and divine initiative, hinting at the sanctifying work through trial.",
+      "sectionHeader": "The Righteous Judgment at Christ’s Coming"
     },
     {
       "pk": 60001006,
@@ -134,7 +137,8 @@
       "verse": 11,
       "text": "To this end we always pray for you, that our God may make you worthy of his calling and fulfill every resolve for good and every work of faith by his power,",
       "links": "<a href='/AIV/51/1/9-10'>Colossians 1:9-10</a>; <a href='/AIV/45/8/28-30'>Romans 8:28-30</a>",
-      "comment": "Paul’s prayer asks both for worthiness and for completed good works, not by human effort alone but through God's power. This reflects a theology where sanctification is enabled by grace and prayer, reinforcing the connection between calling, works, and divine initiative."
+      "comment": "Paul’s prayer asks both for worthiness and for completed good works, not by human effort alone but through God's power. This reflects a theology where sanctification is enabled by grace and prayer, reinforcing the connection between calling, works, and divine initiative.",
+      "sectionHeader": "Prayer for the Thessalonians"
     },
     {
       "pk": 60001012,
@@ -149,5 +153,27 @@
       "comment": "The mutual glorification of Christ and the believer points to deep union with our Lord, achieved by grace. This final verse reiterates the powerful connection between the Christian and Jesus, centered in grace, in both this life and at the consummation. A spiritual interpretation sees the Church as the vessel of Christ’s glory."
     }
   ],
-  "translatedAt": "2025-12-24T12:09:46.309Z"
+  "translatedAt": "2025-12-24T12:09:46.309Z",
+  "sections": [
+    {
+      "title": "Greeting",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "Thanksgiving and Boasting in Suffering",
+      "startVerse": 3,
+      "endVerse": 4
+    },
+    {
+      "title": "The Righteous Judgment at Christ’s Coming",
+      "startVerse": 5,
+      "endVerse": 10
+    },
+    {
+      "title": "Prayer for the Thessalonians",
+      "startVerse": 11,
+      "endVerse": 12
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The word that came to Jeremiah from the LORD, saying:",
       "links": "<a href='/AIV/24/1/1'>Jer. 1:1-2</a>",
-      "comment": "This introductory formula signals a new prophecy, emphasizing divine origin. Jeremiah's role as a prophet echoes Moses' role as an intermediary and foreshadows the later importance of apostolic authority in God's plan."
+      "comment": "This introductory formula signals a new prophecy, emphasizing divine origin. Jeremiah's role as a prophet echoes Moses' role as an intermediary and foreshadows the later importance of apostolic authority in God's plan.",
+      "sectionHeader": "The Restoration of Israel and Judah"
     },
     {
       "pk": 30030002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "'For thus says the LORD: We have heard the sound of trembling, fear, and not peace.",
       "links": "<a href='/AIV/23/22/4'>Isa. 22:4</a>; <a href='/AIV/24/6/24'>Jer. 6:24</a>",
-      "comment": "The approach of trouble brings fear rather than peace. This echoes humanity’s condition before ultimate redemption through Christ."
+      "comment": "The approach of trouble brings fear rather than peace. This echoes humanity’s condition before ultimate redemption through Christ.",
+      "sectionHeader": "Jacob’s Distress and Deliverance"
     },
     {
       "pk": 30030006,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "For thus says the LORD: 'Your wound is incurable, your injury is grievous.",
       "links": "<a href='/AIV/24/8/22'>Jer. 8:22</a>; <a href='/AIV/23/1/6'>Isa. 1:6</a>",
-      "comment": "Humanity’s spiritual condition is described as incurable without divine intervention, setting the stage for the need of a Savior."
+      "comment": "Humanity’s spiritual condition is described as incurable without divine intervention, setting the stage for the need of a Savior.",
+      "sectionHeader": "Healing of Zion’s Wounds and Punishment of Enemies"
     },
     {
       "pk": 30030013,
@@ -218,7 +221,8 @@
       "verse": 18,
       "text": "Thus says the LORD: 'Behold, I will restore the fortunes of Jacob’s tents and have compassion on his dwellings. The city shall be rebuilt on its mound, and the place of palace shall stand as of old.",
       "links": "<a href='/AIV/24/31/4'>Jer. 31:4</a>; <a href='/AIV/16/3/8'>Neh. 3:8</a>",
-      "comment": "God's renewal involves both material and spiritual restoration. The rebuilding of the city foreshadows the New Jerusalem and the visible gathering of believers."
+      "comment": "God's renewal involves both material and spiritual restoration. The rebuilding of the city foreshadows the New Jerusalem and the visible gathering of believers.",
+      "sectionHeader": "The Renewal of Jerusalem and the Covenant Restored"
     },
     {
       "pk": 30030019,
@@ -278,7 +282,8 @@
       "verse": 23,
       "text": "Behold, the storm of the LORD! Wrath has gone forth, a sweeping whirlwind; it will burst upon the head of the wicked.",
       "links": "<a href='/AIV/24/23/19'>Jer. 23:19</a>; <a href='/AIV/19/11/6'>Ps. 11:6</a>",
-      "comment": "God’s judgment is swift and decisive, reinforcing that mercy must be sought lest judgment fall on the unrepentant."
+      "comment": "God’s judgment is swift and decisive, reinforcing that mercy must be sought lest judgment fall on the unrepentant.",
+      "sectionHeader": "The Wrath of the Lord"
     },
     {
       "pk": 30030024,
@@ -293,5 +298,32 @@
       "comment": "Final fulfillment and understanding come in the 'latter days,' suggesting the future realization of God's plan in and through the Messiah and the establishment of a visible, spiritual kingdom."
     }
   ],
-  "translatedAt": "2025-12-24T08:37:48.520Z"
+  "translatedAt": "2025-12-24T08:37:48.520Z",
+  "sections": [
+    {
+      "title": "The Restoration of Israel and Judah",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "Jacob’s Distress and Deliverance",
+      "startVerse": 5,
+      "endVerse": 11
+    },
+    {
+      "title": "Healing of Zion’s Wounds and Punishment of Enemies",
+      "startVerse": 12,
+      "endVerse": 17
+    },
+    {
+      "title": "The Renewal of Jerusalem and the Covenant Restored",
+      "startVerse": 18,
+      "endVerse": 22
+    },
+    {
+      "title": "The Wrath of the Lord",
+      "startVerse": 23,
+      "endVerse": 24
+    }
+  ]
 }

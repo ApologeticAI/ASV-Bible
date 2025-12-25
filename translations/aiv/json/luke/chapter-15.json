@@ -38,7 +38,8 @@
       "verse": 3,
       "text": "So He told them this parable:",
       "links": "<a href='/AIV/40/13/3'>Matt. 13:3</a>",
-      "comment": "Jesus often teaches in parables to reveal deep spiritual truths to those open to faith."
+      "comment": "Jesus often teaches in parables to reveal deep spiritual truths to those open to faith.",
+      "sectionHeader": "The Parable of the Lost Sheep"
     },
     {
       "pk": 49015004,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "'Or what woman, having ten silver coins, if she loses one coin, does not light a lamp, sweep the house, and search carefully until she finds it?'",
       "links": "<a href='/AIV/19/119/105'>Ps. 119:105</a>",
-      "comment": "The coin parable continues, now with a woman, showing God’s searching love is thorough and meticulous, like the care of a household."
+      "comment": "The coin parable continues, now with a woman, showing God’s searching love is thorough and meticulous, like the care of a household.",
+      "sectionHeader": "The Parable of the Lost Coin"
     },
     {
       "pk": 49015009,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "Then He said, 'A certain man had two sons.'",
       "links": "",
-      "comment": "Jesus introduces the Parable of the Prodigal Son, a narrative rich in spiritual meaning about forgiveness and restoration."
+      "comment": "Jesus introduces the Parable of the Prodigal Son, a narrative rich in spiritual meaning about forgiveness and restoration.",
+      "sectionHeader": "The Parable of the Prodigal Son"
     },
     {
       "pk": 49015012,
@@ -389,5 +392,22 @@
       "comment": "Joy in the recovery of the lost reveals God’s heart: restoration, not condemnation. The structure of the parable hints at the necessity of repentance and full integration into the family, which prefigures entry into the fullness of God’s People."
     }
   ],
-  "translatedAt": "2025-12-24T10:52:03.743Z"
+  "translatedAt": "2025-12-24T10:52:03.743Z",
+  "sections": [
+    {
+      "title": "The Parable of the Lost Sheep",
+      "startVerse": 3,
+      "endVerse": 7
+    },
+    {
+      "title": "The Parable of the Lost Coin",
+      "startVerse": 8,
+      "endVerse": 10
+    },
+    {
+      "title": "The Parable of the Prodigal Son",
+      "startVerse": 11,
+      "endVerse": 32
+    }
+  ]
 }

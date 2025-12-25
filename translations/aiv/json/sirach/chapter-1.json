@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "All wisdom comes from the Lord, and with Him it remains forever.",
       "links": "<a href='/AIV/20/2/6'>Prov. 2:6</a>; <a href='/AIV/23/40/14'>Isa. 40:14</a>",
-      "comment": "This verse connects God's wisdom directly to Himself, highlighting that true wisdom is a divine attribute. The eternal nature of wisdom aligns with the central Christological theme that Christ is the wisdom and Word of God (see 1 Cor. 1:24; John 1:1)."
+      "comment": "This verse connects God's wisdom directly to Himself, highlighting that true wisdom is a divine attribute. The eternal nature of wisdom aligns with the central Christological theme that Christ is the wisdom and Word of God (see 1 Cor. 1:24; John 1:1).",
+      "sectionHeader": "The Source and Gift of Wisdom"
     },
     {
       "pk": 28001002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "Fear of the Lord is glory and pride, joy and a crown of rejoicing.",
       "links": "<a href='/AIV/20/9/10'>Prov. 9:10</a>; <a href='/AIV/19/111/10'>Ps. 111:10</a>",
-      "comment": "The fear of the Lord is foundational for all wisdom, leading to glory, honor, and spiritual joy. In the spiritual sense, a crown points to eternal reward (James 1:12; Rev. 2:10)."
+      "comment": "The fear of the Lord is foundational for all wisdom, leading to glory, honor, and spiritual joy. In the spiritual sense, a crown points to eternal reward (James 1:12; Rev. 2:10).",
+      "sectionHeader": "The Fear of the Lord"
     },
     {
       "pk": 28001011,
@@ -242,7 +244,8 @@
       "verse": 20,
       "text": "Unrighteous anger cannot be justified, for a man’s wrath tips him toward his downfall.",
       "links": "<a href='/AIV/59/1/19-20'>Jas. 1:19-20</a>; <a href='/AIV/49/4/26-27'>Eph. 4:26-27</a>",
-      "comment": "Warns against unjust anger. The need to master one’s passions is foundational for spiritual growth and sanctification."
+      "comment": "Warns against unjust anger. The need to master one’s passions is foundational for spiritual growth and sanctification.",
+      "sectionHeader": "Conduct Befitting Wisdom"
     },
     {
       "pk": 28001021,
@@ -365,5 +368,22 @@
       "comment": "Patience through trials is rewarded by God, as seen in many biblical stories. This reflects the perennial Christian call to perseverance and trust in God’s justice."
     }
   ],
-  "translatedAt": "2025-12-24T07:23:42.406Z"
+  "translatedAt": "2025-12-24T07:23:42.406Z",
+  "sections": [
+    {
+      "title": "The Source and Gift of Wisdom",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "The Fear of the Lord",
+      "startVerse": 10,
+      "endVerse": 19
+    },
+    {
+      "title": "Conduct Befitting Wisdom",
+      "startVerse": 20,
+      "endVerse": 30
+    }
+  ]
 }

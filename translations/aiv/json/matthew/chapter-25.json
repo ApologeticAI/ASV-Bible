@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then the kingdom of heaven will be like ten virgins, who took their lamps and went out to meet the bridegroom.",
       "links": "<a href='/AIV/40/22/2'>Matt 22:2</a>; <a href='/AIV/19/45/14'>Ps 45:14</a>",
-      "comment": "The parable compares the kingdom to a wedding procession, echoing Old Testament imagery of Israel as the bride and God as the groom (e.g., Ps 45:14). The theme of anticipation for the coming of Christ is central here."
+      "comment": "The parable compares the kingdom to a wedding procession, echoing Old Testament imagery of Israel as the bride and God as the groom (e.g., Ps 45:14). The theme of anticipation for the coming of Christ is central here.",
+      "sectionHeader": "The Parable of the Ten Virgins"
     },
     {
       "pk": 47025002,
@@ -170,7 +171,8 @@
       "verse": 14,
       "text": "For it will be like a man going on a journey, who called his servants and entrusted to them his possessions.",
       "links": "<a href='/AIV/42/19/12-13'>Luke 19:12-13</a>",
-      "comment": "This begins the Parable of the Talents, another image of the kingdom—a man (a Christ figure) entrusts his servants with responsibilities."
+      "comment": "This begins the Parable of the Talents, another image of the kingdom—a man (a Christ figure) entrusts his servants with responsibilities.",
+      "sectionHeader": "The Parable of the Talents"
     },
     {
       "pk": 47025015,
@@ -374,7 +376,8 @@
       "verse": 31,
       "text": "When the Son of Man comes in his glory, and all the angels with him, then he will sit on his glorious throne.",
       "links": "<a href='/AIV/27/7/13-14'>Dan 7:13-14</a>; <a href='/AIV/66/20/11'>Rev 20:11</a>",
-      "comment": "This alludes to Daniel 7:13–14, identifying Jesus as the glorious Son of Man, a divine title and a claim to divinity."
+      "comment": "This alludes to Daniel 7:13–14, identifying Jesus as the glorious Son of Man, a divine title and a claim to divinity.",
+      "sectionHeader": "The Judgment of the Nations"
     },
     {
       "pk": 47025032,
@@ -557,5 +560,22 @@
       "comment": "Jesus clearly teaches the reality of eternal destinies. Both reward and punishment are everlasting; works have an ultimate eschatological consequence."
     }
   ],
-  "translatedAt": "2025-12-24T10:18:58.819Z"
+  "translatedAt": "2025-12-24T10:18:58.819Z",
+  "sections": [
+    {
+      "title": "The Parable of the Ten Virgins",
+      "startVerse": 1,
+      "endVerse": 13
+    },
+    {
+      "title": "The Parable of the Talents",
+      "startVerse": 14,
+      "endVerse": 30
+    },
+    {
+      "title": "The Judgment of the Nations",
+      "startVerse": 31,
+      "endVerse": 46
+    }
+  ]
 }

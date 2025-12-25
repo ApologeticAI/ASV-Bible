@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now the king of Egypt gathered a great army, like sand on the shore of the sea, and many ships, and sought to seize Alexander’s kingdom by deception, and add it to his own.",
       "links": "<a href='/AIV/01/22/17'>Gen. 22:17</a>; <a href='/AIV/19/139/18'>Ps. 139:18</a>",
-      "comment": "The king of Egypt here refers to Ptolemy VI Philometor. 'Sand on the shore' is an Old Testament image for an uncountable multitude (see Gen. 22:17). The pattern of nations rising against each other, even through deception, mirrors prophecies of turmoil before the full establishment of God’s reign."
+      "comment": "The king of Egypt here refers to Ptolemy VI Philometor. 'Sand on the shore' is an Old Testament image for an uncountable multitude (see Gen. 22:17). The pattern of nations rising against each other, even through deception, mirrors prophecies of turmoil before the full establishment of God’s reign.",
+      "sectionHeader": "Ptolemy's Betrayal of Alexander"
     },
     {
       "pk": 20011002,
@@ -266,7 +267,8 @@
       "verse": 22,
       "text": "In those days Jonathan gathered those from Judea to attack the citadel in Jerusalem, and they made many siege engines against it.",
       "links": "<a href='/AIV/20/02/45'>1Macc 2:45</a>",
-      "comment": "Jonathan’s leadership reflects the ongoing struggle for the holy city. The construction of siege engines illustrates Israel’s ongoing quest for religious and national freedom, fulfilled in spiritual freedom through Christ (cf. John 8:36)."
+      "comment": "Jonathan’s leadership reflects the ongoing struggle for the holy city. The construction of siege engines illustrates Israel’s ongoing quest for religious and national freedom, fulfilled in spiritual freedom through Christ (cf. John 8:36).",
+      "sectionHeader": "Jonathan Renews Alliance with Demetrius"
     },
     {
       "pk": 20011023,
@@ -470,7 +472,8 @@
       "verse": 39,
       "text": "However, Trypho, a follower of Alexander, conspired to become king and seized Antioch.",
       "links": "",
-      "comment": "Earthly plots never cease, showing the ongoing need for a trustworthy and legitimate ruler—a theme ultimately fulfilled in Jesus, the King of Kings."
+      "comment": "Earthly plots never cease, showing the ongoing need for a trustworthy and legitimate ruler—a theme ultimately fulfilled in Jesus, the King of Kings.",
+      "sectionHeader": "Rise of Trypho and the Young Antiochus"
     },
     {
       "pk": 20011040,
@@ -614,7 +617,8 @@
       "verse": 51,
       "text": "He marched against Jonathan in the plain of Asor with a large army.",
       "links": "",
-      "comment": "The subsequent confrontation emphasizes the theme of testing and perseverance, familiar to God’s people throughout history."
+      "comment": "The subsequent confrontation emphasizes the theme of testing and perseverance, familiar to God’s people throughout history.",
+      "sectionHeader": "Conflict with Trypho and the Siege of Beth-zur"
     },
     {
       "pk": 20011052,
@@ -782,7 +786,8 @@
       "verse": 65,
       "text": "But Simon went to Gaza, besieged it, and surrounded the city; he built a siege tower and brought it close to the city, attacking and capturing a tower.",
       "links": "",
-      "comment": "Simon’s further conquests highlight the methodical reclaiming of God’s promised land, demonstrating faithful leadership and perseverance."
+      "comment": "Simon’s further conquests highlight the methodical reclaiming of God’s promised land, demonstrating faithful leadership and perseverance.",
+      "sectionHeader": "Simon Captures Gaza"
     },
     {
       "pk": 20011066,
@@ -893,5 +898,32 @@
       "comment": "The persistence of enemies shows that until the final coming of God’s King, the faithful will remain in struggle—yet the ultimate victory is assured in Christ’s return (Rev. 19:11-16)."
     }
   ],
-  "translatedAt": "2025-12-24T05:24:45.632Z"
+  "translatedAt": "2025-12-24T05:24:45.632Z",
+  "sections": [
+    {
+      "title": "Ptolemy's Betrayal of Alexander",
+      "startVerse": 1,
+      "endVerse": 21
+    },
+    {
+      "title": "Jonathan Renews Alliance with Demetrius",
+      "startVerse": 22,
+      "endVerse": 38
+    },
+    {
+      "title": "Rise of Trypho and the Young Antiochus",
+      "startVerse": 39,
+      "endVerse": 50
+    },
+    {
+      "title": "Conflict with Trypho and the Siege of Beth-zur",
+      "startVerse": 51,
+      "endVerse": 64
+    },
+    {
+      "title": "Simon Captures Gaza",
+      "startVerse": 65,
+      "endVerse": 74
+    }
+  ]
 }

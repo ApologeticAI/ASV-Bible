@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When the commotion among the people gathered around the chief men of the Assyrians had died down, Holofernes, the commander of the army, said in the presence of all the foreign people and of all the sons of Moab,",
       "links": "<a href='/AIV/07/7/23'>Judg. 7:23</a>; <a href='/AIV/04/31/8'>Num. 31:8</a>",
-      "comment": "This verse introduces Holofernes, the Assyrian commander, and shows his authority over both foreigners and the Moabites. The setting echoes Old Testament gatherings of leaders before important pronouncements."
+      "comment": "This verse introduces Holofernes, the Assyrian commander, and shows his authority over both foreigners and the Moabites. The setting echoes Old Testament gatherings of leaders before important pronouncements.",
+      "sectionHeader": "Holofernes Threatens Israel"
     },
     {
       "pk": 18006002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Then Achior, leader of all the Ammonites, said to him, 'Let my lord please listen to what your servant will say, and allow me to speak, since what I have said previously is true.'",
       "links": "<a href='/AIV/18/5/5'>Jdt. 5:5</a>; <a href='/AIV/09/25/24'>1 Sam. 25:24</a>",
-      "comment": "Achior’s plea to speak truth reflects the importance of wisdom and openness to counsel, themes echoed throughout the Wisdom literature (e.g., Proverbs) and the apostolic tradition."
+      "comment": "Achior’s plea to speak truth reflects the importance of wisdom and openness to counsel, themes echoed throughout the Wisdom literature (e.g., Proverbs) and the apostolic tradition.",
+      "sectionHeader": "Achior Testifies to Israel's God"
     },
     {
       "pk": 18006009,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "Then Holofernes ordered his guards who were standing around his tent, 'Take Achior and lead him to Bethulia. Hand him over to the Israelites, and when you seize them, kill him along with them.'",
       "links": "<a href='/AIV/17/7/9-10'>Esth. 7:9-10</a>; <a href='/AIV/18/7/18'>Jdt. 7:18</a>",
-      "comment": "Achior becomes a scapegoat, similar to how the prophets and Christ Himself bore the consequences of standing for truth (cf. Isa. 53:7-12)."
+      "comment": "Achior becomes a scapegoat, similar to how the prophets and Christ Himself bore the consequences of standing for truth (cf. Isa. 53:7-12).",
+      "sectionHeader": "Achior Delivered to the Israelites"
     },
     {
       "pk": 18006016,
@@ -230,7 +233,8 @@
       "verse": 19,
       "text": "Then the people fell down and worshiped God. They cried out, 'O Lord God of heaven, look upon their arrogance, and have mercy on the humble of your people, and look favorably this day upon those who are set apart to you.'",
       "links": "<a href='/AIV/14/7/14'>2 Chr. 7:14</a>; <a href='/AIV/23/66/2'>Isa. 66:2</a>",
-      "comment": "True worship and humble prayer are the proper response to danger and pride. God exalts the humble and brings down the proud—a theme fulfilled in the Beatitudes (Matt. 5:3-12)."
+      "comment": "True worship and humble prayer are the proper response to danger and pride. God exalts the humble and brings down the proud—a theme fulfilled in the Beatitudes (Matt. 5:3-12).",
+      "sectionHeader": "Israel Prays for Deliverance"
     },
     {
       "pk": 18006020,
@@ -257,5 +261,27 @@
       "comment": "Waiting through the night in prayer signifies perseverance and hope, a pattern mirrored by Christ’s own nights of prayer (Luke 6:12) and reflected in the tradition of vigil and watchfulness before great acts of God."
     }
   ],
-  "translatedAt": "2025-12-24T05:02:33.031Z"
+  "translatedAt": "2025-12-24T05:02:33.031Z",
+  "sections": [
+    {
+      "title": "Holofernes Threatens Israel",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Achior Testifies to Israel's God",
+      "startVerse": 8,
+      "endVerse": 14
+    },
+    {
+      "title": "Achior Delivered to the Israelites",
+      "startVerse": 15,
+      "endVerse": 18
+    },
+    {
+      "title": "Israel Prays for Deliverance",
+      "startVerse": 19,
+      "endVerse": 21
+    }
+  ]
 }

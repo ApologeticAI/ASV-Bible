@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Woe to the stubborn children, declares Yahweh, who carry out plans that are not mine, who make alliances without my Spirit, adding sin to sin.",
       "links": "<a href='/AIV/05/29/19'>Deut. 29:19</a>; <a href='/AIV/23/9/13'>Isa. 9:13</a>",
-      "comment": "Isaiah rebukes Israel for self-reliant political maneuvering without divine approval, showing the danger of acting independently of God's guidance. This introduces the theme of human pride versus divine authority."
+      "comment": "Isaiah rebukes Israel for self-reliant political maneuvering without divine approval, showing the danger of acting independently of God's guidance. This introduces the theme of human pride versus divine authority.",
+      "sectionHeader": "Woe to Those Who Rely on Egypt"
     },
     {
       "pk": 29030002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Now go, write it before them on a tablet and inscribe it in a scroll, that it may serve for future generations as a witness forever.",
       "links": "<a href='/AIV/23/8/16'>Isa. 8:16</a>; <a href='/AIV/35/2/2'>Hab. 2:2</a>",
-      "comment": "God commands the permanent recording of this warning, underscoring the enduring relevance of His word. This hints at the principle of scriptural tradition."
+      "comment": "God commands the permanent recording of this warning, underscoring the enduring relevance of His word. This hints at the principle of scriptural tradition.",
+      "sectionHeader": "Rebellion and Refusal to Hear the Lord"
     },
     {
       "pk": 29030009,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "For thus says the Lord Yahweh, the Holy One of Israel: 'In returning and rest you shall be saved; in quietness and trust is your strength.' But you were unwilling.",
       "links": "<a href='/AIV/19/46/10'>Ps. 46:10</a>; <a href='/AIV/40/11/28'>Matt. 11:28-29</a>",
-      "comment": "True salvation and strength lie in repentance and faith. See Jesus' invitation in Matthew—a spiritual interpretation with messianic fulfillment."
+      "comment": "True salvation and strength lie in repentance and faith. See Jesus' invitation in Matthew—a spiritual interpretation with messianic fulfillment.",
+      "sectionHeader": "A Call to Trust and Yahweh's Promise of Mercy"
     },
     {
       "pk": 29030016,
@@ -230,7 +233,8 @@
       "verse": 19,
       "text": "Surely, O people in Zion who dwell in Jerusalem, you shall weep no more. He will surely be gracious to you at the sound of your cry; when He hears, He will answer you.",
       "links": "<a href='/AIV/19/34/17'>Ps. 34:17</a>; <a href='/AIV/23/65/24'>Isa. 65:24</a>",
-      "comment": "Jerusalem is the focus of God's promise. Supplication and intercessory prayer elicit divine response, a timeless spiritual truth."
+      "comment": "Jerusalem is the focus of God's promise. Supplication and intercessory prayer elicit divine response, a timeless spiritual truth.",
+      "sectionHeader": "Future Blessings for Zion"
     },
     {
       "pk": 29030020,
@@ -326,7 +330,8 @@
       "verse": 27,
       "text": "Behold, the name of Yahweh comes from afar, burning with his anger, and in thick rising smoke. His lips are full of fury, and his tongue is like a devouring fire.",
       "links": "<a href='/AIV/19/97/3'>Ps. 97:3</a>; <a href='/AIV/66/19/15'>Rev. 19:15</a>",
-      "comment": "God’s judgment is described in vivid imagery. The 'name' comes personally—note spiritual connection to Christ descending in judgment (Revelation)."
+      "comment": "God’s judgment is described in vivid imagery. The 'name' comes personally—note spiritual connection to Christ descending in judgment (Revelation).",
+      "sectionHeader": "The Lord's Judgment upon Assyria"
     },
     {
       "pk": 29030028,
@@ -401,5 +406,32 @@
       "comment": "Topheth symbolizes judgment — a place of burning reserved for evil. The breath of God as fire connects Old Testament judgment to final eschatological judgment in the New Testament."
     }
   ],
-  "translatedAt": "2025-12-24T08:04:55.289Z"
+  "translatedAt": "2025-12-24T08:04:55.289Z",
+  "sections": [
+    {
+      "title": "Woe to Those Who Rely on Egypt",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Rebellion and Refusal to Hear the Lord",
+      "startVerse": 8,
+      "endVerse": 14
+    },
+    {
+      "title": "A Call to Trust and Yahweh's Promise of Mercy",
+      "startVerse": 15,
+      "endVerse": 18
+    },
+    {
+      "title": "Future Blessings for Zion",
+      "startVerse": 19,
+      "endVerse": 26
+    },
+    {
+      "title": "The Lord's Judgment upon Assyria",
+      "startVerse": 27,
+      "endVerse": 33
+    }
+  ]
 }

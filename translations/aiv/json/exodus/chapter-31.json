@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The LORD spoke to Moses, saying,",
       "links": "<a href='/AIV/2/25/1'>Exod. 25:1</a>; <a href='/AIV/3/1/1'>Lev. 1:1</a>",
-      "comment": "This marks another direct communication from God to Moses, continuing the instructions for the Tabernacle. See similar directives at Exod. 25:1."
+      "comment": "This marks another direct communication from God to Moses, continuing the instructions for the Tabernacle. See similar directives at Exod. 25:1.",
+      "sectionHeader": "Bezalel and Oholiab Appointed as Craftsmen"
     },
     {
       "pk": 2031002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "The LORD said to Moses,",
       "links": "<a href='/AIV/2/24/12'>Exod. 24:12</a>",
-      "comment": "God provides further divine instructions. This continued dialogue points to an authoritative transmission of divine law."
+      "comment": "God provides further divine instructions. This continued dialogue points to an authoritative transmission of divine law.",
+      "sectionHeader": "The Sabbath Commanded"
     },
     {
       "pk": 2031013,
@@ -218,8 +220,26 @@
       "verse": 18,
       "text": "When the LORD finished speaking with Moses on Mount Sinai, he gave him the two tablets of the testimony, tablets of stone written with the finger of God.",
       "links": "<a href='/AIV/2/24/12'>Exod. 24:12</a>; <a href='/AIV/5/9/10'>Deut. 9:10</a>",
-      "comment": "The tablets, written by God Himself, show the unmediated authority of divine law. The ‘finger of God’ also connects to Luke 11:20—God’s direct intervention among His people. The giving of stone tablets foreshadows the permanence and spiritual authority granted to the Church (cf. 2 Cor. 3:3)."
+      "comment": "The tablets, written by God Himself, show the unmediated authority of divine law. The ‘finger of God’ also connects to Luke 11:20—God’s direct intervention among His people. The giving of stone tablets foreshadows the permanence and spiritual authority granted to the Church (cf. 2 Cor. 3:3).",
+      "sectionHeader": "The Tablets of the Covenant Given to Moses"
     }
   ],
-  "translatedAt": "2025-12-24T01:03:46.980Z"
+  "translatedAt": "2025-12-24T01:03:46.980Z",
+  "sections": [
+    {
+      "title": "Bezalel and Oholiab Appointed as Craftsmen",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "The Sabbath Commanded",
+      "startVerse": 12,
+      "endVerse": 17
+    },
+    {
+      "title": "The Tablets of the Covenant Given to Moses",
+      "startVerse": 18,
+      "endVerse": 18
+    }
+  ]
 }

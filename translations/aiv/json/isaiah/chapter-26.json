@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "On that day, this song will be sung in the land of Judah: \"We have a strong city; He sets up salvation as walls and ramparts.\"",
       "links": "<a href='/AIV/23/25/1'>Isa. 25:1</a>; <a href='/AIV/19/48/1-3'>Ps. 48:1-3</a>",
-      "comment": "The 'song' proclaims God’s protection over His people—salvation itself is described as the city’s walls. Symbolically, this points forward to the role of God's saving work as the true defense for believers (see also <a href='/AIV/66/21/2-3'>Rev. 21:2-3</a>)."
+      "comment": "The 'song' proclaims God’s protection over His people—salvation itself is described as the city’s walls. Symbolically, this points forward to the role of God's saving work as the true defense for believers (see also <a href='/AIV/66/21/2-3'>Rev. 21:2-3</a>).",
+      "sectionHeader": "A Song of Trust in God's Protection"
     },
     {
       "pk": 29026002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "The path of the righteous is level; You, O Upright One, make the way of the righteous smooth.",
       "links": "<a href='/AIV/19/37/23'>Ps. 37:23</a>; <a href='/AIV/20/3/6'>Prov. 3:6</a>",
-      "comment": "'Level path' is a metaphor for the guidance and support God gives to those living uprightly. This foreshadows divine grace aiding the spiritual journey."
+      "comment": "'Level path' is a metaphor for the guidance and support God gives to those living uprightly. This foreshadows divine grace aiding the spiritual journey.",
+      "sectionHeader": "Prayer for Mercy and Deliverance"
     },
     {
       "pk": 29026008,
@@ -230,7 +232,8 @@
       "verse": 19,
       "text": "Your dead shall live; their bodies shall rise. You who dwell in the dust, awake and sing for joy! For Your dew is a dew of light, and the earth will give birth to the dead.",
       "links": "<a href='/AIV/27/12/2'>Dan. 12:2</a>; <a href='/AIV/43/5/28-29'>John 5:28-29</a>",
-      "comment": "This is an explicit prophecy of bodily resurrection. Theologically, it foreshadows Christ’s own resurrection and the hope for all believers (<a href='/AIV/46/15/20-22'>1 Cor. 15:20-22</a>)."
+      "comment": "This is an explicit prophecy of bodily resurrection. Theologically, it foreshadows Christ’s own resurrection and the hope for all believers (<a href='/AIV/46/15/20-22'>1 Cor. 15:20-22</a>).",
+      "sectionHeader": "Judgment on the Wicked and Restoration of the Dead"
     },
     {
       "pk": 29026020,
@@ -242,7 +245,8 @@
       "verse": 20,
       "text": "Come, my people, enter your rooms and shut your doors behind you; hide yourselves for a little while until the wrath has passed by.",
       "links": "<a href='/AIV/02/12/22-23'>Ex. 12:22-23</a>; <a href='/AIV/19/57/1'>Ps. 57:1</a>",
-      "comment": "This echoes the Passover imagery, suggesting spiritual refuge in God’s protective presence when judgment comes."
+      "comment": "This echoes the Passover imagery, suggesting spiritual refuge in God’s protective presence when judgment comes.",
+      "sectionHeader": "The Lord's Wrath upon the Earth"
     },
     {
       "pk": 29026021,
@@ -257,5 +261,27 @@
       "comment": "Final judgment is depicted in dramatic terms. The earth itself testifies, consistent with the themes of ultimate justice and the unveiling of truth."
     }
   ],
-  "translatedAt": "2025-12-24T08:02:19.775Z"
+  "translatedAt": "2025-12-24T08:02:19.775Z",
+  "sections": [
+    {
+      "title": "A Song of Trust in God's Protection",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Prayer for Mercy and Deliverance",
+      "startVerse": 7,
+      "endVerse": 18
+    },
+    {
+      "title": "Judgment on the Wicked and Restoration of the Dead",
+      "startVerse": 19,
+      "endVerse": 19
+    },
+    {
+      "title": "The Lord's Wrath upon the Earth",
+      "startVerse": 20,
+      "endVerse": 21
+    }
+  ]
 }

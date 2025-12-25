@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "I am the man who has seen affliction by the rod of His wrath.",
       "links": "<a href='/AIV/24/15/15'>Jer. 15:15</a>",
-      "comment": "Jeremiah speaks personally, bearing witness to suffering caused by God's judgment. The motif of God's rod denotes authority and discipline."
+      "comment": "Jeremiah speaks personally, bearing witness to suffering caused by God's judgment. The motif of God's rod denotes authority and discipline.",
+      "sectionHeader": "The Prophet's Suffering and Complaint"
     },
     {
       "pk": 31003002,
@@ -254,7 +255,8 @@
       "verse": 21,
       "text": "But this I bring to mind, and therefore I have hope:",
       "links": "<a href='/AIV/19/42/5'>Ps. 42:5</a>",
-      "comment": "The transition to hope mirrors the Paschal Mystery: suffering turns to redemption."
+      "comment": "The transition to hope mirrors the Paschal Mystery: suffering turns to redemption.",
+      "sectionHeader": "Hope in God's Mercy and Faithfulness"
     },
     {
       "pk": 31003022,
@@ -482,7 +484,8 @@
       "verse": 40,
       "text": "Let us examine and test our ways, and return to the LORD.",
       "links": "<a href='/AIV/19/139/23-24'>Ps. 139:23-24</a>",
-      "comment": "Self-examination leads to repentance; returning to the Lord is always possible."
+      "comment": "Self-examination leads to repentance; returning to the Lord is always possible.",
+      "sectionHeader": "Exhortation to Repentance and Prayer"
     },
     {
       "pk": 31003041,
@@ -662,7 +665,8 @@
       "verse": 55,
       "text": "I called on Your name, LORD, from the depths of the pit.",
       "links": "<a href='/AIV/19/130/1'>Ps. 130:1</a>",
-      "comment": "To call from the depths shows faith that persists in darkness, prefiguring resurrection hope."
+      "comment": "To call from the depths shows faith that persists in darkness, prefiguring resurrection hope.",
+      "sectionHeader": "The Prophet's Prayer and Plea for Justice"
     },
     {
       "pk": 31003056,
@@ -797,5 +801,27 @@
       "comment": "Final vindication is sought. Justice at the end presumes all are subject to divine mercy or punishment, foreshadowing the last judgment."
     }
   ],
-  "translatedAt": "2025-12-24T08:53:34.477Z"
+  "translatedAt": "2025-12-24T08:53:34.477Z",
+  "sections": [
+    {
+      "title": "The Prophet's Suffering and Complaint",
+      "startVerse": 1,
+      "endVerse": 20
+    },
+    {
+      "title": "Hope in God's Mercy and Faithfulness",
+      "startVerse": 21,
+      "endVerse": 39
+    },
+    {
+      "title": "Exhortation to Repentance and Prayer",
+      "startVerse": 40,
+      "endVerse": 54
+    },
+    {
+      "title": "The Prophet's Prayer and Plea for Justice",
+      "startVerse": 55,
+      "endVerse": 66
+    }
+  ]
 }

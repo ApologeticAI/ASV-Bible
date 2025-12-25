@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "It pleased Darius to appoint over the kingdom one hundred twenty satraps, who would be in charge throughout the whole realm.",
       "links": "<a href='/AIV/15/8/36'>Ezra 8:36</a>; <a href='/AIV/17/1/1'>Esther 1:1</a>",
-      "comment": "Darius restructures the administration of Babylon. The satraps serve as provincial governors."
+      "comment": "Darius restructures the administration of Babylon. The satraps serve as provincial governors.",
+      "sectionHeader": "Daniel in the Court of Darius"
     },
     {
       "pk": 34006002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "Then the administrators and satraps sought to find a charge against Daniel concerning the kingdom; but they could find no fault or error, because he was faithful. No negligence or corruption was found in him.",
       "links": "<a href='/AIV/27/3/8'>Dan. 3:8</a>; <a href='/AIV/20/20/7'>Prov. 20:7</a>",
-      "comment": "Daniel’s blameless conduct foreshadows Christ, who was also found without guilt (see John 18:38)."
+      "comment": "Daniel’s blameless conduct foreshadows Christ, who was also found without guilt (see John 18:38).",
+      "sectionHeader": "The Plot Against Daniel"
     },
     {
       "pk": 34006005,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "So the king gave the order, and they brought Daniel and threw him into the lions’ den. The king said to Daniel, 'May your God, whom you serve continually, deliver you.'",
       "links": "<a href='/AIV/27/3/17'>Dan. 3:17</a>; <a href='/AIV/19/34/7'>Ps. 34:7</a>",
-      "comment": "Darius expresses hope in God’s power, echoing the faith of Daniel’s friends in Dan. 3:17 and God’s promise in Ps. 34:7."
+      "comment": "Darius expresses hope in God’s power, echoing the faith of Daniel’s friends in Dan. 3:17 and God’s promise in Ps. 34:7.",
+      "sectionHeader": "Daniel in the Lions’ Den"
     },
     {
       "pk": 34006017,
@@ -230,7 +233,8 @@
       "verse": 19,
       "text": "At the first light of dawn, the king arose and hurried to the lions’ den.",
       "links": "<a href='/AIV/40/28/1'>Matt. 28:1</a>",
-      "comment": "The early morning visit recalls the women going to Christ’s tomb at dawn (Matt. 28:1)."
+      "comment": "The early morning visit recalls the women going to Christ’s tomb at dawn (Matt. 28:1).",
+      "sectionHeader": "Daniel’s Deliverance and Darius’s Decree"
     },
     {
       "pk": 34006020,
@@ -341,5 +345,27 @@
       "comment": "Daniel's enduring success signals God’s ongoing providence. The movement from Darius to Cyrus marks a transition, setting the stage for restoration themes present elsewhere."
     }
   ],
-  "translatedAt": "2025-12-24T09:31:11.194Z"
+  "translatedAt": "2025-12-24T09:31:11.194Z",
+  "sections": [
+    {
+      "title": "Daniel in the Court of Darius",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "The Plot Against Daniel",
+      "startVerse": 4,
+      "endVerse": 15
+    },
+    {
+      "title": "Daniel in the Lions’ Den",
+      "startVerse": 16,
+      "endVerse": 18
+    },
+    {
+      "title": "Daniel’s Deliverance and Darius’s Decree",
+      "startVerse": 19,
+      "endVerse": 28
+    }
+  ]
 }

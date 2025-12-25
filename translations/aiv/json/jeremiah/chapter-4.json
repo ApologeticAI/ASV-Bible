@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "\"If you return, Israel,\" declares the LORD, \"return to Me. If you remove your detestable idols from My presence and do not stray,",
       "links": "<a href='/AIV/28/14/1'>Hos. 14:1</a>; <a href='/AIV/05/30/2'>Deut. 30:2</a>",
-      "comment": "God urges a true, wholehearted return, not just external reform. 'Return to Me' expresses a personal, covenant relationship."
+      "comment": "God urges a true, wholehearted return, not just external reform. 'Return to Me' expresses a personal, covenant relationship.",
+      "sectionHeader": "A Call to Repentance"
     },
     {
       "pk": 30004002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "Declare in Judah and proclaim in Jerusalem, and say: 'Blow the trumpet through the land.' Cry aloud and say: 'Assemble yourselves, and let us go into the fortified cities!'",
       "links": "<a href='/AIV/24/6/1'>Jer. 6:1</a>; <a href='/AIV/28/5/8'>Hos. 5:8</a>",
-      "comment": "The trumpet is a warning of coming judgment. Gathering into fortified cities pictures urgent preparation for what is coming."
+      "comment": "The trumpet is a warning of coming judgment. Gathering into fortified cities pictures urgent preparation for what is coming.",
+      "sectionHeader": "Imminent Judgment from the North"
     },
     {
       "pk": 30004006,
@@ -230,7 +232,8 @@
       "verse": 19,
       "text": "My anguish, my anguish! I writhe in pain. O the walls of my heart! My heart is in turmoil within me, I cannot keep silent, for I hear the sound of the trumpet, the alarm of war.",
       "links": "<a href='/AIV/24/9/1'>Jer. 9:1</a>; <a href='/AIV/19/77/4'>Ps. 77:4</a>",
-      "comment": "Jeremiah's agony mirrors God's own heartbreak over the sin and coming suffering of His people. The prophet's identification with the people is an early type of the heart of Christ for His Church."
+      "comment": "Jeremiah's agony mirrors God's own heartbreak over the sin and coming suffering of His people. The prophet's identification with the people is an early type of the heart of Christ for His Church.",
+      "sectionHeader": "Lament over Impending Destruction"
     },
     {
       "pk": 30004020,
@@ -278,7 +281,8 @@
       "verse": 23,
       "text": "I looked at the earth, and behold, it was formless and empty; and at the heavens, and they had no light.",
       "links": "<a href='/AIV/01/1/2'>Gen. 1:2</a>; <a href='/AIV/23/34/11'>Isa. 34:11</a>",
-      "comment": "Jeremiah’s vision alludes to creation before order and blessing, showing judgment as a kind of undoing of creation—but always with hope for restoration."
+      "comment": "Jeremiah’s vision alludes to creation before order and blessing, showing judgment as a kind of undoing of creation—but always with hope for restoration.",
+      "sectionHeader": "Creation Unmade by Judgment"
     },
     {
       "pk": 30004024,
@@ -377,5 +381,27 @@
       "comment": "The labor pains image often signals the onset of redemption through suffering. It foreshadows, both literally and spiritually, the birth of a renewed people through affliction (see Rom. 8:22; John 16:21)."
     }
   ],
-  "translatedAt": "2025-12-24T08:23:35.260Z"
+  "translatedAt": "2025-12-24T08:23:35.260Z",
+  "sections": [
+    {
+      "title": "A Call to Repentance",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "Imminent Judgment from the North",
+      "startVerse": 5,
+      "endVerse": 18
+    },
+    {
+      "title": "Lament over Impending Destruction",
+      "startVerse": 19,
+      "endVerse": 22
+    },
+    {
+      "title": "Creation Unmade by Judgment",
+      "startVerse": 23,
+      "endVerse": 31
+    }
+  ]
 }

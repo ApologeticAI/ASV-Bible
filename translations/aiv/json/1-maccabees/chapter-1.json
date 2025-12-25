@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "After Alexander the Macedonian, the son of Philip, who came from the land of Kittim, defeated Darius, king of the Persians and Medes, he became king in his place, beginning his reign over Greece.",
       "links": "<a href='/AIV/27/8/5-7'>Dan. 8:5-7</a>",
-      "comment": "Alexander's rise to power fulfills prophecy regarding the expansion of Greek rule (Daniel 8). 'Kittim' is a term used for western lands, often linked with the Greeks or Romans."
+      "comment": "Alexander's rise to power fulfills prophecy regarding the expansion of Greek rule (Daniel 8). 'Kittim' is a term used for western lands, often linked with the Greeks or Romans.",
+      "sectionHeader": "The Rise and Division of Alexander’s Empire"
     },
     {
       "pk": 20001002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "From them came forth a sinful root, Antiochus Epiphanes, son of King Antiochus. He had been a hostage in Rome, and he became king in the one hundred thirty-seventh year of the Greek kingdom.",
       "links": "<a href='/AIV/27/8/9'>Dan. 8:9</a>",
-      "comment": "Antiochus Epiphanes, the chief villain of 1 Maccabees, is depicted as a ‘sinful root,’ fulfilling Daniel's prophecy. His reign marks a direct threat to Israel’s faithfulness."
+      "comment": "Antiochus Epiphanes, the chief villain of 1 Maccabees, is depicted as a ‘sinful root,’ fulfilling Daniel's prophecy. His reign marks a direct threat to Israel’s faithfulness.",
+      "sectionHeader": "The Hellenization of Israel"
     },
     {
       "pk": 20001011,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "When Antiochus had established his kingdom, he determined to rule over Egypt so that he might reign over both kingdoms.",
       "links": "",
-      "comment": "The desire to unite territories led Antiochus into further wars, aligning with the prophecies found in Daniel (see Dan. 11)."
+      "comment": "The desire to unite territories led Antiochus into further wars, aligning with the prophecies found in Daniel (see Dan. 11).",
+      "sectionHeader": "Antiochus Epiphanes Attacks Jerusalem"
     },
     {
       "pk": 20001017,
@@ -494,7 +497,8 @@
       "verse": 41,
       "text": "Then the king wrote to his whole kingdom, commanding all to become one people,",
       "links": "",
-      "comment": "Antiochus imposes religious uniformity—a foreshadowing of later attempts in history to make the Church conform to state power."
+      "comment": "Antiochus imposes religious uniformity—a foreshadowing of later attempts in history to make the Church conform to state power.",
+      "sectionHeader": "The Desecration of the Temple and Religious Persecution"
     },
     {
       "pk": 20001042,
@@ -746,7 +750,8 @@
       "verse": 62,
       "text": "Yet many in Israel stood firm and resolved in their hearts not to eat unclean food.",
       "links": "<a href='/AIV/27/1/8'>Dan. 1:8</a>",
-      "comment": "The remnant's steadfastness recalls Daniel and his friends, showing the spiritual importance of obedience even under trial."
+      "comment": "The remnant's steadfastness recalls Daniel and his friends, showing the spiritual importance of obedience even under trial.",
+      "sectionHeader": "Martyrdom and Faithfulness of the Remnant"
     },
     {
       "pk": 20001063,
@@ -773,5 +778,32 @@
       "comment": "The chapter closes with a note of judgment, heightening the anticipation for God's intervention and the restoration of the faithful. The fullness of restoration comes ultimately not just through national deliverance, but through the Redeemer, Jesus Christ."
     }
   ],
-  "translatedAt": "2025-12-24T05:13:03.322Z"
+  "translatedAt": "2025-12-24T05:13:03.322Z",
+  "sections": [
+    {
+      "title": "The Rise and Division of Alexander’s Empire",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "The Hellenization of Israel",
+      "startVerse": 10,
+      "endVerse": 15
+    },
+    {
+      "title": "Antiochus Epiphanes Attacks Jerusalem",
+      "startVerse": 16,
+      "endVerse": 40
+    },
+    {
+      "title": "The Desecration of the Temple and Religious Persecution",
+      "startVerse": 41,
+      "endVerse": 61
+    },
+    {
+      "title": "Martyrdom and Faithfulness of the Remnant",
+      "startVerse": 62,
+      "endVerse": 64
+    }
+  ]
 }

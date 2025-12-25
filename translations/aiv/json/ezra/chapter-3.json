@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When the seventh month came, and the Israelites had settled in their towns, all the people gathered as one in Jerusalem.",
       "links": "<a href='/AIV/16/8/1'>Neh. 8:1</a>; <a href='/AIV/03/23/24-27'>Lev. 23:24-27</a>",
-      "comment": "The unity of the people at Jerusalem foreshadows the gathering of believers as a single worshipping body. This unity is foundational for the communal aspects of worship later developed in Christian liturgy."
+      "comment": "The unity of the people at Jerusalem foreshadows the gathering of believers as a single worshipping body. This unity is foundational for the communal aspects of worship later developed in Christian liturgy.",
+      "sectionHeader": "Rebuilding the Altar and Restoring Worship"
     },
     {
       "pk": 15003002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "In the second month of the second year after arriving at God’s house in Jerusalem, Zerubbabel son of Shealtiel, Jeshua son of Jozadak, and their brothers—the priests and the Levites, and all who had returned from captivity—began the work, appointing Levites twenty years old and older to oversee the building of Yahweh’s temple.",
       "links": "<a href='/AIV/04/08/24-26'>Num. 8:24-26</a>",
-      "comment": "The role of priests and Levites in oversight affirms hierarchical structure in worship, laying groundwork for continuity of apostolic succession and proper authority in the leadership of God’s people."
+      "comment": "The role of priests and Levites in oversight affirms hierarchical structure in worship, laying groundwork for continuity of apostolic succession and proper authority in the leadership of God’s people.",
+      "sectionHeader": "Laying the Foundation of the Temple"
     },
     {
       "pk": 15003009,
@@ -161,5 +163,17 @@
       "comment": "The intermingling of joy and sorrow expresses the profound emotion tied to worship and restoration. The loud communal response signified a renewal of presence and blessing, pointing to the fulfillment of God's promise and the hope for an enduring spiritual temple."
     }
   ],
-  "translatedAt": "2025-12-24T04:41:39.178Z"
+  "translatedAt": "2025-12-24T04:41:39.178Z",
+  "sections": [
+    {
+      "title": "Rebuilding the Altar and Restoring Worship",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Laying the Foundation of the Temple",
+      "startVerse": 8,
+      "endVerse": 13
+    }
+  ]
 }

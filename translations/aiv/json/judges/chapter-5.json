@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then Deborah and Barak the son of Abinoam sang on that day:",
       "links": "<a href='/AIV/02/15/1'>Ex. 15:1</a>; <a href='/AIV/09/02/1'>1 Sam. 2:1</a>",
-      "comment": "As with Miriam and Moses (Ex. 15), this is a victory song praising God after deliverance. Singing as response to God's salvation points to the importance of worship and liturgical prayer in the life of the people of God."
+      "comment": "As with Miriam and Moses (Ex. 15), this is a victory song praising God after deliverance. Singing as response to God's salvation points to the importance of worship and liturgical prayer in the life of the people of God.",
+      "sectionHeader": "The Song of Deborah and Barak"
     },
     {
       "pk": 7005002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "\"Awake, awake, Deborah! Awake, awake, sing a song! Arise, Barak, lead away your captives, O son of Abinoam.",
       "links": "<a href='/AIV/19/057/8'>Ps. 57:8</a>; <a href='/AIV/07/04/14'>Judg. 4:14</a>",
-      "comment": "A poetic call to spiritual action and leadership. God’s call stirs leaders to bring victory and liberation, prefiguring the spiritual awakening in Christ (Eph. 5:14)."
+      "comment": "A poetic call to spiritual action and leadership. God’s call stirs leaders to bring victory and liberation, prefiguring the spiritual awakening in Christ (Eph. 5:14).",
+      "sectionHeader": "The Tribes and the Battle"
     },
     {
       "pk": 7005013,
@@ -230,7 +232,8 @@
       "verse": 19,
       "text": "\"The kings came, they fought; then fought the kings of Canaan, at Taanach by the waters of Megiddo; they took no plunder of silver.",
       "links": "<a href='/AIV/07/04/15-16'>Judg. 4:15-16</a>; <a href='/AIV/06/12/21'>Josh. 12:21</a>",
-      "comment": "Despite expectations, the enemy was defeated without gain, emphasizing God’s hand rather than material advantage. Megiddo later becomes symbolic of the ultimate battle between good and evil (Rev. 16:16)."
+      "comment": "Despite expectations, the enemy was defeated without gain, emphasizing God’s hand rather than material advantage. Megiddo later becomes symbolic of the ultimate battle between good and evil (Rev. 16:16).",
+      "sectionHeader": "The Defeat of Sisera"
     },
     {
       "pk": 7005020,
@@ -290,7 +293,8 @@
       "verse": 24,
       "text": "Most blessed among women is Jael, the wife of Heber the Kenite, most blessed is she among tent-dwelling women.",
       "links": "<a href='/AIV/07/04/21'>Judg. 4:21</a>; <a href='/AIV/42/01/28'>Luke 1:28</a>",
-      "comment": "Jael’s blessing as 'most blessed among women' echoes the angelic greeting to Mary (Luke 1:28), suggesting a prophetic foreshadowing of the role of women in redemption history."
+      "comment": "Jael’s blessing as 'most blessed among women' echoes the angelic greeting to Mary (Luke 1:28), suggesting a prophetic foreshadowing of the role of women in redemption history.",
+      "sectionHeader": "The Blessing of Jael"
     },
     {
       "pk": 7005025,
@@ -338,7 +342,8 @@
       "verse": 28,
       "text": "\"Out of the window she peered, the mother of Sisera cried out through the lattice: 'Why is his chariot so long in coming? Why tarry the wheels of his chariots?'",
       "links": "<a href='/AIV/19/037/13'>Ps. 37:13</a>",
-      "comment": "Sisera’s mother’s lament represents the futility of trust in worldly powers—a warning found throughout Scripture."
+      "comment": "Sisera’s mother’s lament represents the futility of trust in worldly powers—a warning found throughout Scripture.",
+      "sectionHeader": "The Lament of Sisera’s Mother"
     },
     {
       "pk": 7005029,
@@ -377,5 +382,32 @@
       "comment": "Victory belongs to God, and His faithful experience light and peace—a foretaste of the fullness found in Christ. The 'rest' of forty years points to the peace God gives his people when they follow him."
     }
   ],
-  "translatedAt": "2025-12-24T02:33:13.040Z"
+  "translatedAt": "2025-12-24T02:33:13.040Z",
+  "sections": [
+    {
+      "title": "The Song of Deborah and Barak",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "The Tribes and the Battle",
+      "startVerse": 12,
+      "endVerse": 18
+    },
+    {
+      "title": "The Defeat of Sisera",
+      "startVerse": 19,
+      "endVerse": 23
+    },
+    {
+      "title": "The Blessing of Jael",
+      "startVerse": 24,
+      "endVerse": 27
+    },
+    {
+      "title": "The Lament of Sisera’s Mother",
+      "startVerse": 28,
+      "endVerse": 31
+    }
+  ]
 }

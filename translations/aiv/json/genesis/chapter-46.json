@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "So Israel set out with all that he had, and he came to Beersheba and offered sacrifices to the God of his father Isaac.",
       "links": "<a href='/AIV/1/26/23-25'>Gen. 26:23-25</a>; <a href='/AIV/1/21/33'>Gen. 21:33</a>",
-      "comment": "Beersheba is repeatedly a place of encounter and covenant with God. Israel (Jacob) demonstrates reverence by offering sacrifices before leaving the land, reflecting trust in God's promises. See also ancestral worship patterns (<a href='/AIV/1/28/10-22'>Gen. 28:10–22</a>)."
+      "comment": "Beersheba is repeatedly a place of encounter and covenant with God. Israel (Jacob) demonstrates reverence by offering sacrifices before leaving the land, reflecting trust in God's promises. See also ancestral worship patterns (<a href='/AIV/1/28/10-22'>Gen. 28:10–22</a>).",
+      "sectionHeader": "Jacob Journeys to Egypt"
     },
     {
       "pk": 1046002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Now these are the names of the sons of Israel, Jacob and his sons, who went to Egypt: Reuben, Jacob’s firstborn,",
       "links": "<a href='/AIV/1/29/32'>Gen. 29:32</a>; <a href='/AIV/2/1/1-5'>Ex. 1:1-5</a>",
-      "comment": "Genealogies root Israel’s identity in family and covenant lineage. The detail supports the reliability of Israel’s history."
+      "comment": "Genealogies root Israel’s identity in family and covenant lineage. The detail supports the reliability of Israel’s history.",
+      "sectionHeader": "The Descendants of Jacob"
     },
     {
       "pk": 1046009,
@@ -338,7 +340,8 @@
       "verse": 28,
       "text": "He sent Judah ahead of him to Joseph, to lead the way before him to Goshen. And they came into the land of Goshen.",
       "links": "<a href='/AIV/1/45/10'>Gen. 45:10</a>; <a href='/AIV/1/44/14'>Gen. 44:14</a>",
-      "comment": "Judah's role as forerunner prefigures his tribe’s later leadership and messianic importance (see <a href='/AIV/1/49/10'>Gen. 49:10</a>)."
+      "comment": "Judah's role as forerunner prefigures his tribe’s later leadership and messianic importance (see <a href='/AIV/1/49/10'>Gen. 49:10</a>).",
+      "sectionHeader": "Jacob Settles in Goshen"
     },
     {
       "pk": 1046029,
@@ -413,5 +416,22 @@
       "comment": "God’s providence is seen as He arranges for Israel to maintain holiness and distinctiveness in Goshen, protecting their faith and tradition within a foreign land. This theme of separation and worship will develop throughout salvation history, paralleling later ecclesial realities where the faithful are called to live apart yet within the world."
     }
   ],
-  "translatedAt": "2025-12-24T00:44:17.423Z"
+  "translatedAt": "2025-12-24T00:44:17.423Z",
+  "sections": [
+    {
+      "title": "Jacob Journeys to Egypt",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "The Descendants of Jacob",
+      "startVerse": 8,
+      "endVerse": 27
+    },
+    {
+      "title": "Jacob Settles in Goshen",
+      "startVerse": 28,
+      "endVerse": 34
+    }
+  ]
 }

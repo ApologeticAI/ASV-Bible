@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Oh that you would tear open the heavens and come down, so that the mountains would quake at your presence—",
       "links": "<a href='/AIV/02/19/18'>Ex. 19:18</a>; <a href='/AIV/19/18/7'>Ps. 18:7</a>; <a href='/AIV/26/1/1'>Ezek. 1:1</a>",
-      "comment": "The prophet cries out for God's dramatic intervention, recalling the momentous events when God descended at Sinai. This longing prefigures the Incarnation, where God truly comes down among His people (cf. John 1:14)."
+      "comment": "The prophet cries out for God's dramatic intervention, recalling the momentous events when God descended at Sinai. This longing prefigures the Incarnation, where God truly comes down among His people (cf. John 1:14).",
+      "sectionHeader": "A Prayer for God’s Presence and Mercy"
     },
     {
       "pk": 29064002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "You meet the one who joyfully practices righteousness, those who remember you in your ways. But you were angry, and we sinned; in our sins we have been a long time, and shall we be saved?",
       "links": "<a href='/AIV/19/85/10'>Ps. 85:10-13</a>; <a href='/AIV/45/3/23'>Rom. 3:23</a>",
-      "comment": "The tension between righteousness and sinfulness is highlighted, echoing the need for both justice and mercy. The question, 'shall we be saved?' points forward to the salvation found ultimately in Christ, and anticipates the need for ongoing grace given to the faithful."
+      "comment": "The tension between righteousness and sinfulness is highlighted, echoing the need for both justice and mercy. The question, 'shall we be saved?' points forward to the salvation found ultimately in Christ, and anticipates the need for ongoing grace given to the faithful.",
+      "sectionHeader": "Confession of Sin and Plea for Forgiveness"
     },
     {
       "pk": 29064006,
@@ -122,7 +124,8 @@
       "verse": 10,
       "text": "Your holy cities have become a wilderness; Zion has become a wilderness, Jerusalem a desolation.",
       "links": "<a href='/AIV/25/1/1-2'>Lam. 1:1-2</a>",
-      "comment": "The devastation of Jerusalem is mourned, reflecting the historical exile but also symbolizing spiritual desolation when God's people stray. This prepares for the promise of restoration and new life in the coming Kingdom."
+      "comment": "The devastation of Jerusalem is mourned, reflecting the historical exile but also symbolizing spiritual desolation when God's people stray. This prepares for the promise of restoration and new life in the coming Kingdom.",
+      "sectionHeader": "Lament Over Zion’s Desolation"
     },
     {
       "pk": 29064011,
@@ -149,5 +152,22 @@
       "comment": "The prophet’s urgent plea for divine action closes the prayer. God's 'silence' is not final; in the fullness of time, God responds with redemption, answering the deepest needs of His people through His ultimate act of salvation."
     }
   ],
-  "translatedAt": "2025-12-24T08:19:49.144Z"
+  "translatedAt": "2025-12-24T08:19:49.144Z",
+  "sections": [
+    {
+      "title": "A Prayer for God’s Presence and Mercy",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "Confession of Sin and Plea for Forgiveness",
+      "startVerse": 5,
+      "endVerse": 9
+    },
+    {
+      "title": "Lament Over Zion’s Desolation",
+      "startVerse": 10,
+      "endVerse": 12
+    }
+  ]
 }

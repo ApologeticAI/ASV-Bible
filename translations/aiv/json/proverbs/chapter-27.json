@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Do not boast about tomorrow, for you do not know what a day may bring.",
       "links": "<a href='/AIV/19/39/6'>Ps 39:6</a>; <a href='/AIV/40/6/34'>Matt 6:34</a>; <a href='/AIV/59/4/13-14'>James 4:13-15</a>",
-      "comment": "The verse warns against presumption. Jesus echoes this in Matthew 6:34 and James emphasizes human frailty in planning, suggesting the importance of trusting God's providence and submitting one's plans to Him—themes foundational for a life formed by humility and spiritual discipline."
+      "comment": "The verse warns against presumption. Jesus echoes this in Matthew 6:34 and James emphasizes human frailty in planning, suggesting the importance of trusting God's providence and submitting one's plans to Him—themes foundational for a life formed by humility and spiritual discipline.",
+      "sectionHeader": "Warnings Against Boasting and Self-Praise"
     },
     {
       "pk": 24027002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "Better is open rebuke than hidden love.",
       "links": "<a href='/AIV/20/28/23'>Prov 28:23</a>; <a href='/AIV/19/141/5'>Ps 141:5</a>",
-      "comment": "Open correction done in charity is preferable to love that remains concealed and thus fruitless. Brotherhood and accountability in Christian life are essential for growth—see <a href='/AIV/40/18/15'>Matt 18:15</a>."
+      "comment": "Open correction done in charity is preferable to love that remains concealed and thus fruitless. Brotherhood and accountability in Christian life are essential for growth—see <a href='/AIV/40/18/15'>Matt 18:15</a>.",
+      "sectionHeader": "On Friendship and Counsel"
     },
     {
       "pk": 24027006,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "Be wise, my son, and make my heart glad, so that I may answer anyone who reproaches me.",
       "links": "<a href='/AIV/20/10/1'>Prov 10:1</a>; <a href='/AIV/20/23/15'>Prov 23:15</a>",
-      "comment": "Wisdom in the life of a believer brings honor to spiritual fathers and wards off opponents—both important in maintaining the integrity of the household of faith."
+      "comment": "Wisdom in the life of a believer brings honor to spiritual fathers and wards off opponents—both important in maintaining the integrity of the household of faith.",
+      "sectionHeader": "Various Proverbs on Prudence and Relationships"
     },
     {
       "pk": 24027012,
@@ -278,7 +281,8 @@
       "verse": 23,
       "text": "Know well the condition of your flocks, and give careful attention to your herds,",
       "links": "<a href='/AIV/19/23/1'>Ps 23:1</a>; <a href='/AIV/43/10/14'>John 10:14</a>",
-      "comment": "Shepherd imagery foreshadows Christ as the Good Shepherd. Good stewards imitate Him by caring diligently for those entrusted to them, whether in family, ministry, or leadership."
+      "comment": "Shepherd imagery foreshadows Christ as the Good Shepherd. Good stewards imitate Him by caring diligently for those entrusted to them, whether in family, ministry, or leadership.",
+      "sectionHeader": "The Value of Diligence in Caring for Flocks"
     },
     {
       "pk": 24027024,
@@ -329,5 +333,27 @@
       "comment": "Diligent, orderly care results in sufficiency for all under one’s charge, reflecting the call to provide not just for oneself, but for the whole 'household'—a microcosm of the spiritual family."
     }
   ],
-  "translatedAt": "2025-12-24T07:04:42.298Z"
+  "translatedAt": "2025-12-24T07:04:42.298Z",
+  "sections": [
+    {
+      "title": "Warnings Against Boasting and Self-Praise",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "On Friendship and Counsel",
+      "startVerse": 5,
+      "endVerse": 10
+    },
+    {
+      "title": "Various Proverbs on Prudence and Relationships",
+      "startVerse": 11,
+      "endVerse": 22
+    },
+    {
+      "title": "The Value of Diligence in Caring for Flocks",
+      "startVerse": 23,
+      "endVerse": 27
+    }
+  ]
 }

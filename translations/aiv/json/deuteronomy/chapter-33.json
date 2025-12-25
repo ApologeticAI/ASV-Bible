@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "This is the blessing with which Moses, the man of God, blessed the children of Israel before his death.",
       "links": "<a href='/AIV/4/22/41'>Num. 22:41</a>, <a href='/AIV/34/1/1'>Hab. 1:1</a>",
-      "comment": "The figure of Moses as 'the man of God' marks him as a unique prophetic and priestly intermediary, a foreshadowing of Christ as both Prophet and High Priest (see Heb. 3:1-6)."
+      "comment": "The figure of Moses as 'the man of God' marks him as a unique prophetic and priestly intermediary, a foreshadowing of Christ as both Prophet and High Priest (see Heb. 3:1-6).",
+      "sectionHeader": "Moses Blesses the Tribes of Israel"
     },
     {
       "pk": 5033002,
@@ -314,7 +315,8 @@
       "verse": 26,
       "text": "\"There is no one like the God of Jeshurun, who rides the heavens to your help, and in His majesty through the skies.\"",
       "links": "<a href='/AIV/19/68/33-34'>Ps. 68:33-34</a>, <a href='/AIV/19/104/3'>Ps. 104:3</a>",
-      "comment": "This echoes the transcendence and power of God—a theme found throughout both Testaments and exemplified most perfectly in the Ascension of Christ (see Acts 1:9-11)."
+      "comment": "This echoes the transcendence and power of God—a theme found throughout both Testaments and exemplified most perfectly in the Ascension of Christ (see Acts 1:9-11).",
+      "sectionHeader": "Final Praise and Blessing of Israel"
     },
     {
       "pk": 5033027,
@@ -353,5 +355,17 @@
       "comment": "Israel’s blessing is ultimately fulfilled in Christ, who saves and protects His people, and in the community He establishes, against which the gates of hell do not prevail (Matt. 16:18)."
     }
   ],
-  "translatedAt": "2025-12-24T02:16:19.254Z"
+  "translatedAt": "2025-12-24T02:16:19.254Z",
+  "sections": [
+    {
+      "title": "Moses Blesses the Tribes of Israel",
+      "startVerse": 1,
+      "endVerse": 25
+    },
+    {
+      "title": "Final Praise and Blessing of Israel",
+      "startVerse": 26,
+      "endVerse": 29
+    }
+  ]
 }

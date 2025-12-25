@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In the fourth year of King Darius, the word of the Lord came to Zechariah on the fourth day of the ninth month, which is Kislev.",
       "links": "<a href='/AIV/37/1/1'>Hag. 1:1</a>; <a href='/AIV/45/1/1'>Zech. 1:1</a>",
-      "comment": "This verse sets the precise historical context: Zechariah receives God’s word during the reign of Darius, emphasizing the continuity of prophetic revelation after the exile."
+      "comment": "This verse sets the precise historical context: Zechariah receives God’s word during the reign of Darius, emphasizing the continuity of prophetic revelation after the exile.",
+      "sectionHeader": "The Question About Fasting"
     },
     {
       "pk": 45007002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "And the word of the Lord came to Zechariah, saying:",
       "links": "<a href='/AIV/45/1/1'>Zech. 1:1</a>",
-      "comment": "Another direct message from God further reinforces Zechariah’s authority as a true prophet, echoing the prophetic tradition."
+      "comment": "Another direct message from God further reinforces Zechariah’s authority as a true prophet, echoing the prophetic tradition.",
+      "sectionHeader": "True Worship and Obedience"
     },
     {
       "pk": 45007009,
@@ -173,5 +175,17 @@
       "comment": "This verse refers to God’s judgment in the exile as the direct result of persistent disobedience. The scattering among the nations connects with both literal history and a spiritual lesson: God’s people are called to faithfulness, kept in unity by the Spirit and truth."
     }
   ],
-  "translatedAt": "2025-12-24T09:56:55.595Z"
+  "translatedAt": "2025-12-24T09:56:55.595Z",
+  "sections": [
+    {
+      "title": "The Question About Fasting",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "True Worship and Obedience",
+      "startVerse": 8,
+      "endVerse": 14
+    }
+  ]
 }

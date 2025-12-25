@@ -3,7 +3,6 @@
   "bookName": "Esther",
   "bookAbbreviation": "Esth",
   "chapter": 10,
-  "sections": [],
   "verses": [
     {
       "pk": 19010001,
@@ -15,7 +14,8 @@
       "verse": 1,
       "text": "King Xerxes imposed tribute both on the mainland and on the islands of the sea.",
       "links": "<a href='/AIV/17/1/1'>Esth. 1:1</a>; <a href='/AIV/27/2/37-38'>Dan. 2:37-38</a>",
-      "comment": "This verse emphasizes the extent of King Xerxes’ authority, ruling over a vast domain. The narrative context highlights the power and order established by earthly kings, setting up a contrast with the sovereignty of God (Dan. 2:37-38). The use of 'islands of the sea' references the broadness of his reign, similar to themes in Psalms about God's universal dominion (Ps. 72:8)."
+      "comment": "This verse emphasizes the extent of King Xerxes’ authority, ruling over a vast domain. The narrative context highlights the power and order established by earthly kings, setting up a contrast with the sovereignty of God (Dan. 2:37-38). The use of 'islands of the sea' references the broadness of his reign, similar to themes in Psalms about God's universal dominion (Ps. 72:8).",
+      "sectionHeader": "The Greatness of Mordecai"
     },
     {
       "pk": 19010002,
@@ -42,5 +42,12 @@
       "comment": "Mordecai’s position as advocate and peacemaker for his people mirrors aspects of biblical leadership, foreshadowing the role of Christ as mediator and advocate (Matt. 5:9; 1 Tim. 2:5). There is a spiritual application here, recognizing the significance of intercession for the community, a practice that developed in the early church’s ministry. Mordecai’s pursuit of peace and the common good reflects the scriptural call to seek the welfare of God’s people, a characteristic of authentic leadership and unity in the faith (Ps. 122:6-9)."
     }
   ],
-  "translatedAt": "2025-12-24T05:11:49.704Z"
+  "translatedAt": "2025-12-24T05:11:49.704Z",
+  "sections": [
+    {
+      "title": "The Greatness of Mordecai",
+      "startVerse": 1,
+      "endVerse": 3
+    }
+  ]
 }

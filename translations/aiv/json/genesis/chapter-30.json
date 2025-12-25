@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When Rachel saw that she wasn't bearing children for Jacob, she became jealous of her sister and said to Jacob, \"Give me children, or I will die!\"",
       "links": "<a href='/AIV/09/01/05-11'>1 Samuel 1:5-11</a>; <a href='/AIV/01/16/1'>Gen. 16:1</a>",
-      "comment": "Rachel's desperation echoes other women in Scripture who struggled with barrenness and pleaded with God, such as Hannah. The motif points toward God's sovereignty over life and birth."
+      "comment": "Rachel's desperation echoes other women in Scripture who struggled with barrenness and pleaded with God, such as Hannah. The motif points toward God's sovereignty over life and birth.",
+      "sectionHeader": "The Children of Jacob by Bilhah and Zilpah"
     },
     {
       "pk": 1030002,
@@ -170,7 +171,8 @@
       "verse": 14,
       "text": "During the days of wheat harvest, Reuben went out and found mandrakes in the field, bringing them to his mother Leah. Rachel said to Leah, \"Please give me some of your son's mandrakes.\"",
       "links": "<a href='/AIV/22/07/13'>Song of Songs 7:13</a>",
-      "comment": "Mandrakes were believed to promote fertility. The story demonstrates the persistent hope and human strategies in seeking God's blessing."
+      "comment": "Mandrakes were believed to promote fertility. The story demonstrates the persistent hope and human strategies in seeking God's blessing.",
+      "sectionHeader": "The Mandrakes and Leah's Children"
     },
     {
       "pk": 1030015,
@@ -266,7 +268,8 @@
       "verse": 22,
       "text": "Then God remembered Rachel. He listened to her and opened her womb.",
       "links": "<a href='/AIV/01/21/1'>Gen. 21:1</a>; <a href='/AIV/42/01/24-25'>Luke 1:24-25</a>",
-      "comment": "God's remembering and answering Rachel parallels how He blessed Sarah and later Elizabeth, foreshadowing the miraculous births leading toward Christ."
+      "comment": "God's remembering and answering Rachel parallels how He blessed Sarah and later Elizabeth, foreshadowing the miraculous births leading toward Christ.",
+      "sectionHeader": "Birth of Joseph"
     },
     {
       "pk": 1030023,
@@ -302,7 +305,8 @@
       "verse": 25,
       "text": "After Rachel had given birth to Joseph, Jacob said to Laban, \"Send me away, so that I may go home to my own country.\"",
       "links": "<a href='/AIV/01/31/3'>Gen. 31:3</a>",
-      "comment": "Jacob's desire to return to Canaan marks the unfolding of God's promise and the importance of the promised land in redemption history."
+      "comment": "Jacob's desire to return to Canaan marks the unfolding of God's promise and the importance of the promised land in redemption history.",
+      "sectionHeader": "Jacob Prospers in Laban's Service"
     },
     {
       "pk": 1030026,
@@ -521,5 +525,27 @@
       "comment": "God’s promise to bless Jacob is confirmed, as he becomes exceedingly wealthy, just as Abraham was blessed before him. The abundance Jacob experiences points toward the future fullness of blessings for God’s people in unity and inheritance."
     }
   ],
-  "translatedAt": "2025-12-24T00:27:28.796Z"
+  "translatedAt": "2025-12-24T00:27:28.796Z",
+  "sections": [
+    {
+      "title": "The Children of Jacob by Bilhah and Zilpah",
+      "startVerse": 1,
+      "endVerse": 13
+    },
+    {
+      "title": "The Mandrakes and Leah's Children",
+      "startVerse": 14,
+      "endVerse": 21
+    },
+    {
+      "title": "Birth of Joseph",
+      "startVerse": 22,
+      "endVerse": 24
+    },
+    {
+      "title": "Jacob Prospers in Laban's Service",
+      "startVerse": 25,
+      "endVerse": 43
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "For this reason, I, Paul, the prisoner of Christ Jesus for the sake of you Gentiles—",
       "links": "<a href='/AIV/44/28/17'>Acts 28:17</a>; <a href='/AIV/50/1/12-13'>Phil. 1:12-13</a>",
-      "comment": "Paul introduces himself as a prisoner, emphasizing his suffering for the Gentiles. Paul’s role in bringing the gospel to non-Jews is central to this letter. His suffering mirrors Christ’s redemptive suffering (cf. Col 1:24)."
+      "comment": "Paul introduces himself as a prisoner, emphasizing his suffering for the Gentiles. Paul’s role in bringing the gospel to non-Jews is central to this letter. His suffering mirrors Christ’s redemptive suffering (cf. Col 1:24).",
+      "sectionHeader": "Paul's Ministry to the Gentiles"
     },
     {
       "pk": 56003002,
@@ -170,7 +171,8 @@
       "verse": 14,
       "text": "For this reason I bow my knees before the Father,",
       "links": "<a href='/AIV/49/1/17'>Eph. 1:17</a>; <a href='/AIV/44/21/5'>Acts 21:5</a>",
-      "comment": "Kneeling in prayer shows reverence and humility. Paul’s posture indicates deep intercession for the church."
+      "comment": "Kneeling in prayer shows reverence and humility. Paul’s posture indicates deep intercession for the church.",
+      "sectionHeader": "Paul's Prayer for Spiritual Strength"
     },
     {
       "pk": 56003015,
@@ -257,5 +259,17 @@
       "comment": "Glory is to God through the church and Christ Jesus, eternally. This underscores God’s purpose for a visibly united, worshiping, Christ-centered people across all history."
     }
   ],
-  "translatedAt": "2025-12-24T12:02:13.546Z"
+  "translatedAt": "2025-12-24T12:02:13.546Z",
+  "sections": [
+    {
+      "title": "Paul's Ministry to the Gentiles",
+      "startVerse": 1,
+      "endVerse": 13
+    },
+    {
+      "title": "Paul's Prayer for Spiritual Strength",
+      "startVerse": 14,
+      "endVerse": 21
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The divisions of the descendants of Aaron were as follows. Aaron’s sons were Nadab, Abihu, Eleazar, and Ithamar.",
       "links": "<a href='/AIV/02/6/23'>Ex. 6:23</a>",
-      "comment": "Aaron, the first high priest, had four sons, who become central to the priestly lineage. See also Exodus 6:23 for the genealogy detail."
+      "comment": "Aaron, the first high priest, had four sons, who become central to the priestly lineage. See also Exodus 6:23 for the genealogy detail.",
+      "sectionHeader": "The Divisions of the Priests"
     },
     {
       "pk": 13024002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "The first lot fell to Jehoiarib, the second to Jedaiah,",
       "links": "<a href='/AIV/13/9/10'>1Chr. 9:10</a>",
-      "comment": "Beginning the priestly courses, Jehoiarib and Jedaiah’s names reappear in later records (see Neh. 12:6, 7), showing succession and memory in God’s plan."
+      "comment": "Beginning the priestly courses, Jehoiarib and Jedaiah’s names reappear in later records (see Neh. 12:6, 7), showing succession and memory in God’s plan.",
+      "sectionHeader": "The Order of the Priestly Courses"
     },
     {
       "pk": 13024008,
@@ -242,7 +244,8 @@
       "verse": 20,
       "text": "From the rest of Levi’s sons: from Amram’s sons, Shubael; from Shubael’s sons, Jehdeiah;",
       "links": "<a href='/AIV/04/3/27'>Num. 3:27</a>",
-      "comment": "The Levites, as the tribe set apart for service, remind us of a wider spiritual priesthood, serving alongside the sons of Aaron."
+      "comment": "The Levites, as the tribe set apart for service, remind us of a wider spiritual priesthood, serving alongside the sons of Aaron.",
+      "sectionHeader": "The Divisions of the Levites"
     },
     {
       "pk": 13024021,
@@ -377,5 +380,22 @@
       "comment": "The casting of lots by all families—including the youngest—shows the impartiality and unity intended for worship. The structure and transmission of spiritual authority is seen here as divinely ordered, foreshadowing the enduring role of a unified spiritual leadership in God’s plan."
     }
   ],
-  "translatedAt": "2025-12-24T04:18:18.802Z"
+  "translatedAt": "2025-12-24T04:18:18.802Z",
+  "sections": [
+    {
+      "title": "The Divisions of the Priests",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "The Order of the Priestly Courses",
+      "startVerse": 7,
+      "endVerse": 19
+    },
+    {
+      "title": "The Divisions of the Levites",
+      "startVerse": 20,
+      "endVerse": 31
+    }
+  ]
 }

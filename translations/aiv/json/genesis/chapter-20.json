@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Abraham traveled from there toward the region of the Negev, and settled between Kadesh and Shur. While he was staying in Gerar as a foreigner,",
       "links": "<a href='/AIV/1/16/7'>Gen. 16:7</a>; <a href='/AIV/1/12/9'>Gen. 12:9</a>",
-      "comment": "Gerar was a Philistine city. The migration of the patriarchs shows God's providence across different lands, reminiscent of the future Exodus (see Gen. 12:10; Ex. 3:8)."
+      "comment": "Gerar was a Philistine city. The migration of the patriarchs shows God's providence across different lands, reminiscent of the future Exodus (see Gen. 12:10; Ex. 3:8).",
+      "sectionHeader": "Abraham and Sarah in Gerar"
     },
     {
       "pk": 1020002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "Then Abimelech called Abraham, and said to him, 'What have you done to us? How have I sinned against you, that you have brought upon me and my kingdom a great sin? You have done things to me that ought not to have been done.'",
       "links": "<a href='/AIV/1/12/18'>Gen. 12:18</a>; <a href='/AIV/1/26/10'>Gen. 26:10</a>",
-      "comment": "Abimelech rebukes Abraham. Even those outside God's covenant can discern moral truth (Rom. 2:14-15), emphasizing the universality of the moral law written on every heart."
+      "comment": "Abimelech rebukes Abraham. Even those outside God's covenant can discern moral truth (Rom. 2:14-15), emphasizing the universality of the moral law written on every heart.",
+      "sectionHeader": "Abraham’s Explanation and Abimelech’s Restitution"
     },
     {
       "pk": 1020010,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "Then Abraham prayed to God, and God healed Abimelech, and his wife and female servants, so they could have children again.",
       "links": "<a href='/AIV/1/12/17'>Gen. 12:17</a>; <a href='/AIV/18/42/9-10'>Job 42:9-10</a>",
-      "comment": "Intercessory prayer mediates God’s healing, prefiguring Christ’s mediation and the Church’s ministry of reconciliation (James 5:14-16)."
+      "comment": "Intercessory prayer mediates God’s healing, prefiguring Christ’s mediation and the Church’s ministry of reconciliation (James 5:14-16).",
+      "sectionHeader": "Abraham Prays for Abimelech"
     },
     {
       "pk": 1020018,
@@ -221,5 +224,22 @@
       "comment": "God’s sovereign opening and closing of wombs demonstrates His authority over life. This continues the theme of barrenness and miraculous birth found throughout Scripture (cf. Luke 1:7, 1:36), often paralleling salvation history."
     }
   ],
-  "translatedAt": "2025-12-24T00:20:40.541Z"
+  "translatedAt": "2025-12-24T00:20:40.541Z",
+  "sections": [
+    {
+      "title": "Abraham and Sarah in Gerar",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "Abraham’s Explanation and Abimelech’s Restitution",
+      "startVerse": 9,
+      "endVerse": 16
+    },
+    {
+      "title": "Abraham Prays for Abimelech",
+      "startVerse": 17,
+      "endVerse": 18
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "So Agrippa said to Paul, 'You are permitted to speak for yourself.' Then Paul stretched out his hand and began his defense:",
       "links": "<a href='/AIV/44/25/23'>Acts 25:23</a>;<a href='/AIV/44/24/10'>Acts 24:10</a>",
-      "comment": "Paul is given the opportunity to defend himself before King Agrippa, continuing the tradition of public testimony (see Acts 24:10). Luke presents Paul’s defense as both historical and theological."
+      "comment": "Paul is given the opportunity to defend himself before King Agrippa, continuing the tradition of public testimony (see Acts 24:10). Luke presents Paul’s defense as both historical and theological.",
+      "sectionHeader": "Paul Before King Agrippa"
     },
     {
       "pk": 51026002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "While thus engaged as I journeyed to Damascus with the authority and commission of the chief priests,",
       "links": "<a href='/AIV/44/9/2'>Acts 9:2</a>",
-      "comment": "Paul's mission is sanctioned by high religious authorities, showing the seriousness of his former opposition."
+      "comment": "Paul's mission is sanctioned by high religious authorities, showing the seriousness of his former opposition.",
+      "sectionHeader": "Paul Tells of His Conversion"
     },
     {
       "pk": 51026013,
@@ -230,7 +232,8 @@
       "verse": 19,
       "text": "\"So then, King Agrippa, I was not disobedient to the heavenly vision,",
       "links": "<a href='/AIV/44/9/15-17'>Acts 9:15-17</a>",
-      "comment": "Paul’s faithfulness to the vision reflects the importance of obedience to divine revelation."
+      "comment": "Paul’s faithfulness to the vision reflects the importance of obedience to divine revelation.",
+      "sectionHeader": "Paul’s Witness to Jews and Gentiles"
     },
     {
       "pk": 51026020,
@@ -290,7 +293,8 @@
       "verse": 24,
       "text": "As he was saying these things in his defense, Festus said with a loud voice, 'Paul, you are out of your mind! Your great learning is driving you insane.'",
       "links": "<a href='/AIV/44/26/25'>Acts 26:25</a>;<a href='/AIV/46/1/18-23'>1 Cor. 1:18-23</a>",
-      "comment": "Festus’s reaction echoes the perception of the Gospel as folly to Gentiles (1 Cor. 1:18-23)."
+      "comment": "Festus’s reaction echoes the perception of the Gospel as folly to Gentiles (1 Cor. 1:18-23).",
+      "sectionHeader": "Paul Appeals to King Agrippa"
     },
     {
       "pk": 51026025,
@@ -389,5 +393,27 @@
       "comment": "Paul’s appeal to Caesar opens the way for the Gospel to reach the heart of the Empire. This underscores the Church’s mission to the whole world."
     }
   ],
-  "translatedAt": "2025-12-24T11:34:04.596Z"
+  "translatedAt": "2025-12-24T11:34:04.596Z",
+  "sections": [
+    {
+      "title": "Paul Before King Agrippa",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "Paul Tells of His Conversion",
+      "startVerse": 12,
+      "endVerse": 18
+    },
+    {
+      "title": "Paul’s Witness to Jews and Gentiles",
+      "startVerse": 19,
+      "endVerse": 23
+    },
+    {
+      "title": "Paul Appeals to King Agrippa",
+      "startVerse": 24,
+      "endVerse": 32
+    }
+  ]
 }

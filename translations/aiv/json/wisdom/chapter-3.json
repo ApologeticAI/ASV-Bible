@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "But the souls of the righteous are in the hand of God, and no torment will ever touch them.",
       "links": "<a href='/AIV/19/23/4'>Ps. 23:4</a>; <a href='/AIV/41/12/27'>Mk 12:27</a>",
-      "comment": "This verse introduces a strong assurance of protection and immortality for the righteous. The phrase 'hand of God' can subtly suggest the doctrine of the communion of saints and the certainty of divine preservation."
+      "comment": "This verse introduces a strong assurance of protection and immortality for the righteous. The phrase 'hand of God' can subtly suggest the doctrine of the communion of saints and the certainty of divine preservation.",
+      "sectionHeader": "The Reward of the Righteous"
     },
     {
       "pk": 27003002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "But the ungodly will be punished for their reasoning, for they have rejected the righteous and turned away from the Lord.",
       "links": "<a href='/AIV/19/1/6'>Ps. 1:6</a>; <a href='/AIV/45/1/18-20'>Rom 1:18-20</a>",
-      "comment": "Rejecting the righteous and the Lord leads to punishment, showing the moral seriousness of accepting God's truth."
+      "comment": "Rejecting the righteous and the Lord leads to punishment, showing the moral seriousness of accepting God's truth.",
+      "sectionHeader": "The Punishment of the Ungodly"
     },
     {
       "pk": 27003010,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "For blessed is the barren woman who remains undefiled, who has not known sin in intercourse; she will have her reward when God examines souls.",
       "links": "<a href='/AIV/23/56/3-5'>Isa 56:3-5</a>; <a href='/AIV/40/19/12'>Mt 19:12</a>",
-      "comment": "This positive view of virginity and purity points toward the value of consecrated life, hinting at deep spiritual meaning for those who remain chaste."
+      "comment": "This positive view of virginity and purity points toward the value of consecrated life, hinting at deep spiritual meaning for those who remain chaste.",
+      "sectionHeader": "Blessings of the Virtuous and Fate of the Wicked Offspring"
     },
     {
       "pk": 27003013,
@@ -233,5 +236,22 @@
       "comment": "Unlawful origins lead to destruction—a reminder that fidelity to God's order is the only foundation for lasting hope and security."
     }
   ],
-  "translatedAt": "2025-12-24T07:15:24.809Z"
+  "translatedAt": "2025-12-24T07:15:24.809Z",
+  "sections": [
+    {
+      "title": "The Reward of the Righteous",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "The Punishment of the Ungodly",
+      "startVerse": 9,
+      "endVerse": 11
+    },
+    {
+      "title": "Blessings of the Virtuous and Fate of the Wicked Offspring",
+      "startVerse": 12,
+      "endVerse": 19
+    }
+  ]
 }

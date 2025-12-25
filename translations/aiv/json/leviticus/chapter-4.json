@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The LORD spoke to Moses, saying:",
       "links": "<a href='/AIV/2/29/42'>Ex. 29:42</a>",
-      "comment": "This introductory phrase is common throughout Leviticus, signifying the divine origin of the laws. The Lord personally communicates these laws to Moses, underscoring their sacred authority."
+      "comment": "This introductory phrase is common throughout Leviticus, signifying the divine origin of the laws. The Lord personally communicates these laws to Moses, underscoring their sacred authority.",
+      "sectionHeader": "Sin Offering for the Anointed Priest"
     },
     {
       "pk": 3004002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "If the whole congregation of Israel sins unintentionally, and the matter is hidden from the eyes of the assembly, and they do any of the things by which anyone sins against the LORD’s commandments, though they did not know it, then they are guilty.",
       "links": "<a href='/AIV/3/5/15'>Lev. 5:15</a>",
-      "comment": "Even collective, unintentional sin makes the people guilty—a reminder that ignorance does not absolve guilt, which necessitates communal responsibility and atonement."
+      "comment": "Even collective, unintentional sin makes the people guilty—a reminder that ignorance does not absolve guilt, which necessitates communal responsibility and atonement.",
+      "sectionHeader": "Sin Offering for the Whole Congregation"
     },
     {
       "pk": 3004014,
@@ -266,7 +268,8 @@
       "verse": 22,
       "text": "When a leader sins and unintentionally does any of the things which are forbidden by the LORD’s commandments, he becomes guilty.",
       "links": "<a href='/AIV/3/4/2'>Lev. 4:2</a>",
-      "comment": "Leaders carry special responsibility; their atonement is needed for good governance and purity among the people—a principle enduring in Christian leadership."
+      "comment": "Leaders carry special responsibility; their atonement is needed for good governance and purity among the people—a principle enduring in Christian leadership.",
+      "sectionHeader": "Sin Offering for a Leader"
     },
     {
       "pk": 3004023,
@@ -326,7 +329,8 @@
       "verse": 27,
       "text": "If any one of the common people sins unintentionally, by doing any of the things against the LORD’s commandments that must not be done, and comes to realize his guilt,",
       "links": "<a href='/AIV/3/5/17'>Lev. 5:17</a>",
-      "comment": "Similar regulations apply to all, reflecting the inclusive nature of God’s provision for forgiveness, a theme fulfilled in universal redemption (Rom. 3:23-24)."
+      "comment": "Similar regulations apply to all, reflecting the inclusive nature of God’s provision for forgiveness, a theme fulfilled in universal redemption (Rom. 3:23-24).",
+      "sectionHeader": "Sin Offering for a Common Person"
     },
     {
       "pk": 3004028,
@@ -425,5 +429,27 @@
       "comment": "Priestly mediation effects forgiveness; worship through sacrifice is both literal and typological, pointing ultimately to Christ, and the ongoing sacramental means of grace."
     }
   ],
-  "translatedAt": "2025-12-24T01:11:37.578Z"
+  "translatedAt": "2025-12-24T01:11:37.578Z",
+  "sections": [
+    {
+      "title": "Sin Offering for the Anointed Priest",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "Sin Offering for the Whole Congregation",
+      "startVerse": 13,
+      "endVerse": 21
+    },
+    {
+      "title": "Sin Offering for a Leader",
+      "startVerse": 22,
+      "endVerse": 26
+    },
+    {
+      "title": "Sin Offering for a Common Person",
+      "startVerse": 27,
+      "endVerse": 35
+    }
+  ]
 }

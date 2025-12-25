@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "On the first day of the week, at early dawn, they went to the tomb, bringing the spices they had prepared.",
       "links": "<a href='/AIV/41/16/1'>Mark 16:1</a>; <a href='/AIV/43/20/1'>John 20:1</a>",
-      "comment": "The women come to the tomb early, showing their devotion. The 'first day of the week' signals the new creation begun in Christ's resurrection."
+      "comment": "The women come to the tomb early, showing their devotion. The 'first day of the week' signals the new creation begun in Christ's resurrection.",
+      "sectionHeader": "The Resurrection of Jesus"
     },
     {
       "pk": 49024002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "Now, that same day, two of them were going to a village named Emmaus, about seven miles from Jerusalem.",
       "links": "",
-      "comment": "The journey from Jerusalem to Emmaus sets the scene for a profound recognition of the risen Lord in the breaking of bread."
+      "comment": "The journey from Jerusalem to Emmaus sets the scene for a profound recognition of the risen Lord in the breaking of bread.",
+      "sectionHeader": "The Road to Emmaus"
     },
     {
       "pk": 49024014,
@@ -434,7 +436,8 @@
       "verse": 36,
       "text": "While they were still talking about this, Jesus Himself stood among them and said to them, 'Peace to you.'",
       "links": "<a href='/AIV/43/20/19'>John 20:19</a>",
-      "comment": "The risen Jesus appears bodily, greeting the apostles with peace (Hebrew 'shalom'), signifying completion and reconciliation."
+      "comment": "The risen Jesus appears bodily, greeting the apostles with peace (Hebrew 'shalom'), signifying completion and reconciliation.",
+      "sectionHeader": "Jesus Appears to the Disciples"
     },
     {
       "pk": 49024037,
@@ -602,7 +605,8 @@
       "verse": 50,
       "text": "Then He led them out as far as Bethany, and lifting up His hands, He blessed them.",
       "links": "<a href='/AIV/44/1/12'>Acts 1:12</a>",
-      "comment": "The lifting of hands is a priestly gesture. Jesus, as eternal High Priest, blesses His apostles as He prepares to ascend."
+      "comment": "The lifting of hands is a priestly gesture. Jesus, as eternal High Priest, blesses His apostles as He prepares to ascend.",
+      "sectionHeader": "The Ascension of Jesus"
     },
     {
       "pk": 49024051,
@@ -641,5 +645,27 @@
       "comment": "Communal worship continues at the temple, signifying the reverent and apostolic nature of worship in the earliest era and its connection to the old covenant fulfilled in Christ."
     }
   ],
-  "translatedAt": "2025-12-24T11:00:01.507Z"
+  "translatedAt": "2025-12-24T11:00:01.507Z",
+  "sections": [
+    {
+      "title": "The Resurrection of Jesus",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "The Road to Emmaus",
+      "startVerse": 13,
+      "endVerse": 35
+    },
+    {
+      "title": "Jesus Appears to the Disciples",
+      "startVerse": 36,
+      "endVerse": 49
+    },
+    {
+      "title": "The Ascension of Jesus",
+      "startVerse": 50,
+      "endVerse": 53
+    }
+  ]
 }

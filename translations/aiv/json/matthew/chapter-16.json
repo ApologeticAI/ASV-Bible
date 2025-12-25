@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then the Pharisees and Sadducees came and, testing Jesus, asked Him to show them a sign from heaven.",
       "links": "<a href='/AIV/2/7/9'>Exodus 7:9</a>; <a href='/AIV/40/12/38'>Matt. 12:38</a>",
-      "comment": "The religious leaders seek a miraculous sign as proof, reflecting skepticism and a lack of faith, despite many signs already done."
+      "comment": "The religious leaders seek a miraculous sign as proof, reflecting skepticism and a lack of faith, despite many signs already done.",
+      "sectionHeader": "The Demand for a Sign"
     },
     {
       "pk": 47016002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "When the disciples crossed over to the other side, they had forgotten to bring bread.",
       "links": "<a href='/AIV/41/8/14'>Mark 8:14</a>",
-      "comment": "A mundane detail reveals the disciples' focus on physical needs, setting up a spiritual lesson."
+      "comment": "A mundane detail reveals the disciples' focus on physical needs, setting up a spiritual lesson.",
+      "sectionHeader": "The Leaven of the Pharisees and Sadducees"
     },
     {
       "pk": 47016006,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "Now when Jesus came into the district of Caesarea Philippi, He asked His disciples, \"Who do people say that the Son of Man is?\"",
       "links": "<a href='/AIV/27/7/13'>Daniel 7:13-14</a>; <a href='/AIV/40/8/20'>Matt. 8:20</a>",
-      "comment": "‘Son of Man’ is a clear reference to the prophetic figure of Daniel 7, pointing to Jesus’ divinity and messianic identity."
+      "comment": "‘Son of Man’ is a clear reference to the prophetic figure of Daniel 7, pointing to Jesus’ divinity and messianic identity.",
+      "sectionHeader": "Peter's Confession of Faith"
     },
     {
       "pk": 47016014,
@@ -254,7 +257,8 @@
       "verse": 21,
       "text": "From that time on Jesus began to show His disciples that He must go to Jerusalem, suffer many things from the elders and chief priests and scribes, be killed, and on the third day be raised.",
       "links": "<a href='/AIV/23/53/5'>Isaiah 53:5-12</a>; <a href='/AIV/19/16/10'>Psalm 16:10</a>",
-      "comment": "Jesus predicts His Passion and Resurrection, fulfilling the Old Testament prophecies about the suffering Messiah and His victory over death."
+      "comment": "Jesus predicts His Passion and Resurrection, fulfilling the Old Testament prophecies about the suffering Messiah and His victory over death.",
+      "sectionHeader": "Jesus Predicts His Passion and Resurrection"
     },
     {
       "pk": 47016022,
@@ -290,7 +294,8 @@
       "verse": 24,
       "text": "Then Jesus said to His disciples, \"If anyone wants to come after Me, he must deny himself, take up his cross, and follow Me.\"",
       "links": "<a href='/AIV/40/10/38'>Matt. 10:38</a>; <a href='/AIV/41/8/34'>Mark 8:34</a>",
-      "comment": "True discipleship is marked by self-denial and participation in Christ’s suffering, echoing the spiritual call to sacrificial living."
+      "comment": "True discipleship is marked by self-denial and participation in Christ’s suffering, echoing the spiritual call to sacrificial living.",
+      "sectionHeader": "The Conditions of Discipleship"
     },
     {
       "pk": 47016025,
@@ -341,5 +346,32 @@
       "comment": "This promise refers both to the Transfiguration (foretaste of divine glory) and the Church’s establishment as the visible presence of Christ’s kingdom among men."
     }
   ],
-  "translatedAt": "2025-12-24T10:11:22.607Z"
+  "translatedAt": "2025-12-24T10:11:22.607Z",
+  "sections": [
+    {
+      "title": "The Demand for a Sign",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "The Leaven of the Pharisees and Sadducees",
+      "startVerse": 5,
+      "endVerse": 12
+    },
+    {
+      "title": "Peter's Confession of Faith",
+      "startVerse": 13,
+      "endVerse": 20
+    },
+    {
+      "title": "Jesus Predicts His Passion and Resurrection",
+      "startVerse": 21,
+      "endVerse": 23
+    },
+    {
+      "title": "The Conditions of Discipleship",
+      "startVerse": 24,
+      "endVerse": 28
+    }
+  ]
 }

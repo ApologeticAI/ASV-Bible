@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Moses spoke to the leaders of the tribes of Israel, saying, \"This is what the Lord has commanded:",
       "links": "<a href='/AIV/3/27/34'>Lev. 27:34</a>; <a href='/AIV/5/23/21'>Deut. 23:21'</a>",
-      "comment": "This introductory verse establishes Moses as the speaker to the tribal leaders, reinforcing the importance of hierarchical leadership, which foreshadows the continuity of authoritative guidance in God's people."
+      "comment": "This introductory verse establishes Moses as the speaker to the tribal leaders, reinforcing the importance of hierarchical leadership, which foreshadows the continuity of authoritative guidance in God's people.",
+      "sectionHeader": "Laws Concerning Vows"
     },
     {
       "pk": 4030002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "\"If a woman makes a vow to the Lord and binds herself by a pledge while living in her father's house in her youth,",
       "links": "<a href='/AIV/7/11/30'>Judg. 11:30-31</a>",
-      "comment": "Here, vows made by women are subject to familial authority, reflecting a principle of spiritual headship that finds fulfillment in the New Testament in spiritual oversight (cf. Eph. 5:22–24)."
+      "comment": "Here, vows made by women are subject to familial authority, reflecting a principle of spiritual headship that finds fulfillment in the New Testament in spiritual oversight (cf. Eph. 5:22–24).",
+      "sectionHeader": "Vows Made by Women"
     },
     {
       "pk": 4030004,
@@ -197,5 +199,17 @@
       "comment": "The concluding verse underlines the divinely instituted statutes for orderly spiritual life. This structure of authority and obedience within God’s people prefigures the ordered unity of the body of Christ, where vows and duties are overseen with wisdom and charity, fostering holiness and communion."
     }
   ],
-  "translatedAt": "2025-12-24T01:52:03.171Z"
+  "translatedAt": "2025-12-24T01:52:03.171Z",
+  "sections": [
+    {
+      "title": "Laws Concerning Vows",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "Vows Made by Women",
+      "startVerse": 3,
+      "endVerse": 16
+    }
+  ]
 }

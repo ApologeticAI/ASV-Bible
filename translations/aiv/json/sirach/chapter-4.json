@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Do not mistreat the poor, nor show contempt for those in need.",
       "links": "<a href='/AIV/20/14/21'>Prov. 14:21</a>; <a href='/AIV/40/25/40'>Matt. 25:40</a>",
-      "comment": "The importance of caring for the poor is strongly affirmed in both Old and New Testaments as an essential virtue. The verse echoes Proverbs and anticipates Christ’s teaching about service and mercy."
+      "comment": "The importance of caring for the poor is strongly affirmed in both Old and New Testaments as an essential virtue. The verse echoes Proverbs and anticipates Christ’s teaching about service and mercy.",
+      "sectionHeader": "Compassion for the Poor and Oppressed"
     },
     {
       "pk": 28004002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "Wisdom raises her children and takes care of those who seek her.",
       "links": "<a href='/AIV/20/1/20'>Prov. 1:20</a>; <a href='/AIV/20/8/17'>Prov. 8:17</a>",
-      "comment": "Personified Wisdom, echoing Proverbs, is shown to nurture and guide, alluding to divine wisdom as motherly and nurturing."
+      "comment": "Personified Wisdom, echoing Proverbs, is shown to nurture and guide, alluding to divine wisdom as motherly and nurturing.",
+      "sectionHeader": "Blessings of Seeking Wisdom"
     },
     {
       "pk": 28004012,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "At first, Wisdom walks with him by crooked ways, bringing fear and distress, and tests him with her discipline, until she can trust his soul.",
       "links": "<a href='/AIV/20/3/12'>Prov. 3:12</a>; <a href='/AIV/58/12/11'>Heb. 12:11</a>",
-      "comment": "The process of growing in Wisdom involves spiritual trials, paralleling the discipline of God’s children described in Hebrews."
+      "comment": "The process of growing in Wisdom involves spiritual trials, paralleling the discipline of God’s children described in Hebrews.",
+      "sectionHeader": "Tests and Rewards of Wisdom"
     },
     {
       "pk": 28004018,
@@ -242,7 +245,8 @@
       "verse": 20,
       "text": "Observe the right time, and be cautious of evil; do not be ashamed to confess your sins.",
       "links": "<a href='/AIV/19/32/5'>Ps. 32:5</a>; <a href='/AIV/62/1/9'>1 John 1:9</a>",
-      "comment": "Admits the need for confession, pointing to a spiritual practice of reconciliation and self-awareness central to Christian life."
+      "comment": "Admits the need for confession, pointing to a spiritual practice of reconciliation and self-awareness central to Christian life.",
+      "sectionHeader": "Counsel on Prudence and Shame"
     },
     {
       "pk": 28004021,
@@ -377,5 +381,27 @@
       "comment": "The last verse calls for generosity, with a warning against selfishness—a recurring biblical theme inviting sacrificial giving."
     }
   ],
-  "translatedAt": "2025-12-24T07:25:07.389Z"
+  "translatedAt": "2025-12-24T07:25:07.389Z",
+  "sections": [
+    {
+      "title": "Compassion for the Poor and Oppressed",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "Blessings of Seeking Wisdom",
+      "startVerse": 11,
+      "endVerse": 16
+    },
+    {
+      "title": "Tests and Rewards of Wisdom",
+      "startVerse": 17,
+      "endVerse": 19
+    },
+    {
+      "title": "Counsel on Prudence and Shame",
+      "startVerse": 20,
+      "endVerse": 31
+    }
+  ]
 }

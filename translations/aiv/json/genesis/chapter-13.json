@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "So Abram went up from Egypt to the Negev, he and his wife, and all that belonged to him, and Lot with him.",
       "links": "<a href='/AIV/1/12/9'>Gen 12:9</a>; <a href='/AIV/1/12/10'>Gen 12:10</a>",
-      "comment": "Abram leaves Egypt after the episode with Pharaoh, setting the context for his continued journey in faith. This mirrors the pattern of God's people entering and later departing Egypt (see Exodus 12:41)."
+      "comment": "Abram leaves Egypt after the episode with Pharaoh, setting the context for his continued journey in faith. This mirrors the pattern of God's people entering and later departing Egypt (see Exodus 12:41).",
+      "sectionHeader": "Abram and Lot Return from Egypt"
     },
     {
       "pk": 1013002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "Lot, who went with Abram, also had flocks and herds and tents.",
       "links": "<a href='/AIV/1/12/4-5'>Gen 12:4-5</a>",
-      "comment": "Lot shares in Abram’s blessing by association. This suggests the spiritual benefit that comes to those united in close relationship with the people of God (cf. Acts 16:31)."
+      "comment": "Lot shares in Abram’s blessing by association. This suggests the spiritual benefit that comes to those united in close relationship with the people of God (cf. Acts 16:31).",
+      "sectionHeader": "The Separation of Abram and Lot"
     },
     {
       "pk": 1013006,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "The LORD said to Abram, after Lot had separated from him, 'Lift up your eyes and look from the place where you are—northward, southward, eastward, and westward.'",
       "links": "<a href='/AIV/1/12/7'>Gen 12:7</a>; <a href='/AIV/1/28/13-14'>Gen 28:13-14</a>",
-      "comment": "This renewed promise shows God’s faithfulness. Separation precedes blessing, suggesting the spiritual principle that detachment for God’s sake brings a greater inheritance (cf. Mark 10:29-30)."
+      "comment": "This renewed promise shows God’s faithfulness. Separation precedes blessing, suggesting the spiritual principle that detachment for God’s sake brings a greater inheritance (cf. Mark 10:29-30).",
+      "sectionHeader": "God’s Promise to Abram"
     },
     {
       "pk": 1013015,
@@ -221,5 +224,22 @@
       "comment": "Abram’s building of an altar marks Hebron as a place of communion with God. Altars are a sign of true worship and covenant. The emphasis on worshiping God in specific places prefigures the Christian practice of sacred spaces (cf. Revelation 8:3)."
     }
   ],
-  "translatedAt": "2025-12-24T00:16:46.998Z"
+  "translatedAt": "2025-12-24T00:16:46.998Z",
+  "sections": [
+    {
+      "title": "Abram and Lot Return from Egypt",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "The Separation of Abram and Lot",
+      "startVerse": 5,
+      "endVerse": 13
+    },
+    {
+      "title": "God’s Promise to Abram",
+      "startVerse": 14,
+      "endVerse": 18
+    }
+  ]
 }

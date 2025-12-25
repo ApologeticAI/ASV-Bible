@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When King David had settled in his house, and the LORD had given him rest from all his enemies on every side,",
       "links": "<a href='/AIV/10/5/12'>2Sam 5:12</a>; <a href='/AIV/13/17/1'>1Chr 17:1</a>",
-      "comment": "This verse sets the context for God's covenant with David. David's peace foreshadows the blessing given to chosen leaders."
+      "comment": "This verse sets the context for God's covenant with David. David's peace foreshadows the blessing given to chosen leaders.",
+      "sectionHeader": "The LORD Promises David a House"
     },
     {
       "pk": 10007002,
@@ -218,7 +219,8 @@
       "verse": 18,
       "text": "Then King David went in, sat before the LORD, and said, \"Who am I, O LORD God, and what is my house, that you have brought me this far?\"",
       "links": "<a href='/AIV/13/17/16'>1Chr 17:16</a>",
-      "comment": "David in humility acknowledges God’s favor. This posture of prayer foreshadows the necessity of intercession and humble submission before God's majesty."
+      "comment": "David in humility acknowledges God’s favor. This posture of prayer foreshadows the necessity of intercession and humble submission before God's majesty.",
+      "sectionHeader": "David's Prayer of Thanksgiving"
     },
     {
       "pk": 10007019,
@@ -353,5 +355,17 @@
       "comment": "David asks for perpetual blessing allied to God’s irreversible promise. The theme of an everlasting dynasty ties to Christ’s kingship and the enduring visible institution He founded."
     }
   ],
-  "translatedAt": "2025-12-24T03:15:01.765Z"
+  "translatedAt": "2025-12-24T03:15:01.765Z",
+  "sections": [
+    {
+      "title": "The LORD Promises David a House",
+      "startVerse": 1,
+      "endVerse": 17
+    },
+    {
+      "title": "David's Prayer of Thanksgiving",
+      "startVerse": 18,
+      "endVerse": 29
+    }
+  ]
 }

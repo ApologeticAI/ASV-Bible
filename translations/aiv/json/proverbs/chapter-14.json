@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "A wise woman builds her house, but a foolish one tears it down with her own hands.",
       "links": "<a href='/AIV/20/9/1'>Prov. 9:1</a>; <a href='/AIV/20/31/10-12'>Prov. 31:10-12</a>",
-      "comment": "This verse uses the imagery of the household to symbolize the importance of wisdom in nurturing and protecting God's gifts. The theme of building up with virtue echoes the role of the Church as a spiritual household (1 Tim. 3:15)."
+      "comment": "This verse uses the imagery of the household to symbolize the importance of wisdom in nurturing and protecting God's gifts. The theme of building up with virtue echoes the role of the Church as a spiritual household (1 Tim. 3:15).",
+      "sectionHeader": "The Way of Wisdom and Folly"
     },
     {
       "pk": 24014002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "The house of the wicked will be destroyed, but the tent of the upright will flourish.",
       "links": "<a href='/AIV/19/37/10-11'>Ps. 37:10-11</a>; <a href='/AIV/20/3/33'>Prov. 3:33</a>",
-      "comment": "Earthly establishments rooted in evil fail, while the righteous, even with little, find growth. This foreshadows Christ's teaching of the humble being exalted (Luke 14:11)."
+      "comment": "Earthly establishments rooted in evil fail, while the righteous, even with little, find growth. This foreshadows Christ's teaching of the humble being exalted (Luke 14:11).",
+      "sectionHeader": "Blessings and Consequences of Righteousness"
     },
     {
       "pk": 24014012,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "The simple believes every word, but the prudent looks well to his steps.",
       "links": "<a href='/AIV/20/22/3'>Prov. 22:3</a>; <a href='/AIV/62/4/1'>1 John 4:1</a>",
-      "comment": "Discerning spirits and teachings is necessary in the life of faith, avoiding both gullibility and cynicism. Sober discernment is a virtue esteemed throughout Christian history."
+      "comment": "Discerning spirits and teachings is necessary in the life of faith, avoiding both gullibility and cynicism. Sober discernment is a virtue esteemed throughout Christian history.",
+      "sectionHeader": "The Wisdom of Prudence and Self-Control"
     },
     {
       "pk": 24014016,
@@ -242,7 +245,8 @@
       "verse": 20,
       "text": "The poor is disliked even by his neighbor, but the rich has many friends.",
       "links": "<a href='/AIV/20/19/4'>Prov. 19:4</a>; <a href='/AIV/20/19/7'>Prov. 19:7</a>",
-      "comment": "This observation of human nature urges love of neighbor as Christ commands (Luke 10:27), prioritizing mercy over mere worldly esteem."
+      "comment": "This observation of human nature urges love of neighbor as Christ commands (Luke 10:27), prioritizing mercy over mere worldly esteem.",
+      "sectionHeader": "Charity, Justice, and National Blessing"
     },
     {
       "pk": 24014021,
@@ -425,5 +429,27 @@
       "comment": "Rulers reward faithful service, prefiguring how Christ—the King—will reward his faithful in the end (Matt. 25:34)."
     }
   ],
-  "translatedAt": "2025-12-24T06:57:30.239Z"
+  "translatedAt": "2025-12-24T06:57:30.239Z",
+  "sections": [
+    {
+      "title": "The Way of Wisdom and Folly",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "Blessings and Consequences of Righteousness",
+      "startVerse": 11,
+      "endVerse": 14
+    },
+    {
+      "title": "The Wisdom of Prudence and Self-Control",
+      "startVerse": 15,
+      "endVerse": 19
+    },
+    {
+      "title": "Charity, Justice, and National Blessing",
+      "startVerse": 20,
+      "endVerse": 35
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "No evil will seize anyone who fears the Lord, but in trials He will deliver them again and again.",
       "links": "<a href='/AIV/20/1/7'>Prov. 1:7</a>; <a href='/AIV/19/34/17-19'>Ps. 34:17-19</a>",
-      "comment": "As throughout Wisdom literature, the fear of the Lord safeguards a person from real harm, even when troubles arise. Echoes with the promise of God's protection for those loyal to Him."
+      "comment": "As throughout Wisdom literature, the fear of the Lord safeguards a person from real harm, even when troubles arise. Echoes with the promise of God's protection for those loyal to Him.",
+      "sectionHeader": "The Security of Those Who Fear the Lord"
     },
     {
       "pk": 28033002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "Why is one day greater than another, when each day of the light in the year is given by the Most High?",
       "links": "<a href='/AIV/1/1/5'>Gen. 1:5</a>; <a href='/AIV/19/74/16'>Ps. 74:16</a>",
-      "comment": "Implied here is the idea of sacred times—God assigning special meaning to particular days, foreshadowing the Christian liturgical year."
+      "comment": "Implied here is the idea of sacred times—God assigning special meaning to particular days, foreshadowing the Christian liturgical year.",
+      "sectionHeader": "God's Sovereignty in Creation and Human Destiny"
     },
     {
       "pk": 28033008,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "I woke up in the last days, and listened as I received understanding; I declare what I have heard.",
       "links": "<a href='/AIV/20/2/6'>Prov. 2:6</a>",
-      "comment": "\"Last days\" allusion hints at prophetic wisdom, looking forward to Christ who brings fullness of revelation."
+      "comment": "\"Last days\" allusion hints at prophetic wisdom, looking forward to Christ who brings fullness of revelation.",
+      "sectionHeader": "Advice to Rulers and the Wise"
     },
     {
       "pk": 28033016,
@@ -254,7 +257,8 @@
       "verse": 21,
       "text": "Assign work to your servant; let him serve you as you serve the Lord.",
       "links": "<a href='/AIV/51/3/22-24'>Col. 3:22-24</a>",
-      "comment": "Earthly practices of stewardship are sanctified when performed in view of obedience to the Lord."
+      "comment": "Earthly practices of stewardship are sanctified when performed in view of obedience to the Lord.",
+      "sectionHeader": "On Servants and Masters"
     },
     {
       "pk": 28033022,
@@ -401,5 +405,27 @@
       "comment": "Conclusion exhorts pursuit of wisdom with humility, which God rewards. Servanthood is reinterpreted as a spiritual vocation, a prelude to Christian life of grace."
     }
   ],
-  "translatedAt": "2025-12-24T07:40:48.727Z"
+  "translatedAt": "2025-12-24T07:40:48.727Z",
+  "sections": [
+    {
+      "title": "The Security of Those Who Fear the Lord",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "God's Sovereignty in Creation and Human Destiny",
+      "startVerse": 7,
+      "endVerse": 14
+    },
+    {
+      "title": "Advice to Rulers and the Wise",
+      "startVerse": 15,
+      "endVerse": 20
+    },
+    {
+      "title": "On Servants and Masters",
+      "startVerse": 21,
+      "endVerse": 33
+    }
+  ]
 }

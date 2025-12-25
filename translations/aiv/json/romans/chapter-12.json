@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Therefore, brothers, I urge you by the mercies of God to present your bodies as a living sacrifice, holy and pleasing to God—this is your spiritual worship.",
       "links": "<a href='/AIV/19/50/14'>Ps. 50:14</a>; <a href='/AIV/46/6/19-20'>1 Cor. 6:19-20</a>; <a href='/AIV/60/2/5'>1 Pet. 2:5</a>",
-      "comment": "Offering our bodies as a living sacrifice shows the need for complete dedication to God—a spiritual worship that echoes the Old Testament sacrifices (see Psalm 50:14, 1 Pet. 2:5), but fulfilled now by self-giving, recalling the offering of Christ. This passage connects personal holiness with worship and suggests a physical, embodied response to God's mercy, not just intellectual assent."
+      "comment": "Offering our bodies as a living sacrifice shows the need for complete dedication to God—a spiritual worship that echoes the Old Testament sacrifices (see Psalm 50:14, 1 Pet. 2:5), but fulfilled now by self-giving, recalling the offering of Christ. This passage connects personal holiness with worship and suggests a physical, embodied response to God's mercy, not just intellectual assent.",
+      "sectionHeader": "A Living Sacrifice to God"
     },
     {
       "pk": 52012002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "For by the grace given to me I say to everyone among you not to think of yourself more highly than you ought, but to think with sober judgment, each according to the measure of faith God has assigned.",
       "links": "<a href='/AIV/46/4/7'>1 Cor. 4:7</a>; <a href='/AIV/49/4/7'>Eph. 4:7</a>",
-      "comment": "The idea that each receives a unique measure of faith from God highlights the diversity of God's gifts within the Church, encouraging humility and unity."
+      "comment": "The idea that each receives a unique measure of faith from God highlights the diversity of God's gifts within the Church, encouraging humility and unity.",
+      "sectionHeader": "Many Members in One Body"
     },
     {
       "pk": 52012004,
@@ -110,7 +112,8 @@
       "verse": 9,
       "text": "Let love be without hypocrisy. Abhor what is evil; cling to what is good.",
       "links": "<a href='/AIV/19/97/10'>Ps. 97:10</a>; <a href='/AIV/54/1/5'>1 Tim. 1:5</a>",
-      "comment": "True Christian love is sincere and morally discerning (see 1 Tim. 1:5), rejecting evil and clinging to the good—pointing towards holiness in both heart and action."
+      "comment": "True Christian love is sincere and morally discerning (see 1 Tim. 1:5), rejecting evil and clinging to the good—pointing towards holiness in both heart and action.",
+      "sectionHeader": "Marks of the Christian Life"
     },
     {
       "pk": 52012010,
@@ -257,5 +260,22 @@
       "comment": "The Christian life involves actively choosing good over evil, reflecting Christ’s victory on the cross (see Matt. 6:13). This victory over evil through good forms the core of authentic Christian witness and service, and is integral to both personal and communal holiness."
     }
   ],
-  "translatedAt": "2025-12-24T11:41:41.838Z"
+  "translatedAt": "2025-12-24T11:41:41.838Z",
+  "sections": [
+    {
+      "title": "A Living Sacrifice to God",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "Many Members in One Body",
+      "startVerse": 3,
+      "endVerse": 8
+    },
+    {
+      "title": "Marks of the Christian Life",
+      "startVerse": 9,
+      "endVerse": 21
+    }
+  ]
 }

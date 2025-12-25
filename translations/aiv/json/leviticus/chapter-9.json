@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "On the eighth day, Moses called Aaron, his sons, and the elders of Israel.",
       "links": "<a href='/AIV/2/19/24'>Ex. 19:24</a>; <a href='/AIV/3/8/1'>Lev. 8:1</a>",
-      "comment": "The 'eighth day' marks the completion of Aaron's ordination, symbolizing a new beginning—a theme later fulfilled in Christ's resurrection on the eighth day, Sunday (Matt. 28:1)."
+      "comment": "The 'eighth day' marks the completion of Aaron's ordination, symbolizing a new beginning—a theme later fulfilled in Christ's resurrection on the eighth day, Sunday (Matt. 28:1).",
+      "sectionHeader": "The Inauguration of Priestly Ministry"
     },
     {
       "pk": 3009002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "So Aaron drew near to the altar and slaughtered the calf of the sin offering, which was for himself.",
       "links": "<a href='/AIV/3/8/14'>Lev. 8:14</a>",
-      "comment": "Aaron must first offer sacrifice for his own sins, showing that even high priests needed atonement—fulfilled perfectly and permanently by Christ, who was sinless (Heb. 7:27)."
+      "comment": "Aaron must first offer sacrifice for his own sins, showing that even high priests needed atonement—fulfilled perfectly and permanently by Christ, who was sinless (Heb. 7:27).",
+      "sectionHeader": "The Priests Offer Sacrifices for Themselves and the People"
     },
     {
       "pk": 3009009,
@@ -278,7 +280,8 @@
       "verse": 23,
       "text": "Moses and Aaron went into the Tent of Meeting, and when they came out, they blessed the people. Then the glory of the LORD appeared to all the people.",
       "links": "<a href='/AIV/2/40/34'>Ex. 40:34</a>; <a href='/AIV/4/14/10'>Num. 14:10</a>",
-      "comment": "Joint blessing and the appearance of divine glory show God's approval of rightly ordered, sacramental worship, culminating in His manifest presence among the assembly."
+      "comment": "Joint blessing and the appearance of divine glory show God's approval of rightly ordered, sacramental worship, culminating in His manifest presence among the assembly.",
+      "sectionHeader": "The LORD’s Glory Appears and Consumes the Offering"
     },
     {
       "pk": 3009024,
@@ -293,5 +296,22 @@
       "comment": "Divine fire consuming the offerings signifies God’s acceptance, instilling awe. This theophany connects to Christ’s sacrifice, with God's consuming love shown perfectly at Calvary and the descent of the Holy Spirit as fire (Acts 2:3)."
     }
   ],
-  "translatedAt": "2025-12-24T01:14:47.410Z"
+  "translatedAt": "2025-12-24T01:14:47.410Z",
+  "sections": [
+    {
+      "title": "The Inauguration of Priestly Ministry",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "The Priests Offer Sacrifices for Themselves and the People",
+      "startVerse": 8,
+      "endVerse": 22
+    },
+    {
+      "title": "The LORD’s Glory Appears and Consumes the Offering",
+      "startVerse": 23,
+      "endVerse": 24
+    }
+  ]
 }

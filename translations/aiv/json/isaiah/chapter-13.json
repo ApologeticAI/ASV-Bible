@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The oracle against Babylon that Isaiah, the son of Amoz, saw:",
       "links": "<a href='/AIV/23/21/1'>Isa. 21:1</a>; <a href='/AIV/34/2/1'>Nah. 2:1</a>",
-      "comment": "The term 'oracle' refers to a prophetic burden or message of judgment. Isaiah receives a vision specifically directed against Babylon, one of Israel's greatest future enemies (see Jeremiah 50-51)."
+      "comment": "The term 'oracle' refers to a prophetic burden or message of judgment. Isaiah receives a vision specifically directed against Babylon, one of Israel's greatest future enemies (see Jeremiah 50-51).",
+      "sectionHeader": "Prophecy Against Babylon"
     },
     {
       "pk": 29013002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "Wail, for the day of the LORD is near; it will come like destruction from the Almighty.",
       "links": "<a href='/AIV/29/1/15'>Joel 1:15</a>; <a href='/AIV/34/1/6'>Nah. 1:6</a>",
-      "comment": "The 'day of the LORD' is a recurring prophetic theme—judgment on evil but hope for the faithful. See parallels in Zephaniah and Joel."
+      "comment": "The 'day of the LORD' is a recurring prophetic theme—judgment on evil but hope for the faithful. See parallels in Zephaniah and Joel.",
+      "sectionHeader": "The Day of the Lord's Judgment"
     },
     {
       "pk": 29013007,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "Look! I am stirring up the Medes against them, who have no regard for silver and take no pleasure in gold.",
       "links": "<a href='/AIV/27/5/28'>Dan. 5:28</a>; <a href='/AIV/23/21/2'>Isa. 21:2</a>",
-      "comment": "This specific reference (fulfilled in Daniel 5 with the fall of Babylon) demonstrates God’s absolute control over history. The Medes didn’t attack for plunder but were instruments of divine will."
+      "comment": "This specific reference (fulfilled in Daniel 5 with the fall of Babylon) demonstrates God’s absolute control over history. The Medes didn’t attack for plunder but were instruments of divine will.",
+      "sectionHeader": "The Medes Attack Babylon"
     },
     {
       "pk": 29013018,
@@ -230,7 +233,8 @@
       "verse": 19,
       "text": "And Babylon, the glory of kingdoms, the splendor and pride of the Chaldeans, will be like Sodom and Gomorrah when God overthrew them.",
       "links": "<a href='/AIV/01/19/24-25'>Gen. 19:24-25</a>; <a href='/AIV/23/14/23'>Isa. 14:23</a>; <a href='/AIV/66/18/2'>Rev. 18:2</a>",
-      "comment": "Babylon, symbolizing human pride, is directly compared to Sodom and Gomorrah—classic images of total destruction (see Rev. 18 for Babylon as a symbol of evil, opposed to God’s city). A warning against pride and a call to humility."
+      "comment": "Babylon, symbolizing human pride, is directly compared to Sodom and Gomorrah—classic images of total destruction (see Rev. 18 for Babylon as a symbol of evil, opposed to God’s city). A warning against pride and a call to humility.",
+      "sectionHeader": "The Desolation of Babylon"
     },
     {
       "pk": 29013020,
@@ -269,5 +273,27 @@
       "comment": "Despite Babylon’s former glory, its judgment is certain and swift. The finality here speaks of God’s faithfulness to His promises—He preserves His remnant through tribulation and establishes a permanent kingdom."
     }
   ],
-  "translatedAt": "2025-12-24T07:56:59.422Z"
+  "translatedAt": "2025-12-24T07:56:59.422Z",
+  "sections": [
+    {
+      "title": "Prophecy Against Babylon",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "The Day of the Lord's Judgment",
+      "startVerse": 6,
+      "endVerse": 16
+    },
+    {
+      "title": "The Medes Attack Babylon",
+      "startVerse": 17,
+      "endVerse": 18
+    },
+    {
+      "title": "The Desolation of Babylon",
+      "startVerse": 19,
+      "endVerse": 22
+    }
+  ]
 }

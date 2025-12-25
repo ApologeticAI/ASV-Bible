@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Some time later, Nahash the king of the Ammonites died, and his son became king in his place.",
       "links": "<a href='/AIV/10/10/2'>2 Sam. 10:2</a>",
-      "comment": "This opening sets the political context for the chapter, highlighting the transition of power. The relationship between David and Nahash is remembered for kindness—a recurring biblical theme of honoring covenant and loyalty."
+      "comment": "This opening sets the political context for the chapter, highlighting the transition of power. The relationship between David and Nahash is remembered for kindness—a recurring biblical theme of honoring covenant and loyalty.",
+      "sectionHeader": "David’s Messengers Humiliated by Hanun"
     },
     {
       "pk": 13019002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "When the people of Ammon realized they had made themselves offensive to David, Hanun and the Ammonites sent a thousand talents of silver to hire chariots and horsemen from Aram Naharaim, Aram Maacah, and Zobah.",
       "links": "<a href='/AIV/10/10/6'>2 Sam. 10:6</a>; <a href='/AIV/11/10/29'>1 Kgs. 10:29</a>",
-      "comment": "Attempting to buy military support reflects a trust in worldly power rather than God's providence. Spiritual warfare calls for reliance on heavenly, not earthly, strength (<a href='/AIV/49/6/12'>Eph. 6:12</a>)."
+      "comment": "Attempting to buy military support reflects a trust in worldly power rather than God's providence. Spiritual warfare calls for reliance on heavenly, not earthly, strength (<a href='/AIV/49/6/12'>Eph. 6:12</a>).",
+      "sectionHeader": "War Against Ammon and the Arameans"
     },
     {
       "pk": 13019007,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "When the Arameans saw that they had been defeated by Israel, they sent messengers and brought out the Arameans who were beyond the river, with Shophach the commander of Hadadezer’s army leading them.",
       "links": "<a href='/AIV/10/10/15-16'>2 Sam. 10:15-16</a>; <a href='/AIV/06/24/2'>Josh. 24:2</a>",
-      "comment": "Persistent opposition shows that evil often regroups and resists, but God’s people are called to perseverance. Leadership like Shophach’s witnesses to the importance of authority and hierarchy in spiritual and practical matters."
+      "comment": "Persistent opposition shows that evil often regroups and resists, but God’s people are called to perseverance. Leadership like Shophach’s witnesses to the importance of authority and hierarchy in spiritual and practical matters.",
+      "sectionHeader": "David Defeats the Arameans"
     },
     {
       "pk": 13019016,
@@ -233,5 +236,22 @@
       "comment": "The chapter closes with global submission to God’s anointed king—a motif developed throughout salvation history, foreshadowing the universal reign of Christ as the ultimate fulfillment of the Scriptures."
     }
   ],
-  "translatedAt": "2025-12-24T04:15:41.725Z"
+  "translatedAt": "2025-12-24T04:15:41.725Z",
+  "sections": [
+    {
+      "title": "David’s Messengers Humiliated by Hanun",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "War Against Ammon and the Arameans",
+      "startVerse": 6,
+      "endVerse": 14
+    },
+    {
+      "title": "David Defeats the Arameans",
+      "startVerse": 15,
+      "endVerse": 19
+    }
+  ]
 }

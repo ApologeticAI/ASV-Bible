@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "But Judas Maccabeus, and those with him, secretly entered the towns and summoned their kindred. They called together all those who remained faithful to their ancestral customs and gathered about six thousand men.",
       "links": "<a href='/AIV/06/1/12-18'>Josh. 1:12-18</a>",
-      "comment": "Judas Maccabeus emerges as a leader among those committed to the traditions of Israel. This highlights the importance of fidelity to the community's received faith, a theme continued in the new covenant (cf. Heb. 11:32-34). The gathering of the faithful remnant echoes other moments when God's people were preserved through small, faithful groups."
+      "comment": "Judas Maccabeus emerges as a leader among those committed to the traditions of Israel. This highlights the importance of fidelity to the community's received faith, a theme continued in the new covenant (cf. Heb. 11:32-34). The gathering of the faithful remnant echoes other moments when God's people were preserved through small, faithful groups.",
+      "sectionHeader": "The Rising of Judas Maccabeus"
     },
     {
       "pk": 21008002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "When Philip saw how much progress Judas was making, and how rapidly he was growing in power, he wrote to Ptolemy, the governor of Coele-Syria and Phoenicia, to provide more support for the king's cause.",
       "links": "<a href='/AIV/11/20/1'>2 Kings 20:1</a> (on rulers and alliances)",
-      "comment": "Philip's alarm and appeal to a higher authority illustrates human attempts to resist God's chosen leaders, a motif seen throughout the Old Testament."
+      "comment": "Philip's alarm and appeal to a higher authority illustrates human attempts to resist God's chosen leaders, a motif seen throughout the Old Testament.",
+      "sectionHeader": "Nicanor Plans to Destroy the Jews"
     },
     {
       "pk": 21008009,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "Judas called his men together and exhorted them not to fear the enemy, who were coming against them unjustly, but to trust in God, who would overthrow those who came against them with arrogance.",
       "links": "<a href='/AIV/02/14/13-14'>Exod. 14:13-14</a>",
-      "comment": "Judas’s encouragement closely parallels the exhortations given by Moses and Joshua, urging faith over fear. True leadership encourages hope in God’s providence."
+      "comment": "Judas’s encouragement closely parallels the exhortations given by Moses and Joshua, urging faith over fear. True leadership encourages hope in God’s providence.",
+      "sectionHeader": "Judas Encourages His Warriors"
     },
     {
       "pk": 21008017,
@@ -266,7 +269,8 @@
       "verse": 22,
       "text": "He divided his army into four groups, placed his brothers Simon, Joseph, and Jonathan each over a division, and appointed Eleazar to lead one segment. He read from the holy book, and gave the battle-cry, 'God’s help!' and himself led the first division.",
       "links": "<a href='/AIV/06/1/6'>Josh. 1:6</a>, <a href='/AIV/02/17/9-13'>Exod. 17:9-13</a>",
-      "comment": "Reading from the sacred book before battle affirms Scripture as the anchor for God’s people, and the unity of family and leadership under faith."
+      "comment": "Reading from the sacred book before battle affirms Scripture as the anchor for God’s people, and the unity of family and leadership under faith.",
+      "sectionHeader": "The Defeat of Nicanor and the Enemies"
     },
     {
       "pk": 21008023,
@@ -437,5 +441,27 @@
       "comment": "Even the enemies of the faithful are forced to confess God’s power and that true security comes from fidelity to His commands—a lesson for all believers in every age."
     }
   ],
-  "translatedAt": "2025-12-24T05:34:36.632Z"
+  "translatedAt": "2025-12-24T05:34:36.632Z",
+  "sections": [
+    {
+      "title": "The Rising of Judas Maccabeus",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Nicanor Plans to Destroy the Jews",
+      "startVerse": 8,
+      "endVerse": 15
+    },
+    {
+      "title": "Judas Encourages His Warriors",
+      "startVerse": 16,
+      "endVerse": 21
+    },
+    {
+      "title": "The Defeat of Nicanor and the Enemies",
+      "startVerse": 22,
+      "endVerse": 36
+    }
+  ]
 }

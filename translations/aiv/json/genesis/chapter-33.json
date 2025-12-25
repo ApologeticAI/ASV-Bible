@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Jacob looked up and saw Esau coming, and four hundred men with him. So he divided the children among Leah, Rachel, and the two maidservants.",
       "links": "<a href='/AIV/1/32/6'>Gen. 32:6</a>",
-      "comment": "Jacob approaches his brother, anxious about their reunion. Note the importance of familial structure, which sets a pattern later developed in salvation history."
+      "comment": "Jacob approaches his brother, anxious about their reunion. Note the importance of familial structure, which sets a pattern later developed in salvation history.",
+      "sectionHeader": "The Reconciliation of Jacob and Esau"
     },
     {
       "pk": 1033002,
@@ -206,7 +207,8 @@
       "verse": 17,
       "text": "But Jacob traveled to Succoth, where he built himself a house and made shelters for his livestock. That is why the place is called Succoth.",
       "links": "<a href='/AIV/1/32/17'>Gen. 32:17</a>; <a href='/AIV/6/13/27-28'>Josh. 13:27-28</a>",
-      "comment": "The naming of Succoth reflects the biblical motif of commemorating God’s providence by marking significant locations, later manifesting in sacred sites."
+      "comment": "The naming of Succoth reflects the biblical motif of commemorating God’s providence by marking significant locations, later manifesting in sacred sites.",
+      "sectionHeader": "Jacob Settles at Succoth and Shechem"
     },
     {
       "pk": 1033018,
@@ -245,5 +247,17 @@
       "comment": "Jacob’s building of the altar marks his acknowledgment of God’s covenant fidelity, a pattern for worship and commemoration that becomes formalized throughout Scripture."
     }
   ],
-  "translatedAt": "2025-12-24T00:29:33.682Z"
+  "translatedAt": "2025-12-24T00:29:33.682Z",
+  "sections": [
+    {
+      "title": "The Reconciliation of Jacob and Esau",
+      "startVerse": 1,
+      "endVerse": 16
+    },
+    {
+      "title": "Jacob Settles at Succoth and Shechem",
+      "startVerse": 17,
+      "endVerse": 20
+    }
+  ]
 }

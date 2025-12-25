@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now Sarai, Abram’s wife, had borne him no children. She had an Egyptian servant whose name was Hagar.",
       "links": "<a href='/AIV/1/12/16'>Gen 12:16</a>; <a href='/AIV/1/21/9-21'>Gen 21:9-21</a>",
-      "comment": "This introduces Hagar, who comes from Egypt, connecting back to Abram and Sarai's earlier journey there (Gen 12:16). The barrenness of Sarai sets the stage for God’s work through unexpected means."
+      "comment": "This introduces Hagar, who comes from Egypt, connecting back to Abram and Sarai's earlier journey there (Gen 12:16). The barrenness of Sarai sets the stage for God’s work through unexpected means.",
+      "sectionHeader": "Sarai Gives Hagar to Abram"
     },
     {
       "pk": 1016002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "The angel of the Lord found her by a spring of water in the wilderness, the spring on the way to Shur.",
       "links": "<a href='/AIV/1/21/17'>Gen 21:17</a>; <a href='/AIV/2/3/2'>Exod 3:2</a>",
-      "comment": "This is the first appearance of 'the Angel of the Lord' (often understood in Christian theology to be a pre-incarnate manifestation of Christ; cf. Exod. 3:2). God seeks out the oppressed, signaling His concern for all nations and pointing to later themes of redemption and inclusion."
+      "comment": "This is the first appearance of 'the Angel of the Lord' (often understood in Christian theology to be a pre-incarnate manifestation of Christ; cf. Exod. 3:2). God seeks out the oppressed, signaling His concern for all nations and pointing to later themes of redemption and inclusion.",
+      "sectionHeader": "The Flight of Hagar and the Angel of the Lord"
     },
     {
       "pk": 1016008,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "And Hagar bore Abram a son, and Abram called the name of his son, whom Hagar bore, Ishmael.",
       "links": "<a href='/AIV/1/17/23-26'>Gen 17:23-26</a>",
-      "comment": "Abram accepts Hagar’s son by naming him Ishmael, fulfilling the word of the Lord. The significance of naming in the biblical narrative points to mission and identity—concepts foundational to the ongoing story of divine election."
+      "comment": "Abram accepts Hagar’s son by naming him Ishmael, fulfilling the word of the Lord. The significance of naming in the biblical narrative points to mission and identity—concepts foundational to the ongoing story of divine election.",
+      "sectionHeader": "Birth of Ishmael"
     },
     {
       "pk": 1016016,
@@ -197,5 +200,22 @@
       "comment": "Abram’s age highlights the continued wait for God’s ultimate promise through Sarah. Faith requires trust in God’s timing and ways, which are often unexpected, prefiguring how fulfillment comes later through divine initiative."
     }
   ],
-  "translatedAt": "2025-12-24T00:18:05.036Z"
+  "translatedAt": "2025-12-24T00:18:05.036Z",
+  "sections": [
+    {
+      "title": "Sarai Gives Hagar to Abram",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "The Flight of Hagar and the Angel of the Lord",
+      "startVerse": 7,
+      "endVerse": 14
+    },
+    {
+      "title": "Birth of Ishmael",
+      "startVerse": 15,
+      "endVerse": 16
+    }
+  ]
 }

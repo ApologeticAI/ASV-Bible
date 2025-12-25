@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Bring near to you Aaron your brother, and his sons with him, from among the Israelites, so that he may serve me as priest—Aaron, Nadab and Abihu, Eleazar and Ithamar, the sons of Aaron.",
       "links": "<a href='/AIV/2/40/13-15'>Exod 40:13-15</a>; <a href='/AIV/3/8/2'>Lev 8:2</a>",
-      "comment": "God establishes the priesthood through Aaron and his sons, setting apart an ordained ministry. The idea of priesthood for the people is foundational to later Christian understanding of ministerial office and apostolic succession."
+      "comment": "God establishes the priesthood through Aaron and his sons, setting apart an ordained ministry. The idea of priesthood for the people is foundational to later Christian understanding of ministerial office and apostolic succession.",
+      "sectionHeader": "The Consecration of Aaron and His Sons"
     },
     {
       "pk": 2028002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "They shall make the ephod of gold, blue, purple, and scarlet yarn, and of fine twisted linen, skillfully worked.",
       "links": "<a href='/AIV/2/39/2-7'>Exod 39:2-7</a>",
-      "comment": "The ephod is especially significant in priestly function. The blending of many colors points to unity in worship."
+      "comment": "The ephod is especially significant in priestly function. The blending of many colors points to unity in worship.",
+      "sectionHeader": "The Ephod and Its Stones"
     },
     {
       "pk": 2028007,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "You shall make a breastpiece for judgment, skilled work; make it like the ephod—of gold, blue, purple, and scarlet yarn, and of fine twisted linen.",
       "links": "<a href='/AIV/2/39/8'>Exod 39:8</a>; <a href='/AIV/2/28/30'>Exod 28:30</a>",
-      "comment": "The breastpiece is central for mediating judgment and guidance. This foreshadows Christ as the one who mediates between God and humanity (see 1 Tim 2:5)."
+      "comment": "The breastpiece is central for mediating judgment and guidance. This foreshadows Christ as the one who mediates between God and humanity (see 1 Tim 2:5).",
+      "sectionHeader": "The Breastpiece of Judgment"
     },
     {
       "pk": 20280016,
@@ -374,7 +377,8 @@
       "verse": 31,
       "text": "Make the robe of the ephod entirely of blue yarn.",
       "links": "<a href='/AIV/2/39/22'>Exod 39:22</a>",
-      "comment": "The robe’s heavenly blue color points to the divine origin of God's calling and the priest’s role as mediator."
+      "comment": "The robe’s heavenly blue color points to the divine origin of God's calling and the priest’s role as mediator.",
+      "sectionHeader": "The Robe, Turban, and Other Vestments"
     },
     {
       "pk": 20280032,
@@ -482,7 +486,8 @@
       "verse": 40,
       "text": "For Aaron’s sons you shall make tunics, and sashes, and turbans. You shall make them for glory and beauty.",
       "links": "<a href='/AIV/3/8/13'>Lev 8:13</a>",
-      "comment": "All who serve inherit dignity and sacredness through special vestments—dignity given to all ministers of God."
+      "comment": "All who serve inherit dignity and sacredness through special vestments—dignity given to all ministers of God.",
+      "sectionHeader": "Priestly Garments for Aaron's Sons"
     },
     {
       "pk": 20280041,
@@ -521,5 +526,32 @@
       "comment": "These ordinances are intended to endure through generations, pointing toward the perpetual character of the Church's priestly ministry and sacramental worship."
     }
   ],
-  "translatedAt": "2025-12-24T01:01:56.143Z"
+  "translatedAt": "2025-12-24T01:01:56.143Z",
+  "sections": [
+    {
+      "title": "The Consecration of Aaron and His Sons",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "The Ephod and Its Stones",
+      "startVerse": 6,
+      "endVerse": 14
+    },
+    {
+      "title": "The Breastpiece of Judgment",
+      "startVerse": 15,
+      "endVerse": 30
+    },
+    {
+      "title": "The Robe, Turban, and Other Vestments",
+      "startVerse": 31,
+      "endVerse": 39
+    },
+    {
+      "title": "Priestly Garments for Aaron's Sons",
+      "startVerse": 40,
+      "endVerse": 43
+    }
+  ]
 }

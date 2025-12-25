@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then God said to Jacob, “Get up, go to Bethel and settle there. Build an altar there to God, who appeared to you when you fled from your brother Esau.”",
       "links": "<a href='/AIV/1/28/10-22'>Gen. 28:10-22</a>;<a href='/AIV/6/24/32'>Josh. 24:32</a>",
-      "comment": "God calls Jacob back to Bethel, where Jacob had first encountered Him. The command to build an altar highlights the importance of consecrated space and sacrifice in worship. This foreshadows the necessity of a physical place of worship and the central role of sacrifice throughout salvation history."
+      "comment": "God calls Jacob back to Bethel, where Jacob had first encountered Him. The command to build an altar highlights the importance of consecrated space and sacrifice in worship. This foreshadows the necessity of a physical place of worship and the central role of sacrifice throughout salvation history.",
+      "sectionHeader": "Jacob Returns to Bethel and Purifies His Household"
     },
     {
       "pk": 1035002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "God appeared to Jacob again when he came from Paddan-aram, and He blessed him.",
       "links": "<a href='/AIV/1/28/13'>Gen. 28:13</a>;<a href='/AIV/1/32/29'>Gen. 32:29</a>",
-      "comment": "The divine blessing is reiterated, showing continuity in God's plan. The conferral of blessing again signals God’s faithfulness despite human frailty."
+      "comment": "The divine blessing is reiterated, showing continuity in God's plan. The conferral of blessing again signals God’s faithfulness despite human frailty.",
+      "sectionHeader": "God Renews His Covenant with Jacob"
     },
     {
       "pk": 1035010,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "They journeyed from Bethel, and while there was still some distance to Ephrath, Rachel began to give birth and her labor was hard.",
       "links": "<a href='/AIV/1/48/7'>Gen. 48:7</a>",
-      "comment": "Rachel's difficult labor occurs on the journey, symbolizing both the blessing and the suffering that accompany the fulfillment of God’s promises."
+      "comment": "Rachel's difficult labor occurs on the journey, symbolizing both the blessing and the suffering that accompany the fulfillment of God’s promises.",
+      "sectionHeader": "The Death of Rachel and Birth of Benjamin"
     },
     {
       "pk": 1035017,
@@ -266,7 +269,8 @@
       "verse": 22,
       "text": "While Israel lived in that land, Reuben went and lay with Bilhah, his father’s concubine, and Israel heard of it. Now Jacob had twelve sons.",
       "links": "<a href='/AIV/3/18/8'>Lev. 18:8</a>;<a href='/AIV/1/49/4'>Gen. 49:4</a>",
-      "comment": "Reuben’s action is condemned in the law (Lev. 18:8) and later leads to loss of his primacy (Gen. 49:4). Sin within the covenant family has real consequences, but the covenant itself endures."
+      "comment": "Reuben’s action is condemned in the law (Lev. 18:8) and later leads to loss of his primacy (Gen. 49:4). Sin within the covenant family has real consequences, but the covenant itself endures.",
+      "sectionHeader": "The Sons of Jacob"
     },
     {
       "pk": 1035023,
@@ -326,7 +330,8 @@
       "verse": 27,
       "text": "Jacob came to his father Isaac at Mamre, at Kiriath-arba (that is, Hebron), where Abraham and Isaac had lived as foreigners.",
       "links": "<a href='/AIV/1/13/18'>Gen. 13:18</a>;<a href='/AIV/1/23/2'>Gen. 23:2</a>",
-      "comment": "Jacob’s return to Isaac marks a restoration of the generations. Hebron is a location associated with patriarchal resting places, underlining the continuity of faith."
+      "comment": "Jacob’s return to Isaac marks a restoration of the generations. Hebron is a location associated with patriarchal resting places, underlining the continuity of faith.",
+      "sectionHeader": "The Death of Isaac"
     },
     {
       "pk": 1035028,
@@ -353,5 +358,32 @@
       "comment": "Being 'gathered to his people' indicates belief in continued existence after death. Jacob and Esau together burying Isaac points to family reconciliation and the final honoring of the patriarch, a pattern later continued in salvation history."
     }
   ],
-  "translatedAt": "2025-12-24T00:30:44.677Z"
+  "translatedAt": "2025-12-24T00:30:44.677Z",
+  "sections": [
+    {
+      "title": "Jacob Returns to Bethel and Purifies His Household",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "God Renews His Covenant with Jacob",
+      "startVerse": 9,
+      "endVerse": 15
+    },
+    {
+      "title": "The Death of Rachel and Birth of Benjamin",
+      "startVerse": 16,
+      "endVerse": 21
+    },
+    {
+      "title": "The Sons of Jacob",
+      "startVerse": 22,
+      "endVerse": 26
+    },
+    {
+      "title": "The Death of Isaac",
+      "startVerse": 27,
+      "endVerse": 29
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "King Solomon loved many foreign women, in addition to Pharaoh’s daughter—Moabite, Ammonite, Edomite, Sidonian, and Hittite women—",
       "links": "<a href='/AIV/05/07/3-4'>Deut. 7:3-4</a>",
-      "comment": "Solomon’s love for foreign women is a direct violation of the warnings given in Deuteronomy about relationships with pagan nations, which would lead Israel away from God's commands."
+      "comment": "Solomon’s love for foreign women is a direct violation of the warnings given in Deuteronomy about relationships with pagan nations, which would lead Israel away from God's commands.",
+      "sectionHeader": "Solomon's Apostasy and Idolatry"
     },
     {
       "pk": 11011002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "The LORD was angry with Solomon because his heart had turned away from the LORD, the God of Israel, who had appeared to him twice.",
       "links": "<a href='/AIV/11/03/5'>1 Kgs. 3:5</a>; <a href='/AIV/11/09/2'>1 Kgs. 9:2</a>",
-      "comment": "Solomon’s privilege, with personal manifestations of God, makes his apostasy especially grave. Divine anger reflects the seriousness of covenant betrayal."
+      "comment": "Solomon’s privilege, with personal manifestations of God, makes his apostasy especially grave. Divine anger reflects the seriousness of covenant betrayal.",
+      "sectionHeader": "God's Judgment Against Solomon"
     },
     {
       "pk": 11011010,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "Then the LORD raised up an adversary against Solomon, Hadad the Edomite; he was of the royal family in Edom.",
       "links": "<a href='/AIV/11/11/25'>1 Kgs. 11:25</a>",
-      "comment": "Divine retribution often comes through historical means. The adversaries embody the consequences of spiritual error and the loss of unity."
+      "comment": "Divine retribution often comes through historical means. The adversaries embody the consequences of spiritual error and the loss of unity.",
+      "sectionHeader": "Adversaries Raised Against Solomon"
     },
     {
       "pk": 11011015,
@@ -314,7 +317,8 @@
       "verse": 26,
       "text": "Jeroboam son of Nebat, an Ephraimite from Zeredah, a servant of Solomon whose mother’s name was Zeruah, a widow, also rebelled against the king.",
       "links": "<a href='/AIV/11/12/2-4'>1 Kgs. 12:2-4</a>",
-      "comment": "Jeroboam’s introduction foreshadows the coming division; note the connection to Ephraim, symbolizing the northern tribes’ breakaway."
+      "comment": "Jeroboam’s introduction foreshadows the coming division; note the connection to Ephraim, symbolizing the northern tribes’ breakaway.",
+      "sectionHeader": "Jeroboam's Rebellion and Ahijah's Prophecy"
     },
     {
       "pk": 11011027,
@@ -494,7 +498,8 @@
       "verse": 41,
       "text": "The rest of the acts of Solomon, all he did, and his wisdom, are they not written in the Book of the Acts of Solomon?",
       "links": "<a href='/AIV/11/14/19'>1 Kgs. 14:19</a>",
-      "comment": "Extra-biblical records are referenced, demonstrating that not all history is contained directly in the canon—highlighting oral tradition and authority."
+      "comment": "Extra-biblical records are referenced, demonstrating that not all history is contained directly in the canon—highlighting oral tradition and authority.",
+      "sectionHeader": "The Death of Solomon"
     },
     {
       "pk": 11011042,
@@ -521,5 +526,32 @@
       "comment": "The ending of Solomon’s life sets the stage for the kingdom’s division. Note the burial in the city chosen by God, underscoring continuity of tradition and inheritance."
     }
   ],
-  "translatedAt": "2025-12-24T03:34:52.757Z"
+  "translatedAt": "2025-12-24T03:34:52.757Z",
+  "sections": [
+    {
+      "title": "Solomon's Apostasy and Idolatry",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "God's Judgment Against Solomon",
+      "startVerse": 9,
+      "endVerse": 13
+    },
+    {
+      "title": "Adversaries Raised Against Solomon",
+      "startVerse": 14,
+      "endVerse": 25
+    },
+    {
+      "title": "Jeroboam's Rebellion and Ahijah's Prophecy",
+      "startVerse": 26,
+      "endVerse": 40
+    },
+    {
+      "title": "The Death of Solomon",
+      "startVerse": 41,
+      "endVerse": 43
+    }
+  ]
 }

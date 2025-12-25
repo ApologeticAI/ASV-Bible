@@ -26,7 +26,8 @@
       "verse": 2,
       "text": "But you, Bethlehem Ephrathah, though you are least among the clans of Judah, from you will come for Me one who will rule over Israel, whose origins are from ancient days.",
       "links": "<a href='/AIV/40/2/6'>Matt. 2:6</a>; <a href='/AIV/19/132/11'>Psalm 132:11</a>; <a href='/AIV/23/9/6'>Isaiah 9:6</a>",
-      "comment": "Here is one of the most direct prophecies of the Messiah's birthplace, fulfilled in Jesus Christ (Matthew 2:6). 'Ancient days' hints at preexistence and divinity (see John 1:1), establishing messianic authority beyond temporal kingship."
+      "comment": "Here is one of the most direct prophecies of the Messiah's birthplace, fulfilled in Jesus Christ (Matthew 2:6). 'Ancient days' hints at preexistence and divinity (see John 1:1), establishing messianic authority beyond temporal kingship.",
+      "sectionHeader": "The Messianic Ruler from Bethlehem"
     },
     {
       "pk": 40005003,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "And this one will be peace. When Assyria invades our land and treads our palaces, then we will raise against him seven shepherds and eight princes among men.",
       "links": "<a href='/AIV/23/9/6'>Isaiah 9:6</a>; <a href='/AIV/45/5/1'>Romans 5:1</a>",
-      "comment": "Christ is described as 'peace' (Isaiah 9:6), the source of reconciliation. The 'seven shepherds, eight princes' symbolize abundance and completeness of leadership. His peace overcomes external threats—hinting at the Church united under firm governance."
+      "comment": "Christ is described as 'peace' (Isaiah 9:6), the source of reconciliation. The 'seven shepherds, eight princes' symbolize abundance and completeness of leadership. His peace overcomes external threats—hinting at the Church united under firm governance.",
+      "sectionHeader": "Deliverance from Assyria"
     },
     {
       "pk": 40005006,
@@ -86,7 +88,8 @@
       "verse": 7,
       "text": "Then the remnant of Jacob shall be in the midst of many peoples, like dew from the LORD, like showers on the grass that do not wait for man nor depend on mankind.",
       "links": "<a href='/AIV/28/14/5'>Hosea 14:5</a>; <a href='/AIV/40/13/38'>Matthew 13:38</a>",
-      "comment": "Micah describes the scattered faithful as a blessing among the nations, symbolized by dew—a gift from above. This supports the idea that God’s people become a spiritual influence worldwide, not dependent on human power but God’s providence."
+      "comment": "Micah describes the scattered faithful as a blessing among the nations, symbolized by dew—a gift from above. This supports the idea that God’s people become a spiritual influence worldwide, not dependent on human power but God’s providence.",
+      "sectionHeader": "The Remnant of Jacob Among the Nations"
     },
     {
       "pk": 40005008,
@@ -122,7 +125,8 @@
       "verse": 10,
       "text": "In that day, declares the LORD: I will remove your horses from your midst and destroy your chariots.",
       "links": "<a href='/AIV/23/2/7'>Isaiah 2:7</a>; <a href='/AIV/19/20/7'>Psalm 20:7</a>",
-      "comment": "God removes worldly power—horses and chariots—so His people rely on Him, not human strength. This aligns with Christian teaching on abandoning reliance on earthly means for spiritual victory."
+      "comment": "God removes worldly power—horses and chariots—so His people rely on Him, not human strength. This aligns with Christian teaching on abandoning reliance on earthly means for spiritual victory.",
+      "sectionHeader": "The Purification of Israel"
     },
     {
       "pk": 40005011,
@@ -185,5 +189,27 @@
       "comment": "The justice of God is emphasized as final for those who refuse His call. Spiritual meaning includes the ultimate restoration and protection of those who faithfully heed God’s Word, as seen in the unity and perseverance of the one apostolic Church."
     }
   ],
-  "translatedAt": "2025-12-24T09:48:52.985Z"
+  "translatedAt": "2025-12-24T09:48:52.985Z",
+  "sections": [
+    {
+      "title": "The Messianic Ruler from Bethlehem",
+      "startVerse": 2,
+      "endVerse": 4
+    },
+    {
+      "title": "Deliverance from Assyria",
+      "startVerse": 5,
+      "endVerse": 6
+    },
+    {
+      "title": "The Remnant of Jacob Among the Nations",
+      "startVerse": 7,
+      "endVerse": 9
+    },
+    {
+      "title": "The Purification of Israel",
+      "startVerse": 10,
+      "endVerse": 15
+    }
+  ]
 }

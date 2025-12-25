@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In you, LORD, I have taken refuge; let me never be put to shame.",
       "links": "<a href='/AIV/19/25/2'>Ps. 25:2</a>; <a href='/AIV/19/31/1'>Ps. 31:1</a>",
-      "comment": "The psalmist begins by declaring trust in the LORD as a safe haven, a common theme in both the Psalms and New Testament (see 2 Tim. 1:12). The sense of 'refuge' foreshadows themes of divine protection offered through Christ."
+      "comment": "The psalmist begins by declaring trust in the LORD as a safe haven, a common theme in both the Psalms and New Testament (see 2 Tim. 1:12). The sense of 'refuge' foreshadows themes of divine protection offered through Christ.",
+      "sectionHeader": "Prayer for Refuge and Deliverance"
     },
     {
       "pk": 23071002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "For you are my hope, Lord GOD, my trust from my youth.",
       "links": "<a href='/AIV/19/22/9'>Ps. 22:9</a>; <a href='/AIV/19/109/4'>Ps. 109:4</a>",
-      "comment": "The psalmist's lifetime reliance on God anticipates Christian teaching to nurture faith from childhood (2 Tim. 3:15)."
+      "comment": "The psalmist's lifetime reliance on God anticipates Christian teaching to nurture faith from childhood (2 Tim. 3:15).",
+      "sectionHeader": "The Psalmist’s Confidence from Youth to Old Age"
     },
     {
       "pk": 23071006,
@@ -110,7 +112,8 @@
       "verse": 9,
       "text": "Do not cast me off in the time of old age; do not forsake me when my strength fails.",
       "links": "<a href='/AIV/19/37/25'>Ps. 37:25</a>; <a href='/AIV/19/92/14'>Ps. 92:14</a>",
-      "comment": "This prayer for faithfulness in old age affirms dignity and care for the elderly, echoing themes found throughout Scripture (Lev. 19:32)."
+      "comment": "This prayer for faithfulness in old age affirms dignity and care for the elderly, echoing themes found throughout Scripture (Lev. 19:32).",
+      "sectionHeader": "Plea for Help in Old Age"
     },
     {
       "pk": 23071010,
@@ -170,7 +173,8 @@
       "verse": 14,
       "text": "But I will hope continually and will praise you more and more.",
       "links": "<a href='/AIV/19/42/5'>Ps. 42:5</a>; <a href='/AIV/19/71/8'>Ps. 71:8</a>",
-      "comment": "Ongoing hope and growing praise signal unceasing trust, encouraging perseverance in faith and devotion."
+      "comment": "Ongoing hope and growing praise signal unceasing trust, encouraging perseverance in faith and devotion.",
+      "sectionHeader": "Continual Praise for God’s Righteousness"
     },
     {
       "pk": 23071015,
@@ -266,7 +270,8 @@
       "verse": 22,
       "text": "I will also praise you with the harp for your faithfulness, my God; I will sing praise to you with the lyre, O Holy One of Israel.",
       "links": "<a href='/AIV/19/33/2'>Ps. 33:2</a>; <a href='/AIV/19/61/8'>Ps. 61:8</a>",
-      "comment": "Liturgical worship with instruments here prefigures the connection between music, praise, and prayer in Christian worship."
+      "comment": "Liturgical worship with instruments here prefigures the connection between music, praise, and prayer in Christian worship.",
+      "sectionHeader": "Thanksgiving for God’s Faithfulness"
     },
     {
       "pk": 23071023,
@@ -293,5 +298,32 @@
       "comment": "The final verse emphasizes the importance of continual proclamation of God’s righteousness, and the vindication of the righteous, pointing ultimately toward Christ’s victory over evil."
     }
   ],
-  "translatedAt": "2025-12-24T06:23:19.577Z"
+  "translatedAt": "2025-12-24T06:23:19.577Z",
+  "sections": [
+    {
+      "title": "Prayer for Refuge and Deliverance",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "The Psalmist’s Confidence from Youth to Old Age",
+      "startVerse": 5,
+      "endVerse": 8
+    },
+    {
+      "title": "Plea for Help in Old Age",
+      "startVerse": 9,
+      "endVerse": 13
+    },
+    {
+      "title": "Continual Praise for God’s Righteousness",
+      "startVerse": 14,
+      "endVerse": 21
+    },
+    {
+      "title": "Thanksgiving for God’s Faithfulness",
+      "startVerse": 22,
+      "endVerse": 24
+    }
+  ]
 }

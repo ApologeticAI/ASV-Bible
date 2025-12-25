@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When evening came, his servants hurried to their beds, and Bagoas closed the tent from outside and dismissed those who were waiting. All withdrew, not suspecting anything, because they believed he would rest with Judith.",
       "links": "<a href='/AIV/18/12/5'>Jdt 12:5</a>; <a href='/AIV/18/12/19'>Jdt 12:19</a>",
-      "comment": "The scene is set at night after Holofernes' servants leave, expecting Judith to remain with him as planned. This secrecy is crucial for what follows."
+      "comment": "The scene is set at night after Holofernes' servants leave, expecting Judith to remain with him as planned. This secrecy is crucial for what follows.",
+      "sectionHeader": "Judith Slays Holofernes"
     },
     {
       "pk": 18013002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "who put it into her food bag. Then the two of them went out together, as they were accustomed to go to prayer. They passed through the camp and circled the valley, and went up to the gate of the city.",
       "links": "<a href='/AIV/18/10/10-11'>Jdt 10:10-11</a>",
-      "comment": "Judith’s careful and prayerful routine foreshadows the Christian liturgical emphasis on routine prayer and community."
+      "comment": "Judith’s careful and prayerful routine foreshadows the Christian liturgical emphasis on routine prayer and community.",
+      "sectionHeader": "Judith Returns to Bethulia with Holofernes’ Head"
     },
     {
       "pk": 18013010,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "Judith said to them with a loud voice: 'Praise God! Praise Him! Praise God, who has not withheld His mercy from the house of Israel, but has crushed our enemies by my hand this night!'",
       "links": "<a href='/AIV/2/15/1'>Ex. 15:1</a>; <a href='/AIV/18/5/21'>Jdt 5:21</a>",
-      "comment": "Judith points all glory to God. The repeated praise recalls the song of Moses after the Exodus victory (<a href='/AIV/2/15/1'>Ex. 15:1ff</a>)."
+      "comment": "Judith points all glory to God. The repeated praise recalls the song of Moses after the Exodus victory (<a href='/AIV/2/15/1'>Ex. 15:1ff</a>).",
+      "sectionHeader": "Judith Praises God and Is Honored by the People"
     },
     {
       "pk": 18013013,
@@ -245,5 +248,22 @@
       "comment": "God’s action as savior is further celebrated; this language anticipates the praise given to God in Christian worship as the one who delivers from evil."
     }
   ],
-  "translatedAt": "2025-12-24T05:06:38.620Z"
+  "translatedAt": "2025-12-24T05:06:38.620Z",
+  "sections": [
+    {
+      "title": "Judith Slays Holofernes",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "Judith Returns to Bethulia with Holofernes’ Head",
+      "startVerse": 9,
+      "endVerse": 11
+    },
+    {
+      "title": "Judith Praises God and Is Honored by the People",
+      "startVerse": 12,
+      "endVerse": 20
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Do not let your hearts be troubled. You believe in God; believe also in Me.",
       "links": "<a href='/AIV/19/42/5'>Ps. 42:5</a>; <a href='/AIV/43/16/33'>John 16:33</a>",
-      "comment": "Jesus begins with a call for faith and trust in Himself, placing belief in Him on the same level as faith in God, a strong claim to His divinity and unity with the Father."
+      "comment": "Jesus begins with a call for faith and trust in Himself, placing belief in Him on the same level as faith in God, a strong claim to His divinity and unity with the Father.",
+      "sectionHeader": "Jesus the Way to the Father"
     },
     {
       "pk": 50014002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "If you love Me, you will keep My commandments.",
       "links": "<a href='/AIV/43/15/10'>John 15:10</a>; <a href='/AIV/62/2/3'>1 John 2:3</a>",
-      "comment": "Love for Christ is demonstrated by obedience; the relationship is not only emotional but involves a call to live according to Christ’s teachings. This points to the ongoing tradition and authority of His words."
+      "comment": "Love for Christ is demonstrated by obedience; the relationship is not only emotional but involves a call to live according to Christ’s teachings. This points to the ongoing tradition and authority of His words.",
+      "sectionHeader": "The Promise of the Holy Spirit"
     },
     {
       "pk": 50014016,
@@ -326,7 +328,8 @@
       "verse": 27,
       "text": "Peace I leave with you; My peace I give to you. I do not give to you as the world gives. Do not let your hearts be troubled or afraid.",
       "links": "<a href='/AIV/43/16/33'>John 16:33</a>; <a href='/AIV/19/4/8'>Ps. 4:8</a>",
-      "comment": "Jesus’ peace surpasses worldly peace; tied to His ongoing presence and assurance, granting lasting tranquility even amidst trials, rooted in a supernatural communion."
+      "comment": "Jesus’ peace surpasses worldly peace; tied to His ongoing presence and assurance, granting lasting tranquility even amidst trials, rooted in a supernatural communion.",
+      "sectionHeader": "The Gift of Christ’s Peace"
     },
     {
       "pk": 50014028,
@@ -377,5 +380,22 @@
       "comment": "Jesus’ obedience to the Father is the model for all believers, highlighting the inseparable bond of love and mission within God—He moves resolutely toward His Passion, inviting His followers to participate in the same loving obedience."
     }
   ],
-  "translatedAt": "2025-12-24T11:12:39.918Z"
+  "translatedAt": "2025-12-24T11:12:39.918Z",
+  "sections": [
+    {
+      "title": "Jesus the Way to the Father",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "The Promise of the Holy Spirit",
+      "startVerse": 15,
+      "endVerse": 26
+    },
+    {
+      "title": "The Gift of Christ’s Peace",
+      "startVerse": 27,
+      "endVerse": 31
+    }
+  ]
 }

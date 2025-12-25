@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "For they reasoned among themselves, saying, with mistaken thinking: 'Our life is short and sorrowful. There is no healing when life comes to its end, and no one has ever returned from the grave.'",
       "links": "<a href='/AIV/18/14/10-12'>Job 14:10-12</a>; <a href='/AIV/21/9/5'>Eccl. 9:5</a>",
-      "comment": "This verse introduces the ungodly and their materialistic worldview, denying an afterlife or resurrection. The notion 'no one has ever returned' is later answered in Christian doctrine through Christ's resurrection (see <a href='/AIV/46/15/20'>1 Cor. 15:20</a>)."
+      "comment": "This verse introduces the ungodly and their materialistic worldview, denying an afterlife or resurrection. The notion 'no one has ever returned' is later answered in Christian doctrine through Christ's resurrection (see <a href='/AIV/46/15/20'>1 Cor. 15:20</a>).",
+      "sectionHeader": "The Reasoning of the Wicked"
     },
     {
       "pk": 27002002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "'Let us lie in wait for the righteous man, because he is inconvenient to us and opposes our actions; he reproaches us for sins against the law, and accuses us of sins against our upbringing.'",
       "links": "<a href='/AIV/19/37/12'>Ps. 37:12</a>; <a href='/AIV/40/27/41-43'>Matt. 27:41-43</a>",
-      "comment": "This verse foreshadows the persecution of the righteous, most fully revealed in the sufferings of Christ Himself (<a href='/AIV/23/53/3-7'>Isa. 53:3-7</a>)."
+      "comment": "This verse foreshadows the persecution of the righteous, most fully revealed in the sufferings of Christ Himself (<a href='/AIV/23/53/3-7'>Isa. 53:3-7</a>).",
+      "sectionHeader": "Plot Against the Righteous"
     },
     {
       "pk": 27002013,
@@ -254,7 +256,8 @@
       "verse": 21,
       "text": "Such things they reasoned, but they were led astray, for their wickedness blinded them.",
       "links": "<a href='/AIV/23/44/18-20'>Isa. 44:18-20</a>; <a href='/AIV/43/12/40'>John 12:40</a>",
-      "comment": "Spiritual blindness is a recurring biblical theme. Persistent sin can darken the intellect, preventing true understanding of God and salvation."
+      "comment": "Spiritual blindness is a recurring biblical theme. Persistent sin can darken the intellect, preventing true understanding of God and salvation.",
+      "sectionHeader": "The Folly of the Wicked and the Purpose of God"
     },
     {
       "pk": 27002022,
@@ -293,5 +296,22 @@
       "comment": "Describes the origin of death as a result of the devil's action and human sin. Christ came to defeat death and the works of the devil (see <a href='/AIV/58/2/14'>Heb. 2:14</a>). This highlights the ongoing choice between the way of Adam and the way of redemption through Christ, with the call to unswerving faithfulness in the one, visible community of believers promised by Christ."
     }
   ],
-  "translatedAt": "2025-12-24T07:15:06.570Z"
+  "translatedAt": "2025-12-24T07:15:06.570Z",
+  "sections": [
+    {
+      "title": "The Reasoning of the Wicked",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "Plot Against the Righteous",
+      "startVerse": 12,
+      "endVerse": 20
+    },
+    {
+      "title": "The Folly of the Wicked and the Purpose of God",
+      "startVerse": 21,
+      "endVerse": 24
+    }
+  ]
 }

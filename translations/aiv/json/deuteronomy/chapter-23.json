@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "No man whose genitals have been crushed or cut off may enter the assembly of the LORD.",
       "links": "<a href='/AIV/03/21/17-21'>Lev. 21:17-21</a>; <a href='/AIV/23/56/3-5'>Isa. 56:3-5</a>",
-      "comment": "This verse emphasizes ritual purity and physical wholeness in worship. Later, the prophet Isaiah foretells the inclusion of eunuchs, pointing toward the openness of God’s covenant (see Isa. 56:3-5), reflecting a movement from external to internal purity — fulfilled in Christ’s invitation to all (cf. Acts 8:36-39)."
+      "comment": "This verse emphasizes ritual purity and physical wholeness in worship. Later, the prophet Isaiah foretells the inclusion of eunuchs, pointing toward the openness of God’s covenant (see Isa. 56:3-5), reflecting a movement from external to internal purity — fulfilled in Christ’s invitation to all (cf. Acts 8:36-39).",
+      "sectionHeader": "Restrictions Regarding the Assembly"
     },
     {
       "pk": 5023002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "When you set up camp against your enemies, you must keep yourself away from every impure thing.",
       "links": "<a href='/AIV/03/15/31'>Lev. 15:31</a>; <a href='/AIV/19/24/3-4'>Ps. 24:3-4</a>",
-      "comment": "Purity in battle reflects the need for inner holiness, a concept fulfilled in Christ’s cleansing work and the call to spiritual warfare (Eph. 6:12)."
+      "comment": "Purity in battle reflects the need for inner holiness, a concept fulfilled in Christ’s cleansing work and the call to spiritual warfare (Eph. 6:12).",
+      "sectionHeader": "Laws of Purity in the Camp"
     },
     {
       "pk": 5023010,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "You shall not hand over to his master a slave who has escaped from his master to you.",
       "links": "<a href='/AIV/02/22/21'>Ex. 22:21</a>; <a href='/AIV/57/1/15-17'>Philemon 15-17</a>",
-      "comment": "Sheltering the oppressed reflects God’s justice, a principle reaffirmed in the New Testament emphasis on charity and care (Matt. 25:35-36)."
+      "comment": "Sheltering the oppressed reflects God’s justice, a principle reaffirmed in the New Testament emphasis on charity and care (Matt. 25:35-36).",
+      "sectionHeader": "Protection of Fugitive Slaves"
     },
     {
       "pk": 5023016,
@@ -206,7 +209,8 @@
       "verse": 17,
       "text": "None of the daughters of Israel shall be a temple prostitute, nor shall any of the sons of Israel be a temple prostitute.",
       "links": "<a href='/AIV/03/19/29'>Lev. 19:29</a>; <a href='/AIV/46/6/15-20'>1 Cor. 6:15-20</a>",
-      "comment": "Prohibiting cult prostitution upholds chastity and dignity of worship. In the New Testament, the body is described as a temple of the Holy Spirit (1 Cor. 6)."
+      "comment": "Prohibiting cult prostitution upholds chastity and dignity of worship. In the New Testament, the body is described as a temple of the Holy Spirit (1 Cor. 6).",
+      "sectionHeader": "Prohibition of Cult Prostitution and Unclean Offerings"
     },
     {
       "pk": 5023018,
@@ -230,7 +234,8 @@
       "verse": 19,
       "text": "You shall not charge interest to your brother — interest on money, food, or anything that may be lent at interest.",
       "links": "<a href='/AIV/02/22/25'>Ex. 22:25</a>; <a href='/AIV/03/25/36-37'>Lev. 25:36-37</a>",
-      "comment": "Charging interest is forbidden among Israelites, emphasizing mutual generosity. This practice finds echoes in later Christian social teaching."
+      "comment": "Charging interest is forbidden among Israelites, emphasizing mutual generosity. This practice finds echoes in later Christian social teaching.",
+      "sectionHeader": "Laws Concerning Interest and Vows"
     },
     {
       "pk": 5023020,
@@ -290,7 +295,8 @@
       "verse": 24,
       "text": "When you enter your neighbor’s vineyard, you may eat your fill of grapes, but do not carry any away in a basket.",
       "links": "<a href='/AIV/03/19/10'>Lev. 19:10</a>; <a href='/AIV/40/12/1-7'>Matt. 12:1-7</a>",
-      "comment": "Generosity and restraint are balanced — just enough for personal need, not for profit, encouraging charity and fairness among the people."
+      "comment": "Generosity and restraint are balanced — just enough for personal need, not for profit, encouraging charity and fairness among the people.",
+      "sectionHeader": "Laws on Eating Neighbor's Produce"
     },
     {
       "pk": 5023025,
@@ -305,5 +311,37 @@
       "comment": "The principle of mercy and provision for the poor is embedded in this law, foreshadowing Christ’s teaching about providing for those in need."
     }
   ],
-  "translatedAt": "2025-12-24T02:09:08.287Z"
+  "translatedAt": "2025-12-24T02:09:08.287Z",
+  "sections": [
+    {
+      "title": "Restrictions Regarding the Assembly",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "Laws of Purity in the Camp",
+      "startVerse": 9,
+      "endVerse": 14
+    },
+    {
+      "title": "Protection of Fugitive Slaves",
+      "startVerse": 15,
+      "endVerse": 16
+    },
+    {
+      "title": "Prohibition of Cult Prostitution and Unclean Offerings",
+      "startVerse": 17,
+      "endVerse": 18
+    },
+    {
+      "title": "Laws Concerning Interest and Vows",
+      "startVerse": 19,
+      "endVerse": 23
+    },
+    {
+      "title": "Laws on Eating Neighbor's Produce",
+      "startVerse": 24,
+      "endVerse": 25
+    }
+  ]
 }

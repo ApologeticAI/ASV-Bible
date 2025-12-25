@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Samuel said to all Israel, 'Look, I have listened to everything you said to me and have set a king over you.'",
       "links": "<a href='/AIV/9/8/7-22'>1Sam 8:7-22</a>",
-      "comment": "Samuel reminds Israel that they requested a king, showing a transition from the period of judges to monarchy. This is an important shift in salvation history, with authority centralized in a single ruler."
+      "comment": "Samuel reminds Israel that they requested a king, showing a transition from the period of judges to monarchy. This is an important shift in salvation history, with authority centralized in a single ruler.",
+      "sectionHeader": "Samuel’s Farewell Address"
     },
     {
       "pk": 9012002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "Samuel said to the people, 'It is the Lord who appointed Moses and Aaron, who brought your ancestors up from the land of Egypt.'",
       "links": "<a href='/AIV/2/3/10'>Exod 3:10</a>; <a href='/AIV/2/6/13'>Exod 6:13</a>",
-      "comment": "Samuel highlights God’s choice of leaders. This reflects the way God establishes authority and delivers His people, a principle fulfilled in the greater deliverance through Christ."
+      "comment": "Samuel highlights God’s choice of leaders. This reflects the way God establishes authority and delivers His people, a principle fulfilled in the greater deliverance through Christ.",
+      "sectionHeader": "The Lord’s Righteous Deeds Recounted"
     },
     {
       "pk": 9012007,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "Now therefore, stand still and see the great thing the Lord will do before your eyes.",
       "links": "<a href='/AIV/2/14/13'>Exod 14:13</a>",
-      "comment": "As in Exodus, God acts before His people to demonstrate His power. The motif of standing still echoes faith and trust, seen ultimately in the New Testament."
+      "comment": "As in Exodus, God acts before His people to demonstrate His power. The motif of standing still echoes faith and trust, seen ultimately in the New Testament.",
+      "sectionHeader": "A Sign of Thunder and Rain"
     },
     {
       "pk": 9012017,
@@ -230,7 +233,8 @@
       "verse": 19,
       "text": "All the people said to Samuel, 'Pray to the Lord your God for your servants, so that we do not die, for we have added to all our sins this evil by asking for a king.'",
       "links": "<a href='/AIV/2/32/30-32'>Exod 32:30-32</a>",
-      "comment": "The plea for intercessory prayer suggests the ongoing need for mediators. This model prefigures Christ’s eternal priesthood and the ministry of leaders who intercede on behalf of the people."
+      "comment": "The plea for intercessory prayer suggests the ongoing need for mediators. This model prefigures Christ’s eternal priesthood and the ministry of leaders who intercede on behalf of the people.",
+      "sectionHeader": "A Call to Faithfulness"
     },
     {
       "pk": 9012020,
@@ -305,5 +309,27 @@
       "comment": "Samuel concludes with a strong warning: actions have consequences for both leaders and people. It points to the necessity of perseverance and true holiness to remain within God’s promises, an enduring principle fulfilled perfectly in Christ and His Church."
     }
   ],
-  "translatedAt": "2025-12-24T02:54:43.157Z"
+  "translatedAt": "2025-12-24T02:54:43.157Z",
+  "sections": [
+    {
+      "title": "Samuel’s Farewell Address",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "The Lord’s Righteous Deeds Recounted",
+      "startVerse": 6,
+      "endVerse": 15
+    },
+    {
+      "title": "A Sign of Thunder and Rain",
+      "startVerse": 16,
+      "endVerse": 18
+    },
+    {
+      "title": "A Call to Faithfulness",
+      "startVerse": 19,
+      "endVerse": 25
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "After David had finished speaking with Saul, Jonathan’s soul became bound to the soul of David, and Jonathan loved him as his own soul.",
       "links": "<a href='/AIV/09/19/1'>1Sam 19:1</a>; <a href='/AIV/10/1/26'>2Sam 1:26</a>",
-      "comment": "This verse introduces the deep, covenantal friendship between David and Jonathan—a relationship that is often seen as a symbol of true brotherhood, spiritual kinship, and the kind of unity found among saints. Some Church Fathers saw in this a foreshadowing of the love and unity expected among all members of the one Church (cf. John 17:21)."
+      "comment": "This verse introduces the deep, covenantal friendship between David and Jonathan—a relationship that is often seen as a symbol of true brotherhood, spiritual kinship, and the kind of unity found among saints. Some Church Fathers saw in this a foreshadowing of the love and unity expected among all members of the one Church (cf. John 17:21).",
+      "sectionHeader": "David and Jonathan Make a Covenant"
     },
     {
       "pk": 9018002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "As they were returning, when David was coming back after striking down the Philistine, the women came out of all the cities of Israel, singing and dancing, to meet King Saul, with tambourines, with songs of joy, and with instruments of music.",
       "links": "<a href='/AIV/02/15/20'>Ex. 15:20</a>; <a href='/AIV/07/11/34'>Judg. 11:34</a>",
-      "comment": "Public celebrations often accompany divine deliverance; see also Miriam’s song in Exodus 15. Music and liturgical celebration remain central to the worship of God’s people."
+      "comment": "Public celebrations often accompany divine deliverance; see also Miriam’s song in Exodus 15. Music and liturgical celebration remain central to the worship of God’s people.",
+      "sectionHeader": "Saul Grows Jealous of David"
     },
     {
       "pk": 9018007,
@@ -122,7 +124,8 @@
       "verse": 10,
       "text": "The next day an evil spirit from God came upon Saul, and he raved within his house. David was playing his harp as he did day by day, and Saul had his spear in his hand.",
       "links": "<a href='/AIV/09/16/14'>1Sam 16:14</a>; <a href='/AIV/09/19/9'>1Sam 19:9</a>",
-      "comment": "The expression 'evil spirit from God' shows God’s sovereign allowance for discipline and judgment (cf. Job 1:12), illustrating how refusing grace leads to turmoil."
+      "comment": "The expression 'evil spirit from God' shows God’s sovereign allowance for discipline and judgment (cf. Job 1:12), illustrating how refusing grace leads to turmoil.",
+      "sectionHeader": "Saul Attempts to Kill David"
     },
     {
       "pk": 9018011,
@@ -206,7 +209,8 @@
       "verse": 17,
       "text": "Then Saul said to David, \"Here is my elder daughter Merab. I will give her to you as a wife; only be valiant for me and fight the LORD’s battles.\" For Saul thought, \"Let not my hand be against him, but let the hand of the Philistines be against him.\"",
       "links": "<a href='/AIV/09/17/25'>1Sam 17:25</a>; <a href='/AIV/09/18/21'>1Sam 18:21</a>",
-      "comment": "Saul’s diplomacy conceals deceit, paralleling later schemes against the righteous. The theme of testing loyal servants is a common pattern in salvation history."
+      "comment": "Saul’s diplomacy conceals deceit, paralleling later schemes against the righteous. The theme of testing loyal servants is a common pattern in salvation history.",
+      "sectionHeader": "Saul Offers His Daughters to David"
     },
     {
       "pk": 9018018,
@@ -242,7 +246,8 @@
       "verse": 20,
       "text": "Now Saul’s daughter Michal loved David. When this was told to Saul, the thing pleased him.",
       "links": "<a href='/AIV/09/19/11'>1Sam 19:11</a>",
-      "comment": "God works even through the affections of Saul’s family, showing that divine providence is always at work, even in the midst of human designs."
+      "comment": "God works even through the affections of Saul’s family, showing that divine providence is always at work, even in the midst of human designs.",
+      "sectionHeader": "David Marries Michal"
     },
     {
       "pk": 9018021,
@@ -365,5 +370,32 @@
       "comment": "David’s rise to honor through faithfulness prefigures Christ’s glorification after humiliation (Phil. 2:8-11). This pattern is reflected in the saints who are honored in God’s household over time."
     }
   ],
-  "translatedAt": "2025-12-24T02:59:25.523Z"
+  "translatedAt": "2025-12-24T02:59:25.523Z",
+  "sections": [
+    {
+      "title": "David and Jonathan Make a Covenant",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Saul Grows Jealous of David",
+      "startVerse": 6,
+      "endVerse": 9
+    },
+    {
+      "title": "Saul Attempts to Kill David",
+      "startVerse": 10,
+      "endVerse": 16
+    },
+    {
+      "title": "Saul Offers His Daughters to David",
+      "startVerse": 17,
+      "endVerse": 19
+    },
+    {
+      "title": "David Marries Michal",
+      "startVerse": 20,
+      "endVerse": 30
+    }
+  ]
 }

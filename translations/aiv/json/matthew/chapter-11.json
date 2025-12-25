@@ -26,7 +26,8 @@
       "verse": 2,
       "text": "Now when John heard in prison about the works of Christ, he sent his disciples",
       "links": "<a href='/AIV/42/7/18'>Luke 7:18-19</a>; <a href='/AIV/40/4/12'>Matt. 4:12</a>",
-      "comment": "John the Baptist is in prison (see Matt. 4:12). His sending of disciples to Jesus emphasizes the continuity between the Old Testament prophets and Jesus, the Messiah."
+      "comment": "John the Baptist is in prison (see Matt. 4:12). His sending of disciples to Jesus emphasizes the continuity between the Old Testament prophets and Jesus, the Messiah.",
+      "sectionHeader": "Messengers from John the Baptist"
     },
     {
       "pk": 47011003,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "As they went away, Jesus began to speak to the crowds about John: 'What did you go out into the wilderness to see? A reed shaken by the wind?'",
       "links": "<a href='/AIV/42/7/24'>Luke 7:24</a>",
-      "comment": "Jesus testifies to John’s steadfastness—he was not a weak or uncertain prophet. This implicitly validates the Old Testament prophetic tradition, fulfilled in the new era."
+      "comment": "Jesus testifies to John’s steadfastness—he was not a weak or uncertain prophet. This implicitly validates the Old Testament prophetic tradition, fulfilled in the new era.",
+      "sectionHeader": "Jesus’ Testimony to John"
     },
     {
       "pk": 47011008,
@@ -242,7 +244,8 @@
       "verse": 20,
       "text": "Then he began to denounce the cities where most of his mighty works had been done, because they did not repent.",
       "links": "<a href='/AIV/40/12/41'>Matt. 12:41</a>",
-      "comment": "Even witnessing miracles, these cities rejected the call to repentance. Responding to God’s grace requires both faith and action."
+      "comment": "Even witnessing miracles, these cities rejected the call to repentance. Responding to God’s grace requires both faith and action.",
+      "sectionHeader": "Woe to Unrepentant Cities"
     },
     {
       "pk": 47011021,
@@ -302,7 +305,8 @@
       "verse": 25,
       "text": "At that time Jesus declared, 'I thank you, Father, Lord of heaven and earth, that you have hidden these things from the wise and understanding and revealed them to little children.'",
       "links": "<a href='/AIV/42/10/21'>Luke 10:21</a>; <a href='/AIV/19/8/2'>Ps. 8:2</a>",
-      "comment": "Jesus' prayer reveals the intimacy within the Trinity: the Son addressing the Father. God bestows grace especially on the humble who approach in faith, a principle foundational to the sacramental life and spiritual childhood."
+      "comment": "Jesus' prayer reveals the intimacy within the Trinity: the Son addressing the Father. God bestows grace especially on the humble who approach in faith, a principle foundational to the sacramental life and spiritual childhood.",
+      "sectionHeader": "Jesus’ Prayer of Thanksgiving"
     },
     {
       "pk": 47011026,
@@ -338,7 +342,8 @@
       "verse": 28,
       "text": "'Come to me, all who labor and are heavy laden, and I will give you rest.'",
       "links": "<a href='/AIV/40/23/4'>Matt. 23:4</a>; <a href='/AIV/58/4/9-11'>Heb. 4:9-11</a>",
-      "comment": "Jesus personally offers rest, echoing Sabbath rest and fulfillment of God’s promise. Spiritual rest is found in him, pointing to grace mediated through his presence and sacraments."
+      "comment": "Jesus personally offers rest, echoing Sabbath rest and fulfillment of God’s promise. Spiritual rest is found in him, pointing to grace mediated through his presence and sacraments.",
+      "sectionHeader": "The Gentle Invitation"
     },
     {
       "pk": 47011029,
@@ -365,5 +370,32 @@
       "comment": "The way of Jesus brings joy and true freedom; it is not a burdensome law but a path of grace. Divine help makes discipleship possible, especially through the ongoing guidance of the visible Church."
     }
   ],
-  "translatedAt": "2025-12-24T10:08:08.366Z"
+  "translatedAt": "2025-12-24T10:08:08.366Z",
+  "sections": [
+    {
+      "title": "Messengers from John the Baptist",
+      "startVerse": 2,
+      "endVerse": 6
+    },
+    {
+      "title": "Jesus’ Testimony to John",
+      "startVerse": 7,
+      "endVerse": 19
+    },
+    {
+      "title": "Woe to Unrepentant Cities",
+      "startVerse": 20,
+      "endVerse": 24
+    },
+    {
+      "title": "Jesus’ Prayer of Thanksgiving",
+      "startVerse": 25,
+      "endVerse": 27
+    },
+    {
+      "title": "The Gentle Invitation",
+      "startVerse": 28,
+      "endVerse": 30
+    }
+  ]
 }

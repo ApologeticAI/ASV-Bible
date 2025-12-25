@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When Moses had finished setting up the tabernacle, he anointed and consecrated it along with all its furnishings, and he also anointed and consecrated the altar and all its utensils.",
       "links": "<a href='/AIV/2/40/9'>Ex. 40:9</a>; <a href='/AIV/3/8/10'>Lev. 8:10-11</a>",
-      "comment": "Moses anoints and consecrates the tabernacle, foreshadowing later rituals of consecration and anointing for sacred spaces and people in the New Covenant. This points towards the setting apart of the Church as holy."
+      "comment": "Moses anoints and consecrates the tabernacle, foreshadowing later rituals of consecration and anointing for sacred spaces and people in the New Covenant. This points towards the setting apart of the Church as holy.",
+      "sectionHeader": "Dedication of the Tabernacle and Altar"
     },
     {
       "pk": 4007002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "The leaders brought the dedication offerings for the altar when it was anointed, and the leaders presented their offering before the altar.",
       "links": "<a href='/AIV/2/29/36-37'>Ex. 29:36-37</a>",
-      "comment": "Dedicating offerings at anointing connects consecration and sacrifice with service at the altar, a theme later fulfilled in New Testament worship."
+      "comment": "Dedicating offerings at anointing connects consecration and sacrifice with service at the altar, a theme later fulfilled in New Testament worship.",
+      "sectionHeader": "Offerings of the Tribal Leaders for the Altar"
     },
     {
       "pk": 4007011,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "He who offered his offering the first day was Nahshon the son of Amminadab, of the tribe of Judah.",
       "links": "<a href='/AIV/4/2/3'>Num. 2:3</a>; <a href='/AIV/40/1/4'>Matt. 1:4</a>",
-      "comment": "Judah leads, foreshadowing the leadership of this tribe in Israel’s history and the eventual coming of Christ from this line."
+      "comment": "Judah leads, foreshadowing the leadership of this tribe in Israel’s history and the eventual coming of Christ from this line.",
+      "sectionHeader": "The Daily Offerings of the Leaders"
     },
     {
       "pk": 4007013,
@@ -1010,7 +1013,8 @@
       "verse": 84,
       "text": "This was the dedication offering for the altar from the leaders of Israel on the day when it was anointed: twelve silver plates, twelve silver basins, twelve golden dishes;",
       "links": "<a href='/AIV/4/7/10-11'>Num. 7:10-11</a>",
-      "comment": "The enumeration highlights completeness and symbolic perfection—twelve tribes, twelve apostles—in continuity through sacred tradition."
+      "comment": "The enumeration highlights completeness and symbolic perfection—twelve tribes, twelve apostles—in continuity through sacred tradition.",
+      "sectionHeader": "Summary of the Dedication Offerings"
     },
     {
       "pk": 4007085,
@@ -1070,8 +1074,36 @@
       "verse": 89,
       "text": "When Moses went into the tent of meeting to speak with him, he heard the voice speaking to him from above the mercy seat that was on the ark of the testimony, from between the two cherubim; and he spoke to him.",
       "links": "<a href='/AIV/2/25/22'>Ex. 25:22</a>; <a href='/AIV/19/80/1'>Ps. 80:1</a>",
-      "comment": "God speaks with Moses from between the cherubim. The Lord’s presence at the mercy seat foreshadows how God will dwell among his people in the sanctuary, and ultimately in Christ, who is the perfect mediator and the new mercy seat (see Hebrews 9:24). This prefigures the direct access to God granted in Christ through ordered worship and intercessory ministry."
+      "comment": "God speaks with Moses from between the cherubim. The Lord’s presence at the mercy seat foreshadows how God will dwell among his people in the sanctuary, and ultimately in Christ, who is the perfect mediator and the new mercy seat (see Hebrews 9:24). This prefigures the direct access to God granted in Christ through ordered worship and intercessory ministry.",
+      "sectionHeader": "Moses Hears God in the Tent of Meeting"
     }
   ],
-  "translatedAt": "2025-12-24T01:33:28.529Z"
+  "translatedAt": "2025-12-24T01:33:28.529Z",
+  "sections": [
+    {
+      "title": "Dedication of the Tabernacle and Altar",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "Offerings of the Tribal Leaders for the Altar",
+      "startVerse": 10,
+      "endVerse": 11
+    },
+    {
+      "title": "The Daily Offerings of the Leaders",
+      "startVerse": 12,
+      "endVerse": 83
+    },
+    {
+      "title": "Summary of the Dedication Offerings",
+      "startVerse": 84,
+      "endVerse": 88
+    },
+    {
+      "title": "Moses Hears God in the Tent of Meeting",
+      "startVerse": 89,
+      "endVerse": 89
+    }
+  ]
 }

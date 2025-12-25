@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "After this, David defeated the Philistines and subdued them, and he took Gath and its villages from the hand of the Philistines.",
       "links": "<a href='/AIV/10/8/1'>2 Sam. 8:1</a>; <a href='/AIV/09/17/51'>1 Sam. 17:51</a>",
-      "comment": "This verse recounts David's decisive victory over the Philistines. The mention of 'Gath and its villages' signals David's expanding territory, foreshadowing the fulfillment of God's promise to establish his kingdom. Theologically, David as a conquering king prefigures Christ as the ultimate conqueror of spiritual enemies (see <a href='/AIV/40/12/29'>Matt. 12:29</a>)."
+      "comment": "This verse recounts David's decisive victory over the Philistines. The mention of 'Gath and its villages' signals David's expanding territory, foreshadowing the fulfillment of God's promise to establish his kingdom. Theologically, David as a conquering king prefigures Christ as the ultimate conqueror of spiritual enemies (see <a href='/AIV/40/12/29'>Matt. 12:29</a>).",
+      "sectionHeader": "David’s Victories over Surrounding Nations"
     },
     {
       "pk": 13018002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "When Tou king of Hamath heard that David had defeated the whole army of Hadadezer king of Zobah,",
       "links": "<a href='/AIV/10/8/9'>2 Sam. 8:9</a>",
-      "comment": "This verse introduces Tou, whose response to David’s victory demonstrates the recognition of David’s divine authority, foreshadowing the universal acknowledgment of the messianic king."
+      "comment": "This verse introduces Tou, whose response to David’s victory demonstrates the recognition of David’s divine authority, foreshadowing the universal acknowledgment of the messianic king.",
+      "sectionHeader": "Tou King of Hamath Sends Gifts to David"
     },
     {
       "pk": 13018010,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "Joab the son of Zeruiah was over the army; Jehoshaphat the son of Ahilud was recorder;",
       "links": "<a href='/AIV/10/8/16'>2 Sam. 8:16</a>; <a href='/AIV/13/27/34'>1 Chr. 27:34</a>",
-      "comment": "David’s organized administration points to the growing complexity and order of God's kingdom, prefiguring the importance of apostolic succession and the involvement of various offices within the church."
+      "comment": "David’s organized administration points to the growing complexity and order of God's kingdom, prefiguring the importance of apostolic succession and the involvement of various offices within the church.",
+      "sectionHeader": "David’s Officials"
     },
     {
       "pk": 13018016,
@@ -209,5 +212,22 @@
       "comment": "Benaiah's authority and David’s sons’ high office demonstrate roles for both royal and priestly service. This points to the principle of established hierarchy in the administration of God's people, paralleled in later ecclesial life and order."
     }
   ],
-  "translatedAt": "2025-12-24T04:15:11.565Z"
+  "translatedAt": "2025-12-24T04:15:11.565Z",
+  "sections": [
+    {
+      "title": "David’s Victories over Surrounding Nations",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "Tou King of Hamath Sends Gifts to David",
+      "startVerse": 9,
+      "endVerse": 14
+    },
+    {
+      "title": "David’s Officials",
+      "startVerse": 15,
+      "endVerse": 17
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "He who loves his son disciplines him often, that he may rejoice at his coming of age.",
       "links": "<a href='/AIV/20/13/24'>Prov. 13:24</a>; <a href='/AIV/58/12/6-11'>Heb. 12:6-11</a>",
-      "comment": "Discipline as an act of love runs throughout both Old and New Testaments. Good parents instruct and guide their children, reflecting the heavenly Father's correction of His people (see Prov. 3:12; Heb. 12:6-7)."
+      "comment": "Discipline as an act of love runs throughout both Old and New Testaments. Good parents instruct and guide their children, reflecting the heavenly Father's correction of His people (see Prov. 3:12; Heb. 12:6-7).",
+      "sectionHeader": "Discipline of Children"
     },
     {
       "pk": 28030002,
@@ -170,7 +171,8 @@
       "verse": 14,
       "text": "Better a poor man who is healthy and strong, than a rich man with disease in his bones.",
       "links": "<a href='/AIV/20/15/17'>Prov. 15:17</a>; <a href='/AIV/40/6/19-21'>Matt. 6:19-21</a>",
-      "comment": "True wealth is found in health and virtue, not in fleeting riches—pointing to Jesus’ teaching to store up treasures in heaven."
+      "comment": "True wealth is found in health and virtue, not in fleeting riches—pointing to Jesus’ teaching to store up treasures in heaven.",
+      "sectionHeader": "The Value of Health"
     },
     {
       "pk": 28030015,
@@ -254,7 +256,8 @@
       "verse": 21,
       "text": "Do not give yourself over to sorrow, nor afflict yourself deliberately.",
       "links": "<a href='/AIV/19/42/5-11'>Ps. 42:5-11</a>",
-      "comment": "The Bible exhorts believers to place hope in God and practice joy even in tribulation (Rom. 5:3-5, Phil. 4:4)."
+      "comment": "The Bible exhorts believers to place hope in God and practice joy even in tribulation (Rom. 5:3-5, Phil. 4:4).",
+      "sectionHeader": "Joy and Sorrow"
     },
     {
       "pk": 28030022,
@@ -305,5 +308,22 @@
       "comment": "Joy and sorrow affect even daily necessities. The passage invites the faithful to seek the joy that comes from God alone—ultimately fulfilled in Christ, the Bread of Life (John 6:35)."
     }
   ],
-  "translatedAt": "2025-12-24T07:39:02.029Z"
+  "translatedAt": "2025-12-24T07:39:02.029Z",
+  "sections": [
+    {
+      "title": "Discipline of Children",
+      "startVerse": 1,
+      "endVerse": 13
+    },
+    {
+      "title": "The Value of Health",
+      "startVerse": 14,
+      "endVerse": 20
+    },
+    {
+      "title": "Joy and Sorrow",
+      "startVerse": 21,
+      "endVerse": 25
+    }
+  ]
 }

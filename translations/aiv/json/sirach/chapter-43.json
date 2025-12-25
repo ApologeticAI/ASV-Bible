@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The pride of the heights is the clear sky, and the heavenly canopy reveals the glory of God.",
       "links": "<a href='/AIV/19/19/1'>Ps. 19:1</a>; <a href='/AIV/01/01/6-8'>Gen. 1:6-8</a>",
-      "comment": "This verse connects the beauty of the sky with the manifestation of God’s glory, emphasizing the created order’s ability to reveal the Creator. Compare with Psalm 19:1 for similar language about the heavens declaring God’s glory."
+      "comment": "This verse connects the beauty of the sky with the manifestation of God’s glory, emphasizing the created order’s ability to reveal the Creator. Compare with Psalm 19:1 for similar language about the heavens declaring God’s glory.",
+      "sectionHeader": "The Glory of the Heavens"
     },
     {
       "pk": 28043002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "By his command he sends the snow and hurries the lightning according to his judgment.",
       "links": "<a href='/AIV/18/37/6'>Job 37:6</a>",
-      "comment": "All weather phenomena come from God. He is sovereign over all the earth and its processes."
+      "comment": "All weather phenomena come from God. He is sovereign over all the earth and its processes.",
+      "sectionHeader": "The Order of the Seasons and the Weather"
     },
     {
       "pk": 28043014,
@@ -290,7 +292,8 @@
       "verse": 24,
       "text": "By his plan he stilled the deep, and planted islands in it.",
       "links": "<a href='/AIV/01/01/9-10'>Gen. 1:9-10</a>",
-      "comment": "Creation’s order, even in the oceans, points toward the sovereignty of the One who brings chaos into order—a theme that recurs throughout salvation history."
+      "comment": "Creation’s order, even in the oceans, points toward the sovereignty of the One who brings chaos into order—a theme that recurs throughout salvation history.",
+      "sectionHeader": "The Wonders of the Sea"
     },
     {
       "pk": 28043025,
@@ -326,7 +329,8 @@
       "verse": 27,
       "text": "Because of him each messenger succeeds, and by his word all things hold together.",
       "links": "<a href='/AIV/51/01/17'>Col. 1:17</a>; <a href='/AIV/19/33/9'>Ps. 33:9</a>",
-      "comment": "All things are sustained by God’s word. Compare with Colossians 1:17, which ascribes holding all things together to Christ, foreshadowing the high Christology of the New Testament."
+      "comment": "All things are sustained by God’s word. Compare with Colossians 1:17, which ascribes holding all things together to Christ, foreshadowing the high Christology of the New Testament.",
+      "sectionHeader": "The Incomprehensible Greatness of God"
     },
     {
       "pk": 28043028,
@@ -401,5 +405,27 @@
       "comment": "God’s ways and mysteries are deeper than anything we can imagine. This verse encourages humility and trust, opening the way for understanding truths revealed in sacred tradition and worshiping with reverence at the mystery of faith."
     }
   ],
-  "translatedAt": "2025-12-24T07:47:09.307Z"
+  "translatedAt": "2025-12-24T07:47:09.307Z",
+  "sections": [
+    {
+      "title": "The Glory of the Heavens",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "The Order of the Seasons and the Weather",
+      "startVerse": 13,
+      "endVerse": 23
+    },
+    {
+      "title": "The Wonders of the Sea",
+      "startVerse": 24,
+      "endVerse": 26
+    },
+    {
+      "title": "The Incomprehensible Greatness of God",
+      "startVerse": 27,
+      "endVerse": 33
+    }
+  ]
 }

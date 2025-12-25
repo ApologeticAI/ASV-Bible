@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother, to the church of God that is in Corinth, together with all the saints throughout Achaia:",
       "links": "<a href='/AIV/44/16/1'>Acts 16:1</a>; <a href='/AIV/46/1/1-2'>1 Cor. 1:1-2</a>",
-      "comment": "Paul introduces himself, emphasizing his apostleship by God's will. He also includes Timothy, who was well-known in the early community. The reference to 'all the saints' highlights the unity of all believers in the Church, an idea developed throughout Paul’s letters (see <a href='/AIV/49/4/4-6'>Eph. 4:4-6</a>)."
+      "comment": "Paul introduces himself, emphasizing his apostleship by God's will. He also includes Timothy, who was well-known in the early community. The reference to 'all the saints' highlights the unity of all believers in the Church, an idea developed throughout Paul’s letters (see <a href='/AIV/49/4/4-6'>Eph. 4:4-6</a>).",
+      "sectionHeader": "Greeting"
     },
     {
       "pk": 54001002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and the God of all comfort,",
       "links": "<a href='/AIV/49/1/3'>Eph. 1:3</a>; <a href='/AIV/60/1/3'>1 Pet. 1:3</a>; <a href='/AIV/19/86/15'>Ps. 86:15</a>",
-      "comment": "Paul opens with traditional Jewish blessing but adapts it to Christian faith. 'God of all comfort' will be a theme of this chapter. The reference to 'the God and Father of our Lord Jesus Christ' highlights Christ’s divine Sonship and unique relationship to the Father."
+      "comment": "Paul opens with traditional Jewish blessing but adapts it to Christian faith. 'God of all comfort' will be a theme of this chapter. The reference to 'the God and Father of our Lord Jesus Christ' highlights Christ’s divine Sonship and unique relationship to the Father.",
+      "sectionHeader": "God of All Comfort"
     },
     {
       "pk": 54001004,
@@ -98,7 +100,8 @@
       "verse": 8,
       "text": "For we do not want you to be unaware, brothers, of the troubles we suffered in Asia. We were burdened beyond our strength, so that we despaired even of life itself.",
       "links": "<a href='/AIV/44/19/23-41'>Acts 19:23-41</a>",
-      "comment": "Paul’s transparency about his suffering gives credibility to his apostolic mission, echoing his participation in Christ’s own suffering and offering a witness to perseverance in faith."
+      "comment": "Paul’s transparency about his suffering gives credibility to his apostolic mission, echoing his participation in Christ’s own suffering and offering a witness to perseverance in faith.",
+      "sectionHeader": "Paul’s Hardships and Deliverance"
     },
     {
       "pk": 54001009,
@@ -146,7 +149,8 @@
       "verse": 12,
       "text": "For our boast is this: our conscience testifies that we have conducted ourselves in the world, and especially toward you, in simplicity and godly sincerity, not by human wisdom but by the grace of God.",
       "links": "<a href='/AIV/44/23/1'>Acts 23:1</a>; <a href='/AIV/54/1/5'>1 Tim. 1:5</a>",
-      "comment": "Paul says his ministry depends on divine grace, not worldly skill. This remains a model for Christian leadership—sincerity and trust in God’s grace rather than human methods."
+      "comment": "Paul says his ministry depends on divine grace, not worldly skill. This remains a model for Christian leadership—sincerity and trust in God’s grace rather than human methods.",
+      "sectionHeader": "Paul’s Integrity and Change of Plans"
     },
     {
       "pk": 54001013,
@@ -293,5 +297,27 @@
       "comment": "Paul affirms that genuine Church leadership is not domineering but is meant to assist the faithful in spiritual joy and perseverance. It implies a divinely ordered structure of authority that serves rather than controls."
     }
   ],
-  "translatedAt": "2025-12-24T11:53:12.201Z"
+  "translatedAt": "2025-12-24T11:53:12.201Z",
+  "sections": [
+    {
+      "title": "Greeting",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "God of All Comfort",
+      "startVerse": 3,
+      "endVerse": 7
+    },
+    {
+      "title": "Paul’s Hardships and Deliverance",
+      "startVerse": 8,
+      "endVerse": 11
+    },
+    {
+      "title": "Paul’s Integrity and Change of Plans",
+      "startVerse": 12,
+      "endVerse": 24
+    }
+  ]
 }

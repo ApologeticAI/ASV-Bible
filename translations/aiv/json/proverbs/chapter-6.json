@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "My son, if you have put up security for your neighbor, if you have given your pledge for a stranger,",
       "links": "<a href='/AIV/24/11/15'>Prov. 11:15</a>",
-      "comment": "Here, the wisdom writer warns against rash financial promises. In ancient society, becoming surety meant taking full responsibility, which could disrupt one's household."
+      "comment": "Here, the wisdom writer warns against rash financial promises. In ancient society, becoming surety meant taking full responsibility, which could disrupt one's household.",
+      "sectionHeader": "Warning Against Pledging Security"
     },
     {
       "pk": 24006002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "Go to the ant, you sluggard; consider her ways and be wise.",
       "links": "<a href='/AIV/24/30/25'>Prov. 30:25</a>",
-      "comment": "This lesson in diligence directly critiques spiritual laziness; the ant's communal efforts model the virtue of industrious living."
+      "comment": "This lesson in diligence directly critiques spiritual laziness; the ant's communal efforts model the virtue of industrious living.",
+      "sectionHeader": "The Lesson of the Ant"
     },
     {
       "pk": 24006007,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "A worthless person, a wicked man, goes about with a corrupt mouth,",
       "links": "<a href='/AIV/24/16/27'>Prov. 16:27</a>",
-      "comment": "Speech here is directly linked to character; deceitful words are seen as a sign of inward corruption."
+      "comment": "Speech here is directly linked to character; deceitful words are seen as a sign of inward corruption.",
+      "sectionHeader": "The Fate of the Wicked"
     },
     {
       "pk": 24006013,
@@ -194,7 +197,8 @@
       "verse": 16,
       "text": "There are six things the Lord hates, seven that are detestable to him:",
       "links": "<a href='/AIV/24/8/13'>Prov. 8:13</a>; <a href='/AIV/20/6/17'>Mic. 6:17</a>",
-      "comment": "This list style is a poetic device signaling emphasis. Divine hatred is reserved for specific destructive behaviors."
+      "comment": "This list style is a poetic device signaling emphasis. Divine hatred is reserved for specific destructive behaviors.",
+      "sectionHeader": "Seven Things the Lord Hates"
     },
     {
       "pk": 24006017,
@@ -242,7 +246,8 @@
       "verse": 20,
       "text": "My son, keep your father’s commandment, and do not forsake your mother’s teaching.",
       "links": "<a href='/AIV/24/1/8'>Prov. 1:8</a>; <a href='/AIV/2/20/12'>Ex. 20:12</a>",
-      "comment": "Parental instruction links to the fifth commandment, elevating obedience and respect for tradition as core virtues."
+      "comment": "Parental instruction links to the fifth commandment, elevating obedience and respect for tradition as core virtues.",
+      "sectionHeader": "Admonition Against Adultery"
     },
     {
       "pk": 24006021,
@@ -425,5 +430,32 @@
       "comment": "Justice cannot be bought off, reinforcing spiritual principles of integrity and the seriousness of covenant breaches."
     }
   ],
-  "translatedAt": "2025-12-24T06:53:20.207Z"
+  "translatedAt": "2025-12-24T06:53:20.207Z",
+  "sections": [
+    {
+      "title": "Warning Against Pledging Security",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "The Lesson of the Ant",
+      "startVerse": 6,
+      "endVerse": 11
+    },
+    {
+      "title": "The Fate of the Wicked",
+      "startVerse": 12,
+      "endVerse": 15
+    },
+    {
+      "title": "Seven Things the Lord Hates",
+      "startVerse": 16,
+      "endVerse": 19
+    },
+    {
+      "title": "Admonition Against Adultery",
+      "startVerse": 20,
+      "endVerse": 35
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now in Iconium they entered together into the Jewish synagogue and spoke in such a way that a great number of both Jews and Greeks believed.",
       "links": "<a href='/AIV/51/13/5'>Acts 13:5</a>; <a href='/AIV/45/1/16'>Rom. 1:16</a>",
-      "comment": "The synagogue is the central place for preaching to both Jews and Gentiles. The powerful speech of the apostles brings conversion to people from both backgrounds, aligning with the mission of the Church to all nations (see Acts 13:46, Rom. 1:16)."
+      "comment": "The synagogue is the central place for preaching to both Jews and Gentiles. The powerful speech of the apostles brings conversion to people from both backgrounds, aligning with the mission of the Church to all nations (see Acts 13:46, Rom. 1:16).",
+      "sectionHeader": "Paul and Barnabas Preach in Iconium"
     },
     {
       "pk": 51014002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Now at Lystra there was a man sitting who had no strength in his feet, crippled from birth and had never walked.",
       "links": "<a href='/AIV/44/3/2'>Acts 3:2</a>; <a href='/AIV/43/5/5-9'>John 5:5-9</a>",
-      "comment": "The narrative here parallels the healing in Acts 3, reminding readers of the continuity and supernatural authority given to the apostles."
+      "comment": "The narrative here parallels the healing in Acts 3, reminding readers of the continuity and supernatural authority given to the apostles.",
+      "sectionHeader": "The Healing at Lystra and Pagan Worship Attempt"
     },
     {
       "pk": 51014009,
@@ -230,7 +232,8 @@
       "verse": 19,
       "text": "But Jews from Antioch and Iconium came, and having persuaded the crowds, they stoned Paul and dragged him out of the city, thinking he was dead.",
       "links": "<a href='/AIV/47/11/25'>2 Cor. 11:25</a>; <a href='/AIV/51/7/58-60'>Acts 7:58-60</a>",
-      "comment": "Paul undergoes severe persecution, echoing the martyrdom stories such as Stephen's. The endurance of the apostles resembles the perseverance of the saints through suffering."
+      "comment": "Paul undergoes severe persecution, echoing the martyrdom stories such as Stephen's. The endurance of the apostles resembles the perseverance of the saints through suffering.",
+      "sectionHeader": "Paul Stoned, and the Mission Continues in Derbe"
     },
     {
       "pk": 51014020,
@@ -254,7 +257,8 @@
       "verse": 21,
       "text": "After they had preached the gospel to that city and made many disciples, they returned to Lystra, Iconium, and Antioch,",
       "links": "<a href='/AIV/51/13/14'>Acts 13:14</a>; <a href='/AIV/40/28/19'>Matt. 28:19</a>",
-      "comment": "The apostles are committed to building up new believers, echoing the commission to make disciples of all nations (cf. Matt. 28:19)."
+      "comment": "The apostles are committed to building up new believers, echoing the commission to make disciples of all nations (cf. Matt. 28:19).",
+      "sectionHeader": "Return to Antioch and Report to the Church"
     },
     {
       "pk": 51014022,
@@ -341,5 +345,27 @@
       "comment": "The apostles spend extended time building up the community of believers. This demonstrates the importance of not only evangelism but continued formation and fellowship amongst the faithful."
     }
   ],
-  "translatedAt": "2025-12-24T11:26:09.038Z"
+  "translatedAt": "2025-12-24T11:26:09.038Z",
+  "sections": [
+    {
+      "title": "Paul and Barnabas Preach in Iconium",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "The Healing at Lystra and Pagan Worship Attempt",
+      "startVerse": 8,
+      "endVerse": 18
+    },
+    {
+      "title": "Paul Stoned, and the Mission Continues in Derbe",
+      "startVerse": 19,
+      "endVerse": 20
+    },
+    {
+      "title": "Return to Antioch and Report to the Church",
+      "startVerse": 21,
+      "endVerse": 28
+    }
+  ]
 }

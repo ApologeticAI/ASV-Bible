@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then Solomon began to build the house of the LORD in Jerusalem on Mount Moriah, where the LORD had appeared to David his father, on the place that David had prepared on the threshing floor of Ornan the Jebusite.",
       "links": "<a href='/AIV/10/24/16'>2 Sam. 24:16</a>; <a href='/AIV/01/22/2'>Gen. 22:2</a>",
-      "comment": "Mount Moriah is a significant location, as it links back to Abraham's offering of Isaac (Genesis 22:2), prefiguring the sacrificial offering fulfilled in Christ. The specific selection and preparation of the site shows a divine plan, and a continuity of tradition and leadership from David to Solomon."
+      "comment": "Mount Moriah is a significant location, as it links back to Abraham's offering of Isaac (Genesis 22:2), prefiguring the sacrificial offering fulfilled in Christ. The specific selection and preparation of the site shows a divine plan, and a continuity of tradition and leadership from David to Solomon.",
+      "sectionHeader": "Solomon Begins Building the Temple"
     },
     {
       "pk": 14003002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "He made the Most Holy Place, its length equal to the width of the house, twenty cubits, and its width twenty cubits. He overlaid it with six hundred talents of fine gold.",
       "links": "<a href='/AIV/11/06/20'>1 Kgs. 6:20-21</a>",
-      "comment": "The Most Holy Place foreshadows the inner sanctum of God's presence with His people. In Christ, the veil between God and man is removed (cf. Heb. 10:19-22), opening the way into the true sanctuary."
+      "comment": "The Most Holy Place foreshadows the inner sanctum of God's presence with His people. In Christ, the veil between God and man is removed (cf. Heb. 10:19-22), opening the way into the true sanctuary.",
+      "sectionHeader": "The Most Holy Place and Its Furnishings"
     },
     {
       "pk": 14003009,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "In front of the house he made two pillars, thirty-five cubits high, and the capital that was on the top of each was five cubits.",
       "links": "<a href='/AIV/11/07/15'>1 Kgs. 7:15-16</a>",
-      "comment": "These pillars, later named Jachin and Boaz, symbolize stability and strength. They stand at the entrance, signifying the establishment of God’s promise and the faith needed to enter His presence."
+      "comment": "These pillars, later named Jachin and Boaz, symbolize stability and strength. They stand at the entrance, signifying the establishment of God’s promise and the faith needed to enter His presence.",
+      "sectionHeader": "The Pillars Before the Temple"
     },
     {
       "pk": 14003016,
@@ -209,5 +212,22 @@
       "comment": "‘Jachin’ means 'He establishes' and ‘Boaz’ means 'In Him is strength.’ The names signify God's faithfulness in establishing His people firmly in His promises, a theme carried on through Christ and the enduring foundation of His Church. See also <a href='/AIV/40/16/18'>Matt. 16:18</a>."
     }
   ],
-  "translatedAt": "2025-12-24T04:22:42.268Z"
+  "translatedAt": "2025-12-24T04:22:42.268Z",
+  "sections": [
+    {
+      "title": "Solomon Begins Building the Temple",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "The Most Holy Place and Its Furnishings",
+      "startVerse": 8,
+      "endVerse": 14
+    },
+    {
+      "title": "The Pillars Before the Temple",
+      "startVerse": 15,
+      "endVerse": 17
+    }
+  ]
 }

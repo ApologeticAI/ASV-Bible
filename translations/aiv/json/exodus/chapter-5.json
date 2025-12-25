@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Afterward, Moses and Aaron went to Pharaoh and said, “This is what the LORD, the God of Israel, says: ‘Let My people go, so that they may hold a feast to Me in the wilderness.’”",
       "links": "<a href='/AIV/2/3/18'>Exod. 3:18</a>; <a href='/AIV/2/7/16'>Exod. 7:16</a>",
-      "comment": "Moses and Aaron deliver God’s command to Pharaoh, initiating the Exodus narrative. The mention of a feast foreshadows Israel's worship and sacrifice, reminiscent of future liturgical celebrations (see Lev. 23)."
+      "comment": "Moses and Aaron deliver God’s command to Pharaoh, initiating the Exodus narrative. The mention of a feast foreshadows Israel's worship and sacrifice, reminiscent of future liturgical celebrations (see Lev. 23).",
+      "sectionHeader": "Moses and Aaron Before Pharaoh"
     },
     {
       "pk": 2005002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "That same day, Pharaoh commanded the taskmasters of the people and their overseers,",
       "links": "<a href='/AIV/2/1/11'>Exod. 1:11</a>; <a href='/AIV/2/5/10'>Exod. 5:10</a>",
-      "comment": "Pharaoh’s swift response escalates the persecution, matching patterns of oppression seen throughout Scripture when God’s people are about to be delivered (see Dan. 3:19-20)."
+      "comment": "Pharaoh’s swift response escalates the persecution, matching patterns of oppression seen throughout Scripture when God’s people are about to be delivered (see Dan. 3:19-20).",
+      "sectionHeader": "Increased Oppression of the Israelites"
     },
     {
       "pk": 2005007,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "Then the Israelite overseers came and cried out to Pharaoh, saying, “Why do you treat your servants this way?”",
       "links": "<a href='/AIV/2/5/14'>Exod. 5:14</a>",
-      "comment": "Their appeal to Pharaoh for mercy is met with indifference, teaching reliance on divine deliverance, not merely worldly powers—a theme emphasized in New Testament teachings (see Luke 18:1-8)."
+      "comment": "Their appeal to Pharaoh for mercy is met with indifference, teaching reliance on divine deliverance, not merely worldly powers—a theme emphasized in New Testament teachings (see Luke 18:1-8).",
+      "sectionHeader": "The Israelites Complain to Pharaoh"
     },
     {
       "pk": 2005016,
@@ -266,7 +269,8 @@
       "verse": 22,
       "text": "Then Moses turned to the LORD and said, “O Lord, why have You brought trouble on this people? Why did You send me?”",
       "links": "<a href='/AIV/2/3/11'>Exod. 3:11</a>; <a href='/AIV/2/4/1'>Exod. 4:1</a>",
-      "comment": "Moses’ honest prayer displays authentic relationship with God. Doubt and struggle in faith are normative, and calling out to God leads to deeper trust—a spiritual principle present in the psalms and the life of Jesus (see Matt. 27:46)."
+      "comment": "Moses’ honest prayer displays authentic relationship with God. Doubt and struggle in faith are normative, and calling out to God leads to deeper trust—a spiritual principle present in the psalms and the life of Jesus (see Matt. 27:46).",
+      "sectionHeader": "Moses’ Plea to the LORD"
     },
     {
       "pk": 2005023,
@@ -281,5 +285,27 @@
       "comment": "Moses voices frustration at seemingly unanswered prayer. This developmental faith journey highlights perseverance. Deliverance often follows periods of intensified suffering, foreshadowing the pattern of death and resurrection in the Christian mystery."
     }
   ],
-  "translatedAt": "2025-12-24T00:49:20.990Z"
+  "translatedAt": "2025-12-24T00:49:20.990Z",
+  "sections": [
+    {
+      "title": "Moses and Aaron Before Pharaoh",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Increased Oppression of the Israelites",
+      "startVerse": 6,
+      "endVerse": 14
+    },
+    {
+      "title": "The Israelites Complain to Pharaoh",
+      "startVerse": 15,
+      "endVerse": 21
+    },
+    {
+      "title": "Moses’ Plea to the LORD",
+      "startVerse": 22,
+      "endVerse": 23
+    }
+  ]
 }

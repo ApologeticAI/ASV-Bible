@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "I love you, Lord, my strength.",
       "links": "<a href='/AIV/19/116/1'>Ps. 116:1</a>; <a href='/AIV/19/73/26'>Ps. 73:26</a>",
-      "comment": "David opens by expressing personal devotion and dependence on the Lord as his strength. This sets a relational tone for the psalm, anticipating later spiritual themes of grace and reliance on God."
+      "comment": "David opens by expressing personal devotion and dependence on the Lord as his strength. This sets a relational tone for the psalm, anticipating later spiritual themes of grace and reliance on God.",
+      "sectionHeader": "David’s Song of Deliverance"
     },
     {
       "pk": 23018002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "The cords of death surrounded me; torrents of destruction frightened me.",
       "links": "<a href='/AIV/19/116/3'>Ps. 116:3</a>; <a href='/AIV/19/40/2'>Ps. 40:2</a>",
-      "comment": "Describes mortal peril—foreshadows Christ’s descent into death and the agony of Gethsemane. Signals spiritual dangers requiring divine rescue."
+      "comment": "Describes mortal peril—foreshadows Christ’s descent into death and the agony of Gethsemane. Signals spiritual dangers requiring divine rescue.",
+      "sectionHeader": "The Lord’s Rescue in Distress"
     },
     {
       "pk": 23018005,
@@ -242,7 +244,8 @@
       "verse": 20,
       "text": "The Lord rewarded me for my righteousness; according to the cleanness of my hands he repaid me.",
       "links": "<a href='/AIV/19/24/4'>Ps. 24:4</a>; <a href='/AIV/19/7/8'>Ps. 7:8</a>",
-      "comment": "Emphasizes the connection between virtue and blessing—mirrored in the call to holiness and living faith."
+      "comment": "Emphasizes the connection between virtue and blessing—mirrored in the call to holiness and living faith.",
+      "sectionHeader": "God’s Reward for Righteousness"
     },
     {
       "pk": 23018021,
@@ -350,7 +353,8 @@
       "verse": 29,
       "text": "For by you I advance against a troop, and by my God I leap over a wall.",
       "links": "<a href='/AIV/10/22/30'>2 Sam. 22:30</a>",
-      "comment": "God empowers for victories both physical and spiritual, reflecting the theme of divine aid in life’s battles."
+      "comment": "God empowers for victories both physical and spiritual, reflecting the theme of divine aid in life’s battles.",
+      "sectionHeader": "God’s Empowerment for Victory"
     },
     {
       "pk": 23018030,
@@ -554,7 +558,8 @@
       "verse": 46,
       "text": "The Lord lives! Blessed be my rock! Exalted be the God of my salvation!",
       "links": "<a href='/AIV/19/28/6'>Ps. 28:6</a>; <a href='/AIV/19/89/26'>Ps. 89:26</a>",
-      "comment": "Affirmation of God’s active, living presence—central for authentic worship and spiritual vitality."
+      "comment": "Affirmation of God’s active, living presence—central for authentic worship and spiritual vitality.",
+      "sectionHeader": "Praise for God’s Salvation"
     },
     {
       "pk": 23018047,
@@ -605,5 +610,32 @@
       "comment": "'Steadfast love' and 'forever' point to the eternal covenant and Messianic fulfillment, culminating in Jesus, the descendant of David. The perpetual nature of this promise anticipates the enduring visible communion of the people of God."
     }
   ],
-  "translatedAt": "2025-12-24T06:04:33.461Z"
+  "translatedAt": "2025-12-24T06:04:33.461Z",
+  "sections": [
+    {
+      "title": "David’s Song of Deliverance",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "The Lord’s Rescue in Distress",
+      "startVerse": 4,
+      "endVerse": 19
+    },
+    {
+      "title": "God’s Reward for Righteousness",
+      "startVerse": 20,
+      "endVerse": 28
+    },
+    {
+      "title": "God’s Empowerment for Victory",
+      "startVerse": 29,
+      "endVerse": 45
+    },
+    {
+      "title": "Praise for God’s Salvation",
+      "startVerse": 46,
+      "endVerse": 50
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Paul and Timothy, servants of Christ Jesus, to all the holy ones in Christ Jesus who are in Philippi, together with the overseers and deacons:",
       "links": "<a href='/AIV/44/20/17-28'>Acts 20:17,28</a>; <a href='/AIV/49/4/11-12'>Eph 4:11-12</a>",
-      "comment": "Paul addresses the believers at Philippi, including the church's overseers (bishops) and deacons, highlighting a structured apostolic leadership. The inclusion of 'holy ones' (saints) reminds us of the universal calling to holiness."
+      "comment": "Paul addresses the believers at Philippi, including the church's overseers (bishops) and deacons, highlighting a structured apostolic leadership. The inclusion of 'holy ones' (saints) reminds us of the universal calling to holiness.",
+      "sectionHeader": "Greeting"
     },
     {
       "pk": 57001002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "I thank my God every time I remember you,",
       "links": "<a href='/AIV/52/1/2'>1 Thess 1:2</a>; <a href='/AIV/51/1/3'>Col 1:3</a>",
-      "comment": "Paul's regular thanksgiving in prayer expresses his pastoral love, highlighting the importance of community and intercession."
+      "comment": "Paul's regular thanksgiving in prayer expresses his pastoral love, highlighting the importance of community and intercession.",
+      "sectionHeader": "Thanksgiving and Prayer"
     },
     {
       "pk": 57001004,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "Now, I want you to know, brothers, that what has happened to me has actually served to advance the gospel.",
       "links": "<a href='/AIV/44/28/30-31'>Acts 28:30-31</a>",
-      "comment": "Paul’s imprisonment became an occasion to spread the message further. This demonstrates how adversity is often used by God for greater purposes (see <a href='/AIV/45/8/28'>Rom 8:28</a>)."
+      "comment": "Paul’s imprisonment became an occasion to spread the message further. This demonstrates how adversity is often used by God for greater purposes (see <a href='/AIV/45/8/28'>Rom 8:28</a>).",
+      "sectionHeader": "Paul's Imprisonment Advances the Gospel"
     },
     {
       "pk": 57001013,
@@ -230,7 +233,8 @@
       "verse": 19,
       "text": "for I know that through your prayers and the help of the Spirit of Jesus Christ, this will turn out for my deliverance.",
       "links": "<a href='/AIV/45/8/26-27'>Rom 8:26-27</a>; <a href='/AIV/18/13/16'>Job 13:16</a>",
-      "comment": "Community prayer and the Spirit’s aid secure Paul’s hope in deliverance. Echoes of Job 13:16 about vindication—indicates the importance of intercession and a living, active Spirit."
+      "comment": "Community prayer and the Spirit’s aid secure Paul’s hope in deliverance. Echoes of Job 13:16 about vindication—indicates the importance of intercession and a living, active Spirit.",
+      "sectionHeader": "To Live is Christ"
     },
     {
       "pk": 57001020,
@@ -326,7 +330,8 @@
       "verse": 27,
       "text": "Only let your manner of life be worthy of the gospel of Christ, so that whether I come and see you or am absent, I may hear about you that you stand firm in one spirit, with one mind striving side by side for the faith of the gospel,",
       "links": "<a href='/AIV/49/4/1-3'>Eph 4:1-3</a>",
-      "comment": "Unity and fidelity to the gospel are both marks of true faith. Paul stresses living in the Spirit and striving together, mirroring a visible, united church body."
+      "comment": "Unity and fidelity to the gospel are both marks of true faith. Paul stresses living in the Spirit and striving together, mirroring a visible, united church body.",
+      "sectionHeader": "Exhortation to Live Worthy of the Gospel"
     },
     {
       "pk": 57001028,
@@ -365,5 +370,32 @@
       "comment": "Paul calls the believers to perseverance, referencing his own ongoing trials. Their shared suffering reinforces apostolic solidarity and the promise of Christ’s sustaining presence."
     }
   ],
-  "translatedAt": "2025-12-24T12:04:14.265Z"
+  "translatedAt": "2025-12-24T12:04:14.265Z",
+  "sections": [
+    {
+      "title": "Greeting",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "Thanksgiving and Prayer",
+      "startVerse": 3,
+      "endVerse": 11
+    },
+    {
+      "title": "Paul's Imprisonment Advances the Gospel",
+      "startVerse": 12,
+      "endVerse": 18
+    },
+    {
+      "title": "To Live is Christ",
+      "startVerse": 19,
+      "endVerse": 26
+    },
+    {
+      "title": "Exhortation to Live Worthy of the Gospel",
+      "startVerse": 27,
+      "endVerse": 30
+    }
+  ]
 }

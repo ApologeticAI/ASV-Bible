@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "You shall make the altar of acacia wood, five cubits long and five cubits wide. The altar shall be square, and its height shall be three cubits.",
       "links": "<a href='/AIV/2/38/1'>Exod. 38:1</a>; <a href='/AIV/3/1/5'>Lev. 1:5</a>",
-      "comment": "The altar’s size and material reflect its importance and durability for continual sacrifice, foreshadowing future altars used in worship. The square design underscores symmetry and completeness, themes frequently seen in biblical symbols (see Rev. 21:16)."
+      "comment": "The altar’s size and material reflect its importance and durability for continual sacrifice, foreshadowing future altars used in worship. The square design underscores symmetry and completeness, themes frequently seen in biblical symbols (see Rev. 21:16).",
+      "sectionHeader": "The Altar of Burnt Offering"
     },
     {
       "pk": 2027002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "You shall make the courtyard of the tabernacle. On the south side, there shall be hangings for the court of fine linen, one hundred cubits long for one side.",
       "links": "<a href='/AIV/2/38/9'>Exod. 38:9</a>; <a href='/AIV/19/104/2'>Ps. 104:2</a>",
-      "comment": "The courtyard’s linen hangings represent purity and separation for holy service. The enclosure hints at sanctified places and gatherings set apart to worship God, prefiguring ongoing practices in Christian worship."
+      "comment": "The courtyard’s linen hangings represent purity and separation for holy service. The enclosure hints at sanctified places and gatherings set apart to worship God, prefiguring ongoing practices in Christian worship.",
+      "sectionHeader": "The Court of the Tabernacle"
     },
     {
       "pk": 2027010,
@@ -242,7 +244,8 @@
       "verse": 20,
       "text": "You shall command the Israelites to bring pure beaten olive oil for the light, to keep the lamp burning regularly.",
       "links": "<a href='/AIV/3/24/2-4'>Lev. 24:2-4</a>; <a href='/AIV/19/119/105'>Ps. 119:105</a>",
-      "comment": "Olive oil for the light symbolizes the Spirit’s presence and illumination. The perpetual flame points to continual prayer and worship, a theme later fulfilled in Christian liturgy and the command to pray without ceasing (see 1 Thess. 5:17)."
+      "comment": "Olive oil for the light symbolizes the Spirit’s presence and illumination. The perpetual flame points to continual prayer and worship, a theme later fulfilled in Christian liturgy and the command to pray without ceasing (see 1 Thess. 5:17).",
+      "sectionHeader": "The Oil for the Lamp"
     },
     {
       "pk": 2027021,
@@ -257,5 +260,22 @@
       "comment": "Priestly service is perpetual, showing succession and continuity. The unending watch over the lamp presages the ongoing ministry passed down through appointed leaders, ensuring the light of faith never ceases in the community (see Matt. 5:14-16)."
     }
   ],
-  "translatedAt": "2025-12-24T01:01:15.958Z"
+  "translatedAt": "2025-12-24T01:01:15.958Z",
+  "sections": [
+    {
+      "title": "The Altar of Burnt Offering",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "The Court of the Tabernacle",
+      "startVerse": 9,
+      "endVerse": 19
+    },
+    {
+      "title": "The Oil for the Lamp",
+      "startVerse": 20,
+      "endVerse": 21
+    }
+  ]
 }

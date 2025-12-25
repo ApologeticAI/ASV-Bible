@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "There was a long war between the house of Saul and the house of David. David grew stronger and stronger, but the house of Saul became weaker and weaker.",
       "links": "<a href='/AIV/9/31/1-7'>1 Sam. 31:1-7</a>; <a href='/AIV/10/5/2'>2 Sam. 5:2</a>",
-      "comment": "This verse summarizes the shift of power from Saul to David, indicating divine favor toward David. The theme of God strengthening David foreshadows the Messianic kingship established later (see <a href='/AIV/19/89/19-20'>Ps. 89:19-20</a>)."
+      "comment": "This verse summarizes the shift of power from Saul to David, indicating divine favor toward David. The theme of God strengthening David foreshadows the Messianic kingship established later (see <a href='/AIV/19/89/19-20'>Ps. 89:19-20</a>).",
+      "sectionHeader": "The House of David Grows Stronger"
     },
     {
       "pk": 10003002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "While there was war between the house of Saul and the house of David, Abner was strengthening his position in the house of Saul.",
       "links": "<a href='/AIV/10/2/8'>2 Sam. 2:8</a>",
-      "comment": "Abner, Saul’s military leader, seeks power for himself. The struggle between political figures mirrors the need for divinely appointed authority."
+      "comment": "Abner, Saul’s military leader, seeks power for himself. The struggle between political figures mirrors the need for divinely appointed authority.",
+      "sectionHeader": "Abner Defects to David"
     },
     {
       "pk": 10003007,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "David said, 'Good; I will make a covenant with you. But one thing I require: you shall not see my face unless you first bring Michal, Saul’s daughter, when you come to see me.'",
       "links": "<a href='/AIV/9/18/27'>1 Sam. 18:27</a>; <a href='/AIV/10/6/16'>2 Sam. 6:16</a>",
-      "comment": "Michal’s return is a requirement for the covenant. David’s insistence on legitimacy associates royal succession with rightful marriage."
+      "comment": "Michal’s return is a requirement for the covenant. David’s insistence on legitimacy associates royal succession with rightful marriage.",
+      "sectionHeader": "David Demands Michal"
     },
     {
       "pk": 10003014,
@@ -266,7 +269,8 @@
       "verse": 22,
       "text": "Just then, David’s servants and Joab came from a raid, bringing much spoil with them. But Abner was no longer with David at Hebron, for he had sent him away in peace.",
       "links": "<a href='/AIV/10/2/13'>2 Sam. 2:13</a>",
-      "comment": "The peaceful departure of Abner contrasts with future conflict. The accumulation of spoil shows God’s provision for his chosen king."
+      "comment": "The peaceful departure of Abner contrasts with future conflict. The accumulation of spoil shows God’s provision for his chosen king.",
+      "sectionHeader": "The Murder of Abner"
     },
     {
       "pk": 10003023,
@@ -374,7 +378,8 @@
       "verse": 31,
       "text": "David said to Joab and all the people with him, 'Tear your clothes, put on sackcloth, and mourn before Abner.' King David himself walked behind the coffin.",
       "links": "<a href='/AIV/10/1/11-12'>2 Sam. 1:11-12</a>",
-      "comment": "Public mourning for Abner by David distinguishes his righteous rule from Joab’s violence. Ritual mourning reflects a community response to injustice."
+      "comment": "Public mourning for Abner by David distinguishes his righteous rule from Joab’s violence. Ritual mourning reflects a community response to injustice.",
+      "sectionHeader": "David Mourns for Abner"
     },
     {
       "pk": 10003032,
@@ -473,5 +478,32 @@
       "comment": "David admits his human weakness despite divine anointing, relying on God for justice. The theme of anointed but suffering leader foreshadows Christ’s suffering and trust in the Father."
     }
   ],
-  "translatedAt": "2025-12-24T03:10:07.564Z"
+  "translatedAt": "2025-12-24T03:10:07.564Z",
+  "sections": [
+    {
+      "title": "The House of David Grows Stronger",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Abner Defects to David",
+      "startVerse": 6,
+      "endVerse": 12
+    },
+    {
+      "title": "David Demands Michal",
+      "startVerse": 13,
+      "endVerse": 21
+    },
+    {
+      "title": "The Murder of Abner",
+      "startVerse": 22,
+      "endVerse": 30
+    },
+    {
+      "title": "David Mourns for Abner",
+      "startVerse": 31,
+      "endVerse": 39
+    }
+  ]
 }

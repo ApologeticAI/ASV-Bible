@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "While Apollos was at Corinth, Paul traveled through the inland regions and came to Ephesus. There he found some disciples.",
       "links": "<a href='/AIV/51/18/24'>Acts 18:24</a>; <a href='/AIV/51/18/19'>Acts 18:19</a>",
-      "comment": "Paul continues his missionary work, visiting Ephesus where he had left Priscilla and Aquila. The mention of 'disciples' shows the growing Christian community in the city, reflecting apostolic foundation."
+      "comment": "Paul continues his missionary work, visiting Ephesus where he had left Priscilla and Aquila. The mention of 'disciples' shows the growing Christian community in the city, reflecting apostolic foundation.",
+      "sectionHeader": "Paul Baptizes Disciples at Ephesus"
     },
     {
       "pk": 51019002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Paul entered the synagogue and spoke boldly there for three months, arguing and persuading about the kingdom of God.",
       "links": "<a href='/AIV/51/13/5'>Acts 13:5</a>; <a href='/AIV/42/4/43'>Luke 4:43</a>",
-      "comment": "Paul’s teaching reflects the continuity of salvation history from Old to New Testament, demonstrating the kingdom’s unfolding through Christ. His boldness signifies missionary zeal and apostolic leadership."
+      "comment": "Paul’s teaching reflects the continuity of salvation history from Old to New Testament, demonstrating the kingdom’s unfolding through Christ. His boldness signifies missionary zeal and apostolic leadership.",
+      "sectionHeader": "Paul’s Ministry and Miracles in Ephesus"
     },
     {
       "pk": 51019009,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "Then some itinerant Jewish exorcists tried to invoke the name of the Lord Jesus over those with evil spirits, saying, 'I adjure you by Jesus whom Paul proclaims.'",
       "links": "<a href='/AIV/41/9/38'>Mark 9:38</a>; <a href='/AIV/44/3/16'>Acts 3:16</a>",
-      "comment": "Their invocation of Jesus’ name without faith or authority highlights the difference between genuine apostolic ministry and mere use of sacred words."
+      "comment": "Their invocation of Jesus’ name without faith or authority highlights the difference between genuine apostolic ministry and mere use of sacred words.",
+      "sectionHeader": "The Sons of Sceva and the Burning of Magic Books"
     },
     {
       "pk": 51019014,
@@ -254,7 +257,8 @@
       "verse": 21,
       "text": "After these events, Paul resolved in the Spirit to pass through Macedonia and Achaia, and go to Jerusalem, saying, 'After I have been there, I must also see Rome.'",
       "links": "<a href='/AIV/51/20/1-16'>Acts 20:1-16</a>; <a href='/AIV/45/1/11-15'>Rom. 1:11-15</a>",
-      "comment": "Paul’s journey is guided by the Spirit, showing the divine plan directing apostolic mission. His intent to go to Jerusalem and Rome links the Gospel to key centers of faith and authority."
+      "comment": "Paul’s journey is guided by the Spirit, showing the divine plan directing apostolic mission. His intent to go to Jerusalem and Rome links the Gospel to key centers of faith and authority.",
+      "sectionHeader": "Paul Plans to Travel; The Riot at Ephesus"
     },
     {
       "pk": 51019022,
@@ -497,5 +501,27 @@
       "comment": "Order is restored, and Paul prepares for further mission. The episode demonstrates the resilience of the Church amid persecution and civic unrest, and the quiet triumph of truth supported by God’s providence."
     }
   ],
-  "translatedAt": "2025-12-24T11:29:39.069Z"
+  "translatedAt": "2025-12-24T11:29:39.069Z",
+  "sections": [
+    {
+      "title": "Paul Baptizes Disciples at Ephesus",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Paul’s Ministry and Miracles in Ephesus",
+      "startVerse": 8,
+      "endVerse": 12
+    },
+    {
+      "title": "The Sons of Sceva and the Burning of Magic Books",
+      "startVerse": 13,
+      "endVerse": 20
+    },
+    {
+      "title": "Paul Plans to Travel; The Riot at Ephesus",
+      "startVerse": 21,
+      "endVerse": 41
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Whoever fears the Lord will do what is right, and those who are devoted to Him will find favor.",
       "links": "<a href='/AIV/19/34/9'>Psalm 34:9</a>; <a href='/AIV/20/1/7'>Proverbs 1:7</a>",
-      "comment": "The connection between fearing God and living righteously is foundational in the wisdom literature. It echoes the call throughout Scripture to seek God wholeheartedly (see Proverbs 9:10)."
+      "comment": "The connection between fearing God and living righteously is foundational in the wisdom literature. It echoes the call throughout Scripture to seek God wholeheartedly (see Proverbs 9:10).",
+      "sectionHeader": "The Rewards of Wisdom"
     },
     {
       "pk": 28015002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "Do not say, \"It was the Lord who made me stray,\" for He does not do what He hates.",
       "links": "<a href='/AIV/59/1/13'>James 1:13</a>; <a href='/AIV/05/30/15-19'>Deuteronomy 30:15-19</a>",
-      "comment": "Affirming God's holiness and human freedom, this echoes James 1:13. God cannot be blamed for sin; He only wills the good."
+      "comment": "Affirming God's holiness and human freedom, this echoes James 1:13. God cannot be blamed for sin; He only wills the good.",
+      "sectionHeader": "Human Freedom and Responsibility"
     },
     {
       "pk": 28015012,
@@ -245,5 +247,17 @@
       "comment": "Concludes the chapter’s reflection on free will: God is not the author of evil. This clarifies that human choice is real and morally significant, consistent with the larger biblical narrative stressing the need for grace, repentance, and faithfulness to God’s commands."
     }
   ],
-  "translatedAt": "2025-12-24T07:30:55.281Z"
+  "translatedAt": "2025-12-24T07:30:55.281Z",
+  "sections": [
+    {
+      "title": "The Rewards of Wisdom",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "Human Freedom and Responsibility",
+      "startVerse": 11,
+      "endVerse": 20
+    }
+  ]
 }

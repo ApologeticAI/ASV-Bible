@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "This is what the LORD said to me: 'Go and buy yourself a linen sash and put it around your waist, but do not dip it in water.'",
       "links": "<a href='/AIV/3/16/4'>Lev. 16:4</a>; <a href='/AIV/24/19/1'>Jer. 19:1</a>",
-      "comment": "A linen sash was a symbolic piece of clothing, often signifying purity (Lev. 16:4). The command not to wash it underlines the symbolic message about the people of Israel's spiritual state."
+      "comment": "A linen sash was a symbolic piece of clothing, often signifying purity (Lev. 16:4). The command not to wash it underlines the symbolic message about the people of Israel's spiritual state.",
+      "sectionHeader": "The Sign of the Linen Sash"
     },
     {
       "pk": 30013002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "You are to speak this word to them: 'This is what the LORD, the God of Israel, says: Every wineskin shall be filled with wine.' And when they say to you, ‘Don’t we already know every wineskin shall be filled with wine?’",
       "links": "<a href='/AIV/28/9/1'>Hos. 9:1</a>; <a href='/AIV/40/9/17'>Matt. 9:17</a>",
-      "comment": "Wineskins filled with wine are an image of abundance, but also, in this context, of coming judgment and intoxication resulting in destruction (see Hos. 9:1). Jesus reuses the wineskin image for spiritual renewal (Matt. 9:17)."
+      "comment": "Wineskins filled with wine are an image of abundance, but also, in this context, of coming judgment and intoxication resulting in destruction (see Hos. 9:1). Jesus reuses the wineskin image for spiritual renewal (Matt. 9:17).",
+      "sectionHeader": "The Parable of the Wine Jars"
     },
     {
       "pk": 30013013,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "Hear and pay attention! Do not be arrogant, for the LORD has spoken.",
       "links": "<a href='/AIV/24/44/16'>Jer. 44:16</a>",
-      "comment": "A recurring prophetic call to humility and repentance. See also Jas. 4:6—'God opposes the proud, but gives grace to the humble.'"
+      "comment": "A recurring prophetic call to humility and repentance. See also Jas. 4:6—'God opposes the proud, but gives grace to the humble.'",
+      "sectionHeader": "A Call to Repentance and Lament for Jerusalem"
     },
     {
       "pk": 30013016,
@@ -329,5 +332,22 @@
       "comment": "Spiritual adultery is a metaphor for idolatry and infidelity to God’s covenant. Notice the closing plea for cleansing—preparing the way for forgiveness and a restored people, themes central to the church’s teaching on reconciliation and the enduring call to unity."
     }
   ],
-  "translatedAt": "2025-12-24T08:28:39.558Z"
+  "translatedAt": "2025-12-24T08:28:39.558Z",
+  "sections": [
+    {
+      "title": "The Sign of the Linen Sash",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "The Parable of the Wine Jars",
+      "startVerse": 12,
+      "endVerse": 14
+    },
+    {
+      "title": "A Call to Repentance and Lament for Jerusalem",
+      "startVerse": 15,
+      "endVerse": 27
+    }
+  ]
 }

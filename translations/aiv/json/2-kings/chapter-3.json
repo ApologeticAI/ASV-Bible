@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Joram son of Ahab became king over Israel in Samaria in the eighteenth year of Jehoshaphat king of Judah, and he reigned twelve years.",
       "links": "<a href='/AIV/11/1/17'>1 Kings 1:17</a>; <a href='/AIV/12/1/17'>2 Kings 1:17</a>",
-      "comment": "Joram, also called Jehoram, becomes king of Israel during the reign of Jehoshaphat in Judah. This overlap shows the division of the kingdoms but also their interwoven history, setting the stage for later unity through the line of David (cf. <a href='/AIV/40/1/1-16'>Matt 1:1-16</a>)."
+      "comment": "Joram, also called Jehoram, becomes king of Israel during the reign of Jehoshaphat in Judah. This overlap shows the division of the kingdoms but also their interwoven history, setting the stage for later unity through the line of David (cf. <a href='/AIV/40/1/1-16'>Matt 1:1-16</a>).",
+      "sectionHeader": "The Reign of Joram of Israel"
     },
     {
       "pk": 12003002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "Now Mesha king of Moab was a sheep breeder. He regularly paid the king of Israel one hundred thousand lambs, and the wool of one hundred thousand rams.",
       "links": "<a href='/AIV/23/16/1'>Isa 16:1</a>",
-      "comment": "Mesha's tribute indicates Israel's dominance over Moab. These tributes also foreshadow the sacrifices and offerings required under the covenant, which find fulfillment in the perfect Lamb offered once for all (<a href='/AIV/43/1/29'>John 1:29</a>)."
+      "comment": "Mesha's tribute indicates Israel's dominance over Moab. These tributes also foreshadow the sacrifices and offerings required under the covenant, which find fulfillment in the perfect Lamb offered once for all (<a href='/AIV/43/1/29'>John 1:29</a>).",
+      "sectionHeader": "The Moabite Rebellion"
     },
     {
       "pk": 12003005,
@@ -74,7 +76,8 @@
       "verse": 6,
       "text": "So King Joram marched out from Samaria at that time and mustered all Israel.",
       "links": "<a href='/AIV/11/20/27'>1 Kings 20:27</a>",
-      "comment": "Joram’s rally of Israel for battle is a common motif, highlighting the need for unity in the face of threat. True unity is later fully realized only in the assembly of all believers under the new covenant."
+      "comment": "Joram’s rally of Israel for battle is a common motif, highlighting the need for unity in the face of threat. True unity is later fully realized only in the assembly of all believers under the new covenant.",
+      "sectionHeader": "Alliance Against Moab"
     },
     {
       "pk": 12003007,
@@ -134,7 +137,8 @@
       "verse": 11,
       "text": "But Jehoshaphat said, 'Is there no prophet of the LORD here, through whom we may inquire of the LORD?' Then one of the king of Israel’s servants answered, 'Elisha the son of Shaphat is here, who poured water on the hands of Elijah.'",
       "links": "<a href='/AIV/12/2/9'>2 Kings 2:9</a>; <a href='/AIV/11/19/16'>1 Kings 19:16</a>",
-      "comment": "Jehoshaphat seeks a true prophet, emphasizing God’s guidance is provided through appointed mediators. Elisha, Elijah’s successor, demonstrates apostolic succession—a principle later developed fully in the unity, authority, and teaching office of the Church (cf. <a href='/AIV/40/16/18-19'>Matthew 16:18–19</a>)."
+      "comment": "Jehoshaphat seeks a true prophet, emphasizing God’s guidance is provided through appointed mediators. Elisha, Elijah’s successor, demonstrates apostolic succession—a principle later developed fully in the unity, authority, and teaching office of the Church (cf. <a href='/AIV/40/16/18-19'>Matthew 16:18–19</a>).",
+      "sectionHeader": "Elisha’s Prophecy of Victory"
     },
     {
       "pk": 12003012,
@@ -242,7 +246,8 @@
       "verse": 20,
       "text": "The next morning, about the time for offering the sacrifice, water came from the direction of Edom, and the country was filled with water.",
       "links": "<a href='/AIV/02/29/38-39'>Exodus 29:38–39</a>; <a href='/AIV/12/3/17'>2 Kings 3:17</a>",
-      "comment": "The timing of God’s provision with the morning sacrifice foreshadows the liturgical principle that grace often accompanies acts of worship and sacrificial offering. The power of corporate prayer and liturgical action is emphasized here."
+      "comment": "The timing of God’s provision with the morning sacrifice foreshadows the liturgical principle that grace often accompanies acts of worship and sacrificial offering. The power of corporate prayer and liturgical action is emphasized here.",
+      "sectionHeader": "The Defeat of Moab"
     },
     {
       "pk": 12003021,
@@ -329,5 +334,32 @@
       "comment": "The horrific sacrifice by the king of Moab results in a mysterious wrath against Israel. Human sacrifices are condemned in the law (<a href='/AIV/03/18/21'>Leviticus 18:21</a>), yet this event warns of the grave consequences of idolatry and false worship, contrasting with the one perfect and unbloody sacrifice that brings reconciliation and peace. The withdrawal of Israel foreshadows how incomplete obedience or imperfect fidelity leads to setbacks in spiritual battle. Spiritually, it points to the necessity of true worship and reliance on God's means for grace."
     }
   ],
-  "translatedAt": "2025-12-24T03:43:58.785Z"
+  "translatedAt": "2025-12-24T03:43:58.785Z",
+  "sections": [
+    {
+      "title": "The Reign of Joram of Israel",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "The Moabite Rebellion",
+      "startVerse": 4,
+      "endVerse": 5
+    },
+    {
+      "title": "Alliance Against Moab",
+      "startVerse": 6,
+      "endVerse": 10
+    },
+    {
+      "title": "Elisha’s Prophecy of Victory",
+      "startVerse": 11,
+      "endVerse": 19
+    },
+    {
+      "title": "The Defeat of Moab",
+      "startVerse": 20,
+      "endVerse": 27
+    }
+  ]
 }

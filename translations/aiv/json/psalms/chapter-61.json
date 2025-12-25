@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Hear my cry, O God; listen to my prayer.",
       "links": "<a href='/AIV/19/4/1'>Ps. 4:1</a>; <a href='/AIV/19/55/1'>Ps. 55:1</a>",
-      "comment": "The psalmist immediately appeals to God with urgency and trust, showing a deep familiarity and intimacy with prayer. This sets the tone for the entire psalm: a model for believers to bring their deepest needs to the Lord in faith, knowing He hears and cares."
+      "comment": "The psalmist immediately appeals to God with urgency and trust, showing a deep familiarity and intimacy with prayer. This sets the tone for the entire psalm: a model for believers to bring their deepest needs to the Lord in faith, knowing He hears and cares.",
+      "sectionHeader": "Prayer for Protection and Refuge"
     },
     {
       "pk": 23061002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "Add days to the king's life; may his years continue through all generations.",
       "links": "<a href='/AIV/19/21/4'>Ps. 21:4</a>; <a href='/AIV/10/7/16'>2 Sam. 7:16</a>; <a href='/AIV/19/72/17'>Ps. 72:17</a>",
-      "comment": "Petition for the king's long life echoes God's promise of an everlasting dynasty to David (2 Sam. 7:16). Spiritually, this points to the Messianic king—fulfilled in Christ whose reign is eternal and whose kingdom persists through the ages."
+      "comment": "Petition for the king's long life echoes God's promise of an everlasting dynasty to David (2 Sam. 7:16). Spiritually, this points to the Messianic king—fulfilled in Christ whose reign is eternal and whose kingdom persists through the ages.",
+      "sectionHeader": "Intercession for the King"
     },
     {
       "pk": 23061007,
@@ -101,5 +103,17 @@
       "comment": "The psalm concludes with a response of worship—continual praise and faithfulness in keeping vows. This devotion models the life of ongoing thanksgiving, much like the outpouring of praise seen in the assembly of believers throughout history."
     }
   ],
-  "translatedAt": "2025-12-24T06:19:44.295Z"
+  "translatedAt": "2025-12-24T06:19:44.295Z",
+  "sections": [
+    {
+      "title": "Prayer for Protection and Refuge",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Intercession for the King",
+      "startVerse": 6,
+      "endVerse": 8
+    }
+  ]
 }

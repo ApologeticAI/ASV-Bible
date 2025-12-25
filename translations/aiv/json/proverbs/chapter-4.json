@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Children, listen to a father’s instruction; pay attention and gain understanding.",
       "links": "<a href='/AIV/20/1/8'>Prov. 1:8</a>; <a href='/AIV/20/2/1'>Prov. 2:1</a>",
-      "comment": "The language emphasizes the importance of family and instruction from a spiritual authority. This sets up the theme for the chapter—wisdom passed from one generation to the next, a key pattern for faith continuity (see also Deut. 6:6-9)."
+      "comment": "The language emphasizes the importance of family and instruction from a spiritual authority. This sets up the theme for the chapter—wisdom passed from one generation to the next, a key pattern for faith continuity (see also Deut. 6:6-9).",
+      "sectionHeader": "A Father’s Instruction on Wisdom"
     },
     {
       "pk": 24004002,
@@ -170,7 +171,8 @@
       "verse": 14,
       "text": "Do not enter the path of the wicked, and do not walk in the way of evil people.",
       "links": "<a href='/AIV/20/1/15'>Prov. 1:15</a>; <a href='/AIV/19/1/1'>Ps. 1:1</a>",
-      "comment": "Separation from evil is a fundamental command—compare the call in Psalm 1 to avoid the counsel of the wicked."
+      "comment": "Separation from evil is a fundamental command—compare the call in Psalm 1 to avoid the counsel of the wicked.",
+      "sectionHeader": "The Two Paths: Wisdom and Wickedness"
     },
     {
       "pk": 24004015,
@@ -242,7 +244,8 @@
       "verse": 20,
       "text": "My son, be attentive to my words; incline your ear to my sayings.",
       "links": "<a href='/AIV/20/5/1'>Prov. 5:1</a>; <a href='/AIV/20/22/17'>Prov. 22:17</a>",
-      "comment": "The persistent call to listen closely reveals the importance of hearing and keeping tradition, much like the idea of handing down the faith (2 Tim. 2:2)."
+      "comment": "The persistent call to listen closely reveals the importance of hearing and keeping tradition, much like the idea of handing down the faith (2 Tim. 2:2).",
+      "sectionHeader": "Guard Your Heart and Life"
     },
     {
       "pk": 24004021,
@@ -329,5 +332,22 @@
       "comment": "Faithfulness and constancy in the moral path are called for; there is value in remaining on the straight and narrow way, which is ultimately fulfilled in following Christ, the Way, the Truth, and the Life (John 14:6)."
     }
   ],
-  "translatedAt": "2025-12-24T06:52:25.690Z"
+  "translatedAt": "2025-12-24T06:52:25.690Z",
+  "sections": [
+    {
+      "title": "A Father’s Instruction on Wisdom",
+      "startVerse": 1,
+      "endVerse": 13
+    },
+    {
+      "title": "The Two Paths: Wisdom and Wickedness",
+      "startVerse": 14,
+      "endVerse": 19
+    },
+    {
+      "title": "Guard Your Heart and Life",
+      "startVerse": 20,
+      "endVerse": 27
+    }
+  ]
 }

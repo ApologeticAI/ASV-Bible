@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then Eliphaz the Temanite responded and said:",
       "links": "<a href='/AIV/18/2/11'>Job 2:11</a>; <a href='/AIV/18/15/1'>Job 15:1</a>",
-      "comment": "Eliphaz, one of Job’s friends, begins the first of several discourses. His speech sets the stage for debates about suffering and divine justice. Teman was an Edomite region known for wisdom (Jer. 49:7), connecting this to ancient tradition."
+      "comment": "Eliphaz, one of Job’s friends, begins the first of several discourses. His speech sets the stage for debates about suffering and divine justice. Teman was an Edomite region known for wisdom (Jer. 49:7), connecting this to ancient tradition.",
+      "sectionHeader": "The First Speech of Eliphaz: The Righteous Do Not Perish"
     },
     {
       "pk": 22004002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "Now a word was spoken to me in secret, and my ear caught a whisper of it.",
       "links": "<a href='/AIV/18/33/14-17'>Job 33:14-17</a>; <a href='/AIV/19/81/5'>Ps. 81:5</a>",
-      "comment": "Eliphaz claims revelation by mystical hearing, pointing to the tradition that God may speak in private ways. This mysterious disclosure foreshadows prophetic revelation and discernment of spirits."
+      "comment": "Eliphaz claims revelation by mystical hearing, pointing to the tradition that God may speak in private ways. This mysterious disclosure foreshadows prophetic revelation and discernment of spirits.",
+      "sectionHeader": "Eliphaz’s Vision: The Frailty of Mortal Man"
     },
     {
       "pk": 22004013,
@@ -257,5 +259,17 @@
       "comment": "The tent cord represents the fragile thread of life. The verse stresses the importance of seeking true wisdom—a spiritual interpretation calls for persistent seeking of truth, fullness of life, and the pursuit of deep relationship with God."
     }
   ],
-  "translatedAt": "2025-12-24T05:41:00.012Z"
+  "translatedAt": "2025-12-24T05:41:00.012Z",
+  "sections": [
+    {
+      "title": "The First Speech of Eliphaz: The Righteous Do Not Perish",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "Eliphaz’s Vision: The Frailty of Mortal Man",
+      "startVerse": 12,
+      "endVerse": 21
+    }
+  ]
 }

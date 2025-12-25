@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Paul, an apostle of Christ Jesus by the will of God, according to the promise of life that is in Christ Jesus,",
       "links": "<a href='/AIV/45/1/1'>Rom. 1:1</a>; <a href='/AIV/56/1/1'>Titus 1:1</a>; <a href='/AIV/48/1/1'>Gal. 1:1</a>",
-      "comment": "Paul affirms his apostolic authority is by God's will. The 'promise of life in Christ Jesus' points to the core of the Gospel message—eternal life through union with Christ. See also <a href='/AIV/43/5/24'>John 5:24</a> for the promise of eternal life."
+      "comment": "Paul affirms his apostolic authority is by God's will. The 'promise of life in Christ Jesus' points to the core of the Gospel message—eternal life through union with Christ. See also <a href='/AIV/43/5/24'>John 5:24</a> for the promise of eternal life.",
+      "sectionHeader": "Greeting and Thanksgiving"
     },
     {
       "pk": 62001002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "For this reason I remind you to rekindle the gift of God which is in you through the laying on of my hands.",
       "links": "<a href='/AIV/54/4/14'>1 Tim. 4:14</a>; <a href='/AIV/44/6/6'>Acts 6:6</a>; <a href='/AIV/44/8/17'>Acts 8:17</a>",
-      "comment": "Here, the transmission of spiritual gifts through laying on of hands refers to apostolic succession and sacramental ministry—points to an early church practice."
+      "comment": "Here, the transmission of spiritual gifts through laying on of hands refers to apostolic succession and sacramental ministry—points to an early church practice.",
+      "sectionHeader": "Encouragement to Boldness in Ministry"
     },
     {
       "pk": 62001007,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "Hold fast to the pattern of sound words that you heard from me, in the faith and love that are in Christ Jesus.",
       "links": "<a href='/AIV/54/6/20'>1 Tim. 6:20</a>; <a href='/AIV/56/1/9'>Titus 1:9</a>",
-      "comment": "Paul emphasizes maintaining the apostolic teaching as a ‘pattern’. Faith does not change with culture; there is a received deposit of faith carefully guarded."
+      "comment": "Paul emphasizes maintaining the apostolic teaching as a ‘pattern’. Faith does not change with culture; there is a received deposit of faith carefully guarded.",
+      "sectionHeader": "Hold Fast to Sound Teaching"
     },
     {
       "pk": 62001014,
@@ -182,7 +185,8 @@
       "verse": 15,
       "text": "You are aware that all who are in Asia turned away from me, among whom are Phygelus and Hermogenes.",
       "links": "<a href='/AIV/44/19/10'>Acts 19:10</a>",
-      "comment": "Paul’s abandonment reveals human weakness even among early Christians but also highlights the value of perseverance despite setbacks or disappointments."
+      "comment": "Paul’s abandonment reveals human weakness even among early Christians but also highlights the value of perseverance despite setbacks or disappointments.",
+      "sectionHeader": "Paul's Experience of Desertion and Help"
     },
     {
       "pk": 62001016,
@@ -221,5 +225,27 @@
       "comment": "Paul offers an intercessory prayer for Onesiphorus 'on that Day,' expressing hope for mercy at final judgment, and points out the efficacy of prayer for others, including beyond this life."
     }
   ],
-  "translatedAt": "2025-12-24T12:13:26.314Z"
+  "translatedAt": "2025-12-24T12:13:26.314Z",
+  "sections": [
+    {
+      "title": "Greeting and Thanksgiving",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Encouragement to Boldness in Ministry",
+      "startVerse": 6,
+      "endVerse": 12
+    },
+    {
+      "title": "Hold Fast to Sound Teaching",
+      "startVerse": 13,
+      "endVerse": 14
+    },
+    {
+      "title": "Paul's Experience of Desertion and Help",
+      "startVerse": 15,
+      "endVerse": 18
+    }
+  ]
 }

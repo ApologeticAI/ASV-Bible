@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When the LORD was about to take Elijah up to heaven by a whirlwind, Elijah and Elisha were on their way from Gilgal.",
       "links": "<a href='/AIV/01/05/24'>Gen. 5:24</a>; <a href='/AIV/11/19/16'>1 Kgs. 19:16</a>",
-      "comment": "The miraculous departure of Elijah recalls Enoch (Gen. 5:24), showing God's unique work with certain prophets. Elijah's journey foreshadows Christ's Ascension (Lk. 24:51), indicating the continuation of prophetic ministry."
+      "comment": "The miraculous departure of Elijah recalls Enoch (Gen. 5:24), showing God's unique work with certain prophets. Elijah's journey foreshadows Christ's Ascension (Lk. 24:51), indicating the continuation of prophetic ministry.",
+      "sectionHeader": "Elijah Taken Up to Heaven"
     },
     {
       "pk": 12002002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "He picked up the cloak of Elijah that had fallen from him and went back and stood on the bank of the Jordan.",
       "links": "<a href='/AIV/11/19/19'>1 Kgs. 19:19</a>",
-      "comment": "The cloak symbolizes the passing of prophetic office—Elijah’s authority continues visibly in Elisha, much like liturgical symbols mark spiritual realities."
+      "comment": "The cloak symbolizes the passing of prophetic office—Elijah’s authority continues visibly in Elisha, much like liturgical symbols mark spiritual realities.",
+      "sectionHeader": "Elisha Succeeds Elijah"
     },
     {
       "pk": 12002014,
@@ -230,7 +232,8 @@
       "verse": 19,
       "text": "Now the men of the city said to Elisha, 'Behold, the situation of this city is pleasant, as my lord sees, but the water is bad, and the land is unfruitful.'",
       "links": "<a href='/AIV/02/15/22-25'>Ex. 15:22-25</a>",
-      "comment": "This request for healing the water recalls Moses purifying bitter water (Ex. 15:25). It symbolizes the role of God's chosen ones to mediate grace and blessing for the people."
+      "comment": "This request for healing the water recalls Moses purifying bitter water (Ex. 15:25). It symbolizes the role of God's chosen ones to mediate grace and blessing for the people.",
+      "sectionHeader": "Elisha Heals the Waters at Jericho"
     },
     {
       "pk": 12002020,
@@ -278,7 +281,8 @@
       "verse": 23,
       "text": "From there he went up to Bethel. And as he was going up on the way, some small boys came out of the city and mocked him, saying, ‘Go up, you baldhead! Go up, you baldhead!’",
       "links": "<a href='/AIV/03/24/15-16'>Lev. 24:15-16</a>",
-      "comment": "The disrespect shown to God’s prophet is met with swift judgment, illustrating the seriousness of dishonor toward God’s representatives. Such episodes warn that God protects his messengers and their authority."
+      "comment": "The disrespect shown to God’s prophet is met with swift judgment, illustrating the seriousness of dishonor toward God’s representatives. Such episodes warn that God protects his messengers and their authority.",
+      "sectionHeader": "Elisha Mocked at Bethel"
     },
     {
       "pk": 12002024,
@@ -305,5 +309,27 @@
       "comment": "Mount Carmel, the site of Elijah’s triumph, is visited again by Elisha, showing the continuity of God’s mission through his appointed prophets. Samaria is both a mission field and a place of testing, underlining the ongoing call to faithfulness."
     }
   ],
-  "translatedAt": "2025-12-24T03:43:18.377Z"
+  "translatedAt": "2025-12-24T03:43:18.377Z",
+  "sections": [
+    {
+      "title": "Elijah Taken Up to Heaven",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "Elisha Succeeds Elijah",
+      "startVerse": 13,
+      "endVerse": 18
+    },
+    {
+      "title": "Elisha Heals the Waters at Jericho",
+      "startVerse": 19,
+      "endVerse": 22
+    },
+    {
+      "title": "Elisha Mocked at Bethel",
+      "startVerse": 23,
+      "endVerse": 25
+    }
+  ]
 }

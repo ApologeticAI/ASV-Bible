@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Bless the LORD, O my soul; and all that is within me, bless His holy name!",
       "links": "<a href='/AIV/19/104/1'>Ps. 104:1</a>; <a href='/AIV/19/34/1'>Ps. 34:1</a>",
-      "comment": "The Psalmist begins by stirring his own soul to praise God fully and completely. The repetition shows emphasis on wholehearted worship—an act of the total person, both body and soul (cf. Luke 10:27). The language invokes a sense of worship encompassing the inner person, a theme Jesus echoes by calling for worship in spirit and truth (John 4:23)."
+      "comment": "The Psalmist begins by stirring his own soul to praise God fully and completely. The repetition shows emphasis on wholehearted worship—an act of the total person, both body and soul (cf. Luke 10:27). The language invokes a sense of worship encompassing the inner person, a theme Jesus echoes by calling for worship in spirit and truth (John 4:23).",
+      "sectionHeader": "Praise for God's Mercies"
     },
     {
       "pk": 23103002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "The LORD does righteous deeds and judgments for all who are oppressed.",
       "links": "<a href='/AIV/2/3/7-8'>Ex. 3:7-8</a>; <a href='/AIV/19/146/7'>Ps. 146:7</a>",
-      "comment": "God’s justice for the oppressed is both temporal and eschatological—an assurance completed in the coming of Christ, who inaugurates the kingdom where true justice reigns (Luke 4:18-19)."
+      "comment": "God’s justice for the oppressed is both temporal and eschatological—an assurance completed in the coming of Christ, who inaugurates the kingdom where true justice reigns (Luke 4:18-19).",
+      "sectionHeader": "The Compassion of the Lord"
     },
     {
       "pk": 23103007,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "As for man, his days are like grass; he flourishes like a flower of the field;",
       "links": "<a href='/AIV/23/40/6-8'>Isa. 40:6-8</a>; <a href='/AIV/19/90/5-6'>Ps. 90:5-6</a>",
-      "comment": "Our mortality is in contrast to God's faithfulness, reminding us of the need to anchor our hope beyond this life."
+      "comment": "Our mortality is in contrast to God's faithfulness, reminding us of the need to anchor our hope beyond this life.",
+      "sectionHeader": "The Frailty of Man and the Everlasting Love of God"
     },
     {
       "pk": 23103016,
@@ -230,7 +233,8 @@
       "verse": 19,
       "text": "The LORD has established His throne in the heavens, and His kingdom rules over all.",
       "links": "<a href='/AIV/19/11/4'>Ps. 11:4</a>; <a href='/AIV/40/6/10'>Matt. 6:10</a>",
-      "comment": "God’s sovereignty is universal and unchallenged—a reality fully manifested in the coming of Christ’s kingdom and extended through His Church's visible presence on earth."
+      "comment": "God’s sovereignty is universal and unchallenged—a reality fully manifested in the coming of Christ’s kingdom and extended through His Church's visible presence on earth.",
+      "sectionHeader": "God's Universal Dominion and Call to Praise"
     },
     {
       "pk": 23103020,
@@ -269,5 +273,27 @@
       "comment": "The Psalm closes by inviting all creation to praise God—a call echoed in the cosmic worship of the New Testament (Revelation 5:13), revealing the unity and universality of God’s purpose in redemption."
     }
   ],
-  "translatedAt": "2025-12-24T06:35:11.708Z"
+  "translatedAt": "2025-12-24T06:35:11.708Z",
+  "sections": [
+    {
+      "title": "Praise for God's Mercies",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "The Compassion of the Lord",
+      "startVerse": 6,
+      "endVerse": 14
+    },
+    {
+      "title": "The Frailty of Man and the Everlasting Love of God",
+      "startVerse": 15,
+      "endVerse": 18
+    },
+    {
+      "title": "God's Universal Dominion and Call to Praise",
+      "startVerse": 19,
+      "endVerse": 22
+    }
+  ]
 }

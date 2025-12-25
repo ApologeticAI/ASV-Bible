@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then Joshua summoned the Reubenites, the Gadites, and the half-tribe of Manasseh,",
       "links": "<a href='/AIV/4/32/1-2'>Num. 32:1-2</a>; <a href='/AIV/6/1/12-15'>Josh. 1:12-15</a>",
-      "comment": "Here Joshua gathers the tribes who settled east of the Jordan. Their unique role demonstrates the unity and diversity within the people of God."
+      "comment": "Here Joshua gathers the tribes who settled east of the Jordan. Their unique role demonstrates the unity and diversity within the people of God.",
+      "sectionHeader": "The Eastern Tribes Dismissed by Joshua"
     },
     {
       "pk": 6022002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "When they came to the region of the Jordan, which is in the land of Canaan, the sons of Reuben, the sons of Gad, and the half-tribe of Manasseh built there an altar by the Jordan, a great and impressive altar.",
       "links": "<a href='/AIV/5/12/10-14'>Deut. 12:10-14</a>",
-      "comment": "The construction of an altar hints at concerns over proper worship, foreshadowing later divisions about worshiping outside the central sanctuary."
+      "comment": "The construction of an altar hints at concerns over proper worship, foreshadowing later divisions about worshiping outside the central sanctuary.",
+      "sectionHeader": "The Altar Built by the Jordan"
     },
     {
       "pk": 6022011,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "Then the people of Israel sent to the sons of Reuben, the sons of Gad, and the half-tribe of Manasseh, in the land of Gilead, Phinehas the son of Eleazar the priest,",
       "links": "<a href='/AIV/4/25/11-13'>Num. 25:11-13</a>",
-      "comment": "Phinehas, as a priestly leader, mediates disputes—prefiguring the sacramental mediation of priests in spiritual matters."
+      "comment": "Phinehas, as a priestly leader, mediates disputes—prefiguring the sacramental mediation of priests in spiritual matters.",
+      "sectionHeader": "Israel Confronts the Eastern Tribes"
     },
     {
       "pk": 6022014,
@@ -254,7 +257,8 @@
       "verse": 21,
       "text": "Then the sons of Reuben, the sons of Gad, and the half-tribe of Manasseh answered and said to the heads of the families of Israel,",
       "links": "<a href='/AIV/6/22/15'>Josh. 22:15</a>",
-      "comment": "The accused tribes respond, signaling an openness to dialogue—a model for harmony and reconciliation within the Church."
+      "comment": "The accused tribes respond, signaling an openness to dialogue—a model for harmony and reconciliation within the Church.",
+      "sectionHeader": "The Explanation of the Altar"
     },
     {
       "pk": 6022022,
@@ -362,7 +366,8 @@
       "verse": 30,
       "text": "When Phinehas the priest, the leaders of the congregation, and the heads of the clans of Israel who were with him heard the words spoken by the sons of Reuben, Gad, and Manasseh, it pleased them.",
       "links": "<a href='/AIV/6/22/13'>Josh. 22:13</a>",
-      "comment": "Understanding and peace follow honest dialogue, a lesson for resolving divisions in the Church with charity and truth."
+      "comment": "Understanding and peace follow honest dialogue, a lesson for resolving divisions in the Church with charity and truth.",
+      "sectionHeader": "Phinehas and Israel Satisfied"
     },
     {
       "pk": 6022031,
@@ -413,5 +418,32 @@
       "comment": "The name 'Witness' signifies covenantal faithfulness. Sacred objects can serve as reminders of unity and faith, much as physical signs remind the faithful of God's saving work (e.g. sacraments as visible signs of invisible grace)."
     }
   ],
-  "translatedAt": "2025-12-24T02:28:51.552Z"
+  "translatedAt": "2025-12-24T02:28:51.552Z",
+  "sections": [
+    {
+      "title": "The Eastern Tribes Dismissed by Joshua",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "The Altar Built by the Jordan",
+      "startVerse": 10,
+      "endVerse": 12
+    },
+    {
+      "title": "Israel Confronts the Eastern Tribes",
+      "startVerse": 13,
+      "endVerse": 20
+    },
+    {
+      "title": "The Explanation of the Altar",
+      "startVerse": 21,
+      "endVerse": 29
+    },
+    {
+      "title": "Phinehas and Israel Satisfied",
+      "startVerse": 30,
+      "endVerse": 34
+    }
+  ]
 }

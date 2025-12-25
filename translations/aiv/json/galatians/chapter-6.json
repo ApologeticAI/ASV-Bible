@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Brothers, if someone is caught in any wrongdoing, you who are spiritual should restore such a person in a spirit of gentleness. But watch yourself, so that you too are not tempted.",
       "links": "<a href='/AIV/40/18/15-17'>Matt. 18:15-17</a>; <a href='/AIV/47/2/7-8'>2 Cor. 2:7-8</a>",
-      "comment": "This verse emphasizes both fraternal correction and humility. The restoration is not punitive but gentle, reflecting the spiritual maturity to heal rather than condemn. The caution to guard oneself also points to the communal nature of accountability within the body of believers, aligning with the principle of confession (James 5:16)."
+      "comment": "This verse emphasizes both fraternal correction and humility. The restoration is not punitive but gentle, reflecting the spiritual maturity to heal rather than condemn. The caution to guard oneself also points to the communal nature of accountability within the body of believers, aligning with the principle of confession (James 5:16).",
+      "sectionHeader": "Mutual Correction and Bearing Burdens"
     },
     {
       "pk": 55006002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "Let the one who is taught the word share all good things with the one who teaches.",
       "links": "<a href='/AIV/46/9/11-14'>1 Cor. 9:11-14</a>; <a href='/AIV/54/5/17-18'>1 Tim. 5:17-18</a>",
-      "comment": "This verse affirms the honoring and support of spiritual leaders. The sharing of ‘all good things’ may include material support, reflecting a reverence and practical concern for ordained leadership and teachers in the Church (see 1 Tim. 5:17–18)."
+      "comment": "This verse affirms the honoring and support of spiritual leaders. The sharing of ‘all good things’ may include material support, reflecting a reverence and practical concern for ordained leadership and teachers in the Church (see 1 Tim. 5:17–18).",
+      "sectionHeader": "Exhortation to Generosity and Doing Good"
     },
     {
       "pk": 55006007,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "See what large letters I use as I write to you with my own hand.",
       "links": "<a href='/AIV/46/16/21'>1 Cor. 16:21</a>; <a href='/AIV/52/3/17'>2 Thess. 3:17</a>",
-      "comment": "Paul stresses the personal authority and authenticity of his apostolic communication. His handwritten closing confirms his leadership and care for the Church, reminiscent of apostolic tradition."
+      "comment": "Paul stresses the personal authority and authenticity of his apostolic communication. His handwritten closing confirms his leadership and care for the Church, reminiscent of apostolic tradition.",
+      "sectionHeader": "Final Admonitions and Glory in the Cross"
     },
     {
       "pk": 55006012,
@@ -221,5 +224,22 @@
       "comment": "Paul’s closing invokes grace—a unifying and sustaining reality for the Church. The term ‘brothers’ directs this blessing to the whole community, underscoring the ongoing work of Christ’s grace in their lives."
     }
   ],
-  "translatedAt": "2025-12-24T12:00:45.224Z"
+  "translatedAt": "2025-12-24T12:00:45.224Z",
+  "sections": [
+    {
+      "title": "Mutual Correction and Bearing Burdens",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Exhortation to Generosity and Doing Good",
+      "startVerse": 6,
+      "endVerse": 10
+    },
+    {
+      "title": "Final Admonitions and Glory in the Cross",
+      "startVerse": 11,
+      "endVerse": 18
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "So, putting away all malice and all deceit and hypocrisy and envy and every kind of slander,",
       "links": "<a href='/AIV/49/4/31'>Eph. 4:31</a>; <a href='/AIV/59/3/14'>Jas. 3:14</a>",
-      "comment": "Peter calls believers to set aside all wicked attitudes and actions. The words used echo apostolic teaching on moral purification as a preparation for God's service."
+      "comment": "Peter calls believers to set aside all wicked attitudes and actions. The words used echo apostolic teaching on moral purification as a preparation for God's service.",
+      "sectionHeader": "A Spiritual House and a Holy Priesthood"
     },
     {
       "pk": 67002002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "Beloved, I urge you as sojourners and exiles to abstain from the desires of the flesh, which wage war against the soul.",
       "links": "<a href='/AIV/58/11/13'>Heb. 11:13</a>; <a href='/AIV/48/5/17'>Gal. 5:17</a>",
-      "comment": "Believers are described as temporary residents on earth, called to spiritual discipline. The internal struggle is addressed, fostering growth in holiness and resistance to temptation through grace."
+      "comment": "Believers are described as temporary residents on earth, called to spiritual discipline. The internal struggle is addressed, fostering growth in holiness and resistance to temptation through grace.",
+      "sectionHeader": "Living as God’s People Among the Nations"
     },
     {
       "pk": 67002012,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "Submit yourselves for the Lord’s sake to every human authority: whether to the emperor as supreme,",
       "links": "<a href='/AIV/45/13/1'>Rom. 13:1</a>; <a href='/AIV/56/3/1'>Tit. 3:1</a>",
-      "comment": "Peter stresses the importance of obedience to lawful authorities for the sake of honoring God, reflecting the Christian value of order and peaceful witness in society."
+      "comment": "Peter stresses the importance of obedience to lawful authorities for the sake of honoring God, reflecting the Christian value of order and peaceful witness in society.",
+      "sectionHeader": "Submission to Authority"
     },
     {
       "pk": 67002014,
@@ -218,7 +221,8 @@
       "verse": 18,
       "text": "Servants, submit yourselves to your masters with all respect, not only to those who are good and gentle but also to those who are harsh.",
       "links": "<a href='/AIV/49/6/5'>Eph. 6:5</a>; <a href='/AIV/51/3/22'>Col. 3:22</a>",
-      "comment": "Peter addresses social hierarchy, urging humility and obedience even in suffering, mirroring Christ's own humility—a profound example for all believers."
+      "comment": "Peter addresses social hierarchy, urging humility and obedience even in suffering, mirroring Christ's own humility—a profound example for all believers.",
+      "sectionHeader": "Christian Slaves and the Example of Christ’s Suffering"
     },
     {
       "pk": 67002019,
@@ -305,5 +309,27 @@
       "comment": "Christ is both Shepherd and spiritual Bishop. The imagery stresses the need for one visible unity under Jesus’ oversight—applied early in the Church through apostolic leadership."
     }
   ],
-  "translatedAt": "2025-12-24T12:27:12.953Z"
+  "translatedAt": "2025-12-24T12:27:12.953Z",
+  "sections": [
+    {
+      "title": "A Spiritual House and a Holy Priesthood",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "Living as God’s People Among the Nations",
+      "startVerse": 11,
+      "endVerse": 12
+    },
+    {
+      "title": "Submission to Authority",
+      "startVerse": 13,
+      "endVerse": 17
+    },
+    {
+      "title": "Christian Slaves and the Example of Christ’s Suffering",
+      "startVerse": 18,
+      "endVerse": 25
+    }
+  ]
 }

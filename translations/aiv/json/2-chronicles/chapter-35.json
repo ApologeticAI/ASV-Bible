@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Josiah kept the Passover to the LORD in Jerusalem. They slaughtered the Passover lambs on the fourteenth day of the first month.",
       "links": "<a href='/AIV/2/12/1-27'>Ex. 12:1-27</a>; <a href='/AIV/12/23/21-23'>2 Kings 23:21-23</a>",
-      "comment": "Josiah's observance of Passover closely follows the instructions given to Moses, emphasizing faithfulness to God's commands and the importance of liturgical worship."
+      "comment": "Josiah's observance of Passover closely follows the instructions given to Moses, emphasizing faithfulness to God's commands and the importance of liturgical worship.",
+      "sectionHeader": "Josiah Celebrates the Passover"
     },
     {
       "pk": 14035002,
@@ -242,7 +243,8 @@
       "verse": 20,
       "text": "After all this, when Josiah had set the temple in order, Necho king of Egypt came up to fight at Carchemish on the Euphrates, and Josiah went out to confront him.",
       "links": "<a href='/AIV/12/23/29'>2 Kings 23:29</a>",
-      "comment": "Josiah’s zeal for God leads him to take action during international conflict, but his story turns from religious reform to tragic confrontation—a warning about discernment and obedience."
+      "comment": "Josiah’s zeal for God leads him to take action during international conflict, but his story turns from religious reform to tragic confrontation—a warning about discernment and obedience.",
+      "sectionHeader": "The Death of Josiah at Megiddo"
     },
     {
       "pk": 14035021,
@@ -329,5 +331,17 @@
       "comment": "Sacred writing preserves the memory of God’s work through His people, pointing to the importance of tradition as a means of keeping faith alive and vibrant for future generations."
     }
   ],
-  "translatedAt": "2025-12-24T04:39:35.420Z"
+  "translatedAt": "2025-12-24T04:39:35.420Z",
+  "sections": [
+    {
+      "title": "Josiah Celebrates the Passover",
+      "startVerse": 1,
+      "endVerse": 19
+    },
+    {
+      "title": "The Death of Josiah at Megiddo",
+      "startVerse": 20,
+      "endVerse": 27
+    }
+  ]
 }

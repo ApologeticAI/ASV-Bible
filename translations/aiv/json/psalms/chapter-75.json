@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "We give thanks to you, God; we give thanks, for your name is near. People declare your wondrous deeds.",
       "links": "<a href='/AIV/19/50/15'>Ps. 50:15</a>; <a href='/AIV/19/145/18'>Ps. 145:18</a>",
-      "comment": "The psalm opens with a prayer of gratitude, focusing on God's proximity and mighty works. The nearness of God's name recalls His covenantal faithfulness and presence amongst His people, which forms the foundation for public worship and testimony. Spiritual interpretation sees Christ as the fullest revelation of God's nearness (John 1:14; Matthew 1:23)."
+      "comment": "The psalm opens with a prayer of gratitude, focusing on God's proximity and mighty works. The nearness of God's name recalls His covenantal faithfulness and presence amongst His people, which forms the foundation for public worship and testimony. Spiritual interpretation sees Christ as the fullest revelation of God's nearness (John 1:14; Matthew 1:23).",
+      "sectionHeader": "God the Righteous Judge"
     },
     {
       "pk": 23075002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "For exaltation comes neither from the east nor from the west nor from the wilderness;",
       "links": "<a href='/AIV/19/113/7-8'>Ps. 113:7-8</a>; <a href='/AIV/20/29/23'>Prov. 29:23</a>",
-      "comment": "True promotion and authority are determined by God alone, not by human effort or geographical advantage. This stresses divine sovereignty in elevating His servants, consistent with Christ’s teaching that humble service leads to true greatness (Matthew 23:11-12)."
+      "comment": "True promotion and authority are determined by God alone, not by human effort or geographical advantage. This stresses divine sovereignty in elevating His servants, consistent with Christ’s teaching that humble service leads to true greatness (Matthew 23:11-12).",
+      "sectionHeader": "The Fate of the Wicked and the Righteous"
     },
     {
       "pk": 23075007,
@@ -125,5 +127,17 @@
       "comment": "Horns symbolize power; God promises to remove the strength of the wicked but to exalt the righteous. This foreshadows ultimate vindication for the faithful, fulfilled in Christ’s victory and in the establishment of a community where holiness is celebrated and protected. The righteous are those who live in covenant relationship, supported by sacramental grace and faithful worship."
     }
   ],
-  "translatedAt": "2025-12-24T06:25:05.404Z"
+  "translatedAt": "2025-12-24T06:25:05.404Z",
+  "sections": [
+    {
+      "title": "God the Righteous Judge",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "The Fate of the Wicked and the Righteous",
+      "startVerse": 6,
+      "endVerse": 10
+    }
+  ]
 }

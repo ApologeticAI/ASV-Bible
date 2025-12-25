@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "But Jesus went to the Mount of Olives.",
       "links": "<a href='/AIV/40/21/1'>Matt. 21:1</a>; <a href='/AIV/42/22/39'>Luke 22:39</a>",
-      "comment": "Jesus leaves the city for the Mount of Olives, a frequent place of prayer and solitude (cf. Luke 22:39). This mirrors Old Testament patterns of seeking God on mountains."
+      "comment": "Jesus leaves the city for the Mount of Olives, a frequent place of prayer and solitude (cf. Luke 22:39). This mirrors Old Testament patterns of seeking God on mountains.",
+      "sectionHeader": "The Woman Caught in Adultery"
     },
     {
       "pk": 50008002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "Then Jesus spoke to them again, saying, 'I am the light of the world. Whoever follows me will not walk in darkness, but will have the light of life.'",
       "links": "<a href='/AIV/23/42/6'>Isa. 42:6</a>; <a href='/AIV/19/27/1'>Ps. 27:1</a>; <a href='/AIV/43/1/4-9'>John 1:4-9</a>",
-      "comment": "'I am the light of the world' is a clear claim of divinity and fulfillment of prophecy (cf. Isa. 42:6). Jesus alone brings saving, guiding light."
+      "comment": "'I am the light of the world' is a clear claim of divinity and fulfillment of prophecy (cf. Isa. 42:6). Jesus alone brings saving, guiding light.",
+      "sectionHeader": "Jesus the Light of the World"
     },
     {
       "pk": 50008013,
@@ -254,7 +256,8 @@
       "verse": 21,
       "text": "Again he said to them, 'I am going away, and you will seek me, and you will die in your sin. Where I am going, you cannot come.'",
       "links": "<a href='/AIV/43/7/34'>John 7:34</a>",
-      "comment": "Separation from Christ means remaining in sin. Only those united to Him through faith (and, by extension, sacramental union) can follow him into eternal life."
+      "comment": "Separation from Christ means remaining in sin. Only those united to Him through faith (and, by extension, sacramental union) can follow him into eternal life.",
+      "sectionHeader": "Jesus Foretells His Departure"
     },
     {
       "pk": 50008022,
@@ -374,7 +377,8 @@
       "verse": 31,
       "text": "So Jesus said to the Jews who had believed him, 'If you continue in my word, you are truly my disciples,'",
       "links": "<a href='/AIV/43/15/7'>John 15:7</a>",
-      "comment": "Discipleship demands perseverance—faith and obedience must continue, foreshadowing the Church's doctrine of ongoing faithfulness."
+      "comment": "Discipleship demands perseverance—faith and obedience must continue, foreshadowing the Church's doctrine of ongoing faithfulness.",
+      "sectionHeader": "The Truth Will Make You Free"
     },
     {
       "pk": 50008032,
@@ -578,7 +582,8 @@
       "verse": 48,
       "text": "The Jews answered him, 'Are we not right in saying that you are a Samaritan and have a demon?'",
       "links": "<a href='/AIV/12/17/24'>2 Kings 17:24</a>",
-      "comment": "Accusing Jesus of being a Samaritan or demon-possessed is an attempt to discredit him; yet, Jesus endures such attacks as foretold regarding God's prophets."
+      "comment": "Accusing Jesus of being a Samaritan or demon-possessed is an attempt to discredit him; yet, Jesus endures such attacks as foretold regarding God's prophets.",
+      "sectionHeader": "Jesus and Abraham"
     },
     {
       "pk": 50008049,
@@ -713,5 +718,32 @@
       "comment": "The crowd sought to stone Jesus for blasphemy, realizing the implication of His words. Yet, His divine mission could not be thwarted until the appointed time."
     }
   ],
-  "translatedAt": "2025-12-24T11:07:48.956Z"
+  "translatedAt": "2025-12-24T11:07:48.956Z",
+  "sections": [
+    {
+      "title": "The Woman Caught in Adultery",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "Jesus the Light of the World",
+      "startVerse": 12,
+      "endVerse": 20
+    },
+    {
+      "title": "Jesus Foretells His Departure",
+      "startVerse": 21,
+      "endVerse": 30
+    },
+    {
+      "title": "The Truth Will Make You Free",
+      "startVerse": 31,
+      "endVerse": 47
+    },
+    {
+      "title": "Jesus and Abraham",
+      "startVerse": 48,
+      "endVerse": 59
+    }
+  ]
 }

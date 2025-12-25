@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Truly, truly, I say to you, whoever does not enter the sheepfold by the gate but climbs in another way is a thief and a robber.",
       "links": "<a href='/AIV/24/23/1'>Jer. 23:1</a>; <a href='/AIV/26/34/2'>Ezek. 34:2</a>",
-      "comment": "Jesus uses the metaphor of the sheepfold to speak about true leadership of God's people. The Old Testament prophets also warn against false shepherds (Jer. 23:1; Ezek. 34:2)."
+      "comment": "Jesus uses the metaphor of the sheepfold to speak about true leadership of God's people. The Old Testament prophets also warn against false shepherds (Jer. 23:1; Ezek. 34:2).",
+      "sectionHeader": "The Good Shepherd"
     },
     {
       "pk": 50010002,
@@ -266,7 +267,8 @@
       "verse": 22,
       "text": "Then the Festival of Dedication took place at Jerusalem. It was winter,",
       "links": "<a href='/AIV/11/7/51'>1 Kings 7:51</a>; <a href='/AIV/43/2/23'>John 2:23</a>",
-      "comment": "The Festival of Dedication (Hanukkah) commemorated the rededication of the temple. Its mention underscores Jesus’ presence as the true temple and light during this season."
+      "comment": "The Festival of Dedication (Hanukkah) commemorated the rededication of the temple. Its mention underscores Jesus’ presence as the true temple and light during this season.",
+      "sectionHeader": "Jesus at the Feast of Dedication"
     },
     {
       "pk": 50010023,
@@ -374,7 +376,8 @@
       "verse": 31,
       "text": "The Jews picked up stones again to stone him.",
       "links": "<a href='/AIV/03/24/16'>Lev. 24:16</a>; <a href='/AIV/43/8/59'>John 8:59</a>",
-      "comment": "The crowd’s reaction shows they understood Jesus’ words as a claim to divinity, warranting the charge of blasphemy under Jewish law."
+      "comment": "The crowd’s reaction shows they understood Jesus’ words as a claim to divinity, warranting the charge of blasphemy under Jewish law.",
+      "sectionHeader": "The Jews Attempt to Stone Jesus"
     },
     {
       "pk": 50010032,
@@ -480,7 +483,8 @@
       "verse": 40,
       "text": "He went away again across the Jordan to the place where John had been baptizing at first, and there he stayed.",
       "links": "<a href='/AIV/43/1/28'>John 1:28</a>",
-      "comment": "Jesus returns to the site of John’s ministry, which symbolically affirms the continuity between John’s baptism of repentance and Jesus’ ministry of salvation."
+      "comment": "Jesus returns to the site of John’s ministry, which symbolically affirms the continuity between John’s baptism of repentance and Jesus’ ministry of salvation.",
+      "sectionHeader": "Jesus Withdraws Beyond the Jordan"
     },
     {
       "pk": 50010041,
@@ -507,5 +511,27 @@
       "comment": "The response of faith is a natural fruit of Jesus’ ministry. Those who truly hear the shepherd’s voice are gathered into one flock, demonstrating the importance of unity and faithfulness within the apostolic church."
     }
   ],
-  "translatedAt": "2025-12-24T11:09:27.815Z"
+  "translatedAt": "2025-12-24T11:09:27.815Z",
+  "sections": [
+    {
+      "title": "The Good Shepherd",
+      "startVerse": 1,
+      "endVerse": 21
+    },
+    {
+      "title": "Jesus at the Feast of Dedication",
+      "startVerse": 22,
+      "endVerse": 30
+    },
+    {
+      "title": "The Jews Attempt to Stone Jesus",
+      "startVerse": 31,
+      "endVerse": 39
+    },
+    {
+      "title": "Jesus Withdraws Beyond the Jordan",
+      "startVerse": 40,
+      "endVerse": 42
+    }
+  ]
 }

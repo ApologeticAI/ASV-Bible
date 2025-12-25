@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then Zophar the Naamathite answered and said:",
       "links": "",
-      "comment": "Zophar, the third of Job's friends, now begins his reply. Each friend reflects a different aspect of near eastern wisdom literature, often focused on moral retribution."
+      "comment": "Zophar, the third of Job's friends, now begins his reply. Each friend reflects a different aspect of near eastern wisdom literature, often focused on moral retribution.",
+      "sectionHeader": "Zophar Rebukes Job's Words"
     },
     {
       "pk": 22011002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "Can you find out the deep things of God? Can you find out the limit of the Almighty?",
       "links": "<a href='/AIV/45/11/33'>Rom. 11:33</a>; <a href='/AIV/18/36/26'>Job 36:26</a>",
-      "comment": "Zophar points to God's mysteriousness and transcendence, which echoes through both Old and New Testament, especially regarding God's hidden counsels revealed gradually in salvation history."
+      "comment": "Zophar points to God's mysteriousness and transcendence, which echoes through both Old and New Testament, especially regarding God's hidden counsels revealed gradually in salvation history.",
+      "sectionHeader": "The Incomprehensibility of God's Wisdom"
     },
     {
       "pk": 22011008,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "If you prepare your heart, and stretch out your hands toward Him,",
       "links": "<a href='/AIV/19/143/6'>Ps. 143:6</a>; <a href='/AIV/54/2/8'>1 Tim. 2:8</a>",
-      "comment": "The imagery of stretching out one’s hands is frequently linked with prayer and supplication, foreshadowing the importance of prayer in spiritual life and worship."
+      "comment": "The imagery of stretching out one’s hands is frequently linked with prayer and supplication, foreshadowing the importance of prayer in spiritual life and worship.",
+      "sectionHeader": "Exhortation to Repentance and Promise of Restoration"
     },
     {
       "pk": 22011014,
@@ -242,8 +245,31 @@
       "verse": 20,
       "text": "But the eyes of the wicked will fail; they shall have no escape, and their hope is but giving up the spirit.",
       "links": "<a href='/AIV/19/112/10'>Ps. 112:10</a>; <a href='/AIV/20/10/28'>Prov. 10:28</a>",
-      "comment": "The theme of hopelessness for the wicked returns. Ultimately, Job’s story points toward the necessity of redemption—fully realized only in Christ, who brings hope even into judgment (<a href='/AIV/43/5/24'>John 5:24</a>)."
+      "comment": "The theme of hopelessness for the wicked returns. Ultimately, Job’s story points toward the necessity of redemption—fully realized only in Christ, who brings hope even into judgment (<a href='/AIV/43/5/24'>John 5:24</a>).",
+      "sectionHeader": "The Fate of the Wicked"
     }
   ],
-  "translatedAt": "2025-12-24T05:44:19.348Z"
+  "translatedAt": "2025-12-24T05:44:19.348Z",
+  "sections": [
+    {
+      "title": "Zophar Rebukes Job's Words",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "The Incomprehensibility of God's Wisdom",
+      "startVerse": 7,
+      "endVerse": 12
+    },
+    {
+      "title": "Exhortation to Repentance and Promise of Restoration",
+      "startVerse": 13,
+      "endVerse": 19
+    },
+    {
+      "title": "The Fate of the Wicked",
+      "startVerse": 20,
+      "endVerse": 20
+    }
+  ]
 }

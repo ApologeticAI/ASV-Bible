@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Cry aloud; do not hold back. Lift up your voice like a trumpet; declare to my people their transgression, and to the house of Jacob their sins.",
       "links": "<a href='/AIV/23/40/9'>Isa. 40:9</a>; <a href='/AIV/28/5/1'>Hos. 5:1</a>; <a href='/AIV/19/81/3'>Ps. 81:3</a>",
-      "comment": "God commands Isaiah to openly announce Israel’s sins, showing the seriousness of their spiritual condition. The motif of prophetic rebuke is common (see also Hosea 5:1)."
+      "comment": "God commands Isaiah to openly announce Israel’s sins, showing the seriousness of their spiritual condition. The motif of prophetic rebuke is common (see also Hosea 5:1).",
+      "sectionHeader": "True and False Fasting"
     },
     {
       "pk": 29058002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Then your light will break forth like the dawn, and your healing will spring up quickly. Your righteousness will go before you; the glory of the LORD will be your rear guard.",
       "links": "<a href='/AIV/23/52/12'>Isa. 52:12</a>; <a href='/AIV/40/5/16'>Matt. 5:16</a>",
-      "comment": "God promises spiritual renewal and protection for those who engage in true acts of mercy. The metaphor of light breaking forth is echoed in Jesus’ Sermon on the Mount."
+      "comment": "God promises spiritual renewal and protection for those who engage in true acts of mercy. The metaphor of light breaking forth is echoed in Jesus’ Sermon on the Mount.",
+      "sectionHeader": "Blessings of Justice and Mercy"
     },
     {
       "pk": 29058009,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "If you turn back your foot from the Sabbath, from doing your pleasure on my holy day, and call the Sabbath a delight and the holy day of the LORD honorable; if you honor it, not going your own ways, or seeking your own pleasure, or talking idly,",
       "links": "<a href='/AIV/2/20/8'>Exod. 20:8</a>; <a href='/AIV/24/17/21-22'>Jer. 17:21-22</a>",
-      "comment": "Right worship includes both external observance and inner reverence. The sanctification of holy days takes precedence over personal pursuits, suggesting the priority of divine worship and liturgy."
+      "comment": "Right worship includes both external observance and inner reverence. The sanctification of holy days takes precedence over personal pursuits, suggesting the priority of divine worship and liturgy.",
+      "sectionHeader": "The Sabbath and Its Reward"
     },
     {
       "pk": 29058014,
@@ -173,5 +176,22 @@
       "comment": "God promises joy and inheritance to those who faithfully worship and obey. The idea of inheritance prefigures the heavenly reward for the faithful. This also underscores the role of divine authority binding through what God has spoken."
     }
   ],
-  "translatedAt": "2025-12-24T08:17:21.053Z"
+  "translatedAt": "2025-12-24T08:17:21.053Z",
+  "sections": [
+    {
+      "title": "True and False Fasting",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Blessings of Justice and Mercy",
+      "startVerse": 8,
+      "endVerse": 12
+    },
+    {
+      "title": "The Sabbath and Its Reward",
+      "startVerse": 13,
+      "endVerse": 14
+    }
+  ]
 }

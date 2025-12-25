@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "O LORD my God, I take refuge in you; save me from all who pursue me and rescue me.",
       "links": "<a href='/AIV/19/3/1-2'>Ps. 3:1-2</a>; <a href='/AIV/19/71/2'>Ps. 71:2</a>",
-      "comment": "David demonstrates deep trust in God as his ultimate protector. The language of refuge anticipates later themes of Christ as our true shelter and defender (John 10:28)."
+      "comment": "David demonstrates deep trust in God as his ultimate protector. The language of refuge anticipates later themes of Christ as our true shelter and defender (John 10:28).",
+      "sectionHeader": "Prayer for Deliverance from Enemies"
     },
     {
       "pk": 23007002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "Arise, O LORD, in your anger; lift yourself up against the fury of my adversaries; awake for me! You have commanded judgment.",
       "links": "<a href='/AIV/19/3/7'>Ps. 3:7</a>; <a href='/AIV/19/35/23'>Ps. 35:23</a>",
-      "comment": "The appeal to God's righteous anger and judgment reflects confidence in divine justice. Throughout the Psalms, God is seen as the ultimate judge (Matthew 25:31–46)."
+      "comment": "The appeal to God's righteous anger and judgment reflects confidence in divine justice. Throughout the Psalms, God is seen as the ultimate judge (Matthew 25:31–46).",
+      "sectionHeader": "Appeal for Divine Judgment"
     },
     {
       "pk": 23007007,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "If a man does not repent, God will sharpen his sword; he has bent and readied his bow.",
       "links": "<a href='/AIV/19/11/2'>Ps. 11:2</a>; <a href='/AIV/19/64/7'>Ps. 64:7</a>",
-      "comment": "Repentance is shown as necessary to avert judgment. Later, John the Baptist and Jesus Himself will call all to repentance (Luke 13:3)."
+      "comment": "Repentance is shown as necessary to avert judgment. Later, John the Baptist and Jesus Himself will call all to repentance (Luke 13:3).",
+      "sectionHeader": "The Fate of the Wicked"
     },
     {
       "pk": 23007013,
@@ -206,8 +209,31 @@
       "verse": 17,
       "text": "I will give thanks to the LORD for his righteousness and sing praise to the name of the LORD Most High.",
       "links": "<a href='/AIV/19/9/2'>Ps. 9:2</a>; <a href='/AIV/19/92/1'>Ps. 92:1</a>",
-      "comment": "Praise and thanksgiving to God are fitting responses to His justice and mercy. The 'Most High' points to worship that encompasses both awe and intimacy, as fulfilled in Christ’s reign (Philippians 2:9-11)."
+      "comment": "Praise and thanksgiving to God are fitting responses to His justice and mercy. The 'Most High' points to worship that encompasses both awe and intimacy, as fulfilled in Christ’s reign (Philippians 2:9-11).",
+      "sectionHeader": "Thanksgiving for God’s Justice"
     }
   ],
-  "translatedAt": "2025-12-24T06:00:54.161Z"
+  "translatedAt": "2025-12-24T06:00:54.161Z",
+  "sections": [
+    {
+      "title": "Prayer for Deliverance from Enemies",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Appeal for Divine Judgment",
+      "startVerse": 6,
+      "endVerse": 11
+    },
+    {
+      "title": "The Fate of the Wicked",
+      "startVerse": 12,
+      "endVerse": 16
+    },
+    {
+      "title": "Thanksgiving for God’s Justice",
+      "startVerse": 17,
+      "endVerse": 17
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then Joshua gathered all the tribes of Israel at Shechem. He called for the elders of Israel, their heads, their judges, and their officers. They stood before God.",
       "links": "<a href='/AIV/1/35/4'>Gen. 35:4</a>; <a href='/AIV/6/8/33'>Josh. 8:33</a>",
-      "comment": "Shechem is significant as a place of covenant renewal (Gen. 35:4). Gathering before God emphasizes the sacredness of the assembly and recalls the earlier altar built by Joshua (Josh. 8:33)."
+      "comment": "Shechem is significant as a place of covenant renewal (Gen. 35:4). Gathering before God emphasizes the sacredness of the assembly and recalls the earlier altar built by Joshua (Josh. 8:33).",
+      "sectionHeader": "Joshua's Final Address at Shechem"
     },
     {
       "pk": 6024002,
@@ -170,7 +171,8 @@
       "verse": 14,
       "text": "Now therefore, fear the LORD and serve Him in sincerity and in truth. Put away the gods which your ancestors served beyond the Euphrates and in Egypt, and serve the LORD.",
       "links": "<a href='/AIV/5/10/12'>Deut. 10:12</a>; <a href='/AIV/24/4/1'>Jer. 4:1</a>",
-      "comment": "Sincerity in worship anticipates Jesus’ call for worship 'in spirit and truth' (John 4:23-24)."
+      "comment": "Sincerity in worship anticipates Jesus’ call for worship 'in spirit and truth' (John 4:23-24).",
+      "sectionHeader": "Renewal of the Covenant"
     },
     {
       "pk": 6024015,
@@ -350,7 +352,8 @@
       "verse": 29,
       "text": "After these things, Joshua the son of Nun, the servant of the LORD, died at the age of one hundred and ten years.",
       "links": "<a href='/AIV/1/50/26'>Gen. 50:26</a>",
-      "comment": "Joshua’s death echoes Joseph’s (Gen. 50:26), highlighting the continuity of the chosen leaders until the time of fulfillment."
+      "comment": "Joshua’s death echoes Joseph’s (Gen. 50:26), highlighting the continuity of the chosen leaders until the time of fulfillment.",
+      "sectionHeader": "The Death of Joshua and Eleazar"
     },
     {
       "pk": 6024030,
@@ -401,5 +404,22 @@
       "comment": "The passing of Eleazar, Aaron’s son and high priest, marks the end of an era; the priesthood’s centrality in Israel’s identity is clear here—hinting at the importance of continual, visible priestly leadership and succession."
     }
   ],
-  "translatedAt": "2025-12-24T02:30:11.426Z"
+  "translatedAt": "2025-12-24T02:30:11.426Z",
+  "sections": [
+    {
+      "title": "Joshua's Final Address at Shechem",
+      "startVerse": 1,
+      "endVerse": 13
+    },
+    {
+      "title": "Renewal of the Covenant",
+      "startVerse": 14,
+      "endVerse": 28
+    },
+    {
+      "title": "The Death of Joshua and Eleazar",
+      "startVerse": 29,
+      "endVerse": 33
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Grieved in spirit, with tears in his eyes, I, Tobit, sighed and began to pray and to speak:",
       "links": "<a href='/AIV/19/6/6'>Ps. 6:6</a>; <a href='/AIV/18/16/20'>Job 16:20</a>",
-      "comment": "Tobit's response to suffering is prayer and lament, showing the biblical pattern of crying out to God in distress. This echoes the psalmist’s practice and points to a spirituality of trust in God."
+      "comment": "Tobit's response to suffering is prayer and lament, showing the biblical pattern of crying out to God in distress. This echoes the psalmist’s practice and points to a spirituality of trust in God.",
+      "sectionHeader": "Tobit's Prayer in Distress"
     },
     {
       "pk": 17003002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "On the same day, in Media, Sarah the daughter of Raguel also was insulted by her father’s female servants.",
       "links": "<a href='/AIV/17/4/4'>Esther 4:4</a>",
-      "comment": "The narrative introduces Sarah, intertwining her story with Tobit’s, both suffering in innocence. This parallelism sets up the theme of God’s providential care for the faithful remnant."
+      "comment": "The narrative introduces Sarah, intertwining her story with Tobit’s, both suffering in innocence. This parallelism sets up the theme of God’s providential care for the faithful remnant.",
+      "sectionHeader": "Sarah's Trials and Prayer"
     },
     {
       "pk": 17003008,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "At that very moment, the prayers of both were heard in the glorious presence of God.",
       "links": "<a href='/AIV/02/2/23-25'>Exod. 2:23-25</a>; <a href='/AIV/19/34/15'>Ps. 34:15</a>",
-      "comment": "God’s readiness to hear the prayers of the suffering shows his mercy and providence. The simultaneous response foreshadows God’s mysterious ordering and preparation for redemptive encounters."
+      "comment": "God’s readiness to hear the prayers of the suffering shows his mercy and providence. The simultaneous response foreshadows God’s mysterious ordering and preparation for redemptive encounters.",
+      "sectionHeader": "God Hears the Prayers of Tobit and Sarah"
     },
     {
       "pk": 17003017,
@@ -209,5 +212,22 @@
       "comment": "Angelic mediation is introduced—Raphael as divine helper, paralleling many episodes where God sends messengers to answer prayer (<a href='/AIV/42/1/26-38'>Luke 1:26-38</a>). This underlines the biblical role of intercession and divine agents in fulfilling God’s will for the faithful, reflecting the unity of God's plan and the importance of the community in salvation."
     }
   ],
-  "translatedAt": "2025-12-24T04:55:09.697Z"
+  "translatedAt": "2025-12-24T04:55:09.697Z",
+  "sections": [
+    {
+      "title": "Tobit's Prayer in Distress",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Sarah's Trials and Prayer",
+      "startVerse": 7,
+      "endVerse": 15
+    },
+    {
+      "title": "God Hears the Prayers of Tobit and Sarah",
+      "startVerse": 16,
+      "endVerse": 17
+    }
+  ]
 }

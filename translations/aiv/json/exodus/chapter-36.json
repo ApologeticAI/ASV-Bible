@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Bezalel and Oholiab, and every skilled man whom the Lord had given ability and wisdom to know how to do all the work for the service of the sanctuary, shall do all that the Lord has commanded.",
       "links": "<a href='/AIV/2/31/6'>Exod. 31:6</a>; <a href='/AIV/2/35/10'>Exod. 35:10</a>",
-      "comment": "This verse highlights God's direct involvement in equipping individuals for sacred work. The emphasis on 'commanded' underscores the divine authority behind the instructions. The need for skilled artisans foreshadows how special offices and roles, divinely gifted, are used for the building up of the worshiping community (see Eph. 4:11-13)."
+      "comment": "This verse highlights God's direct involvement in equipping individuals for sacred work. The emphasis on 'commanded' underscores the divine authority behind the instructions. The need for skilled artisans foreshadows how special offices and roles, divinely gifted, are used for the building up of the worshiping community (see Eph. 4:11-13).",
+      "sectionHeader": "Gifts for the Tabernacle Withheld"
     },
     {
       "pk": 2036002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "All the skilled workers among them made the tabernacle with ten curtains of fine twisted linen, blue, purple, and scarlet yarn, with cherubim skillfully worked into them.",
       "links": "<a href='/AIV/2/26/1'>Exod. 26:1</a>; <a href='/AIV/2/35/35'>Exod. 35:35</a>",
-      "comment": "The tabernacle’s beauty reflects the glory and order of the heavenly worship (cf. Heb. 8:5), as the New Testament shows earthly worship prefiguring heavenly realities."
+      "comment": "The tabernacle’s beauty reflects the glory and order of the heavenly worship (cf. Heb. 8:5), as the New Testament shows earthly worship prefiguring heavenly realities.",
+      "sectionHeader": "Construction of the Tabernacle"
     },
     {
       "pk": 2036009,
@@ -461,5 +463,17 @@
       "comment": "The progression of metals from gold to bronze demonstrates the hierarchy of holiness, with inner elements being of the highest value. This points to the sacredness of God’s dwelling, access to which requires proper mediation and reverence."
     }
   ],
-  "translatedAt": "2025-12-24T01:07:24.036Z"
+  "translatedAt": "2025-12-24T01:07:24.036Z",
+  "sections": [
+    {
+      "title": "Gifts for the Tabernacle Withheld",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Construction of the Tabernacle",
+      "startVerse": 8,
+      "endVerse": 38
+    }
+  ]
 }

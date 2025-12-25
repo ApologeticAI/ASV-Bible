@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "King Solomon reigned over all Israel.",
       "links": "<a href='/AIV/10/8/15'>2 Sam. 8:15</a>",
-      "comment": "This verse establishes Solomon's uncontested kingship over all Israel. The unity of the kingdom under one ruler prefigures the ultimate unity and peace intended by God for His people, a theme that echoes in the New Testament with Christ as King over the Church (cf. Eph. 1:22-23)."
+      "comment": "This verse establishes Solomon's uncontested kingship over all Israel. The unity of the kingdom under one ruler prefigures the ultimate unity and peace intended by God for His people, a theme that echoes in the New Testament with Christ as King over the Church (cf. Eph. 1:22-23).",
+      "sectionHeader": "Solomon's Officials and Officers"
     },
     {
       "pk": 11004002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "Solomon had twelve officers over all Israel, who provided food for the king and his household. Each was responsible for one month in the year.",
       "links": "<a href='/AIV/11/18/31'>1 Kgs. 18:31</a>; <a href='/AIV/02/28/21'>Ex. 28:21</a>",
-      "comment": "The division into twelve highlights organizational order and recalls the twelve tribes of Israel, which have deep symbolic significance extending into the twelve apostles (Matt. 10:1-4)."
+      "comment": "The division into twelve highlights organizational order and recalls the twelve tribes of Israel, which have deep symbolic significance extending into the twelve apostles (Matt. 10:1-4).",
+      "sectionHeader": "The Twelve District Governors"
     },
     {
       "pk": 11004008,
@@ -242,7 +244,8 @@
       "verse": 20,
       "text": "The people of Judah and Israel were as numerous as the sand on the seashore; they ate, drank, and were happy.",
       "links": "<a href='/AIV/01/22/17'>Gen. 22:17</a>",
-      "comment": "This fulfills God’s promise to Abraham regarding descendants and blessing. The joy and plenty foreshadow the spiritual abundance found in the messianic reign (cf. John 10:10)."
+      "comment": "This fulfills God’s promise to Abraham regarding descendants and blessing. The joy and plenty foreshadow the spiritual abundance found in the messianic reign (cf. John 10:10).",
+      "sectionHeader": "Solomon's Prosperity and Dominion"
     },
     {
       "pk": 11004021,
@@ -350,7 +353,8 @@
       "verse": 29,
       "text": "God gave Solomon wisdom and very great understanding, and breadth of heart, as vast as the sand on the seashore.",
       "links": "<a href='/AIV/11/3/12'>1 Kgs. 3:12</a>; <a href='/AIV/19/119/96'>Ps. 119:96</a>",
-      "comment": "Solomon’s wisdom is a type of Christ—the wise King and Teacher, whose wisdom exceeds Solomon’s (cf. Matt 12:42)."
+      "comment": "Solomon’s wisdom is a type of Christ—the wise King and Teacher, whose wisdom exceeds Solomon’s (cf. Matt 12:42).",
+      "sectionHeader": "The Wisdom of Solomon"
     },
     {
       "pk": 11004030,
@@ -413,5 +417,27 @@
       "comment": "Solomon’s international fame anticipates the universal call of salvation to every nation in Christ, and the gathering of people around wisdom, as the nations gather around the visible Church (cf. Matt. 28:19-20)."
     }
   ],
-  "translatedAt": "2025-12-24T03:29:44.541Z"
+  "translatedAt": "2025-12-24T03:29:44.541Z",
+  "sections": [
+    {
+      "title": "Solomon's Officials and Officers",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "The Twelve District Governors",
+      "startVerse": 7,
+      "endVerse": 19
+    },
+    {
+      "title": "Solomon's Prosperity and Dominion",
+      "startVerse": 20,
+      "endVerse": 28
+    },
+    {
+      "title": "The Wisdom of Solomon",
+      "startVerse": 29,
+      "endVerse": 34
+    }
+  ]
 }

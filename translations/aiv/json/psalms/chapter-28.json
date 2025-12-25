@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "To you, O LORD, I call; my Rock, do not be silent to me. If you remain silent to me, I will become like those who go down to the pit.",
       "links": "<a href='/AIV/18/7/21'>Job 7:21</a>; <a href='/AIV/19/143/7'>Ps. 143:7</a>; <a href='/AIV/23/38/18'>Isa. 38:18</a>",
-      "comment": "The psalmist addresses the LORD as 'my Rock', emphasizing trust and dependence. The 'pit' refers to Sheol, symbolizing spiritual death—a plea for God’s saving presence (see Ps. 143:7). The spiritual sense sees a foreshadowing of trust in God as the sole source of salvation."
+      "comment": "The psalmist addresses the LORD as 'my Rock', emphasizing trust and dependence. The 'pit' refers to Sheol, symbolizing spiritual death—a plea for God’s saving presence (see Ps. 143:7). The spiritual sense sees a foreshadowing of trust in God as the sole source of salvation.",
+      "sectionHeader": "Prayer for Deliverance from the Wicked"
     },
     {
       "pk": 23028002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "Blessed be the LORD! For he has heard the voice of my prayer.",
       "links": "<a href='/AIV/19/66/19-20'>Ps. 66:19-20</a>",
-      "comment": "A sudden shift to praise, reflecting confidence in God’s faithfulness. The responsive blessing is both personal and communal, resembling liturgical prayer patterns practiced in unified faith down the ages."
+      "comment": "A sudden shift to praise, reflecting confidence in God’s faithfulness. The responsive blessing is both personal and communal, resembling liturgical prayer patterns practiced in unified faith down the ages.",
+      "sectionHeader": "Thanksgiving for Answered Prayer"
     },
     {
       "pk": 23028007,
@@ -98,7 +100,8 @@
       "verse": 8,
       "text": "The LORD is the strength of his people; he is a saving fortress for his anointed one.",
       "links": "<a href='/AIV/19/20/6'>Ps. 20:6</a>; <a href='/AIV/19/89/18'>Ps. 89:18</a>",
-      "comment": "'His anointed one' (mashiach) points to the king, but spiritually prefigures the Messiah, Jesus, the ultimate anointed one (see Luke 4:18). God’s people share in His strength by unity with the anointed leader of God’s people."
+      "comment": "'His anointed one' (mashiach) points to the king, but spiritually prefigures the Messiah, Jesus, the ultimate anointed one (see Luke 4:18). God’s people share in His strength by unity with the anointed leader of God’s people.",
+      "sectionHeader": "Intercession for God's People"
     },
     {
       "pk": 23028009,
@@ -113,5 +116,22 @@
       "comment": "The request to 'shepherd and carry' the people echoes God’s continual provision. This image finds ultimate fulfillment in Christ as the Good Shepherd (John 10:11). The connection of inheritance, blessing, and shepherding points to a visible, protected community under God’s guidance throughout history."
     }
   ],
-  "translatedAt": "2025-12-24T06:07:50.752Z"
+  "translatedAt": "2025-12-24T06:07:50.752Z",
+  "sections": [
+    {
+      "title": "Prayer for Deliverance from the Wicked",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Thanksgiving for Answered Prayer",
+      "startVerse": 6,
+      "endVerse": 7
+    },
+    {
+      "title": "Intercession for God's People",
+      "startVerse": 8,
+      "endVerse": 9
+    }
+  ]
 }

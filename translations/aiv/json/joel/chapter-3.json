@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "For, behold, in those days and at that time, when I restore the fortunes of Judah and Jerusalem,",
       "links": "<a href='/AIV/24/30/3'>Jer. 30:3</a>; <a href='/AIV/26/39/25'>Ezek. 39:25'>Ezek. 39:25</a>",
-      "comment": "Joel begins a prophecy about the last days and the restoration of God's people, showing a pattern of divine mercy and restoration seen throughout scripture."
+      "comment": "Joel begins a prophecy about the last days and the restoration of God's people, showing a pattern of divine mercy and restoration seen throughout scripture.",
+      "sectionHeader": "Judgment upon the Nations in the Valley of Jehoshaphat"
     },
     {
       "pk": 36003002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "Proclaim this among the nations: Prepare for war! Stir up the mighty. Let all the fighters draw near; let them come up.",
       "links": "<a href='/AIV/26/38/7'>Ezek. 38:7</a>; <a href='/AIV/29/3/2'>Joel 3:2</a>",
-      "comment": "The imagery of martial summons foreshadows eschatological battle. Interpreted both literally and spiritually, it points to spiritual preparation and vigilance before the Day of the Lord."
+      "comment": "The imagery of martial summons foreshadows eschatological battle. Interpreted both literally and spiritually, it points to spiritual preparation and vigilance before the Day of the Lord.",
+      "sectionHeader": "The Day of the LORD and the Valley of Decision"
     },
     {
       "pk": 36003010,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "In that day, the mountains shall drip with sweet wine, the hills shall flow with milk, and all the streams of Judah shall flow with water. A fountain shall come forth from the house of the LORD and water the Valley of Acacias.",
       "links": "<a href='/AIV/26/47/1'>Ezek. 47:1</a>; <a href='/AIV/38/13/1'>Zech. 13:1</a>",
-      "comment": "Abundant blessings symbolize restoration and spiritual nourishment. The fountain from the LORD’s house foreshadows living water flowing from Christ (John 4:14; 7:38), and ongoing sacramental grace."
+      "comment": "Abundant blessings symbolize restoration and spiritual nourishment. The fountain from the LORD’s house foreshadows living water flowing from Christ (John 4:14; 7:38), and ongoing sacramental grace.",
+      "sectionHeader": "Blessings for Judah and Jerusalem"
     },
     {
       "pk": 36003019,
@@ -257,5 +260,22 @@
       "comment": "God’s final justice and perpetual presence—Zion as God’s dwelling—signals the fulfillment of all prophetic promises, culminating in the complete redemption and sanctification of His people."
     }
   ],
-  "translatedAt": "2025-12-24T09:41:14.139Z"
+  "translatedAt": "2025-12-24T09:41:14.139Z",
+  "sections": [
+    {
+      "title": "Judgment upon the Nations in the Valley of Jehoshaphat",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "The Day of the LORD and the Valley of Decision",
+      "startVerse": 9,
+      "endVerse": 17
+    },
+    {
+      "title": "Blessings for Judah and Jerusalem",
+      "startVerse": 18,
+      "endVerse": 21
+    }
+  ]
 }

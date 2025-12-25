@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The word that Isaiah son of Amoz saw concerning Judah and Jerusalem:",
       "links": "<a href='/AIV/12/16/1'>2 Kings 16:1</a>; <a href='/AIV/23/1/1'>Isa. 1:1</a>",
-      "comment": "Isaiah begins a new prophecy specifically about Judah and Jerusalem, establishing the context for the vision and its scope."
+      "comment": "Isaiah begins a new prophecy specifically about Judah and Jerusalem, establishing the context for the vision and its scope.",
+      "sectionHeader": "The Mountain of the Lord in the Last Days"
     },
     {
       "pk": 29002002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "For You have rejected Your people, the house of Jacob, because they are full of diviners from the east and practice sorcery like the Philistines and hold hands with foreigners.",
       "links": "<a href='/AIV/05/18/10-12'>Deut. 18:10-12</a>; <a href='/AIV/09/28/7'>1 Sam. 28:7</a>",
-      "comment": "Israel’s idolatry and superstition led to God’s discipline. This warns believers against assimilating ungodly practices from surrounding cultures."
+      "comment": "Israel’s idolatry and superstition led to God’s discipline. This warns believers against assimilating ungodly practices from surrounding cultures.",
+      "sectionHeader": "Judgment Against the Idolatry of Jacob"
     },
     {
       "pk": 29002007,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "For the LORD of Hosts has a day against all that is proud and arrogant, against all who are exalted—and they will be brought low—",
       "links": "<a href='/AIV/34/1/2'>Nah. 1:2</a>; <a href='/AIV/23/13/11'>Isa. 13:11</a>",
-      "comment": "The 'day of the LORD' is a theme of divine judgment, ultimately fulfilled at the end of time. Both individual and collective pride are targeted."
+      "comment": "The 'day of the LORD' is a theme of divine judgment, ultimately fulfilled at the end of time. Both individual and collective pride are targeted.",
+      "sectionHeader": "The Day of the Lord"
     },
     {
       "pk": 29002013,
@@ -269,5 +272,22 @@
       "comment": "A final admonition: trust in God alone rather than fallible men. Spiritual application: true security is found in relationship with the Lord through grace, faith, and obedience."
     }
   ],
-  "translatedAt": "2025-12-24T07:52:05.669Z"
+  "translatedAt": "2025-12-24T07:52:05.669Z",
+  "sections": [
+    {
+      "title": "The Mountain of the Lord in the Last Days",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Judgment Against the Idolatry of Jacob",
+      "startVerse": 6,
+      "endVerse": 11
+    },
+    {
+      "title": "The Day of the Lord",
+      "startVerse": 12,
+      "endVerse": 22
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In those days, when a large crowd again gathered and they had nothing to eat, Jesus called his disciples and said to them,",
       "links": "<a href='/AIV/40/15/32'>Matt. 15:32</a>",
-      "comment": "Here begins the second miraculous feeding. The initiative comes from Jesus, reinforcing his compassion and divine provision. See also spiritual typology in Exodus 16 (the manna)."
+      "comment": "Here begins the second miraculous feeding. The initiative comes from Jesus, reinforcing his compassion and divine provision. See also spiritual typology in Exodus 16 (the manna).",
+      "sectionHeader": "The Feeding of the Four Thousand"
     },
     {
       "pk": 48008002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "The Pharisees came and began to argue with him, demanding from him a sign from heaven, testing him.",
       "links": "<a href='/AIV/40/16/1'>Matt. 16:1</a>; <a href='/AIV/02/17/2'>Ex. 17:2</a>",
-      "comment": "The religious leaders’ demand reflects a lack of faith; their testing echoes Israel’s testing of God in the wilderness."
+      "comment": "The religious leaders’ demand reflects a lack of faith; their testing echoes Israel’s testing of God in the wilderness.",
+      "sectionHeader": "The Demand for a Sign"
     },
     {
       "pk": 48008012,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "Now they had forgotten to bring bread, and they had only one loaf with them in the boat.",
       "links": "<a href='/AIV/40/16/5'>Matt. 16:5</a>",
-      "comment": "The disciples’ lack of bread sets up a teaching moment. The mention of ‘one loaf’ hints at the unity and sufficiency found in Jesus."
+      "comment": "The disciples’ lack of bread sets up a teaching moment. The mention of ‘one loaf’ hints at the unity and sufficiency found in Jesus.",
+      "sectionHeader": "The Leaven of the Pharisees and Herod"
     },
     {
       "pk": 48008015,
@@ -266,7 +269,8 @@
       "verse": 22,
       "text": "And they came to Bethsaida. And people brought to him a blind man and begged him to touch him.",
       "links": "<a href='/AIV/40/9/27-31'>Matt. 9:27-31</a>",
-      "comment": "Physical blindness here also symbolizes spiritual blindness. The role of community in bringing the needy to Jesus is significant."
+      "comment": "Physical blindness here also symbolizes spiritual blindness. The role of community in bringing the needy to Jesus is significant.",
+      "sectionHeader": "The Healing of the Blind Man at Bethsaida"
     },
     {
       "pk": 48008023,
@@ -326,7 +330,8 @@
       "verse": 27,
       "text": "Jesus went out with his disciples to the villages of Caesarea Philippi. And on the way he asked his disciples, \"Who do people say that I am?\"",
       "links": "<a href='/AIV/40/16/13'>Matt. 16:13</a>; <a href='/AIV/41/6/14-15'>Mark 6:14-15</a>",
-      "comment": "This questioning begins the revelation about Jesus’s true identity—a major turning point in the Gospel. Caesarea Philippi is a place of pagan worship, highlighting the universal call."
+      "comment": "This questioning begins the revelation about Jesus’s true identity—a major turning point in the Gospel. Caesarea Philippi is a place of pagan worship, highlighting the universal call.",
+      "sectionHeader": "Peter’s Confession of Christ"
     },
     {
       "pk": 48008028,
@@ -374,7 +379,8 @@
       "verse": 31,
       "text": "He began to teach them that the Son of Man must suffer many things, be rejected by the elders and chief priests and scribes, be killed, and after three days rise again.",
       "links": "<a href='/AIV/40/16/21'>Matt. 16:21</a>; <a href='/AIV/23/53/3-12'>Isa. 53:3-12</a>; <a href='/AIV/19/16/10'>Ps. 16:10</a>",
-      "comment": "First clear prophecy of the Passion and Resurrection—fulfilling Old Testament prophecy about the suffering servant and introducing the mystery of Christ’s sacrifice."
+      "comment": "First clear prophecy of the Passion and Resurrection—fulfilling Old Testament prophecy about the suffering servant and introducing the mystery of Christ’s sacrifice.",
+      "sectionHeader": "Jesus Foretells His Passion and Teaches Discipleship"
     },
     {
       "pk": 48008032,
@@ -461,5 +467,37 @@
       "comment": "Jesus refers to his divine authority and future coming in glory, making an implicit claim to divinity (see Dan. 7:13). Public witness is essential, as is the promise and reality of final judgment."
     }
   ],
-  "translatedAt": "2025-12-24T10:27:43.293Z"
+  "translatedAt": "2025-12-24T10:27:43.293Z",
+  "sections": [
+    {
+      "title": "The Feeding of the Four Thousand",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "The Demand for a Sign",
+      "startVerse": 11,
+      "endVerse": 13
+    },
+    {
+      "title": "The Leaven of the Pharisees and Herod",
+      "startVerse": 14,
+      "endVerse": 21
+    },
+    {
+      "title": "The Healing of the Blind Man at Bethsaida",
+      "startVerse": 22,
+      "endVerse": 26
+    },
+    {
+      "title": "Peter’s Confession of Christ",
+      "startVerse": 27,
+      "endVerse": 30
+    },
+    {
+      "title": "Jesus Foretells His Passion and Teaches Discipleship",
+      "startVerse": 31,
+      "endVerse": 38
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "A lazy person is compared to a filthy stone, everyone will hiss at his disgrace.",
       "links": "<a href='/AIV/20/6/9-11'>Prov. 6:9-11</a>; <a href='/AIV/23/56/10'>Isa. 56:10</a>",
-      "comment": "Sirach opens with a sharp warning against sloth, using vivid imagery familiar to Proverbs. Laziness soils the soul and reputation, echoing the tradition that virtue demands personal effort."
+      "comment": "Sirach opens with a sharp warning against sloth, using vivid imagery familiar to Proverbs. Laziness soils the soul and reputation, echoing the tradition that virtue demands personal effort.",
+      "sectionHeader": "The Folly of Laziness and Disgraceful Children"
     },
     {
       "pk": 28022002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "Do not instruct a fool, for he will not appreciate your wisdom; avoid speaking to an ignorant person.",
       "links": "<a href='/AIV/20/23/9'>Prov. 23:9</a>",
-      "comment": "The futility of instructing the hardened heart is repeatedly taught. This foreshadows Jesus' advice about casting pearls before swine (<a href='/AIV/40/7/6'>Matt. 7:6</a>)."
+      "comment": "The futility of instructing the hardened heart is repeatedly taught. This foreshadows Jesus' advice about casting pearls before swine (<a href='/AIV/40/7/6'>Matt. 7:6</a>).",
+      "sectionHeader": "The Wretchedness and Danger of Fools"
     },
     {
       "pk": 28022007,
@@ -266,7 +268,8 @@
       "verse": 22,
       "text": "Do not consult with a coward about war, or with a merchant about trade, or with a buyer about selling, or with a malicious person about gratitude, or with the lazy about any work, or with a worker about the harvest; do not rely on these for advice.",
       "links": "<a href='/AIV/19/1/1'>Ps. 1:1</a>",
-      "comment": "Practical wisdom aligns with spiritual discernment—seeking counsel from those equipped with virtue and right judgment, prefiguring the role of apostolic leadership."
+      "comment": "Practical wisdom aligns with spiritual discernment—seeking counsel from those equipped with virtue and right judgment, prefiguring the role of apostolic leadership.",
+      "sectionHeader": "Choosing Companions and Giving Counsel"
     },
     {
       "pk": 28022023,
@@ -329,5 +332,22 @@
       "comment": "The final verse underscores the immense suffering folly brings, emphasizing the importance of wisdom and spiritual formation for life in Christ and the fellowship of the holy."
     }
   ],
-  "translatedAt": "2025-12-24T07:34:43.517Z"
+  "translatedAt": "2025-12-24T07:34:43.517Z",
+  "sections": [
+    {
+      "title": "The Folly of Laziness and Disgraceful Children",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "The Wretchedness and Danger of Fools",
+      "startVerse": 6,
+      "endVerse": 21
+    },
+    {
+      "title": "Choosing Companions and Giving Counsel",
+      "startVerse": 22,
+      "endVerse": 27
+    }
+  ]
 }

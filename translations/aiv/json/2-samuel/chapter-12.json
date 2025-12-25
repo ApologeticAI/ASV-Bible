@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The LORD sent Nathan to David. Nathan came to him and said, “There were two men in a certain city: one was rich and the other poor.",
       "links": "<a href='/AIV/10/7/2'>2Sam 7:2</a>; <a href='/AIV/11/21/17'>1 Kgs 21:17-19</a>",
-      "comment": "Nathan the prophet is sent by God to confront David, showing the role of prophecy and accountability within God's people. Parables are often used by prophets to deliver a message that brings conviction (see also 2Sam 11; Matt 21:33-41)."
+      "comment": "Nathan the prophet is sent by God to confront David, showing the role of prophecy and accountability within God's people. Parables are often used by prophets to deliver a message that brings conviction (see also 2Sam 11; Matt 21:33-41).",
+      "sectionHeader": "Nathan Rebukes David"
     },
     {
       "pk": 10012002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "Then Nathan went to his house. And the LORD struck the child that Uriah’s wife bore to David, and it became sick.",
       "links": "<a href='/AIV/10/11/27'>2Sam 11:27</a>",
-      "comment": "The narrative refers to Bathsheba as 'Uriah's wife', highlighting the gravity and legacy of David’s actions."
+      "comment": "The narrative refers to Bathsheba as 'Uriah's wife', highlighting the gravity and legacy of David’s actions.",
+      "sectionHeader": "The Death of David’s Child"
     },
     {
       "pk": 10012016,
@@ -288,7 +290,8 @@
       "verse": 24,
       "text": "Then David comforted his wife Bathsheba. He went to her and lay with her, and she bore a son. He called his name Solomon. The LORD loved him,",
       "links": "<a href='/AIV/13/22/9-10'>1Chr 22:9-10</a>; <a href='/AIV/10/7/12-13'>2Sam 7:12-13</a>",
-      "comment": "Solomon’s birth is marked by divine favor. The transition from mourning to blessing prefigures God's power to restore."
+      "comment": "Solomon’s birth is marked by divine favor. The transition from mourning to blessing prefigures God's power to restore.",
+      "sectionHeader": "The Birth of Solomon"
     },
     {
       "pk": 10012025,
@@ -312,7 +315,8 @@
       "verse": 26,
       "text": "Meanwhile, Joab fought against Rabbah of the Ammonites and captured the royal city.",
       "links": "<a href='/AIV/10/11/1'>2Sam 11:1</a>; <a href='/AIV/13/20/1'>1Chr 20:1</a>",
-      "comment": "The narrative returns to the battle; the consequences of war are juxtaposed with David’s inner struggles."
+      "comment": "The narrative returns to the battle; the consequences of war are juxtaposed with David’s inner struggles.",
+      "sectionHeader": "The Capture of Rabbah"
     },
     {
       "pk": 10012027,
@@ -375,5 +379,27 @@
       "comment": "David's administration of conquered peoples remains a complex topic; his return to Jerusalem ends the chapter, suggesting restoration and return to order after a period of sin and rebellion."
     }
   ],
-  "translatedAt": "2025-12-24T03:17:27.152Z"
+  "translatedAt": "2025-12-24T03:17:27.152Z",
+  "sections": [
+    {
+      "title": "Nathan Rebukes David",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "The Death of David’s Child",
+      "startVerse": 15,
+      "endVerse": 23
+    },
+    {
+      "title": "The Birth of Solomon",
+      "startVerse": 24,
+      "endVerse": 25
+    },
+    {
+      "title": "The Capture of Rabbah",
+      "startVerse": 26,
+      "endVerse": 31
+    }
+  ]
 }

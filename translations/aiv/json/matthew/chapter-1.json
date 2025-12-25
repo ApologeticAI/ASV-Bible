@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The book of the genealogy of Jesus Christ, the son of David, the son of Abraham:",
       "links": "<a href='/AIV/01/12/3'>Gen 12:3</a>; <a href='/AIV/10/07/12-16'>2 Sam 7:12-16</a>; <a href='/AIV/42/03/23-38'>Luke 3:23-38</a>",
-      "comment": "Matthew's opening connects Jesus directly to the promises made to Abraham and David, showing that Jesus is the long-promised Messiah. This highlights the importance of lineage in fulfilling prophecy."
+      "comment": "Matthew's opening connects Jesus directly to the promises made to Abraham and David, showing that Jesus is the long-promised Messiah. This highlights the importance of lineage in fulfilling prophecy.",
+      "sectionHeader": "The Genealogy of Jesus Christ"
     },
     {
       "pk": 47001002,
@@ -218,7 +219,8 @@
       "verse": 18,
       "text": "Now the birth of Jesus Christ happened in this way: When his mother Mary was betrothed to Joseph, before they came together, she was found to be with child by the Holy Spirit.",
       "links": "<a href='/AIV/23/07/14'>Isa 7:14</a>; <a href='/AIV/42/01/34-35'>Luke 1:34-35</a>",
-      "comment": "Matthew stresses Mary’s virginity and the supernatural work of the Spirit, affirming the miraculous and unique nature of Christ’s birth. The phrase 'before they came together' underlines her purity."
+      "comment": "Matthew stresses Mary’s virginity and the supernatural work of the Spirit, affirming the miraculous and unique nature of Christ’s birth. The phrase 'before they came together' underlines her purity.",
+      "sectionHeader": "The Birth of Jesus Christ"
     },
     {
       "pk": 47001019,
@@ -305,5 +307,17 @@
       "comment": "The phrase 'did not know her until' emphasizes Mary's virginity before Jesus’ birth, in fulfillment of prophecy. The early Church unanimously affirmed this perpetual purity, showing deep reverence for the mystery of Christ’s incarnation."
     }
   ],
-  "translatedAt": "2025-12-24T10:02:01.126Z"
+  "translatedAt": "2025-12-24T10:02:01.126Z",
+  "sections": [
+    {
+      "title": "The Genealogy of Jesus Christ",
+      "startVerse": 1,
+      "endVerse": 17
+    },
+    {
+      "title": "The Birth of Jesus Christ",
+      "startVerse": 18,
+      "endVerse": 25
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "To our Jewish brothers in Egypt, greetings from your brothers, the Jews in Jerusalem and in the land of Judea. May God give you peace.",
       "links": "<a href='/AIV/44/7/14-16'>Acts 7:14-16</a>",
-      "comment": "This opening salutation is characteristic of ancient epistles, showing unity in faith and brotherhood among the dispersed Jews. The reference to peace connects with Old Testament greetings such as those in Nehemiah 1:2."
+      "comment": "This opening salutation is characteristic of ancient epistles, showing unity in faith and brotherhood among the dispersed Jews. The reference to peace connects with Old Testament greetings such as those in Nehemiah 1:2.",
+      "sectionHeader": "Greeting to the Jews in Egypt"
     },
     {
       "pk": 21001002,
@@ -170,7 +171,8 @@
       "verse": 14,
       "text": "We thank God for having thrown down our enemies.",
       "links": "<a href='/AIV/02/15/1-21'>Ex 15:1-21</a>; <a href='/AIV/02/23/27'>Ex 23:27</a>",
-      "comment": "Giving thanks for deliverance is common throughout the Old Testament, echoing the psalms where salvation from danger is attributed always to God's power."
+      "comment": "Giving thanks for deliverance is common throughout the Old Testament, echoing the psalms where salvation from danger is attributed always to God's power.",
+      "sectionHeader": "Deliverance and Dedication of the Temple"
     },
     {
       "pk": 21001015,
@@ -242,7 +244,8 @@
       "verse": 20,
       "text": "At the time of Nehemiah, our ancestors carried the sacred fire from the altar secretly into a hollow place, a dry well, where they kept it hidden.",
       "links": "<a href='/AIV/16/02/1'>Neh 2:1</a>",
-      "comment": "The secret preservation of the altar fire shows reverence for God's commandments and the importance placed on continuity in the worship of God, mirroring later preservations of faith in times of persecution."
+      "comment": "The secret preservation of the altar fire shows reverence for God's commandments and the importance placed on continuity in the worship of God, mirroring later preservations of faith in times of persecution.",
+      "sectionHeader": "The Miracle of the Sacred Fire"
     },
     {
       "pk": 21001021,
@@ -437,5 +440,22 @@
       "comment": "Recording and remembering God’s wonders through tradition ensures that faith is preserved and accessible for future generations, echoing Deut 6:6-9 and the continual unfolding of God's plan through his ordained ministers."
     }
   ],
-  "translatedAt": "2025-12-24T05:29:20.883Z"
+  "translatedAt": "2025-12-24T05:29:20.883Z",
+  "sections": [
+    {
+      "title": "Greeting to the Jews in Egypt",
+      "startVerse": 1,
+      "endVerse": 13
+    },
+    {
+      "title": "Deliverance and Dedication of the Temple",
+      "startVerse": 14,
+      "endVerse": 19
+    },
+    {
+      "title": "The Miracle of the Sacred Fire",
+      "startVerse": 20,
+      "endVerse": 36
+    }
+  ]
 }

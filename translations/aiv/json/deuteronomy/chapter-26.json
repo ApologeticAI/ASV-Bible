@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When you enter the land the LORD your God is giving you as an inheritance, and you take possession of it and settle in it,",
       "links": "<a href='/AIV/03/23/10'>Lev. 23:10</a>; <a href='/AIV/06/24/13'>Josh. 24:13</a>",
-      "comment": "The passage marks a transition: Israel is to act on God's promises by entering, receiving, and inhabiting the land. The act of entering relates to baptism (Col. 2:12), the entry into the promised covenant relationship."
+      "comment": "The passage marks a transition: Israel is to act on God's promises by entering, receiving, and inhabiting the land. The act of entering relates to baptism (Col. 2:12), the entry into the promised covenant relationship.",
+      "sectionHeader": "Offering of Firstfruits"
     },
     {
       "pk": 5026002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "When you have finished setting aside a tenth of all your produce in the third year, the year of the tithe, you shall give it to the Levite, the foreigner, the fatherless, and the widow, so that they may eat within your gates and be filled.",
       "links": "<a href='/AIV/05/14/28-29'>Deut. 14:28-29</a>; <a href='/AIV/03/27/30'>Lev. 27:30</a>",
-      "comment": "The law of the tithe reflects God’s justice and care for the vulnerable. Supporting ministers and the needy is repeatedly affirmed in Scripture (1 Cor. 9:13-14; James 1:27)."
+      "comment": "The law of the tithe reflects God’s justice and care for the vulnerable. Supporting ministers and the needy is repeatedly affirmed in Scripture (1 Cor. 9:13-14; James 1:27).",
+      "sectionHeader": "Declaration Concerning Tithes"
     },
     {
       "pk": 5026013,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "This day the LORD your God commands you to do these statutes and rules; therefore you must be careful to do them with all your heart and with all your soul.",
       "links": "<a href='/AIV/05/06/5'>Deut. 6:5</a>; <a href='/AIV/40/22/37'>Matt. 22:37</a>",
-      "comment": "The call to wholehearted obedience is repeated by Jesus as the greatest commandment. True faith is always shown by faithful action (James 2:17)."
+      "comment": "The call to wholehearted obedience is repeated by Jesus as the greatest commandment. True faith is always shown by faithful action (James 2:17).",
+      "sectionHeader": "Exhortation to Obey the Commandments"
     },
     {
       "pk": 5026017,
@@ -233,5 +236,22 @@
       "comment": "Being raised up and set apart as holy points to God’s design for a visible, unified, and sanctified people. The New Testament applies this to the Church (Eph. 5:27), as God’s holy assembly in the world."
     }
   ],
-  "translatedAt": "2025-12-24T02:10:54.140Z"
+  "translatedAt": "2025-12-24T02:10:54.140Z",
+  "sections": [
+    {
+      "title": "Offering of Firstfruits",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "Declaration Concerning Tithes",
+      "startVerse": 12,
+      "endVerse": 15
+    },
+    {
+      "title": "Exhortation to Obey the Commandments",
+      "startVerse": 16,
+      "endVerse": 19
+    }
+  ]
 }

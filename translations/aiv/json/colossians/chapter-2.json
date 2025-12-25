@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "For I want you to know how great a struggle I have for you, for those in Laodicea, and for all who have not seen me face to face.",
       "links": "<a href='/AIV/57/4/15-16'>Phil. 4:15-16</a>; <a href='/AIV/58/4/13'>Col. 4:13</a>",
-      "comment": "Paul's concern extends beyond Colossae, showing the unity and universal mission of the Church. He suffers and strives for believers even those he has never met, demonstrating apostolic care."
+      "comment": "Paul's concern extends beyond Colossae, showing the unity and universal mission of the Church. He suffers and strives for believers even those he has never met, demonstrating apostolic care.",
+      "sectionHeader": "Christ, the Mystery of God"
     },
     {
       "pk": 58002002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "See to it that no one takes you captive by philosophy and empty deceit, according to human tradition, according to the elemental spirits of the world, and not according to Christ.",
       "links": "<a href='/AIV/46/1/20'>1 Cor. 1:20</a>; <a href='/AIV/51/1/21'>Rom. 1:21-22</a>",
-      "comment": "Paul cautions against teachings outside the apostolic tradition. True doctrine flows from Christ and those He appoints, not simply human reasoning or worldly philosophies."
+      "comment": "Paul cautions against teachings outside the apostolic tradition. True doctrine flows from Christ and those He appoints, not simply human reasoning or worldly philosophies.",
+      "sectionHeader": "Warning Against False Philosophy"
     },
     {
       "pk": 58002009,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "In him you were also circumcised with a circumcision not done by human hands, by the removal of the body of flesh, by the circumcision of Christ.",
       "links": "<a href='/AIV/45/2/28-29'>Rom. 2:28-29</a>; <a href='/AIV/51/2/29'>Rom. 6:6</a>",
-      "comment": "Paul presents baptism as a spiritual circumcision, marking entrance into the people of God. The image emphasizes sacramental initiation as the new spiritual birth."
+      "comment": "Paul presents baptism as a spiritual circumcision, marking entrance into the people of God. The image emphasizes sacramental initiation as the new spiritual birth.",
+      "sectionHeader": "New Life in Christ"
     },
     {
       "pk": 58002012,
@@ -194,7 +197,8 @@
       "verse": 16,
       "text": "So let no one judge you in food or in drink, or regarding a festival, or a new moon, or sabbaths.",
       "links": "<a href='/AIV/45/14/5'>Rom. 14:5</a>; <a href='/AIV/03/23/2-4'>Lev. 23:2-4</a>",
-      "comment": "Ritual regulations are fulfilled in Christ. The Church now calls believers beyond old ceremonial law to a deeper spiritual reality centered in Christ."
+      "comment": "Ritual regulations are fulfilled in Christ. The Church now calls believers beyond old ceremonial law to a deeper spiritual reality centered in Christ.",
+      "sectionHeader": "Freedom from Legalism"
     },
     {
       "pk": 58002017,
@@ -242,7 +246,8 @@
       "verse": 20,
       "text": "If with Christ you died to the elemental spirits of the world, why, as though living in the world, do you submit to its regulations—",
       "links": "<a href='/AIV/45/6/2-3'>Rom. 6:2-3</a>",
-      "comment": "Through union with Christ believers die to old, worldly spiritual powers. Paul warns against returning to rules that no longer apply in the new life of faith."
+      "comment": "Through union with Christ believers die to old, worldly spiritual powers. Paul warns against returning to rules that no longer apply in the new life of faith.",
+      "sectionHeader": "The Futility of Human Regulations"
     },
     {
       "pk": 58002021,
@@ -281,5 +286,32 @@
       "comment": "Outward religious acts may look wise but lack power without the inner transformation given by grace. The spiritual life is not achieved through mere discipline, but by living in union with Christ through the mysteries He left His Church."
     }
   ],
-  "translatedAt": "2025-12-24T12:06:47.192Z"
+  "translatedAt": "2025-12-24T12:06:47.192Z",
+  "sections": [
+    {
+      "title": "Christ, the Mystery of God",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Warning Against False Philosophy",
+      "startVerse": 8,
+      "endVerse": 10
+    },
+    {
+      "title": "New Life in Christ",
+      "startVerse": 11,
+      "endVerse": 15
+    },
+    {
+      "title": "Freedom from Legalism",
+      "startVerse": 16,
+      "endVerse": 19
+    },
+    {
+      "title": "The Futility of Human Regulations",
+      "startVerse": 20,
+      "endVerse": 23
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "LORD, remember David and all his hardships;",
       "links": "<a href='/AIV/13/17/23-27'>1 Chr. 17:23-27</a>; <a href='/AIV/19/89/47'>Ps. 89:47</a>",
-      "comment": "The psalm begins as a prayer recalling David's suffering and faithfulness. The tradition remembers David’s steadfast devotion, setting the stage for a focus on God’s covenant with David’s line, which is central to fulfillment in salvation history."
+      "comment": "The psalm begins as a prayer recalling David's suffering and faithfulness. The tradition remembers David’s steadfast devotion, setting the stage for a focus on God’s covenant with David’s line, which is central to fulfillment in salvation history.",
+      "sectionHeader": "David’s Oath to Find a Dwelling for the Lord"
     },
     {
       "pk": 23132002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "The LORD swore a sure oath to David, and He will not turn from it: 'One of your own descendants I will set upon your throne.'",
       "links": "<a href='/AIV/10/7/12-16'>2 Sam. 7:12-16</a>; <a href='/AIV/42/1/32-33'>Luke 1:32-33</a>",
-      "comment": "This is the messianic promise. God’s faithfulness to His oath anticipates the Incarnation and the everlasting kingdom established by Jesus, the descendant of David."
+      "comment": "This is the messianic promise. God’s faithfulness to His oath anticipates the Incarnation and the everlasting kingdom established by Jesus, the descendant of David.",
+      "sectionHeader": "The Lord’s Promise and Blessing for David and Zion"
     },
     {
       "pk": 23132012,
@@ -221,5 +223,17 @@
       "comment": "The defeat of David’s enemies highlights the ultimate victory of God’s anointed. The perpetually shining crown indicates an everlasting kingdom—fulfilled in Christ the King, whose reign has no end."
     }
   ],
-  "translatedAt": "2025-12-24T06:44:51.909Z"
+  "translatedAt": "2025-12-24T06:44:51.909Z",
+  "sections": [
+    {
+      "title": "David’s Oath to Find a Dwelling for the Lord",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "The Lord’s Promise and Blessing for David and Zion",
+      "startVerse": 11,
+      "endVerse": 18
+    }
+  ]
 }

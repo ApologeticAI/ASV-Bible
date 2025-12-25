@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The LORD spoke to Moses, saying:",
       "links": "<a href='/AIV/2/25/1'>Ex. 25:1</a>; <a href='/AIV/3/24/1'>Lev. 24:1</a>",
-      "comment": "This begins a new section where God gives instructions. As with other commands in the Pentateuch, the authority of God is emphasized."
+      "comment": "This begins a new section where God gives instructions. As with other commands in the Pentateuch, the authority of God is emphasized.",
+      "sectionHeader": "The Lighting and Construction of the Lampstand"
     },
     {
       "pk": 4008002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "The LORD spoke to Moses, saying:",
       "links": "",
-      "comment": "Resumes the direct speech of God to Moses, reinforcing the mediation of God’s commands through an appointed leader."
+      "comment": "Resumes the direct speech of God to Moses, reinforcing the mediation of God’s commands through an appointed leader.",
+      "sectionHeader": "Purification and Dedication of the Levites"
     },
     {
       "pk": 4008006,
@@ -278,7 +280,8 @@
       "verse": 23,
       "text": "The LORD spoke to Moses, saying:",
       "links": "",
-      "comment": "Introduces another divine teaching, showing the continuity and detail of God’s instruction regarding worship."
+      "comment": "Introduces another divine teaching, showing the continuity and detail of God’s instruction regarding worship.",
+      "sectionHeader": "The Age and Duties of the Levites"
     },
     {
       "pk": 40080024,
@@ -317,5 +320,22 @@
       "comment": "Even after ‘retirement,’ Levites retain a role in safeguarding the sanctuary, underlying the dignity and enduring nature of priestly service. Reflects the ongoing tradition of prayer and support within a spiritual community."
     }
   ],
-  "translatedAt": "2025-12-24T01:33:54.105Z"
+  "translatedAt": "2025-12-24T01:33:54.105Z",
+  "sections": [
+    {
+      "title": "The Lighting and Construction of the Lampstand",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "Purification and Dedication of the Levites",
+      "startVerse": 5,
+      "endVerse": 22
+    },
+    {
+      "title": "The Age and Duties of the Levites",
+      "startVerse": 23,
+      "endVerse": 26
+    }
+  ]
 }

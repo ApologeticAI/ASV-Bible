@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now the Philistines gathered all their armies at Aphek, and the Israelites camped by the spring which is in Jezreel.",
       "links": "<a href='/AIV/9/4/1'>1Sam 4:1</a>; <a href='/AIV/6/12/3'>Josh. 12:3</a>",
-      "comment": "The location is key—this is the same Jezreel Valley that figures prominently in Israel's history. The Philistine threat is mounting, setting the stage for David's fate. Aphek was a traditional border between Israel and Philistia."
+      "comment": "The location is key—this is the same Jezreel Valley that figures prominently in Israel's history. The Philistine threat is mounting, setting the stage for David's fate. Aphek was a traditional border between Israel and Philistia.",
+      "sectionHeader": "The Philistines Gather for Battle"
     },
     {
       "pk": 9029002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "Then the commanders of the Philistines said, “What are these Hebrews doing here?” And Achish said to the commanders, “This is David, the servant of Saul king of Israel, who has been with me these days or years. I have found no fault in him since he deserted to me until today.”",
       "links": "<a href='/AIV/9/27/5-9'>1Sam 27:5-9</a>; <a href='/AIV/9/28/2'>1Sam 28:2</a>",
-      "comment": "The Philistine commanders are suspicious of David. Achish’s trust in David shows David's skill in diplomacy and obedience when fleeing Saul, a pattern echoed in Christ’s interaction with authorities (see <a href='/AIV/40/22/15-22'>Matt 22:15-22</a>)."
+      "comment": "The Philistine commanders are suspicious of David. Achish’s trust in David shows David's skill in diplomacy and obedience when fleeing Saul, a pattern echoed in Christ’s interaction with authorities (see <a href='/AIV/40/22/15-22'>Matt 22:15-22</a>).",
+      "sectionHeader": "David Dismissed by the Philistine Commanders"
     },
     {
       "pk": 9029004,
@@ -74,7 +76,8 @@
       "verse": 6,
       "text": "Then Achish called David and said to him, “As the LORD lives, you have been upright, and your going out and coming in with me in the army has been good in my sight. For I have not found evil in you since the day you came to me until this day. Nevertheless, the lords do not approve of you.",
       "links": "<a href='/AIV/9/28/2'>1Sam 28:2</a>; <a href='/AIV/9/25/28'>1Sam 25:28</a>",
-      "comment": "Achish, a Gentile king, invokes the LORD in swearing—showing that God's name is feared even among the nations. David foreshadows Christ as the righteous one, wrongly rejected by the rulers (<a href='/AIV/42/23/4'>Luke 23:4</a>)."
+      "comment": "Achish, a Gentile king, invokes the LORD in swearing—showing that God's name is feared even among the nations. David foreshadows Christ as the righteous one, wrongly rejected by the rulers (<a href='/AIV/42/23/4'>Luke 23:4</a>).",
+      "sectionHeader": "Achish Sends David Away"
     },
     {
       "pk": 9029007,
@@ -137,5 +140,22 @@
       "comment": "David’s withdrawal spares him from sinning against his people, highlighting God’s continual direction of events both seen and unseen. Spiritually, this anticipates the shepherd who protects his flock from harm—a model of leadership established by God for the one church across all ages."
     }
   ],
-  "translatedAt": "2025-12-24T03:07:32.951Z"
+  "translatedAt": "2025-12-24T03:07:32.951Z",
+  "sections": [
+    {
+      "title": "The Philistines Gather for Battle",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "David Dismissed by the Philistine Commanders",
+      "startVerse": 3,
+      "endVerse": 5
+    },
+    {
+      "title": "Achish Sends David Away",
+      "startVerse": 6,
+      "endVerse": 11
+    }
+  ]
 }

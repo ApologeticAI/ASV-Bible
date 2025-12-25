@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then some Pharisees and scribes came to Jesus from Jerusalem and said,",
       "links": "<a href='/AIV/41/7/1'>Mark 7:1</a>",
-      "comment": "The Pharisees and scribes were religious leaders known for their strict observation of ancestral traditions. Their journey from Jerusalem illustrates the seriousness with which they approach Jesus, seeing Him as a significant figure to be questioned."
+      "comment": "The Pharisees and scribes were religious leaders known for their strict observation of ancestral traditions. Their journey from Jerusalem illustrates the seriousness with which they approach Jesus, seeing Him as a significant figure to be questioned.",
+      "sectionHeader": "The Tradition of the Elders"
     },
     {
       "pk": 47015002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "Then He called the crowd to Him and said, \"Listen and understand:",
       "links": "<a href='/AIV/41/7/14'>Mark 7:14</a>",
-      "comment": "Jesus now addresses all the people, emphasizing the importance of His teaching by saying 'understand'. This indicates a new and authoritative interpretation, centralizing His role as ultimate teacher."
+      "comment": "Jesus now addresses all the people, emphasizing the importance of His teaching by saying 'understand'. This indicates a new and authoritative interpretation, centralizing His role as ultimate teacher.",
+      "sectionHeader": "What Defiles a Person"
     },
     {
       "pk": 47015011,
@@ -254,7 +256,8 @@
       "verse": 21,
       "text": "Then Jesus left there and withdrew to the region of Tyre and Sidon.",
       "links": "<a href='/AIV/41/7/24'>Mark 7:24</a>",
-      "comment": "Tyre and Sidon lie outside Jewish territory, demonstrating that Jesus’s mission anticipates a wider reach to the nations."
+      "comment": "Tyre and Sidon lie outside Jewish territory, demonstrating that Jesus’s mission anticipates a wider reach to the nations.",
+      "sectionHeader": "The Canaanite Woman's Faith"
     },
     {
       "pk": 47015022,
@@ -350,7 +353,8 @@
       "verse": 29,
       "text": "Jesus went on from there and walked beside the Sea of Galilee. And He went up on the mountain and sat down there.",
       "links": "<a href='/AIV/40/5/1'>Matt. 5:1</a>; <a href='/AIV/41/7/31'>Mark 7:31</a>",
-      "comment": "Jesus's ascent to the mountain recalls Moses, who mediated God's covenant from the mountain, suggesting Jesus as the new and greater lawgiver."
+      "comment": "Jesus's ascent to the mountain recalls Moses, who mediated God's covenant from the mountain, suggesting Jesus as the new and greater lawgiver.",
+      "sectionHeader": "Jesus Heals Many by the Sea of Galilee"
     },
     {
       "pk": 47015030,
@@ -386,7 +390,8 @@
       "verse": 32,
       "text": "Then Jesus called His disciples and said, \"I have compassion on the crowd because they have been with Me now three days and have nothing to eat; and I do not want to send them away hungry, lest they faint on the way.\"",
       "links": "<a href='/AIV/40/14/14-15'>Matt. 14:14-15</a>",
-      "comment": "Compassion leads to practical concern for bodily needs, displaying Christ's both spiritual and physical care for His people. The three days echo themes of preparation for divine encounter."
+      "comment": "Compassion leads to practical concern for bodily needs, displaying Christ's both spiritual and physical care for His people. The three days echo themes of preparation for divine encounter.",
+      "sectionHeader": "The Feeding of the Four Thousand"
     },
     {
       "pk": 47015033,
@@ -473,5 +478,32 @@
       "comment": "Jesus’s movement signals the continuing spread of His mission. He departs, but leaves behind abundant signs and a community fed and gathered, hinting at the continual shepherding and leadership provided for the faithful."
     }
   ],
-  "translatedAt": "2025-12-24T10:10:57.471Z"
+  "translatedAt": "2025-12-24T10:10:57.471Z",
+  "sections": [
+    {
+      "title": "The Tradition of the Elders",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "What Defiles a Person",
+      "startVerse": 10,
+      "endVerse": 20
+    },
+    {
+      "title": "The Canaanite Woman's Faith",
+      "startVerse": 21,
+      "endVerse": 28
+    },
+    {
+      "title": "Jesus Heals Many by the Sea of Galilee",
+      "startVerse": 29,
+      "endVerse": 31
+    },
+    {
+      "title": "The Feeding of the Four Thousand",
+      "startVerse": 32,
+      "endVerse": 39
+    }
+  ]
 }

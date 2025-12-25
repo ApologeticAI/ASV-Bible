@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Come, everyone who thirsts, come to the waters; and you who have no money, come, buy and eat! Come, buy wine and milk without money and without cost.",
       "links": "<a href='/AIV/43/4/13-14'>John 4:13-14</a>; <a href='/AIV/40/5/6'>Matt. 5:6</a>; <a href='/AIV/26/47/9'>Ezek. 47:9</a>",
-      "comment": "Isaiah invites all to receive God's grace freely, a foreshadowing of the universal invitation of the Gospel. The reference to 'waters' recalls Jesus’ promise of living water (John 4:14). The abundance of wine and milk suggests a spiritual feast, often interpreted as the richness of life in Christ and the nourishment found in the sacraments."
+      "comment": "Isaiah invites all to receive God's grace freely, a foreshadowing of the universal invitation of the Gospel. The reference to 'waters' recalls Jesus’ promise of living water (John 4:14). The abundance of wine and milk suggests a spiritual feast, often interpreted as the richness of life in Christ and the nourishment found in the sacraments.",
+      "sectionHeader": "Invitation to the Feast of Salvation"
     },
     {
       "pk": 29055002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "Seek the LORD while he may be found; call upon him while he is near.",
       "links": "<a href='/AIV/24/29/13'>Jer. 29:13</a>; <a href='/AIV/58/4/7'>Heb. 4:7</a>",
-      "comment": "There is an urgency to respond to God's invitation. The possibility of grace is not limitless; conversion and repentance have a proper time. Hebrews 4:7 underscores this call to respond 'today.'"
+      "comment": "There is an urgency to respond to God's invitation. The possibility of grace is not limitless; conversion and repentance have a proper time. Hebrews 4:7 underscores this call to respond 'today.'",
+      "sectionHeader": "God’s Mercy to the Penitent"
     },
     {
       "pk": 29055007,
@@ -122,7 +124,8 @@
       "verse": 10,
       "text": "For just as rain and snow come down from heaven and do not return there without watering the earth, making it bring forth and sprout, giving seed to the sower and bread to the eater,",
       "links": "<a href='/AIV/28/2/21-23'>Hos. 2:21-23</a>; <a href='/AIV/40/13/3-9'>Matt. 13:3-9</a>",
-      "comment": "God’s word is likened to rain: effectual and fruitful. The sower and bread imagery connects with Jesus’ parable of the sower, and the idea that participation in God’s word and sacramental life brings growth."
+      "comment": "God’s word is likened to rain: effectual and fruitful. The sower and bread imagery connects with Jesus’ parable of the sower, and the idea that participation in God’s word and sacramental life brings growth.",
+      "sectionHeader": "The Power of God’s Word"
     },
     {
       "pk": 29055011,
@@ -146,7 +149,8 @@
       "verse": 12,
       "text": "You will go out in joy and be led forth in peace; the mountains and hills will burst into song before you, and all the trees of the field will clap their hands.",
       "links": "<a href='/AIV/19/98/8'>Ps. 98:8</a>; <a href='/AIV/23/35/10'>Isa. 35:10</a>",
-      "comment": "Creation is depicted celebrating redemption. The restoration of joy and peace connects to themes of spiritual fulfillment and the harmony of God's family. The spiritual interpretation points toward the new creation inaugurated in Christ."
+      "comment": "Creation is depicted celebrating redemption. The restoration of joy and peace connects to themes of spiritual fulfillment and the harmony of God's family. The spiritual interpretation points toward the new creation inaugurated in Christ.",
+      "sectionHeader": "Joyful Restoration of Creation"
     },
     {
       "pk": 29055013,
@@ -161,5 +165,27 @@
       "comment": "Thorns and briers—symbols of sin and curse—are replaced by life and beauty, showing spiritual transformation. Everlasting sign references the permanence of God’s work, connected to the new creation and eternal communion with God (Rev. 22:2-3)."
     }
   ],
-  "translatedAt": "2025-12-24T08:16:09.954Z"
+  "translatedAt": "2025-12-24T08:16:09.954Z",
+  "sections": [
+    {
+      "title": "Invitation to the Feast of Salvation",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "God’s Mercy to the Penitent",
+      "startVerse": 6,
+      "endVerse": 9
+    },
+    {
+      "title": "The Power of God’s Word",
+      "startVerse": 10,
+      "endVerse": 11
+    },
+    {
+      "title": "Joyful Restoration of Creation",
+      "startVerse": 12,
+      "endVerse": 13
+    }
+  ]
 }

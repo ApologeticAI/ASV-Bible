@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "A man who stiffens his neck after many rebukes will suddenly be broken beyond healing.",
       "links": "<a href='/AIV/20/6/15'>Prov. 6:15</a>; <a href='/AIV/23/1/4-9'>Isa. 1:4-9</a>",
-      "comment": "Persistent stubbornness against correction leads to destruction. In the spiritual life, ongoing repentance and openness to discipline are crucial. The image of being 'broken beyond healing' underscores the finality of judgment for those who continually reject grace, a theme echoed in Hebrews 10:26-27."
+      "comment": "Persistent stubbornness against correction leads to destruction. In the spiritual life, ongoing repentance and openness to discipline are crucial. The image of being 'broken beyond healing' underscores the finality of judgment for those who continually reject grace, a theme echoed in Hebrews 10:26-27.",
+      "sectionHeader": "The Righteous and the Wicked in Society"
     },
     {
       "pk": 24029002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "If a ruler listens to lies, all his officials become wicked.",
       "links": "<a href='/AIV/20/28/15'>Prov. 28:15</a>; <a href='/AIV/11/21/25'>1 Kings 21:25</a>",
-      "comment": "Leadership sets the moral climate; corrupt leaders nurture corruption throughout their sphere."
+      "comment": "Leadership sets the moral climate; corrupt leaders nurture corruption throughout their sphere.",
+      "sectionHeader": "Justice and Leadership"
     },
     {
       "pk": 24029013,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "The rod and reproof give wisdom, but a child left to himself brings shame to his mother.",
       "links": "<a href='/AIV/20/13/24'>Prov. 13:24</a>; <a href='/AIV/20/23/13'>Prov. 23:13</a>",
-      "comment": "Loving discipline cultivates virtue. In spiritual formation, consistent guidance is non-negotiable; neglect creates spiritual disorder."
+      "comment": "Loving discipline cultivates virtue. In spiritual formation, consistent guidance is non-negotiable; neglect creates spiritual disorder.",
+      "sectionHeader": "Discipline, Vision, and Training"
     },
     {
       "pk": 24029016,
@@ -266,7 +269,8 @@
       "verse": 22,
       "text": "An angry man stirs up strife, and a hot-tempered man causes many transgressions.",
       "links": "<a href='/AIV/20/15/18'>Prov. 15:18</a>; <a href='/AIV/20/16/32'>Prov. 16:32</a>",
-      "comment": "Uncontrolled anger destabilizes peace and fosters sin. Spiritual traditions warn against wrath as a deadly passion."
+      "comment": "Uncontrolled anger destabilizes peace and fosters sin. Spiritual traditions warn against wrath as a deadly passion.",
+      "sectionHeader": "Warnings against Pride, Anger, and Fear of Man"
     },
     {
       "pk": 24029023,
@@ -329,5 +333,27 @@
       "comment": "The fundamental conflict between the righteous and the wicked is a spiritual reality. Genuine uprightness inevitably provokes opposition; this is a central theme throughout the New Testament and is most fully embodied in the life and ministry of Jesus Christ."
     }
   ],
-  "translatedAt": "2025-12-24T07:05:36.519Z"
+  "translatedAt": "2025-12-24T07:05:36.519Z",
+  "sections": [
+    {
+      "title": "The Righteous and the Wicked in Society",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "Justice and Leadership",
+      "startVerse": 12,
+      "endVerse": 14
+    },
+    {
+      "title": "Discipline, Vision, and Training",
+      "startVerse": 15,
+      "endVerse": 21
+    },
+    {
+      "title": "Warnings against Pride, Anger, and Fear of Man",
+      "startVerse": 22,
+      "endVerse": 27
+    }
+  ]
 }

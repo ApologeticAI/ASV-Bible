@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Woe to you, destroyer, who have not been destroyed; and you who deal treacherously, though they have not dealt treacherously with you! When you finish destroying, you will be destroyed; when you have finished dealing treacherously, they will deal treacherously with you.",
       "links": "<a href='/AIV/23/21/2'>Isa. 21:2</a>; <a href='/AIV/24/50/29'>Jer. 50:29</a>",
-      "comment": "This verse delivers a warning against oppressors and betrayers, likely addressing Assyria. The justice of God is highlighted, promising that evil actions will return upon the perpetrator (cf. Matthew 7:2)."
+      "comment": "This verse delivers a warning against oppressors and betrayers, likely addressing Assyria. The justice of God is highlighted, promising that evil actions will return upon the perpetrator (cf. Matthew 7:2).",
+      "sectionHeader": "Woe to the Destroyer and the Prayer for Deliverance"
     },
     {
       "pk": 29033002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "Behold, their brave men cry outside; the envoys of peace weep bitterly.",
       "links": "<a href='/AIV/12/19/9-10'>2 Kings 19:9-10</a>; <a href='/AIV/23/37/2'>Isa. 37:2</a>",
-      "comment": "The anguish of leaders and messengers shows the nation’s distress while under siege, reflecting how reliance on human negotiation falls short compared to God’s deliverance."
+      "comment": "The anguish of leaders and messengers shows the nation’s distress while under siege, reflecting how reliance on human negotiation falls short compared to God’s deliverance.",
+      "sectionHeader": "The LORD’s Judgment and Exaltation"
     },
     {
       "pk": 29033008,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "He who walks righteously and speaks uprightly, who despises the gain of oppression, who shakes his hands, lest they hold a bribe, who stops his ears from hearing of bloodshed and shuts his eyes from looking on evil—",
       "links": "<a href='/AIV/19/15/2-3'>Ps. 15:2-3</a>; <a href='/AIV/20/04/27'>Prov. 4:27</a>",
-      "comment": "This describes those who can endure God's presence—those who practice justice and righteousness. Echoes Psalm 15. Holiness requires not just faith but ethical action, a point affirmed by the apostles (James 2:14-18)."
+      "comment": "This describes those who can endure God's presence—those who practice justice and righteousness. Echoes Psalm 15. Holiness requires not just faith but ethical action, a point affirmed by the apostles (James 2:14-18).",
+      "sectionHeader": "The Righteous in Zion"
     },
     {
       "pk": 29033016,
@@ -206,7 +209,8 @@
       "verse": 17,
       "text": "Your eyes will see the King in his beauty; they will behold a land that stretches afar.",
       "links": "<a href='/AIV/40/05/8'>Matt. 5:8</a>; <a href='/AIV/23/32/1'>Isa. 32:1</a>",
-      "comment": "The promised vision points to the Messiah as King. The 'land far off' suggests the coming reign of God with blessings for his people (see Matthew 5:8 for seeing God)."
+      "comment": "The promised vision points to the Messiah as King. The 'land far off' suggests the coming reign of God with blessings for his people (see Matthew 5:8 for seeing God).",
+      "sectionHeader": "The Glorious Future of Jerusalem"
     },
     {
       "pk": 29033018,
@@ -293,5 +297,27 @@
       "comment": "The forgiveness of sins brings healing and wholeness, echoing the connection Jesus makes between healing and forgiveness (see Matthew 9:2-6). The vision is both physical and spiritual—a community united in faith, sacraments, and divine grace."
     }
   ],
-  "translatedAt": "2025-12-24T08:06:07.934Z"
+  "translatedAt": "2025-12-24T08:06:07.934Z",
+  "sections": [
+    {
+      "title": "Woe to the Destroyer and the Prayer for Deliverance",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "The LORD’s Judgment and Exaltation",
+      "startVerse": 7,
+      "endVerse": 14
+    },
+    {
+      "title": "The Righteous in Zion",
+      "startVerse": 15,
+      "endVerse": 16
+    },
+    {
+      "title": "The Glorious Future of Jerusalem",
+      "startVerse": 17,
+      "endVerse": 24
+    }
+  ]
 }

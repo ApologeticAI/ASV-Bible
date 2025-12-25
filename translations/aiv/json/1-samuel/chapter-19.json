@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Saul spoke to Jonathan his son and to all his servants, telling them to put David to death. But Jonathan, Saul’s son, greatly delighted in David.",
       "links": "<a href='/AIV/9/18/1'>1Sam 18:1</a>; <a href='/AIV/10/1/26'>2Sam 1:26</a>",
-      "comment": "Saul’s jealousy of David intensifies to the point of wanting him dead. Notice Jonathan’s love for David, foreshadowing self-sacrificial friendship, mirrored in Christ’s own sacrificial love (John 15:13)."
+      "comment": "Saul’s jealousy of David intensifies to the point of wanting him dead. Notice Jonathan’s love for David, foreshadowing self-sacrificial friendship, mirrored in Christ’s own sacrificial love (John 15:13).",
+      "sectionHeader": "Jonathan Intercedes for David"
     },
     {
       "pk": 9019002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "Then an evil spirit from the LORD came upon Saul as he was sitting in his house with his spear in his hand. David was playing the lyre.",
       "links": "<a href='/AIV/9/16/14'><1Sam 16:14</a>; <a href='/AIV/9/18/10'>1Sam 18:10</a>",
-      "comment": "Spiritual affliction is seen here as permitted by God, drawing a line between obedience and disobedience. Note the use of music in spiritual warfare and divine service (cf. 2 Kings 3:15, Ephesians 5:19)."
+      "comment": "Spiritual affliction is seen here as permitted by God, drawing a line between obedience and disobedience. Note the use of music in spiritual warfare and divine service (cf. 2 Kings 3:15, Ephesians 5:19).",
+      "sectionHeader": "Saul Attempts to Kill David"
     },
     {
       "pk": 9019010,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "Saul sent messengers to David’s house to watch him and to kill him in the morning. But Michal, David’s wife, told him, 'If you don’t save your life tonight, tomorrow you’ll be killed.'",
       "links": "<a href='/AIV/9/18/20-21'>1Sam 18:20-21</a>; <a href='/AIV/9/19/17'>1Sam 19:17</a>",
-      "comment": "Michal’s intercession assists David’s escape. The theme of a spouse assisting in God’s plan points to marital union ordered to a higher purpose (Ephesians 5:22-32)."
+      "comment": "Michal’s intercession assists David’s escape. The theme of a spouse assisting in God’s plan points to marital union ordered to a higher purpose (Ephesians 5:22-32).",
+      "sectionHeader": "David Escapes with Michal’s Help"
     },
     {
       "pk": 9019012,
@@ -218,7 +221,8 @@
       "verse": 18,
       "text": "Now David fled and escaped, and he went to Samuel at Ramah, and told him all that Saul had done to him. He and Samuel went and stayed at Naioth.",
       "links": "<a href='/AIV/9/7/17'>1Sam 7:17</a>; <a href='/AIV/9/19/19'>1Sam 19:19</a>",
-      "comment": "David returns to the prophetic community, seeking refuge and spiritual guidance. This prefigures seeking safety in the company of God’s holy ones."
+      "comment": "David returns to the prophetic community, seeking refuge and spiritual guidance. This prefigures seeking safety in the company of God’s holy ones.",
+      "sectionHeader": "David Flees to Samuel at Ramah"
     },
     {
       "pk": 9019019,
@@ -266,7 +270,8 @@
       "verse": 22,
       "text": "Then he himself went to Ramah and came to the great well that is in Secu, and he asked, 'Where are Samuel and David?' Someone said, 'Behold, they are at Naioth in Ramah.'",
       "links": "<a href='/AIV/9/7/17'>1Sam 7:17</a>; <a href='/AIV/9/19/18'>1Sam 19:18</a>",
-      "comment": "Saul’s relentless pursuit reflects the recurring drama of man’s opposition and God’s intervention in redemptive history."
+      "comment": "Saul’s relentless pursuit reflects the recurring drama of man’s opposition and God’s intervention in redemptive history.",
+      "sectionHeader": "Saul Prophesies at Naioth"
     },
     {
       "pk": 9019023,
@@ -293,5 +298,32 @@
       "comment": "Saul’s loss of royal dignity and prophetic compulsion shows the reversal of man’s pride. God humbles the mighty and exalts the lowly, a pattern culminating in the Gospel (Luke 1:52). The question 'Is Saul among the prophets?' becomes proverbial for God’s surprising choice and the cost of resisting His will."
     }
   ],
-  "translatedAt": "2025-12-24T03:00:03.882Z"
+  "translatedAt": "2025-12-24T03:00:03.882Z",
+  "sections": [
+    {
+      "title": "Jonathan Intercedes for David",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "Saul Attempts to Kill David",
+      "startVerse": 9,
+      "endVerse": 10
+    },
+    {
+      "title": "David Escapes with Michal’s Help",
+      "startVerse": 11,
+      "endVerse": 17
+    },
+    {
+      "title": "David Flees to Samuel at Ramah",
+      "startVerse": 18,
+      "endVerse": 21
+    },
+    {
+      "title": "Saul Prophesies at Naioth",
+      "startVerse": 22,
+      "endVerse": 24
+    }
+  ]
 }

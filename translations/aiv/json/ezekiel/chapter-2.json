@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "He said to me, “Son of man, stand on your feet, and I will speak to you.”",
       "links": "<a href='/AIV/27/8/17'>Dan. 8:17</a>; <a href='/AIV/44/26/16'>Acts 26:16</a>",
-      "comment": "God addresses Ezekiel as 'son of man,' a humble title emphasizing humanity before divine authority. This phrase is frequent in Ezekiel and points forward to Christ’s favorite self-designation (see <a href='/AIV/40/8/20'>Matt. 8:20</a>). Standing respectfully before God also foreshadows the reverence shown in true liturgical worship."
+      "comment": "God addresses Ezekiel as 'son of man,' a humble title emphasizing humanity before divine authority. This phrase is frequent in Ezekiel and points forward to Christ’s favorite self-designation (see <a href='/AIV/40/8/20'>Matt. 8:20</a>). Standing respectfully before God also foreshadows the reverence shown in true liturgical worship.",
+      "sectionHeader": "The Call and Commissioning of Ezekiel"
     },
     {
       "pk": 33002002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "Then I looked, and I saw a hand stretched out toward me, and in it was a scroll.",
       "links": "<a href='/AIV/26/3/1'>Ezek. 3:1</a>; <a href='/AIV/66/5/1'>Rev. 5:1</a>",
-      "comment": "The hand from heaven invokes earlier imagery of God’s intervention and conveys the scroll as divinely authored. Scrolls often symbolize God's revealed will—here, the prophet is directly entrusted with delivering divine revelation to the people."
+      "comment": "The hand from heaven invokes earlier imagery of God’s intervention and conveys the scroll as divinely authored. Scrolls often symbolize God's revealed will—here, the prophet is directly entrusted with delivering divine revelation to the people.",
+      "sectionHeader": "The Vision of the Scroll"
     },
     {
       "pk": 33002010,
@@ -125,5 +127,17 @@
       "comment": "The scroll written on both sides signifies a full and complete message—one of warning and sorrow, indicating God's justice. This underscores that divine revelation addresses not only encouragement but honest confrontation with sin. Spiritual interpretation sees this as the dual aspect of God's Word: mercy and judgment, always together in His revelation."
     }
   ],
-  "translatedAt": "2025-12-24T08:59:10.346Z"
+  "translatedAt": "2025-12-24T08:59:10.346Z",
+  "sections": [
+    {
+      "title": "The Call and Commissioning of Ezekiel",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "The Vision of the Scroll",
+      "startVerse": 9,
+      "endVerse": 10
+    }
+  ]
 }

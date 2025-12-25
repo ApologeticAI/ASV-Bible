@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now the Philistines fought against Israel. The Israelites fled from before the Philistines, and many of them fell slain on Mount Gilboa.",
       "links": "<a href='/AIV/9/31/1'>1 Sam. 31:1</a>; <a href='/AIV/19/44/9-10'>Ps. 44:9-10</a>",
-      "comment": "This account parallels 1 Samuel 31, showing the defeat of Israel as a consequence of spiritual failure. The spiritual principle of God’s judgment on unfaithfulness is highlighted (see Ps. 44:9-10)."
+      "comment": "This account parallels 1 Samuel 31, showing the defeat of Israel as a consequence of spiritual failure. The spiritual principle of God’s judgment on unfaithfulness is highlighted (see Ps. 44:9-10).",
+      "sectionHeader": "The Death of Saul and His Sons"
     },
     {
       "pk": 13010002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "The next day, when the Philistines came to strip the slain, they discovered Saul and his sons fallen on Mount Gilboa.",
       "links": "<a href='/AIV/9/31/8'>1 Sam. 31:8</a>",
-      "comment": "The shame of defeated Israel is made public. This moment sets up the restoration to come under David, symbolizing how public sin is remedied by public restoration and redemption (cf. Rom. 5:19)."
+      "comment": "The shame of defeated Israel is made public. This moment sets up the restoration to come under David, symbolizing how public sin is remedied by public restoration and redemption (cf. Rom. 5:19).",
+      "sectionHeader": "The Philistines Triumph Over Saul"
     },
     {
       "pk": 13010009,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "When all Jabesh-Gilead heard everything the Philistines had done to Saul,",
       "links": "<a href='/AIV/9/31/11'>1 Sam. 31:11</a>",
-      "comment": "Jabesh-Gilead’s loyalty is a response to Saul’s earlier kindness (compare with 1 Sam. 11:1-11). Their response models gratitude and honor for leadership, a principle echoed in Christian obedience to spiritual authorities (cf. Heb. 13:17)."
+      "comment": "Jabesh-Gilead’s loyalty is a response to Saul’s earlier kindness (compare with 1 Sam. 11:1-11). Their response models gratitude and honor for leadership, a principle echoed in Christian obedience to spiritual authorities (cf. Heb. 13:17).",
+      "sectionHeader": "Burial of Saul and His Sons"
     },
     {
       "pk": 13010012,
@@ -158,7 +161,8 @@
       "verse": 13,
       "text": "So Saul died for his unfaithfulness against the LORD, because he did not keep the word of the LORD and also consulted a medium for guidance.",
       "links": "<a href='/AIV/9/28/7'>1 Sam. 28:7</a>; <a href='/AIV/3/19/31'>Lev. 19:31</a>",
-      "comment": "Here, Saul's death is given theological meaning: it is the direct result of not keeping God’s word and seeking help from a medium, forbidden in the Law (see Lev. 19:31). This underlines the necessity of obedience to God's revealed authority and the rejection of occult practices, a key theme for spiritual fidelity."
+      "comment": "Here, Saul's death is given theological meaning: it is the direct result of not keeping God’s word and seeking help from a medium, forbidden in the Law (see Lev. 19:31). This underlines the necessity of obedience to God's revealed authority and the rejection of occult practices, a key theme for spiritual fidelity.",
+      "sectionHeader": "The Reason for Saul’s Death"
     },
     {
       "pk": 13010014,
@@ -173,5 +177,27 @@
       "comment": "Saul’s failure to seek the LORD is contrasted with David’s chosen status. The text subtly underscores the transition of divine authority and kingship, prefiguring David as a forerunner to the eternal king (see Ps. 78:70-71). This theme draws spiritual attention to the importance of succession in spiritual leadership, echoing the line of spiritual authority and apostolic tradition in the church’s foundation."
     }
   ],
-  "translatedAt": "2025-12-24T04:10:49.692Z"
+  "translatedAt": "2025-12-24T04:10:49.692Z",
+  "sections": [
+    {
+      "title": "The Death of Saul and His Sons",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "The Philistines Triumph Over Saul",
+      "startVerse": 8,
+      "endVerse": 10
+    },
+    {
+      "title": "Burial of Saul and His Sons",
+      "startVerse": 11,
+      "endVerse": 12
+    },
+    {
+      "title": "The Reason for Saul’s Death",
+      "startVerse": 13,
+      "endVerse": 14
+    }
+  ]
 }

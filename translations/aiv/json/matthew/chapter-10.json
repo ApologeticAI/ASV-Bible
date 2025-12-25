@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Jesus called his twelve disciples to himself and gave them authority over unclean spirits, to drive them out, and to heal every disease and every sickness.",
       "links": "<a href='/AIV/41/3/13-15'>Mark 3:13-15</a>; <a href='/AIV/42/9/1-2'>Luke 9:1-2</a>",
-      "comment": "Jesus grants his disciples authority not only to proclaim but to act in his name, indicating a passing on of power and mission. This hints at a divinely established office for the apostles patterned after the Old Testament sending out of leaders (see Exodus 3:10)."
+      "comment": "Jesus grants his disciples authority not only to proclaim but to act in his name, indicating a passing on of power and mission. This hints at a divinely established office for the apostles patterned after the Old Testament sending out of leaders (see Exodus 3:10).",
+      "sectionHeader": "The Mission of the Twelve"
     },
     {
       "pk": 47010002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "These twelve Jesus sent out, commanding them, 'Do not go among the Gentiles or enter any town of the Samaritans.'",
       "links": "<a href='/AIV/15/2/12'>Ezra 2:12</a>; <a href='/AIV/42/9/52'>Luke 9:52</a>",
-      "comment": "The initial mission is to Israel alone, while later (after the resurrection) Jesus commands outreach to all nations (<a href='/AIV/47/28/19'>Matt. 28:19</a>). This demonstrates the priority of God’s covenant people."
+      "comment": "The initial mission is to Israel alone, while later (after the resurrection) Jesus commands outreach to all nations (<a href='/AIV/47/28/19'>Matt. 28:19</a>). This demonstrates the priority of God’s covenant people.",
+      "sectionHeader": "Instructions for the Apostles"
     },
     {
       "pk": 47010006,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "'Behold, I am sending you out like sheep among wolves. So be as wise as serpents and innocent as doves.'",
       "links": "<a href='/AIV/42/10/3'>Luke 10:3</a>",
-      "comment": "Jesus soberly prepares his apostles for persecution. Christians are to exercise prudence and innocence in hostile environments."
+      "comment": "Jesus soberly prepares his apostles for persecution. Christians are to exercise prudence and innocence in hostile environments.",
+      "sectionHeader": "Coming Persecutions"
     },
     {
       "pk": 47010017,
@@ -314,7 +317,8 @@
       "verse": 26,
       "text": "'So do not fear them, for nothing is concealed that will not be revealed, or hidden that will not be known.'",
       "links": "<a href='/AIV/41/4/22'>Mark 4:22</a>; <a href='/AIV/42/8/17'>Luke 8:17</a>",
-      "comment": "At the final judgment, all truth and justice will prevail. God will vindicate his servants."
+      "comment": "At the final judgment, all truth and justice will prevail. God will vindicate his servants.",
+      "sectionHeader": "Fearless Confession of Christ"
     },
     {
       "pk": 47010027,
@@ -482,7 +486,8 @@
       "verse": 40,
       "text": "'Whoever receives you receives me, and whoever receives me receives him who sent me.'",
       "links": "<a href='/AIV/43/13/20'>John 13:20</a>; <a href='/AIV/40/18/5'>Matt. 18:5</a>",
-      "comment": "Jesus links himself with his apostles; receiving them is equivalent to receiving him, and so, the one who sent him (the Father). This grounds the importance of apostolic authority in the church."
+      "comment": "Jesus links himself with his apostles; receiving them is equivalent to receiving him, and so, the one who sent him (the Father). This grounds the importance of apostolic authority in the church.",
+      "sectionHeader": "Rewards for Welcoming Disciples"
     },
     {
       "pk": 47010041,
@@ -509,5 +514,32 @@
       "comment": "Even the smallest act of charity done for Christ’s sake is remembered by God and rewarded, underscoring the reality and importance of deeds of love in the life of faith."
     }
   ],
-  "translatedAt": "2025-12-24T10:07:23.624Z"
+  "translatedAt": "2025-12-24T10:07:23.624Z",
+  "sections": [
+    {
+      "title": "The Mission of the Twelve",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "Instructions for the Apostles",
+      "startVerse": 5,
+      "endVerse": 15
+    },
+    {
+      "title": "Coming Persecutions",
+      "startVerse": 16,
+      "endVerse": 25
+    },
+    {
+      "title": "Fearless Confession of Christ",
+      "startVerse": 26,
+      "endVerse": 39
+    },
+    {
+      "title": "Rewards for Welcoming Disciples",
+      "startVerse": 40,
+      "endVerse": 42
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Woe to the rebellious and defiled city, the one who oppresses!",
       "links": "<a href='/AIV/23/1/21'>Isa. 1:21</a>; <a href='/AIV/26/22/2'>Ezek. 22:2</a>",
-      "comment": "This verse opens an oracle of judgment against Jerusalem, described as rebellious, defiled, and oppressive—a recurring theme in the prophets. The city is often a symbol for God's people as a whole."
+      "comment": "This verse opens an oracle of judgment against Jerusalem, described as rebellious, defiled, and oppressive—a recurring theme in the prophets. The city is often a symbol for God's people as a whole.",
+      "sectionHeader": "Woe to Jerusalem"
     },
     {
       "pk": 43003002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Therefore, wait for Me, declares the LORD, for the day when I rise up for plunder. For My judgment is to gather the nations, to assemble kingdoms, to pour out on them My indignation, all My burning anger. For the whole earth will be consumed by the fire of My jealousy.",
       "links": "<a href='/AIV/23/66/15-16'>Isa. 66:15-16</a>; <a href='/AIV/19/79/6'>Ps. 79:6</a>",
-      "comment": "This has echoes of eschatological judgment seen in Revelation. The 'fire of My jealousy' symbolizes God’s zeal for what is holy, pure, and just."
+      "comment": "This has echoes of eschatological judgment seen in Revelation. The 'fire of My jealousy' symbolizes God’s zeal for what is holy, pure, and just.",
+      "sectionHeader": "The Judgment of the Nations"
     },
     {
       "pk": 43003009,
@@ -110,7 +112,8 @@
       "verse": 9,
       "text": "Then I will give to the peoples purified lips, that all of them may call on the name of the LORD, to serve Him with one accord.",
       "links": "<a href='/AIV/01/11/1-9'>Gen. 11:1-9</a>; <a href='/AIV/44/2/4-11'>Acts 2:4-11</a>",
-      "comment": "A reversal of Babel (Genesis 11), pointing to a time when unity and pure worship will be restored among all peoples. See how this prefigures the gift of tongues at Pentecost (Acts 2), a sign of the Gospel gathering all nations into the one worship of God."
+      "comment": "A reversal of Babel (Genesis 11), pointing to a time when unity and pure worship will be restored among all peoples. See how this prefigures the gift of tongues at Pentecost (Acts 2), a sign of the Gospel gathering all nations into the one worship of God.",
+      "sectionHeader": "The Restoration of Israel"
     },
     {
       "pk": 43003010,
@@ -170,7 +173,8 @@
       "verse": 14,
       "text": "Sing aloud, O daughter of Zion! Shout, O Israel! Be glad and rejoice with all your heart, O daughter of Jerusalem!",
       "links": "<a href='/AIV/23/54/1'>Isa. 54:1</a>; <a href='/AIV/38/9/9'>Zech. 9:9</a>",
-      "comment": "A call to joyful worship, anticipating the fulfillment of salvation. This verse is echoed in the New Testament's depiction of Christ entering Jerusalem (<a href='/AIV/40/21/5'>Matt. 21:5</a>), pointing to Jesus as the king who brings peace."
+      "comment": "A call to joyful worship, anticipating the fulfillment of salvation. This verse is echoed in the New Testament's depiction of Christ entering Jerusalem (<a href='/AIV/40/21/5'>Matt. 21:5</a>), pointing to Jesus as the king who brings peace.",
+      "sectionHeader": "Joy in Zion's Future"
     },
     {
       "pk": 43003015,
@@ -245,5 +249,27 @@
       "comment": "Final restoration—God gathers, restores, and glorifies His people publicly. This universal vision points forward to the consummation of all things in Christ and the gathering of God’s people into one visible and holy Church."
     }
   ],
-  "translatedAt": "2025-12-24T09:53:34.502Z"
+  "translatedAt": "2025-12-24T09:53:34.502Z",
+  "sections": [
+    {
+      "title": "Woe to Jerusalem",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "The Judgment of the Nations",
+      "startVerse": 8,
+      "endVerse": 8
+    },
+    {
+      "title": "The Restoration of Israel",
+      "startVerse": 9,
+      "endVerse": 13
+    },
+    {
+      "title": "Joy in Zion's Future",
+      "startVerse": 14,
+      "endVerse": 20
+    }
+  ]
 }

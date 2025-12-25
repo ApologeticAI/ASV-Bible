@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Hear this, O priests! Pay attention, O house of Israel! Listen, O house of the king! For the judgment is directed to you: for you have become a snare at Mizpah, and a net spread upon Tabor.",
       "links": "<a href='/AIV/23/28/1'>Isa. 28:1</a>; <a href='/AIV/28/9/8'>Hos. 9:8</a>",
-      "comment": "The address to priests, people, and king shows the responsibility of religious and civil leaders. The 'snare' and 'net' imply leading others into sin, reminiscent of spiritual shepherds leading the flock astray. This verse brings to mind the church's call to hold leaders accountable, and echoes Jesus' rebukes against corrupt leadership (compare <a href='/AIV/40/23/13'>Matt. 23:13</a>)."
+      "comment": "The address to priests, people, and king shows the responsibility of religious and civil leaders. The 'snare' and 'net' imply leading others into sin, reminiscent of spiritual shepherds leading the flock astray. This verse brings to mind the church's call to hold leaders accountable, and echoes Jesus' rebukes against corrupt leadership (compare <a href='/AIV/40/23/13'>Matt. 23:13</a>).",
+      "sectionHeader": "Judgment Against Israel and Judah"
     },
     {
       "pk": 35005002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "When Ephraim saw his sickness, and Judah his wound, Ephraim went to Assyria and sent to the great king. But he cannot heal you, nor cure your wound.",
       "links": "<a href='/AIV/28/7/11'>Hos. 7:11</a>; <a href='/AIV/23/30/2'>Isa. 30:2</a>",
-      "comment": "Seeking help from foreign powers instead of God is futile. True healing comes from God alone. This foreshadows Christ as the divine physician whose authority and healing surpass all worldly rulers."
+      "comment": "Seeking help from foreign powers instead of God is futile. True healing comes from God alone. This foreshadows Christ as the divine physician whose authority and healing surpass all worldly rulers.",
+      "sectionHeader": "Israel and Judah Seek Help in Vain"
     },
     {
       "pk": 35005014,
@@ -182,8 +184,26 @@
       "verse": 15,
       "text": "I will return to my place until they admit their guilt and seek my face; in their distress they will earnestly seek me.",
       "links": "<a href='/AIV/28/6/1'>Hos. 6:1</a>; <a href='/AIV/24/29/13'>Jer. 29:13</a>",
-      "comment": "Divine withdrawal is temporary and aims at conversion and restoration. Repentance is the necessary response, pointing ahead to God’s mercy in Christ, where full reconciliation is made possible through both individual contrition and communal confession."
+      "comment": "Divine withdrawal is temporary and aims at conversion and restoration. Repentance is the necessary response, pointing ahead to God’s mercy in Christ, where full reconciliation is made possible through both individual contrition and communal confession.",
+      "sectionHeader": "God Awaits Their Repentance"
     }
   ],
-  "translatedAt": "2025-12-24T09:36:38.494Z"
+  "translatedAt": "2025-12-24T09:36:38.494Z",
+  "sections": [
+    {
+      "title": "Judgment Against Israel and Judah",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "Israel and Judah Seek Help in Vain",
+      "startVerse": 13,
+      "endVerse": 14
+    },
+    {
+      "title": "God Awaits Their Repentance",
+      "startVerse": 15,
+      "endVerse": 15
+    }
+  ]
 }

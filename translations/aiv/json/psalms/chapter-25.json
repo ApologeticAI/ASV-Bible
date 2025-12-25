@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "To you, O LORD, I lift up my soul.",
       "links": "<a href='/AIV/19/86/4'>Ps. 86:4</a>; <a href='/AIV/19/143/8'>Ps. 143:8</a>",
-      "comment": "The psalmist opens with a gesture of complete trust and surrender. Lifting one’s soul is an act of profound dependence on God, paralleling Jesus' own spirit given to the Father (Luke 23:46)."
+      "comment": "The psalmist opens with a gesture of complete trust and surrender. Lifting one’s soul is an act of profound dependence on God, paralleling Jesus' own spirit given to the Father (Luke 23:46).",
+      "sectionHeader": "Prayer for Deliverance and Guidance"
     },
     {
       "pk": 23025002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "Remember your mercy, O LORD, and your steadfast love, for they have been from of old.",
       "links": "<a href='/AIV/02/34/6'>Ex. 34:6</a>; <a href='/AIV/19/89/1'>Ps. 89:1</a>",
-      "comment": "The plea is rooted in God’s covenantal faithfulness. His mercy and steadfast love are central themes throughout scripture, culminating in the incarnation as the fulfillment of divine compassion."
+      "comment": "The plea is rooted in God’s covenantal faithfulness. His mercy and steadfast love are central themes throughout scripture, culminating in the incarnation as the fulfillment of divine compassion.",
+      "sectionHeader": "Confession and Trust in God's Mercy"
     },
     {
       "pk": 23025007,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "Who is the man who fears the LORD? He will instruct him in the way he should choose.",
       "links": "<a href='/AIV/19/32/8'>Ps. 32:8</a>; <a href='/AIV/20/3/6'>Prov. 3:6</a>",
-      "comment": "Fear of the Lord is a recurring biblical principle leading to divine guidance. The wisdom tradition, continued in the Christian life, emphasizes docility to God's teaching."
+      "comment": "Fear of the Lord is a recurring biblical principle leading to divine guidance. The wisdom tradition, continued in the Christian life, emphasizes docility to God's teaching.",
+      "sectionHeader": "Blessings for Those Who Fear the Lord"
     },
     {
       "pk": 23025013,
@@ -194,7 +197,8 @@
       "verse": 16,
       "text": "Turn to me and be gracious to me, for I am lonely and afflicted.",
       "links": "<a href='/AIV/19/69/16'>Ps. 69:16</a>; <a href='/AIV/40/11/28'>Matt. 11:28</a>",
-      "comment": "Suffering and isolation draw us closer to God’s mercy. This finds its resonance in Jesus’ invitation to the weary and burdened."
+      "comment": "Suffering and isolation draw us closer to God’s mercy. This finds its resonance in Jesus’ invitation to the weary and burdened.",
+      "sectionHeader": "Supplication in Times of Distress"
     },
     {
       "pk": 23025017,
@@ -266,8 +270,36 @@
       "verse": 22,
       "text": "Redeem Israel, O God, out of all his troubles.",
       "links": "<a href='/AIV/19/130/8'>Ps. 130:8</a>; <a href='/AIV/23/59/20'>Isa. 59:20</a>",
-      "comment": "The Psalm closes with a prayer for the redemption of the people as a whole, foreshadowing Jesus as the Redeemer of Israel and all mankind. Collective redemption is a recurring biblical theme, which speaks not only to individual but communal salvation."
+      "comment": "The Psalm closes with a prayer for the redemption of the people as a whole, foreshadowing Jesus as the Redeemer of Israel and all mankind. Collective redemption is a recurring biblical theme, which speaks not only to individual but communal salvation.",
+      "sectionHeader": "Prayer for Israel's Redemption"
     }
   ],
-  "translatedAt": "2025-12-24T06:06:53.702Z"
+  "translatedAt": "2025-12-24T06:06:53.702Z",
+  "sections": [
+    {
+      "title": "Prayer for Deliverance and Guidance",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Confession and Trust in God's Mercy",
+      "startVerse": 6,
+      "endVerse": 11
+    },
+    {
+      "title": "Blessings for Those Who Fear the Lord",
+      "startVerse": 12,
+      "endVerse": 15
+    },
+    {
+      "title": "Supplication in Times of Distress",
+      "startVerse": 16,
+      "endVerse": 21
+    },
+    {
+      "title": "Prayer for Israel's Redemption",
+      "startVerse": 22,
+      "endVerse": 22
+    }
+  ]
 }

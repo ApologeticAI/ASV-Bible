@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "These are the last words of David: The declaration of David the son of Jesse, the declaration of the man raised on high, the anointed of the God of Jacob, the sweet psalmist of Israel:",
       "links": "<a href='/AIV/09/16/13'>1 Sam. 16:13</a>; <a href='/AIV/19/78/70-71'>Ps. 78:70-71</a>",
-      "comment": "David is identified as both king and prophet, emphasizing God's choice and anointing. The phrase 'sweet psalmist of Israel' links his kingship and spiritual leadership."
+      "comment": "David is identified as both king and prophet, emphasizing God's choice and anointing. The phrase 'sweet psalmist of Israel' links his kingship and spiritual leadership.",
+      "sectionHeader": "The Last Words of David"
     },
     {
       "pk": 10023002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "These are the names of David’s mighty men: Josheb-basshebeth the Tahkemonite was chief of the three; he wielded his spear against eight hundred men whom he killed at one time.",
       "links": "<a href='/AIV/13/11/11'>1 Chron. 11:11</a>",
-      "comment": "The focus now shifts from David’s final words to a historical listing of his warriors, recalling Israel's tradition of recording the mighty deeds of God's servants."
+      "comment": "The focus now shifts from David’s final words to a historical listing of his warriors, recalling Israel's tradition of recording the mighty deeds of God's servants.",
+      "sectionHeader": "David’s Mighty Men"
     },
     {
       "pk": 10023009,
@@ -473,5 +475,17 @@
       "comment": "Uriah’s inclusion is particularly striking. Though a Gentile, he is honored among David’s mightiest. His fidelity stands as a model of ultimate loyalty even in the midst of human failure and sin in leadership; this anticipates God’s power to sanctify those from every background through faithfulness."
     }
   ],
-  "translatedAt": "2025-12-24T03:25:52.467Z"
+  "translatedAt": "2025-12-24T03:25:52.467Z",
+  "sections": [
+    {
+      "title": "The Last Words of David",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "David’s Mighty Men",
+      "startVerse": 8,
+      "endVerse": 39
+    }
+  ]
 }

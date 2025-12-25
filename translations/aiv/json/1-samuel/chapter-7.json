@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The men of Kiriath-jearim came and took up the Ark of the LORD. They brought it to the house of Abinadab on the hill, and they consecrated his son Eleazar to guard the Ark of the LORD.",
       "links": "<a href='/AIV/9/6/21'>1Sam 6:21</a>; <a href='/AIV/13/13/6-7'>1Chr 13:6–7</a>",
-      "comment": "Abinadab's son is specially set apart to care for the Ark, emphasizing the importance of consecration in worship. This priestly role foreshadows the New Testament idea of specific service to God (Luke 1:8-9)."
+      "comment": "Abinadab's son is specially set apart to care for the Ark, emphasizing the importance of consecration in worship. This priestly role foreshadows the New Testament idea of specific service to God (Luke 1:8-9).",
+      "sectionHeader": "The Ark at Kiriath-jearim"
     },
     {
       "pk": 9007002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "Then Samuel spoke to all the house of Israel, saying, 'If you are returning to the LORD with all your heart, put away the foreign gods and the Ashtaroth from among you. Direct your hearts to the LORD and serve him only, and he will deliver you from the hand of the Philistines.'",
       "links": "<a href='/AIV/5/6/5'>Deut 6:5</a>; <a href='/AIV/7/2/12-13'>Judges 2:12-13</a>; <a href='/AIV/40/4/10'>Matt 4:10</a>",
-      "comment": "True conversion requires exclusive devotion and the rejection of idols. The call to serve God 'only' echoes the Shema of Deuteronomy 6:5 and prefigures Jesus’ command to worship God alone. Spiritual renewal always begins with the heart’s full surrender."
+      "comment": "True conversion requires exclusive devotion and the rejection of idols. The call to serve God 'only' echoes the Shema of Deuteronomy 6:5 and prefigures Jesus’ command to worship God alone. Spiritual renewal always begins with the heart’s full surrender.",
+      "sectionHeader": "Israel Returns to the LORD at Mizpah"
     },
     {
       "pk": 9007004,
@@ -86,7 +88,8 @@
       "verse": 7,
       "text": "Now when the Philistines heard that the Israelites had gathered at Mizpah, the rulers of the Philistines went up against Israel. When the Israelites heard of it, they were afraid of the Philistines.",
       "links": "<a href='/AIV/7/10/17'>Judges 10:17</a>",
-      "comment": "Israel’s vulnerability in worship is met by foreign threat—often, spiritual renewal is tested by opposition. Fear here foreshadows the need to trust God’s deliverance amidst trial, anticipating greater spiritual battles (Eph 6:12)."
+      "comment": "Israel’s vulnerability in worship is met by foreign threat—often, spiritual renewal is tested by opposition. Fear here foreshadows the need to trust God’s deliverance amidst trial, anticipating greater spiritual battles (Eph 6:12).",
+      "sectionHeader": "Victory Over the Philistines"
     },
     {
       "pk": 9007008,
@@ -182,7 +185,8 @@
       "verse": 15,
       "text": "Samuel judged Israel all the days of his life.",
       "links": "<a href='/AIV/7/2/16'>Judges 2:16</a>",
-      "comment": "Samuel's lifelong leadership mirrors the stability and continuity valued in the people of God. His role as judge, prophet, and priest makes him a type of the coming perfect leader."
+      "comment": "Samuel's lifelong leadership mirrors the stability and continuity valued in the people of God. His role as judge, prophet, and priest makes him a type of the coming perfect leader.",
+      "sectionHeader": "Samuel's Judgeship"
     },
     {
       "pk": 9007016,
@@ -209,5 +213,27 @@
       "comment": "Building an altar in his hometown shows Samuel’s personal devotion and the centrality of worship in daily life. Establishing a center for worship highlights the importance of sacred space and ongoing sacrifice, which is foundational to covenant worship and is later fulfilled in a more perfect and lasting way (see John 4:21-24)."
     }
   ],
-  "translatedAt": "2025-12-24T02:52:14.629Z"
+  "translatedAt": "2025-12-24T02:52:14.629Z",
+  "sections": [
+    {
+      "title": "The Ark at Kiriath-jearim",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "Israel Returns to the LORD at Mizpah",
+      "startVerse": 3,
+      "endVerse": 6
+    },
+    {
+      "title": "Victory Over the Philistines",
+      "startVerse": 7,
+      "endVerse": 14
+    },
+    {
+      "title": "Samuel's Judgeship",
+      "startVerse": 15,
+      "endVerse": 17
+    }
+  ]
 }

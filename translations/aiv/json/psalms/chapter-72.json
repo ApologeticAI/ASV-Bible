@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "God, give Your judgment to the king, and Your righteousness to the king’s son.",
       "links": "<a href='/AIV/10/7/12-16'>2 Sam. 7:12-16</a>; <a href='/AIV/19/89/14'>Ps. 89:14</a>",
-      "comment": "This is a prayer for the king, likely Solomon, asking God to grant wisdom and righteousness. The reference to the king’s son hints at a royal line, prefiguring the eternal kingship fulfilled in Christ (see Luke 1:32-33)."
+      "comment": "This is a prayer for the king, likely Solomon, asking God to grant wisdom and righteousness. The reference to the king’s son hints at a royal line, prefiguring the eternal kingship fulfilled in Christ (see Luke 1:32-33).",
+      "sectionHeader": "The King’s Reign of Justice and Peace"
     },
     {
       "pk": 23072002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "He will rule from sea to sea, and from the River to the ends of the earth.",
       "links": "<a href='/AIV/38/9/10'>Zech. 9:10</a>; <a href='/AIV/27/2/44'>Dan. 2:44</a>",
-      "comment": "The king’s reign is universal, prefiguring Christ’s authority over all nations (see Matthew 28:18-19)."
+      "comment": "The king’s reign is universal, prefiguring Christ’s authority over all nations (see Matthew 28:18-19).",
+      "sectionHeader": "Universal Dominion and Blessing"
     },
     {
       "pk": 23072009,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "Blessed be the LORD God, the God of Israel, who alone does wondrous things.",
       "links": "<a href='/AIV/02/15/11'>Ex. 15:11</a>; <a href='/AIV/19/86/10'>Ps. 86:10</a>",
-      "comment": "Doxology, directing praise to God alone as the source of all good and wondrous works."
+      "comment": "Doxology, directing praise to God alone as the source of all good and wondrous works.",
+      "sectionHeader": "Doxology and Conclusion"
     },
     {
       "pk": 23072019,
@@ -245,5 +248,22 @@
       "comment": "This concluding note marks the end of a collection of Davidic prayers. Tradition assigns much of the Psalter to David, but recognizes others (like Solomon) contributing. The seamless unity of the psalms points toward a broader, continuing tradition of worship and intercession."
     }
   ],
-  "translatedAt": "2025-12-24T06:23:42.856Z"
+  "translatedAt": "2025-12-24T06:23:42.856Z",
+  "sections": [
+    {
+      "title": "The King’s Reign of Justice and Peace",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Universal Dominion and Blessing",
+      "startVerse": 8,
+      "endVerse": 17
+    },
+    {
+      "title": "Doxology and Conclusion",
+      "startVerse": 18,
+      "endVerse": 20
+    }
+  ]
 }

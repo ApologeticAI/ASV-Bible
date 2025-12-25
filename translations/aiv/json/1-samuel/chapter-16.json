@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The LORD said to Samuel, 'How long will you mourn for Saul, since I have rejected him from being king over Israel? Fill your horn with oil, and go. I am sending you to Jesse of Bethlehem, for I have provided for myself a king among his sons.'",
       "links": "<a href='/AIV/09/15/23'>1Sam 15:23</a>; <a href='/AIV/19/78/70'>Ps 78:70</a>; <a href='/AIV/40/01/06'>Matt 1:6</a>",
-      "comment": "God's sovereign choice moves from Saul to one from Bethlehem, foreshadowing the Messiah coming from the same town (Matt 2:6). The use of oil signifies anointing for kingship—a physical sign that also points forward to the anointing of Christ, whose name in Greek means 'anointed one'."
+      "comment": "God's sovereign choice moves from Saul to one from Bethlehem, foreshadowing the Messiah coming from the same town (Matt 2:6). The use of oil signifies anointing for kingship—a physical sign that also points forward to the anointing of Christ, whose name in Greek means 'anointed one'.",
+      "sectionHeader": "Samuel Anoints David"
     },
     {
       "pk": 9016002,
@@ -170,7 +171,8 @@
       "verse": 14,
       "text": "Now the Spirit of the LORD departed from Saul, and an evil spirit from the LORD tormented him.",
       "links": "<a href='/AIV/07/09/23'>Judg 9:23</a>; <a href='/AIV/09/18/10'>1Sam 18:10</a>",
-      "comment": "Saul’s loss of the Spirit signifies the withdrawal of divine favor. Allowing a spirit of judgment signifies God’s control even over instruments of chastisement."
+      "comment": "Saul’s loss of the Spirit signifies the withdrawal of divine favor. Allowing a spirit of judgment signifies God’s control even over instruments of chastisement.",
+      "sectionHeader": "David in Saul’s Service"
     },
     {
       "pk": 9016015,
@@ -281,5 +283,17 @@
       "comment": "The power of sacred music and the ministry of the anointed bring true spiritual relief, echoing the later sacramental and liturgical life that brings healing to God’s people through material means joined to divine grace."
     }
   ],
-  "translatedAt": "2025-12-24T02:57:59.508Z"
+  "translatedAt": "2025-12-24T02:57:59.508Z",
+  "sections": [
+    {
+      "title": "Samuel Anoints David",
+      "startVerse": 1,
+      "endVerse": 13
+    },
+    {
+      "title": "David in Saul’s Service",
+      "startVerse": 14,
+      "endVerse": 23
+    }
+  ]
 }

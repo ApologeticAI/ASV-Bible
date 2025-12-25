@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Come, let us return to the LORD. For he has torn us, but he will heal us; he has struck us down, but he will bind up our wounds.",
       "links": "<a href='/AIV/23/1/18'>Isa. 1:18</a>; <a href='/AIV/19/147/3'>Ps. 147:3</a>; <a href='/AIV/28/5/13'>Hos. 5:13'</a>",
-      "comment": "This verse opens with a call to communal repentance, recognizing God's disciplinary actions and his promise to restore. The healing and binding imagery anticipates spiritual renewal, foreshadowing Christ's ministry as healer and reconciler (see Isa 53:5)."
+      "comment": "This verse opens with a call to communal repentance, recognizing God's disciplinary actions and his promise to restore. The healing and binding imagery anticipates spiritual renewal, foreshadowing Christ's ministry as healer and reconciler (see Isa 53:5).",
+      "sectionHeader": "Call to Repentance and Promise of Healing"
     },
     {
       "pk": 35006002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "Ephraim, what shall I do with you? Judah, what shall I do with you? Your loyalty is like a morning cloud, or like dew that quickly disappears.",
       "links": "<a href='/AIV/28/13/3'>Hos. 13:3</a>; <a href='/AIV/23/29/13'>Isa. 29:13</a>",
-      "comment": "God laments the fickleness of his people’s devotion, which is fleeting. The contrast between divine steadfastness and human inconsistency hints at humanity's need for deeper formation and perseverance in faith."
+      "comment": "God laments the fickleness of his people’s devotion, which is fleeting. The contrast between divine steadfastness and human inconsistency hints at humanity's need for deeper formation and perseverance in faith.",
+      "sectionHeader": "God's Desire for Mercy, Not Sacrifice"
     },
     {
       "pk": 35006005,
@@ -86,7 +88,8 @@
       "verse": 7,
       "text": "But like Adam, they have broken the covenant; they have been unfaithful to me there.",
       "links": "<a href='/AIV/01/3/6'>Gen. 3:6</a>; <a href='/AIV/19/78/57'>Ps. 78:57</a>",
-      "comment": "Israel's breach mirrors the earliest human covenant violation, reinforcing the universality of sin and the need for restoration. The idea of covenant-breaking points to the necessity of grace mediated through established sacred means."
+      "comment": "Israel's breach mirrors the earliest human covenant violation, reinforcing the universality of sin and the need for restoration. The idea of covenant-breaking points to the necessity of grace mediated through established sacred means.",
+      "sectionHeader": "Israel's Unfaithfulness and Judgment"
     },
     {
       "pk": 35006008,
@@ -137,5 +140,22 @@
       "comment": "Though judgment is coming, there remains a promise of restoration for Judah. The harvest imagery links to both eschatological hope and the idea of spiritual renewal through divinely appointed seasons of grace (cf. Joel 3:1)."
     }
   ],
-  "translatedAt": "2025-12-24T09:36:52.216Z"
+  "translatedAt": "2025-12-24T09:36:52.216Z",
+  "sections": [
+    {
+      "title": "Call to Repentance and Promise of Healing",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "God's Desire for Mercy, Not Sacrifice",
+      "startVerse": 4,
+      "endVerse": 6
+    },
+    {
+      "title": "Israel's Unfaithfulness and Judgment",
+      "startVerse": 7,
+      "endVerse": 11
+    }
+  ]
 }

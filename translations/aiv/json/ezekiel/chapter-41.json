@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then he brought me to the temple and measured the doorposts. Each doorpost was six cubits wide on each side—the width of the tent.",
       "links": "<a href='/AIV/02/26/22-23'>Exod. 26:22-23</a>; <a href='/AIV/26/40/48-49'>Ezek. 40:48-49</a>",
-      "comment": "Ezekiel is led into the main temple structure. The specific measurements highlight the importance of precision in worship. The word 'tent' links the temple to the tabernacle in the wilderness, emphasizing continuity and the dwelling of God's presence among His people."
+      "comment": "Ezekiel is led into the main temple structure. The specific measurements highlight the importance of precision in worship. The word 'tent' links the temple to the tabernacle in the wilderness, emphasizing continuity and the dwelling of God's presence among His people.",
+      "sectionHeader": "Measurements of the Temple and the Most Holy Place"
     },
     {
       "pk": 33041002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "Then he measured the wall of the temple, six cubits thick; and the width of the side chambers all around the temple was four cubits.",
       "links": "<a href='/AIV/11/6/5-6'>1 Kgs. 6:5-6</a>",
-      "comment": "The thick walls and side chambers emphasize protection and structure, signifying the strength and permanence of God's dwelling. The many chambers may hint at the multiplicity of roles and ministries that sustain true worship."
+      "comment": "The thick walls and side chambers emphasize protection and structure, signifying the strength and permanence of God's dwelling. The many chambers may hint at the multiplicity of roles and ministries that sustain true worship.",
+      "sectionHeader": "Description of the Side Chambers and Buildings"
     },
     {
       "pk": 33041006,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "the thresholds, the narrow windows, and the galleries surrounding the three stories opposite the threshold, were paneled with wood all around from the floor up to the windows; now the windows were covered,",
       "links": "<a href='/AIV/11/6/4-6'>1 Kgs. 6:4-6</a>",
-      "comment": "The wood panels and covered windows represent reverence for holiness and a separation from the profane world, indicating the sacramental reality of hidden divine mysteries."
+      "comment": "The wood panels and covered windows represent reverence for holiness and a separation from the profane world, indicating the sacramental reality of hidden divine mysteries.",
+      "sectionHeader": "Woodwork, Ornamentation, and Altar in the Sanctuary"
     },
     {
       "pk": 33041017,
@@ -317,5 +320,22 @@
       "comment": "The recurring imagery and physical structure point forward to the sacredness of God’s true sanctuary. The coverings and canopies, setting apart and protecting what is holy, foreshadow the sacramental development of worship, inviting all to deeper reverence and participation in holy mysteries."
     }
   ],
-  "translatedAt": "2025-12-24T09:22:05.734Z"
+  "translatedAt": "2025-12-24T09:22:05.734Z",
+  "sections": [
+    {
+      "title": "Measurements of the Temple and the Most Holy Place",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "Description of the Side Chambers and Buildings",
+      "startVerse": 5,
+      "endVerse": 15
+    },
+    {
+      "title": "Woodwork, Ornamentation, and Altar in the Sanctuary",
+      "startVerse": 16,
+      "endVerse": 26
+    }
+  ]
 }

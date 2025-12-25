@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Your imperishable spirit is in all things.",
       "links": "<a href='/AIV/19/139/7-10'>Ps. 139:7-10</a>; <a href='/AIV/18/34/14-15'>Job 34:14-15</a>",
-      "comment": "The wisdom literature here testifies to the omnipresence of God's Spirit. This affirms both the sustaining power of the Spirit in creation and the intimate involvement of God in the world. See also Genesis 1:2 for the Spirit’s role in creation."
+      "comment": "The wisdom literature here testifies to the omnipresence of God's Spirit. This affirms both the sustaining power of the Spirit in creation and the intimate involvement of God in the world. See also Genesis 1:2 for the Spirit’s role in creation.",
+      "sectionHeader": "God’s Mercy and Patient Correction"
     },
     {
       "pk": 27012002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "For you hated the ancient inhabitants of your holy land,",
       "links": "<a href='/AIV/01/15/16'>Gen. 15:16</a>; <a href='/AIV/02/34/11'>Ex. 34:11'</a>",
-      "comment": "The ‘holy land’ here refers to the promised land given to Israel. Divine hatred is an expression of God’s opposition to persistent and grave evil, not an emotion as humans experience; see Psalm 5:4-6."
+      "comment": "The ‘holy land’ here refers to the promised land given to Israel. Divine hatred is an expression of God’s opposition to persistent and grave evil, not an emotion as humans experience; see Psalm 5:4-6.",
+      "sectionHeader": "Judgment of the Ancient Inhabitants"
     },
     {
       "pk": 27012004,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "For who will say to you, 'What have you done?' Or who will resist your judgment? Who will rebuke you for the destruction of nations you created?",
       "links": "<a href='/AIV/18/9/12'>Job 9:12</a>; <a href='/AIV/45/9/19-21'>Rom. 9:19-21</a>",
-      "comment": "Highlights God’s absolute sovereignty and justice. No one can question the judgments of God. Cross reference Romans 9, where Paul uses similar language."
+      "comment": "Highlights God’s absolute sovereignty and justice. No one can question the judgments of God. Cross reference Romans 9, where Paul uses similar language.",
+      "sectionHeader": "Divine Justice and Mercy Toward All"
     },
     {
       "pk": 27012013,
@@ -230,7 +233,8 @@
       "verse": 19,
       "text": "By such deeds you have taught your people that those who are righteous should be kind, and you have given your children the blessed hope that repentance will be granted.",
       "links": "<a href='/AIV/20/21/21'>Prov. 21:21</a>; <a href='/AIV/61/3/9'>2 Pet. 3:9</a>",
-      "comment": "The link between righteousness and kindness is emphasized. The hope in repentance points to a tradition of reconciliation and forgiveness, later key in New Testament teaching (see 1 John 1:9)."
+      "comment": "The link between righteousness and kindness is emphasized. The hope in repentance points to a tradition of reconciliation and forgiveness, later key in New Testament teaching (see 1 John 1:9).",
+      "sectionHeader": "Lessons of Discipline and the Hope of Repentance"
     },
     {
       "pk": 27012020,
@@ -290,7 +294,8 @@
       "verse": 24,
       "text": "for though they practiced hatred toward outsiders, worshiped strange powers, and performed deeds of impiety, you did not destroy them quickly, but gave them time and place to turn away from their wrongs.",
       "links": "<a href='/AIV/05/18/9-14'>Deut. 18:9-14</a>; <a href='/AIV/24/18/7-8'>Jer. 18:7-8</a>",
-      "comment": "God’s patience stands in sharp contrast to the harshness of human judgment; His waiting opens the door to repentance. Spiritual interpretation: The mercy shown here presages Jesus’s teachings on forgiveness."
+      "comment": "God’s patience stands in sharp contrast to the harshness of human judgment; His waiting opens the door to repentance. Spiritual interpretation: The mercy shown here presages Jesus’s teachings on forgiveness.",
+      "sectionHeader": "Punishment and Mercy for the Wicked"
     },
     {
       "pk": 27012025,
@@ -329,5 +334,32 @@
       "comment": "God’s merciful discipline caused some to seek the forgiveness they once rejected. The narrative closes affirming divine preference and mercy over the chosen people, yet always with the universal call to repent and return."
     }
   ],
-  "translatedAt": "2025-12-24T07:19:48.266Z"
+  "translatedAt": "2025-12-24T07:19:48.266Z",
+  "sections": [
+    {
+      "title": "God’s Mercy and Patient Correction",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "Judgment of the Ancient Inhabitants",
+      "startVerse": 3,
+      "endVerse": 11
+    },
+    {
+      "title": "Divine Justice and Mercy Toward All",
+      "startVerse": 12,
+      "endVerse": 18
+    },
+    {
+      "title": "Lessons of Discipline and the Hope of Repentance",
+      "startVerse": 19,
+      "endVerse": 23
+    },
+    {
+      "title": "Punishment and Mercy for the Wicked",
+      "startVerse": 24,
+      "endVerse": 27
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The LORD spoke to Moses and Aaron, saying to them:",
       "links": "<a href='/AIV/2/7/6-10'>Ex. 7:6-10</a>; <a href='/AIV/4/19/1-2'>Num. 19:1-2</a>",
-      "comment": "God addresses Moses and Aaron as mediators for His people, setting a precedent for divinely appointed leaders who serve as a bridge between God and His people."
+      "comment": "God addresses Moses and Aaron as mediators for His people, setting a precedent for divinely appointed leaders who serve as a bridge between God and His people.",
+      "sectionHeader": "Laws of Clean and Unclean Animals"
     },
     {
       "pk": 3011002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "\"Of all that are in the waters, these may you eat: whatever has fins and scales in the waters, in the seas and in the rivers, those you may eat.",
       "links": "<a href='/AIV/5/14/9'>Deut. 14:9</a>",
-      "comment": "Symbolically, fins and scales represent readiness and armor against impurities, subtly referencing Christian virtues and the spiritual armor of faith (<a href='/AIV/49/6/11-17'>Eph. 6:11-17</a>)."
+      "comment": "Symbolically, fins and scales represent readiness and armor against impurities, subtly referencing Christian virtues and the spiritual armor of faith (<a href='/AIV/49/6/11-17'>Eph. 6:11-17</a>).",
+      "sectionHeader": "Clean and Unclean Creatures of the Waters"
     },
     {
       "pk": 3011010,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "\"Among the birds, these you shall detest; they shall not be eaten; they are detestable: the eagle, the vulture, the black vulture,",
       "links": "<a href='/AIV/5/14/12'>Deut. 14:12</a>",
-      "comment": "Birds of prey are excluded, often associated in Scripture with judgment, reinforcing God’s call to avoid what is spiritually dangerous."
+      "comment": "Birds of prey are excluded, often associated in Scripture with judgment, reinforcing God’s call to avoid what is spiritually dangerous.",
+      "sectionHeader": "Unclean Birds"
     },
     {
       "pk": 3011014,
@@ -242,7 +245,8 @@
       "verse": 20,
       "text": "\"All flying insects that walk on all fours are detestable to you.",
       "links": "<a href='/AIV/5/14/19'>Deut. 14:19</a>",
-      "comment": "Insects generally are considered unclean, except for certain exceptions below, emphasizing discernment even in small matters."
+      "comment": "Insects generally are considered unclean, except for certain exceptions below, emphasizing discernment even in small matters.",
+      "sectionHeader": "Clean and Unclean Insects"
     },
     {
       "pk": 3011021,
@@ -290,7 +294,8 @@
       "verse": 24,
       "text": "\"By these you shall become unclean: whoever touches their carcass shall be unclean until evening.",
       "links": "<a href='/AIV/3/15/5-11'>Lev. 15:5-11</a>",
-      "comment": "Touching the carcass brings temporary impurity, reflecting spiritual consequences for contact with sin and the necessity for purification—a theme typified in sacramental theology."
+      "comment": "Touching the carcass brings temporary impurity, reflecting spiritual consequences for contact with sin and the necessity for purification—a theme typified in sacramental theology.",
+      "sectionHeader": "Regulations Regarding Carcasses and Creeping Things"
     },
     {
       "pk": 3011025,
@@ -530,7 +535,8 @@
       "verse": 44,
       "text": "For I am the LORD your God. Consecrate yourselves therefore, and be holy, for I am holy. You shall not defile yourselves with any crawling thing that moves on the earth.",
       "links": "<a href='/AIV/60/1/15-16'>1 Pet. 1:15-16</a>",
-      "comment": "This verse is pivotal and later quoted in the New Testament, tying the law to the call to spiritual transformation: holiness not as mere ritual, but as the pattern of God Himself."
+      "comment": "This verse is pivotal and later quoted in the New Testament, tying the law to the call to spiritual transformation: holiness not as mere ritual, but as the pattern of God Himself.",
+      "sectionHeader": "Purpose of the Dietary Laws"
     },
     {
       "pk": 3011045,
@@ -569,5 +575,37 @@
       "comment": "God’s gift of discernment is at the heart of the law—preparation for receiving the fullness of truth and the ability to live wholly as God’s people. Christ fulfills this with a new law written on our hearts (<a href='/AIV/58/8/10'>Heb. 8:10</a>)."
     }
   ],
-  "translatedAt": "2025-12-24T01:15:52.916Z"
+  "translatedAt": "2025-12-24T01:15:52.916Z",
+  "sections": [
+    {
+      "title": "Laws of Clean and Unclean Animals",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "Clean and Unclean Creatures of the Waters",
+      "startVerse": 9,
+      "endVerse": 12
+    },
+    {
+      "title": "Unclean Birds",
+      "startVerse": 13,
+      "endVerse": 19
+    },
+    {
+      "title": "Clean and Unclean Insects",
+      "startVerse": 20,
+      "endVerse": 23
+    },
+    {
+      "title": "Regulations Regarding Carcasses and Creeping Things",
+      "startVerse": 24,
+      "endVerse": 43
+    },
+    {
+      "title": "Purpose of the Dietary Laws",
+      "startVerse": 44,
+      "endVerse": 47
+    }
+  ]
 }

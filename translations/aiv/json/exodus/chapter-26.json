@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "You shall make the tabernacle with ten curtains of finely twisted linen, blue, purple, and scarlet yarn. With cherubim skillfully worked into them, you shall make them.",
       "links": "<a href='/AIV/2/25/4'>Exod 25:4</a>; <a href='/AIV/2/36/8'>Exod 36:8</a>",
-      "comment": "The use of cherubim woven into the curtains signifies the nearness of God's heavenly presence to Israel. The colors and materials have symbolic meaning: blue for divinity, purple for royalty, scarlet for sacrifice. This sets the stage for understanding God's dwelling among His people, foreshadowing Christ incarnate (John 1:14)."
+      "comment": "The use of cherubim woven into the curtains signifies the nearness of God's heavenly presence to Israel. The colors and materials have symbolic meaning: blue for divinity, purple for royalty, scarlet for sacrifice. This sets the stage for understanding God's dwelling among His people, foreshadowing Christ incarnate (John 1:14).",
+      "sectionHeader": "The Curtains of the Tabernacle"
     },
     {
       "pk": 2026002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "You shall make curtains of goat hair for a tent over the tabernacle. Make eleven such curtains.",
       "links": "<a href='/AIV/2/36/14'>Exod 36:14</a>",
-      "comment": "The tent of goat hair provided protection. Goats were often used for sin offerings (Lev 16:5), suggesting the need for atonement covering God's dwelling."
+      "comment": "The tent of goat hair provided protection. Goats were often used for sin offerings (Lev 16:5), suggesting the need for atonement covering God's dwelling.",
+      "sectionHeader": "The Coverings for the Tabernacle"
     },
     {
       "pk": 2026008,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "You shall make upright frames for the tabernacle of acacia wood.",
       "links": "<a href='/AIV/2/25/10'>Exod 25:10</a>; <a href='/AIV/2/36/20'>Exod 36:20</a>",
-      "comment": "Acacia wood is durable and incorruptible, symbolizing purity and the imperishable foundation of God’s house; later echoed in the cross of Christ, who is incorruptible (Acts 2:27)."
+      "comment": "Acacia wood is durable and incorruptible, symbolizing purity and the imperishable foundation of God’s house; later echoed in the cross of Christ, who is incorruptible (Acts 2:27).",
+      "sectionHeader": "The Frames and Bars of the Tabernacle"
     },
     {
       "pk": 2026016,
@@ -374,7 +377,8 @@
       "verse": 31,
       "text": "You shall make a veil of blue, purple, and scarlet yarn, and finely twisted linen; it shall be skillfully worked with cherubim.",
       "links": "<a href='/AIV/2/36/35'>Exod 36:35</a>; <a href='/AIV/40/27/51'>Matt 27:51</a>; <a href='/AIV/58/10/19-20'>Heb 10:19-20</a>",
-      "comment": "This veil separated the Holy Place from the Most Holy Place, where God’s presence dwelt. The veil torn at Christ’s death (Matt 27:51) reveals His fulfillment and the new access for believers through His sacrifice."
+      "comment": "This veil separated the Holy Place from the Most Holy Place, where God’s presence dwelt. The veil torn at Christ’s death (Matt 27:51) reveals His fulfillment and the new access for believers through His sacrifice.",
+      "sectionHeader": "The Veil and the Arrangement of the Sanctuary"
     },
     {
       "pk": 2026032,
@@ -434,7 +438,8 @@
       "verse": 36,
       "text": "You shall make a screen for the entrance of the tent, of blue, purple, and scarlet yarn, and finely twisted linen, embroidered with needlework.",
       "links": "<a href='/AIV/2/36/37'>Exod 36:37</a>",
-      "comment": "The entrance was beautiful and inviting, yet only those properly prepared—priests—could enter, foreshadowing the reality of ordained ministry and spiritual preparation."
+      "comment": "The entrance was beautiful and inviting, yet only those properly prepared—priests—could enter, foreshadowing the reality of ordained ministry and spiritual preparation.",
+      "sectionHeader": "The Screen for the Entrance"
     },
     {
       "pk": 2026037,
@@ -449,5 +454,32 @@
       "comment": "Five pillars at the entrance recall the foundation of the Church being the apostles (Eph 2:20). Bronze, a symbol of strength and endurance, ensures the Lord’s house stands secure."
     }
   ],
-  "translatedAt": "2025-12-24T01:00:52.500Z"
+  "translatedAt": "2025-12-24T01:00:52.500Z",
+  "sections": [
+    {
+      "title": "The Curtains of the Tabernacle",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "The Coverings for the Tabernacle",
+      "startVerse": 7,
+      "endVerse": 14
+    },
+    {
+      "title": "The Frames and Bars of the Tabernacle",
+      "startVerse": 15,
+      "endVerse": 30
+    },
+    {
+      "title": "The Veil and the Arrangement of the Sanctuary",
+      "startVerse": 31,
+      "endVerse": 35
+    },
+    {
+      "title": "The Screen for the Entrance",
+      "startVerse": 36,
+      "endVerse": 37
+    }
+  ]
 }

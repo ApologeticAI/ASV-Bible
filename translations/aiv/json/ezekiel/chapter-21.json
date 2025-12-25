@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then the word of the LORD came to me, saying,",
       "links": "<a href='/AIV/26/6/1'>Ezek. 6:1</a>; <a href='/AIV/26/12/1'>Ezek. 12:1</a>",
-      "comment": "The recurring phrase 'the word of the LORD came' emphasizes that Ezekiel speaks with divine authority as a prophet, passing along God's actual message."
+      "comment": "The recurring phrase 'the word of the LORD came' emphasizes that Ezekiel speaks with divine authority as a prophet, passing along God's actual message.",
+      "sectionHeader": "The Sword of the LORD Against Israel"
     },
     {
       "pk": 33021002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "And the word of the LORD came to me, saying,",
       "links": "<a href='/AIV/26/12/1'>Ezek. 12:1</a>",
-      "comment": "A new message signals a new prophetic vision. Repetition underscores the divine origin and importance of the upcoming oracle."
+      "comment": "A new message signals a new prophetic vision. Repetition underscores the divine origin and importance of the upcoming oracle.",
+      "sectionHeader": "The Instrument of Slaughter"
     },
     {
       "pk": 33021009,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "The word of the LORD came to me again, saying,",
       "links": "",
-      "comment": "This introduces a new prophecy, underlining ongoing communication between God and His prophet."
+      "comment": "This introduces a new prophecy, underlining ongoing communication between God and His prophet.",
+      "sectionHeader": "The Sword Directed Toward Jerusalem and Rabbah"
     },
     {
       "pk": 33021019,
@@ -338,7 +341,8 @@
       "verse": 28,
       "text": "And you, son of man, prophesy and say, Thus says the Lord GOD concerning the Ammonites and their reproach. Say: A sword, a sword is drawn for slaughter. It is polished to consume, to flash like lightning—",
       "links": "<a href='/AIV/24/49/2'>Jer. 49:2</a>",
-      "comment": "The Ammonites also face divine judgment. God’s justice is not just for Israel but applies universally—God is Lord of all nations."
+      "comment": "The Ammonites also face divine judgment. God’s justice is not just for Israel but applies universally—God is Lord of all nations.",
+      "sectionHeader": "Prophecy Against the Ammonites"
     },
     {
       "pk": 33021029,
@@ -389,5 +393,27 @@
       "comment": "Finality of judgment—obliteration and no remembrance—confirms God's pronouncement is unchangeable. Yet elsewhere, God’s warnings are meant to lead people to true repentance and future hope. See <a href='/AIV/26/37/12-14'>Ezek. 37:12-14</a> for restoration."
     }
   ],
-  "translatedAt": "2025-12-24T09:09:47.366Z"
+  "translatedAt": "2025-12-24T09:09:47.366Z",
+  "sections": [
+    {
+      "title": "The Sword of the LORD Against Israel",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "The Instrument of Slaughter",
+      "startVerse": 8,
+      "endVerse": 17
+    },
+    {
+      "title": "The Sword Directed Toward Jerusalem and Rabbah",
+      "startVerse": 18,
+      "endVerse": 27
+    },
+    {
+      "title": "Prophecy Against the Ammonites",
+      "startVerse": 28,
+      "endVerse": 32
+    }
+  ]
 }

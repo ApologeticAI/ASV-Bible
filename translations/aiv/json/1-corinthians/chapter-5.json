@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "It is widely reported that among you there is sexual immorality, and a kind that is not even found among the Gentiles—a man has his father’s wife.",
       "links": "<a href='/AIV/3/18/8'>Lev. 18:8</a>; <a href='/AIV/46/5/9-10'>1Cor. 5:9-10</a>",
-      "comment": "Paul confronts an especially scandalous situation of immorality within the Corinthian church, highlighting that even pagan societies shun such acts. This demonstrates the need for strong communal discipline and highlights the authority of the Church to govern moral affairs among believers."
+      "comment": "Paul confronts an especially scandalous situation of immorality within the Corinthian church, highlighting that even pagan societies shun such acts. This demonstrates the need for strong communal discipline and highlights the authority of the Church to govern moral affairs among believers.",
+      "sectionHeader": "Immorality Rebuked"
     },
     {
       "pk": 53005002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "Your boasting is not good. Do you not know that a little yeast leavens the whole batch of dough?",
       "links": "<a href='/AIV/40/16/6-12'>Matt. 16:6-12</a>; <a href='/AIV/2/12/15-20'>Ex. 12:15-20</a>",
-      "comment": "Paul uses the metaphor of leaven to illustrate how tolerating sin corrupts the entire community. This image ties back to the Passover tradition, inviting reflection on spiritual purity and the necessity of removing evil from among the faithful."
+      "comment": "Paul uses the metaphor of leaven to illustrate how tolerating sin corrupts the entire community. This image ties back to the Passover tradition, inviting reflection on spiritual purity and the necessity of removing evil from among the faithful.",
+      "sectionHeader": "Purging the Evil from Among You"
     },
     {
       "pk": 53005007,
@@ -110,7 +112,8 @@
       "verse": 9,
       "text": "I wrote to you in my letter not to associate with sexually immoral people—",
       "links": "<a href='/AIV/53/6/18'>1Cor. 6:18</a>; <a href='/AIV/53/15/33'>1Cor. 15:33</a>",
-      "comment": "Paul refers to an earlier letter, underscoring consistent apostolic instruction regarding moral separation. The Church’s purity relies both on individual morality and communal vigilance—an enduring principle guiding Christian fellowship."
+      "comment": "Paul refers to an earlier letter, underscoring consistent apostolic instruction regarding moral separation. The Church’s purity relies both on individual morality and communal vigilance—an enduring principle guiding Christian fellowship.",
+      "sectionHeader": "Judging Those Within the Church"
     },
     {
       "pk": 53005010,
@@ -161,5 +164,22 @@
       "comment": "Paul quotes the Old Testament (Deut. 13:5) to stress the Church’s responsibility to remove evil from its midst. The repeated theme of communal purity, based on authoritative decisions, anticipates how the visible Church guards doctrine and discipline for the salvation of souls."
     }
   ],
-  "translatedAt": "2025-12-24T11:45:53.375Z"
+  "translatedAt": "2025-12-24T11:45:53.375Z",
+  "sections": [
+    {
+      "title": "Immorality Rebuked",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Purging the Evil from Among You",
+      "startVerse": 6,
+      "endVerse": 8
+    },
+    {
+      "title": "Judging Those Within the Church",
+      "startVerse": 9,
+      "endVerse": 13
+    }
+  ]
 }

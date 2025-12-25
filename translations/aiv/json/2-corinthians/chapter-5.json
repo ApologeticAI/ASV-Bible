@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "For we know that if the earthly tent which is our house is destroyed, we have a building from God, a house not made by hands, eternal in the heavens.",
       "links": "<a href='/AIV/58/11/10'>Heb. 11:10</a>; <a href='/AIV/47/4/18'>2Cor. 4:18</a>",
-      "comment": "Paul contrasts our temporary, earthly bodies with the permanent, heavenly dwelling God provides. This points to an enduring hope beyond death, connecting the Christian’s journey with Abraham seeking the city with foundations, as in Hebrews 11:10."
+      "comment": "Paul contrasts our temporary, earthly bodies with the permanent, heavenly dwelling God provides. This points to an enduring hope beyond death, connecting the Christian’s journey with Abraham seeking the city with foundations, as in Hebrews 11:10.",
+      "sectionHeader": "Our Heavenly Dwelling"
     },
     {
       "pk": 54005002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "For we must all appear before the judgment seat of Christ, so that each may receive recompense for what he has done in the body, whether good or evil.",
       "links": "<a href='/AIV/40/16/27'>Matt. 16:27</a>; <a href='/AIV/45/14/10'>Rom. 14:10</a>",
-      "comment": "Everyone will give account before Christ. The emphasis on judgment according to deeds highlights the need for a transformative faith that produces good works (see Matt. 16:27)."
+      "comment": "Everyone will give account before Christ. The emphasis on judgment according to deeds highlights the need for a transformative faith that produces good works (see Matt. 16:27).",
+      "sectionHeader": "The Judgment Seat of Christ"
     },
     {
       "pk": 54005011,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "So from now on, we regard no one according to the flesh; even though we once regarded Christ according to the flesh, we regard Him thus no longer.",
       "links": "<a href='/AIV/40/13/54-57'>Matt. 13:54-57</a>; <a href='/AIV/50/3/7-8'>Phil. 3:7-8</a>",
-      "comment": "The perspective of faith changes how we see people and Christ Himself. Paul once knew Jesus in a worldly way, but now recognizes His exalted, divine status (see Phil. 3:8)."
+      "comment": "The perspective of faith changes how we see people and Christ Himself. Paul once knew Jesus in a worldly way, but now recognizes His exalted, divine status (see Phil. 3:8).",
+      "sectionHeader": "The Ministry of Reconciliation"
     },
     {
       "pk": 54005017,
@@ -257,5 +260,22 @@
       "comment": "This rich statement of Christ’s sacrifice draws directly from Isaiah 53’s suffering servant. The result is a profound exchange: Christ bears our sins so believers partake in God’s righteousness, not merely declared but truly made righteous in union with Christ."
     }
   ],
-  "translatedAt": "2025-12-24T11:54:46.259Z"
+  "translatedAt": "2025-12-24T11:54:46.259Z",
+  "sections": [
+    {
+      "title": "Our Heavenly Dwelling",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "The Judgment Seat of Christ",
+      "startVerse": 10,
+      "endVerse": 15
+    },
+    {
+      "title": "The Ministry of Reconciliation",
+      "startVerse": 16,
+      "endVerse": 21
+    }
+  ]
 }

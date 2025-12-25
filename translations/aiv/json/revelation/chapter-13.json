@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then I saw a beast rising out of the sea, with ten horns and seven heads. On its horns were ten crowns, and on its heads were names that are blasphemous.",
       "links": "<a href='/AIV/27/7/3-7'>Dan. 7:3-7</a>; <a href='/AIV/66/12/3'>Rev. 12:3</a>",
-      "comment": "The imagery of the beast echoes Daniel's vision of oppressive world empires (see Dan. 7:3-7). The blasphemous names signify rebellion against God. Crowns point to earthly authority, but ultimately allowed under divine sovereignty."
+      "comment": "The imagery of the beast echoes Daniel's vision of oppressive world empires (see Dan. 7:3-7). The blasphemous names signify rebellion against God. Crowns point to earthly authority, but ultimately allowed under divine sovereignty.",
+      "sectionHeader": "The Beast from the Sea"
     },
     {
       "pk": 73013002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "If anyone has an ear, let him hear:",
       "links": "<a href='/AIV/66/2/7'>Rev. 2:7</a>; <a href='/AIV/40/11/15'>Matt. 11:15</a>",
-      "comment": "A call for spiritual discernment—repeated throughout Revelation—reminds believers of the importance of remaining attentive to divine truth revealed through the Spirit, especially as mediated through the apostolic tradition."
+      "comment": "A call for spiritual discernment—repeated throughout Revelation—reminds believers of the importance of remaining attentive to divine truth revealed through the Spirit, especially as mediated through the apostolic tradition.",
+      "sectionHeader": "The Call for Endurance"
     },
     {
       "pk": 73013010,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "Then I saw another beast rising out of the earth. It had two horns like a lamb, but it spoke like a dragon.",
       "links": "<a href='/AIV/66/16/13'>Rev. 16:13</a>; <a href='/AIV/40/7/15'>Matt. 7:15</a>",
-      "comment": "This second beast imitates the Lamb yet speaks with evil intent, an image of false prophecy and deceptive religious authority. The contrast with Christ, the true Lamb, is stark, warning of counterfeit spirituality."
+      "comment": "This second beast imitates the Lamb yet speaks with evil intent, an image of false prophecy and deceptive religious authority. The contrast with Christ, the true Lamb, is stark, warning of counterfeit spirituality.",
+      "sectionHeader": "The Beast from the Earth"
     },
     {
       "pk": 73013012,
@@ -194,7 +197,8 @@
       "verse": 16,
       "text": "It also causes all, both small and great, rich and poor, free and slave, to be marked on their right hand or on their forehead,",
       "links": "<a href='/AIV/5/6/8'>Deut. 6:8</a>; <a href='/AIV/66/7/3'>Rev. 7:3</a>",
-      "comment": "This false mark parodies the biblical tradition of being sealed by God (Deut. 6:8; Rev. 7:3). The dichotomy between God’s mark and that of the beast points to the need for perseverance in visible, unified faith and sacramental commitment."
+      "comment": "This false mark parodies the biblical tradition of being sealed by God (Deut. 6:8; Rev. 7:3). The dichotomy between God’s mark and that of the beast points to the need for perseverance in visible, unified faith and sacramental commitment.",
+      "sectionHeader": "The Mark and the Number of the Beast"
     },
     {
       "pk": 73013017,
@@ -221,5 +225,27 @@
       "comment": "Six hundred sixty-six likely refers to imperfection falling short of divine completion (symbolized by seven). Many interpreters see a historical reference to persecutors of the Church, but the text also points to the call for discernment and fidelity until the end, in union with Christ and the saints."
     }
   ],
-  "translatedAt": "2025-12-24T12:38:12.085Z"
+  "translatedAt": "2025-12-24T12:38:12.085Z",
+  "sections": [
+    {
+      "title": "The Beast from the Sea",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "The Call for Endurance",
+      "startVerse": 9,
+      "endVerse": 10
+    },
+    {
+      "title": "The Beast from the Earth",
+      "startVerse": 11,
+      "endVerse": 15
+    },
+    {
+      "title": "The Mark and the Number of the Beast",
+      "startVerse": 16,
+      "endVerse": 18
+    }
+  ]
 }

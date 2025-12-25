@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "After Jesus finished speaking all these words to the people who were listening, he entered Capernaum.",
       "links": "<a href='/AIV/40/8/5'>Matt. 8:5</a>; <a href='/AIV/43/4/46'>John 4:46'</a>",
-      "comment": "Capernaum was a central location for Jesus’ ministry, with numerous miracles and teachings happening there."
+      "comment": "Capernaum was a central location for Jesus’ ministry, with numerous miracles and teachings happening there.",
+      "sectionHeader": "The Healing of the Centurion’s Servant"
     },
     {
       "pk": 49007002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "Soon afterward, Jesus went to a town called Nain, and his disciples and a large crowd went with him.",
       "links": "",
-      "comment": "Nain was a small village; Jesus’ journey here sets the stage for a dramatic miracle."
+      "comment": "Nain was a small village; Jesus’ journey here sets the stage for a dramatic miracle.",
+      "sectionHeader": "The Raising of the Widow’s Son at Nain"
     },
     {
       "pk": 49007012,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "The disciples of John reported all these things to him.",
       "links": "",
-      "comment": "John the Baptist’s followers observe Jesus’ works and bring them to their leader, highlighting the transition from John’s ministry to Jesus."
+      "comment": "John the Baptist’s followers observe Jesus’ works and bring them to their leader, highlighting the transition from John’s ministry to Jesus.",
+      "sectionHeader": "The Messengers from John the Baptist"
     },
     {
       "pk": 49007019,
@@ -290,7 +293,8 @@
       "verse": 24,
       "text": "After John’s messengers left, Jesus began to speak to the crowds about John: 'What did you go out into the wilderness to see? A reed shaken by the wind?'",
       "links": "",
-      "comment": "Jesus affirms John’s resolute character, contrasting him with something weak or unstable—reinforcing John’s prophetic role."
+      "comment": "Jesus affirms John’s resolute character, contrasting him with something weak or unstable—reinforcing John’s prophetic role.",
+      "sectionHeader": "Jesus’ Testimony about John"
     },
     {
       "pk": 49007025,
@@ -434,7 +438,8 @@
       "verse": 36,
       "text": "One of the Pharisees asked Jesus to eat with him, and he went into the Pharisee's house and took a place at the table.",
       "links": "",
-      "comment": "Jesus enters even skeptical households, showing openness to dialogue and reconciliation."
+      "comment": "Jesus enters even skeptical households, showing openness to dialogue and reconciliation.",
+      "sectionHeader": "The Woman Who Anointed Jesus’ Feet"
     },
     {
       "pk": 49007037,
@@ -605,5 +610,32 @@
       "comment": "Jesus links faith, forgiveness, and peace—a foreshadowing of the salvific experience of reconciliation offered to all who seek him through faith and repentance."
     }
   ],
-  "translatedAt": "2025-12-24T10:44:34.702Z"
+  "translatedAt": "2025-12-24T10:44:34.702Z",
+  "sections": [
+    {
+      "title": "The Healing of the Centurion’s Servant",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "The Raising of the Widow’s Son at Nain",
+      "startVerse": 11,
+      "endVerse": 17
+    },
+    {
+      "title": "The Messengers from John the Baptist",
+      "startVerse": 18,
+      "endVerse": 23
+    },
+    {
+      "title": "Jesus’ Testimony about John",
+      "startVerse": 24,
+      "endVerse": 35
+    },
+    {
+      "title": "The Woman Who Anointed Jesus’ Feet",
+      "startVerse": 36,
+      "endVerse": 50
+    }
+  ]
 }

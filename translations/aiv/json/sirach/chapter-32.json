@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "If you are appointed to preside at a banquet, do not exalt yourself, but act among the guests as one of them. Take care of their needs, then sit down.",
       "links": "<a href='/AIV/42/14/10'>Luke 14:10</a>; <a href='/AIV/20/25/6-7'>Prov. 25:6-7</a>",
-      "comment": "Here, humility is emphasized for those in positions of honor—echoing Christ’s teaching to take the lowest place (Luke 14:10). True authority is found in humble service."
+      "comment": "Here, humility is emphasized for those in positions of honor—echoing Christ’s teaching to take the lowest place (Luke 14:10). True authority is found in humble service.",
+      "sectionHeader": "Conduct at Banquets and Gatherings"
     },
     {
       "pk": 28032002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "Rise early, and seek instruction, and you will find wisdom.",
       "links": "<a href='/AIV/20/8/17'>Prov. 8:17</a>",
-      "comment": "Diligence in seeking wisdom is rewarded; this is spiritual as well as practical advice, pointing to the value of study and perseverance."
+      "comment": "Diligence in seeking wisdom is rewarded; this is spiritual as well as practical advice, pointing to the value of study and perseverance.",
+      "sectionHeader": "The Pursuit of Wisdom"
     },
     {
       "pk": 28032012,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "The lawless man will not accept correction, and finds excuses for doing as he pleases.",
       "links": "<a href='/AIV/20/15/10'>Prov. 15:10</a>; <a href='/AIV/43/3/19-20'>John 3:19-20</a>",
-      "comment": "Resistance to truth and discipline reflects a rebellious heart. Christ rebukes those who prefer darkness to light (John 3:19-20)."
+      "comment": "Resistance to truth and discipline reflects a rebellious heart. Christ rebukes those who prefer darkness to light (John 3:19-20).",
+      "sectionHeader": "Right Judgment and Avoiding Evil"
     },
     {
       "pk": 28032018,
@@ -290,8 +293,31 @@
       "verse": 24,
       "text": "He who keeps the Law multiplies offerings; he who heeds the commandments offers a peace offering.",
       "links": "<a href='/AIV/19/51/16-17'>Ps. 51:16-17</a>; <a href='/AIV/43/14/21'>John 14:21</a>",
-      "comment": "True devotion is more than outward sacrifice—it comes from obedience of heart. Jesus links love of God to keeping his commandments (John 14:21), showing that grace fulfills the Law."
+      "comment": "True devotion is more than outward sacrifice—it comes from obedience of heart. Jesus links love of God to keeping his commandments (John 14:21), showing that grace fulfills the Law.",
+      "sectionHeader": "Observance of the Law"
     }
   ],
-  "translatedAt": "2025-12-24T07:40:20.679Z"
+  "translatedAt": "2025-12-24T07:40:20.679Z",
+  "sections": [
+    {
+      "title": "Conduct at Banquets and Gatherings",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "The Pursuit of Wisdom",
+      "startVerse": 11,
+      "endVerse": 16
+    },
+    {
+      "title": "Right Judgment and Avoiding Evil",
+      "startVerse": 17,
+      "endVerse": 23
+    },
+    {
+      "title": "Observance of the Law",
+      "startVerse": 24,
+      "endVerse": 24
+    }
+  ]
 }

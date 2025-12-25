@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Some men came down from Judea and began teaching the brothers, 'Unless you are circumcised according to the custom of Moses, you cannot be saved.'",
       "links": "<a href='/AIV/03/17/14'>Lev. 17:14</a>; <a href='/AIV/01/17/10'>Gen. 17:10</a>",
-      "comment": "These men insisted on the Mosaic law’s continuing power for salvation, showing the early Church’s struggle to distinguish between old and new covenants."
+      "comment": "These men insisted on the Mosaic law’s continuing power for salvation, showing the early Church’s struggle to distinguish between old and new covenants.",
+      "sectionHeader": "The Council at Jerusalem"
     },
     {
       "pk": 51015002,
@@ -266,7 +267,8 @@
       "verse": 22,
       "text": "Then it seemed good to the apostles and the elders, with the whole church, to choose men from among them, to send to Antioch with Paul and Barnabas: Judas called Barsabbas, and Silas, leading men among the brothers.",
       "links": "<a href='/AIV/44/1/23'>Acts 1:23</a>",
-      "comment": "The whole Church, united with its leaders, takes part in carrying out the council’s decision—showing a model for church communion."
+      "comment": "The whole Church, united with its leaders, takes part in carrying out the council’s decision—showing a model for church communion.",
+      "sectionHeader": "The Letter to the Gentile Believers"
     },
     {
       "pk": 51015023,
@@ -434,7 +436,8 @@
       "verse": 36,
       "text": "After some days Paul said to Barnabas, 'Let us return and visit the brothers in every city where we proclaimed the word of the Lord, and see how they are.'",
       "links": "<a href='/AIV/44/13/4'>Acts 13:4</a>",
-      "comment": "Paul prioritizes pastoral care—following up with communities, a hallmark of living apostolic oversight."
+      "comment": "Paul prioritizes pastoral care—following up with communities, a hallmark of living apostolic oversight.",
+      "sectionHeader": "Paul and Barnabas Separate"
     },
     {
       "pk": 51015037,
@@ -497,5 +500,22 @@
       "comment": "Paul’s work centers on ‘strengthening the churches,’ emphasizing ongoing, visible community life and unity in faith."
     }
   ],
-  "translatedAt": "2025-12-24T11:27:06.965Z"
+  "translatedAt": "2025-12-24T11:27:06.965Z",
+  "sections": [
+    {
+      "title": "The Council at Jerusalem",
+      "startVerse": 1,
+      "endVerse": 21
+    },
+    {
+      "title": "The Letter to the Gentile Believers",
+      "startVerse": 22,
+      "endVerse": 35
+    },
+    {
+      "title": "Paul and Barnabas Separate",
+      "startVerse": 36,
+      "endVerse": 41
+    }
+  ]
 }

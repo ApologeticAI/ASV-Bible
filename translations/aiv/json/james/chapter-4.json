@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "What causes quarrels and fights among you? Do they not come from your own desires for pleasure that wage war within you?",
       "links": "<a href='/AIV/45/7/23'>Rom. 7:23</a>; <a href='/AIV/48/5/17'>Gal. 5:17</a>",
-      "comment": "James introduces moral conflict as rooted in a battle of desires within each person. This echoes Paul's teachings on internal warfare (Rom. 7:23). The focus on the inner struggle hints at the importance of spiritual discipline and self-mastery, often developed through sacramental living and prayer."
+      "comment": "James introduces moral conflict as rooted in a battle of desires within each person. This echoes Paul's teachings on internal warfare (Rom. 7:23). The focus on the inner struggle hints at the importance of spiritual discipline and self-mastery, often developed through sacramental living and prayer.",
+      "sectionHeader": "Warning Against Worldliness"
     },
     {
       "pk": 66004002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "Brothers, do not speak evil against one another. Whoever speaks against a brother or judges him speaks against the law and judges the law. But if you judge the law, you are not a doer of the law but a judge.",
       "links": "<a href='/AIV/40/7/1'>Matt. 7:1</a>; <a href='/AIV/03/19/16'>Lev. 19:16</a>",
-      "comment": "James exhorts the community to avoid slander and judgment, reminding them of Jesus’ warnings (Matt. 7:1). This underlines the need for charity and unity among believers, modeled through the pursuit of holiness together."
+      "comment": "James exhorts the community to avoid slander and judgment, reminding them of Jesus’ warnings (Matt. 7:1). This underlines the need for charity and unity among believers, modeled through the pursuit of holiness together.",
+      "sectionHeader": "Judging a Brother"
     },
     {
       "pk": 66004012,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "Come now, you who say, 'Today or tomorrow we will go into this city, spend a year there, trade, and make a profit,'",
       "links": "<a href='/AIV/20/27/1'>Prov. 27:1</a>; <a href='/AIV/42/12/16-20'>Luke 12:16-20</a>",
-      "comment": "James warns against human presumptions. This echoes Old Testament wisdom on the unpredictability of life (Prov. 27:1) and Jesus’ parable of the rich fool (Luke 12:16-20). The text teaches reliance on divine Providence."
+      "comment": "James warns against human presumptions. This echoes Old Testament wisdom on the unpredictability of life (Prov. 27:1) and Jesus’ parable of the rich fool (Luke 12:16-20). The text teaches reliance on divine Providence.",
+      "sectionHeader": "Warning Against Boasting About Tomorrow"
     },
     {
       "pk": 66004014,
@@ -209,5 +212,22 @@
       "comment": "James draws attention to sins of omission as well as commission. This teaching, also found in Jesus’ words (Luke 12:47), stresses the need for active participation and moral responsibility in the faith community."
     }
   ],
-  "translatedAt": "2025-12-24T12:25:40.783Z"
+  "translatedAt": "2025-12-24T12:25:40.783Z",
+  "sections": [
+    {
+      "title": "Warning Against Worldliness",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "Judging a Brother",
+      "startVerse": 11,
+      "endVerse": 12
+    },
+    {
+      "title": "Warning Against Boasting About Tomorrow",
+      "startVerse": 13,
+      "endVerse": 17
+    }
+  ]
 }

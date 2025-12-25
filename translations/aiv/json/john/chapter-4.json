@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now when Jesus learned that the Pharisees had heard that He was making and baptizing more disciples than John—",
       "links": "<a href='/AIV/43/3/22'>John 3:22</a>; <a href='/AIV/42/7/29-30'>Luke 7:29-30</a>",
-      "comment": "The context notes Jesus' rising influence. Baptism is highlighted here, connecting Jesus' ministry with John's but also showing continuity and development of the practice."
+      "comment": "The context notes Jesus' rising influence. Baptism is highlighted here, connecting Jesus' ministry with John's but also showing continuity and development of the practice.",
+      "sectionHeader": "Jesus and the Samaritan Woman"
     },
     {
       "pk": 50004002,
@@ -374,7 +375,8 @@
       "verse": 31,
       "text": "Meanwhile, the disciples were urging Him, saying, “Rabbi, eat!”",
       "links": "",
-      "comment": "'Rabbi' recognizes Jesus as teacher, but the disciples remain concerned with earthly needs."
+      "comment": "'Rabbi' recognizes Jesus as teacher, but the disciples remain concerned with earthly needs.",
+      "sectionHeader": "The Disciples and the Harvest"
     },
     {
       "pk": 50004032,
@@ -470,7 +472,8 @@
       "verse": 39,
       "text": "Many Samaritans from that town believed in Him because of the woman’s testimony, “He told me everything I ever did.”",
       "links": "",
-      "comment": "Lay witness is powerful in bringing others to belief, but ultimately faith comes through encountering Christ personally."
+      "comment": "Lay witness is powerful in bringing others to belief, but ultimately faith comes through encountering Christ personally.",
+      "sectionHeader": "The Samaritans Believe in Jesus"
     },
     {
       "pk": 50004040,
@@ -554,7 +557,8 @@
       "verse": 46,
       "text": "So He came again to Cana in Galilee, where He had made the water wine. And at Capernaum there was a royal official whose son was ill.",
       "links": "<a href='/AIV/43/2/1-11'>John 2:1-11</a>; <a href='/AIV/42/7/1-10'>Luke 7:1-10</a>",
-      "comment": "Returning to Cana recalls His first sign, linking Jesus’ ministry with miracles of mercy that reveal His glory."
+      "comment": "Returning to Cana recalls His first sign, linking Jesus’ ministry with miracles of mercy that reveal His glory.",
+      "sectionHeader": "Jesus Heals the Official’s Son"
     },
     {
       "pk": 50004047,
@@ -653,5 +657,27 @@
       "comment": "The signs of Jesus are meant to lead to faith in Him as the Messiah and Son of God. Miracles confirm the apostolic witness and point to Christ’s divinity."
     }
   ],
-  "translatedAt": "2025-12-24T11:03:46.786Z"
+  "translatedAt": "2025-12-24T11:03:46.786Z",
+  "sections": [
+    {
+      "title": "Jesus and the Samaritan Woman",
+      "startVerse": 1,
+      "endVerse": 30
+    },
+    {
+      "title": "The Disciples and the Harvest",
+      "startVerse": 31,
+      "endVerse": 38
+    },
+    {
+      "title": "The Samaritans Believe in Jesus",
+      "startVerse": 39,
+      "endVerse": 45
+    },
+    {
+      "title": "Jesus Heals the Official’s Son",
+      "startVerse": 46,
+      "endVerse": 54
+    }
+  ]
 }

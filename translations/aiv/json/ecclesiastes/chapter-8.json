@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Who is like the wise man, and who knows the interpretation of a matter? A man's wisdom brightens his face, and the hardness of his countenance is changed.",
       "links": "<a href='/AIV/20/4/7'>Prov. 4:7</a>; <a href='/AIV/19/34/5'>Ps. 34:5</a>",
-      "comment": "Wisdom transforms not just understanding but a person's outward demeanor. Wisdom in the Bible is depicted as a gift from God. Compare Proverbs, which elevates wisdom as vital to spiritual life. A transformed countenance points to the renewal brought by truth, prefiguring how Christ transforms believers inwardly and outwardly (2 Cor. 3:18)."
+      "comment": "Wisdom transforms not just understanding but a person's outward demeanor. Wisdom in the Bible is depicted as a gift from God. Compare Proverbs, which elevates wisdom as vital to spiritual life. A transformed countenance points to the renewal brought by truth, prefiguring how Christ transforms believers inwardly and outwardly (2 Cor. 3:18).",
+      "sectionHeader": "Obedience to the King and the Limits of Human Power"
     },
     {
       "pk": 25008002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "So I saw the wicked buried, who had come and gone from the holy place, and they were praised in the city where they had done such things. This too is futility.",
       "links": "<a href='/AIV/20/24/16'>Prov. 24:16</a>; <a href='/AIV/19/73/12-19'>Ps. 73:12-19</a>",
-      "comment": "The apparent success of the wicked is a theme throughout the Psalms. Coming and going from the holy place suggests ritual without authentic faith—pointing to the importance of sincere worship, a principle upheld across Christian traditions."
+      "comment": "The apparent success of the wicked is a theme throughout the Psalms. Coming and going from the holy place suggests ritual without authentic faith—pointing to the importance of sincere worship, a principle upheld across Christian traditions.",
+      "sectionHeader": "The Fate of the Wicked and the Righteous"
     },
     {
       "pk": 25008011,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "So I commend joy, for there is nothing better for a person under the sun than to eat, drink, and be glad; for this will go with him in his toil through the days of his life that God gives him under the sun.",
       "links": "<a href='/AIV/25/2/24'>Eccl. 2:24</a>; <a href='/AIV/25/9/7'>Eccl. 9:7</a>",
-      "comment": "Joy and gratitude in everyday life counter the futility described. This is echoed in Christian celebration of the sacred in ordinary things (Eucharist as thanksgiving). Enjoying God's blessings is a sign of trust in His goodness."
+      "comment": "Joy and gratitude in everyday life counter the futility described. This is echoed in Christian celebration of the sacred in ordinary things (Eucharist as thanksgiving). Enjoying God's blessings is a sign of trust in His goodness.",
+      "sectionHeader": "The Joy Found Amid Life’s Injustices"
     },
     {
       "pk": 25008016,
@@ -209,5 +212,22 @@
       "comment": "Human understanding reaches its limit before the mystery of God. True wisdom is humble and recognizes the need for faith, tradition, and guidance that surpasses mere intellect. This conclusion opens the way for spiritual trust and surrender."
     }
   ],
-  "translatedAt": "2025-12-24T07:10:01.783Z"
+  "translatedAt": "2025-12-24T07:10:01.783Z",
+  "sections": [
+    {
+      "title": "Obedience to the King and the Limits of Human Power",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "The Fate of the Wicked and the Righteous",
+      "startVerse": 10,
+      "endVerse": 14
+    },
+    {
+      "title": "The Joy Found Amid Life’s Injustices",
+      "startVerse": 15,
+      "endVerse": 17
+    }
+  ]
 }

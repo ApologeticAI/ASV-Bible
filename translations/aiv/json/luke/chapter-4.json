@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Jesus, full of the Holy Spirit, returned from the Jordan and was led by the Spirit in the wilderness",
       "links": "<a href='/AIV/40/3/16'>Matt. 3:16</a>; <a href='/AIV/41/1/12'>Mark 1:12</a>",
-      "comment": "Here we see the role of the Holy Spirit guiding Jesus, highlighting the unity of the Trinity. The obedience of Jesus to the Spirit anticipates the Christian life, led by the Spirit towards holiness."
+      "comment": "Here we see the role of the Holy Spirit guiding Jesus, highlighting the unity of the Trinity. The obedience of Jesus to the Spirit anticipates the Christian life, led by the Spirit towards holiness.",
+      "sectionHeader": "The Temptation of Jesus"
     },
     {
       "pk": 49004002,
@@ -170,7 +171,8 @@
       "verse": 14,
       "text": "Jesus returned to Galilee in the power of the Spirit, and news about him went out through all the surrounding region.",
       "links": "<a href='/AIV/41/1/14'>Mark 1:14</a>",
-      "comment": "The Spirit continues to guide Jesus. His public ministry begins in Galilee, fulfilling prophetic hopes for a light to the nations (<a href='/AIV/23/9/1'>Isa. 9:1</a>)."
+      "comment": "The Spirit continues to guide Jesus. His public ministry begins in Galilee, fulfilling prophetic hopes for a light to the nations (<a href='/AIV/23/9/1'>Isa. 9:1</a>).",
+      "sectionHeader": "Jesus Begins His Ministry in Galilee"
     },
     {
       "pk": 49004015,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "He came to Nazareth, where he had been brought up. As was his custom, he went to the synagogue on the Sabbath day and stood up to read.",
       "links": "<a href='/AIV/23/61/1'>Isa. 61:1</a>; <a href='/AIV/40/13/54'>Matt. 13:54</a>",
-      "comment": "Jesus observes Jewish practices, indicating continued respect for worship gatherings and scriptural readings, which later Church communities inherit in their liturgies."
+      "comment": "Jesus observes Jewish practices, indicating continued respect for worship gatherings and scriptural readings, which later Church communities inherit in their liturgies.",
+      "sectionHeader": "Jesus Rejected at Nazareth"
     },
     {
       "pk": 49004017,
@@ -374,7 +377,8 @@
       "verse": 31,
       "text": "He went down to Capernaum, a city in Galilee, and was teaching them on the Sabbath.",
       "links": "<a href='/AIV/41/1/21'>Mark 1:21</a>",
-      "comment": "Capernaum becomes a central base of ministry for Jesus. His continuous teaching, especially on the Sabbath, underlines his commitment to ongoing instruction and fulfillment of the Law."
+      "comment": "Capernaum becomes a central base of ministry for Jesus. His continuous teaching, especially on the Sabbath, underlines his commitment to ongoing instruction and fulfillment of the Law.",
+      "sectionHeader": "Jesus Heals a Man with an Unclean Spirit"
     },
     {
       "pk": 49004032,
@@ -458,7 +462,8 @@
       "verse": 38,
       "text": "He left the synagogue and entered Simon’s house. Now Simon’s mother-in-law was suffering from a high fever, and they asked Jesus to help her.",
       "links": "<a href='/AIV/41/1/29'>Mark 1:29-30</a>; <a href='/AIV/40/8/14'>Matt. 8:14</a>",
-      "comment": "Simon (Peter) becomes prominent as Jesus responds to his family’s need, foreshadowing Peter’s future leadership among the disciples."
+      "comment": "Simon (Peter) becomes prominent as Jesus responds to his family’s need, foreshadowing Peter’s future leadership among the disciples.",
+      "sectionHeader": "Jesus Heals Many, Including Simon's Mother-in-law"
     },
     {
       "pk": 49004039,
@@ -506,7 +511,8 @@
       "verse": 42,
       "text": "At daybreak, he went out to a deserted place. The crowds searched for him and came to him, trying to keep him from leaving them.",
       "links": "<a href='/AIV/41/1/35'>Mark 1:35-37</a>",
-      "comment": "Jesus’s withdrawal into solitude for prayer displays the importance of communion with God, a pattern continued by early believers."
+      "comment": "Jesus’s withdrawal into solitude for prayer displays the importance of communion with God, a pattern continued by early believers.",
+      "sectionHeader": "Jesus Preaches in the Synagogues of Judea"
     },
     {
       "pk": 49004043,
@@ -533,5 +539,37 @@
       "comment": "Jesus’s ongoing proclamation in synagogues shows consistent engagement with existing religious communities, laying foundations for the apostolic ministry that would continue his work."
     }
   ],
-  "translatedAt": "2025-12-24T10:39:08.555Z"
+  "translatedAt": "2025-12-24T10:39:08.555Z",
+  "sections": [
+    {
+      "title": "The Temptation of Jesus",
+      "startVerse": 1,
+      "endVerse": 13
+    },
+    {
+      "title": "Jesus Begins His Ministry in Galilee",
+      "startVerse": 14,
+      "endVerse": 15
+    },
+    {
+      "title": "Jesus Rejected at Nazareth",
+      "startVerse": 16,
+      "endVerse": 30
+    },
+    {
+      "title": "Jesus Heals a Man with an Unclean Spirit",
+      "startVerse": 31,
+      "endVerse": 37
+    },
+    {
+      "title": "Jesus Heals Many, Including Simon's Mother-in-law",
+      "startVerse": 38,
+      "endVerse": 41
+    },
+    {
+      "title": "Jesus Preaches in the Synagogues of Judea",
+      "startVerse": 42,
+      "endVerse": 44
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The LORD said to Aaron, 'You, your sons, and your father's house with you shall bear the responsibility for offenses against the sanctuary, and you and your sons with you shall bear the responsibility for offenses against your priesthood.'",
       "links": "<a href='/AIV/2/28/43'>Exod. 28:43</a>; <a href='/AIV/4/3/6-10'>Num. 3:6-10</a>",
-      "comment": "Aaron and his sons are held accountable for the sanctuary, highlighting the seriousness and authority given to the priesthood. There is a clear sense of succession and guardianship, which foreshadows later developments of priestly succession in the history of the faith."
+      "comment": "Aaron and his sons are held accountable for the sanctuary, highlighting the seriousness and authority given to the priesthood. There is a clear sense of succession and guardianship, which foreshadows later developments of priestly succession in the history of the faith.",
+      "sectionHeader": "Duties and Responsibilities of Priests and Levites"
     },
     {
       "pk": 4018002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "The LORD spoke to Aaron, 'Behold, I have given you charge of the offerings that are consecrated to me, all the holy contributions of the Israelites; I have given them to you and your sons as a portion forever.'",
       "links": "<a href='/AIV/3/2/3'>Lev. 2:3</a>; <a href='/AIV/4/18/19'>Num. 18:19</a>",
-      "comment": "Priestly support from offerings is instituted by God Himself. The concept of a continuing portion for priests underlines the principle of material support for those who serve at the altar (<a href='/AIV/46/9/13'>1 Cor. 9:13</a>)."
+      "comment": "Priestly support from offerings is instituted by God Himself. The concept of a continuing portion for priests underlines the principle of material support for those who serve at the altar (<a href='/AIV/46/9/13'>1 Cor. 9:13</a>).",
+      "sectionHeader": "Portions Allotted to the Priests"
     },
     {
       "pk": 4018009,
@@ -254,7 +256,8 @@
       "verse": 21,
       "text": "To the people of Levi I have given every tithe in Israel for an inheritance, in return for the service that they perform, the service of the tent of meeting.",
       "links": "<a href='/AIV/3/27/30'>Lev. 27:30</a>",
-      "comment": "The tithe system provides for those who serve at the altar—and the principle of supporting ministers continues into the New Covenant (<a href='/AIV/46/9/14'>1 Cor. 9:14</a>)."
+      "comment": "The tithe system provides for those who serve at the altar—and the principle of supporting ministers continues into the New Covenant (<a href='/AIV/46/9/14'>1 Cor. 9:14</a>).",
+      "sectionHeader": "Tithes Given to the Levites"
     },
     {
       "pk": 4018022,
@@ -302,7 +305,8 @@
       "verse": 25,
       "text": "The LORD spoke to Moses, saying,",
       "links": "",
-      "comment": "Marks a new word of instruction, dividing the prior laws from the next section."
+      "comment": "Marks a new word of instruction, dividing the prior laws from the next section.",
+      "sectionHeader": "The Levites’ Tithe Offering"
     },
     {
       "pk": 4018026,
@@ -389,5 +393,27 @@
       "comment": "Strictness in handling holy things safeguards the sanctity of worship. Contempt for what is sacred brings death, a warning echoed in the stricter judgment for those who treat the sacred mysteries lightly (<a href='/AIV/46/11/27-29'>1 Cor. 11:27-29</a>)."
     }
   ],
-  "translatedAt": "2025-12-24T01:41:20.902Z"
+  "translatedAt": "2025-12-24T01:41:20.902Z",
+  "sections": [
+    {
+      "title": "Duties and Responsibilities of Priests and Levites",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Portions Allotted to the Priests",
+      "startVerse": 8,
+      "endVerse": 20
+    },
+    {
+      "title": "Tithes Given to the Levites",
+      "startVerse": 21,
+      "endVerse": 24
+    },
+    {
+      "title": "The Levites’ Tithe Offering",
+      "startVerse": 25,
+      "endVerse": 32
+    }
+  ]
 }

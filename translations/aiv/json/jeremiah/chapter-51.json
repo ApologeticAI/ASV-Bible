@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "This is what the LORD says: 'I will stir up a destructive wind against Babylon and against those who dwell in Leb Kamai.",
       "links": "<a href='/AIV/23/13/1'>Isa. 13:1</a>; <a href='/AIV/24/50/1'>Jer. 50:1</a>",
-      "comment": "The phrase 'Leb Kamai' is generally taken to mean 'the heart of those who rise up against Me,' a cryptic name for Chaldea. This sets up the prophecy against Babylon, showing God's direct intervention."
+      "comment": "The phrase 'Leb Kamai' is generally taken to mean 'the heart of those who rise up against Me,' a cryptic name for Chaldea. This sets up the prophecy against Babylon, showing God's direct intervention.",
+      "sectionHeader": "The Judgment Against Babylon"
     },
     {
       "pk": 30051002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "He made the earth by His power; He established the world by His wisdom and stretched out the heavens by His understanding.",
       "links": "<a href='/AIV/01/01/1'>Gen. 1:1</a>; <a href='/AIV/24/10/12'>Jer. 10:12</a>",
-      "comment": "This creation formula points to God’s role as Creator, reflected in John 1:3 where Christ is affirmed as the divine agent in creation."
+      "comment": "This creation formula points to God’s role as Creator, reflected in John 1:3 where Christ is affirmed as the divine agent in creation.",
+      "sectionHeader": "The Lord's Power and the Vanity of Idols"
     },
     {
       "pk": 30051016,
@@ -242,7 +244,8 @@
       "verse": 20,
       "text": "You are My battle axe and weapon of war: with you I shatter nations; with you I destroy kingdoms;",
       "links": "<a href='/AIV/24/51/51'>Jer. 51:51</a>",
-      "comment": "Israel—and ultimately, the faithful—are the Lord’s instrument for carrying out His purposes, revealing a spiritual participation in divine judgment."
+      "comment": "Israel—and ultimately, the faithful—are the Lord’s instrument for carrying out His purposes, revealing a spiritual participation in divine judgment.",
+      "sectionHeader": "Babylon as the Lord's Instrument and Its Doom"
     },
     {
       "pk": 30051021,
@@ -326,7 +329,8 @@
       "verse": 27,
       "text": "Set up a standard in the land; blow the trumpet among the nations; prepare the nations for battle against her, summon the kingdoms against her: Ararat, Minni, and Ashkenaz. Appoint a commander against her; bring up horses like a swarm of locusts.",
       "links": "<a href='/AIV/07/07/12'>Judg. 7:12</a>; <a href='/AIV/24/50/26'>Jer. 50:26</a>",
-      "comment": "The summoning of nations under God’s command signifies collective judgment, where all powers are subject to Him."
+      "comment": "The summoning of nations under God’s command signifies collective judgment, where all powers are subject to Him.",
+      "sectionHeader": "The Conquest and Desolation of Babylon"
     },
     {
       "pk": 30051028,
@@ -542,7 +546,8 @@
       "verse": 45,
       "text": "Go out from her, My people! Save your lives, each of you, from the fierce anger of the LORD.",
       "links": "<a href='/AIV/24/50/8'>Jer. 50:8</a>; <a href='/AIV/66/18/4'>Rev. 18:4</a>",
-      "comment": "Call to leave Babylon to avoid judgment. This has spiritual application as a warning to flee from sin and false worship."
+      "comment": "Call to leave Babylon to avoid judgment. This has spiritual application as a warning to flee from sin and false worship.",
+      "sectionHeader": "A Call to Flee Babylon"
     },
     {
       "pk": 30051046,
@@ -710,7 +715,8 @@
       "verse": 59,
       "text": "The word that Jeremiah the prophet commanded Seraiah son of Neriah, son of Mahseiah, when he went with Zedekiah king of Judah to Babylon in the fourth year of his reign. Now Seraiah was the quartermaster.",
       "links": "<a href='/AIV/24/32/12'>Jer. 32:12</a>",
-      "comment": "This historical note shows Jeremiah’s careful documentation of God’s word, affirming the value of faithfully transmitting prophecy, later reflected in apostolic tradition."
+      "comment": "This historical note shows Jeremiah’s careful documentation of God’s word, affirming the value of faithfully transmitting prophecy, later reflected in apostolic tradition.",
+      "sectionHeader": "The Message Given to Seraiah"
     },
     {
       "pk": 30051060,
@@ -773,5 +779,37 @@
       "comment": "The chapter’s closing reinforces the completeness of God’s judgement and the authority of Jeremiah’s prophecy, foreshadowing scriptural fulfillment in the Church's mission."
     }
   ],
-  "translatedAt": "2025-12-24T08:50:54.171Z"
+  "translatedAt": "2025-12-24T08:50:54.171Z",
+  "sections": [
+    {
+      "title": "The Judgment Against Babylon",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "The Lord's Power and the Vanity of Idols",
+      "startVerse": 15,
+      "endVerse": 19
+    },
+    {
+      "title": "Babylon as the Lord's Instrument and Its Doom",
+      "startVerse": 20,
+      "endVerse": 26
+    },
+    {
+      "title": "The Conquest and Desolation of Babylon",
+      "startVerse": 27,
+      "endVerse": 44
+    },
+    {
+      "title": "A Call to Flee Babylon",
+      "startVerse": 45,
+      "endVerse": 58
+    },
+    {
+      "title": "The Message Given to Seraiah",
+      "startVerse": 59,
+      "endVerse": 64
+    }
+  ]
 }

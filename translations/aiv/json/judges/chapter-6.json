@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The Israelites did what was evil in the sight of the LORD, so the LORD gave them into the hand of Midian for seven years.",
       "links": "<a href='/AIV/2/23/32-33'>Exod. 23:32-33</a>; <a href='/AIV/7/2/14'>Judg. 2:14</a>",
-      "comment": "The pattern of Israel’s repeated apostasy and oppression by foreign nations highlights the need for continual faithfulness. Seven years signifies a cycle of completeness in judgment."
+      "comment": "The pattern of Israel’s repeated apostasy and oppression by foreign nations highlights the need for continual faithfulness. Seven years signifies a cycle of completeness in judgment.",
+      "sectionHeader": "Oppression by Midian"
     },
     {
       "pk": 7006002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "When the Israelites cried out to the LORD because of Midian,",
       "links": "<a href='/AIV/14/7/14'>2 Chr. 7:14</a>",
-      "comment": "God listens to the cries of His people, but His response includes instruction and correction, as well as deliverance."
+      "comment": "God listens to the cries of His people, but His response includes instruction and correction, as well as deliverance.",
+      "sectionHeader": "A Prophet Rebukes Israel"
     },
     {
       "pk": 7006008,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "Now the angel of the LORD came and sat under the oak at Ophrah, which belonged to Joash the Abiezrite, as his son Gideon was beating out wheat in the winepress to hide it from the Midianites.",
       "links": "<a href='/AIV/1/18/1'>Gen. 18:1</a>; <a href='/AIV/7/13/3'>Judg. 13:3</a>",
-      "comment": "The 'angel of the LORD' often represents God Himself acting in the world. Gideon's humility in threshing wheat in secret is a setup for God’s glory through weakness. Some Church Fathers see in the oak a symbolism for the cross."
+      "comment": "The 'angel of the LORD' often represents God Himself acting in the world. Gideon's humility in threshing wheat in secret is a setup for God’s glory through weakness. Some Church Fathers see in the oak a symbolism for the cross.",
+      "sectionHeader": "The Call of Gideon"
     },
     {
       "pk": 7006012,
@@ -302,7 +305,8 @@
       "verse": 25,
       "text": "That night the LORD said to him, 'Take your father’s bull, and a second bull seven years old, and pull down the altar of Baal that your father has, and cut down the Asherah that is beside it.'",
       "links": "<a href='/AIV/2/34/13'>Exod. 34:13</a>; <a href='/AIV/5/7/5'>Deut. 7:5</a>",
-      "comment": "The destruction of idols precedes God’s deliverance. True worship requires removing all rivals, both public and familial."
+      "comment": "The destruction of idols precedes God’s deliverance. True worship requires removing all rivals, both public and familial.",
+      "sectionHeader": "Gideon Destroys the Altar of Baal"
     },
     {
       "pk": 7006026,
@@ -434,7 +438,8 @@
       "verse": 36,
       "text": "Then Gideon said to God, 'If you will save Israel by my hand, as you have said,",
       "links": "<a href='/AIV/2/4/1'>Exod. 4:1</a>",
-      "comment": "Gideon seeks reassurance, highlighting the human need for repeated confirmation of God’s will, which points us toward the value of clear, instituted signs."
+      "comment": "Gideon seeks reassurance, highlighting the human need for repeated confirmation of God’s will, which points us toward the value of clear, instituted signs.",
+      "sectionHeader": "The Sign of the Fleece"
     },
     {
       "pk": 7006037,
@@ -485,5 +490,32 @@
       "comment": "God reaffirms his promise with a sign. Early Christian commentators sometimes saw the fleece and dew as typological, representing singular grace given for a purpose, with echoes of the Virgin Birth and spiritual signs."
     }
   ],
-  "translatedAt": "2025-12-24T02:34:02.862Z"
+  "translatedAt": "2025-12-24T02:34:02.862Z",
+  "sections": [
+    {
+      "title": "Oppression by Midian",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "A Prophet Rebukes Israel",
+      "startVerse": 7,
+      "endVerse": 10
+    },
+    {
+      "title": "The Call of Gideon",
+      "startVerse": 11,
+      "endVerse": 24
+    },
+    {
+      "title": "Gideon Destroys the Altar of Baal",
+      "startVerse": 25,
+      "endVerse": 35
+    },
+    {
+      "title": "The Sign of the Fleece",
+      "startVerse": 36,
+      "endVerse": 40
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The word that came to Jeremiah from the LORD when King Zedekiah sent Pashhur son of Malchiah and Zephaniah the priest, son of Maaseiah, to him, saying:",
       "links": "<a href='/AIV/24/37/3'>Jer. 37:3</a>",
-      "comment": "This begins a new prophecy specifically addressing King Zedekiah’s appeal. The presence of both a royal official and a priest underscores Jeremiah's role in speaking God's will to both civil and religious authorities."
+      "comment": "This begins a new prophecy specifically addressing King Zedekiah’s appeal. The presence of both a royal official and a priest underscores Jeremiah's role in speaking God's will to both civil and religious authorities.",
+      "sectionHeader": "Jeremiah’s Message to King Zedekiah"
     },
     {
       "pk": 30021002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "\"And to this people you shall say: ‘Thus says the LORD: See, I am placing before you the way of life and the way of death.",
       "links": "<a href='/AIV/05/30/19'>Deut. 30:19</a>; <a href='/AIV/24/38/17-18'>Jer. 38:17-18</a>",
-      "comment": "God’s mercy remains available: an explicit choice is offered, reflecting earlier covenant themes and prefiguring deeper spiritual choices in Christian life (Deut. 30:19)."
+      "comment": "God’s mercy remains available: an explicit choice is offered, reflecting earlier covenant themes and prefiguring deeper spiritual choices in Christian life (Deut. 30:19).",
+      "sectionHeader": "The Two Ways: Life and Death"
     },
     {
       "pk": 30021009,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "\"And to the house of the king of Judah say: 'Hear the word of the LORD.",
       "links": "<a href='/AIV/24/22/1-2'>Jer. 22:1-2</a>",
-      "comment": "Direct address to the house of David emphasizes the ongoing call to righteousness and faithfulness—an important theme with spiritual implications for Christian understandings of kingship and leadership."
+      "comment": "Direct address to the house of David emphasizes the ongoing call to righteousness and faithfulness—an important theme with spiritual implications for Christian understandings of kingship and leadership.",
+      "sectionHeader": "Judgment Against the House of David"
     },
     {
       "pk": 30021012,
@@ -173,5 +176,22 @@
       "comment": "Divine retribution accords with deeds—a theme that resonates throughout the biblical testimony (Ps. 62:12, Jer. 17:10) and suggests both the justice and opportunity for repentance imaged in later spiritual traditions."
     }
   ],
-  "translatedAt": "2025-12-24T08:32:30.767Z"
+  "translatedAt": "2025-12-24T08:32:30.767Z",
+  "sections": [
+    {
+      "title": "Jeremiah’s Message to King Zedekiah",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "The Two Ways: Life and Death",
+      "startVerse": 8,
+      "endVerse": 10
+    },
+    {
+      "title": "Judgment Against the House of David",
+      "startVerse": 11,
+      "endVerse": 14
+    }
+  ]
 }

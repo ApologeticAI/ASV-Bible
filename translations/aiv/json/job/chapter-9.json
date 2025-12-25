@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then Job answered and said:",
       "links": "<a href='/AIV/22/4/1'>Job 4:1</a>",
-      "comment": "Job responds to Bildad’s words, beginning a speech that deals with God's justice and the challenge of approaching Him."
+      "comment": "Job responds to Bildad’s words, beginning a speech that deals with God's justice and the challenge of approaching Him.",
+      "sectionHeader": "Job Affirms God's Unsearchable Power"
     },
     {
       "pk": 22009002,
@@ -170,7 +171,8 @@
       "verse": 14,
       "text": "How then can I answer Him, or choose my words before Him?",
       "links": "<a href='/AIV/18/40/4-5'>Job 40:4-5</a>",
-      "comment": "Job’s humility prefigures the soul’s posture before God, needing grace and humility to approach the Almighty (Luke 18:13)."
+      "comment": "Job’s humility prefigures the soul’s posture before God, needing grace and humility to approach the Almighty (Luke 18:13).",
+      "sectionHeader": "The Impotence of Man Before God's Justice"
     },
     {
       "pk": 22009015,
@@ -254,7 +256,8 @@
       "verse": 21,
       "text": "I am blameless, yet I do not know myself; I despise my life.",
       "links": "<a href='/AIV/18/7/16'>Job 7:16</a>",
-      "comment": "Job’s deep affliction stirs up questions of identity and self-knowledge before God. True self-understanding comes from divine light."
+      "comment": "Job’s deep affliction stirs up questions of identity and self-knowledge before God. True self-understanding comes from divine light.",
+      "sectionHeader": "Job's Bitterness at Human Frailty"
     },
     {
       "pk": 22009022,
@@ -386,7 +389,8 @@
       "verse": 32,
       "text": "For He is not a man like me, that I might answer Him, that we might go to trial together.",
       "links": "<a href='/AIV/23/55/8-9'>Isa. 55:8-9</a>",
-      "comment": "Job desires a mediator between himself and God—a longing fulfilled when God became man to bridge the gap."
+      "comment": "Job desires a mediator between himself and God—a longing fulfilled when God became man to bridge the gap.",
+      "sectionHeader": "Longing for a Mediator"
     },
     {
       "pk": 22009033,
@@ -425,5 +429,27 @@
       "comment": "Only with a mediator can one approach God with confidence (Hebrews 4:16). Here, Job’s cry is answered in the fullness of revelation with an invitation to draw near through a divinely instituted mediator."
     }
   ],
-  "translatedAt": "2025-12-24T05:43:26.272Z"
+  "translatedAt": "2025-12-24T05:43:26.272Z",
+  "sections": [
+    {
+      "title": "Job Affirms God's Unsearchable Power",
+      "startVerse": 1,
+      "endVerse": 13
+    },
+    {
+      "title": "The Impotence of Man Before God's Justice",
+      "startVerse": 14,
+      "endVerse": 20
+    },
+    {
+      "title": "Job's Bitterness at Human Frailty",
+      "startVerse": 21,
+      "endVerse": 31
+    },
+    {
+      "title": "Longing for a Mediator",
+      "startVerse": 32,
+      "endVerse": 35
+    }
+  ]
 }

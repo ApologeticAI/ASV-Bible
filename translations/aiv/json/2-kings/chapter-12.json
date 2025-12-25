@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In the seventh year of Jehu, Jehoash became king, and he reigned forty years in Jerusalem. His mother's name was Zibiah of Beersheba.",
       "links": "<a href='/AIV/14/24/1'>2 Chr. 24:1</a>; <a href='/AIV/12/11/2'>2 Kgs 11:2</a>",
-      "comment": "Jehoash (also called Joash) is presented as a legitimate Davidic king, with details that align with parallel accounts elsewhere, highlighting the continuity of the royal line from David (see 2 Samuel 7:12–16)."
+      "comment": "Jehoash (also called Joash) is presented as a legitimate Davidic king, with details that align with parallel accounts elsewhere, highlighting the continuity of the royal line from David (see 2 Samuel 7:12–16).",
+      "sectionHeader": "Reign of Jehoash of Judah"
     },
     {
       "pk": 12012002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "Jehoash said to the priests, 'All the money of the holy things that is brought into the house of the LORD, the money for each person who passes the census, the money for the vows, and all the money that each person's heart prompts him to bring into the house of the LORD,",
       "links": "<a href='/AIV/02/30/12-16'>Ex. 30:12-16</a>; <a href='/AIV/03/27/2-7'>Lev. 27:2-7</a>",
-      "comment": "Jehoash organizes the temple funds, emphasizing the continuing role of freewill offerings and vows. This management of funds for worship anticipates the communal stewardship seen in the early Church (<a href='/AIV/44/4/34-35'>Acts 4:34-35</a>)."
+      "comment": "Jehoash organizes the temple funds, emphasizing the continuing role of freewill offerings and vows. This management of funds for worship anticipates the communal stewardship seen in the early Church (<a href='/AIV/44/4/34-35'>Acts 4:34-35</a>).",
+      "sectionHeader": "Restoration of the Temple"
     },
     {
       "pk": 12012005,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "Then Hazael king of Aram went up and fought against Gath and captured it. Then Hazael set his face to go up against Jerusalem.",
       "links": "<a href='/AIV/12/8/12'>2 Kgs 8:12</a>",
-      "comment": "This external threat fulfills warnings about judgment when Israel faltered from full covenant obedience (<a href='/AIV/05/28/25'>Deut. 28:25</a>)."
+      "comment": "This external threat fulfills warnings about judgment when Israel faltered from full covenant obedience (<a href='/AIV/05/28/25'>Deut. 28:25</a>).",
+      "sectionHeader": "Invasion of Hazael and Tribute Paid"
     },
     {
       "pk": 12012018,
@@ -242,7 +245,8 @@
       "verse": 20,
       "text": "His servants arose and made a conspiracy, and killed Jehoash in the house of Millo, on the way that goes down to Silla.",
       "links": "<a href='/AIV/14/24/25'>2 Chr. 24:25</a>",
-      "comment": "Even kings are subject to betrayal and death. This anticipates in shadow the betrayal of Christ (<a href='/AIV/42/22/48'>Luke 22:48</a>), though in Christ’s case, it brings ultimate victory."
+      "comment": "Even kings are subject to betrayal and death. This anticipates in shadow the betrayal of Christ (<a href='/AIV/42/22/48'>Luke 22:48</a>), though in Christ’s case, it brings ultimate victory.",
+      "sectionHeader": "Assassination of Jehoash"
     },
     {
       "pk": 12012021,
@@ -257,5 +261,27 @@
       "comment": "The Davidic line persists despite the king’s death. God’s faithfulness to his promises is evident in the continuation of the line, which ultimately leads to Christ, the true King (<a href='/AIV/40/1/6'>Matt. 1:6</a>)."
     }
   ],
-  "translatedAt": "2025-12-24T03:54:51.921Z"
+  "translatedAt": "2025-12-24T03:54:51.921Z",
+  "sections": [
+    {
+      "title": "Reign of Jehoash of Judah",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "Restoration of the Temple",
+      "startVerse": 4,
+      "endVerse": 16
+    },
+    {
+      "title": "Invasion of Hazael and Tribute Paid",
+      "startVerse": 17,
+      "endVerse": 19
+    },
+    {
+      "title": "Assassination of Jehoash",
+      "startVerse": 20,
+      "endVerse": 21
+    }
+  ]
 }

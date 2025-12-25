@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The word of the LORD came to me, saying:",
       "links": "<a href='/AIV/26/1/1'>Ezek. 1:1</a>; <a href='/AIV/24/1/2'>Jer. 1:2</a>",
-      "comment": "The phrase 'the word of the LORD came' introduces a prophetic message directly from God, emphasizing divine authority behind Ezekiel’s words (see also Jer. 1:2)."
+      "comment": "The phrase 'the word of the LORD came' introduces a prophetic message directly from God, emphasizing divine authority behind Ezekiel’s words (see also Jer. 1:2).",
+      "sectionHeader": "Prophecy Against the Idolatrous High Places"
     },
     {
       "pk": 33006002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Yet I will leave a remnant, so that some of you may escape the sword among the nations when you are scattered through the countries.",
       "links": "<a href='/AIV/23/10/20-22'>Isa. 10:20-22</a>; <a href='/AIV/45/11/5'>Rom. 11:5</a>",
-      "comment": "God’s preservation of a remnant is a theme throughout the Bible (see Isa. 10:20-22; Rom. 11:5). This foreshadows the idea of a faithful community set apart, continuing God’s promises through generations, an undercurrent in Christian ecclesiology."
+      "comment": "God’s preservation of a remnant is a theme throughout the Bible (see Isa. 10:20-22; Rom. 11:5). This foreshadows the idea of a faithful community set apart, continuing God’s promises through generations, an undercurrent in Christian ecclesiology.",
+      "sectionHeader": "A Remnant Preserved and Repentance in Exile"
     },
     {
       "pk": 33006009,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "This is what the Lord GOD says: Clap your hands and stamp your feet and cry out, 'Alas, because of all the evil abominations of the house of Israel!' For they will fall by sword, famine, and plague.",
       "links": "<a href='/AIV/26/21/14'>Ezek. 21:14</a>; <a href='/AIV/26/5/12'>Ezek. 5:12</a>",
-      "comment": "The physical acts (clapping, stamping) express sorrow and emphasis for judgment pronounced. Sword, famine, and plague are recurrent judgments throughout Israelite history and serve as reminders of the severe consequences of turning from God."
+      "comment": "The physical acts (clapping, stamping) express sorrow and emphasis for judgment pronounced. Sword, famine, and plague are recurrent judgments throughout Israelite history and serve as reminders of the severe consequences of turning from God.",
+      "sectionHeader": "Destruction by Sword, Famine, and Plague"
     },
     {
       "pk": 33006012,
@@ -173,5 +176,22 @@
       "comment": "God’s 'outstretched hand' signifies power and judgment (see Ex. 7:5). The total desolation from the wilderness to Diblah indicates complete judgment, aimed at restoring proper acknowledgment of God. The repeated refrain 'they shall know that I am the LORD' moves toward the restoration of true worship, a foretaste of the ultimate unity in faith God desires for His people."
     }
   ],
-  "translatedAt": "2025-12-24T09:01:07.936Z"
+  "translatedAt": "2025-12-24T09:01:07.936Z",
+  "sections": [
+    {
+      "title": "Prophecy Against the Idolatrous High Places",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "A Remnant Preserved and Repentance in Exile",
+      "startVerse": 8,
+      "endVerse": 10
+    },
+    {
+      "title": "Destruction by Sword, Famine, and Plague",
+      "startVerse": 11,
+      "endVerse": 14
+    }
+  ]
 }

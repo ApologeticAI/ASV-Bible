@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In the twelfth year of Ahaz king of Judah, Hoshea son of Elah became king over Israel in Samaria, and he reigned for nine years.",
       "links": "<a href='/AIV/12/15/30'>2 Kgs 15:30</a>; <a href='/AIV/14/28/19'>2 Chr 28:19</a>",
-      "comment": "Hoshea was the last king of Israel. The mention of his reign’s timing anchors the narrative within God’s providential unfolding of history."
+      "comment": "Hoshea was the last king of Israel. The mention of his reign’s timing anchors the narrative within God’s providential unfolding of history.",
+      "sectionHeader": "Hoshea's Reign and the Fall of Samaria"
     },
     {
       "pk": 12017002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "This happened because the sons of Israel had sinned against the LORD their God, who brought them up out of the land of Egypt from under the hand of Pharaoh king of Egypt, and they had feared other gods.",
       "links": "<a href='/AIV/02/12/51'>Ex 12:51</a>; <a href='/AIV/28/13/4'>Hos 13:4</a>",
-      "comment": "Israel’s idolatry violates the first commandment. Redemption from Egypt prefigures the greater deliverance offered through Christ."
+      "comment": "Israel’s idolatry violates the first commandment. Redemption from Egypt prefigures the greater deliverance offered through Christ.",
+      "sectionHeader": "Reasons for Israel's Exile"
     },
     {
       "pk": 12017008,
@@ -290,7 +292,8 @@
       "verse": 24,
       "text": "The king of Assyria brought people from Babylon, Cuthah, Avva, Hamath, and Sepharvaim, and settled them in the cities of Samaria instead of the sons of Israel. They took possession of Samaria and lived in its cities.",
       "links": "<a href='/AIV/15/4/2'>Ezra 4:2</a>; <a href='/AIV/12/17/31'>2 Kgs 17:31</a>",
-      "comment": "Foreign settling in Samaria lays the foundation for later Samaritan religious syncretism encountered in the Gospels (cf. John 4:9)."
+      "comment": "Foreign settling in Samaria lays the foundation for later Samaritan religious syncretism encountered in the Gospels (cf. John 4:9).",
+      "sectionHeader": "Assyrian Resettlement and Religious Syncretism in Samaria"
     },
     {
       "pk": 12017025,
@@ -497,5 +500,22 @@
       "comment": "Mixed worship persists through generations, underscoring the necessity of spiritual formation and the transmission of authentic faith."
     }
   ],
-  "translatedAt": "2025-12-24T03:57:42.655Z"
+  "translatedAt": "2025-12-24T03:57:42.655Z",
+  "sections": [
+    {
+      "title": "Hoshea's Reign and the Fall of Samaria",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Reasons for Israel's Exile",
+      "startVerse": 7,
+      "endVerse": 23
+    },
+    {
+      "title": "Assyrian Resettlement and Religious Syncretism in Samaria",
+      "startVerse": 24,
+      "endVerse": 41
+    }
+  ]
 }

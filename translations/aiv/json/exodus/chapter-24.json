@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then He said to Moses, \"Come up to Yahweh, you and Aaron, Nadab and Abihu, and seventy of the elders of Israel, and worship from a distance.\"",
       "links": "<a href='/AIV/2/19/24'>Exod. 19:24</a>; <a href='/AIV/2/24/9'>Exod. 24:9</a>",
-      "comment": "God calls Moses and select leaders to approach, symbolizing the beginning of a covenant encounter. The limitation of access foreshadows distinctions in sacred ministry and worship."
+      "comment": "God calls Moses and select leaders to approach, symbolizing the beginning of a covenant encounter. The limitation of access foreshadows distinctions in sacred ministry and worship.",
+      "sectionHeader": "Ratification of the Covenant"
     },
     {
       "pk": 2024002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "Then Moses, Aaron, Nadab, Abihu, and seventy of the elders of Israel went up,",
       "links": "<a href='/AIV/2/24/1'>Exod. 24:1</a>; <a href='/AIV/2/24/14'>Exod. 24:14</a>",
-      "comment": "The ascent of Moses and the elders mirrors patterns of ascending to God for special revelation or fellowship, signifying leadership and the privilege of drawing near to God."
+      "comment": "The ascent of Moses and the elders mirrors patterns of ascending to God for special revelation or fellowship, signifying leadership and the privilege of drawing near to God.",
+      "sectionHeader": "The Vision of God on the Mountain"
     },
     {
       "pk": 2024010,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "Yahweh said to Moses, \"Come up to Me on the mountain and stay there, and I will give you the tablets of stone, with the law and commandments which I have written, so that you may teach them.\"",
       "links": "<a href='/AIV/2/31/18'>Exod. 31:18</a>; <a href='/AIV/5/4/13'>Deut. 4:13</a>",
-      "comment": "God’s own writing and delivery of the law establishes its supreme authority and purpose for instruction, paralleling later tradition and teaching offices in the church (see Matt. 28:20, spiritual teaching and discipleship)."
+      "comment": "God’s own writing and delivery of the law establishes its supreme authority and purpose for instruction, paralleling later tradition and teaching offices in the church (see Matt. 28:20, spiritual teaching and discipleship).",
+      "sectionHeader": "Moses Called into the Cloud"
     },
     {
       "pk": 2024013,
@@ -221,5 +224,22 @@
       "comment": "Forty days and nights denotes a period of spiritual preparation and transformation, also seen in Jesus’ fast (Matt. 4:2), linking Moses’ experience with future revelation."
     }
   ],
-  "translatedAt": "2025-12-24T00:59:40.715Z"
+  "translatedAt": "2025-12-24T00:59:40.715Z",
+  "sections": [
+    {
+      "title": "Ratification of the Covenant",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "The Vision of God on the Mountain",
+      "startVerse": 9,
+      "endVerse": 11
+    },
+    {
+      "title": "Moses Called into the Cloud",
+      "startVerse": 12,
+      "endVerse": 18
+    }
+  ]
 }

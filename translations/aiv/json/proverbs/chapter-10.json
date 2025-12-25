@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The proverbs of Solomon: A wise son brings joy to his father, but a foolish son brings sorrow to his mother.",
       "links": "<a href='/AIV/24/1/8'>Prov. 1:8</a>; <a href='/AIV/19/127/3'>Ps. 127:3</a>",
-      "comment": "Solomon begins a new collection, emphasizing how wisdom or folly in children deeply affects parents. Traditional wisdom literature often stresses honor and obedience within families. For Christians, honoring father and mother remains essential (see Eph. 6:1-3), echoing the broader spiritual family found in the Church."
+      "comment": "Solomon begins a new collection, emphasizing how wisdom or folly in children deeply affects parents. Traditional wisdom literature often stresses honor and obedience within families. For Christians, honoring father and mother remains essential (see Eph. 6:1-3), echoing the broader spiritual family found in the Church.",
+      "sectionHeader": "The Proverbs of Solomon Begin: Wisdom and Folly Contrasted"
     },
     {
       "pk": 24010002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "Blessings are upon the head of the righteous, but violence covers the mouth of the wicked.",
       "links": "<a href='/AIV/19/21/3'>Ps. 21:3</a>; <a href='/AIV/40/5/9-10'>Matt. 5:9-10</a>",
-      "comment": "Figures of speech contrast public honor for the righteous with the destructive speech and reputation of the wicked. Jesus repeats these themes in the beatitudes, indicating both literal and spiritual blessings."
+      "comment": "Figures of speech contrast public honor for the righteous with the destructive speech and reputation of the wicked. Jesus repeats these themes in the beatitudes, indicating both literal and spiritual blessings.",
+      "sectionHeader": "The Blessings of Righteousness and Curses of Wickedness"
     },
     {
       "pk": 24010007,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "The mouth of the righteous is a fountain of life, but the mouth of the wicked conceals violence.",
       "links": "<a href='/AIV/24/13/14'>Prov. 13:14</a>; <a href='/AIV/43/4/14'>John 4:14</a>",
-      "comment": "Righteous speech gives life and encouragement—a spiritual analogy for living water, as Jesus described in John 4:14."
+      "comment": "Righteous speech gives life and encouragement—a spiritual analogy for living water, as Jesus described in John 4:14.",
+      "sectionHeader": "Wise Speech and Its Rewards"
     },
     {
       "pk": 24010012,
@@ -290,7 +293,8 @@
       "verse": 24,
       "text": "What the wicked fears will come upon him, but the desire of the righteous will be granted.",
       "links": "<a href='/AIV/19/37/4'>Ps. 37:4</a>",
-      "comment": "Fear haunts the wicked, but those who live righteously receive God's favor. Spiritual longing is fulfilled by relationship with the Lord."
+      "comment": "Fear haunts the wicked, but those who live righteously receive God's favor. Spiritual longing is fulfilled by relationship with the Lord.",
+      "sectionHeader": "Righteousness, Security, and the Fear of the Lord"
     },
     {
       "pk": 24010025,
@@ -389,5 +393,27 @@
       "comment": "The righteous discern speech that is fitting, implying not only moral correctness but harmony with true worship and community unity (see Heb. 13:15)."
     }
   ],
-  "translatedAt": "2025-12-24T06:55:19.096Z"
+  "translatedAt": "2025-12-24T06:55:19.096Z",
+  "sections": [
+    {
+      "title": "The Proverbs of Solomon Begin: Wisdom and Folly Contrasted",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "The Blessings of Righteousness and Curses of Wickedness",
+      "startVerse": 6,
+      "endVerse": 10
+    },
+    {
+      "title": "Wise Speech and Its Rewards",
+      "startVerse": 11,
+      "endVerse": 23
+    },
+    {
+      "title": "Righteousness, Security, and the Fear of the Lord",
+      "startVerse": 24,
+      "endVerse": 32
+    }
+  ]
 }

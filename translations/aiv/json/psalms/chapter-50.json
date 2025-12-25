@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The Mighty One, God the LORD, speaks and summons the earth from the rising of the sun to its setting.",
       "links": "<a href='/AIV/19/113/3'>Ps. 113:3</a>; <a href='/AIV/05/32/2'>Deut. 32:2</a>",
-      "comment": "God is depicted as the just Judge calling the whole world to witness. The title 'God the LORD' (El Elohim, Yahweh) emphasizes His supreme authority."
+      "comment": "God is depicted as the just Judge calling the whole world to witness. The title 'God the LORD' (El Elohim, Yahweh) emphasizes His supreme authority.",
+      "sectionHeader": "God the Righteous Judge Calls His People"
     },
     {
       "pk": 23050002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "\"Hear, My people, and I will speak; O Israel, I will testify against you. I am God, your God.",
       "links": "<a href='/AIV/23/43/1'>Isa. 43:1</a>; <a href='/AIV/19/81/8'>Ps. 81:8</a>",
-      "comment": "God addresses His own people in a unique covenant relationship—He speaks not to the world, but to those bound to Him by faith and worship."
+      "comment": "God addresses His own people in a unique covenant relationship—He speaks not to the world, but to those bound to Him by faith and worship.",
+      "sectionHeader": "True Worship and Sacrifice"
     },
     {
       "pk": 23050008,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "But to the wicked God says: \"What right have you to recite My statutes or take My covenant on your lips?",
       "links": "<a href='/AIV/19/1/16'>Ps. 1:16</a>; <a href='/AIV/19/119/155'>Ps. 119:155</a>",
-      "comment": "Religious words without obedience are condemned here, emphasizing the need for inward faith and moral life as required by the true Church."
+      "comment": "Religious words without obedience are condemned here, emphasizing the need for inward faith and moral life as required by the true Church.",
+      "sectionHeader": "A Warning to the Wicked"
     },
     {
       "pk": 23050017,
@@ -281,5 +284,22 @@
       "comment": "Thanksgiving and upright living reveal true faith and worship. The 'salvation of God' is fully revealed in Christ, who fulfills all the promises of Scripture and perfects worship by His sacrifice."
     }
   ],
-  "translatedAt": "2025-12-24T06:16:10.488Z"
+  "translatedAt": "2025-12-24T06:16:10.488Z",
+  "sections": [
+    {
+      "title": "God the Righteous Judge Calls His People",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "True Worship and Sacrifice",
+      "startVerse": 7,
+      "endVerse": 15
+    },
+    {
+      "title": "A Warning to the Wicked",
+      "startVerse": 16,
+      "endVerse": 23
+    }
+  ]
 }

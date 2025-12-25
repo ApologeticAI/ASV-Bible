@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "O God, do not keep silent; do not be quiet, O God, and do not remain still.",
       "links": "<a href='/AIV/10/35/22'>Ps. 35:22</a>; <a href='/AIV/19/28/1'>Ps. 28:1</a>",
-      "comment": "The psalmist boldly calls on God to act rather than remain silent in the face of danger. Contrast the deep desire for God's intervention with Israel’s history of deliverance. The cry for divine action lays the foundation for Israel’s trust in the one true God."
+      "comment": "The psalmist boldly calls on God to act rather than remain silent in the face of danger. Contrast the deep desire for God's intervention with Israel’s history of deliverance. The cry for divine action lays the foundation for Israel’s trust in the one true God.",
+      "sectionHeader": "Prayer for Deliverance from Israel’s Enemies"
     },
     {
       "pk": 23083002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "Do to them as You did to Midian, as to Sisera and Jabin at the river Kishon,",
       "links": "<a href='/AIV/07/7/25'>Judg. 7:25</a>; <a href='/AIV/07/4/15'>Judg. 4:15-24</a>",
-      "comment": "This references God’s past deliverance through the judges (see Judg. 4-7). Such deliverances prefigure God’s ultimate victory through Christ (see 1 Cor. 15:57)."
+      "comment": "This references God’s past deliverance through the judges (see Judg. 4-7). Such deliverances prefigure God’s ultimate victory through Christ (see 1 Cor. 15:57).",
+      "sectionHeader": "A Plea for God’s Judgment upon the Nations"
     },
     {
       "pk": 23083010,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "Fill their faces with shame, that they may seek Your name, O LORD.",
       "links": "<a href='/AIV/19/34/5'>Ps. 34:5</a>; <a href='/AIV/23/26/8'>Isa. 26:8</a>",
-      "comment": "Notice the purpose: humiliation and defeat are meant to lead even God's enemies to seek Him. There is mercy in judgment; God's desire is repentance, prefiguring the mission to all peoples (Matt. 28:19)."
+      "comment": "Notice the purpose: humiliation and defeat are meant to lead even God's enemies to seek Him. There is mercy in judgment; God's desire is repentance, prefiguring the mission to all peoples (Matt. 28:19).",
+      "sectionHeader": "A Petition for the Nations to Know the Lord"
     },
     {
       "pk": 23083017,
@@ -221,5 +224,22 @@
       "comment": "The psalm closes with the affirmation that the LORD is supreme. This points to God’s ultimate will that all humanity recognize Him as sovereign—a theme fulfilled in Christ’s universal reign (Phil. 2:9-11)."
     }
   ],
-  "translatedAt": "2025-12-24T06:28:40.128Z"
+  "translatedAt": "2025-12-24T06:28:40.128Z",
+  "sections": [
+    {
+      "title": "Prayer for Deliverance from Israel’s Enemies",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "A Plea for God’s Judgment upon the Nations",
+      "startVerse": 9,
+      "endVerse": 15
+    },
+    {
+      "title": "A Petition for the Nations to Know the Lord",
+      "startVerse": 16,
+      "endVerse": 18
+    }
+  ]
 }

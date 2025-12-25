@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "There was a man from the hill country of Ephraim named Micah.",
       "links": "<a href='/AIV/6/24/33'>Josh. 24:33</a>",
-      "comment": "Micah's origin in Ephraim is notable, given Ephraim's spiritual significance in Israel's history. This foreshadows important religious themes, especially regarding true worship, which become pivotal in the chapter."
+      "comment": "Micah's origin in Ephraim is notable, given Ephraim's spiritual significance in Israel's history. This foreshadows important religious themes, especially regarding true worship, which become pivotal in the chapter.",
+      "sectionHeader": "Micah’s Idolatry"
     },
     {
       "pk": 7017002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "Now there was a young man from Bethlehem in Judah, of the family of Judah, who was a Levite; and he was staying there.",
       "links": "<a href='/AIV/4/13/33'>Num. 13:33</a>; <a href='/AIV/5/10/8'>Deut. 10:8</a>",
-      "comment": "Bethlehem is noteworthy as the future birthplace of Christ, and the appearance of a wandering Levite underscores Israel’s spiritual disorder, where Levites—meant for religious service—are displaced, setting up the narrative for the restoration of proper worship."
+      "comment": "Bethlehem is noteworthy as the future birthplace of Christ, and the appearance of a wandering Levite underscores Israel’s spiritual disorder, where Levites—meant for religious service—are displaced, setting up the narrative for the restoration of proper worship.",
+      "sectionHeader": "The Levite Hired as Priest"
     },
     {
       "pk": 7017008,
@@ -161,5 +163,17 @@
       "comment": "Micah’s confidence stems from outward religious conformity, mistaking mere ritual for true worship. This sets up the foundational lesson that genuine blessing and grace flow from divinely instituted order, ultimately fulfilled in Christ, the true priest and king."
     }
   ],
-  "translatedAt": "2025-12-24T02:40:25.587Z"
+  "translatedAt": "2025-12-24T02:40:25.587Z",
+  "sections": [
+    {
+      "title": "Micah’s Idolatry",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "The Levite Hired as Priest",
+      "startVerse": 7,
+      "endVerse": 13
+    }
+  ]
 }

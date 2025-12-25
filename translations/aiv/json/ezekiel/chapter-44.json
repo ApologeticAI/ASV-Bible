@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then he brought me back by way of the outer gate of the sanctuary, which faces east, and it was shut.",
       "links": "<a href='/AIV/26/43/1-2'>Ezek. 43:1-2</a>",
-      "comment": "The eastern gate is significant as it was the direction of the glory of the Lord's return (see Ezek. 43:1-5). The perpetual closure signifies the sacredness and singular entrance reserved for the Lord."
+      "comment": "The eastern gate is significant as it was the direction of the glory of the Lord's return (see Ezek. 43:1-5). The perpetual closure signifies the sacredness and singular entrance reserved for the Lord.",
+      "sectionHeader": "The Shut East Gate and the Privilege of the Prince"
     },
     {
       "pk": 33044002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "Then he brought me by way of the north gate to the front of the temple. And I looked, and behold, the glory of the LORD filled the temple of the LORD, and I fell on my face.",
       "links": "<a href='/AIV/26/43/5'>Ezek. 43:5</a>; <a href='/AIV/2/40/34-35'>Ex. 40:34-35</a>",
-      "comment": "Ezekiel experiences God's glory filling the temple, echoing earlier manifestations (Ex. 40:34-35; 1 Kings 8:10-11). The awe and reverence in response guide the pattern of true worship."
+      "comment": "Ezekiel experiences God's glory filling the temple, echoing earlier manifestations (Ex. 40:34-35; 1 Kings 8:10-11). The awe and reverence in response guide the pattern of true worship.",
+      "sectionHeader": "Regulations Concerning Admission to the Sanctuary"
     },
     {
       "pk": 33044005,
@@ -122,7 +124,8 @@
       "verse": 10,
       "text": "But the Levites who went far from Me, when Israel went astray, who strayed away from Me after their idols, they shall bear their punishment.",
       "links": "<a href='/AIV/26/14/10'>Ezek. 14:10</a>; <a href='/AIV/26/20/39'>Ezek. 20:39</a>",
-      "comment": "Not all of the priests are restored equally. The unfaithful Levites are restored only partially, reflecting the lasting consequences of leading others astray and the responsibility of spiritual leadership."
+      "comment": "Not all of the priests are restored equally. The unfaithful Levites are restored only partially, reflecting the lasting consequences of leading others astray and the responsibility of spiritual leadership.",
+      "sectionHeader": "Duties and Restrictions of the Levites"
     },
     {
       "pk": 33044011,
@@ -182,7 +185,8 @@
       "verse": 15,
       "text": "But the Levitical priests, sons of Zadok, who kept the charge of My sanctuary when the people of Israel went astray from Me, they shall come near to Me to minister to Me, and they shall stand before Me to offer Me fat and blood, declares the Lord GOD.",
       "links": "<a href='/AIV/1/2/35'>1 Kgs. 2:35</a>; <a href='/AIV/3/17/6'>Lev. 17:6</a>",
-      "comment": "The faithful priesthood is depicted as uniquely privileged to minister before God. The sons of Zadok prefigure a faithful remnant, pointing to a continuing priestly line chosen by God (see Luke 1:8-9 for priestly service)."
+      "comment": "The faithful priesthood is depicted as uniquely privileged to minister before God. The sons of Zadok prefigure a faithful remnant, pointing to a continuing priestly line chosen by God (see Luke 1:8-9 for priestly service).",
+      "sectionHeader": "Ordinances for the Priests, Sons of Zadok"
     },
     {
       "pk": 33044016,
@@ -377,5 +381,27 @@
       "comment": "Priestly diet is restricted for maintaining ritual purity. This requirement emphasizes God’s holiness and the need to avoid spiritual and physical defilement—echoed in New Testament calls for holiness and prudence."
     }
   ],
-  "translatedAt": "2025-12-24T09:24:19.179Z"
+  "translatedAt": "2025-12-24T09:24:19.179Z",
+  "sections": [
+    {
+      "title": "The Shut East Gate and the Privilege of the Prince",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "Regulations Concerning Admission to the Sanctuary",
+      "startVerse": 4,
+      "endVerse": 9
+    },
+    {
+      "title": "Duties and Restrictions of the Levites",
+      "startVerse": 10,
+      "endVerse": 14
+    },
+    {
+      "title": "Ordinances for the Priests, Sons of Zadok",
+      "startVerse": 15,
+      "endVerse": 31
+    }
+  ]
 }

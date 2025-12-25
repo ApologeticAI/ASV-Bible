@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "For the law, having a shadow of the good things to come and not the actual image of those things, can never by the same sacrifices that are continually offered year after year make perfect those who draw near.",
       "links": "<a href='/AIV/03/16/6-10'>Lev. 16:6-10</a>; <a href='/AIV/51/2/17'>Col. 2:17</a>",
-      "comment": "The word 'shadow' emphasizes the temporary and incomplete nature of the Old Covenant sacrifices, pointing to the fullness found in Christ. This sets up the superior reality of the New Covenant."
+      "comment": "The word 'shadow' emphasizes the temporary and incomplete nature of the Old Covenant sacrifices, pointing to the fullness found in Christ. This sets up the superior reality of the New Covenant.",
+      "sectionHeader": "The Once-for-All Sacrifice of Christ"
     },
     {
       "pk": 65010002,
@@ -230,7 +231,8 @@
       "verse": 19,
       "text": "Therefore, brothers, since we have confidence to enter the most holy place by the blood of Jesus,",
       "links": "<a href='/AIV/03/16/2'>Lev. 16:2</a>; <a href='/AIV/58/4/16'>Heb. 4:16</a>",
-      "comment": "The sacrificial system limited access to God, but Christ’s blood allows direct entrance into God’s presence, imagery rooted in the Temple."
+      "comment": "The sacrificial system limited access to God, but Christ’s blood allows direct entrance into God’s presence, imagery rooted in the Temple.",
+      "sectionHeader": "Exhortation to Perseverance"
     },
     {
       "pk": 65010020,
@@ -314,7 +316,8 @@
       "verse": 26,
       "text": "For if we go on sinning deliberately after receiving the knowledge of the truth, there is no longer a sacrifice for sins left,",
       "links": "<a href='/AIV/04/15/30'>Num. 15:30</a>; <a href='/AIV/58/6/4-6'>Heb. 6:4-6</a>",
-      "comment": "Willful, persistent sin after knowing Christ threatens one’s standing in grace. This verse presents a sober warning about apostasy."
+      "comment": "Willful, persistent sin after knowing Christ threatens one’s standing in grace. This verse presents a sober warning about apostasy.",
+      "sectionHeader": "A Warning Against Willful Sin"
     },
     {
       "pk": 65010027,
@@ -386,7 +389,8 @@
       "verse": 32,
       "text": "But remember the former days when, after you were enlightened, you endured a great struggle with sufferings.",
       "links": "<a href='/AIV/60/1/6'>1 Pet. 1:6</a>; <a href='/AIV/60/4/12'>1 Pet. 4:12</a>",
-      "comment": "‘Enlightened’ usually refers to baptism and conversion. Early Christian life often included persecution, which is here called to mind for encouragement."
+      "comment": "‘Enlightened’ usually refers to baptism and conversion. Early Christian life often included persecution, which is here called to mind for encouragement.",
+      "sectionHeader": "Call to Endurance"
     },
     {
       "pk": 65010033,
@@ -473,5 +477,27 @@
       "comment": "The author closes with encouragement to perseverance and hope, underscoring the saving character of enduring faith in the Christian journey."
     }
   ],
-  "translatedAt": "2025-12-24T12:21:36.193Z"
+  "translatedAt": "2025-12-24T12:21:36.193Z",
+  "sections": [
+    {
+      "title": "The Once-for-All Sacrifice of Christ",
+      "startVerse": 1,
+      "endVerse": 18
+    },
+    {
+      "title": "Exhortation to Perseverance",
+      "startVerse": 19,
+      "endVerse": 25
+    },
+    {
+      "title": "A Warning Against Willful Sin",
+      "startVerse": 26,
+      "endVerse": 31
+    },
+    {
+      "title": "Call to Endurance",
+      "startVerse": 32,
+      "endVerse": 39
+    }
+  ]
 }

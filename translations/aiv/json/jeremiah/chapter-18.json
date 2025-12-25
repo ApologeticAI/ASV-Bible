@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The word that came to Jeremiah from the LORD:",
       "links": "<a href='/AIV/30/1/2'>Jer. 1:2</a>",
-      "comment": "This opening signals a direct prophetic message. Jeremiah regularly receives direct instruction from God, emphasizing the importance of God’s continued guidance to His chosen leaders. Compare to other instances where prophets receive the word (see Jer. 1:2)."
+      "comment": "This opening signals a direct prophetic message. Jeremiah regularly receives direct instruction from God, emphasizing the importance of God’s continued guidance to His chosen leaders. Compare to other instances where prophets receive the word (see Jer. 1:2).",
+      "sectionHeader": "The Potter and the Clay"
     },
     {
       "pk": 30018002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "But they say, 'It is hopeless! We will follow our own plans, and each of us will act according to the stubbornness of his evil heart.'",
       "links": "<a href='/AIV/30/7/24'>Jer. 7:24</a>; <a href='/AIV/45/2/5'>Rom. 2:5</a>",
-      "comment": "Israel’s tragic obstinacy highlights human resistance to grace. The heart’s stubbornness leads away from God—see how Paul later expands on this theme (Rom. 2:5)."
+      "comment": "Israel’s tragic obstinacy highlights human resistance to grace. The heart’s stubbornness leads away from God—see how Paul later expands on this theme (Rom. 2:5).",
+      "sectionHeader": "Judah's Refusal and Coming Judgment"
     },
     {
       "pk": 30018013,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "Then they said, 'Come, let us plot against Jeremiah, for the law shall not perish from the priest, nor counsel from the wise, nor the word from the prophet. Come, let us strike him with the tongue, and let us not pay attention to any of his words.'",
       "links": "<a href='/AIV/30/11/19'>Jer. 11:19</a>; <a href='/AIV/42/11/47-51'>Luke 11:47-51</a>",
-      "comment": "Jeremiah faces opposition as the messenger of truth, a pattern fulfilled in later prophets and ultimately Christ (see how Jesus connects Himself to persecuted prophets, Luke 11:51)."
+      "comment": "Jeremiah faces opposition as the messenger of truth, a pattern fulfilled in later prophets and ultimately Christ (see how Jesus connects Himself to persecuted prophets, Luke 11:51).",
+      "sectionHeader": "Plot Against Jeremiah and His Prayer for Justice"
     },
     {
       "pk": 30018019,
@@ -281,5 +284,22 @@
       "comment": "Jeremiah’s closing prayer appeals for justice, reflecting the tension between intercession and judgment. This prepares readers to reflect on how both mercy and justice are ultimately fulfilled by Christ (see also Psalm 69)."
     }
   ],
-  "translatedAt": "2025-12-24T08:31:30.833Z"
+  "translatedAt": "2025-12-24T08:31:30.833Z",
+  "sections": [
+    {
+      "title": "The Potter and the Clay",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "Judah's Refusal and Coming Judgment",
+      "startVerse": 12,
+      "endVerse": 17
+    },
+    {
+      "title": "Plot Against Jeremiah and His Prayer for Justice",
+      "startVerse": 18,
+      "endVerse": 23
+    }
+  ]
 }

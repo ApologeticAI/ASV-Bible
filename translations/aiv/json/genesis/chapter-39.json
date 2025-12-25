@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now Joseph was taken down to Egypt, and Potiphar, an officer of Pharaoh, the captain of the guard, an Egyptian, bought him from the Ishmaelites who had brought him down there.",
       "links": "<a href='/AIV/1/37/36'>Gen. 37:36</a>; <a href='/AIV/1/41/12'>Gen. 41:12</a>",
-      "comment": "Joseph's journey to Egypt marks the beginning of God's providential plan to save many people. Note the role of the Ishmaelites as intermediaries, tying together different parts of Abraham's family line."
+      "comment": "Joseph's journey to Egypt marks the beginning of God's providential plan to save many people. Note the role of the Ishmaelites as intermediaries, tying together different parts of Abraham's family line.",
+      "sectionHeader": "Joseph in Potiphar’s House"
     },
     {
       "pk": 1039002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "And after these things, his master's wife fixed her eyes on Joseph and said, 'Lie with me.'",
       "links": "<a href='/AIV/1/2/24'>Gen. 2:24</a>; <a href='/AIV/20/7/21'>Prov. 7:21</a>",
-      "comment": "Joseph faces serious temptation, echoing early warnings against adultery (Prov. 7). Compare with Adam and Eve, this shows how temptation enters even the most trustworthy environments."
+      "comment": "Joseph faces serious temptation, echoing early warnings against adultery (Prov. 7). Compare with Adam and Eve, this shows how temptation enters even the most trustworthy environments.",
+      "sectionHeader": "Joseph Is Tempted by Potiphar’s Wife"
     },
     {
       "pk": 1039008,
@@ -230,7 +232,8 @@
       "verse": 19,
       "text": "When his master heard the words his wife spoke to him, saying, 'This is what your servant did to me,' his anger was kindled.",
       "links": "<a href='/AIV/1/39/14'>Gen. 39:14</a>",
-      "comment": "Potiphar’s anger is directed toward the perceived affront and possibly the predicament. The text does not say he inquired after the truth, showing the peril of rash judgment."
+      "comment": "Potiphar’s anger is directed toward the perceived affront and possibly the predicament. The text does not say he inquired after the truth, showing the peril of rash judgment.",
+      "sectionHeader": "Joseph Is Imprisoned"
     },
     {
       "pk": 1039020,
@@ -254,7 +257,8 @@
       "verse": 21,
       "text": "But the LORD was with Joseph and showed him steadfast love and gave him favor in the sight of the keeper of the prison.",
       "links": "<a href='/AIV/1/39/2'>Gen. 39:2</a>; <a href='/AIV/19/105/19'>Ps. 105:19</a>",
-      "comment": "God’s faithfulness is unbroken, His love steadfast (chesed). Joseph finds favor again, emphasizing God’s providence. Divine love and favor sustain the righteous through suffering (Rom. 8:35-39)."
+      "comment": "God’s faithfulness is unbroken, His love steadfast (chesed). Joseph finds favor again, emphasizing God’s providence. Divine love and favor sustain the righteous through suffering (Rom. 8:35-39).",
+      "sectionHeader": "Joseph Prospers in Prison"
     },
     {
       "pk": 1039022,
@@ -281,5 +285,27 @@
       "comment": "The recurring theme: God’s presence brings blessing and success. Even in prison, Joseph acts with faithfulness—foreshadowing Christ, who suffered unjustly but was ultimately glorified. Note here the implicit connection to the sacredness of suffering, and how God uses both success and adversity to prepare His servants for saving missions."
     }
   ],
-  "translatedAt": "2025-12-24T00:36:29.553Z"
+  "translatedAt": "2025-12-24T00:36:29.553Z",
+  "sections": [
+    {
+      "title": "Joseph in Potiphar’s House",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Joseph Is Tempted by Potiphar’s Wife",
+      "startVerse": 7,
+      "endVerse": 18
+    },
+    {
+      "title": "Joseph Is Imprisoned",
+      "startVerse": 19,
+      "endVerse": 20
+    },
+    {
+      "title": "Joseph Prospers in Prison",
+      "startVerse": 21,
+      "endVerse": 23
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then Samuel took a flask of oil and poured it on Saul’s head, kissed him, and said, 'Has not the Lord anointed you ruler over his inheritance?'",
       "links": "<a href='/AIV/9/9/16'>1Sam 9:16</a>; <a href='/AIV/11/1/34-39'>1 Kings 1:34-39</a>",
-      "comment": "Samuel’s anointing of Saul establishes kingship through a divine calling and ritual act. Anointing with oil foreshadows later uses of anointing for priests, prophets, and ultimately, the Messiah (Christ means 'anointed one'). The act of anointing shows that leadership comes from above, not merely human ambition."
+      "comment": "Samuel’s anointing of Saul establishes kingship through a divine calling and ritual act. Anointing with oil foreshadows later uses of anointing for priests, prophets, and ultimately, the Messiah (Christ means 'anointed one'). The act of anointing shows that leadership comes from above, not merely human ambition.",
+      "sectionHeader": "Saul Anointed King"
     },
     {
       "pk": 9010002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "As Saul turned to leave Samuel, God gave him a new heart, and all these signs happened that day.",
       "links": "<a href='/AIV/26/36/26-27'>Ezek 36:26-27</a>; <a href='/AIV/9/10/6'>1Sam 10:6</a>",
-      "comment": "The giving of a new heart hints at interior renewal—a theme later echoed in the promise of spiritual regeneration and sanctification. The fulfillment of signs confirms the authenticity of God’s call."
+      "comment": "The giving of a new heart hints at interior renewal—a theme later echoed in the promise of spiritual regeneration and sanctification. The fulfillment of signs confirms the authenticity of God’s call.",
+      "sectionHeader": "Saul Among the Prophets"
     },
     {
       "pk": 9010010,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "Saul’s uncle asked him and his servant, 'Where did you go?' Saul replied, 'To look for the donkeys. When we saw they were not to be found, we went to Samuel.'",
       "links": "<a href='/AIV/9/9/3-4'>1Sam 9:3-4</a>",
-      "comment": "Saul’s conversation with family reflects the transition from normal life to divine calling. Like other biblical figures, ordinary circumstances form the backdrop for God’s extraordinary work."
+      "comment": "Saul’s conversation with family reflects the transition from normal life to divine calling. Like other biblical figures, ordinary circumstances form the backdrop for God’s extraordinary work.",
+      "sectionHeader": "Saul Conceals His Anointing"
     },
     {
       "pk": 9010015,
@@ -206,7 +209,8 @@
       "verse": 17,
       "text": "Samuel summoned the people to the Lord at Mizpah.",
       "links": "<a href='/AIV/9/7/5-6'>1Sam 7:5-6</a>; <a href='/AIV/9/10/19'>1Sam 10:19</a>",
-      "comment": "The gathering at Mizpah, a site of previous renewal, signals corporate worship and covenant renewal before God, anticipating later assemblies where leaders are set apart by divine decree."
+      "comment": "The gathering at Mizpah, a site of previous renewal, signals corporate worship and covenant renewal before God, anticipating later assemblies where leaders are set apart by divine decree.",
+      "sectionHeader": "Saul Chosen by Lot"
     },
     {
       "pk": 9010018,
@@ -290,7 +294,8 @@
       "verse": 24,
       "text": "Samuel said to all the people, 'Do you see the man whom the Lord has chosen? There is no one like him among all the people.' Then the people shouted, 'Long live the king!'",
       "links": "<a href='/AIV/9/9/17'>1Sam 9:17</a>; <a href='/AIV/10/11/12'>2Sam 11:12</a>",
-      "comment": "Samuel’s acclamation points to God's unique choice. The acclamation 'Long live the king!' brings unity under authority, foreshadowing later acclamations of Christ as King by his followers."
+      "comment": "Samuel’s acclamation points to God's unique choice. The acclamation 'Long live the king!' brings unity under authority, foreshadowing later acclamations of Christ as King by his followers.",
+      "sectionHeader": "Saul Proclaimed King"
     },
     {
       "pk": 9010025,
@@ -329,5 +334,32 @@
       "comment": "The rejection Saul experiences foreshadows the rejection faced by God’s chosen leaders, including Christ, who was similarly despised. Saul’s silence here is an example of the patience and forbearance often needed in vocation, urging us to trust God’s timing for vindication."
     }
   ],
-  "translatedAt": "2025-12-24T02:53:49.452Z"
+  "translatedAt": "2025-12-24T02:53:49.452Z",
+  "sections": [
+    {
+      "title": "Saul Anointed King",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "Saul Among the Prophets",
+      "startVerse": 9,
+      "endVerse": 13
+    },
+    {
+      "title": "Saul Conceals His Anointing",
+      "startVerse": 14,
+      "endVerse": 16
+    },
+    {
+      "title": "Saul Chosen by Lot",
+      "startVerse": 17,
+      "endVerse": 23
+    },
+    {
+      "title": "Saul Proclaimed King",
+      "startVerse": 24,
+      "endVerse": 27
+    }
+  ]
 }

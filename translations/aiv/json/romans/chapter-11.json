@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "So I ask: Has God rejected His people? Absolutely not! For I myself am an Israelite, a descendant of Abraham, from the tribe of Benjamin.",
       "links": "<a href='/AIV/9/12/22'>1 Sam. 12:22</a>; <a href='/AIV/19/94/14'>Ps. 94:14</a>",
-      "comment": "Paul insists that God’s promises remain for Israel. See also 1 Samuel 12:22 and Psalm 94:14 for God's faithfulness to His people."
+      "comment": "Paul insists that God’s promises remain for Israel. See also 1 Samuel 12:22 and Psalm 94:14 for God's faithfulness to His people.",
+      "sectionHeader": "The Remnant of Israel"
     },
     {
       "pk": 52011002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "So I ask: Did they stumble so as to fall beyond recovery? Certainly not! But through their failure, salvation has come to the Gentiles, to make Israel jealous.",
       "links": "<a href='/AIV/5/32/21'>Deut. 32:21</a>; <a href='/AIV/44/13/46'>Acts 13:46</a>",
-      "comment": "Israel’s rejection enabled Gentile inclusion (Acts 13:46). Their ‘jealousy’ is meant to invite them back to faith—a reflection of God’s plan for unity in worship."
+      "comment": "Israel’s rejection enabled Gentile inclusion (Acts 13:46). Their ‘jealousy’ is meant to invite them back to faith—a reflection of God’s plan for unity in worship.",
+      "sectionHeader": "Salvation Comes to the Gentiles"
     },
     {
       "pk": 52011012,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "But if some of the branches were broken off, and you, though a wild olive shoot, were grafted in among them and now share in the nourishing root of the olive tree,",
       "links": "<a href='/AIV/24/11/16'>Jer. 11:16</a>",
-      "comment": "Gentiles are grafted into the root heritage of Israel. The covenant community is unified by sharing in the same root, not replacing it."
+      "comment": "Gentiles are grafted into the root heritage of Israel. The covenant community is unified by sharing in the same root, not replacing it.",
+      "sectionHeader": "The Olive Tree and the Grafting In of the Gentiles"
     },
     {
       "pk": 52011018,
@@ -302,7 +305,8 @@
       "verse": 25,
       "text": "Brothers, I do not want you to be ignorant of this mystery, so that you will not be wise in your own estimation: a hardening has come upon part of Israel, until the full number of the Gentiles has come in.",
       "links": "<a href='/AIV/51/1/26-27'>Col. 1:26-27</a>; <a href='/AIV/42/21/24'>Luke 21:24</a>",
-      "comment": "The inclusion of the Gentiles is both a mystery and fulfillment of prophecy—reflects God’s universal plan for salvation."
+      "comment": "The inclusion of the Gentiles is both a mystery and fulfillment of prophecy—reflects God’s universal plan for salvation.",
+      "sectionHeader": "The Mystery of Israel’s Salvation"
     },
     {
       "pk": 52011026,
@@ -398,7 +402,8 @@
       "verse": 33,
       "text": "Oh, the depth of the riches and wisdom and knowledge of God! How unsearchable are His judgments and how inscrutable His ways!",
       "links": "<a href='/AIV/23/55/8-9'>Isa. 55:8-9</a>; <a href='/AIV/18/11/7-9'>Job 11:7-9</a>",
-      "comment": "Paul’s doxology reflects the profound mystery of God’s will—God’s wisdom exceeds human understanding."
+      "comment": "Paul’s doxology reflects the profound mystery of God’s will—God’s wisdom exceeds human understanding.",
+      "sectionHeader": "A Hymn of Praise to God’s Wisdom"
     },
     {
       "pk": 52011034,
@@ -437,5 +442,32 @@
       "comment": "A majestic doxology, echoing the supremacy of Christ over all creation (Colossians 1:16, Revelation 4:11). Glory is the fitting response to God’s wisdom and mercy."
     }
   ],
-  "translatedAt": "2025-12-24T11:41:18.271Z"
+  "translatedAt": "2025-12-24T11:41:18.271Z",
+  "sections": [
+    {
+      "title": "The Remnant of Israel",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "Salvation Comes to the Gentiles",
+      "startVerse": 11,
+      "endVerse": 16
+    },
+    {
+      "title": "The Olive Tree and the Grafting In of the Gentiles",
+      "startVerse": 17,
+      "endVerse": 24
+    },
+    {
+      "title": "The Mystery of Israel’s Salvation",
+      "startVerse": 25,
+      "endVerse": 32
+    },
+    {
+      "title": "A Hymn of Praise to God’s Wisdom",
+      "startVerse": 33,
+      "endVerse": 36
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Remember, O LORD, what has happened to us; look, and see our disgrace.",
       "links": "<a href='/AIV/19/106/4'>Ps. 106:4</a>; <a href='/AIV/23/64/9'>Isa. 64:9</a>",
-      "comment": "The opening plea recalls the tradition of calling on the LORD to look upon the suffering of His people, as in the Psalms. This introduces the theme of lament and confidence in God's providential care."
+      "comment": "The opening plea recalls the tradition of calling on the LORD to look upon the suffering of His people, as in the Psalms. This introduces the theme of lament and confidence in God's providential care.",
+      "sectionHeader": "A Prayer for Mercy Amid Ruin"
     },
     {
       "pk": 31005002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "Joy has left our hearts; our dancing has turned to mourning.",
       "links": "<a href='/AIV/19/30/11'>Ps. 30:11</a>; <a href='/AIV/23/24/8'>Isa. 24:8</a>",
-      "comment": "Sorrow replaces joy, echoing the reversal themes in Scripture. God alone can turn mourning to joy—a messianic anticipation fulfilled in the ministry of Jesus."
+      "comment": "Sorrow replaces joy, echoing the reversal themes in Scripture. God alone can turn mourning to joy—a messianic anticipation fulfilled in the ministry of Jesus.",
+      "sectionHeader": "Israel's Joy Turns to Mourning"
     },
     {
       "pk": 31005016,
@@ -230,7 +232,8 @@
       "verse": 19,
       "text": "But You, O LORD, are enthroned forever; Your throne endures from generation to generation.",
       "links": "<a href='/AIV/19/102/12'>Ps. 102:12</a>; <a href='/AIV/58/1/8'>Heb. 1:8</a>",
-      "comment": "A shift from lament to hope: even amid disaster, God’s kingship and faithfulness are affirmed. The eternal throne foreshadows Christ’s everlasting reign (see Heb. 1:8)."
+      "comment": "A shift from lament to hope: even amid disaster, God’s kingship and faithfulness are affirmed. The eternal throne foreshadows Christ’s everlasting reign (see Heb. 1:8).",
+      "sectionHeader": "Prayer for Restoration"
     },
     {
       "pk": 31005020,
@@ -269,5 +272,22 @@
       "comment": "A somber end, lingering between despair and hope. The tradition reads this as a call never to give up seeking God's mercy—trusting in His final redemption. In liturgical practice, verse 21 is often repeated after this, emphasizing hope over despair."
     }
   ],
-  "translatedAt": "2025-12-24T08:54:30.855Z"
+  "translatedAt": "2025-12-24T08:54:30.855Z",
+  "sections": [
+    {
+      "title": "A Prayer for Mercy Amid Ruin",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "Israel's Joy Turns to Mourning",
+      "startVerse": 15,
+      "endVerse": 18
+    },
+    {
+      "title": "Prayer for Restoration",
+      "startVerse": 19,
+      "endVerse": 22
+    }
+  ]
 }

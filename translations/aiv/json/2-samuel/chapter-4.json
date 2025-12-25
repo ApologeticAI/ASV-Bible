@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When Saul’s son heard that Abner had died at Hebron, his courage failed, and all Israel was alarmed.",
       "links": "<a href='/AIV/10/3/27'>2Sam 3:27</a>; <a href='/AIV/9/31/6'>1Sam 31:6</a>",
-      "comment": "Saul’s son refers to Ish-bosheth, who depends on Abner’s strength. The nation’s panic foreshadows instability when leadership is uncertain. This sets the stage for David's kingship, which will bring unity, echoing types of Christ as true King (cf. <a href='/AIV/19/2/6'>Ps. 2:6</a>)."
+      "comment": "Saul’s son refers to Ish-bosheth, who depends on Abner’s strength. The nation’s panic foreshadows instability when leadership is uncertain. This sets the stage for David's kingship, which will bring unity, echoing types of Christ as true King (cf. <a href='/AIV/19/2/6'>Ps. 2:6</a>).",
+      "sectionHeader": "Ish-bosheth's Fear After Abner's Death"
     },
     {
       "pk": 10004002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "Jonathan, Saul's son, had a son who was lame in both feet. He was five years old when the news about Saul and Jonathan came from Jezreel, and his nurse picked him up and fled. In haste to get away, the boy fell and became lame. His name was Mephibosheth.",
       "links": "<a href='/AIV/10/9/3'>2Sam 9:3</a>; <a href='/AIV/9/31/2'>1Sam 31:2</a>",
-      "comment": "Mephibosheth’s disability caused by flight reflects the tragic effects of fallen leadership and war. He will later be an object of David’s mercy, symbolizing the king’s graciousness and foreshadowing Christ’s mercy (cf. <a href='/AIV/10/9/7'>2Sam 9:7</a>)."
+      "comment": "Mephibosheth’s disability caused by flight reflects the tragic effects of fallen leadership and war. He will later be an object of David’s mercy, symbolizing the king’s graciousness and foreshadowing Christ’s mercy (cf. <a href='/AIV/10/9/7'>2Sam 9:7</a>).",
+      "sectionHeader": "Mephibosheth’s Lameness"
     },
     {
       "pk": 10004005,
@@ -62,7 +64,8 @@
       "verse": 5,
       "text": "Now the sons of Rimmon the Beerothite, Rechab and Baanah, went during the heat of the day to the house of Ish-bosheth, as he was lying down for his midday rest.",
       "links": "<a href='/AIV/10/3/39'>2Sam 3:39</a>",
-      "comment": "Their approach during Ish-bosheth's vulnerable moment evokes the theme of betrayal, a motif found throughout Scripture, including the betrayal of righteous leaders (cf. <a href='/AIV/19/41/9'>Ps. 41:9</a>)."
+      "comment": "Their approach during Ish-bosheth's vulnerable moment evokes the theme of betrayal, a motif found throughout Scripture, including the betrayal of righteous leaders (cf. <a href='/AIV/19/41/9'>Ps. 41:9</a>).",
+      "sectionHeader": "The Murder of Ish-bosheth"
     },
     {
       "pk": 10004006,
@@ -110,7 +113,8 @@
       "verse": 9,
       "text": "But David answered Rechab and Baanah, his brother, sons of Rimmon the Beerothite, 'As the LORD lives, who has redeemed my life from every adversity,'",
       "links": "<a href='/AIV/19/34/4'>Ps. 34:4</a>; <a href='/AIV/10/22/2-3'>2Sam 22:2-3</a>",
-      "comment": "David’s invocation of God as Redeemer reflects a theology of grace and deliverance, trusting God over human violence. The motif will be central to Christological themes of redemption (cf. <a href='/AIV/40/20/28'>Matt 20:28</a>)."
+      "comment": "David’s invocation of God as Redeemer reflects a theology of grace and deliverance, trusting God over human violence. The motif will be central to Christological themes of redemption (cf. <a href='/AIV/40/20/28'>Matt 20:28</a>).",
+      "sectionHeader": "David Executes Ish-bosheth’s Murderers"
     },
     {
       "pk": 10004010,
@@ -149,5 +153,27 @@
       "comment": "David enforces public justice, restoring order among God’s people. He honors the dead appropriately, foreshadowing practices of reverence for the righteous that will become central to Christian tradition regarding saints and martyrs (cf. <a href='/AIV/19/116/15'>Ps. 116:15</a>)."
     }
   ],
-  "translatedAt": "2025-12-24T03:10:23.816Z"
+  "translatedAt": "2025-12-24T03:10:23.816Z",
+  "sections": [
+    {
+      "title": "Ish-bosheth's Fear After Abner's Death",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "Mephibosheth’s Lameness",
+      "startVerse": 4,
+      "endVerse": 4
+    },
+    {
+      "title": "The Murder of Ish-bosheth",
+      "startVerse": 5,
+      "endVerse": 8
+    },
+    {
+      "title": "David Executes Ish-bosheth’s Murderers",
+      "startVerse": 9,
+      "endVerse": 12
+    }
+  ]
 }

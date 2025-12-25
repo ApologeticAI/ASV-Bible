@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "After some days, during the wheat harvest, Samson went to visit his wife, bringing a young goat as a gift; he said, 'Let me go in to my wife in her room.' But her father would not allow him to go in.",
       "links": "<a href='/AIV/07/14/20'>Judg. 14:20</a>",
-      "comment": "Samson attempts to reconcile with his wife after a period of separation—his intent to bring a gift shows custom and seeks reconciliation (cf. Judg. 14:20)."
+      "comment": "Samson attempts to reconcile with his wife after a period of separation—his intent to bring a gift shows custom and seeks reconciliation (cf. Judg. 14:20).",
+      "sectionHeader": "Samson Burns the Philistines' Crops"
     },
     {
       "pk": 7015002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "Then the Philistines came up, camped in Judah, and spread out in Lehi.",
       "links": "<a href='/AIV/07/13/1'>Judg. 13:1</a>",
-      "comment": "The encampment in Judah signifies the Philistines’ oppression of Israel—reflecting a cycle of foreign domination due to Israel’s unfaithfulness. The need for a mediator or deliverer is clear."
+      "comment": "The encampment in Judah signifies the Philistines’ oppression of Israel—reflecting a cycle of foreign domination due to Israel’s unfaithfulness. The need for a mediator or deliverer is clear.",
+      "sectionHeader": "Samson Defeats the Philistines at Lehi"
     },
     {
       "pk": 7015010,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "He was very thirsty and called upon the LORD and said, 'You have given this great deliverance by your servant, and now shall I die of thirst and fall into the hands of the uncircumcised?'",
       "links": "<a href='/AIV/Ps/22/15'>Ps. 22:15</a>",
-      "comment": "Samson prays, acknowledging the LORD as the source of victory. His thirst invokes the suffering of the righteous, foreshadowed in Christ’s passion (cf. John 19:28). Restoration often follows trial."
+      "comment": "Samson prays, acknowledging the LORD as the source of victory. His thirst invokes the suffering of the righteous, foreshadowed in Christ’s passion (cf. John 19:28). Restoration often follows trial.",
+      "sectionHeader": "God Provides Water for Samson"
     },
     {
       "pk": 7015019,
@@ -245,5 +248,22 @@
       "comment": "Samson’s twenty years of judging signifies a provisional period of leadership and partial deliverance, foreshadowing the permanent reign of the promised Deliverer. The cycle of judges points to the ongoing need for ordered leadership and established authority in God’s plan."
     }
   ],
-  "translatedAt": "2025-12-24T02:39:23.438Z"
+  "translatedAt": "2025-12-24T02:39:23.438Z",
+  "sections": [
+    {
+      "title": "Samson Burns the Philistines' Crops",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "Samson Defeats the Philistines at Lehi",
+      "startVerse": 9,
+      "endVerse": 17
+    },
+    {
+      "title": "God Provides Water for Samson",
+      "startVerse": 18,
+      "endVerse": 20
+    }
+  ]
 }

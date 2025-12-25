@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "So then, you have no excuse, whoever you are who judges. For in judging another, you condemn yourself, since you, the judge, do the same things.",
       "links": "<a href='/AIV/40/7/1'>Matt. 7:1</a>; <a href='/AIV/45/1/20-32'>Rom. 1:20-32</a>",
-      "comment": "Paul warns against hypocrisy and self-righteous judgment, echoing Jesus' teachings (Matt 7:1). The call to humility and examination of conscience is important here, tying into recurring themes of personal holiness supported by grace."
+      "comment": "Paul warns against hypocrisy and self-righteous judgment, echoing Jesus' teachings (Matt 7:1). The call to humility and examination of conscience is important here, tying into recurring themes of personal holiness supported by grace.",
+      "sectionHeader": "God’s Righteous Judgment"
     },
     {
       "pk": 52002002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "All who have sinned apart from the law will also perish apart from the law; and all who have sinned under the law will be judged by the law.",
       "links": "<a href='/AIV/45/3/19'>Rom. 3:19</a>; <a href='/AIV/45/4/15'>Rom. 4:15</a>",
-      "comment": "God’s standards apply whether or not one has the written law. Even those without the Mosaic Law are held accountable, showing the natural law written on the heart."
+      "comment": "God’s standards apply whether or not one has the written law. Even those without the Mosaic Law are held accountable, showing the natural law written on the heart.",
+      "sectionHeader": "The Law and the Judgment of God"
     },
     {
       "pk": 52002013,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "But if you call yourself a Jew and rely on the law and boast in God,",
       "links": "<a href='/AIV/45/9/4'>Rom. 9:4</a>; <a href='/AIV/24/9/24'>Jer. 9:24</a>",
-      "comment": "Paul now addresses Jews directly, highlighting the responsibility that comes with greater revelation."
+      "comment": "Paul now addresses Jews directly, highlighting the responsibility that comes with greater revelation.",
+      "sectionHeader": "True Judaism and Circumcision of the Heart"
     },
     {
       "pk": 52002018,
@@ -353,5 +356,22 @@
       "comment": "Paul teaches the transformation by the Spirit as the mark of true membership in God’s people. This hidden, interior work connects to the process of sanctification and sacramental grace—the new heart and spirit prophesied by Ezekiel."
     }
   ],
-  "translatedAt": "2025-12-24T11:36:38.413Z"
+  "translatedAt": "2025-12-24T11:36:38.413Z",
+  "sections": [
+    {
+      "title": "God’s Righteous Judgment",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "The Law and the Judgment of God",
+      "startVerse": 12,
+      "endVerse": 16
+    },
+    {
+      "title": "True Judaism and Circumcision of the Heart",
+      "startVerse": 17,
+      "endVerse": 29
+    }
+  ]
 }

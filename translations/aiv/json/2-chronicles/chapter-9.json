@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When the queen of Sheba heard of Solomon's fame, she came to Jerusalem to test Solomon with hard questions. She arrived with a very large entourage, with camels carrying spices, an abundance of gold, and precious stones. When she came to Solomon, she spoke with him about all that was on her heart.",
       "links": "<a href='/AIV/11/10/1'>1 Kings 10:1</a>; <a href='/AIV/19/72/10-15'>Psalm 72:10-15</a>; <a href='/AIV/40/12/42'>Matt. 12:42</a>",
-      "comment": "Solomon's international reputation for wisdom draws foreign rulers, foreshadowing the spread of divine wisdom to the nations. The Queen of Sheba's visit is a vivid testament to God's faithfulness as wisdom brings rulers from afar (cf. Matthew 12:42, where Jesus refers to this event)."
+      "comment": "Solomon's international reputation for wisdom draws foreign rulers, foreshadowing the spread of divine wisdom to the nations. The Queen of Sheba's visit is a vivid testament to God's faithfulness as wisdom brings rulers from afar (cf. Matthew 12:42, where Jesus refers to this event).",
+      "sectionHeader": "The Visit of the Queen of Sheba"
     },
     {
       "pk": 14009002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "The weight of gold that came to Solomon in one year was six hundred and sixty-six talents of gold,",
       "links": "<a href='/AIV/11/10/14'>1 Kings 10:14</a>; <a href='/AIV/66/13/18'>Revelation 13:18</a>",
-      "comment": "The number 666 here records royal income; the symbolism of this number appears later in Revelation in a negative sense, but here simply marks Solomon’s wealth at its height."
+      "comment": "The number 666 here records royal income; the symbolism of this number appears later in Revelation in a negative sense, but here simply marks Solomon’s wealth at its height.",
+      "sectionHeader": "Solomon’s Wealth and Splendor"
     },
     {
       "pk": 14009014,
@@ -350,7 +352,8 @@
       "verse": 29,
       "text": "Now the rest of the acts of Solomon, from the beginning to the end, are they not written in the records of Nathan the prophet, in the prophecy of Ahijah the Shilonite, and in the visions of Iddo the seer concerning Jeroboam son of Nebat?",
       "links": "<a href='/AIV/11/11/41'>1 Kings 11:41</a>; <a href='/AIV/13/29/29'>1 Chr. 29:29</a>",
-      "comment": "The Chronicler refers to multiple sources—prophetic and historical—emphasizing the importance of both Scripture and tradition in preserving God’s works."
+      "comment": "The Chronicler refers to multiple sources—prophetic and historical—emphasizing the importance of both Scripture and tradition in preserving God’s works.",
+      "sectionHeader": "The Death of Solomon"
     },
     {
       "pk": 14009030,
@@ -377,5 +380,22 @@
       "comment": "The orderly succession of kingship, and burial among the fathers, anticipates the ongoing continuity of God’s promises through a sacred lineage, ultimately fulfilled in Christ (cf. Matthew 1:6-7)."
     }
   ],
-  "translatedAt": "2025-12-24T04:26:14.580Z"
+  "translatedAt": "2025-12-24T04:26:14.580Z",
+  "sections": [
+    {
+      "title": "The Visit of the Queen of Sheba",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "Solomon’s Wealth and Splendor",
+      "startVerse": 13,
+      "endVerse": 28
+    },
+    {
+      "title": "The Death of Solomon",
+      "startVerse": 29,
+      "endVerse": 31
+    }
+  ]
 }

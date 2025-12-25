@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "My son, if you receive my words and store up my commandments within you,",
       "links": "<a href='/AIV/19/119/11'>Ps. 119:11</a>; <a href='/AIV/20/4/1-4'>Prov. 4:1-4</a>",
-      "comment": "The passage uses a parental instruction motif, showing wisdom is to be treasured and internalized. The language recalls Deut. 6:6-7, pointing to the tradition of hearing, receiving, and obeying teaching."
+      "comment": "The passage uses a parental instruction motif, showing wisdom is to be treasured and internalized. The language recalls Deut. 6:6-7, pointing to the tradition of hearing, receiving, and obeying teaching.",
+      "sectionHeader": "The Value of Wisdom"
     },
     {
       "pk": 24002002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "delivering you from the way of evil, from men of perverse speech,",
       "links": "<a href='/AIV/20/6/12-14'>Prov. 6:12-14</a>",
-      "comment": "Wisdom acts as a protection, keeping the faithful from the influence of the wicked. The idea of ‘perverse speech’ reflects both false teaching and moral corruption."
+      "comment": "Wisdom acts as a protection, keeping the faithful from the influence of the wicked. The idea of ‘perverse speech’ reflects both false teaching and moral corruption.",
+      "sectionHeader": "Deliverance from Evil Men"
     },
     {
       "pk": 24002013,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "So you will be delivered from the forbidden woman, from the adulteress with her smooth words,",
       "links": "<a href='/AIV/20/5/3-8'>Prov. 5:3-8</a>; <a href='/AIV/20/7/5'>Prov. 7:5</a>",
-      "comment": "The ‘forbidden woman’ is a recurring symbol in Proverbs, representing both literal sexual sin and spiritual unfaithfulness (cf. James 4:4)."
+      "comment": "The ‘forbidden woman’ is a recurring symbol in Proverbs, representing both literal sexual sin and spiritual unfaithfulness (cf. James 4:4).",
+      "sectionHeader": "Deliverance from the Adulteress"
     },
     {
       "pk": 24002017,
@@ -242,7 +245,8 @@
       "verse": 20,
       "text": "So you will walk in the way of the good and keep to the paths of the righteous.",
       "links": "<a href='/AIV/19/1/1'>Ps. 1:1</a>",
-      "comment": "The call is not only to avoid evil but to actively choose and persevere in the way of righteousness, a common theme for perseverance in the faith."
+      "comment": "The call is not only to avoid evil but to actively choose and persevere in the way of righteousness, a common theme for perseverance in the faith.",
+      "sectionHeader": "The Reward of the Righteous"
     },
     {
       "pk": 24002021,
@@ -269,5 +273,27 @@
       "comment": "Being ‘cut off’ is judgment language with eternal consequence—foreshadowing the final separation of the righteous from the wicked seen in Jesus’ teaching (e.g., Matt. 13:41-43)."
     }
   ],
-  "translatedAt": "2025-12-24T06:51:17.303Z"
+  "translatedAt": "2025-12-24T06:51:17.303Z",
+  "sections": [
+    {
+      "title": "The Value of Wisdom",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "Deliverance from Evil Men",
+      "startVerse": 12,
+      "endVerse": 15
+    },
+    {
+      "title": "Deliverance from the Adulteress",
+      "startVerse": 16,
+      "endVerse": 19
+    },
+    {
+      "title": "The Reward of the Righteous",
+      "startVerse": 20,
+      "endVerse": 22
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Oh, that my head were water, and my eyes a fountain of tears, so I could weep day and night for the slain of the daughter of my people!",
       "links": "<a href='/AIV/25/1/16'>Lam. 1:16</a>; <a href='/AIV/19/119/136'>Ps. 119:136</a>",
-      "comment": "Jeremiah expresses deep sorrow and compassion for his people, prefiguring the sorrow Christ would have over Jerusalem (Luke 19:41)."
+      "comment": "Jeremiah expresses deep sorrow and compassion for his people, prefiguring the sorrow Christ would have over Jerusalem (Luke 19:41).",
+      "sectionHeader": "Jeremiah's Lament over His People"
     },
     {
       "pk": 30009002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "Who is wise enough to understand this? Who has been instructed by the LORD, so they may explain it? Why is the land ruined and laid waste like a desert, so that no one passes through?",
       "links": "<a href='/AIV/19/107/43'>Ps. 107:43</a>; <a href='/AIV/30/3/7'>Amos 3:7</a>",
-      "comment": "The prophets and teachers are called to discern and communicate spiritual truths, a role of ongoing apostolic tradition and teaching."
+      "comment": "The prophets and teachers are called to discern and communicate spiritual truths, a role of ongoing apostolic tradition and teaching.",
+      "sectionHeader": "Judgment for Forsaking the Law"
     },
     {
       "pk": 30009013,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "Thus says the LORD of hosts: 'Consider, and call forth the mourning women to come; send for the skillful women to come.'",
       "links": "<a href='/AIV/10/14/2'>2 Sam. 14:2</a>; <a href='/AIV/40/5/4'>Matt. 5:4</a>",
-      "comment": "Professional mourners symbolize communal grief. The beatitude 'Blessed are those who mourn' (Matt. 5:4) echoes the spiritual value of true contrition."
+      "comment": "Professional mourners symbolize communal grief. The beatitude 'Blessed are those who mourn' (Matt. 5:4) echoes the spiritual value of true contrition.",
+      "sectionHeader": "Summons to Mourning and the Coming Destruction"
     },
     {
       "pk": 30009018,
@@ -278,7 +281,8 @@
       "verse": 23,
       "text": "Thus says the LORD: 'Let not the wise glory in his wisdom, nor the mighty glory in his might, nor the rich glory in his riches;'",
       "links": "<a href='/AIV/19/49/6-7'>Ps. 49:6-7</a>; <a href='/AIV/46/1/26-31'>1 Cor. 1:26-31</a>",
-      "comment": "True boast is found not in human strength or achievements, but in the Lord. Paul echoes this as a call to humility and grace."
+      "comment": "True boast is found not in human strength or achievements, but in the Lord. Paul echoes this as a call to humility and grace.",
+      "sectionHeader": "True Boasting and the Judgment of the Uncircumcised"
     },
     {
       "pk": 30009024,
@@ -317,5 +321,27 @@
       "comment": "God calls not just for outward religious observance, but for transformation of the inner person—a foundational principle for authentic spirituality. Spiritual circumcision prefigures the new heart and Spirit given in Christ (Ezekiel 36:26-27)."
     }
   ],
-  "translatedAt": "2025-12-24T08:26:21.123Z"
+  "translatedAt": "2025-12-24T08:26:21.123Z",
+  "sections": [
+    {
+      "title": "Jeremiah's Lament over His People",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "Judgment for Forsaking the Law",
+      "startVerse": 12,
+      "endVerse": 16
+    },
+    {
+      "title": "Summons to Mourning and the Coming Destruction",
+      "startVerse": 17,
+      "endVerse": 22
+    },
+    {
+      "title": "True Boasting and the Judgment of the Uncircumcised",
+      "startVerse": 23,
+      "endVerse": 26
+    }
+  ]
 }

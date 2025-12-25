@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "These are the nations the LORD left to test Israel, all who had not experienced any of the wars in Canaan:",
       "links": "<a href='/AIV/2/23/29-33'>Exod. 23:29-33</a>; <a href='/AIV/7/2/21-22'>Judg. 2:21-22</a>",
-      "comment": "God allowed some nations to remain in Canaan to test Israel's faithfulness and to teach future generations the art of spiritual and physical battle, showing God's providence over the growth of His people."
+      "comment": "God allowed some nations to remain in Canaan to test Israel's faithfulness and to teach future generations the art of spiritual and physical battle, showing God's providence over the growth of His people.",
+      "sectionHeader": "Nations Left to Test Israel"
     },
     {
       "pk": 7003002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "And the Israelites did what was evil in the eyes of the LORD. They forgot the LORD their God and served the Baals and the Asheroth.",
       "links": "<a href='/AIV/7/2/11-13'>Judg. 2:11-13</a>",
-      "comment": "Forgetting God leads to idolatry. The repetitive phrase marks the beginning of the 'judges cycle.' See the connection between disobedience and spiritual bondage (cf. <a href='/AIV/43/8/34'>John 8:34</a>)."
+      "comment": "Forgetting God leads to idolatry. The repetitive phrase marks the beginning of the 'judges cycle.' See the connection between disobedience and spiritual bondage (cf. <a href='/AIV/43/8/34'>John 8:34</a>).",
+      "sectionHeader": "Othniel Delivers Israel from Cushan-Rishathaim"
     },
     {
       "pk": 7003008,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "And the Israelites again did what was evil in the eyes of the LORD. And the LORD gave Eglon king of Moab power over Israel because they did what was evil in the eyes of the LORD.",
       "links": "<a href='/AIV/7/2/19-20'>Judg. 2:19-20</a>",
-      "comment": "Israel's repeated sin triggers another loss of freedom. This demonstrates the importance of remaining steady in faith and fidelity to divine covenant."
+      "comment": "Israel's repeated sin triggers another loss of freedom. This demonstrates the importance of remaining steady in faith and fidelity to divine covenant.",
+      "sectionHeader": "Ehud Delivers Israel from Moab"
     },
     {
       "pk": 7003013,
@@ -374,8 +377,31 @@
       "verse": 31,
       "text": "After him was Shamgar the son of Anath, who struck down six hundred Philistines with an oxgoad, and he too delivered Israel.",
       "links": "<a href='/AIV/7/5/6'>Judg. 5:6</a>; <a href='/AIV/9/13/5'>1 Sam. 13:5</a>",
-      "comment": "Shamgar’s deliverance by humble means (an oxgoad) highlights that God uses unexpected instruments. Every period of crisis calls for a divinely prepared leader, echoing the perpetual need for faithful shepherds over God’s people."
+      "comment": "Shamgar’s deliverance by humble means (an oxgoad) highlights that God uses unexpected instruments. Every period of crisis calls for a divinely prepared leader, echoing the perpetual need for faithful shepherds over God’s people.",
+      "sectionHeader": "Shamgar Defeats the Philistines"
     }
   ],
-  "translatedAt": "2025-12-24T02:32:08.148Z"
+  "translatedAt": "2025-12-24T02:32:08.148Z",
+  "sections": [
+    {
+      "title": "Nations Left to Test Israel",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Othniel Delivers Israel from Cushan-Rishathaim",
+      "startVerse": 7,
+      "endVerse": 11
+    },
+    {
+      "title": "Ehud Delivers Israel from Moab",
+      "startVerse": 12,
+      "endVerse": 30
+    },
+    {
+      "title": "Shamgar Defeats the Philistines",
+      "startVerse": 31,
+      "endVerse": 31
+    }
+  ]
 }

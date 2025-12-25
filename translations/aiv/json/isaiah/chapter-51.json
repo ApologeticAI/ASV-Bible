@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Listen to me, you who pursue righteousness, you who seek the LORD. Look to the rock from which you were cut, and to the quarry from which you were dug.",
       "links": "<a href='/AIV/23/46/12'>Isa. 46:12</a>; <a href='/AIV/19/105/4'>Ps. 105:4</a>",
-      "comment": "The 'rock' refers to the ancestry of Abraham (v.2) and symbolizes the origin of faith. The theme anticipates Christ as the true Rock (<a href='/AIV/46/10/4'>1 Cor. 10:4</a>), showing a connection between the people's past and their hope for redemption."
+      "comment": "The 'rock' refers to the ancestry of Abraham (v.2) and symbolizes the origin of faith. The theme anticipates Christ as the true Rock (<a href='/AIV/46/10/4'>1 Cor. 10:4</a>), showing a connection between the people's past and their hope for redemption.",
+      "sectionHeader": "Comfort for Zion and Promise of Restoration"
     },
     {
       "pk": 29051002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "Awake, awake, put on strength, O arm of the LORD! Awake, as in days of old, the generations of long ago. Was it not you who cut Rahab in pieces, who pierced the sea monster?",
       "links": "<a href='/AIV/02/14/21-28'>Ex. 14:21-28</a>; <a href='/AIV/19/89/10'>Ps. 89:10</a>",
-      "comment": "Rahab here refers symbolically to Egypt. This is an appeal for God's mighty deliverance like the Exodus, prefiguring the ultimate deliverance brought by Christ."
+      "comment": "Rahab here refers symbolically to Egypt. This is an appeal for God's mighty deliverance like the Exodus, prefiguring the ultimate deliverance brought by Christ.",
+      "sectionHeader": "A Call to Awake and the Assurance of Redemption"
     },
     {
       "pk": 29051010,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "I, I am he who comforts you. Who are you that you are afraid of man who dies, and of the son of man who is made like grass,",
       "links": "<a href='/AIV/23/40/6-8'>Isa. 40:6-8</a>; <a href='/AIV/40/10/28'>Matt. 10:28</a>",
-      "comment": "God himself is the comforter. This theme is taken up in the New Testament with the Holy Spirit called the 'Comforter' (<a href='/AIV/43/14/16'>John 14:16</a>)."
+      "comment": "God himself is the comforter. This theme is taken up in the New Testament with the Holy Spirit called the 'Comforter' (<a href='/AIV/43/14/16'>John 14:16</a>).",
+      "sectionHeader": "The LORD's Comfort and Deliverance from Oppression"
     },
     {
       "pk": 29051013,
@@ -206,7 +209,8 @@
       "verse": 17,
       "text": "Wake yourself, wake yourself, stand up, O Jerusalem, you who have drunk from the hand of the LORD the cup of his wrath, you who have drunk to the dregs the bowl, the cup of staggering.",
       "links": "<a href='/AIV/24/25/15'>Jer. 25:15</a>; <a href='/AIV/66/16/19'>Rev. 16:19</a>",
-      "comment": "The ‘cup’ of God's wrath is a frequent image for judgment, which Jesus refers to in Gethsemane (<a href='/AIV/42/22/42'>Luke 22:42</a>), ultimately taking it upon himself for our redemption."
+      "comment": "The ‘cup’ of God's wrath is a frequent image for judgment, which Jesus refers to in Gethsemane (<a href='/AIV/42/22/42'>Luke 22:42</a>), ultimately taking it upon himself for our redemption.",
+      "sectionHeader": "Jerusalem's Suffering and the Removal of God's Wrath"
     },
     {
       "pk": 29051018,
@@ -281,5 +285,27 @@
       "comment": "Reversal of fortunes: oppressors now bear the cup of judgment. This completes the cycle of restoration for God's people and points to Christ’s victory over evil."
     }
   ],
-  "translatedAt": "2025-12-24T08:14:52.633Z"
+  "translatedAt": "2025-12-24T08:14:52.633Z",
+  "sections": [
+    {
+      "title": "Comfort for Zion and Promise of Restoration",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "A Call to Awake and the Assurance of Redemption",
+      "startVerse": 9,
+      "endVerse": 11
+    },
+    {
+      "title": "The LORD's Comfort and Deliverance from Oppression",
+      "startVerse": 12,
+      "endVerse": 16
+    },
+    {
+      "title": "Jerusalem's Suffering and the Removal of God's Wrath",
+      "startVerse": 17,
+      "endVerse": 23
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In the beginning of the reign of Jehoiakim son of Josiah, king of Judah, this word came from the LORD:",
       "links": "<a href='/AIV/12/23/36'>2 Kgs. 23:36</a>; <a href='/AIV/24/1/3'>Jer. 1:3</a>",
-      "comment": "Historical context roots this prophecy at the start of Jehoiakim’s reign, marking a critical moment for Judah’s fate."
+      "comment": "Historical context roots this prophecy at the start of Jehoiakim’s reign, marking a critical moment for Judah’s fate.",
+      "sectionHeader": "Jeremiah Threatened with Death"
     },
     {
       "pk": 30026002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "But Jeremiah spoke to all the officials and all the people, saying, \"The LORD sent me to prophesy against this house and this city all the words you have heard.",
       "links": "<a href='/AIV/24/7/12'>Jer. 7:12</a>",
-      "comment": "Boldly, Jeremiah testifies to his divine commission despite the danger, showing a submission to God over human authority."
+      "comment": "Boldly, Jeremiah testifies to his divine commission despite the danger, showing a submission to God over human authority.",
+      "sectionHeader": "Jeremiah’s Defense before the Officials"
     },
     {
       "pk": 30026013,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "And some of the elders of the land stood up and spoke to all the assembly of the people, saying:",
       "links": "<a href='/AIV/44/5/34'>Acts 5:34</a>",
-      "comment": "Elders’ wisdom and tradition play a vital role in guiding the community—a sign of continuity in the faith."
+      "comment": "Elders’ wisdom and tradition play a vital role in guiding the community—a sign of continuity in the faith.",
+      "sectionHeader": "The Example of Micah"
     },
     {
       "pk": 30026018,
@@ -242,7 +245,8 @@
       "verse": 20,
       "text": "There was also a man who prophesied in the name of the LORD, Uriah son of Shemaiah from Kiriath-jearim. He prophesied against this city and against this land in words similar to those of Jeremiah.",
       "links": "<a href='/AIV/06/18/28'>Josh. 18:28</a>",
-      "comment": "Uriah’s appearance substantiates the continuity of God’s warning and the unity of prophetic voices."
+      "comment": "Uriah’s appearance substantiates the continuity of God’s warning and the unity of prophetic voices.",
+      "sectionHeader": "The Fate of Uriah"
     },
     {
       "pk": 30026021,
@@ -293,5 +297,27 @@
       "comment": "God provides protection for His prophet through human agents, hinting at how divine providence can work through faithful individuals (see Acts 23:16-24)."
     }
   ],
-  "translatedAt": "2025-12-24T08:35:39.592Z"
+  "translatedAt": "2025-12-24T08:35:39.592Z",
+  "sections": [
+    {
+      "title": "Jeremiah Threatened with Death",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "Jeremiah’s Defense before the Officials",
+      "startVerse": 12,
+      "endVerse": 16
+    },
+    {
+      "title": "The Example of Micah",
+      "startVerse": 17,
+      "endVerse": 19
+    },
+    {
+      "title": "The Fate of Uriah",
+      "startVerse": 20,
+      "endVerse": 24
+    }
+  ]
 }

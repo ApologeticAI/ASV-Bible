@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "After these events, during the reign of Artaxerxes king of Persia, Ezra son of Seraiah, son of Azariah, son of Hilkiah,",
       "links": "<a href='/AIV/15/2/2'>Ezra 2:2</a>; <a href='/AIV/16/7/7'>Neh. 7:7</a>",
-      "comment": "A new phase begins with the introduction of Ezra, a direct priestly descendant. Artaxerxes here is most likely Artaxerxes I (465–424 BC)."
+      "comment": "A new phase begins with the introduction of Ezra, a direct priestly descendant. Artaxerxes here is most likely Artaxerxes I (465–424 BC).",
+      "sectionHeader": "Ezra’s Journey to Jerusalem"
     },
     {
       "pk": 15007002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "This is a copy of the letter that King Artaxerxes gave to Ezra the priest and scribe, who was learned in the words of the commandments of the LORD and His statutes for Israel:",
       "links": "<a href='/AIV/15/4/11-16'>Ezra 4:11-16</a>",
-      "comment": "Official royal authority is given to the scribe-priest. Sacred leadership has both spiritual and civil dimensions."
+      "comment": "Official royal authority is given to the scribe-priest. Sacred leadership has both spiritual and civil dimensions.",
+      "sectionHeader": "Artaxerxes’ Letter to Ezra"
     },
     {
       "pk": 15007012,
@@ -326,7 +328,8 @@
       "verse": 27,
       "text": "Blessed be the LORD, the God of our fathers, who has put such a thing as this into the king’s heart, to beautify the house of the LORD that is in Jerusalem,",
       "links": "<a href='/AIV/15/1/1'>Ezra 1:1</a>",
-      "comment": "Ezra acknowledges God’s sovereignty, giving Him glory for stirring earthly rulers to support the temple—a spiritual parallel to the Spirit guiding leaders today."
+      "comment": "Ezra acknowledges God’s sovereignty, giving Him glory for stirring earthly rulers to support the temple—a spiritual parallel to the Spirit guiding leaders today.",
+      "sectionHeader": "Ezra’s Thanksgiving"
     },
     {
       "pk": 15007028,
@@ -341,5 +344,22 @@
       "comment": "The closing highlights God’s mercy and the role of strong, divinely guided leadership. God works through both spiritual and civic means to build His people’s unity."
     }
   ],
-  "translatedAt": "2025-12-24T04:43:49.709Z"
+  "translatedAt": "2025-12-24T04:43:49.709Z",
+  "sections": [
+    {
+      "title": "Ezra’s Journey to Jerusalem",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "Artaxerxes’ Letter to Ezra",
+      "startVerse": 11,
+      "endVerse": 26
+    },
+    {
+      "title": "Ezra’s Thanksgiving",
+      "startVerse": 27,
+      "endVerse": 28
+    }
+  ]
 }

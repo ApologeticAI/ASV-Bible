@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "See! The LORD is emptying the earth and making it desolate; he twists its surface and scatters its inhabitants.",
       "links": "<a href='/AIV/01/7/23'>Gen. 7:23</a>; <a href='/AIV/23/13/9'>Isa. 13:9</a>",
-      "comment": "God's sovereign judgment upon the whole earth is being declared, reminiscent of the flood in Noah's time. This marks a reversal of creation, highlighting God's authority over the world."
+      "comment": "God's sovereign judgment upon the whole earth is being declared, reminiscent of the flood in Noah's time. This marks a reversal of creation, highlighting God's authority over the world.",
+      "sectionHeader": "Judgment upon the Whole Earth"
     },
     {
       "pk": 29024002,
@@ -170,7 +171,8 @@
       "verse": 14,
       "text": "They lift up their voices, they sing for joy; over the majesty of the LORD they shout from the west.",
       "links": "<a href='/AIV/19/113/3'>Ps. 113:3</a>",
-      "comment": "Even in judgment, hope remains for the faithful who still worship God. This foreshadows the inclusion of all nations in the true worship of the LORD."
+      "comment": "Even in judgment, hope remains for the faithful who still worship God. This foreshadows the inclusion of all nations in the true worship of the LORD.",
+      "sectionHeader": "A Remnant Glorifies the Lord"
     },
     {
       "pk": 29024015,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "Terror, the pit, and the snare are upon you, O inhabitant of the earth.",
       "links": "<a href='/AIV/24/48/43-44'>Jer. 48:43-44</a>",
-      "comment": "The triple threat symbolizes inescapable judgment, a frequent prophetic warning."
+      "comment": "The triple threat symbolizes inescapable judgment, a frequent prophetic warning.",
+      "sectionHeader": "Universal Desolation and Divine Punishment"
     },
     {
       "pk": 29024018,
@@ -278,8 +281,31 @@
       "verse": 23,
       "text": "Then the moon will be confounded and the sun ashamed, for the LORD of hosts will reign on Mount Zion and in Jerusalem, and before his elders, glory will shine.",
       "links": "<a href='/AIV/23/60/19'>Isa. 60:19</a>; <a href='/AIV/66/21/23'>Rev. 21:23</a>",
-      "comment": "God’s glory will surpass even the sun and moon, as He reigns from Zion. The reference to 'elders' points to a council gathered around God's throne (Rev. 4:4)—prefiguring the heavenly liturgy and worship of the eternal King."
+      "comment": "God’s glory will surpass even the sun and moon, as He reigns from Zion. The reference to 'elders' points to a council gathered around God's throne (Rev. 4:4)—prefiguring the heavenly liturgy and worship of the eternal King.",
+      "sectionHeader": "The Lord's Reign in Zion"
     }
   ],
-  "translatedAt": "2025-12-24T08:01:40.076Z"
+  "translatedAt": "2025-12-24T08:01:40.076Z",
+  "sections": [
+    {
+      "title": "Judgment upon the Whole Earth",
+      "startVerse": 1,
+      "endVerse": 13
+    },
+    {
+      "title": "A Remnant Glorifies the Lord",
+      "startVerse": 14,
+      "endVerse": 16
+    },
+    {
+      "title": "Universal Desolation and Divine Punishment",
+      "startVerse": 17,
+      "endVerse": 22
+    },
+    {
+      "title": "The Lord's Reign in Zion",
+      "startVerse": 23,
+      "endVerse": 23
+    }
+  ]
 }

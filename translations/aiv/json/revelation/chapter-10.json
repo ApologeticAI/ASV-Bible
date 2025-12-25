@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then I saw another mighty angel coming down from heaven, wrapped in a cloud, with a rainbow above his head. His face was like the sun, and his legs like pillars of fire.",
       "links": "<a href='/AIV/02/13/21'>Exod. 13:21</a>; <a href='/AIV/26/01/28'>Ezek. 1:28</a>; <a href='/AIV/40/17/2'>Matt. 17:2</a>",
-      "comment": "This vision echoes Old Testament images of divine presence (Ezekiel 1:28, Exodus 13:21). Some interpreters see this mighty angel as symbolizing Christ himself, given the glowing description, while others see him as an angelic messenger bearing God’s authority. The cloud and rainbow represent God's covenant and glorious presence."
+      "comment": "This vision echoes Old Testament images of divine presence (Ezekiel 1:28, Exodus 13:21). Some interpreters see this mighty angel as symbolizing Christ himself, given the glowing description, while others see him as an angelic messenger bearing God’s authority. The cloud and rainbow represent God's covenant and glorious presence.",
+      "sectionHeader": "The Angel with the Little Scroll"
     },
     {
       "pk": 73010002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Then the voice I had heard from heaven spoke to me again, saying, 'Go, take the opened scroll from the hand of the angel who stands on the sea and the land.'",
       "links": "<a href='/AIV/66/10/2'>Rev. 10:2</a>; <a href='/AIV/26/03/1-3'>Ezek. 3:1-3</a>",
-      "comment": "This command parallels Ezekiel’s call to eat the scroll (Ezek. 3:1-3). The scroll symbolizes John’s prophetic mission to receive and deliver God’s message, reinforcing the importance of receiving revelation directly from God’s agent."
+      "comment": "This command parallels Ezekiel’s call to eat the scroll (Ezek. 3:1-3). The scroll symbolizes John’s prophetic mission to receive and deliver God’s message, reinforcing the importance of receiving revelation directly from God’s agent.",
+      "sectionHeader": "John Eats the Scroll"
     },
     {
       "pk": 73010009,
@@ -137,5 +139,17 @@
       "comment": "John’s commission is universal—his prophecy will concern all peoples, reflecting God’s worldwide plan of salvation. This emphasizes the responsibility and continuity in bearing witness to the fullness of God’s message, which must reach all nations (Matt. 28:19-20; see Jer. 1:10)."
     }
   ],
-  "translatedAt": "2025-12-24T12:37:04.017Z"
+  "translatedAt": "2025-12-24T12:37:04.017Z",
+  "sections": [
+    {
+      "title": "The Angel with the Little Scroll",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "John Eats the Scroll",
+      "startVerse": 8,
+      "endVerse": 11
+    }
+  ]
 }

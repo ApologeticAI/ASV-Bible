@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then the LORD said to Moses, 'Now you will see what I will do to Pharaoh. Because of a strong hand, he will let them go; indeed, because of a mighty hand, he will drive them out of his land.'",
       "links": "<a href='/AIV/1/15/13-14'>Gen. 15:13-14</a>; <a href='/AIV/2/3/19-20'>Exod. 3:19-20</a>",
-      "comment": "God assures Moses of His power over Pharaoh. The 'strong hand' emphasizes divine intervention for deliverance, preparing the way for the exodus. This foreshadows God's ultimate authority and His saving action, prefiguring later salvation through Christ."
+      "comment": "God assures Moses of His power over Pharaoh. The 'strong hand' emphasizes divine intervention for deliverance, preparing the way for the exodus. This foreshadows God's ultimate authority and His saving action, prefiguring later salvation through Christ.",
+      "sectionHeader": "God Renews His Promise to Moses"
     },
     {
       "pk": 2006002,
@@ -170,7 +171,8 @@
       "verse": 14,
       "text": "These are the heads of their fathers’ houses: The sons of Reuben, the firstborn of Israel: Hanoch, Pallu, Hezron, and Carmi; these are the clans of Reuben.",
       "links": "<a href='/AIV/1/46/9'>Gen. 46:9</a>; <a href='/AIV/4/26/5-7'>Num. 26:5-7</a>",
-      "comment": "The genealogy confirms historical continuity and familial leadership. Such listings highlight the importance of succession, tradition, and remembrance—key biblical themes."
+      "comment": "The genealogy confirms historical continuity and familial leadership. Such listings highlight the importance of succession, tradition, and remembrance—key biblical themes.",
+      "sectionHeader": "Genealogy of Moses and Aaron"
     },
     {
       "pk": 2006015,
@@ -338,7 +340,8 @@
       "verse": 28,
       "text": "Now it happened, on the day the LORD spoke to Moses in Egypt,",
       "links": "<a href='/AIV/2/7/1'>Exod. 7:1</a>",
-      "comment": "Temporal markers reinforce the credibility and historicity of divine revelation—mirrored in New Testament references to 'the day' of Christ’s fulfillment."
+      "comment": "Temporal markers reinforce the credibility and historicity of divine revelation—mirrored in New Testament references to 'the day' of Christ’s fulfillment.",
+      "sectionHeader": "Moses Again Sent to Pharaoh"
     },
     {
       "pk": 2006029,
@@ -365,5 +368,22 @@
       "comment": "Moses’ humility and sense of inadequacy points to the need for dependence on God’s grace, reminiscent of Paul’s reflection, ‘God’s power is made perfect in weakness’ (2 Corinthians 12:9). God’s choice of humble servants is a key theme throughout Scripture."
     }
   ],
-  "translatedAt": "2025-12-24T00:49:51.267Z"
+  "translatedAt": "2025-12-24T00:49:51.267Z",
+  "sections": [
+    {
+      "title": "God Renews His Promise to Moses",
+      "startVerse": 1,
+      "endVerse": 13
+    },
+    {
+      "title": "Genealogy of Moses and Aaron",
+      "startVerse": 14,
+      "endVerse": 27
+    },
+    {
+      "title": "Moses Again Sent to Pharaoh",
+      "startVerse": 28,
+      "endVerse": 30
+    }
+  ]
 }

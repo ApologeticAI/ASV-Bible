@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "A prophecy about Nineveh. The book of the vision of Nahum from Elkosh.",
       "links": "<a href='/AIV/23/13/1'>Isa. 13:1</a>; <a href='/AIV/36/2/13'>Zeph. 2:13</a>",
-      "comment": "Nahum’s opening identifies this work as a prophetic oracle, like many Old Testament prophets (see Isa. 13:1). 'Vision' suggests divine revelation—the prophet speaks God's word, not his own."
+      "comment": "Nahum’s opening identifies this work as a prophetic oracle, like many Old Testament prophets (see Isa. 13:1). 'Vision' suggests divine revelation—the prophet speaks God's word, not his own.",
+      "sectionHeader": "Introduction and God’s Judgment on His Enemies"
     },
     {
       "pk": 41001002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "The LORD is good, a stronghold in the day of trouble; he knows those who take refuge in him.",
       "links": "<a href='/AIV/19/34/8'>Ps. 34:8</a>; <a href='/AIV/19/37/39'>Ps. 37:39</a>",
-      "comment": "In contrast to his wrath, God’s goodness and protection are offered to those who seek him. ‘Knows those’ has covenantal overtones, hinting at a familial relationship with his people, consistent with a visible community of faith."
+      "comment": "In contrast to his wrath, God’s goodness and protection are offered to those who seek him. ‘Knows those’ has covenantal overtones, hinting at a familial relationship with his people, consistent with a visible community of faith.",
+      "sectionHeader": "The LORD’s Protection of Judah and the Downfall of Nineveh"
     },
     {
       "pk": 41001008,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "This is what the LORD says: 'Though they are at full strength and many, they will be cut down and pass away. Though I have afflicted you, I will afflict you no more.'",
       "links": "<a href='/AIV/23/14/22'>Isa. 14:22</a>; <a href='/AIV/19/135/8-12'>Ps. 135:8-12</a>",
-      "comment": "Assyria at its peak is no match for God’s power. Promise of relief for God’s people links to themes of restoration and divine compassion—hallmarks of the true, ongoing covenant community."
+      "comment": "Assyria at its peak is no match for God’s power. Promise of relief for God’s people links to themes of restoration and divine compassion—hallmarks of the true, ongoing covenant community.",
+      "sectionHeader": "The Destruction Decreed and Liberation of Judah"
     },
     {
       "pk": 41001013,
@@ -182,8 +185,31 @@
       "verse": 15,
       "text": "Look! On the mountains the feet of one who brings good news, who proclaims peace! Celebrate your festivals, Judah, fulfill your vows! For the wicked will never again invade you; they are completely cut off.",
       "links": "<a href='/AIV/23/52/7'>Isa. 52:7</a>; <a href='/AIV/45/10/15'>Rom. 10:15</a>",
-      "comment": "This verse is quoted in Isaiah 52:7 and echoed in Rom. 10:15. 'Good news' and 'peace' point prophetically to the Gospel and Christ’s work. The mention of festivals and vows reveals continuity of worship and covenant faith, fulfilled in Christ who established public, sacramental worship."
+      "comment": "This verse is quoted in Isaiah 52:7 and echoed in Rom. 10:15. 'Good news' and 'peace' point prophetically to the Gospel and Christ’s work. The mention of festivals and vows reveals continuity of worship and covenant faith, fulfilled in Christ who established public, sacramental worship.",
+      "sectionHeader": "The Messenger of Good News"
     }
   ],
-  "translatedAt": "2025-12-24T09:49:56.474Z"
+  "translatedAt": "2025-12-24T09:49:56.474Z",
+  "sections": [
+    {
+      "title": "Introduction and God’s Judgment on His Enemies",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "The LORD’s Protection of Judah and the Downfall of Nineveh",
+      "startVerse": 7,
+      "endVerse": 11
+    },
+    {
+      "title": "The Destruction Decreed and Liberation of Judah",
+      "startVerse": 12,
+      "endVerse": 14
+    },
+    {
+      "title": "The Messenger of Good News",
+      "startVerse": 15,
+      "endVerse": 15
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In the third year of Hoshea son of Elah, king of Israel, Hezekiah son of Ahaz, king of Judah, began to reign.",
       "links": "<a href='/AIV/12/17/1'>2Kgs 17:1</a>; <a href='/AIV/14/29/1'>2Chr 29:1</a>",
-      "comment": "Hezekiah's ascension marks a key point of renewal and reform in Judah. Notice the pattern of new beginnings in biblical history, often in parallel to moments of restoration like with Josiah (2Kgs 22:1)."
+      "comment": "Hezekiah's ascension marks a key point of renewal and reform in Judah. Notice the pattern of new beginnings in biblical history, often in parallel to moments of restoration like with Josiah (2Kgs 22:1).",
+      "sectionHeader": "Reign of Hezekiah in Judah"
     },
     {
       "pk": 12018002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "In the fourth year of King Hezekiah, which was the seventh year of Hoshea son of Elah, king of Israel, Shalmaneser king of Assyria came up against Samaria and besieged it.",
       "links": "<a href='/AIV/12/17/5'>2Kgs 17:5</a>",
-      "comment": "Assyrian aggression sets the stage for Israel’s exile. The link between sin and judgment remains clear in biblical history (2Kgs 17:7-23)."
+      "comment": "Assyrian aggression sets the stage for Israel’s exile. The link between sin and judgment remains clear in biblical history (2Kgs 17:7-23).",
+      "sectionHeader": "Fall of Samaria and Exile of Israel"
     },
     {
       "pk": 12018010,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "In the fourteenth year of King Hezekiah, Sennacherib king of Assyria came up against all the fortified cities of Judah and captured them.",
       "links": "<a href='/AIV/14/32/1'>2Chr 32:1</a>; <a href='/AIV/23/36/1'>Isa 36:1</a>",
-      "comment": "Sennacherib’s campaign illustrates a test of faith. The drama unfolds with an impending threat, foreshadowing trials faced by the Church throughout history."
+      "comment": "Sennacherib’s campaign illustrates a test of faith. The drama unfolds with an impending threat, foreshadowing trials faced by the Church throughout history.",
+      "sectionHeader": "Sennacherib Invades Judah"
     },
     {
       "pk": 12018014,
@@ -206,7 +209,8 @@
       "verse": 17,
       "text": "Then the king of Assyria sent the Tartan, the Rab-saris, and the Rab-shakeh from Lachish with a strong force to King Hezekiah in Jerusalem. They came and stood by the aqueduct of the upper pool on the road to the Launderer’s Field.",
       "links": "<a href='/AIV/23/36/2'>Isa 36:2</a>",
-      "comment": "The location referenced is near where Isaiah spoke to King Ahaz earlier (Isa 7:3), symbolising the prophetic intersection of faith and crisis."
+      "comment": "The location referenced is near where Isaiah spoke to King Ahaz earlier (Isa 7:3), symbolising the prophetic intersection of faith and crisis.",
+      "sectionHeader": "The Assyrian Threatens Jerusalem"
     },
     {
       "pk": 12018018,
@@ -449,5 +453,27 @@
       "comment": "Rending of clothes is a sign of grief and humility, common throughout the Bible. Repentance, especially in leadership, often precedes divine intervention. This pattern foreshadows moments in Acts and Revelation when the saints overcome through faith, worship, and perseverance."
     }
   ],
-  "translatedAt": "2025-12-24T03:58:22.822Z"
+  "translatedAt": "2025-12-24T03:58:22.822Z",
+  "sections": [
+    {
+      "title": "Reign of Hezekiah in Judah",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "Fall of Samaria and Exile of Israel",
+      "startVerse": 9,
+      "endVerse": 12
+    },
+    {
+      "title": "Sennacherib Invades Judah",
+      "startVerse": 13,
+      "endVerse": 16
+    },
+    {
+      "title": "The Assyrian Threatens Jerusalem",
+      "startVerse": 17,
+      "endVerse": 37
+    }
+  ]
 }

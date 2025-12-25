@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "People told David, 'Look, the Philistines are attacking Keilah and are plundering the threshing floors.'",
       "links": "<a href='/AIV/9/23/6'>1Sam 23:6</a>; <a href='/AIV/9/22/5'>1Sam 22:5</a>",
-      "comment": "Keilah was a city in Judah (Josh. 15:44), significant as David continues to act as protector of God's people rather than merely hiding from Saul."
+      "comment": "Keilah was a city in Judah (Josh. 15:44), significant as David continues to act as protector of God's people rather than merely hiding from Saul.",
+      "sectionHeader": "David Saves Keilah"
     },
     {
       "pk": 9023002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "Saul was told that David had gone to Keilah, so Saul said, 'God has delivered him into my hand, for he has shut himself in by entering a town with gates and bars.'",
       "links": "<a href='/AIV/9/23/14'>1Sam 23:14</a>; <a href='/AIV/9/24/18'>1Sam 24:18</a>",
-      "comment": "Saul assumes God's favor, but his error underscores the difference between true and false discernment—only genuine obedience ensures divine blessing."
+      "comment": "Saul assumes God's favor, but his error underscores the difference between true and false discernment—only genuine obedience ensures divine blessing.",
+      "sectionHeader": "Saul Pursues David at Keilah"
     },
     {
       "pk": 9023008,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "David saw that Saul had come out to seek his life. David was in the wilderness of Ziph at Horesh.",
       "links": "<a href='/AIV/9/23/14'>1Sam 23:14</a>",
-      "comment": "The stark reality for David shows the intensity of opposition faced by those chosen for divine purposes."
+      "comment": "The stark reality for David shows the intensity of opposition faced by those chosen for divine purposes.",
+      "sectionHeader": "Jonathan Encourages David at Horesh"
     },
     {
       "pk": 9023016,
@@ -230,7 +233,8 @@
       "verse": 19,
       "text": "Then the Ziphites came up to Saul at Gibeah, saying, 'Is David not hiding among us in the strongholds at Horesh, on the hill of Hachilah, south of Jeshimon?'",
       "links": "<a href='/AIV/9/26/1'>1Sam 26:1</a>; <a href='/AIV/19/54/0'>Ps 54:0</a>",
-      "comment": "The betrayal by the Ziphites is a repetition of Keilah's betrayal, underscoring the recurring motif of human faithlessness versus divine faithfulness."
+      "comment": "The betrayal by the Ziphites is a repetition of Keilah's betrayal, underscoring the recurring motif of human faithlessness versus divine faithfulness.",
+      "sectionHeader": "The Ziphites Betray David"
     },
     {
       "pk": 9023020,
@@ -290,7 +294,8 @@
       "verse": 24,
       "text": "So they set out and went to Ziph before Saul. David and his men were in the wilderness of Maon, in the Arabah south of Jeshimon.",
       "links": "<a href='/AIV/9/25/1'>1Sam 25:1</a>; <a href='/AIV/9/26/3'>1Sam 26:3</a>",
-      "comment": "A geographical shift highlights David's constant movement, emphasizing the pilgrim nature of God's people until final rest is found."
+      "comment": "A geographical shift highlights David's constant movement, emphasizing the pilgrim nature of God's people until final rest is found.",
+      "sectionHeader": "David Escapes Saul in the Wilderness of Maon"
     },
     {
       "pk": 9023025,
@@ -353,5 +358,32 @@
       "comment": "David’s refuge in Engedi prepares for the next episode in Saul’s pursuit. The theme of perseverance and trust resonates deeply in spiritual life—waiting for the fullness of God’s promise to manifest."
     }
   ],
-  "translatedAt": "2025-12-24T03:02:19.502Z"
+  "translatedAt": "2025-12-24T03:02:19.502Z",
+  "sections": [
+    {
+      "title": "David Saves Keilah",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Saul Pursues David at Keilah",
+      "startVerse": 7,
+      "endVerse": 14
+    },
+    {
+      "title": "Jonathan Encourages David at Horesh",
+      "startVerse": 15,
+      "endVerse": 18
+    },
+    {
+      "title": "The Ziphites Betray David",
+      "startVerse": 19,
+      "endVerse": 23
+    },
+    {
+      "title": "David Escapes Saul in the Wilderness of Maon",
+      "startVerse": 24,
+      "endVerse": 29
+    }
+  ]
 }

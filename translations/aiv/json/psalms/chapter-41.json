@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Blessed is the one who cares for the poor; the LORD will deliver him in the day of trouble.",
       "links": "<a href='/AIV/19/40/17'>Ps. 40:17</a>; <a href='/AIV/20/14/21'>Prov. 14:21</a>",
-      "comment": "The Psalm begins by praising compassion for the needy, emphasizing that God remembers those who show mercy. Jesus' teaching in <a href='/AIV/40/5/7'>Matthew 5:7</a> echoes this theme. Note the encouragement of personal holiness expressed through acts of mercy—a unifying act of worship and love."
+      "comment": "The Psalm begins by praising compassion for the needy, emphasizing that God remembers those who show mercy. Jesus' teaching in <a href='/AIV/40/5/7'>Matthew 5:7</a> echoes this theme. Note the encouragement of personal holiness expressed through acts of mercy—a unifying act of worship and love.",
+      "sectionHeader": "Blessings for Those Who Care for the Poor"
     },
     {
       "pk": 23041002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "I said, 'O LORD, be gracious to me; heal my soul, for I have sinned against you.'",
       "links": "<a href='/AIV/19/32/5'>Ps. 32:5</a>; <a href='/AIV/19/51/4'>Ps. 51:4</a>",
-      "comment": "The psalmist pleads for forgiveness and healing, openly acknowledging sin. This mirrors repentance and confession, a pattern found throughout Scripture—see <a href='/AIV/62/1/9'>1 John 1:9</a>. The focus on healing of the soul underlines the importance of both contrition and restoration."
+      "comment": "The psalmist pleads for forgiveness and healing, openly acknowledging sin. This mirrors repentance and confession, a pattern found throughout Scripture—see <a href='/AIV/62/1/9'>1 John 1:9</a>. The focus on healing of the soul underlines the importance of both contrition and restoration.",
+      "sectionHeader": "Prayer in Sickness and Betrayal"
     },
     {
       "pk": 23041005,
@@ -122,7 +124,8 @@
       "verse": 10,
       "text": "But you, O LORD, be gracious to me and raise me up, that I may repay them.",
       "links": "<a href='/AIV/19/13/5'>Ps. 13:5</a>; <a href='/AIV/19/30/3'>Ps. 30:3</a>",
-      "comment": "The request for God’s mercy and restoration reflects confidence in His justice. Christ’s resurrection is a fulfillment of this cry—see <a href='/AIV/58/7/25'>Hebrews 7:25</a>. The mention of recompense has spiritual and eschatological implications."
+      "comment": "The request for God’s mercy and restoration reflects confidence in His justice. Christ’s resurrection is a fulfillment of this cry—see <a href='/AIV/58/7/25'>Hebrews 7:25</a>. The mention of recompense has spiritual and eschatological implications.",
+      "sectionHeader": "Confidence in God's Deliverance"
     },
     {
       "pk": 23041011,
@@ -158,8 +161,31 @@
       "verse": 13,
       "text": "Blessed be the LORD, the God of Israel, from everlasting to everlasting! Amen and Amen.",
       "links": "<a href='/AIV/19/106/48'>Ps. 106:48</a>; <a href='/AIV/19/72/19'>Ps. 72:19</a>",
-      "comment": "The doxology concludes the Psalm with praise to God, emphasizing His eternal faithfulness. The repetition of 'Amen' invites the faithful to unite in worship. This reflects continuous praise practiced in the church throughout history."
+      "comment": "The doxology concludes the Psalm with praise to God, emphasizing His eternal faithfulness. The repetition of 'Amen' invites the faithful to unite in worship. This reflects continuous praise practiced in the church throughout history.",
+      "sectionHeader": "Doxology"
     }
   ],
-  "translatedAt": "2025-12-24T06:13:05.346Z"
+  "translatedAt": "2025-12-24T06:13:05.346Z",
+  "sections": [
+    {
+      "title": "Blessings for Those Who Care for the Poor",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "Prayer in Sickness and Betrayal",
+      "startVerse": 4,
+      "endVerse": 9
+    },
+    {
+      "title": "Confidence in God's Deliverance",
+      "startVerse": 10,
+      "endVerse": 12
+    },
+    {
+      "title": "Doxology",
+      "startVerse": 13,
+      "endVerse": 13
+    }
+  ]
 }

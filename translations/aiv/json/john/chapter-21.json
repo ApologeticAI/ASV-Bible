@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "After these things, Jesus revealed Himself again to the disciples by the Sea of Tiberias. He revealed Himself in this way:",
       "links": "<a href='/AIV/41/16/7'>Mark 16:7</a>; <a href='/AIV/43/6/1'>John 6:1</a>",
-      "comment": "Jesus' post-resurrection appearances underscore His bodily resurrection. The Sea of Tiberias is another name for the Sea of Galilee. The deliberate appearance to His disciples highlights Christ’s continued guidance of the Church (see John 20:19-29; Acts 1:3)."
+      "comment": "Jesus' post-resurrection appearances underscore His bodily resurrection. The Sea of Tiberias is another name for the Sea of Galilee. The deliberate appearance to His disciples highlights Christ’s continued guidance of the Church (see John 20:19-29; Acts 1:3).",
+      "sectionHeader": "The Appearance of Jesus at the Sea of Tiberias"
     },
     {
       "pk": 50021002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "When they had finished breakfast, Jesus said to Simon Peter, \"Simon, son of John, do you love Me more than these?\" He said to Him, \"Yes, Lord; You know that I love You.\" He said to him, \"Feed My lambs.\"",
       "links": "<a href='/AIV/40/16/18-19'>Matt 16:18-19</a>; <a href='/AIV/42/22/32'>Luke 22:32</a>",
-      "comment": "Peter is commissioned as the chief shepherd under Jesus. The threefold questioning parallels Peter's earlier denial, restoring and elevating his apostolic leadership (see Matthew 16:18-19)."
+      "comment": "Peter is commissioned as the chief shepherd under Jesus. The threefold questioning parallels Peter's earlier denial, restoring and elevating his apostolic leadership (see Matthew 16:18-19).",
+      "sectionHeader": "Peter's Threefold Profession of Love"
     },
     {
       "pk": 50021016,
@@ -242,7 +244,8 @@
       "verse": 20,
       "text": "Peter turned and saw the disciple whom Jesus loved following them, the one who also had leaned back against Him during the supper and had said, \"Lord, who is it that is going to betray You?\"",
       "links": "<a href='/AIV/43/13/23-25'>John 13:23-25</a>",
-      "comment": "The beloved disciple’s intimacy with Christ and his presence at key moments represents a model of faithful receptivity and spiritual insight."
+      "comment": "The beloved disciple’s intimacy with Christ and his presence at key moments represents a model of faithful receptivity and spiritual insight.",
+      "sectionHeader": "The Beloved Disciple and the Future"
     },
     {
       "pk": 50021021,
@@ -290,7 +293,8 @@
       "verse": 24,
       "text": "This is the disciple who testifies about these things and who wrote these things, and we know that his testimony is true.",
       "links": "<a href='/AIV/43/19/35'>John 19:35</a>; <a href='/AIV/62/1/1-4'>1 John 1:1-4</a>",
-      "comment": "The author self-identifies as an eyewitness, underscoring the importance of apostolic testimony. The reference to 'we know' points to a community that safeguards authentic tradition."
+      "comment": "The author self-identifies as an eyewitness, underscoring the importance of apostolic testimony. The reference to 'we know' points to a community that safeguards authentic tradition.",
+      "sectionHeader": "Conclusion and Testimony of the Evangelist"
     },
     {
       "pk": 50021025,
@@ -305,5 +309,27 @@
       "comment": "Not everything Jesus did was recorded, indicating the richness of the tradition passed on through the apostles. This affirms the value of both the written and living teaching passed down in the community."
     }
   ],
-  "translatedAt": "2025-12-24T11:17:05.979Z"
+  "translatedAt": "2025-12-24T11:17:05.979Z",
+  "sections": [
+    {
+      "title": "The Appearance of Jesus at the Sea of Tiberias",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "Peter's Threefold Profession of Love",
+      "startVerse": 15,
+      "endVerse": 19
+    },
+    {
+      "title": "The Beloved Disciple and the Future",
+      "startVerse": 20,
+      "endVerse": 23
+    },
+    {
+      "title": "Conclusion and Testimony of the Evangelist",
+      "startVerse": 24,
+      "endVerse": 25
+    }
+  ]
 }

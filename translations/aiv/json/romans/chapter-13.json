@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Let every person be subject to the governing authorities. For there is no authority except from God, and those that exist have been established by God.",
       "links": "<a href='/AIV/20/8/15'>Prov. 8:15</a>; <a href='/AIV/27/2/21'>Dan. 2:21</a>; <a href='/AIV/43/19/11'>John 19:11</a>",
-      "comment": "Paul teaches that all civil authorities have their origin and legitimacy from God Himself. There is an implicit call to order, hierarchy, and respect for divinely instituted structures, reflecting the importance of visible authority even within the church. This mirrors Jesus' teaching before Pilate (John 19:11) that authority comes from above."
+      "comment": "Paul teaches that all civil authorities have their origin and legitimacy from God Himself. There is an implicit call to order, hierarchy, and respect for divinely instituted structures, reflecting the importance of visible authority even within the church. This mirrors Jesus' teaching before Pilate (John 19:11) that authority comes from above.",
+      "sectionHeader": "Duties Toward Civil Authorities"
     },
     {
       "pk": 52013002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Owe no one anything, except to love one another, for the one who loves another has fulfilled the law.",
       "links": "<a href='/AIV/03/19/18'>Lev. 19:18</a>; <a href='/AIV/40/22/39-40'>Matt. 22:39-40</a>; <a href='/AIV/43/13/34'>John 13:34</a>",
-      "comment": "Paul highlights love as the debt that is never fully paid and as the fulfillment of the law. This links to Jesus’ summary of the law and His commandment on love (John 13:34), emphasizing both the letter and spirit of the law."
+      "comment": "Paul highlights love as the debt that is never fully paid and as the fulfillment of the law. This links to Jesus’ summary of the law and His commandment on love (John 13:34), emphasizing both the letter and spirit of the law.",
+      "sectionHeader": "Love, the Fulfillment of the Law"
     },
     {
       "pk": 52013009,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "And do this, understanding the present time, that it is already the hour for you to wake from sleep. For now our salvation is nearer than when we first believed.",
       "links": "<a href='/AIV/41/13/33-37'>Mark 13:33-37</a>; <a href='/AIV/49/5/14'>Eph. 5:14</a>",
-      "comment": "Paul stresses the urgency of conversion—Christian life is a continual awakening to grace and readiness for the final coming of Christ. Early church tradition often linked this passage with the sacrament of spiritual awakening and perseverance."
+      "comment": "Paul stresses the urgency of conversion—Christian life is a continual awakening to grace and readiness for the final coming of Christ. Early church tradition often linked this passage with the sacrament of spiritual awakening and perseverance.",
+      "sectionHeader": "Living in the Light of Christ’s Coming"
     },
     {
       "pk": 52013012,
@@ -173,5 +176,22 @@
       "comment": "To 'put on Christ' is a call to be united with Jesus, to participate in His life and grace—a theme deeply rooted in the church from the earliest creeds. This points to the necessity of responding to grace in daily conduct and walking in union with Christ."
     }
   ],
-  "translatedAt": "2025-12-24T11:42:02.212Z"
+  "translatedAt": "2025-12-24T11:42:02.212Z",
+  "sections": [
+    {
+      "title": "Duties Toward Civil Authorities",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Love, the Fulfillment of the Law",
+      "startVerse": 8,
+      "endVerse": 10
+    },
+    {
+      "title": "Living in the Light of Christ’s Coming",
+      "startVerse": 11,
+      "endVerse": 14
+    }
+  ]
 }

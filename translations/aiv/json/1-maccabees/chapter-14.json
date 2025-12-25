@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In the one hundred seventy-second year, King Demetrius gathered his army and went to Media to obtain help for his fight against Trypho.",
       "links": "<a href='/AIV/13/7/1'>1 Macc 13:41</a>; <a href='/AIV/13/10/67'>1 Macc 10:67</a>",
-      "comment": "The reference to Demetrius' campaign sets up the political background for Simon's rise. This reflects Israel's continuing struggle for freedom."
+      "comment": "The reference to Demetrius' campaign sets up the political background for Simon's rise. This reflects Israel's continuing struggle for freedom.",
+      "sectionHeader": "Demetrius Captured by Arsaces"
     },
     {
       "pk": 20014002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "The land of Judah was at peace all the days of Simon. He searched for the good of his people, his authority and his glory pleased them all.",
       "links": "<a href='/AIV/13/13/41-42'>1 Macc 13:41-42</a>",
-      "comment": "Simon’s leadership is marked by justice and peace, echoing the qualities of righteous rulers in Israel’s history (<a href='/AIV/19/72/1'>Ps 72:1</a>)."
+      "comment": "Simon’s leadership is marked by justice and peace, echoing the qualities of righteous rulers in Israel’s history (<a href='/AIV/19/72/1'>Ps 72:1</a>).",
+      "sectionHeader": "Simon’s Peaceful Reign and Achievements"
     },
     {
       "pk": 20014005,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "When it was reported in Rome and as far as Sparta that Jonathan had died, they were deeply grieved.",
       "links": "<a href='/AIV/13/12/1-2'>1 Macc 12:1-2</a>",
-      "comment": "Shows Judah’s influence in world affairs even in this tumultuous time."
+      "comment": "Shows Judah’s influence in world affairs even in this tumultuous time.",
+      "sectionHeader": "Renewal of Alliances with Rome and Sparta"
     },
     {
       "pk": 20014017,
@@ -302,7 +305,8 @@
       "verse": 25,
       "text": "For he, his brothers, and his father’s house have stood firm, fought for Israel, and brought deliverance to their people.",
       "links": "<a href='/AIV/13/2/51-64'>1 Macc 2:51-64</a>",
-      "comment": "Simon’s family are seen as deliverers, typifying the ultimate Deliverer who brings salvation to Israel and all nations."
+      "comment": "Simon’s family are seen as deliverers, typifying the ultimate Deliverer who brings salvation to Israel and all nations.",
+      "sectionHeader": "Simon Confirmed as High Priest and Leader"
     },
     {
       "pk": 20014026,
@@ -593,5 +597,27 @@
       "comment": "This transfer of authority is key for the continuity and faithfulness of God’s people, prefiguring visible, enduring leadership in the New Covenant."
     }
   ],
-  "translatedAt": "2025-12-24T05:27:24.974Z"
+  "translatedAt": "2025-12-24T05:27:24.974Z",
+  "sections": [
+    {
+      "title": "Demetrius Captured by Arsaces",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "Simon’s Peaceful Reign and Achievements",
+      "startVerse": 4,
+      "endVerse": 15
+    },
+    {
+      "title": "Renewal of Alliances with Rome and Sparta",
+      "startVerse": 16,
+      "endVerse": 24
+    },
+    {
+      "title": "Simon Confirmed as High Priest and Leader",
+      "startVerse": 25,
+      "endVerse": 49
+    }
+  ]
 }

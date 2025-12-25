@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Behold, a day is coming for the LORD, when your plunder will be divided in your midst.",
       "links": "<a href='/AIV/23/13/6'>Isa. 13:6</a>; <a href='/AIV/26/7/7-12'>Ezek. 7:7-12</a>",
-      "comment": "Zechariah prophesies a future day of the LORD, an eschatological theme common throughout the prophets. The mention of plunder recalling judgment, but also the sovereignty of God even in times of calamity."
+      "comment": "Zechariah prophesies a future day of the LORD, an eschatological theme common throughout the prophets. The mention of plunder recalling judgment, but also the sovereignty of God even in times of calamity.",
+      "sectionHeader": "The Coming Day of the Lord and the Deliverance of Jerusalem"
     },
     {
       "pk": 45014002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "And this will be the plague with which the LORD will strike all the peoples who fought against Jerusalem: their flesh will rot while they stand on their feet, their eyes will rot in their sockets, and their tongues will rot in their mouths.",
       "links": "<a href='/AIV/23/66/24'>Isa. 66:24</a>; <a href='/AIV/66/19/21'>Rev. 19:21</a>",
-      "comment": "Grim imagery of judgment recalls similar scenes in Isaiah and Revelation. This emphasizes God's final justice against those opposed to His holy city."
+      "comment": "Grim imagery of judgment recalls similar scenes in Isaiah and Revelation. This emphasizes God's final justice against those opposed to His holy city.",
+      "sectionHeader": "Judgment on the Nations Who Oppose Jerusalem"
     },
     {
       "pk": 45014013,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "Then everyone who is left of all the nations that came against Jerusalem shall go up year after year to worship the King, the LORD of hosts, and to celebrate the Feast of Booths.",
       "links": "<a href='/AIV/03/23/34'>Lev. 23:34</a>; <a href='/AIV/19/86/9'>Ps. 86:9</a>",
-      "comment": "This points to the universal worship of the LORD, with a pilgrimage motif. The Feast of Booths (Tabernacles) celebrates God's presence among His people, which finds a fuller realization as peoples from all nations are called to worship Him in unity."
+      "comment": "This points to the universal worship of the LORD, with a pilgrimage motif. The Feast of Booths (Tabernacles) celebrates God's presence among His people, which finds a fuller realization as peoples from all nations are called to worship Him in unity.",
+      "sectionHeader": "The Universal Worship of the Lord"
     },
     {
       "pk": 45014017,
@@ -242,7 +245,8 @@
       "verse": 20,
       "text": "On that day there shall be inscribed on the bells of the horses, 'Holy to the LORD.' And the cooking pots in the house of the LORD will be as holy as the bowls before the altar.",
       "links": "<a href='/AIV/02/28/36'>Exod. 28:36</a>; <a href='/AIV/03/27/28'>Lev. 27:28</a>",
-      "comment": "The separation between sacred and common is removed; everything is sanctified and set apart. The whole people and their environment are now devoted to divine service, echoing the ideal of a kingdom of priests."
+      "comment": "The separation between sacred and common is removed; everything is sanctified and set apart. The whole people and their environment are now devoted to divine service, echoing the ideal of a kingdom of priests.",
+      "sectionHeader": "Holiness in Jerusalem"
     },
     {
       "pk": 45014021,
@@ -257,5 +261,27 @@
       "comment": "Holiness will pervade every aspect of daily life, not just the temple precincts. The exclusion of 'Canaanite' signifies the removal of anything unclean—the full and perfect sanctification of the worshiping community, anticipating the final fulfillment in the new creation and the heavenly Jerusalem."
     }
   ],
-  "translatedAt": "2025-12-24T09:59:49.186Z"
+  "translatedAt": "2025-12-24T09:59:49.186Z",
+  "sections": [
+    {
+      "title": "The Coming Day of the Lord and the Deliverance of Jerusalem",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "Judgment on the Nations Who Oppose Jerusalem",
+      "startVerse": 12,
+      "endVerse": 15
+    },
+    {
+      "title": "The Universal Worship of the Lord",
+      "startVerse": 16,
+      "endVerse": 19
+    },
+    {
+      "title": "Holiness in Jerusalem",
+      "startVerse": 20,
+      "endVerse": 21
+    }
+  ]
 }

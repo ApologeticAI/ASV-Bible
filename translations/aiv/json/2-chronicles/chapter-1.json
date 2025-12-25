@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Solomon the son of David made himself strong in his kingdom, and the Lord his God was with him and exalted him greatly.",
       "links": "<a href='/AIV/13/28/5-7'>1 Chr. 28:5-7</a>; <a href='/AIV/11/2/46'>1 Kgs. 2:46</a>",
-      "comment": "Solomon’s rise to power is shown as a result of God's will, continuing the Davidic lineage which has a prophetic and typological connection to Christ, the ultimate King (<a href='/AIV/40/1/1'>Matt. 1:1</a>)."
+      "comment": "Solomon’s rise to power is shown as a result of God's will, continuing the Davidic lineage which has a prophetic and typological connection to Christ, the ultimate King (<a href='/AIV/40/1/1'>Matt. 1:1</a>).",
+      "sectionHeader": "Solomon Worships at Gibeon"
     },
     {
       "pk": 14001002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "That night God appeared to Solomon and said to him, 'Ask for whatever you wish Me to give you.'",
       "links": "<a href='/AIV/11/3/5'>1 Kgs. 3:5</a>; <a href='/AIV/40/7/7'>Matt. 7:7</a>",
-      "comment": "God’s initiative to Solomon highlights divine generosity and invitation to prayer, resonating with Jesus’ own invitation to ask in faith."
+      "comment": "God’s initiative to Solomon highlights divine generosity and invitation to prayer, resonating with Jesus’ own invitation to ask in faith.",
+      "sectionHeader": "Solomon's Prayer for Wisdom"
     },
     {
       "pk": 14001008,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "Solomon gathered chariots and horsemen. He had one thousand four hundred chariots and twelve thousand horsemen, whom he stationed in the chariot cities and with the king at Jerusalem.",
       "links": "<a href='/AIV/11/10/26'>1 Kgs. 10:26</a>",
-      "comment": "Solomon’s growing power fulfills earlier promises but also lays the groundwork for future temptation—power and possessions must be ordered under God’s law (<a href='/AIV/05/17/16-17'>Deut. 17:16-17</a>)."
+      "comment": "Solomon’s growing power fulfills earlier promises but also lays the groundwork for future temptation—power and possessions must be ordered under God’s law (<a href='/AIV/05/17/16-17'>Deut. 17:16-17</a>).",
+      "sectionHeader": "Solomon's Wealth and Chariots"
     },
     {
       "pk": 14001015,
@@ -209,5 +212,22 @@
       "comment": "The mention of trade with neighboring peoples shows Israel’s influence, but stresses that true security does not come from riches or alliances, but from fidelity to God and His covenant."
     }
   ],
-  "translatedAt": "2025-12-24T04:21:55.620Z"
+  "translatedAt": "2025-12-24T04:21:55.620Z",
+  "sections": [
+    {
+      "title": "Solomon Worships at Gibeon",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Solomon's Prayer for Wisdom",
+      "startVerse": 7,
+      "endVerse": 13
+    },
+    {
+      "title": "Solomon's Wealth and Chariots",
+      "startVerse": 14,
+      "endVerse": 17
+    }
+  ]
 }

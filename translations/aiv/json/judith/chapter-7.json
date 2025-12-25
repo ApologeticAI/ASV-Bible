@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The next day, Holofernes ordered all his army and the allied forces to move against Bethulia, to take possession of the hill country and seize all the mountain passes.",
       "links": "<a href='/AIV/18/4/7'>Jdt 4:7</a>; <a href='/AIV/18/6/1'>Jdt 6:1</a>",
-      "comment": "This verse shows the military strategy against the faithful in Bethulia, emphasizing the importance of defending the holy city, reminiscent of the defense of Jerusalem (Nehemiah 4:13)."
+      "comment": "This verse shows the military strategy against the faithful in Bethulia, emphasizing the importance of defending the holy city, reminiscent of the defense of Jerusalem (Nehemiah 4:13).",
+      "sectionHeader": "The Siege of Bethulia"
     },
     {
       "pk": 18007002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "On the second day, Holofernes called together all his officials and said to them, 'Tell me, how we can best subdue these Israelites who keep resisting us without direct combat.'",
       "links": "<a href='/AIV/18/5/1'>Jdt 5:1</a>",
-      "comment": "Here, the enemy's craftiness echoes Satan’s temptation of Christ (Matthew 4:1-11), preparing for spiritual conquest, not merely physical battle."
+      "comment": "Here, the enemy's craftiness echoes Satan’s temptation of Christ (Matthew 4:1-11), preparing for spiritual conquest, not merely physical battle.",
+      "sectionHeader": "The Counsel of Achior"
     },
     {
       "pk": 18007007,
@@ -122,7 +124,8 @@
       "verse": 10,
       "text": "The stores of water ran out in the city. The wells no longer gave enough for the people to drink. Their jars emptied, and their daily ration was strictly limited.",
       "links": "<a href='/AIV/18/8/21'>Jdt 8:21</a>; <a href='/AIV/02/17/1'>Ex. 17:1</a>",
-      "comment": "Physical deprivation in the text also functions as spiritual allegory. Many church fathers read this scene as symbolic of the need for God’s grace during droughts of faith (cf. Amos 8:11)."
+      "comment": "Physical deprivation in the text also functions as spiritual allegory. Many church fathers read this scene as symbolic of the need for God’s grace during droughts of faith (cf. Amos 8:11).",
+      "sectionHeader": "The Suffering of Bethulia"
     },
     {
       "pk": 18007011,
@@ -146,7 +149,8 @@
       "verse": 12,
       "text": "All the people—young, old, children—gathered around Uzziah and the city leaders, crying out with great lament:",
       "links": "<a href='/AIV/18/6/14'>Jdt 6:14</a>",
-      "comment": "Assembling before the elders illustrates the proper role of spiritual authority and communal leadership, reminiscent of Acts 15:6."
+      "comment": "Assembling before the elders illustrates the proper role of spiritual authority and communal leadership, reminiscent of Acts 15:6.",
+      "sectionHeader": "The People's Lament and Uzziah’s Promise"
     },
     {
       "pk": 18007013,
@@ -338,7 +342,8 @@
       "verse": 28,
       "text": "Then, all the people, men, women, and children, raised their voices with a loud cry to God.",
       "links": "<a href='/AIV/19/120/1'>Ps. 120:1</a>; <a href='/AIV/19/34/6'>Ps. 34:6</a>",
-      "comment": "Crying out collectively to God recalls the communal prayers in times of national distress, uniting the faithful in petition (Joel 2:12-17)."
+      "comment": "Crying out collectively to God recalls the communal prayers in times of national distress, uniting the faithful in petition (Joel 2:12-17).",
+      "sectionHeader": "Prayer in Distress"
     },
     {
       "pk": 18007029,
@@ -389,5 +394,32 @@
       "comment": "Hopelessness seduces God’s people right before divine intervention. In the fullness of time, God will raise up an unexpected deliverer, foreshadowing Christ’s coming at a time of greatest need."
     }
   ],
-  "translatedAt": "2025-12-24T05:03:10.351Z"
+  "translatedAt": "2025-12-24T05:03:10.351Z",
+  "sections": [
+    {
+      "title": "The Siege of Bethulia",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "The Counsel of Achior",
+      "startVerse": 6,
+      "endVerse": 9
+    },
+    {
+      "title": "The Suffering of Bethulia",
+      "startVerse": 10,
+      "endVerse": 11
+    },
+    {
+      "title": "The People's Lament and Uzziah’s Promise",
+      "startVerse": 12,
+      "endVerse": 27
+    },
+    {
+      "title": "Prayer in Distress",
+      "startVerse": 28,
+      "endVerse": 32
+    }
+  ]
 }

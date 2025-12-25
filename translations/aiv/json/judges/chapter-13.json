@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Again, the children of Israel did what was evil in the sight of the LORD, and the LORD delivered them into the hand of the Philistines for forty years.",
       "links": "<a href='/AIV/7/2/11'>Judg. 2:11</a>; <a href='/AIV/7/10/7'>Judg. 10:7</a>; <a href='/AIV/1/6/14'>Gen. 6:14</a>",
-      "comment": "The repeated cycle of Israel's unfaithfulness and God's discipline is a central pattern in Judges. Forty years of oppression recall other periods of testing (e.g., Israel's wilderness wandering—Num. 14:33)."
+      "comment": "The repeated cycle of Israel's unfaithfulness and God's discipline is a central pattern in Judges. Forty years of oppression recall other periods of testing (e.g., Israel's wilderness wandering—Num. 14:33).",
+      "sectionHeader": "Israel Oppressed by the Philistines"
     },
     {
       "pk": 7013002,
@@ -26,7 +27,8 @@
       "verse": 2,
       "text": "There was a certain man of Zorah, of the tribe of the Danites, whose name was Manoah. His wife was barren and had borne no children.",
       "links": "<a href='/AIV/1/11/30'>Gen. 11:30</a>; <a href='/AIV/9/1/11'>1 Sam. 1:2</a>",
-      "comment": "Barren women miraculously bearing children is a theme throughout Scripture (Sarah, Rachel, Hannah), emphasizing God’s intervention and the special calling of the child."
+      "comment": "Barren women miraculously bearing children is a theme throughout Scripture (Sarah, Rachel, Hannah), emphasizing God’s intervention and the special calling of the child.",
+      "sectionHeader": "The Angel's Promise of Samson's Birth"
     },
     {
       "pk": 7013003,
@@ -98,7 +100,8 @@
       "verse": 8,
       "text": "Then Manoah prayed to the LORD and said, 'O Lord, please let the man of God whom you sent come again to us, and teach us what we are to do for the boy who will be born.'",
       "links": "<a href='/AIV/1/25/21'>Gen. 25:21</a>; <a href='/AIV/42/1/34'>Luke 1:34</a>",
-      "comment": "Manoah’s prayer for guidance reveals humility and a desire to follow God’s will in raising the promised child, showing the importance of seeking God’s direction in family vocations."
+      "comment": "Manoah’s prayer for guidance reveals humility and a desire to follow God’s will in raising the promised child, showing the importance of seeking God’s direction in family vocations.",
+      "sectionHeader": "Manoah and His Wife Receive the Angel"
     },
     {
       "pk": 7013009,
@@ -182,7 +185,8 @@
       "verse": 15,
       "text": "Manoah said to the angel of the LORD, 'Please let us detain you, and we will prepare a young goat for you.'",
       "links": "<a href='/AIV/1/18/3'>Gen. 18:3</a>; <a href='/AIV/7/6/18'>Judg. 6:18-19</a>",
-      "comment": "Offering hospitality to divine visitors is a recurring scriptural theme (e.g., Abraham in Gen. 18). In welcoming God’s messenger, one unwittingly welcomes God Himself."
+      "comment": "Offering hospitality to divine visitors is a recurring scriptural theme (e.g., Abraham in Gen. 18). In welcoming God’s messenger, one unwittingly welcomes God Himself.",
+      "sectionHeader": "The Angel's Ascension and Manoah's Offering"
     },
     {
       "pk": 7013016,
@@ -290,7 +294,8 @@
       "verse": 24,
       "text": "The woman bore a son and called his name Samson. The boy grew, and the LORD blessed him.",
       "links": "<a href='/AIV/1/21/20'>Gen. 21:20</a>; <a href='/AIV/9/2/26'>1 Sam. 2:26</a>; <a href='/AIV/42/2/52'>Luke 2:52</a>",
-      "comment": "Samson’s blessing and growth echo those of other chosen servants—Samuel (1 Sam. 2:26), and especially Jesus (Luke 2:52) who would be the ultimate Savior and Deliverer."
+      "comment": "Samson’s blessing and growth echo those of other chosen servants—Samuel (1 Sam. 2:26), and especially Jesus (Luke 2:52) who would be the ultimate Savior and Deliverer.",
+      "sectionHeader": "Birth and Growth of Samson"
     },
     {
       "pk": 7013025,
@@ -305,5 +310,32 @@
       "comment": "The Spirit’s action initiates Samson’s mission, showing that true leadership and strength for God’s people comes by the Spirit. The Spirit’s descent prefigures the empowering of leaders and, ultimately, the coming of the Spirit at Pentecost (Acts 2)."
     }
   ],
-  "translatedAt": "2025-12-24T02:38:28.059Z"
+  "translatedAt": "2025-12-24T02:38:28.059Z",
+  "sections": [
+    {
+      "title": "Israel Oppressed by the Philistines",
+      "startVerse": 1,
+      "endVerse": 1
+    },
+    {
+      "title": "The Angel's Promise of Samson's Birth",
+      "startVerse": 2,
+      "endVerse": 7
+    },
+    {
+      "title": "Manoah and His Wife Receive the Angel",
+      "startVerse": 8,
+      "endVerse": 14
+    },
+    {
+      "title": "The Angel's Ascension and Manoah's Offering",
+      "startVerse": 15,
+      "endVerse": 23
+    },
+    {
+      "title": "Birth and Growth of Samson",
+      "startVerse": 24,
+      "endVerse": 25
+    }
+  ]
 }

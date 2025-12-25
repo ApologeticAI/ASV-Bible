@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then Jesus spoke to His disciples: \"There was a rich man who had a manager, and charges were brought against him that he was wasting his master's possessions.\"",
       "links": "<a href='/AIV/42/12/42-46'>Luke 12:42-46</a>; <a href='/AIV/42/19/12-15'>Luke 19:12-15</a>",
-      "comment": "Jesus speaks directly to the disciples, highlighting spiritual responsibility. The manager stands as a figure entrusted with what belongs to another, echoing steward imagery in other parables (see Luke 12:42)."
+      "comment": "Jesus speaks directly to the disciples, highlighting spiritual responsibility. The manager stands as a figure entrusted with what belongs to another, echoing steward imagery in other parables (see Luke 12:42).",
+      "sectionHeader": "The Parable of the Dishonest Steward"
     },
     {
       "pk": 49016002,
@@ -170,7 +171,8 @@
       "verse": 14,
       "text": "The Pharisees, who loved money, heard all these things and mocked Him.",
       "links": "<a href='/AIV/42/11/39'>Luke 11:39</a>; <a href='/AIV/40/23/25'>Matt. 23:25</a>",
-      "comment": "Pharisees are portrayed as attached to wealth, spiritually blinded by materialism—an obstacle to understanding Jesus’ deeper message."
+      "comment": "Pharisees are portrayed as attached to wealth, spiritually blinded by materialism—an obstacle to understanding Jesus’ deeper message.",
+      "sectionHeader": "Teachings on Wealth and the Law"
     },
     {
       "pk": 49016015,
@@ -230,7 +232,8 @@
       "verse": 19,
       "text": "\"There was a rich man who was clothed in purple and fine linen, feasting luxuriously every day.\"",
       "links": "<a href='/AIV/42/12/19'>Luke 12:19</a>; <a href='/AIV/18/21/13'>Job 21:13</a>",
-      "comment": "The rich man's extravagance symbolizes worldly security and neglect of true spiritual needs."
+      "comment": "The rich man's extravagance symbolizes worldly security and neglect of true spiritual needs.",
+      "sectionHeader": "The Rich Man and Lazarus"
     },
     {
       "pk": 49016020,
@@ -377,5 +380,22 @@
       "comment": "Jesus concludes, emphasizing the sufficiency of scripture and foreshadowing His resurrection as the ultimate sign. Christ is both the fulfillment of prophecy and the one who rises from the dead. This final statement calls for faith that is rooted in revelation, not simply in signs."
     }
   ],
-  "translatedAt": "2025-12-24T10:52:31.214Z"
+  "translatedAt": "2025-12-24T10:52:31.214Z",
+  "sections": [
+    {
+      "title": "The Parable of the Dishonest Steward",
+      "startVerse": 1,
+      "endVerse": 13
+    },
+    {
+      "title": "Teachings on Wealth and the Law",
+      "startVerse": 14,
+      "endVerse": 18
+    },
+    {
+      "title": "The Rich Man and Lazarus",
+      "startVerse": 19,
+      "endVerse": 31
+    }
+  ]
 }

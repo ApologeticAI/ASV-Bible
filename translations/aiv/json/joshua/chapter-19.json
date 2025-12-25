@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The second lot came out for Simeon, for the tribe of the descendants of Simeon according to their clans. Their inheritance was inside the territory of Judah.",
       "links": "<a href='/AIV/4/26/12'>Num. 26:12</a>; <a href='/AIV/6/15/1'>Josh. 15:1</a>",
-      "comment": "Simeon’s inheritance being within Judah fulfills God’s prophecy regarding their dispersion (Genesis 49:5-7). It also highlights the concept of unity through diversity within God’s people, a principle seen in the closely connected life of the early Church."
+      "comment": "Simeon’s inheritance being within Judah fulfills God’s prophecy regarding their dispersion (Genesis 49:5-7). It also highlights the concept of unity through diversity within God’s people, a principle seen in the closely connected life of the early Church.",
+      "sectionHeader": "The Inheritance of Simeon"
     },
     {
       "pk": 6019002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "The third lot came up for Zebulun according to their clans. The territory of their inheritance stretched up to Sarid.",
       "links": "<a href='/AIV/1/49/13'>Gen. 49:13</a>; <a href='/AIV/6/19/34'>Josh. 19:34</a>",
-      "comment": "Zebulun’s inheritance fulfills prophecy and further affirms the reliability of God’s promises. Prophecy finds deeper meaning as it points to the Messiah’s coming."
+      "comment": "Zebulun’s inheritance fulfills prophecy and further affirms the reliability of God’s promises. Prophecy finds deeper meaning as it points to the Messiah’s coming.",
+      "sectionHeader": "The Inheritance of Zebulun"
     },
     {
       "pk": 6019011,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "The fourth lot came out for Issachar, for the descendants of Issachar according to their clans.",
       "links": "<a href='/AIV/1/49/14'>Gen. 49:14</a>; <a href='/AIV/6/21/28'>Josh. 21:28</a>",
-      "comment": "Issachar’s portion marks another fulfillment of Israel’s tribal identity, each part forming the greater whole of God’s people."
+      "comment": "Issachar’s portion marks another fulfillment of Israel’s tribal identity, each part forming the greater whole of God’s people.",
+      "sectionHeader": "The Inheritance of Issachar"
     },
     {
       "pk": 6019018,
@@ -290,7 +293,8 @@
       "verse": 24,
       "text": "The fifth lot came out for the tribe of the descendants of Asher according to their clans.",
       "links": "<a href='/AIV/1/49/20'>Gen. 49:20</a>; <a href='/AIV/6/17/7'>Josh. 17:7</a>",
-      "comment": "Asher’s lot resonates with Jacob’s prophecy about abundance and blessing, underscoring God’s faithfulness."
+      "comment": "Asher’s lot resonates with Jacob’s prophecy about abundance and blessing, underscoring God’s faithfulness.",
+      "sectionHeader": "The Inheritance of Asher"
     },
     {
       "pk": 6019025,
@@ -386,7 +390,8 @@
       "verse": 32,
       "text": "The sixth lot came out for the descendants of Naphtali, for the tribe of the descendants of Naphtali according to their clans.",
       "links": "<a href='/AIV/1/49/21'>Gen. 49:21</a>",
-      "comment": "Naphtali's inheritance begins fulfillment of prophecies concerning future glory and restoration (Isaiah 9:1–2; Matthew 4:13-16)."
+      "comment": "Naphtali's inheritance begins fulfillment of prophecies concerning future glory and restoration (Isaiah 9:1–2; Matthew 4:13-16).",
+      "sectionHeader": "The Inheritance of Naphtali"
     },
     {
       "pk": 6019033,
@@ -482,7 +487,8 @@
       "verse": 40,
       "text": "The seventh lot came out for the tribe of the descendants of Dan according to their clans.",
       "links": "<a href='/AIV/1/49/16'>Gen. 49:16</a>",
-      "comment": "Dan’s territory is the last allotted, reminding that all are included in God’s divine order, from first to last."
+      "comment": "Dan’s territory is the last allotted, reminding that all are included in God’s divine order, from first to last.",
+      "sectionHeader": "The Inheritance of Dan"
     },
     {
       "pk": 6019041,
@@ -590,7 +596,8 @@
       "verse": 49,
       "text": "When they finished distributing the land for inheritance by its borders, the Israelites gave Joshua son of Nun an inheritance among them.",
       "links": "<a href='/AIV/6/14/13'>Josh. 14:13</a>, <a href='/AIV/4/27/18'>Num. 27:18</a>",
-      "comment": "Joshua, as leader, receives his portion last, highlighting humility and self-sacrifice. This prefigures Christ, who empties Himself for others (Philippians 2:7)."
+      "comment": "Joshua, as leader, receives his portion last, highlighting humility and self-sacrifice. This prefigures Christ, who empties Himself for others (Philippians 2:7).",
+      "sectionHeader": "Joshua’s Inheritance"
     },
     {
       "pk": 6019050,
@@ -617,5 +624,42 @@
       "comment": "The distribution at Shiloh, before the Tent of Meeting and under priestly leadership, affirms the importance of sacramental mediation and liturgical worship as part of God’s ordered community. Shiloh later hints at prophecy (Genesis 49:10) fulfilled in Christ, who brings unity, worship, and spiritual inheritance to believers."
     }
   ],
-  "translatedAt": "2025-12-24T02:27:04.104Z"
+  "translatedAt": "2025-12-24T02:27:04.104Z",
+  "sections": [
+    {
+      "title": "The Inheritance of Simeon",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "The Inheritance of Zebulun",
+      "startVerse": 10,
+      "endVerse": 16
+    },
+    {
+      "title": "The Inheritance of Issachar",
+      "startVerse": 17,
+      "endVerse": 23
+    },
+    {
+      "title": "The Inheritance of Asher",
+      "startVerse": 24,
+      "endVerse": 31
+    },
+    {
+      "title": "The Inheritance of Naphtali",
+      "startVerse": 32,
+      "endVerse": 39
+    },
+    {
+      "title": "The Inheritance of Dan",
+      "startVerse": 40,
+      "endVerse": 48
+    },
+    {
+      "title": "Joshua’s Inheritance",
+      "startVerse": 49,
+      "endVerse": 51
+    }
+  ]
 }

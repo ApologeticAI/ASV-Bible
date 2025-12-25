@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now Pashhur the son of Immer, the priest who was chief officer in the house of the Lord, heard Jeremiah prophesying these things.",
       "links": "<a href='/AIV/30/19/14-15'>Jer. 19:14-15</a>; <a href='/AIV/15/2/36-39'>Ezra 2:36-39</a>",
-      "comment": "Pashhur was a high-ranking priest responsible for order in the temple. His reaction demonstrates the growing opposition to Jeremiah's prophetic message."
+      "comment": "Pashhur was a high-ranking priest responsible for order in the temple. His reaction demonstrates the growing opposition to Jeremiah's prophetic message.",
+      "sectionHeader": "Jeremiah Persecuted by Pashhur"
     },
     {
       "pk": 30020002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "O Lord, you have deceived me, and I was deceived; you are stronger than I, and you have prevailed. I have become a laughingstock all day; everyone mocks me.",
       "links": "<a href='/AIV/19/22/6-7'>Ps. 22:6-7</a>; <a href='/AIV/30/15/15'>Jer. 15:15</a>",
-      "comment": "Jeremiah shares his distress with God, echoing themes of suffering found in the Psalms and in the experiences of Christ. This vulnerability points to the honesty of relationship with God."
+      "comment": "Jeremiah shares his distress with God, echoing themes of suffering found in the Psalms and in the experiences of Christ. This vulnerability points to the honesty of relationship with God.",
+      "sectionHeader": "Jeremiah’s Lament and Complaint"
     },
     {
       "pk": 30020008,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "Cursed be the day on which I was born! The day when my mother bore me, let it not be blessed!",
       "links": "<a href='/AIV/18/3/1-3'>Job 3:1-3</a>; <a href='/AIV/19/51/5'>Ps. 51:5</a>",
-      "comment": "Jeremiah's lamentation echoes Job’s distress, acknowledging deep suffering. The spiritual interpretation points to redemptive suffering and the human experience of despair turned to hope."
+      "comment": "Jeremiah's lamentation echoes Job’s distress, acknowledging deep suffering. The spiritual interpretation points to redemptive suffering and the human experience of despair turned to hope.",
+      "sectionHeader": "Jeremiah’s Curse on His Birth"
     },
     {
       "pk": 30020015,
@@ -221,5 +224,22 @@
       "comment": "Jeremiah’s lament concludes with an existential question about suffering. This nonetheless foreshadows Christ’s own passion and recalls how redemptive suffering can bring salvation to many."
     }
   ],
-  "translatedAt": "2025-12-24T08:32:12.886Z"
+  "translatedAt": "2025-12-24T08:32:12.886Z",
+  "sections": [
+    {
+      "title": "Jeremiah Persecuted by Pashhur",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Jeremiah’s Lament and Complaint",
+      "startVerse": 7,
+      "endVerse": 13
+    },
+    {
+      "title": "Jeremiah’s Curse on His Birth",
+      "startVerse": 14,
+      "endVerse": 18
+    }
+  ]
 }

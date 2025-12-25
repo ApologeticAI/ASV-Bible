@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then the prophet Elijah arose like fire, and his word burned like a torch.",
       "links": "<a href='/AIV/11/17/1'>1 Kings 17:1</a>; <a href='/AIV/11/18/38'>1 Kings 18:38</a>",
-      "comment": "Elijah’s prophetic ministry is described with fiery imagery, reflecting his zeal and the powerful signs accompanying his words. The fire recalls Elijah calling down fire from heaven, which established true worship among the Israelites. This also foreshadows spiritual purification and typifies John's role leading up to Christ (see Luke 1:17)."
+      "comment": "Elijah’s prophetic ministry is described with fiery imagery, reflecting his zeal and the powerful signs accompanying his words. The fire recalls Elijah calling down fire from heaven, which established true worship among the Israelites. This also foreshadows spiritual purification and typifies John's role leading up to Christ (see Luke 1:17).",
+      "sectionHeader": "The Deeds of Elijah"
     },
     {
       "pk": 28048002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "Elijah was enveloped in a whirlwind, and Elisha was filled with his spirit. In his days he did not tremble before any ruler, and no one subdued him.",
       "links": "<a href='/AIV/12/2/9-15'>2 Kings 2:9-15</a>",
-      "comment": "Elisha inherits Elijah’s prophetic spirit, indicating transfer of authority and continuation. The singular courage marks both as fearless before earthly powers, echoing the boldness expected of spiritual leaders."
+      "comment": "Elisha inherits Elijah’s prophetic spirit, indicating transfer of authority and continuation. The singular courage marks both as fearless before earthly powers, echoing the boldness expected of spiritual leaders.",
+      "sectionHeader": "The Works of Elisha and Israel’s Unfaithfulness"
     },
     {
       "pk": 28048013,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "Hezekiah strengthened his city, bringing water into its midst; with iron he dug through the rock, and built wells for water.",
       "links": "<a href='/AIV/12/20/20'>2 Kings 20:20</a>; <a href='/AIV/14/32/30'>2 Chronicles 32:30</a>",
-      "comment": "Hezekiah’s wise governance safeguards Jerusalem, a visible sign of practical wisdom paired with faith. Water as a symbol points to spiritual sustenance and fulfills the tradition of God's provision for his people."
+      "comment": "Hezekiah’s wise governance safeguards Jerusalem, a visible sign of practical wisdom paired with faith. Water as a symbol points to spiritual sustenance and fulfills the tradition of God's provision for his people.",
+      "sectionHeader": "Hezekiah and the Deliverance from Sennacherib"
     },
     {
       "pk": 28048019,
@@ -305,5 +308,22 @@
       "comment": "Isaiah’s miraculous sign involving the sun and his prophecy lengthening Hezekiah’s life, demonstrate God’s sovereignty over creation and human destiny. The prophetic spirit brings consolation and hope, which anticipate the ministry of Christ and the consolation offered through the Spirit."
     }
   ],
-  "translatedAt": "2025-12-24T07:49:21.333Z"
+  "translatedAt": "2025-12-24T07:49:21.333Z",
+  "sections": [
+    {
+      "title": "The Deeds of Elijah",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "The Works of Elisha and Israel’s Unfaithfulness",
+      "startVerse": 12,
+      "endVerse": 17
+    },
+    {
+      "title": "Hezekiah and the Deliverance from Sennacherib",
+      "startVerse": 18,
+      "endVerse": 25
+    }
+  ]
 }

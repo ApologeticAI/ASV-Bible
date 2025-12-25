@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "At this, my heart trembles and leaps out of its place.",
       "links": "<a href='/AIV/18/40/4'>Job 40:4</a>; <a href='/AIV/19/119/120'>Ps. 119:120</a>",
-      "comment": "Elihu begins by expressing awe at God's grandeur; note the recurring biblical motif of trembling before divine majesty (see Ps. 119:120)."
+      "comment": "Elihu begins by expressing awe at God's grandeur; note the recurring biblical motif of trembling before divine majesty (see Ps. 119:120).",
+      "sectionHeader": "God's Power Displayed in Nature"
     },
     {
       "pk": 22037002,
@@ -170,7 +171,8 @@
       "verse": 14,
       "text": "Hear this, Job; stop and consider the wondrous works of God.",
       "links": "<a href='/AIV/19/46/8'>Ps. 46:8</a>; <a href='/AIV/19/111/2'>Ps. 111:2</a>",
-      "comment": "Elihu invites reflection on God's deeds; see Psalms’ invitation to contemplation."
+      "comment": "Elihu invites reflection on God's deeds; see Psalms’ invitation to contemplation.",
+      "sectionHeader": "The Wonders of God's Works"
     },
     {
       "pk": 22037015,
@@ -254,7 +256,8 @@
       "verse": 21,
       "text": "Now, people cannot look at the bright light in the sky after the wind has passed and cleared them.",
       "links": "<a href='/AIV/18/36/32'>Job 36:32</a>",
-      "comment": "Light imagery here subtly foreshadows themes of divine glory, which find fulfillment in the New Testament revelation."
+      "comment": "Light imagery here subtly foreshadows themes of divine glory, which find fulfillment in the New Testament revelation.",
+      "sectionHeader": "The Incomprehensible Majesty of God"
     },
     {
       "pk": 22037022,
@@ -293,5 +296,22 @@
       "comment": "Divine wisdom is linked to humility and reverence (see Job 28:28 and Ps. 111:10). Spiritually, this prepares for themes of obedience and submission to divine revelation, which in Christian tradition point to the necessity of surrender and trust in the fullness of divine authority. High Christology: echo of fear and awe that surrounds Christ’s divine majesty and wisdom (Matt. 7:28-29)."
     }
   ],
-  "translatedAt": "2025-12-24T05:56:38.496Z"
+  "translatedAt": "2025-12-24T05:56:38.496Z",
+  "sections": [
+    {
+      "title": "God's Power Displayed in Nature",
+      "startVerse": 1,
+      "endVerse": 13
+    },
+    {
+      "title": "The Wonders of God's Works",
+      "startVerse": 14,
+      "endVerse": 20
+    },
+    {
+      "title": "The Incomprehensible Majesty of God",
+      "startVerse": 21,
+      "endVerse": 24
+    }
+  ]
 }

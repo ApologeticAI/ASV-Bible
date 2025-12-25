@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Awake, awake, put on your strength, O Zion; put on your beautiful garments, Jerusalem, the holy city. For the uncircumcised and the unclean shall never enter you again.",
       "links": "<a href='/AIV/23/51/9'>Isa. 51:9</a>; <a href='/AIV/26/44/9'>Ezek. 44:9</a>; <a href='/AIV/66/60/1'>Isa. 60:1</a>",
-      "comment": "The call for Zion and Jerusalem to awaken and clothe themselves in glory foreshadows spiritual renewal and holiness, later fulfilled through the Church purified by Christ (see Eph. 5:25-27). The emphasis on being 'clean' anticipates the establishment of a community marked by holiness and sacramental grace."
+      "comment": "The call for Zion and Jerusalem to awaken and clothe themselves in glory foreshadows spiritual renewal and holiness, later fulfilled through the Church purified by Christ (see Eph. 5:25-27). The emphasis on being 'clean' anticipates the establishment of a community marked by holiness and sacramental grace.",
+      "sectionHeader": "Jerusalem Awakened and Redeemed"
     },
     {
       "pk": 29052002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "How beautiful upon the mountains are the feet of the one who brings good news, who announces peace, who brings glad tidings of good things, who proclaims salvation, who says to Zion, 'Your God reigns.'",
       "links": "<a href='/AIV/45/10/15'>Rom. 10:15</a>; <a href='/AIV/23/40/9'>Isa. 40:9</a>; <a href='/AIV/19/96/10'>Ps. 96:10</a>",
-      "comment": "This verse is quoted by Paul in Romans to refer to the proclamation of the Gospel. The spiritual application is the beautiful mission of those who spread the message of Christ’s salvation throughout the world."
+      "comment": "This verse is quoted by Paul in Romans to refer to the proclamation of the Gospel. The spiritual application is the beautiful mission of those who spread the message of Christ’s salvation throughout the world.",
+      "sectionHeader": "The Messenger of Good News"
     },
     {
       "pk": 29052008,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "Depart, depart, go out from there; touch no unclean thing; go out from the midst of her, purify yourselves, you who carry the vessels of the LORD.",
       "links": "<a href='/AIV/47/6/17'>2 Cor. 6:17</a>; <a href='/AIV/15/2/2'>Ezra 2:2</a>",
-      "comment": "Purity for those carrying the Lord’s vessels anticipates the call to holiness for all ministers and the faithful, especially in liturgical service and sacramental ministry."
+      "comment": "Purity for those carrying the Lord’s vessels anticipates the call to holiness for all ministers and the faithful, especially in liturgical service and sacramental ministry.",
+      "sectionHeader": "Departure from Babylon"
     },
     {
       "pk": 29052012,
@@ -158,7 +161,8 @@
       "verse": 13,
       "text": "Behold, My servant shall act wisely; he shall be exalted, lifted up, and shall be very high.",
       "links": "<a href='/AIV/50/2/9'>Phil. 2:9</a>; <a href='/AIV/23/53/10'>Isa. 53:10</a>",
-      "comment": "This begins the famous 'Servant Song,' prophetic of Christ’s Passion, Resurrection, and Ascension—His ultimate exaltation as Lord over all."
+      "comment": "This begins the famous 'Servant Song,' prophetic of Christ’s Passion, Resurrection, and Ascension—His ultimate exaltation as Lord over all.",
+      "sectionHeader": "The Exaltation and Suffering of the Servant"
     },
     {
       "pk": 29052014,
@@ -185,5 +189,27 @@
       "comment": "‘Sprinkle’ alludes to priestly purification (see Lev. 16:14), fulfilled in Christ’s atoning blood which cleanses and makes holy. The astonishment of kings points to the conversion of nations and the universal scope of Christ’s redemptive work (Rom. 15:21)."
     }
   ],
-  "translatedAt": "2025-12-24T08:15:11.630Z"
+  "translatedAt": "2025-12-24T08:15:11.630Z",
+  "sections": [
+    {
+      "title": "Jerusalem Awakened and Redeemed",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "The Messenger of Good News",
+      "startVerse": 7,
+      "endVerse": 10
+    },
+    {
+      "title": "Departure from Babylon",
+      "startVerse": 11,
+      "endVerse": 12
+    },
+    {
+      "title": "The Exaltation and Suffering of the Servant",
+      "startVerse": 13,
+      "endVerse": 15
+    }
+  ]
 }

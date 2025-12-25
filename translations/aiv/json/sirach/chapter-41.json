@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "O death, how bitter is your memory to one who lives at ease, to one who has peace and abundance in all things, and continues still strong enough to enjoy food!",
       "links": "<a href='/AIV/18/14/22'>Job 14:22</a>; <a href='/AIV/19/89/48'>Ps. 89:48</a>",
-      "comment": "Death is described as a bitter thought to those whose lives are comfortable. The text highlights how prosperity makes one cling to life. This echoes the theme throughout Scripture that worldly comfort can dull spiritual readiness (see Luke 12:19-20)."
+      "comment": "Death is described as a bitter thought to those whose lives are comfortable. The text highlights how prosperity makes one cling to life. This echoes the theme throughout Scripture that worldly comfort can dull spiritual readiness (see Luke 12:19-20).",
+      "sectionHeader": "The Inevitability of Death"
     },
     {
       "pk": 28041002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "Children of sinners become detestable, and they dwell among the ungodly.",
       "links": "<a href='/AIV/05/23/2'>Deut. 23:2</a>",
-      "comment": "There is an Old Testament notion that the consequences of sin can affect descendants (see Exodus 20:5, Deut. 23:2). However, Ezekiel 18 clarifies personal accountability for sin, a movement toward greater individual responsibility."
+      "comment": "There is an Old Testament notion that the consequences of sin can affect descendants (see Exodus 20:5, Deut. 23:2). However, Ezekiel 18 clarifies personal accountability for sin, a movement toward greater individual responsibility.",
+      "sectionHeader": "The Fate of Sinners and Their Children"
     },
     {
       "pk": 28041007,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "Take care of your reputation; it is more lasting than a thousand great treasures of gold.",
       "links": "<a href='/AIV/20/22/1'>Prov. 22:1</a>",
-      "comment": "Reputation or good name is valued more than material wealth, echoed in Proverbs 22:1. This speaks to the importance of virtue and integrity for the believer."
+      "comment": "Reputation or good name is valued more than material wealth, echoed in Proverbs 22:1. This speaks to the importance of virtue and integrity for the believer.",
+      "sectionHeader": "The Value of a Good Name"
     },
     {
       "pk": 28041014,
@@ -206,7 +209,8 @@
       "verse": 17,
       "text": "Therefore, be ashamed according to my word, for it is not the shame that saves you from sin, but being careful not to fall into it.",
       "links": "<a href='/AIV/19/119/11'>Ps. 119:11</a>; <a href='/AIV/43/8/11'>John 8:11</a>",
-      "comment": "The healthy conscience avoids sin through vigilance. There is a nuance here between godly shame—leading to repentance—and a useless embarrassment. See John 8:11."
+      "comment": "The healthy conscience avoids sin through vigilance. There is a nuance here between godly shame—leading to repentance—and a useless embarrassment. See John 8:11.",
+      "sectionHeader": "Proper Shame and Conduct"
     },
     {
       "pk": 28041018,
@@ -269,5 +273,27 @@
       "comment": "Respect for others, love of neighbor, and justice are crucial. Each commandment here points to the wholeness and unity required for true holiness, fulfilled perfectly in Jesus Christ."
     }
   ],
-  "translatedAt": "2025-12-24T07:45:49.551Z"
+  "translatedAt": "2025-12-24T07:45:49.551Z",
+  "sections": [
+    {
+      "title": "The Inevitability of Death",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "The Fate of Sinners and Their Children",
+      "startVerse": 6,
+      "endVerse": 12
+    },
+    {
+      "title": "The Value of a Good Name",
+      "startVerse": 13,
+      "endVerse": 16
+    },
+    {
+      "title": "Proper Shame and Conduct",
+      "startVerse": 17,
+      "endVerse": 22
+    }
+  ]
 }

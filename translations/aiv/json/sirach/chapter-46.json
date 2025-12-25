@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Joshua son of Nun was a mighty warrior, the successor of Moses in prophecy, who became, as his name suggests, a great savior for God's chosen people, striking down the enemies who attacked Israel, so that Israel might receive its inheritance.",
       "links": "<a href='/AIV/6/1/1-9'>Josh. 1:1-9</a>; <a href='/AIV/4/27/18-23'>Num. 27:18-23</a>",
-      "comment": "Joshua 'Savior' reflects the Hebrew name Yeshua, sharing roots with the name of Jesus. Joshua's leadership foreshadows Jesus, who leads God's people into the true inheritance. (See Hebrews 4:8-9.)"
+      "comment": "Joshua 'Savior' reflects the Hebrew name Yeshua, sharing roots with the name of Jesus. Joshua's leadership foreshadows Jesus, who leads God's people into the true inheritance. (See Hebrews 4:8-9.)",
+      "sectionHeader": "The Deeds of Joshua"
     },
     {
       "pk": 28046002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "For he remained loyal to the Mighty One in the time of Moses, he and Caleb son of Jephunneh: they opposed the assembly, calmed the people, and stopped the murmuring, and prevented sin.",
       "links": "<a href='/AIV/4/14/6-10'>Num. 14:6-10</a>",
-      "comment": "Faithfulness amid popular opposition is praiseworthy; Caleb’s and Joshua’s obedience leads to blessing, showing the importance of standing with divinely appointed leaders."
+      "comment": "Faithfulness amid popular opposition is praiseworthy; Caleb’s and Joshua’s obedience leads to blessing, showing the importance of standing with divinely appointed leaders.",
+      "sectionHeader": "The Faithfulness of Caleb"
     },
     {
       "pk": 28046008,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "The judges, each one of them by name, whose hearts did not go astray and who did not turn away from the Lord—may their memory be blessed!",
       "links": "<a href='/AIV/7/2/16-19'>Judg. 2:16-19</a>",
-      "comment": "This verse praises the leaders who remained true, highlighting the importance of leaders faithful to divine revelation and tradition."
+      "comment": "This verse praises the leaders who remained true, highlighting the importance of leaders faithful to divine revelation and tradition.",
+      "sectionHeader": "The Judges of Israel"
     },
     {
       "pk": 28046012,
@@ -158,7 +161,8 @@
       "verse": 13,
       "text": "Samuel, beloved of his Lord, prophet of the Lord, established the Kingdom and anointed rulers over his people.",
       "links": "<a href='/AIV/9/3/19-21'>1 Sam. 3:19-21</a>; <a href='/AIV/9/10/1'>1 Sam. 10:1</a>",
-      "comment": "Here, Samuel’s role as a prophet and intermediary parallels the ongoing need for authoritative spiritual leadership rooted in prayer and divine calling."
+      "comment": "Here, Samuel’s role as a prophet and intermediary parallels the ongoing need for authoritative spiritual leadership rooted in prayer and divine calling.",
+      "sectionHeader": "The Life and Ministry of Samuel"
     },
     {
       "pk": 28046014,
@@ -245,5 +249,27 @@
       "comment": "Samuel’s prophetic authority continues even after his death, foreshadowing the ongoing spiritual influence of holy men and the communion of saints, as the prayers of the righteous endure even beyond the grave (see Rev. 6:9-10)."
     }
   ],
-  "translatedAt": "2025-12-24T07:48:28.179Z"
+  "translatedAt": "2025-12-24T07:48:28.179Z",
+  "sections": [
+    {
+      "title": "The Deeds of Joshua",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "The Faithfulness of Caleb",
+      "startVerse": 7,
+      "endVerse": 10
+    },
+    {
+      "title": "The Judges of Israel",
+      "startVerse": 11,
+      "endVerse": 12
+    },
+    {
+      "title": "The Life and Ministry of Samuel",
+      "startVerse": 13,
+      "endVerse": 20
+    }
+  ]
 }

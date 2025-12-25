@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Better a poor man who walks with integrity than one who is crooked in speech and is a fool.",
       "links": "<a href='/AIV/24/28/6'>Prov. 28:6</a>; <a href='/AIV/19/15/2'>Ps. 15:2</a>",
-      "comment": "Emphasizes the virtue of integrity over wealth and clever words. The wisdom tradition favors moral uprightness, foreshadowing Christ's beatitudes. The spiritual life puts righteousness above earthly gain."
+      "comment": "Emphasizes the virtue of integrity over wealth and clever words. The wisdom tradition favors moral uprightness, foreshadowing Christ's beatitudes. The spiritual life puts righteousness above earthly gain.",
+      "sectionHeader": "Counsels on Integrity and Wisdom"
     },
     {
       "pk": 24019002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "A foolish son is ruin to his father, and a wife’s quarrels are a continual dripping.",
       "links": "<a href='/AIV/24/10/1'>Prov. 10:1</a>; <a href='/AIV/24/27/15'>Prov. 27:15</a>",
-      "comment": "Family harmony is precious. Echoes teaching on the importance of faithfulness and mutual respect within the household, foundational for Christian living."
+      "comment": "Family harmony is precious. Echoes teaching on the importance of faithfulness and mutual respect within the household, foundational for Christian living.",
+      "sectionHeader": "The Fool, the Sluggard, and Family Life"
     },
     {
       "pk": 24019014,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "Discipline your son while there is hope, but do not set your heart on his destruction.",
       "links": "<a href='/AIV/24/13/24'>Prov. 13:24</a>; <a href='/AIV/58/12/5-11'>Heb. 12:5-11</a>",
-      "comment": "Godly discipline is loving, aimed at correction not harm. Reflects God’s own loving discipline of us, as explained in Hebrews 12."
+      "comment": "Godly discipline is loving, aimed at correction not harm. Reflects God’s own loving discipline of us, as explained in Hebrews 12.",
+      "sectionHeader": "The Value of Discipline and Instruction"
     },
     {
       "pk": 24019019,
@@ -302,7 +305,8 @@
       "verse": 25,
       "text": "Strike a scoffer, and the simple will learn prudence; reprove the wise, and he will gain knowledge.",
       "links": "<a href='/AIV/24/21/11'>Prov. 21:11</a>; <a href='/AIV/24/9/8'>Prov. 9:8</a>",
-      "comment": "Discipline is a tool to instruct both the foolish and the wise; openness to correction is a spiritual asset."
+      "comment": "Discipline is a tool to instruct both the foolish and the wise; openness to correction is a spiritual asset.",
+      "sectionHeader": "Consequences for the Wicked and the Fool"
     },
     {
       "pk": 24019026,
@@ -353,5 +357,27 @@
       "comment": "Judgment awaits those who reject wisdom. Scripture repeatedly warns of consequences for rebellion, urging repentance and conversion."
     }
   ],
-  "translatedAt": "2025-12-24T07:00:16.347Z"
+  "translatedAt": "2025-12-24T07:00:16.347Z",
+  "sections": [
+    {
+      "title": "Counsels on Integrity and Wisdom",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "The Fool, the Sluggard, and Family Life",
+      "startVerse": 13,
+      "endVerse": 17
+    },
+    {
+      "title": "The Value of Discipline and Instruction",
+      "startVerse": 18,
+      "endVerse": 24
+    },
+    {
+      "title": "Consequences for the Wicked and the Fool",
+      "startVerse": 25,
+      "endVerse": 29
+    }
+  ]
 }

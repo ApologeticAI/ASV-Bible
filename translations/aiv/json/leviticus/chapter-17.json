@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The LORD spoke to Moses, saying:",
       "links": "<a href='/AIV/3/1/1'>Lev. 1:1</a>; <a href='/AIV/2/25/22'>Ex. 25:22</a>",
-      "comment": "A new set of laws is introduced by direct speech from the LORD to Moses. Consistent with the pattern throughout Leviticus, these words provide divine authority for what follows."
+      "comment": "A new set of laws is introduced by direct speech from the LORD to Moses. Consistent with the pattern throughout Leviticus, these words provide divine authority for what follows.",
+      "sectionHeader": "The Law of Sacrifice at the Tabernacle"
     },
     {
       "pk": 3017002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "\"If anyone from the house of Israel, or any foreigner who dwells among them, eats any blood, I will set my face against that person and cut him off from among his people.",
       "links": "<a href='/AIV/1/9/4'>Gen. 9:4</a>; <a href='/AIV/44/15/20'>Acts 15:20</a>",
-      "comment": "The prohibition of blood consumption is rooted in respect for life, as blood symbolizes life itself. This sets the stage for deeper sacramental understanding: what is forbidden here becomes fulfilled in a greater way by the blood of Christ in the new covenant (<a href='/AIV/43/6/53-56'>John 6:53-56</a>)."
+      "comment": "The prohibition of blood consumption is rooted in respect for life, as blood symbolizes life itself. This sets the stage for deeper sacramental understanding: what is forbidden here becomes fulfilled in a greater way by the blood of Christ in the new covenant (<a href='/AIV/43/6/53-56'>John 6:53-56</a>).",
+      "sectionHeader": "Prohibition of Eating Blood"
     },
     {
       "pk": 3017011,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "\"Anyone, whether native or foreigner, who eats anything found dead or torn by wild animals shall wash his clothes and bathe himself in water and be unclean until evening; then he shall be clean.",
       "links": "<a href='/AIV/3/11/39-40'>Lev. 11:39-40</a>",
-      "comment": "Contact with dead animals brings ritual uncleanness, requiring purification. The concept of ritual purity prefigures the necessity of both external and internal holiness for entering into worship."
+      "comment": "Contact with dead animals brings ritual uncleanness, requiring purification. The concept of ritual purity prefigures the necessity of both external and internal holiness for entering into worship.",
+      "sectionHeader": "Regulations Concerning Animals Found Dead or Torn"
     },
     {
       "pk": 3017016,
@@ -197,5 +200,22 @@
       "comment": "Failure to observe purification results in guilt. Law and ritual are given not merely as tradition but with spiritual meaning, encouraging both obedience and a readiness to receive the fullness of God’s revelation in future worship."
     }
   ],
-  "translatedAt": "2025-12-24T01:19:25.553Z"
+  "translatedAt": "2025-12-24T01:19:25.553Z",
+  "sections": [
+    {
+      "title": "The Law of Sacrifice at the Tabernacle",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "Prohibition of Eating Blood",
+      "startVerse": 10,
+      "endVerse": 14
+    },
+    {
+      "title": "Regulations Concerning Animals Found Dead or Torn",
+      "startVerse": 15,
+      "endVerse": 16
+    }
+  ]
 }

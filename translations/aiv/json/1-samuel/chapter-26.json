@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then the Ziphites came to Saul at Gibeah, saying, 'Is not David hiding on the hill of Hachilah, which is opposite Jeshimon?'",
       "links": "<a href='/AIV/9/23/19'>1 Sam. 23:19</a>; <a href='/AIV/9/23/14'>1 Sam. 23:14</a>",
-      "comment": "The Ziphites again betray David’s location to Saul (see 1 Sam. 23:19). This points to the ongoing theme of betrayal and fidelity, foreshadowing Judas’s betrayal of Christ (<a href='/AIV/40/26/14-16'>Matt. 26:14-16</a>)."
+      "comment": "The Ziphites again betray David’s location to Saul (see 1 Sam. 23:19). This points to the ongoing theme of betrayal and fidelity, foreshadowing Judas’s betrayal of Christ (<a href='/AIV/40/26/14-16'>Matt. 26:14-16</a>).",
+      "sectionHeader": "David Spares Saul's Life Again"
     },
     {
       "pk": 9026002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "Then David crossed over to the other side and stood on top of the hill, far away, with a great distance between them.",
       "links": "<a href='/AIV/9/24/8'>1 Sam. 24:8</a>",
-      "comment": "David’s distance maintains his safety but allows him to speak truth. Distance as a theme echoes the separation between sin and grace, and necessity of mediation."
+      "comment": "David’s distance maintains his safety but allows him to speak truth. Distance as a theme echoes the separation between sin and grace, and necessity of mediation.",
+      "sectionHeader": "David Confronts Saul and Abner"
     },
     {
       "pk": 9026014,
@@ -254,7 +256,8 @@
       "verse": 21,
       "text": "Then Saul said, 'I have sinned. Return, my son David, for I will do you no more harm, because my life was precious in your eyes this day. Behold, I have acted foolishly and have made a great mistake.'",
       "links": "<a href='/AIV/9/24/17-19'>1 Sam. 24:17-19</a>",
-      "comment": "Saul confesses his sin openly, modeling repentance, though imperfect. Recognition of the value of mercy foreshadows the teaching of forgiveness in the Lord’s Prayer (<a href='/AIV/40/6/12'>Matt. 6:12</a>)."
+      "comment": "Saul confesses his sin openly, modeling repentance, though imperfect. Recognition of the value of mercy foreshadows the teaching of forgiveness in the Lord’s Prayer (<a href='/AIV/40/6/12'>Matt. 6:12</a>).",
+      "sectionHeader": "Saul Confesses and Reconciles with David"
     },
     {
       "pk": 9026022,
@@ -305,5 +308,22 @@
       "comment": "Saul blesses David, recognizing his future greatness. The separation of their paths marks a providential transition, anticipating the messianic line which David’s house will establish, ultimately fulfilled in Christ."
     }
   ],
-  "translatedAt": "2025-12-24T03:06:10.864Z"
+  "translatedAt": "2025-12-24T03:06:10.864Z",
+  "sections": [
+    {
+      "title": "David Spares Saul's Life Again",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "David Confronts Saul and Abner",
+      "startVerse": 13,
+      "endVerse": 20
+    },
+    {
+      "title": "Saul Confesses and Reconciles with David",
+      "startVerse": 21,
+      "endVerse": 25
+    }
+  ]
 }

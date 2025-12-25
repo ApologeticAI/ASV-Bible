@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Whoever loves discipline loves knowledge, but whoever hates correction is stupid.",
       "links": "<a href='/AIV/19/94/12'>Ps. 94:12</a>; <a href='/AIV/20/3/11-12'>Prov. 3:11-12</a>; <a href='/AIV/58/12/6'>Heb. 12:6</a>",
-      "comment": "This verse teaches that loving correction and discipline is a sign of true wisdom. The New Testament reinforces the idea of God's loving discipline in Hebrews 12:6. Openness to correction is essential for growing in holiness, which is a communal and personal journey."
+      "comment": "This verse teaches that loving correction and discipline is a sign of true wisdom. The New Testament reinforces the idea of God's loving discipline in Hebrews 12:6. Openness to correction is essential for growing in holiness, which is a communal and personal journey.",
+      "sectionHeader": "The Way of the Righteous and the Wicked"
     },
     {
       "pk": 24012002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "An evil man is trapped by the transgression of his lips, but the righteous will escape from trouble.",
       "links": "<a href='/AIV/20/18/7'>Prov. 18:7</a>; <a href='/AIV/19/34/13'>Ps. 34:13</a>",
-      "comment": "Words reveal the heart. This anticipates James 3:2–10, where taming the tongue is seen as key to Christian maturity."
+      "comment": "Words reveal the heart. This anticipates James 3:2–10, where taming the tongue is seen as key to Christian maturity.",
+      "sectionHeader": "The Power of Words"
     },
     {
       "pk": 24012014,
@@ -290,7 +292,8 @@
       "verse": 24,
       "text": "The diligent will rule, but the lazy will be forced to labor.",
       "links": "<a href='/AIV/20/10/4'>Prov. 10:4</a>; <a href='/AIV/20/13/4'>Prov. 13:4</a>",
-      "comment": "Industry and stewardship elevate the individual and the community; idleness leads to bondage or servitude."
+      "comment": "Industry and stewardship elevate the individual and the community; idleness leads to bondage or servitude.",
+      "sectionHeader": "Diligence, Prudence, and Righteousness"
     },
     {
       "pk": 24012025,
@@ -341,5 +344,22 @@
       "comment": "This climactic verse points to the promise of eternal life for the righteous—a hope fulfilled in Jesus, who reveals Himself as 'the way, the truth, and the life.'"
     }
   ],
-  "translatedAt": "2025-12-24T06:56:23.307Z"
+  "translatedAt": "2025-12-24T06:56:23.307Z",
+  "sections": [
+    {
+      "title": "The Way of the Righteous and the Wicked",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "The Power of Words",
+      "startVerse": 13,
+      "endVerse": 23
+    },
+    {
+      "title": "Diligence, Prudence, and Righteousness",
+      "startVerse": 24,
+      "endVerse": 28
+    }
+  ]
 }

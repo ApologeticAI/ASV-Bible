@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then all Israel gathered at Hebron to David and said, 'Look, we are your flesh and bone.'",
       "links": "<a href='/AIV/10/5/1'>2 Sam. 5:1</a>; <a href='/AIV/01/29/14'>Gen. 29:14</a>",
-      "comment": "The phrase 'flesh and bone' emphasizes deep kinship and unity among God's people, foreshadowing the unity of the body of Christ (cf. Eph. 5:30)."
+      "comment": "The phrase 'flesh and bone' emphasizes deep kinship and unity among God's people, foreshadowing the unity of the body of Christ (cf. Eph. 5:30).",
+      "sectionHeader": "David Anointed King at Hebron"
     },
     {
       "pk": 13011002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "Then David and all Israel went to Jerusalem, that is Jebus; the Jebusites, the inhabitants of the land, were there.",
       "links": "<a href='/AIV/10/5/6'>2 Sam. 5:6</a>; <a href='/AIV/01/10/16'>Gen. 10:16</a>",
-      "comment": "Jerusalem’s earlier name, Jebus, highlights its conquest and sanctification; the city would become the spiritual center of God's people."
+      "comment": "Jerusalem’s earlier name, Jebus, highlights its conquest and sanctification; the city would become the spiritual center of God's people.",
+      "sectionHeader": "Conquest of Jerusalem"
     },
     {
       "pk": 13011005,
@@ -122,7 +124,8 @@
       "verse": 10,
       "text": "Now these are the chief men of David’s mighty warriors, who joined him in his kingdom with all Israel to make him king, according to the word of the LORD concerning Israel.",
       "links": "<a href='/AIV/10/23/8'>2 Sam. 23:8</a>",
-      "comment": "David’s rule is supported by loyal, courageous followers. The bond between David and his men prefigures the communion of saints joined in sacrificial unity."
+      "comment": "David’s rule is supported by loyal, courageous followers. The bond between David and his men prefigures the communion of saints joined in sacrificial unity.",
+      "sectionHeader": "David's Mighty Warriors"
     },
     {
       "pk": 13011011,
@@ -182,7 +185,8 @@
       "verse": 15,
       "text": "Three of the thirty chief warriors went down to the rock, to David at the cave of Adullam, while a company of Philistines was camped in the valley of Rephaim.",
       "links": "<a href='/AIV/09/22/1'>1 Sam. 22:1</a>; <a href='/AIV/10/23/13'>2 Sam. 23:13</a>",
-      "comment": "Adullam is a place of refuge, representing the need for a spiritual sanctuary in times of trial—an image later perfected by Christ as our true refuge."
+      "comment": "Adullam is a place of refuge, representing the need for a spiritual sanctuary in times of trial—an image later perfected by Christ as our true refuge.",
+      "sectionHeader": "The Exploits of the Three and the Thirty"
     },
     {
       "pk": 13011016,
@@ -314,7 +318,8 @@
       "verse": 26,
       "text": "The mighty warriors were: Asahel the brother of Joab, Elhanan son of Dodo from Bethlehem,",
       "links": "<a href='/AIV/10/23/24'>2 Sam. 23:24</a>",
-      "comment": "The listing of names signals the importance of communal memory and honoring those set apart for noteworthy service."
+      "comment": "The listing of names signals the importance of communal memory and honoring those set apart for noteworthy service.",
+      "sectionHeader": "The List of David's Mighty Warriors"
     },
     {
       "pk": 13011027,
@@ -569,5 +574,32 @@
       "comment": "The enumeration concludes, a witness that the kingdom is composed of many, united under one anointed king, prefiguring the unity of the faithful under the Messiah."
     }
   ],
-  "translatedAt": "2025-12-24T04:11:28.589Z"
+  "translatedAt": "2025-12-24T04:11:28.589Z",
+  "sections": [
+    {
+      "title": "David Anointed King at Hebron",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "Conquest of Jerusalem",
+      "startVerse": 4,
+      "endVerse": 9
+    },
+    {
+      "title": "David's Mighty Warriors",
+      "startVerse": 10,
+      "endVerse": 14
+    },
+    {
+      "title": "The Exploits of the Three and the Thirty",
+      "startVerse": 15,
+      "endVerse": 25
+    },
+    {
+      "title": "The List of David's Mighty Warriors",
+      "startVerse": 26,
+      "endVerse": 47
+    }
+  ]
 }

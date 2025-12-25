@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "God is known in Judah; his name is great in Israel.",
       "links": "<a href='/AIV/19/48/1'>Ps. 48:1</a>; <a href='/AIV/19/114/2'>Ps. 114:2</a>",
-      "comment": "The people of Judah and Israel specially recognize God's greatness. Cross-references highlight God's presence among His chosen people, tying to broader themes of election and divine revelation."
+      "comment": "The people of Judah and Israel specially recognize God's greatness. Cross-references highlight God's presence among His chosen people, tying to broader themes of election and divine revelation.",
+      "sectionHeader": "God’s Victory in Zion"
     },
     {
       "pk": 23076002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "You alone are to be feared; who can stand before you when your anger is aroused?",
       "links": "<a href='/AIV/05/10/17'>Deut. 10:17</a>; <a href='/AIV/19/130/3'>Ps. 130:3</a>; <a href='/AIV/66/6/17'>Rev. 6:17</a>",
-      "comment": "Here God’s absolute holiness and authority are emphasized, a theme echoed through all scripture and pointing to believers’ reverence toward the divine. The theme prepares for NT depictions of judgment before the throne (see Revelation)."
+      "comment": "Here God’s absolute holiness and authority are emphasized, a theme echoed through all scripture and pointing to believers’ reverence toward the divine. The theme prepares for NT depictions of judgment before the throne (see Revelation).",
+      "sectionHeader": "The Majesty and Judgment of God"
     },
     {
       "pk": 23076008,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "Make vows to the LORD your God and fulfill them; let all around bring gifts to him who is to be feared.",
       "links": "<a href='/AIV/03/27/2'>Lev. 27:2</a>; <a href='/AIV/19/50/14'>Ps. 50:14</a>; <a href='/AIV/19/96/8'>Ps. 96:8</a>",
-      "comment": "Faithful worship includes fulfilling vows and bringing offerings, a key aspect of Old Testament and ongoing Christian spirituality. The giving of gifts and vows is a persistent biblical pattern, later re-emphasized in the New Testament as acts of devotion and worship before God."
+      "comment": "Faithful worship includes fulfilling vows and bringing offerings, a key aspect of Old Testament and ongoing Christian spirituality. The giving of gifts and vows is a persistent biblical pattern, later re-emphasized in the New Testament as acts of devotion and worship before God.",
+      "sectionHeader": "Call to Worship the Lord"
     },
     {
       "pk": 23076012,
@@ -149,5 +152,22 @@
       "comment": "God holds ultimate authority over worldly rulers, foreshadowing Christ’s sovereign kingship and final judgment. Spiritual readings recognize submission before divine rule as a mark of true faith, echoing themes fulfilled in the gospel’s call to discipleship and reverence."
     }
   ],
-  "translatedAt": "2025-12-24T06:25:19.380Z"
+  "translatedAt": "2025-12-24T06:25:19.380Z",
+  "sections": [
+    {
+      "title": "God’s Victory in Zion",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "The Majesty and Judgment of God",
+      "startVerse": 7,
+      "endVerse": 10
+    },
+    {
+      "title": "Call to Worship the Lord",
+      "startVerse": 11,
+      "endVerse": 12
+    }
+  ]
 }

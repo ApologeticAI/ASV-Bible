@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "After some time, the king of the Ammonites died, and his son Hanun became king in his place.",
       "links": "<a href='/AIV/13/19/1'>1 Chronicles 19:1</a>",
-      "comment": "This verse introduces a new conflict as a result of a change in leadership. Details match 1 Chr 19:1. Ancient Near Eastern practice often saw unstable transitions at a king's death."
+      "comment": "This verse introduces a new conflict as a result of a change in leadership. Details match 1 Chr 19:1. Ancient Near Eastern practice often saw unstable transitions at a king's death.",
+      "sectionHeader": "David's Messengers Humiliated by Hanun"
     },
     {
       "pk": 10010002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "When the Ammonites realized they had become obnoxious to David, they hired twenty thousand Aramean foot soldiers from Beth Rehob and Zobah, a thousand men from the king of Maacah, and twelve thousand men from Tob.",
       "links": "<a href='/AIV/13/19/6'>1 Chronicles 19:6</a>",
-      "comment": "The Ammonites' reaction escalates peace into war, paralleling how pride can harden the heart, leading to further disorder—see how such alliances foreshadow later opposition to Christ and his kingdom."
+      "comment": "The Ammonites' reaction escalates peace into war, paralleling how pride can harden the heart, leading to further disorder—see how such alliances foreshadow later opposition to Christ and his kingdom.",
+      "sectionHeader": "War with the Ammonites and Arameans"
     },
     {
       "pk": 10010007,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "When the Arameans saw that they had been defeated by Israel, they gathered themselves together.",
       "links": "<a href='/AIV/10/8/3-9'>2 Samuel 8:3-9</a>",
-      "comment": "The resilience and pride of the Arameans prolong conflict, revealing the persistence of spiritual struggle even after defeat—much like temptations that recur even after victories."
+      "comment": "The resilience and pride of the Arameans prolong conflict, revealing the persistence of spiritual struggle even after defeat—much like temptations that recur even after victories.",
+      "sectionHeader": "David's Victory over the Arameans"
     },
     {
       "pk": 10010016,
@@ -233,5 +236,22 @@
       "comment": "Peace is established through submission to God’s anointed king. This points to the future reign of Christ, to whom all nations will come in peace (Isa 2:2-4; Rev 21:24). Historically, the passage affirms the importance of wise, just rule and the gathering of nations under one true authority."
     }
   ],
-  "translatedAt": "2025-12-24T03:16:06.710Z"
+  "translatedAt": "2025-12-24T03:16:06.710Z",
+  "sections": [
+    {
+      "title": "David's Messengers Humiliated by Hanun",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "War with the Ammonites and Arameans",
+      "startVerse": 6,
+      "endVerse": 14
+    },
+    {
+      "title": "David's Victory over the Arameans",
+      "startVerse": 15,
+      "endVerse": 19
+    }
+  ]
 }

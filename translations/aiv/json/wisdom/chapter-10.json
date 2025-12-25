@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Wisdom protected the father of all people, who was first created alone, and delivered him from his own fall.",
       "links": "<a href='/AIV/1/2/7'>Gen. 2:7</a>; <a href='/AIV/1/3/20-24'>Gen. 3:20-24</a>",
-      "comment": "This verse identifies Adam, preserved by Wisdom even after his transgression. The theme of Wisdom preserving humanity echoes throughout salvation history and prefigures the saving work accomplished in Christ. Note the subtle implication that Wisdom acts as a mediating principle, reminiscent of how in Christian doctrine the Word is the agent of creation (John 1:1-3)."
+      "comment": "This verse identifies Adam, preserved by Wisdom even after his transgression. The theme of Wisdom preserving humanity echoes throughout salvation history and prefigures the saving work accomplished in Christ. Note the subtle implication that Wisdom acts as a mediating principle, reminiscent of how in Christian doctrine the Word is the agent of creation (John 1:1-3).",
+      "sectionHeader": "Wisdom's Protection from Adam to Joseph"
     },
     {
       "pk": 27010002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "Wisdom delivered a holy people and a blameless seed from their oppressors.",
       "links": "<a href='/AIV/2/12/51'>Exod. 12:51</a>; <a href='/AIV/19/78/52'>Ps. 78:52</a>",
-      "comment": "This refers to the Exodus. The 'blameless seed' can also be seen as foreshadowing the Incarnation, Christ as the true Holy Seed who liberates God’s people."
+      "comment": "This refers to the Exodus. The 'blameless seed' can also be seen as foreshadowing the Incarnation, Christ as the true Holy Seed who liberates God’s people.",
+      "sectionHeader": "Wisdom Delivers Israel from Egypt"
     },
     {
       "pk": 27010016,
@@ -257,5 +259,17 @@
       "comment": "As in the Psalms and teachings of Jesus, God empowers the humble with the ability to praise and proclaim His works. The spiritual meaning points to the grace that equips believers—even the weakest—to bear witness. This subtly suggests the importance of childlike faith and of the supernatural gifts imparted in the life of the Church."
     }
   ],
-  "translatedAt": "2025-12-24T07:18:51.231Z"
+  "translatedAt": "2025-12-24T07:18:51.231Z",
+  "sections": [
+    {
+      "title": "Wisdom's Protection from Adam to Joseph",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "Wisdom Delivers Israel from Egypt",
+      "startVerse": 15,
+      "endVerse": 21
+    }
+  ]
 }

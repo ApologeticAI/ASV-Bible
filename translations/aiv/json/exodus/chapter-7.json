@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then the Lord said to Moses, \"See, I have made you like God to Pharaoh, and your brother Aaron shall be your prophet.\"",
       "links": "<a href='/AIV/2/4/16'>Exod. 4:16</a>; <a href='/AIV/11/1/17-18'>1 Kings 17:17-18</a>",
-      "comment": "God elevates Moses to a unique position, giving him authority over Pharaoh. The arrangement echoes the idea of divine mediation, with Aaron acting as Moses’ spokesman, foreshadowing the importance of authoritative messengers in God’s plan (cf. Exod. 4:16)."
+      "comment": "God elevates Moses to a unique position, giving him authority over Pharaoh. The arrangement echoes the idea of divine mediation, with Aaron acting as Moses’ spokesman, foreshadowing the importance of authoritative messengers in God’s plan (cf. Exod. 4:16).",
+      "sectionHeader": "Moses and Aaron Sent to Pharaoh"
     },
     {
       "pk": 2007002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Then the Lord said to Moses and Aaron,",
       "links": "<a href='/AIV/2/4/30'>Exod. 4:30</a>",
-      "comment": "God speaks personally to both leaders, reinforcing divine guidance and confirming that revelation is given to those appointed as guardians and teachers of the people."
+      "comment": "God speaks personally to both leaders, reinforcing divine guidance and confirming that revelation is given to those appointed as guardians and teachers of the people.",
+      "sectionHeader": "Aaron’s Staff Becomes a Serpent"
     },
     {
       "pk": 2007009,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "Then the Lord said to Moses, \"Pharaoh’s heart is stubborn; he refuses to let the people go.\"",
       "links": "<a href='/AIV/2/8/15'>Exod. 8:15</a>",
-      "comment": "God discerns the hidden motives of rulers. Pharaoh’s persistent refusal sets up the pattern for the coming plagues, illustrating the consequences of resisting God’s will."
+      "comment": "God discerns the hidden motives of rulers. Pharaoh’s persistent refusal sets up the pattern for the coming plagues, illustrating the consequences of resisting God’s will.",
+      "sectionHeader": "The First Plague: Water Turned to Blood"
     },
     {
       "pk": 2007015,
@@ -305,5 +308,22 @@
       "comment": "The completion of seven days connects this event to other scriptural periods of preparation and purification (see Exod. 12:15). Time set apart for repentance and restoration is a recurring theme in Scripture."
     }
   ],
-  "translatedAt": "2025-12-24T00:50:16.058Z"
+  "translatedAt": "2025-12-24T00:50:16.058Z",
+  "sections": [
+    {
+      "title": "Moses and Aaron Sent to Pharaoh",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Aaron’s Staff Becomes a Serpent",
+      "startVerse": 8,
+      "endVerse": 13
+    },
+    {
+      "title": "The First Plague: Water Turned to Blood",
+      "startVerse": 14,
+      "endVerse": 25
+    }
+  ]
 }

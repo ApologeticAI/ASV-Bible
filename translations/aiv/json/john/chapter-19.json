@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then Pilate took Jesus and had Him flogged.",
       "links": "<a href='/AIV/40/27/26'>Matt. 27:26</a>; <a href='/AIV/41/15/15'>Mark 15:15</a>",
-      "comment": "Pilate, the Roman governor, orders Jesus to be scourged. This brutal punishment fulfills the suffering foretold by Isaiah (<a href='/AIV/23/53/5'>Isa. 53:5</a>), linking the physical suffering of Jesus with His role as the suffering Servant."
+      "comment": "Pilate, the Roman governor, orders Jesus to be scourged. This brutal punishment fulfills the suffering foretold by Isaiah (<a href='/AIV/23/53/5'>Isa. 53:5</a>), linking the physical suffering of Jesus with His role as the suffering Servant.",
+      "sectionHeader": "Jesus Before Pilate"
     },
     {
       "pk": 50019002,
@@ -206,7 +207,8 @@
       "verse": 17,
       "text": "Carrying His own cross, He went out to the place called The Skull, which in Hebrew is called Golgotha.",
       "links": "<a href='/AIV/40/27/33'>Matt. 27:33</a>; <a href='/AIV/41/15/22'>Mark 15:22</a>; <a href='/AIV/42/23/33'>Luke 23:33</a>",
-      "comment": "Jesus carries His own cross, fulfilling His words about self-giving (cf. <a href='/AIV/40/16/24'>Matt. 16:24</a>). Golgotha, the place of execution, ties to the Old Testament imagery of the sacrificial altar."
+      "comment": "Jesus carries His own cross, fulfilling His words about self-giving (cf. <a href='/AIV/40/16/24'>Matt. 16:24</a>). Golgotha, the place of execution, ties to the Old Testament imagery of the sacrificial altar.",
+      "sectionHeader": "The Crucifixion of Jesus"
     },
     {
       "pk": 50019018,
@@ -336,7 +338,8 @@
       "verse": 28,
       "text": "After this, knowing that everything was now finished, and to fulfill the Scripture, Jesus said, 'I am thirsty.'",
       "links": "<a href='/AIV/19/22/15'>Ps. 22:15</a>; <a href='/AIV/19/69/21'>Ps. 69:21</a>",
-      "comment": "Jesus’ statement fulfills prophecy (Psalm 22:15; 69:21). It shows His true humanity and the fulfillment of the suffering predicted for the Messiah."
+      "comment": "Jesus’ statement fulfills prophecy (Psalm 22:15; 69:21). It shows His true humanity and the fulfillment of the suffering predicted for the Messiah.",
+      "sectionHeader": "The Death of Jesus"
     },
     {
       "pk": 50019029,
@@ -456,7 +459,8 @@
       "verse": 38,
       "text": "After these things, Joseph of Arimathea, who was a disciple of Jesus but secretly because he feared the Jews, asked Pilate that he might take away the body of Jesus. Pilate gave permission, so he came and took His body away.",
       "links": "<a href='/AIV/40/27/57-58'>Matt. 27:57-58</a>; <a href='/AIV/41/15/43'>Mark 15:43</a>; <a href='/AIV/42/23/52'>Luke 23:52</a>",
-      "comment": "Joseph of Arimathea’s care for Jesus’ body shows reverence, love, and fulfillment of prophecy about the burial of the Messiah (<a href='/AIV/23/53/9'>Isa. 53:9</a>)."
+      "comment": "Joseph of Arimathea’s care for Jesus’ body shows reverence, love, and fulfillment of prophecy about the burial of the Messiah (<a href='/AIV/23/53/9'>Isa. 53:9</a>).",
+      "sectionHeader": "The Burial of Jesus"
     },
     {
       "pk": 50019039,
@@ -507,5 +511,27 @@
       "comment": "Jesus is hastily buried because of the Sabbath. This careful concern for the body echoes the reverence for sacraments and sacred things in God’s people throughout Scripture."
     }
   ],
-  "translatedAt": "2025-12-24T11:16:06.879Z"
+  "translatedAt": "2025-12-24T11:16:06.879Z",
+  "sections": [
+    {
+      "title": "Jesus Before Pilate",
+      "startVerse": 1,
+      "endVerse": 16
+    },
+    {
+      "title": "The Crucifixion of Jesus",
+      "startVerse": 17,
+      "endVerse": 27
+    },
+    {
+      "title": "The Death of Jesus",
+      "startVerse": 28,
+      "endVerse": 37
+    },
+    {
+      "title": "The Burial of Jesus",
+      "startVerse": 38,
+      "endVerse": 42
+    }
+  ]
 }

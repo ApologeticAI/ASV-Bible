@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "But the Spirit clearly says that in later times some will turn away from the faith, paying attention to deceitful spirits and teachings of demons,",
       "links": "<a href='/AIV/53/2/3'>2 Thess. 2:3</a>; <a href='/AIV/60/3/18'>1 Pet. 3:18-19</a>",
-      "comment": "Paul warns Timothy that there will be a falling away from the true faith. The Spirit revealing this points to divine inspiration guiding the church’s leadership (cf. John 16:13)."
+      "comment": "Paul warns Timothy that there will be a falling away from the true faith. The Spirit revealing this points to divine inspiration guiding the church’s leadership (cf. John 16:13).",
+      "sectionHeader": "Warning Against False Doctrines"
     },
     {
       "pk": 61004002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "If you instruct the brothers in these things, you will be a good servant of Christ Jesus, being nourished by the words of the faith and the good teaching which you have followed.",
       "links": "<a href='/AIV/55/2/2'>2 Tim. 2:2</a>; <a href='/AIV/43/21/15-17'>John 21:15-17</a>",
-      "comment": "Paul emphasizes faithful teaching from tradition received (see 2 Thess. 2:15), showing the importance of apostolic succession and the passing down of the faith."
+      "comment": "Paul emphasizes faithful teaching from tradition received (see 2 Thess. 2:15), showing the importance of apostolic succession and the passing down of the faith.",
+      "sectionHeader": "Exhortation to Godliness"
     },
     {
       "pk": 61004007,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "Let no one look down on you because you are young, but set an example for the believers in speech, in conduct, in love, in faith, and in purity.",
       "links": "<a href='/AIV/56/2/7'>Titus 2:7</a>; <a href='/AIV/40/5/16'>Matt. 5:16</a>",
-      "comment": "Youth can lead when faithful to doctrine and virtue; good example strengthens the community."
+      "comment": "Youth can lead when faithful to doctrine and virtue; good example strengthens the community.",
+      "sectionHeader": "Instructions for Timothy’s Ministry"
     },
     {
       "pk": 61004013,
@@ -197,5 +200,22 @@
       "comment": "Persevering in sound teaching and holy living leads to salvation—for both the minister and the community. This highlights the necessity of fidelity to both doctrine and practice."
     }
   ],
-  "translatedAt": "2025-12-24T12:11:54.391Z"
+  "translatedAt": "2025-12-24T12:11:54.391Z",
+  "sections": [
+    {
+      "title": "Warning Against False Doctrines",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Exhortation to Godliness",
+      "startVerse": 6,
+      "endVerse": 11
+    },
+    {
+      "title": "Instructions for Timothy’s Ministry",
+      "startVerse": 12,
+      "endVerse": 16
+    }
+  ]
 }

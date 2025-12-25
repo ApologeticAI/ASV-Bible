@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then Jacob continued on his journey and came to the land of the people of the east.",
       "links": "<a href='/AIV/1/24/10'>Gen. 24:10</a>; <a href='/AIV/1/25/6'>Gen. 25:6</a>",
-      "comment": "Jacob's journey east mirrors that of his grandfather Abraham's servant when seeking a wife for Isaac. The east often represents a place of new beginnings or testing."
+      "comment": "Jacob's journey east mirrors that of his grandfather Abraham's servant when seeking a wife for Isaac. The east often represents a place of new beginnings or testing.",
+      "sectionHeader": "Jacob Meets Rachel at the Well"
     },
     {
       "pk": 1029002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "Then Laban said to Jacob, \"Because you are my relative, should you therefore serve me for nothing? Tell me, what shall your wages be?\"",
       "links": "<a href='/AIV/1/30/28'>Gen. 30:28</a>",
-      "comment": "Laban offers compensation, introducing themes of justice in labor and fair compensation. Jacob’s commitment prefigures Christ’s willingness to labor and sacrifice for the sake of His bride, the Church (see Eph. 5:25–27)."
+      "comment": "Laban offers compensation, introducing themes of justice in labor and fair compensation. Jacob’s commitment prefigures Christ’s willingness to labor and sacrifice for the sake of His bride, the Church (see Eph. 5:25–27).",
+      "sectionHeader": "Jacob Serves Laban for Rachel"
     },
     {
       "pk": 1029016,
@@ -278,7 +280,8 @@
       "verse": 23,
       "text": "In the evening, he took his daughter Leah and brought her to Jacob, and he went in to her.",
       "links": "<a href='/AIV/1/29/25'>Gen. 29:25</a>",
-      "comment": "Laban’s deceit brings Leah and Jacob together, and proves God’s ability to work through human brokenness for the good of His people (see Rom. 8:28)."
+      "comment": "Laban’s deceit brings Leah and Jacob together, and proves God’s ability to work through human brokenness for the good of His people (see Rom. 8:28).",
+      "sectionHeader": "Jacob Is Deceived and Marries Leah"
     },
     {
       "pk": 1029024,
@@ -374,7 +377,8 @@
       "verse": 31,
       "text": "And when the LORD saw that Leah was hated, he opened her womb; but Rachel was barren.",
       "links": "<a href='/AIV/1/30/2'>Gen. 30:2</a>; <a href='/AIV/1/29/33'>Gen. 29:33</a>",
-      "comment": "God’s concern for the marginalized is evident, as He blesses the one who is unloved. God’s sovereignty over fertility testifies to His providence and care."
+      "comment": "God’s concern for the marginalized is evident, as He blesses the one who is unloved. God’s sovereignty over fertility testifies to His providence and care.",
+      "sectionHeader": "The Children of Leah"
     },
     {
       "pk": 1029032,
@@ -425,5 +429,27 @@
       "comment": "Judah’s name means 'praise.' Judah becomes the tribe through whom the Messiah comes (see Matt. 1:2-3; Rev. 5:5). This anticipates the fulfillment of God’s promise of salvation through the chosen line—ultimately realized in Christ."
     }
   ],
-  "translatedAt": "2025-12-24T00:26:47.557Z"
+  "translatedAt": "2025-12-24T00:26:47.557Z",
+  "sections": [
+    {
+      "title": "Jacob Meets Rachel at the Well",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "Jacob Serves Laban for Rachel",
+      "startVerse": 15,
+      "endVerse": 22
+    },
+    {
+      "title": "Jacob Is Deceived and Marries Leah",
+      "startVerse": 23,
+      "endVerse": 30
+    },
+    {
+      "title": "The Children of Leah",
+      "startVerse": 31,
+      "endVerse": 35
+    }
+  ]
 }

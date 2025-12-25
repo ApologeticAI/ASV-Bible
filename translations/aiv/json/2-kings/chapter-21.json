@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Manasseh was twelve years old when he became king, and he reigned in Jerusalem fifty-five years. His mother’s name was Hephzibah.",
       "links": "<a href='/AIV/14/33/1'>2 Chron. 33:1</a>",
-      "comment": "Manasseh’s lengthy reign marks one of the darkest periods in Judah’s spiritual history. His mother’s name being mentioned highlights the influence of royal mothers."
+      "comment": "Manasseh’s lengthy reign marks one of the darkest periods in Judah’s spiritual history. His mother’s name being mentioned highlights the influence of royal mothers.",
+      "sectionHeader": "The Reign and Wickedness of Manasseh"
     },
     {
       "pk": 12021002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "And the LORD spoke by His servants the prophets, saying,",
       "links": "<a href='/AIV/24/7/25'>Jer. 7:25</a>",
-      "comment": "God repeatedly sends prophets to warn and correct—a pattern seen throughout Scripture pointing to God’s patience and desire for repentance."
+      "comment": "God repeatedly sends prophets to warn and correct—a pattern seen throughout Scripture pointing to God’s patience and desire for repentance.",
+      "sectionHeader": "The LORD’s Judgment Announced"
     },
     {
       "pk": 12021011,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "The rest of the deeds of Manasseh, all that he did, and the sin that he committed, are they not written in the Book of the Chronicles of the Kings of Judah?",
       "links": "<a href='/AIV/14/33/18-19'>2 Chron. 33:18-19</a>",
-      "comment": "Reference is made to another historical record. In 2 Chronicles, Manasseh’s eventual repentance is described in more detail—highlighting God’s readiness to forgive even great sinners."
+      "comment": "Reference is made to another historical record. In 2 Chronicles, Manasseh’s eventual repentance is described in more detail—highlighting God’s readiness to forgive even great sinners.",
+      "sectionHeader": "The Death of Manasseh"
     },
     {
       "pk": 12021018,
@@ -230,7 +233,8 @@
       "verse": 19,
       "text": "Amon was twenty-two years old when he began to reign, and he reigned two years in Jerusalem. His mother’s name was Meshullemeth, daughter of Haruz of Jotbah.",
       "links": "<a href='/AIV/14/33/21'>2 Chron. 33:21</a>",
-      "comment": "Amon’s short reign is introduced. Again, the mother’s name is recorded—a detail that reflects the importance of familial roles in salvation history."
+      "comment": "Amon’s short reign is introduced. Again, the mother’s name is recorded—a detail that reflects the importance of familial roles in salvation history.",
+      "sectionHeader": "The Reign and Death of Amon"
     },
     {
       "pk": 12021020,
@@ -317,5 +321,27 @@
       "comment": "Josiah’s rise sets the stage for the most faithful king since David. Notice the repeated theme of inheritance and succession. God preserves a remnant through whom He will bring about renewal—ultimately fulfilled in Christ, the true and perfect King."
     }
   ],
-  "translatedAt": "2025-12-24T04:00:02.786Z"
+  "translatedAt": "2025-12-24T04:00:02.786Z",
+  "sections": [
+    {
+      "title": "The Reign and Wickedness of Manasseh",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "The LORD’s Judgment Announced",
+      "startVerse": 10,
+      "endVerse": 16
+    },
+    {
+      "title": "The Death of Manasseh",
+      "startVerse": 17,
+      "endVerse": 18
+    },
+    {
+      "title": "The Reign and Death of Amon",
+      "startVerse": 19,
+      "endVerse": 26
+    }
+  ]
 }

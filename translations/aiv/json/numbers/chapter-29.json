@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "On the first day of the seventh month, you are to hold a holy assembly. You must not do any ordinary work. It is a day for blowing trumpets.",
       "links": "<a href='/AIV/3/23/24'>Lev. 23:24</a>; <a href='/AIV/16/8/2'>Neh. 8:2</a>",
-      "comment": "The blowing of trumpets signifies both joy and the call to worship, anticipating the fullness of worship revealed later in the New Covenant (see Heb. 12:22)."
+      "comment": "The blowing of trumpets signifies both joy and the call to worship, anticipating the fullness of worship revealed later in the New Covenant (see Heb. 12:22).",
+      "sectionHeader": "The Offerings for the Feast of Trumpets"
     },
     {
       "pk": 4029002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "On the tenth day of this seventh month you shall have a holy assembly, and you must humble yourselves. You shall not do any ordinary work.",
       "links": "<a href='/AIV/3/23/27'>Lev. 23:27</a>; <a href='/AIV/3/16/29'>Lev. 16:29</a>",
-      "comment": "This marks the Day of Atonement, a day of confession and penance, prefiguring the fullness of repentance in Christ (Acts 3:19)."
+      "comment": "This marks the Day of Atonement, a day of confession and penance, prefiguring the fullness of repentance in Christ (Acts 3:19).",
+      "sectionHeader": "The Offerings for the Day of Atonement"
     },
     {
       "pk": 4029007,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "With their grain offering of fine flour mixed with oil: three-tenths of an ephah for each of the thirteen bulls, two-tenths for each of the two rams, and one-tenth for each of the fourteen lambs.",
       "links": "<a href='/AIV/3/2/2'>Lev. 2:2</a>",
-      "comment": "The measures suggest wholeness and completeness, connecting with the fullness of God’s provision and the spiritual food given in Christ (John 6:51)."
+      "comment": "The measures suggest wholeness and completeness, connecting with the fullness of God’s provision and the spiritual food given in Christ (John 6:51).",
+      "sectionHeader": "The Offerings for the Feast of Tabernacles"
     },
     {
       "pk": 4029013,
@@ -422,7 +425,8 @@
       "verse": 35,
       "text": "And one male goat as a sin offering, besides the regular burnt offering, its grain offering, and its drink offering.",
       "links": "<a href='/AIV/4/28/3'>Num. 28:3</a>",
-      "comment": "Sin offering, even at the close, highlights that forgiveness is ultimately realized in God’s grace made manifest for all (Titus 2:11-14)."
+      "comment": "Sin offering, even at the close, highlights that forgiveness is ultimately realized in God’s grace made manifest for all (Titus 2:11-14).",
+      "sectionHeader": "The Offerings for the Eighth Day Assembly"
     },
     {
       "pk": 4029036,
@@ -470,7 +474,8 @@
       "verse": 39,
       "text": "You must observe these instructions at your feasts, presenting offerings made by fire, with pleasing aroma to the LORD, together with your regular offerings and all your vows and voluntary gifts.",
       "links": "<a href='/AIV/3/23/37'>Lev. 23:37</a>; <a href='/AIV/4/15/8'>Num. 15:8</a>",
-      "comment": "Worship is both regular and spontaneous—demonstrating that faith is meant to permeate all aspects of life with ordered regularity and generous devotion (Phil. 4:18)."
+      "comment": "Worship is both regular and spontaneous—demonstrating that faith is meant to permeate all aspects of life with ordered regularity and generous devotion (Phil. 4:18).",
+      "sectionHeader": "Summary of the Appointed Offerings"
     },
     {
       "pk": 4029040,
@@ -485,5 +490,32 @@
       "comment": "Moses’ mediation prefigures the role of authoritative teaching in the community of faith, guiding God’s people to true worship and unity in Him (John 17:21)."
     }
   ],
-  "translatedAt": "2025-12-24T01:51:45.244Z"
+  "translatedAt": "2025-12-24T01:51:45.244Z",
+  "sections": [
+    {
+      "title": "The Offerings for the Feast of Trumpets",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "The Offerings for the Day of Atonement",
+      "startVerse": 6,
+      "endVerse": 11
+    },
+    {
+      "title": "The Offerings for the Feast of Tabernacles",
+      "startVerse": 12,
+      "endVerse": 34
+    },
+    {
+      "title": "The Offerings for the Eighth Day Assembly",
+      "startVerse": 35,
+      "endVerse": 38
+    },
+    {
+      "title": "Summary of the Appointed Offerings",
+      "startVerse": 39,
+      "endVerse": 40
+    }
+  ]
 }

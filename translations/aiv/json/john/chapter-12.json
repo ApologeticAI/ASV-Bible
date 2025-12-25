@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Six days before the Passover, Jesus came to Bethany, where Lazarus was, the one Jesus had raised from the dead.",
       "links": "<a href='/AIV/43/11/1-44'>John 11:1-44</a>",
-      "comment": "Bethany is significant as the home of Lazarus, whom Jesus resurrected, confirming His power over death and foreshadowing His own resurrection."
+      "comment": "Bethany is significant as the home of Lazarus, whom Jesus resurrected, confirming His power over death and foreshadowing His own resurrection.",
+      "sectionHeader": "The Anointing at Bethany"
     },
     {
       "pk": 50012002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "The next day the large crowd that had come to the feast heard that Jesus was coming to Jerusalem.",
       "links": "<a href='/AIV/40/21/8-10'>Matt. 21:8-10</a>",
-      "comment": "This begins what is known as the Triumphal Entry, fulfilling Messianic prophecy and showing Jesus’s intentional actions in claiming His kingship."
+      "comment": "This begins what is known as the Triumphal Entry, fulfilling Messianic prophecy and showing Jesus’s intentional actions in claiming His kingship.",
+      "sectionHeader": "The Entry into Jerusalem"
     },
     {
       "pk": 50012013,
@@ -242,7 +244,8 @@
       "verse": 20,
       "text": "Now among those who went up to worship at the feast were some Greeks.",
       "links": "<a href='/AIV/23/56/6-7'>Isa. 56:6-7</a>",
-      "comment": "Greeks represent Gentiles seeking God. Their presence points to the growing universality of Jesus’s mission."
+      "comment": "Greeks represent Gentiles seeking God. Their presence points to the growing universality of Jesus’s mission.",
+      "sectionHeader": "The Coming of the Greeks and Jesus Foretells His Death"
     },
     {
       "pk": 50012021,
@@ -446,7 +449,8 @@
       "verse": 37,
       "text": "Even though He had done so many signs before them, they still did not believe in Him,",
       "links": "<a href='/AIV/23/53/1'>Isa. 53:1</a>",
-      "comment": "Despite miracles, many persist in unbelief—fulfilling Isaiah’s prophecy of hard-heartedness."
+      "comment": "Despite miracles, many persist in unbelief—fulfilling Isaiah’s prophecy of hard-heartedness.",
+      "sectionHeader": "Unbelief and the Words of Jesus"
     },
     {
       "pk": 50012038,
@@ -605,5 +609,27 @@
       "comment": "The words of Jesus bring eternal life when embraced in faith—a foundation for the authority of Jesus’s teaching and the life-giving word."
     }
   ],
-  "translatedAt": "2025-12-24T11:11:26.467Z"
+  "translatedAt": "2025-12-24T11:11:26.467Z",
+  "sections": [
+    {
+      "title": "The Anointing at Bethany",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "The Entry into Jerusalem",
+      "startVerse": 12,
+      "endVerse": 19
+    },
+    {
+      "title": "The Coming of the Greeks and Jesus Foretells His Death",
+      "startVerse": 20,
+      "endVerse": 36
+    },
+    {
+      "title": "Unbelief and the Words of Jesus",
+      "startVerse": 37,
+      "endVerse": 50
+    }
+  ]
 }

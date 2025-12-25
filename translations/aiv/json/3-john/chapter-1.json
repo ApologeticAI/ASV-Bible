@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The elder, to the beloved Gaius, whom I truly love in the truth.",
       "links": "<a href='/AIV/62/2/1'>1 John 2:1</a>; <a href='/AIV/62/4/1'>1 John 4:1</a>",
-      "comment": "John calls himself 'the elder,' signaling both authority and pastoral care. His love 'in truth' emphasizes fidelity to Christ, blending doctrinal reality and charity—a model for authentically united Christian fellowship."
+      "comment": "John calls himself 'the elder,' signaling both authority and pastoral care. His love 'in truth' emphasizes fidelity to Christ, blending doctrinal reality and charity—a model for authentically united Christian fellowship.",
+      "sectionHeader": "Greeting and Commendation of Gaius"
     },
     {
       "pk": 71001002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "Beloved, you do faithfully in whatever you do for the brothers—even though they are strangers.",
       "links": "<a href='/AIV/40/25/40'>Matthew 25:40</a>; <a href='/AIV/58/13/2'>Hebrews 13:2</a>",
-      "comment": "Hospitality is a Christian virtue, reflecting Christ’s teaching to love those unknown to us. Welcoming traveling evangelists and missionaries upheld unity and expanded the reach of the Church."
+      "comment": "Hospitality is a Christian virtue, reflecting Christ’s teaching to love those unknown to us. Welcoming traveling evangelists and missionaries upheld unity and expanded the reach of the Church.",
+      "sectionHeader": "Support for Traveling Brothers"
     },
     {
       "pk": 71001006,
@@ -110,7 +112,8 @@
       "verse": 9,
       "text": "I wrote something to the church, but Diotrephes, who loves to be first among them, does not accept us.",
       "links": "<a href='/AIV/43/13/16'>John 13:16</a>; <a href='/AIV/52/5/12'>1 Thessalonians 5:12</a>",
-      "comment": "Diotrephes' refusal exposes the danger of rejecting legitimate spiritual authority and apostolic leadership. Endeavoring to be 'first' is warned against by Jesus, who taught humility and submission to church leadership."
+      "comment": "Diotrephes' refusal exposes the danger of rejecting legitimate spiritual authority and apostolic leadership. Endeavoring to be 'first' is warned against by Jesus, who taught humility and submission to church leadership.",
+      "sectionHeader": "Warning Against Diotrephes"
     },
     {
       "pk": 71001010,
@@ -146,7 +149,8 @@
       "verse": 12,
       "text": "Demetrius has received a good testimony from everyone, and from the truth itself. We also testify, and you know that our testimony is true.",
       "links": "<a href='/AIV/43/19/35'>John 19:35</a>; <a href='/AIV/62/5/6'>1 John 5:6</a>",
-      "comment": "Demetrius is affirmed by the community, by apostolic witness, and by the truth. The triple witness structure echoes biblical standards for establishing truth, reinforcing the Church’s role in discernment and affirmation."
+      "comment": "Demetrius is affirmed by the community, by apostolic witness, and by the truth. The triple witness structure echoes biblical standards for establishing truth, reinforcing the Church’s role in discernment and affirmation.",
+      "sectionHeader": "Commendation of Demetrius"
     },
     {
       "pk": 71001013,
@@ -158,7 +162,8 @@
       "verse": 13,
       "text": "I have much to write to you, but I do not wish to write with pen and ink.",
       "links": "<a href='/AIV/63/1/12'>2 John 1:12</a>; <a href='/AIV/46/16/20'>1 Corinthians 16:20</a>",
-      "comment": "The desire for face-to-face fellowship is prioritized over written communication, highlighting the importance of the gathered community and personal relationships in Christian living."
+      "comment": "The desire for face-to-face fellowship is prioritized over written communication, highlighting the importance of the gathered community and personal relationships in Christian living.",
+      "sectionHeader": "Final Greetings"
     },
     {
       "pk": 71001014,
@@ -185,5 +190,32 @@
       "comment": "'Peace' is both greeting and blessing, drawing on Christ’s resurrection appearances. Naming the friends points to personal connection and unity. Early Christian practice prioritized specific prayer, blessing, and relational bonds."
     }
   ],
-  "translatedAt": "2025-12-24T12:32:39.140Z"
+  "translatedAt": "2025-12-24T12:32:39.140Z",
+  "sections": [
+    {
+      "title": "Greeting and Commendation of Gaius",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "Support for Traveling Brothers",
+      "startVerse": 5,
+      "endVerse": 8
+    },
+    {
+      "title": "Warning Against Diotrephes",
+      "startVerse": 9,
+      "endVerse": 11
+    },
+    {
+      "title": "Commendation of Demetrius",
+      "startVerse": 12,
+      "endVerse": 12
+    },
+    {
+      "title": "Final Greetings",
+      "startVerse": 13,
+      "endVerse": 15
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Incline your ear, O LORD, and answer me, for I am poor and needy.",
       "links": "<a href='/AIV/19/40/17'>Ps. 40:17</a>; <a href='/AIV/19/102/17'>Ps. 102:17</a>",
-      "comment": "The psalmist begins with a humble request, recognizing his dependence on the LORD. This posture of humility is foundational in spiritual life, reminding believers of the importance of seeking the Lord in prayer (see James 4:6)."
+      "comment": "The psalmist begins with a humble request, recognizing his dependence on the LORD. This posture of humility is foundational in spiritual life, reminding believers of the importance of seeking the Lord in prayer (see James 4:6).",
+      "sectionHeader": "A Prayer for Help and Mercy"
     },
     {
       "pk": 23086002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "There is none like you among the gods, O Lord, nor are there any works like yours.",
       "links": "<a href='/AIV/19/77/13'>Ps. 77:13</a>; <a href='/AIV/19/89/6'>Ps. 89:6</a>",
-      "comment": "The uniqueness and supremacy of God over all spiritual beings is affirmed. This exclusivity is fulfilled in Christ who reveals the fullness of God to humanity (see John 14:9)."
+      "comment": "The uniqueness and supremacy of God over all spiritual beings is affirmed. This exclusivity is fulfilled in Christ who reveals the fullness of God to humanity (see John 14:9).",
+      "sectionHeader": "Praise of God’s Uniqueness and Greatness"
     },
     {
       "pk": 23086009,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "I will give thanks to you, O Lord my God, with all my heart, and will glorify your name forever.",
       "links": "<a href='/AIV/19/111/1'>Ps. 111:1</a>; <a href='/AIV/19/145/1-2'>Ps. 145:1-2</a>",
-      "comment": "Thanksgiving is a continual sacrifice and a priority in worship, aligning with the repeated call to praise God in all circumstances (see 1 Thessalonians 5:18)."
+      "comment": "Thanksgiving is a continual sacrifice and a priority in worship, aligning with the repeated call to praise God in all circumstances (see 1 Thessalonians 5:18).",
+      "sectionHeader": "Thanksgiving for Deliverance"
     },
     {
       "pk": 23086013,
@@ -170,7 +173,8 @@
       "verse": 14,
       "text": "O God, arrogant men have risen against me; a band of violent men seeks my life, and they have not set you before them.",
       "links": "<a href='/AIV/19/54/3'>Ps. 54:3</a>; <a href='/AIV/19/140/1-2'>Ps. 140:1-2</a>",
-      "comment": "Opposition from the wicked is a recurring theme. The psalmist’s suffering prefigures Christ’s own passion, offering a model for patient endurance."
+      "comment": "Opposition from the wicked is a recurring theme. The psalmist’s suffering prefigures Christ’s own passion, offering a model for patient endurance.",
+      "sectionHeader": "Petition for Protection from Enemies"
     },
     {
       "pk": 23086015,
@@ -209,5 +213,27 @@
       "comment": "The request for a sign is not for selfish proof but for vindication of the faithful. In the New Testament, the gift of signs is completed in the coming of the Messiah, who manifests God's ultimate faithfulness (see Matthew 12:38-40)."
     }
   ],
-  "translatedAt": "2025-12-24T06:29:46.097Z"
+  "translatedAt": "2025-12-24T06:29:46.097Z",
+  "sections": [
+    {
+      "title": "A Prayer for Help and Mercy",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Praise of God’s Uniqueness and Greatness",
+      "startVerse": 8,
+      "endVerse": 11
+    },
+    {
+      "title": "Thanksgiving for Deliverance",
+      "startVerse": 12,
+      "endVerse": 13
+    },
+    {
+      "title": "Petition for Protection from Enemies",
+      "startVerse": 14,
+      "endVerse": 17
+    }
+  ]
 }

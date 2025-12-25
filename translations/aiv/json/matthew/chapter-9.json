@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Jesus got into a boat, crossed over, and came to His own city.",
       "links": "<a href='/AIV/41/2/1'>Mark 2:1</a>; <a href='/AIV/42/5/17'>Luke 5:17</a>",
-      "comment": "His own city refers to Capernaum, which served as Jesus' ministry base. The parallel accounts in Mark and Luke confirm this chronology."
+      "comment": "His own city refers to Capernaum, which served as Jesus' ministry base. The parallel accounts in Mark and Luke confirm this chronology.",
+      "sectionHeader": "Healing of the Paralytic"
     },
     {
       "pk": 47009002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "As Jesus passed on from there, He saw a man named Matthew sitting at the tax collector's booth and He said to him, 'Follow Me.' And he rose and followed Him.",
       "links": "<a href='/AIV/41/2/14'>Mark 2:14</a>; <a href='/AIV/42/5/27-28'>Luke 5:27-28</a>",
-      "comment": "The call of Matthew demonstrates Jesus' initiative in choosing unlikely followers. Matthew responds immediately—a picture of the transformative call to discipleship."
+      "comment": "The call of Matthew demonstrates Jesus' initiative in choosing unlikely followers. Matthew responds immediately—a picture of the transformative call to discipleship.",
+      "sectionHeader": "The Calling of Matthew and Eating with Sinners"
     },
     {
       "pk": 47009010,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "Then the disciples of John came to Him, saying, 'Why do we and the Pharisees fast often, but Your disciples do not fast?'",
       "links": "<a href='/AIV/41/2/18'>Mark 2:18</a>; <a href='/AIV/42/5/33'>Luke 5:33</a>",
-      "comment": "John’s disciples are observing Jewish fasting customs. They question Jesus' new approach. Fasting will take on renewed meaning later in Christian tradition."
+      "comment": "John’s disciples are observing Jewish fasting customs. They question Jesus' new approach. Fasting will take on renewed meaning later in Christian tradition.",
+      "sectionHeader": "The Question about Fasting"
     },
     {
       "pk": 47009015,
@@ -218,7 +221,8 @@
       "verse": 18,
       "text": "While He was saying these things to them, behold, a ruler came and knelt before Him, saying, 'My daughter has just died, but come and lay Your hand on her, and she will live.'",
       "links": "<a href='/AIV/41/5/22-23'>Mark 5:22-23</a>; <a href='/AIV/42/8/41-42'>Luke 8:41-42</a>",
-      "comment": "The ruler’s act of kneeling shows faith in Jesus’ divine authority over life and death."
+      "comment": "The ruler’s act of kneeling shows faith in Jesus’ divine authority over life and death.",
+      "sectionHeader": "The Ruler's Daughter Raised and the Woman Healed"
     },
     {
       "pk": 47009019,
@@ -326,7 +330,8 @@
       "verse": 27,
       "text": "As Jesus was leaving, two blind men followed Him, calling out, 'Have mercy on us, Son of David!'",
       "links": "<a href='/AIV/40/20/30'>Matt. 20:30</a>; <a href='/AIV/10/7/12'>2 Sam. 7:12-16</a>",
-      "comment": "Calling Jesus 'Son of David' recognizes Him as the promised Messiah (see 2 Sam. 7:12-16). The blind men seek mercy, the root of all spiritual healing."
+      "comment": "Calling Jesus 'Son of David' recognizes Him as the promised Messiah (see 2 Sam. 7:12-16). The blind men seek mercy, the root of all spiritual healing.",
+      "sectionHeader": "Healing of Two Blind Men"
     },
     {
       "pk": 47009028,
@@ -386,7 +391,8 @@
       "verse": 32,
       "text": "As they were going out, behold, a mute man who was demon-possessed was brought to Him.",
       "links": "<a href='/AIV/40/12/22'>Matt. 12:22</a>",
-      "comment": "The healing of the demon-possessed mute demonstrates Jesus’ authority over both spiritual evils and physical afflictions."
+      "comment": "The healing of the demon-possessed mute demonstrates Jesus’ authority over both spiritual evils and physical afflictions.",
+      "sectionHeader": "Healing of a Mute Demoniac"
     },
     {
       "pk": 47009033,
@@ -422,7 +428,8 @@
       "verse": 35,
       "text": "Jesus went through all the cities and villages, teaching in their synagogues, proclaiming the gospel of the kingdom, and healing every disease and every affliction.",
       "links": "<a href='/AIV/40/4/23'>Matt. 4:23</a>; <a href='/AIV/42/8/1'>Luke 8:1</a>",
-      "comment": "Jesus combines preaching, teaching, and healing—a model for the holistic ministry of the Church throughout history."
+      "comment": "Jesus combines preaching, teaching, and healing—a model for the holistic ministry of the Church throughout history.",
+      "sectionHeader": "The Compassion of Jesus and the Plentiful Harvest"
     },
     {
       "pk": 47009036,
@@ -461,5 +468,42 @@
       "comment": "Jesus teaches His disciples to pray for more workers, indicating that God will continually call and commission others. This prayer models ongoing petition for authentic vocations and spiritual leadership throughout the world."
     }
   ],
-  "translatedAt": "2025-12-24T10:06:36.658Z"
+  "translatedAt": "2025-12-24T10:06:36.658Z",
+  "sections": [
+    {
+      "title": "Healing of the Paralytic",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "The Calling of Matthew and Eating with Sinners",
+      "startVerse": 9,
+      "endVerse": 13
+    },
+    {
+      "title": "The Question about Fasting",
+      "startVerse": 14,
+      "endVerse": 17
+    },
+    {
+      "title": "The Ruler's Daughter Raised and the Woman Healed",
+      "startVerse": 18,
+      "endVerse": 26
+    },
+    {
+      "title": "Healing of Two Blind Men",
+      "startVerse": 27,
+      "endVerse": 31
+    },
+    {
+      "title": "Healing of a Mute Demoniac",
+      "startVerse": 32,
+      "endVerse": 34
+    },
+    {
+      "title": "The Compassion of Jesus and the Plentiful Harvest",
+      "startVerse": 35,
+      "endVerse": 38
+    }
+  ]
 }

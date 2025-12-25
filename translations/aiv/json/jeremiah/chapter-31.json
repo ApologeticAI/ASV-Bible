@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "\"At that time,\" declares the LORD, \"I will be the God of all the families of Israel, and they shall be My people.\"",
       "links": "<a href='/AIV/3/26/12'>Lev 26:12</a>; <a href='/AIV/24/30/22'>Jer 30:22</a>",
-      "comment": "God reaffirms His everlasting covenant with Israel, assuring them of His faithful relationship. This covenant relationship prefigures the later new covenant in Christ (see verse 31 below)."
+      "comment": "God reaffirms His everlasting covenant with Israel, assuring them of His faithful relationship. This covenant relationship prefigures the later new covenant in Christ (see verse 31 below).",
+      "sectionHeader": "Promise of Restoration for Israel"
     },
     {
       "pk": 30031002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "Thus says the LORD: \"A voice is heard in Ramah, lamentation and bitter weeping. Rachel is weeping for her children; she refuses to be comforted for her children, because they are no more.\"",
       "links": "<a href='/AIV/1/35/18-20'>Gen 35:18-20</a>; <a href='/AIV/40/2/17-18'>Matt 2:17-18</a>",
-      "comment": "Rachel's tears symbolize loss, but their fulfillment in Matthew 2 at the slaughter of the innocents connects Israel's suffering with Christ’s coming."
+      "comment": "Rachel's tears symbolize loss, but their fulfillment in Matthew 2 at the slaughter of the innocents connects Israel's suffering with Christ’s coming.",
+      "sectionHeader": "Rachel’s Lament and Hope for Return"
     },
     {
       "pk": 30031016,
@@ -374,7 +376,8 @@
       "verse": 31,
       "text": "\"Behold, the days are coming,\" declares the LORD, \"when I will make a new covenant with the house of Israel and the house of Judah,\"",
       "links": "<a href='/AIV/58/8/8-12'>Heb 8:8-12</a>; <a href='/AIV/40/26/28'>Matt 26:28</a>",
-      "comment": "This prophecy of the new covenant is fulfilled in Jesus Christ (see Matt 26:28). The new covenant is the foundation for the sacraments and unity of God’s people."
+      "comment": "This prophecy of the new covenant is fulfilled in Jesus Christ (see Matt 26:28). The new covenant is the foundation for the sacraments and unity of God’s people.",
+      "sectionHeader": "The New Covenant"
     },
     {
       "pk": 30031032,
@@ -422,7 +425,8 @@
       "verse": 35,
       "text": "Thus says the LORD, who gives the sun for light by day and the fixed order of the moon and the stars for light by night, who stirs up the sea so that its waves roar—the LORD of hosts is His name:",
       "links": "<a href='/AIV/1/1/16'>Gen 1:16</a>; <a href='/AIV/19/89/9'>Ps 89:9</a>",
-      "comment": "God’s faithfulness is as constant as creation itself; the stability of the created order guarantees His promises."
+      "comment": "God’s faithfulness is as constant as creation itself; the stability of the created order guarantees His promises.",
+      "sectionHeader": "God’s Everlasting Faithfulness to Israel"
     },
     {
       "pk": 30031036,
@@ -458,7 +462,8 @@
       "verse": 38,
       "text": "\"Behold, the days are coming, declares the LORD, when the city shall be rebuilt for the LORD from the Tower of Hananel to the Corner Gate.\"",
       "links": "<a href='/AIV/16/3/1-3'>Neh 3:1-3</a>",
-      "comment": "Jerusalem will be rebuilt, symbolizing the enduring nature of God’s city—the eternal city which reflects God’s presence in the midst of His people."
+      "comment": "Jerusalem will be rebuilt, symbolizing the enduring nature of God’s city—the eternal city which reflects God’s presence in the midst of His people.",
+      "sectionHeader": "The Rebuilding of Jerusalem"
     },
     {
       "pk": 30031039,
@@ -485,5 +490,32 @@
       "comment": "Even formerly unclean places become holy, showing the future sanctification of all creation under God. The everlasting nature of this promise is tied to the unshakable presence of God with His people, ultimately fulfilled in the heavenly Jerusalem."
     }
   ],
-  "translatedAt": "2025-12-24T08:38:41.382Z"
+  "translatedAt": "2025-12-24T08:38:41.382Z",
+  "sections": [
+    {
+      "title": "Promise of Restoration for Israel",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "Rachel’s Lament and Hope for Return",
+      "startVerse": 15,
+      "endVerse": 30
+    },
+    {
+      "title": "The New Covenant",
+      "startVerse": 31,
+      "endVerse": 34
+    },
+    {
+      "title": "God’s Everlasting Faithfulness to Israel",
+      "startVerse": 35,
+      "endVerse": 37
+    },
+    {
+      "title": "The Rebuilding of Jerusalem",
+      "startVerse": 38,
+      "endVerse": 40
+    }
+  ]
 }

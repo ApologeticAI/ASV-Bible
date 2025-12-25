@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Whoever touches pitch will be defiled, and whoever associates with the arrogant will become like them.",
       "links": "<a href='/AIV/20/6/27'>Prov. 6:27</a>; <a href='/AIV/46/15/33'>1 Cor. 15:33</a>",
-      "comment": "The text uses the image of pitch (tar) to warn that contact with the proud and sinful leads easily to corruption. This serves as a reminder to remain vigilant about the company we keep, echoing similar wisdom in Proverbs and Paul’s warning to the Corinthians."
+      "comment": "The text uses the image of pitch (tar) to warn that contact with the proud and sinful leads easily to corruption. This serves as a reminder to remain vigilant about the company we keep, echoing similar wisdom in Proverbs and Paul’s warning to the Corinthians.",
+      "sectionHeader": "Caution in Dealing with the Rich and Powerful"
     },
     {
       "pk": 28013002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "Give your love to the Lord with all your soul, and be content with those who are humble and wise.",
       "links": "<a href='/AIV/05/6/5'>Deut. 6:5</a>; <a href='/AIV/20/13/20'>Prov. 13:20</a>",
-      "comment": "This combines the greatest commandment and counsel to seek the company of the humble. True wisdom is rooted in love for God and humility—a spiritual path shared by the great saints."
+      "comment": "This combines the greatest commandment and counsel to seek the company of the humble. True wisdom is rooted in love for God and humility—a spiritual path shared by the great saints.",
+      "sectionHeader": "Companionship with the Wise"
     },
     {
       "pk": 28013013,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "Every creature loves its own kind, and every man associates with those like himself.",
       "links": "<a href='/AIV/01/2/18'>Gen. 2:18</a>; <a href='/AIV/19/119/63'>Ps. 119:63</a>",
-      "comment": "This introduces the theme of natural affinity between like persons. In spiritual matters, shared faith and practice unite the faithful as one body in Christ (cf. 1 Cor. 12:12)."
+      "comment": "This introduces the theme of natural affinity between like persons. In spiritual matters, shared faith and practice unite the faithful as one body in Christ (cf. 1 Cor. 12:12).",
+      "sectionHeader": "The Incompatibility of Opposites"
     },
     {
       "pk": 28013017,
@@ -254,7 +257,8 @@
       "verse": 21,
       "text": "When a rich man stumbles, many help him up; but if a humble person falls, others push him away.",
       "links": "<a href='/AIV/20/14/20'>Prov. 14:20</a>",
-      "comment": "A cynical but truthful observation about human nature. The Church calls us to a higher standard: genuine love and concern for all, especially the lowly and poor."
+      "comment": "A cynical but truthful observation about human nature. The Church calls us to a higher standard: genuine love and concern for all, especially the lowly and poor.",
+      "sectionHeader": "The Unequal Treatment of Rich and Poor"
     },
     {
       "pk": 28013022,
@@ -290,7 +294,8 @@
       "verse": 24,
       "text": "The heart of a person changes their face, whether for good or for evil.",
       "links": "<a href='/AIV/40/6/22-23'>Matt. 6:22-23</a>",
-      "comment": "Jesus teaches ‘the lamp of the body is the eye’—our hearts shape our countenance. Our inner disposition manifests outwardly, a core teaching for spiritual transformation."
+      "comment": "Jesus teaches ‘the lamp of the body is the eye’—our hearts shape our countenance. Our inner disposition manifests outwardly, a core teaching for spiritual transformation.",
+      "sectionHeader": "The Heart and Its Effects"
     },
     {
       "pk": 28013025,
@@ -317,5 +322,32 @@
       "comment": "Inner joy, arising from trust in God, gives vitality—the theology of the body and soul united. The wise tradition and apostolic faith teach the importance of interior renewal and peace."
     }
   ],
-  "translatedAt": "2025-12-24T07:29:52.030Z"
+  "translatedAt": "2025-12-24T07:29:52.030Z",
+  "sections": [
+    {
+      "title": "Caution in Dealing with the Rich and Powerful",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "Companionship with the Wise",
+      "startVerse": 12,
+      "endVerse": 15
+    },
+    {
+      "title": "The Incompatibility of Opposites",
+      "startVerse": 16,
+      "endVerse": 20
+    },
+    {
+      "title": "The Unequal Treatment of Rich and Poor",
+      "startVerse": 21,
+      "endVerse": 23
+    },
+    {
+      "title": "The Heart and Its Effects",
+      "startVerse": 24,
+      "endVerse": 26
+    }
+  ]
 }

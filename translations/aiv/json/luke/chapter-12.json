@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Meanwhile, when a crowd of many thousands had gathered, so many that they were trampling on one another, Jesus began to speak first to His disciples, saying, 'Beware of the yeast of the Pharisees, which is hypocrisy.'",
       "links": "<a href='/AIV/40/16/6'>Matt. 16:6</a>; <a href='/AIV/41/8/15'>Mark 8:15</a>",
-      "comment": "Jesus warns against the corrupting influence of hypocrisy, referencing the 'yeast' as something that spreads secretly and pervasively. This aligns with the theme of inner purity over outward appearance."
+      "comment": "Jesus warns against the corrupting influence of hypocrisy, referencing the 'yeast' as something that spreads secretly and pervasively. This aligns with the theme of inner purity over outward appearance.",
+      "sectionHeader": "Warnings Against Hypocrisy and Fear"
     },
     {
       "pk": 49012002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "Someone in the crowd said to Him, \"Teacher, tell my brother to divide the inheritance with me.\"",
       "links": "<a href='/AIV/19/133/1'>Ps. 133:1</a>",
-      "comment": "Jesus is approached with a legal dispute about inheritance, showing the expectation that rabbis would settle such matters."
+      "comment": "Jesus is approached with a legal dispute about inheritance, showing the expectation that rabbis would settle such matters.",
+      "sectionHeader": "The Parable of the Rich Fool"
     },
     {
       "pk": 49012014,
@@ -266,7 +268,8 @@
       "verse": 22,
       "text": "And He said to His disciples, \"Therefore I tell you, do not be anxious about your life, what you will eat; nor about your body, what you will wear.\"",
       "links": "<a href='/AIV/40/6/25'>Matt. 6:25</a>",
-      "comment": "Jesus continues with direct teaching that God’s providence extends to everyday needs. The call to trust God is central to Christian living."
+      "comment": "Jesus continues with direct teaching that God’s providence extends to everyday needs. The call to trust God is central to Christian living.",
+      "sectionHeader": "Trust in Divine Providence"
     },
     {
       "pk": 49012023,
@@ -422,7 +425,8 @@
       "verse": 35,
       "text": "\"Let your loins be dressed for action and your lamps burning.\"",
       "links": "<a href='/AIV/02/12/11'>Ex. 12:11</a>; <a href='/AIV/49/6/14'>Eph. 6:14</a>",
-      "comment": "Vigilance and readiness are commanded, echoing the Passover readiness and constant spiritual preparedness."
+      "comment": "Vigilance and readiness are commanded, echoing the Passover readiness and constant spiritual preparedness.",
+      "sectionHeader": "Watchfulness and Faithful Stewardship"
     },
     {
       "pk": 49012036,
@@ -590,7 +594,8 @@
       "verse": 49,
       "text": "\"I came to cast fire on the earth, and would that it were already kindled!\"",
       "links": "<a href='/AIV/39/3/2'>Mal. 3:2</a>; <a href='/AIV/44/2/3'>Acts 2:3</a>",
-      "comment": "Fire here refers to purification, judgment, and the coming Holy Spirit. Jesus expresses longing for the fulfillment of His mission."
+      "comment": "Fire here refers to purification, judgment, and the coming Holy Spirit. Jesus expresses longing for the fulfillment of His mission.",
+      "sectionHeader": "Jesus Brings Division"
     },
     {
       "pk": 49012050,
@@ -650,7 +655,8 @@
       "verse": 54,
       "text": "He also said to the crowds, \"When you see a cloud rising in the west, you say at once, ‘A shower is coming.’ And so it happens.",
       "links": "",
-      "comment": "Jesus refers to common weather signs, demonstrating the people's ability to discern natural but not spiritual realities."
+      "comment": "Jesus refers to common weather signs, demonstrating the people's ability to discern natural but not spiritual realities.",
+      "sectionHeader": "Reading the Signs of the Times"
     },
     {
       "pk": 49012055,
@@ -713,5 +719,37 @@
       "comment": "Imprisonment until the last penny is paid has been seen as referring not only to civil status but also spiritually to the consequences of unresolved sin—implying the need for repentance and the reality of purgation in God’s justice."
     }
   ],
-  "translatedAt": "2025-12-24T10:50:36.059Z"
+  "translatedAt": "2025-12-24T10:50:36.059Z",
+  "sections": [
+    {
+      "title": "Warnings Against Hypocrisy and Fear",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "The Parable of the Rich Fool",
+      "startVerse": 13,
+      "endVerse": 21
+    },
+    {
+      "title": "Trust in Divine Providence",
+      "startVerse": 22,
+      "endVerse": 34
+    },
+    {
+      "title": "Watchfulness and Faithful Stewardship",
+      "startVerse": 35,
+      "endVerse": 48
+    },
+    {
+      "title": "Jesus Brings Division",
+      "startVerse": 49,
+      "endVerse": 53
+    },
+    {
+      "title": "Reading the Signs of the Times",
+      "startVerse": 54,
+      "endVerse": 59
+    }
+  ]
 }

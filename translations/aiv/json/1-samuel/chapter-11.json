@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then Nahash the Ammonite came up and besieged Jabesh-gilead. And all the men of Jabesh said to Nahash, 'Make a treaty with us, and we will serve you.'",
       "links": "<a href='/AIV/7/21/8'>Judg 21:8-12</a>; <a href='/AIV/9/12/12'>1 Sam 12:12</a>",
-      "comment": "The willingness of the Israelites to make a treaty points to their desperation and lack of leadership before Saul's rise. This sets up God raising a deliverer, foreshadowing the need for a divinely appointed, unifying leadership in God's people. See Judg 21:8-12 for context on Jabesh-gilead's unique history."
+      "comment": "The willingness of the Israelites to make a treaty points to their desperation and lack of leadership before Saul's rise. This sets up God raising a deliverer, foreshadowing the need for a divinely appointed, unifying leadership in God's people. See Judg 21:8-12 for context on Jabesh-gilead's unique history.",
+      "sectionHeader": "Nahash Threatens Jabesh-gilead"
     },
     {
       "pk": 9011002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "Now Saul was coming from the field, behind the oxen. And Saul said, 'What is wrong with the people, for they are weeping?' So they told him the words of the men of Jabesh.",
       "links": "<a href='/AIV/9/10/22'>1 Sam 10:22</a>; <a href='/AIV/9/10/27'>1 Sam 10:27</a>",
-      "comment": "Saul’s humble posture (working the field) is like that of a servant-leader, reminiscent of Christ’s humility as the Good Shepherd (Phil 2:6-8). Saul is now confronted with his calling."
+      "comment": "Saul’s humble posture (working the field) is like that of a servant-leader, reminiscent of Christ’s humility as the Good Shepherd (Phil 2:6-8). Saul is now confronted with his calling.",
+      "sectionHeader": "Saul Delivers Jabesh-gilead"
     },
     {
       "pk": 9011006,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "Then Samuel said to the people, 'Come, let us go to Gilgal and renew the kingdom there.'",
       "links": "<a href='/AIV/6/4/19'>Josh 4:19</a>; <a href='/AIV/9/10/8'>1 Sam 10:8</a>",
-      "comment": "Gilgal is a place of covenant renewal: here, the kingship is affirmed before God, aligning spiritual with earthly authority. The renewal emphasizes sacramental covenant and obedience—themes later fulfilled in the New Covenant."
+      "comment": "Gilgal is a place of covenant renewal: here, the kingship is affirmed before God, aligning spiritual with earthly authority. The renewal emphasizes sacramental covenant and obedience—themes later fulfilled in the New Covenant.",
+      "sectionHeader": "Saul Confirmed as King"
     },
     {
       "pk": 9011015,
@@ -185,5 +188,22 @@
       "comment": "The public, liturgical confirmation of kingship through sacrifice signifies that every major event for God’s people is accompanied by thanksgiving and worship. This pattern continues into the New Covenant Church, where sacramental celebration marks the great acts of God."
     }
   ],
-  "translatedAt": "2025-12-24T02:54:17.325Z"
+  "translatedAt": "2025-12-24T02:54:17.325Z",
+  "sections": [
+    {
+      "title": "Nahash Threatens Jabesh-gilead",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "Saul Delivers Jabesh-gilead",
+      "startVerse": 5,
+      "endVerse": 13
+    },
+    {
+      "title": "Saul Confirmed as King",
+      "startVerse": 14,
+      "endVerse": 15
+    }
+  ]
 }

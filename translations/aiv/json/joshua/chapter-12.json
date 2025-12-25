@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "These are the kings of the land whom the people of Israel defeated and whose land they took possession of beyond the Jordan toward the east, from the River Arnon to Mount Hermon, and all the Arabah eastward:",
       "links": "<a href='/AIV/4/21/21-24'>Num. 21:21-24</a>; <a href='/AIV/5/2/24-37'>Deut. 2:24-37</a>",
-      "comment": "This introduction summarizes Israel’s victories to the east of the Jordan, reminding the reader that God keeps His promises concerning the land. The listing of kings is both an historical record and a theological statement about the Lord’s faithfulness."
+      "comment": "This introduction summarizes Israel’s victories to the east of the Jordan, reminding the reader that God keeps His promises concerning the land. The listing of kings is both an historical record and a theological statement about the Lord’s faithfulness.",
+      "sectionHeader": "The Kings Defeated by Moses"
     },
     {
       "pk": 6012002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "And these are the kings of the land whom Joshua and the people of Israel defeated on the west side of the Jordan, from Baal-gad in the Valley of Lebanon to Mount Halak, which rises toward Seir; and Joshua gave their land to the tribes of Israel as a possession according to their allotments,",
       "links": "<a href='/AIV/6/11/16-23'>Josh. 11:16-23</a>",
-      "comment": "This verse shifts the focus from Moses to Joshua, symbolizing continuity in God’s plan. The allotment of land to tribes reflects orderly distribution of God’s promises, drawing parallels to the inheritance of eternal life in Christ, given through faith and union with Him (<a href='/AIV/48/3/29'>Gal. 3:29</a>)."
+      "comment": "This verse shifts the focus from Moses to Joshua, symbolizing continuity in God’s plan. The allotment of land to tribes reflects orderly distribution of God’s promises, drawing parallels to the inheritance of eternal life in Christ, given through faith and union with Him (<a href='/AIV/48/3/29'>Gal. 3:29</a>).",
+      "sectionHeader": "The Kings Defeated by Joshua"
     },
     {
       "pk": 6012008,
@@ -293,5 +295,17 @@
       "comment": "The tally of thirty-one conquered kings signifies the completeness of Israel’s victory over Canaan, fulfilling God’s promise to Abraham and establishing them in the land. This fullness points ahead to the fullness of the new covenant and the unity of all God’s people."
     }
   ],
-  "translatedAt": "2025-12-24T02:23:12.365Z"
+  "translatedAt": "2025-12-24T02:23:12.365Z",
+  "sections": [
+    {
+      "title": "The Kings Defeated by Moses",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "The Kings Defeated by Joshua",
+      "startVerse": 7,
+      "endVerse": 24
+    }
+  ]
 }

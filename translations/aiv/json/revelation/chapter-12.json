@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "A great sign appeared in heaven: a woman clothed with the sun, with the moon under her feet, and on her head a crown of twelve stars.",
       "links": "<a href='/AIV/01/37/9'>Gen. 37:9</a>; <a href='/AIV/23/7/14'>Isa. 7:14</a>; <a href='/AIV/22/6/10'>Song 6:10</a>",
-      "comment": "The image of the woman has deep symbolic meaning. The twelve stars recall the twelve tribes of Israel and also point toward the later twelve apostles. Many traditional interpreters see spiritual significance in the woman's radiant glory, recalling Old Testament images (Gen. 37:9) and pointing to the destiny of God's people fulfilled in Christ's coming."
+      "comment": "The image of the woman has deep symbolic meaning. The twelve stars recall the twelve tribes of Israel and also point toward the later twelve apostles. Many traditional interpreters see spiritual significance in the woman's radiant glory, recalling Old Testament images (Gen. 37:9) and pointing to the destiny of God's people fulfilled in Christ's coming.",
+      "sectionHeader": "The Woman and the Dragon"
     },
     {
       "pk": 73012002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "Now war broke out in heaven: Michael and his angels fought against the dragon. The dragon and his angels fought back,",
       "links": "<a href='/AIV/27/10/13'>Dan. 10:13</a>; <a href='/AIV/65/1/9'>Jude 9</a>",
-      "comment": "Michael, known as a chief spiritual warrior (Dan. 10:13; Jude 9), engages in cosmic conflict. This reflects both a literal battle and a spiritual reality in which heavenly forces oppose evil."
+      "comment": "Michael, known as a chief spiritual warrior (Dan. 10:13; Jude 9), engages in cosmic conflict. This reflects both a literal battle and a spiritual reality in which heavenly forces oppose evil.",
+      "sectionHeader": "The War in Heaven and the Fall of Satan"
     },
     {
       "pk": 73012008,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "And when the dragon saw that he had been cast down to the earth, he pursued the woman who had given birth to the male child.",
       "links": "<a href='/AIV/01/3/15'>Gen. 3:15</a>; <a href='/AIV/66/17/6'>Rev. 17:6</a>",
-      "comment": "The hostility toward the woman recalls the ancient enmity between the serpent and the woman’s offspring (Gen. 3:15). This points to a recurrent theme of spiritual attack against the people of God throughout salvation history."
+      "comment": "The hostility toward the woman recalls the ancient enmity between the serpent and the woman’s offspring (Gen. 3:15). This points to a recurrent theme of spiritual attack against the people of God throughout salvation history.",
+      "sectionHeader": "The Dragon Pursues the Woman"
     },
     {
       "pk": 73012014,
@@ -209,5 +212,22 @@
       "comment": "The 'rest of her offspring' represents all faithful believers continuously opposed by evil. Keeping God's commandments and witnessing to Jesus highlights both faith and obedience, integral to the apostolic tradition in the universal Church."
     }
   ],
-  "translatedAt": "2025-12-24T12:37:48.036Z"
+  "translatedAt": "2025-12-24T12:37:48.036Z",
+  "sections": [
+    {
+      "title": "The Woman and the Dragon",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "The War in Heaven and the Fall of Satan",
+      "startVerse": 7,
+      "endVerse": 12
+    },
+    {
+      "title": "The Dragon Pursues the Woman",
+      "startVerse": 13,
+      "endVerse": 17
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When the LORD your God destroys the nations whose land the LORD your God is giving you, and you dispossess them and settle in their cities and houses,",
       "links": "<a href='/AIV/2/23/20-31'>Ex. 23:20-31</a>; <a href='/AIV/5/7/1'>Deut. 7:1</a>",
-      "comment": "This verse marks the transition of Israel from nomadic life to a settled inheritance, which points to God fulfilling His covenant promise to Abraham (Gen. 15:18-21). The grant of cities also prefigures the fullness of the promised kingdom under God's appointed leadership."
+      "comment": "This verse marks the transition of Israel from nomadic life to a settled inheritance, which points to God fulfilling His covenant promise to Abraham (Gen. 15:18-21). The grant of cities also prefigures the fullness of the promised kingdom under God's appointed leadership.",
+      "sectionHeader": "Cities of Refuge"
     },
     {
       "pk": 5019002,
@@ -170,7 +171,8 @@
       "verse": 14,
       "text": "You shall not move your neighbor’s boundary marker, which the ancestors have set, in your inheritance that you receive in the land the LORD your God is giving you to possess.",
       "links": "<a href='/AIV/20/22/28'>Prov. 22:28</a>; <a href='/AIV/23/5/8'>Isa. 5:8</a>",
-      "comment": "Respect for ancestral boundaries teaches justice and respect for tradition. It also reflects on the importance of maintaining the faith as handed down (cf. 2 Thes. 2:15)."
+      "comment": "Respect for ancestral boundaries teaches justice and respect for tradition. It also reflects on the importance of maintaining the faith as handed down (cf. 2 Thes. 2:15).",
+      "sectionHeader": "Prohibition of Moving Boundary Stones"
     },
     {
       "pk": 5019015,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "A single witness shall not rise up against a man concerning any crime or any sin he commits; at the mouth of two or three witnesses a matter shall be established.",
       "links": "<a href='/AIV/4/35/30'>Num. 35:30</a>; <a href='/AIV/40/18/16'>Matt. 18:16</a>",
-      "comment": "The requirement for two or three witnesses safeguards against false accusations. This principle is reaffirmed by Jesus and Paul (cf. 2 Cor. 13:1), vital for doctrinal and disciplinary processes."
+      "comment": "The requirement for two or three witnesses safeguards against false accusations. This principle is reaffirmed by Jesus and Paul (cf. 2 Cor. 13:1), vital for doctrinal and disciplinary processes.",
+      "sectionHeader": "Laws Concerning Witnesses"
     },
     {
       "pk": 5019016,
@@ -257,5 +260,22 @@
       "comment": "The principle of equal justice is foundational. In the New Testament, Jesus both affirms the justice of the law, yet brings its fullness in the call to forgiveness and love—law perfected in mercy."
     }
   ],
-  "translatedAt": "2025-12-24T02:07:10.581Z"
+  "translatedAt": "2025-12-24T02:07:10.581Z",
+  "sections": [
+    {
+      "title": "Cities of Refuge",
+      "startVerse": 1,
+      "endVerse": 13
+    },
+    {
+      "title": "Prohibition of Moving Boundary Stones",
+      "startVerse": 14,
+      "endVerse": 14
+    },
+    {
+      "title": "Laws Concerning Witnesses",
+      "startVerse": 15,
+      "endVerse": 21
+    }
+  ]
 }

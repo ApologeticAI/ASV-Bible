@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "But understand this: In the last days there will come times of difficulty.",
       "links": "<a href='/AIV/40/24/12'>Matt. 24:12</a>; <a href='/AIV/54/4/1'>1 Tim. 4:1</a>; <a href='/AIV/61/2/3'>2 Pet. 3:3</a>",
-      "comment": "Paul warns Timothy of future hardships, connecting to prophecies of increasing wickedness before Christ's return. The phrase 'last days' indicates the final era before God's ultimate intervention."
+      "comment": "Paul warns Timothy of future hardships, connecting to prophecies of increasing wickedness before Christ's return. The phrase 'last days' indicates the final era before God's ultimate intervention.",
+      "sectionHeader": "Perilous Times in the Last Days"
     },
     {
       "pk": 62003002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "But you have followed my teaching, my conduct, my purpose, my faith, my patience, my love, my endurance,",
       "links": "<a href='/AIV/54/4/6'>1 Tim. 4:6</a>; <a href='/AIV/46/4/16'>1 Cor. 4:16</a>",
-      "comment": "Paul presents himself as a model for Timothy. Discipleship involves not only beliefs but imitation of holy living—a pattern found in the continuity of apostolic tradition."
+      "comment": "Paul presents himself as a model for Timothy. Discipleship involves not only beliefs but imitation of holy living—a pattern found in the continuity of apostolic tradition.",
+      "sectionHeader": "Paul’s Example of Faithfulness"
     },
     {
       "pk": 62003011,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "But as for you, continue in what you have learned and firmly believed, knowing from whom you learned it",
       "links": "<a href='/AIV/52/2/15'>2 Thess. 2:15</a>; <a href='/AIV/54/6/20'>1 Tim. 6:20</a>",
-      "comment": "Timothy is urged to remain steadfast in the faith passed down to him—echoing the tradition handed on in the early church and preserved through apostolic succession."
+      "comment": "Timothy is urged to remain steadfast in the faith passed down to him—echoing the tradition handed on in the early church and preserved through apostolic succession.",
+      "sectionHeader": "The Value of Sacred Scripture"
     },
     {
       "pk": 62003015,
@@ -209,5 +212,22 @@
       "comment": "The Scriptures prepare believers for holiness and service. Yet, completeness is found in being equipped not only with the Bible but in the whole life of faith, handed on and lived out together in the one Church founded by Christ."
     }
   ],
-  "translatedAt": "2025-12-24T12:14:24.598Z"
+  "translatedAt": "2025-12-24T12:14:24.598Z",
+  "sections": [
+    {
+      "title": "Perilous Times in the Last Days",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "Paul’s Example of Faithfulness",
+      "startVerse": 10,
+      "endVerse": 13
+    },
+    {
+      "title": "The Value of Sacred Scripture",
+      "startVerse": 14,
+      "endVerse": 17
+    }
+  ]
 }

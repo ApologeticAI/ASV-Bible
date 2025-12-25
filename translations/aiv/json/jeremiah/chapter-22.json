@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "This is the word that came from the LORD: Go down to the house of the king of Judah and speak this word there:",
       "links": "<a href='/AIV/24/21/11'>Jer. 21:11</a>; <a href='/AIV/11/22/10'>1 Kings 22:10</a>",
-      "comment": "Jeremiah receives direct instruction from the LORD to address the royal house. This establishes the role of prophets as mediators of God's message and foreshadows the importance of apostolic authority in the New Covenant."
+      "comment": "Jeremiah receives direct instruction from the LORD to address the royal house. This establishes the role of prophets as mediators of God's message and foreshadows the importance of apostolic authority in the New Covenant.",
+      "sectionHeader": "Prophecy Against the Kings of Judah"
     },
     {
       "pk": 30022002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "Do not weep for the dead, nor mourn for him; but weep bitterly for the one who goes away, for he will never return or see his native land.",
       "links": "<a href='/AIV/24/16/5-7'>Jer. 16:5-7</a>",
-      "comment": "Emphasis is not on those who die, but on exile—a spiritual warning about separation from the community of faith."
+      "comment": "Emphasis is not on those who die, but on exile—a spiritual warning about separation from the community of faith.",
+      "sectionHeader": "Shallum's Exile and Death"
     },
     {
       "pk": 30022011,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "Woe to him who builds his house by injustice, and his rooms by wrongdoing, who makes his neighbor serve him for nothing and does not give him his wages.",
       "links": "<a href='/AIV/5/24/14-15'>Deut. 24:14-15</a>; <a href='/AIV/19/94/6'>Ps. 94:6</a>",
-      "comment": "Social justice is a repeated expectation, connecting communal ethics with righteousness—mirrored in the communal life and works of mercy."
+      "comment": "Social justice is a repeated expectation, connecting communal ethics with righteousness—mirrored in the communal life and works of mercy.",
+      "sectionHeader": "Judgment Against Jehoiakim"
     },
     {
       "pk": 30022014,
@@ -290,7 +293,8 @@
       "verse": 24,
       "text": "As surely as I live, declares the LORD, though Coniah son of Jehoiakim, king of Judah, were the signet ring on My right hand, I would tear you off.",
       "links": "<a href='/AIV/12/24/17'>2 Kings 24:17</a>; <a href='/AIV/37/2/23'>Hag. 2:23</a>",
-      "comment": "Coniah (Jehoiachin) is disowned; signet ring imagery signals removal of authority, echoing the theme of legitimate succession and authority."
+      "comment": "Coniah (Jehoiachin) is disowned; signet ring imagery signals removal of authority, echoing the theme of legitimate succession and authority.",
+      "sectionHeader": "The Fate of Coniah"
     },
     {
       "pk": 30022025,
@@ -365,5 +369,27 @@
       "comment": "The prophecy effectively ends Coniah’s royal line, yet Matthew’s genealogy demonstrates God’s ability to transcend such judgments, culminating in Christ, the true heir of David’s throne."
     }
   ],
-  "translatedAt": "2025-12-24T08:33:07.872Z"
+  "translatedAt": "2025-12-24T08:33:07.872Z",
+  "sections": [
+    {
+      "title": "Prophecy Against the Kings of Judah",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "Shallum's Exile and Death",
+      "startVerse": 10,
+      "endVerse": 12
+    },
+    {
+      "title": "Judgment Against Jehoiakim",
+      "startVerse": 13,
+      "endVerse": 23
+    },
+    {
+      "title": "The Fate of Coniah",
+      "startVerse": 24,
+      "endVerse": 30
+    }
+  ]
 }

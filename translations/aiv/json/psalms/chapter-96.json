@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Sing to the LORD a new song; sing to the LORD, all the earth!",
       "links": "<a href='/AIV/23/33/3'>Ps. 33:3</a>; <a href='/AIV/23/98/1'>Ps. 98:1</a>; <a href='/AIV/23/149/1'>Ps. 149:1</a>; <a href='/AIV/26/40/3'>Isa. 42:10</a>",
-      "comment": "The call for a 'new song' often signals fresh revelation or deliverance by God, anticipating the arrival of the Messiah. The invitation to all the earth prefigures the opening of salvation to all nations, not only Israel (see Isa. 42:10; cf. Rev. 5:9)."
+      "comment": "The call for a 'new song' often signals fresh revelation or deliverance by God, anticipating the arrival of the Messiah. The invitation to all the earth prefigures the opening of salvation to all nations, not only Israel (see Isa. 42:10; cf. Rev. 5:9).",
+      "sectionHeader": "A Hymn of Praise to God the Creator"
     },
     {
       "pk": 23096002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "Ascribe to the LORD, O families of the nations, ascribe to the LORD glory and strength.",
       "links": "<a href='/AIV/19/29/1'>Ps. 29:1</a>; <a href='/AIV/13/16/28'>1 Chr. 16:28</a>",
-      "comment": "The call is not just to Israel, but to all peoples. This universal invitation anticipates the unity of all believers in worship, transcending ethnic boundaries."
+      "comment": "The call is not just to Israel, but to all peoples. This universal invitation anticipates the unity of all believers in worship, transcending ethnic boundaries.",
+      "sectionHeader": "Universal Worship and Proclamation of God's Kingship"
     },
     {
       "pk": 23096008,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "Let the heavens rejoice, and let the earth be glad; let the sea resound, and all that is in it.",
       "links": "<a href='/AIV/23/98/7'>Ps. 98:7</a>; <a href='/AIV/19/69/34'>Ps. 69:34</a>",
-      "comment": "Creation itself responds to God's kingship with joy, prefiguring the renewal of all creation under Christ's final victory (cf. Rom. 8:19-22)."
+      "comment": "Creation itself responds to God's kingship with joy, prefiguring the renewal of all creation under Christ's final victory (cf. Rom. 8:19-22).",
+      "sectionHeader": "Rejoicing of Creation at the Lord’s Coming"
     },
     {
       "pk": 23096012,
@@ -161,5 +164,22 @@
       "comment": "The expectation of the coming Judge prefigures the return of Christ, whose judgment is righteous and faithful. This verse echoes in the later teaching on the Last Judgment and the hope of ultimate justice."
     }
   ],
-  "translatedAt": "2025-12-24T06:33:11.437Z"
+  "translatedAt": "2025-12-24T06:33:11.437Z",
+  "sections": [
+    {
+      "title": "A Hymn of Praise to God the Creator",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Universal Worship and Proclamation of God's Kingship",
+      "startVerse": 7,
+      "endVerse": 10
+    },
+    {
+      "title": "Rejoicing of Creation at the Lord’s Coming",
+      "startVerse": 11,
+      "endVerse": 13
+    }
+  ]
 }

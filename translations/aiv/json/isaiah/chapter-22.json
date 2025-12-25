@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The oracle concerning the Valley of Vision: What is happening to you now, that all of you have gone up to the rooftops?",
       "links": "<a href='/AIV/23/21/1'>Isa. 21:1</a>; <a href='/AIV/24/26/18'>Jer. 26:18</a>",
-      "comment": "The 'Valley of Vision' is Jerusalem. Rooftops were often used as lookout points. This prophecy begins with a question about unexpected excitement or alarm in Jerusalem."
+      "comment": "The 'Valley of Vision' is Jerusalem. Rooftops were often used as lookout points. This prophecy begins with a question about unexpected excitement or alarm in Jerusalem.",
+      "sectionHeader": "Oracle Concerning Jerusalem: The Valley of Vision"
     },
     {
       "pk": 29022002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "Thus says the Lord GOD of Armies: 'Go, approach this steward, to Shebna, who is over the house, and say to him:'",
       "links": "<a href='/AIV/12/18/18'>2 Kings 18:18</a>",
-      "comment": "Shebna is the palace administrator—a key leadership role. The authority over the 'house' or royal household prefigures later New Testament offices in the Church, with their roles and responsibilities."
+      "comment": "Shebna is the palace administrator—a key leadership role. The authority over the 'house' or royal household prefigures later New Testament offices in the Church, with their roles and responsibilities.",
+      "sectionHeader": "Judgment Against Shebna"
     },
     {
       "pk": 29022016,
@@ -242,7 +244,8 @@
       "verse": 20,
       "text": "In that day I will call my servant Eliakim the son of Hilkiah,",
       "links": "<a href='/AIV/12/18/18'>2 Kings 18:18</a>",
-      "comment": "A new, faithful steward is appointed. Eliakim is presented as God's servant, establishing a pattern for chosen leadership through whom God’s authority is exercised."
+      "comment": "A new, faithful steward is appointed. Eliakim is presented as God's servant, establishing a pattern for chosen leadership through whom God’s authority is exercised.",
+      "sectionHeader": "Eliakim Given Authority"
     },
     {
       "pk": 29022021,
@@ -305,5 +308,22 @@
       "comment": "Even the most secure positions can fail if not continually upheld by God. This brings attention to the danger of depending on human office alone, and calls for humble reliance on divine grace as the source of enduring authority."
     }
   ],
-  "translatedAt": "2025-12-24T08:00:37.372Z"
+  "translatedAt": "2025-12-24T08:00:37.372Z",
+  "sections": [
+    {
+      "title": "Oracle Concerning Jerusalem: The Valley of Vision",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "Judgment Against Shebna",
+      "startVerse": 15,
+      "endVerse": 19
+    },
+    {
+      "title": "Eliakim Given Authority",
+      "startVerse": 20,
+      "endVerse": 25
+    }
+  ]
 }

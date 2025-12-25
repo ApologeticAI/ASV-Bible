@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Three years later, news came to Judas and his companions that Demetrius, the son of Seleucus, had landed at the port of Tripolis with a powerful army and navy,",
       "links": "<a href='/AIV/21/10/11'>2Macc 10:11</a>; <a href='/AIV/27/11/20'>Dan. 11:20</a>",
-      "comment": "The arrival of Demetrius marks a new phase in the political situation. The historical setting points to a period of instability in the Seleucid Empire. This verse sets up Demetrius as an important figure challenging the rule established by Antiochus."
+      "comment": "The arrival of Demetrius marks a new phase in the political situation. The historical setting points to a period of instability in the Seleucid Empire. This verse sets up Demetrius as an important figure challenging the rule established by Antiochus.",
+      "sectionHeader": "Alcimus Appeals to Demetrius"
     },
     {
       "pk": 21014002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "Alcimus and his supporters called for the military commander Bacchides, one of the king’s trusted men, who commanded the region west of the Euphrates.",
       "links": "<a href='/AIV/21/15/1-3'>2Macc 15:1-3</a>",
-      "comment": "Here, political and military might are invoked to oppose the faithful community, setting up the coming conflict with Judas."
+      "comment": "Here, political and military might are invoked to oppose the faithful community, setting up the coming conflict with Judas.",
+      "sectionHeader": "Bacchides Sent Against Judas"
     },
     {
       "pk": 21014013,
@@ -278,7 +280,8 @@
       "verse": 23,
       "text": "and Demetrius, angered by such reports, sent his general Nicanor, an experienced commander, to destroy the Jewish nation.",
       "links": "<a href='/AIV/21/8/9'>2Macc 8:9</a>",
-      "comment": "A new antagonist arrives. The cycle of hostility resumes, highlighting the ongoing battle for the faithfulness and survival of Israel."
+      "comment": "A new antagonist arrives. The cycle of hostility resumes, highlighting the ongoing battle for the faithfulness and survival of Israel.",
+      "sectionHeader": "Nicanor's Mission and Betrayal of Judas"
     },
     {
       "pk": 21014024,
@@ -434,7 +437,8 @@
       "verse": 36,
       "text": "During the battle, a man named Razis, a leader of Jerusalem and a man of great reputation, was accused before Nicanor.",
       "links": "",
-      "comment": "Razis’s reputation as 'a lover of his fellow citizens' foreshadows his willingness to suffer for righteousness’ sake, much like several Old Testament prophets."
+      "comment": "Razis’s reputation as 'a lover of his fellow citizens' foreshadows his willingness to suffer for righteousness’ sake, much like several Old Testament prophets.",
+      "sectionHeader": "The Martyrdom of Razis"
     },
     {
       "pk": 21014037,
@@ -557,5 +561,27 @@
       "comment": "This verse brings the theme of resurrection and hope for eternal life into focus. The emphasis on God's faithfulness and the martyr's witness points to the fuller revelation given in Christ, who overcomes death for His people."
     }
   ],
-  "translatedAt": "2025-12-24T05:38:38.623Z"
+  "translatedAt": "2025-12-24T05:38:38.623Z",
+  "sections": [
+    {
+      "title": "Alcimus Appeals to Demetrius",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "Bacchides Sent Against Judas",
+      "startVerse": 12,
+      "endVerse": 22
+    },
+    {
+      "title": "Nicanor's Mission and Betrayal of Judas",
+      "startVerse": 23,
+      "endVerse": 35
+    },
+    {
+      "title": "The Martyrdom of Razis",
+      "startVerse": 36,
+      "endVerse": 46
+    }
+  ]
 }

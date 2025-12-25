@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "One day Jonathan, son of Saul, said to the young man who carried his armor, “Let’s go over to the Philistine garrison that’s on the other side.” But he did not tell his father.",
       "links": "<a href='/AIV/9/13/3'>1Sam 13:3</a>",
-      "comment": "Jonathan chooses to act with initiative and faith, not waiting for permission from Saul. This sets a pattern of courageous trust often seen in key biblical figures."
+      "comment": "Jonathan chooses to act with initiative and faith, not waiting for permission from Saul. This sets a pattern of courageous trust often seen in key biblical figures.",
+      "sectionHeader": "Jonathan's Attack on the Philistines"
     },
     {
       "pk": 9014002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "Then panic spread in the camp, across the field, and among all the people. The garrison and the raiders trembled, and the earth quaked, and there was a very great panic.",
       "links": "<a href='/AIV/2/23/14'>Exod 23:14</a>; <a href='/AIV/6/2/9'>Josh 2:9</a>",
-      "comment": "The panic is supernatural in scope. Such acts recall other moments in Israel’s history when God directly causes the enemies to flee."
+      "comment": "The panic is supernatural in scope. Such acts recall other moments in Israel’s history when God directly causes the enemies to flee.",
+      "sectionHeader": "Panic Among the Philistines"
     },
     {
       "pk": 90140016,
@@ -290,7 +292,8 @@
       "verse": 24,
       "text": "The men of Israel were hard pressed that day, because Saul had put the people under an oath, saying: “Cursed is the man who eats food until evening, before I have avenged my enemies!” So none of the people tasted food.",
       "links": "",
-      "comment": "Saul’s rash oath burdens his people and shows the dangers of impulsive vows, which later church teaching cautions against."
+      "comment": "Saul’s rash oath burdens his people and shows the dangers of impulsive vows, which later church teaching cautions against.",
+      "sectionHeader": "Saul’s Rash Oath"
     },
     {
       "pk": 90140025,
@@ -386,7 +389,8 @@
       "verse": 32,
       "text": "The people pounced on the spoil and took sheep, cattle, and calves, and slaughtered them on the ground. They ate them with the blood.",
       "links": "<a href='/AIV/3/17/10-14'>Lev 17:10-14</a>",
-      "comment": "Eating blood was forbidden—this display of desperate disobedience arises from the harsh oath. The importance of proper sacramental observance is underscored."
+      "comment": "Eating blood was forbidden—this display of desperate disobedience arises from the harsh oath. The importance of proper sacramental observance is underscored.",
+      "sectionHeader": "The People Eat Meat with Blood"
     },
     {
       "pk": 90140033,
@@ -434,7 +438,8 @@
       "verse": 36,
       "text": "Saul said, “Let’s go down after the Philistines by night and take spoil until morning. Don’t let one of them escape.” They replied, “Do whatever seems good to you.” But the priest said, “Let’s draw near to God here.”",
       "links": "",
-      "comment": "The priest’s intervention highlights the primacy of seeking God’s will before action—a vital lesson in faithful stewardship and spiritual humility."
+      "comment": "The priest’s intervention highlights the primacy of seeking God’s will before action—a vital lesson in faithful stewardship and spiritual humility.",
+      "sectionHeader": "Jonathan Condemned and Spared"
     },
     {
       "pk": 90140037,
@@ -566,7 +571,8 @@
       "verse": 47,
       "text": "After taking the kingship over Israel, Saul fought against all his surrounding enemies—against Moab, Ammon, Edom, the kings of Zobah, and the Philistines. Wherever he turned, he defeated them.",
       "links": "<a href='/AIV/9/11/1'>1Sam 11:1</a>; <a href='/AIV/10/8/3'>2Sam 8:3</a>",
-      "comment": "This summary underscores Saul’s military accomplishments, despite his spiritual deficiencies. God’s plan works through both strengths and weaknesses in His chosen leaders."
+      "comment": "This summary underscores Saul’s military accomplishments, despite his spiritual deficiencies. God’s plan works through both strengths and weaknesses in His chosen leaders.",
+      "sectionHeader": "Summary of Saul’s Reign"
     },
     {
       "pk": 90140048,
@@ -629,5 +635,37 @@
       "comment": "Saul’s practical policy fulfills the earlier warning about the monarchy. God still uses flawed human systems to accomplish His will—pointing forward to a perfected kingdom accomplished by Christ as priest, king, and prophet."
     }
   ],
-  "translatedAt": "2025-12-24T02:56:56.915Z"
+  "translatedAt": "2025-12-24T02:56:56.915Z",
+  "sections": [
+    {
+      "title": "Jonathan's Attack on the Philistines",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "Panic Among the Philistines",
+      "startVerse": 15,
+      "endVerse": 23
+    },
+    {
+      "title": "Saul’s Rash Oath",
+      "startVerse": 24,
+      "endVerse": 31
+    },
+    {
+      "title": "The People Eat Meat with Blood",
+      "startVerse": 32,
+      "endVerse": 35
+    },
+    {
+      "title": "Jonathan Condemned and Spared",
+      "startVerse": 36,
+      "endVerse": 46
+    },
+    {
+      "title": "Summary of Saul’s Reign",
+      "startVerse": 47,
+      "endVerse": 52
+    }
+  ]
 }

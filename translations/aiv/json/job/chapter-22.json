@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then Eliphaz the Temanite answered and said:",
       "links": "<a href='/AIV/18/2/11'>Job 2:11</a>",
-      "comment": "Eliphaz, one of Job's friends, responds to Job's complaints. This sets the stage for another cycle of dialogue and debate."
+      "comment": "Eliphaz, one of Job's friends, responds to Job's complaints. This sets the stage for another cycle of dialogue and debate.",
+      "sectionHeader": "Eliphaz Accuses Job of Wickedness"
     },
     {
       "pk": 22022002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "Will you keep to the old way that wicked men have walked?",
       "links": "<a href='/AIV/19/1/1'>Ps. 1:1</a>",
-      "comment": "The reference to the 'old way' invokes the tradition of the two ways: the way of the righteous versus the way of sinners (Ps. 1)."
+      "comment": "The reference to the 'old way' invokes the tradition of the two ways: the way of the righteous versus the way of sinners (Ps. 1).",
+      "sectionHeader": "The Fate of the Wicked"
     },
     {
       "pk": 22022016,
@@ -254,7 +256,8 @@
       "verse": 21,
       "text": "Now submit yourself to God and be at peace; by this good will come to you.",
       "links": "<a href='/AIV/19/37/37'>Ps. 37:37</a>; <a href='/AIV/59/4/7'>James 4:7</a>",
-      "comment": "Submission to God as the path to true peace and blessing is a cornerstone of biblical spirituality. The call to ‘be at peace’ echoes the invitation to conversion and reconciliation."
+      "comment": "Submission to God as the path to true peace and blessing is a cornerstone of biblical spirituality. The call to ‘be at peace’ echoes the invitation to conversion and reconciliation.",
+      "sectionHeader": "A Call to Repentance and Restoration"
     },
     {
       "pk": 22022022,
@@ -365,5 +368,22 @@
       "comment": "This verse hints at the powerful efficacy of the prayers and righteousness of the faithful on behalf of others. The spiritual value of mediation and intercession is fulfilled in Christ, who is the one Mediator (1 Tim. 2:5), but is also reflected in the prayers of the saints throughout history."
     }
   ],
-  "translatedAt": "2025-12-24T05:49:25.970Z"
+  "translatedAt": "2025-12-24T05:49:25.970Z",
+  "sections": [
+    {
+      "title": "Eliphaz Accuses Job of Wickedness",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "The Fate of the Wicked",
+      "startVerse": 15,
+      "endVerse": 20
+    },
+    {
+      "title": "A Call to Repentance and Restoration",
+      "startVerse": 21,
+      "endVerse": 30
+    }
+  ]
 }

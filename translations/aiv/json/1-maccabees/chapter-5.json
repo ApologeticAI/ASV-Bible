@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When it was reported to the surrounding nations that the altar had been rebuilt and the sanctuary restored as before, they were greatly angered.",
       "links": "<a href='/AIV/13/22/19'>1 Chr 22:19</a>; <a href='/AIV/16/4/1-3'>Neh 4:1-3</a>",
-      "comment": "The nations' anger at the restoration of the temple mirrors hostility toward the re-establishment of true worship, a theme common throughout Salvation History."
+      "comment": "The nations' anger at the restoration of the temple mirrors hostility toward the re-establishment of true worship, a theme common throughout Salvation History.",
+      "sectionHeader": "Wars Against the Surrounding Nations"
     },
     {
       "pk": 20005002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "The Gentiles in Gilead gathered together against the Israelites living in their land, to destroy them. But they fled to the stronghold at Dathema.",
       "links": "<a href='/AIV/07/10/17-18'>Judg 10:17-18</a>",
-      "comment": "The attack on the Israelites in Gilead foreshadows later persecutions of the faithful throughout the centuries."
+      "comment": "The attack on the Israelites in Gilead foreshadows later persecutions of the faithful throughout the centuries.",
+      "sectionHeader": "Appeals for Help from Galilee and Gilead"
     },
     {
       "pk": 20005009,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "Judas said to his brother Simon, 'Choose men for yourself and go to rescue your countrymen in Galilee. I and my brother Jonathan will go to Gilead.'",
       "links": "<a href='/AIV/07/08/1'>Judg 8:1</a>",
-      "comment": "Division of leadership responsibilities is reminiscent of Moses and Joshua leading the tribes in separate directions as God's plan unfolds."
+      "comment": "Division of leadership responsibilities is reminiscent of Moses and Joshua leading the tribes in separate directions as God's plan unfolds.",
+      "sectionHeader": "Rescue of Jews in Gilead and Galilee"
     },
     {
       "pk": 20005016,
@@ -542,7 +545,8 @@
       "verse": 45,
       "text": "While Judas and Jonathan were in Gilead, Joseph son of Zechariah and Azariah, commanders left behind, heard of the military victories.",
       "links": "<a href='/AIV/06/22/10-12'>Josh 22:10-12</a>",
-      "comment": "Hearing of successes without heeding orders gives a lesson in humility and the dangers of pride."
+      "comment": "Hearing of successes without heeding orders gives a lesson in humility and the dangers of pride.",
+      "sectionHeader": "Defeat of Joseph and Azariah at Jamnia"
     },
     {
       "pk": 20005046,
@@ -698,7 +702,8 @@
       "verse": 58,
       "text": "In those days, a great assembly gathered against Israel, all those living in the land—Philistia, Edom, and Samaria—because Jews returned from exile to their land and rebuilt the sanctuary.",
       "links": "<a href='/AIV/15/4/1-3'>Ezra 4:1-3</a>",
-      "comment": "Those resenting the rebuilding of the sanctuary are foreshadowing opposition to restoration and renewal in the people of God."
+      "comment": "Those resenting the rebuilding of the sanctuary are foreshadowing opposition to restoration and renewal in the people of God.",
+      "sectionHeader": "Victory over the Allied Gentile Nations"
     },
     {
       "pk": 20005059,
@@ -821,5 +826,32 @@
       "comment": "Liturgical worship, sacrifice, and joyful celebration in the sanctuary anticipate the perfect worship brought by Christ, who fulfills all types and sacrifices."
     }
   ],
-  "translatedAt": "2025-12-24T05:17:21.402Z"
+  "translatedAt": "2025-12-24T05:17:21.402Z",
+  "sections": [
+    {
+      "title": "Wars Against the Surrounding Nations",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Appeals for Help from Galilee and Gilead",
+      "startVerse": 8,
+      "endVerse": 14
+    },
+    {
+      "title": "Rescue of Jews in Gilead and Galilee",
+      "startVerse": 15,
+      "endVerse": 44
+    },
+    {
+      "title": "Defeat of Joseph and Azariah at Jamnia",
+      "startVerse": 45,
+      "endVerse": 57
+    },
+    {
+      "title": "Victory over the Allied Gentile Nations",
+      "startVerse": 58,
+      "endVerse": 68
+    }
+  ]
 }

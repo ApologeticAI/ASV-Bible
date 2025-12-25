@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now the whole earth had one language and the same words.",
       "links": "<a href='/AIV/01/10/31'>Gen. 10:31</a>; <a href='/AIV/01/11/6'>Gen. 11:6</a>",
-      "comment": "This verse sets the scene for the Tower of Babel narrative, emphasizing human unity before division. Unity in language symbolizes a potential for both good and prideful rebellion."
+      "comment": "This verse sets the scene for the Tower of Babel narrative, emphasizing human unity before division. Unity in language symbolizes a potential for both good and prideful rebellion.",
+      "sectionHeader": "The Tower of Babel"
     },
     {
       "pk": 1011002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "These are the generations of Shem: Shem was one hundred years old when he fathered Arpachshad two years after the flood.",
       "links": "<a href='/AIV/01/05/32'>Gen. 5:32</a>; <a href='/AIV/01/10/22'>Gen. 10:22</a>",
-      "comment": "Genealogies connect this narrative to the wider story of redemption, leading to Abraham and ultimately to Christ (cf. Luke 3:36). The succession shows God’s continued providence."
+      "comment": "Genealogies connect this narrative to the wider story of redemption, leading to Abraham and ultimately to Christ (cf. Luke 3:36). The succession shows God’s continued providence.",
+      "sectionHeader": "The Descendants of Shem"
     },
     {
       "pk": 1011011,
@@ -326,7 +328,8 @@
       "verse": 27,
       "text": "Now these are the generations of Terah: Terah fathered Abram, Nahor, and Haran; and Haran fathered Lot.",
       "links": "<a href='/AIV/01/12/5'>Gen. 12:5</a>; <a href='/AIV/01/13/1'>Gen. 13:1</a>",
-      "comment": "The family connections foreshadow the future journeys and trials of Abraham and Lot, showing that God’s plan involves concrete families and communities."
+      "comment": "The family connections foreshadow the future journeys and trials of Abraham and Lot, showing that God’s plan involves concrete families and communities.",
+      "sectionHeader": "The Family of Terah"
     },
     {
       "pk": 1011028,
@@ -389,5 +392,22 @@
       "comment": "Terah’s death marks the start of Abraham’s central role. This concluding note transitions from genealogy to direct interaction with God’s covenantal promise."
     }
   ],
-  "translatedAt": "2025-12-24T00:15:53.686Z"
+  "translatedAt": "2025-12-24T00:15:53.686Z",
+  "sections": [
+    {
+      "title": "The Tower of Babel",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "The Descendants of Shem",
+      "startVerse": 10,
+      "endVerse": 26
+    },
+    {
+      "title": "The Family of Terah",
+      "startVerse": 27,
+      "endVerse": 32
+    }
+  ]
 }

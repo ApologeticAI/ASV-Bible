@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The LORD is my shepherd; I lack nothing.",
       "links": "<a href='/AIV/19/100/3'>Ps. 100:3</a>; <a href='/AIV/26/34/11'>Ezek. 34:11-16</a>; <a href='/AIV/43/10/11'>John 10:11</a>",
-      "comment": "The image of God as shepherd speaks to His personal care and guidance. Jesus later identifies Himself as the Good Shepherd (John 10:11), fulfilling this hope. The assurance of lacking nothing alludes to God’s abundant provision—a theme echoed in the spiritual life where the soul finds rest in Him."
+      "comment": "The image of God as shepherd speaks to His personal care and guidance. Jesus later identifies Himself as the Good Shepherd (John 10:11), fulfilling this hope. The assurance of lacking nothing alludes to God’s abundant provision—a theme echoed in the spiritual life where the soul finds rest in Him.",
+      "sectionHeader": "The Lord Is My Shepherd"
     },
     {
       "pk": 23023002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "Even though I walk through the valley of deep shadow, I will fear no evil, for You are with me; Your rod and Your staff, they comfort me.",
       "links": "<a href='/AIV/19/27/1'>Ps. 27:1</a>; <a href='/AIV/19/118/6'>Ps. 118:6</a>; <a href='/AIV/40/28/20'>Matt. 28:20</a>",
-      "comment": "Walking through the 'valley of deep shadow' (often translated 'valley of the shadow of death') covers not only physical danger, but also spiritual trials. God’s presence dispels fear—anticipated in Christ’s promise to be always with His followers (Matt. 28:20). The rod and staff symbolize protection and guidance, echoing God’s discipline and care, and suggest a comfort found in spiritual authority and correction."
+      "comment": "Walking through the 'valley of deep shadow' (often translated 'valley of the shadow of death') covers not only physical danger, but also spiritual trials. God’s presence dispels fear—anticipated in Christ’s promise to be always with His followers (Matt. 28:20). The rod and staff symbolize protection and guidance, echoing God’s discipline and care, and suggest a comfort found in spiritual authority and correction.",
+      "sectionHeader": "Comfort in the Valley of Darkness"
     },
     {
       "pk": 23023005,
@@ -62,7 +64,8 @@
       "verse": 5,
       "text": "You prepare a table before me in the presence of my enemies; You anoint my head with oil; my cup overflows.",
       "links": "<a href='/AIV/19/92/10'>Ps. 92:10</a>; <a href='/AIV/42/22/30'>Luke 22:30</a>; <a href='/AIV/19/16/5'>Ps. 16:5</a>",
-      "comment": "The table set before enemies suggests divine hospitality and victory, a celebration in the midst of adversity. The anointing with oil recalls consecration—used for kings, priests, and prophets—pointing to a special grace imparted. The overflowing cup symbolizes abundant blessing, echoing the spiritual fullness promised to those walking in God’s ways, and hints at an ongoing, sacramental nourishment."
+      "comment": "The table set before enemies suggests divine hospitality and victory, a celebration in the midst of adversity. The anointing with oil recalls consecration—used for kings, priests, and prophets—pointing to a special grace imparted. The overflowing cup symbolizes abundant blessing, echoing the spiritual fullness promised to those walking in God’s ways, and hints at an ongoing, sacramental nourishment.",
+      "sectionHeader": "The Blessings of God’s House"
     },
     {
       "pk": 23023006,
@@ -77,5 +80,22 @@
       "comment": "God’s goodness and steadfast love ('hesed') are relentlessly present for the believer, with pursuit suggesting an active, personal care. Dwelling in the house of the LORD points to eternal communion with God—a theme later fulfilled in Christ’s promise of a place prepared in His Father’s house (John 14:2-3), signaling both present spiritual fellowship and future hope in enduring union with God."
     }
   ],
-  "translatedAt": "2025-12-24T06:06:16.250Z"
+  "translatedAt": "2025-12-24T06:06:16.250Z",
+  "sections": [
+    {
+      "title": "The Lord Is My Shepherd",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "Comfort in the Valley of Darkness",
+      "startVerse": 4,
+      "endVerse": 4
+    },
+    {
+      "title": "The Blessings of God’s House",
+      "startVerse": 5,
+      "endVerse": 6
+    }
+  ]
 }

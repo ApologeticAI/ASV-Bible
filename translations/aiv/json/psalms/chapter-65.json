@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Praise awaits You, O God, in Zion; to You vows will be fulfilled.",
       "links": "<a href='/AIV/19/61/8'>Ps. 61:8</a>; <a href='/AIV/19/66/13-14'>Ps. 66:13-14</a>",
-      "comment": "Zion here signifies the holy place of God's presence, prefiguring the spiritual city revealed more fully in the New Covenant (see Hebrews 12:22). The practice of fulfilling vows reflects the people's devotion and God's faithfulness. The verse sets the tone for a liturgical act of worship."
+      "comment": "Zion here signifies the holy place of God's presence, prefiguring the spiritual city revealed more fully in the New Covenant (see Hebrews 12:22). The practice of fulfilling vows reflects the people's devotion and God's faithfulness. The verse sets the tone for a liturgical act of worship.",
+      "sectionHeader": "Praise and Thanksgiving in Zion"
     },
     {
       "pk": 23065002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "By awesome deeds in righteousness You answer us, O God of our salvation, the hope of all the ends of the earth and of the farthest seas.",
       "links": "<a href='/AIV/19/46/8'>Ps. 46:8</a>; <a href='/AIV/42/1/68-69'>Luke 1:68-69</a>",
-      "comment": "God is both righteous and mighty in action, bringing hope not only to Israel but to the whole world—a theme fully revealed in Christ's redemptive work for the nations (see Acts 13:47)."
+      "comment": "God is both righteous and mighty in action, bringing hope not only to Israel but to the whole world—a theme fully revealed in Christ's redemptive work for the nations (see Acts 13:47).",
+      "sectionHeader": "The God of Creation and Salvation"
     },
     {
       "pk": 23065006,
@@ -110,7 +112,8 @@
       "verse": 9,
       "text": "You visit the earth and water it; You greatly enrich it. The river of God is full of water; You provide their grain, for so You have prepared it.",
       "links": "<a href='/AIV/19/104/13-15'>Ps. 104:13-15</a>; <a href='/AIV/44/14/17'>Acts 14:17</a>",
-      "comment": "God’s providence is celebrated through the imagery of abundance. His care for creation provides for human needs, reflecting the ongoing relationship between God and His people, and prefiguring spiritual nourishment."
+      "comment": "God’s providence is celebrated through the imagery of abundance. His care for creation provides for human needs, reflecting the ongoing relationship between God and His people, and prefiguring spiritual nourishment.",
+      "sectionHeader": "The Blessings of God Upon the Earth"
     },
     {
       "pk": 23065010,
@@ -161,5 +164,22 @@
       "comment": "Creation united in praise to God prefigures the harmonious worship of the redeemed. This unity of land and people joyfully responding anticipates the eschatological fulfillment when all things are brought together in perfect order."
     }
   ],
-  "translatedAt": "2025-12-24T06:20:48.005Z"
+  "translatedAt": "2025-12-24T06:20:48.005Z",
+  "sections": [
+    {
+      "title": "Praise and Thanksgiving in Zion",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "The God of Creation and Salvation",
+      "startVerse": 5,
+      "endVerse": 8
+    },
+    {
+      "title": "The Blessings of God Upon the Earth",
+      "startVerse": 9,
+      "endVerse": 13
+    }
+  ]
 }

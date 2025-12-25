@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When Simon heard that Trypho was gathering a large army to invade the land of Judah and destroy it,",
       "links": "<a href='/AIV/20/12/39'>1Macc 12:39</a>; <a href='/AIV/20/13/31'>1Macc 13:31</a>",
-      "comment": "This opening verse sets the political scene, with the ruler Trypho threatening Judah. This historical context underscores the repeated persecution faced by the people of God, reminiscent of earlier Old Testament experiences (<a href='/AIV/2/1/8-14'>Exod. 1:8-14</a>)."
+      "comment": "This opening verse sets the political scene, with the ruler Trypho threatening Judah. This historical context underscores the repeated persecution faced by the people of God, reminiscent of earlier Old Testament experiences (<a href='/AIV/2/1/8-14'>Exod. 1:8-14</a>).",
+      "sectionHeader": "Simon Chosen Leader of Israel"
     },
     {
       "pk": 20013002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "Trypho left Ptolemais with a large army to enter the land of Judah, and Simon with his army faced him everywhere he went.",
       "links": "<a href='/AIV/20/12/48'>1Macc 12:48</a>",
-      "comment": "Trypho's movements typify the continual external threats against God's people, a theme prevalent in Israel's history."
+      "comment": "Trypho's movements typify the continual external threats against God's people, a theme prevalent in Israel's history.",
+      "sectionHeader": "Trypho’s Deception and Jonathan’s Death"
     },
     {
       "pk": 20013014,
@@ -350,7 +352,8 @@
       "verse": 29,
       "text": "He buried him in his family tomb in Modein, and the whole of Israel mourned him with great lamentation.",
       "links": "<a href='/AIV/20/2/70'>1Macc 2:70</a>",
-      "comment": "Proper burial is an important act of piety, foreshadowing respect for the body and the hope of resurrection (<a href='/AIV/43/19/41-42'>John 19:41-42</a>)."
+      "comment": "Proper burial is an important act of piety, foreshadowing respect for the body and the hope of resurrection (<a href='/AIV/43/19/41-42'>John 19:41-42</a>).",
+      "sectionHeader": "The Tomb of the Maccabees"
     },
     {
       "pk": 20013030,
@@ -434,7 +437,8 @@
       "verse": 36,
       "text": "But Simon built the forts of Judea, increased their defenses with high towers, great walls, gates, and bars, and stored supplies within them.",
       "links": "<a href='/AIV/14/14/7'>2 Chr. 14:7</a>",
-      "comment": "Strengthening the land is not just about physical defense, but also about spiritual and communal security."
+      "comment": "Strengthening the land is not just about physical defense, but also about spiritual and communal security.",
+      "sectionHeader": "Simon Granted Independence by Demetrius"
     },
     {
       "pk": 20013037,
@@ -554,7 +558,8 @@
       "verse": 46,
       "text": "In those days Simon camped against Gazara and surrounded it with his army. He made a siege engine and brought it up against the city.",
       "links": "",
-      "comment": "The use of siege engines demonstrates tactical development and resourcefulness in Israel's leaders."
+      "comment": "The use of siege engines demonstrates tactical development and resourcefulness in Israel's leaders.",
+      "sectionHeader": "The Capture and Purification of Gazara"
     },
     {
       "pk": 20013047,
@@ -641,5 +646,32 @@
       "comment": "The return to Jerusalem with rejoicing highlights the theme of restoration and the importance of worshiping God with gratitude. This story prefigures the triumphant entry of Christ into Jerusalem."
     }
   ],
-  "translatedAt": "2025-12-24T05:26:34.219Z"
+  "translatedAt": "2025-12-24T05:26:34.219Z",
+  "sections": [
+    {
+      "title": "Simon Chosen Leader of Israel",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "Trypho’s Deception and Jonathan’s Death",
+      "startVerse": 13,
+      "endVerse": 28
+    },
+    {
+      "title": "The Tomb of the Maccabees",
+      "startVerse": 29,
+      "endVerse": 35
+    },
+    {
+      "title": "Simon Granted Independence by Demetrius",
+      "startVerse": 36,
+      "endVerse": 45
+    },
+    {
+      "title": "The Capture and Purification of Gazara",
+      "startVerse": 46,
+      "endVerse": 53
+    }
+  ]
 }

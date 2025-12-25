@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then he began to speak to them in parables: “A man planted a vineyard, set a hedge around it, dug a winepress, and built a tower. He rented it out to others and went to another country.",
       "links": "<a href='/AIV/23/5/1-2'>Isaiah 5:1-2</a>; <a href='/AIV/40/21/33-46'>Matt. 21:33-46</a>",
-      "comment": "Jesus begins with a parable that recalls Isaiah 5, identifying himself with God’s authority over Israel. The vineyard represents God’s people entrusted to spiritual caretakers."
+      "comment": "Jesus begins with a parable that recalls Isaiah 5, identifying himself with God’s authority over Israel. The vineyard represents God’s people entrusted to spiritual caretakers.",
+      "sectionHeader": "The Parable of the Tenants"
     },
     {
       "pk": 48012002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "Later they sent some Pharisees and Herodians to Jesus to trap him with his words.",
       "links": "<a href='/AIV/40/22/15-16'>Matt. 22:15-16</a>",
-      "comment": "Political and religious factions unite against Jesus, highlighting growing opposition."
+      "comment": "Political and religious factions unite against Jesus, highlighting growing opposition.",
+      "sectionHeader": "Paying Taxes to Caesar"
     },
     {
       "pk": 48012014,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "Then some Sadducees, who say there is no resurrection, came to him and questioned him.",
       "links": "<a href='/AIV/40/22/23'>Matt. 22:23</a>; <a href='/AIV/44/23/8'>Acts 23:8</a>",
-      "comment": "Sadducees reject resurrection, so their challenge tests Jesus’ teaching on life after death."
+      "comment": "Sadducees reject resurrection, so their challenge tests Jesus’ teaching on life after death.",
+      "sectionHeader": "The Question about the Resurrection"
     },
     {
       "pk": 48012019,
@@ -338,7 +341,8 @@
       "verse": 28,
       "text": "One of the scribes came and heard them debating. He saw that Jesus answered them well and asked, “Which commandment is the most important of all?”",
       "links": "<a href='/AIV/40/22/34-36'>Matt. 22:34-36</a>",
-      "comment": "The question concerns the heart of true religious observance. Religious leaders debated such priorities."
+      "comment": "The question concerns the heart of true religious observance. Religious leaders debated such priorities.",
+      "sectionHeader": "The Greatest Commandment"
     },
     {
       "pk": 48012029,
@@ -422,7 +426,8 @@
       "verse": 35,
       "text": "While Jesus was teaching in the temple, he said, “How can the scribes say that the Christ is the son of David?",
       "links": "<a href='/AIV/10/7/12'>2 Sam. 7:12</a>; <a href='/AIV/19/110/1'>Ps. 110:1</a>",
-      "comment": "This phrase invites reflection on the Messiah’s identity—not only Davidic descent but also something greater."
+      "comment": "This phrase invites reflection on the Messiah’s identity—not only Davidic descent but also something greater.",
+      "sectionHeader": "Jesus Questions the Sonship of David"
     },
     {
       "pk": 48012036,
@@ -458,7 +463,8 @@
       "verse": 38,
       "text": "And in his teaching he said, “Beware of the scribes, who like to walk around in long robes, and love greetings in the marketplaces",
       "links": "<a href='/AIV/40/23/5-7'>Matt. 23:5-7</a>",
-      "comment": "Jesus warns against external religiosity and the dangers of pride among religious leaders."
+      "comment": "Jesus warns against external religiosity and the dangers of pride among religious leaders.",
+      "sectionHeader": "Warning against the Scribes"
     },
     {
       "pk": 48012039,
@@ -494,7 +500,8 @@
       "verse": 41,
       "text": "Jesus sat down opposite the treasury and watched the people putting money into the offering box. Many rich people put in large sums.",
       "links": "<a href='/AIV/42/21/1'>Luke 21:1</a>",
-      "comment": "Jesus observes not only the act but the spirit in which offerings are made, stressing the importance of intention and sacrifice."
+      "comment": "Jesus observes not only the act but the spirit in which offerings are made, stressing the importance of intention and sacrifice.",
+      "sectionHeader": "The Widow’s Offering"
     },
     {
       "pk": 48012042,
@@ -533,5 +540,42 @@
       "comment": "Perfect self-gift is pleasing to God; this foreshadows Christ’s total offering and models faith that trusts God for one’s needs, a principle sustaining the Church throughout history."
     }
   ],
-  "translatedAt": "2025-12-24T10:30:45.047Z"
+  "translatedAt": "2025-12-24T10:30:45.047Z",
+  "sections": [
+    {
+      "title": "The Parable of the Tenants",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "Paying Taxes to Caesar",
+      "startVerse": 13,
+      "endVerse": 17
+    },
+    {
+      "title": "The Question about the Resurrection",
+      "startVerse": 18,
+      "endVerse": 27
+    },
+    {
+      "title": "The Greatest Commandment",
+      "startVerse": 28,
+      "endVerse": 34
+    },
+    {
+      "title": "Jesus Questions the Sonship of David",
+      "startVerse": 35,
+      "endVerse": 37
+    },
+    {
+      "title": "Warning against the Scribes",
+      "startVerse": 38,
+      "endVerse": 40
+    },
+    {
+      "title": "The Widow’s Offering",
+      "startVerse": 41,
+      "endVerse": 44
+    }
+  ]
 }

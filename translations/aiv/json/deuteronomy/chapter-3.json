@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then we turned and went up the way to Bashan, and Og king of Bashan came out against us, he and all his people, to battle at Edrei.",
       "links": "<a href='/AIV/4/21/33-35'>Num. 21:33-35</a>; <a href='/AIV/5/1/4'>Deut. 1:4</a>",
-      "comment": "The verse vividly recalls the approach to Bashan, echoing earlier encounters with opposing kings. The militaristic context points to God's providential leadership of Israel."
+      "comment": "The verse vividly recalls the approach to Bashan, echoing earlier encounters with opposing kings. The militaristic context points to God's providential leadership of Israel.",
+      "sectionHeader": "Defeat of Og, King of Bashan"
     },
     {
       "pk": 5003002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "When we took possession of this land at that time, I gave to the Reubenites and Gadites the territory beginning at Aroer, which is by the valley of the Arnon, and half the hill country of Gilead with its cities.",
       "links": "<a href='/AIV/4/32/33'>Num. 32:33</a>; <a href='/AIV/6/13/8'>Josh. 13:8-9</a>",
-      "comment": "Dividing the land foreshadows the principle of inheritance, which finds fulfillment spiritually in the inheritance of the saints (cf. Col. 1:12)."
+      "comment": "Dividing the land foreshadows the principle of inheritance, which finds fulfillment spiritually in the inheritance of the saints (cf. Col. 1:12).",
+      "sectionHeader": "Division of the Conquered Land"
     },
     {
       "pk": 5003013,
@@ -278,7 +280,8 @@
       "verse": 23,
       "text": "And I pleaded with the LORD at that time, saying,",
       "links": "<a href='/AIV/5/9/18'>Deut. 9:18</a>",
-      "comment": "Moses' intercession shows the importance of prayer and mediation—the role of spiritual leaders in pleading for God's favor on behalf of His people is continued in the New Testament, with Christ as chief intercessor (cf. Heb. 7:25)."
+      "comment": "Moses' intercession shows the importance of prayer and mediation—the role of spiritual leaders in pleading for God's favor on behalf of His people is continued in the New Testament, with Christ as chief intercessor (cf. Heb. 7:25).",
+      "sectionHeader": "Moses Forbidden to Enter the Promised Land"
     },
     {
       "pk": 5003024,
@@ -353,5 +356,22 @@
       "comment": "This location marks a place of both sin and renewed covenant, reminding readers of the continual call toward faithfulness and grace."
     }
   ],
-  "translatedAt": "2025-12-24T01:57:54.034Z"
+  "translatedAt": "2025-12-24T01:57:54.034Z",
+  "sections": [
+    {
+      "title": "Defeat of Og, King of Bashan",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "Division of the Conquered Land",
+      "startVerse": 12,
+      "endVerse": 22
+    },
+    {
+      "title": "Moses Forbidden to Enter the Promised Land",
+      "startVerse": 23,
+      "endVerse": 29
+    }
+  ]
 }

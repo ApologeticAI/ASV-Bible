@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Therefore, since the promise of entering His rest remains, let us be afraid, lest any of you seem to have failed to reach it.",
       "links": "<a href='/AIV/19/95/11'>Ps. 95:11</a>; <a href='/AIV/58/3/12-19'>Heb. 3:12-19</a>",
-      "comment": "The author warns believers not to fall short of entering God's rest, echoing Psalm 95:11. This rest points both to salvation and to a future spiritual fulfillment. The reference to 'fear' stresses perseverance and active faith, consistent with traditional Christian teaching on 'working out salvation with fear and trembling' (<a href='/AIV/50/2/12'>Phil. 2:12</a>)."
+      "comment": "The author warns believers not to fall short of entering God's rest, echoing Psalm 95:11. This rest points both to salvation and to a future spiritual fulfillment. The reference to 'fear' stresses perseverance and active faith, consistent with traditional Christian teaching on 'working out salvation with fear and trembling' (<a href='/AIV/50/2/12'>Phil. 2:12</a>).",
+      "sectionHeader": "The Promise of Entering God's Rest"
     },
     {
       "pk": 65004002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "For the word of God is living and active, sharper than any two-edged sword, piercing even to the division of soul and spirit, joints and marrow, and able to judge the thoughts and intentions of the heart.",
       "links": "<a href='/AIV/23/55/11'>Isa. 55:11</a>; <a href='/AIV/49/6/17'>Eph. 6:17</a>",
-      "comment": "God's word performs powerfully in the believer, discerning true intentions and sanctifying the heart. This verse speaks to the real presence and efficacy of God's revelation, working not only intellectually, but spiritually and sacramentally."
+      "comment": "God's word performs powerfully in the believer, discerning true intentions and sanctifying the heart. This verse speaks to the real presence and efficacy of God's revelation, working not only intellectually, but spiritually and sacramentally.",
+      "sectionHeader": "The Power of God's Word"
     },
     {
       "pk": 65004013,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "Since then we have a great High Priest who has passed through the heavens, Jesus, the Son of God, let us hold firmly to our confession.",
       "links": "<a href='/AIV/03/16/2'>Lev. 16:2</a>; <a href='/AIV/58/7/26'>Heb. 7:26</a>",
-      "comment": "Jesus as High Priest brings the old covenant priesthood to fulfillment. This mediatorial role emphasizes His divinity and humanity (cf. John 1:1, 14), and the sacrificial nature of His work, inviting believers to remain steadfast, as would be encouraged in the apostolic tradition."
+      "comment": "Jesus as High Priest brings the old covenant priesthood to fulfillment. This mediatorial role emphasizes His divinity and humanity (cf. John 1:1, 14), and the sacrificial nature of His work, inviting believers to remain steadfast, as would be encouraged in the apostolic tradition.",
+      "sectionHeader": "Jesus the Compassionate High Priest"
     },
     {
       "pk": 65004015,
@@ -197,5 +200,22 @@
       "comment": "Direct access to divine mercy through Christ is proclaimed. The idea of a 'throne of grace' suggests a real, ongoing means by which God gives grace and mercy—a theme deeply rooted in both Old Testament worship and the practice of approaching God through the mediation of Christ."
     }
   ],
-  "translatedAt": "2025-12-24T12:17:44.528Z"
+  "translatedAt": "2025-12-24T12:17:44.528Z",
+  "sections": [
+    {
+      "title": "The Promise of Entering God's Rest",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "The Power of God's Word",
+      "startVerse": 12,
+      "endVerse": 13
+    },
+    {
+      "title": "Jesus the Compassionate High Priest",
+      "startVerse": 14,
+      "endVerse": 16
+    }
+  ]
 }

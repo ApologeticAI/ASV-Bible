@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "These are the sons of Israel: Reuben, Simeon, Levi, Judah, Issachar, Zebulun,",
       "links": "<a href='/AIV/01/29/31-35'>Gen. 29:31-35</a>; <a href='/AIV/02/01/01-04'>Ex. 1:1-4</a>",
-      "comment": "This begins the genealogy of the tribes of Israel. The line of Judah is highlighted particularly, as Christ will come from this tribe. See <a href='/AIV/40/01/02-03'>Matt. 1:2-3</a>."
+      "comment": "This begins the genealogy of the tribes of Israel. The line of Judah is highlighted particularly, as Christ will come from this tribe. See <a href='/AIV/40/01/02-03'>Matt. 1:2-3</a>.",
+      "sectionHeader": "The Sons of Israel"
     },
     {
       "pk": 13002002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "The sons of Judah: Er, Onan, and Shelah. These three were born to him by Bath-shua, the Canaanite woman. Er, Judah's firstborn, was wicked in the sight of the Lord, so He put him to death.",
       "links": "<a href='/AIV/01/38/3-7'>Gen. 38:3-7</a>",
-      "comment": "The special focus on Judah's line foreshadows the Davidic and Messianic line. God's direct judgment demonstrates His sovereignty. Compare <a href='/AIV/45/09/14-18'>Rom. 9:14-18</a> regarding God's choices."
+      "comment": "The special focus on Judah's line foreshadows the Davidic and Messianic line. God's direct judgment demonstrates His sovereignty. Compare <a href='/AIV/45/09/14-18'>Rom. 9:14-18</a> regarding God's choices.",
+      "sectionHeader": "The Descendants of Judah"
     },
     {
       "pk": 13002004,
@@ -110,7 +112,8 @@
       "verse": 9,
       "text": "The sons born to Hezron were: Jerahmeel, Ram, and Chelubai.",
       "links": "<a href='/AIV/08/04/19'>Ruth 4:19</a>",
-      "comment": "Hezron’s line is crucial, particularly Ram, ancestor of David and symbolizing the succession of true spiritual authority."
+      "comment": "Hezron’s line is crucial, particularly Ram, ancestor of David and symbolizing the succession of true spiritual authority.",
+      "sectionHeader": "The Descendants of Hezron"
     },
     {
       "pk": 13002010,
@@ -302,7 +305,8 @@
       "verse": 25,
       "text": "The sons of Jerahmeel, the firstborn of Hezron: Ram the firstborn, Bunah, Oren, Ozem, and Ahijah.",
       "links": "<a href='/AIV/13/02/09'>1 Chr. 2:9</a>",
-      "comment": "Jerahmeel’s descendants form an administrative class, supporting the worship and order of Israel."
+      "comment": "Jerahmeel’s descendants form an administrative class, supporting the worship and order of Israel.",
+      "sectionHeader": "The Descendants of Jerahmeel"
     },
     {
       "pk": 13002026,
@@ -506,7 +510,8 @@
       "verse": 42,
       "text": "The sons of Caleb, the brother of Jerahmeel: Mesha his firstborn, who was the father of Ziph; and the sons of Mareshah the father of Hebron.",
       "links": "<a href='/AIV/06/14/13-15'>Josh. 14:13-15</a>",
-      "comment": "Caleb and his descendants become important landholders and leaders during Israel’s settlement."
+      "comment": "Caleb and his descendants become important landholders and leaders during Israel’s settlement.",
+      "sectionHeader": "The Descendants of Caleb"
     },
     {
       "pk": 13002043,
@@ -602,7 +607,8 @@
       "verse": 50,
       "text": "These were the descendants of Caleb: the sons of Hur, the firstborn of Ephrathah: Shobal the father of Kiriath-jearim,",
       "links": "<a href='/AIV/06/15/60'>Josh. 15:60</a>",
-      "comment": "Kiriath-jearim becomes a center for the ark, symbolizing the presence of God among His people."
+      "comment": "Kiriath-jearim becomes a center for the ark, symbolizing the presence of God among His people.",
+      "sectionHeader": "The Descendants of Hur"
     },
     {
       "pk": 13002051,
@@ -665,5 +671,37 @@
       "comment": "The scribes play a crucial role in preserving Scripture and instruction, prefiguring the preserving and teaching role of the visible Church."
     }
   ],
-  "translatedAt": "2025-12-24T04:04:49.087Z"
+  "translatedAt": "2025-12-24T04:04:49.087Z",
+  "sections": [
+    {
+      "title": "The Sons of Israel",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "The Descendants of Judah",
+      "startVerse": 3,
+      "endVerse": 8
+    },
+    {
+      "title": "The Descendants of Hezron",
+      "startVerse": 9,
+      "endVerse": 24
+    },
+    {
+      "title": "The Descendants of Jerahmeel",
+      "startVerse": 25,
+      "endVerse": 41
+    },
+    {
+      "title": "The Descendants of Caleb",
+      "startVerse": 42,
+      "endVerse": 49
+    },
+    {
+      "title": "The Descendants of Hur",
+      "startVerse": 50,
+      "endVerse": 55
+    }
+  ]
 }

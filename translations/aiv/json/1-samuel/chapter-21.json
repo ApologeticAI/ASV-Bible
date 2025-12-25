@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then David came to Nob, to Ahimelech the priest. Ahimelech trembled when he met David, and said to him, 'Why are you alone, and no one with you?'",
       "links": "<a href='/AIV/9/22/18-19'>1Sam 22:18-19</a>; <a href='/AIV/9/2/27-36'>1Sam 2:27-36</a>",
-      "comment": "David comes to Nob, significant as a priestly city. His solitary arrival arouses suspicion, foreshadowing the trials of God's chosen. The priestly context hints at the sacred continuity of temple worship (see Lev. 21)."
+      "comment": "David comes to Nob, significant as a priestly city. His solitary arrival arouses suspicion, foreshadowing the trials of God's chosen. The priestly context hints at the sacred continuity of temple worship (see Lev. 21).",
+      "sectionHeader": "David and the Holy Bread at Nob"
     },
     {
       "pk": 9021002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "Then David arose and fled that day from Saul, and went to Achish the king of Gath.",
       "links": "<a href='/AIV/9/27/2-3'>1Sam 27:2-3</a>; <a href='/AIV/9/17/4'>1Sam 17:4</a>",
-      "comment": "David seeks refuge among the Philistines, notably Goliath's hometown, illustrating the reversal of circumstance and the mystery of divine providence."
+      "comment": "David seeks refuge among the Philistines, notably Goliath's hometown, illustrating the reversal of circumstance and the mystery of divine providence.",
+      "sectionHeader": "David Flees to Achish of Gath"
     },
     {
       "pk": 9021011,
@@ -185,5 +187,17 @@
       "comment": "Achish refuses David entry and thus David is spared—illustrating that sometimes God's will is accomplished through the seemingly foolish or unexpected, a recurring theme in Scripture (cf. 1 Cor. 1:27)."
     }
   ],
-  "translatedAt": "2025-12-24T03:01:10.003Z"
+  "translatedAt": "2025-12-24T03:01:10.003Z",
+  "sections": [
+    {
+      "title": "David and the Holy Bread at Nob",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "David Flees to Achish of Gath",
+      "startVerse": 10,
+      "endVerse": 15
+    }
+  ]
 }

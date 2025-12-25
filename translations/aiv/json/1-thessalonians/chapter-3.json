@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "So when we could no longer bear it, we were willing to be left alone in Athens,",
       "links": "<a href='/AIV/44/17/15'>Acts 17:15</a>; <a href='/AIV/52/3/5'>1Thess 3:5</a>",
-      "comment": "Paul expresses the deep pastoral concern for the Thessalonians. The mention of being 'left alone in Athens' shows the cost and sacrifice of apostleship for the sake of the growing Church. This reveals Paul's willingness to put the spiritual needs of his flock above his own comfort, echoing Christ's own sacrificial love (cf. John 10:11)."
+      "comment": "Paul expresses the deep pastoral concern for the Thessalonians. The mention of being 'left alone in Athens' shows the cost and sacrifice of apostleship for the sake of the growing Church. This reveals Paul's willingness to put the spiritual needs of his flock above his own comfort, echoing Christ's own sacrificial love (cf. John 10:11).",
+      "sectionHeader": "Timothy Sent to Strengthen the Thessalonians"
     },
     {
       "pk": 59003002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "But now Timothy has come to us from you, and has brought us good news of your faith and love, and that you always remember us kindly and long to see us, just as we long to see you.",
       "links": "<a href='/AIV/44/18/5'>Acts 18:5</a>; <a href='/AIV/57/7'>Philem. 7</a>",
-      "comment": "The focus on 'faith and love' as core Christian virtues shows that faith does not stand alone but works in charity (see Gal. 5:6). The longing for communion with one another hints at the importance of unity and fellowship in the Body of Christ, centered on the apostolic message."
+      "comment": "The focus on 'faith and love' as core Christian virtues shows that faith does not stand alone but works in charity (see Gal. 5:6). The longing for communion with one another hints at the importance of unity and fellowship in the Body of Christ, centered on the apostolic message.",
+      "sectionHeader": "Timothy’s Good Report"
     },
     {
       "pk": 59003007,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "Now may our God and Father himself and our Lord Jesus direct our way to you,",
       "links": "<a href='/AIV/45/1/10'>Rom. 1:10</a>",
-      "comment": "Paul’s prayer to both the Father and the Lord Jesus, spoken together in the same breath, reflects Jesus’ divine status. This carries strong implications for the divinity of Christ and the unity of the mission between the Father and the Son (cf. John 10:30)."
+      "comment": "Paul’s prayer to both the Father and the Lord Jesus, spoken together in the same breath, reflects Jesus’ divine status. This carries strong implications for the divinity of Christ and the unity of the mission between the Father and the Son (cf. John 10:30).",
+      "sectionHeader": "Paul’s Prayer for the Thessalonians"
     },
     {
       "pk": 59003012,
@@ -161,5 +164,22 @@
       "comment": "The call to holiness is eschatological—preparing for Christ's return with all his saints. This priestly and holy calling is communal and not individualistic, pointing to the need for an ecclesial life that is blameless before God (cf. Heb. 12:14; Eph. 5:27)."
     }
   ],
-  "translatedAt": "2025-12-24T12:08:35.450Z"
+  "translatedAt": "2025-12-24T12:08:35.450Z",
+  "sections": [
+    {
+      "title": "Timothy Sent to Strengthen the Thessalonians",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Timothy’s Good Report",
+      "startVerse": 6,
+      "endVerse": 10
+    },
+    {
+      "title": "Paul’s Prayer for the Thessalonians",
+      "startVerse": 11,
+      "endVerse": 13
+    }
+  ]
 }

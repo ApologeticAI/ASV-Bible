@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The word of the LORD came to me, saying:",
       "links": "<a href='/AIV/24/1/4'>Jer. 1:4</a>; <a href='/AIV/24/7/1'>Jer. 7:1</a>",
-      "comment": "A consistent motif in Jeremiah is the phrase 'the word of the LORD came to me,' highlighting divine revelation to the prophet. This emphasizes that genuine teaching comes from God Himself through appointed messengers."
+      "comment": "A consistent motif in Jeremiah is the phrase 'the word of the LORD came to me,' highlighting divine revelation to the prophet. This emphasizes that genuine teaching comes from God Himself through appointed messengers.",
+      "sectionHeader": "Jeremiah Forbidden to Marry or Mourn"
     },
     {
       "pk": 30016002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "'And when you tell this people all these words and they ask you, ‘Why has the LORD pronounced all this great disaster against us? What is our sin, what is our iniquity that we have committed against the LORD our God?’'",
       "links": "<a href='/AIV/24/5/19'>Jer. 5:19</a>; <a href='/AIV/24/5/1'>Jer. 5:1</a>",
-      "comment": "The people's question shows spiritual blindness and hardness of heart. Often, stubbornness blocks understanding of God’s judgment and mercy."
+      "comment": "The people's question shows spiritual blindness and hardness of heart. Often, stubbornness blocks understanding of God’s judgment and mercy.",
+      "sectionHeader": "The Cause of Judah’s Judgment"
     },
     {
       "pk": 30016011,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "'Yet behold, the days are coming,' declares the LORD, 'when it will no longer be said, “As the LORD lives who brought up the children of Israel out of the land of Egypt,”'",
       "links": "<a href='/AIV/02/12/51'>Ex. 12:51</a>; <a href='/AIV/24/23/7-8'>Jer. 23:7-8</a>",
-      "comment": "A greater act of deliverance is foretold, surpassing even the Exodus. This points to the continuous, living relationship between God and His people—anticipating a new covenant era."
+      "comment": "A greater act of deliverance is foretold, surpassing even the Exodus. This points to the continuous, living relationship between God and His people—anticipating a new covenant era.",
+      "sectionHeader": "Promise of Restoration from Exile"
     },
     {
       "pk": 30016015,
@@ -194,7 +197,8 @@
       "verse": 16,
       "text": "'I am about to send for many fishermen,' declares the LORD, 'and they will catch them; afterward I will send for many hunters, and they will hunt them from every mountain and hill and out of the clefts of the rocks.'",
       "links": "<a href='/AIV/40/4/19'>Matt. 4:19</a>; <a href='/AIV/24/49/9'>Jer. 49:9</a>",
-      "comment": "This imagery is later echoed by Jesus in His call to make 'fishers of men.' The dual symbolism of gathering and searching points to conversion and the calling of the faithful into the new covenant community."
+      "comment": "This imagery is later echoed by Jesus in His call to make 'fishers of men.' The dual symbolism of gathering and searching points to conversion and the calling of the faithful into the new covenant community.",
+      "sectionHeader": "God’s Judgment and the Nations Turn to the Lord"
     },
     {
       "pk": 30016017,
@@ -257,5 +261,27 @@
       "comment": "God promises revelation of His power and identity. This prepares the way for the New Testament manifestation of God’s name and character, ultimately fulfilled in Christ who reveals the fullness of the divine."
     }
   ],
-  "translatedAt": "2025-12-24T08:30:25.296Z"
+  "translatedAt": "2025-12-24T08:30:25.296Z",
+  "sections": [
+    {
+      "title": "Jeremiah Forbidden to Marry or Mourn",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "The Cause of Judah’s Judgment",
+      "startVerse": 10,
+      "endVerse": 13
+    },
+    {
+      "title": "Promise of Restoration from Exile",
+      "startVerse": 14,
+      "endVerse": 15
+    },
+    {
+      "title": "God’s Judgment and the Nations Turn to the Lord",
+      "startVerse": 16,
+      "endVerse": 21
+    }
+  ]
 }

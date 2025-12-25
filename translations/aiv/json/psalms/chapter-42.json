@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "As the deer pants for streams of water, so my soul pants for You, O God.",
       "links": "<a href='/AIV/19/63/1'>Ps. 63:1</a>; <a href='/AIV/19/84/2'>Ps. 84:2</a>",
-      "comment": "The imagery of intense longing for God is foundational for personal devotion. The soul's thirst for God alludes also to a deeper spiritual longing that is only satisfied fully through union with God's presence (see Ps. 63:1)."
+      "comment": "The imagery of intense longing for God is foundational for personal devotion. The soul's thirst for God alludes also to a deeper spiritual longing that is only satisfied fully through union with God's presence (see Ps. 63:1).",
+      "sectionHeader": "Longing for God"
     },
     {
       "pk": 23042002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "My soul is cast down within me; therefore I remember You from the land of the Jordan, and of Hermon, from Mount Mizar.",
       "links": "<a href='/AIV/05/3/8'>Deut. 3:8</a>; <a href='/AIV/19/77/11'>Ps. 77:11</a>",
-      "comment": "Even at a distance from the sanctuary, remembrance of God uplifts the soul. The geographical references show real longing to be near the center of worship, reflecting the vital role of sacred places in nurturing faith."
+      "comment": "Even at a distance from the sanctuary, remembrance of God uplifts the soul. The geographical references show real longing to be near the center of worship, reflecting the vital role of sacred places in nurturing faith.",
+      "sectionHeader": "A Soul Cast Down and Remembering God"
     },
     {
       "pk": 23042007,
@@ -137,5 +139,17 @@
       "comment": "The refrain of hope renews trust in God despite emotional turmoil. The psalmist’s perseverance in praise, in community and in solitude, demonstrates the need for ongoing faith, perseverance, and daily participation in the worship and remembrance of God."
     }
   ],
-  "translatedAt": "2025-12-24T06:13:24.759Z"
+  "translatedAt": "2025-12-24T06:13:24.759Z",
+  "sections": [
+    {
+      "title": "Longing for God",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "A Soul Cast Down and Remembering God",
+      "startVerse": 6,
+      "endVerse": 11
+    }
+  ]
 }

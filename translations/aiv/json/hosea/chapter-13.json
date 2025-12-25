@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When Ephraim spoke, people trembled; he was exalted in Israel. But he became guilty by worshiping Baal, and so he died.",
       "links": "<a href='/AIV/28/11/7'>Hos. 11:7</a>; <a href='/AIV/09/15/23'>1 Sam. 15:23</a>",
-      "comment": "Ephraim represents the northern kingdom, whose apostasy led to its downfall. The language of 'death' reflects spiritual separation from God, which mirrors New Testament teachings on sin as death (Rom. 6:23)."
+      "comment": "Ephraim represents the northern kingdom, whose apostasy led to its downfall. The language of 'death' reflects spiritual separation from God, which mirrors New Testament teachings on sin as death (Rom. 6:23).",
+      "sectionHeader": "Idolatry and Its Consequences"
     },
     {
       "pk": 35013002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "So I will become like a lion to them, like a leopard lurking by the path.",
       "links": "<a href='/AIV/23/31/4'>Isa. 31:4</a>; <a href='/AIV/25/3/10'>Lam. 3:10</a>",
-      "comment": "God’s judgment is portrayed with animal imagery. The consequence of persistent sin is discipline, and these images reflect both justice and the need of repentance, which opens the way for mercy and restoration."
+      "comment": "God’s judgment is portrayed with animal imagery. The consequence of persistent sin is discipline, and these images reflect both justice and the need of repentance, which opens the way for mercy and restoration.",
+      "sectionHeader": "The LORD’s Judgment on Israel"
     },
     {
       "pk": 35013008,
@@ -122,7 +124,8 @@
       "verse": 10,
       "text": "Where is your king now, that he may save you? Where are your rulers, all those you asked for? Let them deliver you in your time of trouble.",
       "links": "<a href='/AIV/09/08/19'>1 Sam. 8:19</a>; <a href='/AIV/28/10/3'>Hos. 10:3</a>",
-      "comment": "Israel asked for human kings, rejecting God’s kingship (1 Sam. 8). Earthly leaders prove unable to save—a theme later echoed when Christ, the true King, arrives and fulfills God's promise of deliverance (John 18:36-37)."
+      "comment": "Israel asked for human kings, rejecting God’s kingship (1 Sam. 8). Earthly leaders prove unable to save—a theme later echoed when Christ, the true King, arrives and fulfills God's promise of deliverance (John 18:36-37).",
+      "sectionHeader": "The Futility of Kings and the Certainty of Punishment"
     },
     {
       "pk": 35013011,
@@ -194,8 +197,31 @@
       "verse": 16,
       "text": "Samaria will bear her guilt, because she rebelled against her God. Her people will fall by the sword, their infants will be dashed to the ground, and pregnant women ripped open.",
       "links": "<a href='/AIV/12/08/12'>2 Kings 8:12</a>; <a href='/AIV/28/10/14'>Hos. 10:14</a>",
-      "comment": "Graphic prophecy of judgment for rebellion. The severity intends to awaken repentance and the desire for restoration, foreshadowing the mercy extended in the new covenant through Christ's sacrifice and the promise of healing (Isa. 53:5)."
+      "comment": "Graphic prophecy of judgment for rebellion. The severity intends to awaken repentance and the desire for restoration, foreshadowing the mercy extended in the new covenant through Christ's sacrifice and the promise of healing (Isa. 53:5).",
+      "sectionHeader": "Destruction of Samaria"
     }
   ],
-  "translatedAt": "2025-12-24T09:39:40.179Z"
+  "translatedAt": "2025-12-24T09:39:40.179Z",
+  "sections": [
+    {
+      "title": "Idolatry and Its Consequences",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "The LORD’s Judgment on Israel",
+      "startVerse": 7,
+      "endVerse": 9
+    },
+    {
+      "title": "The Futility of Kings and the Certainty of Punishment",
+      "startVerse": 10,
+      "endVerse": 15
+    },
+    {
+      "title": "Destruction of Samaria",
+      "startVerse": 16,
+      "endVerse": 16
+    }
+  ]
 }

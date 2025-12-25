@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then Joseph fell upon his father’s face and wept over him and kissed him.",
       "links": "<a href='/AIV/01/46/4'>Gen. 46:4</a>; <a href='/AIV/44/7/15'>Acts 7:15</a>",
-      "comment": "Joseph honors his father Jacob with love and reverence at his death. This foreshadows Christian practices of honoring the dead, which emphasizes both respect for the body and hope of resurrection (cf. 1 Thess. 4:13-14)."
+      "comment": "Joseph honors his father Jacob with love and reverence at his death. This foreshadows Christian practices of honoring the dead, which emphasizes both respect for the body and hope of resurrection (cf. 1 Thess. 4:13-14).",
+      "sectionHeader": "The Burial of Jacob"
     },
     {
       "pk": 1050002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "When Joseph’s brothers saw that their father was dead, they said, 'What if Joseph bears a grudge against us and repays us in full for all the evil we did to him?'",
       "links": "<a href='/AIV/01/37/28'>Gen. 37:28</a>; <a href='/AIV/40/18/21-22'>Matt. 18:21-22</a>",
-      "comment": "The brothers’ fear reflects awareness of their guilt. Joseph becomes a figure of Christ by offering forgiveness for grave wrongs—foreshadowing the forgiveness and mercy central to the New Covenant."
+      "comment": "The brothers’ fear reflects awareness of their guilt. Joseph becomes a figure of Christ by offering forgiveness for grave wrongs—foreshadowing the forgiveness and mercy central to the New Covenant.",
+      "sectionHeader": "Joseph Forgives His Brothers"
     },
     {
       "pk": 1050016,
@@ -266,7 +268,8 @@
       "verse": 22,
       "text": "So Joseph remained in Egypt, he and his father’s house. And Joseph lived one hundred and ten years.",
       "links": "<a href='/AIV/01/41/46'>Gen. 41:46</a>; <a href='/AIV/06/24/29'>Josh. 24:29</a>",
-      "comment": "A long life is a blessing and sign of God’s favor (see Ps. 91:16). Joseph’s presence in Egypt ensures the preservation of God’s people in a foreign land."
+      "comment": "A long life is a blessing and sign of God’s favor (see Ps. 91:16). Joseph’s presence in Egypt ensures the preservation of God’s people in a foreign land.",
+      "sectionHeader": "The Death of Joseph"
     },
     {
       "pk": 1050023,
@@ -317,5 +320,22 @@
       "comment": "Though Joseph dies in Egypt, his hope is set on God’s promises and on being gathered with his ancestors’ remains in the promised land. The care of his body until the fulfillment of this hope anticipates the final bodily resurrection."
     }
   ],
-  "translatedAt": "2025-12-24T00:46:41.225Z"
+  "translatedAt": "2025-12-24T00:46:41.225Z",
+  "sections": [
+    {
+      "title": "The Burial of Jacob",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "Joseph Forgives His Brothers",
+      "startVerse": 15,
+      "endVerse": 21
+    },
+    {
+      "title": "The Death of Joseph",
+      "startVerse": 22,
+      "endVerse": 26
+    }
+  ]
 }

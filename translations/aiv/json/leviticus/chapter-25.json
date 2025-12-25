@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The LORD spoke to Moses on Mount Sinai, saying,",
       "links": "<a href='/AIV/3/23/1'>Lev. 23:1</a>; <a href='/AIV/5/27/1'>Deut. 27:1</a>",
-      "comment": "The setting is clarified—God gives this law while Moses is on Sinai, highlighting the authoritative source of the law. This connects to the giving of the covenant (Exodus 19)."
+      "comment": "The setting is clarified—God gives this law while Moses is on Sinai, highlighting the authoritative source of the law. This connects to the giving of the covenant (Exodus 19).",
+      "sectionHeader": "The Sabbatical Year"
     },
     {
       "pk": 3025002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "\"You shall count seven Sabbaths of years—seven times seven years—so that the time of the seven Sabbaths of years gives you forty-nine years.",
       "links": "<a href='/AIV/3/25/4'>Lev. 25:4</a>; <a href='/AIV/27/9/24'>Dan. 9:24</a>",
-      "comment": "The emphasis on 'seven sevens'—49 years—links to completion and fullness, concepts deep in biblical numerology and prophecy."
+      "comment": "The emphasis on 'seven sevens'—49 years—links to completion and fullness, concepts deep in biblical numerology and prophecy.",
+      "sectionHeader": "The Year of Jubilee"
     },
     {
       "pk": 3025009,
@@ -278,7 +280,8 @@
       "verse": 23,
       "text": "\"The land shall not be sold permanently, for the land is mine; for you are strangers and sojourners with me.",
       "links": "<a href='/AIV/19/24/1'>Ps. 24:1</a>; <a href='/AIV/58/11/13'>Hebrews 11:13</a>",
-      "comment": "God’s declared ownership is foundational; stewardship is key. Believers today are also 'pilgrims' in this world (Hebrews 11:13)."
+      "comment": "God’s declared ownership is foundational; stewardship is key. Believers today are also 'pilgrims' in this world (Hebrews 11:13).",
+      "sectionHeader": "Redemption of Property"
     },
     {
       "pk": 3025024,
@@ -422,7 +425,8 @@
       "verse": 35,
       "text": "\"If your brother becomes poor and cannot maintain himself with you, you shall support him as though he were a stranger and a sojourner, and he shall live with you.",
       "links": "<a href='/AIV/2/22/21-24'>Exod. 22:21-24</a>",
-      "comment": "Charity and hospitality are hallmarks of the law; this prefigures the New Testament command to assist the poor (Matt. 25:35-40)."
+      "comment": "Charity and hospitality are hallmarks of the law; this prefigures the New Testament command to assist the poor (Matt. 25:35-40).",
+      "sectionHeader": "Compassion for the Poor"
     },
     {
       "pk": 3025036,
@@ -470,7 +474,8 @@
       "verse": 39,
       "text": "\"If your brother becomes poor beside you and sells himself to you, you shall not make him serve as a slave.",
       "links": "<a href='/AIV/2/21/2-6'>Exod. 21:2-6</a>",
-      "comment": "Enslavement within God’s people is prohibited—dignity is restored, pointing to how Christian community upholds freedom in Christ."
+      "comment": "Enslavement within God’s people is prohibited—dignity is restored, pointing to how Christian community upholds freedom in Christ.",
+      "sectionHeader": "Laws Regarding Slavery"
     },
     {
       "pk": 3025040,
@@ -665,5 +670,32 @@
       "comment": "God’s claim over his people is as Redeemer and Lord. The New Testament affirms this identity in Christ—“bought with a price” (1 Cor. 6:20)."
     }
   ],
-  "translatedAt": "2025-12-24T01:25:28.145Z"
+  "translatedAt": "2025-12-24T01:25:28.145Z",
+  "sections": [
+    {
+      "title": "The Sabbatical Year",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "The Year of Jubilee",
+      "startVerse": 8,
+      "endVerse": 22
+    },
+    {
+      "title": "Redemption of Property",
+      "startVerse": 23,
+      "endVerse": 34
+    },
+    {
+      "title": "Compassion for the Poor",
+      "startVerse": 35,
+      "endVerse": 38
+    },
+    {
+      "title": "Laws Regarding Slavery",
+      "startVerse": 39,
+      "endVerse": 55
+    }
+  ]
 }

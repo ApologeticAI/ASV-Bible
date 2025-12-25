@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The LORD spoke to Moses in the wilderness of Sinai, in the Tent of Meeting, on the first day of the second month in the second year after the people of Israel had come out of Egypt. He said:",
       "links": "<a href='/AIV/2/40/34-35'>Ex. 40:34-35</a>; <a href='/AIV/3/1/1'>Lev. 1:1</a>",
-      "comment": "The Tent of Meeting is the central place of God's presence among His people. Notice the precise dating, which demonstrates the historical reliability and attention to sacred time."
+      "comment": "The Tent of Meeting is the central place of God's presence among His people. Notice the precise dating, which demonstrates the historical reliability and attention to sacred time.",
+      "sectionHeader": "The Command to Take a Census"
     },
     {
       "pk": 4001002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "And with you there shall be a man from each tribe, each head of his father's house.",
       "links": "<a href='/AIV/4/1/44'>Num. 1:44</a>",
-      "comment": "Leadership flows through family and tribe, foreshadowing apostolic succession and spiritual authority."
+      "comment": "Leadership flows through family and tribe, foreshadowing apostolic succession and spiritual authority.",
+      "sectionHeader": "Leaders Appointed for the Census"
     },
     {
       "pk": 4001005,
@@ -242,7 +244,8 @@
       "verse": 20,
       "text": "The sons of Reuben, Israel's firstborn, their generations, by their clans, by fathers' houses, counting every man twenty years old and up, all who could go to war:",
       "links": "<a href='/AIV/1/49/3'>Gen. 49:3</a>",
-      "comment": "Reuben’s primacy by birth is contrasted with spiritual inheritance, suggesting that mere physical ancestry is not all."
+      "comment": "Reuben’s primacy by birth is contrasted with spiritual inheritance, suggesting that mere physical ancestry is not all.",
+      "sectionHeader": "The Numbering of the Tribes"
     },
     {
       "pk": 4001021,
@@ -566,7 +569,8 @@
       "verse": 47,
       "text": "But the Levites, according to the tribe of their fathers, were not counted among them.",
       "links": "<a href='/AIV/4/1/49'>Num. 1:49</a>; <a href='/AIV/4/3/6'>Num. 3:6</a>",
-      "comment": "The Levites are set apart for service, highlighting the necessity of a distinct priestly ministry."
+      "comment": "The Levites are set apart for service, highlighting the necessity of a distinct priestly ministry.",
+      "sectionHeader": "Levites Exempted from the Census"
     },
     {
       "pk": 4001048,
@@ -653,5 +657,27 @@
       "comment": "Obedience to God’s ordained leaders assures unity, order, and blessing—the essential foundation for a holy people."
     }
   ],
-  "translatedAt": "2025-12-24T01:27:53.098Z"
+  "translatedAt": "2025-12-24T01:27:53.098Z",
+  "sections": [
+    {
+      "title": "The Command to Take a Census",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "Leaders Appointed for the Census",
+      "startVerse": 4,
+      "endVerse": 19
+    },
+    {
+      "title": "The Numbering of the Tribes",
+      "startVerse": 20,
+      "endVerse": 46
+    },
+    {
+      "title": "Levites Exempted from the Census",
+      "startVerse": 47,
+      "endVerse": 54
+    }
+  ]
 }

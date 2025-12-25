@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The proverbs of Solomon, son of David, king of Israel:",
       "links": "<a href='/AIV/11/3/12'>1 Kings 3:12</a>; <a href='/AIV/14/1/1'>2 Chronicles 1:1</a>",
-      "comment": "This introduction clearly attributes the following wisdom to Solomon, tying the collection to Israel's royal and divinely appointed lineage."
+      "comment": "This introduction clearly attributes the following wisdom to Solomon, tying the collection to Israel's royal and divinely appointed lineage.",
+      "sectionHeader": "Purpose and Theme of Proverbs"
     },
     {
       "pk": 24001002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Hear, my son, your father's instruction, and do not forsake your mother's teaching,",
       "links": "<a href='/AIV/5/6/7'>Deut. 6:7</a>; <a href='/AIV/20/6/20'>Proverbs 6:20</a>",
-      "comment": "Instruction from both parents is emphasized, foreshadowing the honor due to family and tradition."
+      "comment": "Instruction from both parents is emphasized, foreshadowing the honor due to family and tradition.",
+      "sectionHeader": "Warning Against the Enticement of Sinners"
     },
     {
       "pk": 24001009,
@@ -242,7 +244,8 @@
       "verse": 20,
       "text": "Wisdom cries aloud in the street, in the public squares she raises her voice;",
       "links": "<a href='/AIV/20/8/1-3'>Proverbs 8:1-3</a>",
-      "comment": "Wisdom is personified here, later viewed by many as prefiguring the divine Logos who speaks to humanity (cf. John 1:1-5)."
+      "comment": "Wisdom is personified here, later viewed by many as prefiguring the divine Logos who speaks to humanity (cf. John 1:1-5).",
+      "sectionHeader": "The Call of Wisdom"
     },
     {
       "pk": 24001021,
@@ -401,5 +404,22 @@
       "comment": "Listening and obedience bring steadfast security. See Matthew 7 for Jesus’ teaching on building on a firm foundation, highlighting the importance of rightly responding to wisdom and grace."
     }
   ],
-  "translatedAt": "2025-12-24T06:50:39.518Z"
+  "translatedAt": "2025-12-24T06:50:39.518Z",
+  "sections": [
+    {
+      "title": "Purpose and Theme of Proverbs",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Warning Against the Enticement of Sinners",
+      "startVerse": 8,
+      "endVerse": 19
+    },
+    {
+      "title": "The Call of Wisdom",
+      "startVerse": 20,
+      "endVerse": 33
+    }
+  ]
 }

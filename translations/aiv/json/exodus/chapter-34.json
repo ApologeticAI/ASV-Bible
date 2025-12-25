@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The LORD said to Moses, 'Cut for yourself two stone tablets like the first ones, and I will write on the tablets the words that were on the first tablets, which you broke.'",
       "links": "<a href='/AIV/2/31/18'>Exod 31:18</a>; <a href='/AIV/5/10/1-4'>Deut 10:1-4</a>",
-      "comment": "God calls Moses to remake the tablets, showing both divine justice and mercy. The initiative belongs to God, who restores what was lost through human failure."
+      "comment": "God calls Moses to remake the tablets, showing both divine justice and mercy. The initiative belongs to God, who restores what was lost through human failure.",
+      "sectionHeader": "The New Tablets of the Law"
     },
     {
       "pk": 2034002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "The LORD descended in the cloud and stood there with him, and proclaimed the name of the LORD.",
       "links": "<a href='/AIV/2/19/9'>Exod 19:9</a>; <a href='/AIV/2/33/19'>Exod 33:19</a>",
-      "comment": "God’s descent in the cloud recalls His presence in the tabernacle, showing both transcendence and immanence. The proclamation of His name is a declaration of His character."
+      "comment": "God’s descent in the cloud recalls His presence in the tabernacle, showing both transcendence and immanence. The proclamation of His name is a declaration of His character.",
+      "sectionHeader": "The Lord’s Revelation to Moses"
     },
     {
       "pk": 2034006,
@@ -122,7 +124,8 @@
       "verse": 10,
       "text": "He said, 'Behold, I am making a covenant. Before all your people, I will do wonders never before done in all the earth or in any nation, so that all the people among whom you live may see the work of the LORD. For it is a fearful thing that I am about to do with you.'",
       "links": "<a href='/AIV/2/19/5-6'>Exod 19:5-6</a>; <a href='/AIV/2/15/11'>Exod 15:11</a>",
-      "comment": "God’s renewal of covenant comes with a promise of unique signs, marking Israel as God’s elect. The language of marvels prepares for later saving acts, fulfilled in Christ."
+      "comment": "God’s renewal of covenant comes with a promise of unique signs, marking Israel as God’s elect. The language of marvels prepares for later saving acts, fulfilled in Christ.",
+      "sectionHeader": "Renewal of the Covenant and Ritual Laws"
     },
     {
       "pk": 2034011,
@@ -350,7 +353,8 @@
       "verse": 29,
       "text": "When Moses came down from Mount Sinai with the two tablets of the testimony in his hand, as he came down from the mountain, Moses did not know that the skin of his face shone because he had been talking with God.",
       "links": "<a href='/AIV/2/24/12'>Exod 24:12</a>; <a href='/AIV/47/3/7'>2 Cor 3:7-18</a>",
-      "comment": "Moses’ radiant face marks the transformative effect of being in God’s presence. The radiance foreshadows the spiritual transformation promised to all who encounter God through new covenant worship."
+      "comment": "Moses’ radiant face marks the transformative effect of being in God’s presence. The radiance foreshadows the spiritual transformation promised to all who encounter God through new covenant worship.",
+      "sectionHeader": "Moses' Face Shines"
     },
     {
       "pk": 2034030,
@@ -425,5 +429,27 @@
       "comment": "The recurring veil underscores both reverence and mystery surrounding God’s presence, suggesting layers of revelation completed through Christ, the ultimate Mediator. Union with God is made possible by transformation through the Spirit."
     }
   ],
-  "translatedAt": "2025-12-24T01:05:36.139Z"
+  "translatedAt": "2025-12-24T01:05:36.139Z",
+  "sections": [
+    {
+      "title": "The New Tablets of the Law",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "The Lord’s Revelation to Moses",
+      "startVerse": 5,
+      "endVerse": 9
+    },
+    {
+      "title": "Renewal of the Covenant and Ritual Laws",
+      "startVerse": 10,
+      "endVerse": 28
+    },
+    {
+      "title": "Moses' Face Shines",
+      "startVerse": 29,
+      "endVerse": 35
+    }
+  ]
 }

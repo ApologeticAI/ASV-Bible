@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then the people of the land took Jehoahaz the son of Josiah and made him king in Jerusalem in place of his father.",
       "links": "<a href='/AIV/12/23/30'>2 Kings 23:30</a>",
-      "comment": "Jehoahaz’s rise to kingship shows the nation’s involvement in choosing leaders, echoing earlier times when the people affirmed their king. This foreshadows Christ as King chosen for all humanity, fulfilling deeper messianic expectations."
+      "comment": "Jehoahaz’s rise to kingship shows the nation’s involvement in choosing leaders, echoing earlier times when the people affirmed their king. This foreshadows Christ as King chosen for all humanity, fulfilling deeper messianic expectations.",
+      "sectionHeader": "The Last Kings of Judah"
     },
     {
       "pk": 14036002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "Zedekiah was twenty-one years old when he became king, and he reigned eleven years in Jerusalem.",
       "links": "<a href='/AIV/12/24/18'>2 Kings 24:18</a>",
-      "comment": "Zedekiah’s ascension sets the stage for the final collapse of Judah, yet his longer reign allowed for opportunities for repentance and God’s mercy, constantly echoed throughout salvation history."
+      "comment": "Zedekiah’s ascension sets the stage for the final collapse of Judah, yet his longer reign allowed for opportunities for repentance and God’s mercy, constantly echoed throughout salvation history.",
+      "sectionHeader": "The Fall of Jerusalem and Exile to Babylon"
     },
     {
       "pk": 14036012,
@@ -266,7 +268,8 @@
       "verse": 22,
       "text": "Now in the first year of Cyrus king of Persia, that the word of the LORD spoken by Jeremiah might be fulfilled, the LORD stirred up the spirit of Cyrus king of Persia, so he made a proclamation throughout his kingdom and also put it in writing:",
       "links": "<a href='/AIV/24/29/10'>Jeremiah 29:10</a>; <a href='/AIV/15/1/1'>Ezra 1:1</a>",
-      "comment": "God’s sovereignty working through Cyrus shows divine authority extending even over pagan rulers. This opens the way for restored worship, anticipating the establishment of true worship throughout the world."
+      "comment": "God’s sovereignty working through Cyrus shows divine authority extending even over pagan rulers. This opens the way for restored worship, anticipating the establishment of true worship throughout the world.",
+      "sectionHeader": "The Edict of Cyrus"
     },
     {
       "pk": 14036023,
@@ -281,5 +284,22 @@
       "comment": "Cyrus’s proclamation fulfills prophecy and emphasizes God’s global lordship. The call to ‘go up’ to build the house of the LORD is a summons to restore unified worship, prefiguring the gathering of God’s people in one holy church."
     }
   ],
-  "translatedAt": "2025-12-24T04:40:00.500Z"
+  "translatedAt": "2025-12-24T04:40:00.500Z",
+  "sections": [
+    {
+      "title": "The Last Kings of Judah",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "The Fall of Jerusalem and Exile to Babylon",
+      "startVerse": 11,
+      "endVerse": 21
+    },
+    {
+      "title": "The Edict of Cyrus",
+      "startVerse": 22,
+      "endVerse": 23
+    }
+  ]
 }

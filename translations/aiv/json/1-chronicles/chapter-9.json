@@ -26,7 +26,8 @@
       "verse": 2,
       "text": "Now the first to dwell again in their cities and their property were Israelites, priests, Levites, and the temple servants.",
       "links": "<a href='/AIV/16/11/3'>Neh. 11:3</a>; <a href='/AIV/15/2/70'>Ezra 2:70</a>",
-      "comment": "After the exile, those set apart for worship and service—priests and Levites—were prominent in the restoration. This highlights the importance of sacred offices and the ordered structure of worship."
+      "comment": "After the exile, those set apart for worship and service—priests and Levites—were prominent in the restoration. This highlights the importance of sacred offices and the ordered structure of worship.",
+      "sectionHeader": "The Returnees to Jerusalem"
     },
     {
       "pk": 13009003,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "Of the priests: Jedaiah, Jehoiarib, Jachin;",
       "links": "<a href='/AIV/16/11/10'>Neh. 11:10</a>",
-      "comment": "This verse initiates the priestly lineage—those set apart for God’s worship, emphasizing the importance of priesthood and sacrificial rites well-practiced in temple worship."
+      "comment": "This verse initiates the priestly lineage—those set apart for God’s worship, emphasizing the importance of priesthood and sacrificial rites well-practiced in temple worship.",
+      "sectionHeader": "The Priests and Levites Dwelling in Jerusalem"
     },
     {
       "pk": 13009011,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "The gatekeepers: Shallum, Akkub, Talmon, Ahiman, and their brothers. Shallum was chief.",
       "links": "<a href='/AIV/13/23/5'>1 Chr. 23:5</a>; <a href='/AIV/16/11/19'>Neh. 11:19</a>",
-      "comment": "Gatekeepers had a liturgical and protective role, controlling sacred spaces—hinting at the spiritual guardianship entrusted to certain ministers."
+      "comment": "Gatekeepers had a liturgical and protective role, controlling sacred spaces—hinting at the spiritual guardianship entrusted to certain ministers.",
+      "sectionHeader": "The Duties of the Gatekeepers and Levites"
     },
     {
       "pk": 13009018,
@@ -422,7 +425,8 @@
       "verse": 35,
       "text": "In Gibeon lived the father of Gibeon, Jeiel, and his wife Maacah.",
       "links": "<a href='/AIV/09/07/1'>1 Sam. 7:1</a>",
-      "comment": "Gibeon’s mention, an earlier worship site, recalls God's ongoing work among His people and the movement toward a central worship place."
+      "comment": "Gibeon’s mention, an earlier worship site, recalls God's ongoing work among His people and the movement toward a central worship place.",
+      "sectionHeader": "The Genealogy of Saul"
     },
     {
       "pk": 13009036,
@@ -533,5 +537,27 @@
       "comment": "The closing genealogy reinforces the care God shows for each family unit; this attention anticipates the full gathering of all God’s people in unity."
     }
   ],
-  "translatedAt": "2025-12-24T04:10:30.750Z"
+  "translatedAt": "2025-12-24T04:10:30.750Z",
+  "sections": [
+    {
+      "title": "The Returnees to Jerusalem",
+      "startVerse": 2,
+      "endVerse": 9
+    },
+    {
+      "title": "The Priests and Levites Dwelling in Jerusalem",
+      "startVerse": 10,
+      "endVerse": 16
+    },
+    {
+      "title": "The Duties of the Gatekeepers and Levites",
+      "startVerse": 17,
+      "endVerse": 34
+    },
+    {
+      "title": "The Genealogy of Saul",
+      "startVerse": 35,
+      "endVerse": 44
+    }
+  ]
 }

@@ -26,7 +26,8 @@
       "verse": 2,
       "text": "Now I will tell you the truth: Three more kings will rise in Persia, then a fourth, much richer than all the others. When he has become strong through his wealth, he will stir up everyone against the kingdom of Greece.",
       "links": "<a href='/AIV/17/1/1'>Esth. 1:1</a>; <a href='/AIV/15/4/5'>Ezra 4:5</a>",
-      "comment": "This verse predicts the rise of Persian kings before Alexander’s conquest. The fourth king is thought to be Xerxes. The prophecy shows God's control over history."
+      "comment": "This verse predicts the rise of Persian kings before Alexander’s conquest. The fourth king is thought to be Xerxes. The prophecy shows God's control over history.",
+      "sectionHeader": "Prophecy of Future Kings"
     },
     {
       "pk": 34011003,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "Then the king of the South will become strong, but one of his princes will become stronger than he and rule with great authority over a large domain.",
       "links": "<a href='/AIV/34/7/6'>Dan. 7:6</a>; <a href='/AIV/12/8/27'>2 Kings 8:27</a>",
-      "comment": "Refers to the split of Alexander's empire, with Ptolemy ruling Egypt ('south'). The rivalry among the successors is symbolic of division among earthly kingdoms, contrasting with the unity of God's reign."
+      "comment": "Refers to the split of Alexander's empire, with Ptolemy ruling Egypt ('south'). The rivalry among the successors is symbolic of division among earthly kingdoms, contrasting with the unity of God's reign.",
+      "sectionHeader": "Conflicts Between the Kings of the North and South"
     },
     {
       "pk": 34011006,
@@ -254,7 +256,8 @@
       "verse": 21,
       "text": "A despicable person will stand in his place, who has not been given royal majesty. He will come in stealth and seize the kingdom through intrigue.",
       "links": "<a href='/AIV/34/7/8'>Dan. 7:8</a>; <a href='/AIV/2/49/21'>Gen. 49:21</a>",
-      "comment": "A foreshadowing of antichrist figures—those who usurp without legitimate authority. This prepares for discussions on true apostolic succession and authority."
+      "comment": "A foreshadowing of antichrist figures—those who usurp without legitimate authority. This prepares for discussions on true apostolic succession and authority.",
+      "sectionHeader": "Rise of an Intriguing Usurper"
     },
     {
       "pk": 34011022,
@@ -350,7 +353,8 @@
       "verse": 29,
       "text": "At the appointed time, he will again invade the South, but the outcome will not be as before.",
       "links": "<a href='/AIV/19/75/2'>Ps. 75:2</a>",
-      "comment": "‘Appointed time’ links to divine providence—God’s sovereignty prevails when human power falters. Spiritual interpretation sees this as preparation for the fullness of time in the Messiah."
+      "comment": "‘Appointed time’ links to divine providence—God’s sovereignty prevails when human power falters. Spiritual interpretation sees this as preparation for the fullness of time in the Messiah.",
+      "sectionHeader": "Persecution and Apostasy"
     },
     {
       "pk": 34011030,
@@ -434,7 +438,8 @@
       "verse": 36,
       "text": "Then the king will do as he pleases, exalting and magnifying himself above every god, and speaking astonishing things against the God of gods. He will prosper until the wrath is finished, for what is determined will be done.",
       "links": "<a href='/AIV/53/2/4'>2 Thess. 2:4</a>; <a href='/AIV/19/115/3'>Ps. 115:3</a>",
-      "comment": "The self-exaltation prefigures antichrist figures. God's justice is assured—the ultimate defeat of evil is certain at the time appointed by God."
+      "comment": "The self-exaltation prefigures antichrist figures. God's justice is assured—the ultimate defeat of evil is certain at the time appointed by God.",
+      "sectionHeader": "The Pride and Downfall of the Final King"
     },
     {
       "pk": 34011037,
@@ -545,5 +550,32 @@
       "comment": "The final defeat of worldly powers is depicted. The ‘holy mountain’ recalls Zion, a sign of God’s eternal Kingdom and the promise of true worship, fulfilled in Christ and His sacramental presence among the faithful."
     }
   ],
-  "translatedAt": "2025-12-24T09:34:14.249Z"
+  "translatedAt": "2025-12-24T09:34:14.249Z",
+  "sections": [
+    {
+      "title": "Prophecy of Future Kings",
+      "startVerse": 2,
+      "endVerse": 4
+    },
+    {
+      "title": "Conflicts Between the Kings of the North and South",
+      "startVerse": 5,
+      "endVerse": 20
+    },
+    {
+      "title": "Rise of an Intriguing Usurper",
+      "startVerse": 21,
+      "endVerse": 28
+    },
+    {
+      "title": "Persecution and Apostasy",
+      "startVerse": 29,
+      "endVerse": 35
+    },
+    {
+      "title": "The Pride and Downfall of the Final King",
+      "startVerse": 36,
+      "endVerse": 45
+    }
+  ]
 }

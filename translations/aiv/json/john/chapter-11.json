@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now a certain man was ill, Lazarus of Bethany, the village of Mary and her sister Martha.",
       "links": "<a href='/AIV/42/10/38-39'>Luke 10:38-39</a>",
-      "comment": "Bethany was a small village near Jerusalem. The focus on Mary and Martha sets the stage for a personal and miraculous event."
+      "comment": "Bethany was a small village near Jerusalem. The focus on Mary and Martha sets the stage for a personal and miraculous event.",
+      "sectionHeader": "The Illness and Death of Lazarus"
     },
     {
       "pk": 50011002,
@@ -206,7 +207,8 @@
       "verse": 17,
       "text": "Now when Jesus came, he found that Lazarus had already been in the tomb four days.",
       "links": "",
-      "comment": "Four days signifies no hope of resuscitation by normal means; the miracle would be unmistakable."
+      "comment": "Four days signifies no hope of resuscitation by normal means; the miracle would be unmistakable.",
+      "sectionHeader": "Jesus the Resurrection and the Life"
     },
     {
       "pk": 50011018,
@@ -338,7 +340,8 @@
       "verse": 28,
       "text": "When she had said this, she went and called her sister Mary, saying in private, 'The Teacher is here and is calling for you.'",
       "links": "",
-      "comment": "Jesus is referred to as 'Teacher,' emphasizing his role in forming disciples."
+      "comment": "Jesus is referred to as 'Teacher,' emphasizing his role in forming disciples.",
+      "sectionHeader": "Jesus Weeps for Lazarus"
     },
     {
       "pk": 50011029,
@@ -458,7 +461,8 @@
       "verse": 38,
       "text": "Then Jesus, deeply moved again, came to the tomb. It was a cave, and a stone lay against it.",
       "links": "<a href='/AIV/40/27/60'>Matthew 27:60</a>",
-      "comment": "Burial in a cave sealed with a stone is a detail that prefigures Jesus’ own burial and resurrection."
+      "comment": "Burial in a cave sealed with a stone is a detail that prefigures Jesus’ own burial and resurrection.",
+      "sectionHeader": "The Raising of Lazarus"
     },
     {
       "pk": 50011039,
@@ -542,7 +546,8 @@
       "verse": 45,
       "text": "Many of the Jews therefore, who had come with Mary and had seen what he did, believed in him,",
       "links": "<a href='/AIV/43/2/23'>John 2:23</a>",
-      "comment": "Miracles serve as signs that lead to authentic faith and entry into the one united community of believers."
+      "comment": "Miracles serve as signs that lead to authentic faith and entry into the one united community of believers.",
+      "sectionHeader": "The Plot Against Jesus"
     },
     {
       "pk": 50011046,
@@ -689,5 +694,32 @@
       "comment": "The official order for Jesus’ arrest fulfills the prophecy of the suffering and rejected Messiah, further preparing for the events of the Passion."
     }
   ],
-  "translatedAt": "2025-12-24T11:10:35.963Z"
+  "translatedAt": "2025-12-24T11:10:35.963Z",
+  "sections": [
+    {
+      "title": "The Illness and Death of Lazarus",
+      "startVerse": 1,
+      "endVerse": 16
+    },
+    {
+      "title": "Jesus the Resurrection and the Life",
+      "startVerse": 17,
+      "endVerse": 27
+    },
+    {
+      "title": "Jesus Weeps for Lazarus",
+      "startVerse": 28,
+      "endVerse": 37
+    },
+    {
+      "title": "The Raising of Lazarus",
+      "startVerse": 38,
+      "endVerse": 44
+    },
+    {
+      "title": "The Plot Against Jesus",
+      "startVerse": 45,
+      "endVerse": 57
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Love righteousness, you who judge the earth; think of the Lord with honesty, and seek him with a sincere heart.",
       "links": "<a href='/AIV/19/11/7'>Ps. 11:7</a>; <a href='/AIV/23/55/6'>Isa. 55:6</a>",
-      "comment": "‘Righteousness’ here is tied to both just living and right judgment. The call to seek God with sincerity echoes themes in Psalms and Isaiah about approaching God authentically."
+      "comment": "‘Righteousness’ here is tied to both just living and right judgment. The call to seek God with sincerity echoes themes in Psalms and Isaiah about approaching God authentically.",
+      "sectionHeader": "Exhortation to Righteousness"
     },
     {
       "pk": 27001002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "For God did not create death, nor does he delight in the destruction of the living.",
       "links": "<a href='/AIV/01/2/17'>Gen. 2:17</a>; <a href='/AIV/43/11/25'>John 11:25</a>",
-      "comment": "Imparts that death entered through sin, not by God’s design, reflecting themes from Genesis and Jesus’s triumph over death."
+      "comment": "Imparts that death entered through sin, not by God’s design, reflecting themes from Genesis and Jesus’s triumph over death.",
+      "sectionHeader": "God Is Not the Author of Death"
     },
     {
       "pk": 27001014,
@@ -194,8 +196,26 @@
       "verse": 16,
       "text": "But the wicked summoned death by their words and actions, considering him their friend. They wasted away and made a covenant with death, because they are worthy to belong to him.",
       "links": "<a href='/AIV/23/28/15'>Isa. 28:15</a>; <a href='/AIV/45/6/23'>Rom. 6:23</a>",
-      "comment": "Sin’s effects are not just personal but also communal. Reference to a ‘covenant with death’ is echoed in Isaiah, and the wages of sin culminating in death is a key theme of the New Testament."
+      "comment": "Sin’s effects are not just personal but also communal. Reference to a ‘covenant with death’ is echoed in Isaiah, and the wages of sin culminating in death is a key theme of the New Testament.",
+      "sectionHeader": "The Wicked Invite Death"
     }
   ],
-  "translatedAt": "2025-12-24T07:14:33.840Z"
+  "translatedAt": "2025-12-24T07:14:33.840Z",
+  "sections": [
+    {
+      "title": "Exhortation to Righteousness",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "God Is Not the Author of Death",
+      "startVerse": 13,
+      "endVerse": 15
+    },
+    {
+      "title": "The Wicked Invite Death",
+      "startVerse": 16,
+      "endVerse": 16
+    }
+  ]
 }

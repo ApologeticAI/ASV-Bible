@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The word that came to Jeremiah from the LORD, when King Nebuchadnezzar of Babylon and all his army, as well as all the kingdoms under his authority, and every people he ruled, were fighting against Jerusalem and all its surrounding towns:",
       "links": "<a href='/AIV/24/1/1'>Jer. 1:1</a>; <a href='/AIV/12/25/1'>2 Kings 25:1</a>",
-      "comment": "This sets the context for the prophecy—a time of siege under a foreign king, reminiscent of other warnings about judgment for covenant unfaithfulness. The mention of Nebuchadnezzar emphasizes divine sovereignty over nations."
+      "comment": "This sets the context for the prophecy—a time of siege under a foreign king, reminiscent of other warnings about judgment for covenant unfaithfulness. The mention of Nebuchadnezzar emphasizes divine sovereignty over nations.",
+      "sectionHeader": "Prophecy to Zedekiah of Jerusalem's Fall"
     },
     {
       "pk": 30034002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "The word came to Jeremiah from the LORD after King Zedekiah made a covenant with all the people in Jerusalem to proclaim liberty to them:",
       "links": "<a href='/AIV/24/34/15'>Jer. 34:15</a>; <a href='/AIV/2/21/2'>Ex. 21:2</a>",
-      "comment": "Covenant language draws attention to Israel’s foundational relationship with God (cf. Ex. 24:7–8). Proclaiming liberty echoes the Year of Jubilee—a practice filled with redemptive overtones and later fulfilled in Christ (Luke 4:18–19)."
+      "comment": "Covenant language draws attention to Israel’s foundational relationship with God (cf. Ex. 24:7–8). Proclaiming liberty echoes the Year of Jubilee—a practice filled with redemptive overtones and later fulfilled in Christ (Luke 4:18–19).",
+      "sectionHeader": "The Covenant to Free the Hebrew Slaves"
     },
     {
       "pk": 30034009,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "But afterward they changed their minds and took back their male and female slaves whom they had set free and made them slaves again.",
       "links": "<a href='/AIV/24/34/16'>Jer. 34:16</a>",
-      "comment": "The breaking of covenant mirrors Israel’s history of repeated backsliding, a dynamic that recurs in salvation history and which Christ came to heal through a New Covenant (see Heb. 8:8–12)."
+      "comment": "The breaking of covenant mirrors Israel’s history of repeated backsliding, a dynamic that recurs in salvation history and which Christ came to heal through a New Covenant (see Heb. 8:8–12).",
+      "sectionHeader": "The People Re-Enslave Their Brethren"
     },
     {
       "pk": 30034012,
@@ -146,7 +149,8 @@
       "verse": 12,
       "text": "Then the word of the LORD came to Jeremiah:",
       "links": "<a href='/AIV/24/1/4'>Jer. 1:4</a>",
-      "comment": "God’s response to covenant breach is never silence; He reveals His will, preparing the way for the fullness of revelation in Christ (John 1:14)."
+      "comment": "God’s response to covenant breach is never silence; He reveals His will, preparing the way for the fullness of revelation in Christ (John 1:14).",
+      "sectionHeader": "Judgment for Breaking the Covenant"
     },
     {
       "pk": 30034013,
@@ -269,5 +273,27 @@
       "comment": "This is the final judgment for covenant infidelity, yet always with the prospect of future restoration. The desolation prepares for renewal, just as the cross prepares for the resurrection—a pattern present throughout all of Scripture."
     }
   ],
-  "translatedAt": "2025-12-24T08:40:43.495Z"
+  "translatedAt": "2025-12-24T08:40:43.495Z",
+  "sections": [
+    {
+      "title": "Prophecy to Zedekiah of Jerusalem's Fall",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "The Covenant to Free the Hebrew Slaves",
+      "startVerse": 8,
+      "endVerse": 10
+    },
+    {
+      "title": "The People Re-Enslave Their Brethren",
+      "startVerse": 11,
+      "endVerse": 11
+    },
+    {
+      "title": "Judgment for Breaking the Covenant",
+      "startVerse": 12,
+      "endVerse": 22
+    }
+  ]
 }

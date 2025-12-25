@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The Lord spoke to Moses, saying,",
       "links": "<a href='/AIV/3/19/1'>Lev. 19:1</a>",
-      "comment": "God initiates the instructions for Israel's sacred times. The Lord’s direct speaking to Moses emphasizes divine authority, reflecting Old Testament patterns for establishing worship."
+      "comment": "God initiates the instructions for Israel's sacred times. The Lord’s direct speaking to Moses emphasizes divine authority, reflecting Old Testament patterns for establishing worship.",
+      "sectionHeader": "The Appointed Festivals"
     },
     {
       "pk": 3023002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "In the first month, on the fourteenth day of the month at twilight, is the Lord’s Passover.",
       "links": "<a href='/AIV/2/12/6'>Ex. 12:6</a>; <a href='/AIV/4/9/3'>Num. 9:3</a>",
-      "comment": "Passover marks God’s deliverance of Israel from Egypt, prefiguring Christ’s sacrificial death. This foundational feast connects Old Testament redemption history to its fulfillment in Jesus, the true Passover Lamb (see <a href='/AIV/46/5/7'>1 Cor. 5:7</a>)."
+      "comment": "Passover marks God’s deliverance of Israel from Egypt, prefiguring Christ’s sacrificial death. This foundational feast connects Old Testament redemption history to its fulfillment in Jesus, the true Passover Lamb (see <a href='/AIV/46/5/7'>1 Cor. 5:7</a>).",
+      "sectionHeader": "The Passover and the Feast of Unleavened Bread"
     },
     {
       "pk": 3023006,
@@ -110,7 +112,8 @@
       "verse": 9,
       "text": "And the Lord spoke to Moses, saying,",
       "links": "<a href='/AIV/4/15/2'>Num. 15:2</a>",
-      "comment": "God’s direct communication again indicates His control over Israel’s worship structure, guiding the people step by step."
+      "comment": "God’s direct communication again indicates His control over Israel’s worship structure, guiding the people step by step.",
+      "sectionHeader": "The Offering of Firstfruits"
     },
     {
       "pk": 3023010,
@@ -182,7 +185,8 @@
       "verse": 15,
       "text": "From the day after the Sabbath, from the day you brought the sheaf of the wave offering, you shall count seven full weeks.",
       "links": "<a href='/AIV/5/16/9'>Deut. 16:9</a>",
-      "comment": "Counting seven weeks introduces the Feast of Weeks (Pentecost), later historically connecting to the outpouring of the Holy Spirit in Acts (see <a href='/AIV/44/2/1'>Acts 2:1</a>)."
+      "comment": "Counting seven weeks introduces the Feast of Weeks (Pentecost), later historically connecting to the outpouring of the Holy Spirit in Acts (see <a href='/AIV/44/2/1'>Acts 2:1</a>).",
+      "sectionHeader": "The Feast of Weeks"
     },
     {
       "pk": 3023016,
@@ -278,7 +282,8 @@
       "verse": 23,
       "text": "And the Lord spoke to Moses, saying,",
       "links": "<a href='/AIV/3/23/1'>Lev. 23:1</a>",
-      "comment": "God again initiates instructions, confirming the setting apart of sacred days as divinely mandated."
+      "comment": "God again initiates instructions, confirming the setting apart of sacred days as divinely mandated.",
+      "sectionHeader": "The Feast of Trumpets"
     },
     {
       "pk": 3023024,
@@ -314,7 +319,8 @@
       "verse": 26,
       "text": "And the Lord spoke to Moses, saying,",
       "links": "<a href='/AIV/3/23/23'>Lev. 23:23</a>",
-      "comment": "Repeated phrase marks a new section on the most solemn festival, the Day of Atonement."
+      "comment": "Repeated phrase marks a new section on the most solemn festival, the Day of Atonement.",
+      "sectionHeader": "The Day of Atonement"
     },
     {
       "pk": 3023027,
@@ -398,7 +404,8 @@
       "verse": 33,
       "text": "And the Lord spoke to Moses, saying,",
       "links": "<a href='/AIV/3/23/23'>Lev. 23:23</a>",
-      "comment": "With the Day of Atonement complete, the instructions turn to the final festival—Tabernacles."
+      "comment": "With the Day of Atonement complete, the instructions turn to the final festival—Tabernacles.",
+      "sectionHeader": "The Feast of Booths"
     },
     {
       "pk": 3023034,
@@ -533,5 +540,42 @@
       "comment": "Moses' faithful proclamation sets the pattern for leadership in teaching, preserving, and transmitting God’s truth and sacred tradition through all generations."
     }
   ],
-  "translatedAt": "2025-12-24T01:23:23.148Z"
+  "translatedAt": "2025-12-24T01:23:23.148Z",
+  "sections": [
+    {
+      "title": "The Appointed Festivals",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "The Passover and the Feast of Unleavened Bread",
+      "startVerse": 5,
+      "endVerse": 8
+    },
+    {
+      "title": "The Offering of Firstfruits",
+      "startVerse": 9,
+      "endVerse": 14
+    },
+    {
+      "title": "The Feast of Weeks",
+      "startVerse": 15,
+      "endVerse": 22
+    },
+    {
+      "title": "The Feast of Trumpets",
+      "startVerse": 23,
+      "endVerse": 25
+    },
+    {
+      "title": "The Day of Atonement",
+      "startVerse": 26,
+      "endVerse": 32
+    },
+    {
+      "title": "The Feast of Booths",
+      "startVerse": 33,
+      "endVerse": 44
+    }
+  ]
 }

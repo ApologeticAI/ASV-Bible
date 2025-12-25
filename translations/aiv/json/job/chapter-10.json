@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "My soul is weary of my life; I will express my complaint freely; I will speak in the bitterness of my soul.",
       "links": "<a href='/AIV/18/7/11'>Job 7:11</a>; <a href='/AIV/19/42/9'>Ps. 42:9</a>",
-      "comment": "Job opens his lament, voicing his deep distress before God. This kind of honesty before God foreshadows the honest prayer found throughout the Psalms."
+      "comment": "Job opens his lament, voicing his deep distress before God. This kind of honesty before God foreshadows the honest prayer found throughout the Psalms.",
+      "sectionHeader": "Job’s Bitter Complaint to God"
     },
     {
       "pk": 22010002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Your hands shaped me and made me; yet now You destroy me completely.",
       "links": "<a href='/AIV/1/2/7'>Gen. 2:7</a>; <a href='/AIV/19/139/13'>Ps. 139:13</a>",
-      "comment": "This recalls the act of creation. Job's struggle is with a God who both forms and seems to destroy, pointing to the mystery of suffering and God's providence."
+      "comment": "This recalls the act of creation. Job's struggle is with a God who both forms and seems to destroy, pointing to the mystery of suffering and God's providence.",
+      "sectionHeader": "Job Remembers God’s Creating Hand"
     },
     {
       "pk": 22010009,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "Why then did You bring me out of the womb? I wish I had died before any eye had seen me,",
       "links": "<a href='/AIV/18/3/11'>Job 3:11</a>",
-      "comment": "Job expresses a desire for nonexistence, similar to Jeremiah's own lament (<a href='/AIV/24/20/18'>Jer. 20:18</a>). This reveals the depth of despair and the human longing for meaning in suffering."
+      "comment": "Job expresses a desire for nonexistence, similar to Jeremiah's own lament (<a href='/AIV/24/20/18'>Jer. 20:18</a>). This reveals the depth of despair and the human longing for meaning in suffering.",
+      "sectionHeader": "Job Laments His Birth and Pleads for Rest"
     },
     {
       "pk": 22010019,
@@ -269,5 +272,22 @@
       "comment": "The ancient Jewish concept of Sheol is bleak, yet the later hope of resurrection and eternal light in God reveals the fullness of salvation history."
     }
   ],
-  "translatedAt": "2025-12-24T05:43:57.001Z"
+  "translatedAt": "2025-12-24T05:43:57.001Z",
+  "sections": [
+    {
+      "title": "Job’s Bitter Complaint to God",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Job Remembers God’s Creating Hand",
+      "startVerse": 8,
+      "endVerse": 17
+    },
+    {
+      "title": "Job Laments His Birth and Pleads for Rest",
+      "startVerse": 18,
+      "endVerse": 22
+    }
+  ]
 }

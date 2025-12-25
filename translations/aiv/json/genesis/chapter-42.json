@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When Jacob learned that there was grain for sale in Egypt, he said to his sons, 'Why are you standing around looking at one another?'",
       "links": "<a href='/AIV/1/41/57'>Gen. 41:57</a>; <a href='/AIV/8/5/1-3'>Ruth 1:1</a>",
-      "comment": "Jacob’s question can be read as urging action and resourcefulness during famine—reminding readers of the importance of responding to need rather than being passive. The context frames Egypt as the source of salvation, prefiguring ways in which God provides through unexpected means."
+      "comment": "Jacob’s question can be read as urging action and resourcefulness during famine—reminding readers of the importance of responding to need rather than being passive. The context frames Egypt as the source of salvation, prefiguring ways in which God provides through unexpected means.",
+      "sectionHeader": "Joseph's Brothers Sent to Egypt"
     },
     {
       "pk": 1042002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "Now Joseph was the governor over the land; he was the one who sold grain to all the people of the land. So Joseph’s brothers came and bowed themselves before him with their faces to the ground.",
       "links": "<a href='/AIV/1/37/7-10'>Gen. 37:7-10</a>; <a href='/AIV/1/41/40'>Gen. 41:40</a>",
-      "comment": "Joseph’s brothers bow before him fulfills the dreams he had years before. Their recognition of his authority hints at submission and authority structures that would be reflected later in scripture, linking to Joseph as a Christ figure—rejected and exalted."
+      "comment": "Joseph’s brothers bow before him fulfills the dreams he had years before. Their recognition of his authority hints at submission and authority structures that would be reflected later in scripture, linking to Joseph as a Christ figure—rejected and exalted.",
+      "sectionHeader": "Joseph’s Brothers Accused as Spies"
     },
     {
       "pk": 1042007,
@@ -290,7 +292,8 @@
       "verse": 24,
       "text": "Then he turned away from them and wept. Then he returned to them and spoke to them. He took Simeon from them and bound him before their eyes.",
       "links": "<a href='/AIV/1/43/23'>Gen. 43:23</a>; <a href='/AIV/1/45/2'>Gen. 45:2</a>",
-      "comment": "Joseph’s tears reveal emotional depth and compassion, echoing Christ’s own tears over Jerusalem (Luke 19:41)—the intersection of justice and mercy is crucial in biblical salvation."
+      "comment": "Joseph’s tears reveal emotional depth and compassion, echoing Christ’s own tears over Jerusalem (Luke 19:41)—the intersection of justice and mercy is crucial in biblical salvation.",
+      "sectionHeader": "Simeon Detained and the Money Returned"
     },
     {
       "pk": 1042025,
@@ -350,7 +353,8 @@
       "verse": 29,
       "text": "When they came to Jacob their father in the land of Canaan, they told him all that had happened to them, saying,",
       "links": "",
-      "comment": "Returning and reporting to the father underscores the value of accountability—a spiritual principle at the heart of healthy communities."
+      "comment": "Returning and reporting to the father underscores the value of accountability—a spiritual principle at the heart of healthy communities.",
+      "sectionHeader": "The Brothers Report to Jacob"
     },
     {
       "pk": 1042030,
@@ -461,5 +465,27 @@
       "comment": "Jacob’s grief and protective impulse recall the deep cost required for true reconciliation—a spiritual principle where risk, sacrifice, and patience precede acceptance into greater promises. Sheol refers to the abode of the dead, highlighting biblical views of death and lament."
     }
   ],
-  "translatedAt": "2025-12-24T00:38:34.988Z"
+  "translatedAt": "2025-12-24T00:38:34.988Z",
+  "sections": [
+    {
+      "title": "Joseph's Brothers Sent to Egypt",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Joseph’s Brothers Accused as Spies",
+      "startVerse": 6,
+      "endVerse": 23
+    },
+    {
+      "title": "Simeon Detained and the Money Returned",
+      "startVerse": 24,
+      "endVerse": 28
+    },
+    {
+      "title": "The Brothers Report to Jacob",
+      "startVerse": 29,
+      "endVerse": 38
+    }
+  ]
 }

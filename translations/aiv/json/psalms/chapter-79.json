@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "O God, the nations have entered Your inheritance; they have defiled Your holy temple; they have made Jerusalem a heap of ruins.",
       "links": "<a href='/AIV/19/74/3-7'>Ps. 74:3-7</a>; <a href='/AIV/25/1/10'>Lam. 1:10</a>",
-      "comment": "This verse laments the desecration of the temple, which echoes the destruction of Jerusalem by foreign powers. The language points to the deep connection between God's people and the place of worship, foreshadowing the New Testament's teaching on the Church as the dwelling place of God (see 1 Cor. 3:16)."
+      "comment": "This verse laments the desecration of the temple, which echoes the destruction of Jerusalem by foreign powers. The language points to the deep connection between God's people and the place of worship, foreshadowing the New Testament's teaching on the Church as the dwelling place of God (see 1 Cor. 3:16).",
+      "sectionHeader": "Lament Over the Destruction of Jerusalem"
     },
     {
       "pk": 23079002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Do not remember against us the iniquities of our ancestors; let Your compassion come quickly to meet us, for we are brought very low.",
       "links": "<a href='/AIV/19/106/6'>Ps. 106:6</a>; <a href='/AIV/27/9/16'>Dan. 9:16</a>",
-      "comment": "The plea for forgiveness of ancestral sins foreshadows Christ’s atoning work and the merciful ongoing mediation for believers (1 John 2:1-2)."
+      "comment": "The plea for forgiveness of ancestral sins foreshadows Christ’s atoning work and the merciful ongoing mediation for believers (1 John 2:1-2).",
+      "sectionHeader": "Prayer for Mercy and Deliverance"
     },
     {
       "pk": 23079009,
@@ -158,8 +160,26 @@
       "verse": 13,
       "text": "Then we Your people, the sheep of Your pasture, will give thanks to You forever; from generation to generation we will proclaim Your praise.",
       "links": "<a href='/AIV/19/100/3'>Ps. 100:3</a>; <a href='/AIV/23/40/11'>Isa. 40:11</a>",
-      "comment": "God’s people as sheep is a powerful image fulfilled in Christ the Good Shepherd (John 10:11), who cares for, gathers, and feeds His flock, inviting the redeemed to an unending praise."
+      "comment": "God’s people as sheep is a powerful image fulfilled in Christ the Good Shepherd (John 10:11), who cares for, gathers, and feeds His flock, inviting the redeemed to an unending praise.",
+      "sectionHeader": "Promise of Praise and Thanksgiving"
     }
   ],
-  "translatedAt": "2025-12-24T06:27:17.433Z"
+  "translatedAt": "2025-12-24T06:27:17.433Z",
+  "sections": [
+    {
+      "title": "Lament Over the Destruction of Jerusalem",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Prayer for Mercy and Deliverance",
+      "startVerse": 8,
+      "endVerse": 12
+    },
+    {
+      "title": "Promise of Praise and Thanksgiving",
+      "startVerse": 13,
+      "endVerse": 13
+    }
+  ]
 }

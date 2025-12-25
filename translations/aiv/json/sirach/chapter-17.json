@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The Lord created man from the earth, and turned him back to it again.",
       "links": "<a href='/AIV/01/2/7'>Gen. 2:7</a>; <a href='/AIV/01/3/19'>Gen. 3:19</a>",
-      "comment": "This verse recalls the creation of Adam and humanity’s return to dust, stressing our dependence on God and mortality. See also Gen. 2:7, 3:19."
+      "comment": "This verse recalls the creation of Adam and humanity’s return to dust, stressing our dependence on God and mortality. See also Gen. 2:7, 3:19.",
+      "sectionHeader": "The Creation and Honor of Man"
     },
     {
       "pk": 28017002,
@@ -206,7 +207,8 @@
       "verse": 17,
       "text": "But the Lord, being gracious, knows all their works, and does not reject them nor forsake them, but spares them.",
       "links": "<a href='/AIV/19/103/13-14'>Ps. 103:13-14</a>; <a href='/AIV/23/54/7-8'>Isa. 54:7-8</a>",
-      "comment": "Divine mercy balances God’s justice. This verse hints at the continual offer of forgiveness contingent upon repentance."
+      "comment": "Divine mercy balances God’s justice. This verse hints at the continual offer of forgiveness contingent upon repentance.",
+      "sectionHeader": "God’s Justice and Mercy Revealed"
     },
     {
       "pk": 28017018,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "The prayers of the humble reach to the clouds; he is comforted in their affliction.",
       "links": "<a href='/AIV/19/34/18'>Ps. 34:18</a>; <a href='/AIV/42/18/13-14'>Luke 18:13-14</a>",
-      "comment": "Humility in prayer is especially pleasing to God (cf. Luke 18). God’s closeness to the contrite is a theme throughout Scripture."
+      "comment": "Humility in prayer is especially pleasing to God (cf. Luke 18). God’s closeness to the contrite is a theme throughout Scripture.",
+      "sectionHeader": "The Power of Prayer and Call to Repentance"
     },
     {
       "pk": 28017019,
@@ -389,5 +392,22 @@
       "comment": "Divine mercy and forgiveness are always available. The focus on repentance and mercy is reflected in Jesus' teaching—confession and contrition remain foundational for reconciliation with God."
     }
   ],
-  "translatedAt": "2025-12-24T07:32:05.033Z"
+  "translatedAt": "2025-12-24T07:32:05.033Z",
+  "sections": [
+    {
+      "title": "The Creation and Honor of Man",
+      "startVerse": 1,
+      "endVerse": 16
+    },
+    {
+      "title": "God’s Justice and Mercy Revealed",
+      "startVerse": 17,
+      "endVerse": 17
+    },
+    {
+      "title": "The Power of Prayer and Call to Repentance",
+      "startVerse": 18,
+      "endVerse": 32
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Great is the Lord and most worthy of praise, in the city of our God, on His holy mountain.",
       "links": "<a href='/AIV/19/46/4'>Ps. 46:4</a>; <a href='/AIV/19/87/1'>Ps. 87:1-3</a>",
-      "comment": "The city of God on His holy mountain refers to Jerusalem and emphasizes the centrality of worship in a specific place established by God. See similarities in Ps. 87:1-3. This foreshadows the gathering of God's people in His chosen assembly, a mystery fulfilled in Christ."
+      "comment": "The city of God on His holy mountain refers to Jerusalem and emphasizes the centrality of worship in a specific place established by God. See similarities in Ps. 87:1-3. This foreshadows the gathering of God's people in His chosen assembly, a mystery fulfilled in Christ.",
+      "sectionHeader": "Praise of God in Zion"
     },
     {
       "pk": 23048002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "For behold, the kings assembled; they advanced together.",
       "links": "<a href='/AIV/19/2/2'>Ps. 2:2</a>; <a href='/AIV/23/8/9'>Isa. 8:9-10</a>",
-      "comment": "Many nations join together against God’s city, recalling Ps. 2:2 where rulers plot in vain. This prefigures opposition to God's chosen assembly throughout salvation history."
+      "comment": "Many nations join together against God’s city, recalling Ps. 2:2 where rulers plot in vain. This prefigures opposition to God's chosen assembly throughout salvation history.",
+      "sectionHeader": "God’s Deliverance and Protection"
     },
     {
       "pk": 23048005,
@@ -110,7 +112,8 @@
       "verse": 9,
       "text": "Within Your temple, O God, we meditate on Your steadfast love.",
       "links": "<a href='/AIV/19/26/8'>Ps. 26:8</a>; <a href='/AIV/19/63/2-3'>Ps. 63:2-3</a>",
-      "comment": "Worship at God’s temple is central to encountering His love. The continual meditation and sacrificial worship point to the necessity of an enduring and visible form of worship."
+      "comment": "Worship at God’s temple is central to encountering His love. The continual meditation and sacrificial worship point to the necessity of an enduring and visible form of worship.",
+      "sectionHeader": "Meditation on God’s Lovingkindness"
     },
     {
       "pk": 23048010,
@@ -146,7 +149,8 @@
       "verse": 12,
       "text": "Walk about Zion, go around her, count her towers,",
       "links": "<a href='/AIV/19/122/7'>Ps. 122:7</a>; <a href='/AIV/23/33/20'>Isa. 33:20</a>",
-      "comment": "The invitation to meditate upon the city’s strength suggests both literal security and the spiritual reality of God’s enduring dwelling with His people."
+      "comment": "The invitation to meditate upon the city’s strength suggests both literal security and the spiritual reality of God’s enduring dwelling with His people.",
+      "sectionHeader": "Eternal Guidance of God"
     },
     {
       "pk": 23048013,
@@ -173,5 +177,27 @@
       "comment": "God’s faithfulness extends to all ages. He guides His people eternally, promising not only earthly security but a relationship that is everlasting, culminating in His presence with them forever (Rev. 21:3)."
     }
   ],
-  "translatedAt": "2025-12-24T06:15:21.214Z"
+  "translatedAt": "2025-12-24T06:15:21.214Z",
+  "sections": [
+    {
+      "title": "Praise of God in Zion",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "God’s Deliverance and Protection",
+      "startVerse": 4,
+      "endVerse": 8
+    },
+    {
+      "title": "Meditation on God’s Lovingkindness",
+      "startVerse": 9,
+      "endVerse": 11
+    },
+    {
+      "title": "Eternal Guidance of God",
+      "startVerse": 12,
+      "endVerse": 14
+    }
+  ]
 }

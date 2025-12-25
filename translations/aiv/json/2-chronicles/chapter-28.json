@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Ahaz was twenty years old when he became king, and he ruled sixteen years in Jerusalem. He did not do what was right in the eyes of the LORD, as his ancestor David had done.",
       "links": "<a href='/AIV/12/16/2'>2 Kgs. 16:2</a>; <a href='/AIV/14/29/2'>2 Chr. 29:2</a>",
-      "comment": "Ahaz is contrasted with David, the model king, to highlight his failure. Notice the biblical pattern of measuring kings by David’s standard (see <a href='/AIV/13/29/17'>1 Chr. 29:17</a>). This motif points to the need for the ideal Davidic King, later fulfilled in Christ (<a href='/AIV/40/1/1'>Matt. 1:1</a>)."
+      "comment": "Ahaz is contrasted with David, the model king, to highlight his failure. Notice the biblical pattern of measuring kings by David’s standard (see <a href='/AIV/13/29/17'>1 Chr. 29:17</a>). This motif points to the need for the ideal Davidic King, later fulfilled in Christ (<a href='/AIV/40/1/1'>Matt. 1:1</a>).",
+      "sectionHeader": "The Apostasy of Ahaz"
     },
     {
       "pk": 14028002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "So the LORD his God handed him over to the king of Aram, who defeated him and took many captives to Damascus. He was also handed over to the king of Israel, who inflicted heavy casualties on him.",
       "links": "<a href='/AIV/12/16/5'>2 Kgs. 16:5</a>; <a href='/AIV/23/7/1'>Isa. 7:1</a>",
-      "comment": "Judgment falls on Ahaz for his unfaithfulness. The LORD allows foreign powers to defeat Judah—an important Old Testament theme where military disaster reveals spiritual decay."
+      "comment": "Judgment falls on Ahaz for his unfaithfulness. The LORD allows foreign powers to defeat Judah—an important Old Testament theme where military disaster reveals spiritual decay.",
+      "sectionHeader": "Judah Defeated by Aram and Israel"
     },
     {
       "pk": 14028006,
@@ -110,7 +112,8 @@
       "verse": 9,
       "text": "But a prophet of the LORD was there, whose name was Oded. He went out to meet the army returning to Samaria and said to them, 'Because the LORD, the God of your ancestors, was angry with Judah, He gave them into your hand. But you have slaughtered them with a fury that reaches up to heaven.'",
       "links": "<a href='/AIV/14/15/1-8'>2 Chr. 15:1-8</a>; <a href='/AIV/01/4/10'>Gen. 4:10</a>",
-      "comment": "Prophets mediate God’s will, often rebuking both Israelites and Judeans. The phrase 'reaches up to heaven' recalls Genesis 4:10."
+      "comment": "Prophets mediate God’s will, often rebuking both Israelites and Judeans. The phrase 'reaches up to heaven' recalls Genesis 4:10.",
+      "sectionHeader": "The Release and Care of the Captives"
     },
     {
       "pk": 14028010,
@@ -194,7 +197,8 @@
       "verse": 16,
       "text": "At that time King Ahaz sent to the kings of Assyria for help.",
       "links": "<a href='/AIV/12/16/7'>2 Kgs. 16:7</a>",
-      "comment": "Ahaz trusts foreign powers instead of God, a recurring error in biblical history illustrating misplaced faith."
+      "comment": "Ahaz trusts foreign powers instead of God, a recurring error in biblical history illustrating misplaced faith.",
+      "sectionHeader": "Further Attacks and Ahaz Seeks Help from Assyria"
     },
     {
       "pk": 14028017,
@@ -266,7 +270,8 @@
       "verse": 22,
       "text": "Even in his time of trouble, King Ahaz became even more unfaithful to the LORD.",
       "links": "<a href='/AIV/14/33/12-13'>2 Chr. 33:12-13</a>",
-      "comment": "Rather than turning back in humility, Ahaz’s heart hardens. Compare the contrasting repentance of Manasseh later."
+      "comment": "Rather than turning back in humility, Ahaz’s heart hardens. Compare the contrasting repentance of Manasseh later.",
+      "sectionHeader": "The Unfaithfulness and Death of Ahaz"
     },
     {
       "pk": 14028023,
@@ -329,5 +334,32 @@
       "comment": "Ahaz’s burial outside the royal tombs is a sign of disgrace. Hezekiah’s succession sets the stage for renewal and reform, showing God’s faithfulness to restore through the lineage of David—a messianic hope fulfilled in Jesus (<a href='/AIV/40/1/9-11'>Matt. 1:9-11</a>), unbroken through failures and repentance of kings."
     }
   ],
-  "translatedAt": "2025-12-24T04:35:21.954Z"
+  "translatedAt": "2025-12-24T04:35:21.954Z",
+  "sections": [
+    {
+      "title": "The Apostasy of Ahaz",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "Judah Defeated by Aram and Israel",
+      "startVerse": 5,
+      "endVerse": 8
+    },
+    {
+      "title": "The Release and Care of the Captives",
+      "startVerse": 9,
+      "endVerse": 15
+    },
+    {
+      "title": "Further Attacks and Ahaz Seeks Help from Assyria",
+      "startVerse": 16,
+      "endVerse": 21
+    },
+    {
+      "title": "The Unfaithfulness and Death of Ahaz",
+      "startVerse": 22,
+      "endVerse": 27
+    }
+  ]
 }

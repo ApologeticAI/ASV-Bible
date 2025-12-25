@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "You shall not make idols for yourselves, nor shall you set up a carved image or a sacred pillar, and you shall not place a stone figure in your land to bow down to it; for I am the LORD your God.",
       "links": "<a href='/AIV/2/20/3-5'>Ex. 20:3–5</a>; <a href='/AIV/5/5/8-9'>Deut. 5:8-9</a>",
-      "comment": "God prohibits idolatry here, emphasizing exclusive worship owed to Him. In the broader biblical narrative, this absolute monotheism prepares God’s people for true worship in spirit and truth (John 4:23-24). The use of physical objects is not inherently forbidden—what matters is their purpose and the inner disposition of worship."
+      "comment": "God prohibits idolatry here, emphasizing exclusive worship owed to Him. In the broader biblical narrative, this absolute monotheism prepares God’s people for true worship in spirit and truth (John 4:23-24). The use of physical objects is not inherently forbidden—what matters is their purpose and the inner disposition of worship.",
+      "sectionHeader": "Prohibition of Idolatry and Command to Keep the Sabbaths"
     },
     {
       "pk": 3026002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "If you walk in my statutes and keep my commandments and do them,",
       "links": "<a href='/AIV/5/28/1'>Deut. 28:1</a>; <a href='/AIV/19/119/1'>Ps. 119:1</a>",
-      "comment": "The blessings and curses that follow are directly connected to obedience. This conditional aspect prefigures the new covenant, fulfilled and perfected in Christ, who brings grace for obedience to God’s law (Rom. 8:4)."
+      "comment": "The blessings and curses that follow are directly connected to obedience. This conditional aspect prefigures the new covenant, fulfilled and perfected in Christ, who brings grace for obedience to God’s law (Rom. 8:4).",
+      "sectionHeader": "Blessings for Obedience"
     },
     {
       "pk": 3026004,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "But if you will not listen to me and will not observe all these commandments,",
       "links": "<a href='/AIV/5/28/15'>Deut. 28:15</a>",
-      "comment": "The contrast between covenant blessing and curse is now introduced, underscoring the seriousness of covenant relationship and obedience."
+      "comment": "The contrast between covenant blessing and curse is now introduced, underscoring the seriousness of covenant relationship and obedience.",
+      "sectionHeader": "Punishments for Disobedience"
     },
     {
       "pk": 3026015,
@@ -482,7 +485,8 @@
       "verse": 40,
       "text": "But if they confess their iniquity and the iniquity of their fathers—their treachery that they committed against me, and also that they walked contrary to me—",
       "links": "<a href='/AIV/19/32/5'>Ps. 32:5</a>; <a href='/AIV/27/9/4-5'>Dan. 9:4-5</a>; <a href='/AIV/62/1/1/9'>1 John 1:9</a>",
-      "comment": "Repentance and confession open the way for restoration, both individually and corporately. This prefigures the ministry of reconciliation (2 Cor. 5:18-20) and the sacramental confession of sins."
+      "comment": "Repentance and confession open the way for restoration, both individually and corporately. This prefigures the ministry of reconciliation (2 Cor. 5:18-20) and the sacramental confession of sins.",
+      "sectionHeader": "Promise of Restoration"
     },
     {
       "pk": 3026041,
@@ -554,8 +558,36 @@
       "verse": 46,
       "text": "These are the statutes, ordinances, and laws which the LORD established between himself and the sons of Israel through Moses on Mount Sinai.",
       "links": "<a href='/AIV/2/19/3'>Ex. 19:3</a>; <a href='/AIV/3/7/37-38'>Lev. 7:37-38</a>",
-      "comment": "The giving of the Law marks the foundation of God’s set-apart people. The fullness of the Law is revealed in Christ (Matt. 5:17), whose Church is the place where the fullness of covenant life continues."
+      "comment": "The giving of the Law marks the foundation of God’s set-apart people. The fullness of the Law is revealed in Christ (Matt. 5:17), whose Church is the place where the fullness of covenant life continues.",
+      "sectionHeader": "Summary of the Covenant"
     }
   ],
-  "translatedAt": "2025-12-24T01:26:26.291Z"
+  "translatedAt": "2025-12-24T01:26:26.291Z",
+  "sections": [
+    {
+      "title": "Prohibition of Idolatry and Command to Keep the Sabbaths",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "Blessings for Obedience",
+      "startVerse": 3,
+      "endVerse": 13
+    },
+    {
+      "title": "Punishments for Disobedience",
+      "startVerse": 14,
+      "endVerse": 39
+    },
+    {
+      "title": "Promise of Restoration",
+      "startVerse": 40,
+      "endVerse": 45
+    },
+    {
+      "title": "Summary of the Covenant",
+      "startVerse": 46,
+      "endVerse": 46
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then Jesus was led up by the Spirit into the wilderness to be tempted by the devil.",
       "links": "<a href='/AIV/2/34/28'>Exodus 34:28</a>; <a href='/AIV/19/106/14'>Psalm 106:14</a>; <a href='/AIV/41/1/12-13'>Mark 1:12-13</a>; <a href='/AIV/42/4/1'>Luke 4:1</a>",
-      "comment": "Jesus is shown acting in obedience to the Spirit and facing temptation, prefiguring the trials of Israel in the desert (cf. Exodus 34:28). This reinforces His identification with mankind and the fulfillment of Old Testament patterns."
+      "comment": "Jesus is shown acting in obedience to the Spirit and facing temptation, prefiguring the trials of Israel in the desert (cf. Exodus 34:28). This reinforces His identification with mankind and the fulfillment of Old Testament patterns.",
+      "sectionHeader": "The Temptation of Jesus"
     },
     {
       "pk": 47004002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "Now when Jesus heard that John had been arrested, He withdrew into Galilee.",
       "links": "<a href='/AIV/41/1/14'>Mark 1:14</a>; <a href='/AIV/42/4/14'>Luke 4:14</a>; <a href='/AIV/43/4/1-3'>John 4:1-3</a>",
-      "comment": "Jesus’ public ministry begins as John’s ends, revealing a transition from prophet to Messiah. Fulfillment of prophecy continues."
+      "comment": "Jesus’ public ministry begins as John’s ends, revealing a transition from prophet to Messiah. Fulfillment of prophecy continues.",
+      "sectionHeader": "Jesus Begins His Ministry in Galilee"
     },
     {
       "pk": 47004013,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "As He was walking by the Sea of Galilee, He saw two brothers, Simon called Peter and Andrew his brother, casting a net into the sea, for they were fishermen.",
       "links": "<a href='/AIV/41/1/16'>Mark 1:16</a>; <a href='/AIV/43/1/40-42'>John 1:40-42</a>",
-      "comment": "The call of Peter and Andrew highlights Christ selecting ordinary men for extraordinary missions. Peter will later be foundational as the chief among the apostles."
+      "comment": "The call of Peter and Andrew highlights Christ selecting ordinary men for extraordinary missions. Peter will later be foundational as the chief among the apostles.",
+      "sectionHeader": "The Calling of the First Disciples"
     },
     {
       "pk": 47004019,
@@ -278,7 +281,8 @@
       "verse": 23,
       "text": "And He went throughout all Galilee, teaching in their synagogues and proclaiming the gospel of the kingdom, and healing every disease and every affliction among the people.",
       "links": "<a href='/AIV/40/9/35'>Matthew 9:35</a>; <a href='/AIV/41/1/39'>Mark 1:39</a>",
-      "comment": "Jesus’ ministry of teaching, preaching, and healing establishes the paradigm for the Church’s mission: word and sacrament, united to the healing of souls."
+      "comment": "Jesus’ ministry of teaching, preaching, and healing establishes the paradigm for the Church’s mission: word and sacrament, united to the healing of souls.",
+      "sectionHeader": "Jesus Ministers Throughout Galilee"
     },
     {
       "pk": 47004024,
@@ -305,5 +309,27 @@
       "comment": "The people from diverse regions drawn to Jesus foreshadow the universal scope of the Church. The theme of gathering all peoples together through Christ’s authority is introduced."
     }
   ],
-  "translatedAt": "2025-12-24T10:03:23.270Z"
+  "translatedAt": "2025-12-24T10:03:23.270Z",
+  "sections": [
+    {
+      "title": "The Temptation of Jesus",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "Jesus Begins His Ministry in Galilee",
+      "startVerse": 12,
+      "endVerse": 17
+    },
+    {
+      "title": "The Calling of the First Disciples",
+      "startVerse": 18,
+      "endVerse": 22
+    },
+    {
+      "title": "Jesus Ministers Throughout Galilee",
+      "startVerse": 23,
+      "endVerse": 25
+    }
+  ]
 }

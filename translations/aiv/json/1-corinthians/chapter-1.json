@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Paul, called to be an apostle of Christ Jesus by the will of God, and Sosthenes our brother,",
       "links": "<a href='/AIV/45/1/1'>Rom. 1:1</a>; <a href='/AIV/44/18/17'>Acts 18:17</a>",
-      "comment": "Paul emphasizes his calling as an apostle by divine will, stressing the authoritative nature of his mission. The mention of Sosthenes as 'our brother' highlights unity in the early Church leadership."
+      "comment": "Paul emphasizes his calling as an apostle by divine will, stressing the authoritative nature of his mission. The mention of Sosthenes as 'our brother' highlights unity in the early Church leadership.",
+      "sectionHeader": "Greeting and Thanksgiving"
     },
     {
       "pk": 53001002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "Now I urge you, brothers, by the name of our Lord Jesus Christ, that all of you agree and that there be no divisions among you, but that you be perfectly united in mind and thought.",
       "links": "<a href='/AIV/45/15/5-6'>Rom. 15:5-6</a>; <a href='/AIV/50/2/2'>Phil. 2:2</a>",
-      "comment": "Paul’s call for unity in doctrine and spirit reveals the early Church’s consistent emphasis on visible unity and agreement among believers—showing the importance of avoiding divisions."
+      "comment": "Paul’s call for unity in doctrine and spirit reveals the early Church’s consistent emphasis on visible unity and agreement among believers—showing the importance of avoiding divisions.",
+      "sectionHeader": "Divisions in the Church"
     },
     {
       "pk": 53001011,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "For the message of the cross is foolishness to those who are perishing, but to us who are being saved it is the power of God.",
       "links": "<a href='/AIV/45/1/16'>Rom. 1:16</a>; <a href='/AIV/23/53/1-12'>Isa. 53:1-12</a>",
-      "comment": "Reversal of worldly values: the cross, seen as folly by the world, is the source of true divine wisdom and power. Reference to Isaiah 53 deepens the spiritual understanding of atonement."
+      "comment": "Reversal of worldly values: the cross, seen as folly by the world, is the source of true divine wisdom and power. Reference to Isaiah 53 deepens the spiritual understanding of atonement.",
+      "sectionHeader": "Christ the Power and Wisdom of God"
     },
     {
       "pk": 53001019,
@@ -377,5 +380,22 @@
       "comment": "Paul closes with Jeremiah’s call to boast only in God, reinforcing the theme that all good comes from union with Christ and the workings of the Spirit through the one true Church."
     }
   ],
-  "translatedAt": "2025-12-24T11:44:20.254Z"
+  "translatedAt": "2025-12-24T11:44:20.254Z",
+  "sections": [
+    {
+      "title": "Greeting and Thanksgiving",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "Divisions in the Church",
+      "startVerse": 10,
+      "endVerse": 17
+    },
+    {
+      "title": "Christ the Power and Wisdom of God",
+      "startVerse": 18,
+      "endVerse": 31
+    }
+  ]
 }

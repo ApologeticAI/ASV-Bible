@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "\"I am the true vine, and my Father is the vine grower.",
       "links": "<a href='/AIV/19/80/8-9'>Ps. 80:8-9</a>; <a href='/AIV/23/5/1-7'>Isa. 5:1-7</a>",
-      "comment": "Jesus uses the image of the vine—a symbol for Israel in the Old Testament (see Isa. 5:1-7)—to describe His unique role as the source of divine life. The Father tends and oversees the vine, indicating an order and unity within the divine mission."
+      "comment": "Jesus uses the image of the vine—a symbol for Israel in the Old Testament (see Isa. 5:1-7)—to describe His unique role as the source of divine life. The Father tends and oversees the vine, indicating an order and unity within the divine mission.",
+      "sectionHeader": "The Vine and the Branches"
     },
     {
       "pk": 50015002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "This is My commandment: that you love one another as I have loved you.",
       "links": "<a href='/AIV/43/13/34'>John 13:34</a>; <a href='/AIV/62/3/23'>1 John 3:23</a>",
-      "comment": "Jesus sets a new and ultimate standard for love—the sacrificial love He Himself shows. This command is the heartbeat of Christian life and community."
+      "comment": "Jesus sets a new and ultimate standard for love—the sacrificial love He Himself shows. This command is the heartbeat of Christian life and community.",
+      "sectionHeader": "The Commandment to Love"
     },
     {
       "pk": 50015013,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "If the world hates you, know that it has hated Me before it hated you.",
       "links": "<a href='/AIV/40/10/22'>Matt. 10:22</a>; <a href='/AIV/60/4/14'>1 Pet. 4:14</a>",
-      "comment": "Jesus prepares His followers for opposition from the world, grounding their suffering in solidarity with His own. The Church’s mission has always included bearing witness patiently."
+      "comment": "Jesus prepares His followers for opposition from the world, grounding their suffering in solidarity with His own. The Church’s mission has always included bearing witness patiently.",
+      "sectionHeader": "The World's Hatred"
     },
     {
       "pk": 50015019,
@@ -314,7 +317,8 @@
       "verse": 26,
       "text": "When the Advocate comes, whom I will send to you from the Father—the Spirit of truth who proceeds from the Father—He will testify about Me.",
       "links": "<a href='/AIV/43/14/16-17'>John 14:16-17</a>; <a href='/AIV/43/16/7-15'>John 16:7-15</a>",
-      "comment": "The Advocate (the Holy Spirit) is sent by the Son from the Father, and proceeds from the Father (note: early Church councils debated this phrase)—and bears witness to Jesus. This verse touches on the relationship within the Holy Trinity and the continuity of the apostolic testimony through the Spirit."
+      "comment": "The Advocate (the Holy Spirit) is sent by the Son from the Father, and proceeds from the Father (note: early Church councils debated this phrase)—and bears witness to Jesus. This verse touches on the relationship within the Holy Trinity and the continuity of the apostolic testimony through the Spirit.",
+      "sectionHeader": "The Promise of the Advocate"
     },
     {
       "pk": 50015027,
@@ -329,5 +333,27 @@
       "comment": "The apostles are eye-witnesses from the very start, a foundational point for the credibility and unity of the Church’s message, which is passed on faithfully through the ages."
     }
   ],
-  "translatedAt": "2025-12-24T11:13:21.668Z"
+  "translatedAt": "2025-12-24T11:13:21.668Z",
+  "sections": [
+    {
+      "title": "The Vine and the Branches",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "The Commandment to Love",
+      "startVerse": 12,
+      "endVerse": 17
+    },
+    {
+      "title": "The World's Hatred",
+      "startVerse": 18,
+      "endVerse": 25
+    },
+    {
+      "title": "The Promise of the Advocate",
+      "startVerse": 26,
+      "endVerse": 27
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "I cry aloud to the LORD; with my voice I plead to the LORD for mercy.",
       "links": "<a href='/AIV/19/77/1'>Ps. 77:1</a>; <a href='/AIV/19/62/8'>Ps. 62:8</a>",
-      "comment": "This verse emphasizes direct and vocal prayer to God in times of distress, reflecting the biblical tradition of pouring out the heart before God. Note the repetition of 'to the LORD', which shows a deep dependence and trust. Early Christian writers saw such cries as symbolizing the soul's longing for communion with God, foreshadowing the continual prayer of the saints."
+      "comment": "This verse emphasizes direct and vocal prayer to God in times of distress, reflecting the biblical tradition of pouring out the heart before God. Note the repetition of 'to the LORD', which shows a deep dependence and trust. Early Christian writers saw such cries as symbolizing the soul's longing for communion with God, foreshadowing the continual prayer of the saints.",
+      "sectionHeader": "A Cry for Mercy in Distress"
     },
     {
       "pk": 23142002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "I cry to You, O LORD; I say, 'You are my refuge, my portion in the land of the living.'",
       "links": "<a href='/AIV/19/16/5'>Ps. 16:5</a>; <a href='/AIV/19/73/26'>Ps. 73:26</a>; <a href='/AIV/19/46/1'>Ps. 46:1</a>",
-      "comment": "Calling God 'refuge' and 'portion' echoes inheritance language in the Old Testament (Num. 18:20), signifying both material and spiritual provision. Interpreters highlight this as a type of the believer’s share in the kingdom (Col. 1:12), and by extension, the belief in visible signs of God’s sustaining grace available to God’s people."
+      "comment": "Calling God 'refuge' and 'portion' echoes inheritance language in the Old Testament (Num. 18:20), signifying both material and spiritual provision. Interpreters highlight this as a type of the believer’s share in the kingdom (Col. 1:12), and by extension, the belief in visible signs of God’s sustaining grace available to God’s people.",
+      "sectionHeader": "Prayer for Deliverance and Thanksgiving"
     },
     {
       "pk": 23142006,
@@ -89,5 +91,17 @@
       "comment": "Soul as 'in prison' is a metaphor for bondage to sin, despair, or oppression. The act of thanksgiving after deliverance prefigures worship in assembly and the communal aspect of faith. The righteous gathering suggests restoration into the fellowship—hinting at the importance of visible, united worship and thanksgiving. Early commentators saw this as a type of the resurrection and the gathering of believers around the presence of the Lord."
     }
   ],
-  "translatedAt": "2025-12-24T06:47:42.497Z"
+  "translatedAt": "2025-12-24T06:47:42.497Z",
+  "sections": [
+    {
+      "title": "A Cry for Mercy in Distress",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "Prayer for Deliverance and Thanksgiving",
+      "startVerse": 5,
+      "endVerse": 7
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Tobias answered his father Tobit, 'Father, everything you told me I will do.'",
       "links": "<a href='/AIV/17/4/19'>Tob. 4:19</a>",
-      "comment": "This sets the obedience of the son to the father as a model, reflecting themes of filial piety central to Old and New Testament teaching (cf. Ephesians 6:1-3). This obedience subtly foreshadows Christ's obedience to the Father."
+      "comment": "This sets the obedience of the son to the father as a model, reflecting themes of filial piety central to Old and New Testament teaching (cf. Ephesians 6:1-3). This obedience subtly foreshadows Christ's obedience to the Father.",
+      "sectionHeader": "Tobias Sent to Recover the Money"
     },
     {
       "pk": 17005002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "So Tobias went out to look for a man who would go with him to Media, and he found Raphael, the angel, but did not know that he was an angel of God.",
       "links": "<a href='/AIV/01/18/2'>Gen. 18:2</a>; <a href='/AIV/58/13/2'>Heb. 13:2</a>",
-      "comment": "This moment reveals the reality of angels assisted in disguise (cf. Hebrews 13:2). It also hints at the principle that God sends unseen help to those who seek goodness—foreshadowing God's providential care in salvation history."
+      "comment": "This moment reveals the reality of angels assisted in disguise (cf. Hebrews 13:2). It also hints at the principle that God sends unseen help to those who seek goodness—foreshadowing God's providential care in salvation history.",
+      "sectionHeader": "Raphael Chosen as a Companion"
     },
     {
       "pk": 17005006,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "Raphael entered, and Tobit greeted him first. Raphael replied, 'Peace be with you!' Tobit said, 'What family are you from, brother? Tell me.'",
       "links": "<a href='/AIV/01/43/23'>Gen. 43:23</a>; <a href='/AIV/07/6/23'>Judg. 6:23</a>",
-      "comment": "The greeting of peace is an Old Testament hallmark, and the question about family roots recalls the importance of lineage in salvation history (cf. Matthew 1:1-17)."
+      "comment": "The greeting of peace is an Old Testament hallmark, and the question about family roots recalls the importance of lineage in salvation history (cf. Matthew 1:1-17).",
+      "sectionHeader": "Tobit Questions Raphael"
     },
     {
       "pk": 17005012,
@@ -206,7 +209,8 @@
       "verse": 17,
       "text": "Tobit said to Tobias, 'Prepare for the journey, and go with this good man; may God, who dwells in heaven, keep you both safe and bring you home to me in peace. May his angel accompany you, my child.'",
       "links": "<a href='/AIV/02/23/20'>Exod. 23:20</a>; <a href='/AIV/19/91/11'>Ps. 91:11</a>",
-      "comment": "Tobit’s prayer invokes angelic protection, recalling God's promise to send His angels (Psalm 91:11, Exodus 23:20). Such prayers anticipate Christian belief in guardian angels and divine protection."
+      "comment": "Tobit’s prayer invokes angelic protection, recalling God's promise to send His angels (Psalm 91:11, Exodus 23:20). Such prayers anticipate Christian belief in guardian angels and divine protection.",
+      "sectionHeader": "Departure and Tobit's Prayer for Tobias"
     },
     {
       "pk": 17005018,
@@ -269,5 +273,27 @@
       "comment": "The cessation of Anna's sorrow hints at the comfort and peace that faith provides, a theme fully revealed in Christ who turns mourning into joy (cf. John 16:20)."
     }
   ],
-  "translatedAt": "2025-12-24T04:56:15.484Z"
+  "translatedAt": "2025-12-24T04:56:15.484Z",
+  "sections": [
+    {
+      "title": "Tobias Sent to Recover the Money",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "Raphael Chosen as a Companion",
+      "startVerse": 5,
+      "endVerse": 10
+    },
+    {
+      "title": "Tobit Questions Raphael",
+      "startVerse": 11,
+      "endVerse": 16
+    },
+    {
+      "title": "Departure and Tobit's Prayer for Tobias",
+      "startVerse": 17,
+      "endVerse": 22
+    }
+  ]
 }

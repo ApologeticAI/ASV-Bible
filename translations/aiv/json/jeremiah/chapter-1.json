@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The words of Jeremiah, son of Hilkiah, one of the priests living in Anathoth, in the land of Benjamin.",
       "links": "<a href='/AIV/09/21/18-19'>1 Sam. 21:18–19</a>; <a href='/AIV/13/06/60'>1 Chr. 6:60</a>",
-      "comment": "Jeremiah, introduced as a priest, foreshadows his prophetic ministry and the continuity of God’s work through priestly and prophetic leadership. Anathoth connects Jeremiah to priestly heritage, implying a special vocation in God's plan."
+      "comment": "Jeremiah, introduced as a priest, foreshadows his prophetic ministry and the continuity of God’s work through priestly and prophetic leadership. Anathoth connects Jeremiah to priestly heritage, implying a special vocation in God's plan.",
+      "sectionHeader": "Introduction: Jeremiah’s Call and Historical Setting"
     },
     {
       "pk": 30001002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "The word of the LORD came to me, saying:",
       "links": "<a href='/AIV/26/03/16'>Ezek. 3:16</a>; <a href='/AIV/01/15/1'>Gen. 15:1</a>",
-      "comment": "A solemn introduction to God’s direct communication, emphasizing prophecy as an act of grace, not human initiative. Like other prophets, Jeremiah receives a unique personal commission (see Ezekiel and Abraham)."
+      "comment": "A solemn introduction to God’s direct communication, emphasizing prophecy as an act of grace, not human initiative. Like other prophets, Jeremiah receives a unique personal commission (see Ezekiel and Abraham).",
+      "sectionHeader": "The Call and Commissioning of Jeremiah"
     },
     {
       "pk": 30001005,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "The word of the LORD came to me: \"What do you see, Jeremiah?\" And I said, \"I see a branch of an almond tree.\"",
       "links": "<a href='/AIV/04/17/8'>Num. 17:8</a>; <a href='/AIV/24/01/12'>Jer. 1:12</a>",
-      "comment": "The almond branch (Hebrew: shāqēd) is a play on words with ‘watching’ (shōqēd), symbolizing God's alertness and swift action. As in Aaron’s rod in Numbers, it can suggest God’s chosen leadership—prefiguring prophetic or apostolic authority."
+      "comment": "The almond branch (Hebrew: shāqēd) is a play on words with ‘watching’ (shōqēd), symbolizing God's alertness and swift action. As in Aaron’s rod in Numbers, it can suggest God’s chosen leadership—prefiguring prophetic or apostolic authority.",
+      "sectionHeader": "Visions of the Almond Branch and Boiling Pot"
     },
     {
       "pk": 30001012,
@@ -206,7 +209,8 @@
       "verse": 17,
       "text": "\"But you, prepare yourself; stand and speak to them everything that I command you. Do not be terrified by them, or I will terrify you before them.\"",
       "links": "<a href='/AIV/26/02/6'>Ezek. 2:6</a>; <a href='/AIV/40/10/19-20'>Matt. 10:19–20</a>",
-      "comment": "Jeremiah is commanded to courage—a call to steadfastness in ministry. Faithful proclamation in the face of opposition is foundational for true spiritual leadership, echoing apostolic endurance and the promise of divine assistance."
+      "comment": "Jeremiah is commanded to courage—a call to steadfastness in ministry. Faithful proclamation in the face of opposition is foundational for true spiritual leadership, echoing apostolic endurance and the promise of divine assistance.",
+      "sectionHeader": "Warning of Coming Judgment and Jeremiah’s Strength"
     },
     {
       "pk": 30001018,
@@ -233,5 +237,27 @@
       "comment": "God promises protection and ultimate victory, even amid fierce opposition. The assurance parallels the promise given to Peter and the apostles that the gates of hell will not prevail against the Church. This enduring protection reflects God’s faithfulness throughout salvation history."
     }
   ],
-  "translatedAt": "2025-12-24T08:21:19.821Z"
+  "translatedAt": "2025-12-24T08:21:19.821Z",
+  "sections": [
+    {
+      "title": "Introduction: Jeremiah’s Call and Historical Setting",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "The Call and Commissioning of Jeremiah",
+      "startVerse": 4,
+      "endVerse": 10
+    },
+    {
+      "title": "Visions of the Almond Branch and Boiling Pot",
+      "startVerse": 11,
+      "endVerse": 16
+    },
+    {
+      "title": "Warning of Coming Judgment and Jeremiah’s Strength",
+      "startVerse": 17,
+      "endVerse": 19
+    }
+  ]
 }

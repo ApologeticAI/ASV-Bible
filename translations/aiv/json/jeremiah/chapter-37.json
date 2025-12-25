@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Zedekiah son of Josiah was made king in the land of Judah by Nebuchadnezzar king of Babylon, replacing Coniah son of Jehoiakim.",
       "links": "<a href='/AIV/12/24/17'>2 Kings 24:17</a>; <a href='/AIV/26/17/12'>Ezek. 17:12</a>",
-      "comment": "This sets the historical context during the Babylonian occupation. Zedekiah is a puppet king installed by Babylon. The transition of power highlights foreign influence on God's chosen people, reminiscent of later periods of Church persecution and the importance of faithfulness under external rule."
+      "comment": "This sets the historical context during the Babylonian occupation. Zedekiah is a puppet king installed by Babylon. The transition of power highlights foreign influence on God's chosen people, reminiscent of later periods of Church persecution and the importance of faithfulness under external rule.",
+      "sectionHeader": "Zedekiah Seeks Jeremiah’s Prayer"
     },
     {
       "pk": 30037002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "Then the word of the LORD came to Jeremiah the prophet:",
       "links": "<a href='/AIV/24/1/4'>Jer. 1:4</a>; <a href='/AIV/24/33/1-2'>Jer. 33:1-2</a>",
-      "comment": "God continues to speak through Jeremiah, confirming the prophet's role as a divinely-appointed messenger. This fits the biblical motif of God using chosen individuals to convey His will and to challenge human authorities."
+      "comment": "God continues to speak through Jeremiah, confirming the prophet's role as a divinely-appointed messenger. This fits the biblical motif of God using chosen individuals to convey His will and to challenge human authorities.",
+      "sectionHeader": "Jeremiah’s Prophecy of Jerusalem’s Fall"
     },
     {
       "pk": 30037007,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "Now when the Chaldean army had withdrawn from Jerusalem because of Pharaoh’s army,",
       "links": "<a href='/AIV/24/37/5'>Jer. 37:5</a>",
-      "comment": "This verse repeats the context of temporary relief, illustrating how fleeting worldly deliverance is. The passage hints at God's overarching plan, which is fulfilled through submission rather than resistance."
+      "comment": "This verse repeats the context of temporary relief, illustrating how fleeting worldly deliverance is. The passage hints at God's overarching plan, which is fulfilled through submission rather than resistance.",
+      "sectionHeader": "Jeremiah Imprisoned as a Suspect"
     },
     {
       "pk": 30037012,
@@ -206,7 +209,8 @@
       "verse": 17,
       "text": "Then King Zedekiah sent for him and secretly questioned him in his house, asking, 'Is there any word from the LORD?' Jeremiah answered, 'There is.' Then he said, 'You will be delivered into the hand of the king of Babylon.'",
       "links": "<a href='/AIV/24/32/4'>Jer. 32:4</a>; <a href='/AIV/24/34/2'>Jer. 34:2</a>",
-      "comment": "Zedekiah’s secret inquiry denotes his conflicted conscience, paralleling Pilate's reluctant questioning of Jesus. Jeremiah’s unwavering prophecy emphasizes the necessity of truth spoken even under pressure."
+      "comment": "Zedekiah’s secret inquiry denotes his conflicted conscience, paralleling Pilate's reluctant questioning of Jesus. Jeremiah’s unwavering prophecy emphasizes the necessity of truth spoken even under pressure.",
+      "sectionHeader": "Jeremiah before King Zedekiah"
     },
     {
       "pk": 30037018,
@@ -257,5 +261,27 @@
       "comment": "Jeremiah is provided daily bread, foreshadowing God’s continual provision. The motif of daily sustenance echoes the Lord’s Prayer and the eucharistic promise of God’s sustenance for his people—a spiritual and literal fulfillment."
     }
   ],
-  "translatedAt": "2025-12-24T08:42:27.962Z"
+  "translatedAt": "2025-12-24T08:42:27.962Z",
+  "sections": [
+    {
+      "title": "Zedekiah Seeks Jeremiah’s Prayer",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Jeremiah’s Prophecy of Jerusalem’s Fall",
+      "startVerse": 6,
+      "endVerse": 10
+    },
+    {
+      "title": "Jeremiah Imprisoned as a Suspect",
+      "startVerse": 11,
+      "endVerse": 16
+    },
+    {
+      "title": "Jeremiah before King Zedekiah",
+      "startVerse": 17,
+      "endVerse": 21
+    }
+  ]
 }

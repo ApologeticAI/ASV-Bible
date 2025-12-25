@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Listen therefore, O kings, and understand; learn, O rulers of the ends of the earth.",
       "links": "<a href='/AIV/19/2/10'>Ps. 2:10</a>; <a href='/AIV/20/8/15-16'>Prov. 8:15-16</a>",
-      "comment": "The writer addresses all those in authority, emphasizing that wisdom and understanding are not just for ordinary people, but especially for rulers. This reflects the biblical motif that leadership is a grave responsibility before God (see also Ps. 2:10)."
+      "comment": "The writer addresses all those in authority, emphasizing that wisdom and understanding are not just for ordinary people, but especially for rulers. This reflects the biblical motif that leadership is a grave responsibility before God (see also Ps. 2:10).",
+      "sectionHeader": "Responsibility of Rulers Before God"
     },
     {
       "pk": 27006002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "Wisdom shines bright and never fades; she is easily seen by those who love her, and is found by those who seek her.",
       "links": "<a href='/AIV/20/3/15'>Prov. 3:15</a>; <a href='/AIV/40/7/7'>Matt. 7:7</a>",
-      "comment": "The personification of Wisdom as a radiant, feminine figure recalls Proverbs, yet also anticipates the fulfillment of divine Wisdom in Christ (see 1 Cor. 1:24)."
+      "comment": "The personification of Wisdom as a radiant, feminine figure recalls Proverbs, yet also anticipates the fulfillment of divine Wisdom in Christ (see 1 Cor. 1:24).",
+      "sectionHeader": "The Excellence and Reward of Wisdom"
     },
     {
       "pk": 27006013,
@@ -266,7 +268,8 @@
       "verse": 22,
       "text": "I will declare what Wisdom is and how she came to be, and I will not hide mysteries from you, but will trace her course from the beginning of creation and make her knowledge clear, and I will not pass by the truth.",
       "links": "<a href='/AIV/20/8/22-31'>Prov. 8:22-31</a>",
-      "comment": "The author prepares to unveil deep mysteries, especially the origin and nature of divine Wisdom, echoing themes from Proverbs 8."
+      "comment": "The author prepares to unveil deep mysteries, especially the origin and nature of divine Wisdom, echoing themes from Proverbs 8.",
+      "sectionHeader": "Invitation to Learn Wisdom"
     },
     {
       "pk": 27006023,
@@ -305,5 +308,22 @@
       "comment": "The chapter closes with a final exhortation to heed Wisdom, promising spiritual benefit. Reception of God’s truth leads to genuine life and spiritual health."
     }
   ],
-  "translatedAt": "2025-12-24T07:16:43.283Z"
+  "translatedAt": "2025-12-24T07:16:43.283Z",
+  "sections": [
+    {
+      "title": "Responsibility of Rulers Before God",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "The Excellence and Reward of Wisdom",
+      "startVerse": 12,
+      "endVerse": 21
+    },
+    {
+      "title": "Invitation to Learn Wisdom",
+      "startVerse": 22,
+      "endVerse": 25
+    }
+  ]
 }

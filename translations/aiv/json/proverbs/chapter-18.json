@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Whoever isolates himself seeks his own desire; he breaks out against all sound judgment.",
       "links": "<a href='/AIV/20/1/4-5'>Prov. 1:4-5</a>; <a href='/AIV/58/10/25'>Heb. 10:25</a>",
-      "comment": "This verse stresses the dangers of isolation and self-will, highlighting the importance of community and submission to wise counsel—a concept reinforced in the New Testament exhortation to gather together (Heb. 10:25)."
+      "comment": "This verse stresses the dangers of isolation and self-will, highlighting the importance of community and submission to wise counsel—a concept reinforced in the New Testament exhortation to gather together (Heb. 10:25).",
+      "sectionHeader": "Wisdom and Folly in Speech and Conduct"
     },
     {
       "pk": 24018002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "The name of the LORD is a strong tower; the righteous run to it and are safe.",
       "links": "<a href='/AIV/19/61/3'>Ps. 61:3</a>; <a href='/AIV/19/91/2'>Ps. 91:2</a>",
-      "comment": "The covenant name of God stands as a security for the faithful, prefiguring refuge found in Christ for the New Covenant people. Strong spiritual protection is available to those who trust in the Lord."
+      "comment": "The covenant name of God stands as a security for the faithful, prefiguring refuge found in Christ for the New Covenant people. Strong spiritual protection is available to those who trust in the Lord.",
+      "sectionHeader": "The Name of the Lord and the Dangers of Wealth"
     },
     {
       "pk": 24018011,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "An intelligent heart acquires knowledge, and the ear of the wise seeks knowledge.",
       "links": "<a href='/AIV/20/1/5'>Prov. 1:5</a>; <a href='/AIV/20/15/14'>Prov. 15:14</a>",
-      "comment": "Desire for wisdom is a mark of the righteous. This pattern appears throughout Scripture, emphasizing the pursuit of truth through reason and revelation."
+      "comment": "Desire for wisdom is a mark of the righteous. This pattern appears throughout Scripture, emphasizing the pursuit of truth through reason and revelation.",
+      "sectionHeader": "Discernment and Justice in Relationships"
     },
     {
       "pk": 24018016,
@@ -242,7 +245,8 @@
       "verse": 20,
       "text": "From the fruit of a man's mouth his stomach is filled; he is satisfied by the harvest of his lips.",
       "links": "<a href='/AIV/20/12/14'>Prov. 12:14</a>",
-      "comment": "Words not only impact others but also return to bless or harm the speaker. The biblical teaching of sowing and reaping also applies to speech."
+      "comment": "Words not only impact others but also return to bless or harm the speaker. The biblical teaching of sowing and reaping also applies to speech.",
+      "sectionHeader": "The Power of Words and Companionship"
     },
     {
       "pk": 24018021,
@@ -293,5 +297,27 @@
       "comment": "Faithful friendship is more valuable than mere popularity. This hints at the spiritual friend par excellence, fulfilled in the self-giving friendship of Christ (John 15:13)."
     }
   ],
-  "translatedAt": "2025-12-24T06:59:44.702Z"
+  "translatedAt": "2025-12-24T06:59:44.702Z",
+  "sections": [
+    {
+      "title": "Wisdom and Folly in Speech and Conduct",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "The Name of the Lord and the Dangers of Wealth",
+      "startVerse": 10,
+      "endVerse": 14
+    },
+    {
+      "title": "Discernment and Justice in Relationships",
+      "startVerse": 15,
+      "endVerse": 19
+    },
+    {
+      "title": "The Power of Words and Companionship",
+      "startVerse": 20,
+      "endVerse": 24
+    }
+  ]
 }

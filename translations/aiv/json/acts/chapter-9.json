@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Saul, still breathing threats and murder against the disciples of the Lord, went to the high priest",
       "links": "<a href='/AIV/51/8/3'>Acts 8:3</a>; <a href='/AIV/40/10/17'>Matt. 10:17</a>",
-      "comment": "Saul's hostility marks the severe persecution early Christians faced from religious authorities. Note the intensity of Saul's zeal and the danger confronting the followers of Jesus."
+      "comment": "Saul's hostility marks the severe persecution early Christians faced from religious authorities. Note the intensity of Saul's zeal and the danger confronting the followers of Jesus.",
+      "sectionHeader": "The Conversion of Saul"
     },
     {
       "pk": 51009002,
@@ -242,7 +243,8 @@
       "verse": 20,
       "text": "At once he began to proclaim Jesus in the synagogues, saying, 'He is the Son of God.'",
       "links": "<a href='/AIV/40/16/16'>Matt. 16:16</a>; <a href='/AIV/43/20/31'>John 20:31</a>",
-      "comment": "Saul’s immediate preaching of Jesus as 'Son of God' indicates his full acceptance of Christ’s divinity and the apostolic message."
+      "comment": "Saul’s immediate preaching of Jesus as 'Son of God' indicates his full acceptance of Christ’s divinity and the apostolic message.",
+      "sectionHeader": "Saul Proclaims Jesus in Damascus"
     },
     {
       "pk": 51009021,
@@ -314,7 +316,8 @@
       "verse": 26,
       "text": "When Saul arrived in Jerusalem, he tried to join the disciples, but they were all afraid of him, not believing that he was truly a disciple.",
       "links": "<a href='/AIV/51/21/16'>Acts 21:16</a>",
-      "comment": "The need for acceptance by the apostolic community accentuates the role of fellowship and visible unity within the Church."
+      "comment": "The need for acceptance by the apostolic community accentuates the role of fellowship and visible unity within the Church.",
+      "sectionHeader": "Saul in Jerusalem"
     },
     {
       "pk": 51009027,
@@ -386,7 +389,8 @@
       "verse": 32,
       "text": "As Peter traveled through all the regions, he came down also to the saints who lived at Lydda.",
       "links": "<a href='/AIV/51/8/14'>Acts 8:14</a>",
-      "comment": "Peter’s oversight shows pastoral authority and unity; the reference to ‘saints’ maintains continuity within the Church."
+      "comment": "Peter’s oversight shows pastoral authority and unity; the reference to ‘saints’ maintains continuity within the Church.",
+      "sectionHeader": "The Healing of Aeneas at Lydda"
     },
     {
       "pk": 51009033,
@@ -434,7 +438,8 @@
       "verse": 36,
       "text": "Now there was in Joppa a disciple named Tabitha, which translated means Dorcas. She was full of good works and acts of charity.",
       "links": "<a href='/AIV/51/16/1'>Acts 16:1</a>",
-      "comment": "Tabitha’s life is marked by both faith and tangible works, an essential harmony showing the importance of works alongside faith."
+      "comment": "Tabitha’s life is marked by both faith and tangible works, an essential harmony showing the importance of works alongside faith.",
+      "sectionHeader": "The Raising of Tabitha (Dorcas)"
     },
     {
       "pk": 51009037,
@@ -521,5 +526,32 @@
       "comment": "Peter’s willingness to stay in a tanner’s house—someone ritually ‘unclean’—shows the Church's openness to all repentant and faithful believers."
     }
   ],
-  "translatedAt": "2025-12-24T11:22:48.537Z"
+  "translatedAt": "2025-12-24T11:22:48.537Z",
+  "sections": [
+    {
+      "title": "The Conversion of Saul",
+      "startVerse": 1,
+      "endVerse": 19
+    },
+    {
+      "title": "Saul Proclaims Jesus in Damascus",
+      "startVerse": 20,
+      "endVerse": 25
+    },
+    {
+      "title": "Saul in Jerusalem",
+      "startVerse": 26,
+      "endVerse": 31
+    },
+    {
+      "title": "The Healing of Aeneas at Lydda",
+      "startVerse": 32,
+      "endVerse": 35
+    },
+    {
+      "title": "The Raising of Tabitha (Dorcas)",
+      "startVerse": 36,
+      "endVerse": 43
+    }
+  ]
 }

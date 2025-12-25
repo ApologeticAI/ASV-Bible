@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "If any of you has a dispute with another, does he dare to take it before the unrighteous instead of the saints?",
       "links": "<a href='/AIV/40/18/15-17'>Matt. 18:15-17</a>; <a href='/AIV/19/82/1-2'>Ps. 82:1-2</a>",
-      "comment": "Paul challenges believers to address disputes within the community of the faithful, emphasizing the spiritual authority endowed to the saints. This mirrors Jesus' instructions on handling conflict within the church (Matt. 18)."
+      "comment": "Paul challenges believers to address disputes within the community of the faithful, emphasizing the spiritual authority endowed to the saints. This mirrors Jesus' instructions on handling conflict within the church (Matt. 18).",
+      "sectionHeader": "Lawsuits Before Unbelievers"
     },
     {
       "pk": 53006002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "Do you not know that the unrighteous will not inherit the kingdom of God? Do not be deceived: neither the sexually immoral, nor idolaters, nor adulterers, nor men who practice sexual immorality with others,",
       "links": "<a href='/AIV/48/5/19-21'>Gal. 5:19-21</a>; <a href='/AIV/66/21/8'>Rev. 21:8</a>",
-      "comment": "Paul lists specific sins that separate individuals from the kingdom, emphasizing moral transformation as essential to inheriting eternal life through Christ."
+      "comment": "Paul lists specific sins that separate individuals from the kingdom, emphasizing moral transformation as essential to inheriting eternal life through Christ.",
+      "sectionHeader": "Warning Against Unrighteousness"
     },
     {
       "pk": 53006010,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "All things are lawful for me, but not all things are beneficial. All things are lawful for me, but I will not be mastered by anything.",
       "links": "<a href='/AIV/48/5/13'>Gal. 5:13</a>; <a href='/AIV/45/6/14'>Rom. 6:14</a>",
-      "comment": "Freedom in Christ does not mean license; true spiritual maturity is shown by choosing what leads to holiness and self-control, an emphasis on growth in virtue within the fellowship."
+      "comment": "Freedom in Christ does not mean license; true spiritual maturity is shown by choosing what leads to holiness and self-control, an emphasis on growth in virtue within the fellowship.",
+      "sectionHeader": "Glorify God in Your Body"
     },
     {
       "pk": 53006013,
@@ -245,5 +248,22 @@
       "comment": "Salvation is costly, accomplished by Christ’s sacrifice. Therefore, living out one’s faith bodily is a spiritual act of worship, pointing to the continuing call to holiness rooted in the redemption brought by Christ."
     }
   ],
-  "translatedAt": "2025-12-24T11:46:12.871Z"
+  "translatedAt": "2025-12-24T11:46:12.871Z",
+  "sections": [
+    {
+      "title": "Lawsuits Before Unbelievers",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "Warning Against Unrighteousness",
+      "startVerse": 9,
+      "endVerse": 11
+    },
+    {
+      "title": "Glorify God in Your Body",
+      "startVerse": 12,
+      "endVerse": 20
+    }
+  ]
 }

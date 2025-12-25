@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Foolish Galatians! Who has bewitched you, before whose eyes Jesus Christ was publicly portrayed as crucified?",
       "links": "<a href='/AIV/45/6/6'>Rom. 6:6</a>; <a href='/AIV/47/4/4'>2 Cor. 4:4</a>",
-      "comment": "Paul uses sharp language to show the severity of abandoning the gospel for legalism. The crucifixion is set as the foundation of faith. 'Publicly portrayed' implies the centrality of Christ's sacrifice, pointing to both a literal event and its continued presentation in the life of believers (cf. <a href='/AIV/46/11/26'>1 Cor. 11:26</a>)."
+      "comment": "Paul uses sharp language to show the severity of abandoning the gospel for legalism. The crucifixion is set as the foundation of faith. 'Publicly portrayed' implies the centrality of Christ's sacrifice, pointing to both a literal event and its continued presentation in the life of believers (cf. <a href='/AIV/46/11/26'>1 Cor. 11:26</a>).",
+      "sectionHeader": "Faith or Works of the Law"
     },
     {
       "pk": 55003002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "Just as Abraham believed God, and it was credited to him as righteousness—",
       "links": "<a href='/AIV/01/15/6'>Gen. 15:6</a>; <a href='/AIV/45/4/3'>Rom. 4:3</a>",
-      "comment": "Paul cites Abraham to show that even the patriarch's justification came not through works but believing faith. This sets the pattern for all who would belong to God’s covenant community."
+      "comment": "Paul cites Abraham to show that even the patriarch's justification came not through works but believing faith. This sets the pattern for all who would belong to God’s covenant community.",
+      "sectionHeader": "The Example of Abraham"
     },
     {
       "pk": 55003007,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "Brothers, let me give an example from everyday life: Even a man-made covenant, once confirmed, cannot be set aside or added to.",
       "links": "<a href='/AIV/58/6/17'>Heb. 6:17</a>",
-      "comment": "Paul appeals to legal custom to show that God’s promise, once given, stands unaltered. This underlines the reliability of God’s covenant as superior to the Law."
+      "comment": "Paul appeals to legal custom to show that God’s promise, once given, stands unaltered. This underlines the reliability of God’s covenant as superior to the Law.",
+      "sectionHeader": "The Purpose of the Law"
     },
     {
       "pk": 55003016,
@@ -278,7 +281,8 @@
       "verse": 23,
       "text": "But before faith came, we were held captive under the Law, locked up until the faith that was to come would be revealed.",
       "links": "<a href='/AIV/45/7/6'>Rom. 7:6</a>",
-      "comment": "Law prepared the way but could only confine—it could not liberate. The coming of faith refers to the Messiah, bringing freedom and a new covenant."
+      "comment": "Law prepared the way but could only confine—it could not liberate. The coming of faith refers to the Messiah, bringing freedom and a new covenant.",
+      "sectionHeader": "Sons of God Through Faith"
     },
     {
       "pk": 55003024,
@@ -353,5 +357,27 @@
       "comment": "Participation in Christ means inclusion in the covenant family and inheritance. This highlights the fulfillment of God’s plan from Abraham, through Christ, to His chosen people—joined in promise, faith, and visible unity."
     }
   ],
-  "translatedAt": "2025-12-24T11:59:18.079Z"
+  "translatedAt": "2025-12-24T11:59:18.079Z",
+  "sections": [
+    {
+      "title": "Faith or Works of the Law",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "The Example of Abraham",
+      "startVerse": 6,
+      "endVerse": 14
+    },
+    {
+      "title": "The Purpose of the Law",
+      "startVerse": 15,
+      "endVerse": 22
+    },
+    {
+      "title": "Sons of God Through Faith",
+      "startVerse": 23,
+      "endVerse": 29
+    }
+  ]
 }

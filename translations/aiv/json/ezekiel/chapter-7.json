@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The word of the LORD came to me, saying:",
       "links": "<a href='/AIV/26/6/1'>Ezek. 6:1</a>",
-      "comment": "Once again, God initiates the message, emphasizing that this is not Ezekiel's own idea but divinely revealed (see also Ezek. 1:3; 3:16)."
+      "comment": "Once again, God initiates the message, emphasizing that this is not Ezekiel's own idea but divinely revealed (see also Ezek. 1:3; 3:16).",
+      "sectionHeader": "The End Proclaimed for Israel"
     },
     {
       "pk": 33007002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "Behold, the day! Behold, it comes! The doom has gone out. The rod has blossomed, pride has budded.",
       "links": "<a href='/AIV/4/17/8'>Num. 17:8</a>; <a href='/AIV/23/10/5'>Isa. 10:5</a>",
-      "comment": "The 'rod' here may allude to both Aaron’s rod (sign of authority and judgment) and instruments of discipline God uses (cf. Isa. 10:5). Pride is the root of the rebellion."
+      "comment": "The 'rod' here may allude to both Aaron’s rod (sign of authority and judgment) and instruments of discipline God uses (cf. Isa. 10:5). Pride is the root of the rebellion.",
+      "sectionHeader": "The Inescapable Judgment"
     },
     {
       "pk": 33007011,
@@ -230,7 +232,8 @@
       "verse": 19,
       "text": "They will cast their silver into the streets, and their gold will become as filth. Their silver and gold cannot deliver them in the day of the LORD’s wrath. They will not satisfy their hunger or fill their stomachs, for it was the stumbling block of their iniquity.",
       "links": "<a href='/AIV/36/1/18'>Zeph. 1:18</a>; <a href='/AIV/19/115/4'>Ps. 115:4</a>",
-      "comment": "Wealth is useless in salvation—pointing to the enduring spiritual riches given in true worship (cf. Matt. 6:19-21; 1 Pet. 1:18-19)."
+      "comment": "Wealth is useless in salvation—pointing to the enduring spiritual riches given in true worship (cf. Matt. 6:19-21; 1 Pet. 1:18-19).",
+      "sectionHeader": "The Futility of Riches and Defilement of the Sanctuary"
     },
     {
       "pk": 33007020,
@@ -302,7 +305,8 @@
       "verse": 25,
       "text": "When anguish comes, they will seek peace, but there will be none.",
       "links": "<a href='/AIV/24/6/14'>Jer. 6:14</a>",
-      "comment": "True peace cannot be found apart from God's will—this anticipates the promise of peace as found in Christ (John 14:27; Phil. 4:7)."
+      "comment": "True peace cannot be found apart from God's will—this anticipates the promise of peace as found in Christ (John 14:27; Phil. 4:7).",
+      "sectionHeader": "Anguish, Mourning, and the Silence of Counsel"
     },
     {
       "pk": 33007026,
@@ -329,5 +333,27 @@
       "comment": "Every class—kings, princes, people—faces God’s justice. This foreshadows the universal call to repentance, fulfilled in the invitation to the body of Christ."
     }
   ],
-  "translatedAt": "2025-12-24T09:01:44.309Z"
+  "translatedAt": "2025-12-24T09:01:44.309Z",
+  "sections": [
+    {
+      "title": "The End Proclaimed for Israel",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "The Inescapable Judgment",
+      "startVerse": 10,
+      "endVerse": 18
+    },
+    {
+      "title": "The Futility of Riches and Defilement of the Sanctuary",
+      "startVerse": 19,
+      "endVerse": 24
+    },
+    {
+      "title": "Anguish, Mourning, and the Silence of Counsel",
+      "startVerse": 25,
+      "endVerse": 27
+    }
+  ]
 }

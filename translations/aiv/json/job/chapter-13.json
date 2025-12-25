@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Behold, my eye has seen all this, my ear has heard and understood it.",
       "links": "<a href='/AIV/18/12/9'>Job 12:9</a>; <a href='/AIV/19/94/9'>Ps. 94:9</a>",
-      "comment": "Job opens by affirming his awareness and comprehension of what his friends have been discussing. This sets the scene for his direct challenge and claim to authority in matters of suffering and God's justice, much like Christ who openly declared His understanding before religious leaders (Luke 5:22)."
+      "comment": "Job opens by affirming his awareness and comprehension of what his friends have been discussing. This sets the scene for his direct challenge and claim to authority in matters of suffering and God's justice, much like Christ who openly declared His understanding before religious leaders (Luke 5:22).",
+      "sectionHeader": "Job Rebukes His Friends"
     },
     {
       "pk": 22013002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "Though He slay me, I will hope in Him; yet I will argue my ways to His face.",
       "links": "<a href='/AIV/19/42/11'>Ps. 42:11</a>; <a href='/AIV/18/19/25'>Job 19:25</a>",
-      "comment": "A profound declaration of faith: Job trusts God even in apparent destruction. The tension between trust and argument points to a relationship layered with both reverence and intimacy—an aspect reflected in Christ's anguished prayer in Gethsemane (Matthew 26:39), yet persistent hope."
+      "comment": "A profound declaration of faith: Job trusts God even in apparent destruction. The tension between trust and argument points to a relationship layered with both reverence and intimacy—an aspect reflected in Christ's anguished prayer in Gethsemane (Matthew 26:39), yet persistent hope.",
+      "sectionHeader": "Job's Confidence in God and His Appeal"
     },
     {
       "pk": 22013016,
@@ -242,7 +244,8 @@
       "verse": 20,
       "text": "Only grant me two things, then I will not hide from Your face:",
       "links": "<a href='/AIV/19/51/11'>Ps. 51:11</a>",
-      "comment": "Job seeks confidence to stand before God—an anticipation of restored relationship found in the promise of reconciliation (2 Corinthians 5:18-19)."
+      "comment": "Job seeks confidence to stand before God—an anticipation of restored relationship found in the promise of reconciliation (2 Corinthians 5:18-19).",
+      "sectionHeader": "Job's Plea for Answers from God"
     },
     {
       "pk": 22013021,
@@ -341,5 +344,22 @@
       "comment": "Job ends by acknowledging human frailty and mortality. This drives home reliance on grace for eternal life—a theme fulfilled in the resurrection (1 Corinthians 15:53-54)."
     }
   ],
-  "translatedAt": "2025-12-24T05:45:06.441Z"
+  "translatedAt": "2025-12-24T05:45:06.441Z",
+  "sections": [
+    {
+      "title": "Job Rebukes His Friends",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "Job's Confidence in God and His Appeal",
+      "startVerse": 15,
+      "endVerse": 19
+    },
+    {
+      "title": "Job's Plea for Answers from God",
+      "startVerse": 20,
+      "endVerse": 28
+    }
+  ]
 }

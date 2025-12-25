@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The word of the LORD came to Jeremiah a second time, while he was still shut up in the court of the guard:",
       "links": "<a href='/AIV/24/32/2'>Jer. 32:2</a>; <a href='/AIV/24/37/21'>Jer. 37:21</a>",
-      "comment": "Jeremiah receives divine revelation during imprisonment, highlighting God's provision in adversity. 'Court of the guard' suggests Jeremiah is in confinement for prophesying truth."
+      "comment": "Jeremiah receives divine revelation during imprisonment, highlighting God's provision in adversity. 'Court of the guard' suggests Jeremiah is in confinement for prophesying truth.",
+      "sectionHeader": "The Promise of Restoration and Healing"
     },
     {
       "pk": 30033002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "Thus says the LORD: In this place, of which you say, 'It is desolate, without man or beast,' in the cities of Judah and the streets of Jerusalem that are deserted, without man or inhabitant or beast, there shall be heard again",
       "links": "<a href='/AIV/24/32/43'>Jer. 32:43</a>",
-      "comment": "Desolation is not permanent; promise of future restoration. Emphasizes that even utter ruin can become a source of hope."
+      "comment": "Desolation is not permanent; promise of future restoration. Emphasizes that even utter ruin can become a source of hope.",
+      "sectionHeader": "Future Joy and Thanksgiving in Jerusalem"
     },
     {
       "pk": 30033011,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "Behold, the days are coming, declares the LORD, when I will fulfill the good promise that I made to the house of Israel and the house of Judah.",
       "links": "<a href='/AIV/24/23/5'>Jer. 23:5</a>; <a href='/AIV/24/31/31-34'>Jer. 31:31-34</a>",
-      "comment": "'The days are coming' marks a pivotal messianic prophecy, promising fulfillment to both Israel and Judah—unity implied in future blessing."
+      "comment": "'The days are coming' marks a pivotal messianic prophecy, promising fulfillment to both Israel and Judah—unity implied in future blessing.",
+      "sectionHeader": "The Righteous Branch and Perpetual Covenant"
     },
     {
       "pk": 30033015,
@@ -230,7 +233,8 @@
       "verse": 19,
       "text": "And the word of the LORD came to Jeremiah:",
       "links": "<a href='/AIV/24/33/1'>Jer. 33:1</a>",
-      "comment": "Signifies another divine statement, emphasizing prophetic authority."
+      "comment": "Signifies another divine statement, emphasizing prophetic authority.",
+      "sectionHeader": "God’s Unbreakable Covenant with David and the Levites"
     },
     {
       "pk": 30033020,
@@ -278,7 +282,8 @@
       "verse": 23,
       "text": "The word of the LORD came to Jeremiah:",
       "links": "<a href='/AIV/24/33/1'>Jer. 33:1</a>; <a href='/AIV/24/33/19'>Jer. 33:19</a>",
-      "comment": "Signals yet another revelation, further reinforcing the prophecy's certainty."
+      "comment": "Signals yet another revelation, further reinforcing the prophecy's certainty.",
+      "sectionHeader": "Assurance of Restoration for Israel and Judah"
     },
     {
       "pk": 30033024,
@@ -317,5 +322,32 @@
       "comment": "Ends with assurance: restoration and mercy are certain. Connects the patriarchal, Davidic, and priestly promises, pointing to a unified, apostolic leadership and compassion for God’s people."
     }
   ],
-  "translatedAt": "2025-12-24T08:40:06.933Z"
+  "translatedAt": "2025-12-24T08:40:06.933Z",
+  "sections": [
+    {
+      "title": "The Promise of Restoration and Healing",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "Future Joy and Thanksgiving in Jerusalem",
+      "startVerse": 10,
+      "endVerse": 13
+    },
+    {
+      "title": "The Righteous Branch and Perpetual Covenant",
+      "startVerse": 14,
+      "endVerse": 18
+    },
+    {
+      "title": "God’s Unbreakable Covenant with David and the Levites",
+      "startVerse": 19,
+      "endVerse": 22
+    },
+    {
+      "title": "Assurance of Restoration for Israel and Judah",
+      "startVerse": 23,
+      "endVerse": 26
+    }
+  ]
 }

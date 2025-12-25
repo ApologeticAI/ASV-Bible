@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Sing aloud to God our strength; shout for joy to the God of Jacob!",
       "links": "<a href='/AIV/19/47/1'>Ps. 47:1</a>; <a href='/AIV/19/95/1'>Ps. 95:1</a>",
-      "comment": "This opening call to communal praise emphasizes God's strength and His relationship with Jacob's descendants, a reminder of the covenant He made with Israel. In the New Testament, such worship points forward to united praise in the Body of Christ (see Eph. 5:19)."
+      "comment": "This opening call to communal praise emphasizes God's strength and His relationship with Jacob's descendants, a reminder of the covenant He made with Israel. In the New Testament, such worship points forward to united praise in the Body of Christ (see Eph. 5:19).",
+      "sectionHeader": "Festival Praise to God"
     },
     {
       "pk": 23081002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Hear, O my people, while I admonish you! O Israel, if you would only listen to me!",
       "links": "<a href='/AIV/19/95/7-8'>Ps. 95:7-8</a>; <a href='/AIV/05/6/4'>Deut. 6:4</a>",
-      "comment": "God's loving rebuke is aimed at moving His people to true obedience. The heartfelt plea recalls the Shema (Deut. 6:4), emphasizing attentive and faithful listening."
+      "comment": "God's loving rebuke is aimed at moving His people to true obedience. The heartfelt plea recalls the Shema (Deut. 6:4), emphasizing attentive and faithful listening.",
+      "sectionHeader": "God’s Admonition to Israel"
     },
     {
       "pk": 23081009,
@@ -197,5 +199,17 @@
       "comment": "The ‘finest wheat’ and ‘honey from the rock’ are not only physical blessings but also spiritual foreshadowings—anticipating the superabundant nourishment God provides for His people, fully given in the Bread of Life and the sweetness of the sacraments (see John 6:51)."
     }
   ],
-  "translatedAt": "2025-12-24T06:28:02.605Z"
+  "translatedAt": "2025-12-24T06:28:02.605Z",
+  "sections": [
+    {
+      "title": "Festival Praise to God",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "God’s Admonition to Israel",
+      "startVerse": 8,
+      "endVerse": 16
+    }
+  ]
 }

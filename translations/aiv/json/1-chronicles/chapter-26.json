@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The divisions of the gatekeepers: of the Korahites, Meshelemiah son of Kore, from the descendants of Asaph.",
       "links": "<a href='/AIV/13/9/19'>1Chr 9:19</a>; <a href='/AIV/4/26/1'>Num 26:1</a>",
-      "comment": "Gatekeepers held a sacred role, protecting the entry to God's house. Their service foreshadows the role of leaders safeguarding doctrinal purity and reverence (see Acts 20:28)."
+      "comment": "Gatekeepers held a sacred role, protecting the entry to God's house. Their service foreshadows the role of leaders safeguarding doctrinal purity and reverence (see Acts 20:28).",
+      "sectionHeader": "Divisions of the Gatekeepers"
     },
     {
       "pk": 13026002,
@@ -242,7 +243,8 @@
       "verse": 20,
       "text": "Of the Levites, Ahijah was over the treasuries of the house of God and the treasuries of the dedicated gifts.",
       "links": "<a href='/AIV/13/26/22'>1Chr 26:22</a>",
-      "comment": "Treasury keepers foreshadow the sacramental stewardship of spiritual goods, a visible sacramental order (cf. Matt 16:19; 2 Tim 2:2)."
+      "comment": "Treasury keepers foreshadow the sacramental stewardship of spiritual goods, a visible sacramental order (cf. Matt 16:19; 2 Tim 2:2).",
+      "sectionHeader": "The Treasurers and Their Duties"
     },
     {
       "pk": 13026021,
@@ -350,7 +352,8 @@
       "verse": 29,
       "text": "From the Izharites: Chenaniah and his sons were assigned duties outside the house of God, as officers and judges.",
       "links": "<a href='/AIV/13/15/22'>1Chr 15:22</a>",
-      "comment": "This distribution of judges indicates the integration of faith and civil order, a calling to administer justice rooted in God's law."
+      "comment": "This distribution of judges indicates the integration of faith and civil order, a calling to administer justice rooted in God's law.",
+      "sectionHeader": "Other Levitical Officers and Judges"
     },
     {
       "pk": 13026030,
@@ -389,5 +392,22 @@
       "comment": "Oversight entrusted to capable leaders displays the biblical principle that God appoints shepherds for his people (Jer 3:15; Acts 20:28), with visible unity and guidance for the entire people."
     }
   ],
-  "translatedAt": "2025-12-24T04:19:36.292Z"
+  "translatedAt": "2025-12-24T04:19:36.292Z",
+  "sections": [
+    {
+      "title": "Divisions of the Gatekeepers",
+      "startVerse": 1,
+      "endVerse": 19
+    },
+    {
+      "title": "The Treasurers and Their Duties",
+      "startVerse": 20,
+      "endVerse": 28
+    },
+    {
+      "title": "Other Levitical Officers and Judges",
+      "startVerse": 29,
+      "endVerse": 32
+    }
+  ]
 }

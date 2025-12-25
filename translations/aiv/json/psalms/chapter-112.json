@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Praise the LORD! Blessed is the man who fears the LORD, who greatly delights in His commandments.",
       "links": "<a href='/AIV/19/1/1-2'>Ps. 1:1-2</a>; <a href='/AIV/19/111/1'>Ps. 111:1</a>; <a href='/AIV/19/128/1'>Ps. 128:1</a>",
-      "comment": "This opening declares true blessedness comes from a reverent awe of God and delighting in His commands. The commandment focus links to Jesus' teaching in John 14:15 ('If you love Me, keep My commands'). The spiritual sense here points us toward the deep love for Divine Law, a theme that unites the faithful across generations and traditions."
+      "comment": "This opening declares true blessedness comes from a reverent awe of God and delighting in His commands. The commandment focus links to Jesus' teaching in John 14:15 ('If you love Me, keep My commands'). The spiritual sense here points us toward the deep love for Divine Law, a theme that unites the faithful across generations and traditions.",
+      "sectionHeader": "The Blessings of the Righteous"
     },
     {
       "pk": 23112002,
@@ -122,8 +123,21 @@
       "verse": 10,
       "text": "The wicked man sees it and is angry; he gnashes his teeth and melts away; the desire of the wicked will perish.",
       "links": "<a href='/AIV/19/35/16'>Ps. 35:16</a>; <a href='/AIV/19/37/12'>Ps. 37:12</a>; <a href='/AIV/40/8/12'>Matt. 8:12</a>",
-      "comment": "A stark contrast: the eventual defeat of wickedness and the vindication of the righteous. The imagery of gnashing teeth echoes Jesus’ warnings in Matthew about the final judgment upon evil (Matt. 8:12), reminding us of the urgency of conversion and faithfulness."
+      "comment": "A stark contrast: the eventual defeat of wickedness and the vindication of the righteous. The imagery of gnashing teeth echoes Jesus’ warnings in Matthew about the final judgment upon evil (Matt. 8:12), reminding us of the urgency of conversion and faithfulness.",
+      "sectionHeader": "The Fate of the Wicked"
     }
   ],
-  "translatedAt": "2025-12-24T06:39:42.346Z"
+  "translatedAt": "2025-12-24T06:39:42.346Z",
+  "sections": [
+    {
+      "title": "The Blessings of the Righteous",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "The Fate of the Wicked",
+      "startVerse": 10,
+      "endVerse": 10
+    }
+  ]
 }

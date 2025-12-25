@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Do not commit evil, and evil will not overtake you.",
       "links": "<a href='/AIV/19/34/14'>Ps. 34:14</a>; <a href='/AIV/20/3/7'>Prov. 3:7</a>; <a href='/AIV/45/12/21'>Rom. 12:21</a>",
-      "comment": "Sirach begins with a concise moral principle: avoiding evil protects a person from its consequences. Closely parallels the wisdom tradition found in Proverbs."
+      "comment": "Sirach begins with a concise moral principle: avoiding evil protects a person from its consequences. Closely parallels the wisdom tradition found in Proverbs.",
+      "sectionHeader": "Exhortations to Avoid Sin and Folly"
     },
     {
       "pk": 28007002,
@@ -218,7 +219,8 @@
       "verse": 18,
       "text": "Do not neglect to honor the dead, and do not overlook the tears of those who mourn.",
       "links": "<a href='/AIV/19/41/1'>Ps. 41:1</a>; <a href='/AIV/43/11/35'>Jn. 11:35</a>",
-      "comment": "Calls for acts of mercy and compassion, including the care for the dead and comforting mourners, which have traditionally been considered works of mercy in Christian communities."
+      "comment": "Calls for acts of mercy and compassion, including the care for the dead and comforting mourners, which have traditionally been considered works of mercy in Christian communities.",
+      "sectionHeader": "Works of Mercy and Compassion"
     },
     {
       "pk": 28007019,
@@ -302,7 +304,8 @@
       "verse": 25,
       "text": "Love your son and discipline him diligently, so that you do not bear his shame.",
       "links": "<a href='/AIV/20/13/24'>Prov. 13:24</a>; <a href='/AIV/58/12/6'>Heb. 12:6</a>",
-      "comment": "Discipline and love go hand in hand; the New Testament shows God's parental discipline for our benefit."
+      "comment": "Discipline and love go hand in hand; the New Testament shows God's parental discipline for our benefit.",
+      "sectionHeader": "Duties to Family and to God"
     },
     {
       "pk": 28007026,
@@ -437,5 +440,22 @@
       "comment": "The call to 'remember your end' refers to meditating on death and final judgment—a powerful spiritual practice for avoiding sin and living rightly before God."
     }
   ],
-  "translatedAt": "2025-12-24T07:26:35.726Z"
+  "translatedAt": "2025-12-24T07:26:35.726Z",
+  "sections": [
+    {
+      "title": "Exhortations to Avoid Sin and Folly",
+      "startVerse": 1,
+      "endVerse": 17
+    },
+    {
+      "title": "Works of Mercy and Compassion",
+      "startVerse": 18,
+      "endVerse": 24
+    },
+    {
+      "title": "Duties to Family and to God",
+      "startVerse": 25,
+      "endVerse": 36
+    }
+  ]
 }

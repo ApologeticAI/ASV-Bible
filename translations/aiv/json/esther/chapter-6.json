@@ -3,7 +3,6 @@
   "bookName": "Esther",
   "bookAbbreviation": "Esth",
   "chapter": 6,
-  "sections": [],
   "verses": [
     {
       "pk": 19006001,
@@ -15,7 +14,8 @@
       "verse": 1,
       "text": "That night, the king could not sleep, so he ordered the book of records, the chronicles, to be brought in, and they were read before the king.",
       "links": "<a href='/AIV/17/2/23'>Esth. 2:23</a>; <a href='/AIV/6/23/3-4'>Josh. 23:3-4</a>",
-      "comment": "Here, God's providence is at work through apparently ordinary events, showing His subtle intervention in human affairs."
+      "comment": "Here, God's providence is at work through apparently ordinary events, showing His subtle intervention in human affairs.",
+      "sectionHeader": "The King Honors Mordecai"
     },
     {
       "pk": 19006002,
@@ -123,7 +123,8 @@
       "verse": 10,
       "text": "Then the king said to Haman, 'Hurry! Take the robe and the horse, just as you have said, and do so for Mordecai the Jew, who sits at the king’s gate. Leave out nothing you have said.'",
       "links": "<a href='/AIV/17/2/19'>Esth. 2:19</a>; <a href='/AIV/42/1/52'>Luke 1:52</a>",
-      "comment": "Haman, expecting honor, becomes a servant. God's wisdom overturns human pride (Luke 1:52)."
+      "comment": "Haman, expecting honor, becomes a servant. God's wisdom overturns human pride (Luke 1:52).",
+      "sectionHeader": "Haman's Humiliation"
     },
     {
       "pk": 19006011,
@@ -147,7 +148,8 @@
       "verse": 12,
       "text": "Afterward, Mordecai returned to the king’s gate, but Haman hurried to his house, mourning and with his head covered.",
       "links": "<a href='/AIV/2/3/6-7'>Gen. 3:6-7</a>; <a href='/AIV/17/4/1'>Esth. 4:1</a>",
-      "comment": "Mordecai’s return to humble service contrasts with Haman’s shame. This reflects the biblical principle of humility and quiet leadership."
+      "comment": "Mordecai’s return to humble service contrasts with Haman’s shame. This reflects the biblical principle of humility and quiet leadership.",
+      "sectionHeader": "Haman Forewarned of His Downfall"
     },
     {
       "pk": 19006013,
@@ -174,5 +176,22 @@
       "comment": "God’s plan advances rapidly as Haman is brought to his judgment. Banquets often symbolize moments of divine judgment and reversal throughout Scripture."
     }
   ],
-  "translatedAt": "2025-12-24T05:10:08.558Z"
+  "translatedAt": "2025-12-24T05:10:08.558Z",
+  "sections": [
+    {
+      "title": "The King Honors Mordecai",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "Haman's Humiliation",
+      "startVerse": 10,
+      "endVerse": 11
+    },
+    {
+      "title": "Haman Forewarned of His Downfall",
+      "startVerse": 12,
+      "endVerse": 14
+    }
+  ]
 }

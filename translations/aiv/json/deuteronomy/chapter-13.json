@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "If a prophet or a dreamer of dreams arises among you and gives you a sign or a wonder,",
       "links": "<a href='/AIV/24/23/25'>Jer. 23:25</a>; <a href='/AIV/40/7/15'>Matt. 7:15</a>",
-      "comment": "This verse introduces the test of prophecy and miraculous signs. Genuine faith requires discernment, not just amazement at signs. Compare to Jesus’ warnings about false prophets (Matthew 7:15)."
+      "comment": "This verse introduces the test of prophecy and miraculous signs. Genuine faith requires discernment, not just amazement at signs. Compare to Jesus’ warnings about false prophets (Matthew 7:15).",
+      "sectionHeader": "The False Prophet or Dreamer"
     },
     {
       "pk": 5013002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "If your brother, the son of your mother, or your son or your daughter, or the wife you embrace, or your friend who is as your own soul, entices you secretly, saying, ‘Let us go and serve other gods,’ which neither you nor your fathers have known,",
       "links": "<a href='/AIV/40/10/37'>Matt. 10:37</a>; <a href='/AIV/07/2/11-13'>Judg. 2:11-13</a>",
-      "comment": "The call to faithfulness extends even above the closest earthly relationships, echoing Jesus’ demand for loyalty above family (Matt. 10:37)."
+      "comment": "The call to faithfulness extends even above the closest earthly relationships, echoing Jesus’ demand for loyalty above family (Matt. 10:37).",
+      "sectionHeader": "Enticement by Family or Friend"
     },
     {
       "pk": 5013007,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "If you hear in one of your cities, which the LORD your God gives you to dwell there,",
       "links": "<a href='/AIV/05/16/18'>Deut. 16:18</a>",
-      "comment": "Extending the call for vigilance to the entire community, not just individuals. Responsibility for holiness is communal, not private alone."
+      "comment": "Extending the call for vigilance to the entire community, not just individuals. Responsibility for holiness is communal, not private alone.",
+      "sectionHeader": "Apostasy in a City"
     },
     {
       "pk": 5013013,
@@ -221,5 +224,22 @@
       "comment": "Doing what is right in the sight of God means full obedience, not just outward acts. Christ interprets obedience as love for God (John 14:15). The call to unity and pure faith is underscored throughout Scripture."
     }
   ],
-  "translatedAt": "2025-12-24T02:04:11.078Z"
+  "translatedAt": "2025-12-24T02:04:11.078Z",
+  "sections": [
+    {
+      "title": "The False Prophet or Dreamer",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Enticement by Family or Friend",
+      "startVerse": 6,
+      "endVerse": 11
+    },
+    {
+      "title": "Apostasy in a City",
+      "startVerse": 12,
+      "endVerse": 18
+    }
+  ]
 }

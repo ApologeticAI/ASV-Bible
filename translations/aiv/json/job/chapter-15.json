@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then Eliphaz the Temanite answered and said:",
       "links": "<a href='/AIV/22/4/1'>Job 4:1</a>",
-      "comment": "Eliphaz, who spoke previously in Job 4, responds again. Eliphaz represents the voice of traditional wisdom, critiquing Job's answers."
+      "comment": "Eliphaz, who spoke previously in Job 4, responds again. Eliphaz represents the voice of traditional wisdom, critiquing Job's answers.",
+      "sectionHeader": "Eliphaz Rebukes Job's Words"
     },
     {
       "pk": 22015002,
@@ -170,7 +171,8 @@
       "verse": 14,
       "text": "\"What is man, that he should be pure, or he who is born of a woman, that he should be righteous?",
       "links": "<a href='/AIV/22/14/1'>Job 14:1</a>; <a href='/AIV/19/51/5'>Ps. 51:5</a>; <a href='/AIV/45/3/23'>Rom. 3:23</a>",
-      "comment": "The universality of human sin is underscored, echoed by Paul's teaching that all have sinned (Rom. 3:23). This prepares for New Testament teaching on grace and redemption in Christ."
+      "comment": "The universality of human sin is underscored, echoed by Paul's teaching that all have sinned (Rom. 3:23). This prepares for New Testament teaching on grace and redemption in Christ.",
+      "sectionHeader": "The Folly of Man Before God"
     },
     {
       "pk": 22015015,
@@ -242,7 +244,8 @@
       "verse": 20,
       "text": "The wicked man writhes in pain all his days, through all the years that are laid up for the oppressor.",
       "links": "<a href='/AIV/22/20/5'>Job 20:5</a>; <a href='/AIV/19/73/3-19'>Ps. 73:3-19</a>",
-      "comment": "Eliphaz presents the suffering of the wicked as a principle, paralleling the Psalmist's struggle (Ps. 73), but lacking Job's later challenge to this simple view."
+      "comment": "Eliphaz presents the suffering of the wicked as a principle, paralleling the Psalmist's struggle (Ps. 73), but lacking Job's later challenge to this simple view.",
+      "sectionHeader": "The Fate of the Wicked"
     },
     {
       "pk": 22015021,
@@ -425,5 +428,22 @@
       "comment": "Evil is described in terms of conception and birth, showing the depth of sin in the human condition. This paves the way toward understanding the need for a Redeemer and corresponding new birth by the Spirit (see John 3:3-5)."
     }
   ],
-  "translatedAt": "2025-12-24T05:46:09.154Z"
+  "translatedAt": "2025-12-24T05:46:09.154Z",
+  "sections": [
+    {
+      "title": "Eliphaz Rebukes Job's Words",
+      "startVerse": 1,
+      "endVerse": 13
+    },
+    {
+      "title": "The Folly of Man Before God",
+      "startVerse": 14,
+      "endVerse": 19
+    },
+    {
+      "title": "The Fate of the Wicked",
+      "startVerse": 20,
+      "endVerse": 35
+    }
+  ]
 }

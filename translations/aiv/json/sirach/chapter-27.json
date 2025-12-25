@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Many have sinned for the sake of gain, and whoever seeks to multiply wealth turns his eye away.",
       "links": "<a href='/AIV/20/15/27'>Prov. 15:27</a>; <a href='/AIV/54/6/9-10'>1 Tim. 6:9-10</a>",
-      "comment": "This verse warns against greed and the temptation to sin for material gain. The idea that the pursuit of riches leads many astray is echoed in the New Testament (cf. 1 Tim. 6:9-10), further showing the continuity of wisdom throughout Scripture."
+      "comment": "This verse warns against greed and the temptation to sin for material gain. The idea that the pursuit of riches leads many astray is echoed in the New Testament (cf. 1 Tim. 6:9-10), further showing the continuity of wisdom throughout Scripture.",
+      "sectionHeader": "Warnings Against Sin in Trade and Speech"
     },
     {
       "pk": 28027002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "If you pursue righteousness, you will obtain it, and put it on like a splendid robe.",
       "links": "<a href='/AIV/23/61/10'>Isa. 61:10</a>; <a href='/AIV/45/13/14'>Rom. 13:14</a>",
-      "comment": "Pursuing holiness is portrayed as being clothed in righteousness—a significant biblical image continued in the teachings of the apostles about putting on Christ."
+      "comment": "Pursuing holiness is portrayed as being clothed in righteousness—a significant biblical image continued in the teachings of the apostles about putting on Christ.",
+      "sectionHeader": "The Rewards of Righteousness and the Company of Fools"
     },
     {
       "pk": 28027009,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "Whoever betrays secrets destroys trust, and can never find a true friend.",
       "links": "<a href='/AIV/20/11/13'>Prov. 11:13</a>",
-      "comment": "Faithfulness is central to friendship. Scriptural teaching on loyalty and discretion foreshadows the profound call to integrity among believers."
+      "comment": "Faithfulness is central to friendship. Scriptural teaching on loyalty and discretion foreshadows the profound call to integrity among believers.",
+      "sectionHeader": "The Consequences of Betraying Friends"
     },
     {
       "pk": 28027017,
@@ -290,7 +293,8 @@
       "verse": 24,
       "text": "Whoever builds up with one hand and tears down with the other—what benefit do they gain from their work?",
       "links": "<a href='/AIV/21/2/21'>Eccl. 2:21</a>",
-      "comment": "The futility of self-contradictory actions is wisdom’s warning here, a theme of moral consistency found throughout the Bible."
+      "comment": "The futility of self-contradictory actions is wisdom’s warning here, a theme of moral consistency found throughout the Bible.",
+      "sectionHeader": "Retribution for Deceit and Pride"
     },
     {
       "pk": 28027025,
@@ -362,8 +366,36 @@
       "verse": 30,
       "text": "Those who harbor resentment and anger will also suffer sin; the sinner who holds on to wrath will be punished.",
       "links": "<a href='/AIV/19/37/8'>Ps. 37:8</a>; <a href='/AIV/40/6/14-15'>Matt. 6:14-15</a>",
-      "comment": "This conclusion points to the destructive power of unforgiveness and anger. Forgiveness is a core teaching of Christ and marks the truly spiritual person; holding on to wrath impedes full restoration within the Church."
+      "comment": "This conclusion points to the destructive power of unforgiveness and anger. Forgiveness is a core teaching of Christ and marks the truly spiritual person; holding on to wrath impedes full restoration within the Church.",
+      "sectionHeader": "The Danger of Resentment and Anger"
     }
   ],
-  "translatedAt": "2025-12-24T07:37:38.850Z"
+  "translatedAt": "2025-12-24T07:37:38.850Z",
+  "sections": [
+    {
+      "title": "Warnings Against Sin in Trade and Speech",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "The Rewards of Righteousness and the Company of Fools",
+      "startVerse": 8,
+      "endVerse": 15
+    },
+    {
+      "title": "The Consequences of Betraying Friends",
+      "startVerse": 16,
+      "endVerse": 23
+    },
+    {
+      "title": "Retribution for Deceit and Pride",
+      "startVerse": 24,
+      "endVerse": 29
+    },
+    {
+      "title": "The Danger of Resentment and Anger",
+      "startVerse": 30,
+      "endVerse": 30
+    }
+  ]
 }

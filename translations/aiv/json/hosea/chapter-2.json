@@ -26,7 +26,8 @@
       "verse": 2,
       "text": "Plead with your mother, plead—because she is not my wife, and I am not her husband—let her remove her prostitution from her face and her adultery from between her breasts.",
       "links": "<a href='/AIV/23/50/1'>Isa. 50:1</a>; <a href='/AIV/24/3/1-8'>Jer. 3:1-8</a>",
-      "comment": "Hosea uses the metaphor of marriage to describe God's relationship with Israel. Her unfaithfulness signifies spiritual idolatry. The strong imagery highlights Israel's need for repentance."
+      "comment": "Hosea uses the metaphor of marriage to describe God's relationship with Israel. Her unfaithfulness signifies spiritual idolatry. The strong imagery highlights Israel's need for repentance.",
+      "sectionHeader": "The Unfaithfulness of Israel"
     },
     {
       "pk": 35002003,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "Therefore, I will block her way with thorns and build a wall to enclose her, so she cannot find her paths.",
       "links": "<a href='/AIV/18/19/8'>Job 19:8</a>; <a href='/AIV/25/3/7-9'>Lam. 3:7-9</a>",
-      "comment": "God’s discipline is intended for Israel’s ultimate good, leading her to recognize that only He is her source. Compare Heb. 12:6 on the loving discipline of the Lord."
+      "comment": "God’s discipline is intended for Israel’s ultimate good, leading her to recognize that only He is her source. Compare Heb. 12:6 on the loving discipline of the Lord.",
+      "sectionHeader": "The Punishment of Israel"
     },
     {
       "pk": 35002007,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "Therefore, I am now going to allure her; I will lead her into the wilderness and speak tenderly to her.",
       "links": "<a href='/AIV/02/19/1-6'>Exod. 19:1-6</a>; <a href='/AIV/42/3/3-4'>Luke 3:3-4</a>",
-      "comment": "Even in punishment, God’s love intends to restore. The language of 'allure' and 'wilderness' echoes the Exodus and the foundational events of salvation history."
+      "comment": "Even in punishment, God’s love intends to restore. The language of 'allure' and 'wilderness' echoes the Exodus and the foundational events of salvation history.",
+      "sectionHeader": "The Promise of Restoration"
     },
     {
       "pk": 35002015,
@@ -281,5 +284,22 @@
       "comment": "This final verse encapsulates the Gospel promise of inclusion: God graciously adopts those once alienated (cf. Rom 9:25-26, 1 Pet 2:10). The formation of a unified, redeemed people foreshadows the later understanding of the one, holy, apostolic Church."
     }
   ],
-  "translatedAt": "2025-12-24T09:35:35.363Z"
+  "translatedAt": "2025-12-24T09:35:35.363Z",
+  "sections": [
+    {
+      "title": "The Unfaithfulness of Israel",
+      "startVerse": 2,
+      "endVerse": 5
+    },
+    {
+      "title": "The Punishment of Israel",
+      "startVerse": 6,
+      "endVerse": 13
+    },
+    {
+      "title": "The Promise of Restoration",
+      "startVerse": 14,
+      "endVerse": 23
+    }
+  ]
 }

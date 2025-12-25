@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "After the death of Moses, the servant of the LORD, the LORD spoke to Joshua son of Nun, Moses’ assistant, saying,",
       "links": "<a href='/AIV/05/34/5'>Deut. 34:5</a>; <a href='/AIV/06/11/15'>Josh. 11:15</a>",
-      "comment": "Joshua is directly called by God after Moses' death, showing the passing of spiritual authority. This continuity prefigures the way spiritual leadership is perpetuated through appointed successors (cf. Deut. 34:9)."
+      "comment": "Joshua is directly called by God after Moses' death, showing the passing of spiritual authority. This continuity prefigures the way spiritual leadership is perpetuated through appointed successors (cf. Deut. 34:9).",
+      "sectionHeader": "The Commissioning of Joshua"
     },
     {
       "pk": 6001002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "Then Joshua commanded the officers of the people,",
       "links": "<a href='/AIV/04/31/14'>Num. 31:14</a>; <a href='/AIV/06/03/02'>Josh. 3:2</a>",
-      "comment": "Joshua’s immediate obedience to God’s instruction shows the importance of proper order and hierarchy among the people of God."
+      "comment": "Joshua’s immediate obedience to God’s instruction shows the importance of proper order and hierarchy among the people of God.",
+      "sectionHeader": "Joshua’s Instructions to the Officers"
     },
     {
       "pk": 6001011,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "And to the Reubenites, the Gadites, and the half-tribe of Manasseh Joshua said,",
       "links": "<a href='/AIV/04/32/20'>Num. 32:20</a>; <a href='/AIV/05/03/18'>Deut. 3:18</a>",
-      "comment": "Joshua addresses these tribes separately due to their unique inheritance across the Jordan, showing particular care for unity and fulfillment of vows."
+      "comment": "Joshua addresses these tribes separately due to their unique inheritance across the Jordan, showing particular care for unity and fulfillment of vows.",
+      "sectionHeader": "The Tribes East of the Jordan Reaffirm Loyalty"
     },
     {
       "pk": 6001013,
@@ -221,5 +224,22 @@
       "comment": "The severe warning reveals the seriousness of obeying God’s appointed leader for the safeguarding of the community. This sets a foundation for later principles of faithful submission and unity under spiritual authority."
     }
   ],
-  "translatedAt": "2025-12-24T02:17:00.567Z"
+  "translatedAt": "2025-12-24T02:17:00.567Z",
+  "sections": [
+    {
+      "title": "The Commissioning of Joshua",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "Joshua’s Instructions to the Officers",
+      "startVerse": 10,
+      "endVerse": 11
+    },
+    {
+      "title": "The Tribes East of the Jordan Reaffirm Loyalty",
+      "startVerse": 12,
+      "endVerse": 18
+    }
+  ]
 }

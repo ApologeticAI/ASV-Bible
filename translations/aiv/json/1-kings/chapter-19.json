@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Ahab told Jezebel everything that Elijah had done, and how he had killed all the prophets with the sword.",
       "links": "<a href='/AIV/11/18/40'>1Kgs 18:40</a>",
-      "comment": "This verse recalls the dramatic events on Mount Carmel, where Elijah defeated the prophets of Baal. The completeness of Elijah’s actions sets the scene for Jezebel’s reaction."
+      "comment": "This verse recalls the dramatic events on Mount Carmel, where Elijah defeated the prophets of Baal. The completeness of Elijah’s actions sets the scene for Jezebel’s reaction.",
+      "sectionHeader": "Elijah Flees from Jezebel"
     },
     {
       "pk": 11019002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "But he went a day’s journey into the wilderness, and came and sat down under a broom tree. And he prayed that he might die, and said, 'It is enough. Now, O LORD, take my life, for I am no better than my ancestors.'",
       "links": "<a href='/AIV/6/7/16'>Judg 7:16</a>; <a href='/AIV/18/7/15'>Job 7:15</a>",
-      "comment": "Like Job and Moses before him, Elijah expresses despair before God. This deep honesty and surrender highlight the prophet’s reliance on God even in suffering, foreshadowing Christ’s agony in Gethsemane (<a href='/AIV/41/14/34'>Mark 14:34</a>)."
+      "comment": "Like Job and Moses before him, Elijah expresses despair before God. This deep honesty and surrender highlight the prophet’s reliance on God even in suffering, foreshadowing Christ’s agony in Gethsemane (<a href='/AIV/41/14/34'>Mark 14:34</a>).",
+      "sectionHeader": "Elijah Fed by an Angel"
     },
     {
       "pk": 11019005,
@@ -110,7 +112,8 @@
       "verse": 9,
       "text": "There he entered a cave and spent the night. And the word of the LORD came to him, 'What are you doing here, Elijah?'",
       "links": "<a href='/AIV/2/33/22'>Ex 33:22</a>",
-      "comment": "The cave evokes Moses’ experience at Sinai, emphasizing continuity of revelation. The direct question prepares Elijah for deeper spiritual insight, a pattern found in many encounters between God and man."
+      "comment": "The cave evokes Moses’ experience at Sinai, emphasizing continuity of revelation. The direct question prepares Elijah for deeper spiritual insight, a pattern found in many encounters between God and man.",
+      "sectionHeader": "The Lord Speaks to Elijah at Horeb"
     },
     {
       "pk": 11019010,
@@ -230,7 +233,8 @@
       "verse": 19,
       "text": "So Elijah went from there and found Elisha son of Shaphat. He was plowing with twelve pairs of oxen, and he himself was driving the twelfth pair. Elijah came over to him and threw his cloak around him.",
       "links": "<a href='/AIV/4/20/24'>Num 20:24</a>; <a href='/AIV/12/2/8'>2Kgs 2:8</a>",
-      "comment": "Elijah passes his mantle by placing his cloak on Elisha—a sign of spiritual succession, reminiscent of Moses to Joshua. This act foreshadows later passing of spiritual authority in the early Church."
+      "comment": "Elijah passes his mantle by placing his cloak on Elisha—a sign of spiritual succession, reminiscent of Moses to Joshua. This act foreshadows later passing of spiritual authority in the early Church.",
+      "sectionHeader": "The Call of Elisha"
     },
     {
       "pk": 11019020,
@@ -257,5 +261,27 @@
       "comment": "Elisha’s total renunciation—sacrificing his oxen—shows complete detachment and dedication. Such a gesture mirrors acts of surrender and service found in the call of the apostles, prefiguring later signs of obedience and service in the Church."
     }
   ],
-  "translatedAt": "2025-12-24T03:40:01.441Z"
+  "translatedAt": "2025-12-24T03:40:01.441Z",
+  "sections": [
+    {
+      "title": "Elijah Flees from Jezebel",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "Elijah Fed by an Angel",
+      "startVerse": 4,
+      "endVerse": 8
+    },
+    {
+      "title": "The Lord Speaks to Elijah at Horeb",
+      "startVerse": 9,
+      "endVerse": 18
+    },
+    {
+      "title": "The Call of Elisha",
+      "startVerse": 19,
+      "endVerse": 21
+    }
+  ]
 }

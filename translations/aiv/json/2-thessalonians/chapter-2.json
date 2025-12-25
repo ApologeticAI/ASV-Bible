@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now, brothers, concerning the coming of our Lord Jesus Christ and our gathering together to Him, we urge you,",
       "links": "<a href='/AIV/40/24/31'>Matt. 24:31</a>; <a href='/AIV/46/15/51-52'>1 Cor. 15:51-52</a>",
-      "comment": "Paul addresses the return of Jesus and the gathering of believers, emphasizing both personal and communal aspects of salvation. The word 'gathering' is used elsewhere to refer to the unity of the faithful in Christ, reminiscent of the importance of visible church community."
+      "comment": "Paul addresses the return of Jesus and the gathering of believers, emphasizing both personal and communal aspects of salvation. The word 'gathering' is used elsewhere to refer to the unity of the faithful in Christ, reminiscent of the importance of visible church community.",
+      "sectionHeader": "The Coming of the Lord and the Man of Lawlessness"
     },
     {
       "pk": 60002002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "But we ought always to give thanks to God for you, brothers beloved by the Lord, because God chose you as the firstfruits for salvation through sanctification by the Spirit and belief in the truth.",
       "links": "<a href='/AIV/49/1/4'>Eph. 1:4</a>; <a href='/AIV/60/1/2'>1 Pet. 1:2</a>",
-      "comment": "Paul celebrates faithful believers as chosen by God, emphasizing sanctification through the Spirit—pointing to the transformative process and journey within the church community, linking salvation with ongoing growth in holiness."
+      "comment": "Paul celebrates faithful believers as chosen by God, emphasizing sanctification through the Spirit—pointing to the transformative process and journey within the church community, linking salvation with ongoing growth in holiness.",
+      "sectionHeader": "Exhortation to Stand Firm"
     },
     {
       "pk": 60002014,
@@ -209,5 +211,17 @@
       "comment": "Paul ties comfort and strength with fruitful life—living faith in both works and words. Encouragement to persevere in sanctifying grace and service, echoing themes of faith shown by action, not mere belief."
     }
   ],
-  "translatedAt": "2025-12-24T12:10:05.028Z"
+  "translatedAt": "2025-12-24T12:10:05.028Z",
+  "sections": [
+    {
+      "title": "The Coming of the Lord and the Man of Lawlessness",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "Exhortation to Stand Firm",
+      "startVerse": 13,
+      "endVerse": 17
+    }
+  ]
 }

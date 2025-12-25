@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The sons of Judah: Perez, Hezron, Carmi, Hur, and Shobal.",
       "links": "<a href='/AIV/01/46/12'>Gen. 46:12</a>; <a href='/AIV/13/2/3-4'>1 Chr. 2:3-4</a>",
-      "comment": "This verse lists the descendants of Judah, one of the central tribes in the biblical story, emphasizing God's purpose working through family lines."
+      "comment": "This verse lists the descendants of Judah, one of the central tribes in the biblical story, emphasizing God's purpose working through family lines.",
+      "sectionHeader": "Descendants of Judah"
     },
     {
       "pk": 13004002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "Jabez was more honorable than his brothers. His mother named him Jabez, saying, 'Because I bore him in pain.'",
       "links": "",
-      "comment": "Jabez stands out not only for his birth, but for his character and relationship with God, which the next verse highlights. His story shows the importance of personal holiness."
+      "comment": "Jabez stands out not only for his birth, but for his character and relationship with God, which the next verse highlights. His story shows the importance of personal holiness.",
+      "sectionHeader": "The Prayer of Jabez"
     },
     {
       "pk": 13004010,
@@ -290,7 +292,8 @@
       "verse": 24,
       "text": "The sons of Simeon: Nemuel, Jamin, Jarib, Zerah, and Shaul.",
       "links": "<a href='/AIV/04/26/12'>Num. 26:12</a>",
-      "comment": "The tribe of Simeon is carefully preserved, even though they are less prominent later, reminding us of the value of all tribes before God."
+      "comment": "The tribe of Simeon is carefully preserved, even though they are less prominent later, reminding us of the value of all tribes before God.",
+      "sectionHeader": "Descendants of Simeon"
     },
     {
       "pk": 13004025,
@@ -470,7 +473,8 @@
       "verse": 39,
       "text": "And they went to the entrance of Gedor, to the east side of the valley, to seek pasture for their flocks.",
       "links": "",
-      "comment": "Seeking pasture shows Israel as a shepherding people, a theme of God as Shepherd pointing ultimately to Christ the Good Shepherd (<a href='/AIV/43/10/11'>John 10:11</a>)."
+      "comment": "Seeking pasture shows Israel as a shepherding people, a theme of God as Shepherd pointing ultimately to Christ the Good Shepherd (<a href='/AIV/43/10/11'>John 10:11</a>).",
+      "sectionHeader": "Simeonites Settle New Lands"
     },
     {
       "pk": 13004040,
@@ -521,5 +525,27 @@
       "comment": "The final defeat of the Amalekites fulfills God’s earlier commands—showing that God’s plans and judgments always come to pass. This also points forward to Christ’s total victory over sin and death (<a href='/AIV/46/15/54-57'>1 Cor. 15:54-57</a>)."
     }
   ],
-  "translatedAt": "2025-12-24T04:06:14.876Z"
+  "translatedAt": "2025-12-24T04:06:14.876Z",
+  "sections": [
+    {
+      "title": "Descendants of Judah",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "The Prayer of Jabez",
+      "startVerse": 9,
+      "endVerse": 23
+    },
+    {
+      "title": "Descendants of Simeon",
+      "startVerse": 24,
+      "endVerse": 38
+    },
+    {
+      "title": "Simeonites Settle New Lands",
+      "startVerse": 39,
+      "endVerse": 43
+    }
+  ]
 }

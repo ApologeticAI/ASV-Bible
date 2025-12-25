@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then Moses and the sons of Israel sang this song to the LORD, and said: \"I will sing to the LORD, for He has triumphed gloriously; the horse and his rider He has thrown into the sea.\"",
       "links": "<a href='/AIV/19/118/14'>Ps. 118:14</a>; <a href='/AIV/23/12/1'>Isa. 12:1</a>",
-      "comment": "This is the first recorded song in Scripture, marking an act of worship after deliverance. Throughout salvation history, song and liturgy accompany God's mighty works. The same structure of praise is later found in the worship of God among the redeemed in heaven (see Rev. 15:3)."
+      "comment": "This is the first recorded song in Scripture, marking an act of worship after deliverance. Throughout salvation history, song and liturgy accompany God's mighty works. The same structure of praise is later found in the worship of God among the redeemed in heaven (see Rev. 15:3).",
+      "sectionHeader": "The Song of Moses and the Israelites"
     },
     {
       "pk": 2015002,
@@ -242,7 +243,8 @@
       "verse": 20,
       "text": "Then Miriam the prophetess, the sister of Aaron, took a tambourine in her hand; and all the women went out after her with tambourines and with dancing.",
       "links": "<a href='/AIV/7/11/34'>Judg. 11:34</a>; <a href='/AIV/19/68/25'>Ps. 68:25</a>",
-      "comment": "Miriam’s leadership of women in liturgical praise highlights the participatory nature of worship. This sets a pattern for the communal worship of God amongst His people, involving both genders in praise."
+      "comment": "Miriam’s leadership of women in liturgical praise highlights the participatory nature of worship. This sets a pattern for the communal worship of God amongst His people, involving both genders in praise.",
+      "sectionHeader": "The Song of Miriam"
     },
     {
       "pk": 2015021,
@@ -266,7 +268,8 @@
       "verse": 22,
       "text": "Then Moses made Israel set out from the Red Sea, and they went into the wilderness of Shur. They went three days in the wilderness and found no water.",
       "links": "<a href='/AIV/4/33/8'>Num. 33:8</a>",
-      "comment": "After deliverance comes a time of testing. The journey through the wilderness is a recurring theme of spiritual purification (see Deut. 8:2; Matt. 4:1). The detail of 'three days' anticipates later patterns (Jonah, Christ's resurrection on the third day)."
+      "comment": "After deliverance comes a time of testing. The journey through the wilderness is a recurring theme of spiritual purification (see Deut. 8:2; Matt. 4:1). The detail of 'three days' anticipates later patterns (Jonah, Christ's resurrection on the third day).",
+      "sectionHeader": "Bitter Water Made Sweet at Marah"
     },
     {
       "pk": 2015023,
@@ -329,5 +332,22 @@
       "comment": "The numbers twelve and seventy echo the structure of Israel and later, Christ’s appointment of the twelve apostles and the sending of the seventy (Luke 9:1; 10:1). The oasis at Elim points to the refreshment God gives through ordered, divinely guided community."
     }
   ],
-  "translatedAt": "2025-12-24T00:54:42.585Z"
+  "translatedAt": "2025-12-24T00:54:42.585Z",
+  "sections": [
+    {
+      "title": "The Song of Moses and the Israelites",
+      "startVerse": 1,
+      "endVerse": 19
+    },
+    {
+      "title": "The Song of Miriam",
+      "startVerse": 20,
+      "endVerse": 21
+    },
+    {
+      "title": "Bitter Water Made Sweet at Marah",
+      "startVerse": 22,
+      "endVerse": 27
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "With three things my spirit is pleased, and they are approved before both God and men: unity among brothers, friendship between neighbors, and a wife in harmony with her husband.",
       "links": "<a href='/AIV/19/133/1'>Ps. 133:1</a>; <a href='/AIV/20/17/17'>Prov. 17:17</a>; <a href='/AIV/01/02/24'>Gen. 2:24</a>",
-      "comment": "This verse highlights key virtues: brotherly unity, friendship, and marital harmony. These lay the foundation for peace within God's community. The emphasis on harmony in marriage has connections with the creation account, where union is central (Gen. 2:24)."
+      "comment": "This verse highlights key virtues: brotherly unity, friendship, and marital harmony. These lay the foundation for peace within God's community. The emphasis on harmony in marriage has connections with the creation account, where union is central (Gen. 2:24).",
+      "sectionHeader": "Three Things Pleasing and Three Things Hated"
     },
     {
       "pk": 28025002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "If you have not gathered in your youth, how will you find anything in your old age?",
       "links": "<a href='/AIV/20/6/6-8'>Prov. 6:6-8</a>",
-      "comment": "Diligence and foresight in youth are urged as the wise path. The ant’s example is echoed here (Prov. 6:6-8), suggesting preparation is necessary to secure one’s future, both spiritually and materially."
+      "comment": "Diligence and foresight in youth are urged as the wise path. The ant’s example is echoed here (Prov. 6:6-8), suggesting preparation is necessary to secure one’s future, both spiritually and materially.",
+      "sectionHeader": "Blessings of Wisdom and the Fear of the Lord"
     },
     {
       "pk": 28025004,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "Any plague but the plague of the heart, any wickedness but a woman’s wickedness!",
       "links": "<a href='/AIV/20/21/9'>Prov. 21:9</a>",
-      "comment": "The author warns particularly of dangers to the heart (the center of the person). The theme of relational harmony and warning against causing division in the household is common in wisdom literature."
+      "comment": "The author warns particularly of dangers to the heart (the center of the person). The theme of relational harmony and warning against causing division in the household is common in wisdom literature.",
+      "sectionHeader": "Evils Arising from Wicked Women"
     },
     {
       "pk": 28025013,
@@ -317,5 +320,22 @@
       "comment": "This final phrase points back to the Fall (Gen. 3; Rom. 5), underscoring the doctrine of original sin. The narrative prepares the way for the coming Redeemer, who will reverse the effects of the first disobedience (cf. Rom. 5:18-19). Through Christ, the community is invited into a new order of grace and harmony, restored through faith, sacramental living, and ongoing transformation."
     }
   ],
-  "translatedAt": "2025-12-24T07:36:29.548Z"
+  "translatedAt": "2025-12-24T07:36:29.548Z",
+  "sections": [
+    {
+      "title": "Three Things Pleasing and Three Things Hated",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "Blessings of Wisdom and the Fear of the Lord",
+      "startVerse": 3,
+      "endVerse": 11
+    },
+    {
+      "title": "Evils Arising from Wicked Women",
+      "startVerse": 12,
+      "endVerse": 26
+    }
+  ]
 }

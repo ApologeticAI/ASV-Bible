@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "If, in the land that the LORD your God is giving you to possess, someone is found lying in a field, murdered, and it is unknown who killed him,",
       "links": "<a href='/AIV/4/35/33'>Num. 35:33</a>; <a href='/AIV/5/19/10'>Deut. 19:10</a>",
-      "comment": "God addresses justice and communal responsibility, foundational for later moral teachings."
+      "comment": "God addresses justice and communal responsibility, foundational for later moral teachings.",
+      "sectionHeader": "Expiation of Unsolved Murders"
     },
     {
       "pk": 5021002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "When you go out to battle against your enemies, and the LORD your God delivers them into your hands and you take them captive,",
       "links": "<a href='/AIV/6/21/44'>Josh. 21:44</a>; <a href='/AIV/5/20/1'>Deut. 20:1</a>",
-      "comment": "Victory comes from God; reminds readers of dependence on divine providence, not mere human effort."
+      "comment": "Victory comes from God; reminds readers of dependence on divine providence, not mere human effort.",
+      "sectionHeader": "Marriage to Captive Women"
     },
     {
       "pk": 5021011,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "If a man has two wives, one loved and the other unloved, and both have borne him sons, but the firstborn is from the unloved wife,",
       "links": "<a href='/AIV/1/29/30-32'>Gen. 29:30-32</a>",
-      "comment": "The Law addresses issues from imperfect family situations yet upholds justice, foreshadowing the New Testament’s insistence on impartial love."
+      "comment": "The Law addresses issues from imperfect family situations yet upholds justice, foreshadowing the New Testament’s insistence on impartial love.",
+      "sectionHeader": "Rights of the Firstborn"
     },
     {
       "pk": 5021016,
@@ -218,7 +221,8 @@
       "verse": 18,
       "text": "If a man has a stubborn and rebellious son who will not obey his father or mother, even when disciplined,",
       "links": "<a href='/AIV/20/13/24'>Prov. 13:24</a>; <a href='/AIV/20/23/13'>Prov. 23:13</a>",
-      "comment": "Family order is crucial. Obedience to parents is later insisted upon in apostolic teaching (<a href='/AIV/49/6/1'>Eph. 6:1</a>)."
+      "comment": "Family order is crucial. Obedience to parents is later insisted upon in apostolic teaching (<a href='/AIV/49/6/1'>Eph. 6:1</a>).",
+      "sectionHeader": "The Rebellious Son"
     },
     {
       "pk": 5021019,
@@ -266,7 +270,8 @@
       "verse": 22,
       "text": "If a man is guilty of a capital offense and is executed, and you hang him on a tree,",
       "links": "<a href='/AIV/40/27/35'>Matt. 27:35</a>; <a href='/AIV/48/3/13'>Gal. 3:13</a>",
-      "comment": "Hanging points prophetically to Christ’s crucifixion, who bore the curse for sinners; see also <a href='/AIV/48/3/13'>Galatians 3:13</a>."
+      "comment": "Hanging points prophetically to Christ’s crucifixion, who bore the curse for sinners; see also <a href='/AIV/48/3/13'>Galatians 3:13</a>.",
+      "sectionHeader": "Various Laws Concerning the Dead"
     },
     {
       "pk": 5021023,
@@ -281,5 +286,32 @@
       "comment": "Burial and removing the curse fulfillment in Christ; He is buried swiftly after the crucifixion (<a href='/AIV/43/19/38-42'>John 19:38-42</a>), showing God’s plan even in judgment."
     }
   ],
-  "translatedAt": "2025-12-24T02:08:02.629Z"
+  "translatedAt": "2025-12-24T02:08:02.629Z",
+  "sections": [
+    {
+      "title": "Expiation of Unsolved Murders",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "Marriage to Captive Women",
+      "startVerse": 10,
+      "endVerse": 14
+    },
+    {
+      "title": "Rights of the Firstborn",
+      "startVerse": 15,
+      "endVerse": 17
+    },
+    {
+      "title": "The Rebellious Son",
+      "startVerse": 18,
+      "endVerse": 21
+    },
+    {
+      "title": "Various Laws Concerning the Dead",
+      "startVerse": 22,
+      "endVerse": 23
+    }
+  ]
 }

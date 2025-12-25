@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "For I made up my mind not to come to you again in sorrow.",
       "links": "<a href='/AIV/47/13/10'>2Cor. 13:10</a>",
-      "comment": "Paul decided not to visit the Corinthians in a way that would cause further pain, showing pastoral sensitivity. The idea of spiritual leadership considering the well-being of the flock is consistent with the principle of shepherding found throughout scripture (cf. Ezek. 34:11-16)."
+      "comment": "Paul decided not to visit the Corinthians in a way that would cause further pain, showing pastoral sensitivity. The idea of spiritual leadership considering the well-being of the flock is consistent with the principle of shepherding found throughout scripture (cf. Ezek. 34:11-16).",
+      "sectionHeader": "Paul’s Reason for Writing and His Pastoral Concern"
     },
     {
       "pk": 54002002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "But if anyone has caused sorrow, he has not grieved me alone but, in part—not to put it too severely—he has grieved you all.",
       "links": "<a href='/AIV/47/7/12'>2Cor. 7:12</a>",
-      "comment": "Sin and discord in the church affects the whole community, reinforcing the teaching that the church is one body (1 Cor. 12:26)."
+      "comment": "Sin and discord in the church affects the whole community, reinforcing the teaching that the church is one body (1 Cor. 12:26).",
+      "sectionHeader": "Forgiveness and Restoration of the Offender"
     },
     {
       "pk": 54002006,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "When I came to Troas to preach the gospel of Christ, and a door was opened for me by the Lord,",
       "links": "<a href='/AIV/44/20/6'>Acts 20:6</a>; <a href='/AIV/46/16/9'>1Cor. 16:9</a>",
-      "comment": "Paul describes God's providential guidance. The reference to a 'door opened' shows the ongoing, active leadership of the Lord in mission, suggesting divine direction at work in the early church."
+      "comment": "Paul describes God's providential guidance. The reference to a 'door opened' shows the ongoing, active leadership of the Lord in mission, suggesting divine direction at work in the early church.",
+      "sectionHeader": "Paul’s Anxiety and His Mission in Troas"
     },
     {
       "pk": 54002013,
@@ -170,7 +173,8 @@
       "verse": 14,
       "text": "But thanks be to God, who always leads us in triumph in Christ and through us spreads the fragrance of the knowledge of Him everywhere.",
       "links": "<a href='/AIV/51/2/15'>Col. 2:15</a>; <a href='/AIV/47/4/6'>2Cor. 4:6</a>",
-      "comment": "Paul uses the imagery of a triumphant procession, with believers as participants in Christ's victory. The spreading 'fragrance' recalls Old Testament sacrifices (Lev. 2:2), reflecting both Christ's atoning work and the mission of the church to bear His presence."
+      "comment": "Paul uses the imagery of a triumphant procession, with believers as participants in Christ's victory. The spreading 'fragrance' recalls Old Testament sacrifices (Lev. 2:2), reflecting both Christ's atoning work and the mission of the church to bear His presence.",
+      "sectionHeader": "Triumphant Ministry of Christ"
     },
     {
       "pk": 54002015,
@@ -209,5 +213,27 @@
       "comment": "Paul contrasts authentic ministry with those who dilute or exploit Scripture. Speaking 'before God in Christ' points to the apostolic authority and the sacramental dimension—God’s word delivered through chosen instruments and maintained in purity and sincerity."
     }
   ],
-  "translatedAt": "2025-12-24T11:53:30.738Z"
+  "translatedAt": "2025-12-24T11:53:30.738Z",
+  "sections": [
+    {
+      "title": "Paul’s Reason for Writing and His Pastoral Concern",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "Forgiveness and Restoration of the Offender",
+      "startVerse": 5,
+      "endVerse": 11
+    },
+    {
+      "title": "Paul’s Anxiety and His Mission in Troas",
+      "startVerse": 12,
+      "endVerse": 13
+    },
+    {
+      "title": "Triumphant Ministry of Christ",
+      "startVerse": 14,
+      "endVerse": 17
+    }
+  ]
 }

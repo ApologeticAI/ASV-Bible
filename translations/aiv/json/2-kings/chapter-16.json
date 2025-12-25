@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In the seventeenth year of Pekah son of Remaliah, Ahaz son of Jotham, king of Judah, began to reign.",
       "links": "<a href='/AIV/12/15/32'>2 Kgs 15:32</a>; <a href='/AIV/14/27/9'>2 Chr 27:9</a>",
-      "comment": "Ahaz's ascension marks a pivotal moment for Judah, coming in the midst of turmoil in Israel. This is significant in tracking the lineage of David, which holds messianic promise (see <a href='/AIV/40/1/1-17'>Matt 1:1-17</a>)."
+      "comment": "Ahaz's ascension marks a pivotal moment for Judah, coming in the midst of turmoil in Israel. This is significant in tracking the lineage of David, which holds messianic promise (see <a href='/AIV/40/1/1-17'>Matt 1:1-17</a>).",
+      "sectionHeader": "The Reign and Wickedness of Ahaz"
     },
     {
       "pk": 12016002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "So Ahaz sent messengers to Tiglath-Pileser king of Assyria, saying, 'I am your servant and your son. Come up and deliver me from the hand of the king of Aram and from the king of Israel, who are rising up against me.'",
       "links": "<a href='/AIV/14/28/16'>2 Chr 28:16</a>; <a href='/AIV/23/8/4'>Isa 8:4</a>",
-      "comment": "Ahaz’s appeal to Assyria, instead of trusting God, demonstrates misplaced dependence. The spiritual dimension warns about seeking security apart from God's providence, and subtly points to a tradition of appealing to a higher, mediating authority in times of crisis."
+      "comment": "Ahaz’s appeal to Assyria, instead of trusting God, demonstrates misplaced dependence. The spiritual dimension warns about seeking security apart from God's providence, and subtly points to a tradition of appealing to a higher, mediating authority in times of crisis.",
+      "sectionHeader": "Ahaz Seeks Assyrian Aid"
     },
     {
       "pk": 12016008,
@@ -122,7 +124,8 @@
       "verse": 10,
       "text": "Then King Ahaz went to Damascus to meet Tiglath-Pileser king of Assyria, and saw an altar that was in Damascus. King Ahaz sent to Uriah the priest the pattern of the altar and its design, exactly as he had seen it.",
       "links": "<a href='/AIV/12/16/16'>2 Kgs 16:16</a>; <a href='/AIV/3/1/7-8'>Lev 1:7-8</a>",
-      "comment": "Ahaz’s imitation of a foreign altar introduces religious syncretism and confusion. The presence of a central priest, Uriah, underscores the importance of legitimate priesthood and right worship practices, inviting reflection on authority and tradition in worship."
+      "comment": "Ahaz’s imitation of a foreign altar introduces religious syncretism and confusion. The presence of a central priest, Uriah, underscores the importance of legitimate priesthood and right worship practices, inviting reflection on authority and tradition in worship.",
+      "sectionHeader": "Ahaz’s Idolatry and Alteration of the Temple"
     },
     {
       "pk": 12016011,
@@ -230,7 +233,8 @@
       "verse": 19,
       "text": "Now the rest of the acts of Ahaz which he did, are they not written in the Book of the Chronicles of the Kings of Judah?",
       "links": "<a href='/AIV/14/28/22-27'>2 Chr 28:22-27</a>",
-      "comment": "This formula links the narrative to an official record, underlining the careful preservation of tradition and history, which foreshadows the apostolic tradition’s importance for the Church."
+      "comment": "This formula links the narrative to an official record, underlining the careful preservation of tradition and history, which foreshadows the apostolic tradition’s importance for the Church.",
+      "sectionHeader": "Death of Ahaz"
     },
     {
       "pk": 12016020,
@@ -245,5 +249,27 @@
       "comment": "Hezekiah’s succession brings hope for renewal, as he is known for restoration. The reference to burial in the city of David ties to the ongoing messianic promise and continuity in the Davidic line (see <a href='/AIV/42/3/31'>Luke 3:31</a>)."
     }
   ],
-  "translatedAt": "2025-12-24T03:57:00.074Z"
+  "translatedAt": "2025-12-24T03:57:00.074Z",
+  "sections": [
+    {
+      "title": "The Reign and Wickedness of Ahaz",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Ahaz Seeks Assyrian Aid",
+      "startVerse": 7,
+      "endVerse": 9
+    },
+    {
+      "title": "Ahaz’s Idolatry and Alteration of the Temple",
+      "startVerse": 10,
+      "endVerse": 18
+    },
+    {
+      "title": "Death of Ahaz",
+      "startVerse": 19,
+      "endVerse": 20
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now Shephatiah son of Mattan, Gedaliah son of Pashhur, Jucal son of Shelemiah, and Pashhur son of Malchiah heard the words Jeremiah was speaking to all the people, saying:",
       "links": "<a href='/AIV/24/20/1'>Jer. 20:1</a>; <a href='/AIV/24/37/3'>Jer. 37:3</a>",
-      "comment": "Introduces several officials who were hostile to Jeremiah. Their genealogy underscores their priestly and political influence."
+      "comment": "Introduces several officials who were hostile to Jeremiah. Their genealogy underscores their priestly and political influence.",
+      "sectionHeader": "Jeremiah Cast into the Cistern"
     },
     {
       "pk": 30038002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "But Ebed-Melech the Cushite, an official in the king’s palace, heard that Jeremiah had been put in the cistern. While the king was sitting in the Benjamin Gate,",
       "links": "<a href='/AIV/24/39/16-18'>Jer. 39:16-18</a>",
-      "comment": "Ebed-Melech, a foreigner and palace official, is moved to act compassionately, reflecting God’s concern for the righteous—no matter their background."
+      "comment": "Ebed-Melech, a foreigner and palace official, is moved to act compassionately, reflecting God’s concern for the righteous—no matter their background.",
+      "sectionHeader": "Jeremiah Rescued by Ebed-Melech"
     },
     {
       "pk": 30038008,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "King Zedekiah sent for Jeremiah the prophet and had him brought to the third entrance of the LORD’s temple. The king said to Jeremiah, 'I want to ask you something; do not hide anything from me.'",
       "links": "<a href='/AIV/24/37/17'>Jer. 37:17</a>",
-      "comment": "In private, Zedekiah seeks a true word from Jeremiah. The temple setting suggests the importance of revelation and God’s guidance for leadership."
+      "comment": "In private, Zedekiah seeks a true word from Jeremiah. The temple setting suggests the importance of revelation and God’s guidance for leadership.",
+      "sectionHeader": "Jeremiah’s Secret Counsel to Zedekiah"
     },
     {
       "pk": 30038015,
@@ -341,5 +344,22 @@
       "comment": "Jeremiah’s endurance and fidelity mirror those of Christ under arrest (cf. John 18); God’s servant remains present, interceding for the people as judgment arrives."
     }
   ],
-  "translatedAt": "2025-12-24T08:42:56.008Z"
+  "translatedAt": "2025-12-24T08:42:56.008Z",
+  "sections": [
+    {
+      "title": "Jeremiah Cast into the Cistern",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Jeremiah Rescued by Ebed-Melech",
+      "startVerse": 7,
+      "endVerse": 13
+    },
+    {
+      "title": "Jeremiah’s Secret Counsel to Zedekiah",
+      "startVerse": 14,
+      "endVerse": 28
+    }
+  ]
 }

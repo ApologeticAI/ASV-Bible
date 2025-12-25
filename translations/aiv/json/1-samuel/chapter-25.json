@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Samuel died, and all Israel gathered and mourned for him. They buried him in his home town of Ramah. Then David went down to the wilderness of Paran.",
       "links": "<a href='/AIV/9/28/3'>1Sam 28:3</a>; <a href='/AIV/11/2/3'>1Kings 2:3</a>",
-      "comment": "Samuel’s death marked the end of the prophetic leadership over Israel and the transition to kingship. David’s withdrawal to Paran hints at his desire to avoid conflict until God’s timing was fulfilled."
+      "comment": "Samuel’s death marked the end of the prophetic leadership over Israel and the transition to kingship. David’s withdrawal to Paran hints at his desire to avoid conflict until God’s timing was fulfilled.",
+      "sectionHeader": "Death of Samuel"
     },
     {
       "pk": 9025002,
@@ -26,7 +27,8 @@
       "verse": 2,
       "text": "Now there was a man in Maon whose possessions were in Carmel. He was very rich—he owned three thousand sheep and a thousand goats, and he was shearing his sheep in Carmel.",
       "links": "<a href='/AIV/9/23/24'>1Sam 23:24</a>; <a href='/AIV/26/34/12-13'>Ezek. 34:12-13</a>",
-      "comment": "Sheep-shearing was a time of celebration and feasting, symbolizing abundance and opportunity for generosity."
+      "comment": "Sheep-shearing was a time of celebration and feasting, symbolizing abundance and opportunity for generosity.",
+      "sectionHeader": "David and Nabal"
     },
     {
       "pk": 9025003,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "But one of Nabal’s young men told Abigail, Nabal’s wife, 'David sent messengers from the wilderness to greet our master, but he insulted them.'",
       "links": "<a href='/AIV/20/31/11'>Prov 31:11</a>",
-      "comment": "Abigail’s reputation for wisdom is foreshadowed—the spiritual gift to discern and act mediates peace and points to the role of mediation in salvation history."
+      "comment": "Abigail’s reputation for wisdom is foreshadowed—the spiritual gift to discern and act mediates peace and points to the role of mediation in salvation history.",
+      "sectionHeader": "Abigail Intercedes with David"
     },
     {
       "pk": 9025015,
@@ -434,7 +437,8 @@
       "verse": 36,
       "text": "Abigail came to Nabal, and he was holding a feast in his house, like the feast of a king. Nabal’s heart was merry within him, for he was very drunk. So she told him nothing, until the morning light.",
       "links": "<a href='/AIV/20/23/29-35'>Prov 23:29-35</a>; <a href='/AIV/9/30/16'>1Sam 30:16</a>",
-      "comment": "Nabal’s excessive feasting and drunkenness stand as a warning against spiritual negligence and worldliness."
+      "comment": "Nabal’s excessive feasting and drunkenness stand as a warning against spiritual negligence and worldliness.",
+      "sectionHeader": "Nabal's Death"
     },
     {
       "pk": 9025037,
@@ -470,7 +474,8 @@
       "verse": 39,
       "text": "When David heard that Nabal was dead, he said, 'Blessed be the Lord, who has pleaded my cause against Nabal’s insult and kept His servant from wrongdoing. The Lord has returned Nabal’s evil on his own head.' Then David sent and spoke to Abigail, to take her as his wife.",
       "links": "<a href='/AIV/19/7/16'>Ps 7:16</a>; <a href='/AIV/20/31/10'>Prov 31:10</a>",
-      "comment": "David’s marriage to Abigail represents the union of wisdom and kingship, prefiguring the gathering of the faithful into the one household of God."
+      "comment": "David’s marriage to Abigail represents the union of wisdom and kingship, prefiguring the gathering of the faithful into the one household of God.",
+      "sectionHeader": "David Marries Abigail and Ahinoam"
     },
     {
       "pk": 9025040,
@@ -533,5 +538,32 @@
       "comment": "Michal’s change of loyalty by Saul’s command contrasts with Abigail’s willing acceptance, emphasizing true covenant relationship versus political maneuvering."
     }
   ],
-  "translatedAt": "2025-12-24T03:05:28.853Z"
+  "translatedAt": "2025-12-24T03:05:28.853Z",
+  "sections": [
+    {
+      "title": "Death of Samuel",
+      "startVerse": 1,
+      "endVerse": 1
+    },
+    {
+      "title": "David and Nabal",
+      "startVerse": 2,
+      "endVerse": 13
+    },
+    {
+      "title": "Abigail Intercedes with David",
+      "startVerse": 14,
+      "endVerse": 35
+    },
+    {
+      "title": "Nabal's Death",
+      "startVerse": 36,
+      "endVerse": 38
+    },
+    {
+      "title": "David Marries Abigail and Ahinoam",
+      "startVerse": 39,
+      "endVerse": 44
+    }
+  ]
 }

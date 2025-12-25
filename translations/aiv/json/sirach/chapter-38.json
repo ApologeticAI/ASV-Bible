@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Honor the physician with the honor due him, according to your need of him, for the Lord created him.",
       "links": "<a href='/AIV/21/1/9'>Wisdom 1:9</a>; <a href='/AIV/19/103/3'>Psalm 103:3</a> ",
-      "comment": "The physician is to be respected, since his wisdom and skill come from God. This highlight's God's use of human instruments to provide healing, reflecting the value of both faith and practical means."
+      "comment": "The physician is to be respected, since his wisdom and skill come from God. This highlight's God's use of human instruments to provide healing, reflecting the value of both faith and practical means.",
+      "sectionHeader": "Honor for Physicians and Use of Medicine"
     },
     {
       "pk": 28038002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "My child, when you are sick, do not despair, but pray to the Lord, for He will heal you.",
       "links": "<a href='/AIV/19/30/2'>Psalm 30:2</a>; <a href='/AIV/59/5/14'>James 5:14</a>",
-      "comment": "Prayer and trust in God's power are primary in times of illness, in harmony with seeking natural means (v.4). Suggests that suffering can be redemptive and linked to prayer."
+      "comment": "Prayer and trust in God's power are primary in times of illness, in harmony with seeking natural means (v.4). Suggests that suffering can be redemptive and linked to prayer.",
+      "sectionHeader": "Prayer and Proper Attitude in Sickness"
     },
     {
       "pk": 28038010,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "My child, let your tears flow for the dead, as one in deep sorrow; begin your lament with wailing, and observe mourning according to what is right, and do not be careless in your grief.",
       "links": "<a href='/AIV/01/23/2'>Genesis 23:2</a>; <a href='/AIV/43/11/35'>John 11:35</a>",
-      "comment": "Mourning is seen as natural and even necessary, Christ Himself wept at the tomb of Lazarus (John 11:35), affirming the goodness of grief when done with hope."
+      "comment": "Mourning is seen as natural and even necessary, Christ Himself wept at the tomb of Lazarus (John 11:35), affirming the goodness of grief when done with hope.",
+      "sectionHeader": "Mourning and Comfort for the Dead"
     },
     {
       "pk": 28038017,
@@ -290,7 +293,8 @@
       "verse": 24,
       "text": "The wisdom of the scribe comes through the opportunity for leisure, and whoever has little business may become wise.",
       "links": "<a href='/AIV/20/1/5'>Proverbs 1:5</a>; <a href='/AIV/44/6/4'>Acts 6:4</a>",
-      "comment": "Dedication to study and contemplation is extolled; those given to spiritual reflection hold wisdom esteemed by God and community."
+      "comment": "Dedication to study and contemplation is extolled; those given to spiritual reflection hold wisdom esteemed by God and community.",
+      "sectionHeader": "The Skill and Value of Craftsmen"
     },
     {
       "pk": 28038025,
@@ -413,5 +417,27 @@
       "comment": "This closing verse affirms the value of every role in society, not all hold the place of teachers or judges, but every honest profession is a contribution to the common good and participates in God’s creative order."
     }
   ],
-  "translatedAt": "2025-12-24T07:44:03.108Z"
+  "translatedAt": "2025-12-24T07:44:03.108Z",
+  "sections": [
+    {
+      "title": "Honor for Physicians and Use of Medicine",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "Prayer and Proper Attitude in Sickness",
+      "startVerse": 9,
+      "endVerse": 15
+    },
+    {
+      "title": "Mourning and Comfort for the Dead",
+      "startVerse": 16,
+      "endVerse": 23
+    },
+    {
+      "title": "The Skill and Value of Craftsmen",
+      "startVerse": 24,
+      "endVerse": 34
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In my first book, O Theophilus, I wrote about all that Jesus began to do and teach,",
       "links": "<a href='/AIV/42/1/3'>Luke 1:3</a>",
-      "comment": "The author, traditionally identified as Luke, addresses Theophilus as he did in his earlier narrative (the Gospel according to Luke). This sets the stage for a continuation of the mission of Jesus, now through his apostles."
+      "comment": "The author, traditionally identified as Luke, addresses Theophilus as he did in his earlier narrative (the Gospel according to Luke). This sets the stage for a continuation of the mission of Jesus, now through his apostles.",
+      "sectionHeader": "Prologue and Promise of the Holy Spirit"
     },
     {
       "pk": 51001002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "So when they had come together, they asked him, 'Lord, will you at this time restore the kingdom to Israel?'",
       "links": "<a href='/AIV/42/24/21'>Luke 24:21</a>; <a href='/AIV/33/4/8'>Micah 4:8</a>",
-      "comment": "The apostles expect a political restoration, but Jesus redirects their expectations toward a spiritual and universal mission of His Church."
+      "comment": "The apostles expect a political restoration, but Jesus redirects their expectations toward a spiritual and universal mission of His Church.",
+      "sectionHeader": "The Ascension of Jesus"
     },
     {
       "pk": 51001007,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "In those days Peter stood up among the brothers (the company of persons was in all about one hundred and twenty) and said,",
       "links": "<a href='/AIV/40/16/18-19'>Matt. 16:18-19</a>",
-      "comment": "Peter’s initiative as the leader among the apostles aligns with Jesus’ earlier statement about his foundational role among the disciples."
+      "comment": "Peter’s initiative as the leader among the apostles aligns with Jesus’ earlier statement about his foundational role among the disciples.",
+      "sectionHeader": "The Choosing of Matthias"
     },
     {
       "pk": 51001016,
@@ -317,5 +320,22 @@
       "comment": "This ancient practice shows reliance on God’s will and the restoration of the apostolic foundation to twelve—a sign of continuity and authentic authority in the Church."
     }
   ],
-  "translatedAt": "2025-12-24T11:17:35.780Z"
+  "translatedAt": "2025-12-24T11:17:35.780Z",
+  "sections": [
+    {
+      "title": "Prologue and Promise of the Holy Spirit",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "The Ascension of Jesus",
+      "startVerse": 6,
+      "endVerse": 14
+    },
+    {
+      "title": "The Choosing of Matthias",
+      "startVerse": 15,
+      "endVerse": 26
+    }
+  ]
 }

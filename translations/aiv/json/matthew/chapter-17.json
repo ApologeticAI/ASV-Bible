@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Six days later, Jesus took Peter, James, and John his brother, and led them up a high mountain by themselves.",
       "links": "<a href='/AIV/41/9/2'>Mark 9:2</a>; <a href='/AIV/42/9/28'>Luke 9:28</a>",
-      "comment": "The narrative places this event shortly after Peter's confession, emphasizing Jesus' intentional choice of these three core disciples for a special revelation."
+      "comment": "The narrative places this event shortly after Peter's confession, emphasizing Jesus' intentional choice of these three core disciples for a special revelation.",
+      "sectionHeader": "The Transfiguration of Jesus"
     },
     {
       "pk": 47017002,
@@ -170,7 +171,8 @@
       "verse": 14,
       "text": "When they reached the crowd, a man came up to him, knelt before him,",
       "links": "<a href='/AIV/41/9/14'>Mark 9:14</a>; <a href='/AIV/42/9/37'>Luke 9:37</a>",
-      "comment": "The posture of kneeling shows humility and reverence—a recognition of Jesus' authority."
+      "comment": "The posture of kneeling shows humility and reverence—a recognition of Jesus' authority.",
+      "sectionHeader": "Jesus Heals a Boy with a Demon"
     },
     {
       "pk": 47017015,
@@ -266,7 +268,8 @@
       "verse": 22,
       "text": "While they were gathering in Galilee, Jesus said to them, 'The Son of Man is about to be delivered into the hands of men,'",
       "links": "<a href='/AIV/47/16/21'>Matt. 16:21</a>; <a href='/AIV/41/9/31'>Mark 9:31</a>",
-      "comment": "Jesus predicts his Passion, showing deliberate acceptance of suffering and sacrifice for the salvation of mankind."
+      "comment": "Jesus predicts his Passion, showing deliberate acceptance of suffering and sacrifice for the salvation of mankind.",
+      "sectionHeader": "Second Prediction of the Passion"
     },
     {
       "pk": 47017023,
@@ -290,7 +293,8 @@
       "verse": 24,
       "text": "When they came to Capernaum, those who collected the temple tax came to Peter and asked, 'Does your teacher not pay the two-drachma tax?'",
       "links": "<a href='/AIV/2/30/13'>Exod. 30:13</a>",
-      "comment": "The temple tax was a religious obligation for Jews, showing the importance of both civic and religious duties."
+      "comment": "The temple tax was a religious obligation for Jews, showing the importance of both civic and religious duties.",
+      "sectionHeader": "The Temple Tax Paid with a Coin from a Fish"
     },
     {
       "pk": 47017025,
@@ -329,5 +333,27 @@
       "comment": "Jesus demonstrates supernatural power by providing the coin in an extraordinary way and models humility by fulfilling obligation. This humility and respect for tradition foreshadows the ongoing role of the visible Church in the world—engaging temporal affairs while possessing heavenly authority."
     }
   ],
-  "translatedAt": "2025-12-24T10:11:48.688Z"
+  "translatedAt": "2025-12-24T10:11:48.688Z",
+  "sections": [
+    {
+      "title": "The Transfiguration of Jesus",
+      "startVerse": 1,
+      "endVerse": 13
+    },
+    {
+      "title": "Jesus Heals a Boy with a Demon",
+      "startVerse": 14,
+      "endVerse": 21
+    },
+    {
+      "title": "Second Prediction of the Passion",
+      "startVerse": 22,
+      "endVerse": 23
+    },
+    {
+      "title": "The Temple Tax Paid with a Coin from a Fish",
+      "startVerse": 24,
+      "endVerse": 27
+    }
+  ]
 }

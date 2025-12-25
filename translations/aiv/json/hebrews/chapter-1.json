@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Long ago, God spoke to our ancestors in many different ways and at many times through the prophets.",
       "links": "<a href='/AIV/04/12/6'>Num. 12:6</a>; <a href='/AIV/23/1/1'>Isa. 1:1</a>",
-      "comment": "This opening verse provides a historical context of God's communication through chosen messengers. The reference to prophets emphasizes the authenticity and authority of divine revelation through appointed individuals. Prophetical revelation was progressive and preparatory, pointing forward to its fulfillment in Christ."
+      "comment": "This opening verse provides a historical context of God's communication through chosen messengers. The reference to prophets emphasizes the authenticity and authority of divine revelation through appointed individuals. Prophetical revelation was progressive and preparatory, pointing forward to its fulfillment in Christ.",
+      "sectionHeader": "God Speaks Through His Son"
     },
     {
       "pk": 65001002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "Having become as much superior to the angels as the name He has inherited is more excellent than theirs.",
       "links": "<a href='/AIV/50/2/9'>Phil. 2:9</a>; <a href='/AIV/19/8/5'>Ps. 8:5</a>",
-      "comment": "The verse highlights Christ's unique status above all angelic beings, based on the ‘name’ He possesses—signifying His authority and sonship. This sets up the theological framework for understanding the true identity and power of Christ in the economy of salvation."
+      "comment": "The verse highlights Christ's unique status above all angelic beings, based on the ‘name’ He possesses—signifying His authority and sonship. This sets up the theological framework for understanding the true identity and power of Christ in the economy of salvation.",
+      "sectionHeader": "The Superiority of the Son to Angels"
     },
     {
       "pk": 65001005,
@@ -173,5 +175,17 @@
       "comment": "Angelic beings, however glorious, are servants whose purpose is to aid the faithful. The text draws a sharp distinction between Christ, who is worshipped, and angels, who serve, reinforcing the divine hierarchy and dignity of Christ, around whom the entire narrative of salvation centers."
     }
   ],
-  "translatedAt": "2025-12-24T12:16:41.478Z"
+  "translatedAt": "2025-12-24T12:16:41.478Z",
+  "sections": [
+    {
+      "title": "God Speaks Through His Son",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "The Superiority of the Son to Angels",
+      "startVerse": 4,
+      "endVerse": 14
+    }
+  ]
 }

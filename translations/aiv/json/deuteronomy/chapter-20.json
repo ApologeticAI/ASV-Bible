@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When you go out to war against your enemies and you see horses, chariots, and a people more numerous than you, do not be afraid of them, for the LORD your God, who brought you up from the land of Egypt, is with you.",
       "links": "<a href='/AIV/02/14/14'>Ex. 14:14</a>; <a href='/AIV/05/31/6'>Deut. 31:6</a>",
-      "comment": "This verse begins with God's assurance to His people that He will fight for them, echoing His deliverance from Egypt. Spiritually, this foreshadows Christ's victory over sin and death for His church (see Rom. 8:31-37). The continual theme of divine presence anticipates the incarnational reality fulfilled in Jesus (Matt. 1:23)."
+      "comment": "This verse begins with God's assurance to His people that He will fight for them, echoing His deliverance from Egypt. Spiritually, this foreshadows Christ's victory over sin and death for His church (see Rom. 8:31-37). The continual theme of divine presence anticipates the incarnational reality fulfilled in Jesus (Matt. 1:23).",
+      "sectionHeader": "Laws for Warfare"
     },
     {
       "pk": 5020002,
@@ -230,7 +231,8 @@
       "verse": 19,
       "text": "When you besiege a city for a long time, making war against it to capture it, you shall not destroy its trees by cutting them down with an axe, for you may eat from them. Do not cut them down. Are the trees of the field human, that they should be besieged by you?",
       "links": "<a href='/AIV/01/02/9'>Gen. 2:9</a>; <a href='/AIV/23/55/12'>Isa. 55:12</a>",
-      "comment": "Creation is to be respected even in war. This principle highlights stewardship of the earth, consistent with the biblical vision of creation care (Ps. 24:1)."
+      "comment": "Creation is to be respected even in war. This principle highlights stewardship of the earth, consistent with the biblical vision of creation care (Ps. 24:1).",
+      "sectionHeader": "Laws for Besieging Cities"
     },
     {
       "pk": 5020020,
@@ -245,5 +247,17 @@
       "comment": "Practical wisdom is exercised here—using only non-fruit trees in siege warfare. The distinction echoes discernment in Christian life: the wise separation of what sustains and what can be sacrificed for the kingdom (Phil. 3:7-8)."
     }
   ],
-  "translatedAt": "2025-12-24T02:07:37.102Z"
+  "translatedAt": "2025-12-24T02:07:37.102Z",
+  "sections": [
+    {
+      "title": "Laws for Warfare",
+      "startVerse": 1,
+      "endVerse": 18
+    },
+    {
+      "title": "Laws for Besieging Cities",
+      "startVerse": 19,
+      "endVerse": 20
+    }
+  ]
 }

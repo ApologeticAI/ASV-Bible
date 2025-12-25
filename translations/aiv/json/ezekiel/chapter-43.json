@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then he led me to the gate, the gate facing east.",
       "links": "<a href='/AIV/33/40/6'>Ezekiel 40:6</a>; <a href='/AIV/38/14/4'>Zechariah 14:4</a>",
-      "comment": "The east gate represents the direction from which God's glory appears, often symbolizing new beginnings and the coming presence of the Lord. See Ezekiel 10:19 and the later return of glory to the east."
+      "comment": "The east gate represents the direction from which God's glory appears, often symbolizing new beginnings and the coming presence of the Lord. See Ezekiel 10:19 and the later return of glory to the east.",
+      "sectionHeader": "The Glory of the Lord Returns to the Temple"
     },
     {
       "pk": 33043002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "While the man stood beside me, I heard someone speaking to me out of the temple.",
       "links": "<a href='/AIV/33/40/3'>Ezekiel 40:3</a>; <a href='/AIV/33/1/28'>Ezekiel 1:28</a>",
-      "comment": "A mysterious figure is present, possibly an angelic or priestly figure—reinforcing the role of intermediaries in divine encounter."
+      "comment": "A mysterious figure is present, possibly an angelic or priestly figure—reinforcing the role of intermediaries in divine encounter.",
+      "sectionHeader": "God's Dwelling and Command to Describe the Temple"
     },
     {
       "pk": 33043007,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "‘These are the measurements of the altar in cubits (a cubit is a forearm’s length plus a handbreadth): the base shall be one cubit high and one cubit wide, with a rim around its edge one span wide; this is the base of the altar.’",
       "links": "<a href='/AIV/02/27/1'>Exodus 27:1</a>; <a href='/AIV/26/2/23'>Leviticus 2:23</a>",
-      "comment": "The altar’s careful design recalls the construction described in Exodus 27, showing the importance of detail and reverence."
+      "comment": "The altar’s careful design recalls the construction described in Exodus 27, showing the importance of detail and reverence.",
+      "sectionHeader": "The Law and Measurements of the Altar"
     },
     {
       "pk": 33043014,
@@ -218,7 +221,8 @@
       "verse": 18,
       "text": "He said to me, ‘Son of man, thus says the Lord GOD: These are the ordinances for the altar on the day when it is made, for offering burnt offerings on it and sprinkling blood upon it.’",
       "links": "<a href='/AIV/03/1/5'>Leviticus 1:5</a>",
-      "comment": "Sacrifice and blood are necessary for holiness and forgiveness, a theme fully consummated in Christ’s sacrifice (Hebrews 9:13-14)."
+      "comment": "Sacrifice and blood are necessary for holiness and forgiveness, a theme fully consummated in Christ’s sacrifice (Hebrews 9:13-14).",
+      "sectionHeader": "The Altar's Consecration and Offerings"
     },
     {
       "pk": 33043019,
@@ -329,5 +333,27 @@
       "comment": "The eighth day signals new creation and renewal, reflecting resurrection themes and acceptance by God through the appointed priesthood and right worship."
     }
   ],
-  "translatedAt": "2025-12-24T09:23:07.405Z"
+  "translatedAt": "2025-12-24T09:23:07.405Z",
+  "sections": [
+    {
+      "title": "The Glory of the Lord Returns to the Temple",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "God's Dwelling and Command to Describe the Temple",
+      "startVerse": 6,
+      "endVerse": 12
+    },
+    {
+      "title": "The Law and Measurements of the Altar",
+      "startVerse": 13,
+      "endVerse": 17
+    },
+    {
+      "title": "The Altar's Consecration and Offerings",
+      "startVerse": 18,
+      "endVerse": 27
+    }
+  ]
 }

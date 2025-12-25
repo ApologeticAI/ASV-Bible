@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now Moses was tending the flock of Jethro his father-in-law, the priest of Midian, and he led the flock to the far side of the wilderness, and came to the mountain of God, to Horeb.",
       "links": "<a href='/AIV/2/18/12'>Exod. 18:12</a>; <a href='/AIV/5/4/10'>Deut. 4:10</a>",
-      "comment": "Moses, who would become the lawgiver, is introduced in a humble setting as a shepherd. The 'mountain of God,' later known as Sinai, becomes a central place of divine revelation and covenant. The reference to Jethro as priest subtly foreshadows the perpetual role of priesthood as mediators between God and His people."
+      "comment": "Moses, who would become the lawgiver, is introduced in a humble setting as a shepherd. The 'mountain of God,' later known as Sinai, becomes a central place of divine revelation and covenant. The reference to Jethro as priest subtly foreshadows the perpetual role of priesthood as mediators between God and His people.",
+      "sectionHeader": "The Burning Bush"
     },
     {
       "pk": 2003002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "Then the LORD said, 'I have surely seen the affliction of my people who are in Egypt, and have heard their cry because of their taskmasters; I know their sufferings.'",
       "links": "<a href='/AIV/1/15/13'>Gen. 15:13</a>; <a href='/AIV/2/2/23-25'>Exod. 2:23-25</a>",
-      "comment": "God's intimate knowledge of His people's suffering shows His compassion and faithfulness. This anticipates the ultimate act of solidarity when the Word becomes flesh to save humanity."
+      "comment": "God's intimate knowledge of His people's suffering shows His compassion and faithfulness. This anticipates the ultimate act of solidarity when the Word becomes flesh to save humanity.",
+      "sectionHeader": "The Call of Moses"
     },
     {
       "pk": 2003008,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "Then Moses said to God, 'If I come to the children of Israel and say to them, \"The God of your fathers has sent me to you,\" and they ask me, \"What is his name?\" what shall I say to them?'",
       "links": "<a href='/AIV/1/32/29'>Gen. 32:29</a>",
-      "comment": "Knowing God's name symbolizes deeper relationship. Here Moses seeks assurance not only for himself but for the people, echoing humanity’s quest to know the Divine intimately."
+      "comment": "Knowing God's name symbolizes deeper relationship. Here Moses seeks assurance not only for himself but for the people, echoing humanity’s quest to know the Divine intimately.",
+      "sectionHeader": "The Divine Name Revealed"
     },
     {
       "pk": 2003014,
@@ -194,7 +197,8 @@
       "verse": 16,
       "text": "'Go and gather the elders of Israel together and say to them, \"The LORD, the God of your fathers, the God of Abraham, of Isaac, and of Jacob, has appeared to me, saying: I have watched over you and have seen what has been done to you in Egypt,\"'",
       "links": "<a href='/AIV/2/4/29'>Exod. 4:29</a>",
-      "comment": "Communication is directed first to the elders, pointing to the importance of structure, hierarchy, and order in God’s people for authentic transmission of the faith."
+      "comment": "Communication is directed first to the elders, pointing to the importance of structure, hierarchy, and order in God’s people for authentic transmission of the faith.",
+      "sectionHeader": "Instructions for Moses"
     },
     {
       "pk": 2003017,
@@ -269,5 +273,27 @@
       "comment": "The plundering of Egypt fulfills God’s promise and symbolizes the victory of God's people over oppression. The detail of women leading this act highlights the active role of all members of the faith community in receiving God's promises."
     }
   ],
-  "translatedAt": "2025-12-24T00:48:16.893Z"
+  "translatedAt": "2025-12-24T00:48:16.893Z",
+  "sections": [
+    {
+      "title": "The Burning Bush",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "The Call of Moses",
+      "startVerse": 7,
+      "endVerse": 12
+    },
+    {
+      "title": "The Divine Name Revealed",
+      "startVerse": 13,
+      "endVerse": 15
+    },
+    {
+      "title": "Instructions for Moses",
+      "startVerse": 16,
+      "endVerse": 22
+    }
+  ]
 }

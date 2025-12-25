@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Joash was seven years old when he became king, and he reigned forty years in Jerusalem. His mother’s name was Zibiah from Beersheba.",
       "links": "<a href='/AIV/12/11/1-3'>2 Kings 11:1-3</a>",
-      "comment": "Joash’s young age highlights divine providence over the Davidic line, which foreshadows God’s preservation of His people throughout salvation history. The forty-year reign echoes periods of testing and fulfillment (see <a href='/AIV/02/16/35'>Ex. 16:35</a>; <a href='/AIV/11/2/10'>1 Kings 2:10</a>)."
+      "comment": "Joash’s young age highlights divine providence over the Davidic line, which foreshadows God’s preservation of His people throughout salvation history. The forty-year reign echoes periods of testing and fulfillment (see <a href='/AIV/02/16/35'>Ex. 16:35</a>; <a href='/AIV/11/2/10'>1 Kings 2:10</a>).",
+      "sectionHeader": "Reign of Joash and Repair of the Temple"
     },
     {
       "pk": 14024002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "But Jehoiada grew old and died; he was one hundred and thirty years old at his death.",
       "links": "<a href='/AIV/01/25/7'>Gen. 25:7</a>",
-      "comment": "The longevity and godly influence of Jehoiada serve as a testament to a life lived in service to God’s people, reminiscent of the elders in the patriarchal era."
+      "comment": "The longevity and godly influence of Jehoiada serve as a testament to a life lived in service to God’s people, reminiscent of the elders in the patriarchal era.",
+      "sectionHeader": "Death of Jehoiada and Apostasy of Judah"
     },
     {
       "pk": 14024016,
@@ -242,7 +244,8 @@
       "verse": 20,
       "text": "Then the Spirit of God came upon Zechariah, son of Jehoiada the priest. He stood before the people and said, 'This is what God says: Why do you transgress the commandments of the Lord, so that you cannot prosper? Because you have forsaken the Lord, He has also forsaken you.'",
       "links": "<a href='/AIV/42/11/51'>Luke 11:51</a>; <a href='/AIV/07/10/13'>Judges 10:13</a>",
-      "comment": "The Spirit’s empowerment and Zechariah’s prophetic courage prefigure Christ’s prophetic office and His warnings to turn back to God."
+      "comment": "The Spirit’s empowerment and Zechariah’s prophetic courage prefigure Christ’s prophetic office and His warnings to turn back to God.",
+      "sectionHeader": "Zechariah’s Martyrdom and Judgment on Joash"
     },
     {
       "pk": 14024021,
@@ -302,7 +305,8 @@
       "verse": 25,
       "text": "When they withdrew from him—for they left him severely wounded—his servants conspired against him because of the blood of the son of Jehoiada the priest, and killed him on his bed. He died, and they buried him in the city of David, but not in the tombs of the kings.",
       "links": "<a href='/AIV/12/12/20'>2 Kings 12:20-21</a>; <a href='/AIV/14/21/20'>2 Chr. 21:20</a>",
-      "comment": "Joash’s disgraceful burial contrasts Jehoiada’s honor, affirming that faithless rulers forfeit spiritual legacy."
+      "comment": "Joash’s disgraceful burial contrasts Jehoiada’s honor, affirming that faithless rulers forfeit spiritual legacy.",
+      "sectionHeader": "Assassination of Joash"
     },
     {
       "pk": 14024026,
@@ -329,5 +333,27 @@
       "comment": "Reference to written records highlights respect for history and tradition, and the passing of the kingship denotes the enduring leadership structure in God's chosen people, anticipating its fulfillment in Christ the true King and through apostolic succession."
     }
   ],
-  "translatedAt": "2025-12-24T04:33:15.905Z"
+  "translatedAt": "2025-12-24T04:33:15.905Z",
+  "sections": [
+    {
+      "title": "Reign of Joash and Repair of the Temple",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "Death of Jehoiada and Apostasy of Judah",
+      "startVerse": 15,
+      "endVerse": 19
+    },
+    {
+      "title": "Zechariah’s Martyrdom and Judgment on Joash",
+      "startVerse": 20,
+      "endVerse": 24
+    },
+    {
+      "title": "Assassination of Joash",
+      "startVerse": 25,
+      "endVerse": 27
+    }
+  ]
 }

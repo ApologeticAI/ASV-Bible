@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "After Jesus was born in Bethlehem of Judea, during the days of King Herod, wise men from the east arrived in Jerusalem,",
       "links": "<a href='/AIV/33/5/2'>Mic. 5:2</a>; <a href='/AIV/42/2/4-7'>Luke 2:4-7</a>",
-      "comment": "The mention of Bethlehem fulfills Messianic prophecy (Micah 5:2), pointing to the divine plan for Christ's birth. The wise men, or Magi, signal that Christ's kingship is recognized even by those outside Israel."
+      "comment": "The mention of Bethlehem fulfills Messianic prophecy (Micah 5:2), pointing to the divine plan for Christ's birth. The wise men, or Magi, signal that Christ's kingship is recognized even by those outside Israel.",
+      "sectionHeader": "The Visit of the Magi"
     },
     {
       "pk": 47002002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "After they departed, an angel of the Lord appeared to Joseph in a dream and said, \"Get up, take the child and his mother, and flee to Egypt. Stay there until I tell you, for Herod is about to search for the child to destroy him.\"",
       "links": "<a href='/AIV/02/3/7'>Ex. 3:7</a>; <a href='/AIV/28/11/1'>Hos. 11:1</a>",
-      "comment": "Joseph’s obedience to revelation prefigures the protection and guidance of the faithful. Egypt as a refuge echoes the history of Israel and serves as a prophetic fulfillment (Hos. 11:1)."
+      "comment": "Joseph’s obedience to revelation prefigures the protection and guidance of the faithful. Egypt as a refuge echoes the history of Israel and serves as a prophetic fulfillment (Hos. 11:1).",
+      "sectionHeader": "The Flight into Egypt"
     },
     {
       "pk": 47002014,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "When Herod realized he had been deceived by the wise men, he became furious. He sent and killed all the boys in Bethlehem and all the surrounding area who were two years old and under, according to the time he had learned from the wise men.",
       "links": "<a href='/AIV/02/1/22'>Ex. 1:22</a>",
-      "comment": "The massacre recalls Pharaoh’s violence against Israelite children. Jesus, as the new Moses, survives the violence, underscoring His role as a saving deliverer."
+      "comment": "The massacre recalls Pharaoh’s violence against Israelite children. Jesus, as the new Moses, survives the violence, underscoring His role as a saving deliverer.",
+      "sectionHeader": "The Massacre of the Infants"
     },
     {
       "pk": 47002017,
@@ -230,7 +233,8 @@
       "verse": 19,
       "text": "But when Herod died, an angel of the Lord appeared in a dream to Joseph in Egypt,",
       "links": "<a href='/AIV/40/1/20'>Matt. 1:20</a>; <a href='/AIV/02/4/19'>Ex. 4:19</a>",
-      "comment": "God’s timing and communication by angels again guide Joseph. The parallel to Exodus continues, showing Jesus recapitulates key moments in the chosen lineage’s journey."
+      "comment": "God’s timing and communication by angels again guide Joseph. The parallel to Exodus continues, showing Jesus recapitulates key moments in the chosen lineage’s journey.",
+      "sectionHeader": "The Return from Egypt"
     },
     {
       "pk": 47002020,
@@ -281,5 +285,27 @@
       "comment": "Nazareth’s lowly status fulfills the prophets’ message that the Messiah would be humble and despised, yet divinely chosen (‘branch’–Heb. netzer, Isa. 11:1). Christ’s upbringing in Nazareth sets the stage for his universal mission and connects to the prophetic tradition of the coming king from David’s line."
     }
   ],
-  "translatedAt": "2025-12-24T10:02:23.021Z"
+  "translatedAt": "2025-12-24T10:02:23.021Z",
+  "sections": [
+    {
+      "title": "The Visit of the Magi",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "The Flight into Egypt",
+      "startVerse": 13,
+      "endVerse": 15
+    },
+    {
+      "title": "The Massacre of the Infants",
+      "startVerse": 16,
+      "endVerse": 18
+    },
+    {
+      "title": "The Return from Egypt",
+      "startVerse": 19,
+      "endVerse": 23
+    }
+  ]
 }

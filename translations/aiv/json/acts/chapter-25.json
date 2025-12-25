@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Three days after Festus arrived in the province, he went up from Caesarea to Jerusalem.",
       "links": "<a href='/AIV/51/24/27'>Acts 24:27</a>",
-      "comment": "Festus, succeeding Felix as governor, immediately attends to Jewish affairs. This demonstrates the Roman concern for maintaining harmony with local religious authority, setting the stage for Paul's continued defense."
+      "comment": "Festus, succeeding Felix as governor, immediately attends to Jewish affairs. This demonstrates the Roman concern for maintaining harmony with local religious authority, setting the stage for Paul's continued defense.",
+      "sectionHeader": "Paul Appeals to Caesar"
     },
     {
       "pk": 51025002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "Several days later, King Agrippa and Bernice came to Caesarea to welcome Festus.",
       "links": "<a href='/AIV/51/26/27'>Acts 26:27</a>",
-      "comment": "The arrival of Agrippa introduces another layer of authority, indicating the interconnectedness of secular rulers with the divine plan, as God's providence weaves through history."
+      "comment": "The arrival of Agrippa introduces another layer of authority, indicating the interconnectedness of secular rulers with the divine plan, as God's providence weaves through history.",
+      "sectionHeader": "Paul Before King Agrippa"
     },
     {
       "pk": 51025014,
@@ -278,7 +280,8 @@
       "verse": 23,
       "text": "So the next day, Agrippa and Bernice came with great pomp, and entered the hall along with commanders and leading men of the city. Then at Festus’s command, Paul was brought in.",
       "links": "<a href='/AIV/51/26/30'>Acts 26:30</a>; <a href='/AIV/40/10/18'>Matt. 10:18</a>",
-      "comment": "The grandeur of the scene mirrors the importance of witness to truth before earthly power. The Church’s mission often finds its fulfillment both in humble circumstances and grand assemblies."
+      "comment": "The grandeur of the scene mirrors the importance of witness to truth before earthly power. The Church’s mission often finds its fulfillment both in humble circumstances and grand assemblies.",
+      "sectionHeader": "Paul Presented to King Agrippa"
     },
     {
       "pk": 51025024,
@@ -329,5 +332,22 @@
       "comment": "The demand for clarity in charges reflects the principle of justice, but also spiritual truth—the Church must be clear in her proclamation, preserving the integrity and depth of the apostolic faith."
     }
   ],
-  "translatedAt": "2025-12-24T11:33:27.323Z"
+  "translatedAt": "2025-12-24T11:33:27.323Z",
+  "sections": [
+    {
+      "title": "Paul Appeals to Caesar",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "Paul Before King Agrippa",
+      "startVerse": 13,
+      "endVerse": 22
+    },
+    {
+      "title": "Paul Presented to King Agrippa",
+      "startVerse": 23,
+      "endVerse": 27
+    }
+  ]
 }

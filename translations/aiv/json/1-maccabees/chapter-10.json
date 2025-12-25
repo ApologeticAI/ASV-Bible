@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In the one hundred and sixtieth year, Alexander, son of Antiochus Epiphanes, went up and captured Ptolemais. The inhabitants welcomed him, and he reigned there.",
       "links": "<a href='/AIV/20/1/10'>1Macc 1:10</a>",
-      "comment": "The Alexander here is also known as Alexander Balas, who claimed to be the rightful king, rivaling Demetrius. The political intrigue of this period sets the stage for Israel's interaction with foreign powers."
+      "comment": "The Alexander here is also known as Alexander Balas, who claimed to be the rightful king, rivaling Demetrius. The political intrigue of this period sets the stage for Israel's interaction with foreign powers.",
+      "sectionHeader": "Rival Kings Seek Jonathan's Alliance"
     },
     {
       "pk": 20010002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "King Alexander sent ambassadors to Jonathan with the message of peace, honoring him.",
       "links": "<a href='/AIV/20/10/3'>1Macc 10:3</a>",
-      "comment": "Both rival kings seeking Jonathan's favor show the respect commanded by faithful leadership. Israel's leaders play a vital role on the world stage."
+      "comment": "Both rival kings seeking Jonathan's favor show the respect commanded by faithful leadership. Israel's leaders play a vital role on the world stage.",
+      "sectionHeader": "Jonathan Appointed High Priest"
     },
     {
       "pk": 20010016,
@@ -266,7 +268,8 @@
       "verse": 22,
       "text": "When King Demetrius heard these reports, he was troubled and said,",
       "links": "",
-      "comment": "Demetrius recognizes Jonathan’s growing power and unity of Israel as a threat (cf. Exod 1:9-10)."
+      "comment": "Demetrius recognizes Jonathan’s growing power and unity of Israel as a threat (cf. Exod 1:9-10).",
+      "sectionHeader": "Demetrius and Alexander Compete for Jonathan's Support"
     },
     {
       "pk": 20010023,
@@ -614,7 +617,8 @@
       "verse": 51,
       "text": "Alexander sent ambassadors to Ptolemy, king of Egypt, with this message:",
       "links": "",
-      "comment": "Alexander seeks even stronger alliances, drawing Egypt into the balance of power."
+      "comment": "Alexander seeks even stronger alliances, drawing Egypt into the balance of power.",
+      "sectionHeader": "Marriage Alliance Between Alexander and Ptolemy"
     },
     {
       "pk": 20010052,
@@ -782,7 +786,8 @@
       "verse": 65,
       "text": "The Philistines from Ashdod plotted to ambush Jonathan.",
       "links": "",
-      "comment": "The ancient hostility between Israel and the Philistines continues, echoing many Old Testament stories (cf. Judges 13–16)."
+      "comment": "The ancient hostility between Israel and the Philistines continues, echoing many Old Testament stories (cf. Judges 13–16).",
+      "sectionHeader": "Jonathan’s Victory over the Philistines"
     },
     {
       "pk": 20010066,
@@ -902,7 +907,8 @@
       "verse": 75,
       "text": "At that time, the king of Egypt assembled a large army like the sand on the seashore, with many ships, to claim the kingdom by cunning.",
       "links": "<a href='/AIV/1/22/17'>Gen 22:17</a>",
-      "comment": "Metaphorically, 'sand on the seashore' recalls God's promise to Abraham, but here shows the scale of human might."
+      "comment": "Metaphorically, 'sand on the seashore' recalls God's promise to Abraham, but here shows the scale of human might.",
+      "sectionHeader": "Downfall of Alexander and Rise of Antiochus"
     },
     {
       "pk": 20010076,
@@ -1073,5 +1079,37 @@
       "comment": "Jonathan’s success points to the importance of unity and faithful leadership. Ultimately, this foreshadows how Christ would draw all nations to Himself (cf. John 12:32), fulfilling the promise of a universal, holy Church, united under legitimate authority."
     }
   ],
-  "translatedAt": "2025-12-24T05:23:08.408Z"
+  "translatedAt": "2025-12-24T05:23:08.408Z",
+  "sections": [
+    {
+      "title": "Rival Kings Seek Jonathan's Alliance",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "Jonathan Appointed High Priest",
+      "startVerse": 15,
+      "endVerse": 21
+    },
+    {
+      "title": "Demetrius and Alexander Compete for Jonathan's Support",
+      "startVerse": 22,
+      "endVerse": 50
+    },
+    {
+      "title": "Marriage Alliance Between Alexander and Ptolemy",
+      "startVerse": 51,
+      "endVerse": 64
+    },
+    {
+      "title": "Jonathan’s Victory over the Philistines",
+      "startVerse": 65,
+      "endVerse": 74
+    },
+    {
+      "title": "Downfall of Alexander and Rise of Antiochus",
+      "startVerse": 75,
+      "endVerse": 89
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The LORD spoke to Moses, saying,",
       "links": "<a href='/AIV/4/16/36'>Num. 16:36</a>; <a href='/AIV/3/10/1'>Lev. 10:1</a>",
-      "comment": "This sets up a direct divine command, emphasizing the divine authority behind what's about to happen. In the broader biblical narrative, God regularly affirms His chosen leaders through clear signs. Compare also to Lev. 10:1-2, where unlawful priestly duties are punished by God."
+      "comment": "This sets up a direct divine command, emphasizing the divine authority behind what's about to happen. In the broader biblical narrative, God regularly affirms His chosen leaders through clear signs. Compare also to Lev. 10:1-2, where unlawful priestly duties are punished by God.",
+      "sectionHeader": "Aaron’s Rod Chosen"
     },
     {
       "pk": 4017002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "But the LORD said to Moses, \"Put back Aaron’s staff before the testimony, to be kept as a sign for the sons of rebellion, so that you may put an end to their grumbling against Me, and they do not die.\"",
       "links": "<a href='/AIV/4/17/5'>Num. 17:5</a>; <a href='/AIV/58/9/4'>Heb. 9:4</a>",
-      "comment": "The preserved staff serves as a perpetual memorial of God’s chosen leadership and a warning against rebellion. It is also referenced in Hebrews 9:4, showing its enduring significance for later generations. The perpetuity and visibility of physical signs is a recurring biblical theme, as is the idea of remembering God’s intervention through sacred objects."
+      "comment": "The preserved staff serves as a perpetual memorial of God’s chosen leadership and a warning against rebellion. It is also referenced in Hebrews 9:4, showing its enduring significance for later generations. The perpetuity and visibility of physical signs is a recurring biblical theme, as is the idea of remembering God’s intervention through sacred objects.",
+      "sectionHeader": "Aaron’s Rod Kept as a Sign"
     },
     {
       "pk": 4017011,
@@ -161,5 +163,17 @@
       "comment": "This fear expresses the need for proper mediation between God and man—a theme continuing into the New Testament, where Christ as High Priest provides the perfect mediation (<a href='/AIV/54/2/5'>1 Tim. 2:5</a>; <a href='/AIV/58/9/11-15'>Heb. 9:11-15</a>). The regulated order of approach to God is a major biblical principle."
     }
   ],
-  "translatedAt": "2025-12-24T01:40:32.738Z"
+  "translatedAt": "2025-12-24T01:40:32.738Z",
+  "sections": [
+    {
+      "title": "Aaron’s Rod Chosen",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "Aaron’s Rod Kept as a Sign",
+      "startVerse": 10,
+      "endVerse": 13
+    }
+  ]
 }

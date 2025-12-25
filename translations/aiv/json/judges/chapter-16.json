@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Samson went to Gaza, and there he saw a prostitute and went in to her.",
       "links": "<a href='/AIV/6/2/1'>Josh. 2:1</a>; <a href='/AIV/7/14/1'>Judg. 14:1</a>",
-      "comment": "Samson's visit to Gaza demonstrates his ongoing struggle with his vocation and temptations. The city of Gaza was a major Philistine city, indicating that Samson continued to risk himself among Israel’s enemies."
+      "comment": "Samson's visit to Gaza demonstrates his ongoing struggle with his vocation and temptations. The city of Gaza was a major Philistine city, indicating that Samson continued to risk himself among Israel’s enemies.",
+      "sectionHeader": "Samson Carries Off the Gates of Gaza"
     },
     {
       "pk": 7016002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "After this he loved a woman in the Valley of Sorek, whose name was Delilah.",
       "links": "<a href='/AIV/7/14/2'>Judg. 14:2</a>",
-      "comment": "Delilah, whom Samson loves, will lead to his downfall. The Valley of Sorek symbolized a border between Israel and the Philistines, highlighting the theme of crossing boundaries set by God for holiness."
+      "comment": "Delilah, whom Samson loves, will lead to his downfall. The Valley of Sorek symbolized a border between Israel and the Philistines, highlighting the theme of crossing boundaries set by God for holiness.",
+      "sectionHeader": "Samson and Delilah"
     },
     {
       "pk": 7016005,
@@ -230,7 +232,8 @@
       "verse": 19,
       "text": "She made him sleep on her knees. Then she called a man and had him shave off the seven locks of his head. Then she began to afflict him, and his strength left him.",
       "links": "<a href='/AIV/19/40/14'>Ps. 40:14</a>",
-      "comment": "Samson’s loss of strength follows deliberately breaking his consecration. Affliction follows apostasy, a powerful lesson in faithfulness and sacramental dedication."
+      "comment": "Samson’s loss of strength follows deliberately breaking his consecration. Affliction follows apostasy, a powerful lesson in faithfulness and sacramental dedication.",
+      "sectionHeader": "Samson’s Betrayal and Imprisonment"
     },
     {
       "pk": 7016020,
@@ -278,7 +281,8 @@
       "verse": 23,
       "text": "Now the lords of the Philistines gathered to offer a great sacrifice to Dagon their god, and to rejoice. They said, 'Our god has given Samson our enemy into our hand.'",
       "links": "<a href='/AIV/9/5/2-4'>1 Sam. 5:2-4</a>",
-      "comment": "The Philistines' idolatry is clear. Dagon, a false god, is briefly credited, but will soon be shown powerless. Compare the future account in 1 Samuel 5."
+      "comment": "The Philistines' idolatry is clear. Dagon, a false god, is briefly credited, but will soon be shown powerless. Compare the future account in 1 Samuel 5.",
+      "sectionHeader": "Samson’s Death and Victory Over the Philistines"
     },
     {
       "pk": 7016024,
@@ -377,5 +381,27 @@
       "comment": "Samson's burial by his family marks the completion of his vocation as judge and deliverer. The people's remembrance and proper honor given to him foreshadow the Christian practice of honoring those who have finished the race faithfully."
     }
   ],
-  "translatedAt": "2025-12-24T02:40:05.384Z"
+  "translatedAt": "2025-12-24T02:40:05.384Z",
+  "sections": [
+    {
+      "title": "Samson Carries Off the Gates of Gaza",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "Samson and Delilah",
+      "startVerse": 4,
+      "endVerse": 18
+    },
+    {
+      "title": "Samson’s Betrayal and Imprisonment",
+      "startVerse": 19,
+      "endVerse": 22
+    },
+    {
+      "title": "Samson’s Death and Victory Over the Philistines",
+      "startVerse": 23,
+      "endVerse": 31
+    }
+  ]
 }

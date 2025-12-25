@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "At that time, news reached Judith, daughter of Merari, son of Ox, son of Joseph, son of Ozel, son of Elai, son of Jamnor, son of Gideon, son of Raphael, son of Ahithub, son of Elijah, son of Hilkiah, son of Eliab, son of Nathanael, son of Salamiel, son of Sarasaddai, son of Israel.",
       "links": "<a href='/AIV/1/46/20'>Gen. 46:20</a>; <a href='/AIV/4/1/7'>Num. 1:7</a>",
-      "comment": "Judith’s genealogy is traced in detail, affirming her noble Jewish birth from a prominent lineage within Israel, which stresses the importance of tradition and inheritance, themes similarly reflected in the preservation of the faith and teachings throughout history."
+      "comment": "Judith’s genealogy is traced in detail, affirming her noble Jewish birth from a prominent lineage within Israel, which stresses the importance of tradition and inheritance, themes similarly reflected in the preservation of the faith and teachings throughout history.",
+      "sectionHeader": "Judith's Family and Widowhood"
     },
     {
       "pk": 18008002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "She heard what the people said—that the water supply had failed, and she learned that the people were rebelling against Uzziah and the rulers because of thirst.",
       "links": "<a href='/AIV/18/7/1-7'>Judith 7:1-7</a>; <a href='/AIV/4/20/2'>Num. 20:2</a>",
-      "comment": "The crisis of water scarcity recalls earlier biblical events (e.g., Exodus), where God's providence is contrasted with people's doubts."
+      "comment": "The crisis of water scarcity recalls earlier biblical events (e.g., Exodus), where God's providence is contrasted with people's doubts.",
+      "sectionHeader": "Judith Summons the Elders"
     },
     {
       "pk": 18008010,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "They came to her, and she said to them, 'Listen to me, rulers of the people of Bethulia! What you have said to the people today is not right; it will bring punishment.",
       "links": "<a href='/AIV/20/15/22'>Prov. 15:22</a>; <a href='/AIV/21/5/6'>Eccl. 5:6</a>",
-      "comment": "Judith rebukes the elders for their poor judgment, showing the importance of speaking truth even to those in authority."
+      "comment": "Judith rebukes the elders for their poor judgment, showing the importance of speaking truth even to those in authority.",
+      "sectionHeader": "Judith's Exhortation to Trust in God"
     },
     {
       "pk": 18008012,
@@ -386,7 +389,8 @@
       "verse": 32,
       "text": "Judith answered, 'Hear me. I will do something that will be remembered by generations of our people.",
       "links": "<a href='/AIV/18/13/16'>Judith 13:16</a>; <a href='/AIV/42/1/48'>Luke 1:48</a>",
-      "comment": "Her resolve to act recalls God working through humble servants, with echoes of Mary’s Magnificat ('all generations will call me blessed')."
+      "comment": "Her resolve to act recalls God working through humble servants, with echoes of Mary’s Magnificat ('all generations will call me blessed').",
+      "sectionHeader": "Judith's Resolve and the Elders' Blessing"
     },
     {
       "pk": 18008033,
@@ -437,5 +441,27 @@
       "comment": "This closing notes the readiness and submission of the elders to Judith’s faith-driven leadership, prefiguring how humble and obedient service can prepare the way for God’s deliverance."
     }
   ],
-  "translatedAt": "2025-12-24T05:03:47.494Z"
+  "translatedAt": "2025-12-24T05:03:47.494Z",
+  "sections": [
+    {
+      "title": "Judith's Family and Widowhood",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "Judith Summons the Elders",
+      "startVerse": 9,
+      "endVerse": 10
+    },
+    {
+      "title": "Judith's Exhortation to Trust in God",
+      "startVerse": 11,
+      "endVerse": 31
+    },
+    {
+      "title": "Judith's Resolve and the Elders' Blessing",
+      "startVerse": 32,
+      "endVerse": 36
+    }
+  ]
 }

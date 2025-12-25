@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "My God, my God, why have you forsaken me? Why are you so far from saving me, from the words of my groaning?",
       "links": "<a href='/AIV/40/27/46'>Matt. 27:46</a>; <a href='/AIV/41/15/34'>Mark 15:34</a>",
-      "comment": "These words are famously quoted by Jesus on the cross (see Matthew 27:46). This Psalm is a prophetic portrayal of suffering, reflecting both David’s distress and pointing to the suffering of the Messiah. The opening question expresses deep anguish but is steeped in faith, highlighting trust despite apparent abandonment."
+      "comment": "These words are famously quoted by Jesus on the cross (see Matthew 27:46). This Psalm is a prophetic portrayal of suffering, reflecting both David’s distress and pointing to the suffering of the Messiah. The opening question expresses deep anguish but is steeped in faith, highlighting trust despite apparent abandonment.",
+      "sectionHeader": "The Prayer of the Suffering Servant"
     },
     {
       "pk": 23022002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "But I am a worm and not a man, scorned by mankind and despised by the people.",
       "links": "<a href='/AIV/23/53/3'>Isaiah 53:3</a>",
-      "comment": "This depiction of deep humiliation and rejection closely mirrors the prophecies concerning the Suffering Servant (see Isaiah 53:3). It foreshadows the Messiah’s suffering, later fulfilled in Jesus."
+      "comment": "This depiction of deep humiliation and rejection closely mirrors the prophecies concerning the Suffering Servant (see Isaiah 53:3). It foreshadows the Messiah’s suffering, later fulfilled in Jesus.",
+      "sectionHeader": "Mockery and Torment of the Righteous"
     },
     {
       "pk": 23022007,
@@ -230,7 +232,8 @@
       "verse": 19,
       "text": "But you, O LORD, do not be far off! O my strength, come quickly to help me!",
       "links": "<a href='/AIV/19/35/2'>Ps. 35:2</a>",
-      "comment": "A turn toward prayer for deliverance, affirming God's nearness even when He seems distant. The request for help echoes our need for continual dependence on God’s grace."
+      "comment": "A turn toward prayer for deliverance, affirming God's nearness even when He seems distant. The request for help echoes our need for continual dependence on God’s grace.",
+      "sectionHeader": "Supplication for Deliverance"
     },
     {
       "pk": 23022020,
@@ -266,7 +269,8 @@
       "verse": 22,
       "text": "I will declare your name to my brothers; in the midst of the congregation I will praise you.",
       "links": "<a href='/AIV/58/2/12'>Heb. 2:12</a>",
-      "comment": "Quoting this verse, Hebrews applies it to Jesus—He proclaims God’s name among His brethren (Heb. 2:12). Public praise and communal worship are presented as central to life with God."
+      "comment": "Quoting this verse, Hebrews applies it to Jesus—He proclaims God’s name among His brethren (Heb. 2:12). Public praise and communal worship are presented as central to life with God.",
+      "sectionHeader": "Thanksgiving and Universal Praise"
     },
     {
       "pk": 23022023,
@@ -377,5 +381,27 @@
       "comment": "The Psalm ends with victorious proclamation—God’s saving work will be made known to all future generations. 'He has done it' echoes 'It is finished' (John 19:30), revealing Christ’s fulfillment of Scripture and the completion of God's plan of redemption."
     }
   ],
-  "translatedAt": "2025-12-24T06:06:06.792Z"
+  "translatedAt": "2025-12-24T06:06:06.792Z",
+  "sections": [
+    {
+      "title": "The Prayer of the Suffering Servant",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Mockery and Torment of the Righteous",
+      "startVerse": 6,
+      "endVerse": 18
+    },
+    {
+      "title": "Supplication for Deliverance",
+      "startVerse": 19,
+      "endVerse": 21
+    },
+    {
+      "title": "Thanksgiving and Universal Praise",
+      "startVerse": 22,
+      "endVerse": 31
+    }
+  ]
 }

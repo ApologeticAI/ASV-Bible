@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then Judith sang this song to the Lord: 'Begin a song to my God with tambourines, sing to the Lord with cymbals. Make melody to Him with psalms of praise. Exalt and call upon His name.'",
       "links": "<a href='/AIV/02/15/20'>Ex. 15:20</a>; <a href='/AIV/19/150/4'>Ps. 150:4</a>",
-      "comment": "Judith's song mimics the songs of Moses and Miriam in Exodus (Ex. 15), highlighting the tradition of celebrating God's deliverance through music. This echoes the liturgical use of hymns and instruments in worship found throughout Scripture."
+      "comment": "Judith's song mimics the songs of Moses and Miriam in Exodus (Ex. 15), highlighting the tradition of celebrating God's deliverance through music. This echoes the liturgical use of hymns and instruments in worship found throughout Scripture.",
+      "sectionHeader": "Judith’s Hymn of Praise"
     },
     {
       "pk": 18016002,
@@ -218,7 +219,8 @@
       "verse": 18,
       "text": "Now when they arrived at Jerusalem, they worshipped God. When all the people were purified, they offered their burnt offerings, freewill offerings, and gifts.",
       "links": "<a href='/AIV/03/16/30'>Lev. 16:30</a>",
-      "comment": "Worship and ritual purity are emphasized before sacrificial offerings, indicating the link between inner disposition and external worship, which echoes themes later found in the teaching on true worship (John 4:23)."
+      "comment": "Worship and ritual purity are emphasized before sacrificial offerings, indicating the link between inner disposition and external worship, which echoes themes later found in the teaching on true worship (John 4:23).",
+      "sectionHeader": "Thanksgiving at Jerusalem"
     },
     {
       "pk": 18016019,
@@ -254,7 +256,8 @@
       "verse": 21,
       "text": "She went back to Bethulia and remained on her estate. All her days she was greatly honored throughout the whole land.",
       "links": "<a href='/AIV/10/8/15'>2 Sam. 8:15</a>",
-      "comment": "Judith’s return and continued honor reflect the reward for those who faithfully serve God and His people, exemplifying that earthly and heavenly rewards await those who are righteous."
+      "comment": "Judith’s return and continued honor reflect the reward for those who faithfully serve God and His people, exemplifying that earthly and heavenly rewards await those who are righteous.",
+      "sectionHeader": "The Death and Legacy of Judith"
     },
     {
       "pk": 18016022,
@@ -305,5 +308,22 @@
       "comment": "The enduring commemoration of Judith’s deliverance mirrors the importance of sacred remembrance and tradition. Such celebrations keep alive the memory of God’s deeds and point to the unbroken continuity of faith down through generations, just as the Church continues to celebrate God’s saving works in liturgical life."
     }
   ],
-  "translatedAt": "2025-12-24T05:07:54.127Z"
+  "translatedAt": "2025-12-24T05:07:54.127Z",
+  "sections": [
+    {
+      "title": "Judith’s Hymn of Praise",
+      "startVerse": 1,
+      "endVerse": 17
+    },
+    {
+      "title": "Thanksgiving at Jerusalem",
+      "startVerse": 18,
+      "endVerse": 20
+    },
+    {
+      "title": "The Death and Legacy of Judith",
+      "startVerse": 21,
+      "endVerse": 25
+    }
+  ]
 }

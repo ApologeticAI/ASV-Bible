@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Be careful to follow every command that I am commanding you today, so that you may live and multiply, and go in and possess the land that the LORD swore to your fathers.",
       "links": "<a href='/AIV/5/6/24'>Deut. 6:24</a>; <a href='/AIV/1/15/18'>Gen. 15:18</a>",
-      "comment": "Obedience to God's commands is seen as the path to true life and blessing. There is an emphasis on continuity with the faith of the patriarchs, highlighting God's faithfulness to His promises. The call to follow 'every command' foreshadows the later importance placed on both faith and works in entering God's promises (cf. Jas. 2:17-24)."
+      "comment": "Obedience to God's commands is seen as the path to true life and blessing. There is an emphasis on continuity with the faith of the patriarchs, highlighting God's faithfulness to His promises. The call to follow 'every command' foreshadows the later importance placed on both faith and works in entering God's promises (cf. Jas. 2:17-24).",
+      "sectionHeader": "Remembering the Lord’s Providence in the Wilderness"
     },
     {
       "pk": 5008002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "For the LORD your God is bringing you into a good land, a land of brooks of water, of fountains and springs, flowing out in valleys and hills,",
       "links": "<a href='/AIV/2/3/8'>Exod. 3:8</a>; <a href='/AIV/19/65/9-13'>Ps. 65:9-13</a>",
-      "comment": "The Promised Land is described as a place of abundance and blessing, a foreshadowing of the eternal inheritance prepared for the faithful."
+      "comment": "The Promised Land is described as a place of abundance and blessing, a foreshadowing of the eternal inheritance prepared for the faithful.",
+      "sectionHeader": "A Good Land Promised"
     },
     {
       "pk": 5008008,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "Take care that you do not forget the LORD your God by failing to keep His commands, His judgments, and His statutes, which I am commanding you today.",
       "links": "<a href='/AIV/5/6/12'>Deut. 6:12</a>; <a href='/AIV/19/103/2'>Ps. 103:2</a>",
-      "comment": "Forgetting God occurs when obedience wanes. Faithfulness in observing God's teachings is tied to recalling His works. Remembrance is central to worship practices throughout salvation history."
+      "comment": "Forgetting God occurs when obedience wanes. Faithfulness in observing God's teachings is tied to recalling His works. Remembrance is central to worship practices throughout salvation history.",
+      "sectionHeader": "Warning Against Forgetting the Lord"
     },
     {
       "pk": 5008012,
@@ -245,5 +248,22 @@
       "comment": "God's discipline demonstrates both justice and mercy. Obedience brings life and blessing, while disobedience leads to loss, emphasizing the need to listen and respond to God's revealed will."
     }
   ],
-  "translatedAt": "2025-12-24T02:01:24.376Z"
+  "translatedAt": "2025-12-24T02:01:24.376Z",
+  "sections": [
+    {
+      "title": "Remembering the Lord’s Providence in the Wilderness",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "A Good Land Promised",
+      "startVerse": 7,
+      "endVerse": 10
+    },
+    {
+      "title": "Warning Against Forgetting the Lord",
+      "startVerse": 11,
+      "endVerse": 20
+    }
+  ]
 }

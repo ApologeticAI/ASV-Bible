@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Jesus departed from there and went to His hometown, and His disciples followed Him.",
       "links": "<a href='/AIV/40/13/53'>Matt. 13:53</a>; <a href='/AIV/42/4/16'>Luke 4:16</a>",
-      "comment": "Jesus returns to Nazareth, highlighting the pattern of prophetic rejection in one's own hometown. See Isaiah 61:1 where the Messiah comes to His own people."
+      "comment": "Jesus returns to Nazareth, highlighting the pattern of prophetic rejection in one's own hometown. See Isaiah 61:1 where the Messiah comes to His own people.",
+      "sectionHeader": "Jesus Rejected at Nazareth"
     },
     {
       "pk": 48006002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "He called the twelve and began to send them out two by two, giving them authority over unclean spirits.",
       "links": "<a href='/AIV/40/10/1'>Matt. 10:1</a>; <a href='/AIV/42/9/1-2'>Luke 9:1-2</a>",
-      "comment": "Jesus delegates authority to His apostles, establishing an order of leadership for the mission. The pattern of sending in pairs hints at the importance of unity and witness (see Deuteronomy 17:6; Ecclesiastes 4:9-12)."
+      "comment": "Jesus delegates authority to His apostles, establishing an order of leadership for the mission. The pattern of sending in pairs hints at the importance of unity and witness (see Deuteronomy 17:6; Ecclesiastes 4:9-12).",
+      "sectionHeader": "The Mission of the Twelve"
     },
     {
       "pk": 48006008,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "King Herod heard about this, for Jesus' name had become well known. People were saying, 'John the Baptist has been raised from the dead! That is why miraculous powers are at work in Him.'",
       "links": "<a href='/AIV/40/14/1'>Matt. 14:1-2</a>; <a href='/AIV/42/9/7-8'>Luke 9:7-8</a>",
-      "comment": "Rumors about the identity of Jesus spread. The association with John the Baptist highlights prophetic succession and preparation for the Messiah."
+      "comment": "Rumors about the identity of Jesus spread. The association with John the Baptist highlights prophetic succession and preparation for the Messiah.",
+      "sectionHeader": "The Death of John the Baptist"
     },
     {
       "pk": 48006015,
@@ -362,7 +365,8 @@
       "verse": 30,
       "text": "The apostles returned to Jesus and reported to Him all that they had done and taught.",
       "links": "<a href='/AIV/42/9/10'>Luke 9:10</a>",
-      "comment": "The apostles are accountable to Jesus, the head of their mission. This community accountability is a precedent for the visible, structured leadership in the Church."
+      "comment": "The apostles are accountable to Jesus, the head of their mission. This community accountability is a precedent for the visible, structured leadership in the Church.",
+      "sectionHeader": "The Feeding of the Five Thousand"
     },
     {
       "pk": 48006031,
@@ -542,7 +546,8 @@
       "verse": 45,
       "text": "Immediately He made His disciples get into the boat and go ahead of Him to Bethsaida, while He dismissed the crowd.",
       "links": "<a href='/AIV/40/14/22'>Matt. 14:22</a>; <a href='/AIV/43/6/15-17'>John 6:15-17</a>",
-      "comment": "Jesus remains behind to dismiss the crowds, demonstrating His authority and servant leadership."
+      "comment": "Jesus remains behind to dismiss the crowds, demonstrating His authority and servant leadership.",
+      "sectionHeader": "Jesus Walks on the Sea"
     },
     {
       "pk": 48006046,
@@ -638,7 +643,8 @@
       "verse": 53,
       "text": "When they had crossed over, they came to land at Gennesaret and anchored there.",
       "links": "<a href='/AIV/40/14/34'>Matt. 14:34</a>",
-      "comment": "The journey continues to regions hungry for Christ’s ministry."
+      "comment": "The journey continues to regions hungry for Christ’s ministry.",
+      "sectionHeader": "Healings at Gennesaret"
     },
     {
       "pk": 48006054,
@@ -677,5 +683,37 @@
       "comment": "Touching the fringe of Jesus' garment (see Numbers 15:38–39) reflects faith in His person. Healing flows from Christ through visible means, illustrating how God uses material things to convey His power and grace."
     }
   ],
-  "translatedAt": "2025-12-24T10:26:35.247Z"
+  "translatedAt": "2025-12-24T10:26:35.247Z",
+  "sections": [
+    {
+      "title": "Jesus Rejected at Nazareth",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "The Mission of the Twelve",
+      "startVerse": 7,
+      "endVerse": 13
+    },
+    {
+      "title": "The Death of John the Baptist",
+      "startVerse": 14,
+      "endVerse": 29
+    },
+    {
+      "title": "The Feeding of the Five Thousand",
+      "startVerse": 30,
+      "endVerse": 44
+    },
+    {
+      "title": "Jesus Walks on the Sea",
+      "startVerse": 45,
+      "endVerse": 52
+    },
+    {
+      "title": "Healings at Gennesaret",
+      "startVerse": 53,
+      "endVerse": 56
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now Joab son of Zeruiah perceived that the king’s heart longed for Absalom.",
       "links": "<a href='/AIV/10/13/39'>2Sam 13:39</a>",
-      "comment": "Joab, David’s military commander, noticed David’s deep yearning for his estranged son Absalom. This sets the groundwork for reconciliation, which foreshadows the role of intermediaries in reconciling people with God."
+      "comment": "Joab, David’s military commander, noticed David’s deep yearning for his estranged son Absalom. This sets the groundwork for reconciliation, which foreshadows the role of intermediaries in reconciling people with God.",
+      "sectionHeader": "The Wise Woman of Tekoa Pleads for Absalom"
     },
     {
       "pk": 10014002,
@@ -254,7 +255,8 @@
       "verse": 21,
       "text": "The king said to Joab, 'Very well, I grant this request. Go, bring back the young man Absalom.'",
       "links": "",
-      "comment": "David grants pardon and restoration, modeling forgiveness and reconciliation—key aspects in the sacramental life."
+      "comment": "David grants pardon and restoration, modeling forgiveness and reconciliation—key aspects in the sacramental life.",
+      "sectionHeader": "David Permits Absalom's Return"
     },
     {
       "pk": 10014022,
@@ -302,7 +304,8 @@
       "verse": 25,
       "text": "Now in all Israel there was no one so highly praised for his appearance as Absalom, from the sole of his foot to the crown of his head there was no blemish in him.",
       "links": "<a href='/AIV/09/09/2'>1Sam 9:2</a>",
-      "comment": "Absalom’s physical perfection draws a connection to Saul and models ‘outward appearances’—a warning that spiritual beauty should outweigh the exterior."
+      "comment": "Absalom’s physical perfection draws a connection to Saul and models ‘outward appearances’—a warning that spiritual beauty should outweigh the exterior.",
+      "sectionHeader": "Absalom in Jerusalem"
     },
     {
       "pk": 10014026,
@@ -398,8 +401,31 @@
       "verse": 33,
       "text": "So Joab went to the king and told him. Then he called for Absalom, and he came to the king and bowed himself on his face to the ground before the king. Then the king kissed Absalom.",
       "links": "<a href='/AIV/01/33/4'>Gen 33:4</a>, <a href='/AIV/42/15/20'>Luke 15:20</a>",
-      "comment": "The king’s kiss is the sign of full restoration, echoing Jacob and Esau’s reconciliation and the prodigal son (Luke 15:20). It foreshadows the peace and restoration God wishes to grant all His children through mercy and sacramental reconciliation."
+      "comment": "The king’s kiss is the sign of full restoration, echoing Jacob and Esau’s reconciliation and the prodigal son (Luke 15:20). It foreshadows the peace and restoration God wishes to grant all His children through mercy and sacramental reconciliation.",
+      "sectionHeader": "Absalom Reconciled to David"
     }
   ],
-  "translatedAt": "2025-12-24T03:18:57.371Z"
+  "translatedAt": "2025-12-24T03:18:57.371Z",
+  "sections": [
+    {
+      "title": "The Wise Woman of Tekoa Pleads for Absalom",
+      "startVerse": 1,
+      "endVerse": 20
+    },
+    {
+      "title": "David Permits Absalom's Return",
+      "startVerse": 21,
+      "endVerse": 24
+    },
+    {
+      "title": "Absalom in Jerusalem",
+      "startVerse": 25,
+      "endVerse": 32
+    },
+    {
+      "title": "Absalom Reconciled to David",
+      "startVerse": 33,
+      "endVerse": 33
+    }
+  ]
 }

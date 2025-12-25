@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Hear this word that I take up over you in lamentation, O house of Israel:",
       "links": "<a href='/AIV/31/1/1'>Obad. 1:1</a>; <a href='/AIV/24/9/10'>Jer. 9:10</a>",
-      "comment": "Amos begins this section with a prophetic lamentation, signaling the seriousness of Israel’s condition, echoing prophetic traditions of mourning over the people (cf. Jeremiah 9)."
+      "comment": "Amos begins this section with a prophetic lamentation, signaling the seriousness of Israel’s condition, echoing prophetic traditions of mourning over the people (cf. Jeremiah 9).",
+      "sectionHeader": "A Lament for Israel"
     },
     {
       "pk": 37005002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "For thus says the LORD to the house of Israel: \"Seek me and live;\"",
       "links": "<a href='/AIV/29/2/12'>Joel 2:12</a>; <a href='/AIV/23/55/6'>Isa. 55:6</a>",
-      "comment": "God’s invitation is gracious—life is found in truly seeking Him, not just in ritual observance, anticipating later teachings of conversion of heart (Joel 2:12; Isa. 55:6)."
+      "comment": "God’s invitation is gracious—life is found in truly seeking Him, not just in ritual observance, anticipating later teachings of conversion of heart (Joel 2:12; Isa. 55:6).",
+      "sectionHeader": "A Call to Seek the Lord and Do Justice"
     },
     {
       "pk": 37005005,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "Therefore thus says the LORD, the God of hosts, the Lord: \"In all the squares there shall be wailing, and in all the streets they shall say, 'Alas! Alas!' They shall call the farmers to mourning and to wailing those skilled in lamentation.\"",
       "links": "<a href='/AIV/24/9/17'>Jer. 9:17</a>; <a href='/AIV/29/1/13'>Joel 1:13</a>",
-      "comment": "The universal mourning described shows the scope of coming judgment; inviting even farmers and professionals in lamentation. The need for both exterior and interior expressions of repentance is emphasized."
+      "comment": "The universal mourning described shows the scope of coming judgment; inviting even farmers and professionals in lamentation. The need for both exterior and interior expressions of repentance is emphasized.",
+      "sectionHeader": "Impending Mourning and Judgment"
     },
     {
       "pk": 37005017,
@@ -218,7 +221,8 @@
       "verse": 18,
       "text": "Woe to you who desire the day of the LORD! Why would you have the day of the LORD? It is darkness, and not light;",
       "links": "<a href='/AIV/29/2/1-2'>Joel 2:1-2</a>; <a href='/AIV/23/13/9'>Isa. 13:9</a>",
-      "comment": "The Day of the LORD is not automatically favorable for all—mere association with God’s people does not guarantee blessing. This foreshadows Christian warnings about presumption versus true faith (cf. Matthew 7:21-23)."
+      "comment": "The Day of the LORD is not automatically favorable for all—mere association with God’s people does not guarantee blessing. This foreshadows Christian warnings about presumption versus true faith (cf. Matthew 7:21-23).",
+      "sectionHeader": "Woe to Those Who Desire the Day of the Lord"
     },
     {
       "pk": 37005019,
@@ -254,7 +258,8 @@
       "verse": 21,
       "text": "\"I hate, I despise your feasts, and I take no delight in your solemn assemblies.\"",
       "links": "<a href='/AIV/23/1/13-14'>Isa. 1:13-14</a>",
-      "comment": "God rejects mere ritual without heart conversion. Sacrifice and worship must be joined to justice and faith (see also Isaiah 1, Matthew 9:13)."
+      "comment": "God rejects mere ritual without heart conversion. Sacrifice and worship must be joined to justice and faith (see also Isaiah 1, Matthew 9:13).",
+      "sectionHeader": "Rejection of Empty Worship and Exile Announced"
     },
     {
       "pk": 37005022,
@@ -329,5 +334,32 @@
       "comment": "The prophecy of exile is fulfilled with the Assyrian captivity (2 Kings 17). Yet exile is not the end of the story—God continues to work through a remnant, preparing the way for a restored people and ultimately the coming of Christ."
     }
   ],
-  "translatedAt": "2025-12-24T09:43:31.402Z"
+  "translatedAt": "2025-12-24T09:43:31.402Z",
+  "sections": [
+    {
+      "title": "A Lament for Israel",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "A Call to Seek the Lord and Do Justice",
+      "startVerse": 4,
+      "endVerse": 15
+    },
+    {
+      "title": "Impending Mourning and Judgment",
+      "startVerse": 16,
+      "endVerse": 17
+    },
+    {
+      "title": "Woe to Those Who Desire the Day of the Lord",
+      "startVerse": 18,
+      "endVerse": 20
+    },
+    {
+      "title": "Rejection of Empty Worship and Exile Announced",
+      "startVerse": 21,
+      "endVerse": 27
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Let us now praise outstanding men, our ancestors in their generations.",
       "links": "<a href='/AIV/19/78/2-8'>Ps. 78:2-8</a>; <a href='/AIV/58/11/32'>Heb. 11:32</a>",
-      "comment": "Sirach begins a section honoring the forefathers, establishing the biblical tradition of remembrance of the righteous. This lays groundwork for thinking about communion with those who have gone before, which is also seen in Hebrews 11."
+      "comment": "Sirach begins a section honoring the forefathers, establishing the biblical tradition of remembrance of the righteous. This lays groundwork for thinking about communion with those who have gone before, which is also seen in Hebrews 11.",
+      "sectionHeader": "Praise of the Ancestors"
     },
     {
       "pk": 28044002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "Yet these men were compassionate, whose righteous deeds have not been forgotten.",
       "links": "<a href='/AIV/19/112/9'>Ps. 112:9</a>",
-      "comment": "The deeds of the righteous have eternal significance. This underlines the scriptural theme of merit and reward for charity and goodness."
+      "comment": "The deeds of the righteous have eternal significance. This underlines the scriptural theme of merit and reward for charity and goodness.",
+      "sectionHeader": "Notable Men of Righteousness"
     },
     {
       "pk": 28044011,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "Enoch pleased the Lord and was taken up, an example of repentance to all generations.",
       "links": "<a href='/AIV/01/5/24'>Gen. 5:24</a>; <a href='/AIV/58/11/5'>Heb. 11:5</a>",
-      "comment": "Enoch’s taken up prefigures bodily assumption and demonstrates both the value of repentance and the extraordinary favor God bestows on the righteous. His example anticipates participation in heavenly glory, a theme developed in Christian theology."
+      "comment": "Enoch’s taken up prefigures bodily assumption and demonstrates both the value of repentance and the extraordinary favor God bestows on the righteous. His example anticipates participation in heavenly glory, a theme developed in Christian theology.",
+      "sectionHeader": "Praise of the Patriarchs: Enoch, Noah, Abraham, Isaac, and Jacob"
     },
     {
       "pk": 28044015,
@@ -266,7 +269,8 @@
       "verse": 22,
       "text": "Out of him came a man of mercy who found favor in the sight of all living—Moses, beloved of God and men.",
       "links": "<a href='/AIV/02/2/2'>Exod. 2:2</a>; <a href='/AIV/58/3/1-6'>Heb. 3:1-6</a>",
-      "comment": "Moses as a mediator between God and His people is a type of Christ, who is the ultimate mediator and priest (cf. Heb. 3)."
+      "comment": "Moses as a mediator between God and His people is a type of Christ, who is the ultimate mediator and priest (cf. Heb. 3).",
+      "sectionHeader": "The Election of Moses"
     },
     {
       "pk": 28044023,
@@ -281,5 +285,27 @@
       "comment": "The giving of the Law and Moses’ vision of God’s glory prefigure Christ’s Transfiguration, where the full glory of God is revealed in Christ. Moses’ honor points to the reality of continued divine revelation, handed down through a divinely appointed order."
     }
   ],
-  "translatedAt": "2025-12-24T07:47:32.698Z"
+  "translatedAt": "2025-12-24T07:47:32.698Z",
+  "sections": [
+    {
+      "title": "Praise of the Ancestors",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "Notable Men of Righteousness",
+      "startVerse": 10,
+      "endVerse": 13
+    },
+    {
+      "title": "Praise of the Patriarchs: Enoch, Noah, Abraham, Isaac, and Jacob",
+      "startVerse": 14,
+      "endVerse": 21
+    },
+    {
+      "title": "The Election of Moses",
+      "startVerse": 22,
+      "endVerse": 23
+    }
+  ]
 }

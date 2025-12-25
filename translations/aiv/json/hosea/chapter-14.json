@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Return, Israel, to the LORD your God, for you have stumbled because of your sins.",
       "links": "<a href='/AIV/23/59/2'>Isaiah 59:2</a>; <a href='/AIV/19/32/5'>Psalm 32:5</a>",
-      "comment": "Hosea calls the people to repentance, recognizing separation from God is caused by their own sins. Similar calls to return to God fill the Old Testament, forming a basis for both individual and communal repentance. The idea of collective return foreshadows New Testament teaching on the Church as the Body of Christ, united in reconciliation and forgiveness (see <a href='/AIV/46/5/18'>2 Corinthians 5:18</a>)."
+      "comment": "Hosea calls the people to repentance, recognizing separation from God is caused by their own sins. Similar calls to return to God fill the Old Testament, forming a basis for both individual and communal repentance. The idea of collective return foreshadows New Testament teaching on the Church as the Body of Christ, united in reconciliation and forgiveness (see <a href='/AIV/46/5/18'>2 Corinthians 5:18</a>).",
+      "sectionHeader": "Call to Repentance and Confession"
     },
     {
       "pk": 35014002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "I will heal their apostasy. I will love them freely, for My anger has turned away from them.",
       "links": "<a href='/AIV/24/3/22'>Jeremiah 3:22</a>; <a href='/AIV/19/30/5'>Psalm 30:5</a>",
-      "comment": "God promises healing and unconditional love after repentance. This foreshadows the fuller revelation of God's forgiveness through Christ, who reconciles sinners (see <a href='/AIV/45/5/8'>Romans 5:8</a>). Divine initiative in restoration reflects deep mercy and points to a continual invitation to return."
+      "comment": "God promises healing and unconditional love after repentance. This foreshadows the fuller revelation of God's forgiveness through Christ, who reconciles sinners (see <a href='/AIV/45/5/8'>Romans 5:8</a>). Divine initiative in restoration reflects deep mercy and points to a continual invitation to return.",
+      "sectionHeader": "Promise of Restoration and Blessing"
     },
     {
       "pk": 35014005,
@@ -110,8 +112,26 @@
       "verse": 9,
       "text": "Who is wise? Let him understand these things. Who is discerning? Let him know them. For the ways of the LORD are right, and the righteous walk in them, but transgressors stumble in them.",
       "links": "<a href='/AIV/19/107/43'>Psalm 107:43</a>; <a href='/AIV/40/7/13-14'>Matthew 7:13-14</a>",
-      "comment": "The closing verse calls for wisdom and spiritual understanding, echoing biblical exhortations to seek truth and walk in righteousness. It underscores that God’s ways are both a path to life and a stumbling block to the rebellious, compelling all believers to humility, obedience, and ongoing conversion of heart."
+      "comment": "The closing verse calls for wisdom and spiritual understanding, echoing biblical exhortations to seek truth and walk in righteousness. It underscores that God’s ways are both a path to life and a stumbling block to the rebellious, compelling all believers to humility, obedience, and ongoing conversion of heart.",
+      "sectionHeader": "The Way of the Lord: Wisdom’s Invitation"
     }
   ],
-  "translatedAt": "2025-12-24T09:39:52.371Z"
+  "translatedAt": "2025-12-24T09:39:52.371Z",
+  "sections": [
+    {
+      "title": "Call to Repentance and Confession",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "Promise of Restoration and Blessing",
+      "startVerse": 4,
+      "endVerse": 8
+    },
+    {
+      "title": "The Way of the Lord: Wisdom’s Invitation",
+      "startVerse": 9,
+      "endVerse": 9
+    }
+  ]
 }

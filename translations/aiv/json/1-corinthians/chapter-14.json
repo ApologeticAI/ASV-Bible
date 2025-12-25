@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Pursue love and eagerly desire spiritual gifts, especially that you may prophesy.",
       "links": "<a href='/AIV/46/12/31'>1Cor 12:31</a>; <a href='/AIV/46/13/1'>1Cor 13:1</a>",
-      "comment": "Paul exhorts the Corinthians to seek love first, highlighting prophecy above other gifts for the edification of the Church. The preference for prophecy in communal worship points to an ordered ministry."
+      "comment": "Paul exhorts the Corinthians to seek love first, highlighting prophecy above other gifts for the edification of the Church. The preference for prophecy in communal worship points to an ordered ministry.",
+      "sectionHeader": "Prophecy and Tongues"
     },
     {
       "pk": 53014002,
@@ -314,7 +315,8 @@
       "verse": 26,
       "text": "What should be done then, brothers? When you come together, each one has a hymn, a teaching, a revelation, a tongue, or an interpretation. Let all things be done for building up.",
       "links": "<a href='/AIV/51/3/16'>Col 3:16</a>",
-      "comment": "Paul describes a liturgical gathering, with varied roles and gifts, all intended for communal edification—a template for ordered worship."
+      "comment": "Paul describes a liturgical gathering, with varied roles and gifts, all intended for communal edification—a template for ordered worship.",
+      "sectionHeader": "Order in Worship"
     },
     {
       "pk": 53014027,
@@ -410,7 +412,8 @@
       "verse": 34,
       "text": "Let your women be silent in the churches, for they are not permitted to speak but are to be submissive, just as the Law also says.",
       "links": "<a href='/AIV/54/2/11-12'>1Tim 2:11-12</a>; <a href='/AIV/01/3/16'>Gen 3:16</a>",
-      "comment": "Paul references the Law and apostolic tradition regarding roles in worship. The principle here is one of reverence and proper order, which developed into structured liturgical practice."
+      "comment": "Paul references the Law and apostolic tradition regarding roles in worship. The principle here is one of reverence and proper order, which developed into structured liturgical practice.",
+      "sectionHeader": "Women in the Assembly"
     },
     {
       "pk": 53014035,
@@ -434,7 +437,8 @@
       "verse": 36,
       "text": "Or was it from you that the word of God came? Or are you the only ones it has reached?",
       "links": "<a href='/AIV/46/11/16'>1Cor 11:16</a>",
-      "comment": "Paul reminds the Corinthians that they are not the source of revelation; the faith is received through apostolic transmission. This hints at the importance of established tradition."
+      "comment": "Paul reminds the Corinthians that they are not the source of revelation; the faith is received through apostolic transmission. This hints at the importance of established tradition.",
+      "sectionHeader": "Concluding Exhortations"
     },
     {
       "pk": 53014037,
@@ -485,5 +489,27 @@
       "comment": "Paul’s final instruction summarizes the chapter, affirming order and discipline as essential elements in communal worship, which became a hallmark of apostolic heritage."
     }
   ],
-  "translatedAt": "2025-12-24T11:50:58.854Z"
+  "translatedAt": "2025-12-24T11:50:58.854Z",
+  "sections": [
+    {
+      "title": "Prophecy and Tongues",
+      "startVerse": 1,
+      "endVerse": 25
+    },
+    {
+      "title": "Order in Worship",
+      "startVerse": 26,
+      "endVerse": 33
+    },
+    {
+      "title": "Women in the Assembly",
+      "startVerse": 34,
+      "endVerse": 35
+    },
+    {
+      "title": "Concluding Exhortations",
+      "startVerse": 36,
+      "endVerse": 40
+    }
+  ]
 }

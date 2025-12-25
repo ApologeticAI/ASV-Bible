@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In the first year of Darius son of Ahasuerus, by descent a Mede, who was made king over the realm of the Chaldeans,",
       "links": "<a href='/AIV/27/5/31'>Dan. 5:31</a>; <a href='/AIV/15/4/5'>Ezra 4:5</a>",
-      "comment": "Daniel provides a historical setting—that Darius the Mede ruled Babylon. This context ties the vision to a critical moment for God's people in exile."
+      "comment": "Daniel provides a historical setting—that Darius the Mede ruled Babylon. This context ties the vision to a critical moment for God's people in exile.",
+      "sectionHeader": "Daniel's Prayer for the Restoration of Jerusalem"
     },
     {
       "pk": 34009002,
@@ -242,7 +243,8 @@
       "verse": 20,
       "text": "While I was speaking, praying, and confessing my sin and the sin of my people Israel, and presenting my plea before the LORD my God for the holy mountain of my God,",
       "links": "<a href='/AIV/19/79/1'>Ps. 79:1</a>",
-      "comment": "Daniel’s ongoing intercession involves personal and communal repentance—a reminder of the important link between the prayers of the faithful and God’s saving action."
+      "comment": "Daniel’s ongoing intercession involves personal and communal repentance—a reminder of the important link between the prayers of the faithful and God’s saving action.",
+      "sectionHeader": "Gabriel Reveals the Prophecy of the Seventy Weeks"
     },
     {
       "pk": 34009021,
@@ -329,5 +331,17 @@
       "comment": "The strong covenant with many is interpreted spiritually as Christ’s new and everlasting covenant, which brings the true end to sacrifice and establishes a perpetual worship. The desolations prophesy future tribulations but also the ultimate triumph of God’s kingdom through His consecrated community."
     }
   ],
-  "translatedAt": "2025-12-24T09:32:59.916Z"
+  "translatedAt": "2025-12-24T09:32:59.916Z",
+  "sections": [
+    {
+      "title": "Daniel's Prayer for the Restoration of Jerusalem",
+      "startVerse": 1,
+      "endVerse": 19
+    },
+    {
+      "title": "Gabriel Reveals the Prophecy of the Seventy Weeks",
+      "startVerse": 20,
+      "endVerse": 27
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Afterward, Job opened his mouth and cursed the day of his birth.",
       "links": "<a href='/AIV/18/1/22'>Job 1:22</a>; <a href='/AIV/24/20/14'>Jer. 20:14</a>",
-      "comment": "This marks a pivotal shift in Job's attitude; previously he refrained from blaming God, now intense personal lament begins. The idea of cursing one's birthday is echoed in Jeremiah 20:14."
+      "comment": "This marks a pivotal shift in Job's attitude; previously he refrained from blaming God, now intense personal lament begins. The idea of cursing one's birthday is echoed in Jeremiah 20:14.",
+      "sectionHeader": "Job Curses the Day of His Birth"
     },
     {
       "pk": 22003002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "\"Why did I not die from the womb? Why did I not perish when I came out of the belly?\"",
       "links": "<a href='/AIV/18/10/18-19'>Job 10:18-19</a>; <a href='/AIV/19/22/9-10'>Ps. 22:9-10</a>",
-      "comment": "Job questions the purpose of his existence; it echoes the broader human condition and ancient questions about suffering and divine providence."
+      "comment": "Job questions the purpose of his existence; it echoes the broader human condition and ancient questions about suffering and divine providence.",
+      "sectionHeader": "The Desire for Death and Rest"
     },
     {
       "pk": 22003012,
@@ -242,7 +244,8 @@
       "verse": 20,
       "text": "\"Why is light given to him who is in misery, and life to the bitter in soul,\"",
       "links": "<a href='/AIV/18/10/18'>Job 10:18</a>",
-      "comment": "Rhetorical questioning points to the mystery of suffering and why God allows light and life amid pain."
+      "comment": "Rhetorical questioning points to the mystery of suffering and why God allows light and life amid pain.",
+      "sectionHeader": "The Question of Suffering"
     },
     {
       "pk": 22003021,
@@ -317,5 +320,22 @@
       "comment": "Job ends this lament with total desolation, foreshadowing the suffering servant motif (cf. Isa. 53), later fulfilled in Christ, whose own agony brings ultimate redemption for every troubled soul."
     }
   ],
-  "translatedAt": "2025-12-24T05:40:36.928Z"
+  "translatedAt": "2025-12-24T05:40:36.928Z",
+  "sections": [
+    {
+      "title": "Job Curses the Day of His Birth",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "The Desire for Death and Rest",
+      "startVerse": 11,
+      "endVerse": 19
+    },
+    {
+      "title": "The Question of Suffering",
+      "startVerse": 20,
+      "endVerse": 26
+    }
+  ]
 }

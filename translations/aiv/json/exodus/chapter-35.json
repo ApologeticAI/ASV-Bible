@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Moses assembled all the congregation of the people of Israel and said to them, \"These are the words that the LORD has commanded you to do:",
       "links": "<a href='/AIV/2/34/32'>Exod 34:32</a>; <a href='/AIV/3/8/3'>Lev 8:3</a>",
-      "comment": "Moses gathers all Israel for instruction. This recalls the pattern of communal worship and the solemnity of the covenant (Exod 19:7-8)."
+      "comment": "Moses gathers all Israel for instruction. This recalls the pattern of communal worship and the solemnity of the covenant (Exod 19:7-8).",
+      "sectionHeader": "Sabbath Regulations"
     },
     {
       "pk": 2035002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "Moses spoke to all the congregation of the people of Israel, saying, \"This is the thing which the LORD has commanded:",
       "links": "<a href='/AIV/2/25/1-2'>Exod 25:1-2</a>",
-      "comment": "Moses here shifts focus from Sabbath to instructions for offerings for the tabernacle—ritual and worship are always closely linked in Hebrew tradition and point forward to the Church's practice."
+      "comment": "Moses here shifts focus from Sabbath to instructions for offerings for the tabernacle—ritual and worship are always closely linked in Hebrew tradition and point forward to the Church's practice.",
+      "sectionHeader": "Freewill Offerings for the Tabernacle"
     },
     {
       "pk": 2035005,
@@ -242,7 +244,8 @@
       "verse": 20,
       "text": "Then all the congregation of the people of Israel departed from the presence of Moses.",
       "links": "<a href='/AIV/2/34/32'>Exod 34:32</a>",
-      "comment": "The people respond to God’s word. This rhythmic pattern of proclamation and response underlies all authentic worship."
+      "comment": "The people respond to God’s word. This rhythmic pattern of proclamation and response underlies all authentic worship.",
+      "sectionHeader": "The People Bring Their Gifts"
     },
     {
       "pk": 2035021,
@@ -362,7 +365,8 @@
       "verse": 30,
       "text": "Then Moses said to the people of Israel, \"See, the LORD has called by name Bezalel the son of Uri, son of Hur, of the tribe of Judah;",
       "links": "<a href='/AIV/2/31/2'>Exod 31:2</a>",
-      "comment": "God personally calls Bezalel, showing that vocations come from the divine will—God appoints whom He chooses for sacred work."
+      "comment": "God personally calls Bezalel, showing that vocations come from the divine will—God appoints whom He chooses for sacred work.",
+      "sectionHeader": "Bezalel and Oholiab Appointed"
     },
     {
       "pk": 2035031,
@@ -425,5 +429,27 @@
       "comment": "This summary emphasizes that God equips his people for every work needed in His worship, foreshadowing the diversity and unity of ministries in the Church (Eph 4:11-13)."
     }
   ],
-  "translatedAt": "2025-12-24T01:06:25.507Z"
+  "translatedAt": "2025-12-24T01:06:25.507Z",
+  "sections": [
+    {
+      "title": "Sabbath Regulations",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "Freewill Offerings for the Tabernacle",
+      "startVerse": 4,
+      "endVerse": 19
+    },
+    {
+      "title": "The People Bring Their Gifts",
+      "startVerse": 20,
+      "endVerse": 29
+    },
+    {
+      "title": "Bezalel and Oholiab Appointed",
+      "startVerse": 30,
+      "endVerse": 35
+    }
+  ]
 }

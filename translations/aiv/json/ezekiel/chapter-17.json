@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The word of the LORD came to me, saying:",
       "links": "<a href='/AIV/26/3/16'>Ezek. 3:16</a>; <a href='/AIV/26/14/1'>Ezek. 14:1</a>",
-      "comment": "Ezekiel often introduces his prophecies with the formula, 'The word of the LORD came to me.' This emphasizes divine inspiration and true prophetic authority."
+      "comment": "Ezekiel often introduces his prophecies with the formula, 'The word of the LORD came to me.' This emphasizes divine inspiration and true prophetic authority.",
+      "sectionHeader": "The Parable of the Two Eagles and the Vine"
     },
     {
       "pk": 33017002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "The word of the LORD came to me, saying:",
       "links": "<a href='/AIV/26/17/1'>Ezek. 17:1</a>",
-      "comment": "Repeated emphasis on divine authorship—prophetic messages are not mere human creativity."
+      "comment": "Repeated emphasis on divine authorship—prophetic messages are not mere human creativity.",
+      "sectionHeader": "The Interpretation of the Parable"
     },
     {
       "pk": 33017012,
@@ -266,7 +268,8 @@
       "verse": 22,
       "text": "\"Thus says the LORD God: I will take from the top of the high cedar and plant it; I will crop off a tender sprig from its topmost branches and plant it on a high and lofty mountain.",
       "links": "<a href='/AIV/23/11/1'>Isa. 11:1</a>; <a href='/AIV/19/2/6'>Ps. 2:6</a>",
-      "comment": "Prophetic messianic promise: God plants the Davidic 'sprig' pointing ultimately to Christ and His kingdom—established on the lofty mountain of Zion. (See Luke 1:32)"
+      "comment": "Prophetic messianic promise: God plants the Davidic 'sprig' pointing ultimately to Christ and His kingdom—established on the lofty mountain of Zion. (See Luke 1:32)",
+      "sectionHeader": "The Promise of the Cedar of the Lord"
     },
     {
       "pk": 33017023,
@@ -293,5 +296,22 @@
       "comment": "God reverses worldly status—exalting the humble and lowering the proud. Jesus’ teachings mirror this pattern (Luke 14:11; Matt. 23:12)."
     }
   ],
-  "translatedAt": "2025-12-24T09:07:04.503Z"
+  "translatedAt": "2025-12-24T09:07:04.503Z",
+  "sections": [
+    {
+      "title": "The Parable of the Two Eagles and the Vine",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "The Interpretation of the Parable",
+      "startVerse": 11,
+      "endVerse": 21
+    },
+    {
+      "title": "The Promise of the Cedar of the Lord",
+      "startVerse": 22,
+      "endVerse": 24
+    }
+  ]
 }

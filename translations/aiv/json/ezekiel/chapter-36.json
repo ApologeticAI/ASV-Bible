@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "You, son of man, prophesy to the mountains of Israel and say: ‘Mountains of Israel, hear the word of the LORD!’",
       "links": "<a href='/AIV/26/6/2'>Ezek. 6:2</a>;<a href='/AIV/26/36/4'>v.4</a>",
-      "comment": "Here, Ezekiel is instructed to address the mountains, representing the whole land and people of Israel. This passage foreshadows the idea of restoration for God’s chosen people and prefigures spiritual renewal."
+      "comment": "Here, Ezekiel is instructed to address the mountains, representing the whole land and people of Israel. This passage foreshadows the idea of restoration for God’s chosen people and prefigures spiritual renewal.",
+      "sectionHeader": "Prophecy to the Mountains of Israel"
     },
     {
       "pk": 33036002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "But you, mountains of Israel, will produce your branches and bear fruit for my people Israel, for they will soon return.",
       "links": "<a href='/AIV/26/34/27'>Ezek. 34:27</a>; <a href='/AIV/25/3/23'>Lam. 3:23</a>",
-      "comment": "The land’s renewal is a sign that God’s people will be restored. This physical restoration prefigures spiritual renewal in God’s plan."
+      "comment": "The land’s renewal is a sign that God’s people will be restored. This physical restoration prefigures spiritual renewal in God’s plan.",
+      "sectionHeader": "Restoration and Fruitfulness of the Land"
     },
     {
       "pk": 33036009,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "The word of the LORD came to me:",
       "links": "<a href='/AIV/26/35/1'>Ezek. 35:1</a>",
-      "comment": "A recurring formula in Ezekiel introducing a new divine message."
+      "comment": "A recurring formula in Ezekiel introducing a new divine message.",
+      "sectionHeader": "Israel's Sin and God's Concern for His Holy Name"
     },
     {
       "pk": 33036017,
@@ -302,7 +305,8 @@
       "verse": 25,
       "text": "Then I will sprinkle clean water on you, and you will be clean; I will cleanse you from all your impurity and from all your idols.",
       "links": "<a href='/AIV/03/14/7-8'>Lev. 14:7-8</a>; <a href='/AIV/43/3/5'>John 3:5</a>",
-      "comment": "Here, 'sprinkle clean water' is a clear Old Testament basis for the symbolism of water cleansing, fulfilled in the sacrament of baptism (see also Titus 3:5)."
+      "comment": "Here, 'sprinkle clean water' is a clear Old Testament basis for the symbolism of water cleansing, fulfilled in the sacrament of baptism (see also Titus 3:5).",
+      "sectionHeader": "A New Heart and Spirit for Israel"
     },
     {
       "pk": 33036026,
@@ -398,7 +402,8 @@
       "verse": 33,
       "text": "Thus says the Lord GOD: On the day that I cleanse you from all your iniquities, I will cause the cities to be inhabited, and the ruins shall be rebuilt.",
       "links": "<a href='/AIV/23/44/26'>Isa. 44:26</a>",
-      "comment": "The transformation of the land mirrors the cleansing and sanctification of God’s people."
+      "comment": "The transformation of the land mirrors the cleansing and sanctification of God’s people.",
+      "sectionHeader": "The Rebuilt Land and the Increase of the People"
     },
     {
       "pk": 33036034,
@@ -461,5 +466,32 @@
       "comment": "The abundance of people is compared to the multitudes at Jerusalem’s worship feasts, prefiguring the fullness of redemption and worship in the city of God."
     }
   ],
-  "translatedAt": "2025-12-24T09:18:36.800Z"
+  "translatedAt": "2025-12-24T09:18:36.800Z",
+  "sections": [
+    {
+      "title": "Prophecy to the Mountains of Israel",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Restoration and Fruitfulness of the Land",
+      "startVerse": 8,
+      "endVerse": 15
+    },
+    {
+      "title": "Israel's Sin and God's Concern for His Holy Name",
+      "startVerse": 16,
+      "endVerse": 24
+    },
+    {
+      "title": "A New Heart and Spirit for Israel",
+      "startVerse": 25,
+      "endVerse": 32
+    },
+    {
+      "title": "The Rebuilt Land and the Increase of the People",
+      "startVerse": 33,
+      "endVerse": 38
+    }
+  ]
 }

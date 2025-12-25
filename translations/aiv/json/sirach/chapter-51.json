@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "I will give thanks to you, O Lord and King, and praise you, God my Savior. I declare your name, for you have been my helper and protector.",
       "links": "<a href='/AIV/19/18/2'>Ps. 18:2</a>; <a href='/AIV/19/28/7'>Ps. 28:7</a>",
-      "comment": "The opening sets the tone as a personal thanksgiving, reminiscent of the Psalms. The reference to God as Savior echoes the expectation of God’s deliverance present in Israel’s history and fulfilled in Christ."
+      "comment": "The opening sets the tone as a personal thanksgiving, reminiscent of the Psalms. The reference to God as Savior echoes the expectation of God’s deliverance present in Israel’s history and fulfilled in Christ.",
+      "sectionHeader": "Thanksgiving for Deliverance"
     },
     {
       "pk": 28051002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "When I was a youth, before I traveled, I sought wisdom openly in prayer.",
       "links": "<a href='/AIV/20/2/3-6'>Prov. 2:3–6</a>; <a href='/AIV/28/6/26'>Sir. 6:26</a>",
-      "comment": "Wisdom is sought through prayer, not apart from God. Sets foundation for later teaching that true wisdom is a gift received through discipleship and humility."
+      "comment": "Wisdom is sought through prayer, not apart from God. Sets foundation for later teaching that true wisdom is a gift received through discipleship and humility.",
+      "sectionHeader": "In Praise of Wisdom"
     },
     {
       "pk": 28051014,
@@ -290,7 +292,8 @@
       "verse": 24,
       "text": "If you desire, receive instruction, and you will profit.",
       "links": "<a href='/AIV/20/4/13'>Prov. 4:13</a>",
-      "comment": "Willingness to learn is required—wisdom is not imposed, but received freely and brings benefit."
+      "comment": "Willingness to learn is required—wisdom is not imposed, but received freely and brings benefit.",
+      "sectionHeader": "Invitation to Seek Wisdom"
     },
     {
       "pk": 28051025,
@@ -365,5 +368,22 @@
       "comment": "The promise of final rest alludes to the Sabbath and, in Christian thought, to eternal rest with God. Perseverance is essential, and God’s reward is rest for the soul."
     }
   ],
-  "translatedAt": "2025-12-24T07:50:48.697Z"
+  "translatedAt": "2025-12-24T07:50:48.697Z",
+  "sections": [
+    {
+      "title": "Thanksgiving for Deliverance",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "In Praise of Wisdom",
+      "startVerse": 13,
+      "endVerse": 23
+    },
+    {
+      "title": "Invitation to Seek Wisdom",
+      "startVerse": 24,
+      "endVerse": 30
+    }
+  ]
 }

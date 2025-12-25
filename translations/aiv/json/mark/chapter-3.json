@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Again, Jesus entered the synagogue, and a man was there with a withered hand.",
       "links": "<a href='/AIV/40/12/9'>Matt 12:9</a>; <a href='/AIV/42/6/6'>Luke 6:6</a>",
-      "comment": "This continues the Sabbath controversy theme. Synagogue healings emphasize Jesus acting with divine authority."
+      "comment": "This continues the Sabbath controversy theme. Synagogue healings emphasize Jesus acting with divine authority.",
+      "sectionHeader": "Healing of the Man with the Withered Hand"
     },
     {
       "pk": 48003002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "Jesus withdrew with His disciples to the sea, and a large crowd from Galilee followed Him.",
       "links": "<a href='/AIV/40/4/25'>Matt 4:25</a>",
-      "comment": "Jesus' retreat and gathering of the people symbolizes drawing all nations to Himself—a prefiguring of missionary expansion."
+      "comment": "Jesus' retreat and gathering of the people symbolizes drawing all nations to Himself—a prefiguring of missionary expansion.",
+      "sectionHeader": "Crowds Follow Jesus"
     },
     {
       "pk": 48003008,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "He went up the mountain and called to Him those He Himself wanted, and they came to Him.",
       "links": "<a href='/AIV/02/19/20'>Exod 19:20</a>; <a href='/AIV/42/6/12'>Luke 6:12</a>",
-      "comment": "Jesus' ascent of the mountain recalls Moses' communion with God, indicating His divine authority to appoint leaders."
+      "comment": "Jesus' ascent of the mountain recalls Moses' communion with God, indicating His divine authority to appoint leaders.",
+      "sectionHeader": "The Appointment of the Twelve Apostles"
     },
     {
       "pk": 48003014,
@@ -266,7 +269,8 @@
       "verse": 22,
       "text": "And the scribes who came down from Jerusalem said, \"He is possessed by Beelzebul,\" and, \"By the prince of demons He casts out demons.\"",
       "links": "<a href='/AIV/40/12/24'>Matt 12:24</a>; <a href='/AIV/09/8/6'>1 Sam 8:6</a>",
-      "comment": "This charge of alliance with evil spirits is a provocative denial of Jesus' divine power, increasing His conflict with the religious elite."
+      "comment": "This charge of alliance with evil spirits is a provocative denial of Jesus' divine power, increasing His conflict with the religious elite.",
+      "sectionHeader": "Jesus Accused of Using the Power of Beelzebul"
     },
     {
       "pk": 48003023,
@@ -374,7 +378,8 @@
       "verse": 31,
       "text": "And His mother and His brothers came, and standing outside, they sent word to Him and called Him.",
       "links": "<a href='/AIV/40/12/46'>Matt 12:46</a>; <a href='/AIV/42/8/19'>Luke 8:19</a>",
-      "comment": "Jesus’ family standing outside contrasts with the spiritual intimacy He offers disciples gathered near."
+      "comment": "Jesus’ family standing outside contrasts with the spiritual intimacy He offers disciples gathered near.",
+      "sectionHeader": "Jesus' True Family"
     },
     {
       "pk": 48003032,
@@ -425,5 +430,32 @@
       "comment": "Participation in God’s will draws believers into intimate spiritual kinship with Christ, signifying a united, holy community."
     }
   ],
-  "translatedAt": "2025-12-24T10:23:09.345Z"
+  "translatedAt": "2025-12-24T10:23:09.345Z",
+  "sections": [
+    {
+      "title": "Healing of the Man with the Withered Hand",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Crowds Follow Jesus",
+      "startVerse": 7,
+      "endVerse": 12
+    },
+    {
+      "title": "The Appointment of the Twelve Apostles",
+      "startVerse": 13,
+      "endVerse": 21
+    },
+    {
+      "title": "Jesus Accused of Using the Power of Beelzebul",
+      "startVerse": 22,
+      "endVerse": 30
+    },
+    {
+      "title": "Jesus' True Family",
+      "startVerse": 31,
+      "endVerse": 35
+    }
+  ]
 }

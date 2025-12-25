@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then Elihu answered and said:",
       "links": "<a href='/AIV/18/33/31'>Job 33:31</a>",
-      "comment": "Elihu continues his speeches in response to Job and his friends, claiming to speak with wisdom. Elihu's role here sets the stage for God's final response, emphasizing the importance of listening to divinely inspired counsel."
+      "comment": "Elihu continues his speeches in response to Job and his friends, claiming to speak with wisdom. Elihu's role here sets the stage for God's final response, emphasizing the importance of listening to divinely inspired counsel.",
+      "sectionHeader": "Elihu Rebukes Job’s Self-Justification"
     },
     {
       "pk": 22034002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "Therefore, hear me, you men of understanding: far be it from God to do wickedness, and from the Almighty to act unjustly.",
       "links": "<a href='/AIV/05/32/4'>Deut. 32:4</a>",
-      "comment": "God's absolute justice is affirmed, a central doctrine of biblical theology, carried through both Testaments."
+      "comment": "God's absolute justice is affirmed, a central doctrine of biblical theology, carried through both Testaments.",
+      "sectionHeader": "God’s Justice and Impartiality Affirmed"
     },
     {
       "pk": 22034011,
@@ -254,7 +256,8 @@
       "verse": 21,
       "text": "For His eyes are on the ways of a man, and He sees all his steps.",
       "links": "<a href='/AIV/20/5/21'>Proverbs 5:21</a>",
-      "comment": "The omniscience of God is a great biblical theme—God sees everything, even what is hidden (<a href='/AIV/19/139/1-4'>Psalm 139:1-4</a>)."
+      "comment": "The omniscience of God is a great biblical theme—God sees everything, even what is hidden (<a href='/AIV/19/139/1-4'>Psalm 139:1-4</a>).",
+      "sectionHeader": "God Judges the Mighty and the Wicked"
     },
     {
       "pk": 22034022,
@@ -374,7 +377,8 @@
       "verse": 31,
       "text": "\"Suppose someone says to God, 'I have borne punishment; I will offend no more;",
       "links": "<a href='/AIV/18/33/27'>Job 33:27</a>",
-      "comment": "A model of repentance is presented—a key doctrine throughout Scripture, especially realized through the means of grace and reconciliation."
+      "comment": "A model of repentance is presented—a key doctrine throughout Scripture, especially realized through the means of grace and reconciliation.",
+      "sectionHeader": "A Call to Repentance and the Judgment of Job"
     },
     {
       "pk": 22034032,
@@ -449,5 +453,27 @@
       "comment": "Elihu warns that Job’s persistent arguments border on rebellion. This sets up the narrative for God’s reply, emphasizing patience, submission, and trust in divine wisdom. The passage invites believers to humility before the mystery of God’s providence."
     }
   ],
-  "translatedAt": "2025-12-24T05:55:05.635Z"
+  "translatedAt": "2025-12-24T05:55:05.635Z",
+  "sections": [
+    {
+      "title": "Elihu Rebukes Job’s Self-Justification",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "God’s Justice and Impartiality Affirmed",
+      "startVerse": 10,
+      "endVerse": 20
+    },
+    {
+      "title": "God Judges the Mighty and the Wicked",
+      "startVerse": 21,
+      "endVerse": 30
+    },
+    {
+      "title": "A Call to Repentance and the Judgment of Job",
+      "startVerse": 31,
+      "endVerse": 37
+    }
+  ]
 }

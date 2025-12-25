@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "But the wicked were merciless until the very end, for God knew beforehand even their future actions.",
       "links": "<a href='/AIV/02/14/4'>Ex. 14:4</a>; <a href='/AIV/19/94/11'>Ps. 94:11</a>",
-      "comment": "Here, the text emphasizes God's foreknowledge, a key attribute also seen in Psalm 94:11. The persistence of the wicked's hard hearts points to the justice of their ultimate punishment."
+      "comment": "Here, the text emphasizes God's foreknowledge, a key attribute also seen in Psalm 94:11. The persistence of the wicked's hard hearts points to the justice of their ultimate punishment.",
+      "sectionHeader": "The Pursuit of the Israelites by the Egyptians"
     },
     {
       "pk": 27019002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "For the whole creation, in its own nature, was fashioned anew, obeying Your commands, so that Your servants could be unharmed.",
       "links": "<a href='/AIV/02/14/21-22'>Ex. 14:21-22</a>; <a href='/AIV/19/114/3-7'>Ps. 114:3-7</a>",
-      "comment": "Creation responds to God’s command for the sake of His chosen. This echoes the miraculous events at the Red Sea and prefigures Christ’s authority over creation (compare Mark 4:39)."
+      "comment": "Creation responds to God’s command for the sake of His chosen. This echoes the miraculous events at the Red Sea and prefigures Christ’s authority over creation (compare Mark 4:39).",
+      "sectionHeader": "God's Protection and Wonders at the Red Sea"
     },
     {
       "pk": 27019007,
@@ -122,7 +124,8 @@
       "verse": 10,
       "text": "For they still remembered what had happened during their stay: how the earth itself gave birth to swarms of insects instead of cattle, and how the river spewed forth multitudes of frogs instead of fish.",
       "links": "<a href='/AIV/02/8/5-6'>Ex. 8:5-6</a>; <a href='/AIV/02/8/17-18'>Ex. 8:17-18</a>",
-      "comment": "A reference to the plagues of Egypt, showing God’s power over nature and judgment on idolatry. The miraculous transformations indicate divine authority over all creation."
+      "comment": "A reference to the plagues of Egypt, showing God’s power over nature and judgment on idolatry. The miraculous transformations indicate divine authority over all creation.",
+      "sectionHeader": "Remembrance of the Plagues and God's Provision"
     },
     {
       "pk": 27019011,
@@ -158,7 +161,8 @@
       "verse": 13,
       "text": "For after they had shown hostility to strangers, those same foreigners they had welcomed with festivities, the Egyptians caused the Israelites to suffer with terrible labors.",
       "links": "<a href='/AIV/02/1/8-14'>Ex. 1:8-14</a>; <a href='/AIV/01/47/5-6'>Gen. 47:5-6</a>",
-      "comment": "Reminds us of the need to show hospitality and just treatment toward the sojourner, which later carries deep spiritual meaning in welcoming and forming newcomers into the faith community."
+      "comment": "Reminds us of the need to show hospitality and just treatment toward the sojourner, which later carries deep spiritual meaning in welcoming and forming newcomers into the faith community.",
+      "sectionHeader": "Retribution for Inhospitality"
     },
     {
       "pk": 27019014,
@@ -218,7 +222,8 @@
       "verse": 18,
       "text": "So creation, serving You its Maker, takes new shapes to punish the unjust and to show kindness to those who trust in You.",
       "links": "<a href='/AIV/19/105/30-31'>Ps. 105:30-31</a>",
-      "comment": "Creation as a servant of God is a consistent theme throughout Scripture. The blessings given to the just and punishment of the unjust anticipate ultimate vindication at the final judgment."
+      "comment": "Creation as a servant of God is a consistent theme throughout Scripture. The blessings given to the just and punishment of the unjust anticipate ultimate vindication at the final judgment.",
+      "sectionHeader": "Creation Serving God's Justice"
     },
     {
       "pk": 27019019,
@@ -269,5 +274,32 @@
       "comment": "The promise of God never abandoning His people anticipates Christ’s promise to build and preserve His Church (see Matt. 16:18; 28:20). This endures as a sign of divine faithfulness."
     }
   ],
-  "translatedAt": "2025-12-24T07:23:05.420Z"
+  "translatedAt": "2025-12-24T07:23:05.420Z",
+  "sections": [
+    {
+      "title": "The Pursuit of the Israelites by the Egyptians",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "God's Protection and Wonders at the Red Sea",
+      "startVerse": 6,
+      "endVerse": 9
+    },
+    {
+      "title": "Remembrance of the Plagues and God's Provision",
+      "startVerse": 10,
+      "endVerse": 12
+    },
+    {
+      "title": "Retribution for Inhospitality",
+      "startVerse": 13,
+      "endVerse": 17
+    },
+    {
+      "title": "Creation Serving God's Justice",
+      "startVerse": 18,
+      "endVerse": 22
+    }
+  ]
 }

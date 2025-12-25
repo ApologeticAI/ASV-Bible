@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "They brought the ark of God and set it inside the tent that David had pitched for it; they offered burnt offerings and peace offerings before God.",
       "links": "<a href='/AIV/10/6/17'>2 Sam. 6:17</a>; <a href='/AIV/03/3/1'>Lev. 3:1</a>",
-      "comment": "The tent mentioned here represents the dwelling of God among His people, foreshadowing the later temple (1 Kgs. 8:4-11). The sacrifices signify both repentance and thanksgiving, echoing the Eucharistic spirit of continual sacrifice."
+      "comment": "The tent mentioned here represents the dwelling of God among His people, foreshadowing the later temple (1 Kgs. 8:4-11). The sacrifices signify both repentance and thanksgiving, echoing the Eucharistic spirit of continual sacrifice.",
+      "sectionHeader": "The Ark Placed in the Tent and Offerings Made"
     },
     {
       "pk": 13016002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "He distributed to everyone in Israel, both man and woman, a loaf of bread, a portion of meat, and a cake of raisins.",
       "links": "<a href='/AIV/10/6/19'>2 Sam. 6:19</a>; <a href='/AIV/19/78/25'>Ps. 78:25</a>",
-      "comment": "David’s distribution of bread and meat to all foreshadows the spiritual food to be given to God’s people. This act is a type of the later sacramental sharing (John 6:32-35), suggesting a pattern of God feeding His people through mediators."
+      "comment": "David’s distribution of bread and meat to all foreshadows the spiritual food to be given to God’s people. This act is a type of the later sacramental sharing (John 6:32-35), suggesting a pattern of God feeding His people through mediators.",
+      "sectionHeader": "David Distributes Gifts and Appoints Levites"
     },
     {
       "pk": 13016004,
@@ -86,7 +88,8 @@
       "verse": 7,
       "text": "Then on that day David first appointed Asaph and his brothers to give thanks to the LORD by this song:",
       "links": "<a href='/AIV/19/105/1-15'>Ps. 105:1-15</a>; <a href='/AIV/19/96/1-13'>Ps. 96:1-13</a>",
-      "comment": "David instituting thanksgiving by song sets a precedent for formalized praise, which continues to this day in gathered worship."
+      "comment": "David instituting thanksgiving by song sets a precedent for formalized praise, which continues to this day in gathered worship.",
+      "sectionHeader": "David's Psalm of Thanksgiving"
     },
     {
       "pk": 13016008,
@@ -446,7 +449,8 @@
       "verse": 37,
       "text": "So David left Asaph and his brothers there before the ark of the covenant of the LORD to minister regularly before the ark, as each day required.",
       "links": "<a href='/AIV/19/92/1-3'>Ps. 92:1-3</a>",
-      "comment": "The institution of continual daily worship establishes a pattern later fulfilled in the Church’s daily prayers and liturgy."
+      "comment": "The institution of continual daily worship establishes a pattern later fulfilled in the Church’s daily prayers and liturgy.",
+      "sectionHeader": "Worship Established Before the Ark and Tabernacle"
     },
     {
       "pk": 13016038,
@@ -521,5 +525,27 @@
       "comment": "The blessing that overflows from worship into the home fulfills the purpose of right worship—sanctification of daily life. David as the mediator of blessing points to the High Priesthood that will ultimately bless all believers (Heb. 4:14-16)."
     }
   ],
-  "translatedAt": "2025-12-24T04:14:22.393Z"
+  "translatedAt": "2025-12-24T04:14:22.393Z",
+  "sections": [
+    {
+      "title": "The Ark Placed in the Tent and Offerings Made",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "David Distributes Gifts and Appoints Levites",
+      "startVerse": 3,
+      "endVerse": 6
+    },
+    {
+      "title": "David's Psalm of Thanksgiving",
+      "startVerse": 7,
+      "endVerse": 36
+    },
+    {
+      "title": "Worship Established Before the Ark and Tabernacle",
+      "startVerse": 37,
+      "endVerse": 43
+    }
+  ]
 }

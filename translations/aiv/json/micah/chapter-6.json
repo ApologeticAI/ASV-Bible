@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Hear what the LORD says: Arise, plead your case before the mountains, and let the hills hear your voice.",
       "links": "<a href='/AIV/23/1/2'>Isa. 1:2</a>; <a href='/AIV/05/32/1'>Deut. 32:1</a>",
-      "comment": "God summons creation itself as witnesses in a legal case, showing the universal scope of His judgment and concern. This echoes other passages where heavens and earth are called to witness God's covenantal dealings."
+      "comment": "God summons creation itself as witnesses in a legal case, showing the universal scope of His judgment and concern. This echoes other passages where heavens and earth are called to witness God's covenantal dealings.",
+      "sectionHeader": "The LORD’s Lawsuit Against Israel"
     },
     {
       "pk": 40006002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "With what shall I come before the LORD, and bow myself before God on high? Shall I come before Him with burnt offerings, with calves a year old?",
       "links": "<a href='/AIV/19/15/1'>Ps. 15:1</a>; <a href='/AIV/23/1/11'>Isa. 1:11</a>",
-      "comment": "This verse reflects a search for the proper way to worship and approach God, questioning if ritual sacrifices alone can satisfy Him. It prepares for the profound revelation of inner righteousness over mere ritual."
+      "comment": "This verse reflects a search for the proper way to worship and approach God, questioning if ritual sacrifices alone can satisfy Him. It prepares for the profound revelation of inner righteousness over mere ritual.",
+      "sectionHeader": "What the LORD Requires"
     },
     {
       "pk": 40006007,
@@ -110,7 +112,8 @@
       "verse": 9,
       "text": "The voice of the LORD cries out to the city—and wisdom shall see your name: Hear the rod and Him who appointed it.",
       "links": "<a href='/AIV/19/107/43'>Ps. 107:43</a>; <a href='/AIV/20/8/33-36'>Prov. 8:33-36</a>",
-      "comment": "God’s voice offers both warning and wisdom, calling all to recognize His authority and correction. The reference to the ‘rod’ evokes discipline that brings true wisdom, a recurring theme in Proverbs. This calls for recognition of God's name and His right to rule and guide."
+      "comment": "God’s voice offers both warning and wisdom, calling all to recognize His authority and correction. The reference to the ‘rod’ evokes discipline that brings true wisdom, a recurring theme in Proverbs. This calls for recognition of God's name and His right to rule and guide.",
+      "sectionHeader": "The LORD’s Judgment on Injustice"
     },
     {
       "pk": 40006010,
@@ -197,5 +200,22 @@
       "comment": "The reference to idolatrous kings of Israel marks sinfulness through following false models of leadership. This is a reminder to rely on God’s established order and authority, rejecting both self-made religion and rebellion against appointed spiritual governors."
     }
   ],
-  "translatedAt": "2025-12-24T09:49:12.119Z"
+  "translatedAt": "2025-12-24T09:49:12.119Z",
+  "sections": [
+    {
+      "title": "The LORD’s Lawsuit Against Israel",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "What the LORD Requires",
+      "startVerse": 6,
+      "endVerse": 8
+    },
+    {
+      "title": "The LORD’s Judgment on Injustice",
+      "startVerse": 9,
+      "endVerse": 16
+    }
+  ]
 }

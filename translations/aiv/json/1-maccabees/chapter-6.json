@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "King Antiochus was traveling through the upper provinces when he heard that the city of Elymais in Persia was renowned for its riches, silver, and gold.",
       "links": "<a href='/AIV/17/1/2'>Esther 1:2</a>",
-      "comment": "Elymais was famous for its wealth. This sets the stage for Antiochus' ambition and foreshadows his downfall, a common biblical theme (see <a href='/AIV/20/16/18'>Prov. 16:18</a>)."
+      "comment": "Elymais was famous for its wealth. This sets the stage for Antiochus' ambition and foreshadows his downfall, a common biblical theme (see <a href='/AIV/20/16/18'>Prov. 16:18</a>).",
+      "sectionHeader": "Death of Antiochus IV"
     },
     {
       "pk": 20006002,
@@ -206,7 +207,8 @@
       "verse": 17,
       "text": "When Lysias learned the king had died, he set up the king’s son Antiochus in his place, whom he had brought up as a child, and named him Eupator.",
       "links": "",
-      "comment": "The transition of power is a reminder of unstable earthly kingdoms. Compare to biblical succession narratives."
+      "comment": "The transition of power is a reminder of unstable earthly kingdoms. Compare to biblical succession narratives.",
+      "sectionHeader": "Succession of Antiochus V Eupator"
     },
     {
       "pk": 20006018,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "Now those who were in the citadel at Jerusalem were preventing the Israelites from coming and going in the surrounding area. They sided with the Gentiles so as to inflict as much harm as possible on the Jews.",
       "links": "",
-      "comment": "Citadel = the fortress; its occupation recalls enemy strongholds opposing God’s people (see <a href='/AIV/7/6/5'>Judg. 6:5</a>)."
+      "comment": "Citadel = the fortress; its occupation recalls enemy strongholds opposing God’s people (see <a href='/AIV/7/6/5'>Judg. 6:5</a>).",
+      "sectionHeader": "Siege of the Jerusalem Citadel and Beth-zur"
     },
     {
       "pk": 20006019,
@@ -362,7 +365,8 @@
       "verse": 30,
       "text": "Then Judas pulled back from the citadel and set up camp at Beth-zechariah, opposite the royal camp.",
       "links": "",
-      "comment": "Strategic retreats are not uncommon among biblical leaders (see David in 1 Sam. 23:13)."
+      "comment": "Strategic retreats are not uncommon among biblical leaders (see David in 1 Sam. 23:13).",
+      "sectionHeader": "Battle of Beth-zechariah and Death of Eleazar"
     },
     {
       "pk": 20006031,
@@ -566,7 +570,8 @@
       "verse": 47,
       "text": "The king’s army marched up to Jerusalem and pitched camp against Judea and Mount Zion.",
       "links": "<a href='/AIV/19/2/6'>Ps. 2:6</a>",
-      "comment": "Mount Zion, symbol of God’s dwelling, is again the focal point of attack, echoing the Psalms' assurance of God's chosen place."
+      "comment": "Mount Zion, symbol of God’s dwelling, is again the focal point of attack, echoing the Psalms' assurance of God's chosen place.",
+      "sectionHeader": "Siege of the Sanctuary and Peace with Lysias"
     },
     {
       "pk": 20006048,
@@ -761,5 +766,32 @@
       "comment": "Temporary peace after conflict foreshadows the promise of greater, lasting peace found in the coming of Christ, whose kingdom brings true and eternal security (<a href='/AIV/23/9/6'>Isa. 9:6</a>; <a href='/AIV/42/2/14'>Luke 2:14</a>)."
     }
   ],
-  "translatedAt": "2025-12-24T05:18:22.440Z"
+  "translatedAt": "2025-12-24T05:18:22.440Z",
+  "sections": [
+    {
+      "title": "Death of Antiochus IV",
+      "startVerse": 1,
+      "endVerse": 16
+    },
+    {
+      "title": "Succession of Antiochus V Eupator",
+      "startVerse": 17,
+      "endVerse": 17
+    },
+    {
+      "title": "Siege of the Jerusalem Citadel and Beth-zur",
+      "startVerse": 18,
+      "endVerse": 29
+    },
+    {
+      "title": "Battle of Beth-zechariah and Death of Eleazar",
+      "startVerse": 30,
+      "endVerse": 46
+    },
+    {
+      "title": "Siege of the Sanctuary and Peace with Lysias",
+      "startVerse": 47,
+      "endVerse": 63
+    }
+  ]
 }

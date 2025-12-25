@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now you, son of man, take a clay tablet and set it before yourself, and draw upon it the city of Jerusalem.",
       "links": "<a href='/AIV/23/8/1'>Isa. 8:1</a>; <a href='/AIV/26/2/1'>Ezek. 2:1</a>",
-      "comment": "Ezekiel is instructed to use a clay tablet as a symbol of Jerusalem. The use of visual representations is common in prophetic literature to reveal God's message in a vivid way (see Isa. 8:1)."
+      "comment": "Ezekiel is instructed to use a clay tablet as a symbol of Jerusalem. The use of visual representations is common in prophetic literature to reveal God's message in a vivid way (see Isa. 8:1).",
+      "sectionHeader": "The Sign of the Siege of Jerusalem"
     },
     {
       "pk": 33004002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "Lie on your left side and place the guilt of the house of Israel upon it. For the number of days that you lie on it, you shall bear their guilt.",
       "links": "<a href='/AIV/25/3/39'>Lam. 3:39</a>; <a href='/AIV/26/18/20'>Ezek. 18:20</a>",
-      "comment": "Ezekiel physically bearing Israel’s guilt foreshadows the concept of vicarious suffering—a significant theme that points to Christ bearing the sins of humanity (Lam. 3:39; Isa. 53)."
+      "comment": "Ezekiel physically bearing Israel’s guilt foreshadows the concept of vicarious suffering—a significant theme that points to Christ bearing the sins of humanity (Lam. 3:39; Isa. 53).",
+      "sectionHeader": "The Symbolic Bearing of Israel and Judah’s Guilt"
     },
     {
       "pk": 33004005,
@@ -110,7 +112,8 @@
       "verse": 9,
       "text": "Take wheat, barley, beans, lentils, millet, and spelt. Put them into one vessel and make bread from them during the number of days you lie on your side—three hundred ninety days you shall eat it.",
       "links": "<a href='/AIV/3/2/13'>Lev. 2:13</a>; <a href='/AIV/26/44/3'>Ezek. 44:3</a>",
-      "comment": "This symbolic bread mixes many grains, representing poverty and scarcity. Bread remains a central symbol in scripture, anticipating the mystery of the true bread that gives everlasting life (see John 6:35; Lev. 2:13)."
+      "comment": "This symbolic bread mixes many grains, representing poverty and scarcity. Bread remains a central symbol in scripture, anticipating the mystery of the true bread that gives everlasting life (see John 6:35; Lev. 2:13).",
+      "sectionHeader": "The Scarcity and Defilement of Food"
     },
     {
       "pk": 33004010,
@@ -209,5 +212,22 @@
       "comment": "The physical distress symbolizes spiritual poverty and the consequences of separation from God. Yet, astonishment prepares them for deeper conversion and restoration, a mystery fulfilled in the Messiah’s redemption."
     }
   ],
-  "translatedAt": "2025-12-24T09:00:11.561Z"
+  "translatedAt": "2025-12-24T09:00:11.561Z",
+  "sections": [
+    {
+      "title": "The Sign of the Siege of Jerusalem",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "The Symbolic Bearing of Israel and Judah’s Guilt",
+      "startVerse": 4,
+      "endVerse": 8
+    },
+    {
+      "title": "The Scarcity and Defilement of Food",
+      "startVerse": 9,
+      "endVerse": 17
+    }
+  ]
 }

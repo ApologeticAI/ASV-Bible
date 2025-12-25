@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Again the anger of the Lord was kindled against Israel, and he incited David against them, saying, 'Go, count Israel and Judah.'",
       "links": "<a href='/AIV/13/21/1'>1 Chr. 21:1</a>; <a href='/AIV/2/32/10'>Ex. 32:10</a>",
-      "comment": "The parallel passage in 1 Chronicles 21:1 attributes the incitement to Satan, while here it is the Lord. This shows the developing understanding of agency in Scripture. Note also the theme of divine discipline due to Israel’s sin."
+      "comment": "The parallel passage in 1 Chronicles 21:1 attributes the incitement to Satan, while here it is the Lord. This shows the developing understanding of agency in Scripture. Note also the theme of divine discipline due to Israel’s sin.",
+      "sectionHeader": "David Numbers Israel and Judah"
     },
     {
       "pk": 10024002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "But David’s heart struck him after he had numbered the people. And David said to the Lord, 'I have sinned greatly in what I have done. But now, Lord, take away the guilt of your servant, for I have acted very foolishly.'",
       "links": "<a href='/AIV/19/51/1-4'>Ps. 51:1-4</a>; <a href='/AIV/13/21/8'>1 Chr. 21:8</a>",
-      "comment": "David’s repentance here is both sincere and immediate, modeling leaders’ need for humility and confession. See Psalm 51 for deeper penitence. Confessing faults to God is a continual spiritual necessity (Jas. 5:16)."
+      "comment": "David’s repentance here is both sincere and immediate, modeling leaders’ need for humility and confession. See Psalm 51 for deeper penitence. Confessing faults to God is a continual spiritual necessity (Jas. 5:16).",
+      "sectionHeader": "David's Repentance and Gad's Message"
     },
     {
       "pk": 10024011,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "So the Lord sent a pestilence upon Israel from the morning until the appointed time. Seventy thousand men died from Dan to Beersheba.",
       "links": "<a href='/AIV/13/21/14'>1 Chr. 21:14</a>; <a href='/AIV/2/12/29'>Ex. 12:29</a>",
-      "comment": "Like the angelic judgments of Egypt, the result is tragic, underscoring the seriousness of sin. The widespread effect indicates the communal consequences of the king’s failures."
+      "comment": "Like the angelic judgments of Egypt, the result is tragic, underscoring the seriousness of sin. The widespread effect indicates the communal consequences of the king’s failures.",
+      "sectionHeader": "The Plague and David Builds an Altar"
     },
     {
       "pk": 10024016,
@@ -305,5 +308,22 @@
       "comment": "Here sacrifice, worship, and intercessory prayer restore Israel. God responds to mediation through divinely appointed means, foretelling the efficacy of sacramental worship and Christ as the true intercessor (1 Tim. 2:5-6, Heb. 7:25)."
     }
   ],
-  "translatedAt": "2025-12-24T03:26:36.150Z"
+  "translatedAt": "2025-12-24T03:26:36.150Z",
+  "sections": [
+    {
+      "title": "David Numbers Israel and Judah",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "David's Repentance and Gad's Message",
+      "startVerse": 10,
+      "endVerse": 14
+    },
+    {
+      "title": "The Plague and David Builds an Altar",
+      "startVerse": 15,
+      "endVerse": 25
+    }
+  ]
 }

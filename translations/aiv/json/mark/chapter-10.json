@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then Jesus left that place and went to the region of Judea and beyond the Jordan, and crowds gathered to Him again. As He was accustomed, He began to teach them once more.",
       "links": "<a href='/AIV/40/19/1'>Matt. 19:1</a>",
-      "comment": "Here we see Jesus continuing His ministry, teaching large crowds—a pattern that highlights His role as Teacher and Shepherd. Reference to Judea and crossing the Jordan recalls Israel’s ancient boundaries (Josh. 3:14-17)."
+      "comment": "Here we see Jesus continuing His ministry, teaching large crowds—a pattern that highlights His role as Teacher and Shepherd. Reference to Judea and crossing the Jordan recalls Israel’s ancient boundaries (Josh. 3:14-17).",
+      "sectionHeader": "Teaching about Divorce"
     },
     {
       "pk": 48010002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "People were bringing little children to Him so that He might touch them, but the disciples rebuked those who brought them.",
       "links": "<a href='/AIV/40/19/13'>Matt. 19:13</a>; <a href='/AIV/42/18/15'>Luke 18:15</a>",
-      "comment": "Children were considered insignificant in ancient society; Jesus reverses expectations, demonstrating the kingdom’s openness to the humble and lowly."
+      "comment": "Children were considered insignificant in ancient society; Jesus reverses expectations, demonstrating the kingdom’s openness to the humble and lowly.",
+      "sectionHeader": "Jesus Blesses Little Children"
     },
     {
       "pk": 48010014,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "As He was setting out on His way, a man ran up and knelt before Him and asked, 'Good Teacher, what must I do to inherit eternal life?'",
       "links": "<a href='/AIV/40/19/16'>Matt. 19:16</a>; <a href='/AIV/42/18/18'>Luke 18:18</a>",
-      "comment": "Addressing Jesus as ‘Good Teacher’ acknowledges special authority. The man’s question expresses a longing for salvation, a central theme in Christ’s mission."
+      "comment": "Addressing Jesus as ‘Good Teacher’ acknowledges special authority. The man’s question expresses a longing for salvation, a central theme in Christ’s mission.",
+      "sectionHeader": "The Rich Young Man"
     },
     {
       "pk": 48010018,
@@ -386,7 +389,8 @@
       "verse": 32,
       "text": "They were on the way, going up to Jerusalem, and Jesus was walking ahead of them. The disciples were amazed, and those who followed were afraid. Taking the twelve aside again, He began to tell them what would happen to Him:",
       "links": "<a href='/AIV/40/20/17'>Matt. 20:17</a>",
-      "comment": "Jesus’ journey to Jerusalem emphasizes His resolute mission. His prophecy of suffering demonstrates His foreknowledge and acceptance, highlighting His divine identity."
+      "comment": "Jesus’ journey to Jerusalem emphasizes His resolute mission. His prophecy of suffering demonstrates His foreknowledge and acceptance, highlighting His divine identity.",
+      "sectionHeader": "Third Prediction of the Passion"
     },
     {
       "pk": 48010033,
@@ -422,7 +426,8 @@
       "verse": 35,
       "text": "Then James and John, the sons of Zebedee, approached Him and said, 'Teacher, we want You to do for us whatever we ask.'",
       "links": "<a href='/AIV/40/20/20'>Matt. 20:20</a>",
-      "comment": "The request reveals human ambition and misunderstanding of true greatness in Christ’s kingdom."
+      "comment": "The request reveals human ambition and misunderstanding of true greatness in Christ’s kingdom.",
+      "sectionHeader": "The Request of James and John"
     },
     {
       "pk": 48010036,
@@ -554,7 +559,8 @@
       "verse": 46,
       "text": "They came to Jericho. As He was leaving Jericho with His disciples and a large crowd, Bartimaeus, a blind beggar, son of Timaeus, was sitting by the roadside.",
       "links": "<a href='/AIV/42/18/35'>Luke 18:35</a>",
-      "comment": "Jericho was the place of Israel’s first victory in the land (Josh. 6). Bartimaeus’ blindness points to spiritual need, anticipating Christ’s healing work."
+      "comment": "Jericho was the place of Israel’s first victory in the land (Josh. 6). Bartimaeus’ blindness points to spiritual need, anticipating Christ’s healing work.",
+      "sectionHeader": "Healing of Blind Bartimaeus"
     },
     {
       "pk": 48010047,
@@ -629,5 +635,37 @@
       "comment": "Healing occurs through faith, a testimony to Christ’s divine power. Bartimaeus’ following of Jesus signifies discipleship, joining the community of faith."
     }
   ],
-  "translatedAt": "2025-12-24T10:29:32.995Z"
+  "translatedAt": "2025-12-24T10:29:32.995Z",
+  "sections": [
+    {
+      "title": "Teaching about Divorce",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "Jesus Blesses Little Children",
+      "startVerse": 13,
+      "endVerse": 16
+    },
+    {
+      "title": "The Rich Young Man",
+      "startVerse": 17,
+      "endVerse": 31
+    },
+    {
+      "title": "Third Prediction of the Passion",
+      "startVerse": 32,
+      "endVerse": 34
+    },
+    {
+      "title": "The Request of James and John",
+      "startVerse": 35,
+      "endVerse": 45
+    },
+    {
+      "title": "Healing of Blind Bartimaeus",
+      "startVerse": 46,
+      "endVerse": 52
+    }
+  ]
 }

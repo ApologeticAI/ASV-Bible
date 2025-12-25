@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "These are the statutes and rules that you must be careful to follow in the land that the Lord, the God of your fathers, is giving you to possess, all the days that you live on the earth.",
       "links": "<a href='/AIV/3/18/4'>Lev. 18:4</a>; <a href='/AIV/5/4/1'>Deut. 4:1</a>",
-      "comment": "This verse introduces the call for Israel to obey God's statutes in the Promised Land. Note the emphasis on a lifelong observance, reflecting the unchanging nature of divine commands (cf. Matt. 5:18–19)."
+      "comment": "This verse introduces the call for Israel to obey God's statutes in the Promised Land. Note the emphasis on a lifelong observance, reflecting the unchanging nature of divine commands (cf. Matt. 5:18–19).",
+      "sectionHeader": "The Centralization of Worship"
     },
     {
       "pk": 5012002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "However, you may slaughter and eat meat within any of your towns, as much as your heart desires, according to the blessing of the Lord your God that He has given you. The unclean and the clean may eat of it, as they do of the gazelle and the deer.",
       "links": "<a href='/AIV/5/12/22'>Deut. 12:22</a>; <a href='/AIV/3/17/3'>Lev. 17:3</a>",
-      "comment": "Ordinary (non-sacrificial) meat could be eaten anywhere and by anyone without ritual distinction, foreshadowing the removal of ceremonial food laws in the New Testament (Mark 7:19; Acts 10:15)."
+      "comment": "Ordinary (non-sacrificial) meat could be eaten anywhere and by anyone without ritual distinction, foreshadowing the removal of ceremonial food laws in the New Testament (Mark 7:19; Acts 10:15).",
+      "sectionHeader": "Permitted Slaughter and Eating of Meat"
     },
     {
       "pk": 5012016,
@@ -350,7 +352,8 @@
       "verse": 29,
       "text": "When the Lord your God cuts off before you the nations whom you go in to dispossess, and you dispossess them and dwell in their land,",
       "links": "<a href='/AIV/2/23/24'>Ex. 23:24</a>",
-      "comment": "God promises to drive out idolatrous nations and give Israel a holy land, prefiguring the transformation of the world in Christ."
+      "comment": "God promises to drive out idolatrous nations and give Israel a holy land, prefiguring the transformation of the world in Christ.",
+      "sectionHeader": "Warning Against Pagan Practices"
     },
     {
       "pk": 5012030,
@@ -389,5 +392,22 @@
       "comment": "This final warning about neither adding nor subtracting from God’s word is echoed throughout Scripture, finding its ultimate expression in Christ’s authority and the faithful transmission of His teachings (see Matt. 28:20; 2 Thess. 2:15)."
     }
   ],
-  "translatedAt": "2025-12-24T02:03:45.792Z"
+  "translatedAt": "2025-12-24T02:03:45.792Z",
+  "sections": [
+    {
+      "title": "The Centralization of Worship",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "Permitted Slaughter and Eating of Meat",
+      "startVerse": 15,
+      "endVerse": 28
+    },
+    {
+      "title": "Warning Against Pagan Practices",
+      "startVerse": 29,
+      "endVerse": 32
+    }
+  ]
 }

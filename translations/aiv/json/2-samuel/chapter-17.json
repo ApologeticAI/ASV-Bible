@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Ahithophel said to Absalom, 'Let me choose twelve thousand men, and tonight I will pursue David.'",
       "links": "<a href='/AIV/10/15/31'>2Sam. 15:31</a>; <a href='/AIV/10/16/23'>2Sam. 16:23</a>",
-      "comment": "Ahithophel’s advice is immediate and strategic, showing his prowess as a counselor. This sets up the tension between human wisdom and divine providence, a recurring theme also suggested in Proverbs 16:9."
+      "comment": "Ahithophel’s advice is immediate and strategic, showing his prowess as a counselor. This sets up the tension between human wisdom and divine providence, a recurring theme also suggested in Proverbs 16:9.",
+      "sectionHeader": "Ahithophel’s Counsel to Absalom"
     },
     {
       "pk": 10017002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "But Absalom said, 'Call Hushai the Archite, and let us hear what he has to say also.'",
       "links": "<a href='/AIV/10/15/32-34'>2Sam. 15:32-34</a>",
-      "comment": "Absalom doubles back for more counsel, allowing God’s hidden plan to unfold—a reminder that earthly wisdom alone is not sufficient (see <a href='/AIV/1/41/38'>Gen. 41:38</a>)."
+      "comment": "Absalom doubles back for more counsel, allowing God’s hidden plan to unfold—a reminder that earthly wisdom alone is not sufficient (see <a href='/AIV/1/41/38'>Gen. 41:38</a>).",
+      "sectionHeader": "Hushai Opposes Ahithophel’s Advice"
     },
     {
       "pk": 10017006,
@@ -111,5 +113,17 @@
       "text": "'Right now, he has probably hidden in one of the caves or another place. If some of our men fall at the beginning, whoever hears will say, "
     }
   ],
-  "translatedAt": "2025-12-24T03:21:26.629Z"
+  "translatedAt": "2025-12-24T03:21:26.629Z",
+  "sections": [
+    {
+      "title": "Ahithophel’s Counsel to Absalom",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "Hushai Opposes Ahithophel’s Advice",
+      "startVerse": 5,
+      "endVerse": 9
+    }
+  ]
 }

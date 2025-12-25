@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother,",
       "links": "<a href='/AIV/46/1/1'>1 Cor. 1:1</a>; <a href='/AIV/47/1/1'>2 Cor. 1:1</a>; <a href='/AIV/50/1/1'>Phil. 1:1</a>",
-      "comment": "Paul begins this epistle affirming his apostleship by God’s will, indicating authority and divine appointment. Timothy is mentioned as a co-worker, emphasizing the communal aspect of ministry."
+      "comment": "Paul begins this epistle affirming his apostleship by God’s will, indicating authority and divine appointment. Timothy is mentioned as a co-worker, emphasizing the communal aspect of ministry.",
+      "sectionHeader": "Greeting and Thanksgiving"
     },
     {
       "pk": 58001002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "For this reason also, since the day we heard, we have not stopped praying for you, asking that you may be filled with the knowledge of His will in all wisdom and spiritual understanding,",
       "links": "<a href='/AIV/49/1/17'>Eph. 1:17</a>; <a href='/AIV/20/2/6'>Prov. 2:6</a>",
-      "comment": "Paul petitions for divine wisdom and understanding—gifts that go beyond mere human knowledge. This passage highlights the need for continual prayer and spiritual growth in the Christian life."
+      "comment": "Paul petitions for divine wisdom and understanding—gifts that go beyond mere human knowledge. This passage highlights the need for continual prayer and spiritual growth in the Christian life.",
+      "sectionHeader": "Prayer for Spiritual Growth"
     },
     {
       "pk": 58001010,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "He is the image of the invisible God, the firstborn of all creation;",
       "links": "<a href='/AIV/43/1/18'>John 1:18</a>; <a href='/AIV/19/89/27'>Ps. 89:27</a>; <a href='/AIV/58/3/10'>Col. 3:10</a>",
-      "comment": "Christ as 'image of God' proclaims his divinity (cf. Heb. 1:3). 'Firstborn' here refers to Christ’s unique status and authority over creation, not his coming into existence, aligning with the eternal generation of the Son."
+      "comment": "Christ as 'image of God' proclaims his divinity (cf. Heb. 1:3). 'Firstborn' here refers to Christ’s unique status and authority over creation, not his coming into existence, aligning with the eternal generation of the Son.",
+      "sectionHeader": "The Supremacy of Christ"
     },
     {
       "pk": 58001016,
@@ -254,7 +257,8 @@
       "verse": 21,
       "text": "And you, who once were alienated and hostile in mind, doing evil deeds,",
       "links": "<a href='/AIV/45/5/8'>Rom. 5:8</a>; <a href='/AIV/49/2/12'>Eph. 2:12</a>",
-      "comment": "Paul reminds them of their former estrangement, emphasizing the transformation possible through Christ—a radical change from alienation to union with God."
+      "comment": "Paul reminds them of their former estrangement, emphasizing the transformation possible through Christ—a radical change from alienation to union with God.",
+      "sectionHeader": "Reconciliation Through Christ"
     },
     {
       "pk": 58001022,
@@ -290,7 +294,8 @@
       "verse": 24,
       "text": "Now I rejoice in my sufferings for your sake, and in my flesh I fill up what is lacking in the afflictions of Christ for the sake of His body, which is the church.",
       "links": "<a href='/AIV/47/1/5'>2 Cor. 1:5</a>; <a href='/AIV/45/8/17'>Rom. 8:17</a>",
-      "comment": "Paul’s sufferings have a participatory redemptive value, linked to Christ’s own afflictions. This verse points to the mystery of suffering and its power to build up the church, revealing a deeper spiritual communion."
+      "comment": "Paul’s sufferings have a participatory redemptive value, linked to Christ’s own afflictions. This verse points to the mystery of suffering and its power to build up the church, revealing a deeper spiritual communion.",
+      "sectionHeader": "Paul’s Ministry for the Church"
     },
     {
       "pk": 58001025,
@@ -353,5 +358,32 @@
       "comment": "Paul attributes his efforts to divine energy, not merely human strength. This reflects reliance on grace—a supernatural participation in Christ’s mission that is continued in the ongoing work of the church."
     }
   ],
-  "translatedAt": "2025-12-24T12:06:24.094Z"
+  "translatedAt": "2025-12-24T12:06:24.094Z",
+  "sections": [
+    {
+      "title": "Greeting and Thanksgiving",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "Prayer for Spiritual Growth",
+      "startVerse": 9,
+      "endVerse": 14
+    },
+    {
+      "title": "The Supremacy of Christ",
+      "startVerse": 15,
+      "endVerse": 20
+    },
+    {
+      "title": "Reconciliation Through Christ",
+      "startVerse": 21,
+      "endVerse": 23
+    },
+    {
+      "title": "Paul’s Ministry for the Church",
+      "startVerse": 24,
+      "endVerse": 29
+    }
+  ]
 }

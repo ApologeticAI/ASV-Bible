@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "O God, we have heard with our ears, our ancestors have told us what deeds you did in their days, in days long past.",
       "links": "<a href='/AIV/19/78/3-4'>Ps 78:3-4</a>; <a href='/AIV/19/22/4-5'>Ps 22:4-5</a>",
-      "comment": "This opening sets the tone of collective memory and handed-down faith, reflecting how salvation history unfolds through generations—resonating with the importance of tradition."
+      "comment": "This opening sets the tone of collective memory and handed-down faith, reflecting how salvation history unfolds through generations—resonating with the importance of tradition.",
+      "sectionHeader": "God’s Past Deliverances Recalled"
     },
     {
       "pk": 23044002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "But now you have rejected us and disgraced us, and you do not go out with our armies.",
       "links": "<a href='/AIV/19/60/1-3'>Ps 60:1-3</a>; <a href='/AIV/25/3/1'>Lam 3:1</a>",
-      "comment": "The feeling of abandonment is part of the spiritual journey; even in darkness, God’s hidden presence can lead to deeper trust and growth."
+      "comment": "The feeling of abandonment is part of the spiritual journey; even in darkness, God’s hidden presence can lead to deeper trust and growth.",
+      "sectionHeader": "A Plea Amid National Defeat"
     },
     {
       "pk": 23044010,
@@ -278,7 +280,8 @@
       "verse": 23,
       "text": "Awake! Why do you sleep, O Lord? Rise up, do not reject us forever!",
       "links": "<a href='/AIV/19/78/65'>Ps 78:65</a>; <a href='/AIV/41/4/38-39'>Mark 4:38-39</a>",
-      "comment": "The plea for God to awaken recalls Christ calming the storm after being awakened by His disciples—showing faith that God hears and responds."
+      "comment": "The plea for God to awaken recalls Christ calming the storm after being awakened by His disciples—showing faith that God hears and responds.",
+      "sectionHeader": "Prayer for Restoration and Deliverance"
     },
     {
       "pk": 23044024,
@@ -317,5 +320,22 @@
       "comment": "The final cry is for redemption based not on human merit, but on God’s loving kindness—pointing to salvation initiated and accomplished by God Himself, ultimately revealed in Christ’s redemptive mission."
     }
   ],
-  "translatedAt": "2025-12-24T06:14:01.785Z"
+  "translatedAt": "2025-12-24T06:14:01.785Z",
+  "sections": [
+    {
+      "title": "God’s Past Deliverances Recalled",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "A Plea Amid National Defeat",
+      "startVerse": 9,
+      "endVerse": 22
+    },
+    {
+      "title": "Prayer for Restoration and Deliverance",
+      "startVerse": 23,
+      "endVerse": 26
+    }
+  ]
 }

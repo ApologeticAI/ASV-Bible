@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The word of the LORD came to me, saying:",
       "links": "<a href='/AIV/26/12/1'>Ezek. 12:1</a>",
-      "comment": "This introduces a direct message from the LORD to Ezekiel, signifying a moment of prophetic revelation. Such introductions are common in Ezekiel to mark divine authority."
+      "comment": "This introduces a direct message from the LORD to Ezekiel, signifying a moment of prophetic revelation. Such introductions are common in Ezekiel to mark divine authority.",
+      "sectionHeader": "Individual Responsibility for Sin"
     },
     {
       "pk": 33018002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "But if a man is righteous and does what is just and right—",
       "links": "<a href='/AIV/26/33/14'>Ezek. 33:14-16</a>",
-      "comment": "Righteousness here is practical and moral, not merely ceremonial. Obedience to God's law is essential for life, a theme echoed later in Jesus' summary of the law."
+      "comment": "Righteousness here is practical and moral, not merely ceremonial. Obedience to God's law is essential for life, a theme echoed later in Jesus' summary of the law.",
+      "sectionHeader": "Examples of Righteousness and Wickedness in Generations"
     },
     {
       "pk": 33018006,
@@ -230,7 +232,8 @@
       "verse": 19,
       "text": "Yet you say, 'Why should not the son bear the iniquity of the father?' When the son has done what is just and right, and has kept all my statutes, and done them, he shall surely live.",
       "links": "<a href='/AIV/05/24/16'>Deut. 24:16</a>",
-      "comment": "God answers objections: individual righteousness leads to life. The Mosaic law also denies transferring blame across generations."
+      "comment": "God answers objections: individual righteousness leads to life. The Mosaic law also denies transferring blame across generations.",
+      "sectionHeader": "The Soul Who Sins Shall Die"
     },
     {
       "pk": 33018020,
@@ -254,7 +257,8 @@
       "verse": 21,
       "text": "But if a wicked person turns away from all his sins that he has committed and keeps all my statutes and does what is just and right, he shall surely live; he shall not die.",
       "links": "<a href='/AIV/26/33/19'>Ezek. 33:19</a>; <a href='/AIV/23/55/7'>Isa. 55:7</a>",
-      "comment": "Repentance is always possible. God’s mercy is available for those who truly turn to Him, a forerunner of the New Covenant promise of forgiveness (see Luke 15)."
+      "comment": "Repentance is always possible. God’s mercy is available for those who truly turn to Him, a forerunner of the New Covenant promise of forgiveness (see Luke 15).",
+      "sectionHeader": "Repentance and Divine Justice"
     },
     {
       "pk": 33018022,
@@ -362,7 +366,8 @@
       "verse": 30,
       "text": "Therefore I will judge you, O house of Israel, each one according to his ways, declares the Lord GOD. Repent and turn from all your transgressions, lest iniquity be your ruin.",
       "links": "<a href='/AIV/44/17/30'>Acts 17:30</a>; <a href='/AIV/26/33/20'>Ezek. 33:20</a>",
-      "comment": "The call to repentance is universal and personal. This anticipates the Gospel’s call to conversion and the constant need for confession and returning to God."
+      "comment": "The call to repentance is universal and personal. This anticipates the Gospel’s call to conversion and the constant need for confession and returning to God.",
+      "sectionHeader": "Call to Repentance and Newness of Heart"
     },
     {
       "pk": 33018031,
@@ -389,5 +394,32 @@
       "comment": "God’s will is life and not destruction—a theme the New Testament echoes (1 Tim 2:4). The urgency of repentance and the promise of divine mercy is paramount, reinforcing the continual need for sacramental reconciliation and perseverance in faith."
     }
   ],
-  "translatedAt": "2025-12-24T09:07:44.538Z"
+  "translatedAt": "2025-12-24T09:07:44.538Z",
+  "sections": [
+    {
+      "title": "Individual Responsibility for Sin",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "Examples of Righteousness and Wickedness in Generations",
+      "startVerse": 5,
+      "endVerse": 18
+    },
+    {
+      "title": "The Soul Who Sins Shall Die",
+      "startVerse": 19,
+      "endVerse": 20
+    },
+    {
+      "title": "Repentance and Divine Justice",
+      "startVerse": 21,
+      "endVerse": 29
+    },
+    {
+      "title": "Call to Repentance and Newness of Heart",
+      "startVerse": 30,
+      "endVerse": 32
+    }
+  ]
 }

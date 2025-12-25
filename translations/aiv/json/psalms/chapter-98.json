@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Sing to the LORD a new song, for he has done marvelous things; his right hand and his holy arm have brought him victory.",
       "links": "<a href='/AIV/19/96/1'>Ps. 96:1</a>; <a href='/AIV/02/15/6'>Ex. 15:6</a>; <a href='/AIV/23/52/10'>Isa. 52:10</a>",
-      "comment": "The command to sing a new song often signals a new act of salvation or deliverance by God, anticipating the coming of the Messiah. The reference to the 'right hand' and 'holy arm' symbolizes God's power; see also Isaiah 52:10, where God's arm uncovers salvation for all nations. Christians interpret these images as pointing to Jesus, whose victory over sin is the ultimate marvel (Col. 2:15)."
+      "comment": "The command to sing a new song often signals a new act of salvation or deliverance by God, anticipating the coming of the Messiah. The reference to the 'right hand' and 'holy arm' symbolizes God's power; see also Isaiah 52:10, where God's arm uncovers salvation for all nations. Christians interpret these images as pointing to Jesus, whose victory over sin is the ultimate marvel (Col. 2:15).",
+      "sectionHeader": "A Song of Praise for God's Salvation"
     },
     {
       "pk": 23098002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "Shout for joy to the LORD, all the earth; break forth, rejoice, and sing praises!",
       "links": "<a href='/AIV/19/66/1'>Ps. 66:1</a>; <a href='/AIV/19/100/1'>Ps. 100:1</a>",
-      "comment": "The joyful command extends to all people, inviting universal worship. The phrase 'break forth' suggests the fullness of praise, resembling the celebration seen in worship liturgy with music and song."
+      "comment": "The joyful command extends to all people, inviting universal worship. The phrase 'break forth' suggests the fullness of praise, resembling the celebration seen in worship liturgy with music and song.",
+      "sectionHeader": "All Creation Rejoices Before the Lord"
     },
     {
       "pk": 23098005,
@@ -110,8 +112,26 @@
       "verse": 9,
       "text": "before the LORD, for he comes to judge the earth. He will judge the world in righteousness, and the peoples with fairness.",
       "links": "<a href='/AIV/19/96/13'>Ps. 96:13</a>; <a href='/AIV/40/25/31-32'>Matt. 25:31-32</a>; <a href='/AIV/45/2/6-11'>Rom. 2:6-11</a>",
-      "comment": "God's coming judgment underlines the hope of final justice and restoration. The righteous judgment anticipates the eschatological role of Christ as Judge (Acts 17:31), inspiring hope for true justice and the fulfillment of God's promises for all nations, uniting believers under one faith in his coming kingdom."
+      "comment": "God's coming judgment underlines the hope of final justice and restoration. The righteous judgment anticipates the eschatological role of Christ as Judge (Acts 17:31), inspiring hope for true justice and the fulfillment of God's promises for all nations, uniting believers under one faith in his coming kingdom.",
+      "sectionHeader": "The Lord Comes to Judge the Earth"
     }
   ],
-  "translatedAt": "2025-12-24T06:33:43.575Z"
+  "translatedAt": "2025-12-24T06:33:43.575Z",
+  "sections": [
+    {
+      "title": "A Song of Praise for God's Salvation",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "All Creation Rejoices Before the Lord",
+      "startVerse": 4,
+      "endVerse": 8
+    },
+    {
+      "title": "The Lord Comes to Judge the Earth",
+      "startVerse": 9,
+      "endVerse": 9
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then Job answered and said:",
       "links": "<a href='/AIV/22/27/1'>Job 27:1</a>",
-      "comment": "This introduces Job’s speech in response to Bildad. It marks a shift to Job’s bold reflection on the majesty and mystery of God."
+      "comment": "This introduces Job’s speech in response to Bildad. It marks a shift to Job’s bold reflection on the majesty and mystery of God.",
+      "sectionHeader": "Job Rebukes His Friends' Counsel"
     },
     {
       "pk": 22026002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "The dead tremble, those beneath the waters and those who dwell in them.",
       "links": "<a href='/AIV/22/38/16'>Job 38:16-17</a>; <a href='/AIV/19/88/10'>Ps. 88:10</a>",
-      "comment": "Job refers to Sheol and the realm of the dead, emphasizing that even the dead are subject to God's power. This anticipates New Testament teaching on Christ’s authority even over death."
+      "comment": "Job refers to Sheol and the realm of the dead, emphasizing that even the dead are subject to God's power. This anticipates New Testament teaching on Christ’s authority even over death.",
+      "sectionHeader": "The Majesty of God in Creation"
     },
     {
       "pk": 22026006,
@@ -173,5 +175,17 @@
       "comment": "Job acknowledges that even what we perceive of God's work is only a faint hint; His full majesty is beyond human grasp. This drives us to deepen reverence and yearn for a more intimate participation in God’s mysteries through the means He has established."
     }
   ],
-  "translatedAt": "2025-12-24T05:50:36.889Z"
+  "translatedAt": "2025-12-24T05:50:36.889Z",
+  "sections": [
+    {
+      "title": "Job Rebukes His Friends' Counsel",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "The Majesty of God in Creation",
+      "startVerse": 5,
+      "endVerse": 14
+    }
+  ]
 }

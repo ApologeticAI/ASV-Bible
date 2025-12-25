@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "I am a rose of Sharon, a lily of the valleys.",
       "links": "<a href='/AIV/23/35/1'>Isa. 35:1</a>; <a href='/AIV/28/14/5'>Hos. 14:5</a>",
-      "comment": "The beloved refers to herself with poetic imagery. The rose and lily are symbols of beauty and purity, sometimes interpreted allegorically as Israel or the Church. The language connects to imagery of God's restored people in Isaiah 35:1."
+      "comment": "The beloved refers to herself with poetic imagery. The rose and lily are symbols of beauty and purity, sometimes interpreted allegorically as Israel or the Church. The language connects to imagery of God's restored people in Isaiah 35:1.",
+      "sectionHeader": "The Beloved’s Admiration"
     },
     {
       "pk": 26002002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Listen! My beloved! Behold, he comes, leaping over the mountains, bounding over the hills.",
       "links": "<a href='/AIV/19/114/4'>Ps. 114:4</a>; <a href='/AIV/23/52/7'>Isa. 52:7</a>",
-      "comment": "The beloved's arrival is sudden and joyful. Early Christian interpreters saw here a foreshadowing of Christ’s coming, both in the Incarnation and in His return (Isaiah 52:7)."
+      "comment": "The beloved's arrival is sudden and joyful. Early Christian interpreters saw here a foreshadowing of Christ’s coming, both in the Incarnation and in His return (Isaiah 52:7).",
+      "sectionHeader": "Longing for Love"
     },
     {
       "pk": 26002009,
@@ -209,5 +211,17 @@
       "comment": "The imagery points to awaiting the fullness of union at dawn, a metaphor for longing for Christ’s final coming. The appeal for the beloved to 'turn' can be seen as both a prayer for presence and a hopeful expectation of future reunion."
     }
   ],
-  "translatedAt": "2025-12-24T07:12:27.558Z"
+  "translatedAt": "2025-12-24T07:12:27.558Z",
+  "sections": [
+    {
+      "title": "The Beloved’s Admiration",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Longing for Love",
+      "startVerse": 8,
+      "endVerse": 17
+    }
+  ]
 }

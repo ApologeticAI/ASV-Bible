@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Solomon allied himself with Pharaoh king of Egypt by marrying Pharaoh’s daughter. He brought her into the city of David until he had finished building his own house, the house of the LORD, and the wall around Jerusalem.",
       "links": "<a href='/AIV/10/5/9'>2 Sam. 5:9</a>; <a href='/AIV/14/8/11'>2 Chr. 8:11</a>",
-      "comment": "This verse introduces Solomon's marriage to Pharaoh's daughter, symbolizing political alliance and the early consolidation of Solomon's rule. Notice the delay in bringing her into his permanent home, foreshadowing the temple's significance as the center of Israel’s worship and Solomon’s reign."
+      "comment": "This verse introduces Solomon's marriage to Pharaoh's daughter, symbolizing political alliance and the early consolidation of Solomon's rule. Notice the delay in bringing her into his permanent home, foreshadowing the temple's significance as the center of Israel’s worship and Solomon’s reign.",
+      "sectionHeader": "Solomon’s Marriage and Worship at Gibeon"
     },
     {
       "pk": 11003002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "At Gibeon, the LORD appeared to Solomon in a dream by night, and God said, 'Ask for whatever you want Me to give you.'",
       "links": "<a href='/AIV/01/20/3'>Gen. 20:3</a>; <a href='/AIV/09/3/1-10'>1 Sam. 3:1-10</a>",
-      "comment": "God initiates communication, inviting Solomon to ask—a pattern of gracious self-disclosure. Dreams are common in biblical revelation (<a href='/AIV/01/28/12'>Gen. 28:12</a>). God’s generosity echoes Jesus’ promises in <a href='/AIV/40/7/7-11'>Matt. 7:7-11</a>."
+      "comment": "God initiates communication, inviting Solomon to ask—a pattern of gracious self-disclosure. Dreams are common in biblical revelation (<a href='/AIV/01/28/12'>Gen. 28:12</a>). God’s generosity echoes Jesus’ promises in <a href='/AIV/40/7/7-11'>Matt. 7:7-11</a>.",
+      "sectionHeader": "Solomon’s Prayer for Wisdom"
     },
     {
       "pk": 11003006,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "Then two women who were prostitutes came to the king and stood before him.",
       "links": "<a href='/AIV/19/72/12'>Ps. 72:12</a>; <a href='/AIV/23/1/17'>Isa. 1:17</a>",
-      "comment": "Solomon is approached by marginalized individuals, prefiguring Christ’s mercy and openness to those on the fringes (<a href='/AIV/40/21/31'>Matt. 21:31</a>)."
+      "comment": "Solomon is approached by marginalized individuals, prefiguring Christ’s mercy and openness to those on the fringes (<a href='/AIV/40/21/31'>Matt. 21:31</a>).",
+      "sectionHeader": "Solomon Judges the Two Women"
     },
     {
       "pk": 11003017,
@@ -341,5 +344,22 @@
       "comment": "Solomon’s fame for wisdom spread, prefiguring the universal recognition of true authority and holiness. The wisdom seen in Solomon anticipates Christ, whose wisdom and authority surpass all others (<a href='/AIV/40/12/42'>Matt. 12:42</a>)."
     }
   ],
-  "translatedAt": "2025-12-24T03:29:12.675Z"
+  "translatedAt": "2025-12-24T03:29:12.675Z",
+  "sections": [
+    {
+      "title": "Solomon’s Marriage and Worship at Gibeon",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "Solomon’s Prayer for Wisdom",
+      "startVerse": 5,
+      "endVerse": 15
+    },
+    {
+      "title": "Solomon Judges the Two Women",
+      "startVerse": 16,
+      "endVerse": 28
+    }
+  ]
 }

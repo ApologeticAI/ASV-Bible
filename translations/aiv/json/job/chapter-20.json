@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then Zophar the Naamathite answered and said:",
       "links": "<a href='/AIV/22/11/1'>Job 11:1</a>",
-      "comment": "Zophar, one of Job's friends, speaks for the second time, continuing his earlier arguments regarding divine justice."
+      "comment": "Zophar, one of Job's friends, speaks for the second time, continuing his earlier arguments regarding divine justice.",
+      "sectionHeader": "Zophar’s Second Speech"
     },
     {
       "pk": 22020002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "Do you not know this from old—since the time man was placed on earth—",
       "links": "<a href='/AIV/19/74/12'>Ps. 74:12</a>; <a href='/AIV/18/8/8-10'>Job 8:8-10</a>",
-      "comment": "He appeals to tradition and ancient wisdom, emphasizing principles evident throughout human history."
+      "comment": "He appeals to tradition and ancient wisdom, emphasizing principles evident throughout human history.",
+      "sectionHeader": "The Fleeting Triumph of the Wicked"
     },
     {
       "pk": 22020005,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "Though evil is sweet in his mouth, though he hides it under his tongue,",
       "links": "",
-      "comment": "The wicked savor sin temporarily, suggesting a self-deceptive delight."
+      "comment": "The wicked savor sin temporarily, suggesting a self-deceptive delight.",
+      "sectionHeader": "The Inevitable Ruin of the Godless"
     },
     {
       "pk": 22020013,
@@ -278,7 +281,8 @@
       "verse": 23,
       "text": "When he fills his belly, God will vent his fierce anger upon him and rain it down upon him as food.",
       "links": "<a href='/AIV/19/11/6'>Ps. 11:6</a>; <a href='/AIV/18/21/17'>Job 21:17</a>",
-      "comment": "Describes God's active punishment—the imagery prefigures divine judgment seen throughout redemptive history."
+      "comment": "Describes God's active punishment—the imagery prefigures divine judgment seen throughout redemptive history.",
+      "sectionHeader": "God’s Judgment upon the Wicked"
     },
     {
       "pk": 22020024,
@@ -353,5 +357,27 @@
       "comment": "Zophar summarizes with the certainty of God's justice—reflects on divine sovereign judgment and prefigures teaching on ultimate reward and punishment."
     }
   ],
-  "translatedAt": "2025-12-24T05:48:22.615Z"
+  "translatedAt": "2025-12-24T05:48:22.615Z",
+  "sections": [
+    {
+      "title": "Zophar’s Second Speech",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "The Fleeting Triumph of the Wicked",
+      "startVerse": 4,
+      "endVerse": 11
+    },
+    {
+      "title": "The Inevitable Ruin of the Godless",
+      "startVerse": 12,
+      "endVerse": 22
+    },
+    {
+      "title": "God’s Judgment upon the Wicked",
+      "startVerse": 23,
+      "endVerse": 29
+    }
+  ]
 }

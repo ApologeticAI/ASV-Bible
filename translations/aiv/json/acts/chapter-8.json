@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Saul approved of Stephen's execution. On that day a great persecution arose against the church in Jerusalem, and everyone except the apostles was scattered throughout the regions of Judea and Samaria.",
       "links": "<a href='/AIV/51/7/58'>Acts 7:58</a>; <a href='/AIV/51/11/19'>Acts 11:19</a>",
-      "comment": "This verse opens with Saul's approval, showing his early hostility towards the church—a background crucial for understanding his later conversion. The scattering of believers, except the apostles, continues the theme of apostolic authority and the centrality of apostolic succession."
+      "comment": "This verse opens with Saul's approval, showing his early hostility towards the church—a background crucial for understanding his later conversion. The scattering of believers, except the apostles, continues the theme of apostolic authority and the centrality of apostolic succession.",
+      "sectionHeader": "Persecution and Scattering of the Church"
     },
     {
       "pk": 51008002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "Philip went down to the city of Samaria and began proclaiming Christ to them.",
       "links": "<a href='/AIV/51/6/5'>Acts 6:5</a>; <a href='/AIV/42/9/51-56'>Luke 9:51-56</a>",
-      "comment": "Philip, one of the appointed seven, spreads the message to Samaria—fulfilling Jesus' command in Acts 1:8 to carry the gospel beyond Jerusalem."
+      "comment": "Philip, one of the appointed seven, spreads the message to Samaria—fulfilling Jesus' command in Acts 1:8 to carry the gospel beyond Jerusalem.",
+      "sectionHeader": "Philip Preaches in Samaria"
     },
     {
       "pk": 51008006,
@@ -110,7 +112,8 @@
       "verse": 9,
       "text": "But a certain man named Simon, who previously practiced magic in the city and amazed the people of Samaria, claimed to be someone great.",
       "links": "<a href='/AIV/51/8/11'>Acts 8:11</a>; <a href='/AIV/40/24/24'>Matt. 24:24</a>",
-      "comment": "Simon is introduced as a figure representing false miracles and self-exaltation—a contrast to genuine apostolic authority."
+      "comment": "Simon is introduced as a figure representing false miracles and self-exaltation—a contrast to genuine apostolic authority.",
+      "sectionHeader": "Simon the Magician"
     },
     {
       "pk": 51008010,
@@ -170,7 +173,8 @@
       "verse": 14,
       "text": "When the apostles in Jerusalem heard that Samaria had received the word of God, they sent Peter and John to them.",
       "links": "<a href='/AIV/51/1/8'>Acts 1:8</a>; <a href='/AIV/51/6/6'>Acts 6:6</a>",
-      "comment": "Acts of oversight by Peter and John reinforce the principle of unity and leadership through the apostles—a continuing, centralized apostolic witness."
+      "comment": "Acts of oversight by Peter and John reinforce the principle of unity and leadership through the apostles—a continuing, centralized apostolic witness.",
+      "sectionHeader": "Peter and John in Samaria"
     },
     {
       "pk": 51008015,
@@ -314,7 +318,8 @@
       "verse": 26,
       "text": "Now an angel of the Lord spoke to Philip, saying, 'Arise and go south to the road that goes down from Jerusalem to Gaza.'",
       "links": "<a href='/AIV/40/2/13'>Matt. 2:13</a>; <a href='/AIV/01/16/7'>Gen. 16:7</a>",
-      "comment": "Divine guidance comes through angelic messengers, showing God’s direct involvement in expanding the mission to new regions."
+      "comment": "Divine guidance comes through angelic messengers, showing God’s direct involvement in expanding the mission to new regions.",
+      "sectionHeader": "Philip and the Ethiopian Eunuch"
     },
     {
       "pk": 51008027,
@@ -485,5 +490,32 @@
       "comment": "Philip’s continued missionary journey models enduring evangelism, connecting regions through the spread of the one apostolic faith."
     }
   ],
-  "translatedAt": "2025-12-24T11:22:07.918Z"
+  "translatedAt": "2025-12-24T11:22:07.918Z",
+  "sections": [
+    {
+      "title": "Persecution and Scattering of the Church",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "Philip Preaches in Samaria",
+      "startVerse": 5,
+      "endVerse": 8
+    },
+    {
+      "title": "Simon the Magician",
+      "startVerse": 9,
+      "endVerse": 13
+    },
+    {
+      "title": "Peter and John in Samaria",
+      "startVerse": 14,
+      "endVerse": 25
+    },
+    {
+      "title": "Philip and the Ethiopian Eunuch",
+      "startVerse": 26,
+      "endVerse": 40
+    }
+  ]
 }

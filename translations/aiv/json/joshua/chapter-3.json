@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Joshua rose early in the morning, and he and all the Israelites set out from Shittim and came to the Jordan. They stayed there before they crossed over.",
       "links": "<a href='/AIV/4/25/1'>Num. 25:1</a>; <a href='/AIV/6/1/10-11'>Josh. 1:10–11</a>",
-      "comment": "Joshua’s early rising shows his diligence as a leader. Shittim was the Israelites’ final camp before entering the Promised Land (see Num. 25:1), marking a pivotal transition, a prefiguration of new beginnings in the life of God’s people. The pause before crossing highlights the importance of readiness and trust in God."
+      "comment": "Joshua’s early rising shows his diligence as a leader. Shittim was the Israelites’ final camp before entering the Promised Land (see Num. 25:1), marking a pivotal transition, a prefiguration of new beginnings in the life of God’s people. The pause before crossing highlights the importance of readiness and trust in God.",
+      "sectionHeader": "Preparations to Cross the Jordan"
     },
     {
       "pk": 6003002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "And the LORD said to Joshua, 'Today I will begin to exalt you in the sight of all Israel, so that they will know that, just as I was with Moses, so I will be with you.'",
       "links": "<a href='/AIV/6/1/5'>Josh. 1:5</a>; <a href='/AIV/2/3/12'>Ex. 3:12</a>",
-      "comment": "God’s promise to establish Joshua’s authority among the people mirrors Moses’ leadership (see Josh. 1:5). The principle of visible, God-given authority and apostolic succession appears early in Israel’s history and carries over into the New Covenant."
+      "comment": "God’s promise to establish Joshua’s authority among the people mirrors Moses’ leadership (see Josh. 1:5). The principle of visible, God-given authority and apostolic succession appears early in Israel’s history and carries over into the New Covenant.",
+      "sectionHeader": "The Promise of God's Presence"
     },
     {
       "pk": 6003008,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "So when the people set out from their tents to cross the Jordan, with the priests carrying the ark of the covenant ahead of them,",
       "links": "<a href='/AIV/4/10/33'>Num. 10:33</a>; <a href='/AIV/6/3/6'>Josh. 3:6</a>",
-      "comment": "The procession, led by the priests with the ark, demonstrates the essential unity of faith, leadership, and God’s presence—not a private faith, but a shared journey guided by God’s chosen instruments."
+      "comment": "The procession, led by the priests with the ark, demonstrates the essential unity of faith, leadership, and God’s presence—not a private faith, but a shared journey guided by God’s chosen instruments.",
+      "sectionHeader": "Crossing the Jordan River"
     },
     {
       "pk": 6003015,
@@ -209,5 +212,22 @@
       "comment": "The priests standing steady in the river demonstrates steadfast leadership while the people pass through. God uses mediators to provide, protect, and guide His people into the fullness of His promises—foreshadowing Christ, the High Priest, and continual spiritual guidance in the life of the Church."
     }
   ],
-  "translatedAt": "2025-12-24T02:17:57.813Z"
+  "translatedAt": "2025-12-24T02:17:57.813Z",
+  "sections": [
+    {
+      "title": "Preparations to Cross the Jordan",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "The Promise of God's Presence",
+      "startVerse": 7,
+      "endVerse": 13
+    },
+    {
+      "title": "Crossing the Jordan River",
+      "startVerse": 14,
+      "endVerse": 17
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "My brothers, do not hold your faith in our glorious Lord Jesus Christ with an attitude of favoritism.",
       "links": "<a href='/AIV/43/1/14'>John 1:14</a>; <a href='/AIV/48/3/28'>Gal. 3:28</a>",
-      "comment": "James warns believers not to mix faith in Christ with partiality. The term 'glorious' reflects Christ's divine majesty (cf. John 1:14)."
+      "comment": "James warns believers not to mix faith in Christ with partiality. The term 'glorious' reflects Christ's divine majesty (cf. John 1:14).",
+      "sectionHeader": "Warning Against Partiality"
     },
     {
       "pk": 66002002,
@@ -170,7 +171,8 @@
       "verse": 14,
       "text": "What good is it, my brothers, if someone says he has faith but does not have works? Can that faith save him?",
       "links": "<a href='/AIV/40/7/21'>Matt. 7:21</a>; <a href='/AIV/45/2/13'>Rom. 2:13</a>",
-      "comment": "James challenges the idea of a fruitless faith. True faith necessarily produces good works (Matt. 7:21; Rom. 2:13)."
+      "comment": "James challenges the idea of a fruitless faith. True faith necessarily produces good works (Matt. 7:21; Rom. 2:13).",
+      "sectionHeader": "Faith Without Works Is Dead"
     },
     {
       "pk": 66002015,
@@ -317,5 +319,17 @@
       "comment": "James concludes with a strong analogy: faith without works is lifeless. Genuine faith must be animated by works, just as the body must have a spirit (1 Cor. 13:2)."
     }
   ],
-  "translatedAt": "2025-12-24T12:24:49.671Z"
+  "translatedAt": "2025-12-24T12:24:49.671Z",
+  "sections": [
+    {
+      "title": "Warning Against Partiality",
+      "startVerse": 1,
+      "endVerse": 13
+    },
+    {
+      "title": "Faith Without Works Is Dead",
+      "startVerse": 14,
+      "endVerse": 26
+    }
+  ]
 }

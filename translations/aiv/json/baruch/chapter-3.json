@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "O Lord Almighty, God of Israel, the soul in anguish and the troubled spirit cries out to you.",
       "links": "<a href='/AIV/19/130/1-2'>Ps. 130:1-2</a>; <a href='/AIV/19/69/1-3'>Ps. 69:1-3</a>",
-      "comment": "The prayer begins with a heartfelt appeal to the Lord, reminiscent of the penitential psalms, showing a posture of humility before God."
+      "comment": "The prayer begins with a heartfelt appeal to the Lord, reminiscent of the penitential psalms, showing a posture of humility before God.",
+      "sectionHeader": "A Prayer for Mercy and Confession of Sin"
     },
     {
       "pk": 32003002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "Hear, Israel, the commandments of life. Give ear to understand wisdom.",
       "links": "<a href='/AIV/20/4/7'>Prov. 4:7</a>; <a href='/AIV/5/6/4'>Deut. 6:4</a>",
-      "comment": "Wisdom and obedience are linked; life is found in heeding the Lord’s precepts."
+      "comment": "Wisdom and obedience are linked; life is found in heeding the Lord’s precepts.",
+      "sectionHeader": "Exhortation to Pursue Wisdom"
     },
     {
       "pk": 32003010,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "Where are the rulers of the nations, those who lorded over the beasts of the earth?",
       "links": "<a href='/AIV/18/12/23-25'>Job 12:23-25</a>",
-      "comment": "Earthly power is shown to be transient compared to the enduring wisdom of God."
+      "comment": "Earthly power is shown to be transient compared to the enduring wisdom of God.",
+      "sectionHeader": "The Search for Wisdom Among the Nations"
     },
     {
       "pk": 32003016,
@@ -350,7 +353,8 @@
       "verse": 29,
       "text": "But the One who knows all things knows her; He found her by His understanding. It is He who prepared the earth for all time and filled it with four-footed creatures.",
       "links": "<a href='/AIV/1/1/20-25'>Gen. 1:20-25</a>; <a href='/AIV/18/28/23-27'>Job 28:23-27</a>",
-      "comment": "God alone possesses wisdom intrinsically; the creative acts point to divine authorship and governance."
+      "comment": "God alone possesses wisdom intrinsically; the creative acts point to divine authorship and governance.",
+      "sectionHeader": "God, the Source and Giver of Wisdom"
     },
     {
       "pk": 32003030,
@@ -461,5 +465,27 @@
       "comment": "Profoundly anticipates the incarnation of divine wisdom in Christ (John 1:14), affirming both the fulfillment of Old Testament prophecies and the spiritual reality of God dwelling among His people. The verse supports a sacramental view where the divine meets the human physically and spiritually."
     }
   ],
-  "translatedAt": "2025-12-24T08:56:21.949Z"
+  "translatedAt": "2025-12-24T08:56:21.949Z",
+  "sections": [
+    {
+      "title": "A Prayer for Mercy and Confession of Sin",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "Exhortation to Pursue Wisdom",
+      "startVerse": 9,
+      "endVerse": 14
+    },
+    {
+      "title": "The Search for Wisdom Among the Nations",
+      "startVerse": 15,
+      "endVerse": 28
+    },
+    {
+      "title": "God, the Source and Giver of Wisdom",
+      "startVerse": 29,
+      "endVerse": 38
+    }
+  ]
 }

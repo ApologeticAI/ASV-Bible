@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "A good name is better than fine perfume, and the day of death is better than the day of birth.",
       "links": "<a href='/AIV/20/22/1'>Prov. 22:1</a>; <a href='/AIV/19/116/15'>Ps. 116:15</a>",
-      "comment": "A good reputation is highly valued, more lasting than material things. The reference to death exceeding birth points toward the value of a righteous life and hope beyond this world. The wisdom tradition points toward a life lived in holiness being crowned at death. This hints at the spiritual teachings on the value of a holy end."
+      "comment": "A good reputation is highly valued, more lasting than material things. The reference to death exceeding birth points toward the value of a righteous life and hope beyond this world. The wisdom tradition points toward a life lived in holiness being crowned at death. This hints at the spiritual teachings on the value of a holy end.",
+      "sectionHeader": "The Value of Wisdom and the Limits of Pleasure"
     },
     {
       "pk": 25007002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "Consider the work of God: who can make straight what He has made crooked?",
       "links": "<a href='/AIV/18/42/2'>Job 42:2</a>; <a href='/AIV/23/45/9'>Isa. 45:9</a>",
-      "comment": "Humans should recognize their limits before God’s sovereignty. Divine will prevails over all."
+      "comment": "Humans should recognize their limits before God’s sovereignty. Divine will prevails over all.",
+      "sectionHeader": "The Work of God and the Mystery of Providence"
     },
     {
       "pk": 25007014,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "In my vain life I have seen everything: righteous people perishing in their righteousness, and wicked people prolonging their lives in their wickedness.",
       "links": "<a href='/AIV/19/73/3-17'>Ps. 73:3-17</a>",
-      "comment": "Earthly success is not always tied to righteousness, a theme completed in Christ who also suffered though innocent."
+      "comment": "Earthly success is not always tied to righteousness, a theme completed in Christ who also suffered though innocent.",
+      "sectionHeader": "Moderation in Righteousness and Wickedness"
     },
     {
       "pk": 25007016,
@@ -278,7 +281,8 @@
       "verse": 23,
       "text": "All this I have tested by wisdom; I said, 'I will be wise,' but it was far from me.",
       "links": "<a href='/AIV/18/28/20-28'>Job 28:20-28</a>",
-      "comment": "True wisdom is difficult to attain; humility before God’s mystery is the conclusion."
+      "comment": "True wisdom is difficult to attain; humility before God’s mystery is the conclusion.",
+      "sectionHeader": "The Elusiveness of True Wisdom"
     },
     {
       "pk": 25007024,
@@ -353,5 +357,27 @@
       "comment": "Humanity was originally created good, but through their own devices, fell into sin. This anticipates later teachings on original sin and humankind's need for redemption through grace."
     }
   ],
-  "translatedAt": "2025-12-24T07:09:38.552Z"
+  "translatedAt": "2025-12-24T07:09:38.552Z",
+  "sections": [
+    {
+      "title": "The Value of Wisdom and the Limits of Pleasure",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "The Work of God and the Mystery of Providence",
+      "startVerse": 13,
+      "endVerse": 14
+    },
+    {
+      "title": "Moderation in Righteousness and Wickedness",
+      "startVerse": 15,
+      "endVerse": 22
+    },
+    {
+      "title": "The Elusiveness of True Wisdom",
+      "startVerse": 23,
+      "endVerse": 29
+    }
+  ]
 }

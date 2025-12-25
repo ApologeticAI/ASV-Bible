@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The Lord appeared to Abraham by the oaks of Mamre, while he was sitting at the entrance of his tent during the heat of the day.",
       "links": "<a href='/AIV/1/12/7'>Gen 12:7</a>; <a href='/AIV/1/13/18'>Gen 13:18</a>; <a href='/AIV/1/35/9'>Gen 35:9</a>",
-      "comment": "God appears visibly to Abraham, foreshadowing later divine visitations (see Ex 3:2; John 1:14). The location at Mamre is significant for the development of Abraham’s covenant."
+      "comment": "God appears visibly to Abraham, foreshadowing later divine visitations (see Ex 3:2; John 1:14). The location at Mamre is significant for the development of Abraham’s covenant.",
+      "sectionHeader": "The Lord Visits Abraham at Mamre"
     },
     {
       "pk": 1018002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "They said to him, 'Where is Sarah, your wife?' He said, 'She is in the tent.'",
       "links": "<a href='/AIV/1/24/67'>Gen 24:67</a>; <a href='/AIV/23/54/1'>Isa 54:1</a>",
-      "comment": "The angelic visitors’ knowledge reveals their supernatural identity; the narrative now focuses on Sarah’s promised role."
+      "comment": "The angelic visitors’ knowledge reveals their supernatural identity; the narrative now focuses on Sarah’s promised role.",
+      "sectionHeader": "A Son Promised to Sarah"
     },
     {
       "pk": 1018010,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "Then the men got up from there, and looked toward Sodom. Abraham went with them to set them on their way.",
       "links": "<a href='/AIV/1/19/1'>Gen 19:1</a>; <a href='/AIV/1/13/12'>Gen 13:12</a>",
-      "comment": "Abraham’s continued presence shows his favored status and coming mediation for Sodom, a role prefiguring priestly intercession."
+      "comment": "Abraham’s continued presence shows his favored status and coming mediation for Sodom, a role prefiguring priestly intercession.",
+      "sectionHeader": "Abraham Intercedes for Sodom"
     },
     {
       "pk": 1018017,
@@ -401,5 +404,22 @@
       "comment": "The dialogue ends with God’s sovereignty and Abraham’s trusting return. This closes one of the most intimate divine-human conversations in the Old Testament, prefiguring the mediating role given to the leaders and spiritual elders throughout salvation history."
     }
   ],
-  "translatedAt": "2025-12-24T00:19:29.940Z"
+  "translatedAt": "2025-12-24T00:19:29.940Z",
+  "sections": [
+    {
+      "title": "The Lord Visits Abraham at Mamre",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "A Son Promised to Sarah",
+      "startVerse": 9,
+      "endVerse": 15
+    },
+    {
+      "title": "Abraham Intercedes for Sodom",
+      "startVerse": 16,
+      "endVerse": 33
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now these are the commandments, the statutes, and the judgments that the LORD your God commanded me to teach you, that you may do them in the land which you are going over to possess—",
       "links": "<a href='/AIV/3/18/4-5'>Lev 18:4-5</a>; <a href='/AIV/5/4/1'>Deut 4:1</a>",
-      "comment": "Moses introduces the commandments and laws given by the LORD. The structure here prefigures later Christian moral teaching, which upholds commandments, especially in Christ’s summary (Matt 22:37-40)."
+      "comment": "Moses introduces the commandments and laws given by the LORD. The structure here prefigures later Christian moral teaching, which upholds commandments, especially in Christ’s summary (Matt 22:37-40).",
+      "sectionHeader": "Exhortation to Obedience"
     },
     {
       "pk": 5006002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "Hear, O Israel: The LORD our God, the LORD is one.",
       "links": "<a href='/AIV/4/15/41'>Num 15:41</a>; <a href='/AIV/12/19/15'>2 Sam 7:22</a>; <a href='/AIV/41/12/29-30'>Mark 12:29-30</a>",
-      "comment": "This is the 'Shema,' the key declaration of monotheism. Christ affirms this in Mark 12, showing continuity between Old and New Covenants. Early Church worship builds upon this foundation of one God in Trinity (Matt 28:19)."
+      "comment": "This is the 'Shema,' the key declaration of monotheism. Christ affirms this in Mark 12, showing continuity between Old and New Covenants. Early Church worship builds upon this foundation of one God in Trinity (Matt 28:19).",
+      "sectionHeader": "The Greatest Commandment (The Shema)"
     },
     {
       "pk": 5006005,
@@ -122,7 +124,8 @@
       "verse": 10,
       "text": "And when the LORD your God brings you into the land that He swore to your fathers—to Abraham, to Isaac, and to Jacob—to give you, with large and good cities that you did not build,",
       "links": "<a href='/AIV/1/13/15'>Gen 13:15</a>; <a href='/AIV/2/3/17'>Ex 3:17</a>",
-      "comment": "God’s faithfulness to the patriarchs is the basis of His gift. The inheritance is received by grace, not merit (Eph 2:8-9)."
+      "comment": "God’s faithfulness to the patriarchs is the basis of His gift. The inheritance is received by grace, not merit (Eph 2:8-9).",
+      "sectionHeader": "Warning Against Forgetting the LORD"
     },
     {
       "pk": 5006011,
@@ -242,7 +245,8 @@
       "verse": 20,
       "text": "When your son asks you in the future, ‘What is the meaning of the testimonies, statutes, and judgments that the LORD our God commanded you?’",
       "links": "<a href='/AIV/2/12/26'>Ex 12:26</a>; <a href='/AIV/5/4/9'>Deut 4:9</a>",
-      "comment": "Explaining the faith to the next generation is commanded. This points toward the role of instruction and tradition in transmitting the faith (2 Thess 2:15)."
+      "comment": "Explaining the faith to the next generation is commanded. This points toward the role of instruction and tradition in transmitting the faith (2 Thess 2:15).",
+      "sectionHeader": "Instruction to Teach Future Generations"
     },
     {
       "pk": 5006021,
@@ -305,5 +309,27 @@
       "comment": "Obeying God’s law is accounted as righteousness, a theme fulfilled in Christ’s perfect obedience and imparted righteousness for those joined to Him (Rom 3:21-22)."
     }
   ],
-  "translatedAt": "2025-12-24T02:00:09.599Z"
+  "translatedAt": "2025-12-24T02:00:09.599Z",
+  "sections": [
+    {
+      "title": "Exhortation to Obedience",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "The Greatest Commandment (The Shema)",
+      "startVerse": 4,
+      "endVerse": 9
+    },
+    {
+      "title": "Warning Against Forgetting the LORD",
+      "startVerse": 10,
+      "endVerse": 19
+    },
+    {
+      "title": "Instruction to Teach Future Generations",
+      "startVerse": 20,
+      "endVerse": 25
+    }
+  ]
 }

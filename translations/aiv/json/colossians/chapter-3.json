@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "So if you have been raised with Christ, seek the things that are above, where Christ is, seated at the right hand of God.",
       "links": "<a href='/AIV/51/1/20'>Eph. 1:20</a>; <a href='/AIV/19/110/1'>Ps. 110:1</a>",
-      "comment": "Paul begins by connecting the believer's resurrection with Christ to seeking heavenly realities. The imagery of Christ 'seated at the right hand of God' echoes Old Testament prophecy (Ps. 110:1) and shows Christ's divine authority, affirming His divinity. It also hints at our union with Christ being both spiritual and mystical through sharing in His resurrection."
+      "comment": "Paul begins by connecting the believer's resurrection with Christ to seeking heavenly realities. The imagery of Christ 'seated at the right hand of God' echoes Old Testament prophecy (Ps. 110:1) and shows Christ's divine authority, affirming His divinity. It also hints at our union with Christ being both spiritual and mystical through sharing in His resurrection.",
+      "sectionHeader": "Life in Christ"
     },
     {
       "pk": 58003002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "Therefore, put to death what is earthly in you: sexual immorality, impurity, passion, evil desire, and greed—which is idolatry.",
       "links": "<a href='/AIV/49/4/19'>Eph. 4:19</a>; <a href='/AIV/45/1/29'>Rom. 1:29</a>",
-      "comment": "Paul commands a decisive break with sin, likening these sinful tendencies (especially greed) to idolatry. The implication is that true conversion leads to real moral transformation, made possible by God's grace."
+      "comment": "Paul commands a decisive break with sin, likening these sinful tendencies (especially greed) to idolatry. The implication is that true conversion leads to real moral transformation, made possible by God's grace.",
+      "sectionHeader": "Put On the New Self"
     },
     {
       "pk": 58003006,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "Therefore, as God’s chosen ones, holy and dearly loved, clothe yourselves with compassion, kindness, humility, gentleness, and patience.",
       "links": "<a href='/AIV/45/12/10'>Rom. 12:10</a>; <a href='/AIV/49/4/2'>Eph. 4:2</a>",
-      "comment": "Paul’s list of virtues echoes the fruit of the Spirit and describes what believers, as God's chosen people, should manifest. ‘Holy and dearly loved’ implies both a status and vocation to live faithfully, nurtured in the life of grace."
+      "comment": "Paul’s list of virtues echoes the fruit of the Spirit and describes what believers, as God's chosen people, should manifest. ‘Holy and dearly loved’ implies both a status and vocation to live faithfully, nurtured in the life of grace.",
+      "sectionHeader": "Christian Virtues"
     },
     {
       "pk": 58003013,
@@ -218,7 +221,8 @@
       "verse": 18,
       "text": "Wives, submit to your husbands, as is fitting in the Lord.",
       "links": "<a href='/AIV/49/5/22'>Eph. 5:22</a>; <a href='/AIV/60/3/1'>1 Pet. 3:1</a>",
-      "comment": "Paul gives household instructions here; 'as is fitting in the Lord' shows that this submission is part of Christian discipleship, not servility, mirroring the self-giving love found in Christ."
+      "comment": "Paul gives household instructions here; 'as is fitting in the Lord' shows that this submission is part of Christian discipleship, not servility, mirroring the self-giving love found in Christ.",
+      "sectionHeader": "Rules for Christian Households"
     },
     {
       "pk": 58003019,
@@ -266,7 +270,8 @@
       "verse": 22,
       "text": "Servants, obey in everything those who are your earthly masters, not only when they are watching, as people-pleasers, but with sincerity of heart, fearing the Lord.",
       "links": "<a href='/AIV/49/6/5'>Eph. 6:5</a>; <a href='/AIV/60/2/18'>1 Pet. 2:18</a>",
-      "comment": "Work should be offered sincerely, as service to God himself. This teaching instills both dignity and spiritual value in all labor, a concept developed by the early teachers of the apostolic faith."
+      "comment": "Work should be offered sincerely, as service to God himself. This teaching instills both dignity and spiritual value in all labor, a concept developed by the early teachers of the apostolic faith.",
+      "sectionHeader": "Duties of Slaves"
     },
     {
       "pk": 58003023,
@@ -305,5 +310,32 @@
       "comment": "Paul closes by affirming the impartial justice of God. Every action has consequences, highlighting God’s fairness and encouraging accountability and moral responsibility within the life of faith."
     }
   ],
-  "translatedAt": "2025-12-24T12:07:12.063Z"
+  "translatedAt": "2025-12-24T12:07:12.063Z",
+  "sections": [
+    {
+      "title": "Life in Christ",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "Put On the New Self",
+      "startVerse": 5,
+      "endVerse": 11
+    },
+    {
+      "title": "Christian Virtues",
+      "startVerse": 12,
+      "endVerse": 17
+    },
+    {
+      "title": "Rules for Christian Households",
+      "startVerse": 18,
+      "endVerse": 21
+    },
+    {
+      "title": "Duties of Slaves",
+      "startVerse": 22,
+      "endVerse": 25
+    }
+  ]
 }

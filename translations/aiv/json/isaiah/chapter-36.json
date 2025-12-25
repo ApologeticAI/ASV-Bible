@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In the fourteenth year of King Hezekiah, Sennacherib king of Assyria came up against all the fortified cities of Judah and seized them.",
       "links": "<a href='/AIV/12/18/13'>2 Kings 18:13</a>; <a href='/AIV/14/32/1'>2 Chronicles 32:1</a>",
-      "comment": "This verse sets the historical stage, referencing the Assyrian invasion during Hezekiah's reign. The deliberate mention of the fortified cities implies a picture of Judah’s vulnerability and a test for faithfulness (also see <a href='/AIV/23/22/7'>Isaiah 22:7</a>)."
+      "comment": "This verse sets the historical stage, referencing the Assyrian invasion during Hezekiah's reign. The deliberate mention of the fortified cities implies a picture of Judah’s vulnerability and a test for faithfulness (also see <a href='/AIV/23/22/7'>Isaiah 22:7</a>).",
+      "sectionHeader": "Sennacherib Invades Judah"
     },
     {
       "pk": 29036002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "Rabshakeh said to them, 'Please tell Hezekiah: “This is what the great king, the king of Assyria, says: What is this confidence you have?”'",
       "links": "<a href='/AIV/12/18/19'>2 Kings 18:19</a>",
-      "comment": "The interrogation touches on the foundation of faith, questioning Hezekiah’s trust. In spiritual application, this prompts reflection on the object of our confidence in dire circumstances."
+      "comment": "The interrogation touches on the foundation of faith, questioning Hezekiah’s trust. In spiritual application, this prompts reflection on the object of our confidence in dire circumstances.",
+      "sectionHeader": "Rabshakeh Challenges Hezekiah’s Trust"
     },
     {
       "pk": 29036005,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "Then Rabshakeh stood and called out in a loud voice in Judean: 'Hear the words of the great king, the king of Assyria!'",
       "links": "<a href='/AIV/12/18/28'>2 Kings 18:28</a>",
-      "comment": "Rabshakeh speaks in the common tongue to spread fear directly among the people. The call to 'hear' echoes biblical exhortations to listen to the true voice of authority and discern truth from falsehood."
+      "comment": "Rabshakeh speaks in the common tongue to spread fear directly among the people. The call to 'hear' echoes biblical exhortations to listen to the true voice of authority and discern truth from falsehood.",
+      "sectionHeader": "Rabshakeh Warns the People of Jerusalem"
     },
     {
       "pk": 29036014,
@@ -254,7 +257,8 @@
       "verse": 21,
       "text": "But the people remained silent and did not answer him at all, for the king’s command was, ‘Do not answer him.’",
       "links": "<a href='/AIV/23/37/3'>Isaiah 37:3</a>",
-      "comment": "Obedience to the king’s command shows discipline and trust in authority, echoing the biblical principle of submission to appointed leaders during crisis, and awaits God’s response."
+      "comment": "Obedience to the king’s command shows discipline and trust in authority, echoing the biblical principle of submission to appointed leaders during crisis, and awaits God’s response.",
+      "sectionHeader": "The People Remain Silent"
     },
     {
       "pk": 29036022,
@@ -269,5 +273,27 @@
       "comment": "Torn clothes symbolize grief and humility, common in biblical depictions of repentance and crisis. This submission and approach to the king set the stage for intercessory prayer and God’s intervention—reminding believers of the necessity of spiritual leadership, prayerful response, and unity under God’s authority."
     }
   ],
-  "translatedAt": "2025-12-24T08:07:17.022Z"
+  "translatedAt": "2025-12-24T08:07:17.022Z",
+  "sections": [
+    {
+      "title": "Sennacherib Invades Judah",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "Rabshakeh Challenges Hezekiah’s Trust",
+      "startVerse": 4,
+      "endVerse": 12
+    },
+    {
+      "title": "Rabshakeh Warns the People of Jerusalem",
+      "startVerse": 13,
+      "endVerse": 20
+    },
+    {
+      "title": "The People Remain Silent",
+      "startVerse": 21,
+      "endVerse": 22
+    }
+  ]
 }

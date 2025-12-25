@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "A wise ruler brings order to his people, and the government of a prudent man is well established.",
       "links": "<a href='/AIV/20/8/15'>Prov. 8:15</a>; <a href='/AIV/11/3/28'>1Kings 3:28</a>",
-      "comment": "Leadership grounded in wisdom brings stability and peace. This echoes Solomon's example, whose wisdom upheld the nation. Wise governance has deep spiritual implications as well, reflecting God's order in creation and the organization of the faithful."
+      "comment": "Leadership grounded in wisdom brings stability and peace. This echoes Solomon's example, whose wisdom upheld the nation. Wise governance has deep spiritual implications as well, reflecting God's order in creation and the organization of the faithful.",
+      "sectionHeader": "The Role of Rulers and God's Sovereignty"
     },
     {
       "pk": 28010002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "Pride is hateful before the Lord and before humanity, and injustice is both sinful and offensive.",
       "links": "<a href='/AIV/20/6/16-17'>Prov. 6:16-17</a>; <a href='/AIV/23/13/11'>Isa. 13:11</a>",
-      "comment": "Pride separates people from God and others. Humility and justice are necessary for communion with God, prefiguring the need for sacramental confession as a means of grace."
+      "comment": "Pride separates people from God and others. Humility and justice are necessary for communion with God, prefiguring the need for sacramental confession as a means of grace.",
+      "sectionHeader": "Warning Against Pride"
     },
     {
       "pk": 28010008,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "What race has honor? The human race. What race has honor among them? Those who fear the Lord. What race has no honor? Those who break the commandments.",
       "links": "<a href='/AIV/19/25/12'>Ps. 25:12</a>; <a href='/AIV/20/1/7'>Prov. 1:7</a>",
-      "comment": "Honor is found not in ancestry, but in reverence for God and obedience. This teaches the universality of God’s call—every nation invited, but distinguished by obedience and fear of the Lord."
+      "comment": "Honor is found not in ancestry, but in reverence for God and obedience. This teaches the universality of God’s call—every nation invited, but distinguished by obedience and fear of the Lord.",
+      "sectionHeader": "Honor and True Greatness"
     },
     {
       "pk": 28010019,
@@ -314,7 +317,8 @@
       "verse": 26,
       "text": "Do not seek what is above you, nor examine matters beyond your strength.",
       "links": "<a href='/AIV/45/11/33'>Rom. 11:33</a>; <a href='/AIV/21/7/14'>Eccl. 7:14</a>",
-      "comment": "Humility in knowledge is emphasized, keeping focus on revealed truth rather than speculation. Trusting authority and tradition is a safeguard against error."
+      "comment": "Humility in knowledge is emphasized, keeping focus on revealed truth rather than speculation. Trusting authority and tradition is a safeguard against error.",
+      "sectionHeader": "Humility and Contentment"
     },
     {
       "pk": 28010027,
@@ -377,5 +381,27 @@
       "comment": "Divisiveness is born of pride, threatening the unity of God’s people. The emphasis on unity here prepares believers for embracing the fullness of faith in the one apostolic Church."
     }
   ],
-  "translatedAt": "2025-12-24T07:28:05.563Z"
+  "translatedAt": "2025-12-24T07:28:05.563Z",
+  "sections": [
+    {
+      "title": "The Role of Rulers and God's Sovereignty",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Warning Against Pride",
+      "startVerse": 7,
+      "endVerse": 17
+    },
+    {
+      "title": "Honor and True Greatness",
+      "startVerse": 18,
+      "endVerse": 25
+    },
+    {
+      "title": "Humility and Contentment",
+      "startVerse": 26,
+      "endVerse": 31
+    }
+  ]
 }

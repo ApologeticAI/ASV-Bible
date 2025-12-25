@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The beginning of the gospel of Jesus Christ, the Son of God.",
       "links": "<a href='/AIV/40/16/16'>Matt. 16:16</a>; <a href='/AIV/43/20/31'>John 20:31</a>",
-      "comment": "Mark starts with a clear declaration of Jesus' divinity, explicitly calling Him 'the Son of God.' This direct Christological statement prepares the reader to see everything that follows in light of Jesus’ divine identity."
+      "comment": "Mark starts with a clear declaration of Jesus' divinity, explicitly calling Him 'the Son of God.' This direct Christological statement prepares the reader to see everything that follows in light of Jesus’ divine identity.",
+      "sectionHeader": "The Preaching of John the Baptist"
     },
     {
       "pk": 48001002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "In those days, Jesus came from Nazareth in Galilee and was baptized by John in the Jordan.",
       "links": "<a href='/AIV/40/3/13'>Matt. 3:13</a>",
-      "comment": "Jesus, though sinless, submits to baptism to fulfill all righteousness, identifying Himself with humanity and heralding His redemptive mission."
+      "comment": "Jesus, though sinless, submits to baptism to fulfill all righteousness, identifying Himself with humanity and heralding His redemptive mission.",
+      "sectionHeader": "The Baptism and Temptation of Jesus"
     },
     {
       "pk": 48001010,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "After John was arrested, Jesus went into Galilee, proclaiming the gospel of God.",
       "links": "<a href='/AIV/40/4/12'>Matt. 4:12</a>",
-      "comment": "This marks Jesus’ public ministry as the Good News bearer—following prophetic tradition and showing the orderly transition from John to Jesus."
+      "comment": "This marks Jesus’ public ministry as the Good News bearer—following prophetic tradition and showing the orderly transition from John to Jesus.",
+      "sectionHeader": "The Beginning of Jesus’ Ministry in Galilee"
     },
     {
       "pk": 48001015,
@@ -194,7 +197,8 @@
       "verse": 16,
       "text": "As Jesus was walking beside the Sea of Galilee, he saw Simon and his brother Andrew casting a net into the sea, for they were fishermen.",
       "links": "<a href='/AIV/40/4/18'>Matt. 4:18</a>",
-      "comment": "Jesus calls ordinary people, elevating their natural labor to supernatural vocation—an enduring theme of Christian purpose."
+      "comment": "Jesus calls ordinary people, elevating their natural labor to supernatural vocation—an enduring theme of Christian purpose.",
+      "sectionHeader": "The Call of the First Disciples"
     },
     {
       "pk": 48001017,
@@ -254,7 +258,8 @@
       "verse": 21,
       "text": "They went into Capernaum, and immediately on the Sabbath Jesus entered the synagogue and began to teach.",
       "links": "<a href='/AIV/42/4/31'>Luke 4:31'</a>",
-      "comment": "Jesus participates in synagogue worship—demonstrating the importance of corporate worship in Christian community."
+      "comment": "Jesus participates in synagogue worship—demonstrating the importance of corporate worship in Christian community.",
+      "sectionHeader": "Jesus Heals and Casts Out Demons in Capernaum"
     },
     {
       "pk": 48001022,
@@ -422,7 +427,8 @@
       "verse": 35,
       "text": "Early in the morning, while it was still dark, Jesus got up, left the house, and went to a solitary place, where he prayed.",
       "links": "<a href='/AIV/42/5/16'>Luke 5:16</a>; <a href='/AIV/19/5/3'>Ps. 5:3</a>",
-      "comment": "Jesus models regular personal prayer, showing the rhythm between public ministry and private devotion—informing later Christian spirituality and liturgical rhythm."
+      "comment": "Jesus models regular personal prayer, showing the rhythm between public ministry and private devotion—informing later Christian spirituality and liturgical rhythm.",
+      "sectionHeader": "Jesus Prays and Preaches Throughout Galilee"
     },
     {
       "pk": 48001036,
@@ -482,7 +488,8 @@
       "verse": 40,
       "text": "A leper came to him, begging him and kneeling, saying, 'If you are willing, you can make me clean.'",
       "links": "<a href='/AIV/40/8/2'>Matt. 8:2</a>; <a href='/AIV/42/5/12'>Luke 5:12</a>",
-      "comment": "Physical healing is linked with ritual purity; the leper’s prayer is an act of faith, prefiguring sacraments that confer grace through Christ’s mediation."
+      "comment": "Physical healing is linked with ritual purity; the leper’s prayer is an act of faith, prefiguring sacraments that confer grace through Christ’s mediation.",
+      "sectionHeader": "Jesus Heals a Leper"
     },
     {
       "pk": 48001041,
@@ -545,5 +552,42 @@
       "comment": "Even when Jesus withdraws, people seek Him—inaugurating a pattern of seeking Christ through faith and sacramental means even when His presence is veiled, a foundation for enduring Christian devotion."
     }
   ],
-  "translatedAt": "2025-12-24T10:22:10.621Z"
+  "translatedAt": "2025-12-24T10:22:10.621Z",
+  "sections": [
+    {
+      "title": "The Preaching of John the Baptist",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "The Baptism and Temptation of Jesus",
+      "startVerse": 9,
+      "endVerse": 13
+    },
+    {
+      "title": "The Beginning of Jesus’ Ministry in Galilee",
+      "startVerse": 14,
+      "endVerse": 15
+    },
+    {
+      "title": "The Call of the First Disciples",
+      "startVerse": 16,
+      "endVerse": 20
+    },
+    {
+      "title": "Jesus Heals and Casts Out Demons in Capernaum",
+      "startVerse": 21,
+      "endVerse": 34
+    },
+    {
+      "title": "Jesus Prays and Preaches Throughout Galilee",
+      "startVerse": 35,
+      "endVerse": 39
+    },
+    {
+      "title": "Jesus Heals a Leper",
+      "startVerse": 40,
+      "endVerse": 45
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "O Lord, the king rejoices in Your strength; how greatly he celebrates Your deliverance!",
       "links": "<a href='/AIV/19/20/6'>Ps 20:6</a>; <a href='/AIV/19/28/7'>Ps 28:7</a>",
-      "comment": "This verse praises God as the source of victory and salvation. The king's joy points to recognition that all deliverance comes from God, prefiguring the ultimate King, Christ, who rejoices in the Father’s will (see Luke 10:21)."
+      "comment": "This verse praises God as the source of victory and salvation. The king's joy points to recognition that all deliverance comes from God, prefiguring the ultimate King, Christ, who rejoices in the Father’s will (see Luke 10:21).",
+      "sectionHeader": "Thanksgiving for Victory and Kingship"
     },
     {
       "pk": 23021002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Your hand will find all Your enemies; Your right hand will seize those who hate You.",
       "links": "<a href='/AIV/19/2/9'>Ps 2:9</a>; <a href='/AIV/19/110/5'>Ps 110:5</a>",
-      "comment": "God’s power extends over all the king’s enemies. This verse foreshadows the final judgment, when all opposition to God is defeated (Rev 19:15)."
+      "comment": "God’s power extends over all the king’s enemies. This verse foreshadows the final judgment, when all opposition to God is defeated (Rev 19:15).",
+      "sectionHeader": "Judgment on the King’s Enemies"
     },
     {
       "pk": 23021009,
@@ -158,8 +160,26 @@
       "verse": 13,
       "text": "Be exalted, O Lord, in Your strength! We will sing and praise Your power.",
       "links": "<a href='/AIV/19/18/46'>Ps 18:46</a>; <a href='/AIV/19/22/22'>Ps 22:22</a>",
-      "comment": "The psalm closes in doxology, focusing worship on God’s power and exaltation, a theme picked up in the New Testament’s worship of Christ, the victorious King (Phil 2:11; Rev 5:12-13)."
+      "comment": "The psalm closes in doxology, focusing worship on God’s power and exaltation, a theme picked up in the New Testament’s worship of Christ, the victorious King (Phil 2:11; Rev 5:12-13).",
+      "sectionHeader": "Praise for God's Power"
     }
   ],
-  "translatedAt": "2025-12-24T06:05:29.170Z"
+  "translatedAt": "2025-12-24T06:05:29.170Z",
+  "sections": [
+    {
+      "title": "Thanksgiving for Victory and Kingship",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Judgment on the King’s Enemies",
+      "startVerse": 8,
+      "endVerse": 12
+    },
+    {
+      "title": "Praise for God's Power",
+      "startVerse": 13,
+      "endVerse": 13
+    }
+  ]
 }

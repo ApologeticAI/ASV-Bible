@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now Joshua was old and advanced in years. The Lord said to him, 'You are old and advanced in years, and much of the land still remains to be possessed.'",
       "links": "<a href='/AIV/6/14/10'>Josh. 14:10</a>",
-      "comment": "The Lord’s direct speech to Joshua underlines his leadership and accountability. Even in advanced age, God’s mission is not finished, symbolizing the ongoing call for faithfulness. See also Num. 27:18-23."
+      "comment": "The Lord’s direct speech to Joshua underlines his leadership and accountability. Even in advanced age, God’s mission is not finished, symbolizing the ongoing call for faithfulness. See also Num. 27:18-23.",
+      "sectionHeader": "Unconquered Lands and Command to Divide Them"
     },
     {
       "pk": 6013002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Together with the tribe of Reuben and the tribe of Gad, the other half-tribe of Manasseh had received their inheritance, which Moses gave them beyond the Jordan eastward, just as Moses the servant of the Lord gave them—",
       "links": "<a href='/AIV/4/34/14-15'>Num. 34:14-15</a>",
-      "comment": "These tribes' early inheritance east of the Jordan demonstrates both diversity and unity within God's people—a theme explored more fully in New Testament teaching on the Church (see 1 Cor. 12:12-13)."
+      "comment": "These tribes' early inheritance east of the Jordan demonstrates both diversity and unity within God's people—a theme explored more fully in New Testament teaching on the Church (see 1 Cor. 12:12-13).",
+      "sectionHeader": "The Allotment East of the Jordan"
     },
     {
       "pk": 6013009,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "Moses gave to the tribe of the sons of Reuben, according to their families, their portion.",
       "links": "<a href='/AIV/4/32/33-37'>Num. 32:33-37</a>",
-      "comment": "Allocation of land by family foreshadows deeper unity and communion that Christ would offer (see John 17:21)."
+      "comment": "Allocation of land by family foreshadows deeper unity and communion that Christ would offer (see John 17:21).",
+      "sectionHeader": "Inheritance of the Tribe of Reuben"
     },
     {
       "pk": 6013016,
@@ -290,7 +293,8 @@
       "verse": 24,
       "text": "Moses gave to the tribe of Gad, to the people of Gad, according to their families, their portion.",
       "links": "<a href='/AIV/4/32/34-36'>Num. 32:34-36</a>",
-      "comment": "Gad's inheritance, like Reuben’s, emphasizes that God’s blessing is distributed through His chosen means and order."
+      "comment": "Gad's inheritance, like Reuben’s, emphasizes that God’s blessing is distributed through His chosen means and order.",
+      "sectionHeader": "Inheritance of the Tribe of Gad"
     },
     {
       "pk": 6013025,
@@ -350,7 +354,8 @@
       "verse": 29,
       "text": "Moses gave to the half-tribe of Manasseh; it was for the half-tribe of the sons of Manasseh according to their families.",
       "links": "<a href='/AIV/4/32/39-42'>Num. 32:39-42</a>",
-      "comment": "The mention of Manasseh’s half-tribe reminds us that God’s blessings are apportioned with wisdom and care."
+      "comment": "The mention of Manasseh’s half-tribe reminds us that God’s blessings are apportioned with wisdom and care.",
+      "sectionHeader": "Inheritance of the Half-Tribe of Manasseh"
     },
     {
       "pk": 6013030,
@@ -401,5 +406,32 @@
       "comment": "The Levites' unique calling sets the pattern for those given wholly to God’s service, emphasizing the value of priesthood and spiritual devotion—a theme fulfilled in the New Testament by Christ, our perfect High Priest (<a href='/AIV/58/4/14-16'>Heb. 4:14-16</a>)."
     }
   ],
-  "translatedAt": "2025-12-24T02:23:51.240Z"
+  "translatedAt": "2025-12-24T02:23:51.240Z",
+  "sections": [
+    {
+      "title": "Unconquered Lands and Command to Divide Them",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "The Allotment East of the Jordan",
+      "startVerse": 8,
+      "endVerse": 14
+    },
+    {
+      "title": "Inheritance of the Tribe of Reuben",
+      "startVerse": 15,
+      "endVerse": 23
+    },
+    {
+      "title": "Inheritance of the Tribe of Gad",
+      "startVerse": 24,
+      "endVerse": 28
+    },
+    {
+      "title": "Inheritance of the Half-Tribe of Manasseh",
+      "startVerse": 29,
+      "endVerse": 33
+    }
+  ]
 }

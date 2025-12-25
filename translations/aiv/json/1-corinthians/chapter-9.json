@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Am I not free? Am I not an apostle? Have I not seen Jesus our Lord? Are you not my work in the Lord?",
       "links": "<a href='/AIV/44/9/3-5'>Acts 9:3-5</a>; <a href='/AIV/46/15/8'>1 Cor. 15:8</a>",
-      "comment": "Paul begins by asserting his apostolic authority and reminds them he has personally seen the risen Jesus, a requirement for apostleship. His claim is both literal (witness to Christ) and spiritual (appointed authority)."
+      "comment": "Paul begins by asserting his apostolic authority and reminds them he has personally seen the risen Jesus, a requirement for apostleship. His claim is both literal (witness to Christ) and spiritual (appointed authority).",
+      "sectionHeader": "The Rights of an Apostle"
     },
     {
       "pk": 53009002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "But I have used none of these rights, nor have I written these things so that it would be done in my case; for I would rather die than have anyone deprive me of my reason for boasting.",
       "links": "<a href='/AIV/47/11/9'>2 Cor. 11:9</a>",
-      "comment": "Paul’s example encourages sacrificial giving and humility—an ideal of ministry that is both deeply Christological and communal."
+      "comment": "Paul’s example encourages sacrificial giving and humility—an ideal of ministry that is both deeply Christological and communal.",
+      "sectionHeader": "Paul's Renunciation of His Rights"
     },
     {
       "pk": 53009016,
@@ -230,7 +232,8 @@
       "verse": 19,
       "text": "For though I am free from all, I have made myself a servant to all, that I might win more of them.",
       "links": "<a href='/AIV/45/1/14'>Rom. 1:14</a>; <a href='/AIV/48/5/13'>Gal. 5:13</a>",
-      "comment": "This imitation of Christ (see Phil. 2:7) points to spiritual leadership through humble service, a model for all church leaders."
+      "comment": "This imitation of Christ (see Phil. 2:7) points to spiritual leadership through humble service, a model for all church leaders.",
+      "sectionHeader": "Serving All for the Gospel"
     },
     {
       "pk": 53009020,
@@ -290,7 +293,8 @@
       "verse": 24,
       "text": "Do you not know that in a race all the runners run, but only one receives the prize? Run in such a way that you may win.",
       "links": "<a href='/AIV/50/3/14'>Phil. 3:14</a>; <a href='/AIV/58/12/1'>Heb. 12:1</a>",
-      "comment": "Paul uses the imagery of athletic discipline—reminding believers of the need for perseverance and intentional striving for holiness."
+      "comment": "Paul uses the imagery of athletic discipline—reminding believers of the need for perseverance and intentional striving for holiness.",
+      "sectionHeader": "Self-Discipline in the Race for Salvation"
     },
     {
       "pk": 53009025,
@@ -329,5 +333,27 @@
       "comment": "Paul teaches that self-mastery is essential for all Christians. Even apostles must persevere to the end, as assurance does not exclude the need for continued faith and obedience."
     }
   ],
-  "translatedAt": "2025-12-24T11:48:04.406Z"
+  "translatedAt": "2025-12-24T11:48:04.406Z",
+  "sections": [
+    {
+      "title": "The Rights of an Apostle",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "Paul's Renunciation of His Rights",
+      "startVerse": 15,
+      "endVerse": 18
+    },
+    {
+      "title": "Serving All for the Gospel",
+      "startVerse": 19,
+      "endVerse": 23
+    },
+    {
+      "title": "Self-Discipline in the Race for Salvation",
+      "startVerse": 24,
+      "endVerse": 27
+    }
+  ]
 }

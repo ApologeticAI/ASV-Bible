@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now concerning the matters you wrote about: It is good for a man not to touch a woman.",
       "links": "<a href='/AIV/46/7/8-9'>1Cor 7:8-9</a>",
-      "comment": "Paul begins to address their questions about marriage and singleness. The phrase 'not to touch a woman' is a Jewish idiom for sexual relations. Note that Paul is not commanding celibacy but acknowledging its goodness, anticipating his following contextual instructions."
+      "comment": "Paul begins to address their questions about marriage and singleness. The phrase 'not to touch a woman' is a Jewish idiom for sexual relations. Note that Paul is not commanding celibacy but acknowledging its goodness, anticipating his following contextual instructions.",
+      "sectionHeader": "Marriage and Celibacy"
     },
     {
       "pk": 53007002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "To the married I give this command—not I but the Lord—that the wife should not separate from her husband.",
       "links": "<a href='/AIV/40/19/6'>Matt 19:6</a>; <a href='/AIV/41/10/9'>Mark 10:9</a>",
-      "comment": "Paul appeals directly to the Lord’s teaching on the permanence of marriage, as in Matt 19 and Mark 10, where Jesus upholds the inseparability of husband and wife."
+      "comment": "Paul appeals directly to the Lord’s teaching on the permanence of marriage, as in Matt 19 and Mark 10, where Jesus upholds the inseparability of husband and wife.",
+      "sectionHeader": "Instructions to the Married and Unmarried"
     },
     {
       "pk": 53007011,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "To the rest I say—I, not the Lord—that if any brother has a wife who is not a believer, and she consents to live with him, he should not divorce her.",
       "links": "<a href='/AIV/60/3/1'>1 Pet 3:1</a>",
-      "comment": "Here Paul offers inspired guidance on mixed marriages not directly addressed by Jesus. Peace and unity within marriage are still priorities, even when faith differs."
+      "comment": "Here Paul offers inspired guidance on mixed marriages not directly addressed by Jesus. Peace and unity within marriage are still priorities, even when faith differs.",
+      "sectionHeader": "Mixed Marriages"
     },
     {
       "pk": 53007013,
@@ -206,7 +209,8 @@
       "verse": 17,
       "text": "Only let each one lead the life that the Lord has assigned to him, and to which God has called him. This is my rule in all the churches.",
       "links": "<a href='/AIV/49/4/1'>Eph 4:1</a>",
-      "comment": "Paul highlights vocational calling. Contentment and obedience within one’s station are stressed—unity in diversity, foundational for the apostolic tradition."
+      "comment": "Paul highlights vocational calling. Contentment and obedience within one’s station are stressed—unity in diversity, foundational for the apostolic tradition.",
+      "sectionHeader": "Live as You Are Called"
     },
     {
       "pk": 53007018,
@@ -302,7 +306,8 @@
       "verse": 25,
       "text": "Now concerning virgins, I have no command from the Lord, but I give my opinion as one who by the Lord’s mercy is trustworthy.",
       "links": "<a href='/AIV/47/11/17'>2Cor 11:17</a>",
-      "comment": "Paul distinguishes this advice from a direct command, yet his apostolic wisdom is still authoritative for practical guidance."
+      "comment": "Paul distinguishes this advice from a direct command, yet his apostolic wisdom is still authoritative for practical guidance.",
+      "sectionHeader": "Advice to Virgins and the Unmarried"
     },
     {
       "pk": 53007026,
@@ -470,7 +475,8 @@
       "verse": 39,
       "text": "A wife is bound to her husband as long as he lives. But if her husband dies, she is free to marry whomever she wishes, only in the Lord.",
       "links": "<a href='/AIV/45/7/2-3'>Rom 7:2-3</a>",
-      "comment": "Marriage is lifelong, and remarriage after death is honorable so long as it is within the Christian faith. Marital faithfulness until death echoes the covenant fidelity God models with his people."
+      "comment": "Marriage is lifelong, and remarriage after death is honorable so long as it is within the Christian faith. Marital faithfulness until death echoes the covenant fidelity God models with his people.",
+      "sectionHeader": "Widows and Remarriage"
     },
     {
       "pk": 53007040,
@@ -485,5 +491,37 @@
       "comment": "Paul gently reiterates the advantage of the dedicated single life, trusting the Spirit's guidance in such practical counsel. He models discernment, humility, and reliance on God’s Spirit for vocational decisions."
     }
   ],
-  "translatedAt": "2025-12-24T11:47:00.949Z"
+  "translatedAt": "2025-12-24T11:47:00.949Z",
+  "sections": [
+    {
+      "title": "Marriage and Celibacy",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "Instructions to the Married and Unmarried",
+      "startVerse": 10,
+      "endVerse": 11
+    },
+    {
+      "title": "Mixed Marriages",
+      "startVerse": 12,
+      "endVerse": 16
+    },
+    {
+      "title": "Live as You Are Called",
+      "startVerse": 17,
+      "endVerse": 24
+    },
+    {
+      "title": "Advice to Virgins and the Unmarried",
+      "startVerse": 25,
+      "endVerse": 38
+    },
+    {
+      "title": "Widows and Remarriage",
+      "startVerse": 39,
+      "endVerse": 40
+    }
+  ]
 }

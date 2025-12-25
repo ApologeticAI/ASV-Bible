@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then Job answered the LORD and said:",
       "links": "<a href='/AIV/22/40/3-5'>Job 40:3-5</a>",
-      "comment": "This verse introduces Job's final reply to God. Job now speaks directly to the LORD, signaling the culmination of his journey through suffering and dialogue. The direct address to God emphasizes the personal nature of Job's relationship with the LORD, pointing toward God's desire for the believer’s open heart and humility before Him."
+      "comment": "This verse introduces Job's final reply to God. Job now speaks directly to the LORD, signaling the culmination of his journey through suffering and dialogue. The direct address to God emphasizes the personal nature of Job's relationship with the LORD, pointing toward God's desire for the believer’s open heart and humility before Him.",
+      "sectionHeader": "Job’s Repentance and Submission"
     },
     {
       "pk": 22042002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "After the LORD had spoken these words to Job, he said to Eliphaz the Temanite: \"My anger burns against you and against your two friends, because you have not spoken of me what is right, as my servant Job has.\"",
       "links": "<a href='/AIV/22/32/1-2'>Job 32:1-2</a>; <a href='/AIV/19/50/17'>Ps. 50:17</a>",
-      "comment": "God rebukes Job’s friends for their error and upholds Job as his 'servant.' Here, accuracy in speaking about God is highlighted. The commission to be a servant and to speak rightly recalls the role of teachers and leaders in the faith—those called to faithful doctrine and rightly interpreting Scriptures (<a href='/AIV/59/3/1'>James 3:1</a>)."
+      "comment": "God rebukes Job’s friends for their error and upholds Job as his 'servant.' Here, accuracy in speaking about God is highlighted. The commission to be a servant and to speak rightly recalls the role of teachers and leaders in the faith—those called to faithful doctrine and rightly interpreting Scriptures (<a href='/AIV/59/3/1'>James 3:1</a>).",
+      "sectionHeader": "The Lord Rebukes Job’s Friends"
     },
     {
       "pk": 22042008,
@@ -122,7 +124,8 @@
       "verse": 10,
       "text": "And the LORD restored Job’s fortunes, when he had prayed for his friends. And the LORD gave Job twice as much as he had before.",
       "links": "<a href='/AIV/22/1/2-3'>Job 1:2-3</a>; <a href='/AIV/23/61/7'>Isa. 61:7</a>",
-      "comment": "Job’s intercession leads directly to his restoration. Note the emphasis on prayer for others bringing blessing upon oneself—a principle seen elsewhere in Scripture (cf. Matt. 6:14; Jas. 5:16). The doubling of Job’s blessings represents the lavish abundance God bestows on the faithful who persist through suffering."
+      "comment": "Job’s intercession leads directly to his restoration. Note the emphasis on prayer for others bringing blessing upon oneself—a principle seen elsewhere in Scripture (cf. Matt. 6:14; Jas. 5:16). The doubling of Job’s blessings represents the lavish abundance God bestows on the faithful who persist through suffering.",
+      "sectionHeader": "Job’s Restoration and Blessing"
     },
     {
       "pk": 22042011,
@@ -209,5 +212,22 @@
       "comment": "Job’s peaceful death 'full of days' echoes the patriarchal blessing—a sign of a life lived in accord with God’s will. It points to the hope not only of temporal reward, but the promise of everlasting life for those faithful, which is ultimately fulfilled through Christ’s victory over death."
     }
   ],
-  "translatedAt": "2025-12-24T05:59:04.248Z"
+  "translatedAt": "2025-12-24T05:59:04.248Z",
+  "sections": [
+    {
+      "title": "Job’s Repentance and Submission",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "The Lord Rebukes Job’s Friends",
+      "startVerse": 7,
+      "endVerse": 9
+    },
+    {
+      "title": "Job’s Restoration and Blessing",
+      "startVerse": 10,
+      "endVerse": 17
+    }
+  ]
 }

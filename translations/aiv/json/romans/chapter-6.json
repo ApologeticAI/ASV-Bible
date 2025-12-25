@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "What shall we say then? Should we continue in sin so that grace may increase?",
       "links": "<a href='/AIV/45/3/8'>Rom. 3:8</a>; <a href='/AIV/45/5/20'>Rom. 5:20</a>",
-      "comment": "Paul raises a rhetorical question, challenging the idea that greater sin could bring about greater grace. The passage stresses that grace is not an excuse for ongoing sin."
+      "comment": "Paul raises a rhetorical question, challenging the idea that greater sin could bring about greater grace. The passage stresses that grace is not an excuse for ongoing sin.",
+      "sectionHeader": "Dead to Sin, Alive in Christ"
     },
     {
       "pk": 52006002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "What then? Should we sin because we are not under law but under grace? Absolutely not!",
       "links": "<a href='/AIV/45/6/1'>Rom. 6:1</a>; <a href='/AIV/48/5/13'>Gal. 5:13</a>",
-      "comment": "Paul’s repetition underlines that grace obligates us to holiness, not license. Grace empowers true obedience."
+      "comment": "Paul’s repetition underlines that grace obligates us to holiness, not license. Grace empowers true obedience.",
+      "sectionHeader": "Slaves to Righteousness"
     },
     {
       "pk": 52006016,
@@ -281,5 +283,17 @@
       "comment": "Paul contrasts the consequence of sin—death—with the free gift of God: eternal life through union with Christ. The language points toward the necessity of remaining in Christ, and the journey of sanctification. The gift is only found ‘in Christ’ as part of his mystical body, echoing both spiritual and physical realities of salvation."
     }
   ],
-  "translatedAt": "2025-12-24T11:38:35.197Z"
+  "translatedAt": "2025-12-24T11:38:35.197Z",
+  "sections": [
+    {
+      "title": "Dead to Sin, Alive in Christ",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "Slaves to Righteousness",
+      "startVerse": 15,
+      "endVerse": 23
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "At that time, Judah departed from his brothers and went to stay with a man of Adullam named Hirah.",
       "links": "<a href='/AIV/19/133/1'>Ps. 133:1</a>; <a href='/AIV/09/22/1'>1 Sam. 22:1</a>",
-      "comment": "Judah separates from his family, a recurring theme of division and reunion in Genesis. Adullam becomes significant later in David's life. Judah's journey foreshadows transformation, which is essential to salvation history."
+      "comment": "Judah separates from his family, a recurring theme of division and reunion in Genesis. Adullam becomes significant later in David's life. Judah's journey foreshadows transformation, which is essential to salvation history.",
+      "sectionHeader": "Judah and Tamar"
     },
     {
       "pk": 1038002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "Judah took a wife for Er, his firstborn, whose name was Tamar.",
       "links": "<a href='/AIV/40/01/03'>Matt. 1:3</a>; <a href='/AIV/08/04/12'>Ruth 4:12</a>",
-      "comment": "Tamar's entry prepares the way for redemption; Matthew includes her in Jesus' genealogy, underlining her unique role in God's plan. The importance of lineage and women in salvation history is beginning to surface."
+      "comment": "Tamar's entry prepares the way for redemption; Matthew includes her in Jesus' genealogy, underlining her unique role in God's plan. The importance of lineage and women in salvation history is beginning to surface.",
+      "sectionHeader": "Judah’s Sons: Er and Onan"
     },
     {
       "pk": 1038007,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "Now, after much time, Judah’s wife, the daughter of Shua, died. When Judah was comforted, he went up to Timnah, to those shearing his sheep, he and his friend Hirah the Adullamite.",
       "links": "<a href='/AIV/01/35/19'>Gen. 35:19</a>",
-      "comment": "Judah’s mourning and journey reflect recurring motifs of loss and renewal in biblical narrative. Shepherd imagery points ahead to Christ."
+      "comment": "Judah’s mourning and journey reflect recurring motifs of loss and renewal in biblical narrative. Shepherd imagery points ahead to Christ.",
+      "sectionHeader": "Tamar’s Deception"
     },
     {
       "pk": 1038013,
@@ -326,7 +329,8 @@
       "verse": 27,
       "text": "When the time came for her to give birth, there were twins in her womb.",
       "links": "<a href='/AIV/01/25/24'>Gen. 25:24</a>",
-      "comment": "Twins echo Jacob and Esau, showing how God's chosen line emerges through struggle. The role of twins in biblical stories emphasizes divine election."
+      "comment": "Twins echo Jacob and Esau, showing how God's chosen line emerges through struggle. The role of twins in biblical stories emphasizes divine election.",
+      "sectionHeader": "The Birth of Perez and Zerah"
     },
     {
       "pk": 1038028,
@@ -365,5 +369,27 @@
       "comment": "Zerah, marked by the scarlet thread, is a sign within the genealogy, showing the mysterious ways God marks and blesses those in the covenant family. This story signals God’s mercy, justice, and the sanctity of the covenant family, themes that remain central throughout biblical revelation."
     }
   ],
-  "translatedAt": "2025-12-24T00:35:48.860Z"
+  "translatedAt": "2025-12-24T00:35:48.860Z",
+  "sections": [
+    {
+      "title": "Judah and Tamar",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Judah’s Sons: Er and Onan",
+      "startVerse": 6,
+      "endVerse": 11
+    },
+    {
+      "title": "Tamar’s Deception",
+      "startVerse": 12,
+      "endVerse": 26
+    },
+    {
+      "title": "The Birth of Perez and Zerah",
+      "startVerse": 27,
+      "endVerse": 30
+    }
+  ]
 }

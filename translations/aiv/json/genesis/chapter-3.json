@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now the serpent was more cunning than any of the animals the LORD God had made. He said to the woman, 'Did God really say, “You shall not eat from any tree in the garden”?'",
       "links": "<a href='/AIV/66/12/9'>Rev. 12:9</a>; <a href='/AIV/43/8/44'>John 8:44</a>",
-      "comment": "The serpent is later revealed as Satan (cf. Rev. 12:9). The question is designed to sow doubt about God's word. Note the stress on God's command and the subtle twisting of it."
+      "comment": "The serpent is later revealed as Satan (cf. Rev. 12:9). The question is designed to sow doubt about God's word. Note the stress on God's command and the subtle twisting of it.",
+      "sectionHeader": "The Temptation and Fall of Man"
     },
     {
       "pk": 1003002,
@@ -170,7 +171,8 @@
       "verse": 14,
       "text": "So the LORD God said to the serpent, 'Because you have done this, cursed are you above all livestock and above all wild animals. On your belly you will go, and dust you will eat all the days of your life.'",
       "links": "<a href='/AIV/23/65/25'>Isa. 65:25</a>",
-      "comment": "The judgment falls first on the serpent, symbolizing humiliation and defeat. Eating dust means total abasement."
+      "comment": "The judgment falls first on the serpent, symbolizing humiliation and defeat. Eating dust means total abasement.",
+      "sectionHeader": "God's Judgment on the Serpent, Woman, and Man"
     },
     {
       "pk": 1003015,
@@ -266,7 +268,8 @@
       "verse": 22,
       "text": "Then the LORD God said, 'Behold, the man has become like one of us in knowing good and evil. Now, lest he reach out his hand and take also from the tree of life and eat, and live forever—'",
       "links": "<a href='/AIV/01/1/26'>Gen. 1:26</a>; <a href='/AIV/66/2/7'>Rev. 2:7</a>",
-      "comment": "Plural language (‘like one of us’) mirrors Gen. 1:26, hinting at the mystery of the divine. Access to eternal life is now denied—restored only in Christ (Rev. 2:7)."
+      "comment": "Plural language (‘like one of us’) mirrors Gen. 1:26, hinting at the mystery of the divine. Access to eternal life is now denied—restored only in Christ (Rev. 2:7).",
+      "sectionHeader": "Expulsion from Eden"
     },
     {
       "pk": 1003023,
@@ -293,5 +296,22 @@
       "comment": "Access to the presence of God is now blocked. The cherubim later appear in the tabernacle and temple (see Exod. 25:18-22), prefiguring how God will restore access. The tree of life returns in Rev. 22:14, fulfilled in Christ's sacrifice and the sacraments that unite us to eternal life."
     }
   ],
-  "translatedAt": "2025-12-24T00:12:05.870Z"
+  "translatedAt": "2025-12-24T00:12:05.870Z",
+  "sections": [
+    {
+      "title": "The Temptation and Fall of Man",
+      "startVerse": 1,
+      "endVerse": 13
+    },
+    {
+      "title": "God's Judgment on the Serpent, Woman, and Man",
+      "startVerse": 14,
+      "endVerse": 21
+    },
+    {
+      "title": "Expulsion from Eden",
+      "startVerse": 22,
+      "endVerse": 24
+    }
+  ]
 }

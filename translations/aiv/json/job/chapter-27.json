@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Job continued his discourse and said:",
       "links": "<a href='/AIV/18/26/1'>Job 26:1</a>",
-      "comment": "Job resumes his speech, signifying a shift from responding to his friends to making a solemn declaration."
+      "comment": "Job resumes his speech, signifying a shift from responding to his friends to making a solemn declaration.",
+      "sectionHeader": "Job Affirms His Integrity"
     },
     {
       "pk": 22027002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "Let my enemy be as the wicked, and let him who rises against me be as the unrighteous.",
       "links": "<a href='/AIV/19/7/4'>Ps. 7:4</a>",
-      "comment": "Job commits his cause to God’s judgment, trusting divine justice to distinguish between the righteous and the wicked."
+      "comment": "Job commits his cause to God’s judgment, trusting divine justice to distinguish between the righteous and the wicked.",
+      "sectionHeader": "The Fate of the Wicked"
     },
     {
       "pk": 22027008,
@@ -281,5 +283,17 @@
       "comment": "Public disgrace and rejection symbolize the final outcome for the proud. The true hope, as unfolded through Scripture, is found in humble repentance and unwavering trust in God’s mercy—a prophetic reality inviting all to deeper unity with the one Church Christ established."
     }
   ],
-  "translatedAt": "2025-12-24T05:51:13.487Z"
+  "translatedAt": "2025-12-24T05:51:13.487Z",
+  "sections": [
+    {
+      "title": "Job Affirms His Integrity",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "The Fate of the Wicked",
+      "startVerse": 7,
+      "endVerse": 23
+    }
+  ]
 }

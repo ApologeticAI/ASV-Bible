@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now the apostles and the brothers who were throughout Judea heard that the Gentiles also had received the word of God.",
       "links": "<a href='/AIV/44/8/14'>Acts 8:14</a>; <a href='/AIV/45/10/17'>Rom 10:17</a>",
-      "comment": "This verse shows that the early Christian community quickly learned what was happening among the Gentiles. Emphasizes the spread of the Gospel beyond Jews, fulfilling Jesus' command in Acts 1:8."
+      "comment": "This verse shows that the early Christian community quickly learned what was happening among the Gentiles. Emphasizes the spread of the Gospel beyond Jews, fulfilling Jesus' command in Acts 1:8.",
+      "sectionHeader": "Peter Explains His Visit to Cornelius"
     },
     {
       "pk": 51011002,
@@ -230,7 +231,8 @@
       "verse": 19,
       "text": "Now those who were scattered because of the persecution that arose over Stephen traveled as far as Phoenicia, Cyprus, and Antioch, speaking the word to no one except Jews.",
       "links": "<a href='/AIV/44/8/1'>Acts 8:1</a>",
-      "comment": "Shows how persecution advanced the spread of the Gospel and the initial Jewish focus of early preaching."
+      "comment": "Shows how persecution advanced the spread of the Gospel and the initial Jewish focus of early preaching.",
+      "sectionHeader": "The Church at Antioch"
     },
     {
       "pk": 51011020,
@@ -326,7 +328,8 @@
       "verse": 27,
       "text": "Now in these days prophets came down from Jerusalem to Antioch.",
       "links": "<a href='/AIV/44/13/1'>Acts 13:1</a>",
-      "comment": "Prophetic ministry continues within the Church, exercising spiritual gifts for the good of the body."
+      "comment": "Prophetic ministry continues within the Church, exercising spiritual gifts for the good of the body.",
+      "sectionHeader": "Prophets Foretell a Famine"
     },
     {
       "pk": 51011028,
@@ -365,5 +368,22 @@
       "comment": "Funds are entrusted to recognized leaders—showing trust in apostolic authority and the importance of Church order (see Acts 14:23 for the role of elders)."
     }
   ],
-  "translatedAt": "2025-12-24T11:24:19.070Z"
+  "translatedAt": "2025-12-24T11:24:19.070Z",
+  "sections": [
+    {
+      "title": "Peter Explains His Visit to Cornelius",
+      "startVerse": 1,
+      "endVerse": 18
+    },
+    {
+      "title": "The Church at Antioch",
+      "startVerse": 19,
+      "endVerse": 26
+    },
+    {
+      "title": "Prophets Foretell a Famine",
+      "startVerse": 27,
+      "endVerse": 30
+    }
+  ]
 }

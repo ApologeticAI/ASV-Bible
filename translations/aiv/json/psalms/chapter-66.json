@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Shout joyfully to God, all the earth!",
       "links": "<a href='/AIV/19/95/1'>Ps. 95:1</a>; <a href='/AIV/23/42/10-12'>Isa. 42:10-12</a>",
-      "comment": "This psalm begins with a universal call for worship, showing that God's praise extends beyond Israel to all the earth. This anticipates God's desire for salvation of all nations (see Gen. 12:3; Rom. 15:9-11)."
+      "comment": "This psalm begins with a universal call for worship, showing that God's praise extends beyond Israel to all the earth. This anticipates God's desire for salvation of all nations (see Gen. 12:3; Rom. 15:9-11).",
+      "sectionHeader": "A Song of Praise to God for His Mighty Works"
     },
     {
       "pk": 23066002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Bless our God, O peoples; let the sound of His praise be heard.",
       "links": "<a href='/AIV/19/67/3'>Ps. 67:3</a>; <a href='/AIV/19/117/1'>Ps. 117:1</a>",
-      "comment": "Another global call to worship, foreshadowing the unification of all peoples in praise of God, as also echoed in Revelation 7:9-10."
+      "comment": "Another global call to worship, foreshadowing the unification of all peoples in praise of God, as also echoed in Revelation 7:9-10.",
+      "sectionHeader": "God’s People Tested and Delivered"
     },
     {
       "pk": 23066009,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "I will enter Your house with burnt offerings; I will fulfill my vows to You,",
       "links": "<a href='/AIV/19/22/25'>Ps. 22:25</a>; <a href='/AIV/19/50/14'>Ps. 50:14</a>",
-      "comment": "Worship is intimately linked with sacrifice and the keeping of vows. Physically entering God's house and offering sacrifice reflects a tangible response to grace."
+      "comment": "Worship is intimately linked with sacrifice and the keeping of vows. Physically entering God's house and offering sacrifice reflects a tangible response to grace.",
+      "sectionHeader": "Thanksgiving for Answered Prayer"
     },
     {
       "pk": 23066014,
@@ -194,7 +197,8 @@
       "verse": 16,
       "text": "Come and hear, all who fear God, and I will tell what He has done for my soul.",
       "links": "<a href='/AIV/19/34/11'>Ps. 34:11</a>; <a href='/AIV/19/107/2'>Ps. 107:2</a>",
-      "comment": "Personal testimony is an essential aspect of faith; sharing what God has done builds up the community. This anticipates the importance of public witness (Acts 1:8)."
+      "comment": "Personal testimony is an essential aspect of faith; sharing what God has done builds up the community. This anticipates the importance of public witness (Acts 1:8).",
+      "sectionHeader": "Proclamation of God’s Faithfulness"
     },
     {
       "pk": 23066017,
@@ -245,5 +249,27 @@
       "comment": "The psalm ends on a note of thanksgiving, emphasizing God’s unending mercy and faithfulness. Steadfast love (Hebrew 'hesed') points to God’s everlasting covenant with His people, ultimately fulfilled in Christ (Luke 1:72-73)."
     }
   ],
-  "translatedAt": "2025-12-24T06:21:11.273Z"
+  "translatedAt": "2025-12-24T06:21:11.273Z",
+  "sections": [
+    {
+      "title": "A Song of Praise to God for His Mighty Works",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "God’s People Tested and Delivered",
+      "startVerse": 8,
+      "endVerse": 12
+    },
+    {
+      "title": "Thanksgiving for Answered Prayer",
+      "startVerse": 13,
+      "endVerse": 15
+    },
+    {
+      "title": "Proclamation of God’s Faithfulness",
+      "startVerse": 16,
+      "endVerse": 20
+    }
+  ]
 }

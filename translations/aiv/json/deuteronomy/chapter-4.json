@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now, Israel, listen to the statutes and commands I am teaching you to do, so that you may live and enter and possess the land that the LORD, the God of your fathers, is giving you.",
       "links": "<a href='/AIV/2/15/26'>Ex. 15:26</a>; <a href='/AIV/5/6/1'>Deut. 6:1</a>",
-      "comment": "Moses urges obedience to God's Law as the path to true life and inheritance. Note the connection between faith and living out God's commands, which foreshadows the later link between faith and works as seen in James 2:17."
+      "comment": "Moses urges obedience to God's Law as the path to true life and inheritance. Note the connection between faith and living out God's commands, which foreshadows the later link between faith and works as seen in James 2:17.",
+      "sectionHeader": "Exhortation to Obey God's Law"
     },
     {
       "pk": 5004002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "Therefore, pay great attention to yourselves, for you saw no form on the day the LORD spoke to you at Horeb out of the midst of the fire.",
       "links": "<a href='/AIV/5/4/12'>Deut. 4:12</a>",
-      "comment": "God’s transcendence is expressed by the absence of visible form; fosters pure worship without images, preparing for the incarnational mystery when God becomes visible in Christ."
+      "comment": "God’s transcendence is expressed by the absence of visible form; fosters pure worship without images, preparing for the incarnational mystery when God becomes visible in Christ.",
+      "sectionHeader": "Warning Against Idolatry"
     },
     {
       "pk": 5004016,
@@ -386,7 +388,8 @@
       "verse": 32,
       "text": "Ask now about the former days, long before you, since the day God created man on the earth, and from one end of heaven to the other: Has anything this great ever happened, or been heard of?",
       "links": "<a href='/AIV/1/1/27'>Gen. 1:27</a>; <a href='/AIV/19/77/11'>Ps. 77:11</a>",
-      "comment": "Israel is invited to contemplate salvation history—from creation onward—to recognize the uniqueness of God’s acts and calling."
+      "comment": "Israel is invited to contemplate salvation history—from creation onward—to recognize the uniqueness of God’s acts and calling.",
+      "sectionHeader": "The Lord Alone Is God"
     },
     {
       "pk": 5004033,
@@ -494,7 +497,8 @@
       "verse": 41,
       "text": "Then Moses set apart three cities across the Jordan toward the east,",
       "links": "<a href='/AIV/5/19/2'>Deut. 19:2</a>",
-      "comment": "Setting apart cities of refuge establishes a system of justice and mercy, anticipating later developments in community care and discipline."
+      "comment": "Setting apart cities of refuge establishes a system of justice and mercy, anticipating later developments in community care and discipline.",
+      "sectionHeader": "Cities of Refuge East of the Jordan"
     },
     {
       "pk": 5004042,
@@ -530,7 +534,8 @@
       "verse": 44,
       "text": "Now this is the law that Moses set before the children of Israel.",
       "links": "<a href='/AIV/5/12/1'>Deut. 12:1</a>",
-      "comment": "A summary marker, emphasizes formality of the giving of the law. The use of mediators to transmit divine law foreshadows the apostolic authority in the New Testament."
+      "comment": "A summary marker, emphasizes formality of the giving of the law. The use of mediators to transmit divine law foreshadows the apostolic authority in the New Testament.",
+      "sectionHeader": "Introduction to the Law"
     },
     {
       "pk": 5004045,
@@ -593,5 +598,32 @@
       "comment": "Final territorial details lay the groundwork for the division of the promised land, which typologically prefigures the spiritual inheritance available to all believers through Christ."
     }
   ],
-  "translatedAt": "2025-12-24T01:58:43.277Z"
+  "translatedAt": "2025-12-24T01:58:43.277Z",
+  "sections": [
+    {
+      "title": "Exhortation to Obey God's Law",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "Warning Against Idolatry",
+      "startVerse": 15,
+      "endVerse": 31
+    },
+    {
+      "title": "The Lord Alone Is God",
+      "startVerse": 32,
+      "endVerse": 40
+    },
+    {
+      "title": "Cities of Refuge East of the Jordan",
+      "startVerse": 41,
+      "endVerse": 43
+    },
+    {
+      "title": "Introduction to the Law",
+      "startVerse": 44,
+      "endVerse": 49
+    }
+  ]
 }

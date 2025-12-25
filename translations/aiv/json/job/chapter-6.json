@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then Job answered and said:",
       "links": "<a href='/AIV/22/3/2'>Job 3:2</a>; <a href='/AIV/22/4/1'>Job 4:1</a>",
-      "comment": "Job resumes speaking, responding to his friends’ attempts to comfort and challenge him."
+      "comment": "Job resumes speaking, responding to his friends’ attempts to comfort and challenge him.",
+      "sectionHeader": "Job Laments His Suffering"
     },
     {
       "pk": 22006002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "\"Oh, that my request would be granted, and that God would grant my hope:",
       "links": "<a href='/AIV/22/7/15'>Job 7:15</a>",
-      "comment": "Job desires release from pain—even longing for death. His pleading sets up the later biblical theme of submitting one’s will to God’s wisdom."
+      "comment": "Job desires release from pain—even longing for death. His pleading sets up the later biblical theme of submitting one’s will to God’s wisdom.",
+      "sectionHeader": "Job Pleads for Death"
     },
     {
       "pk": 22006009,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "\"To one who is in despair, kindness should be shown by his friend, even if he forsakes the fear of the Almighty.",
       "links": "<a href='/AIV/20/17/17'>Prov. 17:17</a>",
-      "comment": "Job reproves his friends for lack of true compassion, emphasizing the call to mercy even in brokenness—echoing Christ’s command to love even those who fall."
+      "comment": "Job reproves his friends for lack of true compassion, emphasizing the call to mercy even in brokenness—echoing Christ’s command to love even those who fall.",
+      "sectionHeader": "Job Rebukes His Friends"
     },
     {
       "pk": 22006015,
@@ -365,5 +368,22 @@
       "comment": "Job closes this speech insisting on his moral discernment—teaching that uprightness and honesty remain essential, especially under trial. In Christian tradition, discernment and confession are valued for spiritual growth."
     }
   ],
-  "translatedAt": "2025-12-24T05:42:03.657Z"
+  "translatedAt": "2025-12-24T05:42:03.657Z",
+  "sections": [
+    {
+      "title": "Job Laments His Suffering",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Job Pleads for Death",
+      "startVerse": 8,
+      "endVerse": 13
+    },
+    {
+      "title": "Job Rebukes His Friends",
+      "startVerse": 14,
+      "endVerse": 30
+    }
+  ]
 }

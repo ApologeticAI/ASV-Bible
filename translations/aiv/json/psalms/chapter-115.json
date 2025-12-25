@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Not to us, LORD, not to us, but to your name give glory, for your steadfast love and your truth.",
       "links": "<a href='/AIV/19/113/1'>Ps. 113:1</a>; <a href='/AIV/19/29/2'>Ps. 29:2</a>; <a href='/AIV/19/117/2'>Ps. 117:2</a>",
-      "comment": "The psalm opens with a denial of personal glory, seeking that all honor be directed to God alone for His enduring love and faithfulness. This devotional attitude reflects humility and the biblical ideal of giving God primary glory (cf. 1 Cor. 10:31)."
+      "comment": "The psalm opens with a denial of personal glory, seeking that all honor be directed to God alone for His enduring love and faithfulness. This devotional attitude reflects humility and the biblical ideal of giving God primary glory (cf. 1 Cor. 10:31).",
+      "sectionHeader": "Glory to God Alone"
     },
     {
       "pk": 23115002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "Their idols are silver and gold, the work of human hands.",
       "links": "<a href='/AIV/19/135/15'>Ps. 135:15</a>; <a href='/AIV/2/20/23'>Ex. 20:23</a>",
-      "comment": "False gods are man-made, highlighting their impotence compared to the living Creator. Literal and spiritual readings combine here; idolatry is both physical and allegorical (cf. 1 John 5:21: 'keep yourselves from idols')."
+      "comment": "False gods are man-made, highlighting their impotence compared to the living Creator. Literal and spiritual readings combine here; idolatry is both physical and allegorical (cf. 1 John 5:21: 'keep yourselves from idols').",
+      "sectionHeader": "The Folly of Idols"
     },
     {
       "pk": 23115005,
@@ -110,7 +112,8 @@
       "verse": 9,
       "text": "Israel, trust in the LORD! He is their help and their shield.",
       "links": "<a href='/AIV/19/18/2'>Ps. 18:2</a>; <a href='/AIV/19/118/2'>Ps. 118:2</a>",
-      "comment": "A call to faith and reliance on God. Note the repetition throughout Scripture, urging Israel to trust not in idols or human strength but in the Lord alone."
+      "comment": "A call to faith and reliance on God. Note the repetition throughout Scripture, urging Israel to trust not in idols or human strength but in the Lord alone.",
+      "sectionHeader": "Trust and Blessing for God’s People"
     },
     {
       "pk": 23115010,
@@ -194,7 +197,8 @@
       "verse": 16,
       "text": "The heavens are the LORD’s heavens, but the earth he has given to mankind.",
       "links": "<a href='/AIV/1/1/26'>Gen. 1:26</a>; <a href='/AIV/19/8/6'>Ps. 8:6</a>",
-      "comment": "Distinction between divine and human realms—God's sovereignty, man's stewardship. Christ recapitulates and fulfills man’s vocation as the Second Adam (Romans 5:14-17)."
+      "comment": "Distinction between divine and human realms—God's sovereignty, man's stewardship. Christ recapitulates and fulfills man’s vocation as the Second Adam (Romans 5:14-17).",
+      "sectionHeader": "Everlasting Praise to the Lord"
     },
     {
       "pk": 23115017,
@@ -221,5 +225,27 @@
       "comment": "Ends with a vow of perpetual worship. The community commits to praise now and eternally—a foreshadowing of the worship of the saints in glory. See Heb. 12:22-24 for the vision of everlasting worship."
     }
   ],
-  "translatedAt": "2025-12-24T06:40:26.356Z"
+  "translatedAt": "2025-12-24T06:40:26.356Z",
+  "sections": [
+    {
+      "title": "Glory to God Alone",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "The Folly of Idols",
+      "startVerse": 4,
+      "endVerse": 8
+    },
+    {
+      "title": "Trust and Blessing for God’s People",
+      "startVerse": 9,
+      "endVerse": 15
+    },
+    {
+      "title": "Everlasting Praise to the Lord",
+      "startVerse": 16,
+      "endVerse": 18
+    }
+  ]
 }

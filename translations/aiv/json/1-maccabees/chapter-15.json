@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Antiochus, son of Demetrius the king, sent a letter from the islands of the sea to Simon, the leader of the Jews, and to all the people.",
       "links": "",
-      "comment": "This begins the episode with the new king Antiochus VII sending correspondence from his place of exile or retreat, emphasizing the political instability of the period. The reference to 'the islands of the sea' shows his international reach (cf. <a href='/AIV/27/7/8'>Daniel 7:8</a>)."
+      "comment": "This begins the episode with the new king Antiochus VII sending correspondence from his place of exile or retreat, emphasizing the political instability of the period. The reference to 'the islands of the sea' shows his international reach (cf. <a href='/AIV/27/7/8'>Daniel 7:8</a>).",
+      "sectionHeader": "Antiochus VII Confirms Simon’s Authority"
     },
     {
       "pk": 20015002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "But Trypho, who had held the citadel in Jerusalem, kept mounting attacks against the Jews, though he had not been able to defeat them.",
       "links": "<a href='/AIV/1/13/34'>1 Macc 13:34</a>",
-      "comment": "Trypho remains a persistent enemy. The citadel represents worldly powers resisting the people of God, similar to the spiritual struggles discussed by Paul (<a href='/AIV/49/6/12'>Ephesians 6:12</a>)."
+      "comment": "Trypho remains a persistent enemy. The citadel represents worldly powers resisting the people of God, similar to the spiritual struggles discussed by Paul (<a href='/AIV/49/6/12'>Ephesians 6:12</a>).",
+      "sectionHeader": "Conflict with Trypho and Cendebeus"
     },
     {
       "pk": 20015013,
@@ -338,7 +340,8 @@
       "verse": 28,
       "text": "John and his men marched from Jerusalem and engaged Cendebeus in battle.",
       "links": "",
-      "comment": "Active resistance is often used to signify righteous action and holy war against oppression (cf. <a href='/AIV/7/6/12'>Judges 6:12</a>)."
+      "comment": "Active resistance is often used to signify righteous action and holy war against oppression (cf. <a href='/AIV/7/6/12'>Judges 6:12</a>).",
+      "sectionHeader": "John Defeats Cendebeus"
     },
     {
       "pk": 20015029,
@@ -386,7 +389,8 @@
       "verse": 32,
       "text": "Now, Numenius and his companions returned from Rome, carrying letters to the kings and provinces.",
       "links": "",
-      "comment": "Roman diplomacy is highlighted, indicative of the changing world powers and Judea’s attempts at establishing legitimacy outside the Hellenistic empires."
+      "comment": "Roman diplomacy is highlighted, indicative of the changing world powers and Judea’s attempts at establishing legitimacy outside the Hellenistic empires.",
+      "sectionHeader": "Numenius Returns from Rome; Dispute over Cities"
     },
     {
       "pk": 20015033,
@@ -497,5 +501,27 @@
       "comment": "Peace is restored, for now. The theme of returning in peace ties into the larger story of the restoration of Israel and ultimate peace realized in the New Covenant (<a href='/AIV/43/14/27'>John 14:27</a>)."
     }
   ],
-  "translatedAt": "2025-12-24T05:27:57.780Z"
+  "translatedAt": "2025-12-24T05:27:57.780Z",
+  "sections": [
+    {
+      "title": "Antiochus VII Confirms Simon’s Authority",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "Conflict with Trypho and Cendebeus",
+      "startVerse": 12,
+      "endVerse": 27
+    },
+    {
+      "title": "John Defeats Cendebeus",
+      "startVerse": 28,
+      "endVerse": 31
+    },
+    {
+      "title": "Numenius Returns from Rome; Dispute over Cities",
+      "startVerse": 32,
+      "endVerse": 41
+    }
+  ]
 }

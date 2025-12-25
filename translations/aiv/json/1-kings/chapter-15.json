@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In the eighteenth year of King Jeroboam, Abijah became king over Judah.",
       "links": "<a href='/AIV/14/13/1'>2 Chr. 13:1</a>",
-      "comment": "Abijah's reign in Judah is contrasted with Jeroboam in Israel. The text sets up the division between the two kingdoms."
+      "comment": "Abijah's reign in Judah is contrasted with Jeroboam in Israel. The text sets up the division between the two kingdoms.",
+      "sectionHeader": "Abijah King of Judah"
     },
     {
       "pk": 11015002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "In the twentieth year of Jeroboam king of Israel, Asa began to reign over Judah.",
       "links": "<a href='/AIV/14/14/1'>2 Chr. 14:1</a>",
-      "comment": "Historical markers highlight the intertwined timelines of Israel and Judah."
+      "comment": "Historical markers highlight the intertwined timelines of Israel and Judah.",
+      "sectionHeader": "Asa’s Reforms and Reign"
     },
     {
       "pk": 11015010,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "Now there was war between Asa and Baasha king of Israel all their days.",
       "links": "<a href='/AIV/14/16/1'>2 Chr. 16:1</a>",
-      "comment": "Inter-tribal conflict persisted, marking human weakness and the need for the peace that only God’s kingdom, later revealed by Christ, can bring."
+      "comment": "Inter-tribal conflict persisted, marking human weakness and the need for the peace that only God’s kingdom, later revealed by Christ, can bring.",
+      "sectionHeader": "War Between Asa and Baasha"
     },
     {
       "pk": 11015017,
@@ -302,7 +305,8 @@
       "verse": 25,
       "text": "Nadab son of Jeroboam became king over Israel in the second year of Asa king of Judah, and he reigned over Israel two years.",
       "links": "<a href='/AIV/13/10/13-14'>1 Chr. 10:13-14</a>",
-      "comment": "A brief reign suggests instability apart from God’s favor."
+      "comment": "A brief reign suggests instability apart from God’s favor.",
+      "sectionHeader": "Nadab and Baasha Kings of Israel"
     },
     {
       "pk": 11015026,
@@ -413,5 +417,27 @@
       "comment": "Persistent disobedience leads to downfall. Faithfulness to God is the mark of true leadership, which is perfectly realized in Jesus Christ, the King who alone restores all division."
     }
   ],
-  "translatedAt": "2025-12-24T03:37:10.371Z"
+  "translatedAt": "2025-12-24T03:37:10.371Z",
+  "sections": [
+    {
+      "title": "Abijah King of Judah",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "Asa’s Reforms and Reign",
+      "startVerse": 9,
+      "endVerse": 15
+    },
+    {
+      "title": "War Between Asa and Baasha",
+      "startVerse": 16,
+      "endVerse": 24
+    },
+    {
+      "title": "Nadab and Baasha Kings of Israel",
+      "startVerse": 25,
+      "endVerse": 34
+    }
+  ]
 }

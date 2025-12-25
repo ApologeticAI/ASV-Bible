@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Give ear, O my people, to my teaching; incline your ears to the words of my mouth.",
       "links": "<a href='/AIV/20/4/1'>Prov. 4:1</a>; <a href='/AIV/23/49/1'>Isa. 49:1</a>",
-      "comment": "The psalm begins by inviting God’s people to listen, emphasizing the need to receive the tradition handed down, reflecting both oral and written transmission of divine revelation."
+      "comment": "The psalm begins by inviting God’s people to listen, emphasizing the need to receive the tradition handed down, reflecting both oral and written transmission of divine revelation.",
+      "sectionHeader": "A Call to Remember God's Works"
     },
     {
       "pk": 23078002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "The sons of Ephraim, armed with bows, turned back on the day of battle.",
       "links": "<a href='/AIV/07/1/29'>Judg. 1:29</a>; <a href='/AIV/19/44/9-10'>Ps. 44:9-10</a>",
-      "comment": "Ephraim, a leading tribe, did not fulfill their duty in faith or action—serves as a symbol for spiritual weakness."
+      "comment": "Ephraim, a leading tribe, did not fulfill their duty in faith or action—serves as a symbol for spiritual weakness.",
+      "sectionHeader": "Israel's Rebellion and God's Provision in the Wilderness"
     },
     {
       "pk": 23078010,
@@ -518,7 +520,8 @@
       "verse": 43,
       "text": "when he performed his signs in Egypt and his wonders in the fields of Zoan.",
       "links": "<a href='/AIV/02/7/1-5'>Ex. 7:1-5</a>; <a href='/AIV/19/105/27'>Ps. 105:27</a>",
-      "comment": "Signs and wonders confirm God’s authority over nations and nature."
+      "comment": "Signs and wonders confirm God’s authority over nations and nature.",
+      "sectionHeader": "God's Signs and Judgments in Egypt"
     },
     {
       "pk": 23078044,
@@ -626,7 +629,8 @@
       "verse": 52,
       "text": "Then he led out his people like sheep and guided them in the wilderness like a flock.",
       "links": "<a href='/AIV/19/77/20'>Ps. 77:20</a>; <a href='/AIV/26/34/11-16'>Ezek. 34:11-16</a>",
-      "comment": "God as shepherd is a recurring biblical image. Jesus later applies this to himself, claiming divine leadership over the people."
+      "comment": "God as shepherd is a recurring biblical image. Jesus later applies this to himself, claiming divine leadership over the people.",
+      "sectionHeader": "Entrance into the Promised Land and Renewed Rebellion"
     },
     {
       "pk": 23078053,
@@ -782,7 +786,8 @@
       "verse": 65,
       "text": "Then the Lord awoke as from sleep, like a strong man shouting because of wine.",
       "links": "<a href='/AIV/19/44/23'>Ps. 44:23</a>; <a href='/AIV/23/51/9'>Isa. 51:9</a>",
-      "comment": "God’s ‘awakening’ is metaphorical; He intervenes decisively with renewed strength."
+      "comment": "God’s ‘awakening’ is metaphorical; He intervenes decisively with renewed strength.",
+      "sectionHeader": "God Chooses Judah and David"
     },
     {
       "pk": 23078066,
@@ -869,5 +874,32 @@
       "comment": "The summary of David’s faithful shepherding points towards both the ideal earthly king and the coming spiritual King—Christ is the fulfillment."
     }
   ],
-  "translatedAt": "2025-12-24T06:27:00.176Z"
+  "translatedAt": "2025-12-24T06:27:00.176Z",
+  "sections": [
+    {
+      "title": "A Call to Remember God's Works",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "Israel's Rebellion and God's Provision in the Wilderness",
+      "startVerse": 9,
+      "endVerse": 42
+    },
+    {
+      "title": "God's Signs and Judgments in Egypt",
+      "startVerse": 43,
+      "endVerse": 51
+    },
+    {
+      "title": "Entrance into the Promised Land and Renewed Rebellion",
+      "startVerse": 52,
+      "endVerse": 64
+    },
+    {
+      "title": "God Chooses Judah and David",
+      "startVerse": 65,
+      "endVerse": 72
+    }
+  ]
 }

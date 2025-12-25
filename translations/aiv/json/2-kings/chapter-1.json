@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "After the death of Ahab, Moab rebelled against Israel.",
       "links": "<a href='/AIV/11/22/47'>1 Kings 22:47</a>; <a href='/AIV/23/15/1'>Isaiah 15:1</a>",
-      "comment": "Moab's rebellion marks a change in Israel’s influence after Ahab. This sets the historical and political context for the events to follow, connecting back to prophecies about unrest in the region."
+      "comment": "Moab's rebellion marks a change in Israel’s influence after Ahab. This sets the historical and political context for the events to follow, connecting back to prophecies about unrest in the region.",
+      "sectionHeader": "The Rebellion of Moab and Ahaziah's Injury"
     },
     {
       "pk": 12001002,
@@ -26,7 +27,8 @@
       "verse": 2,
       "text": "Now Ahaziah fell through the lattice of his upper room in Samaria and was injured. So he sent messengers, saying to them, 'Go, inquire of Baal-zebub, the god of Ekron, whether I shall recover from this sickness.'",
       "links": "<a href='/AIV/12/8/8'>2 Kings 8:8</a>; <a href='/AIV/10/23/14'>2 Samuel 23:14</a>",
-      "comment": "Ahaziah’s appeal to a pagan god reveals spiritual compromise. Seeking help from Baal-zebub (literally, 'Lord of the Flies') instead of YHWH is a direct violation of fidelity to God. This foreshadows divine judgment for idolatry."
+      "comment": "Ahaziah’s appeal to a pagan god reveals spiritual compromise. Seeking help from Baal-zebub (literally, 'Lord of the Flies') instead of YHWH is a direct violation of fidelity to God. This foreshadows divine judgment for idolatry.",
+      "sectionHeader": "Elijah Foretells Ahaziah’s Death"
     },
     {
       "pk": 12001003,
@@ -110,7 +112,8 @@
       "verse": 9,
       "text": "Then the king sent to him a captain with fifty men. And he went up to him, and there Elijah was, sitting on the top of the hill. And he said to him, 'O man of God, the king says, “Come down.”'",
       "links": "<a href='/AIV/12/6/13'>2 Kings 6:13</a>",
-      "comment": "The title 'man of God' acknowledges the prophet’s divine commission. The king’s demand is contrasted with God’s authority, highlighting the tension between secular power and prophetic calling."
+      "comment": "The title 'man of God' acknowledges the prophet’s divine commission. The king’s demand is contrasted with God’s authority, highlighting the tension between secular power and prophetic calling.",
+      "sectionHeader": "Elijah Calls Down Fire from Heaven"
     },
     {
       "pk": 12001010,
@@ -206,7 +209,8 @@
       "verse": 17,
       "text": "So Ahaziah died according to the word of the LORD that Elijah had spoken. And because he had no son, Jehoram became king in his place in the second year of Jehoram the son of Jehoshaphat, king of Judah.",
       "links": "<a href='/AIV/11/21/29'>1 Kings 21:29</a>; <a href='/AIV/12/3/1'>2 Kings 3:1</a>",
-      "comment": "The fulfillment of Elijah’s prophecy demonstrates the reliability of God’s word, a theme foundational to the unity and authority of the faith. Succession of Jehoram highlights the importance of dynastic continuity in salvation history."
+      "comment": "The fulfillment of Elijah’s prophecy demonstrates the reliability of God’s word, a theme foundational to the unity and authority of the faith. Succession of Jehoram highlights the importance of dynastic continuity in salvation history.",
+      "sectionHeader": "Ahaziah Dies as Elijah Foretold"
     },
     {
       "pk": 12001018,
@@ -221,5 +225,27 @@
       "comment": "The closing formula points to historical records, grounding the biblical narrative in history and tradition. It affirms the integration of God’s action and human events, a pattern seen throughout both the Old and New Testaments."
     }
   ],
-  "translatedAt": "2025-12-24T03:42:43.717Z"
+  "translatedAt": "2025-12-24T03:42:43.717Z",
+  "sections": [
+    {
+      "title": "The Rebellion of Moab and Ahaziah's Injury",
+      "startVerse": 1,
+      "endVerse": 1
+    },
+    {
+      "title": "Elijah Foretells Ahaziah’s Death",
+      "startVerse": 2,
+      "endVerse": 8
+    },
+    {
+      "title": "Elijah Calls Down Fire from Heaven",
+      "startVerse": 9,
+      "endVerse": 16
+    },
+    {
+      "title": "Ahaziah Dies as Elijah Foretold",
+      "startVerse": 17,
+      "endVerse": 18
+    }
+  ]
 }

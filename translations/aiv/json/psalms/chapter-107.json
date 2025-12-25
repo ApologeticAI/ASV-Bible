@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Give thanks to the LORD, for He is good; His steadfast love endures forever.",
       "links": "<a href='/AIV/19/106/1'>Ps. 106:1</a>; <a href='/AIV/19/118/1'>Ps. 118:1</a>",
-      "comment": "This verse opens with a call to praise and gratitude, highlighting God's eternal mercy. The concept of steadfast love points to God's covenant faithfulness, foreshadowing the grace later revealed in Christ (see Luke 1:78)."
+      "comment": "This verse opens with a call to praise and gratitude, highlighting God's eternal mercy. The concept of steadfast love points to God's covenant faithfulness, foreshadowing the grace later revealed in Christ (see Luke 1:78).",
+      "sectionHeader": "Thanksgiving for Redemption"
     },
     {
       "pk": 23107002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "Some wandered in desert wastelands, finding no way to a city where they might live.",
       "links": "<a href='/AIV/19/63/1'>Ps. 63:1</a>; <a href='/AIV/04/21/4'>Num. 21:4</a>",
-      "comment": "Wandering in deserts recalls Israel’s exodus, reflecting both literal events and spiritual journeys. The search for a city echoes the spiritual longing for communion with God (Heb. 11:16)."
+      "comment": "Wandering in deserts recalls Israel’s exodus, reflecting both literal events and spiritual journeys. The search for a city echoes the spiritual longing for communion with God (Heb. 11:16).",
+      "sectionHeader": "The Lord Delivers the Wanderers"
     },
     {
       "pk": 23107005,
@@ -122,7 +124,8 @@
       "verse": 10,
       "text": "Some sat in darkness and in the shadow of death, prisoners in affliction and in irons.",
       "links": "<a href='/AIV/19/88/6'>Ps. 88:6</a>; <a href='/AIV/23/42/7'>Isa. 42:7</a>",
-      "comment": "‘Shadow of death’ is a powerful image of spiritual and physical bondage. Jesus as the light of the world breaks this darkness (John 8:12)."
+      "comment": "‘Shadow of death’ is a powerful image of spiritual and physical bondage. Jesus as the light of the world breaks this darkness (John 8:12).",
+      "sectionHeader": "The Lord Frees the Prisoners"
     },
     {
       "pk": 23107011,
@@ -206,7 +209,8 @@
       "verse": 17,
       "text": "Some became fools through their sinful ways, and suffered affliction because of their iniquities.",
       "links": "<a href='/AIV/20/1/7'>Prov. 1:7</a>; <a href='/AIV/32/2/2'>Jonah 2:2</a>",
-      "comment": "The connection between sin and suffering is a recurring biblical theme, emphasizing the importance of sincere repentance."
+      "comment": "The connection between sin and suffering is a recurring biblical theme, emphasizing the importance of sincere repentance.",
+      "sectionHeader": "The Lord Heals the Afflicted"
     },
     {
       "pk": 23107018,
@@ -278,7 +282,8 @@
       "verse": 23,
       "text": "Some went down to the sea in ships, doing business on the mighty waters.",
       "links": "<a href='/AIV/19/104/26'>Ps. 104:26</a>; <a href='/AIV/32/1/3'>Jonah 1:3</a>",
-      "comment": "The imagery of seafaring reflects the risks and adventures of life, as well as the trust placed in God’s providence."
+      "comment": "The imagery of seafaring reflects the risks and adventures of life, as well as the trust placed in God’s providence.",
+      "sectionHeader": "The Lord Rescues Those at Sea"
     },
     {
       "pk": 23107024,
@@ -398,7 +403,8 @@
       "verse": 33,
       "text": "He turns rivers into a desert, springs of water into thirsty ground,",
       "links": "<a href='/AIV/02/7/21'>Ex. 7:21</a>; <a href='/AIV/23/42/15'>Isa. 42:15</a>",
-      "comment": "God’s sovereignty is shown in the transformation of the land—His judgment can lead to barrenness."
+      "comment": "God’s sovereignty is shown in the transformation of the land—His judgment can lead to barrenness.",
+      "sectionHeader": "The Lord's Transforming Power"
     },
     {
       "pk": 23107034,
@@ -521,5 +527,37 @@
       "comment": "The psalm closes with a call to wisdom—reflection on God’s love is fundamental to a life of faith and devotion."
     }
   ],
-  "translatedAt": "2025-12-24T06:38:16.079Z"
+  "translatedAt": "2025-12-24T06:38:16.079Z",
+  "sections": [
+    {
+      "title": "Thanksgiving for Redemption",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "The Lord Delivers the Wanderers",
+      "startVerse": 4,
+      "endVerse": 9
+    },
+    {
+      "title": "The Lord Frees the Prisoners",
+      "startVerse": 10,
+      "endVerse": 16
+    },
+    {
+      "title": "The Lord Heals the Afflicted",
+      "startVerse": 17,
+      "endVerse": 22
+    },
+    {
+      "title": "The Lord Rescues Those at Sea",
+      "startVerse": 23,
+      "endVerse": 32
+    },
+    {
+      "title": "The Lord's Transforming Power",
+      "startVerse": 33,
+      "endVerse": 43
+    }
+  ]
 }

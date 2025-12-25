@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The one who seeks revenge will encounter vengeance from the Lord, and their own sins will be remembered.",
       "links": "<a href='/AIV/19/94/1-2'>Ps. 94:1-2</a>; <a href='/AIV/40/6/14-15'>Matt. 6:14-15</a>",
-      "comment": "This verse sets the theme: forgiveness is necessary and vengeance belongs only to God (cf. Matt. 6:15). Those who refuse forgiveness risk divine judgment and memory of their own sins. The spiritual meaning encourages self-examination and repentance."
+      "comment": "This verse sets the theme: forgiveness is necessary and vengeance belongs only to God (cf. Matt. 6:15). Those who refuse forgiveness risk divine judgment and memory of their own sins. The spiritual meaning encourages self-examination and repentance.",
+      "sectionHeader": "The Call to Forgive"
     },
     {
       "pk": 28028002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Keep away from strife, and you will lessen your sins; for a hot-tempered person heats up conflict.",
       "links": "<a href='/AIV/20/15/1'>Prov. 15:1</a>; <a href='/AIV/20/29/22'>Prov. 29:22</a>",
-      "comment": "Avoiding quarrels is a path to holiness. Christian unity is preserved through peace, essential for the witness of the Church."
+      "comment": "Avoiding quarrels is a path to holiness. Christian unity is preserved through peace, essential for the witness of the Church.",
+      "sectionHeader": "Dangers of Anger and Strife"
     },
     {
       "pk": 28028009,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "Curse the whisperer and the double-tongued, for they have destroyed many who lived in peace.",
       "links": "<a href='/AIV/20/26/20-22'>Prov. 26:20-22</a>",
-      "comment": "Gossip and slander are condemned throughout Scripture. Such behaviors break down trust and communal bonds, contrary to Christ’s command for unity."
+      "comment": "Gossip and slander are condemned throughout Scripture. Such behaviors break down trust and communal bonds, contrary to Christ’s command for unity.",
+      "sectionHeader": "The Power of the Tongue"
     },
     {
       "pk": 28028014,
@@ -290,7 +293,8 @@
       "verse": 24,
       "text": "See that you hedge your property with thorns, lock up your silver and gold, weigh your words and tie up your mouth with a strong lock.",
       "links": "<a href='/AIV/20/13/3'>Prov. 13:3</a>; <a href='/AIV/59/1/26'>James 1:26</a>",
-      "comment": "Guarding one’s words is more important than guarding material possessions. This counsel harmonizes with New Testament teachings about speech and self-mastery."
+      "comment": "Guarding one’s words is more important than guarding material possessions. This counsel harmonizes with New Testament teachings about speech and self-mastery.",
+      "sectionHeader": "Guarding Your Speech"
     },
     {
       "pk": 28028025,
@@ -317,5 +321,27 @@
       "comment": "Silence can be an act of humility and wisdom, avoiding sin and fostering unity (cf. James 3:2). This echoes the spiritual discipline of taming the tongue for the sake of holiness."
     }
   ],
-  "translatedAt": "2025-12-24T07:38:06.181Z"
+  "translatedAt": "2025-12-24T07:38:06.181Z",
+  "sections": [
+    {
+      "title": "The Call to Forgive",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Dangers of Anger and Strife",
+      "startVerse": 8,
+      "endVerse": 12
+    },
+    {
+      "title": "The Power of the Tongue",
+      "startVerse": 13,
+      "endVerse": 23
+    },
+    {
+      "title": "Guarding Your Speech",
+      "startVerse": 24,
+      "endVerse": 26
+    }
+  ]
 }

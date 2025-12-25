@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In the second year of the reign of Nebuchadnezzar, Nebuchadnezzar had dreams. His spirit was troubled and his sleep left him.",
       "links": "<a href='/AIV/01/41/1-8'>Gen. 41:1-8</a>",
-      "comment": "Like Pharaoh in Genesis, the king's troubled dream sets the stage for God's revelation. The narrative establishes God's sovereignty over rulers."
+      "comment": "Like Pharaoh in Genesis, the king's troubled dream sets the stage for God's revelation. The narrative establishes God's sovereignty over rulers.",
+      "sectionHeader": "Nebuchadnezzar's Disturbing Dream"
     },
     {
       "pk": 34002002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "Because of this the king was angry and very furious, and commanded that all the wise men of Babylon be destroyed.",
       "links": "",
-      "comment": "A death sentence for false wisdom. Like Herod later (<a href='/AIV/40/2/16'>Matt. 2:16</a>), insecurity breeds violence."
+      "comment": "A death sentence for false wisdom. Like Herod later (<a href='/AIV/40/2/16'>Matt. 2:16</a>), insecurity breeds violence.",
+      "sectionHeader": "The King's Decree Against the Wise Men"
     },
     {
       "pk": 34002013,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "Then Daniel went to his house and made the matter known to Hananiah, Mishael, and Azariah, his companions,",
       "links": "<a href='/AIV/27/1/6-7'>Dan. 1:6-7</a>",
-      "comment": "Prayer in community is a pattern for the Church’s intercession (cf. <a href='/AIV/44/1/14'>Acts 1:14</a>)."
+      "comment": "Prayer in community is a pattern for the Church’s intercession (cf. <a href='/AIV/44/1/14'>Acts 1:14</a>).",
+      "sectionHeader": "Daniel Seeks God's Wisdom"
     },
     {
       "pk": 34002018,
@@ -290,7 +293,8 @@
       "verse": 24,
       "text": "Therefore Daniel went in to Arioch, whom the king had appointed to destroy the wise men of Babylon. He went and said thus to him, 'Do not destroy the wise men of Babylon; bring me in before the king, and I will show the king the interpretation.'",
       "links": "",
-      "comment": "Daniel’s plea saves others—a type of Christ’s saving mediation."
+      "comment": "Daniel’s plea saves others—a type of Christ’s saving mediation.",
+      "sectionHeader": "Daniel Before Nebuchadnezzar"
     },
     {
       "pk": 34002025,
@@ -374,7 +378,8 @@
       "verse": 31,
       "text": "You, O king, were watching, and behold, a great image. This image, mighty and exceedingly bright, stood before you, and its appearance was terrifying.",
       "links": "",
-      "comment": "The image represents earthly kingdoms. God often uses dreams and visions for prophetic revelation."
+      "comment": "The image represents earthly kingdoms. God often uses dreams and visions for prophetic revelation.",
+      "sectionHeader": "The Dream and Its Interpretation"
     },
     {
       "pk": 34002032,
@@ -554,7 +559,8 @@
       "verse": 46,
       "text": "Then King Nebuchadnezzar fell on his face and paid homage to Daniel, and commanded that an offering and incense be offered up to him.",
       "links": "",
-      "comment": "The king's reverence shows the impact of God’s truth. Daniel, as a prophet, mediates God's presence among the nations."
+      "comment": "The king's reverence shows the impact of God’s truth. Daniel, as a prophet, mediates God's presence among the nations.",
+      "sectionHeader": "Daniel Honored by Nebuchadnezzar"
     },
     {
       "pk": 34002047,
@@ -593,5 +599,37 @@
       "comment": "All four men are honored and remain faithful amid pagan culture. Their unity and prayer foreshadow the leadership and faithfulness of the apostles in the Church."
     }
   ],
-  "translatedAt": "2025-12-24T09:28:17.716Z"
+  "translatedAt": "2025-12-24T09:28:17.716Z",
+  "sections": [
+    {
+      "title": "Nebuchadnezzar's Disturbing Dream",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "The King's Decree Against the Wise Men",
+      "startVerse": 12,
+      "endVerse": 16
+    },
+    {
+      "title": "Daniel Seeks God's Wisdom",
+      "startVerse": 17,
+      "endVerse": 23
+    },
+    {
+      "title": "Daniel Before Nebuchadnezzar",
+      "startVerse": 24,
+      "endVerse": 30
+    },
+    {
+      "title": "The Dream and Its Interpretation",
+      "startVerse": 31,
+      "endVerse": 45
+    },
+    {
+      "title": "Daniel Honored by Nebuchadnezzar",
+      "startVerse": 46,
+      "endVerse": 49
+    }
+  ]
 }

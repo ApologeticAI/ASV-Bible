@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "King Hiram of Tyre sent messengers to David, along with cedar trees, masons, and carpenters to build a house for him.",
       "links": "<a href='/AIV/10/5/11'>2 Sam. 5:11</a>; <a href='/AIV/11/5/1'>1 Kings 5:1</a>",
-      "comment": "This verse highlights David's relationship with foreign kings and the building of his house, pointing to the growing recognition of his kingship. The 'house' can be seen not just as a physical dwelling, but also as a sign of the establishment of his dynasty, prefiguring the household of faith built through David's line (<a href='/AIV/40/1/1'>Matt. 1:1</a>)."
+      "comment": "This verse highlights David's relationship with foreign kings and the building of his house, pointing to the growing recognition of his kingship. The 'house' can be seen not just as a physical dwelling, but also as a sign of the establishment of his dynasty, prefiguring the household of faith built through David's line (<a href='/AIV/40/1/1'>Matt. 1:1</a>).",
+      "sectionHeader": "David’s House Built in Jerusalem"
     },
     {
       "pk": 13014002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "David took more wives in Jerusalem; and David fathered more sons and daughters.",
       "links": "<a href='/AIV/10/5/13'>2 Sam. 5:13</a>; <a href='/AIV/05/17/17'>Deut. 17:17</a>",
-      "comment": "David’s taking of more wives, though allowed in his time, is later clarified in Scripture as not ideal (<a href='/AIV/40/19/4-6'>Matt. 19:4-6</a>). The line of David is preserved despite his failings, illustrating God’s faithfulness and the preservation of His promises."
+      "comment": "David’s taking of more wives, though allowed in his time, is later clarified in Scripture as not ideal (<a href='/AIV/40/19/4-6'>Matt. 19:4-6</a>). The line of David is preserved despite his failings, illustrating God’s faithfulness and the preservation of His promises.",
+      "sectionHeader": "David’s Sons Born in Jerusalem"
     },
     {
       "pk": 13014004,
@@ -98,7 +100,8 @@
       "verse": 8,
       "text": "When the Philistines heard that David had been anointed king over all Israel, all the Philistines went up to seek out David. But when David heard about it, he went out against them.",
       "links": "<a href='/AIV/10/5/17'>2 Sam. 5:17</a>; <a href='/AIV/09/16/13'>1 Sam. 16:13</a>",
-      "comment": "The Philistines, ancient enemies of Israel, move aggressively when David is publicly enthroned, foreshadowing the continuing spiritual battles God's chosen must endure."
+      "comment": "The Philistines, ancient enemies of Israel, move aggressively when David is publicly enthroned, foreshadowing the continuing spiritual battles God's chosen must endure.",
+      "sectionHeader": "David Defeats the Philistines"
     },
     {
       "pk": 13014009,
@@ -209,5 +212,22 @@
       "comment": "David’s growing fame is attributed to the Lord. He is exalted for the sake of God’s people, ultimately pointing to Christ’s universal kingship (<a href='/AIV/50/2/9-11'>Phil. 2:9-11</a>), who is to be feared and honored by all nations."
     }
   ],
-  "translatedAt": "2025-12-24T04:12:58.147Z"
+  "translatedAt": "2025-12-24T04:12:58.147Z",
+  "sections": [
+    {
+      "title": "David’s House Built in Jerusalem",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "David’s Sons Born in Jerusalem",
+      "startVerse": 3,
+      "endVerse": 7
+    },
+    {
+      "title": "David Defeats the Philistines",
+      "startVerse": 8,
+      "endVerse": 17
+    }
+  ]
 }

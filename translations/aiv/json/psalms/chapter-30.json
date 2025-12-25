@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "I will exalt you, O LORD, for you have lifted me up and have not let my enemies rejoice over me.",
       "links": "<a href='/AIV/19/28/6'>Ps. 28:6</a>; <a href='/AIV/19/35/24'>Ps. 35:24</a>",
-      "comment": "Lifting up often signifies resurrection or restoration, a theme echoed in New Testament passages about Christ (cf. John 12:32). The psalmist's trust in being raised anticipates Christian hope in redemption."
+      "comment": "Lifting up often signifies resurrection or restoration, a theme echoed in New Testament passages about Christ (cf. John 12:32). The psalmist's trust in being raised anticipates Christian hope in redemption.",
+      "sectionHeader": "Thanksgiving for Deliverance"
     },
     {
       "pk": 23030002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "Sing praise to the LORD, you his faithful ones, and give thanks to his holy name.",
       "links": "<a href='/AIV/19/97/12'>Ps. 97:12</a>; <a href='/AIV/19/103/1'>Ps. 103:1</a>",
-      "comment": "The call to communal worship presumes the need for assembly and unity among the faithful, a principle the early Church (Acts 2:46-47) held as essential for Christian practice."
+      "comment": "The call to communal worship presumes the need for assembly and unity among the faithful, a principle the early Church (Acts 2:46-47) held as essential for Christian practice.",
+      "sectionHeader": "A Call to Praise and Testimony of God's Mercy"
     },
     {
       "pk": 23030005,
@@ -98,7 +100,8 @@
       "verse": 8,
       "text": "To you, O LORD, I cried, and to the Lord I made my supplication:",
       "links": "<a href='/AIV/19/28/2'>Ps. 28:2</a>; <a href='/AIV/19/143/1'>Ps. 143:1</a>",
-      "comment": "Supplication is a form of humble, persistent prayer. The Psalmist's turning to God mirrors Christ’s prayer in Gethsemane (Luke 22:42), emphasizing the pattern of appeal in faithful suffering."
+      "comment": "Supplication is a form of humble, persistent prayer. The Psalmist's turning to God mirrors Christ’s prayer in Gethsemane (Luke 22:42), emphasizing the pattern of appeal in faithful suffering.",
+      "sectionHeader": "Prayer and Restoration"
     },
     {
       "pk": 23030009,
@@ -149,5 +152,22 @@
       "comment": "Eternal praise comes as the proper response to God's redemption. The enduring praise of God’s people continues into eternity (cf. Revelation 19:5). This connects with the enduring worship that is central to Christian identity."
     }
   ],
-  "translatedAt": "2025-12-24T06:08:23.201Z"
+  "translatedAt": "2025-12-24T06:08:23.201Z",
+  "sections": [
+    {
+      "title": "Thanksgiving for Deliverance",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "A Call to Praise and Testimony of God's Mercy",
+      "startVerse": 4,
+      "endVerse": 7
+    },
+    {
+      "title": "Prayer and Restoration",
+      "startVerse": 8,
+      "endVerse": 12
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Moses called all Israel and said to them, \"Hear, O Israel, the statutes and ordinances which I speak in your ears today, so that you may learn them and be careful to do them.\"",
       "links": "<a href='/AIV/3/19/37'>Lev. 19:37</a>; <a href='/AIV/5/6/4'>Deut. 6:4</a>",
-      "comment": "Moses begins by urging the people to listen, learn, and obey God's commands, laying the foundation for the rest of the covenant. The phrase 'hear, O Israel' echoes throughout Scripture, notably in the Shema (Deut. 6:4), emphasizing both the importance of communal identity and fidelity."
+      "comment": "Moses begins by urging the people to listen, learn, and obey God's commands, laying the foundation for the rest of the covenant. The phrase 'hear, O Israel' echoes throughout Scripture, notably in the Shema (Deut. 6:4), emphasizing both the importance of communal identity and fidelity.",
+      "sectionHeader": "Moses Summons Israel and Recalls the Covenant"
     },
     {
       "pk": 5005002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "\"I am the LORD your God, who brought you out of the land of Egypt, out of the house of slavery.\"",
       "links": "<a href='/AIV/2/20/2'>Ex. 20:2</a>; <a href='/AIV/5/6/12'>Deut. 6:12</a>",
-      "comment": "This introduction to the commandments highlights God's saving action—liberation from bondage—a pattern later fulfilled in Christ rescuing believers from the slavery of sin (cf. Rom. 6:18)."
+      "comment": "This introduction to the commandments highlights God's saving action—liberation from bondage—a pattern later fulfilled in Christ rescuing believers from the slavery of sin (cf. Rom. 6:18).",
+      "sectionHeader": "The Ten Commandments"
     },
     {
       "pk": 5005007,
@@ -278,7 +280,8 @@
       "verse": 23,
       "text": "When you heard the voice from the midst of the darkness while the mountain was burning with fire, you came near to me, all the leaders of your tribes and your elders.",
       "links": "<a href='/AIV/2/20/18'>Ex. 20:18-19</a>",
-      "comment": "The people’s response of awe and fear reveals the majesty of God’s holiness, manifest in fire and darkness. This prepares the way for reverent worship and dependency on designated spiritual mediators."
+      "comment": "The people’s response of awe and fear reveals the majesty of God’s holiness, manifest in fire and darkness. This prepares the way for reverent worship and dependency on designated spiritual mediators.",
+      "sectionHeader": "The People's Response to God's Voice"
     },
     {
       "pk": 5005024,
@@ -326,7 +329,8 @@
       "verse": 27,
       "text": "Go near and listen to all that the LORD our God says. Then tell us whatever the LORD our God tells you; we will listen and do it.",
       "links": "<a href='/AIV/2/20/19'>Ex. 20:19</a>; <a href='/AIV/2/24/3'>Ex. 24:3</a>",
-      "comment": "The people delegate Moses as mediator, symbolizing later traditions of authority and transmission of divine teaching."
+      "comment": "The people delegate Moses as mediator, symbolizing later traditions of authority and transmission of divine teaching.",
+      "sectionHeader": "Moses Appointed as Mediator"
     },
     {
       "pk": 5005028,
@@ -401,5 +405,27 @@
       "comment": "Obedience leads to true life and blessing. New Testament writers interpret this as walking in the Spirit and abiding in Christ (cf. John 15:4-5), emphasizing both the literal and spiritual promise of living in God’s presence."
     }
   ],
-  "translatedAt": "2025-12-24T01:59:25.696Z"
+  "translatedAt": "2025-12-24T01:59:25.696Z",
+  "sections": [
+    {
+      "title": "Moses Summons Israel and Recalls the Covenant",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "The Ten Commandments",
+      "startVerse": 6,
+      "endVerse": 22
+    },
+    {
+      "title": "The People's Response to God's Voice",
+      "startVerse": 23,
+      "endVerse": 26
+    },
+    {
+      "title": "Moses Appointed as Mediator",
+      "startVerse": 27,
+      "endVerse": 33
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Therefore, since we have been justified by faith, we have peace with God through our Lord Jesus Christ.",
       "links": "<a href='/AIV/45/3/28'>Rom. 3:28</a>; <a href='/AIV/23/32/17'>Isa. 32:17</a>",
-      "comment": "Paul teaches that justification comes through faith, resulting in reconciliation with God. The mention of 'peace with God' echoes Isaiah 32:17, indicating a deep, restored relationship established by Christ. Many see this as both a legal declaration before God and the beginning of transformation in the believer."
+      "comment": "Paul teaches that justification comes through faith, resulting in reconciliation with God. The mention of 'peace with God' echoes Isaiah 32:17, indicating a deep, restored relationship established by Christ. Many see this as both a legal declaration before God and the beginning of transformation in the believer.",
+      "sectionHeader": "Peace and Hope Through Faith"
     },
     {
       "pk": 52005002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "For while we were still weak, at the right time Christ died for the ungodly.",
       "links": "<a href='/AIV/23/53/6'>Isa. 53:6</a>; <a href='/AIV/48/4/4'>Gal. 4:4</a>",
-      "comment": "Christ's death is for the 'ungodly'—all humanity in need of salvation. 'At the right time' indicates divine providence. Isaiah 53 is a direct background for the atoning death of the Messiah."
+      "comment": "Christ's death is for the 'ungodly'—all humanity in need of salvation. 'At the right time' indicates divine providence. Isaiah 53 is a direct background for the atoning death of the Messiah.",
+      "sectionHeader": "Christ’s Love and Our Reconciliation"
     },
     {
       "pk": 52005007,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "Therefore, just as sin entered the world through one man, and death through sin, and so death spread to all men, because all sinned—",
       "links": "<a href='/AIV/1/3/6-19'>Gen. 3:6-19</a>; <a href='/AIV/19/51/5'>Ps. 51:5</a>",
-      "comment": "Paul alludes to Adam's original sin—the idea that sin and death are inherited realities affecting all. This forms the basis for seeing a universal need for redemption. The implications for human nature and the universality of sin form the foundation for the doctrine of grace."
+      "comment": "Paul alludes to Adam's original sin—the idea that sin and death are inherited realities affecting all. This forms the basis for seeing a universal need for redemption. The implications for human nature and the universality of sin form the foundation for the doctrine of grace.",
+      "sectionHeader": "Adam and Christ"
     },
     {
       "pk": 52005013,
@@ -257,5 +260,22 @@
       "comment": "Grace is seen as a new reigning power, leading not only to justification but culminating in eternal life—a life that begins now and finds fulfillment in union with Christ. Eternal life is both a future hope and a present possession rooted in union with Christ, as reflected in John 17."
     }
   ],
-  "translatedAt": "2025-12-24T11:38:13.133Z"
+  "translatedAt": "2025-12-24T11:38:13.133Z",
+  "sections": [
+    {
+      "title": "Peace and Hope Through Faith",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Christ’s Love and Our Reconciliation",
+      "startVerse": 6,
+      "endVerse": 11
+    },
+    {
+      "title": "Adam and Christ",
+      "startVerse": 12,
+      "endVerse": 21
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then the Israelites set out and camped in the plains of Moab, across the Jordan from Jericho.",
       "links": "<a href='/AIV/6/2/1'>Josh. 2:1</a>; <a href='/AIV/4/33/48'>Num. 33:48-49</a>",
-      "comment": "The mention of camping in Moab foreshadows significant events involving Israel's faithfulness and external threats. Jericho is a key location for entry into the promised land."
+      "comment": "The mention of camping in Moab foreshadows significant events involving Israel's faithfulness and external threats. Jericho is a key location for entry into the promised land.",
+      "sectionHeader": "Balak Summons Balaam"
     },
     {
       "pk": 4022002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "So the elders of Moab and Midian departed, taking with them the fee for divination. They came to Balaam and told him what Balak had said.",
       "links": "<a href='/AIV/6/13/23'>Josh. 13:23</a>; <a href='/AIV/13/21/1'>1 Sam. 21:1</a>",
-      "comment": "The 'fee for divination' indicates the widespread practice of consulting spiritual powers for guidance, though the biblical perspective is critical of such practices."
+      "comment": "The 'fee for divination' indicates the widespread practice of consulting spiritual powers for guidance, though the biblical perspective is critical of such practices.",
+      "sectionHeader": "Balaam Consults God"
     },
     {
       "pk": 4022008,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "Then Balak sent other officials, more numerous and more distinguished than the first.",
       "links": "<a href='/AIV/4/22/17'>Num. 22:17</a>",
-      "comment": "This escalation showcases persistence in seeking a way around God's will, something seen in other biblical narratives (cf. Pharaoh in Exodus)."
+      "comment": "This escalation showcases persistence in seeking a way around God's will, something seen in other biblical narratives (cf. Pharaoh in Exodus).",
+      "sectionHeader": "Balaam Is Sent for a Second Time"
     },
     {
       "pk": 4022016,
@@ -266,7 +269,8 @@
       "verse": 22,
       "text": "But God was angry because he went, and the angel of the LORD stood in the road to oppose him. Balaam was riding his donkey, and his two servants were with him.",
       "links": "<a href='/AIV/2/4/24'>Ex. 4:24</a>; <a href='/AIV/14/21/16'>2 Chr. 21:16</a>",
-      "comment": "God's anger and the angel's appearance highlight God's sovereignty and the role of angelic messengers as instruments of divine will."
+      "comment": "God's anger and the angel's appearance highlight God's sovereignty and the role of angelic messengers as instruments of divine will.",
+      "sectionHeader": "Balaam’s Donkey and the Angel"
     },
     {
       "pk": 4022023,
@@ -434,7 +438,8 @@
       "verse": 36,
       "text": "When Balak heard that Balaam was coming, he went out to meet him at the city of Moab, on the border at the edge of his territory.",
       "links": "<a href='/AIV/4/22/3-5'>Num. 22:3-5</a>",
-      "comment": "Balak’s eagerness to welcome Balaam reveals his hope for control through spiritual power, a recurring but often mistaken motif."
+      "comment": "Balak’s eagerness to welcome Balaam reveals his hope for control through spiritual power, a recurring but often mistaken motif.",
+      "sectionHeader": "Balaam Meets Balak"
     },
     {
       "pk": 4022037,
@@ -497,5 +502,32 @@
       "comment": "Bamoth Baal, a high place, highlights locations for spiritual encounters. Viewing the camp reflects prophetic vision, a theme picked up in New Testament prophecy and apostolic witness."
     }
   ],
-  "translatedAt": "2025-12-24T01:43:51.003Z"
+  "translatedAt": "2025-12-24T01:43:51.003Z",
+  "sections": [
+    {
+      "title": "Balak Summons Balaam",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Balaam Consults God",
+      "startVerse": 7,
+      "endVerse": 14
+    },
+    {
+      "title": "Balaam Is Sent for a Second Time",
+      "startVerse": 15,
+      "endVerse": 21
+    },
+    {
+      "title": "Balaam’s Donkey and the Angel",
+      "startVerse": 22,
+      "endVerse": 35
+    },
+    {
+      "title": "Balaam Meets Balak",
+      "startVerse": 36,
+      "endVerse": 41
+    }
+  ]
 }

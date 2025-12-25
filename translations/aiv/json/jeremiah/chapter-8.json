@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "At that time, says the LORD, the bones of the kings of Judah, the bones of its officials, the bones of the priests, the bones of the prophets, and the bones of the inhabitants of Jerusalem will be brought out of their graves.",
       "links": "<a href='/AIV/24/7/32'>Jer. 7:32</a>; <a href='/AIV/24/14/16'>Jer. 14:16</a>",
-      "comment": "The Lord warns of judgment even against the honored dead, a sign of utter disgrace. Disinterment showed public shame (see Amos 2:1)."
+      "comment": "The Lord warns of judgment even against the honored dead, a sign of utter disgrace. Disinterment showed public shame (see Amos 2:1).",
+      "sectionHeader": "Judgment on Jerusalem's Dead"
     },
     {
       "pk": 30008002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "You shall say to them: Thus says the LORD, ‘Do people fall and not get up again? If someone turns away, do they not return?’",
       "links": "<a href='/AIV/24/3/22'>Jer. 3:22</a>; <a href='/AIV/20/24/16'>Prov. 24:16</a>",
-      "comment": "God appeals to human logic: just as one who falls rises again, so should Israel return from sin. Implied is the expectation of true repentance."
+      "comment": "God appeals to human logic: just as one who falls rises again, so should Israel return from sin. Implied is the expectation of true repentance.",
+      "sectionHeader": "The Unrepentant and Deceitful People"
     },
     {
       "pk": 30008005,
@@ -98,7 +100,8 @@
       "verse": 8,
       "text": "How can you say, ‘We are wise, and the law of the LORD is with us’? But behold, the lying pen of the scribes has made it into a lie.",
       "links": "<a href='/AIV/24/2/8'>Jer. 2:8</a>; <a href='/AIV/40/23/2'>Matt. 23:2-3</a>",
-      "comment": "Corruption of teaching is serious: outward confidence in the law is empty if its interpretation is twisted (cf. Matt 23:2-3)."
+      "comment": "Corruption of teaching is serious: outward confidence in the law is empty if its interpretation is twisted (cf. Matt 23:2-3).",
+      "sectionHeader": "False Wisdom and Corrupt Leaders"
     },
     {
       "pk": 30008009,
@@ -170,7 +173,8 @@
       "verse": 14,
       "text": "Why do we sit still? Assemble! Let us go into the fortified cities and perish there. For the LORD our God has doomed us to perish, and has given us poisoned water to drink, because we have sinned against the LORD.",
       "links": "<a href='/AIV/24/9/15'>Jer. 9:15</a>; <a href='/AIV/04/05/23'>Num. 5:23-24</a>",
-      "comment": "The bitterness of judgment recalls the 'waters of bitterness' (see Num. 5:23-24); sin separates from God's protection, leaving only judgment."
+      "comment": "The bitterness of judgment recalls the 'waters of bitterness' (see Num. 5:23-24); sin separates from God's protection, leaving only judgment.",
+      "sectionHeader": "Imminent Destruction and Lament"
     },
     {
       "pk": 30008015,
@@ -218,7 +222,8 @@
       "verse": 18,
       "text": "My comfort in sorrow is gone; my heart is faint within me.",
       "links": "<a href='/AIV/24/4/19'>Jer. 4:19</a>; <a href='/AIV/19/22/14'>Ps. 22:14</a>",
-      "comment": "The prophet shares God's grief—revealing divine compassion even in judgment (cf. Ps. 22:14; see also Christ's sorrow over Jerusalem, Matt. 23:37)."
+      "comment": "The prophet shares God's grief—revealing divine compassion even in judgment (cf. Ps. 22:14; see also Christ's sorrow over Jerusalem, Matt. 23:37).",
+      "sectionHeader": "Jeremiah's Grief for His People"
     },
     {
       "pk": 30008019,
@@ -269,5 +274,32 @@
       "comment": "Gilead was famous for healing balm, yet their spiritual wound remains. Points to the need for a true Physician (cf. Christ as healer—1 Cor. 1:30). Healing comes through the means appointed by God."
     }
   ],
-  "translatedAt": "2025-12-24T08:25:49.624Z"
+  "translatedAt": "2025-12-24T08:25:49.624Z",
+  "sections": [
+    {
+      "title": "Judgment on Jerusalem's Dead",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "The Unrepentant and Deceitful People",
+      "startVerse": 4,
+      "endVerse": 7
+    },
+    {
+      "title": "False Wisdom and Corrupt Leaders",
+      "startVerse": 8,
+      "endVerse": 13
+    },
+    {
+      "title": "Imminent Destruction and Lament",
+      "startVerse": 14,
+      "endVerse": 17
+    },
+    {
+      "title": "Jeremiah's Grief for His People",
+      "startVerse": 18,
+      "endVerse": 22
+    }
+  ]
 }

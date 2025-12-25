@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "King Nebuchadnezzar, to all peoples, nations, and languages who dwell on the whole earth: May your peace abound.",
       "links": "<a href='/AIV/27/6/25'>Dan. 6:25</a>",
-      "comment": "Nebuchadnezzar addresses the world, highlighting the global significance of his message. This openness anticipates the universal reach of God's sovereignty, later realized through Christ."
+      "comment": "Nebuchadnezzar addresses the world, highlighting the global significance of his message. This openness anticipates the universal reach of God's sovereignty, later realized through Christ.",
+      "sectionHeader": "Nebuchadnezzar's Proclamation"
     },
     {
       "pk": 34004002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "I, Nebuchadnezzar, was at ease in my house and flourishing in my palace.",
       "links": "",
-      "comment": "Nebuchadnezzar’s prosperity sets the stage for his coming humbling. The biblical pattern of pride preceding a fall extends through both Old and New Testaments (Prov. 16:18)."
+      "comment": "Nebuchadnezzar’s prosperity sets the stage for his coming humbling. The biblical pattern of pride preceding a fall extends through both Old and New Testaments (Prov. 16:18).",
+      "sectionHeader": "Nebuchadnezzar's Dream of the Great Tree"
     },
     {
       "pk": 34004005,
@@ -230,7 +232,8 @@
       "verse": 19,
       "text": "Then Daniel, whose name was Belteshazzar, was astonished for a moment, and his thoughts troubled him. The king said, \"Belteshazzar, do not let the dream or its interpretation trouble you.\" Belteshazzar answered, \"My lord, may the dream be for those who hate you and its interpretation for your enemies!",
       "links": "<a href='/AIV/27/7/15'>Dan. 7:15</a>",
-      "comment": "Daniel’s hesitation reflects a pastoral concern for Nebuchadnezzar’s well-being, reminiscent of the call to care and intercede for others (Rom. 9:1-3)."
+      "comment": "Daniel’s hesitation reflects a pastoral concern for Nebuchadnezzar’s well-being, reminiscent of the call to care and intercede for others (Rom. 9:1-3).",
+      "sectionHeader": "Daniel Interprets the Dream"
     },
     {
       "pk": 34004020,
@@ -338,7 +341,8 @@
       "verse": 28,
       "text": "All this came upon King Nebuchadnezzar.",
       "links": "",
-      "comment": "The fulfillment of prophecy underscores the certainty and reliability of God's Word."
+      "comment": "The fulfillment of prophecy underscores the certainty and reliability of God's Word.",
+      "sectionHeader": "Nebuchadnezzar's Humbling and Restoration"
     },
     {
       "pk": 34004029,
@@ -413,5 +417,27 @@
       "comment": "The king’s confession highlights the spiritual necessity of recognizing God’s eternal rule, a truth fully revealed in Christ’s kingship and the enduring character of God’s people."
     }
   ],
-  "translatedAt": "2025-12-24T09:30:13.806Z"
+  "translatedAt": "2025-12-24T09:30:13.806Z",
+  "sections": [
+    {
+      "title": "Nebuchadnezzar's Proclamation",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "Nebuchadnezzar's Dream of the Great Tree",
+      "startVerse": 4,
+      "endVerse": 18
+    },
+    {
+      "title": "Daniel Interprets the Dream",
+      "startVerse": 19,
+      "endVerse": 27
+    },
+    {
+      "title": "Nebuchadnezzar's Humbling and Restoration",
+      "startVerse": 28,
+      "endVerse": 34
+    }
+  ]
 }

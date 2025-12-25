@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The word of the LORD came to me, saying:",
       "links": "<a href='/AIV/24/1/4'>Jer. 1:4</a>",
-      "comment": "The prophet Jeremiah continues to receive the word directly from God, a sign of his special calling and mission as a spokesman for the LORD."
+      "comment": "The prophet Jeremiah continues to receive the word directly from God, a sign of his special calling and mission as a spokesman for the LORD.",
+      "sectionHeader": "Israel’s Faithfulness Remembered and Forgotten"
     },
     {
       "pk": 30002002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "Hear the word of the LORD, O house of Jacob, and all the families of the house of Israel.",
       "links": "<a href='/AIV/23/1/2'>Isa. 1:2</a>; <a href='/AIV/30/3/1'>Amos 3:1</a>",
-      "comment": "A call to the whole people of Israel to listen, emphasizing the unity of God’s people as one family bound by His covenant."
+      "comment": "A call to the whole people of Israel to listen, emphasizing the unity of God’s people as one family bound by His covenant.",
+      "sectionHeader": "The Apostasy of Israel"
     },
     {
       "pk": 30002005,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "Is Israel a servant, a slave by birth? Why then has he become a prey?",
       "links": "<a href='/AIV/02/4/22-23'>Ex. 4:22-23</a>",
-      "comment": "Israel is not meant for slavery but sonship. Their enslavement by foreign nations is a result of abandoning their unique calling as God’s children."
+      "comment": "Israel is not meant for slavery but sonship. Their enslavement by foreign nations is a result of abandoning their unique calling as God’s children.",
+      "sectionHeader": "The Consequences of Idolatry"
     },
     {
       "pk": 30002015,
@@ -242,7 +245,8 @@
       "verse": 20,
       "text": "For long ago you broke your yoke and tore off your bonds, and you said, ‘I will not serve!’ Yes, on every high hill and under every green tree you bowed yourself like a prostitute.",
       "links": "<a href='/AIV/11/14/23'>1 Kgs. 14:23</a>; <a href='/AIV/26/6/13'>Ezek. 6:13</a>",
-      "comment": "Idolatry is called spiritual adultery—an image used throughout Scripture and fulfilled in the New Testament’s call to radical faithfulness to Christ alone."
+      "comment": "Idolatry is called spiritual adultery—an image used throughout Scripture and fulfilled in the New Testament’s call to radical faithfulness to Christ alone.",
+      "sectionHeader": "Judgment for Spiritual Adultery"
     },
     {
       "pk": 30002021,
@@ -314,7 +318,8 @@
       "verse": 26,
       "text": "As the thief is ashamed when he is caught, so the house of Israel is put to shame—they, their kings, their officials, their priests, and their prophets.",
       "links": "<a href='/AIV/23/1/29'>Isa. 1:29</a>",
-      "comment": "Guilt spreads throughout the whole community—from leaders down—a theme picked up by Jesus when He warns about the blind leading the blind."
+      "comment": "Guilt spreads throughout the whole community—from leaders down—a theme picked up by Jesus when He warns about the blind leading the blind.",
+      "sectionHeader": "Israel’s Unfaithfulness and Refusal to Repent"
     },
     {
       "pk": 30002027,
@@ -449,5 +454,32 @@
       "comment": "Humiliation is the result of misplaced trust. The chapter ends with a warning, but also sets up the call for a restored trust in God through renewed covenant faithfulness."
     }
   ],
-  "translatedAt": "2025-12-24T08:22:19.939Z"
+  "translatedAt": "2025-12-24T08:22:19.939Z",
+  "sections": [
+    {
+      "title": "Israel’s Faithfulness Remembered and Forgotten",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "The Apostasy of Israel",
+      "startVerse": 4,
+      "endVerse": 13
+    },
+    {
+      "title": "The Consequences of Idolatry",
+      "startVerse": 14,
+      "endVerse": 19
+    },
+    {
+      "title": "Judgment for Spiritual Adultery",
+      "startVerse": 20,
+      "endVerse": 25
+    },
+    {
+      "title": "Israel’s Unfaithfulness and Refusal to Repent",
+      "startVerse": 26,
+      "endVerse": 37
+    }
+  ]
 }

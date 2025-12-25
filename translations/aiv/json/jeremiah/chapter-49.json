@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Concerning the people of Ammon: Thus says the LORD, 'Does Israel have no sons? Is there no one to possess his inheritance? Why then has Milcom taken possession of Gad, and his people settled in its cities?'",
       "links": "<a href='/AIV/07/11/12-13'>Judg. 11:12-13</a>; <a href='/AIV/24/25/21'>Jer. 25:21</a>",
-      "comment": "The rhetorical questions emphasize God's justice regarding Ammon's encroachment upon Israel's territory. 'Milcom' here refers to the god of the Ammonites. Note the concern for rightful inheritance, which echoes themes of authority and stewardship found elsewhere (see <a href='/AIV/01/12/7'>Gen. 12:7</a>)."
+      "comment": "The rhetorical questions emphasize God's justice regarding Ammon's encroachment upon Israel's territory. 'Milcom' here refers to the god of the Ammonites. Note the concern for rightful inheritance, which echoes themes of authority and stewardship found elsewhere (see <a href='/AIV/01/12/7'>Gen. 12:7</a>).",
+      "sectionHeader": "Judgment on Ammon"
     },
     {
       "pk": 30049002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "Concerning Edom: Thus says the LORD of hosts: Is wisdom no more in Teman? Has counsel perished from the prudent? Has their wisdom become corrupted?",
       "links": "<a href='/AIV/18/02/11'>Job 2:11</a>; <a href='/AIV/31/1/8'>Obad. 1:8</a>",
-      "comment": "Edom, once famed for wisdom, is now bereft. Earthly wisdom is insufficient apart from divine truth (see <a href='/AIV/20/03/5-7'>Prov. 3:5-7</a>)."
+      "comment": "Edom, once famed for wisdom, is now bereft. Earthly wisdom is insufficient apart from divine truth (see <a href='/AIV/20/03/5-7'>Prov. 3:5-7</a>).",
+      "sectionHeader": "Judgment on Edom"
     },
     {
       "pk": 30049008,
@@ -278,7 +280,8 @@
       "verse": 23,
       "text": "Concerning Damascus. Hamath and Arpad are confounded, for they have heard bad news; they are melting in fear; there is anxiety on the sea, it cannot be calmed.",
       "links": "<a href='/AIV/23/17/9'>Isa. 17:9</a>; <a href='/AIV/11/20/34'>1 Kings 20:34</a>",
-      "comment": "Damascus, symbolic of ancient enemies, faces terror and unrest; seas typically symbolize chaos, here referencing national turmoil."
+      "comment": "Damascus, symbolic of ancient enemies, faces terror and unrest; seas typically symbolize chaos, here referencing national turmoil.",
+      "sectionHeader": "Judgment on Damascus"
     },
     {
       "pk": 30049024,
@@ -338,7 +341,8 @@
       "verse": 28,
       "text": "Concerning Kedar and the kingdoms of Hazor, which Nebuchadnezzar king of Babylon struck: Thus says the LORD: 'Arise, go up to Kedar, and destroy the people of the east!'",
       "links": "<a href='/AIV/01/25/13'>Gen. 25:13</a>; <a href='/AIV/26/27/21'>Ezek. 27:21</a>",
-      "comment": "Nomadic tribes are not exempt from judgement. Highlights universality of God's reign and justice."
+      "comment": "Nomadic tribes are not exempt from judgement. Highlights universality of God's reign and justice.",
+      "sectionHeader": "Judgment on Kedar and Hazor"
     },
     {
       "pk": 30049029,
@@ -410,7 +414,8 @@
       "verse": 34,
       "text": "The word of the LORD that came to Jeremiah the prophet concerning Elam, in the beginning of the reign of Zedekiah king of Judah.",
       "links": "<a href='/AIV/12/24/34'>2 Kings 24:34</a>; <a href='/AIV/24/25/25'>Jer. 25:25</a>",
-      "comment": "New oracle introduced: dating establishes a historical anchor for prophecy, showing fulfillment in God’s timing."
+      "comment": "New oracle introduced: dating establishes a historical anchor for prophecy, showing fulfillment in God’s timing.",
+      "sectionHeader": "Judgment and Restoration of Elam"
     },
     {
       "pk": 30049035,
@@ -473,5 +478,32 @@
       "comment": "Final restoration is promised, aligning with prophetic visions of all nations coming into the blessing of God. This restoration is ultimately fulfilled in the Messianic kingdom and the unity of all peoples in worship (see <a href='/AIV/23/19/25'>Isa. 19:25</a>; <a href='/AIV/66/07/9'>Rev. 7:9</a>)."
     }
   ],
-  "translatedAt": "2025-12-24T08:48:55.840Z"
+  "translatedAt": "2025-12-24T08:48:55.840Z",
+  "sections": [
+    {
+      "title": "Judgment on Ammon",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Judgment on Edom",
+      "startVerse": 7,
+      "endVerse": 22
+    },
+    {
+      "title": "Judgment on Damascus",
+      "startVerse": 23,
+      "endVerse": 27
+    },
+    {
+      "title": "Judgment on Kedar and Hazor",
+      "startVerse": 28,
+      "endVerse": 33
+    },
+    {
+      "title": "Judgment and Restoration of Elam",
+      "startVerse": 34,
+      "endVerse": 39
+    }
+  ]
 }

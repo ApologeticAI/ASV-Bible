@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The word of the LORD came to me, saying:",
       "links": "<a href='/AIV/24/23/28'>Jer. 23:28</a>; <a href='/AIV/26/3/16'>Ezek. 3:16</a>",
-      "comment": "Ezekiel receives divine revelation, a recurring theme throughout the prophetic books. The importance of the prophet's role in transmitting God's word underlines the enduring necessity for sacred tradition and approved messengers."
+      "comment": "Ezekiel receives divine revelation, a recurring theme throughout the prophetic books. The importance of the prophet's role in transmitting God's word underlines the enduring necessity for sacred tradition and approved messengers.",
+      "sectionHeader": "Condemnation of False Prophets"
     },
     {
       "pk": 33013002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "Because, yes, because they have led My people astray, saying, 'Peace,' when there is no peace, and when anyone builds a wall, behold, they plaster it with whitewash;",
       "links": "<a href='/AIV/24/6/14'>Jer. 6:14</a>; <a href='/AIV/40/23/27'>Matt. 23:27</a>",
-      "comment": "False assurances are exposed—true peace comes only through authentic reconciliation with God. The whitewashing metaphor is later echoed by Jesus, who confronts hypocrisy and the necessity of genuine conversion."
+      "comment": "False assurances are exposed—true peace comes only through authentic reconciliation with God. The whitewashing metaphor is later echoed by Jesus, who confronts hypocrisy and the necessity of genuine conversion.",
+      "sectionHeader": "Judgment Against Whitewashed Walls"
     },
     {
       "pk": 33013011,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "\"And you, son of man, set your face against the daughters of your people, who prophesy out of their own hearts, and prophesy against them",
       "links": "<a href='/AIV/26/21/2'>Ezek. 21:2</a>",
-      "comment": "Even among women, false prophecy is condemned. Spiritual authority flows from divine appointment, not self-initiative, underscoring the importance of established order and proper discernment."
+      "comment": "Even among women, false prophecy is condemned. Spiritual authority flows from divine appointment, not self-initiative, underscoring the importance of established order and proper discernment.",
+      "sectionHeader": "Woe to the False Prophetesses"
     },
     {
       "pk": 33013018,
@@ -281,5 +284,22 @@
       "comment": "God's promise is to end the works of deception and restore His people to Himself. The recurring refrain, 'you shall know that I am the LORD,' points throughout scripture to God's desire for relationship, truth, and the fullness of worship in spirit and truth."
     }
   ],
-  "translatedAt": "2025-12-24T09:04:44.306Z"
+  "translatedAt": "2025-12-24T09:04:44.306Z",
+  "sections": [
+    {
+      "title": "Condemnation of False Prophets",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "Judgment Against Whitewashed Walls",
+      "startVerse": 10,
+      "endVerse": 16
+    },
+    {
+      "title": "Woe to the False Prophetesses",
+      "startVerse": 17,
+      "endVerse": 23
+    }
+  ]
 }

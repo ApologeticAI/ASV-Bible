@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The sin of Judah is written with an iron pen; with a diamond point it is engraved on the tablet of their heart and on the horns of their altars.",
       "links": "<a href='/AIV/02/32/16'>Ex. 32:16</a>; <a href='/AIV/20/3/3'>Prov. 3:3</a>; <a href='/AIV/26/8/10'>Ezek. 8:10</a>",
-      "comment": "Sin is described as being permanently engraved on Judah's heart and their places of worship, echoing the seriousness and depth of their rebellion. The image points to the need for a new heart (see Jer. 31:33), fulfilled in the new covenant established by Christ."
+      "comment": "Sin is described as being permanently engraved on Judah's heart and their places of worship, echoing the seriousness and depth of their rebellion. The image points to the need for a new heart (see Jer. 31:33), fulfilled in the new covenant established by Christ.",
+      "sectionHeader": "The Sin and Punishment of Judah"
     },
     {
       "pk": 30017002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "This is what the LORD says: Cursed is the man who trusts in people, who depends on human strength, and whose heart turns away from the LORD.",
       "links": "<a href='/AIV/19/118/8-9'>Ps. 118:8-9</a>; <a href='/AIV/23/31/1'>Isa. 31:1</a>",
-      "comment": "Trust in human ability instead of God leads to a spiritual curse. True blessing comes from reliance on God alone—a theme fulfilled in Christ, who is the new source of trust for believers (cf. John 14:1)."
+      "comment": "Trust in human ability instead of God leads to a spiritual curse. True blessing comes from reliance on God alone—a theme fulfilled in Christ, who is the new source of trust for believers (cf. John 14:1).",
+      "sectionHeader": "Blessings and Curses of Trust"
     },
     {
       "pk": 30017006,
@@ -110,7 +112,8 @@
       "verse": 9,
       "text": "The heart is more deceitful than all things and desperately sick; who can understand it?",
       "links": "<a href='/AIV/01/6/5'>Gen. 6:5</a>; <a href='/AIV/19/14/1-3'>Ps. 14:1-3</a>; <a href='/AIV/40/15/19'>Matt. 15:19</a>",
-      "comment": "This diagnosis of human nature underlines the necessity of supernatural grace. It also supports the doctrine of original sin and points toward the need for inner transformation, promised in the new covenant (Jer. 31:33; Ezek. 36:26)."
+      "comment": "This diagnosis of human nature underlines the necessity of supernatural grace. It also supports the doctrine of original sin and points toward the need for inner transformation, promised in the new covenant (Jer. 31:33; Ezek. 36:26).",
+      "sectionHeader": "The Deceitfulness of the Heart and Divine Justice"
     },
     {
       "pk": 30017010,
@@ -170,7 +173,8 @@
       "verse": 14,
       "text": "Heal me, O LORD, and I will be healed. Save me, and I will be saved, for You are my praise.",
       "links": "<a href='/AIV/02/15/26'>Ex. 15:26</a>; <a href='/AIV/19/103/3'>Ps. 103:3</a>",
-      "comment": "A prayer recognizing God's exclusive power to heal and save—physically and spiritually—foreshadowing Christ's ministry of healing and ultimate salvation."
+      "comment": "A prayer recognizing God's exclusive power to heal and save—physically and spiritually—foreshadowing Christ's ministry of healing and ultimate salvation.",
+      "sectionHeader": "Jeremiah's Prayer and Plea for Deliverance"
     },
     {
       "pk": 30017015,
@@ -230,7 +234,8 @@
       "verse": 19,
       "text": "This is what the LORD said to me: Go and stand at the Gate of the People, through which the kings of Judah enter and leave, and in all the gates of Jerusalem,",
       "links": "<a href='/AIV/24/22/2'>Jer. 22:2</a>",
-      "comment": "God commands Jeremiah to deliver His message publicly, signifying the universal call to faithfulness for both leaders and people."
+      "comment": "God commands Jeremiah to deliver His message publicly, signifying the universal call to faithfulness for both leaders and people.",
+      "sectionHeader": "The Sabbath Commandment"
     },
     {
       "pk": 30017020,
@@ -329,5 +334,32 @@
       "comment": "Disregarding God's commands brings destruction, as fulfilled in the Babylonian exile. Yet, within this judgment is a call to conversion, reminding us that return to true worship and obedience restores communion with God."
     }
   ],
-  "translatedAt": "2025-12-24T08:31:04.283Z"
+  "translatedAt": "2025-12-24T08:31:04.283Z",
+  "sections": [
+    {
+      "title": "The Sin and Punishment of Judah",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "Blessings and Curses of Trust",
+      "startVerse": 5,
+      "endVerse": 8
+    },
+    {
+      "title": "The Deceitfulness of the Heart and Divine Justice",
+      "startVerse": 9,
+      "endVerse": 13
+    },
+    {
+      "title": "Jeremiah's Prayer and Plea for Deliverance",
+      "startVerse": 14,
+      "endVerse": 18
+    },
+    {
+      "title": "The Sabbath Commandment",
+      "startVerse": 19,
+      "endVerse": 27
+    }
+  ]
 }

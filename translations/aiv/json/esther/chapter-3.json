@@ -3,7 +3,6 @@
   "bookName": "Esther",
   "bookAbbreviation": "Esth",
   "chapter": 3,
-  "sections": [],
   "verses": [
     {
       "pk": 19003001,
@@ -15,7 +14,8 @@
       "verse": 1,
       "text": "After these things, King Xerxes promoted Haman son of Hammedatha the Agagite, raising him up and placing his seat above all the officials who were with him.",
       "links": "<a href='/AIV/9/15/8'>1 Sam. 15:8</a>",
-      "comment": "Haman's lineage as an Agagite links him to Israel's ancient enemies, connecting this conflict with the spiritual struggle found throughout Scripture. The raising up of a single official foreshadows later biblical instances of promotion and authority. The king's action intensifies the tension between good and evil, which resonates with the drama seen throughout salvation history."
+      "comment": "Haman's lineage as an Agagite links him to Israel's ancient enemies, connecting this conflict with the spiritual struggle found throughout Scripture. The raising up of a single official foreshadows later biblical instances of promotion and authority. The king's action intensifies the tension between good and evil, which resonates with the drama seen throughout salvation history.",
+      "sectionHeader": "Haman Is Promoted; Mordecai Refuses to Bow"
     },
     {
       "pk": 19003002,
@@ -75,7 +75,8 @@
       "verse": 6,
       "text": "But he thought it beneath himself to attack only Mordecai. Instead, since they had made known to him Mordecai's people, Haman sought to destroy all the Jews throughout the whole kingdom of Xerxes.",
       "links": "<a href='/AIV/1/37/18-20'>Gen. 37:18-20</a>; <a href='/AIV/40/2/16'>Matt. 2:16</a>",
-      "comment": "The plot to destroy an entire people recalls earlier persecutions and anticipates later episodes in salvation history. This foreshadows attacks against the people of God and offers a typology pointing forward to times of trial for the faithful."
+      "comment": "The plot to destroy an entire people recalls earlier persecutions and anticipates later episodes in salvation history. This foreshadows attacks against the people of God and offers a typology pointing forward to times of trial for the faithful.",
+      "sectionHeader": "Haman Plots to Destroy the Jews"
     },
     {
       "pk": 19003007,
@@ -147,7 +148,8 @@
       "verse": 12,
       "text": "Then the king’s secretaries were summoned on the thirteenth day of the first month, and a decree was written exactly as Haman commanded, to the king’s satraps, the governors of each province, and the officials of every people, to every province in its own script and to every people in their own language. It was written in the name of King Xerxes and sealed with the king’s signet ring.",
       "links": "<a href='/AIV/24/22/10'>Jer. 22:10</a>; <a href='/AIV/44/2/8-11'>Acts 2:8-11</a>",
-      "comment": "The meticulous distribution of the decree in every language echoes the universality of later biblical announcements, like Pentecost. Wickedness may seem to gain worldwide reach, but God's providence always protects His people and His plan."
+      "comment": "The meticulous distribution of the decree in every language echoes the universality of later biblical announcements, like Pentecost. Wickedness may seem to gain worldwide reach, but God's providence always protects His people and His plan.",
+      "sectionHeader": "The King's Decree Against the Jews"
     },
     {
       "pk": 19003013,
@@ -186,5 +188,22 @@
       "comment": "While those in authority rest in comfort, the people are thrown into terror—a pattern seen when worldly rulers plot against the innocent. Christ’s own suffering is foreshadowed by a world that often ignores injustice, yet the Lord remains active behind the scenes, working out redemption through His hidden providence."
     }
   ],
-  "translatedAt": "2025-12-24T05:09:11.884Z"
+  "translatedAt": "2025-12-24T05:09:11.884Z",
+  "sections": [
+    {
+      "title": "Haman Is Promoted; Mordecai Refuses to Bow",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Haman Plots to Destroy the Jews",
+      "startVerse": 6,
+      "endVerse": 11
+    },
+    {
+      "title": "The King's Decree Against the Jews",
+      "startVerse": 12,
+      "endVerse": 15
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Jude, a servant of Jesus Christ and brother of James, to those who are called, beloved in God the Father and kept for Jesus Christ:",
       "links": "<a href='/AIV/59/1/1'>James 1:1</a>; <a href='/AIV/45/1/7'>Rom. 1:7</a>",
-      "comment": "Jude identifies himself with humility and connects his authority to the family of James, showing the importance of apostolic succession. He acknowledges God's active role in calling and preserving believers."
+      "comment": "Jude identifies himself with humility and connects his authority to the family of James, showing the importance of apostolic succession. He acknowledges God's active role in calling and preserving believers.",
+      "sectionHeader": "Greeting and Blessing"
     },
     {
       "pk": 72001002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "Beloved, although I was very eager to write to you about our common salvation, I felt compelled to write and urge you to contend earnestly for the faith which was once for all delivered to the saints.",
       "links": "<a href='/AIV/50/1/27'>Phil. 1:27</a>; <a href='/AIV/44/2/42'>Acts 2:42</a>",
-      "comment": "This verse emphasizes the unchanging and apostolic nature of the faith, handed down once for all—a reference to tradition and doctrinal stability, echoing the importance of maintaining unity through teachings received from the apostles."
+      "comment": "This verse emphasizes the unchanging and apostolic nature of the faith, handed down once for all—a reference to tradition and doctrinal stability, echoing the importance of maintaining unity through teachings received from the apostles.",
+      "sectionHeader": "The Warning Against False Teachers"
     },
     {
       "pk": 72001004,
@@ -62,7 +64,8 @@
       "verse": 5,
       "text": "Now I want to remind you, though you once knew it, that the Lord saved a people out of the land of Egypt, but afterward destroyed those who did not believe.",
       "links": "<a href='/AIV/4/14/29-30'>Num. 14:29-30</a>; <a href='/AIV/60/3/20'>1 Pet. 3:20</a>",
-      "comment": "This verse recalls divine judgment on unbelief, emphasizing the need for perseverance in faith. The Lord’s actions reveal both mercy and justice—a spiritual principle carrying through both Testaments."
+      "comment": "This verse recalls divine judgment on unbelief, emphasizing the need for perseverance in faith. The Lord’s actions reveal both mercy and justice—a spiritual principle carrying through both Testaments.",
+      "sectionHeader": "Examples of Judgment on the Ungodly"
     },
     {
       "pk": 72001006,
@@ -98,7 +101,8 @@
       "verse": 8,
       "text": "Yet in the same way these people also, relying on their dreams, defile the flesh, reject authority, and blaspheme glorious beings.",
       "links": "<a href='/AIV/61/2/10'>2 Pet. 2:10</a>; <a href='/AIV/45/13/1-2'>Rom. 13:1-2</a>",
-      "comment": "Rejecting authority and blaspheming spiritual realities reflects a deeper rejection of the sacred order established by God and passed through apostolic leaders."
+      "comment": "Rejecting authority and blaspheming spiritual realities reflects a deeper rejection of the sacred order established by God and passed through apostolic leaders.",
+      "sectionHeader": "Characteristics and Fate of the False Teachers"
     },
     {
       "pk": 72001009,
@@ -206,7 +210,8 @@
       "verse": 17,
       "text": "But you, beloved, remember the words spoken beforehand by the apostles of our Lord Jesus Christ.",
       "links": "<a href='/AIV/44/20/29-31'>Acts 20:29-31</a>; <a href='/AIV/61/3/2'>2 Pet. 3:2</a>",
-      "comment": "Calls the believers to submit to apostolic teaching and tradition, emphasizing the importance of remembering and obeying the words handed down from the apostles."
+      "comment": "Calls the believers to submit to apostolic teaching and tradition, emphasizing the importance of remembering and obeying the words handed down from the apostles.",
+      "sectionHeader": "Exhortation to the Faithful"
     },
     {
       "pk": 72001018,
@@ -290,7 +295,8 @@
       "verse": 24,
       "text": "Now to Him who is able to keep you from stumbling and to present you blameless before the presence of His glory with great joy,",
       "links": "<a href='/AIV/51/1/22'>Col. 1:22</a>; <a href='/AIV/45/14/4'>Rom. 14:4</a>",
-      "comment": "This doxology emphasizes God's power to preserve believers and present them holy, referencing the role of perseverance through grace."
+      "comment": "This doxology emphasizes God's power to preserve believers and present them holy, referencing the role of perseverance through grace.",
+      "sectionHeader": "Doxology"
     },
     {
       "pk": 72001025,
@@ -305,5 +311,37 @@
       "comment": "The conclusion exalts God’s eternal dominion through Jesus, echoing the worship and recognition of God's sovereignty in the life of the church. The high Christology (identifying Jesus as Lord and Savior) mirrors ancient hymns and points to the centrality of liturgical prayer."
     }
   ],
-  "translatedAt": "2025-12-24T12:33:05.598Z"
+  "translatedAt": "2025-12-24T12:33:05.598Z",
+  "sections": [
+    {
+      "title": "Greeting and Blessing",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "The Warning Against False Teachers",
+      "startVerse": 3,
+      "endVerse": 4
+    },
+    {
+      "title": "Examples of Judgment on the Ungodly",
+      "startVerse": 5,
+      "endVerse": 7
+    },
+    {
+      "title": "Characteristics and Fate of the False Teachers",
+      "startVerse": 8,
+      "endVerse": 16
+    },
+    {
+      "title": "Exhortation to the Faithful",
+      "startVerse": 17,
+      "endVerse": 23
+    },
+    {
+      "title": "Doxology",
+      "startVerse": 24,
+      "endVerse": 25
+    }
+  ]
 }

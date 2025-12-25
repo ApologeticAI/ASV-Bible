@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When it was decided that we should sail for Italy, they handed Paul and some other prisoners over to a centurion named Julius, of the Augustan Cohort.",
       "links": "<a href='/AIV/44/23/11'>Acts 23:11</a>; <a href='/AIV/44/25/12'>Acts 25:12</a>",
-      "comment": "Verse 1 marks the start of Paul's journey to Rome, a fulfillment of God's promise (see Acts 23:11)."
+      "comment": "Verse 1 marks the start of Paul's journey to Rome, a fulfillment of God's promise (see Acts 23:11).",
+      "sectionHeader": "Paul Sets Sail for Rome"
     },
     {
       "pk": 51027002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "When a gentle south wind began to blow, thinking they had achieved their purpose, they weighed anchor and sailed along Crete, close to shore.",
       "links": "",
-      "comment": "Outward circumstances may deceptively appear favorable, yet spiritual discernment is needed (see Prov. 14:12)."
+      "comment": "Outward circumstances may deceptively appear favorable, yet spiritual discernment is needed (see Prov. 14:12).",
+      "sectionHeader": "The Storm at Sea"
     },
     {
       "pk": 51027014,
@@ -254,7 +256,8 @@
       "verse": 21,
       "text": "After they had gone without food for a long time, Paul stood up among them and said, 'Men, you should have listened to me and not sailed from Crete and incurred this injury and loss.'",
       "links": "",
-      "comment": "Paul reproves the company for ignoring his prior counsel; this highlights the weight of apostolic authority through whom God’s will was communicated."
+      "comment": "Paul reproves the company for ignoring his prior counsel; this highlights the weight of apostolic authority through whom God’s will was communicated.",
+      "sectionHeader": "Paul Assures Safety"
     },
     {
       "pk": 51027022,
@@ -470,7 +473,8 @@
       "verse": 39,
       "text": "When day came, they did not recognize the land, but noticed a bay with a beach, and they decided to run the ship ashore there if possible.",
       "links": "",
-      "comment": "The new land is like the unknown future that requires trust in God’s providence."
+      "comment": "The new land is like the unknown future that requires trust in God’s providence.",
+      "sectionHeader": "The Shipwreck"
     },
     {
       "pk": 51027040,
@@ -533,5 +537,27 @@
       "comment": "As in the deliverance of Noah’s family, all who remained with the apostolic band are saved—a strong image of the necessity of remaining within the one true community founded by Christ."
     }
   ],
-  "translatedAt": "2025-12-24T11:35:00.732Z"
+  "translatedAt": "2025-12-24T11:35:00.732Z",
+  "sections": [
+    {
+      "title": "Paul Sets Sail for Rome",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "The Storm at Sea",
+      "startVerse": 13,
+      "endVerse": 20
+    },
+    {
+      "title": "Paul Assures Safety",
+      "startVerse": 21,
+      "endVerse": 38
+    },
+    {
+      "title": "The Shipwreck",
+      "startVerse": 39,
+      "endVerse": 44
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When Israel was a child, I loved him, and out of Egypt I called My son.",
       "links": "<a href='/AIV/2/12/37'>Ex. 12:37</a>; <a href='/AIV/40/2/15'>Matt. 2:15</a>",
-      "comment": "This verse reveals God's loving relationship with Israel, depicted as a child. The phrase 'out of Egypt I called My son' is applied by Matthew to Jesus (see Matt. 2:15), hinting at both a literal deliverance from Egypt and an anticipatory sign of the Messiah, showing Scripture’s unity. The language describes a close, almost familial bond initiated by divine grace."
+      "comment": "This verse reveals God's loving relationship with Israel, depicted as a child. The phrase 'out of Egypt I called My son' is applied by Matthew to Jesus (see Matt. 2:15), hinting at both a literal deliverance from Egypt and an anticipatory sign of the Messiah, showing Scripture’s unity. The language describes a close, almost familial bond initiated by divine grace.",
+      "sectionHeader": "God’s Love and Israel’s Ingratitude"
     },
     {
       "pk": 35011002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "They shall not return to Egypt, but Assyria shall be their king, because they refused to return to Me.",
       "links": "<a href='/AIV/12/17/6'>2 Kings 17:6</a>; <a href='/AIV/24/2/18'>Jer. 2:18</a>",
-      "comment": "Despite Israel’s desire for Egypt, God decrees Assyria as their destiny, the instrument of judgment for disobedience. The refusal to return to God points to the consequences of hardened hearts."
+      "comment": "Despite Israel’s desire for Egypt, God decrees Assyria as their destiny, the instrument of judgment for disobedience. The refusal to return to God points to the consequences of hardened hearts.",
+      "sectionHeader": "Judgment and Compassion of the Lord"
     },
     {
       "pk": 35011006,
@@ -122,7 +124,8 @@
       "verse": 10,
       "text": "They shall follow the LORD; He will roar like a lion; when He roars, His children shall come trembling from the west.",
       "links": "<a href='/AIV/30/1/2'>Amos 1:2</a>; <a href='/AIV/23/11/11'>Isa. 11:11</a>",
-      "comment": "God’s authoritative summons inspires awe and leads to renewal. The prophetic image of children returning foreshadows restoration and re-gathering for all nations, spiritually fulfilled in the Church’s universal call."
+      "comment": "God’s authoritative summons inspires awe and leads to renewal. The prophetic image of children returning foreshadows restoration and re-gathering for all nations, spiritually fulfilled in the Church’s universal call.",
+      "sectionHeader": "Promise of Restoration"
     },
     {
       "pk": 35011011,
@@ -146,8 +149,31 @@
       "verse": 12,
       "text": "Ephraim surrounds Me with lies, and the house of Israel with deceit, but Judah still walks with God, and is faithful to the Holy One.",
       "links": "<a href='/AIV/23/1/21'>Isa. 1:21</a>; <a href='/AIV/19/78/9'>Ps. 78:9</a>",
-      "comment": "Israel’s betrayal is contrasted with Judah’s relative faithfulness, highlighting the remnant theme. This sets up the expectation of enduring faith preserved through visible spiritual structures and calls to unity."
+      "comment": "Israel’s betrayal is contrasted with Judah’s relative faithfulness, highlighting the remnant theme. This sets up the expectation of enduring faith preserved through visible spiritual structures and calls to unity.",
+      "sectionHeader": "Israel and Judah Compared"
     }
   ],
-  "translatedAt": "2025-12-24T09:38:53.883Z"
+  "translatedAt": "2025-12-24T09:38:53.883Z",
+  "sections": [
+    {
+      "title": "God’s Love and Israel’s Ingratitude",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "Judgment and Compassion of the Lord",
+      "startVerse": 5,
+      "endVerse": 9
+    },
+    {
+      "title": "Promise of Restoration",
+      "startVerse": 10,
+      "endVerse": 11
+    },
+    {
+      "title": "Israel and Judah Compared",
+      "startVerse": 12,
+      "endVerse": 12
+    }
+  ]
 }

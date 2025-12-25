@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In the twenty-seventh year of Jeroboam king of Israel, Azariah son of Amaziah, king of Judah, began to reign.",
       "links": "<a href='/AIV/14/26/1'>2 Chr. 26:1</a>",
-      "comment": "Azariah is also known as Uzziah. This overlapping timeline with Jeroboam shows the divided nature of God's people at this time."
+      "comment": "Azariah is also known as Uzziah. This overlapping timeline with Jeroboam shows the divided nature of God's people at this time.",
+      "sectionHeader": "Reign of Azariah (Uzziah) in Judah"
     },
     {
       "pk": 12015002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "In the thirty-eighth year of Azariah king of Judah, Zechariah the son of Jeroboam became king over Israel in Samaria, and he reigned six months.",
       "links": "<a href='/AIV/12/14/29'>2 Kgs. 14:29</a>",
-      "comment": "A short reign, reflecting instability in the northern kingdom and the consequences of departing from Davidic faithfulness."
+      "comment": "A short reign, reflecting instability in the northern kingdom and the consequences of departing from Davidic faithfulness.",
+      "sectionHeader": "Zechariah's Reign and Death"
     },
     {
       "pk": 12015009,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "Shallum the son of Jabesh began to reign in the thirty-ninth year of Uzziah king of Judah, and he reigned one month in Samaria.",
       "links": "<a href='/AIV/14/26/1'>2 Chr. 26:1</a>",
-      "comment": "An extremely short reign, showing instability and God’s judgment on the northern kingdom for their unfaithfulness."
+      "comment": "An extremely short reign, showing instability and God’s judgment on the northern kingdom for their unfaithfulness.",
+      "sectionHeader": "Reign and Death of Shallum"
     },
     {
       "pk": 12015014,
@@ -206,7 +209,8 @@
       "verse": 17,
       "text": "In the thirty-ninth year of Azariah king of Judah, Menahem son of Gadi began to reign over Israel, and he reigned ten years in Samaria.",
       "links": "",
-      "comment": "Menahem had a longer reign, but would prove himself no better in terms of godliness or justice."
+      "comment": "Menahem had a longer reign, but would prove himself no better in terms of godliness or justice.",
+      "sectionHeader": "Reign of Menahem over Israel"
     },
     {
       "pk": 12015018,
@@ -278,7 +282,8 @@
       "verse": 23,
       "text": "In the fiftieth year of Azariah king of Judah, Pekahiah son of Menahem began to reign over Israel in Samaria, and he reigned two years.",
       "links": "",
-      "comment": "The rapid turnover of kings is a further sign of instability and the consequences of rebellion from God’s law."
+      "comment": "The rapid turnover of kings is a further sign of instability and the consequences of rebellion from God’s law.",
+      "sectionHeader": "Pekahiah and Pekah: Kings of Israel"
     },
     {
       "pk": 12015024,
@@ -386,7 +391,8 @@
       "verse": 32,
       "text": "In the second year of Pekah son of Remaliah, king of Israel, Jotham the son of Uzziah, king of Judah, began to reign.",
       "links": "",
-      "comment": "Judah’s kingship remains more stable due to the promises given to David, a sign for future unity under the Messiah."
+      "comment": "Judah’s kingship remains more stable due to the promises given to David, a sign for future unity under the Messiah.",
+      "sectionHeader": "Reign of Jotham in Judah"
     },
     {
       "pk": 12015033,
@@ -461,5 +467,37 @@
       "comment": "The line of David continues unbroken, preparing the way for God’s promise to be fulfilled in the Messiah. Both the historical and spiritual succession has deep significance for understanding God's faithfulness (<a href='/AIV/40/1/1-17'>Matt. 1:1-17</a>)."
     }
   ],
-  "translatedAt": "2025-12-24T03:56:32.298Z"
+  "translatedAt": "2025-12-24T03:56:32.298Z",
+  "sections": [
+    {
+      "title": "Reign of Azariah (Uzziah) in Judah",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Zechariah's Reign and Death",
+      "startVerse": 8,
+      "endVerse": 12
+    },
+    {
+      "title": "Reign and Death of Shallum",
+      "startVerse": 13,
+      "endVerse": 16
+    },
+    {
+      "title": "Reign of Menahem over Israel",
+      "startVerse": 17,
+      "endVerse": 22
+    },
+    {
+      "title": "Pekahiah and Pekah: Kings of Israel",
+      "startVerse": 23,
+      "endVerse": 31
+    },
+    {
+      "title": "Reign of Jotham in Judah",
+      "startVerse": 32,
+      "endVerse": 38
+    }
+  ]
 }

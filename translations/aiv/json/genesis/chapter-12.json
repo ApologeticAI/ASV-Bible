@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now the LORD said to Abram, \"Go from your land, your relatives, and your father’s house to the land I will show you.\"",
       "links": "<a href='/AIV/44/7/2-3'>Acts 7:2-3</a>; <a href='/AIV/58/11/8'>Heb. 11:8</a>",
-      "comment": "Abram is called to leave everything familiar behind in obedience and faith. The invitation reflects God’s initiative in salvation history and foreshadows later calls to leave all and follow God (Matt. 4:19; Luke 18:22). The 'land I will show you' establishes trust in divine guidance, an ongoing biblical theme."
+      "comment": "Abram is called to leave everything familiar behind in obedience and faith. The invitation reflects God’s initiative in salvation history and foreshadows later calls to leave all and follow God (Matt. 4:19; Luke 18:22). The 'land I will show you' establishes trust in divine guidance, an ongoing biblical theme.",
+      "sectionHeader": "The Call of Abram"
     },
     {
       "pk": 1012002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "Now there was a famine in the land, so Abram went down to Egypt to live there for a while, because the famine was severe in the land.",
       "links": "<a href='/AIV/01/26/1'>Gen. 26:1</a>; <a href='/AIV/02/1/1-5'>Ex. 1:1-5</a>",
-      "comment": "Egypt serves as a recurring symbol of refuge and trial. The famine echoes later experiences by the Patriarchs and Israel, highlighting God’s sovereignty and the testing of faith (Ps. 105:16-17)."
+      "comment": "Egypt serves as a recurring symbol of refuge and trial. The famine echoes later experiences by the Patriarchs and Israel, highlighting God’s sovereignty and the testing of faith (Ps. 105:16-17).",
+      "sectionHeader": "Abram and Sarai in Egypt"
     },
     {
       "pk": 1012011,
@@ -245,5 +247,17 @@
       "comment": "Abram leaves Egypt much like Israel in the Exodus, delivered by God and departing with abundant provisions. The prefiguration of the Exodus stresses the centrality of deliverance, mediation, and God’s faithfulness to his promises. Additionally, the longevity of Abram's line is reaffirmed, pointing ahead to the promised heir and, ultimately, the Messiah."
     }
   ],
-  "translatedAt": "2025-12-24T00:16:18.368Z"
+  "translatedAt": "2025-12-24T00:16:18.368Z",
+  "sections": [
+    {
+      "title": "The Call of Abram",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "Abram and Sarai in Egypt",
+      "startVerse": 10,
+      "endVerse": 20
+    }
+  ]
 }

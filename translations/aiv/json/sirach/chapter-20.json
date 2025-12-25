@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "There is punishment for one who is quick to rebuke, but a person who restrains his anger avoids injury.",
       "links": "<a href='/AIV/20/14/17'>Prov. 14:17</a>; <a href='/AIV/20/29/11'>Prov. 29:11</a>",
-      "comment": "Patience is recommended over swift anger. The wisdom here echoes other biblical calls to slow anger (James 1:19), advising self-restraint and wisdom in speech and discipline."
+      "comment": "Patience is recommended over swift anger. The wisdom here echoes other biblical calls to slow anger (James 1:19), advising self-restraint and wisdom in speech and discipline.",
+      "sectionHeader": "The Value of Silence and Restraint"
     },
     {
       "pk": 28020002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "There may be prosperity through misfortune, and a windfall may turn to loss.",
       "links": "<a href='/AIV/20/13/11'>Prov. 13:11</a>",
-      "comment": "Worldly gain and loss are temporary. The text urges trust in God over material security—a core biblical theme (Matthew 6:19-21)."
+      "comment": "Worldly gain and loss are temporary. The text urges trust in God over material security—a core biblical theme (Matthew 6:19-21).",
+      "sectionHeader": "True and False Gifts"
     },
     {
       "pk": 28020009,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "Wisdom locked up in a fool’s mouth is like speech tied up in the mouth of an ignorant person.",
       "links": "<a href='/AIV/20/26/7'>Prov. 26:7</a>",
-      "comment": "Here, true wisdom is inaccessible to the foolish for lack of virtue and humility; spiritual understanding requires openness to God."
+      "comment": "Here, true wisdom is inaccessible to the foolish for lack of virtue and humility; spiritual understanding requires openness to God.",
+      "sectionHeader": "Wisdom, Speech, and Modesty"
     },
     {
       "pk": 28020017,
@@ -377,5 +380,22 @@
       "comment": "Wisdom is not merely knowing sayings, but applying them with discernment and virtue. This calls us to spiritual maturity—a hallmark of authentic Christian discipleship."
     }
   ],
-  "translatedAt": "2025-12-24T07:33:44.841Z"
+  "translatedAt": "2025-12-24T07:33:44.841Z",
+  "sections": [
+    {
+      "title": "The Value of Silence and Restraint",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "True and False Gifts",
+      "startVerse": 8,
+      "endVerse": 15
+    },
+    {
+      "title": "Wisdom, Speech, and Modesty",
+      "startVerse": 16,
+      "endVerse": 31
+    }
+  ]
 }

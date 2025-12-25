@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Why, O LORD, do you stand far off? Why do you hide yourself in times of trouble?",
       "links": "<a href='/AIV/18/13/24'>Job 13:24</a>; <a href='/AIV/23/44/24'>Is. 44:24</a>",
-      "comment": "The Psalmist begins with a heartfelt question, expressing confusion at God's seeming distance during suffering. This is a common theme in Scripture, highlighting the mystery of God's timing and presence (see also Ps. 22:1). Such honest prayer affirms that it's permissible to bring deep feelings before God."
+      "comment": "The Psalmist begins with a heartfelt question, expressing confusion at God's seeming distance during suffering. This is a common theme in Scripture, highlighting the mystery of God's timing and presence (see also Ps. 22:1). Such honest prayer affirms that it's permissible to bring deep feelings before God.",
+      "sectionHeader": "The Prosperity and Arrogance of the Wicked"
     },
     {
       "pk": 23010002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "Arise, O LORD! O God, lift up your hand; do not forget the afflicted.",
       "links": "<a href='/AIV/19/7/6'>Ps. 7:6</a>; <a href='/AIV/19/74/22'>Ps. 74:22</a>",
-      "comment": "The Psalmist calls upon God to act, expressing faith that prayer moves the Lord to compassion and action. The belief that God hears and responds is foundational for Christian prayer life, and points to the mediating role found in intercessory prayer."
+      "comment": "The Psalmist calls upon God to act, expressing faith that prayer moves the Lord to compassion and action. The belief that God hears and responds is foundational for Christian prayer life, and points to the mediating role found in intercessory prayer.",
+      "sectionHeader": "Prayer for Divine Intervention"
     },
     {
       "pk": 23010013,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "The LORD is King forever and ever; the nations will perish from his land.",
       "links": "<a href='/AIV/19/29/10'>Ps. 29:10</a>; <a href='/AIV/19/146/10'>Ps. 146:10</a>",
-      "comment": "God’s eternal kingship is declared here. The connection between the Lord’s rule and the nations prepares the way for messianic expectation—a theme fulfilled in the coming of Christ, the true King (see Rev. 11:15)."
+      "comment": "God’s eternal kingship is declared here. The connection between the Lord’s rule and the nations prepares the way for messianic expectation—a theme fulfilled in the coming of Christ, the true King (see Rev. 11:15).",
+      "sectionHeader": "Confidence in God's Justice"
     },
     {
       "pk": 23010017,
@@ -221,5 +224,22 @@
       "comment": "God’s justice culminates in defending the most vulnerable. This role of divine justice connects to the mission of Christ and the call for believers to engage in works of mercy and justice—a mark of a holy community."
     }
   ],
-  "translatedAt": "2025-12-24T06:02:04.140Z"
+  "translatedAt": "2025-12-24T06:02:04.140Z",
+  "sections": [
+    {
+      "title": "The Prosperity and Arrogance of the Wicked",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "Prayer for Divine Intervention",
+      "startVerse": 12,
+      "endVerse": 15
+    },
+    {
+      "title": "Confidence in God's Justice",
+      "startVerse": 16,
+      "endVerse": 18
+    }
+  ]
 }

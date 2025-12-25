@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Jehoshaphat rested with his fathers and was buried with them in the city of David, and Jehoram his son became king in his place.",
       "links": "<a href='/AIV/14/20/34'>2Chr 20:34</a>; <a href='/AIV/12/8/16-17'>2 Kings 8:16-17</a>",
-      "comment": "The phrase 'rested with his fathers' is a Hebraic way of describing death, signifying continuity in God's covenant with David's line (2Sam 7:12)."
+      "comment": "The phrase 'rested with his fathers' is a Hebraic way of describing death, signifying continuity in God's covenant with David's line (2Sam 7:12).",
+      "sectionHeader": "Jehoram Succeeds Jehoshaphat"
     },
     {
       "pk": 14021002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "When Jehoram had established his rule over his father's kingdom, he put all his brothers to the sword, along with some of the officials of Israel.",
       "links": "<a href='/AIV/12/8/16'>2 Kings 8:16</a>; <a href='/AIV/13/3/1-2'>1Chr 3:1-2</a>",
-      "comment": "Jehoram's murder of his brothers shows the tragic results of power corrupting leaders. Contrasted with Christ (cf. Phil 2:6-8), who lays down His life for others, Jehoram takes life to secure his own position."
+      "comment": "Jehoram's murder of his brothers shows the tragic results of power corrupting leaders. Contrasted with Christ (cf. Phil 2:6-8), who lays down His life for others, Jehoram takes life to secure his own position.",
+      "sectionHeader": "Jehoram Murders His Brothers"
     },
     {
       "pk": 14021005,
@@ -98,7 +100,8 @@
       "verse": 8,
       "text": "In his days Edom rebelled against the rule of Judah and set up a king over themselves.",
       "links": "<a href='/AIV/12/8/20'>2 Kings 8:20</a>",
-      "comment": "Edom’s revolt underlines Judah’s weakened state due to Jehoram’s unfaithfulness. Political disunity often follows spiritual disunity, a pattern evident throughout redemptive history."
+      "comment": "Edom’s revolt underlines Judah’s weakened state due to Jehoram’s unfaithfulness. Political disunity often follows spiritual disunity, a pattern evident throughout redemptive history.",
+      "sectionHeader": "Revolt of Edom and Libnah"
     },
     {
       "pk": 14021009,
@@ -146,7 +149,8 @@
       "verse": 12,
       "text": "A letter came to him from Elijah the prophet, saying, 'Thus says the LORD, the God of David your father: “Because you have not walked in the ways of Jehoshaphat your father or in the ways of Asa king of Judah,”'",
       "links": "<a href='/AIV/12/1/17-18'>2 Kings 1:17-18</a>",
-      "comment": "This unusual mention of Elijah to a southern king emphasizes the continuity of God’s prophetic authority. Elijah’s words recall the centrality of faithfulness and the unique role of authoritative correction within the community of believers."
+      "comment": "This unusual mention of Elijah to a southern king emphasizes the continuity of God’s prophetic authority. Elijah’s words recall the centrality of faithfulness and the unique role of authoritative correction within the community of believers.",
+      "sectionHeader": "Elijah's Letter and the Judgment on Jehoram"
     },
     {
       "pk": 14021013,
@@ -194,7 +198,8 @@
       "verse": 16,
       "text": "And the LORD stirred up against Jehoram the spirit of the Philistines and the Arabs who are near the Ethiopians.",
       "links": "<a href='/AIV/14/17/11'>2Chr 17:11</a>",
-      "comment": "Enemies rise at God’s direction to execute judgment—a theme seen throughout the Old Testament (cf. Hab 1:6). This reasserts God’s sovereignty over the nations."
+      "comment": "Enemies rise at God’s direction to execute judgment—a theme seen throughout the Old Testament (cf. Hab 1:6). This reasserts God’s sovereignty over the nations.",
+      "sectionHeader": "The LORD Strikes Jehoram with Disease"
     },
     {
       "pk": 14021017,
@@ -245,5 +250,32 @@
       "comment": "His exclusion from the royal tombs marks final rejection. This closes a lesson of accountability and hope: though individuals fail, God’s promise to His people stands. The enduring covenant points to a coming King whose reign is everlasting (cf. Isa 9:7; Luke 1:32-33)."
     }
   ],
-  "translatedAt": "2025-12-24T04:32:02.132Z"
+  "translatedAt": "2025-12-24T04:32:02.132Z",
+  "sections": [
+    {
+      "title": "Jehoram Succeeds Jehoshaphat",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "Jehoram Murders His Brothers",
+      "startVerse": 4,
+      "endVerse": 7
+    },
+    {
+      "title": "Revolt of Edom and Libnah",
+      "startVerse": 8,
+      "endVerse": 11
+    },
+    {
+      "title": "Elijah's Letter and the Judgment on Jehoram",
+      "startVerse": 12,
+      "endVerse": 15
+    },
+    {
+      "title": "The LORD Strikes Jehoram with Disease",
+      "startVerse": 16,
+      "endVerse": 20
+    }
+  ]
 }

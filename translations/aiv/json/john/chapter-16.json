@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "I have spoken these things to you so that you will not fall away.",
       "links": "<a href='/AIV/42/22/31-32'>Luke 22:31-32</a>; <a href='/AIV/62/2/19'>1 John 2:19</a>",
-      "comment": "Jesus warns His disciples so that their faith will be steadfast in times of trial, foreseeing persecution yet giving them encouragement. This prepares the community for tribulations, emphasizing perseverance in truth."
+      "comment": "Jesus warns His disciples so that their faith will be steadfast in times of trial, foreseeing persecution yet giving them encouragement. This prepares the community for tribulations, emphasizing perseverance in truth.",
+      "sectionHeader": "Persecution Foretold"
     },
     {
       "pk": 50016002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "But now I am going to Him who sent Me, and yet none of you asks Me, 'Where are You going?'",
       "links": "<a href='/AIV/43/7/33'>John 7:33</a>; <a href='/AIV/43/13/36'>John 13:36</a>",
-      "comment": "Jesus returns to the Father who sent Him, underscoring His divine origin (see John 1:1-2). The disciples’ lack of questioning shows their sadness and lack of full understanding."
+      "comment": "Jesus returns to the Father who sent Him, underscoring His divine origin (see John 1:1-2). The disciples’ lack of questioning shows their sadness and lack of full understanding.",
+      "sectionHeader": "The Promise of the Holy Spirit"
     },
     {
       "pk": 50016006,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "A little while, and you will see Me no more, and again a little while, and you will see Me.",
       "links": "<a href='/AIV/43/20/19-20'>John 20:19-20</a>; <a href='/AIV/44/1/3'>Acts 1:3</a>",
-      "comment": "Jesus foretells both His death (the disciples’ loss) and His post-resurrection appearances. The promise is of a continuing presence."
+      "comment": "Jesus foretells both His death (the disciples’ loss) and His post-resurrection appearances. The promise is of a continuing presence.",
+      "sectionHeader": "Sorrow Will Turn into Joy"
     },
     {
       "pk": 50016017,
@@ -278,7 +281,8 @@
       "verse": 23,
       "text": "In that day you will ask Me nothing. Truly, truly, I say to you, whatever you ask of the Father in My name, He will give you.",
       "links": "<a href='/AIV/43/14/13-14'>John 14:13-14</a>; <a href='/AIV/43/15/16'>John 15:16</a>",
-      "comment": "Prayer is now offered in Jesus’s name, through His mediation. Participation in His intercession is central to authentic worship."
+      "comment": "Prayer is now offered in Jesus’s name, through His mediation. Participation in His intercession is central to authentic worship.",
+      "sectionHeader": "Prayer in Jesus’ Name"
     },
     {
       "pk": 50016024,
@@ -374,7 +378,8 @@
       "verse": 31,
       "text": "Jesus answered them, 'Do you now believe?'",
       "links": "<a href='/AIV/43/11/27'>John 11:27</a>",
-      "comment": "Jesus tests the depth of their faith, knowing the coming crisis will shake them."
+      "comment": "Jesus tests the depth of their faith, knowing the coming crisis will shake them.",
+      "sectionHeader": "Peace Amidst Tribulation"
     },
     {
       "pk": 50016032,
@@ -401,5 +406,32 @@
       "comment": "Jesus’s victory is the source of lasting peace amidst suffering. The community’s union with Christ assures ultimate triumph, not through individual strength, but by participation in His overcoming the world."
     }
   ],
-  "translatedAt": "2025-12-24T11:13:57.472Z"
+  "translatedAt": "2025-12-24T11:13:57.472Z",
+  "sections": [
+    {
+      "title": "Persecution Foretold",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "The Promise of the Holy Spirit",
+      "startVerse": 5,
+      "endVerse": 15
+    },
+    {
+      "title": "Sorrow Will Turn into Joy",
+      "startVerse": 16,
+      "endVerse": 22
+    },
+    {
+      "title": "Prayer in Jesus’ Name",
+      "startVerse": 23,
+      "endVerse": 30
+    },
+    {
+      "title": "Peace Amidst Tribulation",
+      "startVerse": 31,
+      "endVerse": 33
+    }
+  ]
 }

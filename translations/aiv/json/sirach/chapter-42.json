@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Do not be ashamed of these things, and do not let partiality lead you to sin:",
       "links": "<a href='/AIV/20/3/7'>Prov. 3:7</a>; <a href='/AIV/21/12/13'>Eccl. 12:13</a>",
-      "comment": "Wisdom literature often encourages integrity and fear of God above the opinions of men. The theme here is to choose righteousness even if it risks social shame, hinting at the importance of confessing one's faith, reminiscent of Jesus' teaching in Matthew 10:32."
+      "comment": "Wisdom literature often encourages integrity and fear of God above the opinions of men. The theme here is to choose righteousness even if it risks social shame, hinting at the importance of confessing one's faith, reminiscent of Jesus' teaching in Matthew 10:32.",
+      "sectionHeader": "Things Not to Be Ashamed Of"
     },
     {
       "pk": 28042002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "For concerning a daughter, keep watch over her, lest she bring you shame, the talk of the town, and make you the object of gossip in the city and among the people, and disgrace you before the assembly.",
       "links": "<a href='/AIV/20/22/6'>Prov. 22:6</a>",
-      "comment": "The honor of the family is tied to the virtue of its members. While cultural norms were strict, the underlying principle is the care and spiritual protection of all in the household."
+      "comment": "The honor of the family is tied to the virtue of its members. While cultural norms were strict, the underlying principle is the care and spiritual protection of all in the household.",
+      "sectionHeader": "Watchfulness Over Daughters and Women"
     },
     {
       "pk": 28042010,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "Now I will recall the works of the Lord, and describe what I have seen. By the word of the Lord his works are made, and his judgment acts according to his will.",
       "links": "<a href='/AIV/01/1/1-3'>Gen. 1:1-3</a>; <a href='/AIV/19/33/6-9'>Ps. 33:6-9</a>; <a href='/AIV/43/1/1-3'>John 1:1-3</a>",
-      "comment": "This passage recalls the creation motif. God’s Word is creative and sovereign. In John 1, Christ is revealed as the eternal Word through whom all things were made—a profound christological insight."
+      "comment": "This passage recalls the creation motif. God’s Word is creative and sovereign. In John 1, Christ is revealed as the eternal Word through whom all things were made—a profound christological insight.",
+      "sectionHeader": "The Marvels of God's Works"
     },
     {
       "pk": 28042016,
@@ -305,5 +308,22 @@
       "comment": "All things point to and magnify the glory of God. The natural response is reverent contemplation—leading the soul to unity with God through appreciation of his works."
     }
   ],
-  "translatedAt": "2025-12-24T07:46:18.414Z"
+  "translatedAt": "2025-12-24T07:46:18.414Z",
+  "sections": [
+    {
+      "title": "Things Not to Be Ashamed Of",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "Watchfulness Over Daughters and Women",
+      "startVerse": 9,
+      "endVerse": 14
+    },
+    {
+      "title": "The Marvels of God's Works",
+      "startVerse": 15,
+      "endVerse": 25
+    }
+  ]
 }

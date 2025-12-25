@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "But now those younger than I mock me, whose fathers I would have disdained to set with the dogs of my flock.",
       "links": "<a href='/AIV/19/119/51'>Ps. 119:51</a>; <a href='/AIV/18/12/4'>Job 12:4</a>",
-      "comment": "Job recalls his reversal of fortune: once honored, now scorned by those beneath him. This anticipates Christ's humiliation (Phil. 2:7-8; cf. Isa. 53:3)."
+      "comment": "Job recalls his reversal of fortune: once honored, now scorned by those beneath him. This anticipates Christ's humiliation (Phil. 2:7-8; cf. Isa. 53:3).",
+      "sectionHeader": "Job Mocked by the Outcast"
     },
     {
       "pk": 22030002,
@@ -194,7 +195,8 @@
       "verse": 16,
       "text": "Now my life is poured out within me; days of suffering seize me.",
       "links": "<a href='/AIV/18/10/1'>Job 10:1</a>",
-      "comment": "'Poured out' prefigures Christ’s agony (Luke 22:44) and the spiritual meaning of offering suffering for a redemptive purpose."
+      "comment": "'Poured out' prefigures Christ’s agony (Luke 22:44) and the spiritual meaning of offering suffering for a redemptive purpose.",
+      "sectionHeader": "Job’s Humiliation and Suffering"
     },
     {
       "pk": 22030017,
@@ -242,7 +244,8 @@
       "verse": 20,
       "text": "I cry to you, and you do not answer me; I stand, and you only look at me.",
       "links": "<a href='/AIV/19/22/1'>Ps. 22:1</a>",
-      "comment": "A cry of dereliction—recall Jesus’ words on the cross (Matt. 27:46), leading deeper into the mystery of suffering and divine silence."
+      "comment": "A cry of dereliction—recall Jesus’ words on the cross (Matt. 27:46), leading deeper into the mystery of suffering and divine silence.",
+      "sectionHeader": "Job’s Lament Before God"
     },
     {
       "pk": 22030021,
@@ -377,5 +380,22 @@
       "comment": "Mourning replaces music, echoing exile and suffering, yet prefiguring future joy through restoration. Even deep lament can prepare hearts for hope and ultimate redemption (Rev. 21:4)."
     }
   ],
-  "translatedAt": "2025-12-24T05:52:41.798Z"
+  "translatedAt": "2025-12-24T05:52:41.798Z",
+  "sections": [
+    {
+      "title": "Job Mocked by the Outcast",
+      "startVerse": 1,
+      "endVerse": 15
+    },
+    {
+      "title": "Job’s Humiliation and Suffering",
+      "startVerse": 16,
+      "endVerse": 19
+    },
+    {
+      "title": "Job’s Lament Before God",
+      "startVerse": 20,
+      "endVerse": 31
+    }
+  ]
 }

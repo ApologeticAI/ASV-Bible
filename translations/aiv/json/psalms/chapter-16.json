@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Protect me, O God, for in You I take refuge.",
       "links": "<a href='/AIV/19/7/1'>Ps. 7:1</a>; <a href='/AIV/19/17/7'>Ps. 17:7</a>",
-      "comment": "David begins this Psalm as a prayer of trust, seeking God's protection. This theme echoes throughout the Psalms and reveals David's dependence, pointing to the trust believers place in God for security."
+      "comment": "David begins this Psalm as a prayer of trust, seeking God's protection. This theme echoes throughout the Psalms and reveals David's dependence, pointing to the trust believers place in God for security.",
+      "sectionHeader": "A Prayer of Trust in God"
     },
     {
       "pk": 23016002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "Therefore my heart is glad, and my whole being rejoices; my flesh also dwells secure.",
       "links": "<a href='/AIV/19/4/7-8'>Ps. 4:7-8</a>; <a href='/AIV/44/2/26'>Acts 2:26</a>",
-      "comment": "Both body and soul are secure in God’s promise. The New Testament links this joy and security to Jesus’ resurrection, promising hope beyond the grave to all who are united to Him."
+      "comment": "Both body and soul are secure in God’s promise. The New Testament links this joy and security to Jesus’ resurrection, promising hope beyond the grave to all who are united to Him.",
+      "sectionHeader": "The Hope of Eternal Life"
     },
     {
       "pk": 23016010,
@@ -137,5 +139,17 @@
       "comment": "The path of life, fullness of joy, and everlasting pleasures are the promises given to those who dwell in God’s presence. This finds its deepest meaning in eternal life with Christ, sustained by a living relationship through the sacraments and prayer."
     }
   ],
-  "translatedAt": "2025-12-24T06:03:24.771Z"
+  "translatedAt": "2025-12-24T06:03:24.771Z",
+  "sections": [
+    {
+      "title": "A Prayer of Trust in God",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "The Hope of Eternal Life",
+      "startVerse": 9,
+      "endVerse": 11
+    }
+  ]
 }

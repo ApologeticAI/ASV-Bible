@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Jacob went on his way, and the angels of God met him.",
       "links": "<a href='/AIV/01/28/12'>Gen. 28:12</a>; <a href='/AIV/19/34/7'>Ps. 34:7</a>",
-      "comment": "Jacob encounters angels again, just as he did at Bethel (Gen. 28:12), signifying God’s ongoing protection and guidance. The visible presence of angels foreshadows the New Testament revelation of angels ministering to Christ (Matt. 4:11, Luke 22:43)."
+      "comment": "Jacob encounters angels again, just as he did at Bethel (Gen. 28:12), signifying God’s ongoing protection and guidance. The visible presence of angels foreshadows the New Testament revelation of angels ministering to Christ (Matt. 4:11, Luke 22:43).",
+      "sectionHeader": "Jacob Encamped by Angels at Mahanaim"
     },
     {
       "pk": 1032002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "Jacob sent messengers ahead of him to his brother Esau in the land of Seir, the country of Edom.",
       "links": "<a href='/AIV/01/25/30'>Gen. 25:30</a>; <a href='/AIV/01/36/8'>Gen. 36:8</a>",
-      "comment": "Jacob approaches reconciliation with humility, a foreshadowing of Christ's teachings on forgiveness and charity (Matt. 5:23–24; Matt. 18:21-22)."
+      "comment": "Jacob approaches reconciliation with humility, a foreshadowing of Christ's teachings on forgiveness and charity (Matt. 5:23–24; Matt. 18:21-22).",
+      "sectionHeader": "Jacob Prepares to Meet Esau"
     },
     {
       "pk": 1032004,
@@ -290,7 +292,8 @@
       "verse": 24,
       "text": "Jacob was left alone, and a man wrestled with him until the break of day.",
       "links": "<a href='/AIV/28/12/4'>Hos. 12:4</a>; <a href='/AIV/02/3/2-6'>Ex. 3:2-6</a>",
-      "comment": "Here Jacob contends with a mysterious figure - later understood as a theophany, a visible manifestation of God. This prefigures Christ’s incarnation, in whom God is truly present and wrestles with humanity."
+      "comment": "Here Jacob contends with a mysterious figure - later understood as a theophany, a visible manifestation of God. This prefigures Christ’s incarnation, in whom God is truly present and wrestles with humanity.",
+      "sectionHeader": "Jacob Wrestles with God at Peniel"
     },
     {
       "pk": 1032025,
@@ -389,5 +392,22 @@
       "comment": "This detail records a traditional food law rooted in God’s encounter with Israel. The sanctification of ordinary actions demonstrates how encounters with God can shape communal life."
     }
   ],
-  "translatedAt": "2025-12-24T00:29:10.814Z"
+  "translatedAt": "2025-12-24T00:29:10.814Z",
+  "sections": [
+    {
+      "title": "Jacob Encamped by Angels at Mahanaim",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "Jacob Prepares to Meet Esau",
+      "startVerse": 3,
+      "endVerse": 23
+    },
+    {
+      "title": "Jacob Wrestles with God at Peniel",
+      "startVerse": 24,
+      "endVerse": 32
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "After this, David struck the Philistines and subdued them, and David took control of Metheg-ammah from the hand of the Philistines.",
       "links": "<a href='/AIV/9/7/13'>1 Sam 7:13</a>; <a href='/AIV/19/18/1'>Ps. 18:1</a>",
-      "comment": "David begins establishing Israel’s supremacy over neighboring nations. Psalm 18 echoes God’s deliverance and blessing upon David’s victories, pointing ahead to Christ’s conquest over sin and death."
+      "comment": "David begins establishing Israel’s supremacy over neighboring nations. Psalm 18 echoes God’s deliverance and blessing upon David’s victories, pointing ahead to Christ’s conquest over sin and death.",
+      "sectionHeader": "David’s Victories over His Enemies"
     },
     {
       "pk": 10008002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "So David reigned over all Israel, and David executed justice and righteousness for all his people.",
       "links": "<a href='/AIV/19/72/1-2'>Ps. 72:1-2</a>; <a href='/AIV/23/11/4'>Isa 11:4</a>",
-      "comment": "David’s kingship is marked by justice and righteousness, an anticipation of the perfect reign of the Messiah, the Son of David, who fulfills the deepest desire for true justice and peace (see Psalm 72; Isaiah 11)."
+      "comment": "David’s kingship is marked by justice and righteousness, an anticipation of the perfect reign of the Messiah, the Son of David, who fulfills the deepest desire for true justice and peace (see Psalm 72; Isaiah 11).",
+      "sectionHeader": "David’s Officers"
     },
     {
       "pk": 10008016,
@@ -221,5 +223,17 @@
       "comment": "David’s sons serving as priests suggests a royal priesthood, linking kingship and priesthood, later echoed in Christ as both King and High Priest. The presence of trusted guardians (Cherethites and Pelethites) points to the enduring protection and leadership within God’s people."
     }
   ],
-  "translatedAt": "2025-12-24T03:15:20.667Z"
+  "translatedAt": "2025-12-24T03:15:20.667Z",
+  "sections": [
+    {
+      "title": "David’s Victories over His Enemies",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "David’s Officers",
+      "startVerse": 15,
+      "endVerse": 18
+    }
+  ]
 }

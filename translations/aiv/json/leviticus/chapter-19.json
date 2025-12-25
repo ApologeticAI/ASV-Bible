@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The LORD spoke to Moses, saying,",
       "links": "",
-      "comment": "A standard formula seen throughout Leviticus, marking divine instruction: compare <a href='/AIV/3/1/1'>Lev. 1:1</a>. God’s direct speech affirms the authority of the commands which follow."
+      "comment": "A standard formula seen throughout Leviticus, marking divine instruction: compare <a href='/AIV/3/1/1'>Lev. 1:1</a>. God’s direct speech affirms the authority of the commands which follow.",
+      "sectionHeader": "Laws of Holiness and Worship"
     },
     {
       "pk": 3019002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "When you reap the harvest of your land, do not reap to the very edges of your field or gather the gleanings of your harvest.",
       "links": "<a href='/AIV/3/23/22'>Lev. 23:22</a>; <a href='/AIV/5/24/19-21'>Deut. 24:19-21</a>",
-      "comment": "Provision for the poor is woven into God’s law. This charitable action foreshadows New Testament calls to almsgiving and service to others (<a href='/AIV/40/6/2-4'>Matt. 6:2-4</a>)."
+      "comment": "Provision for the poor is woven into God’s law. This charitable action foreshadows New Testament calls to almsgiving and service to others (<a href='/AIV/40/6/2-4'>Matt. 6:2-4</a>).",
+      "sectionHeader": "Laws of Neighborly Love and Justice"
     },
     {
       "pk": 3019010,
@@ -230,7 +232,8 @@
       "verse": 19,
       "text": "You shall keep my statutes. You shall not let your livestock breed with a different kind. You shall not sow your field with two kinds of seed, nor shall you wear a garment of cloth made of two kinds of material.",
       "links": "<a href='/AIV/5/22/9-11'>Deut. 22:9-11</a>",
-      "comment": "These commands on separation serve as reminders of God's holiness and order. The concept of purity in the Old Testament is later fulfilled spiritually in the new covenant."
+      "comment": "These commands on separation serve as reminders of God's holiness and order. The concept of purity in the Old Testament is later fulfilled spiritually in the new covenant.",
+      "sectionHeader": "Various Statutes on Rituals and Conduct"
     },
     {
       "pk": 3019020,
@@ -278,7 +281,8 @@
       "verse": 23,
       "text": "When you come into the land and plant any kind of tree for food, you shall regard its fruit as forbidden. For three years it shall be forbidden to you; it must not be eaten.",
       "links": "<a href='/AIV/3/26/3-4'>Lev. 26:3-4</a>",
-      "comment": "Growth and patience are built into God’s commands. Setting apart the fruit for a time reflects trust in God’s timing and provision."
+      "comment": "Growth and patience are built into God’s commands. Setting apart the fruit for a time reflects trust in God’s timing and provision.",
+      "sectionHeader": "Laws of Fruits and Pagan Practices"
     },
     {
       "pk": 3019024,
@@ -398,7 +402,8 @@
       "verse": 33,
       "text": "When a stranger sojourns with you in your land, you shall do him no wrong.",
       "links": "<a href='/AIV/2/22/21'>Ex. 22:21</a>",
-      "comment": "Even outsiders must be treated with justice. God’s law is universal in its reach and compassion."
+      "comment": "Even outsiders must be treated with justice. God’s law is universal in its reach and compassion.",
+      "sectionHeader": "Compassion for the Stranger and Honest Dealings"
     },
     {
       "pk": 3019034,
@@ -449,5 +454,32 @@
       "comment": "Obedience to all of God’s commands is the true path to holiness. The fullness of the law is realized in love as taught and perfected by Christ (<a href='/AIV/40/5/17'>Matt. 5:17</a>)."
     }
   ],
-  "translatedAt": "2025-12-24T01:20:45.282Z"
+  "translatedAt": "2025-12-24T01:20:45.282Z",
+  "sections": [
+    {
+      "title": "Laws of Holiness and Worship",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "Laws of Neighborly Love and Justice",
+      "startVerse": 9,
+      "endVerse": 18
+    },
+    {
+      "title": "Various Statutes on Rituals and Conduct",
+      "startVerse": 19,
+      "endVerse": 22
+    },
+    {
+      "title": "Laws of Fruits and Pagan Practices",
+      "startVerse": 23,
+      "endVerse": 32
+    },
+    {
+      "title": "Compassion for the Stranger and Honest Dealings",
+      "startVerse": 33,
+      "endVerse": 37
+    }
+  ]
 }

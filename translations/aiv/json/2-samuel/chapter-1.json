@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "After the death of Saul, when David had returned from defeating the Amalekites, he stayed in Ziklag for two days.",
       "links": "<a href='/AIV/09/31/6'>1 Sam. 31:6</a>; <a href='/AIV/09/30/26'>1 Sam. 30:26</a>",
-      "comment": "This transition marks the beginning of David's kingship following Saul's death. It recalls 1 Samuel 31 for context."
+      "comment": "This transition marks the beginning of David's kingship following Saul's death. It recalls 1 Samuel 31 for context.",
+      "sectionHeader": "David Learns of Saul’s Death"
     },
     {
       "pk": 10001002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "David said to the young man who brought the report, 'Where are you from?' He replied, 'I am the son of an outsider, an Amalekite.'",
       "links": "<a href='/AIV/09/15/20'>1 Sam. 15:20</a>",
-      "comment": "Again, the Amalekite's outsider status is highlighted, tying back to Israel's enemies and reinforcing the severity of the moment."
+      "comment": "Again, the Amalekite's outsider status is highlighted, tying back to Israel's enemies and reinforcing the severity of the moment.",
+      "sectionHeader": "David Executes the Amalekite Messenger"
     },
     {
       "pk": 10001014,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "Then David chanted a lament for Saul and for his son Jonathan.",
       "links": "<a href='/AIV/19/79/1'>Ps. 79:1</a>; <a href='/AIV/09/31/6'>1 Sam. 31:6</a>",
-      "comment": "Lamentation prayers for the dead are part of Israel’s spiritual heritage, demonstrating respect and invoking remembrance."
+      "comment": "Lamentation prayers for the dead are part of Israel’s spiritual heritage, demonstrating respect and invoking remembrance.",
+      "sectionHeader": "David’s Lament for Saul and Jonathan"
     },
     {
       "pk": 10001018,
@@ -329,5 +332,22 @@
       "comment": "The closing of the lament emphasizes the end of an era. It invites prayer for fallen leaders and remembrance, a motif that enriches both the literal and spiritual unity of God’s people."
     }
   ],
-  "translatedAt": "2025-12-24T03:08:52.371Z"
+  "translatedAt": "2025-12-24T03:08:52.371Z",
+  "sections": [
+    {
+      "title": "David Learns of Saul’s Death",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "David Executes the Amalekite Messenger",
+      "startVerse": 13,
+      "endVerse": 16
+    },
+    {
+      "title": "David’s Lament for Saul and Jonathan",
+      "startVerse": 17,
+      "endVerse": 27
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The word of the Lord that came to Micah the Morasthite in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem.",
       "links": "<a href='/AIV/23/1/1'>Isa. 1:1</a>; <a href='/AIV/24/23/13'>Jer. 23:13</a>",
-      "comment": "Micah is identified as a prophet who ministered during the reigns of these Judean kings. Note the focus on both Samaria and Jerusalem, representing the northern and southern kingdoms. The phrase 'word of the Lord' asserts divine inspiration and authority, a mark of true prophecy."
+      "comment": "Micah is identified as a prophet who ministered during the reigns of these Judean kings. Note the focus on both Samaria and Jerusalem, representing the northern and southern kingdoms. The phrase 'word of the Lord' asserts divine inspiration and authority, a mark of true prophecy.",
+      "sectionHeader": "Introduction and the Lord's Judgment Announced"
     },
     {
       "pk": 40001002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "Therefore I will make Samaria a heap in the open country, a place for planting vineyards; and I will pour down her stones into the valley and uncover her foundations.",
       "links": "<a href='/AIV/24/26/18'>Jer. 26:18</a>; <a href='/AIV/28/13/16'>Hos. 13:16</a>",
-      "comment": "The destruction foretold is severe and complete—Samaria will be reduced to ruins fit only for agriculture, her grandeur stripped bare. This judgment points to God's concern for holiness and foreshadows Christ's later teaching on cities that reject the message (see <a href='/AIV/40/11/21-22'>Matt. 11:21-22</a>)."
+      "comment": "The destruction foretold is severe and complete—Samaria will be reduced to ruins fit only for agriculture, her grandeur stripped bare. This judgment points to God's concern for holiness and foreshadows Christ's later teaching on cities that reject the message (see <a href='/AIV/40/11/21-22'>Matt. 11:21-22</a>).",
+      "sectionHeader": "The Desolation of Samaria"
     },
     {
       "pk": 40001007,
@@ -98,7 +100,8 @@
       "verse": 8,
       "text": "For this I will lament and wail; I will go stripped and naked; I will make lamentation like the jackals, and mourning like the ostriches.",
       "links": "<a href='/AIV/24/9/1'>Jer. 9:1</a>; <a href='/AIV/18/30/29'>Job 30:29</a>",
-      "comment": "Micah personally takes on a prophetic mourning, symbolizing deep empathy for his people. His dramatic grief prefigures Jesus' lament over Jerusalem (see <a href='/AIV/42/19/41-44'>Luke 19:41-44</a>), showing the role of the prophet as both intercessor and spiritual leader."
+      "comment": "Micah personally takes on a prophetic mourning, symbolizing deep empathy for his people. His dramatic grief prefigures Jesus' lament over Jerusalem (see <a href='/AIV/42/19/41-44'>Luke 19:41-44</a>), showing the role of the prophet as both intercessor and spiritual leader.",
+      "sectionHeader": "Lamentation for Judah and the Cities"
     },
     {
       "pk": 40001009,
@@ -197,5 +200,22 @@
       "comment": "This penitential gesture of mourning for lost children prefigures the spiritual lament for the loss of communion caused by sin and exile. The passage affirms the importance of repentance and external signs of interior conversion—a practice rooted in biblical tradition and continued in the life of the Church. Christ Himself calls for repentance, promising to restore those who return (<a href='/AIV/42/15/20'>Luke 15:20</a>)."
     }
   ],
-  "translatedAt": "2025-12-24T09:47:32.244Z"
+  "translatedAt": "2025-12-24T09:47:32.244Z",
+  "sections": [
+    {
+      "title": "Introduction and the Lord's Judgment Announced",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "The Desolation of Samaria",
+      "startVerse": 6,
+      "endVerse": 7
+    },
+    {
+      "title": "Lamentation for Judah and the Cities",
+      "startVerse": 8,
+      "endVerse": 16
+    }
+  ]
 }

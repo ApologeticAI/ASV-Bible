@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then King Darius issued an order, and a search was made in the archives stored in Babylon.",
       "links": "<a href='/AIV/15/5/17'>Ezra 5:17</a>; <a href='/AIV/14/36/22'>2 Chron. 36:22</a>",
-      "comment": "Darius responds to the request to verify Cyrus’s decree. The careful search for legal precedent highlights how divine providence often works through secular authority."
+      "comment": "Darius responds to the request to verify Cyrus’s decree. The careful search for legal precedent highlights how divine providence often works through secular authority.",
+      "sectionHeader": "The Decree of Darius"
     },
     {
       "pk": 15006002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "Then Tattenai, governor of the region west of the Euphrates, Shethar-Bozenai, and their associates diligently carried out everything King Darius had commanded.",
       "links": "<a href='/AIV/15/5/6'>Ezra 5:6</a>",
-      "comment": "Obedience to royal authority facilitates God’s plan, showing God can use unexpected agents to achieve His purposes."
+      "comment": "Obedience to royal authority facilitates God’s plan, showing God can use unexpected agents to achieve His purposes.",
+      "sectionHeader": "Completion and Dedication of the Temple"
     },
     {
       "pk": 15006014,
@@ -230,7 +232,8 @@
       "verse": 19,
       "text": "On the fourteenth day of the first month, the exiles celebrated the Passover.",
       "links": "<a href='/AIV/02/12/6'>Exod. 12:6</a>; <a href='/AIV/46/5/7-8'>1 Cor. 5:7-8</a>",
-      "comment": "Restoration of Passover after exile reflects God’s faithfulness and prefigures the new Passover of Christ. See <a href='/AIV/42/22/15-20'>Luke 22:15-20</a>."
+      "comment": "Restoration of Passover after exile reflects God’s faithfulness and prefigures the new Passover of Christ. See <a href='/AIV/42/22/15-20'>Luke 22:15-20</a>.",
+      "sectionHeader": "The Passover Celebrated"
     },
     {
       "pk": 15006020,
@@ -269,5 +272,22 @@
       "comment": "The seven-day festival of Unleavened Bread represents full restoration and joy after exile. God’s turning the heart of rulers for His purposes signifies divine sovereignty over history and nations."
     }
   ],
-  "translatedAt": "2025-12-24T04:43:05.193Z"
+  "translatedAt": "2025-12-24T04:43:05.193Z",
+  "sections": [
+    {
+      "title": "The Decree of Darius",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "Completion and Dedication of the Temple",
+      "startVerse": 13,
+      "endVerse": 18
+    },
+    {
+      "title": "The Passover Celebrated",
+      "startVerse": 19,
+      "endVerse": 22
+    }
+  ]
 }

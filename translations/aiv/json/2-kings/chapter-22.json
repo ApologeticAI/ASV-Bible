@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Josiah was eight years old when he began to reign, and he reigned thirty-one years in Jerusalem. His mother’s name was Jedidah, daughter of Adaiah from Bozkath.",
       "links": "<a href='/AIV/14/34/1'>2 Chron. 34:1</a>",
-      "comment": "Josiah ascends the throne as a child. This emphasizes God’s ability to raise up leaders from humble and unexpected origins (cf. 1 Sam. 16:11-13)."
+      "comment": "Josiah ascends the throne as a child. This emphasizes God’s ability to raise up leaders from humble and unexpected origins (cf. 1 Sam. 16:11-13).",
+      "sectionHeader": "Reign of Josiah"
     },
     {
       "pk": 12022002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "In the eighteenth year of King Josiah, the king sent Shaphan the son of Azaliah, son of Meshullam, the scribe, to the house of the LORD, saying:",
       "links": "<a href='/AIV/14/34/8'>2 Chron. 34:8</a>",
-      "comment": "Eighteenth year marks a period of maturity. The involvement of royal scribes indicates the importance of the written word and sacred tradition."
+      "comment": "Eighteenth year marks a period of maturity. The involvement of royal scribes indicates the importance of the written word and sacred tradition.",
+      "sectionHeader": "Repairs to the Temple and Discovery of the Book of the Law"
     },
     {
       "pk": 12022004,
@@ -122,7 +124,8 @@
       "verse": 10,
       "text": "Then Shaphan the scribe reported to the king, saying, 'Hilkiah the priest has given me a book.' And Shaphan read it before the king.",
       "links": "<a href='/AIV/14/34/18'>2 Chron. 34:18</a>",
-      "comment": "The public reading of Scripture is crucial; hearing the Word leads to transformation (see Neh. 8:3; Rom. 10:17)."
+      "comment": "The public reading of Scripture is crucial; hearing the Word leads to transformation (see Neh. 8:3; Rom. 10:17).",
+      "sectionHeader": "Josiah Reads the Book and Seeks the Lord"
     },
     {
       "pk": 12022011,
@@ -170,7 +173,8 @@
       "verse": 14,
       "text": "So Hilkiah the priest, Ahikam, Achbor, Shaphan, and Asaiah went to Huldah the prophetess, the wife of Shallum son of Tikvah, son of Harhas, keeper of the wardrobe. She lived in Jerusalem in the Second District, and they spoke with her.",
       "links": "<a href='/AIV/14/34/22'>2 Chron. 34:22</a>",
-      "comment": "Seeking counsel from a prophetess shows how God can speak through various chosen persons in His people’s history (cf. Judg. 4:4; Acts 21:9)."
+      "comment": "Seeking counsel from a prophetess shows how God can speak through various chosen persons in His people’s history (cf. Judg. 4:4; Acts 21:9).",
+      "sectionHeader": "The Prophecy of Huldah"
     },
     {
       "pk": 12022015,
@@ -245,5 +249,27 @@
       "comment": "‘Gathering to your fathers’ points to the hope of being united with the faithful departed in peace—a hope fulfilled more perfectly by Christ’s victory over death (see 1 Thess 4:13-18)."
     }
   ],
-  "translatedAt": "2025-12-24T04:00:39.909Z"
+  "translatedAt": "2025-12-24T04:00:39.909Z",
+  "sections": [
+    {
+      "title": "Reign of Josiah",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "Repairs to the Temple and Discovery of the Book of the Law",
+      "startVerse": 3,
+      "endVerse": 9
+    },
+    {
+      "title": "Josiah Reads the Book and Seeks the Lord",
+      "startVerse": 10,
+      "endVerse": 13
+    },
+    {
+      "title": "The Prophecy of Huldah",
+      "startVerse": 14,
+      "endVerse": 20
+    }
+  ]
 }

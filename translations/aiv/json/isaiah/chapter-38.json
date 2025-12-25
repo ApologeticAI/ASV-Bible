@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In those days Hezekiah became ill and was at the point of death. And Isaiah the son of Amoz came to him and said, 'Thus says the LORD: Set your house in order, for you shall die; you will not recover.'",
       "links": "<a href='/AIV/12/20/1'>2 Kings 20:1</a>; <a href='/AIV/19/39/4'>Ps. 39:4</a>",
-      "comment": "This verse introduces the crisis facing Hezekiah, highlighting God’s sovereignty over life and death. The command to prepare his house reflects the spiritual importance of being ready for death. Compare to <a href='/AIV/19/90/12'>Psalm 90:12</a>, where we’re called to number our days. Communal and sacramental aspects of preparing for death are subtle here, pointing to deeper traditions in the life of faith."
+      "comment": "This verse introduces the crisis facing Hezekiah, highlighting God’s sovereignty over life and death. The command to prepare his house reflects the spiritual importance of being ready for death. Compare to <a href='/AIV/19/90/12'>Psalm 90:12</a>, where we’re called to number our days. Communal and sacramental aspects of preparing for death are subtle here, pointing to deeper traditions in the life of faith.",
+      "sectionHeader": "Hezekiah’s Illness and Prayer"
     },
     {
       "pk": 29038002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "Then the word of the LORD came to Isaiah, saying:",
       "links": "<a href='/AIV/12/20/4'>2 Kings 20:4</a>",
-      "comment": "God’s response comes through His prophet, highlighting the role of prophetic mediation for Divine communication. This affirms the significance of order and authority in transmitting God’s will."
+      "comment": "God’s response comes through His prophet, highlighting the role of prophetic mediation for Divine communication. This affirms the significance of order and authority in transmitting God’s will.",
+      "sectionHeader": "The LORD Answers Hezekiah and Gives a Sign"
     },
     {
       "pk": 29038005,
@@ -110,7 +112,8 @@
       "verse": 9,
       "text": "A writing of Hezekiah king of Judah, after he was sick and had recovered from his sickness:",
       "links": "<a href='/AIV/19/30/2-3'>Ps. 30:2-3</a>",
-      "comment": "Hezekiah personally records his experience, showing the value of spiritual testimony and gratitude. This mirrors other prayers and psalms composed after deliverance."
+      "comment": "Hezekiah personally records his experience, showing the value of spiritual testimony and gratitude. This mirrors other prayers and psalms composed after deliverance.",
+      "sectionHeader": "Hezekiah’s Song of Thanksgiving"
     },
     {
       "pk": 29038010,
@@ -269,5 +272,22 @@
       "comment": "Hezekiah’s desire for a sign before worshiping God in His house points to the importance of assurance in taking part in sacred worship and hints at the value placed upon signs and sacraments as means of grace in the gathered community."
     }
   ],
-  "translatedAt": "2025-12-24T08:08:33.729Z"
+  "translatedAt": "2025-12-24T08:08:33.729Z",
+  "sections": [
+    {
+      "title": "Hezekiah’s Illness and Prayer",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "The LORD Answers Hezekiah and Gives a Sign",
+      "startVerse": 4,
+      "endVerse": 8
+    },
+    {
+      "title": "Hezekiah’s Song of Thanksgiving",
+      "startVerse": 9,
+      "endVerse": 22
+    }
+  ]
 }

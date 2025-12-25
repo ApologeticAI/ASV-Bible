@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The righteous man perishes, and no one takes it to heart; generous men are taken away, while no one understands that the righteous are taken away from calamity.",
       "links": "<a href='/AIV/19/12/1'>Ps. 12:1</a>; <a href='/AIV/23/57/2'>Isa. 57:2</a>",
-      "comment": "The text highlights the mystery of why righteous people sometimes die early, suggesting it is a deliverance from coming evil. This foreshadows the Christian understanding of suffering and death as a passage to peace for the just (cf. <a href='/AIV/50/1/21-23'>Phil. 1:21-23</a>)."
+      "comment": "The text highlights the mystery of why righteous people sometimes die early, suggesting it is a deliverance from coming evil. This foreshadows the Christian understanding of suffering and death as a passage to peace for the just (cf. <a href='/AIV/50/1/21-23'>Phil. 1:21-23</a>).",
+      "sectionHeader": "The Death of the Righteous and the Promise of Peace"
     },
     {
       "pk": 29057002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "But you, draw near, sons of the sorceress, offspring of the adulterer and prostitute.",
       "links": "<a href='/AIV/24/2/20'>Jer. 2:20</a>; <a href='/AIV/26/16/45'>Ezek. 16:45</a>",
-      "comment": "Those called 'sons of the sorceress' represent people who have strayed from God's law, participating in spiritual 'adultery.' Jesus often confronted such hypocrisy (see <a href='/AIV/43/8/44'>John 8:44</a>)."
+      "comment": "Those called 'sons of the sorceress' represent people who have strayed from God's law, participating in spiritual 'adultery.' Jesus often confronted such hypocrisy (see <a href='/AIV/43/8/44'>John 8:44</a>).",
+      "sectionHeader": "Condemnation of Idolatry and Spiritual Adultery"
     },
     {
       "pk": 29057004,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "And it will be said, 'Build up, build up, prepare the way, remove every obstacle from the way of My people.'",
       "links": "<a href='/AIV/23/40/3'>Isa. 40:3</a>; <a href='/AIV/40/3/3'>Matt. 3:3</a>",
-      "comment": "The call to 'prepare the way' connects with John the Baptist's ministry and Christ’s coming. It also spiritually points to removing barriers to full communion with God and His people."
+      "comment": "The call to 'prepare the way' connects with John the Baptist's ministry and Christ’s coming. It also spiritually points to removing barriers to full communion with God and His people.",
+      "sectionHeader": "A Promise to the Contrite and Restoration of the Penitent"
     },
     {
       "pk": 29057015,
@@ -242,7 +245,8 @@
       "verse": 20,
       "text": "But the wicked are like the tossing sea, for it cannot be quiet, and its waters toss up mire and dirt.",
       "links": "<a href='/AIV/65/13/8'>Jude 1:13</a>",
-      "comment": "The unrest of the wicked contrasts with the promised peace for the righteous. Sin brings disturbance to the soul, while God brings stillness and order."
+      "comment": "The unrest of the wicked contrasts with the promised peace for the righteous. Sin brings disturbance to the soul, while God brings stillness and order.",
+      "sectionHeader": "No Peace for the Wicked"
     },
     {
       "pk": 29057021,
@@ -257,5 +261,27 @@
       "comment": "This somber statement is both a warning and an invitation—to seek the true peace that only God can provide. The ultimate fulfillment comes in the peace Christ offers those who abide in Him (<a href='/AIV/43/14/27'>John 14:27</a>)."
     }
   ],
-  "translatedAt": "2025-12-24T08:16:56.032Z"
+  "translatedAt": "2025-12-24T08:16:56.032Z",
+  "sections": [
+    {
+      "title": "The Death of the Righteous and the Promise of Peace",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "Condemnation of Idolatry and Spiritual Adultery",
+      "startVerse": 3,
+      "endVerse": 13
+    },
+    {
+      "title": "A Promise to the Contrite and Restoration of the Penitent",
+      "startVerse": 14,
+      "endVerse": 19
+    },
+    {
+      "title": "No Peace for the Wicked",
+      "startVerse": 20,
+      "endVerse": 21
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Woe to those who make unjust laws, and to those who write oppressive statutes,",
       "links": "<a href='/AIV/23/5/20'>Isa. 5:20</a>; <a href='/AIV/33/6/11-12'>Mic. 6:11-12</a>",
-      "comment": "Isaiah begins this section condemning leaders who enact laws that oppose justice. The prophetic tradition regularly rebukes corrupt human authority, prefiguring the just kingship of Christ. See Matthew 23:4 for a New Testament echo."
+      "comment": "Isaiah begins this section condemning leaders who enact laws that oppose justice. The prophetic tradition regularly rebukes corrupt human authority, prefiguring the just kingship of Christ. See Matthew 23:4 for a New Testament echo.",
+      "sectionHeader": "Woe to Unjust Rulers"
     },
     {
       "pk": 29010002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "Woe to Assyria, the rod of my anger—the staff in their hand is my wrath!",
       "links": "<a href='/AIV/19/17/13'>Ps. 17:13</a>; <a href='/AIV/23/7/20'>Isa. 7:20</a>",
-      "comment": "Assyria is depicted as an instrument in God's hand, even though it is a pagan nation. This hints at God's sovereign ability to use any nation for his purposes (compare Habakkuk 1:6). There is a parallel in how God allows even evil events to ultimately serve his divine plan for salvation."
+      "comment": "Assyria is depicted as an instrument in God's hand, even though it is a pagan nation. This hints at God's sovereign ability to use any nation for his purposes (compare Habakkuk 1:6). There is a parallel in how God allows even evil events to ultimately serve his divine plan for salvation.",
+      "sectionHeader": "The Judgment on Assyria"
     },
     {
       "pk": 29010006,
@@ -242,7 +244,8 @@
       "verse": 20,
       "text": "In that day, the remnant of Israel and those who have escaped from the house of Jacob will never again lean on the one who struck them, but will truly lean on the LORD, the Holy One of Israel.",
       "links": "<a href='/AIV/23/17/7'>Isa. 17:7</a>; <a href='/AIV/28/14/3-4'>Hos. 14:3-4</a>",
-      "comment": "A moment of hope: the remnant will return to exclusive reliance on the LORD. This points forward to the fullness of redemption accomplished through Christ—the Holy One in their midst (compare Hebrews 8:10-12)."
+      "comment": "A moment of hope: the remnant will return to exclusive reliance on the LORD. This points forward to the fullness of redemption accomplished through Christ—the Holy One in their midst (compare Hebrews 8:10-12).",
+      "sectionHeader": "The Remnant of Israel Will Return"
     },
     {
       "pk": 29010021,
@@ -290,7 +293,8 @@
       "verse": 24,
       "text": "Therefore thus says the Lord GOD of Hosts: 'O my people who dwell in Zion, do not be afraid of Assyria, though they strike you with the rod and lift up their staff against you as Egypt did.'",
       "links": "<a href='/AIV/23/37/6'>Isa. 37:6</a>; <a href='/AIV/02/1/13-14'>Ex. 1:13-14</a>",
-      "comment": "Assyria's oppression is compared to that of Egypt, drawing a parallel with the Exodus. God’s people are reassured that, as before, deliverance will come. Christ is later shown as the new Moses, fulfilling ultimate liberation (see Matthew 2:15)."
+      "comment": "Assyria's oppression is compared to that of Egypt, drawing a parallel with the Exodus. God’s people are reassured that, as before, deliverance will come. Christ is later shown as the new Moses, fulfilling ultimate liberation (see Matthew 2:15).",
+      "sectionHeader": "Deliverance from Assyria"
     },
     {
       "pk": 29010025,
@@ -338,7 +342,8 @@
       "verse": 28,
       "text": "He has come to Aiath; he has passed through Migron; at Michmash he stores his supplies.",
       "links": "<a href='/AIV/09/13/2'>1 Sam. 13:2</a>",
-      "comment": "A poetic description of the Assyrian army's advance towards Jerusalem. These real locations highlight the gravity of the threat, yet God’s sovereign plan assures deliverance."
+      "comment": "A poetic description of the Assyrian army's advance towards Jerusalem. These real locations highlight the gravity of the threat, yet God’s sovereign plan assures deliverance.",
+      "sectionHeader": "The Advancing Assyrian Army"
     },
     {
       "pk": 29010029,
@@ -398,7 +403,8 @@
       "verse": 33,
       "text": "Behold, the Lord, the LORD of Hosts, will lop off the boughs with terrifying power; the tallest trees will be cut down and the lofty will be brought low.",
       "links": "<a href='/AIV/23/2/12-13'>Isa. 2:12-13</a>; <a href='/AIV/40/23/12'>Matt. 23:12</a>",
-      "comment": "God humbles all the proud and mighty—Assyria and any who exalt themselves. This sets up the prophecy of the 'shoot from the stump of Jesse' in the next chapter, which points to Christ, the lowly Messiah who is exalted."
+      "comment": "God humbles all the proud and mighty—Assyria and any who exalt themselves. This sets up the prophecy of the 'shoot from the stump of Jesse' in the next chapter, which points to Christ, the lowly Messiah who is exalted.",
+      "sectionHeader": "The Lord's Judgment on the Proud"
     },
     {
       "pk": 29010034,
@@ -413,5 +419,37 @@
       "comment": "Lebanon—symbolic for arrogance and false glory—will fall by God's own hand. The 'Mighty One' in Hebrew here is El, a title suggestive of divine strength, later revealed perfectly in Christ. This paves the way for redemption: out of the felled forest, the Messiah arises (see Isa. 11:1)."
     }
   ],
-  "translatedAt": "2025-12-24T07:55:59.658Z"
+  "translatedAt": "2025-12-24T07:55:59.658Z",
+  "sections": [
+    {
+      "title": "Woe to Unjust Rulers",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "The Judgment on Assyria",
+      "startVerse": 5,
+      "endVerse": 19
+    },
+    {
+      "title": "The Remnant of Israel Will Return",
+      "startVerse": 20,
+      "endVerse": 23
+    },
+    {
+      "title": "Deliverance from Assyria",
+      "startVerse": 24,
+      "endVerse": 27
+    },
+    {
+      "title": "The Advancing Assyrian Army",
+      "startVerse": 28,
+      "endVerse": 32
+    },
+    {
+      "title": "The Lord's Judgment on the Proud",
+      "startVerse": 33,
+      "endVerse": 34
+    }
+  ]
 }

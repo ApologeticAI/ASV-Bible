@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then Job answered and said:",
       "links": "<a href='/AIV/22/20/1'>Job 20:1</a>",
-      "comment": "Job responds to Zophar’s previous speech, transitioning the discourse. Job’s replies often mark shifts in tone as he questions conventional wisdom about suffering."
+      "comment": "Job responds to Zophar’s previous speech, transitioning the discourse. Job’s replies often mark shifts in tone as he questions conventional wisdom about suffering.",
+      "sectionHeader": "Job's Appeal for Understanding"
     },
     {
       "pk": 22021002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "Why do the wicked live, reach old age, and grow mighty in power?",
       "links": "<a href='/AIV/73/73/3-12'>Ps 73:3-12</a>; <a href='/AIV/19/37/1-2'>Ps 37:1-2</a>",
-      "comment": "Job challenges the apparent prosperity of the wicked, questioning a simplistic view of earthly justice. This question recurs in wisdom literature and paves the way for a fuller understanding of divine providence."
+      "comment": "Job challenges the apparent prosperity of the wicked, questioning a simplistic view of earthly justice. This question recurs in wisdom literature and paves the way for a fuller understanding of divine providence.",
+      "sectionHeader": "The Prosperity of the Wicked"
     },
     {
       "pk": 22021008,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "How often is the lamp of the wicked put out, or does their calamity come upon them? Does He distribute sorrows in His anger?",
       "links": "<a href='/AIV/19/13/1'>Ps 13:1</a>; <a href='/AIV/19/18/28'>Ps 18:28</a>",
-      "comment": "Job questions whether divine retribution is truly manifest in this life. The ‘lamp’ links to the biblical symbol for life and blessing, also paralleled in Christ’s teachings (Matt 25:1-13)."
+      "comment": "Job questions whether divine retribution is truly manifest in this life. The ‘lamp’ links to the biblical symbol for life and blessing, also paralleled in Christ’s teachings (Matt 25:1-13).",
+      "sectionHeader": "Questioning Divine Justice"
     },
     {
       "pk": 22021018,
@@ -278,7 +281,8 @@
       "verse": 23,
       "text": "One man dies in full prosperity, completely secure and at ease;",
       "links": "<a href='/AIV/19/73/4'>Ps 73:4</a>",
-      "comment": "Observes how endings differ, independent of moral standing. This sets the scene for spiritual reflection on the mystery of God’s providence."
+      "comment": "Observes how endings differ, independent of moral standing. This sets the scene for spiritual reflection on the mystery of God’s providence.",
+      "sectionHeader": "The Fate of the Righteous and the Wicked"
     },
     {
       "pk": 22021024,
@@ -326,7 +330,8 @@
       "verse": 27,
       "text": "Behold, I know your thoughts, and the wrongs you intend against me.",
       "links": "<a href='/AIV/22/13/2'>Job 13:2</a>",
-      "comment": "Job recognizes his friends’ misjudgment, suggesting spiritual discernment in relationships—a key theme in New Testament instruction."
+      "comment": "Job recognizes his friends’ misjudgment, suggesting spiritual discernment in relationships—a key theme in New Testament instruction.",
+      "sectionHeader": "Job Rebukes His Friends' False Comfort"
     },
     {
       "pk": 22021028,
@@ -413,5 +418,32 @@
       "comment": "Job laments the inadequacy of his friends’ counsel. Christ’s comfort surpasses mere words, as true solace comes through spiritual communion and deeper unity with Him."
     }
   ],
-  "translatedAt": "2025-12-24T05:48:53.089Z"
+  "translatedAt": "2025-12-24T05:48:53.089Z",
+  "sections": [
+    {
+      "title": "Job's Appeal for Understanding",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "The Prosperity of the Wicked",
+      "startVerse": 7,
+      "endVerse": 16
+    },
+    {
+      "title": "Questioning Divine Justice",
+      "startVerse": 17,
+      "endVerse": 22
+    },
+    {
+      "title": "The Fate of the Righteous and the Wicked",
+      "startVerse": 23,
+      "endVerse": 26
+    },
+    {
+      "title": "Job Rebukes His Friends' False Comfort",
+      "startVerse": 27,
+      "endVerse": 34
+    }
+  ]
 }

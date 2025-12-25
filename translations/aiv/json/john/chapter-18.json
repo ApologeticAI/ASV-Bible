@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "After Jesus had spoken these words, he went out with his disciples across the Kidron Valley, where there was a garden, which he and his disciples entered.",
       "links": "<a href='/AIV/40/26/36'>Matt. 26:36</a>; <a href='/AIV/41/14/32'>Mark 14:32</a>; <a href='/AIV/42/22/39'>Luke 22:39</a>",
-      "comment": "The 'garden' refers to Gethsemane, also mentioned in the Synoptics. This setting points to Jesus as the New Adam, entering a garden to accomplish the redemption of mankind (cf. Gen. 2–3)."
+      "comment": "The 'garden' refers to Gethsemane, also mentioned in the Synoptics. This setting points to Jesus as the New Adam, entering a garden to accomplish the redemption of mankind (cf. Gen. 2–3).",
+      "sectionHeader": "The Arrest of Jesus"
     },
     {
       "pk": 50018002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "Then the detachment of soldiers, their captain, and the officers of the Jews arrested Jesus and bound him.",
       "links": "<a href='/AIV/40/26/57'>Matt. 26:57</a>; <a href='/AIV/19/118/27'>Ps. 118:27</a>",
-      "comment": "Jesus, though divine, submits himself to his captors, prefiguring his offering as the true Paschal Lamb."
+      "comment": "Jesus, though divine, submits himself to his captors, prefiguring his offering as the true Paschal Lamb.",
+      "sectionHeader": "Jesus Before Annas"
     },
     {
       "pk": 50018013,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "Simon Peter followed Jesus, along with another disciple. Since that disciple was known to the high priest, he entered with Jesus into the courtyard of the high priest.",
       "links": "<a href='/AIV/40/26/58'>Matt. 26:58</a>",
-      "comment": "Tradition often identifies the 'other disciple' as John. His access to the courtyard gives an eyewitness testimony."
+      "comment": "Tradition often identifies the 'other disciple' as John. His access to the courtyard gives an eyewitness testimony.",
+      "sectionHeader": "Peter's Denial"
     },
     {
       "pk": 50018016,
@@ -230,7 +233,8 @@
       "verse": 19,
       "text": "The high priest then questioned Jesus about his disciples and his teaching.",
       "links": "",
-      "comment": "This is an informal interrogation. The authorities are concerned about Jesus’ influence."
+      "comment": "This is an informal interrogation. The authorities are concerned about Jesus’ influence.",
+      "sectionHeader": "The High Priest Questions Jesus"
     },
     {
       "pk": 50018020,
@@ -338,7 +342,8 @@
       "verse": 28,
       "text": "Then they led Jesus from the house of Caiaphas to the governor's headquarters. It was early morning. They themselves did not enter the headquarters, so that they would not be defiled and could eat the Passover.",
       "links": "<a href='/AIV/02/12/43-51'>Ex. 12:43-51</a>; <a href='/AIV/43/11/55'>John 11:55</a>",
-      "comment": "The religious leaders seek ritual purity while condemning the innocent—an irony. The mention of Passover shows Jesus as the true Lamb."
+      "comment": "The religious leaders seek ritual purity while condemning the innocent—an irony. The mention of Passover shows Jesus as the true Lamb.",
+      "sectionHeader": "Jesus Before Pilate"
     },
     {
       "pk": 50018029,
@@ -485,5 +490,32 @@
       "comment": "The choice of Barabbas (a violent criminal) over Jesus fulfills the prophecy that the servant would be 'despised and rejected by men' (Isa. 53:3) and reveals the tragic irony of the crowd’s decision. The acceptance of a false liberator over the True King points to the ongoing need for the Church, as the true community of Christ’s followers, to faithfully discern and receive the authentic Messiah."
     }
   ],
-  "translatedAt": "2025-12-24T11:15:23.176Z"
+  "translatedAt": "2025-12-24T11:15:23.176Z",
+  "sections": [
+    {
+      "title": "The Arrest of Jesus",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "Jesus Before Annas",
+      "startVerse": 12,
+      "endVerse": 14
+    },
+    {
+      "title": "Peter's Denial",
+      "startVerse": 15,
+      "endVerse": 18
+    },
+    {
+      "title": "The High Priest Questions Jesus",
+      "startVerse": 19,
+      "endVerse": 27
+    },
+    {
+      "title": "Jesus Before Pilate",
+      "startVerse": 28,
+      "endVerse": 40
+    }
+  ]
 }

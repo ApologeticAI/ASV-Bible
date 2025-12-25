@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then the LORD spoke to Moses, saying,",
       "links": "<a href='/AIV/2/13/1'>Exod. 13:1</a>",
-      "comment": "God continues His direct guidance of Moses, signifying His active presence among His people. This anticipates the New Testament promise of divine guidance through both scripture and tradition (see <a href='/AIV/40/28/20'>Matt. 28:20</a>)."
+      "comment": "God continues His direct guidance of Moses, signifying His active presence among His people. This anticipates the New Testament promise of divine guidance through both scripture and tradition (see <a href='/AIV/40/28/20'>Matt. 28:20</a>).",
+      "sectionHeader": "Pharaoh Pursues the Israelites"
     },
     {
       "pk": 2014002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "As Pharaoh approached, the Israelites looked up, and there were the Egyptians marching after them. They were extremely afraid and cried out to the LORD.",
       "links": "<a href='/AIV/19/106/7'>Ps. 106:7</a>",
-      "comment": "Fear drives the people to earnest prayer. God often uses crises to draw hearts into deeper dependence upon Him."
+      "comment": "Fear drives the people to earnest prayer. God often uses crises to draw hearts into deeper dependence upon Him.",
+      "sectionHeader": "The People Complain and Moses Reassures Them"
     },
     {
       "pk": 2014011,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "Then the LORD said to Moses, “Why are you crying out to Me? Tell the children of Israel to go forward.”",
       "links": "<a href='/AIV/2/17/4'>Exod. 17:4</a>",
-      "comment": "God calls for action rooted in trust, reminding us that faith involves a response—moving forward in obedience even when the way seems impossible."
+      "comment": "God calls for action rooted in trust, reminding us that faith involves a response—moving forward in obedience even when the way seems impossible.",
+      "sectionHeader": "The Parting of the Red Sea"
     },
     {
       "pk": 2014016,
@@ -278,7 +281,8 @@
       "verse": 23,
       "text": "The Egyptians pursued and followed them into the midst of the sea, all Pharaoh’s horses, his chariots, and his horsemen.",
       "links": "<a href='/AIV/2/15/19'>Exod. 15:19</a>",
-      "comment": "The Egyptians’ relentless pursuit represents the persistence of evil against God's people. Their destruction in water foreshadows the defeat of sin through Christ’s victory."
+      "comment": "The Egyptians’ relentless pursuit represents the persistence of evil against God's people. Their destruction in water foreshadows the defeat of sin through Christ’s victory.",
+      "sectionHeader": "The Destruction of the Egyptians"
     },
     {
       "pk": 2014024,
@@ -362,7 +366,8 @@
       "verse": 30,
       "text": "On that day the LORD saved Israel from the hand of the Egyptians. And Israel saw the Egyptians dead on the shore of the sea.",
       "links": "<a href='/AIV/19/106/8-12'>Ps. 106:8-12</a>",
-      "comment": "The visible evidence of victory reinforces the certainty of God’s deliverance—foreshadowing Christ’s resurrection as evidence of deliverance from death."
+      "comment": "The visible evidence of victory reinforces the certainty of God’s deliverance—foreshadowing Christ’s resurrection as evidence of deliverance from death.",
+      "sectionHeader": "Israel's Deliverance and Faith"
     },
     {
       "pk": 2014031,
@@ -377,5 +382,32 @@
       "comment": "Faith is deepened through witnessing God’s mighty acts. This mirrors the apostolic and sacramental mode of faith—believing not in isolation, but as a community, with divinely appointed leadership."
     }
   ],
-  "translatedAt": "2025-12-24T00:54:01.178Z"
+  "translatedAt": "2025-12-24T00:54:01.178Z",
+  "sections": [
+    {
+      "title": "Pharaoh Pursues the Israelites",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "The People Complain and Moses Reassures Them",
+      "startVerse": 10,
+      "endVerse": 14
+    },
+    {
+      "title": "The Parting of the Red Sea",
+      "startVerse": 15,
+      "endVerse": 22
+    },
+    {
+      "title": "The Destruction of the Egyptians",
+      "startVerse": 23,
+      "endVerse": 29
+    },
+    {
+      "title": "Israel's Deliverance and Faith",
+      "startVerse": 30,
+      "endVerse": 31
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "After the Sabbath, at dawn on the first day of the week, Mary Magdalene and the other Mary went to see the tomb.",
       "links": "<a href='/AIV/41/16/1'>Mark 16:1</a>; <a href='/AIV/42/24/1'>Luke 24:1</a>; <a href='/AIV/43/20/1'>John 20:1</a>",
-      "comment": "Matthew highlights that the resurrection occurs on the first day of the week, a detail also seen in other Gospels. The presence of both Marys provides eyewitness testimony. The change from Sabbath to Sunday hints at a new beginning—later, Sunday becomes known as 'the Lord’s Day.'"
+      "comment": "Matthew highlights that the resurrection occurs on the first day of the week, a detail also seen in other Gospels. The presence of both Marys provides eyewitness testimony. The change from Sabbath to Sunday hints at a new beginning—later, Sunday becomes known as 'the Lord’s Day.'",
+      "sectionHeader": "The Resurrection of Jesus"
     },
     {
       "pk": 47028002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "While they were on their way, some of the guards went into the city and reported to the chief priests everything that had happened.",
       "links": "<a href='/AIV/40/27/62-66'>Matt. 27:62-66</a>",
-      "comment": "The guards, who had witnessed the supernatural events, report to the religious leaders—showing a contrast between honest witness and how authority might react to truth."
+      "comment": "The guards, who had witnessed the supernatural events, report to the religious leaders—showing a contrast between honest witness and how authority might react to truth.",
+      "sectionHeader": "The Report of the Guard"
     },
     {
       "pk": 47028012,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "But the eleven disciples went to Galilee, to the mountain where Jesus had directed them.",
       "links": "<a href='/AIV/05/18/15'>Deut. 18:15</a>; <a href='/AIV/40/26/32'>Matt. 26:32</a>",
-      "comment": "Mountains in Scripture often signal important encounters with God. The obedience of the eleven signifies unity, mission, and the foundation of Christ’s Church."
+      "comment": "Mountains in Scripture often signal important encounters with God. The obedience of the eleven signifies unity, mission, and the foundation of Christ’s Church.",
+      "sectionHeader": "The Commissioning of the Disciples"
     },
     {
       "pk": 47028017,
@@ -245,5 +248,22 @@
       "comment": "Jesus commands not only faith, but obedience to all his teachings—implying continuity and authority. His promise to remain present with his followers, like God’s assurance to Moses, points to the spiritual and sacramental presence of Christ through his Church until the end of time."
     }
   ],
-  "translatedAt": "2025-12-24T10:21:31.736Z"
+  "translatedAt": "2025-12-24T10:21:31.736Z",
+  "sections": [
+    {
+      "title": "The Resurrection of Jesus",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "The Report of the Guard",
+      "startVerse": 11,
+      "endVerse": 15
+    },
+    {
+      "title": "The Commissioning of the Disciples",
+      "startVerse": 16,
+      "endVerse": 20
+    }
+  ]
 }

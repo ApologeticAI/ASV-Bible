@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "But he who devotes himself to the study of the law of the Most High seeks out the wisdom of all the ancients, and applies himself to the prophecies.",
       "links": "<a href='/AIV/19/1/2'>Ps. 1:2</a>; <a href='/AIV/20/2/1-5'>Prov. 2:1-5</a>",
-      "comment": "This verse encourages a deep meditation on divine revelation, both in the law and the prophets. The practice of studying ancient wisdom and prophecy points toward the importance of tradition and interpretation within the life of faith. Note how this aligns with the Old Testament emphasis on meditating on God's word day and night (see Ps. 1:2)."
+      "comment": "This verse encourages a deep meditation on divine revelation, both in the law and the prophets. The practice of studying ancient wisdom and prophecy points toward the importance of tradition and interpretation within the life of faith. Note how this aligns with the Old Testament emphasis on meditating on God's word day and night (see Ps. 1:2).",
+      "sectionHeader": "The Pursuit and Rewards of Wisdom"
     },
     {
       "pk": 28039002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "I have yet more to say; I will describe what fills me like the full moon.",
       "links": "<a href='/AIV/18/32/18'>Job 32:18</a>",
-      "comment": "As the author prepares to declare further wisdom, the fullness implied here echoes the abundant outpouring of the Spirit, which fills the soul with divine truth."
+      "comment": "As the author prepares to declare further wisdom, the fullness implied here echoes the abundant outpouring of the Spirit, which fills the soul with divine truth.",
+      "sectionHeader": "Praise of God the Creator"
     },
     {
       "pk": 28039014,
@@ -266,7 +268,8 @@
       "verse": 22,
       "text": "Just as he turns waters into salt, so shall nations inherit his wrath.",
       "links": "<a href='/AIV/01/19/26'>Gen. 19:26</a>; <a href='/AIV/23/34/9'>Isa. 34:9</a>",
-      "comment": "There's a shift here to justice and judgment, showing God's authority both to bless and to chastise, as seen in the fate of Sodom and judgment texts."
+      "comment": "There's a shift here to justice and judgment, showing God's authority both to bless and to chastise, as seen in the fate of Sodom and judgment texts.",
+      "sectionHeader": "God’s Purpose in Creation"
     },
     {
       "pk": 28039023,
@@ -425,5 +428,22 @@
       "comment": "Praise and thanksgiving conclude the passage, highlighting the importance of worship in the gathered community, which continues as a central act for believers."
     }
   ],
-  "translatedAt": "2025-12-24T07:44:45.798Z"
+  "translatedAt": "2025-12-24T07:44:45.798Z",
+  "sections": [
+    {
+      "title": "The Pursuit and Rewards of Wisdom",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "Praise of God the Creator",
+      "startVerse": 13,
+      "endVerse": 21
+    },
+    {
+      "title": "God’s Purpose in Creation",
+      "startVerse": 22,
+      "endVerse": 35
+    }
+  ]
 }

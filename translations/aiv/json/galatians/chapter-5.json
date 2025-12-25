@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Stand firm in the freedom for which Christ has set us free, and do not let yourselves be burdened again by a yoke of slavery.",
       "links": "<a href='/AIV/43/8/36'>John 8:36</a>; <a href='/AIV/44/15/10'>Acts 15:10</a>",
-      "comment": "Paul encourages believers to remain steadfast in the liberty Christ gives, contrasting this with the bondage of the old Law. The 'yoke of slavery' refers to the Mosaic Law and legalism. Christ's liberation is both spiritual and actual, echoing themes of deliverance in Exodus and in Jesus' teaching."
+      "comment": "Paul encourages believers to remain steadfast in the liberty Christ gives, contrasting this with the bondage of the old Law. The 'yoke of slavery' refers to the Mosaic Law and legalism. Christ's liberation is both spiritual and actual, echoing themes of deliverance in Exodus and in Jesus' teaching.",
+      "sectionHeader": "Freedom in Christ"
     },
     {
       "pk": 55005002,
@@ -194,7 +195,8 @@
       "verse": 16,
       "text": "But I say, walk by the Spirit, and you will not carry out the desires of the flesh.",
       "links": "<a href='/AIV/45/8/1-4'>Rom. 8:1-4</a>",
-      "comment": "'Walk' is a metaphor for living habitually by the Holy Spirit's power—an ongoing, active moral journey. The victory over sinful passions is possible only through divine help."
+      "comment": "'Walk' is a metaphor for living habitually by the Holy Spirit's power—an ongoing, active moral journey. The victory over sinful passions is possible only through divine help.",
+      "sectionHeader": "Life by the Spirit"
     },
     {
       "pk": 55005017,
@@ -317,5 +319,17 @@
       "comment": "Paul ends by warning against spiritual pride and rivalry, which disrupt true Christ-centered unity. Humility and mutual care remain essential to Christian living."
     }
   ],
-  "translatedAt": "2025-12-24T12:00:22.886Z"
+  "translatedAt": "2025-12-24T12:00:22.886Z",
+  "sections": [
+    {
+      "title": "Freedom in Christ",
+      "startVerse": 1,
+      "endVerse": 15
+    },
+    {
+      "title": "Life by the Spirit",
+      "startVerse": 16,
+      "endVerse": 26
+    }
+  ]
 }

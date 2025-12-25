@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now in those days, the Philistines gathered their armies for war to fight against Israel. Achish said to David, 'You must surely understand that you and your men will go out with me in the army.'",
       "links": "<a href='/AIV/9/27/2'>1Sam 27:2</a>; <a href='/AIV/9/29/2'>1Sam 29:2</a>",
-      "comment": "Achish, a Philistine king, trusts David who had sought refuge with the Philistines. This sets the stage for testing David’s loyalties. Achish's confidence foreshadows later divine providence in David's deliverance."
+      "comment": "Achish, a Philistine king, trusts David who had sought refuge with the Philistines. This sets the stage for testing David’s loyalties. Achish's confidence foreshadows later divine providence in David's deliverance.",
+      "sectionHeader": "David Joins the Philistine Army"
     },
     {
       "pk": 9028002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "Now Samuel had died, and all Israel had mourned for him and buried him in Ramah, his own city. Saul had removed the mediums and spiritists from the land.",
       "links": "<a href='/AIV/9/25/1'>1Sam 25:1</a>; <a href='/AIV/3/20/6'>Lev 20:6</a>",
-      "comment": "The narrator reminds us of Samuel’s death (cf. 1Sam 25:1) and Saul’s observance of the law by expelling mediums (Lev 20:6). Ironically, Saul soon seeks out a medium, highlighting his desperation and spiritual decline."
+      "comment": "The narrator reminds us of Samuel’s death (cf. 1Sam 25:1) and Saul’s observance of the law by expelling mediums (Lev 20:6). Ironically, Saul soon seeks out a medium, highlighting his desperation and spiritual decline.",
+      "sectionHeader": "Saul Seeks a Medium at Endor"
     },
     {
       "pk": 9028004,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "Samuel said to Saul, 'Why have you disturbed me by bringing me up?' Saul answered, 'I am greatly distressed, for the Philistines are waging war against me, and God has turned away from me and does not answer me any more, either by prophets or by dreams. Therefore I have called you, to tell me what I should do.'",
       "links": "<a href='/AIV/9/16/14'>1Sam 16:14</a>; <a href='/AIV/9/28/6'>1Sam 28:6</a>",
-      "comment": "Samuel confirms the seriousness of this supernatural event, showing that even the righteous dead reside together, yet remain aware. Saul’s desperation demonstrates the spiritual crisis of being separated from divine guidance."
+      "comment": "Samuel confirms the seriousness of this supernatural event, showing that even the righteous dead reside together, yet remain aware. Saul’s desperation demonstrates the spiritual crisis of being separated from divine guidance.",
+      "sectionHeader": "Samuel's Prophecy of Saul's Defeat"
     },
     {
       "pk": 9028016,
@@ -242,7 +245,8 @@
       "verse": 20,
       "text": "Then Saul fell at once full length on the ground, and was very afraid because of Samuel’s words. There was no strength in him, for he had eaten no food all day and all night.",
       "links": "<a href='/AIV/9/14/24'>1Sam 14:24</a>; <a href='/AIV/19/102/4'>Ps 102:4</a>",
-      "comment": "Saul’s physical weakness mirrors his spiritual state. Fasting, often seen as discipline in Jewish tradition, here reflects Saul’s distress rather than devotion, and may hint at the need for proper spiritual nourishment."
+      "comment": "Saul’s physical weakness mirrors his spiritual state. Fasting, often seen as discipline in Jewish tradition, here reflects Saul’s distress rather than devotion, and may hint at the need for proper spiritual nourishment.",
+      "sectionHeader": "The Medium Comforts Saul"
     },
     {
       "pk": 9028021,
@@ -305,5 +309,27 @@
       "comment": "Saul eats, receives final earthly nourishment, and departs to face his destined fate. The night setting enhances the somber mood, emphasizing Saul’s spiritual darkness. The structure of this narrative, with a meal before death, foreshadows the significance of last meals as preludes to momentous events (see Luke 22:14-20)."
     }
   ],
-  "translatedAt": "2025-12-24T03:07:08.660Z"
+  "translatedAt": "2025-12-24T03:07:08.660Z",
+  "sections": [
+    {
+      "title": "David Joins the Philistine Army",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "Saul Seeks a Medium at Endor",
+      "startVerse": 3,
+      "endVerse": 14
+    },
+    {
+      "title": "Samuel's Prophecy of Saul's Defeat",
+      "startVerse": 15,
+      "endVerse": 19
+    },
+    {
+      "title": "The Medium Comforts Saul",
+      "startVerse": 20,
+      "endVerse": 25
+    }
+  ]
 }

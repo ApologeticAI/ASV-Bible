@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now when Adoni-zedek, king of Jerusalem, heard that Joshua had captured Ai and had devoted it to destruction—as he had done to Jericho and its king, so he had done to Ai and its king—and that the inhabitants of Gibeon had made peace with Israel and were living among them,",
       "links": "<a href='/AIV/6/6/21'>Josh. 6:21</a>; <a href='/AIV/6/8/26-29'>Josh. 8:26-29</a>",
-      "comment": "Adoni-zedek is the king of Jerusalem, foreshadowing the later importance of Jerusalem in salvation history. Note the theme of utter devotion to God and the special status of Israelite agreements."
+      "comment": "Adoni-zedek is the king of Jerusalem, foreshadowing the later importance of Jerusalem in salvation history. Note the theme of utter devotion to God and the special status of Israelite agreements.",
+      "sectionHeader": "The Alliance of the Five Amorite Kings Against Gibeon"
     },
     {
       "pk": 6010002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "So Joshua went up from Gilgal, he and all the people of war with him, and all the mighty men of valor.",
       "links": "<a href='/AIV/6/8/1'>Josh. 8:1</a>",
-      "comment": "Joshua leads all Israel for the sake of the covenant allies, prefiguring the Good Shepherd who defends His flock."
+      "comment": "Joshua leads all Israel for the sake of the covenant allies, prefiguring the Good Shepherd who defends His flock.",
+      "sectionHeader": "Joshua's Victory at Gibeon and the Miracle of the Sun"
     },
     {
       "pk": 6010008,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "But those five kings fled and hid themselves in the cave at Makkedah.",
       "links": "<a href='/AIV/6/10/3-5'>Josh. 10:3-5</a>",
-      "comment": "Even earthly rulers cannot escape divine justice, and their hiding foreshadows the final futility of resistance to God’s kingship."
+      "comment": "Even earthly rulers cannot escape divine justice, and their hiding foreshadows the final futility of resistance to God’s kingship.",
+      "sectionHeader": "The Defeat and Execution of the Five Kings"
     },
     {
       "pk": 6010017,
@@ -338,7 +341,8 @@
       "verse": 28,
       "text": "Joshua captured Makkedah on that day, and struck it and its king with the edge of the sword. He utterly destroyed them and every living being in it; he left no survivor. And he did to the king of Makkedah as he had done to the king of Jericho.",
       "links": "<a href='/AIV/6/8/2,29'>Josh. 8:2,29</a>",
-      "comment": "The total devotion to destruction highlights the severity of divine justice but also foreshadows the ultimate restoration and purification of creation."
+      "comment": "The total devotion to destruction highlights the severity of divine justice but also foreshadows the ultimate restoration and purification of creation.",
+      "sectionHeader": "Joshua's Southern Campaign"
     },
     {
       "pk": 6010029,
@@ -521,5 +525,27 @@
       "comment": "The narrative concludes as it began, at Gilgal—emphasizing the need for continual renewal in covenant worship and unity."
     }
   ],
-  "translatedAt": "2025-12-24T02:22:04.093Z"
+  "translatedAt": "2025-12-24T02:22:04.093Z",
+  "sections": [
+    {
+      "title": "The Alliance of the Five Amorite Kings Against Gibeon",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Joshua's Victory at Gibeon and the Miracle of the Sun",
+      "startVerse": 7,
+      "endVerse": 15
+    },
+    {
+      "title": "The Defeat and Execution of the Five Kings",
+      "startVerse": 16,
+      "endVerse": 27
+    },
+    {
+      "title": "Joshua's Southern Campaign",
+      "startVerse": 28,
+      "endVerse": 43
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then the LORD said to Moses, “Go to Pharaoh and say to him, ‘This is what the LORD, the God of the Hebrews, says: Let my people go, so that they may serve me.’”",
       "links": "<a href='/AIV/2/3/18'>Exod. 3:18</a>; <a href='/AIV/2/5/1'>Exod. 5:1</a>",
-      "comment": "Note the repeated demand for Israel's freedom is connected to worship. Service to God is more than departure; it is entrance into true worship. In typology, Israel's call from Egypt foreshadows spiritual deliverance offered through Christ (see <a href='/AIV/40/2/15'>Matt. 2:15</a>)."
+      "comment": "Note the repeated demand for Israel's freedom is connected to worship. Service to God is more than departure; it is entrance into true worship. In typology, Israel's call from Egypt foreshadows spiritual deliverance offered through Christ (see <a href='/AIV/40/2/15'>Matt. 2:15</a>).",
+      "sectionHeader": "The Fifth Plague: Death of Livestock"
     },
     {
       "pk": 2009002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Then the LORD said to Moses and Aaron, “Take handfuls of soot from a furnace, and let Moses toss it into the air in the presence of Pharaoh.”",
       "links": "<a href='/AIV/2/4/21'>Exod. 4:21</a>; <a href='/AIV/2/7/10'>Exod. 7:10</a>",
-      "comment": "The soot, likely symbolic of suffering and oppression, becomes the instrument of judgment, recalling how God can transform suffering into redemptive action (see <a href='/AIV/45/8/18'>Rom. 8:18</a>)."
+      "comment": "The soot, likely symbolic of suffering and oppression, becomes the instrument of judgment, recalling how God can transform suffering into redemptive action (see <a href='/AIV/45/8/18'>Rom. 8:18</a>).",
+      "sectionHeader": "The Sixth Plague: Boils"
     },
     {
       "pk": 2009009,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "Then the LORD said to Moses, “Rise early in the morning and present yourself to Pharaoh and say to him, ‘This is what the LORD, the God of the Hebrews, says: Let my people go, that they may serve me.",
       "links": "<a href='/AIV/2/9/1'>Exod. 9:1</a>; <a href='/AIV/2/8/1'>Exod. 8:1</a>",
-      "comment": "Repeating His call, God emphasizes the core reason for deliverance: worship and service. The repeated summons for worship continues as a thread through God's relationship with humanity, fulfilled ultimately in Christ's call to worship in spirit and truth."
+      "comment": "Repeating His call, God emphasizes the core reason for deliverance: worship and service. The repeated summons for worship continues as a thread through God's relationship with humanity, fulfilled ultimately in Christ's call to worship in spirit and truth.",
+      "sectionHeader": "The Seventh Plague: Hail"
     },
     {
       "pk": 2009014,
@@ -425,5 +428,22 @@
       "comment": "The narrative closes with God's word fulfilled, encouraging trust in divine promises and warning against persistent resistance to grace—an apt spiritual lesson for all ages."
     }
   ],
-  "translatedAt": "2025-12-24T00:51:22.284Z"
+  "translatedAt": "2025-12-24T00:51:22.284Z",
+  "sections": [
+    {
+      "title": "The Fifth Plague: Death of Livestock",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "The Sixth Plague: Boils",
+      "startVerse": 8,
+      "endVerse": 12
+    },
+    {
+      "title": "The Seventh Plague: Hail",
+      "startVerse": 13,
+      "endVerse": 35
+    }
+  ]
 }

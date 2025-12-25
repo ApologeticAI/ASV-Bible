@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The wisdom of the humble will lift his head high, and set him among the great.",
       "links": "<a href='/AIV/20/3/34'>Prov. 3:34</a>; <a href='/AIV/42/14/11'>Luke 14:11</a>",
-      "comment": "This verse echoes the theme that humility brings exaltation, later reaffirmed by Jesus (Luke 14:11). God values humility and raises up the lowly—a thread seen throughout salvation history."
+      "comment": "This verse echoes the theme that humility brings exaltation, later reaffirmed by Jesus (Luke 14:11). God values humility and raises up the lowly—a thread seen throughout salvation history.",
+      "sectionHeader": "The Wisdom of the Humble and the Mystery of Fortune"
     },
     {
       "pk": 28011002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "Do not blame before you have examined; understand first, then rebuke.",
       "links": "<a href='/AIV/20/18/13'>Prov. 18:13</a>; <a href='/AIV/40/7/1'>Matt. 7:1</a>",
-      "comment": "Judgment must be just and informed (Matthew 7:1). This principle lays the groundwork for fairness in both human and heavenly communities."
+      "comment": "Judgment must be just and informed (Matthew 7:1). This principle lays the groundwork for fairness in both human and heavenly communities.",
+      "sectionHeader": "Judging Others and Moderation in Pursuits"
     },
     {
       "pk": 28011008,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "Good and evil, life and death, poverty and riches—they come from the Lord.",
       "links": "<a href='/AIV/9/2/6-7'>1 Sam. 2:6-7</a>; <a href='/AIV/23/45/7'>Isa. 45:7</a>",
-      "comment": "God is sovereign over all outcomes (Isa. 45:7). This is a call to trust in His providence, regardless of circumstance."
+      "comment": "God is sovereign over all outcomes (Isa. 45:7). This is a call to trust in His providence, regardless of circumstance.",
+      "sectionHeader": "The Providence of God in Wealth and Adversity"
     },
     {
       "pk": 28011015,
@@ -278,7 +281,8 @@
       "verse": 23,
       "text": "Do not say, 'What do I need? What good will come to me in the future?'",
       "links": "<a href='/AIV/20/27/1'>Prov. 27:1</a>; <a href='/AIV/40/6/34'>Matt. 6:34</a>",
-      "comment": "This anticipates Jesus’ teaching on trusting God for tomorrow (Matt. 6:34). Humility recognizes our dependence."
+      "comment": "This anticipates Jesus’ teaching on trusting God for tomorrow (Matt. 6:34). Humility recognizes our dependence.",
+      "sectionHeader": "The Uncertainty of Happiness and the End of Life"
     },
     {
       "pk": 28011024,
@@ -350,7 +354,8 @@
       "verse": 29,
       "text": "Do not bring everyone into your house, for deceitful men have many tricks.",
       "links": "<a href='/AIV/20/14/7'>Prov. 14:7</a>",
-      "comment": "A practical warning regarding discernment in relationships—protects community purity."
+      "comment": "A practical warning regarding discernment in relationships—protects community purity.",
+      "sectionHeader": "Caution in Friendship and Hospitality"
     },
     {
       "pk": 28011030,
@@ -413,5 +418,32 @@
       "comment": "Hospitality is good, but discernment is needed. The Christian community requires wise stewardship of relationships for unity and peace."
     }
   ],
-  "translatedAt": "2025-12-24T07:28:47.892Z"
+  "translatedAt": "2025-12-24T07:28:47.892Z",
+  "sections": [
+    {
+      "title": "The Wisdom of the Humble and the Mystery of Fortune",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Judging Others and Moderation in Pursuits",
+      "startVerse": 7,
+      "endVerse": 13
+    },
+    {
+      "title": "The Providence of God in Wealth and Adversity",
+      "startVerse": 14,
+      "endVerse": 22
+    },
+    {
+      "title": "The Uncertainty of Happiness and the End of Life",
+      "startVerse": 23,
+      "endVerse": 28
+    },
+    {
+      "title": "Caution in Friendship and Hospitality",
+      "startVerse": 29,
+      "endVerse": 34
+    }
+  ]
 }

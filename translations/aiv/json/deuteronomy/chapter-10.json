@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "At that time the LORD said to me, 'Cut two stone tablets like the first, and come up to Me on the mountain. Make a wooden ark for yourself.'",
       "links": "<a href='/AIV/2/34/1'>Ex. 34:1</a>; <a href='/AIV/5/9/9'>Deut. 9:9</a>",
-      "comment": "Here, Moses is to recreate the tablets of the covenant, showing that God's mercy allows restoration after Israel's disobedience. The ark is introduced as the vessel for God's law—later signifying God dwelling among His people, prefiguring a deeper sacramental presence. See Ex. 25:10-22 for the original instructions."
+      "comment": "Here, Moses is to recreate the tablets of the covenant, showing that God's mercy allows restoration after Israel's disobedience. The ark is introduced as the vessel for God's law—later signifying God dwelling among His people, prefiguring a deeper sacramental presence. See Ex. 25:10-22 for the original instructions.",
+      "sectionHeader": "The New Tablets and the Ark"
     },
     {
       "pk": 5010002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "The Israelites traveled from Beeroth Bene-Jaakan to Moserah. There Aaron died and was buried, and Eleazar his son served as priest in his place.",
       "links": "<a href='/AIV/4/20/28'>Num. 20:28</a>; <a href='/AIV/5/33/6'>Deut. 33:6</a>",
-      "comment": "Succession in the priesthood is emphasized here, demonstrating continuity of spiritual authority. The priesthood is vital for mediation between God and man—a principle later fulfilled and elevated in Christ, our high priest (Heb. 7:23-28)."
+      "comment": "Succession in the priesthood is emphasized here, demonstrating continuity of spiritual authority. The priesthood is vital for mediation between God and man—a principle later fulfilled and elevated in Christ, our high priest (Heb. 7:23-28).",
+      "sectionHeader": "Aaron’s Death and the Appointment of the Levites"
     },
     {
       "pk": 5010007,
@@ -98,7 +100,8 @@
       "verse": 8,
       "text": "At that time the LORD set apart the tribe of Levi to carry the ark of the covenant of the LORD, to stand before the LORD to serve Him, and to bless in His name until this day.",
       "links": "<a href='/AIV/4/3/6-13'>Num. 3:6-13</a>; <a href='/AIV/5/18/5'>Deut. 18:5</a>",
-      "comment": "Levi's setting apart is a foundation for specialized spiritual ministry and blessing, later paralleled in the concept of apostolic succession and the special role of those who serve in worship and sacraments."
+      "comment": "Levi's setting apart is a foundation for specialized spiritual ministry and blessing, later paralleled in the concept of apostolic succession and the special role of those who serve in worship and sacraments.",
+      "sectionHeader": "The Duties and Blessings of the Levites"
     },
     {
       "pk": 5010009,
@@ -146,7 +149,8 @@
       "verse": 12,
       "text": "Now, Israel, what does the LORD your God ask of you, but to fear the LORD your God, to walk in all His ways, to love Him, and to serve the LORD your God with all your heart and all your soul?",
       "links": "<a href='/AIV/5/6/5'>Deut. 6:5</a>; <a href='/AIV/40/22/37'>Matt. 22:37</a>",
-      "comment": "Calling for total love and devotion, this verse is the heart of the law and the foundation of biblical ethics. Jesus affirms this as the greatest commandment, showing continuity between Old and New Testament teaching."
+      "comment": "Calling for total love and devotion, this verse is the heart of the law and the foundation of biblical ethics. Jesus affirms this as the greatest commandment, showing continuity between Old and New Testament teaching.",
+      "sectionHeader": "What God Requires of Israel"
     },
     {
       "pk": 5010013,
@@ -269,5 +273,27 @@
       "comment": "The promise to Abraham (Gen. 15:5) is shown fulfilled, emphasizing God’s faithfulness to His people and the multiplication of their descendants, which finds a spiritual fulfillment in the gathering of all believers in Christ."
     }
   ],
-  "translatedAt": "2025-12-24T02:02:22.151Z"
+  "translatedAt": "2025-12-24T02:02:22.151Z",
+  "sections": [
+    {
+      "title": "The New Tablets and the Ark",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Aaron’s Death and the Appointment of the Levites",
+      "startVerse": 6,
+      "endVerse": 7
+    },
+    {
+      "title": "The Duties and Blessings of the Levites",
+      "startVerse": 8,
+      "endVerse": 11
+    },
+    {
+      "title": "What God Requires of Israel",
+      "startVerse": 12,
+      "endVerse": 22
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "For three years there was no war between Aram and Israel.",
       "links": "<a href='/AIV/12/6/24'>2 Kgs 6:24</a>",
-      "comment": "This verse marks a temporary peace. The number three often has symbolic importance in Scripture, hinting at fullness or completion (cf. <a href='/AIV/40/12/40'>Matt 12:40</a>)."
+      "comment": "This verse marks a temporary peace. The number three often has symbolic importance in Scripture, hinting at fullness or completion (cf. <a href='/AIV/40/12/40'>Matt 12:40</a>).",
+      "sectionHeader": "Ahab and Jehoshaphat Plan War Against Aram"
     },
     {
       "pk": 11022002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "Jehoshaphat said to the king of Israel, \"Please inquire first for the word of the LORD.\"",
       "links": "<a href='/AIV/09/23/2'>1 Sam 23:2</a>; <a href='/AIV/20/3/6'>Prov 3:6</a>",
-      "comment": "Jehoshaphat’s pious inclination marks him as a king who seeks God’s will first, a model for discernment in God’s people."
+      "comment": "Jehoshaphat’s pious inclination marks him as a king who seeks God’s will first, a model for discernment in God’s people.",
+      "sectionHeader": "Micaiah’s Prophecy Against Ahab"
     },
     {
       "pk": 11022006,
@@ -350,7 +352,8 @@
       "verse": 29,
       "text": "So the king of Israel and Jehoshaphat the king of Judah went up to Ramoth-gilead.",
       "links": "<a href='/AIV/14/18/28'>2 Chr 18:28</a>",
-      "comment": "Both kings proceed, even after the warning, demonstrating how leaders may ignore authentic divine guidance, a warning for all generations."
+      "comment": "Both kings proceed, even after the warning, demonstrating how leaders may ignore authentic divine guidance, a warning for all generations.",
+      "sectionHeader": "The Defeat and Death of Ahab"
     },
     {
       "pk": 11022030,
@@ -494,7 +497,8 @@
       "verse": 41,
       "text": "Jehoshaphat the son of Asa became king over Judah in the fourth year of Ahab king of Israel.",
       "links": "<a href='/AIV/14/17/1'>2 Chr 17:1</a>",
-      "comment": "A transition to the reign of Judah’s king. Judah’s line was crucial to the messianic promises fulfilled in Jesus (<a href='/AIV/40/1/1-2'>Matt 1:1-2</a>)."
+      "comment": "A transition to the reign of Judah’s king. Judah’s line was crucial to the messianic promises fulfilled in Jesus (<a href='/AIV/40/1/1-2'>Matt 1:1-2</a>).",
+      "sectionHeader": "The Reign of Jehoshaphat over Judah"
     },
     {
       "pk": 11022042,
@@ -614,7 +618,8 @@
       "verse": 51,
       "text": "Ahaziah the son of Ahab became king over Israel in Samaria in the seventeenth year of Jehoshaphat king of Judah, and he reigned two years over Israel.",
       "links": "<a href='/AIV/12/1/2'>2 Kgs 1:2</a>",
-      "comment": "Transition to a new king in the northern kingdom. Short reigns often indicate instability or divine disfavor."
+      "comment": "Transition to a new king in the northern kingdom. Short reigns often indicate instability or divine disfavor.",
+      "sectionHeader": "The Reign of Ahaziah over Israel"
     },
     {
       "pk": 11022052,
@@ -641,5 +646,32 @@
       "comment": "Ahaziah’s idolatry provokes God’s jealousy. It underscores the biblical urgency to worship according to God’s command, remaining faithful to the true faith handed down."
     }
   ],
-  "translatedAt": "2025-12-24T03:42:19.676Z"
+  "translatedAt": "2025-12-24T03:42:19.676Z",
+  "sections": [
+    {
+      "title": "Ahab and Jehoshaphat Plan War Against Aram",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "Micaiah’s Prophecy Against Ahab",
+      "startVerse": 5,
+      "endVerse": 28
+    },
+    {
+      "title": "The Defeat and Death of Ahab",
+      "startVerse": 29,
+      "endVerse": 40
+    },
+    {
+      "title": "The Reign of Jehoshaphat over Judah",
+      "startVerse": 41,
+      "endVerse": 50
+    },
+    {
+      "title": "The Reign of Ahaziah over Israel",
+      "startVerse": 51,
+      "endVerse": 53
+    }
+  ]
 }

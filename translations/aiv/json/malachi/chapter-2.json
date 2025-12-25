@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "And now, this command is for you, O priests.",
       "links": "<a href='/AIV/3/8/35'>Lev. 8:35</a>; <a href='/AIV/39/15/2'>Ezek. 15:2</a>",
-      "comment": "Malachi begins his warning specifically to the priests, serving as spiritual leaders. This highlights the importance of faithful leadership in worship and teaching—an echo of God's call for purity in all generations."
+      "comment": "Malachi begins his warning specifically to the priests, serving as spiritual leaders. This highlights the importance of faithful leadership in worship and teaching—an echo of God's call for purity in all generations.",
+      "sectionHeader": "Warning to the Priests"
     },
     {
       "pk": 46002002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "Have we not all one Father? Has not one God created us? Why then do we deal faithlessly with one another, profaning the covenant of our fathers?",
       "links": "<a href='/AIV/1/1/27'>Gen. 1:27</a>; <a href='/AIV/23/64/8'>Isa. 64:8</a>",
-      "comment": "Unity under one Father and Creator is emphasized, calling all to faithfulness. Profaning the covenant affects not just individuals but the entire community—a prelude to deeper communal sacramental themes."
+      "comment": "Unity under one Father and Creator is emphasized, calling all to faithfulness. Profaning the covenant affects not just individuals but the entire community—a prelude to deeper communal sacramental themes.",
+      "sectionHeader": "Infidelity of the People and Priests"
     },
     {
       "pk": 46002011,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "And this you do as well: you cover the altar of the LORD with tears, with weeping and groaning, so that He no longer regards the offering nor accepts it with favor from your hands.",
       "links": "<a href='/AIV/23/1/15'>Isa. 1:15</a>; <a href='/AIV/19/66/18'>Ps. 66:18</a>",
-      "comment": "Broken relationships affect one's worship—offering is rejected when the heart is not right. This principle is expanded by Christ in the New Testament concerning reconciliation (Matt. 5:23-24)."
+      "comment": "Broken relationships affect one's worship—offering is rejected when the heart is not right. This principle is expanded by Christ in the New Testament concerning reconciliation (Matt. 5:23-24).",
+      "sectionHeader": "Condemnation of Divorce"
     },
     {
       "pk": 46002014,
@@ -206,8 +209,31 @@
       "verse": 17,
       "text": "You have wearied the LORD with your words. Yet you ask, 'How have we wearied Him?' By saying, 'Everyone who does evil is good in the sight of the LORD, and He delights in them,' or by asking, 'Where is the God of justice?'",
       "links": "<a href='/AIV/19/73/11'>Ps. 73:11</a>; <a href='/AIV/23/5/19-20'>Isa. 5:19–20</a>",
-      "comment": "The people's complaints reveal misunderstandings of God's justice and holiness, denying objective morality. This anticipates the New Testament's call to see Christ as the fulfillment of God's justice and righteousness."
+      "comment": "The people's complaints reveal misunderstandings of God's justice and holiness, denying objective morality. This anticipates the New Testament's call to see Christ as the fulfillment of God's justice and righteousness.",
+      "sectionHeader": "The Lord Accused of Injustice"
     }
   ],
-  "translatedAt": "2025-12-24T10:00:51.185Z"
+  "translatedAt": "2025-12-24T10:00:51.185Z",
+  "sections": [
+    {
+      "title": "Warning to the Priests",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "Infidelity of the People and Priests",
+      "startVerse": 10,
+      "endVerse": 12
+    },
+    {
+      "title": "Condemnation of Divorce",
+      "startVerse": 13,
+      "endVerse": 16
+    },
+    {
+      "title": "The Lord Accused of Injustice",
+      "startVerse": 17,
+      "endVerse": 17
+    }
+  ]
 }

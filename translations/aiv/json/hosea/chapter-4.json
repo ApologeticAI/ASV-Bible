@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Hear the word of the LORD, people of Israel! For the LORD has a case against those who live in the land: There is no truth, no lovingkindness, and no knowledge of God in the land.",
       "links": "<a href='/AIV/23/1/2'>Isa. 1:2</a>; <a href='/AIV/19/12/1'>Ps. 12:1</a>",
-      "comment": "Hosea opens this chapter much like a prophet calling a law court convened by God against Israel. The lack of 'truth', 'steadfast love', and 'knowledge of God' are central to Israel's sin. 'Knowledge of God' points not just to intellectual awareness, but to deep, covenantal relationship. Compare with Jeremiah 4:22. The call to a faithful knowledge of God anticipates the New Covenant promises of Jeremiah 31:33-34, where God's law will be written on the heart."
+      "comment": "Hosea opens this chapter much like a prophet calling a law court convened by God against Israel. The lack of 'truth', 'steadfast love', and 'knowledge of God' are central to Israel's sin. 'Knowledge of God' points not just to intellectual awareness, but to deep, covenantal relationship. Compare with Jeremiah 4:22. The call to a faithful knowledge of God anticipates the New Covenant promises of Jeremiah 31:33-34, where God's law will be written on the heart.",
+      "sectionHeader": "God's Case Against Israel"
     },
     {
       "pk": 35004002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "Yet let no one contend, and let none accuse, for your people are like those who contend with the priest.",
       "links": "<a href='/AIV/16/13/29'>Neh. 13:29</a>",
-      "comment": "To 'contend with the priest' refers to rebelling against spiritual authority. The priesthood here is seen as a God-given mediator for the people, reflecting a broader pattern of God's order for worship and guidance."
+      "comment": "To 'contend with the priest' refers to rebelling against spiritual authority. The priesthood here is seen as a God-given mediator for the people, reflecting a broader pattern of God's order for worship and guidance.",
+      "sectionHeader": "Corruption of Priests and People"
     },
     {
       "pk": 35004005,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "My people consult their wooden idols, and their divining rods answer them. For a spirit of prostitution leads them astray, and they have been unfaithful to their God.",
       "links": "<a href='/AIV/23/44/14-20'>Isa. 44:14-20</a>; <a href='/AIV/19/106/39'>Ps. 106:39</a>",
-      "comment": "Idolatry is a recurring spiritual adultery in the Old Testament. The use of 'divining rods' points to pagan religious practices. True revelation comes only from God, not man-made means."
+      "comment": "Idolatry is a recurring spiritual adultery in the Old Testament. The use of 'divining rods' points to pagan religious practices. True revelation comes only from God, not man-made means.",
+      "sectionHeader": "Idolatry and Consequences for Israel"
     },
     {
       "pk": 35004013,
@@ -182,7 +185,8 @@
       "verse": 15,
       "text": "Though you, Israel, play the prostitute, let Judah not become guilty! Do not go to Gilgal, or up to Beth-aven, and do not swear, 'As the LORD lives!'",
       "links": "<a href='/AIV/6/4/19'>Josh. 4:19</a>; <a href='/AIV/9/23/19'>Num. 23:19</a>; <a href='/AIV/28/7/12'>Hos. 7:12</a>",
-      "comment": "Beth-aven ('house of wickedness') is a pun on Bethel, the site of idolatrous worship. Gilgal was also corrupted. Hosea urges Judah not to repeat Israel's sins."
+      "comment": "Beth-aven ('house of wickedness') is a pun on Bethel, the site of idolatrous worship. Gilgal was also corrupted. Hosea urges Judah not to repeat Israel's sins.",
+      "sectionHeader": "A Warning to Judah"
     },
     {
       "pk": 35004016,
@@ -233,5 +237,27 @@
       "comment": "The 'wind' is a symbol of judgment and exile. The shame resulting from false worship recalls the biblical theme that true worship in spirit and truth (see John 4:23-24) brings dignity and life."
     }
   ],
-  "translatedAt": "2025-12-24T09:36:14.968Z"
+  "translatedAt": "2025-12-24T09:36:14.968Z",
+  "sections": [
+    {
+      "title": "God's Case Against Israel",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "Corruption of Priests and People",
+      "startVerse": 4,
+      "endVerse": 11
+    },
+    {
+      "title": "Idolatry and Consequences for Israel",
+      "startVerse": 12,
+      "endVerse": 14
+    },
+    {
+      "title": "A Warning to Judah",
+      "startVerse": 15,
+      "endVerse": 19
+    }
+  ]
 }

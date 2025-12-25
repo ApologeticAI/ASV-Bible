@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "I say that as long as the heir is a child, he is no different from a slave, though he is master of everything.",
       "links": "<a href='/AIV/45/8/17'>Rom. 8:17</a>; <a href='/AIV/55/3/26'>Gal. 3:26</a>",
-      "comment": "Paul uses a family analogy to illustrate the believer's status under the law before faith in Christ. The heir's rights are delayed, hinting at the transition from law to grace."
+      "comment": "Paul uses a family analogy to illustrate the believer's status under the law before faith in Christ. The heir's rights are delayed, hinting at the transition from law to grace.",
+      "sectionHeader": "Sons and Heirs through Christ"
     },
     {
       "pk": 55004002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Formerly, when you did not know God, you were enslaved to those who are by nature not gods.",
       "links": "<a href='/AIV/44/17/23'>Acts 17:23</a>; <a href='/AIV/19/115/4'>Ps. 115:4</a>",
-      "comment": "Paul references idolatry and spiritual bondage, demonstrating the emptiness of worshiping false gods. True freedom is found only in knowing the living God."
+      "comment": "Paul references idolatry and spiritual bondage, demonstrating the emptiness of worshiping false gods. True freedom is found only in knowing the living God.",
+      "sectionHeader": "Paul’s Concern for the Galatians"
     },
     {
       "pk": 55004009,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "Brothers, I beg you, become like me, for I became as you are. You did me no wrong.",
       "links": "<a href='/AIV/46/11/1'>1 Cor. 11:1</a>; <a href='/AIV/55/2/20'>Gal. 2:20</a>",
-      "comment": "Paul calls for imitation of his Christ-centered life. The willingness to identify with the community in humility is a mark of true spiritual leadership."
+      "comment": "Paul calls for imitation of his Christ-centered life. The willingness to identify with the community in humility is a mark of true spiritual leadership.",
+      "sectionHeader": "An Appeal from Paul’s Personal Experience"
     },
     {
       "pk": 55004013,
@@ -254,7 +257,8 @@
       "verse": 21,
       "text": "Tell me, you who want to be under the law, do you not listen to the law?",
       "links": "<a href='/AIV/45/2/23'>Rom. 2:23</a>; <a href='/AIV/43/5/39'>John 5:39</a>",
-      "comment": "Paul challenges those who favor legalism to truly examine the meaning of the law. He invites deeper study of Scripture to find its ultimate purpose in Christ."
+      "comment": "Paul challenges those who favor legalism to truly examine the meaning of the law. He invites deeper study of Scripture to find its ultimate purpose in Christ.",
+      "sectionHeader": "The Allegory of Hagar and Sarah"
     },
     {
       "pk": 55004022,
@@ -377,5 +381,27 @@
       "comment": "Final emphasis: believers are born into freedom by divine promise. This calls for living out the fullness of faith, seeking the spiritual unity and sacramental life provided by Christ."
     }
   ],
-  "translatedAt": "2025-12-24T11:59:52.484Z"
+  "translatedAt": "2025-12-24T11:59:52.484Z",
+  "sections": [
+    {
+      "title": "Sons and Heirs through Christ",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Paul’s Concern for the Galatians",
+      "startVerse": 8,
+      "endVerse": 11
+    },
+    {
+      "title": "An Appeal from Paul’s Personal Experience",
+      "startVerse": 12,
+      "endVerse": 20
+    },
+    {
+      "title": "The Allegory of Hagar and Sarah",
+      "startVerse": 21,
+      "endVerse": 31
+    }
+  ]
 }

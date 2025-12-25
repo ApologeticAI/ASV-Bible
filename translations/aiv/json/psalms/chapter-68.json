@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "God arises, His enemies scatter; those who hate Him flee before Him.",
       "links": "<a href='/AIV/04/10/35'>Num. 10:35</a>; <a href='/AIV/19/132/8'>Ps. 132:8</a>",
-      "comment": "The imagery of God arising connects to military victory and God's power to save, a theme reflecting Christ's ultimate victory over sin and death. See the typology in Num. 10:35."
+      "comment": "The imagery of God arising connects to military victory and God's power to save, a theme reflecting Christ's ultimate victory over sin and death. See the typology in Num. 10:35.",
+      "sectionHeader": "God Arises and Scatters His Enemies"
     },
     {
       "pk": 23068002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "Father of the fatherless and protector of widows is God in His holy dwelling.",
       "links": "<a href='/AIV/19/10/14'>Ps. 10:14</a>; <a href='/AIV/05/10/18'>Deut. 10:18</a>",
-      "comment": "God’s care for the vulnerable foreshadows Christ’s compassion shown in the Gospels. The mention of “holy dwelling” hints toward the importance of sanctified places of worship."
+      "comment": "God’s care for the vulnerable foreshadows Christ’s compassion shown in the Gospels. The mention of “holy dwelling” hints toward the importance of sanctified places of worship.",
+      "sectionHeader": "God’s Care for the Needy and Deliverance in the Wilderness"
     },
     {
       "pk": 23068006,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "Mount Bashan is a majestic mountain; high, rugged mountain is Mount Bashan.",
       "links": "<a href='/AIV/05/3/1'>Deut. 3:1</a>",
-      "comment": "Reference to Bashan—famous for height and grandeur—contrasts God's chosen place, showing that spiritual significance outweighs physical grandeur."
+      "comment": "Reference to Bashan—famous for height and grandeur—contrasts God's chosen place, showing that spiritual significance outweighs physical grandeur.",
+      "sectionHeader": "The Lord’s Triumph and Exaltation on Zion"
     },
     {
       "pk": 23068016,
@@ -290,7 +293,8 @@
       "verse": 24,
       "text": "Your procession has been seen, O God, the procession of my God, my King, into the sanctuary.",
       "links": "<a href='/AIV/19/47/6-7'>Ps. 47:6-7</a>; <a href='/AIV/19/132/7'>Ps. 132:7</a>",
-      "comment": "The liturgical procession to the sanctuary underlies the importance of solemn worship and the visible unity of God's people."
+      "comment": "The liturgical procession to the sanctuary underlies the importance of solemn worship and the visible unity of God's people.",
+      "sectionHeader": "Procession into the Sanctuary and Praise of God Among the Nations"
     },
     {
       "pk": 23068025,
@@ -425,5 +429,27 @@
       "comment": "The sanctuary is the locus of God's power and blessing, encouraging reverent worship and recognition of His authority. Unity and strength in worship point to the spiritual vitality of God's people throughout history."
     }
   ],
-  "translatedAt": "2025-12-24T06:22:00.834Z"
+  "translatedAt": "2025-12-24T06:22:00.834Z",
+  "sections": [
+    {
+      "title": "God Arises and Scatters His Enemies",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "God’s Care for the Needy and Deliverance in the Wilderness",
+      "startVerse": 5,
+      "endVerse": 14
+    },
+    {
+      "title": "The Lord’s Triumph and Exaltation on Zion",
+      "startVerse": 15,
+      "endVerse": 23
+    },
+    {
+      "title": "Procession into the Sanctuary and Praise of God Among the Nations",
+      "startVerse": 24,
+      "endVerse": 35
+    }
+  ]
 }

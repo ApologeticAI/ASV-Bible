@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then the LORD spoke to Moses, saying:",
       "links": "<a href='/AIV/4/33/50'>Num. 33:50</a>",
-      "comment": "This introduction marks another direct speech from God to Moses, like previous sections establishing Israel’s covenantal inheritance. See similar pattern in Num. 33:50."
+      "comment": "This introduction marks another direct speech from God to Moses, like previous sections establishing Israel’s covenantal inheritance. See similar pattern in Num. 33:50.",
+      "sectionHeader": "The Boundaries of Canaan"
     },
     {
       "pk": 4034002,
@@ -194,7 +195,8 @@
       "verse": 16,
       "text": "And the LORD spoke to Moses, saying:",
       "links": "<a href='/AIV/4/34/1'>Num. 34:1</a>",
-      "comment": "Marks transition to the subject of leadership for land distribution. Direct communication from God reinforces the importance of fidelity to divine instruction."
+      "comment": "Marks transition to the subject of leadership for land distribution. Direct communication from God reinforces the importance of fidelity to divine instruction.",
+      "sectionHeader": "Those Appointed to Divide the Land"
     },
     {
       "pk": 4034017,
@@ -353,5 +355,17 @@
       "comment": "This concluding verse affirms that leadership and divine command are essential for the faithful transmission of spiritual inheritance. New Testament fulfillment is seen in the apostolic authority given by Christ for the guiding of the whole Church. See Josh. 18:1."
     }
   ],
-  "translatedAt": "2025-12-24T01:54:41.224Z"
+  "translatedAt": "2025-12-24T01:54:41.224Z",
+  "sections": [
+    {
+      "title": "The Boundaries of Canaan",
+      "startVerse": 1,
+      "endVerse": 15
+    },
+    {
+      "title": "Those Appointed to Divide the Land",
+      "startVerse": 16,
+      "endVerse": 29
+    }
+  ]
 }

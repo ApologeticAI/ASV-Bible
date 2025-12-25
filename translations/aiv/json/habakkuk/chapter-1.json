@@ -26,7 +26,8 @@
       "verse": 2,
       "text": "O LORD, how long shall I cry for help, and You do not hear? Or cry to You, 'Violence!' and You do not save?",
       "links": "<a href='/AIV/19/13/1'>Ps. 13:1-2</a>; <a href='/AIV/24/12/1'>Jer. 12:1</a>",
-      "comment": "Habakkuk brings his anguished prayers before God, echoing the lament of many psalmists (Ps. 13:1). This shows the biblical model of wrestling with God in prayer, expressing honest frustrations while still maintaining faith."
+      "comment": "Habakkuk brings his anguished prayers before God, echoing the lament of many psalmists (Ps. 13:1). This shows the biblical model of wrestling with God in prayer, expressing honest frustrations while still maintaining faith.",
+      "sectionHeader": "Habakkuk’s Complaint About Injustice"
     },
     {
       "pk": 42001003,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "Look among the nations, and see; wonder and be amazed. For I am doing a work in your days that you would not believe if told.",
       "links": "<a href='/AIV/44/13/41'>Acts 13:41</a>; <a href='/AIV/23/29/14'>Isa. 29:14</a>",
-      "comment": "God's answer begins, declaring He is at work in unexpected ways. Paul quotes this verse in Acts 13:41, showing its prophetic foreshadowing of Christ’s work—a surprising, transformative act of God."
+      "comment": "God's answer begins, declaring He is at work in unexpected ways. Paul quotes this verse in Acts 13:41, showing its prophetic foreshadowing of Christ’s work—a surprising, transformative act of God.",
+      "sectionHeader": "God’s Answer: The Coming of the Chaldeans"
     },
     {
       "pk": 42001006,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "Are You not from everlasting, O LORD my God, my Holy One? We shall not die. O LORD, You have appointed them to judge; O Rock, You have established them for correction.",
       "links": "<a href='/AIV/05/32/4'>Deut. 32:4</a>; <a href='/AIV/19/90/2'>Ps. 90:2</a>",
-      "comment": "Habakkuk professes God’s eternal nature and faithfulness. He recognizes God as 'Rock' (cf. Deut. 32:4)—a foundation symbolizing stability and ultimate truth. The language hints at both God’s justice and His merciful preservation of the faithful remnant."
+      "comment": "Habakkuk professes God’s eternal nature and faithfulness. He recognizes God as 'Rock' (cf. Deut. 32:4)—a foundation symbolizing stability and ultimate truth. The language hints at both God’s justice and His merciful preservation of the faithful remnant.",
+      "sectionHeader": "Habakkuk’s Second Complaint: Questioning God’s Justice"
     },
     {
       "pk": 42001013,
@@ -209,5 +212,22 @@
       "comment": "The question challenges God’s justice, seeking hope that tyranny will not have the final word. The unresolved cry here sets up the theme of faithful waiting for divine vindication—a theme fulfilled in the coming of the Messiah and the establishment of His eternal kingdom."
     }
   ],
-  "translatedAt": "2025-12-24T09:51:09.498Z"
+  "translatedAt": "2025-12-24T09:51:09.498Z",
+  "sections": [
+    {
+      "title": "Habakkuk’s Complaint About Injustice",
+      "startVerse": 2,
+      "endVerse": 4
+    },
+    {
+      "title": "God’s Answer: The Coming of the Chaldeans",
+      "startVerse": 5,
+      "endVerse": 11
+    },
+    {
+      "title": "Habakkuk’s Second Complaint: Questioning God’s Justice",
+      "startVerse": 12,
+      "endVerse": 17
+    }
+  ]
 }

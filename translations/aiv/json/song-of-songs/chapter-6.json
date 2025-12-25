@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "\"Where has your beloved gone, O most beautiful among women? Where has your beloved turned, that we may seek him with you?\"",
       "links": "<a href='/AIV/26/5/9'>Song 5:9</a>; <a href='/AIV/23/62/5'>Isa. 62:5</a>",
-      "comment": "The daughters of Jerusalem address the bride, showing concern for her separation from the beloved, echoing themes of communal seeking and the restoration of union."
+      "comment": "The daughters of Jerusalem address the bride, showing concern for her separation from the beloved, echoing themes of communal seeking and the restoration of union.",
+      "sectionHeader": "The Friends Seek the Beloved"
     },
     {
       "pk": 26006002,
@@ -26,7 +27,8 @@
       "verse": 2,
       "text": "\"My beloved has gone down to his garden, to the beds of spices, to graze among the lilies.\"",
       "links": "<a href='/AIV/26/5/1'>Song 5:1</a>; <a href='/AIV/26/2/16'>Song 2:16</a>",
-      "comment": "The bride knows where her beloved is, affirming intimate knowledge and closeness, a symbolic description of the union between Christ and the soul (cf. Song 2:16)."
+      "comment": "The bride knows where her beloved is, affirming intimate knowledge and closeness, a symbolic description of the union between Christ and the soul (cf. Song 2:16).",
+      "sectionHeader": "The Bride Affirms Her Love"
     },
     {
       "pk": 26006003,
@@ -50,7 +52,8 @@
       "verse": 4,
       "text": "\"You are beautiful as Tirzah, my love, pleasing as Jerusalem, awe-inspiring as an army with banners.\"",
       "links": "<a href='/AIV/19/48/2'>Ps. 48:2</a>; <a href='/AIV/26/1/15'>Song 1:15</a>",
-      "comment": "The beloved compares the bride to revered cities, highlighting her role as a gathering place for God's people radiant with glory."
+      "comment": "The beloved compares the bride to revered cities, highlighting her role as a gathering place for God's people radiant with glory.",
+      "sectionHeader": "The Bridegroom Praises the Bride"
     },
     {
       "pk": 26006005,
@@ -134,7 +137,8 @@
       "verse": 11,
       "text": "\"I went down to the walnut grove to see the green plants of the valley, to see if the vines had budded, if the pomegranates were in blossom.\"",
       "links": "<a href='/AIV/26/2/11-13'>Song 2:11-13</a>; <a href='/AIV/19/104/14'>Ps. 104:14</a>",
-      "comment": "A return to the garden setting signals growth and spiritual renewal; the imagery suggests the vigilance in searching for signs of spiritual fruit."
+      "comment": "A return to the garden setting signals growth and spiritual renewal; the imagery suggests the vigilance in searching for signs of spiritual fruit.",
+      "sectionHeader": "The Shulammite’s Visit to the Garden"
     },
     {
       "pk": 26006012,
@@ -158,8 +162,36 @@
       "verse": 13,
       "text": "\"Return, return, O Shulammite; return, return, that we may gaze upon you. Why should you gaze upon the Shulammite, as upon the dance before two armies?\"",
       "links": "<a href='/AIV/26/7/1'>Song 7:1</a>; <a href='/AIV/19/68/25'>Ps. 68:25</a>",
-      "comment": "The repeated call reflects longing for the bride and admiration of her splendor. Her dance is mysterious and awe-inspiring, illustrating the Church’s ongoing role in salvation history."
+      "comment": "The repeated call reflects longing for the bride and admiration of her splendor. Her dance is mysterious and awe-inspiring, illustrating the Church’s ongoing role in salvation history.",
+      "sectionHeader": "The Call to the Shulammite"
     }
   ],
-  "translatedAt": "2025-12-24T07:13:40.111Z"
+  "translatedAt": "2025-12-24T07:13:40.111Z",
+  "sections": [
+    {
+      "title": "The Friends Seek the Beloved",
+      "startVerse": 1,
+      "endVerse": 1
+    },
+    {
+      "title": "The Bride Affirms Her Love",
+      "startVerse": 2,
+      "endVerse": 3
+    },
+    {
+      "title": "The Bridegroom Praises the Bride",
+      "startVerse": 4,
+      "endVerse": 10
+    },
+    {
+      "title": "The Shulammite’s Visit to the Garden",
+      "startVerse": 11,
+      "endVerse": 12
+    },
+    {
+      "title": "The Call to the Shulammite",
+      "startVerse": 13,
+      "endVerse": 13
+    }
+  ]
 }

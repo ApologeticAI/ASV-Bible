@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "It happened also that seven brothers and their mother were arrested and forced by the king to eat pork in violation of the law, and were tortured with whips and scourges.",
       "links": "<a href='/AIV/03/11/7'>Lev. 11:7</a>; <a href='/AIV/05/14/8'>Deut. 14:8</a>",
-      "comment": "This introduces the story of the martyrdom of the seven brothers and their mother for refusing to violate God's Law. Their refusal to eat pork demonstrates faithfulness to the Law of Moses even under persecution—a theme echoed later in Christian martyrdom."
+      "comment": "This introduces the story of the martyrdom of the seven brothers and their mother for refusing to violate God's Law. Their refusal to eat pork demonstrates faithfulness to the Law of Moses even under persecution—a theme echoed later in Christian martyrdom.",
+      "sectionHeader": "The Martyrdom of the Seven Brothers"
     },
     {
       "pk": 21007002,
@@ -230,7 +231,8 @@
       "verse": 19,
       "text": "But their mother was especially admirable and worthy of lasting remembrance. Though she saw her seven sons perish within a single day, she bore it with courageous faith because she trusted in the Lord.",
       "links": "<a href='/AIV/58/11/35'>Heb. 11:35</a>",
-      "comment": "The courage and faith of the mother prefigure Mary’s own suffering at the cross. The veneration of pious women of faith is reflected here."
+      "comment": "The courage and faith of the mother prefigure Mary’s own suffering at the cross. The veneration of pious women of faith is reflected here.",
+      "sectionHeader": "The Mother’s Faith and Exhortation"
     },
     {
       "pk": 21007020,
@@ -290,7 +292,8 @@
       "verse": 24,
       "text": "The king, enraged by the scorn, took even worse measures, suspecting her words were contemptuous. He begged the youngest son, while promising with oaths, to make him rich and happy if he would turn from the traditions of his ancestors, and he would make him a friend and appoint him to high office.",
       "links": "<a href='/AIV/40/04/8-10'>Matt. 4:8-10</a>",
-      "comment": "Here, worldly rewards are offered to forsake God’s traditions—reminiscent of Satan's temptation of Jesus with earthly power. True faith values fidelity over compromise."
+      "comment": "Here, worldly rewards are offered to forsake God’s traditions—reminiscent of Satan's temptation of Jesus with earthly power. True faith values fidelity over compromise.",
+      "sectionHeader": "The Youngest Son’s Refusal"
     },
     {
       "pk": 21007025,
@@ -446,7 +449,8 @@
       "verse": 37,
       "text": "Let this be enough, then, about the eating of sacrifices and extraordinary tortures.",
       "links": "",
-      "comment": "The narrator concludes the account, inviting reflection on the power of faithfulness over the pressure of compromise."
+      "comment": "The narrator concludes the account, inviting reflection on the power of faithfulness over the pressure of compromise.",
+      "sectionHeader": "Conclusion and Exhortation to Faith"
     },
     {
       "pk": 21007038,
@@ -509,5 +513,27 @@
       "comment": "The final verse closes this powerful account of martyrdom for obedience to God’s law—a profound precursor to Christian teachings on redemptive suffering, resurrection, and perseverance."
     }
   ],
-  "translatedAt": "2025-12-24T05:33:40.183Z"
+  "translatedAt": "2025-12-24T05:33:40.183Z",
+  "sections": [
+    {
+      "title": "The Martyrdom of the Seven Brothers",
+      "startVerse": 1,
+      "endVerse": 18
+    },
+    {
+      "title": "The Mother’s Faith and Exhortation",
+      "startVerse": 19,
+      "endVerse": 23
+    },
+    {
+      "title": "The Youngest Son’s Refusal",
+      "startVerse": 24,
+      "endVerse": 36
+    },
+    {
+      "title": "Conclusion and Exhortation to Faith",
+      "startVerse": 37,
+      "endVerse": 42
+    }
+  ]
 }

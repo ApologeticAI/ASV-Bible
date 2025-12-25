@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The word of the LORD came to me again, saying:",
       "links": "<a href='/AIV/26/29/1'>Ezek. 29:1</a>; <a href='/AIV/26/30/20'>Ezek. 30:20</a>",
-      "comment": "As with previous prophecies, God is once more directly speaking to Ezekiel, establishing the authority of this message as divine revelation."
+      "comment": "As with previous prophecies, God is once more directly speaking to Ezekiel, establishing the authority of this message as divine revelation.",
+      "sectionHeader": "The Day of the LORD Against Egypt and Her Allies"
     },
     {
       "pk": 33030002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "'This is what the Lord GOD says: I will put an end to the pride of Egypt by the hand of Nebuchadnezzar king of Babylon.'",
       "links": "<a href='/AIV/26/29/19'>Ezek. 29:19</a>; <a href='/AIV/24/43/10'>Jer. 43:10</a>",
-      "comment": "Babylon becomes the instrument of God’s judgment, showing that He uses even pagan nations for His broader purposes. This prefigures how God’s providence works through history to bring about His will."
+      "comment": "Babylon becomes the instrument of God’s judgment, showing that He uses even pagan nations for His broader purposes. This prefigures how God’s providence works through history to bring about His will.",
+      "sectionHeader": "Babylon’s Judgment on Egypt and Her Cities"
     },
     {
       "pk": 33030011,
@@ -242,7 +244,8 @@
       "verse": 20,
       "text": "In the eleventh year, in the first month, on the seventh day, the word of the LORD came to me, saying:",
       "links": "<a href='/AIV/26/29/1'>Ezek. 29:1</a>; <a href='/AIV/26/24/1'>Ezek. 24:1</a>",
-      "comment": "The precise dating underscores the historical reliability of the prophecy and God’s involvement in concrete history—not just abstract spiritual ideas."
+      "comment": "The precise dating underscores the historical reliability of the prophecy and God’s involvement in concrete history—not just abstract spiritual ideas.",
+      "sectionHeader": "The Broken Arm of Pharaoh"
     },
     {
       "pk": 33030021,
@@ -317,5 +320,22 @@
       "comment": "The closing echoes an earlier refrain: exile and dispersion await Egypt. The ultimate goal, however, is that all peoples recognize the true God—a thread culminating in the call to unity and worship found in the New Testament (see Eph. 4:4-6)."
     }
   ],
-  "translatedAt": "2025-12-24T09:15:04.472Z"
+  "translatedAt": "2025-12-24T09:15:04.472Z",
+  "sections": [
+    {
+      "title": "The Day of the LORD Against Egypt and Her Allies",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "Babylon’s Judgment on Egypt and Her Cities",
+      "startVerse": 10,
+      "endVerse": 19
+    },
+    {
+      "title": "The Broken Arm of Pharaoh",
+      "startVerse": 20,
+      "endVerse": 26
+    }
+  ]
 }

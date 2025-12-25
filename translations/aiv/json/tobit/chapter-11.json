@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "As they were on their way, drawing near to Nineveh, Raphael said to Tobias,",
       "links": "<a href='/AIV/17/5/5'>Tob. 5:5</a>; <a href='/AIV/17/6/1'>Tob. 6:1</a>",
-      "comment": "This marks a turning point of return and fulfillment—a recurring theme in salvation history. Notice the angel's role as a guide, echoing angelic aid elsewhere (Genesis 24:7, Acts 12:7)."
+      "comment": "This marks a turning point of return and fulfillment—a recurring theme in salvation history. Notice the angel's role as a guide, echoing angelic aid elsewhere (Genesis 24:7, Acts 12:7).",
+      "sectionHeader": "The Return to Nineveh"
     },
     {
       "pk": 17011002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "Before Tobias reached his father, Raphael said to him, \"I know that his eyes will be opened.",
       "links": "<a href='/AIV/17/2/10'>Tob. 2:10</a>; <a href='/AIV/43/9/6-7'>John 9:6-7</a>",
-      "comment": "The angel foretells healing, a sign pointing toward miracles in Christ's ministry (John 9:6-7). Physical healing symbolizes spiritual restoration."
+      "comment": "The angel foretells healing, a sign pointing toward miracles in Christ's ministry (John 9:6-7). Physical healing symbolizes spiritual restoration.",
+      "sectionHeader": "Tobit's Sight Restored"
     },
     {
       "pk": 17011006,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "Tobit got up and, walking through the door of his house, blessed God with thanksgiving. Then with a loud voice he proclaimed to all the people, \"Bless God and proclaim his greatness to all the living children, for he has had mercy on me!\"",
       "links": "<a href='/AIV/19/107/8'>Ps. 107:8</a>; <a href='/AIV/42/8/39'>Luke 8:39</a>",
-      "comment": "Tobit acts as a witness. Public proclamation of thanksgiving recalls the biblical tradition of corporate worship (cf. Ps. 107:8; Acts 3:8)."
+      "comment": "Tobit acts as a witness. Public proclamation of thanksgiving recalls the biblical tradition of corporate worship (cf. Ps. 107:8; Acts 3:8).",
+      "sectionHeader": "Rejoicing and Thanksgiving"
     },
     {
       "pk": 17011014,
@@ -182,7 +185,8 @@
       "verse": 15,
       "text": "Tobit then made Sara, his son's wife, welcome and blessed her: \"Come in, my daughter! Blessed are you! Enter the house in safety, in joy, and with blessing.",
       "links": "<a href='/AIV/17/7/16'>Tob. 7:16</a>; <a href='/AIV/8/24/67'>Gen. 24:67</a>",
-      "comment": "Sara’s welcome is solemn, formal, and liturgical in tone—akin to entering a sacred household. Parallels to Rebecca’s welcome (Gen. 24:67), emphasizing family as a realm of divine blessing."
+      "comment": "Sara’s welcome is solemn, formal, and liturgical in tone—akin to entering a sacred household. Parallels to Rebecca’s welcome (Gen. 24:67), emphasizing family as a realm of divine blessing.",
+      "sectionHeader": "Sara Welcomed and Tobit's Descendants"
     },
     {
       "pk": 17011016,
@@ -221,5 +225,27 @@
       "comment": "This verse concludes with a note of fulfillment—seeing one's grandchildren is a sign of divine favor (Genesis 50:23). The family line continues, reflecting God’s faithfulness to His promises. In a spiritual sense, this foreshadows believers' hope to see the fruit of faith in future generations."
     }
   ],
-  "translatedAt": "2025-12-24T04:58:29.869Z"
+  "translatedAt": "2025-12-24T04:58:29.869Z",
+  "sections": [
+    {
+      "title": "The Return to Nineveh",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "Tobit's Sight Restored",
+      "startVerse": 5,
+      "endVerse": 12
+    },
+    {
+      "title": "Rejoicing and Thanksgiving",
+      "startVerse": 13,
+      "endVerse": 14
+    },
+    {
+      "title": "Sara Welcomed and Tobit's Descendants",
+      "startVerse": 15,
+      "endVerse": 18
+    }
+  ]
 }

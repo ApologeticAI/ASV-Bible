@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When they drew near to Jerusalem and came to Bethphage, to the Mount of Olives, Jesus sent two disciples,",
       "links": "<a href='/AIV/38/14/4'>Zech. 14:4</a>; <a href='/AIV/42/19/29-34'>Luke 19:29-34</a>",
-      "comment": "Jesus approaches Jerusalem from the Mount of Olives, fulfilling prophecy and setting the stage for His Messianic entrance."
+      "comment": "Jesus approaches Jerusalem from the Mount of Olives, fulfilling prophecy and setting the stage for His Messianic entrance.",
+      "sectionHeader": "The Triumphal Entry into Jerusalem"
     },
     {
       "pk": 47021002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "Jesus entered the temple and drove out all those who were buying and selling in the temple, and overturned the tables of the money changers and the seats of those who sold doves.",
       "links": "<a href='/AIV/19/69/9'>Ps. 69:9</a>; <a href='/AIV/43/2/14-16'>John 2:14-16</a>",
-      "comment": "Jesus’ action fulfills the zeal prophesied in Scripture (Ps. 69:9) and asserts His authority over the temple, God’s house."
+      "comment": "Jesus’ action fulfills the zeal prophesied in Scripture (Ps. 69:9) and asserts His authority over the temple, God’s house.",
+      "sectionHeader": "The Cleansing of the Temple"
     },
     {
       "pk": 47021013,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "In the morning, as He was returning to the city, He became hungry.",
       "links": "<a href='/AIV/41/11/12'>Mark 11:12</a>",
-      "comment": "Jesus’ hunger attests to His full humanity, even as His miracles show divinity—a key aspect of orthodox Christology."
+      "comment": "Jesus’ hunger attests to His full humanity, even as His miracles show divinity—a key aspect of orthodox Christology.",
+      "sectionHeader": "The Withered Fig Tree"
     },
     {
       "pk": 47021019,
@@ -278,7 +281,8 @@
       "verse": 23,
       "text": "When He came into the temple, the chief priests and elders of the people confronted Him as He was teaching, and said, 'By what authority are You doing these things, and who gave You this authority?'",
       "links": "<a href='/AIV/41/11/27-28'>Mark 11:27-28</a>",
-      "comment": "Religious leaders question Jesus’ authority—His power comes directly from God, not derived from human institution, yet fulfills legitimate office."
+      "comment": "Religious leaders question Jesus’ authority—His power comes directly from God, not derived from human institution, yet fulfills legitimate office.",
+      "sectionHeader": "The Authority of Jesus Questioned"
     },
     {
       "pk": 47021024,
@@ -338,7 +342,8 @@
       "verse": 28,
       "text": "'But what do you think? A man had two sons; and he went to the first and said, “Son, go and work in the vineyard today.”'",
       "links": "<a href='/AIV/23/5/1-7'>Isa. 5:1-7</a>",
-      "comment": "The vineyard is an Old Testament symbol for Israel (Isa. 5:1-7), setting up a lesson about obedience and authentic faith."
+      "comment": "The vineyard is an Old Testament symbol for Israel (Isa. 5:1-7), setting up a lesson about obedience and authentic faith.",
+      "sectionHeader": "The Parable of the Two Sons"
     },
     {
       "pk": 47021029,
@@ -398,7 +403,8 @@
       "verse": 33,
       "text": "'Hear another parable: There was a master of a house who planted a vineyard, put a fence around it, dug a winepress in it, and built a tower, and leased it to tenants, and went into another country.'",
       "links": "<a href='/AIV/23/5/1-7'>Isa. 5:1-7</a>; <a href='/AIV/40/13/34-35'>Matt. 13:34-35</a>",
-      "comment": "Echoes Isaiah’s parable of the vineyard; God has carefully prepared and entrusted Israel to leaders who are meant to bear fruit."
+      "comment": "Echoes Isaiah’s parable of the vineyard; God has carefully prepared and entrusted Israel to leaders who are meant to bear fruit.",
+      "sectionHeader": "The Parable of the Wicked Tenants"
     },
     {
       "pk": 47021034,
@@ -557,5 +563,37 @@
       "comment": "Opposition intensifies, but the crowd’s esteem for Jesus provides a temporary shielding. His divinity, authority, and perfection of the prophets is underscored here."
     }
   ],
-  "translatedAt": "2025-12-24T10:14:42.985Z"
+  "translatedAt": "2025-12-24T10:14:42.985Z",
+  "sections": [
+    {
+      "title": "The Triumphal Entry into Jerusalem",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "The Cleansing of the Temple",
+      "startVerse": 12,
+      "endVerse": 17
+    },
+    {
+      "title": "The Withered Fig Tree",
+      "startVerse": 18,
+      "endVerse": 22
+    },
+    {
+      "title": "The Authority of Jesus Questioned",
+      "startVerse": 23,
+      "endVerse": 27
+    },
+    {
+      "title": "The Parable of the Two Sons",
+      "startVerse": 28,
+      "endVerse": 32
+    },
+    {
+      "title": "The Parable of the Wicked Tenants",
+      "startVerse": 33,
+      "endVerse": 46
+    }
+  ]
 }

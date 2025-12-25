@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In the seventh year, in the fifth month, on the tenth day of the month, some of the elders of Israel came to consult the LORD, and they sat down before me.",
       "links": "<a href='/AIV/26/8/1'>Ezek. 8:1</a>; <a href='/AIV/26/14/1'>Ezek. 14:1</a>",
-      "comment": "This was about 591 BC. The elders regularly sought prophetic guidance from Ezekiel, similar to how the faithful seek wisdom through the spiritual leaders established by God."
+      "comment": "This was about 591 BC. The elders regularly sought prophetic guidance from Ezekiel, similar to how the faithful seek wisdom through the spiritual leaders established by God.",
+      "sectionHeader": "The Elders Inquire of the Lord"
     },
     {
       "pk": 33020002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "and say to them, ‘Thus says the Lord GOD: On the day when I chose Israel, I lifted up my hand to the offspring of the house of Jacob, and made myself known to them in the land of Egypt; I lifted up my hand to them, saying, ‘I am the LORD your God.’",
       "links": "<a href='/AIV/2/6/7'>Exod. 6:7</a>; <a href='/AIV/2/3/7'>Exod. 3:7</a>",
-      "comment": "God's covenant formula ('I am the LORD your God') echoes His unique relationship with Israel, later fulfilled in the new covenant."
+      "comment": "God's covenant formula ('I am the LORD your God') echoes His unique relationship with Israel, later fulfilled in the new covenant.",
+      "sectionHeader": "Israel’s Rebellion in Egypt and the Wilderness"
     },
     {
       "pk": 33020006,
@@ -326,7 +328,8 @@
       "verse": 27,
       "text": "Therefore, son of man, speak to the house of Israel and say to them, ‘Thus says the Lord GOD: Even in this, your fathers blasphemed me by committing treachery against me.",
       "links": "<a href='/AIV/19/78/57'>Ps. 78:57</a>",
-      "comment": "Israel’s history is characterized by repeated betrayal, yet God continues to call them to repentance."
+      "comment": "Israel’s history is characterized by repeated betrayal, yet God continues to call them to repentance.",
+      "sectionHeader": "Judgment and Mercy for the House of Israel"
     },
     {
       "pk": 33020028,
@@ -398,7 +401,8 @@
       "verse": 33,
       "text": "As I live, declares the Lord GOD, surely with a mighty hand and an outstretched arm and with wrath poured out I will be king over you.",
       "links": "<a href='/AIV/2/6/6'>Exod. 6:6</a>; <a href='/AIV/19/89/13'>Ps. 89:13</a>",
-      "comment": "God will forcibly reassert His kingship over His people, a foretaste of His ultimate reign in salvation history."
+      "comment": "God will forcibly reassert His kingship over His people, a foretaste of His ultimate reign in salvation history.",
+      "sectionHeader": "Promise of Restoration and Purging of Rebels"
     },
     {
       "pk": 33020034,
@@ -542,7 +546,8 @@
       "verse": 45,
       "text": "And the word of the LORD came to me, saying:",
       "links": "<a href='/AIV/26/14/2'>Ezek. 14:2</a>",
-      "comment": "This marks the start of a new oracle, keeping the prophetic narrative orderly."
+      "comment": "This marks the start of a new oracle, keeping the prophetic narrative orderly.",
+      "sectionHeader": "Prophecy against the South"
     },
     {
       "pk": 33020046,
@@ -593,5 +598,32 @@
       "comment": "Ezekiel’s audience perceives the prophecy as enigmatic. Jesus too spoke in parables, which required spiritual ears to hear (<a href='/AIV/40/13/13'>Matt. 13:13</a>)."
     }
   ],
-  "translatedAt": "2025-12-24T09:09:06.589Z"
+  "translatedAt": "2025-12-24T09:09:06.589Z",
+  "sections": [
+    {
+      "title": "The Elders Inquire of the Lord",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "Israel’s Rebellion in Egypt and the Wilderness",
+      "startVerse": 5,
+      "endVerse": 26
+    },
+    {
+      "title": "Judgment and Mercy for the House of Israel",
+      "startVerse": 27,
+      "endVerse": 32
+    },
+    {
+      "title": "Promise of Restoration and Purging of Rebels",
+      "startVerse": 33,
+      "endVerse": 44
+    },
+    {
+      "title": "Prophecy against the South",
+      "startVerse": 45,
+      "endVerse": 49
+    }
+  ]
 }

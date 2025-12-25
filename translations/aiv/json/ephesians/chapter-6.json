@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Children, obey your parents in the Lord, for this is right.",
       "links": "<a href='/AIV/2/20/12'>Ex. 20:12</a>; <a href='/AIV/5/5/16'>Deut. 5:16</a>",
-      "comment": "Paul grounds the command for children to obey their parents in both natural law and divine command. Note the phrase \"in the Lord,\" which suggests obedience is ultimately directed to God and shapes the Christian understanding of family authority."
+      "comment": "Paul grounds the command for children to obey their parents in both natural law and divine command. Note the phrase \"in the Lord,\" which suggests obedience is ultimately directed to God and shapes the Christian understanding of family authority.",
+      "sectionHeader": "Children and Parents"
     },
     {
       "pk": 56006002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "Bondservants, obey your earthly masters with deep respect and sincerity of heart, as you would Christ.",
       "links": "<a href='/AIV/51/3/22'>Col. 3:22</a>; <a href='/AIV/1/16/16'>1 Chron. 16:16</a>",
-      "comment": "Paul urges slaves to serve their masters sincerely, recognizing Christ as the ultimate Master. This teaching dignifies every form of work when done for the Lord and points to a spiritual understanding of obedience."
+      "comment": "Paul urges slaves to serve their masters sincerely, recognizing Christ as the ultimate Master. This teaching dignifies every form of work when done for the Lord and points to a spiritual understanding of obedience.",
+      "sectionHeader": "Slaves and Masters"
     },
     {
       "pk": 56006006,
@@ -122,7 +124,8 @@
       "verse": 10,
       "text": "Finally, be strong in the Lord and in the power of His might.",
       "links": "<a href='/AIV/23/40/31'>Isa. 40:31</a>; <a href='/AIV/19/27/1'>Ps. 27:1</a>",
-      "comment": "Paul’s exhortation draws on Old Testament motifs of God’s strength. The call to rely not on ourselves, but on divine power, sets the context for spiritual warfare and sanctity."
+      "comment": "Paul’s exhortation draws on Old Testament motifs of God’s strength. The call to rely not on ourselves, but on divine power, sets the context for spiritual warfare and sanctity.",
+      "sectionHeader": "The Armor of God"
     },
     {
       "pk": 56006011,
@@ -254,7 +257,8 @@
       "verse": 21,
       "text": "So that you also may know how I am and what I am doing, Tychicus, the beloved brother and faithful servant in the Lord, will tell you everything.",
       "links": "<a href='/AIV/51/4/7'>Col. 4:7</a>; <a href='/AIV/44/20/4'>Acts 20:4</a>",
-      "comment": "Paul mentions Tychicus, who brings this letter. The personal connection underlines the importance of community, spiritual friendship, and the unity of believers under apostolic leadership."
+      "comment": "Paul mentions Tychicus, who brings this letter. The personal connection underlines the importance of community, spiritual friendship, and the unity of believers under apostolic leadership.",
+      "sectionHeader": "Final Greetings and Blessing"
     },
     {
       "pk": 56006022,
@@ -293,5 +297,27 @@
       "comment": "Paul’s final words are a prayer for sustaining grace. The emphasis on loving Christ \"with undying love\" points to fidelity, spiritual perseverance, and the gift of God's grace to all true disciples."
     }
   ],
-  "translatedAt": "2025-12-24T12:03:46.154Z"
+  "translatedAt": "2025-12-24T12:03:46.154Z",
+  "sections": [
+    {
+      "title": "Children and Parents",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "Slaves and Masters",
+      "startVerse": 5,
+      "endVerse": 9
+    },
+    {
+      "title": "The Armor of God",
+      "startVerse": 10,
+      "endVerse": 20
+    },
+    {
+      "title": "Final Greetings and Blessing",
+      "startVerse": 21,
+      "endVerse": 24
+    }
+  ]
 }

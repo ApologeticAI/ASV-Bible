@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The word of the LORD that came to Joel, son of Pethuel:",
       "links": "<a href='/AIV/24/1/2'>Jer. 1:2</a>; <a href='/AIV/26/1/3'>Ezek. 1:3</a>",
-      "comment": "Joel is introduced as a prophet who receives God's word, echoing the calling of other prophets (Jeremiah, Ezekiel). The strong emphasis on God's direct revelation points to a tradition of divinely guided leadership in the history of Israel, as seen elsewhere in scripture."
+      "comment": "Joel is introduced as a prophet who receives God's word, echoing the calling of other prophets (Jeremiah, Ezekiel). The strong emphasis on God's direct revelation points to a tradition of divinely guided leadership in the history of Israel, as seen elsewhere in scripture.",
+      "sectionHeader": "The Devastation of the Locust Plague"
     },
     {
       "pk": 36001002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "Put on sackcloth and lament, O priests. Wail, O ministers of the altar. Come and spend the night in sackcloth, you who serve my God; for the grain offering and the drink offering are withheld from the house of your God.",
       "links": "<a href='/AIV/03/6/9-13'>Lev. 6:9-13</a>; <a href='/AIV/23/58/5'>Isa. 58:5</a>",
-      "comment": "Joel highlights the special duty of ordained ministers to intercede and mourn for the people. The focus on the altar and offerings points to the particular importance of an organized ministry and liturgy in addressing spiritual crisis."
+      "comment": "Joel highlights the special duty of ordained ministers to intercede and mourn for the people. The focus on the altar and offerings points to the particular importance of an organized ministry and liturgy in addressing spiritual crisis.",
+      "sectionHeader": "A Call to Lamentation and Repentance"
     },
     {
       "pk": 36001014,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "Alas for the day! For the day of the LORD is near, and as destruction from the Almighty it comes.",
       "links": "<a href='/AIV/23/13/6'>Isa. 13:6</a>; <a href='/AIV/30/5/18'>Amos 5:18</a>",
-      "comment": "This anticipates the prophetic 'Day of the LORD,' a theme of judgment and renewal in the Old Testament. Its proximity urges readiness, and later finds fulfillment in eschatological warnings of Christ (see Matt. 24:30)."
+      "comment": "This anticipates the prophetic 'Day of the LORD,' a theme of judgment and renewal in the Old Testament. Its proximity urges readiness, and later finds fulfillment in eschatological warnings of Christ (see Matt. 24:30).",
+      "sectionHeader": "The Day of the LORD Approaches"
     },
     {
       "pk": 36001016,
@@ -245,5 +248,22 @@
       "comment": "All creation longs for God’s restoration, paralleling Psalmist’s cry for God (Psalm 42:1). The spiritual implication is that the proper order—heaven, earth, humanity and creation—is restored only when all turn back to God."
     }
   ],
-  "translatedAt": "2025-12-24T09:40:17.328Z"
+  "translatedAt": "2025-12-24T09:40:17.328Z",
+  "sections": [
+    {
+      "title": "The Devastation of the Locust Plague",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "A Call to Lamentation and Repentance",
+      "startVerse": 13,
+      "endVerse": 14
+    },
+    {
+      "title": "The Day of the LORD Approaches",
+      "startVerse": 15,
+      "endVerse": 20
+    }
+  ]
 }

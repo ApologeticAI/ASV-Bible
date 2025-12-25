@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "After this, Jesus went away to the other side of the Sea of Galilee, which is also called the Sea of Tiberias.",
       "links": "<a href='/AIV/41/6/53'>Mark 6:53</a>",
-      "comment": "The Sea of Galilee was known by different names; Tiberias was a city on its shore. The movement of Jesus shows His outreach beyond a single town, indicating His ministry’s expansion."
+      "comment": "The Sea of Galilee was known by different names; Tiberias was a city on its shore. The movement of Jesus shows His outreach beyond a single town, indicating His ministry’s expansion.",
+      "sectionHeader": "The Feeding of the Five Thousand"
     },
     {
       "pk": 50006002,
@@ -194,7 +195,8 @@
       "verse": 16,
       "text": "When evening came, His disciples went down to the sea,",
       "links": "<a href='/AIV/40/14/24'>Matt. 14:24</a>",
-      "comment": "The setting shifts to the lake, preparing for another miracle—emphasizing the disciples’ dependence on Jesus even in places of uncertainty."
+      "comment": "The setting shifts to the lake, preparing for another miracle—emphasizing the disciples’ dependence on Jesus even in places of uncertainty.",
+      "sectionHeader": "Jesus Walks on the Water"
     },
     {
       "pk": 50006017,
@@ -266,7 +268,8 @@
       "verse": 22,
       "text": "On the next day the crowd that had stayed on the other side of the sea saw that only one boat was there, and that Jesus had not entered the boat with His disciples, but that His disciples had gone away alone.",
       "links": "<a href='/AIV/41/6/45'>Mark 6:45</a>",
-      "comment": "This sets the stage for the crowd’s pursuit and their questioning, underscoring the mysterious and miraculous aspects of Jesus’ movements."
+      "comment": "This sets the stage for the crowd’s pursuit and their questioning, underscoring the mysterious and miraculous aspects of Jesus’ movements.",
+      "sectionHeader": "The Bread of Life Discourse"
     },
     {
       "pk": 50006023,
@@ -722,7 +725,8 @@
       "verse": 60,
       "text": "Many of His disciples, when they heard this, said, \"This is a hard saying; who can accept it?\"",
       "links": "<a href='/AIV/43/3/4'>John 3:4</a>",
-      "comment": "Shows that even followers struggle with accepting literal participation—highlighting the depth and mystery of Jesus’ teachings."
+      "comment": "Shows that even followers struggle with accepting literal participation—highlighting the depth and mystery of Jesus’ teachings.",
+      "sectionHeader": "The Words of Eternal Life and Peter’s Confession"
     },
     {
       "pk": 50006061,
@@ -857,5 +861,27 @@
       "comment": "Judas’ betrayal serves as a warning and prelude to the Passion. It also underscores the reality that even among close followers, true allegiance cannot be assumed."
     }
   ],
-  "translatedAt": "2025-12-24T11:05:52.500Z"
+  "translatedAt": "2025-12-24T11:05:52.500Z",
+  "sections": [
+    {
+      "title": "The Feeding of the Five Thousand",
+      "startVerse": 1,
+      "endVerse": 15
+    },
+    {
+      "title": "Jesus Walks on the Water",
+      "startVerse": 16,
+      "endVerse": 21
+    },
+    {
+      "title": "The Bread of Life Discourse",
+      "startVerse": 22,
+      "endVerse": 59
+    },
+    {
+      "title": "The Words of Eternal Life and Peter’s Confession",
+      "startVerse": 60,
+      "endVerse": 71
+    }
+  ]
 }

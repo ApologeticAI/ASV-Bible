@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Do you truly speak what is just, O rulers? Do you judge with uprightness, O sons of man?",
       "links": "<a href='/AIV/19/82/2'>Ps. 82:2</a>; <a href='/AIV/20/16/2'>Prov. 16:2</a>",
-      "comment": "The Psalm opens addressing human leaders, questioning whether they render true judgment. This verse underscores the expectation of human authority reflecting God's justice. In the larger biblical narrative, just rulers are a sign of God's order (see Ps. 82:2), and their failure points to the need for a divinely guided authority."
+      "comment": "The Psalm opens addressing human leaders, questioning whether they render true judgment. This verse underscores the expectation of human authority reflecting God's justice. In the larger biblical narrative, just rulers are a sign of God's order (see Ps. 82:2), and their failure points to the need for a divinely guided authority.",
+      "sectionHeader": "Denunciation of Unjust Judges"
     },
     {
       "pk": 23058002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "O God, break the teeth in their mouths; tear out the fangs of these young lions, O LORD.",
       "links": "<a href='/AIV/19/3/7'>Ps. 3:7</a>; <a href='/AIV/19/10/15'>Ps. 10:15</a>",
-      "comment": "This prayer for judgment uses graphic metaphor: disarming the wicked is asking God to render evil powerless. The 'fangs' refer to their power to harm—echoes of both divine justice and the need for God’s intervention to establish righteousness."
+      "comment": "This prayer for judgment uses graphic metaphor: disarming the wicked is asking God to render evil powerless. The 'fangs' refer to their power to harm—echoes of both divine justice and the need for God’s intervention to establish righteousness.",
+      "sectionHeader": "Prayer for the Punishment of the Wicked"
     },
     {
       "pk": 23058007,
@@ -122,7 +124,8 @@
       "verse": 10,
       "text": "The righteous will rejoice when he sees vengeance; he will wash his feet in the blood of the wicked.",
       "links": "<a href='/AIV/19/68/23'>Ps. 68:23</a>; <a href='/AIV/66/19/2'>Rev. 19:2</a>",
-      "comment": "This striking image describes righteous joy at the manifestation of God's justice. While vengeance is God’s alone (cf. Rom. 12:19), the faithful rejoice when wrongs are set right and evil is overcome—anticipating Christ’s ultimate victory (Rev. 19:2)."
+      "comment": "This striking image describes righteous joy at the manifestation of God's justice. While vengeance is God’s alone (cf. Rom. 12:19), the faithful rejoice when wrongs are set right and evil is overcome—anticipating Christ’s ultimate victory (Rev. 19:2).",
+      "sectionHeader": "The Triumph of the Righteous"
     },
     {
       "pk": 23058011,
@@ -137,5 +140,22 @@
       "comment": "This closing affirmation declares faith in divine justice and reward for those who follow God. This hope for true judgment and reward is fulfilled in the New Testament revelation, where ultimate justice is found in Christ as the true Judge (cf. Matt. 25:31-46)."
     }
   ],
-  "translatedAt": "2025-12-24T06:18:54.185Z"
+  "translatedAt": "2025-12-24T06:18:54.185Z",
+  "sections": [
+    {
+      "title": "Denunciation of Unjust Judges",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Prayer for the Punishment of the Wicked",
+      "startVerse": 6,
+      "endVerse": 9
+    },
+    {
+      "title": "The Triumph of the Righteous",
+      "startVerse": 10,
+      "endVerse": 11
+    }
+  ]
 }

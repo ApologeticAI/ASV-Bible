@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The LORD spoke to Moses, saying,",
       "links": "<a href='/AIV/2/29/4'>Ex. 29:4</a>; <a href='/AIV/4/3/1'>Num. 3:1</a>",
-      "comment": "This introductory phrase, common in Leviticus, emphasizes God as the direct source of revelation and law—a reminder of His authority and the seriousness of the priesthood."
+      "comment": "This introductory phrase, common in Leviticus, emphasizes God as the direct source of revelation and law—a reminder of His authority and the seriousness of the priesthood.",
+      "sectionHeader": "The Consecration of Aaron and His Sons"
     },
     {
       "pk": 3008002,
@@ -170,7 +171,8 @@
       "verse": 14,
       "text": "He brought the bull of the sin offering, and Aaron and his sons laid their hands on the head of the bull for the sin offering.",
       "links": "<a href='/AIV/2/29/10-14'>Ex. 29:10-14</a>; <a href='/AIV/3/4/4'>Lev. 4:4</a>",
-      "comment": "Laying hands represents identification and transfer of sin; this rite anticipates Christ’s vicarious sacrifice for sin."
+      "comment": "Laying hands represents identification and transfer of sin; this rite anticipates Christ’s vicarious sacrifice for sin.",
+      "sectionHeader": "The Sin Offering for Ordination"
     },
     {
       "pk": 3008015,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "Then he presented the ram for the burnt offering, and Aaron and his sons laid their hands on the head of the ram.",
       "links": "<a href='/AIV/2/29/15'>Ex. 29:15</a>; <a href='/AIV/3/1/4'>Lev. 1:4</a>",
-      "comment": "Burnt offering represents total dedication; hand-laying maintains ritual continuity—Christ offered Himself wholly for our salvation."
+      "comment": "Burnt offering represents total dedication; hand-laying maintains ritual continuity—Christ offered Himself wholly for our salvation.",
+      "sectionHeader": "The Burnt and Ordination Offerings"
     },
     {
       "pk": 3008019,
@@ -362,7 +365,8 @@
       "verse": 30,
       "text": "Then Moses took some of the anointing oil and some of the blood that was on the altar and sprinkled them on Aaron, his garments, Aaron’s sons and their garments. He consecrated Aaron, his garments, and his sons and their garments together.",
       "links": "<a href='/AIV/2/29/21'>Ex. 29:21</a>; <a href='/AIV/58/9/22'>Heb. 9:22</a>",
-      "comment": "Blood and oil, together, reveal the deep spiritual symbolism in consecration—combining forgiveness, cleansing, and anointing, echoes in baptism and ordination rites."
+      "comment": "Blood and oil, together, reveal the deep spiritual symbolism in consecration—combining forgiveness, cleansing, and anointing, echoes in baptism and ordination rites.",
+      "sectionHeader": "The Ordination Ritual and Instructions"
     },
     {
       "pk": 3008031,
@@ -437,5 +441,27 @@
       "comment": "Their obedience completes the priestly ordination, a model for future ministry in the visible Church, safeguarding God’s presence and blessing among His people."
     }
   ],
-  "translatedAt": "2025-12-24T01:14:07.286Z"
+  "translatedAt": "2025-12-24T01:14:07.286Z",
+  "sections": [
+    {
+      "title": "The Consecration of Aaron and His Sons",
+      "startVerse": 1,
+      "endVerse": 13
+    },
+    {
+      "title": "The Sin Offering for Ordination",
+      "startVerse": 14,
+      "endVerse": 17
+    },
+    {
+      "title": "The Burnt and Ordination Offerings",
+      "startVerse": 18,
+      "endVerse": 29
+    },
+    {
+      "title": "The Ordination Ritual and Instructions",
+      "startVerse": 30,
+      "endVerse": 36
+    }
+  ]
 }

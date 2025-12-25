@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Job continued speaking and said:",
       "links": "<a href='/AIV/22/27/1'>Job 27:1</a>; <a href='/AIV/22/32/1'>Job 32:1</a>",
-      "comment": "This introductory phrase marks the beginning of Job's monologue as he recalls his former blessed condition, creating contrast to his current suffering."
+      "comment": "This introductory phrase marks the beginning of Job's monologue as he recalls his former blessed condition, creating contrast to his current suffering.",
+      "sectionHeader": "Job Remembers His Former Blessings"
     },
     {
       "pk": 22029002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "because I delivered the poor who cried for help, and the fatherless who had no one to assist him.",
       "links": "<a href='/AIV/19/72/12'>Ps. 72:12</a>; <a href='/AIV/20/14/21'>Prov. 14:21</a>; <a href='/AIV/59/1/27'>James 1:27</a>",
-      "comment": "Job’s care for the poor and orphan draws a direct parallel with later Christian teaching about serving the least (Matt. 25:40), hinting at the future centrality of mercy acts in the faith."
+      "comment": "Job’s care for the poor and orphan draws a direct parallel with later Christian teaching about serving the least (Matt. 25:40), hinting at the future centrality of mercy acts in the faith.",
+      "sectionHeader": "Job's Righteousness and Compassion"
     },
     {
       "pk": 22029013,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "Then I thought, ‘I shall die in my nest, and multiply my days as the sand;",
       "links": "<a href='/AIV/01/22/17'>Gen. 22:17</a>; <a href='/AIV/19/91/16'>Ps. 91:16</a>",
-      "comment": "Job’s hope for peace and longevity recalls promises of God to the patriarchs, and subtly echoes themes of rest and protection."
+      "comment": "Job’s hope for peace and longevity recalls promises of God to the patriarchs, and subtly echoes themes of rest and protection.",
+      "sectionHeader": "Job's Honor and Authority Among Men"
     },
     {
       "pk": 22029019,
@@ -305,5 +308,22 @@
       "comment": "Job as chief, king, and consoler typifies both authority and comforter roles, deeply resonating with later spiritual shepherding and Christological fulfillment (Matt. 5:4)."
     }
   ],
-  "translatedAt": "2025-12-24T05:52:06.575Z"
+  "translatedAt": "2025-12-24T05:52:06.575Z",
+  "sections": [
+    {
+      "title": "Job Remembers His Former Blessings",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "Job's Righteousness and Compassion",
+      "startVerse": 12,
+      "endVerse": 17
+    },
+    {
+      "title": "Job's Honor and Authority Among Men",
+      "startVerse": 18,
+      "endVerse": 25
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "About that time, King Herod stretched out his hand to harm certain people belonging to the church.",
       "links": "<a href='/AIV/40/2/1'>Matt. 2:1</a>; <a href='/AIV/44/4/3'>Acts 4:3</a>",
-      "comment": "Herod’s persecution reflects the opposition the early believers faced. The mention of 'church' points to the visible, organized community of believers, emphasizing their unity."
+      "comment": "Herod’s persecution reflects the opposition the early believers faced. The mention of 'church' points to the visible, organized community of believers, emphasizing their unity.",
+      "sectionHeader": "James Is Killed and Peter Imprisoned"
     },
     {
       "pk": 51012002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "Now when Herod was about to bring him out, on that night, Peter was sleeping between two soldiers, bound with two chains, and sentries before the door were guarding the prison.",
       "links": "<a href='/AIV/44/16/23-24'>Acts 16:23-24</a>",
-      "comment": "Peter’s calm despite imminent execution mirrors Christ’s peace before His own Passion. The detail underscores Peter’s trust in God’s will."
+      "comment": "Peter’s calm despite imminent execution mirrors Christ’s peace before His own Passion. The detail underscores Peter’s trust in God’s will.",
+      "sectionHeader": "Peter Is Rescued by an Angel"
     },
     {
       "pk": 51012007,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "And when he realized this, he went to the house of Mary, the mother of John called Mark, where many were gathered together and praying.",
       "links": "<a href='/AIV/44/1/14'>Acts 1:14</a>; <a href='/AIV/44/15/37'>Acts 15:37</a>",
-      "comment": "Gathering at Mary’s house displays the early church’s unity and devotion, and foreshadows John Mark’s role in spreading the Gospel tradition."
+      "comment": "Gathering at Mary’s house displays the early church’s unity and devotion, and foreshadows John Mark’s role in spreading the Gospel tradition.",
+      "sectionHeader": "Peter Visits the House of Mary"
     },
     {
       "pk": 51012013,
@@ -242,7 +245,8 @@
       "verse": 20,
       "text": "Now Herod was angry with the people of Tyre and Sidon. And they came to him with one accord, and having persuaded Blastus, the king’s chamberlain, they asked for peace, because their country depended on the king’s country for food.",
       "links": "<a href='/AIV/11/5/1'>1 Kings 5:1</a>",
-      "comment": "This interaction highlights political dependence and negotiation, setting the stage for God’s sovereign judgment of prideful rulers."
+      "comment": "This interaction highlights political dependence and negotiation, setting the stage for God’s sovereign judgment of prideful rulers.",
+      "sectionHeader": "The Death of Herod"
     },
     {
       "pk": 51012021,
@@ -302,8 +306,36 @@
       "verse": 25,
       "text": "And Barnabas and Saul returned from Jerusalem when they had completed their service, bringing with them John, whose other name was Mark.",
       "links": "<a href='/AIV/44/11/30'>Acts 11:30</a>; <a href='/AIV/44/13/5'>Acts 13:5</a>",
-      "comment": "The mention of service fulfilled and bringing John Mark points to the importance of apostolic succession and reliable transmission of authentic teaching within the church."
+      "comment": "The mention of service fulfilled and bringing John Mark points to the importance of apostolic succession and reliable transmission of authentic teaching within the church.",
+      "sectionHeader": "Barnabas and Saul Return to Antioch"
     }
   ],
-  "translatedAt": "2025-12-24T11:24:43.216Z"
+  "translatedAt": "2025-12-24T11:24:43.216Z",
+  "sections": [
+    {
+      "title": "James Is Killed and Peter Imprisoned",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Peter Is Rescued by an Angel",
+      "startVerse": 6,
+      "endVerse": 11
+    },
+    {
+      "title": "Peter Visits the House of Mary",
+      "startVerse": 12,
+      "endVerse": 19
+    },
+    {
+      "title": "The Death of Herod",
+      "startVerse": 20,
+      "endVerse": 24
+    },
+    {
+      "title": "Barnabas and Saul Return to Antioch",
+      "startVerse": 25,
+      "endVerse": 25
+    }
+  ]
 }

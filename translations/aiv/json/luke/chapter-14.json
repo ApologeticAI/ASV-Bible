@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "One Sabbath, as Jesus went to eat at the house of a leader among the Pharisees, they were watching Him closely.",
       "links": "<a href='/AIV/40/12/10'>Matt. 12:10</a>; <a href='/AIV/42/7/36'>Luke 7:36</a>",
-      "comment": "In this scene, Jesus attends a meal at a Pharisee's house on the Sabbath, setting up a context for revealing His authority over the Law. Note the tension with the religious leaders (see Matt. 12:10), and the reverence for Sabbath traditions."
+      "comment": "In this scene, Jesus attends a meal at a Pharisee's house on the Sabbath, setting up a context for revealing His authority over the Law. Note the tension with the religious leaders (see Matt. 12:10), and the reverence for Sabbath traditions.",
+      "sectionHeader": "Healing of the Man with Dropsy"
     },
     {
       "pk": 49014002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "When He noticed how the guests chose the places of honor, He told them a parable.",
       "links": "<a href='/AIV/20/25/6-7'>Prov. 25:6-7</a>",
-      "comment": "Jesus uses the occasion to teach humility, reflecting Old Testament wisdom (Prov. 25:6–7) and preparing the way for spiritual elevation through humility."
+      "comment": "Jesus uses the occasion to teach humility, reflecting Old Testament wisdom (Prov. 25:6–7) and preparing the way for spiritual elevation through humility.",
+      "sectionHeader": "A Lesson on Humility"
     },
     {
       "pk": 49014008,
@@ -111,5 +113,17 @@
       "text": "'and he who invited both you and him will come and say to you, "
     }
   ],
-  "translatedAt": "2025-12-24T10:51:33.641Z"
+  "translatedAt": "2025-12-24T10:51:33.641Z",
+  "sections": [
+    {
+      "title": "Healing of the Man with Dropsy",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "A Lesson on Humility",
+      "startVerse": 7,
+      "endVerse": 9
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "These are the family heads and their genealogical records, those who went up with me from Babylon during the reign of King Artaxerxes:",
       "links": "<a href='/AIV/15/2/1'>Ezra 2:1</a>; <a href='/AIV/16/7/7'>Neh. 7:7</a>",
-      "comment": "This verse introduces the genealogy of those returning with Ezra. The historical listings of names underscore the continuity and faithfulness of God's people, which is often highlighted throughout Scripture (see also Neh. 7:7)."
+      "comment": "This verse introduces the genealogy of those returning with Ezra. The historical listings of names underscore the continuity and faithfulness of God's people, which is often highlighted throughout Scripture (see also Neh. 7:7).",
+      "sectionHeader": "List of Those Returning with Ezra"
     },
     {
       "pk": 15008002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "I gathered them by the river that runs to Ahava, and we camped there three days. I reviewed the people and the priests, and found none of the sons of Levi there.",
       "links": "<a href='/AIV/04/18/23'>Num. 18:23</a>; <a href='/AIV/15/7/7'>Ezra 7:7</a>",
-      "comment": "Ezra's concern for the presence of Levites highlights the necessity of proper priestly order for true worship—an important principle for rightly ordered worship communities."
+      "comment": "Ezra's concern for the presence of Levites highlights the necessity of proper priestly order for true worship—an important principle for rightly ordered worship communities.",
+      "sectionHeader": "Levites and Temple Servants Summoned"
     },
     {
       "pk": 15008016,
@@ -254,7 +256,8 @@
       "verse": 21,
       "text": "Then I proclaimed a fast there at the river Ahava, that we might humble ourselves before our God, to seek from Him a safe journey for ourselves, our children, and all our possessions.",
       "links": "<a href='/AIV/10/12/16'>2 Sam. 12:16</a>; <a href='/AIV/40/6/16-18'>Matt. 6:16–18</a>",
-      "comment": "Fasting and humbling oneself is a spiritual practice linked to deeper dependence on God—a discipline foundational for both Old and New Covenant believers."
+      "comment": "Fasting and humbling oneself is a spiritual practice linked to deeper dependence on God—a discipline foundational for both Old and New Covenant believers.",
+      "sectionHeader": "Fasting and Prayer for Protection"
     },
     {
       "pk": 15008022,
@@ -290,7 +293,8 @@
       "verse": 24,
       "text": "Then I set apart twelve of the leading priests: Sherebiah, Hashabiah, and ten of their brothers with them,",
       "links": "<a href='/AIV/15/2/36'>Ezra 2:36</a>; <a href='/AIV/40/10/2-4'>Matt. 10:2-4</a>",
-      "comment": "Selecting twelve priests echoes symbolic completeness in Scripture (see also the twelve Apostles). Sacred leadership is divinely instituted and preserved."
+      "comment": "Selecting twelve priests echoes symbolic completeness in Scripture (see also the twelve Apostles). Sacred leadership is divinely instituted and preserved.",
+      "sectionHeader": "Assignment of the Offerings"
     },
     {
       "pk": 15008025,
@@ -374,7 +378,8 @@
       "verse": 31,
       "text": "Then we departed from the river Ahava on the twelfth day of the first month to go to Jerusalem. The hand of our God was upon us, and He rescued us from the hand of the enemy and from ambushes on the way.",
       "links": "<a href='/AIV/19/121/7-8'>Ps. 121:7-8</a>",
-      "comment": "God’s protecting hand over journeys and missions is an ongoing theme pointing to His providential care for His people, especially those bringing offerings to Him."
+      "comment": "God’s protecting hand over journeys and missions is an ongoing theme pointing to His providential care for His people, especially those bringing offerings to Him.",
+      "sectionHeader": "Arrival in Jerusalem and Presentation of Offerings"
     },
     {
       "pk": 15008032,
@@ -437,5 +442,32 @@
       "comment": "The cooperation of civil authorities with temple leadership shows the harmony of sacred and secular spheres, and the necessity of submission to legitimate authority for the welfare of God’s people."
     }
   ],
-  "translatedAt": "2025-12-24T04:44:40.943Z"
+  "translatedAt": "2025-12-24T04:44:40.943Z",
+  "sections": [
+    {
+      "title": "List of Those Returning with Ezra",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "Levites and Temple Servants Summoned",
+      "startVerse": 15,
+      "endVerse": 20
+    },
+    {
+      "title": "Fasting and Prayer for Protection",
+      "startVerse": 21,
+      "endVerse": 23
+    },
+    {
+      "title": "Assignment of the Offerings",
+      "startVerse": 24,
+      "endVerse": 30
+    },
+    {
+      "title": "Arrival in Jerusalem and Presentation of Offerings",
+      "startVerse": 31,
+      "endVerse": 36
+    }
+  ]
 }

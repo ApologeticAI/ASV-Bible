@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then I looked again at all the oppression that is done under the sun. Behold, the tears of the oppressed, and they have no one to comfort them! On the side of their oppressors there is power, but they have no one to comfort them.",
       "links": "<a href='/AIV/21/5/8'>Eccl. 5:8</a>; <a href='/AIV/18/24/12'>Job 24:12</a>",
-      "comment": "Here, the Preacher mourns the injustice and suffering in the world, highlighting the loneliness and helplessness of the victims. This underscores a need for a righteous source of comfort and justice, ultimately pointing to the consolation and mercy that is only perfectly provided by God (cf. 2 Cor. 1:3-4)."
+      "comment": "Here, the Preacher mourns the injustice and suffering in the world, highlighting the loneliness and helplessness of the victims. This underscores a need for a righteous source of comfort and justice, ultimately pointing to the consolation and mercy that is only perfectly provided by God (cf. 2 Cor. 1:3-4).",
+      "sectionHeader": "The Oppression of the Helpless"
     },
     {
       "pk": 25004002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "Then I saw that all toil and every skillful work spring from a man’s rivalry with his neighbor. This also is vanity and a chasing after wind.",
       "links": "<a href='/AIV/21/2/21'>Eccl. 2:21</a>; <a href='/AIV/59/3/16'>Jas. 3:16</a>",
-      "comment": "Human ambition is often fueled by envy, leading only to emptiness. The teaching here challenges the believer to detach from pride and rivalry, reflecting the virtue of humility taught throughout Scripture (cf. Phil. 2:3-4)."
+      "comment": "Human ambition is often fueled by envy, leading only to emptiness. The teaching here challenges the believer to detach from pride and rivalry, reflecting the virtue of humility taught throughout Scripture (cf. Phil. 2:3-4).",
+      "sectionHeader": "The Vanity of Toil and Rivalry"
     },
     {
       "pk": 25004005,
@@ -86,7 +88,8 @@
       "verse": 7,
       "text": "Again, I saw vanity under the sun:",
       "links": "",
-      "comment": "The Preacher continues, exploring the futility found in earthly life apart from God. This repeated observation sets the stage for yearning for something lasting and meaningful, fulfilled ultimately in following Christ (John 6:27)."
+      "comment": "The Preacher continues, exploring the futility found in earthly life apart from God. This repeated observation sets the stage for yearning for something lasting and meaningful, fulfilled ultimately in following Christ (John 6:27).",
+      "sectionHeader": "The Value of Companionship"
     },
     {
       "pk": 25004008,
@@ -158,7 +161,8 @@
       "verse": 13,
       "text": "Better is a poor and wise youth than an old and foolish king who no longer knows how to take advice.",
       "links": "<a href='/AIV/21/9/15'>Eccl. 9:15</a>; <a href='/AIV/12/41/39'>Gen. 41:39-40</a>",
-      "comment": "Wisdom is more valuable than status or age. Humility and the willingness to receive instruction are vital for leaders and all God’s people (Prov. 12:15)."
+      "comment": "Wisdom is more valuable than status or age. Humility and the willingness to receive instruction are vital for leaders and all God’s people (Prov. 12:15).",
+      "sectionHeader": "The Futility of Kingship and Popularity"
     },
     {
       "pk": 25004014,
@@ -197,5 +201,27 @@
       "comment": "Fame and influence are ultimately temporary and unsatisfying. This reiterates the vanity of worldly pursuits and subtly points to the importance of seeking something eternal—namely, participation in the unbroken unity and faithfulness found in the true body of Christ."
     }
   ],
-  "translatedAt": "2025-12-24T07:08:23.206Z"
+  "translatedAt": "2025-12-24T07:08:23.206Z",
+  "sections": [
+    {
+      "title": "The Oppression of the Helpless",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "The Vanity of Toil and Rivalry",
+      "startVerse": 4,
+      "endVerse": 6
+    },
+    {
+      "title": "The Value of Companionship",
+      "startVerse": 7,
+      "endVerse": 12
+    },
+    {
+      "title": "The Futility of Kingship and Popularity",
+      "startVerse": 13,
+      "endVerse": 16
+    }
+  ]
 }

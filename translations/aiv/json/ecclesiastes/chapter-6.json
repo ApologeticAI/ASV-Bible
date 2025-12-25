@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "There is an evil that I have seen under the sun, and it weighs heavily upon mankind:",
       "links": "<a href='/AIV/21/8/14'>Eccl. 8:14</a>; <a href='/AIV/18/5/7'>Job 5:7</a>",
-      "comment": "The theme of futility and suffering continues here. 'Evil under the sun' is a common refrain for life's apparent unfairness (cf. 8:14). This reflects the reality of a fallen world awaiting redemption (see Rom. 8:20-22)."
+      "comment": "The theme of futility and suffering continues here. 'Evil under the sun' is a common refrain for life's apparent unfairness (cf. 8:14). This reflects the reality of a fallen world awaiting redemption (see Rom. 8:20-22).",
+      "sectionHeader": "The Vanity of Wealth Without Enjoyment"
     },
     {
       "pk": 25006002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "If a man fathers a hundred children and lives many years, so that the days of his years are many, but his soul is not satisfied with life's good things, and he has no burial, I say that a stillborn child is better off than he.",
       "links": "<a href='/AIV/21/4/3'>Eccl. 4:3</a>; <a href='/AIV/21/2/15-16'>Eccl. 2:15-16</a>",
-      "comment": "The value of earthly success is questioned absent spiritual fulfillment. A proper burial was a sign of honor (see Gen. 23:3-20), and to be denied even that signifies profound emptiness. Christ points to the importance of fullness of life in Him (John 10:10)."
+      "comment": "The value of earthly success is questioned absent spiritual fulfillment. A proper burial was a sign of honor (see Gen. 23:3-20), and to be denied even that signifies profound emptiness. Christ points to the importance of fullness of life in Him (John 10:10).",
+      "sectionHeader": "The Futility of Unsatisfied Life and Endless Desires"
     },
     {
       "pk": 25006004,
@@ -122,7 +124,8 @@
       "verse": 10,
       "text": "Whatever has come to be has already been named, and it is known what man is; and he cannot contend with one who is mightier than he.",
       "links": "<a href='/AIV/21/1/9'>Eccl. 1:9</a>; <a href='/AIV/18/9/12'>Job 9:12</a>",
-      "comment": "God's sovereignty in ordaining events is stressed. Man’s inability to contend with his Maker is a call to humble trust. Compare to Isa. 45:9 and Rom. 9:20, inviting deeper surrender to divine authority."
+      "comment": "God's sovereignty in ordaining events is stressed. Man’s inability to contend with his Maker is a call to humble trust. Compare to Isa. 45:9 and Rom. 9:20, inviting deeper surrender to divine authority.",
+      "sectionHeader": "The Limitations of Human Understanding"
     },
     {
       "pk": 25006011,
@@ -149,5 +152,22 @@
       "comment": "The limits of human wisdom point to the need for revelation. True understanding comes through trust in God’s plan. This anticipates the fuller revelation brought in Christ, who reveals both the Father and the way to eternal life (see John 14:6)."
     }
   ],
-  "translatedAt": "2025-12-24T07:09:05.799Z"
+  "translatedAt": "2025-12-24T07:09:05.799Z",
+  "sections": [
+    {
+      "title": "The Vanity of Wealth Without Enjoyment",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "The Futility of Unsatisfied Life and Endless Desires",
+      "startVerse": 3,
+      "endVerse": 9
+    },
+    {
+      "title": "The Limitations of Human Understanding",
+      "startVerse": 10,
+      "endVerse": 12
+    }
+  ]
 }

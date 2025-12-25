@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In those days John the Baptist came, preaching in the wilderness of Judea,",
       "links": "<a href='/AIV/42/1/80'>Luke 1:80</a>; <a href='/AIV/43/1/6'>John 1:6</a>",
-      "comment": "John appears as a prophet after centuries of silence, recalling the prophetic tradition of Israel. His arrival in the wilderness connects to earlier prophets who met God in desert places, such as Moses (Exod. 3:1-2)."
+      "comment": "John appears as a prophet after centuries of silence, recalling the prophetic tradition of Israel. His arrival in the wilderness connects to earlier prophets who met God in desert places, such as Moses (Exod. 3:1-2).",
+      "sectionHeader": "The Preaching of John the Baptist"
     },
     {
       "pk": 47003002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "Then Jesus came from Galilee to the Jordan to John, to be baptized by him.",
       "links": "<a href='/AIV/41/1/9'>Mark 1:9</a>; <a href='/AIV/43/1/29-34'>John 1:29-34</a>",
-      "comment": "Jesus’ willingness to be baptized, though sinless (cf. Heb. 4:15), shows His solidarity with humanity and an example of humility. His actions prefigure the sacramental life He will give to the Church."
+      "comment": "Jesus’ willingness to be baptized, though sinless (cf. Heb. 4:15), shows His solidarity with humanity and an example of humility. His actions prefigure the sacramental life He will give to the Church.",
+      "sectionHeader": "The Baptism of Jesus"
     },
     {
       "pk": 47003014,
@@ -209,5 +211,17 @@
       "comment": "This voice from heaven echoes Psalm 2:7 and Isaiah 42:1, affirming Jesus’ unique Sonship and divine approval. This is a high Christological statement, foundational for understanding who Jesus is—truly the Son of God, fully pleasing to the Father."
     }
   ],
-  "translatedAt": "2025-12-24T10:02:45.259Z"
+  "translatedAt": "2025-12-24T10:02:45.259Z",
+  "sections": [
+    {
+      "title": "The Preaching of John the Baptist",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "The Baptism of Jesus",
+      "startVerse": 13,
+      "endVerse": 17
+    }
+  ]
 }

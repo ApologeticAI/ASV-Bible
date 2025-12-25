@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The words of Nehemiah, son of Hacaliah. In the month of Chislev, in the twentieth year, while I was in the citadel of Susa,",
       "links": "<a href='/AIV/17/1/2'>Esth. 1:2</a>; <a href='/AIV/16/2/1'>Neh. 2:1</a>",
-      "comment": "The book's introduction roots Nehemiah within Jewish history and the Persian Empire. The mention of 'the twentieth year' refers to King Artaxerxes I, situating the events around 445 BC. Susa was a major Persian capital, emphasizing the exile context."
+      "comment": "The book's introduction roots Nehemiah within Jewish history and the Persian Empire. The mention of 'the twentieth year' refers to King Artaxerxes I, situating the events around 445 BC. Susa was a major Persian capital, emphasizing the exile context.",
+      "sectionHeader": "Nehemiah Learns of Jerusalem's Ruin"
     },
     {
       "pk": 16001002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "When I heard these words, I sat down, wept, and mourned for days. I fasted and prayed before the God of heaven.",
       "links": "<a href='/AIV/10/12/16'>2 Sam. 12:16</a>; <a href='/AIV/40/5/4'>Matt. 5:4</a>",
-      "comment": "Nehemiah’s reaction models deep intercessory prayer—mourning, fasting, and seeking God’s mercy reflects the biblical pattern of seeking reconciliation and restoration. Here, prayer and fasting precede action, hinting at the importance of both interior devotion and exterior works."
+      "comment": "Nehemiah’s reaction models deep intercessory prayer—mourning, fasting, and seeking God’s mercy reflects the biblical pattern of seeking reconciliation and restoration. Here, prayer and fasting precede action, hinting at the importance of both interior devotion and exterior works.",
+      "sectionHeader": "Nehemiah's Prayer for His People"
     },
     {
       "pk": 16001005,
@@ -137,5 +139,17 @@
       "comment": "Nehemiah closes with petition for favor, emphasizing intercessory prayer and service tied to his vocation as cupbearer—a trusted royal official. Here is a model of lay sanctity and active faith. The phrase 'delight to honor your name' points toward the importance of worship and reverence."
     }
   ],
-  "translatedAt": "2025-12-24T04:46:03.538Z"
+  "translatedAt": "2025-12-24T04:46:03.538Z",
+  "sections": [
+    {
+      "title": "Nehemiah Learns of Jerusalem's Ruin",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "Nehemiah's Prayer for His People",
+      "startVerse": 4,
+      "endVerse": 11
+    }
+  ]
 }

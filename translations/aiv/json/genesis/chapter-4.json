@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now Adam knew Eve his wife, and she conceived and bore Cain, saying, 'I have gotten a man with the help of the Lord.'",
       "links": "<a href='/AIV/1/3/20'>Gen. 3:20</a>; <a href='/AIV/19/127/3'>Ps. 127:3</a>",
-      "comment": "The phrase 'knew' refers to intimate marital union. Eve recognizes God’s active role in the birth of her child, a theme pointing toward the divine gift of human life."
+      "comment": "The phrase 'knew' refers to intimate marital union. Eve recognizes God’s active role in the birth of her child, a theme pointing toward the divine gift of human life.",
+      "sectionHeader": "Cain and Abel"
     },
     {
       "pk": 1004002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Cain spoke to Abel his brother. And when they were in the field, Cain rose up against his brother Abel and killed him.",
       "links": "<a href='/AIV/62/3/12'>1 John 3:12</a>; <a href='/AIV/40/23/35'>Matt. 23:35</a>",
-      "comment": "The first murder is not just a historical fact but a sign of separation caused by sin. Abel’s death prefigures innocent suffering in Scripture and is a type of Christ’s sacrificial death."
+      "comment": "The first murder is not just a historical fact but a sign of separation caused by sin. Abel’s death prefigures innocent suffering in Scripture and is a type of Christ’s sacrificial death.",
+      "sectionHeader": "Cain Murders Abel"
     },
     {
       "pk": 1004009,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "And now you are cursed from the ground, which has opened its mouth to receive your brother’s blood from your hand.",
       "links": "<a href='/AIV/1/3/17'>Gen. 3:17</a>; <a href='/AIV/19/106/18'>Ps. 106:18</a>",
-      "comment": "The curse deepens. Unlike Adam, who was cursed for disobedience, Cain is cursed directly for violence, showing the escalating effects of sin."
+      "comment": "The curse deepens. Unlike Adam, who was cursed for disobedience, Cain is cursed directly for violence, showing the escalating effects of sin.",
+      "sectionHeader": "The Curse of Cain"
     },
     {
       "pk": 1004012,
@@ -206,7 +209,8 @@
       "verse": 17,
       "text": "Cain knew his wife, and she conceived and bore Enoch. Cain was building a city, and he named the city after his son Enoch.",
       "links": "<a href='/AIV/1/5/18'>Gen. 5:18</a>",
-      "comment": "The act of building a city marks the beginning of human civilization, though in the context of Cain’s alienation, this parallels later themes of cities but also human estrangement from God."
+      "comment": "The act of building a city marks the beginning of human civilization, though in the context of Cain’s alienation, this parallels later themes of cities but also human estrangement from God.",
+      "sectionHeader": "The Descendants of Cain"
     },
     {
       "pk": 1004018,
@@ -302,7 +306,8 @@
       "verse": 25,
       "text": "And Adam knew his wife again, and she bore a son and named him Seth, for she said, 'God has appointed for me another offspring instead of Abel, for Cain killed him.'",
       "links": "<a href='/AIV/1/5/3'>Gen. 5:3</a>; <a href='/AIV/42/3/38'>Luke 3:38</a>",
-      "comment": "The birth of Seth marks renewal and hope after tragedy. Seth’s line is preserved, ultimately leading to the fulfillment of God’s plan in salvation history."
+      "comment": "The birth of Seth marks renewal and hope after tragedy. Seth’s line is preserved, ultimately leading to the fulfillment of God’s plan in salvation history.",
+      "sectionHeader": "Birth of Seth and Enosh"
     },
     {
       "pk": 1004026,
@@ -317,5 +322,32 @@
       "comment": "The beginning of public worship here anticipates both individual and communal prayer traditions, later developed in the history of the church, which carries this calling forward through centuries of liturgy and prayer."
     }
   ],
-  "translatedAt": "2025-12-24T00:12:30.916Z"
+  "translatedAt": "2025-12-24T00:12:30.916Z",
+  "sections": [
+    {
+      "title": "Cain and Abel",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Cain Murders Abel",
+      "startVerse": 8,
+      "endVerse": 10
+    },
+    {
+      "title": "The Curse of Cain",
+      "startVerse": 11,
+      "endVerse": 16
+    },
+    {
+      "title": "The Descendants of Cain",
+      "startVerse": 17,
+      "endVerse": 24
+    },
+    {
+      "title": "Birth of Seth and Enosh",
+      "startVerse": 25,
+      "endVerse": 26
+    }
+  ]
 }

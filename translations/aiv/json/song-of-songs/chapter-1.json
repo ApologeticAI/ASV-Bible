@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The Song of Songs, which is Solomon's.",
       "links": "<a href='/AIV/11/4/32'>1 Kings 4:32</a>",
-      "comment": "This opening verse establishes Solomon as the attributed author or inspiration. The phrase 'Song of Songs' indicates this is the greatest or most exquisite of songs, echoing other superlative forms in Scripture, such as 'Holy of Holies.'"
+      "comment": "This opening verse establishes Solomon as the attributed author or inspiration. The phrase 'Song of Songs' indicates this is the greatest or most exquisite of songs, echoing other superlative forms in Scripture, such as 'Holy of Holies.'",
+      "sectionHeader": "Title and Introduction"
     },
     {
       "pk": 26001002,
@@ -26,7 +27,8 @@
       "verse": 2,
       "text": "Let him kiss me with the kisses of his mouth! For your love is better than wine.",
       "links": "<a href='/AIV/19/63/3'>Psalm 63:3</a>; <a href='/AIV/28/14/7'>Hosea 14:7</a>",
-      "comment": "The passionate longing seen here has been interpreted both as marital love and, spiritually, as the soul's longing for union with God. The tradition sees in this intensity of love an image of the closeness God desires with His people, foreshadowing the intimacy of Christ and the Church as the Bridegroom and Bride (see Ephesians 5:25-32)."
+      "comment": "The passionate longing seen here has been interpreted both as marital love and, spiritually, as the soul's longing for union with God. The tradition sees in this intensity of love an image of the closeness God desires with His people, foreshadowing the intimacy of Christ and the Church as the Bridegroom and Bride (see Ephesians 5:25-32).",
+      "sectionHeader": "The Bride’s Yearning for Love"
     },
     {
       "pk": 26001003,
@@ -62,7 +64,8 @@
       "verse": 5,
       "text": "I am dark, but lovely, O daughters of Jerusalem, like the tents of Kedar, like the curtains of Solomon.",
       "links": "<a href='/AIV/19/120/5'>Psalm 120:5</a>; <a href='/AIV/23/60/2'>Isaiah 60:2</a>",
-      "comment": "The bride describes herself as 'dark, but lovely,' signifying humility yet awareness of beauty. Her value is intrinsic, not based on outward standards. This humility yet dignity is a theme in the Old and New Testament, showing God exalting the lowly (Luke 1:48-52)."
+      "comment": "The bride describes herself as 'dark, but lovely,' signifying humility yet awareness of beauty. Her value is intrinsic, not based on outward standards. This humility yet dignity is a theme in the Old and New Testament, showing God exalting the lowly (Luke 1:48-52).",
+      "sectionHeader": "The Bride’s Self-Description and Search"
     },
     {
       "pk": 26001006,
@@ -110,7 +113,8 @@
       "verse": 9,
       "text": "I compare you, my love, to a mare among Pharaoh’s chariots.",
       "links": "<a href='/AIV/02/14/6-7'>Exodus 14:6-7</a>",
-      "comment": "This evocative metaphor praises the beloved’s beauty and nobility. The mare among Pharaoh's chariots stands out as unique and dignified among the best, suggesting the chosen people’s distinction among the nations (Exodus 19:5-6)."
+      "comment": "This evocative metaphor praises the beloved’s beauty and nobility. The mare among Pharaoh's chariots stands out as unique and dignified among the best, suggesting the chosen people’s distinction among the nations (Exodus 19:5-6).",
+      "sectionHeader": "The Lover’s Praise and Mutual Delight"
     },
     {
       "pk": 26001010,
@@ -209,5 +213,27 @@
       "comment": "Cedar and cypress were used for building the temple (1 Kings 5:6-8). The durability and fragrance of these woods symbolize the strength, beauty, and permanence of the union between God and His people, paralleling the everlasting dwelling prepared for those who love God."
     }
   ],
-  "translatedAt": "2025-12-24T07:12:05.849Z"
+  "translatedAt": "2025-12-24T07:12:05.849Z",
+  "sections": [
+    {
+      "title": "Title and Introduction",
+      "startVerse": 1,
+      "endVerse": 1
+    },
+    {
+      "title": "The Bride’s Yearning for Love",
+      "startVerse": 2,
+      "endVerse": 4
+    },
+    {
+      "title": "The Bride’s Self-Description and Search",
+      "startVerse": 5,
+      "endVerse": 8
+    },
+    {
+      "title": "The Lover’s Praise and Mutual Delight",
+      "startVerse": 9,
+      "endVerse": 17
+    }
+  ]
 }

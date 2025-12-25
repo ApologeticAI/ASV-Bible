@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Israel is a spreading vine; he brings forth fruit for himself. The more his fruit increased, the more he built altars; as his land prospered, he adorned his sacred pillars.",
       "links": "<a href='/AIV/28/2/8'>Hos. 2:8</a>; <a href='/AIV/05/12/2-3'>Deut. 12:2–3</a>; <a href='/AIV/28/8/11'>Hos. 8:11</a>",
-      "comment": "Israel’s material prosperity led to increased idolatry, violating the covenant faithfulness expected of God’s people. The reference to altars and pillars alludes to forbidden worship practices (<a href='/AIV/05/12/2-3'>Deut. 12:2–3</a>)."
+      "comment": "Israel’s material prosperity led to increased idolatry, violating the covenant faithfulness expected of God’s people. The reference to altars and pillars alludes to forbidden worship practices (<a href='/AIV/05/12/2-3'>Deut. 12:2–3</a>).",
+      "sectionHeader": "Israel’s Idolatry and Punishment"
     },
     {
       "pk": 35010002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "The inhabitants of Samaria tremble for the calf of Beth-aven. Its people mourn for it, and its priests wail over it—over its glory, because it has departed from it.",
       "links": "<a href='/AIV/11/12/28-30'>1 Kgs. 12:28–30</a>; <a href='/AIV/28/4/15'>Hos. 4:15</a>",
-      "comment": "The 'calf of Beth-aven' refers to idolatrous worship begun by Jeroboam I (<a href='/AIV/11/12/28-30'>1 Kgs. 12:28–30</a>). Mourning for the loss of the idol reflects misplaced hope in false gods rather than the Lord."
+      "comment": "The 'calf of Beth-aven' refers to idolatrous worship begun by Jeroboam I (<a href='/AIV/11/12/28-30'>1 Kgs. 12:28–30</a>). Mourning for the loss of the idol reflects misplaced hope in false gods rather than the Lord.",
+      "sectionHeader": "Judgment Against Samaria and Beth-aven"
     },
     {
       "pk": 35010006,
@@ -110,7 +112,8 @@
       "verse": 9,
       "text": "Since the days of Gibeah, you have sinned, O Israel. There they have continued. Shall not war overtake them in Gibeah because of the wickedness of the people?",
       "links": "<a href='/AIV/07/19/22-30'>Judg. 19:22–30</a>; <a href='/AIV/09/9/9'>Hos. 9:9</a>",
-      "comment": "Refers to the atrocity at Gibeah (<a href='/AIV/07/19/22-30'>Judg. 19</a>), a symbol of persistent sin in Israel’s history. God’s judgment is tied to continued national sinfulness."
+      "comment": "Refers to the atrocity at Gibeah (<a href='/AIV/07/19/22-30'>Judg. 19</a>), a symbol of persistent sin in Israel’s history. God’s judgment is tied to continued national sinfulness.",
+      "sectionHeader": "The Sins of Gibeah and Promise of Discipline"
     },
     {
       "pk": 35010010,
@@ -146,7 +149,8 @@
       "verse": 12,
       "text": "Sow for yourselves righteousness; reap unfailing love. Break up your fallow ground, for it is time to seek the Lord, until He comes and showers righteousness upon you.",
       "links": "<a href='/AIV/24/4/3'>Jer. 4:3</a>; <a href='/AIV/28/2/19'>Hos. 2:19</a>; <a href='/AIV/40/6/33'>Matt. 6:33</a>",
-      "comment": "The call to repentance is climactic here. True righteousness and mercy come from God. Spiritually, the imagery anticipates the outpouring of grace. The concept of sowing and reaping parallels Jesus' teachings about the kingdom and faithfulness."
+      "comment": "The call to repentance is climactic here. True righteousness and mercy come from God. Spiritually, the imagery anticipates the outpouring of grace. The concept of sowing and reaping parallels Jesus' teachings about the kingdom and faithfulness.",
+      "sectionHeader": "Call to Repentance and Warning of Destruction"
     },
     {
       "pk": 35010013,
@@ -185,5 +189,27 @@
       "comment": "Final pronouncement of judgment. Bethel, once a place of encounter with God, became a source of idolatry. The sudden removal of Israel’s king points to a future longing for a true Shepherd-King who will never be cut off (see <a href='/AIV/40/2/6'>Matt. 2:6</a>)."
     }
   ],
-  "translatedAt": "2025-12-24T09:38:39.693Z"
+  "translatedAt": "2025-12-24T09:38:39.693Z",
+  "sections": [
+    {
+      "title": "Israel’s Idolatry and Punishment",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "Judgment Against Samaria and Beth-aven",
+      "startVerse": 5,
+      "endVerse": 8
+    },
+    {
+      "title": "The Sins of Gibeah and Promise of Discipline",
+      "startVerse": 9,
+      "endVerse": 11
+    },
+    {
+      "title": "Call to Repentance and Warning of Destruction",
+      "startVerse": 12,
+      "endVerse": 15
+    }
+  ]
 }

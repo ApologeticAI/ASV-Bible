@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Pay attention, O heavens, and I will speak; let the earth hear the words of my mouth.",
       "links": "<a href='/AIV/23/1/2'>Isa. 1:2</a>; <a href='/AIV/19/50/4'>Ps. 50:4</a>",
-      "comment": "Moses calls upon all creation as witnesses to the seriousness and universality of his message, underlining that this song teaches essential truths for all times."
+      "comment": "Moses calls upon all creation as witnesses to the seriousness and universality of his message, underlining that this song teaches essential truths for all times.",
+      "sectionHeader": "The Song of Moses: The Faithfulness of God"
     },
     {
       "pk": 5032002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "But Jeshurun grew fat and kicked; you grew fat, thick and sleek. Then he forsook God who made him and rejected the Rock of his salvation.",
       "links": "<a href='/AIV/05/33/5'>Deut. 33:5</a>; <a href='/AIV/19/18/2'>Ps. 18:2</a>",
-      "comment": "Jeshurun ('the upright') ironically refers to Israel’s privilege turning into complacency. Warning against presumption on God’s grace."
+      "comment": "Jeshurun ('the upright') ironically refers to Israel’s privilege turning into complacency. Warning against presumption on God’s grace.",
+      "sectionHeader": "Israel's Unfaithfulness and the Lord's Judgment"
     },
     {
       "pk": 5032016,
@@ -410,7 +412,8 @@
       "verse": 34,
       "text": "Is not this laid up in store with Me, sealed up among My treasures?",
       "links": "<a href='/AIV/18/14/17'>Job 14:17</a>; <a href='/AIV/19/135/4'>Ps. 135:4</a>",
-      "comment": "God keeps account and will repay; the concept of 'storing up' finds a parallel in Christ’s teaching about God as just judge."
+      "comment": "God keeps account and will repay; the concept of 'storing up' finds a parallel in Christ’s teaching about God as just judge.",
+      "sectionHeader": "The Lord's Vengeance and Compassion"
     },
     {
       "pk": 5032035,
@@ -530,7 +533,8 @@
       "verse": 44,
       "text": "So Moses came with Joshua son of Nun and recited all the words of this song in the hearing of the people.",
       "links": "<a href='/AIV/06/1/1'>Josh. 1:1-2</a>",
-      "comment": "The leadership transition from Moses to Joshua models apostolic succession: a continuation of authority for God’s people."
+      "comment": "The leadership transition from Moses to Joshua models apostolic succession: a continuation of authority for God’s people.",
+      "sectionHeader": "Moses Concludes His Song"
     },
     {
       "pk": 5032045,
@@ -578,7 +582,8 @@
       "verse": 48,
       "text": "That very day the LORD spoke to Moses,",
       "links": "<a href='/AIV/05/34/1'>Deut. 34:1</a>",
-      "comment": "God’s timing is perfect and intentional, marking the importance of Moses’ final instructions."
+      "comment": "God’s timing is perfect and intentional, marking the importance of Moses’ final instructions.",
+      "sectionHeader": "The Lord Instructs Moses About His Death"
     },
     {
       "pk": 5032049,
@@ -629,5 +634,32 @@
       "comment": "The chapter ends with a generational transition and the solemn reminder that fulfillment of God’s promises is ultimately His work, calling for trust in His mysterious providence."
     }
   ],
-  "translatedAt": "2025-12-24T02:15:39.892Z"
+  "translatedAt": "2025-12-24T02:15:39.892Z",
+  "sections": [
+    {
+      "title": "The Song of Moses: The Faithfulness of God",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "Israel's Unfaithfulness and the Lord's Judgment",
+      "startVerse": 15,
+      "endVerse": 33
+    },
+    {
+      "title": "The Lord's Vengeance and Compassion",
+      "startVerse": 34,
+      "endVerse": 43
+    },
+    {
+      "title": "Moses Concludes His Song",
+      "startVerse": 44,
+      "endVerse": 47
+    },
+    {
+      "title": "The Lord Instructs Moses About His Death",
+      "startVerse": 48,
+      "endVerse": 52
+    }
+  ]
 }

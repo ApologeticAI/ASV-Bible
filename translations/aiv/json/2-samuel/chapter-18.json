@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then David mustered the men who were with him and set captains of thousands and captains of hundreds over them.",
       "links": "<a href='/AIV/9/8/12'>1 Sam. 8:12</a>; <a href='/AIV/13/27/1'>1 Chr. 27:1</a>",
-      "comment": "David organizes his forces in a military structure, displaying wise leadership. Cross-reference highlights similar practices of appointing leaders. Also reflects the order and structure seen in the united people of God."
+      "comment": "David organizes his forces in a military structure, displaying wise leadership. Cross-reference highlights similar practices of appointing leaders. Also reflects the order and structure seen in the united people of God.",
+      "sectionHeader": "Preparations for Battle"
     },
     {
       "pk": 10018002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "So the army marched out into the field against Israel, and the battle was fought in the forest of Ephraim.",
       "links": "<a href='/AIV/7/12/5'>Judg. 12:5</a>",
-      "comment": "Conflict occurs in a wooded area, highlighting divine providence even in seeming chaos. The setting will mediate justice against the rebellious son."
+      "comment": "Conflict occurs in a wooded area, highlighting divine providence even in seeming chaos. The setting will mediate justice against the rebellious son.",
+      "sectionHeader": "The Defeat and Death of Absalom"
     },
     {
       "pk": 10018007,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "Now Absalom in his lifetime had set up for himself a pillar which is in the King’s Valley. For he said, 'I have no son to keep my name in remembrance.' He called the pillar after his own name, and it is called Absalom’s Monument to this day.",
       "links": "<a href='/AIV/1/35/14'>Gen. 35:14</a>",
-      "comment": "Absalom’s attempt to perpetuate his memory shows human pride. Compare with the legacy given by God, rather than self-made remembrance (cf. Gen. 12:2)."
+      "comment": "Absalom’s attempt to perpetuate his memory shows human pride. Compare with the legacy given by God, rather than self-made remembrance (cf. Gen. 12:2).",
+      "sectionHeader": "Absalom’s Monument"
     },
     {
       "pk": 10018019,
@@ -230,7 +233,8 @@
       "verse": 19,
       "text": "Then Ahimaaz the son of Zadok said, 'Let me run and carry news to the king that the LORD has delivered him from his enemies.'",
       "links": "<a href='/AIV/10/15/36'>2 Sam. 15:36</a>",
-      "comment": "Ahimaaz’s eagerness to bring good news reflects the role of messengers in salvation history. Consider parallels with messengers announcing Christ’s victory."
+      "comment": "Ahimaaz’s eagerness to bring good news reflects the role of messengers in salvation history. Consider parallels with messengers announcing Christ’s victory.",
+      "sectionHeader": "David Receives News of Absalom"
     },
     {
       "pk": 10018020,
@@ -398,8 +402,36 @@
       "verse": 33,
       "text": "Then the king trembled. He went up to the chamber over the gate and wept. As he went, he said, 'O my son Absalom! My son, my son Absalom! If only I had died instead of you—O Absalom, my son, my son!'",
       "links": "<a href='/AIV/10/12/23'>2 Sam. 12:23</a>; <a href='/AIV/19/22/1'>Ps. 22:1</a>",
-      "comment": "David’s lament displays deep paternal love and grief, prefiguring the sacrificial love Christ shows in longing to bear our punishment. His repeated cry echoes the heart of God, foreshadowing Christ’s offering of Himself for sinners."
+      "comment": "David’s lament displays deep paternal love and grief, prefiguring the sacrificial love Christ shows in longing to bear our punishment. His repeated cry echoes the heart of God, foreshadowing Christ’s offering of Himself for sinners.",
+      "sectionHeader": "David Mourns for Absalom"
     }
   ],
-  "translatedAt": "2025-12-24T03:22:04.471Z"
+  "translatedAt": "2025-12-24T03:22:04.471Z",
+  "sections": [
+    {
+      "title": "Preparations for Battle",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "The Defeat and Death of Absalom",
+      "startVerse": 6,
+      "endVerse": 17
+    },
+    {
+      "title": "Absalom’s Monument",
+      "startVerse": 18,
+      "endVerse": 18
+    },
+    {
+      "title": "David Receives News of Absalom",
+      "startVerse": 19,
+      "endVerse": 32
+    },
+    {
+      "title": "David Mourns for Absalom",
+      "startVerse": 33,
+      "endVerse": 33
+    }
+  ]
 }

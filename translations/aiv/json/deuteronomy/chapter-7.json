@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When the LORD your God brings you into the land you are going to possess, and drives out many nations before you—the Hittites, the Girgashites, the Amorites, the Canaanites, the Perizzites, the Hivites, and the Jebusites, seven nations larger and stronger than you—",
       "links": "<a href='/AIV/01/15/19-21'>Gen. 15:19-21</a>; <a href='/AIV/06/3/10'>Josh. 3:10</a>",
-      "comment": "This introduces Israel's call to holiness and separation from the nations in the promised land. The seven nations referenced represent a fullness of opposition. The conquest motif here finds its spiritual fulfillment in the New Testament's battle against sin and spiritual powers (<a href='/AIV/49/6/12'>Eph. 6:12</a>)."
+      "comment": "This introduces Israel's call to holiness and separation from the nations in the promised land. The seven nations referenced represent a fullness of opposition. The conquest motif here finds its spiritual fulfillment in the New Testament's battle against sin and spiritual powers (<a href='/AIV/49/6/12'>Eph. 6:12</a>).",
+      "sectionHeader": "The Command to Destroy the Canaanite Nations"
     },
     {
       "pk": 5007002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "For you are a people holy to the LORD your God. The LORD your God has chosen you to be a people for Himself, treasured out of all the peoples who are on the face of the earth.",
       "links": "<a href='/AIV/02/19/5-6'>Ex. 19:5-6</a>; <a href='/AIV/60/2/9'>1 Pet. 2:9</a>",
-      "comment": "Israel's election as a 'holy people' prefigures God's gathering of a new, set-apart people in Christ, who are called 'a chosen race, a royal priesthood.' The language mirrors the identity given to the Church in the New Testament, pointing to the continuity of God's plan."
+      "comment": "Israel's election as a 'holy people' prefigures God's gathering of a new, set-apart people in Christ, who are called 'a chosen race, a royal priesthood.' The language mirrors the identity given to the Church in the New Testament, pointing to the continuity of God's plan.",
+      "sectionHeader": "Israel Chosen as a Holy People"
     },
     {
       "pk": 5007007,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "If you listen to these ordinances and keep and do them, the LORD your God will keep with you the covenant and the steadfast love He swore to your fathers.",
       "links": "<a href='/AIV/03/26/3-4'>Lev. 26:3-4</a>; <a href='/AIV/05/28/1-2'>Deut. 28:1-2</a>",
-      "comment": "God's covenant blessings depend on Israel's faithfulness. The principle of blessing through obedience carries into Christ's teaching about abiding in His love by keeping His commands."
+      "comment": "God's covenant blessings depend on Israel's faithfulness. The principle of blessing through obedience carries into Christ's teaching about abiding in His love by keeping His commands.",
+      "sectionHeader": "Blessings for Obedience"
     },
     {
       "pk": 5007013,
@@ -206,7 +209,8 @@
       "verse": 17,
       "text": "If you say in your heart, ‘These nations are greater than I; how can I dispossess them?’—",
       "links": "<a href='/AIV/04/13/31'>Num. 13:31</a>; <a href='/AIV/05/1/28'>Deut. 1:28</a>",
-      "comment": "Doubt about overcoming great obstacles is addressed. The lesson is to rely not on self, but on God's power. This anticipation of God's victory foreshadows Christian trust in grace amidst spiritual battles."
+      "comment": "Doubt about overcoming great obstacles is addressed. The lesson is to rely not on self, but on God's power. This anticipation of God's victory foreshadows Christian trust in grace amidst spiritual battles.",
+      "sectionHeader": "Assurance of Victory over the Nations"
     },
     {
       "pk": 5007018,
@@ -302,7 +306,8 @@
       "verse": 25,
       "text": "The carved images of their gods you shall burn with fire. You shall not covet the silver or the gold that is on them, nor take it for yourselves, lest you be ensnared by it, for it is an abomination to the LORD your God.",
       "links": "<a href='/AIV/05/17/3'>Deut. 17:3</a>; <a href='/AIV/06/7/1'>Josh. 7:1</a>",
-      "comment": "All remnants of idolatry are to be destroyed, and not even precious metals should entice the people. This foreshadows Jesus' call to renounce earthly treasure for the sake of God's kingdom."
+      "comment": "All remnants of idolatry are to be destroyed, and not even precious metals should entice the people. This foreshadows Jesus' call to renounce earthly treasure for the sake of God's kingdom.",
+      "sectionHeader": "Destruction of Idols and Forbidden Objects"
     },
     {
       "pk": 5007026,
@@ -317,5 +322,32 @@
       "comment": "Total rejection of what is accursed preserves the holiness of the people. The spiritual application is the call to radical separation from sin, preparing for the fullness of God's dwelling among His people."
     }
   ],
-  "translatedAt": "2025-12-24T02:00:58.089Z"
+  "translatedAt": "2025-12-24T02:00:58.089Z",
+  "sections": [
+    {
+      "title": "The Command to Destroy the Canaanite Nations",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Israel Chosen as a Holy People",
+      "startVerse": 6,
+      "endVerse": 11
+    },
+    {
+      "title": "Blessings for Obedience",
+      "startVerse": 12,
+      "endVerse": 16
+    },
+    {
+      "title": "Assurance of Victory over the Nations",
+      "startVerse": 17,
+      "endVerse": 24
+    },
+    {
+      "title": "Destruction of Idols and Forbidden Objects",
+      "startVerse": 25,
+      "endVerse": 26
+    }
+  ]
 }

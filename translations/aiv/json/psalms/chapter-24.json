@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The earth and everything in it belongs to the LORD—the world and all its inhabitants.",
       "links": "<a href='/AIV/19/50/12'>Ps. 50:12</a>; <a href='/AIV/2/9/29'>Ex. 9:29</a>; <a href='/AIV/46/10/26'>1 Cor. 10:26</a>",
-      "comment": "This verse expresses God's universal sovereignty as Creator. The statement that the world and all who dwell in it belong to the LORD connects to both literal possession and spiritual authority. In the New Testament, Paul echoes this theme, emphasizing God's ownership over creation."
+      "comment": "This verse expresses God's universal sovereignty as Creator. The statement that the world and all who dwell in it belong to the LORD connects to both literal possession and spiritual authority. In the New Testament, Paul echoes this theme, emphasizing God's ownership over creation.",
+      "sectionHeader": "The LORD’s Sovereignty over Creation"
     },
     {
       "pk": 23024002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "Who may ascend the mountain of the LORD? Who may stand in His holy place?",
       "links": "<a href='/AIV/19/15/1'>Ps. 15:1</a>; <a href='/AIV/1/28/12'>Gen. 28:12</a>; <a href='/AIV/19/43/3'>Ps. 43:3</a>",
-      "comment": "This verse asks who is worthy to approach God’s presence. The question anticipates both access to worship and ultimate communion with God, which is fulfilled through holiness and sacrifice. The imagery foreshadows the ascending of Christ and His role as mediator (see Heb. 10:19-22)."
+      "comment": "This verse asks who is worthy to approach God’s presence. The question anticipates both access to worship and ultimate communion with God, which is fulfilled through holiness and sacrifice. The imagery foreshadows the ascending of Christ and His role as mediator (see Heb. 10:19-22).",
+      "sectionHeader": "Who May Enter the LORD’s Presence?"
     },
     {
       "pk": 23024004,
@@ -86,7 +88,8 @@
       "verse": 7,
       "text": "Lift up your heads, O gates! Be lifted up, you ancient doors, that the King of glory may enter.",
       "links": "<a href='/AIV/19/118/19'>Ps. 118:19-20</a>; <a href='/AIV/66/3/20'>Rev. 3:20</a>",
-      "comment": "This triumphant entrance anticipates the coming of the Lord into His sanctuary. Tradition interprets this as a prophetic vision fulfilled in Christ’s ascension, entering the heavenly temple, also connecting to sacramental worship as participation in the reality of heaven."
+      "comment": "This triumphant entrance anticipates the coming of the Lord into His sanctuary. Tradition interprets this as a prophetic vision fulfilled in Christ’s ascension, entering the heavenly temple, also connecting to sacramental worship as participation in the reality of heaven.",
+      "sectionHeader": "The Coming of the King of Glory"
     },
     {
       "pk": 23024008,
@@ -125,5 +128,22 @@
       "comment": "The final answer confirms God’s identity as ruler over all. In Christian tradition, this is seen as Christ, triumphant in heaven. The ‘hosts’ points to both the heavenly assembly and the gathered people in worship, connecting the visible and invisible church in unity."
     }
   ],
-  "translatedAt": "2025-12-24T06:06:28.611Z"
+  "translatedAt": "2025-12-24T06:06:28.611Z",
+  "sections": [
+    {
+      "title": "The LORD’s Sovereignty over Creation",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "Who May Enter the LORD’s Presence?",
+      "startVerse": 3,
+      "endVerse": 6
+    },
+    {
+      "title": "The Coming of the King of Glory",
+      "startVerse": 7,
+      "endVerse": 10
+    }
+  ]
 }

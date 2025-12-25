@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "These are the words of the book that Baruch the son of Neriah, son of Maaseiah, son of Zedekiah, son of Hasadiah, son of Hilkiah, wrote in Babylon,",
       "links": "<a href='/AIV/24/32/12'>Jer. 32:12</a>; <a href='/AIV/24/36/4'>Jer. 36:4</a>",
-      "comment": "Baruch is identified as the scribe of Jeremiah (see Jeremiah 36:4), showing both the importance of tradition and the continuity of faithful record-keeping among the people of God."
+      "comment": "Baruch is identified as the scribe of Jeremiah (see Jeremiah 36:4), showing both the importance of tradition and the continuity of faithful record-keeping among the people of God.",
+      "sectionHeader": "Baruch Writes to the Exiles in Babylon"
     },
     {
       "pk": 32001002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "and they sent it to Jerusalem, to Jehoiakim the priest, son of Hilkiah, son of Shallum, and to the priests and all the people who were with him in Jerusalem.",
       "links": "<a href='/AIV/24/29/3'>Jer. 29:3</a>; <a href='/AIV/15/1/5'>Ezra 1:5</a>",
-      "comment": "Support for the temple and priesthood echoes the later apostolic support for consecrated leaders and communal worship spaces."
+      "comment": "Support for the temple and priesthood echoes the later apostolic support for consecrated leaders and communal worship spaces.",
+      "sectionHeader": "Offerings Sent to Jerusalem and Prayer for Babylonian Kings"
     },
     {
       "pk": 32001008,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "They said: 'To the Lord our God belongs righteousness, but to us there is shame on our faces as it is this day—men of Judah and inhabitants of Jerusalem,",
       "links": "<a href='/AIV/27/9/7-8'>Dan. 9:7-8</a>; <a href='/AIV/19/44/15'>Psalm 44:15</a>",
-      "comment": "The distinction between God’s righteousness and human shame sets up the need for reconciliation, ultimately fulfilled in the New Covenant through Christ (2 Cor. 5:21)."
+      "comment": "The distinction between God’s righteousness and human shame sets up the need for reconciliation, ultimately fulfilled in the New Covenant through Christ (2 Cor. 5:21).",
+      "sectionHeader": "Confession of Sin and Recognition of God's Justice"
     },
     {
       "pk": 32001016,
@@ -269,5 +272,22 @@
       "comment": "Idolatry and self-will are presented as the root of Israel’s downfall. True conversion must involve the heart, and authentic worship of the one true God."
     }
   ],
-  "translatedAt": "2025-12-24T08:55:10.935Z"
+  "translatedAt": "2025-12-24T08:55:10.935Z",
+  "sections": [
+    {
+      "title": "Baruch Writes to the Exiles in Babylon",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Offerings Sent to Jerusalem and Prayer for Babylonian Kings",
+      "startVerse": 7,
+      "endVerse": 14
+    },
+    {
+      "title": "Confession of Sin and Recognition of God's Justice",
+      "startVerse": 15,
+      "endVerse": 22
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In the second year of Joash son of Jehoahaz, king of Israel, Amaziah the son of Joash, king of Judah, began to reign.",
       "links": "<a href='/AIV/12/13/10'>2 Kgs 13:10</a>; <a href='/AIV/14/25/1'>2 Chr 25:1</a>",
-      "comment": "The timeline links Judah and Israel, showing the interconnectedness of God’s people, and the continuity of leadership in both kingdoms."
+      "comment": "The timeline links Judah and Israel, showing the interconnectedness of God’s people, and the continuity of leadership in both kingdoms.",
+      "sectionHeader": "Reign of Amaziah over Judah"
     },
     {
       "pk": 12014002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "He struck down 10,000 Edomites in the Valley of Salt and took Sela by storm, renaming it Joktheel, which is its name to this day.",
       "links": "<a href='/AIV/10/8/13'>2 Sam 8:13</a>; <a href='/AIV/14/25/11-12'>2 Chr 25:11-12</a>",
-      "comment": "Amaziah’s success over Edom builds on the earlier victories of David; the conquest of Sela shows the fulfillment of God’s promises to the house of David."
+      "comment": "Amaziah’s success over Edom builds on the earlier victories of David; the conquest of Sela shows the fulfillment of God’s promises to the house of David.",
+      "sectionHeader": "Amaziah’s Victory over Edom and Challenge to Israel"
     },
     {
       "pk": 12014008,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "But Amaziah would not listen. So Jehoash king of Israel went up, and he and Amaziah king of Judah faced each other at Beth-shemesh, which belongs to Judah.",
       "links": "<a href='/AIV/14/25/21'>2 Chr 25:21</a>",
-      "comment": "Persistence in pride leads to strife and division; the consequences of disunity and unwillingness to heed wise counsel."
+      "comment": "Persistence in pride leads to strife and division; the consequences of disunity and unwillingness to heed wise counsel.",
+      "sectionHeader": "Amaziah Defeated by Jehoash of Israel"
     },
     {
       "pk": 12014012,
@@ -206,7 +209,8 @@
       "verse": 17,
       "text": "Amaziah son of Joash, king of Judah, lived fifteen years after the death of Jehoash son of Jehoahaz, king of Israel.",
       "links": "<a href='/AIV/14/25/25'>2 Chr 25:25</a>",
-      "comment": "Amaziah’s extended reign, even after defeat, shows that God’s mercy may endure despite judgment."
+      "comment": "Amaziah’s extended reign, even after defeat, shows that God’s mercy may endure despite judgment.",
+      "sectionHeader": "Death of Amaziah and Accession of Azariah"
     },
     {
       "pk": 12014018,
@@ -278,7 +282,8 @@
       "verse": 23,
       "text": "In the fifteenth year of Amaziah the son of Joash king of Judah, Jeroboam son of Joash king of Israel began to reign in Samaria, and he reigned forty-one years.",
       "links": "<a href='/AIV/12/14/16'>2 Kgs 14:16</a>",
-      "comment": "A long reign for Jeroboam II is noted, setting the stage for Israel’s growth and subsequent judgment."
+      "comment": "A long reign for Jeroboam II is noted, setting the stage for Israel’s growth and subsequent judgment.",
+      "sectionHeader": "Reign of Jeroboam II over Israel"
     },
     {
       "pk": 12014024,
@@ -353,5 +358,32 @@
       "comment": "This verse closes the chapter with continued succession, emphasizing the enduring significance of family, tradition, and continuity—prefiguring the safeguarding of truth through ordered succession in God’s people."
     }
   ],
-  "translatedAt": "2025-12-24T03:55:52.251Z"
+  "translatedAt": "2025-12-24T03:55:52.251Z",
+  "sections": [
+    {
+      "title": "Reign of Amaziah over Judah",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Amaziah’s Victory over Edom and Challenge to Israel",
+      "startVerse": 7,
+      "endVerse": 10
+    },
+    {
+      "title": "Amaziah Defeated by Jehoash of Israel",
+      "startVerse": 11,
+      "endVerse": 16
+    },
+    {
+      "title": "Death of Amaziah and Accession of Azariah",
+      "startVerse": 17,
+      "endVerse": 22
+    },
+    {
+      "title": "Reign of Jeroboam II over Israel",
+      "startVerse": 23,
+      "endVerse": 29
+    }
+  ]
 }

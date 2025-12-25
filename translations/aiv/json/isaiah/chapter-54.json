@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Sing, barren woman, you who have not given birth. Break out with singing and shout, you who have not been in labor. For the children of the desolate one are more than the children of her who is married, says the LORD.",
       "links": "<a href='/AIV/48/4/27'>Gal. 4:27</a>; <a href='/AIV/23/49/20-21'>Isa. 49:20-21</a>",
-      "comment": "Paul quotes this verse in Galatians 4:27, applying it to the heavenly Jerusalem. The desolate woman is a symbol of restoration and fruitfulness through God's promise, foreshadowing the Church receiving children from all nations."
+      "comment": "Paul quotes this verse in Galatians 4:27, applying it to the heavenly Jerusalem. The desolate woman is a symbol of restoration and fruitfulness through God's promise, foreshadowing the Church receiving children from all nations.",
+      "sectionHeader": "The Restoration of Zion"
     },
     {
       "pk": 29054002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "For this is like the days of Noah to Me: as I swore that the waters of Noah would never again cover the earth, so I have sworn that I will not be angry with you or rebuke you.",
       "links": "<a href='/AIV/1/9/11-17'>Gen. 9:11-17</a>; <a href='/AIV/23/12/1'>Isa. 12:1</a>",
-      "comment": "God's covenant with Noah is paralleled with His grace towards His people. This oath underscores the permanence of God’s mercy—a theme carried forward in the new covenant."
+      "comment": "God's covenant with Noah is paralleled with His grace towards His people. This oath underscores the permanence of God’s mercy—a theme carried forward in the new covenant.",
+      "sectionHeader": "God’s Everlasting Covenant of Peace"
     },
     {
       "pk": 29054010,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "O afflicted one, storm-tossed and not comforted, behold, I will set your stones with turquoise, and your foundations with sapphires.",
       "links": "<a href='/AIV/66/21/19-21'>Rev. 21:19-21</a>; <a href='/AIV/1/2/12'>Gen. 2:12</a>",
-      "comment": "The precious stones anticipate the imagery of the New Jerusalem in Revelation, symbolizing the splendor and stability of God’s renewed people."
+      "comment": "The precious stones anticipate the imagery of the New Jerusalem in Revelation, symbolizing the splendor and stability of God’s renewed people.",
+      "sectionHeader": "The Glorious Future of Jerusalem"
     },
     {
       "pk": 29054012,
@@ -182,7 +185,8 @@
       "verse": 15,
       "text": "If anyone attacks you, it will not be from Me; whoever assembles against you will fall because of you.",
       "links": "<a href='/AIV/19/27/2'>Ps. 27:2</a>; <a href='/AIV/23/8/10'>Isa. 8:10</a>",
-      "comment": "God promises protection against enemies not sent by Him. The victory belongs to those under His covenant."
+      "comment": "God promises protection against enemies not sent by Him. The victory belongs to those under His covenant.",
+      "sectionHeader": "No Weapon Shall Prosper"
     },
     {
       "pk": 29054016,
@@ -209,5 +213,27 @@
       "comment": "God’s ultimate protection extends not just physically but spiritually. The heritage of righteousness and security is a promise for all who trust in the Lord, fulfilled in Christ who justifies (see Rom. 8:33-34) and unites His faithful in an unbreakable bond of grace."
     }
   ],
-  "translatedAt": "2025-12-24T08:15:54.101Z"
+  "translatedAt": "2025-12-24T08:15:54.101Z",
+  "sections": [
+    {
+      "title": "The Restoration of Zion",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "God’s Everlasting Covenant of Peace",
+      "startVerse": 9,
+      "endVerse": 10
+    },
+    {
+      "title": "The Glorious Future of Jerusalem",
+      "startVerse": 11,
+      "endVerse": 14
+    },
+    {
+      "title": "No Weapon Shall Prosper",
+      "startVerse": 15,
+      "endVerse": 17
+    }
+  ]
 }

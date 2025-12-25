@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Blessed is the husband of a good wife, for the number of his days will be doubled.",
       "links": "<a href='/AIV/20/18/22'>Prov. 18:22</a>; <a href='/AIV/20/31/10'>Prov. 31:10</a>",
-      "comment": "This verse highlights the profound blessing of marital harmony, linking the goodness of a wife with the extension of life itself. The scriptural idea of marriage as a covenant mirrors Christ’s relationship with the Church. See <a href='/AIV/49/5/25'>Eph 5:25</a>."
+      "comment": "This verse highlights the profound blessing of marital harmony, linking the goodness of a wife with the extension of life itself. The scriptural idea of marriage as a covenant mirrors Christ’s relationship with the Church. See <a href='/AIV/49/5/25'>Eph 5:25</a>.",
+      "sectionHeader": "Blessings of a Good Wife"
     },
     {
       "pk": 28026002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "Of three things my heart is frightened, and a fourth causes me to panic: the accusation in the city, the gathering of a mob, and false charges—all worse than death.",
       "links": "<a href='/AIV/19/55/3-5'>Ps. 55:3-5</a>; <a href='/AIV/42/23/13-22'>Luke 23:13-22</a>",
-      "comment": "The threat of false accusation recalls later episodes, such as the unjust treatment of Christ and early disciples. Slander and mob aggression are spiritual dangers as well as societal ones."
+      "comment": "The threat of false accusation recalls later episodes, such as the unjust treatment of Christ and early disciples. Slander and mob aggression are spiritual dangers as well as societal ones.",
+      "sectionHeader": "Evils of a Bad Wife"
     },
     {
       "pk": 28026006,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "Keep strict watch over a headstrong daughter, lest she make you a laughingstock to your enemies, a topic of gossip in the town, and a source of shame among the people.",
       "links": "<a href='/AIV/20/29/15'>Prov. 29:15</a>; <a href='/AIV/09/03/13'>1 Sam. 3:13</a>",
-      "comment": "Parental vigilance is seen as a guard against scandal, a timeless principle. Early formation and discipline are recurring themes in wisdom literature."
+      "comment": "Parental vigilance is seen as a guard against scandal, a timeless principle. Early formation and discipline are recurring themes in wisdom literature.",
+      "sectionHeader": "Instruction Regarding Daughters"
     },
     {
       "pk": 28026012,
@@ -158,7 +161,8 @@
       "verse": 13,
       "text": "A wife’s charm brightens her husband’s face, and her understanding refreshes his bones.",
       "links": "<a href='/AIV/20/12/4'>Prov. 12:4</a>; <a href='/AIV/20/31/12'>Prov. 31:12</a>",
-      "comment": "The virtues of beauty and wisdom are inseparable in holy marriage. The spiritual interpretation refers to the soul adorned by grace."
+      "comment": "The virtues of beauty and wisdom are inseparable in holy marriage. The spiritual interpretation refers to the soul adorned by grace.",
+      "sectionHeader": "Praise of Virtuous Wives"
     },
     {
       "pk": 28026014,
@@ -230,7 +234,8 @@
       "verse": 19,
       "text": "My soul takes delight in three things, which are beautiful before both the Lord and men: harmony among brothers, friendship among neighbors, and the wife and husband who live together in unity.",
       "links": "<a href='/AIV/19/133/1'>Ps. 133:1</a>; <a href='/AIV/43/17/21'>John 17:21</a>",
-      "comment": "Unity is praised everywhere in scripture as a mark of God’s people. The family is thus a living image of the Church’s unity with Christ."
+      "comment": "Unity is praised everywhere in scripture as a mark of God’s people. The family is thus a living image of the Church’s unity with Christ.",
+      "sectionHeader": "The Blessing of Marital Harmony"
     },
     {
       "pk": 28026020,
@@ -353,5 +358,32 @@
       "comment": "Completing the chapter, marriage is again depicted as divinely appointed companionship; 'helper' echoes Genesis 2:18 and points towards an understanding of this sacramental relationship as instituted by God for our good."
     }
   ],
-  "translatedAt": "2025-12-24T07:36:58.340Z"
+  "translatedAt": "2025-12-24T07:36:58.340Z",
+  "sections": [
+    {
+      "title": "Blessings of a Good Wife",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "Evils of a Bad Wife",
+      "startVerse": 5,
+      "endVerse": 10
+    },
+    {
+      "title": "Instruction Regarding Daughters",
+      "startVerse": 11,
+      "endVerse": 12
+    },
+    {
+      "title": "Praise of Virtuous Wives",
+      "startVerse": 13,
+      "endVerse": 18
+    },
+    {
+      "title": "The Blessing of Marital Harmony",
+      "startVerse": 19,
+      "endVerse": 29
+    }
+  ]
 }

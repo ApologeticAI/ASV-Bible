@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The word of the LORD came to me:",
       "links": "<a href='/AIV/26/3/16'>Ezek. 3:16</a>; <a href='/AIV/26/33/23'>Ezek. 33:23</a>",
-      "comment": "This opening formula is typical of prophetic literature, marking a direct revelation. It reminds us that God continues to speak through chosen instruments, a concept seen through both Old and New Testament witness."
+      "comment": "This opening formula is typical of prophetic literature, marking a direct revelation. It reminds us that God continues to speak through chosen instruments, a concept seen through both Old and New Testament witness.",
+      "sectionHeader": "The False Shepherds of Israel"
     },
     {
       "pk": 33034002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "For thus says the Lord GOD: Behold, I myself will search for my sheep and seek them out.",
       "links": "<a href='/AIV/42/19/10'>Luke 19:10</a>; <a href='/AIV/40/18/12'>Matt. 18:12</a>",
-      "comment": "God Himself will shepherd His people. This is fulfilled in Christ's incarnation and mission to seek the lost. The personal care God promises here is a sign of His intimate involvement in salvation."
+      "comment": "God Himself will shepherd His people. This is fulfilled in Christ's incarnation and mission to seek the lost. The personal care God promises here is a sign of His intimate involvement in salvation.",
+      "sectionHeader": "God the True Shepherd"
     },
     {
       "pk": 33034012,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "As for you, my flock, thus says the Lord GOD: Behold, I judge between one sheep and another, between the rams and the goats.",
       "links": "<a href='/AIV/40/25/32'>Matt. 25:32</a>",
-      "comment": "God judges not only leaders but individuals within his flock. Jesus echoes this in his teaching about the Final Judgment (<a href='/AIV/40/25/32'>Matt. 25:32</a>)."
+      "comment": "God judges not only leaders but individuals within his flock. Jesus echoes this in his teaching about the Final Judgment (<a href='/AIV/40/25/32'>Matt. 25:32</a>).",
+      "sectionHeader": "Judgment Between Sheep"
     },
     {
       "pk": 33034018,
@@ -278,7 +281,8 @@
       "verse": 23,
       "text": "I will set up over them one shepherd, my servant David, and he shall feed them; he shall feed them and be their shepherd.",
       "links": "<a href='/AIV/26/37/24'>Ezek. 37:24</a>; <a href='/AIV/43/10/11'>John 10:11</a>",
-      "comment": "The promise of a divinely-appointed shepherd is messianic. ‘David’ refers to the future Christ, Son of David, who is the eternal Shepherd—fulfillment in Jesus (<a href='/AIV/43/10/11'>John 10:11</a>). The unity under one shepherd looks forward to the visible, apostolic leadership established by Christ."
+      "comment": "The promise of a divinely-appointed shepherd is messianic. ‘David’ refers to the future Christ, Son of David, who is the eternal Shepherd—fulfillment in Jesus (<a href='/AIV/43/10/11'>John 10:11</a>). The unity under one shepherd looks forward to the visible, apostolic leadership established by Christ.",
+      "sectionHeader": "The Promise of the Shepherd David"
     },
     {
       "pk": 33034024,
@@ -302,7 +306,8 @@
       "verse": 25,
       "text": "I will make a covenant of peace with them and remove wild beasts from the land, so that they may dwell securely in the wilderness and sleep in the forests.",
       "links": "<a href='/AIV/26/16/60'>Ezek. 16:60</a>; <a href='/AIV/26/37/26'>Ezek. 37:26</a>",
-      "comment": "This new covenant of peace prefigures Christ’s covenant. Complete safety and rest characterize God’s kingdom, rooted in sacramental grace and unity."
+      "comment": "This new covenant of peace prefigures Christ’s covenant. Complete safety and rest characterize God’s kingdom, rooted in sacramental grace and unity.",
+      "sectionHeader": "The Covenant of Peace and Blessing"
     },
     {
       "pk": 33034026,
@@ -377,5 +382,32 @@
       "comment": "The identity of God’s people as His flock finds its completion in union with Him. The image anticipates Christ’s declaration of being the Good Shepherd and highlights the necessity of abiding in the visible, apostolic communion He established."
     }
   ],
-  "translatedAt": "2025-12-24T09:17:29.310Z"
+  "translatedAt": "2025-12-24T09:17:29.310Z",
+  "sections": [
+    {
+      "title": "The False Shepherds of Israel",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "God the True Shepherd",
+      "startVerse": 11,
+      "endVerse": 16
+    },
+    {
+      "title": "Judgment Between Sheep",
+      "startVerse": 17,
+      "endVerse": 22
+    },
+    {
+      "title": "The Promise of the Shepherd David",
+      "startVerse": 23,
+      "endVerse": 24
+    },
+    {
+      "title": "The Covenant of Peace and Blessing",
+      "startVerse": 25,
+      "endVerse": 31
+    }
+  ]
 }

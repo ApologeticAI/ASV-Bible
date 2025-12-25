@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In those days, there was no king in Israel. And in those days the tribe of the Danites was seeking for itself an inheritance to live in, for until that day, their territory among the tribes of Israel had not fallen to them.",
       "links": "<a href='/AIV/7/17/6'>Judg. 17:6</a>; <a href='/AIV/7/19/1'>Judg. 19:1</a>",
-      "comment": "This verse repeats the theme that Israel lacked centralized leadership. The Danites' search for an inheritance recalls the incomplete conquest in Joshua <a href='/AIV/6/19/47'>Josh. 19:47</a>; see how this points to the need for righteous authority and unity, important in both a spiritual and communal sense."
+      "comment": "This verse repeats the theme that Israel lacked centralized leadership. The Danites' search for an inheritance recalls the incomplete conquest in Joshua <a href='/AIV/6/19/47'>Josh. 19:47</a>; see how this points to the need for righteous authority and unity, important in both a spiritual and communal sense.",
+      "sectionHeader": "The Danites Seek an Inheritance"
     },
     {
       "pk": 7018002,
@@ -26,7 +27,8 @@
       "verse": 2,
       "text": "So the children of Dan sent five men from their whole clan, men of valor from Zorah and Eshtaol, to spy out the land and to explore it; and they said to them, 'Go, explore the land.' So they came to the hill country of Ephraim, to the house of Micah, and spent the night there.",
       "links": "<a href='/AIV/7/13/25'>Judg. 13:25</a>; <a href='/AIV/6/2/1'>Josh. 2:1</a>",
-      "comment": "The mission of the Danite spies mirrors the earlier Israelite spying in Numbers 13 and Joshua 2. Their journey to Micah's house foreshadows coming events and connections between worship and the establishment of territory."
+      "comment": "The mission of the Danite spies mirrors the earlier Israelite spying in Numbers 13 and Joshua 2. Their journey to Micah's house foreshadows coming events and connections between worship and the establishment of territory.",
+      "sectionHeader": "The Spies at Micah’s House"
     },
     {
       "pk": 7018003,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "So six hundred men of the clan of the Danites, armed with weapons of war, set out from Zorah and Eshtaol.",
       "links": "<a href='/AIV/7/13/25'>Judg. 13:25</a>; <a href='/AIV/6/19/47'>Josh. 19:47</a>",
-      "comment": "The organized force indicates seriousness in claiming their promised inheritance."
+      "comment": "The organized force indicates seriousness in claiming their promised inheritance.",
+      "sectionHeader": "The Danites Prepare to Attack Laish"
     },
     {
       "pk": 7018012,
@@ -182,7 +185,8 @@
       "verse": 15,
       "text": "They turned aside there and came to the house of the young Levite, at Micah’s house, and greeted him.",
       "links": "<a href='/AIV/7/17/10'>Judg. 17:10</a>",
-      "comment": "Their approach to the Levite for blessing seeks security, again showing how leadership and priestly mediation shaped Israel’s conscience."
+      "comment": "Their approach to the Levite for blessing seeks security, again showing how leadership and priestly mediation shaped Israel’s conscience.",
+      "sectionHeader": "The Danites Steal Micah’s Idols and Priest"
     },
     {
       "pk": 7018016,
@@ -266,7 +270,8 @@
       "verse": 22,
       "text": "When they had gone a short distance from Micah’s house, the men who lived in the houses near Micah's house cried out and overtook the Danites.",
       "links": "<a href='/AIV/7/17/2'>Judg. 17:2</a>",
-      "comment": "Neighbors show concern for Micah’s loss, underlining how religious practices were closely tied to the local community’s identity."
+      "comment": "Neighbors show concern for Micah’s loss, underlining how religious practices were closely tied to the local community’s identity.",
+      "sectionHeader": "Micah Confronts the Danites"
     },
     {
       "pk": 7018023,
@@ -326,7 +331,8 @@
       "verse": 27,
       "text": "But the Danites took what Micah had made, and the priest who belonged to him, and they went to Laish, to a people quiet and unsuspecting, and struck them with the edge of the sword and burned the city with fire.",
       "links": "<a href='/AIV/1/34/25-29'>Gen. 34:25-29</a>",
-      "comment": "The destruction of Laish underlines the consequences of spiritual and physical isolation. God seeks to gather and protect through unity."
+      "comment": "The destruction of Laish underlines the consequences of spiritual and physical isolation. God seeks to gather and protect through unity.",
+      "sectionHeader": "The Conquest of Laish and Idolatry in Dan"
     },
     {
       "pk": 7018028,
@@ -377,5 +383,37 @@
       "comment": "The contrast between worship at Dan and at the divinely-appointed Shiloh foreshadows the need for unity around the true dwelling place of God. Only in God’s appointed house is true worship found—a foreshadowing of the later gathering of all believers around one altar and one High Priest, Christ (<a href='/AIV/58/10/19-22'>Heb. 10:19-22</a>)."
     }
   ],
-  "translatedAt": "2025-12-24T02:41:06.164Z"
+  "translatedAt": "2025-12-24T02:41:06.164Z",
+  "sections": [
+    {
+      "title": "The Danites Seek an Inheritance",
+      "startVerse": 1,
+      "endVerse": 1
+    },
+    {
+      "title": "The Spies at Micah’s House",
+      "startVerse": 2,
+      "endVerse": 10
+    },
+    {
+      "title": "The Danites Prepare to Attack Laish",
+      "startVerse": 11,
+      "endVerse": 14
+    },
+    {
+      "title": "The Danites Steal Micah’s Idols and Priest",
+      "startVerse": 15,
+      "endVerse": 21
+    },
+    {
+      "title": "Micah Confronts the Danites",
+      "startVerse": 22,
+      "endVerse": 26
+    },
+    {
+      "title": "The Conquest of Laish and Idolatry in Dan",
+      "startVerse": 27,
+      "endVerse": 31
+    }
+  ]
 }

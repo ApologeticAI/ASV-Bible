@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "So they sent messengers to Holofernes to make peace, saying,",
       "links": "<a href='/AIV/18/2/23'>Jdt 2:23</a>; <a href='/AIV/6/9/15'>Josh 9:15</a>",
-      "comment": "The people are seeking mercy from Holofernes, symbolizing the need for intercession and mediation. This reflects a theme throughout salvation history where God's people seek reconciliation through a mediator (see Ex 32:30-32)."
+      "comment": "The people are seeking mercy from Holofernes, symbolizing the need for intercession and mediation. This reflects a theme throughout salvation history where God's people seek reconciliation through a mediator (see Ex 32:30-32).",
+      "sectionHeader": "Submission of the Surrounding Nations"
     },
     {
       "pk": 18003002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "And he came down from the hill country with his army and camped by the plain, and took possession of their cities, and stationed men in them.",
       "links": "<a href='/AIV/8/13/17'>Judg 13:17</a>; <a href='/AIV/6/11/16'>Josh 11:16</a>",
-      "comment": "Holofernes' occupation represents domination but also sets up the deliverance that will come. This is a common biblical motif where oppression becomes a stage for God’s glory to be revealed (Ex 3:7-8)."
+      "comment": "Holofernes' occupation represents domination but also sets up the deliverance that will come. This is a common biblical motif where oppression becomes a stage for God’s glory to be revealed (Ex 3:7-8).",
+      "sectionHeader": "Holofernes Occupies the Cities"
     },
     {
       "pk": 18003007,
@@ -98,7 +100,8 @@
       "verse": 8,
       "text": "He demolished all their shrines, and cut down their sacred groves, for he was permitted to destroy all the gods of the land, so that all the nations would worship Nebuchadnezzar alone, and that all tongues and tribes should serve him.",
       "links": "<a href='/AIV/5/12/2-3'>Deut 12:2-3</a>; <a href='/AIV/27/3/4'>Dan 3:4</a>",
-      "comment": "The destruction of altars echoes the command to purify worship (Deut 12:3). The compulsion to worship the king recalls the dangers of false worship, tying to Daniel 3. True faithfulness is in undivided worship of the one true God."
+      "comment": "The destruction of altars echoes the command to purify worship (Deut 12:3). The compulsion to worship the king recalls the dangers of false worship, tying to Daniel 3. True faithfulness is in undivided worship of the one true God.",
+      "sectionHeader": "Destruction of Pagan Shrines"
     },
     {
       "pk": 18003009,
@@ -125,5 +128,22 @@
       "comment": "The detailed mention of locations and preparation foreshadows the unfolding of divine providence. Periods of waiting and searching for provision are used by God throughout salvation history to call His people back to dependence on Him (Ex 16:4)."
     }
   ],
-  "translatedAt": "2025-12-24T05:01:13.200Z"
+  "translatedAt": "2025-12-24T05:01:13.200Z",
+  "sections": [
+    {
+      "title": "Submission of the Surrounding Nations",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Holofernes Occupies the Cities",
+      "startVerse": 6,
+      "endVerse": 7
+    },
+    {
+      "title": "Destruction of Pagan Shrines",
+      "startVerse": 8,
+      "endVerse": 10
+    }
+  ]
 }

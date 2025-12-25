@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Josiah was eight years old when he became king, and he reigned in Jerusalem for thirty-one years.",
       "links": "<a href='/AIV/12/22/1'>2 Kings 22:1</a>",
-      "comment": "Josiah's early age as king emphasizes God's ability to work through all people, regardless of age. His long reign foreshadows the reign of Christ (Isaiah 9:7)."
+      "comment": "Josiah's early age as king emphasizes God's ability to work through all people, regardless of age. His long reign foreshadows the reign of Christ (Isaiah 9:7).",
+      "sectionHeader": "Josiah's Reforms in Judah and Israel"
     },
     {
       "pk": 14034002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "In the eighteenth year of his reign, when he had purified the land and the house, he sent Shaphan son of Azaliah, Maaseiah governor of the city, and Joah son of Joahaz the recorder, to repair the house of the LORD his God.",
       "links": "<a href='/AIV/12/22/3'>2 Kings 22:3</a>",
-      "comment": "The focus on repairing the temple points to the importance of sacred spaces and right worship, both physically and spiritually."
+      "comment": "The focus on repairing the temple points to the importance of sacred spaces and right worship, both physically and spiritually.",
+      "sectionHeader": "The Repair of the Temple"
     },
     {
       "pk": 14034009,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "While they were bringing out the money that had been brought into the house of the LORD, Hilkiah the priest found the Book of the Law of the LORD given by Moses.",
       "links": "<a href='/AIV/12/22/8'>2 Kings 22:8</a>; <a href='/AIV/5/31/24-26'>Deut. 31:24-26</a>",
-      "comment": "The rediscovery of the Law shows the abiding authority of God’s revelation and the central role of sacred Scripture for guiding God’s people."
+      "comment": "The rediscovery of the Law shows the abiding authority of God’s revelation and the central role of sacred Scripture for guiding God’s people.",
+      "sectionHeader": "The Book of the Law Found"
     },
     {
       "pk": 14034015,
@@ -266,7 +269,8 @@
       "verse": 22,
       "text": "So Hilkiah and those the king had designated went to Huldah the prophetess, the wife of Shallum son of Tokhath, son of Hasrah, keeper of the wardrobe; she lived in Jerusalem in the Second Quarter. They spoke to her about this.",
       "links": "<a href='/AIV/12/22/14'>2 Kings 22:14</a>",
-      "comment": "Huldah’s role as prophetess is notable. Though rare, God sometimes chooses women for prophetic ministry in sacred history. The seeking of the prophet reflects tradition and liturgical mediation."
+      "comment": "Huldah’s role as prophetess is notable. Though rare, God sometimes chooses women for prophetic ministry in sacred history. The seeking of the prophet reflects tradition and liturgical mediation.",
+      "sectionHeader": "Huldah's Prophecy"
     },
     {
       "pk": 14034023,
@@ -350,7 +354,8 @@
       "verse": 29,
       "text": "Then the king sent and gathered all the elders of Judah and Jerusalem.",
       "links": "<a href='/AIV/12/23/1'>2 Kings 23:1</a>",
-      "comment": "Ceremonial gatherings of leaders point to the visible, united, and hierarchical nature of the assembly of God’s people."
+      "comment": "Ceremonial gatherings of leaders point to the visible, united, and hierarchical nature of the assembly of God’s people.",
+      "sectionHeader": "The Covenant Renewed"
     },
     {
       "pk": 14034030,
@@ -401,5 +406,32 @@
       "comment": "Josiah’s reforms unified religious practice and fostered obedience. The theme of one faith under one shepherd prefigures Christ’s shepherding of the New Covenant community (John 10:16)."
     }
   ],
-  "translatedAt": "2025-12-24T04:39:07.610Z"
+  "translatedAt": "2025-12-24T04:39:07.610Z",
+  "sections": [
+    {
+      "title": "Josiah's Reforms in Judah and Israel",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "The Repair of the Temple",
+      "startVerse": 8,
+      "endVerse": 13
+    },
+    {
+      "title": "The Book of the Law Found",
+      "startVerse": 14,
+      "endVerse": 21
+    },
+    {
+      "title": "Huldah's Prophecy",
+      "startVerse": 22,
+      "endVerse": 28
+    },
+    {
+      "title": "The Covenant Renewed",
+      "startVerse": 29,
+      "endVerse": 33
+    }
+  ]
 }

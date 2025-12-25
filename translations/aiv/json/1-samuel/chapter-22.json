@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "David left there and escaped to the cave of Adullam. When his brothers and all his father’s household heard, they went down to him there.",
       "links": "<a href='/AIV/13/11/15'>1 Chr. 11:15</a>; <a href='/AIV/19/57/1'>Ps. 57:1</a>",
-      "comment": "David's withdrawal to the cave shows both his prudence and the beginnings of his band of loyal followers. This is the same cave referenced in the Psalms, hinting at David's great trust in God during affliction."
+      "comment": "David's withdrawal to the cave shows both his prudence and the beginnings of his band of loyal followers. This is the same cave referenced in the Psalms, hinting at David's great trust in God during affliction.",
+      "sectionHeader": "David at the Cave of Adullam"
     },
     {
       "pk": 9022002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "Saul heard that David and the men with him had been discovered. Saul was sitting in Gibeah under the tamarisk tree on the height with his spear in his hand, and all his servants were standing around him.",
       "links": "<a href='/AIV/09/19/23'>1 Sam. 19:23</a>; <a href='/AIV/09/31/13'>1 Sam. 31:13</a>",
-      "comment": "Saul, seated with spear, is a recurring symbol of his rule and readiness for violence, already estranged from God’s favor. The contrast between David's humble band and Saul’s armed court is striking."
+      "comment": "Saul, seated with spear, is a recurring symbol of his rule and readiness for violence, already estranged from God’s favor. The contrast between David's humble band and Saul’s armed court is striking.",
+      "sectionHeader": "Saul Pursues David"
     },
     {
       "pk": 9022007,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "Then the king sent to summon Ahimelech the priest, the son of Ahitub, and all his father’s household, the priests who were in Nob; and they all came to the king.",
       "links": "<a href='/AIV/09/21/1'>1 Sam. 21:1</a>",
-      "comment": "All the priests of Nob, the key Levitical city, are summoned. The priests here symbolize the mediation between God and man, foreshadowing later priesthood fulfilled in Christ."
+      "comment": "All the priests of Nob, the key Levitical city, are summoned. The priests here symbolize the mediation between God and man, foreshadowing later priesthood fulfilled in Christ.",
+      "sectionHeader": "Massacre of the Priests at Nob"
     },
     {
       "pk": 9022012,
@@ -242,7 +245,8 @@
       "verse": 20,
       "text": "But one of the sons of Ahimelech, the son of Ahitub, named Abiathar, escaped and fled after David.",
       "links": "<a href='/AIV/09/23/6'>1 Sam. 23:6</a>",
-      "comment": "Abiathar’s escape preserves the priestly line, showing God’s faithfulness to His promises (see 1 Sam. 2:35). Abiathar becomes high priest under David, an anointed mediator between God and king."
+      "comment": "Abiathar’s escape preserves the priestly line, showing God’s faithfulness to His promises (see 1 Sam. 2:35). Abiathar becomes high priest under David, an anointed mediator between God and king.",
+      "sectionHeader": "Abiathar Escapes to David"
     },
     {
       "pk": 9022021,
@@ -281,5 +285,27 @@
       "comment": "David promising safety and solidarity to Abiathar is reminiscent of Christ’s assurance to His followers (John 10:28), providing spiritual and physical protection even amidst persecution. True leaders offer refuge and guidance to the persecuted."
     }
   ],
-  "translatedAt": "2025-12-24T03:01:48.328Z"
+  "translatedAt": "2025-12-24T03:01:48.328Z",
+  "sections": [
+    {
+      "title": "David at the Cave of Adullam",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Saul Pursues David",
+      "startVerse": 6,
+      "endVerse": 10
+    },
+    {
+      "title": "Massacre of the Priests at Nob",
+      "startVerse": 11,
+      "endVerse": 19
+    },
+    {
+      "title": "Abiathar Escapes to David",
+      "startVerse": 20,
+      "endVerse": 23
+    }
+  ]
 }

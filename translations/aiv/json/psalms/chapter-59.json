@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Deliver me from my enemies, O God; protect me from those who rise up against me.",
       "links": "<a href='/AIV/19/18/48'>Ps. 18:48</a>; <a href='/AIV/19/17/13'>Ps. 17:13</a>",
-      "comment": "The psalmist immediately appeals directly to God for rescue, affirming God's role as a personal deliverer. The language is a call for protection and echoes throughout other psalms and prayers (Ps. 18:2), prefiguring the consistent need for God's safeguarding in both Old and New Testament believers."
+      "comment": "The psalmist immediately appeals directly to God for rescue, affirming God's role as a personal deliverer. The language is a call for protection and echoes throughout other psalms and prayers (Ps. 18:2), prefiguring the consistent need for God's safeguarding in both Old and New Testament believers.",
+      "sectionHeader": "Prayer for Deliverance from Enemies"
     },
     {
       "pk": 23059002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "O my Strength, I will watch for you, for you, O God, are my fortress.",
       "links": "<a href='/AIV/19/18/2'>Ps. 18:2</a>; <a href='/AIV/19/62/2'>Ps. 62:2</a>",
-      "comment": "The Psalmist expresses patient trust in God, calling Him 'my Strength,' an attribute used throughout the Psalms. The imagery anticipates Christ's own reliance on the Father, inviting believers into spiritual perseverance and trust."
+      "comment": "The Psalmist expresses patient trust in God, calling Him 'my Strength,' an attribute used throughout the Psalms. The imagery anticipates Christ's own reliance on the Father, inviting believers into spiritual perseverance and trust.",
+      "sectionHeader": "Confidence in God's Protection"
     },
     {
       "pk": 23059010,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "Do not kill them, or my people may forget; make them wander by your power and bring them down, O Lord, our shield.",
       "links": "<a href='/AIV/19/59/13'>Ps. 59:13</a>; <a href='/AIV/02/9/16'>Ex. 9:16</a>",
-      "comment": "There’s a call for proportion, not annihilation—so that God’s people observe the consequences of evil and remember divine justice. The theme of God as shield recurs in Psalms and in Pauline imagery (Eph. 6:16), encouraging ongoing trust."
+      "comment": "There’s a call for proportion, not annihilation—so that God’s people observe the consequences of evil and remember divine justice. The theme of God as shield recurs in Psalms and in Pauline imagery (Eph. 6:16), encouraging ongoing trust.",
+      "sectionHeader": "Judgment upon the Wicked"
     },
     {
       "pk": 23059012,
@@ -194,7 +197,8 @@
       "verse": 16,
       "text": "But I will sing of your strength; I will sing aloud of your steadfast love in the morning. For you have been my fortress and my refuge in days of trouble.",
       "links": "<a href='/AIV/19/89/1'>Ps. 89:1</a>; <a href='/AIV/19/46/1'>Ps. 46:1</a>",
-      "comment": "The psalmist’s resolve to praise God contrasts the insecurity of his enemies. The focus on morning praise and God as refuge models a rhythm of prayer and trust, which became foundational to Christian communal worship and the call to pray at set hours (see Acts 3:1)."
+      "comment": "The psalmist’s resolve to praise God contrasts the insecurity of his enemies. The focus on morning praise and God as refuge models a rhythm of prayer and trust, which became foundational to Christian communal worship and the call to pray at set hours (see Acts 3:1).",
+      "sectionHeader": "Praise for God's Strength and Love"
     },
     {
       "pk": 23059017,
@@ -209,5 +213,27 @@
       "comment": "The closing verse reaffirms God’s protection and covenant love. The language of sanctuary and praise points toward a liturgical response: singing to God as evidence of faith, mirroring the continual worship practiced by the early Christians (Col. 3:16). The structure and repetition also encourage regular participation in both private and communal prayer."
     }
   ],
-  "translatedAt": "2025-12-24T06:19:18.830Z"
+  "translatedAt": "2025-12-24T06:19:18.830Z",
+  "sections": [
+    {
+      "title": "Prayer for Deliverance from Enemies",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "Confidence in God's Protection",
+      "startVerse": 9,
+      "endVerse": 10
+    },
+    {
+      "title": "Judgment upon the Wicked",
+      "startVerse": 11,
+      "endVerse": 15
+    },
+    {
+      "title": "Praise for God's Strength and Love",
+      "startVerse": 16,
+      "endVerse": 17
+    }
+  ]
 }

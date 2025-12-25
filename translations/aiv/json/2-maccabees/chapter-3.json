@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "While the holy city lived in perfect peace and the laws were carefully kept because Onias the high priest was devout, and hatred for evil prevailed,",
       "links": "<a href='/AIV/19/122/6'>Ps. 122:6</a>; <a href='/AIV/39/2/6-7'>Mal. 2:6-7</a>",
-      "comment": "This opening tells us Jerusalem's peace was linked to faithful leadership and devotion to God's law, paralleling passages about the blessings of righteous priests."
+      "comment": "This opening tells us Jerusalem's peace was linked to faithful leadership and devotion to God's law, paralleling passages about the blessings of righteous priests.",
+      "sectionHeader": "The Peace and Prosperity of Jerusalem"
     },
     {
       "pk": 21003002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "But Simon, from the tribe of Benjamin, who had been made governor of the temple, became contentious with the high priest over management of the market in the city.",
       "links": "<a href='/AIV/19/41/9'>Ps. 41:9</a>",
-      "comment": "Internal conflict among leaders threatens the unity and sanctity of worship; similar warnings appear in the Psalms and during Israel's history."
+      "comment": "Internal conflict among leaders threatens the unity and sanctity of worship; similar warnings appear in the Psalms and during Israel's history.",
+      "sectionHeader": "Simon’s Plot and Heliodorus’s Mission"
     },
     {
       "pk": 21003005,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "So Heliodorus formally entered the temple, accompanied by the king’s guards.",
       "links": "<a href='/AIV/19/79/1'>Ps. 79:1</a>",
-      "comment": "Gentile intrusion into the holy place foreshadows later desecration and suffering prophesied throughout Scripture."
+      "comment": "Gentile intrusion into the holy place foreshadows later desecration and suffering prophesied throughout Scripture.",
+      "sectionHeader": "Heliodorus Attempts to Seize the Temple Treasury"
     },
     {
       "pk": 21003015,
@@ -278,7 +281,8 @@
       "verse": 23,
       "text": "While Heliodorus carried out his plan, God’s power was made clear to everyone.",
       "links": "<a href='/AIV/02/14/27'>Ex. 14:27</a>; <a href='/AIV/27/6/27'>Dan. 6:27</a>",
-      "comment": "Divine intervention that reveals God’s authority echoes the Red Sea miracle and Daniel’s deliverance."
+      "comment": "Divine intervention that reveals God’s authority echoes the Red Sea miracle and Daniel’s deliverance.",
+      "sectionHeader": "God Intervenes Against Heliodorus"
     },
     {
       "pk": 21003024,
@@ -374,7 +378,8 @@
       "verse": 31,
       "text": "Those close to Heliodorus asked Onias to pray for his life, fearing that the king would blame him for Heliodorus’s death.",
       "links": "<a href='/AIV/18/42/8'>Job 42:8</a>",
-      "comment": "Even authorities recognize the special intercessory role of God’s appointed servants; compare with Job’s role for his friends."
+      "comment": "Even authorities recognize the special intercessory role of God’s appointed servants; compare with Job’s role for his friends.",
+      "sectionHeader": "Heliodorus Restored and Temple Funds Protected"
     },
     {
       "pk": 21003032,
@@ -485,5 +490,32 @@
       "comment": "God’s deliverance is personal and communal; many psalms record similar interventions, and this points to God’s continuing protection of His sacred people and places."
     }
   ],
-  "translatedAt": "2025-12-24T05:30:42.429Z"
+  "translatedAt": "2025-12-24T05:30:42.429Z",
+  "sections": [
+    {
+      "title": "The Peace and Prosperity of Jerusalem",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "Simon’s Plot and Heliodorus’s Mission",
+      "startVerse": 4,
+      "endVerse": 13
+    },
+    {
+      "title": "Heliodorus Attempts to Seize the Temple Treasury",
+      "startVerse": 14,
+      "endVerse": 22
+    },
+    {
+      "title": "God Intervenes Against Heliodorus",
+      "startVerse": 23,
+      "endVerse": 30
+    },
+    {
+      "title": "Heliodorus Restored and Temple Funds Protected",
+      "startVerse": 31,
+      "endVerse": 40
+    }
+  ]
 }

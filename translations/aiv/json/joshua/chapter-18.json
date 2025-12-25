@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then the entire congregation of the Israelites assembled at Shiloh, and set up the Tent of Meeting there. The land was now subdued before them.",
       "links": "<a href='/AIV/7/21/19'>Judg. 21:19</a>; <a href='/AIV/9/1/3'>1 Sam. 1:3</a>",
-      "comment": "Shiloh becomes the central place of worship—a sign of God's dwelling among His people. The Tent of Meeting anticipates the Temple, which prefigures Christ who 'tabernacles' among us (John 1:14). The gathering of all Israel is significant for unity in faith and worship."
+      "comment": "Shiloh becomes the central place of worship—a sign of God's dwelling among His people. The Tent of Meeting anticipates the Temple, which prefigures Christ who 'tabernacles' among us (John 1:14). The gathering of all Israel is significant for unity in faith and worship.",
+      "sectionHeader": "The Tent of Meeting Set Up at Shiloh"
     },
     {
       "pk": 6018002,
@@ -26,7 +27,8 @@
       "verse": 2,
       "text": "But there remained seven tribes among the Israelites that had not yet received their inheritance.",
       "links": "<a href='/AIV/6/14/1'>Josh. 14:1</a>; <a href='/AIV/6/17/5-6'>Josh. 17:5-6</a>",
-      "comment": "The division of the land continues, and the delay in possession is an occasion for Joshua’s leadership. This points to the need for spiritual leadership and order even when blessings are available, recalling the role of shepherds and overseers in the Church (Acts 20:28)."
+      "comment": "The division of the land continues, and the delay in possession is an occasion for Joshua’s leadership. This points to the need for spiritual leadership and order even when blessings are available, recalling the role of shepherds and overseers in the Church (Acts 20:28).",
+      "sectionHeader": "Seven Tribes Await Their Inheritance"
     },
     {
       "pk": 6018003,
@@ -50,7 +52,8 @@
       "verse": 4,
       "text": "'Choose three men from each tribe, and I will send them out that they may go throughout the land and write a description of it according to its inheritance. Then they shall return to me.'",
       "links": "<a href='/AIV/4/13/2'>Num. 13:2</a>; <a href='/AIV/6/18/6'>Josh. 18:6</a>",
-      "comment": "Joshua establishes orderly procedure and written record for dividing the inheritance. This methodical approach models the importance of structure and solid foundation, symbolizing the careful establishment of God's people."
+      "comment": "Joshua establishes orderly procedure and written record for dividing the inheritance. This methodical approach models the importance of structure and solid foundation, symbolizing the careful establishment of God's people.",
+      "sectionHeader": "Joshua Commissions the Survey of the Land"
     },
     {
       "pk": 6018005,
@@ -134,7 +137,8 @@
       "verse": 11,
       "text": "The lot of the tribe of Benjamin came up according to their clans. The territory allotted to them fell between Judah and Joseph.",
       "links": "<a href='/AIV/6/18/28'>Josh. 18:28</a>; <a href='/AIV/9/10/27'>1 Sam. 10:27</a>",
-      "comment": "Benjamin’s location between Judah and Joseph has significant messianic implications, as Jerusalem—later chosen by God—lies within its territory. This territory will become central for worship, governance, and redemption."
+      "comment": "Benjamin’s location between Judah and Joseph has significant messianic implications, as Jerusalem—later chosen by God—lies within its territory. This territory will become central for worship, governance, and redemption.",
+      "sectionHeader": "The Allotment of Benjamin"
     },
     {
       "pk": 6018012,
@@ -341,5 +345,27 @@
       "comment": "Jerusalem, in Benjamin’s territory, is the future epicenter of worship and the coming of the Messiah. The completeness of the inheritance, with all its towns, foreshadows the fullness of spiritual blessings, pointing to the unity of God’s people centered around the chosen city and sacred leadership."
     }
   ],
-  "translatedAt": "2025-12-24T02:26:18.948Z"
+  "translatedAt": "2025-12-24T02:26:18.948Z",
+  "sections": [
+    {
+      "title": "The Tent of Meeting Set Up at Shiloh",
+      "startVerse": 1,
+      "endVerse": 1
+    },
+    {
+      "title": "Seven Tribes Await Their Inheritance",
+      "startVerse": 2,
+      "endVerse": 3
+    },
+    {
+      "title": "Joshua Commissions the Survey of the Land",
+      "startVerse": 4,
+      "endVerse": 10
+    },
+    {
+      "title": "The Allotment of Benjamin",
+      "startVerse": 11,
+      "endVerse": 28
+    }
+  ]
 }

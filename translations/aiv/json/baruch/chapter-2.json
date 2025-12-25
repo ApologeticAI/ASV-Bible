@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Therefore, the Lord fulfilled the word He spoke against us, against our rulers, against Israel and Judah.",
       "links": "<a href='/AIV/24/25/18'>Jer. 25:18</a>; <a href='/AIV/27/9/12'>Dan. 9:12</a>",
-      "comment": "God's faithfulness is seen even in judgment. This echoes the repeated prophetic warnings given to both the leaders and the people."
+      "comment": "God's faithfulness is seen even in judgment. This echoes the repeated prophetic warnings given to both the leaders and the people.",
+      "sectionHeader": "The Fulfillment of God’s Judgments"
     },
     {
       "pk": 32002002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "And now, O Lord, God of Israel, You have brought Your people out of the land of Egypt with a mighty hand, with signs and wonders, and with great power and outstretched arm, making a name for Yourself even to this day.",
       "links": "<a href='/AIV/02/7/4-5'>Exod. 7:4-5</a>; <a href='/AIV/05/26/8'>Deut. 26:8</a>",
-      "comment": "Recalling the Exodus reinforces God's unique saving work and enduring reputation. This anticipates the concept of sacramental remembrance and continuity."
+      "comment": "Recalling the Exodus reinforces God's unique saving work and enduring reputation. This anticipates the concept of sacramental remembrance and continuity.",
+      "sectionHeader": "A Prayer of Repentance"
     },
     {
       "pk": 32002012,
@@ -362,7 +364,8 @@
       "verse": 30,
       "text": "For I know they will not listen to Me, because they are a stiff-necked people. But in the land of their exile, they will come to their senses.",
       "links": "<a href='/AIV/05/31/27'>Deut. 31:27</a>; <a href='/AIV/15/9/7'>Ezra 9:7</a>",
-      "comment": "Recognition of sin and return to right worship foreshadows repentance and conversion. See the prodigal son parable for parallel (Luke 15)."
+      "comment": "Recognition of sin and return to right worship foreshadows repentance and conversion. See the prodigal son parable for parallel (Luke 15).",
+      "sectionHeader": "Promise of Restoration"
     },
     {
       "pk": 32002031,
@@ -425,5 +428,22 @@
       "comment": "The promise of an everlasting covenant points to the spiritual and eternal fulfillment realized in Jesus Christ, the new and eternal high priest. See Hebrews 13:20. This verse strongly supports an understanding of continuity between Old and New Covenants."
     }
   ],
-  "translatedAt": "2025-12-24T08:55:47.879Z"
+  "translatedAt": "2025-12-24T08:55:47.879Z",
+  "sections": [
+    {
+      "title": "The Fulfillment of God’s Judgments",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "A Prayer of Repentance",
+      "startVerse": 11,
+      "endVerse": 29
+    },
+    {
+      "title": "Promise of Restoration",
+      "startVerse": 30,
+      "endVerse": 35
+    }
+  ]
 }

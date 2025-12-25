@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "I said in my heart, “Come now, I will test you with pleasure. Enjoy yourself.” But see, this also was vanity.",
       "links": "<a href='/AIV/21/1/17'>Eccl. 1:17</a>; <a href='/AIV/21/2/10'>Eccl. 2:10</a>",
-      "comment": "Here the Teacher pursues pleasure to determine if fulfillment can be found in enjoyment. The word 'vanity' indicates fleeting emptiness, connecting to the theme of human pursuits—this challenge foreshadows later New Testament teaching about storing up eternal treasure (see <a href='/AIV/40/6/19-21'>Matt. 6:19-21</a>)."
+      "comment": "Here the Teacher pursues pleasure to determine if fulfillment can be found in enjoyment. The word 'vanity' indicates fleeting emptiness, connecting to the theme of human pursuits—this challenge foreshadows later New Testament teaching about storing up eternal treasure (see <a href='/AIV/40/6/19-21'>Matt. 6:19-21</a>).",
+      "sectionHeader": "The Vanity of Pleasure"
     },
     {
       "pk": 25002002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "So I turned to consider wisdom and madness and folly—for what can anyone do who comes after the king? Only what has already been done.",
       "links": "<a href='/AIV/21/1/9'>Eccl. 1:9</a>; <a href='/AIV/20/14/8'>Prov. 14:8</a>",
-      "comment": "The cyclical nature of human endeavor reflects a deep realism; true wisdom’s value lies in its ability to discern beyond worldly repetition."
+      "comment": "The cyclical nature of human endeavor reflects a deep realism; true wisdom’s value lies in its ability to discern beyond worldly repetition.",
+      "sectionHeader": "The Vanity of Wisdom"
     },
     {
       "pk": 25002013,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "I hated all my toil by which I had toiled under the sun, because I must leave it to someone who will come after me.",
       "links": "<a href='/AIV/19/49/17'>Ps. 49:17</a>; <a href='/AIV/21/5/15'>Eccl. 5:15</a>",
-      "comment": "Nothing can be permanently accrued; inheritance highlights the impermanence of earthly riches. Spiritual inheritance, however, is secured by sacramental union with God’s covenant people."
+      "comment": "Nothing can be permanently accrued; inheritance highlights the impermanence of earthly riches. Spiritual inheritance, however, is secured by sacramental union with God’s covenant people.",
+      "sectionHeader": "The Vanity of Toil"
     },
     {
       "pk": 25002019,
@@ -290,7 +293,8 @@
       "verse": 24,
       "text": "There is nothing better for a person than that he should eat and drink and find enjoyment in his work. This also, I saw, is from the hand of God.",
       "links": "<a href='/AIV/21/3/13'>Eccl. 3:13</a>; <a href='/AIV/19/128/2'>Ps. 128:2</a>",
-      "comment": "Enjoyment of daily life is a gift given by God; this echoes the theology of receiving grace through the rhythm of work, feasting, and rest, which finds deeper fulfillment in the sacramental life."
+      "comment": "Enjoyment of daily life is a gift given by God; this echoes the theology of receiving grace through the rhythm of work, feasting, and rest, which finds deeper fulfillment in the sacramental life.",
+      "sectionHeader": "The Gift of God"
     },
     {
       "pk": 25002025,
@@ -317,5 +321,27 @@
       "comment": "God sovereignly distributes both blessing and frustration according to His wisdom. This points to the importance of living life aligned to God’s will as revealed and made accessible through the Church’s teaching and sacraments. The verse hints at mystery: prosperity and purpose come through pleasing God, not merely through human effort or achievement."
     }
   ],
-  "translatedAt": "2025-12-24T07:07:31.888Z"
+  "translatedAt": "2025-12-24T07:07:31.888Z",
+  "sections": [
+    {
+      "title": "The Vanity of Pleasure",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "The Vanity of Wisdom",
+      "startVerse": 12,
+      "endVerse": 17
+    },
+    {
+      "title": "The Vanity of Toil",
+      "startVerse": 18,
+      "endVerse": 23
+    },
+    {
+      "title": "The Gift of God",
+      "startVerse": 24,
+      "endVerse": 26
+    }
+  ]
 }

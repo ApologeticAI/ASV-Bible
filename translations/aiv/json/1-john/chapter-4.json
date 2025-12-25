@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Beloved, do not believe every spirit, but test the spirits to see whether they are from God, for many false prophets have gone out into the world.",
       "links": "<a href='/AIV/40/7/15'>Matt. 7:15</a>; <a href='/AIV/52/5/21'>1 Thess. 5:21</a>",
-      "comment": "John urges discernment about spiritual influences, since mistaken ideas about Christ threaten the true faith. Testing spirits echoes Jesus’ warning of false prophets."
+      "comment": "John urges discernment about spiritual influences, since mistaken ideas about Christ threaten the true faith. Testing spirits echoes Jesus’ warning of false prophets.",
+      "sectionHeader": "Discernment of Spirits"
     },
     {
       "pk": 69004002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "Beloved, let us love one another, for love is from God, and whoever loves has been born of God and knows God.",
       "links": "<a href='/AIV/43/13/34'>John 13:34</a>; <a href='/AIV/62/2/29'>1 John 2:29</a>",
-      "comment": "Christian love marks true spiritual rebirth. Charity is the essence of God’s nature and is imparted through the new birth and participation in the life of Christ."
+      "comment": "Christian love marks true spiritual rebirth. Charity is the essence of God’s nature and is imparted through the new birth and participation in the life of Christ.",
+      "sectionHeader": "God’s Love and Our Duty to Love"
     },
     {
       "pk": 69004008,
@@ -257,5 +259,17 @@
       "comment": "Jesus' commandment sums up the Law—love of God and neighbor are inseparable. Fullness of faith is lived out within a community shaped by obedient love."
     }
   ],
-  "translatedAt": "2025-12-24T12:31:33.829Z"
+  "translatedAt": "2025-12-24T12:31:33.829Z",
+  "sections": [
+    {
+      "title": "Discernment of Spirits",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "God’s Love and Our Duty to Love",
+      "startVerse": 7,
+      "endVerse": 21
+    }
+  ]
 }

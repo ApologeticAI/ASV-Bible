@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Working together with Him, we urge you not to receive God’s grace in vain.",
       "links": "<a href='/AIV/45/3/24'>Rom. 3:24</a>; <a href='/AIV/47/5/20'>2Cor. 5:20</a>",
-      "comment": "Paul continues the previous appeals, stressing cooperation with God and the importance of human response to grace. It implies that grace may be given, yet ineffectual if not embraced and acted upon (see Rom. 3:24)."
+      "comment": "Paul continues the previous appeals, stressing cooperation with God and the importance of human response to grace. It implies that grace may be given, yet ineffectual if not embraced and acted upon (see Rom. 3:24).",
+      "sectionHeader": "Exhortation to Live Worthily of God's Grace"
     },
     {
       "pk": 54006002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "We put no obstacle in anyone’s way, so that our ministry will not be blamed.",
       "links": "<a href='/AIV/44/24/16'>Acts 24:16</a>; <a href='/AIV/54/3/7'>1Tim. 3:7</a>",
-      "comment": "Paul stresses the integrity of his ministry, ensuring it remains above reproach. This reflects the apostolic commitment to holiness and blameless service (see 1Tim. 3:7)."
+      "comment": "Paul stresses the integrity of his ministry, ensuring it remains above reproach. This reflects the apostolic commitment to holiness and blameless service (see 1Tim. 3:7).",
+      "sectionHeader": "The Marks of Paul’s Apostolic Ministry"
     },
     {
       "pk": 54006004,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "We have spoken freely to you, Corinthians; our hearts are open wide.",
       "links": "<a href='/AIV/47/3/2'>2Cor. 3:2</a>",
-      "comment": "Paul affirms transparency and affection in his relationship with the church, inviting reciprocal openness as a mark of authentic Christian community."
+      "comment": "Paul affirms transparency and affection in his relationship with the church, inviting reciprocal openness as a mark of authentic Christian community.",
+      "sectionHeader": "A Plea for Mutual Openness"
     },
     {
       "pk": 54006012,
@@ -170,7 +173,8 @@
       "verse": 14,
       "text": "Do not be unequally yoked with unbelievers. For what partnership is there between righteousness and lawlessness? Or what fellowship does light have with darkness?",
       "links": "<a href='/AIV/05/22/10'>Deut. 22:10</a>; <a href='/AIV/49/5/7-11'>Eph. 5:7-11</a>",
-      "comment": "Drawing on Old Testament imagery (Deut. 22:10), Paul forbids compromising spiritual purity through close association with unbelief. The Church is called to holiness and separation from evil influences (see Eph. 5:7-11)."
+      "comment": "Drawing on Old Testament imagery (Deut. 22:10), Paul forbids compromising spiritual purity through close association with unbelief. The Church is called to holiness and separation from evil influences (see Eph. 5:7-11).",
+      "sectionHeader": "Call to Holiness and Separation from Unbelievers"
     },
     {
       "pk": 54006015,
@@ -221,5 +225,27 @@
       "comment": "Adoption as children of God fulfills Old Testament types (2Sam. 7:14; Isa. 43:6), realized now in Christ (see John 1:12). The promise points to the intimate family relationship offered to believers, culminating in union with God through participation in His life."
     }
   ],
-  "translatedAt": "2025-12-24T11:55:07.139Z"
+  "translatedAt": "2025-12-24T11:55:07.139Z",
+  "sections": [
+    {
+      "title": "Exhortation to Live Worthily of God's Grace",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "The Marks of Paul’s Apostolic Ministry",
+      "startVerse": 3,
+      "endVerse": 10
+    },
+    {
+      "title": "A Plea for Mutual Openness",
+      "startVerse": 11,
+      "endVerse": 13
+    },
+    {
+      "title": "Call to Holiness and Separation from Unbelievers",
+      "startVerse": 14,
+      "endVerse": 18
+    }
+  ]
 }

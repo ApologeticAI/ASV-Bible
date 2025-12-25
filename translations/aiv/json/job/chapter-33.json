@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "But now, Job, listen to my words; pay attention to everything I say.",
       "links": "<a href='/AIV/18/13/6'>Job 13:6</a>; <a href='/AIV/18/33/31-33'>Job 33:31-33</a>",
-      "comment": "Elihu begins his response to Job, seeking to gently correct him. The invitation to listen again foreshadows later New Testament calls to hear truth (Mark 4:9)."
+      "comment": "Elihu begins his response to Job, seeking to gently correct him. The invitation to listen again foreshadows later New Testament calls to hear truth (Mark 4:9).",
+      "sectionHeader": "Elihu Begins His Speech"
     },
     {
       "pk": 22033002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "But you have said in my hearing—I have heard your very words:",
       "links": "<a href='/AIV/18/13/15'>Job 13:15</a>",
-      "comment": "Elihu reminds Job of his own statements, demonstrating the importance of accountability—later fulfilled in Christ’s teachings (Matt. 12:36)."
+      "comment": "Elihu reminds Job of his own statements, demonstrating the importance of accountability—later fulfilled in Christ’s teachings (Matt. 12:36).",
+      "sectionHeader": "Job's Claim of Innocence"
     },
     {
       "pk": 22033009,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "For God does speak—now one way, now another—though people may not perceive it.",
       "links": "<a href='/AIV/09/3/4'>1 Sam. 3:4-14</a>; <a href='/AIV/18/33/29'>Job 33:29</a>",
-      "comment": "Highlights divine revelation, which foreshadows the many ways God will later speak through Jesus and the Spirit (Heb. 1:1-2)."
+      "comment": "Highlights divine revelation, which foreshadows the many ways God will later speak through Jesus and the Spirit (Heb. 1:1-2).",
+      "sectionHeader": "God's Ways of Speaking to Humanity"
     },
     {
       "pk": 22033015,
@@ -278,7 +281,8 @@
       "verse": 23,
       "text": "Yet if there is an angel on their side, a mediator, one out of a thousand, to declare to a person what is right for them,",
       "links": "<a href='/AIV/18/5/1'>Job 5:1</a>; <a href='/AIV/54/2/5'>1 Tim. 2:5</a>",
-      "comment": "Hints strongly at the necessity of a mediator—a role fully revealed in Christ (1 Tim. 2:5). The mention of an angel also alludes to the theme of intercession found throughout Scripture."
+      "comment": "Hints strongly at the necessity of a mediator—a role fully revealed in Christ (1 Tim. 2:5). The mention of an angel also alludes to the theme of intercession found throughout Scripture.",
+      "sectionHeader": "Restoration Through a Mediator"
     },
     {
       "pk": 22033024,
@@ -401,5 +405,27 @@
       "comment": "Closes with the importance of receiving wisdom from above—a theme continued in Christ, who is the fullness of wisdom (Col. 2:3)."
     }
   ],
-  "translatedAt": "2025-12-24T05:54:29.641Z"
+  "translatedAt": "2025-12-24T05:54:29.641Z",
+  "sections": [
+    {
+      "title": "Elihu Begins His Speech",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Job's Claim of Innocence",
+      "startVerse": 8,
+      "endVerse": 13
+    },
+    {
+      "title": "God's Ways of Speaking to Humanity",
+      "startVerse": 14,
+      "endVerse": 22
+    },
+    {
+      "title": "Restoration Through a Mediator",
+      "startVerse": 23,
+      "endVerse": 33
+    }
+  ]
 }

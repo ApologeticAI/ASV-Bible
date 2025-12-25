@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The LORD says: 'Heaven is my throne, and the earth is my footstool. Where then is the house you could build for me, and where is the place of my rest?'",
       "links": "<a href='/AIV/11/8/27'>1 Kgs 8:27</a>; <a href='/AIV/44/7/49'>Acts 7:49</a>",
-      "comment": "God reminds the people that He cannot be contained in any earthly temple. This anticipates the New Covenant understanding that true worship is not limited to a building, but is fulfilled in the gathering of true believers (see John 4:23-24)."
+      "comment": "God reminds the people that He cannot be contained in any earthly temple. This anticipates the New Covenant understanding that true worship is not limited to a building, but is fulfilled in the gathering of true believers (see John 4:23-24).",
+      "sectionHeader": "True Worship and False Religion"
     },
     {
       "pk": 29066002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "Before she was in labor she gave birth; before her pain came upon her she delivered a son.",
       "links": "<a href='/AIV/23/49/20-21'>Isa. 49:20-21</a>; <a href='/AIV/42/2/7'>Luke 2:7</a>",
-      "comment": "A miraculous birth—interpreted by Christians as foreshadowing both the restoration of Jerusalem and the virginal birth of the Messiah (see Rev 12:5; Gal 4:26-27)."
+      "comment": "A miraculous birth—interpreted by Christians as foreshadowing both the restoration of Jerusalem and the virginal birth of the Messiah (see Rev 12:5; Gal 4:26-27).",
+      "sectionHeader": "Joy and Restoration for Jerusalem"
     },
     {
       "pk": 29066008,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "For behold, the LORD will come with fire, and his chariots like a whirlwind, to render his anger with fury, and his rebuke with flames of fire.",
       "links": "<a href='/AIV/23/29/6'>Isa. 29:6</a>; <a href='/AIV/40/3/12'>Matt 3:12</a>; <a href='/AIV/66/19/11-21'>Rev. 19:11-21</a>",
-      "comment": "God’s coming in fire foreshadows the final judgment. New Testament writers use these images for the return of Christ."
+      "comment": "God’s coming in fire foreshadows the final judgment. New Testament writers use these images for the return of Christ.",
+      "sectionHeader": "The LORD’s Final Judgment and Gathering of the Nations"
     },
     {
       "pk": 29066016,
@@ -293,5 +296,22 @@
       "comment": "A sober warning about judgment: Jesus Himself quotes this verse in reference to the final judgment. God’s justice is as real as His mercy. This underlines the need to enter and remain in the visible community He has established for His people."
     }
   ],
-  "translatedAt": "2025-12-24T08:20:54.858Z"
+  "translatedAt": "2025-12-24T08:20:54.858Z",
+  "sections": [
+    {
+      "title": "True Worship and False Religion",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Joy and Restoration for Jerusalem",
+      "startVerse": 7,
+      "endVerse": 14
+    },
+    {
+      "title": "The LORD’s Final Judgment and Gathering of the Nations",
+      "startVerse": 15,
+      "endVerse": 24
+    }
+  ]
 }

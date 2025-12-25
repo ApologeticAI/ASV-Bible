@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Blessed is the man who has not sinned with his mouth, and who has not been pierced by the pain of sin.",
       "links": "<a href='/AIV/19/34/13'>Ps. 34:13</a>; <a href='/AIV/20/21/23'>Prov. 21:23</a>; <a href='/AIV/59/3/2'>Jas. 3:2</a>",
-      "comment": "Emphasizes the virtue of controlling one's speech, echoed in James's teaching about the tongue. Highlights the spiritual discipline of purity in words, laying foundation for holiness."
+      "comment": "Emphasizes the virtue of controlling one's speech, echoed in James's teaching about the tongue. Highlights the spiritual discipline of purity in words, laying foundation for holiness.",
+      "sectionHeader": "Blessings for the Righteous"
     },
     {
       "pk": 28014002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "Riches are not fitting for a greedy person; and what use is money to a miser?",
       "links": "<a href='/AIV/20/11/24'>Prov. 11:24</a>; <a href='/AIV/42/16/13'>Lk. 16:13</a>",
-      "comment": "Warnings against greed are rooted throughout Scripture, such as Jesus's teaching against serving money. Material blessings are to be stewarded, not hoarded."
+      "comment": "Warnings against greed are rooted throughout Scripture, such as Jesus's teaching against serving money. Material blessings are to be stewarded, not hoarded.",
+      "sectionHeader": "The Folly of Greed and Self-Denial"
     },
     {
       "pk": 28014004,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "My son, treat yourself well, according to what you have, and bring offerings to the Lord worthy of you.",
       "links": "<a href='/AIV/19/103/5'>Ps. 103:5</a>; <a href='/AIV/20/3/9'>Prov. 3:9</a>",
-      "comment": "Balancing self-care and piety, this verse suggests the goodness of celebrating God's gifts and bringing fitting offerings, echoed in Proverbs."
+      "comment": "Balancing self-care and piety, this verse suggests the goodness of celebrating God's gifts and bringing fitting offerings, echoed in Proverbs.",
+      "sectionHeader": "Enjoy Life and Practice Charity"
     },
     {
       "pk": 28014012,
@@ -242,7 +245,8 @@
       "verse": 20,
       "text": "Blessed is the man who meditates on wisdom, and who considers her in his heart,",
       "links": "<a href='/AIV/19/1/2'>Ps. 1:2</a>; <a href='/AIV/20/8/34'>Prov. 8:34</a>",
-      "comment": "Meditation on wisdom aligns closely with the biblical practice of pondering God's law. Wisdom is personified, foreshadowing the fulfillment of wisdom in Christ (cf. 1 Cor. 1:24)."
+      "comment": "Meditation on wisdom aligns closely with the biblical practice of pondering God's law. Wisdom is personified, foreshadowing the fulfillment of wisdom in Christ (cf. 1 Cor. 1:24).",
+      "sectionHeader": "The Search for Wisdom"
     },
     {
       "pk": 28014021,
@@ -329,5 +333,27 @@
       "comment": "Wisdom provides protection, comfort, and honor—echoing Old Testament themes of God as shelter. In Christian tradition, wisdom is fulfilled in union with God’s revelation through Christ."
     }
   ],
-  "translatedAt": "2025-12-24T07:30:24.172Z"
+  "translatedAt": "2025-12-24T07:30:24.172Z",
+  "sections": [
+    {
+      "title": "Blessings for the Righteous",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "The Folly of Greed and Self-Denial",
+      "startVerse": 3,
+      "endVerse": 10
+    },
+    {
+      "title": "Enjoy Life and Practice Charity",
+      "startVerse": 11,
+      "endVerse": 19
+    },
+    {
+      "title": "The Search for Wisdom",
+      "startVerse": 20,
+      "endVerse": 27
+    }
+  ]
 }

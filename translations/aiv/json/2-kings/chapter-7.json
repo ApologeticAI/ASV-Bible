@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Elisha said, 'Hear the word of the LORD: Thus says the LORD, \"Tomorrow about this time a seah of fine flour will be sold for a shekel, and two seahs of barley for a shekel, at the gate of Samaria.\"'",
       "links": "<a href='/AIV/01/18/14'>Gen. 18:14</a>; <a href='/AIV/12/4/43-44'>2 Kgs. 4:43-44</a>",
-      "comment": "Elisha prophesies miraculous provision, echoing God's power to work beyond human expectation (see Gen. 18:14). The prophecy offers hope in desperate circumstances, suggesting God's providence is not limited by material lack."
+      "comment": "Elisha prophesies miraculous provision, echoing God's power to work beyond human expectation (see Gen. 18:14). The prophecy offers hope in desperate circumstances, suggesting God's providence is not limited by material lack.",
+      "sectionHeader": "Elisha Foretells the End of the Famine"
     },
     {
       "pk": 12007002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "Now four men with leprosy were at the entrance of the gate. They said to each other, 'Why are we sitting here until we die?'",
       "links": "<a href='/AIV/03/13/46'>Lev. 13:46</a>; <a href='/AIV/42/17/12'>Luke 17:12</a>",
-      "comment": "The outcasts—lepers—are positioned at the edge but about to be the means of God's deliverance. Their condition evokes broader biblical themes of God's mercy toward the marginalized (Lev. 13:46; Luke 17:12)."
+      "comment": "The outcasts—lepers—are positioned at the edge but about to be the means of God's deliverance. Their condition evokes broader biblical themes of God's mercy toward the marginalized (Lev. 13:46; Luke 17:12).",
+      "sectionHeader": "The Lepers Discover the Empty Aramean Camp"
     },
     {
       "pk": 12007004,
@@ -122,7 +124,8 @@
       "verse": 10,
       "text": "So they came and called to the gatekeepers of the city and told them, 'We went to the camp of the Arameans, and there was no one there, nor the sound of a man—only horses tied up, donkeys tied up, and tents just as they were.'",
       "links": "<a href='/AIV/06/2/1'>Josh. 2:1</a>",
-      "comment": "The report of the ‘emptied camp’ urges the city to respond in faith. This highlights the role of unlikely messengers in God’s plan, as in Rahab’s case (Josh. 2:1)."
+      "comment": "The report of the ‘emptied camp’ urges the city to respond in faith. This highlights the role of unlikely messengers in God’s plan, as in Rahab’s case (Josh. 2:1).",
+      "sectionHeader": "The Good News Reported to the King"
     },
     {
       "pk": 12007011,
@@ -194,7 +197,8 @@
       "verse": 16,
       "text": "Then the people went out and plundered the camp of the Arameans. So a seah of fine flour sold for a shekel, and two seahs of barley for a shekel, according to the word of the LORD.",
       "links": "<a href='/AIV/12/7/1'>2 Kgs. 7:1</a>",
-      "comment": "God’s prophecy is fulfilled exactly as spoken. This underscores the importance of heeding prophetic authority and the reliability of God’s promises—a pattern continued in salvation history."
+      "comment": "God’s prophecy is fulfilled exactly as spoken. This underscores the importance of heeding prophetic authority and the reliability of God’s promises—a pattern continued in salvation history.",
+      "sectionHeader": "The Fulfillment of Elisha’s Prophecy"
     },
     {
       "pk": 12007017,
@@ -245,5 +249,27 @@
       "comment": "God’s word is unfailing, and His justice is demonstrated. The danger of rejecting Divine authority is made clear—a lesson also mirrored in the New Testament regarding Christ’s own words and ministry."
     }
   ],
-  "translatedAt": "2025-12-24T03:49:18.985Z"
+  "translatedAt": "2025-12-24T03:49:18.985Z",
+  "sections": [
+    {
+      "title": "Elisha Foretells the End of the Famine",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "The Lepers Discover the Empty Aramean Camp",
+      "startVerse": 3,
+      "endVerse": 9
+    },
+    {
+      "title": "The Good News Reported to the King",
+      "startVerse": 10,
+      "endVerse": 15
+    },
+    {
+      "title": "The Fulfillment of Elisha’s Prophecy",
+      "startVerse": 16,
+      "endVerse": 20
+    }
+  ]
 }

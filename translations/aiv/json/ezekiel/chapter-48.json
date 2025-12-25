@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now, these are the names of the tribes: from the northern border, next to the way of Hethlon as one goes to Hamath, to Hazar Enan at the border of Damascus, northward beside Hamath, from the east side to the west: one portion for Dan.",
       "links": "<a href='/AIV/04/34/8-9'>Num. 34:8-9</a>",
-      "comment": "Ezekiel begins the detailed division of the land among the twelve tribes, emphasizing the restoration of Israel. The specificity recalls the original land allocations in Numbers. The spiritual interpretation sees this as a symbol of God's order and care for His people."
+      "comment": "Ezekiel begins the detailed division of the land among the twelve tribes, emphasizing the restoration of Israel. The specificity recalls the original land allocations in Numbers. The spiritual interpretation sees this as a symbol of God's order and care for His people.",
+      "sectionHeader": "The Allotment of the Tribal Lands"
     },
     {
       "pk": 33048002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Next to the territory of Judah, from the east side to the west, shall be the district you are to set apart, twenty-five thousand cubits wide and as long as each tribal portion, from the east side to the west; the sanctuary shall be in the midst of it.",
       "links": "<a href='/AIV/26/45/1-4'>Ezek. 45:1-4</a>",
-      "comment": "This holy district includes a special place for the sanctuary, a sign of God's presence among His people. In the New Covenant, Christ Himself becomes the true sanctuary (John 2:19-21)."
+      "comment": "This holy district includes a special place for the sanctuary, a sign of God's presence among His people. In the New Covenant, Christ Himself becomes the true sanctuary (John 2:19-21).",
+      "sectionHeader": "The Portion for the Sanctuary, Priests, and Levites"
     },
     {
       "pk": 33048009,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "The remainder, five thousand cubits wide, bordering the holy district, will be for common use by the city, for dwellings and open land. The city will be in the center.",
       "links": "<a href='/AIV/26/45/6'>Ezek. 45:6</a>",
-      "comment": "The city is set within the sacred space, suggesting the unity of worship and daily life—a sign fulfilled in the new Jerusalem (Rev. 21:2–3)."
+      "comment": "The city is set within the sacred space, suggesting the unity of worship and daily life—a sign fulfilled in the new Jerusalem (Rev. 21:2–3).",
+      "sectionHeader": "The Portion for the City and the Prince"
     },
     {
       "pk": 33048016,
@@ -278,7 +281,8 @@
       "verse": 23,
       "text": "As for the rest of the tribes: from the east side to the west, Benjamin, one portion.",
       "links": "<a href='/AIV/06/18/11'>Josh. 18:11</a>",
-      "comment": "Benjamin's portion echoes the unity of the tribes, each with a secure inheritance."
+      "comment": "Benjamin's portion echoes the unity of the tribes, each with a secure inheritance.",
+      "sectionHeader": "The Allotment for the Remaining Tribes"
     },
     {
       "pk": 33048024,
@@ -362,7 +366,8 @@
       "verse": 30,
       "text": "These are the exits of the city: On the north side, which is four thousand five hundred cubits long,",
       "links": "",
-      "comment": "City gates symbolize openness and access; the Church is open to all nations (Is. 2:2; Rev. 21:25)."
+      "comment": "City gates symbolize openness and access; the Church is open to all nations (Is. 2:2; Rev. 21:25).",
+      "sectionHeader": "The Gates and Name of the City"
     },
     {
       "pk": 33048031,
@@ -425,5 +430,32 @@
       "comment": "The new name, 'The LORD is There' (YHWH Shammah), signifies God's perpetual indwelling among His people. The fullness of this prophecy is realized in the Incarnation—God dwelling with humanity (John 1:14; Rev. 21:3). The Church, as the visible dwelling of God on earth, foreshadows this ultimate fulfillment."
     }
   ],
-  "translatedAt": "2025-12-24T09:26:53.429Z"
+  "translatedAt": "2025-12-24T09:26:53.429Z",
+  "sections": [
+    {
+      "title": "The Allotment of the Tribal Lands",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "The Portion for the Sanctuary, Priests, and Levites",
+      "startVerse": 8,
+      "endVerse": 14
+    },
+    {
+      "title": "The Portion for the City and the Prince",
+      "startVerse": 15,
+      "endVerse": 22
+    },
+    {
+      "title": "The Allotment for the Remaining Tribes",
+      "startVerse": 23,
+      "endVerse": 29
+    },
+    {
+      "title": "The Gates and Name of the City",
+      "startVerse": 30,
+      "endVerse": 35
+    }
+  ]
 }

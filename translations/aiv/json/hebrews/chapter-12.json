@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Therefore, since we are surrounded by such a great cloud of witnesses, let us lay aside every weight, and the sin that so easily entangles us, and let us run with endurance the race that is set before us.",
       "links": "<a href='/AIV/58/11/4-40'>Heb. 11:4-40</a>; <a href='/AIV/46/9/24'>1 Cor. 9:24</a>",
-      "comment": "This verse connects the faithful examples from chapter 11 to our own Christian lives. 'Cloud of witnesses' refers to these former faithful—this is often interpreted as evidence of a real fellowship uniting believers across time (see also 1 Cor. 12:12; Rev. 6:9-11). The 'race' metaphor emphasizes active participation in salvation, not merely belief."
+      "comment": "This verse connects the faithful examples from chapter 11 to our own Christian lives. 'Cloud of witnesses' refers to these former faithful—this is often interpreted as evidence of a real fellowship uniting believers across time (see also 1 Cor. 12:12; Rev. 6:9-11). The 'race' metaphor emphasizes active participation in salvation, not merely belief.",
+      "sectionHeader": "The Example of Jesus"
     },
     {
       "pk": 65012002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "And you have forgotten the exhortation that addresses you as sons: 'My son, do not regard lightly the discipline of the Lord, nor lose heart when you are reproved by him.'",
       "links": "<a href='/AIV/20/3/11-12'>Prov. 3:11-12</a>",
-      "comment": "Direct citation of Proverbs 3:11-12. The father-son relationship points to adoption; discipline is a sign of authentic sonship and God’s love."
+      "comment": "Direct citation of Proverbs 3:11-12. The father-son relationship points to adoption; discipline is a sign of authentic sonship and God’s love.",
+      "sectionHeader": "The Discipline of the Lord"
     },
     {
       "pk": 65012006,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "Therefore, strengthen the hands that are weak and the knees that are feeble,",
       "links": "<a href='/AIV/23/35/3'>Isa. 35:3</a>",
-      "comment": "Echoes Isaiah 35:3; calls the church to mutual encouragement, reinforcing the communal nature of the Christian life."
+      "comment": "Echoes Isaiah 35:3; calls the church to mutual encouragement, reinforcing the communal nature of the Christian life.",
+      "sectionHeader": "Exhortation to Holiness"
     },
     {
       "pk": 65012013,
@@ -218,7 +221,8 @@
       "verse": 18,
       "text": "For you have not come to a mountain that can be touched, burning with fire, to darkness, gloom, and storm,",
       "links": "<a href='/AIV/02/19/12-21'>Ex. 19:12-21</a>",
-      "comment": "Begins a contrast between old and new covenants. Mount Sinai (the Law) was terrifying—approach limited and ceremonial."
+      "comment": "Begins a contrast between old and new covenants. Mount Sinai (the Law) was terrifying—approach limited and ceremonial.",
+      "sectionHeader": "Mount Sinai and Mount Zion"
     },
     {
       "pk": 65012019,
@@ -302,7 +306,8 @@
       "verse": 25,
       "text": "See that you do not refuse him who is speaking. For if they did not escape when they refused him who warned them on earth, much less will we if we turn away from him who warns from heaven.",
       "links": "<a href='/AIV/05/18/19'>Deut. 18:19</a>; <a href='/AIV/58/10/26-29'>Heb. 10:26-29</a>",
-      "comment": "Greater revelation brings greater responsibility. Christian warnings exceed those under Moses, emphasizing the gravity of rejecting Christ and divine authority."
+      "comment": "Greater revelation brings greater responsibility. Christian warnings exceed those under Moses, emphasizing the gravity of rejecting Christ and divine authority.",
+      "sectionHeader": "A Kingdom That Cannot Be Shaken"
     },
     {
       "pk": 65012026,
@@ -353,5 +358,32 @@
       "comment": "God’s holiness is absolute and transforming; He purifies and judges. This reality undergirds the seriousness of Christian worship, reverence, and perseverance."
     }
   ],
-  "translatedAt": "2025-12-24T12:23:12.533Z"
+  "translatedAt": "2025-12-24T12:23:12.533Z",
+  "sections": [
+    {
+      "title": "The Example of Jesus",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "The Discipline of the Lord",
+      "startVerse": 5,
+      "endVerse": 11
+    },
+    {
+      "title": "Exhortation to Holiness",
+      "startVerse": 12,
+      "endVerse": 17
+    },
+    {
+      "title": "Mount Sinai and Mount Zion",
+      "startVerse": 18,
+      "endVerse": 24
+    },
+    {
+      "title": "A Kingdom That Cannot Be Shaken",
+      "startVerse": 25,
+      "endVerse": 29
+    }
+  ]
 }

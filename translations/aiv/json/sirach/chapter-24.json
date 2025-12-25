@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Wisdom will praise herself, and in the midst of her people she will boast.",
       "links": "<a href='/AIV/20/8/1'>Prov. 8:1</a>; <a href='/AIV/20/9/1-6'>Prov. 9:1-6</a>",
-      "comment": "Personification of Wisdom recalls Proverbs. Here, Wisdom is portrayed as an active, divine figure, foreshadowing Christ as the ultimate wisdom (1 Cor. 1:30)."
+      "comment": "Personification of Wisdom recalls Proverbs. Here, Wisdom is portrayed as an active, divine figure, foreshadowing Christ as the ultimate wisdom (1 Cor. 1:30).",
+      "sectionHeader": "The Praise and Origin of Wisdom"
     },
     {
       "pk": 28024002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "'Then the Creator of all commanded me, and he who created me assigned a place for my tent. He said, ‘Make your dwelling in Jacob, and in Israel receive your inheritance.’",
       "links": "<a href='/AIV/26/37/27'>Ezek. 37:27</a>; <a href='/AIV/7/23/13'>Josh. 23:13</a>",
-      "comment": "Wisdom is settled in Israel, the chosen people. The language reflects divine election and the establishment of God's enduring presence."
+      "comment": "Wisdom is settled in Israel, the chosen people. The language reflects divine election and the establishment of God's enduring presence.",
+      "sectionHeader": "Wisdom’s Dwelling Among God’s People"
     },
     {
       "pk": 28024009,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "I grew tall like a cedar in Lebanon, and like a cypress on the heights of Hermon.",
       "links": "<a href='/AIV/23/2/13'>Isa. 2:13</a>; <a href='/AIV/19/92/12'>Ps. 92:12</a>",
-      "comment": "Tall trees symbolize majesty, longevity, and divine blessing—a fitting image for Wisdom."
+      "comment": "Tall trees symbolize majesty, longevity, and divine blessing—a fitting image for Wisdom.",
+      "sectionHeader": "The Fruits and Blessings of Wisdom"
     },
     {
       "pk": 28024014,
@@ -302,7 +305,8 @@
       "verse": 25,
       "text": "Come to me, you who desire me, and be filled with my fruits.",
       "links": "<a href='/AIV/43/7/37'>John 7:37</a>; <a href='/AIV/20/9/5'>Prov. 9:5</a>",
-      "comment": "Invitation echoes Proverbs 9 and Jesus’ teaching on spiritual hunger in the Gospels. Fulfillment is found in living communion."
+      "comment": "Invitation echoes Proverbs 9 and Jesus’ teaching on spiritual hunger in the Gospels. Fulfillment is found in living communion.",
+      "sectionHeader": "Invitation to Seek Wisdom"
     },
     {
       "pk": 28024026,
@@ -386,7 +390,8 @@
       "verse": 32,
       "text": "From the beginning I revealed myself to all the holy ones, to whom the Lord apportioned his inheritance.",
       "links": "<a href='/AIV/19/16/3'>Ps. 16:3</a>; <a href='/AIV/9/3/8'>1 Kings 3:8</a>",
-      "comment": "Wisdom revealed to the 'holy ones'—aligns with the historical continuity of God’s revelation through chosen people and leaders."
+      "comment": "Wisdom revealed to the 'holy ones'—aligns with the historical continuity of God’s revelation through chosen people and leaders.",
+      "sectionHeader": "Wisdom’s Teaching for All Generations"
     },
     {
       "pk": 28024033,
@@ -413,5 +418,32 @@
       "comment": "Wisdom is universally available for all who seek her, encouraging further pursuit through tradition, sacraments, and community."
     }
   ],
-  "translatedAt": "2025-12-24T07:35:46.655Z"
+  "translatedAt": "2025-12-24T07:35:46.655Z",
+  "sections": [
+    {
+      "title": "The Praise and Origin of Wisdom",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Wisdom’s Dwelling Among God’s People",
+      "startVerse": 8,
+      "endVerse": 12
+    },
+    {
+      "title": "The Fruits and Blessings of Wisdom",
+      "startVerse": 13,
+      "endVerse": 24
+    },
+    {
+      "title": "Invitation to Seek Wisdom",
+      "startVerse": 25,
+      "endVerse": 31
+    },
+    {
+      "title": "Wisdom’s Teaching for All Generations",
+      "startVerse": 32,
+      "endVerse": 34
+    }
+  ]
 }

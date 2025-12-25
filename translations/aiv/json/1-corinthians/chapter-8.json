@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now concerning food offered to idols: we know that we all have knowledge. Knowledge puffs up, but love builds up.",
       "links": "<a href='/AIV/46/13/2'>1 Cor. 13:2</a>; <a href='/AIV/45/14/14'>Rom. 14:14</a>",
-      "comment": "Paul begins by addressing a practical question but shifts quickly to a deeper spiritual truth, warning against pride gained from knowledge. Note how love is placed as superior to mere knowledge, foreshadowing the primacy of charity over intellect as central to Christian living (cf. 1 Cor. 13:2)."
+      "comment": "Paul begins by addressing a practical question but shifts quickly to a deeper spiritual truth, warning against pride gained from knowledge. Note how love is placed as superior to mere knowledge, foreshadowing the primacy of charity over intellect as central to Christian living (cf. 1 Cor. 13:2).",
+      "sectionHeader": "Food Offered to Idols"
     },
     {
       "pk": 53008002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "However, not everyone possesses this knowledge. Some, because of former association with idols, eat food as really offered to an idol, and their conscience, being weak, is defiled.",
       "links": "<a href='/AIV/45/14/23'>Rom. 14:23</a>",
-      "comment": "Paul begins to introduce the principle of considering the weak in faith. Spiritual maturity means not causing harm to the conscience of others, a foundational principle for responsible Christian action (cf. Rom. 14:23)."
+      "comment": "Paul begins to introduce the principle of considering the weak in faith. Spiritual maturity means not causing harm to the conscience of others, a foundational principle for responsible Christian action (cf. Rom. 14:23).",
+      "sectionHeader": "Consideration for the Weak"
     },
     {
       "pk": 53008008,
@@ -161,5 +163,17 @@
       "comment": "Paul concludes by choosing personal sacrifice for the sake of others, modeling mature Christian love—echoing Christ's own self-giving love. Living this way is essential for true unity in the Church and for becoming a sign of Christ’s sacrificial love for the world."
     }
   ],
-  "translatedAt": "2025-12-24T11:47:30.124Z"
+  "translatedAt": "2025-12-24T11:47:30.124Z",
+  "sections": [
+    {
+      "title": "Food Offered to Idols",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Consideration for the Weak",
+      "startVerse": 7,
+      "endVerse": 13
+    }
+  ]
 }

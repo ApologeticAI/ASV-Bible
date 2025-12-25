@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "It is necessary to boast, though nothing is gained by it; I will go on to visions and revelations from the Lord.",
       "links": "<a href='/AIV/47/11/30'>2Cor. 11:30</a>; <a href='/AIV/44/9/10-12'>Acts 9:10-12</a>",
-      "comment": "Paul continues his defense, introducing revelations from God which signify apostolic authority and divine guidance. Revelations were often seen as evidence of a unique commission."
+      "comment": "Paul continues his defense, introducing revelations from God which signify apostolic authority and divine guidance. Revelations were often seen as evidence of a unique commission.",
+      "sectionHeader": "Paul’s Visions and Revelations"
     },
     {
       "pk": 54012002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "And so, to keep me from becoming conceited because of the surpassing greatness of the revelations, a thorn was given me in the flesh, a messenger of Satan to torment me, to keep me from being proud.",
       "links": "<a href='/AIV/47/1/8-9'>2Cor. 1:8-9</a>; <a href='/AIV/18/2/6'>Job 2:6</a>",
-      "comment": "The 'thorn in the flesh' is a mysterious affliction, likely a physical or spiritual trial permitted by God to safeguard humility. This concept reflects God's providence in allowing suffering for greater sanctification."
+      "comment": "The 'thorn in the flesh' is a mysterious affliction, likely a physical or spiritual trial permitted by God to safeguard humility. This concept reflects God's providence in allowing suffering for greater sanctification.",
+      "sectionHeader": "Paul’s Thorn in the Flesh"
     },
     {
       "pk": 54012008,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "I have become a fool—you forced me to it. I ought to have been commended by you, for in nothing was I inferior to those 'super-apostles,' even though I am nothing.",
       "links": "<a href='/AIV/47/11/5'>2Cor. 11:5</a>; <a href='/AIV/47/10/12'>2Cor. 10:12</a>",
-      "comment": "'Super-apostles' likely refers to opponents claiming superior authority. Paul's humility is emphasized once more, highlighting that authentic ministry is not marked by outward power but by spiritual authenticity."
+      "comment": "'Super-apostles' likely refers to opponents claiming superior authority. Paul's humility is emphasized once more, highlighting that authentic ministry is not marked by outward power but by spiritual authenticity.",
+      "sectionHeader": "Signs of an Apostle"
     },
     {
       "pk": 54012012,
@@ -170,7 +173,8 @@
       "verse": 14,
       "text": "Look, for the third time I am ready to come to you, and I will not be a burden, for I seek not your possessions but you. Children should not be obligated to save up for their parents, but parents for their children.",
       "links": "<a href='/AIV/47/13/1'>2Cor. 13:1</a>; <a href='/AIV/46/4/14-15'>1Cor. 4:14-15</a>",
-      "comment": "Paul adopts the posture of a spiritual father, emphasizing relational care and sacrificial leadership. This mirrors biblical patterns of service and authority within the family of believers."
+      "comment": "Paul adopts the posture of a spiritual father, emphasizing relational care and sacrificial leadership. This mirrors biblical patterns of service and authority within the family of believers.",
+      "sectionHeader": "Paul’s Love for the Corinthians"
     },
     {
       "pk": 54012015,
@@ -242,7 +246,8 @@
       "verse": 20,
       "text": "For I fear that perhaps when I come I may not find you as I wish, and that you may find me not as you wish—that there may be quarreling, jealousy, anger, selfishness, slander, gossip, arrogance, and disorder.",
       "links": "<a href='/AIV/48/5/19-21'>Gal. 5:19-21</a>; <a href='/AIV/46/1/10-11'>1Cor. 1:10-11</a>",
-      "comment": "Paul’s pastoral concern highlights the destructive potential of sin within the Christian community. His warning underscores the necessity of ongoing repentance and unity."
+      "comment": "Paul’s pastoral concern highlights the destructive potential of sin within the Christian community. His warning underscores the necessity of ongoing repentance and unity.",
+      "sectionHeader": "Paul’s Concern for the Corinthians’ Repentance"
     },
     {
       "pk": 54012021,
@@ -257,5 +262,32 @@
       "comment": "Paul makes clear the expectation of repentance and restoration, reflecting an enduring belief in the importance of confession and communal reconciliation, which is a foundational aspect of New Testament life."
     }
   ],
-  "translatedAt": "2025-12-24T11:57:31.057Z"
+  "translatedAt": "2025-12-24T11:57:31.057Z",
+  "sections": [
+    {
+      "title": "Paul’s Visions and Revelations",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Paul’s Thorn in the Flesh",
+      "startVerse": 7,
+      "endVerse": 10
+    },
+    {
+      "title": "Signs of an Apostle",
+      "startVerse": 11,
+      "endVerse": 13
+    },
+    {
+      "title": "Paul’s Love for the Corinthians",
+      "startVerse": 14,
+      "endVerse": 19
+    },
+    {
+      "title": "Paul’s Concern for the Corinthians’ Repentance",
+      "startVerse": 20,
+      "endVerse": 21
+    }
+  ]
 }

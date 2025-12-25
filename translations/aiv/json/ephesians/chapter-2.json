@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "And you were dead in your sins and in the trespasses,",
       "links": "<a href='/AIV/51/1/21'>Col. 1:21</a>; <a href='/AIV/40/8/22'>Matt. 8:22</a>",
-      "comment": "Paul begins by describing the spiritual condition before receiving grace: spiritual death, cut off from God. 'Dead' emphasizes the total inability to save oneself, echoing teachings in Colossians 1:21."
+      "comment": "Paul begins by describing the spiritual condition before receiving grace: spiritual death, cut off from God. 'Dead' emphasizes the total inability to save oneself, echoing teachings in Colossians 1:21.",
+      "sectionHeader": "From Death to Life by Grace"
     },
     {
       "pk": 56002002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "Therefore, remember that at one time you, the Gentiles in the flesh—called 'uncircumcision' by those who call themselves 'circumcision,' which is done in the flesh by human hands—",
       "links": "<a href='/AIV/44/10/45'>Acts 10:45</a>; <a href='/AIV/45/2/28'>Rom. 2:28</a>",
-      "comment": "Paul contrasts Gentile and Jewish believers, focusing on physical circumcision—an outward sign, not spiritual change (cf. Romans 2:28). This sets up the teaching that through Christ, these distinctions are overcome."
+      "comment": "Paul contrasts Gentile and Jewish believers, focusing on physical circumcision—an outward sign, not spiritual change (cf. Romans 2:28). This sets up the teaching that through Christ, these distinctions are overcome.",
+      "sectionHeader": "One in Christ: Jews and Gentiles Reconciled"
     },
     {
       "pk": 56002012,
@@ -269,5 +271,17 @@
       "comment": "All believers are being formed into a spiritual home for God's presence, through the Spirit, individually and corporately. The continuous 'being built together' points to ongoing spiritual formation through communal life, worship, and sacraments."
     }
   ],
-  "translatedAt": "2025-12-24T12:01:30.818Z"
+  "translatedAt": "2025-12-24T12:01:30.818Z",
+  "sections": [
+    {
+      "title": "From Death to Life by Grace",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "One in Christ: Jews and Gentiles Reconciled",
+      "startVerse": 11,
+      "endVerse": 22
+    }
+  ]
 }

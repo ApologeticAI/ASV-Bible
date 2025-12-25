@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then Gorgias took five thousand infantry and a thousand of the best horsemen and set out from the camp by night,",
       "links": "<a href='/AIV/20/3/38'>1Macc 3:38</a>",
-      "comment": "Gorgias leads a powerful force under cover of darkness, highlighting the seriousness of the threat facing Israel. Night attacks in ancient warfare add suspense and indicate a desperate enemy."
+      "comment": "Gorgias leads a powerful force under cover of darkness, highlighting the seriousness of the threat facing Israel. Night attacks in ancient warfare add suspense and indicate a desperate enemy.",
+      "sectionHeader": "Victory over Gorgias at Emmaus"
     },
     {
       "pk": 20004002,
@@ -302,7 +303,8 @@
       "verse": 25,
       "text": "Judas and his brothers said, 'Our enemies are crushed; let us go and cleanse the sanctuary and dedicate it anew.'",
       "links": "<a href='/AIV/02/40/9'>Exod 40:9</a>; <a href='/AIV/26/43/27'>Ezek 43:27</a>",
-      "comment": "Restoring the sanctuary reflects the necessity of holy worship and true liturgy as central to God’s people."
+      "comment": "Restoring the sanctuary reflects the necessity of holy worship and true liturgy as central to God’s people.",
+      "sectionHeader": "The Cleansing and Rededication of the Temple"
     },
     {
       "pk": 20004026,
@@ -578,7 +580,8 @@
       "verse": 48,
       "text": "Judas and his brothers and the entire congregation decreed that the days of the dedication of the altar should be kept every year, for eight days, from the twenty-fifth of Kislev, in joy and gladness.",
       "links": "<a href='/AIV/03/23/39'>Lev 23:39</a>",
-      "comment": "Instituting annual feast days reflects authority to establish sacred tradition; this points to God’s continuing work through His people."
+      "comment": "Instituting annual feast days reflects authority to establish sacred tradition; this points to God’s continuing work through His people.",
+      "sectionHeader": "The Institution of the Feast of Dedication"
     },
     {
       "pk": 20004049,
@@ -590,7 +593,8 @@
       "verse": 49,
       "text": "At that time, they built high walls and strong towers around Mount Zion to guard against future attacks.",
       "links": "<a href='/AIV/16/3/3-8'>Neh 3:3-8</a>",
-      "comment": "Physical defense is paired with liturgical restoration, showing the integration of practical wisdom and spiritual commitment."
+      "comment": "Physical defense is paired with liturgical restoration, showing the integration of practical wisdom and spiritual commitment.",
+      "sectionHeader": "Fortification of Jerusalem and Continued Success"
     },
     {
       "pk": 20004050,
@@ -737,5 +741,27 @@
       "comment": "Final emphasis on watchfulness and communal worship; echoes the later Christian calling to guard the faith and preserve holy tradition through appointed leadership and sacramental life."
     }
   ],
-  "translatedAt": "2025-12-24T05:15:45.496Z"
+  "translatedAt": "2025-12-24T05:15:45.496Z",
+  "sections": [
+    {
+      "title": "Victory over Gorgias at Emmaus",
+      "startVerse": 1,
+      "endVerse": 24
+    },
+    {
+      "title": "The Cleansing and Rededication of the Temple",
+      "startVerse": 25,
+      "endVerse": 47
+    },
+    {
+      "title": "The Institution of the Feast of Dedication",
+      "startVerse": 48,
+      "endVerse": 48
+    },
+    {
+      "title": "Fortification of Jerusalem and Continued Success",
+      "startVerse": 49,
+      "endVerse": 61
+    }
+  ]
 }

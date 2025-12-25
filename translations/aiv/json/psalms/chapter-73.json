@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Surely God is good to Israel, to those who are pure in heart.",
       "links": "<a href='/AIV/19/24/3-4'>Ps. 24:3-4</a>; <a href='/AIV/40/5/8'>Matt. 5:8</a>",
-      "comment": "This opening verse affirms God's goodness specifically to the righteous—those pure in heart. Jesus expands on this in the Sermon on the Mount, emphasizing purity of heart as the way to see God (Matt. 5:8). The concept draws us to think about the spiritual union of believers with God through inner transformation."
+      "comment": "This opening verse affirms God's goodness specifically to the righteous—those pure in heart. Jesus expands on this in the Sermon on the Mount, emphasizing purity of heart as the way to see God (Matt. 5:8). The concept draws us to think about the spiritual union of believers with God through inner transformation.",
+      "sectionHeader": "The Prosperity of the Wicked and the Psalmist’s Envy"
     },
     {
       "pk": 23073002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "If I had spoken like this, I would have betrayed your children.",
       "links": "<a href='/AIV/19/32/5'>Ps. 32:5</a>",
-      "comment": "Honest doubt is distinguished from open rebellion. The psalmist restrains his complaint, mindful of its possible impact on the faith community. This reflects a communal understanding of faith."
+      "comment": "Honest doubt is distinguished from open rebellion. The psalmist restrains his complaint, mindful of its possible impact on the faith community. This reflects a communal understanding of faith.",
+      "sectionHeader": "A Turning Point in the Sanctuary"
     },
     {
       "pk": 23073016,
@@ -254,7 +256,8 @@
       "verse": 21,
       "text": "When my heart was embittered and my spirit was wounded,",
       "links": "<a href='/AIV/19/32/3-4'>Ps. 32:3-4</a>",
-      "comment": "Spiritual bitterness blinds us to the truth. Recognizing our woundedness opens the way for God’s healing grace, a recurring biblical theme."
+      "comment": "Spiritual bitterness blinds us to the truth. Recognizing our woundedness opens the way for God’s healing grace, a recurring biblical theme.",
+      "sectionHeader": "The Psalmist’s Renewed Trust in God"
     },
     {
       "pk": 23073022,
@@ -341,5 +344,22 @@
       "comment": "The final verse returns to the central theme: nearness to God as the greatest good. It calls us to personal relationship and public witness, aligning personal faith with participation in the worshiping community."
     }
   ],
-  "translatedAt": "2025-12-24T06:24:13.559Z"
+  "translatedAt": "2025-12-24T06:24:13.559Z",
+  "sections": [
+    {
+      "title": "The Prosperity of the Wicked and the Psalmist’s Envy",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "A Turning Point in the Sanctuary",
+      "startVerse": 15,
+      "endVerse": 20
+    },
+    {
+      "title": "The Psalmist’s Renewed Trust in God",
+      "startVerse": 21,
+      "endVerse": 28
+    }
+  ]
 }

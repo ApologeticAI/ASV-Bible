@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In the eighteenth year of King Jeroboam, Abijah became king over Judah.",
       "links": "<a href='/AIV/11/15/1'>1 Kings 15:1</a>",
-      "comment": "The same event is recorded in 1 Kings 15:1. Abijah's accession is synchronized to the reign of Jeroboam in Israel, showing the connected history of the divided kingdoms."
+      "comment": "The same event is recorded in 1 Kings 15:1. Abijah's accession is synchronized to the reign of Jeroboam in Israel, showing the connected history of the divided kingdoms.",
+      "sectionHeader": "Abijah Succeeds Rehoboam"
     },
     {
       "pk": 14013002,
@@ -26,7 +27,8 @@
       "verse": 2,
       "text": "He reigned for three years in Jerusalem. His mother’s name was Micaiah, the daughter of Uriel of Gibeah. There was war between Abijah and Jeroboam.",
       "links": "<a href='/AIV/11/15/2'>1 Kings 15:2</a>",
-      "comment": "Micaiah is an alternative form of Maacah found in 1 Kings 15:2. Chronicles often preserves different details than Kings, giving fuller genealogy and background."
+      "comment": "Micaiah is an alternative form of Maacah found in 1 Kings 15:2. Chronicles often preserves different details than Kings, giving fuller genealogy and background.",
+      "sectionHeader": "War Between Abijah and Jeroboam"
     },
     {
       "pk": 14013003,
@@ -50,7 +52,8 @@
       "verse": 4,
       "text": "Abijah stood on Mount Zemaraim, in the hill country of Ephraim, and said, 'Hear me, Jeroboam and all Israel!'",
       "links": "<a href='/AIV/06/18/22'>Joshua 18:22</a>",
-      "comment": "Mount Zemaraim was an ancient landmark in Ephraim. Abijah’s speech on a mountain echoes the Old Testament's use of elevated places for authoritative pronouncements—foreshadowing later, similar scenes."
+      "comment": "Mount Zemaraim was an ancient landmark in Ephraim. Abijah’s speech on a mountain echoes the Old Testament's use of elevated places for authoritative pronouncements—foreshadowing later, similar scenes.",
+      "sectionHeader": "Abijah’s Speech on Mount Zemaraim"
     },
     {
       "pk": 14013005,
@@ -158,7 +161,8 @@
       "verse": 13,
       "text": "But Jeroboam had set an ambush to come from behind. So his army was in front of Judah, while the ambush was behind them.",
       "links": "<a href='/AIV/07/20/29'>Judges 20:29</a>",
-      "comment": "Jeroboam’s ambush illustrates worldly strategy set against divine order; frequently in Scripture, human cunning is shown to be no match for God’s providence."
+      "comment": "Jeroboam’s ambush illustrates worldly strategy set against divine order; frequently in Scripture, human cunning is shown to be no match for God’s providence.",
+      "sectionHeader": "Judah’s Victory Over Israel"
     },
     {
       "pk": 14013014,
@@ -242,7 +246,8 @@
       "verse": 20,
       "text": "Jeroboam did not recover his power again in the days of Abijah. And the LORD struck him, and he died.",
       "links": "<a href='/AIV/11/14/20'>1 Kings 14:20</a>",
-      "comment": "Jeroboam’s fate is a cautionary tale about resisting God’s appointed leadership. God’s sovereign justice is exacted on those who lead his people astray."
+      "comment": "Jeroboam’s fate is a cautionary tale about resisting God’s appointed leadership. God’s sovereign justice is exacted on those who lead his people astray.",
+      "sectionHeader": "The Death of Jeroboam and the Legacy of Abijah"
     },
     {
       "pk": 14013021,
@@ -269,5 +274,32 @@
       "comment": "Iddo the prophet’s chronicling of Abijah’s reign illustrates the value of tradition and the written witness handed down through generations, echoing the importance of both Scripture and sacred tradition in preserving truth."
     }
   ],
-  "translatedAt": "2025-12-24T04:28:15.306Z"
+  "translatedAt": "2025-12-24T04:28:15.306Z",
+  "sections": [
+    {
+      "title": "Abijah Succeeds Rehoboam",
+      "startVerse": 1,
+      "endVerse": 1
+    },
+    {
+      "title": "War Between Abijah and Jeroboam",
+      "startVerse": 2,
+      "endVerse": 3
+    },
+    {
+      "title": "Abijah’s Speech on Mount Zemaraim",
+      "startVerse": 4,
+      "endVerse": 12
+    },
+    {
+      "title": "Judah’s Victory Over Israel",
+      "startVerse": 13,
+      "endVerse": 19
+    },
+    {
+      "title": "The Death of Jeroboam and the Legacy of Abijah",
+      "startVerse": 20,
+      "endVerse": 22
+    }
+  ]
 }

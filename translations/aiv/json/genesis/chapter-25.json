@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Abraham took another wife, and her name was Keturah.",
       "links": "<a href='/AIV/1/1/32'>Gen. 1:32</a>; <a href='/AIV/13/1/32'>1 Chron. 1:32</a>",
-      "comment": "Keturah is mentioned as Abraham's wife following Sarah's death. Some traditions debate whether she was a concubine or a legitimate wife, but the text here uses the same Hebrew word as for Sarah. This demonstrates Abraham's continued fruitfulness and obedience to God's call to be the father of many nations (<a href='/AIV/1/17/4-5'>Gen. 17:4-5</a>)."
+      "comment": "Keturah is mentioned as Abraham's wife following Sarah's death. Some traditions debate whether she was a concubine or a legitimate wife, but the text here uses the same Hebrew word as for Sarah. This demonstrates Abraham's continued fruitfulness and obedience to God's call to be the father of many nations (<a href='/AIV/1/17/4-5'>Gen. 17:4-5</a>).",
+      "sectionHeader": "Abraham and Keturah"
     },
     {
       "pk": 1025002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "These are the days of the years of Abraham’s life: one hundred seventy-five years.",
       "links": "<a href='/AIV/1/12/4'>Gen. 12:4</a>",
-      "comment": "Abraham's longevity is presented as a sign of divine blessing in accordance with covenantal promises (<a href='/AIV/1/15/15'>Gen. 15:15</a>)."
+      "comment": "Abraham's longevity is presented as a sign of divine blessing in accordance with covenantal promises (<a href='/AIV/1/15/15'>Gen. 15:15</a>).",
+      "sectionHeader": "Death and Burial of Abraham"
     },
     {
       "pk": 1025008,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "Now these are the generations of Ishmael, Abraham’s son, whom Hagar the Egyptian, Sarah’s servant, bore to Abraham.",
       "links": "<a href='/AIV/1/16/3'>Gen. 16:3</a>; <a href='/AIV/1/17/20'>Gen. 17:20</a>",
-      "comment": "This genealogy shows the faithfulness of God even to those outside the main line of promise, prefiguring God's universal blessing to all nations (<a href='/AIV/1/12/3'>Gen. 12:3</a>)."
+      "comment": "This genealogy shows the faithfulness of God even to those outside the main line of promise, prefiguring God's universal blessing to all nations (<a href='/AIV/1/12/3'>Gen. 12:3</a>).",
+      "sectionHeader": "Descendants of Ishmael"
     },
     {
       "pk": 1025013,
@@ -230,7 +233,8 @@
       "verse": 19,
       "text": "These are the generations of Isaac, Abraham’s son: Abraham was the father of Isaac.",
       "links": "<a href='/AIV/1/11/27'>Gen. 11:27</a>",
-      "comment": "This transition signals the movement of God's covenant focus from Abraham to Isaac, restating the importance of spiritual and genealogical descent."
+      "comment": "This transition signals the movement of God's covenant focus from Abraham to Isaac, restating the importance of spiritual and genealogical descent.",
+      "sectionHeader": "The Birth of Esau and Jacob"
     },
     {
       "pk": 1025020,
@@ -350,7 +354,8 @@
       "verse": 29,
       "text": "Once when Jacob was cooking stew, Esau came in from the field, and he was exhausted.",
       "links": "<a href='/AIV/58/12/16'>Heb. 12:16</a>",
-      "comment": "The scene is set for the exchange of the birthright, which the New Testament later uses to illustrate the danger of despising the gifts and promises of God."
+      "comment": "The scene is set for the exchange of the birthright, which the New Testament later uses to illustrate the danger of despising the gifts and promises of God.",
+      "sectionHeader": "Esau Sells His Birthright"
     },
     {
       "pk": 1025030,
@@ -413,5 +418,32 @@
       "comment": "The passage closes with Esau’s rejection of his calling, serving as a warning for believers to cherish their spiritual inheritance. The reverence for inheritance and birthright here reflects a reality still present in the structure and worship of God's people, who hold fast to what they have received from those who walked with God before them (<a href='/AIV/2/20/12'>Ex. 20:12</a>; <a href='/AIV/54/6/20'>1 Tim. 6:20</a>)."
     }
   ],
-  "translatedAt": "2025-12-24T00:23:55.316Z"
+  "translatedAt": "2025-12-24T00:23:55.316Z",
+  "sections": [
+    {
+      "title": "Abraham and Keturah",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Death and Burial of Abraham",
+      "startVerse": 7,
+      "endVerse": 11
+    },
+    {
+      "title": "Descendants of Ishmael",
+      "startVerse": 12,
+      "endVerse": 18
+    },
+    {
+      "title": "The Birth of Esau and Jacob",
+      "startVerse": 19,
+      "endVerse": 28
+    },
+    {
+      "title": "Esau Sells His Birthright",
+      "startVerse": 29,
+      "endVerse": 34
+    }
+  ]
 }

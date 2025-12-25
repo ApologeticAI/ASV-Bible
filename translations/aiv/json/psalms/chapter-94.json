@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "O LORD, God of vengeance, God of vengeance, shine forth!",
       "links": "<a href='/AIV/19/50/2'>Ps. 50:2</a>; <a href='/AIV/19/99/4'>Ps. 99:4</a>",
-      "comment": "The psalm opens by addressing God as the true Judge, a theme connecting to God's justice in the Law and prophets. The double emphasis on 'God of vengeance' highlights a plea for righteous retribution. Compare with Ps. 50:2 where the LORD is described as shining forth from Zion."
+      "comment": "The psalm opens by addressing God as the true Judge, a theme connecting to God's justice in the Law and prophets. The double emphasis on 'God of vengeance' highlights a plea for righteous retribution. Compare with Ps. 50:2 where the LORD is described as shining forth from Zion.",
+      "sectionHeader": "Prayer for Vengeance upon the Wicked"
     },
     {
       "pk": 23094002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Understand, O dullest of the people! Fools, when will you be wise?",
       "links": "<a href='/AIV/19/92/6'>Ps. 92:6</a>; <a href='/AIV/20/1/22'>Prov. 1:22</a>",
-      "comment": "The psalmist rebukes ignorance; wisdom is repeatedly linked with the fear of the Lord (Prov. 1:7)."
+      "comment": "The psalmist rebukes ignorance; wisdom is repeatedly linked with the fear of the Lord (Prov. 1:7).",
+      "sectionHeader": "The Folly of the Wicked and God’s Omniscience"
     },
     {
       "pk": 23094009,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "Blessed is the man whom you discipline, O LORD, and whom you teach out of your law,",
       "links": "<a href='/AIV/20/3/11-12'>Prov. 3:11-12</a>; <a href='/AIV/58/12/6'>Heb. 12:6</a>",
-      "comment": "Discipline from God is a sign of love and blessing. Heb. 12:6 and Prov. 3:11-12 reflect this as evidence of being God's true children."
+      "comment": "Discipline from God is a sign of love and blessing. Heb. 12:6 and Prov. 3:11-12 reflect this as evidence of being God's true children.",
+      "sectionHeader": "Blessings of Divine Discipline"
     },
     {
       "pk": 23094013,
@@ -194,7 +197,8 @@
       "verse": 16,
       "text": "Who rises up for me against the wicked? Who stands up for me against evildoers?",
       "links": "<a href='/AIV/19/59/9'>Ps. 59:9</a>; <a href='/AIV/19/27/1'>Ps. 27:1</a>",
-      "comment": "A cry for help, urging God or godly people to act for justice. Spiritual warfare and solidarity among the faithful are implied."
+      "comment": "A cry for help, urging God or godly people to act for justice. Spiritual warfare and solidarity among the faithful are implied.",
+      "sectionHeader": "The Lord Our Refuge Against Evildoers"
     },
     {
       "pk": 23094017,
@@ -281,5 +285,27 @@
       "comment": "God's perfect justice ensures that evil is ultimately overcome. The finality of God’s judgment points toward the eschatological hope in the New Testament."
     }
   ],
-  "translatedAt": "2025-12-24T06:32:33.874Z"
+  "translatedAt": "2025-12-24T06:32:33.874Z",
+  "sections": [
+    {
+      "title": "Prayer for Vengeance upon the Wicked",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "The Folly of the Wicked and God’s Omniscience",
+      "startVerse": 8,
+      "endVerse": 11
+    },
+    {
+      "title": "Blessings of Divine Discipline",
+      "startVerse": 12,
+      "endVerse": 15
+    },
+    {
+      "title": "The Lord Our Refuge Against Evildoers",
+      "startVerse": 16,
+      "endVerse": 23
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "God of my ancestors and Lord of mercy, who made all things by your word,",
       "links": "<a href='/AIV/01/1/1'>Gen. 1:1</a>; <a href='/AIV/19/33/6'>Ps. 33:6</a>; <a href='/AIV/43/1/1-3'>John 1:1-3</a>",
-      "comment": "This verse sets the tone by emphasizing God as Creator, making all things through His Word. Here, 'Word' prefigures the Logos, Christ, as seen in John 1:1-3, which is a traditional interpretation in early Christianity. The invocation to the God of 'ancestors' highlights the continuity of faith from Abraham onwards."
+      "comment": "This verse sets the tone by emphasizing God as Creator, making all things through His Word. Here, 'Word' prefigures the Logos, Christ, as seen in John 1:1-3, which is a traditional interpretation in early Christianity. The invocation to the God of 'ancestors' highlights the continuity of faith from Abraham onwards.",
+      "sectionHeader": "Solomon's Prayer for Wisdom"
     },
     {
       "pk": 27009002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "For what human being can know the counsel of God, or who can comprehend what the Lord wills?",
       "links": "<a href='/AIV/23/55/8-9'>Isa. 55:8-9</a>; <a href='/AIV/45/11/34'>Rom. 11:34</a>",
-      "comment": "Recognizing the immense gap between God’s wisdom and human understanding points to humanity's need for revelation and guidance from God."
+      "comment": "Recognizing the immense gap between God’s wisdom and human understanding points to humanity's need for revelation and guidance from God.",
+      "sectionHeader": "The Limits of Human Understanding"
     },
     {
       "pk": 27009014,
@@ -221,5 +223,17 @@
       "comment": "Divine wisdom instructs and leads humans to salvation. The New Testament sees Christ as the embodiment of God’s wisdom who perfects and reveals the straight path to the Father (1 Cor. 1:30)."
     }
   ],
-  "translatedAt": "2025-12-24T07:18:24.102Z"
+  "translatedAt": "2025-12-24T07:18:24.102Z",
+  "sections": [
+    {
+      "title": "Solomon's Prayer for Wisdom",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "The Limits of Human Understanding",
+      "startVerse": 13,
+      "endVerse": 18
+    }
+  ]
 }

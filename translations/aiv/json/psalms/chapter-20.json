@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "May the LORD answer you in the day of trouble! May the name of the God of Jacob protect you.",
       "links": "<a href='/AIV/1/35/3'>Gen. 35:3</a>; <a href='/AIV/19/46/1'>Ps. 46:1</a>",
-      "comment": "This prayer asks for God's protection in times of distress, invoking the God of Jacob—a title recalling His covenant faithfulness. The phrase 'the name of the God of Jacob' refers to God's revealed presence and authority (Ex. 3:14-15). The verse highlights God's personal care and mediation through His chosen means."
+      "comment": "This prayer asks for God's protection in times of distress, invoking the God of Jacob—a title recalling His covenant faithfulness. The phrase 'the name of the God of Jacob' refers to God's revealed presence and authority (Ex. 3:14-15). The verse highlights God's personal care and mediation through His chosen means.",
+      "sectionHeader": "Prayer for Victory and Blessing"
     },
     {
       "pk": 23020002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "Some trust in chariots and some in horses, but we trust in the name of the LORD our God.",
       "links": "<a href='/AIV/5/20/1'>Deut. 20:1</a>; <a href='/AIV/23/31/1'>Isa. 31:1</a>",
-      "comment": "The psalm draws a contrast between worldly power and trust in God. Reliance on military might was forbidden to Israel (see Deut. 17:16). The verse also anticipates the Christian hope: ultimate trust is in God’s revealed name and power, not human strength."
+      "comment": "The psalm draws a contrast between worldly power and trust in God. Reliance on military might was forbidden to Israel (see Deut. 17:16). The verse also anticipates the Christian hope: ultimate trust is in God’s revealed name and power, not human strength.",
+      "sectionHeader": "Trust in God Over Earthly Powers"
     },
     {
       "pk": 23020008,
@@ -110,8 +112,26 @@
       "verse": 9,
       "text": "O LORD, save the king! May he answer us on the day we call.",
       "links": "<a href='/AIV/11/8/44'>1 Kings 8:44</a>; <a href='/AIV/19/72/1'>Ps. 72:1</a>",
-      "comment": "This closing plea for divine protection upon the king points not only to Israel’s ruler, but prophetically toward the Messianic King whose kingdom endures forever (2 Sam. 7:16; Luke 1:32-33). The communal intercession also reflects the unbroken tradition of praying for leaders and the unity of God’s people (1 Tim. 2:1-2)."
+      "comment": "This closing plea for divine protection upon the king points not only to Israel’s ruler, but prophetically toward the Messianic King whose kingdom endures forever (2 Sam. 7:16; Luke 1:32-33). The communal intercession also reflects the unbroken tradition of praying for leaders and the unity of God’s people (1 Tim. 2:1-2).",
+      "sectionHeader": "Petition for the King"
     }
   ],
-  "translatedAt": "2025-12-24T06:05:07.239Z"
+  "translatedAt": "2025-12-24T06:05:07.239Z",
+  "sections": [
+    {
+      "title": "Prayer for Victory and Blessing",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Trust in God Over Earthly Powers",
+      "startVerse": 7,
+      "endVerse": 8
+    },
+    {
+      "title": "Petition for the King",
+      "startVerse": 9,
+      "endVerse": 9
+    }
+  ]
 }

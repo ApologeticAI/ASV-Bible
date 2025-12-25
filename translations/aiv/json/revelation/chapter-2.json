@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "To the angel of the church in Ephesus write: ‘The One who holds the seven stars in His right hand, who walks among the seven golden lampstands, says this:",
       "links": "<a href='/AIV/73/1/16-20'>Rev 1:16-20</a>; <a href='/AIV/2/25/8'>Exod 25:8,31-40</a>",
-      "comment": "The 'seven stars' and 'seven lampstands' represent the church's leaders and communities, echoing the Old Testament imagery of lampstands in the tabernacle (Exod 25). Christ's authority is depicted in His holding of the stars, alluding to divine sovereignty and the ongoing presence with His church."
+      "comment": "The 'seven stars' and 'seven lampstands' represent the church's leaders and communities, echoing the Old Testament imagery of lampstands in the tabernacle (Exod 25). Christ's authority is depicted in His holding of the stars, alluding to divine sovereignty and the ongoing presence with His church.",
+      "sectionHeader": "To the Church in Ephesus"
     },
     {
       "pk": 73002002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "And to the angel of the church in Smyrna write: ‘The First and the Last, who died and came to life, says this:",
       "links": "<a href='/AIV/73/1/17-18'>Rev 1:17-18</a>; <a href='/AIV/23/44/6'>Isa 44:6</a>",
-      "comment": "Christ self-identifies with titles of divinity (First and Last), paralleling Yahweh’s claims in Isaiah. Strongly asserts Christ’s divine nature and resurrection."
+      "comment": "Christ self-identifies with titles of divinity (First and Last), paralleling Yahweh’s claims in Isaiah. Strongly asserts Christ’s divine nature and resurrection.",
+      "sectionHeader": "To the Church in Smyrna"
     },
     {
       "pk": 73002009,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "And to the angel of the church in Pergamum write: ‘The One who has the sharp, double-edged sword says this:",
       "links": "<a href='/AIV/58/4/12'>Heb 4:12</a>; <a href='/AIV/73/1/16'>Rev 1:16</a>",
-      "comment": "The sword represents the penetrating power of Christ’s word and judgment, tied to imagery in Hebrews and Isaiah."
+      "comment": "The sword represents the penetrating power of Christ’s word and judgment, tied to imagery in Hebrews and Isaiah.",
+      "sectionHeader": "To the Church in Pergamum"
     },
     {
       "pk": 73002013,
@@ -218,7 +221,8 @@
       "verse": 18,
       "text": "And to the angel of the church in Thyatira write: ‘The Son of God, who has eyes like a flame of fire, and whose feet are like burnished bronze, says this:",
       "links": "<a href='/AIV/73/1/14-15'>Rev 1:14-15</a>; <a href='/AIV/27/10/6'>Dan 10:6</a>",
-      "comment": "'Son of God' is an explicit Christological title, underscoring the divinity of Jesus. The fiery eyes and bronze feet echo Daniel, symbolizing judgment and purity."
+      "comment": "'Son of God' is an explicit Christological title, underscoring the divinity of Jesus. The fiery eyes and bronze feet echo Daniel, symbolizing judgment and purity.",
+      "sectionHeader": "To the Church in Thyatira"
     },
     {
       "pk": 73002019,
@@ -353,5 +357,27 @@
       "comment": "Repeated exhortation to listen spiritually, reinforcing the unity and universality of Christ’s message and its ongoing relevance."
     }
   ],
-  "translatedAt": "2025-12-24T12:33:55.872Z"
+  "translatedAt": "2025-12-24T12:33:55.872Z",
+  "sections": [
+    {
+      "title": "To the Church in Ephesus",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "To the Church in Smyrna",
+      "startVerse": 8,
+      "endVerse": 11
+    },
+    {
+      "title": "To the Church in Pergamum",
+      "startVerse": 12,
+      "endVerse": 17
+    },
+    {
+      "title": "To the Church in Thyatira",
+      "startVerse": 18,
+      "endVerse": 29
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The words of the Preacher, son of David, king in Jerusalem:",
       "links": "<a href='/AIV/11/1/1'>1 Kings 1:1</a>; <a href='/AIV/20/1/1'>Prov. 1:1</a>",
-      "comment": "The 'Preacher' (Hebrew: Qoheleth) is often understood as Solomon. Tradition connects this book to the wisest king, highlighting its authority and wisdom-teaching. Echoes of Proverbs and the kingly legacy underline the role of divinely guided leadership."
+      "comment": "The 'Preacher' (Hebrew: Qoheleth) is often understood as Solomon. Tradition connects this book to the wisest king, highlighting its authority and wisdom-teaching. Echoes of Proverbs and the kingly legacy underline the role of divinely guided leadership.",
+      "sectionHeader": "The Vanity of All Things"
     },
     {
       "pk": 25001002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "I, the Preacher, was king over Israel in Jerusalem.",
       "links": "<a href='/AIV/11/3/12'>1 Kings 3:12</a>",
-      "comment": "Reiterates the Solomonic authorship. The kingly office was seen as anointed and holding unique wisdom—an image later fulfilled perfectly in Jesus, the true King."
+      "comment": "Reiterates the Solomonic authorship. The kingly office was seen as anointed and holding unique wisdom—an image later fulfilled perfectly in Jesus, the true King.",
+      "sectionHeader": "The Preacher's Search for Wisdom"
     },
     {
       "pk": 25001013,
@@ -221,5 +223,17 @@
       "comment": "The burden of knowledge echoes the effects of the Fall (see Genesis 3). Divine wisdom—the kind found only with God’s guidance and through His appointed teachers—turns grief into hope through redemption."
     }
   ],
-  "translatedAt": "2025-12-24T07:07:02.850Z"
+  "translatedAt": "2025-12-24T07:07:02.850Z",
+  "sections": [
+    {
+      "title": "The Vanity of All Things",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "The Preacher's Search for Wisdom",
+      "startVerse": 12,
+      "endVerse": 18
+    }
+  ]
 }

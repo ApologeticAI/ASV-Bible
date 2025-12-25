@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The LORD spoke to Moses, saying:",
       "links": "",
-      "comment": "God directly addresses Moses. The style is consistent with previous places where God gives commands to His chosen leader. Compare with Lev. 27:26 and Num. 3:13, showing God's authority to claim what is first and most precious."
+      "comment": "God directly addresses Moses. The style is consistent with previous places where God gives commands to His chosen leader. Compare with Lev. 27:26 and Num. 3:13, showing God's authority to claim what is first and most precious.",
+      "sectionHeader": "The Consecration of the Firstborn"
     },
     {
       "pk": 2013002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "Then Moses said to the people, \"Remember this day, the day you came out of Egypt, out of the house of slavery, for with a strong hand the LORD brought you out from there. No leavened bread shall be eaten.",
       "links": "<a href='/AIV/2/12/17'>Exod. 12:17</a>; <a href='/AIV/5/16/3'>Deut. 16:3</a>",
-      "comment": "The requirement to avoid leaven is a memorial of their hasty departure but also represents purity. This ritual is foundational for later worship patterns and prefigures future memorials, see 1 Cor. 5:7-8 on unleavened bread as a symbol of sincerity and truth."
+      "comment": "The requirement to avoid leaven is a memorial of their hasty departure but also represents purity. This ritual is foundational for later worship patterns and prefigures future memorials, see 1 Cor. 5:7-8 on unleavened bread as a symbol of sincerity and truth.",
+      "sectionHeader": "The Feast of Unleavened Bread"
     },
     {
       "pk": 2013004,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "When the LORD brings you into the land of the Canaanites, just as He swore to you and your fathers, and gives it to you,",
       "links": "<a href='/AIV/1/15/18'>Gen. 15:18</a>; <a href='/AIV/2/3/8'>Exod. 3:8</a>",
-      "comment": "The inheritance of the land depends on God's faithfulness to his covenant. The phrase links salvation history to the concept of a chosen people and continuation of promises."
+      "comment": "The inheritance of the land depends on God's faithfulness to his covenant. The phrase links salvation history to the concept of a chosen people and continuation of promises.",
+      "sectionHeader": "Instruction on the Redemption of the Firstborn"
     },
     {
       "pk": 2013012,
@@ -206,7 +209,8 @@
       "verse": 17,
       "text": "When Pharaoh let the people go, God did not lead them by way of the land of the Philistines, though it was near; for God said, 'Lest the people change their minds when they see war and return to Egypt.'",
       "links": "<a href='/AIV/2/14/11-12'>Exod. 14:11-12</a>",
-      "comment": "God’s providence allows for humanity’s weakness; He leads not always by the shortest but by the best way. Spiritual formation requires trust and patience."
+      "comment": "God’s providence allows for humanity’s weakness; He leads not always by the shortest but by the best way. Spiritual formation requires trust and patience.",
+      "sectionHeader": "The Pillar of Cloud and Fire"
     },
     {
       "pk": 2013018,
@@ -269,5 +273,27 @@
       "comment": "This enduring presence foreshadows God’s promises of constant guidance and protection, and points forward to the ways He continues to be visibly present among His people even now."
     }
   ],
-  "translatedAt": "2025-12-24T00:53:29.219Z"
+  "translatedAt": "2025-12-24T00:53:29.219Z",
+  "sections": [
+    {
+      "title": "The Consecration of the Firstborn",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "The Feast of Unleavened Bread",
+      "startVerse": 3,
+      "endVerse": 10
+    },
+    {
+      "title": "Instruction on the Redemption of the Firstborn",
+      "startVerse": 11,
+      "endVerse": 16
+    },
+    {
+      "title": "The Pillar of Cloud and Fire",
+      "startVerse": 17,
+      "endVerse": 22
+    }
+  ]
 }

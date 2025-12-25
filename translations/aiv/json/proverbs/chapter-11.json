@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Dishonest scales are detestable to the Lord, but a just weight is his delight.",
       "links": "<a href='/AIV/3/19/35-36'>Lev. 19:35-36</a>; <a href='/AIV/20/16/11'>Prov. 16:11</a>",
-      "comment": "Ancient trade relied on physical scales, so this proverb shows God’s concern for economic justice and integrity. Themes of justice repeat throughout Scripture, calling for honesty in all dealings."
+      "comment": "Ancient trade relied on physical scales, so this proverb shows God’s concern for economic justice and integrity. Themes of justice repeat throughout Scripture, calling for honesty in all dealings.",
+      "sectionHeader": "The Way of Righteousness and Wickedness"
     },
     {
       "pk": 24011002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "He who despises his neighbor lacks sense, but a person of understanding holds their tongue.",
       "links": "<a href='/AIV/20/14/21'>Prov. 14:21</a>; <a href='/AIV/20/17/27'>Prov. 17:27</a>",
-      "comment": "This encourages charity and control over speech, both valued in Christ’s call to love neighbor as self (Matt. 22:39)."
+      "comment": "This encourages charity and control over speech, both valued in Christ’s call to love neighbor as self (Matt. 22:39).",
+      "sectionHeader": "Counsel, Kindness, and Community Life"
     },
     {
       "pk": 24011013,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "The wicked earns deceptive wages, but whoever sows righteousness gets a sure reward.",
       "links": "<a href='/AIV/20/10/16'>Prov. 10:16</a>; <a href='/AIV/48/6/7-8'>Gal. 6:7-8</a>",
-      "comment": "Rewards are lasting only if grounded in righteousness. Paul echoes this: 'whatever one sows, that will he also reap.'"
+      "comment": "Rewards are lasting only if grounded in righteousness. Paul echoes this: 'whatever one sows, that will he also reap.'",
+      "sectionHeader": "Reward and Prosperity of the Righteous"
     },
     {
       "pk": 24011019,
@@ -377,5 +380,22 @@
       "comment": "God’s justice is experienced even in this life, but future judgment exceeds this. Peter refers to this reality in his discussion of suffering for righteousness."
     }
   ],
-  "translatedAt": "2025-12-24T06:55:50.382Z"
+  "translatedAt": "2025-12-24T06:55:50.382Z",
+  "sections": [
+    {
+      "title": "The Way of Righteousness and Wickedness",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "Counsel, Kindness, and Community Life",
+      "startVerse": 12,
+      "endVerse": 17
+    },
+    {
+      "title": "Reward and Prosperity of the Righteous",
+      "startVerse": 18,
+      "endVerse": 31
+    }
+  ]
 }

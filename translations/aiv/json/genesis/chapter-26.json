@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "There was a famine in the land, in addition to the first famine that had occurred during the days of Abraham. And Isaac went to Abimelech, king of the Philistines, in Gerar.",
       "links": "<a href='/AIV/1/12/10'>Gen. 12:10</a>; <a href='/AIV/1/20/1-2'>Gen. 20:1-2</a>",
-      "comment": "This echoes the earlier famine in Abraham’s time (Gen. 12:10), showing God’s testing of each generation. The setting in Gerar connects Isaac’s life with his father’s, demonstrating continuity in God's plan."
+      "comment": "This echoes the earlier famine in Abraham’s time (Gen. 12:10), showing God’s testing of each generation. The setting in Gerar connects Isaac’s life with his father’s, demonstrating continuity in God's plan.",
+      "sectionHeader": "Isaac and Abimelech"
     },
     {
       "pk": 1026002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "Isaac sowed seed in that land and reaped in the same year a hundredfold, and the LORD blessed him.",
       "links": "<a href='/AIV/19/67/6'>Ps. 67:6</a>; <a href='/AIV/19/107/37-38'>Ps. 107:37-38</a>",
-      "comment": "The abundant harvest is a visible sign of God’s blessing for obedience, prefiguring the theme of divine reward for faithfulness."
+      "comment": "The abundant harvest is a visible sign of God’s blessing for obedience, prefiguring the theme of divine reward for faithfulness.",
+      "sectionHeader": "Isaac Prospers in Gerar"
     },
     {
       "pk": 1026013,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "So all the wells that his father’s servants had dug in the days of Abraham were stopped up by the Philistines and filled with earth.",
       "links": "<a href='/AIV/1/21/25-30'>Gen. 21:25-30</a>",
-      "comment": "Wells symbolize life and blessing; their opposition to Isaac foreshadows the recurring struggles over sacred institutions and inheritance across salvation history."
+      "comment": "Wells symbolize life and blessing; their opposition to Isaac foreshadows the recurring struggles over sacred institutions and inheritance across salvation history.",
+      "sectionHeader": "Dispute Over the Wells"
     },
     {
       "pk": 1026016,
@@ -278,7 +281,8 @@
       "verse": 23,
       "text": "From there he went up to Beersheba.",
       "links": "<a href='/AIV/1/21/31'>Gen. 21:31</a>",
-      "comment": "Beersheba is an important location in the life of the patriarchs, serving as a place of divine encounter and covenant."
+      "comment": "Beersheba is an important location in the life of the patriarchs, serving as a place of divine encounter and covenant.",
+      "sectionHeader": "The LORD Appears at Beersheba"
     },
     {
       "pk": 1026024,
@@ -314,7 +318,8 @@
       "verse": 26,
       "text": "Then Abimelech came to him from Gerar with his adviser Ahuzzath and his army commander Phicol.",
       "links": "<a href='/AIV/1/21/22'>Gen. 21:22</a>",
-      "comment": "Parallel to Abraham’s story, these official emissaries indicate the respect and perhaps fear that Isaac commands as God’s chosen one."
+      "comment": "Parallel to Abraham’s story, these official emissaries indicate the respect and perhaps fear that Isaac commands as God’s chosen one.",
+      "sectionHeader": "Isaac’s Covenant with Abimelech"
     },
     {
       "pk": 1026027,
@@ -410,7 +415,8 @@
       "verse": 34,
       "text": "When Esau was forty years old, he married Judith daughter of Beeri the Hittite, and Basemath daughter of Elon the Hittite.",
       "links": "<a href='/AIV/1/36/2'>Gen. 36:2</a>",
-      "comment": "Esau’s marriage outside the covenant family underscores the importance of faithfulness to God’s plan and the dangers of syncretism, prefiguring later warnings to God’s people."
+      "comment": "Esau’s marriage outside the covenant family underscores the importance of faithfulness to God’s plan and the dangers of syncretism, prefiguring later warnings to God’s people.",
+      "sectionHeader": "Esau’s Wives"
     },
     {
       "pk": 1026035,
@@ -425,5 +431,37 @@
       "comment": "The marriage’s outcome shows the practical consequences of spiritual choices. Unity and holiness within the people of God are constant biblical emphases for true fruitfulness and peace."
     }
   ],
-  "translatedAt": "2025-12-24T00:24:33.799Z"
+  "translatedAt": "2025-12-24T00:24:33.799Z",
+  "sections": [
+    {
+      "title": "Isaac and Abimelech",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "Isaac Prospers in Gerar",
+      "startVerse": 12,
+      "endVerse": 14
+    },
+    {
+      "title": "Dispute Over the Wells",
+      "startVerse": 15,
+      "endVerse": 22
+    },
+    {
+      "title": "The LORD Appears at Beersheba",
+      "startVerse": 23,
+      "endVerse": 25
+    },
+    {
+      "title": "Isaac’s Covenant with Abimelech",
+      "startVerse": 26,
+      "endVerse": 33
+    },
+    {
+      "title": "Esau’s Wives",
+      "startVerse": 34,
+      "endVerse": 35
+    }
+  ]
 }

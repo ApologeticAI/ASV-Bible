@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "After two full years, Pharaoh had a dream: he was standing by the Nile.",
       "links": "<a href='/AIV/1/40/23'>Gen. 40:23</a>; <a href='/AIV/27/2/1'>Dan. 2:1</a>",
-      "comment": "Joseph's time of waiting corresponds to trusting God even in delay. Like other prophetic dreams in scripture, Pharaoh's dreams foreshadow God's providence for His people."
+      "comment": "Joseph's time of waiting corresponds to trusting God even in delay. Like other prophetic dreams in scripture, Pharaoh's dreams foreshadow God's providence for His people.",
+      "sectionHeader": "Pharaoh's Dreams"
     },
     {
       "pk": 1041002,
@@ -170,7 +171,8 @@
       "verse": 14,
       "text": "Then Pharaoh sent and called Joseph, and they quickly brought him out of the pit. After shaving and changing his clothes, he came in before Pharaoh.",
       "links": "<a href='/AIV/1/41/39-41'>Gen. 41:39-41</a>",
-      "comment": "Joseph’s transition from prison to court echoes Christ’s resurrection, ascent, and glorification after humiliation (cf. Phil. 2:8-9)."
+      "comment": "Joseph’s transition from prison to court echoes Christ’s resurrection, ascent, and glorification after humiliation (cf. Phil. 2:8-9).",
+      "sectionHeader": "Joseph Interprets Pharaoh's Dreams"
     },
     {
       "pk": 1041015,
@@ -446,7 +448,8 @@
       "verse": 37,
       "text": "The advice seemed good to Pharaoh and to all his servants.",
       "links": "",
-      "comment": "Even pagan rulers can recognize the wisdom of God when it is manifest; God’s truth is powerful and persuasive."
+      "comment": "Even pagan rulers can recognize the wisdom of God when it is manifest; God’s truth is powerful and persuasive.",
+      "sectionHeader": "Joseph Made Governor of Egypt"
     },
     {
       "pk": 1041038,
@@ -554,7 +557,8 @@
       "verse": 46,
       "text": "Joseph was thirty years old when he stood before Pharaoh king of Egypt. Joseph went out from Pharaoh's presence and traveled through all the land of Egypt.",
       "links": "<a href='/AIV/1/37/2'>Gen. 37:2</a>; <a href='/AIV/4/4/3'>Num. 4:3</a>; <a href='/AIV/40/3/23'>Luke 3:23</a>",
-      "comment": "Joseph’s age (thirty) recalls the age of priestly service and Christ beginning His ministry at thirty, marking a scriptural pattern for leadership."
+      "comment": "Joseph’s age (thirty) recalls the age of priestly service and Christ beginning His ministry at thirty, marking a scriptural pattern for leadership.",
+      "sectionHeader": "Joseph Stores Grain During the Years of Plenty"
     },
     {
       "pk": 1041047,
@@ -638,7 +642,8 @@
       "verse": 53,
       "text": "The seven years of abundance in the land of Egypt came to an end.",
       "links": "",
-      "comment": "All earthly abundance is temporary—a subtle call to eternal hope founded in faith."
+      "comment": "All earthly abundance is temporary—a subtle call to eternal hope founded in faith.",
+      "sectionHeader": "The Famine Begins"
     },
     {
       "pk": 1041054,
@@ -689,5 +694,32 @@
       "comment": "‘All the earth’ coming to Joseph prefigures all nations coming to one source for salvation and life. Joseph here is a type of Christ, the world’s true Redeemer (cf. Matt. 28:19)."
     }
   ],
-  "translatedAt": "2025-12-24T00:37:57.040Z"
+  "translatedAt": "2025-12-24T00:37:57.040Z",
+  "sections": [
+    {
+      "title": "Pharaoh's Dreams",
+      "startVerse": 1,
+      "endVerse": 13
+    },
+    {
+      "title": "Joseph Interprets Pharaoh's Dreams",
+      "startVerse": 14,
+      "endVerse": 36
+    },
+    {
+      "title": "Joseph Made Governor of Egypt",
+      "startVerse": 37,
+      "endVerse": 45
+    },
+    {
+      "title": "Joseph Stores Grain During the Years of Plenty",
+      "startVerse": 46,
+      "endVerse": 52
+    },
+    {
+      "title": "The Famine Begins",
+      "startVerse": 53,
+      "endVerse": 57
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In the third year of King Belshazzar’s reign, I, Daniel, saw a vision that came after the earlier one.",
       "links": "<a href='/AIV/34/7/1'>Dan 7:1</a>; <a href='/AIV/27/1/1'>Ezek 1:1</a>",
-      "comment": "Daniel records a second vision from God, underlining the ongoing revelation during the Babylonian exile. The sequence echoes how God continues to speak in new ways, fulfilling earlier prophecies."
+      "comment": "Daniel records a second vision from God, underlining the ongoing revelation during the Babylonian exile. The sequence echoes how God continues to speak in new ways, fulfilling earlier prophecies.",
+      "sectionHeader": "Daniel's Vision of the Ram and the Goat"
     },
     {
       "pk": 34008002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "From one of them came a little horn, which grew great toward the south, east, and toward the Beautiful Land.",
       "links": "<a href='/AIV/34/7/8'>Dan 7:8</a>; <a href='/AIV/34/11/16'>Dan 11:16</a>",
-      "comment": "Traditionally the ‘little horn’ refers to Antiochus IV, typifying future opposition to God’s people. The ‘Beautiful Land’ indicates Israel—God’s place of special concern."
+      "comment": "Traditionally the ‘little horn’ refers to Antiochus IV, typifying future opposition to God’s people. The ‘Beautiful Land’ indicates Israel—God’s place of special concern.",
+      "sectionHeader": "The Little Horn and the Desecration of the Sanctuary"
     },
     {
       "pk": 34008010,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "While I, Daniel, was watching the vision and trying to understand it, there stood before me one who looked like a man.",
       "links": "<a href='/AIV/34/7/13'>Dan 7:13</a>; <a href='/AIV/43/1/14'>John 1:14</a>",
-      "comment": "The 'manlike figure' recalls appearances of angelic messengers and prefigures ultimate divine revelation in human form (Christology, John 1:14)."
+      "comment": "The 'manlike figure' recalls appearances of angelic messengers and prefigures ultimate divine revelation in human form (Christology, John 1:14).",
+      "sectionHeader": "The Interpretation of the Vision by Gabriel"
     },
     {
       "pk": 34008016,
@@ -326,8 +329,31 @@
       "verse": 27,
       "text": "I, Daniel, was exhausted and sick for days. Then I got up and went about the king’s business. I was appalled by the vision; I did not understand it.",
       "links": "<a href='/AIV/34/7/15'>Dan 7:15</a>; <a href='/AIV/34/10/2'>Dan 10:2</a>",
-      "comment": "Daniel’s response shows that engaging with divine mysteries is difficult and sometimes painful. Yet, God’s servants persevere in daily life, trusting ultimate fulfillment of God’s promises. The mystery invites deeper reflection, study, and holy anticipation."
+      "comment": "Daniel’s response shows that engaging with divine mysteries is difficult and sometimes painful. Yet, God’s servants persevere in daily life, trusting ultimate fulfillment of God’s promises. The mystery invites deeper reflection, study, and holy anticipation.",
+      "sectionHeader": "Daniel's Distress"
     }
   ],
-  "translatedAt": "2025-12-24T09:32:22.911Z"
+  "translatedAt": "2025-12-24T09:32:22.911Z",
+  "sections": [
+    {
+      "title": "Daniel's Vision of the Ram and the Goat",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "The Little Horn and the Desecration of the Sanctuary",
+      "startVerse": 9,
+      "endVerse": 14
+    },
+    {
+      "title": "The Interpretation of the Vision by Gabriel",
+      "startVerse": 15,
+      "endVerse": 26
+    },
+    {
+      "title": "Daniel's Distress",
+      "startVerse": 27,
+      "endVerse": 27
+    }
+  ]
 }

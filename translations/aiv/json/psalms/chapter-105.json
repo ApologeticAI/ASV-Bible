@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Give thanks to the LORD; call on his name; make known his deeds among the peoples.",
       "links": "<a href='/AIV/13/16/8'>1 Chron. 16:8</a>; <a href='/AIV/19/106/1'>Ps. 106:1</a>",
-      "comment": "The psalm begins with a call to public praise and proclamation of God's works. The phrase 'call on his name' carries both a personal and communal aspect of worship, leading into the biblical understanding of worship as both inner devotion and external proclamation."
+      "comment": "The psalm begins with a call to public praise and proclamation of God's works. The phrase 'call on his name' carries both a personal and communal aspect of worship, leading into the biblical understanding of worship as both inner devotion and external proclamation.",
+      "sectionHeader": "A Call to Praise and Remember God's Deeds"
     },
     {
       "pk": 23105002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "He remembers his covenant forever, the word he commanded for a thousand generations.",
       "links": "<a href='/AIV/01/17/7'>Gen. 17:7</a>; <a href='/AIV/19/89/34'>Ps. 89:34</a>",
-      "comment": "God’s enduring covenant faithfulness is a central biblical theme. The number 'a thousand generations' stresses the unbreakable nature of his promise."
+      "comment": "God’s enduring covenant faithfulness is a central biblical theme. The number 'a thousand generations' stresses the unbreakable nature of his promise.",
+      "sectionHeader": "God’s Covenant with Abraham and the Patriarchs"
     },
     {
       "pk": 23105009,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "When he summoned a famine on the land and broke all the supply of bread,",
       "links": "<a href='/AIV/01/41/54'>Gen. 41:54</a>; <a href='/AIV/01/12/10'>Gen. 12:10</a>",
-      "comment": "God rules above nature, using even famine as a means for his providential plan, leading to the events surrounding Joseph."
+      "comment": "God rules above nature, using even famine as a means for his providential plan, leading to the events surrounding Joseph.",
+      "sectionHeader": "Joseph Sent Ahead to Egypt"
     },
     {
       "pk": 23105017,
@@ -278,7 +281,8 @@
       "verse": 23,
       "text": "Then Israel came to Egypt; Jacob sojourned in the land of Ham.",
       "links": "<a href='/AIV/01/46/6-7'>Gen. 46:6-7</a>; <a href='/AIV/01/50/26'>Gen. 50:26</a>",
-      "comment": "Egypt is called 'the land of Ham' poetically. The movement to Egypt is part of God’s sovereign plan, setting the stage for the Exodus."
+      "comment": "Egypt is called 'the land of Ham' poetically. The movement to Egypt is part of God’s sovereign plan, setting the stage for the Exodus.",
+      "sectionHeader": "Israel’s Oppression and God’s Deliverance by Moses"
     },
     {
       "pk": 23105024,
@@ -314,7 +318,8 @@
       "verse": 26,
       "text": "He sent Moses his servant, and Aaron, whom he had chosen.",
       "links": "<a href='/AIV/02/3/10'>Ex. 3:10</a>; <a href='/AIV/02/4/14'>Ex. 4:14</a>",
-      "comment": "Moses and Aaron, prefiguring later spiritual leadership (cf. Heb. 3:1-5), are chosen and commissioned to mediate God’s deliverance."
+      "comment": "Moses and Aaron, prefiguring later spiritual leadership (cf. Heb. 3:1-5), are chosen and commissioned to mediate God’s deliverance.",
+      "sectionHeader": "The Plagues and the Exodus"
     },
     {
       "pk": 23105027,
@@ -470,7 +475,8 @@
       "verse": 39,
       "text": "He spread a cloud for a covering and fire to give light by night.",
       "links": "<a href='/AIV/02/13/21-22'>Ex. 13:21-22</a>; <a href='/AIV/19/78/14'>Ps. 78:14</a>",
-      "comment": "The cloud and fire are visible signs of God's presence and guidance, anticipating later Christian understandings of sacramental signs."
+      "comment": "The cloud and fire are visible signs of God's presence and guidance, anticipating later Christian understandings of sacramental signs.",
+      "sectionHeader": "Provision in the Wilderness and Fulfillment of the Promise"
     },
     {
       "pk": 23105040,
@@ -545,5 +551,37 @@
       "comment": "God’s gracious acts culminate in the call to holiness and faithful obedience. The law's original purpose was to foster a community fully devoted to God—a call continually echoed and fulfilled in the Spirit-led worship and service of the New Covenant Church."
     }
   ],
-  "translatedAt": "2025-12-24T06:36:56.218Z"
+  "translatedAt": "2025-12-24T06:36:56.218Z",
+  "sections": [
+    {
+      "title": "A Call to Praise and Remember God's Deeds",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "God’s Covenant with Abraham and the Patriarchs",
+      "startVerse": 8,
+      "endVerse": 15
+    },
+    {
+      "title": "Joseph Sent Ahead to Egypt",
+      "startVerse": 16,
+      "endVerse": 22
+    },
+    {
+      "title": "Israel’s Oppression and God’s Deliverance by Moses",
+      "startVerse": 23,
+      "endVerse": 25
+    },
+    {
+      "title": "The Plagues and the Exodus",
+      "startVerse": 26,
+      "endVerse": 38
+    },
+    {
+      "title": "Provision in the Wilderness and Fulfillment of the Promise",
+      "startVerse": 39,
+      "endVerse": 45
+    }
+  ]
 }

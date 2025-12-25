@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "I have come into my garden, my sister, my bride; I have gathered my myrrh with my spices. I have eaten my honeycomb with my honey; I have drunk my wine with my milk. Eat, friends; drink, and be intoxicated with love.",
       "links": "<a href='/AIV/23/62/5'>Isa. 62:5</a>; <a href='/AIV/19/36/8'>Ps. 36:8</a>; <a href='/AIV/43/2/10'>John 2:10</a>",
-      "comment": "This verse marks a joyful consummation, reminiscent of banquet imagery often seen in Scripture. The garden represents intimacy and union, echoing Eden and future spiritual fulfillment. The communal call to 'eat and drink' anticipates heavenly feasting, referenced in Revelation 19:9."
+      "comment": "This verse marks a joyful consummation, reminiscent of banquet imagery often seen in Scripture. The garden represents intimacy and union, echoing Eden and future spiritual fulfillment. The communal call to 'eat and drink' anticipates heavenly feasting, referenced in Revelation 19:9.",
+      "sectionHeader": "The Bridegroom Enters the Garden"
     },
     {
       "pk": 26005002,
@@ -26,7 +27,8 @@
       "verse": 2,
       "text": "I slept, but my heart was awake. The voice of my beloved! He knocks: 'Open to me, my sister, my love, my dove, my perfect one, for my head is drenched with dew, my hair with the drops of the night.'",
       "links": "<a href='/AIV/66/3/20'>Rev. 3:20</a>; <a href='/AIV/19/77/6'>Ps. 77:6</a>",
-      "comment": "The Bride is receptive yet hesitant. The knocking echoes Christ's invitation in Revelation 3:20. Dew and night suggest persistence and longing, traditionally seen as divine pursuit of the soul."
+      "comment": "The Bride is receptive yet hesitant. The knocking echoes Christ's invitation in Revelation 3:20. Dew and night suggest persistence and longing, traditionally seen as divine pursuit of the soul.",
+      "sectionHeader": "The Bride’s Troubled Dream"
     },
     {
       "pk": 26005003,
@@ -110,7 +112,8 @@
       "verse": 9,
       "text": "What is your beloved more than another beloved, O most beautiful among women? What is your beloved more than another beloved, that you so adjure us?",
       "links": "<a href='/AIV/19/45/2'>Ps. 45:2</a>",
-      "comment": "Here, the companions question what makes her beloved unique, opening the way for praise and glorification, much like the glorification of Christ’s singular role."
+      "comment": "Here, the companions question what makes her beloved unique, opening the way for praise and glorification, much like the glorification of Christ’s singular role.",
+      "sectionHeader": "The Daughters of Jerusalem Question the Bride"
     },
     {
       "pk": 26005010,
@@ -122,7 +125,8 @@
       "verse": 10,
       "text": "My beloved is radiant and ruddy, outstanding among ten thousand.",
       "links": "<a href='/AIV/19/45/2'>Ps. 45:2</a>; <a href='/AIV/66/1/13'>Rev. 1:13-16</a>",
-      "comment": "The description highlights the beloved's uniqueness and glory. This imagery is often applied in Christological interpretation, depicting Christ's distinct excellence."
+      "comment": "The description highlights the beloved's uniqueness and glory. This imagery is often applied in Christological interpretation, depicting Christ's distinct excellence.",
+      "sectionHeader": "The Bride Praises Her Beloved"
     },
     {
       "pk": 26005011,
@@ -197,5 +201,27 @@
       "comment": "The beloved's mouth as sweetness evokes God’s Word and spiritual nourishment (Ps. 34:8). The concluding declaration encourages love and intimacy with the divine, reminiscent of Christ’s own invitation to friendship in John 15:15. The bridal love here models both personal devotion and communal celebration in the life of faith."
     }
   ],
-  "translatedAt": "2025-12-24T07:13:26.375Z"
+  "translatedAt": "2025-12-24T07:13:26.375Z",
+  "sections": [
+    {
+      "title": "The Bridegroom Enters the Garden",
+      "startVerse": 1,
+      "endVerse": 1
+    },
+    {
+      "title": "The Bride’s Troubled Dream",
+      "startVerse": 2,
+      "endVerse": 8
+    },
+    {
+      "title": "The Daughters of Jerusalem Question the Bride",
+      "startVerse": 9,
+      "endVerse": 9
+    },
+    {
+      "title": "The Bride Praises Her Beloved",
+      "startVerse": 10,
+      "endVerse": 16
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In his days, Nebuchadnezzar king of Babylon came up, and Jehoiakim became his servant for three years. Then he turned and rebelled against him.",
       "links": "<a href='/AIV/24/25/1'>Jer. 25:1</a>; <a href='/AIV/14/36/5-7'>2 Chr. 36:5-7</a>",
-      "comment": "The start of the Babylonian domination signals God's continued discipline of Judah. This begins the exile foretold by the prophets (<a href='/AIV/24/25/11'>Jer. 25:11</a>)."
+      "comment": "The start of the Babylonian domination signals God's continued discipline of Judah. This begins the exile foretold by the prophets (<a href='/AIV/24/25/11'>Jer. 25:11</a>).",
+      "sectionHeader": "Jehoiakim Becomes Vassal of Babylon"
     },
     {
       "pk": 12024002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Jehoiachin was eighteen years old when he became king, and he reigned in Jerusalem three months. His mother’s name was Nehushta the daughter of Elnathan of Jerusalem.",
       "links": "<a href='/AIV/24/22/24-26'>Jer. 22:24-26</a>",
-      "comment": "A brief reign, signifying Judah’s political fragility. His mother’s mention shows the importance of royal lineage and family."
+      "comment": "A brief reign, signifying Judah’s political fragility. His mother’s mention shows the importance of royal lineage and family.",
+      "sectionHeader": "Jehoiachin Taken Captive to Babylon"
     },
     {
       "pk": 12024009,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "The king of Babylon made Mattaniah, Jehoiachin’s uncle, king in his place, and changed his name to Zedekiah.",
       "links": "<a href='/AIV/24/37/1'>Jer. 37:1</a>",
-      "comment": "Name changes represent power and authority; only God’s promise through David’s descendants remains unchanging (<a href='/AIV/19/89/3-4'>Ps. 89:3-4</a>)."
+      "comment": "Name changes represent power and authority; only God’s promise through David’s descendants remains unchanging (<a href='/AIV/19/89/3-4'>Ps. 89:3-4</a>).",
+      "sectionHeader": "Zedekiah Made King of Judah"
     },
     {
       "pk": 12024018,
@@ -245,5 +248,22 @@
       "comment": "Divine anger brings exile, as foretold. Yet, the casting out is not permanent—God’s plan includes eventual gathering and restoration, foreshadowing the return from exile and, spiritually, the future ingathering of all God’s people. The need for faithfulness to divine authority is implied—a major theme that will blossom in the unity and sacramental life of God’s redeemed people."
     }
   ],
-  "translatedAt": "2025-12-24T04:02:21.233Z"
+  "translatedAt": "2025-12-24T04:02:21.233Z",
+  "sections": [
+    {
+      "title": "Jehoiakim Becomes Vassal of Babylon",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Jehoiachin Taken Captive to Babylon",
+      "startVerse": 8,
+      "endVerse": 16
+    },
+    {
+      "title": "Zedekiah Made King of Judah",
+      "startVerse": 17,
+      "endVerse": 20
+    }
+  ]
 }

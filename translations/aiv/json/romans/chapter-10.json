@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Brothers, my heart's desire and prayer to God for them is that they might be saved.",
       "links": "<a href='/AIV/51/9/3'>Rom. 9:3</a>; <a href='/AIV/52/10/9-13'>Rom. 10:9-13</a>",
-      "comment": "Paul begins this chapter expressing deep concern for the salvation of his fellow Israelites, emphasizing the universality of God’s desire to save all men. The theme of intercessory prayer for others is highlighted (see 1 Tim. 2:1-4)."
+      "comment": "Paul begins this chapter expressing deep concern for the salvation of his fellow Israelites, emphasizing the universality of God’s desire to save all men. The theme of intercessory prayer for others is highlighted (see 1 Tim. 2:1-4).",
+      "sectionHeader": "Israel’s Unbelief and God's Righteousness"
     },
     {
       "pk": 52010002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "For Moses writes about the righteousness based on the law: 'The person who does these things shall live by them.'",
       "links": "<a href='/AIV/3/18/5'>Lev. 18:5</a>; <a href='/AIV/48/3/12'>Gal. 3:12</a>",
-      "comment": "Paul quotes Moses to show that the law required complete obedience (see Lev. 18:5). True life, however, comes through faith, not law-keeping alone (see Hab. 2:4)."
+      "comment": "Paul quotes Moses to show that the law required complete obedience (see Lev. 18:5). True life, however, comes through faith, not law-keeping alone (see Hab. 2:4).",
+      "sectionHeader": "Salvation through Faith in Christ"
     },
     {
       "pk": 52010006,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "For the Scripture says, 'Everyone who believes in him will not be put to shame.'",
       "links": "<a href='/AIV/23/28/16'>Isa. 28:16</a>; <a href='/AIV/60/2/6'>1 Pet. 2:6</a>",
-      "comment": "Quoting Isaiah, Paul affirms the reliability of faith in Christ for all people. Believers are assured they will not be abandoned or disappointed. This promise applies universally, prefiguring the unity of all God’s people in faith."
+      "comment": "Quoting Isaiah, Paul affirms the reliability of faith in Christ for all people. Believers are assured they will not be abandoned or disappointed. This promise applies universally, prefiguring the unity of all God’s people in faith.",
+      "sectionHeader": "The Universality of Salvation"
     },
     {
       "pk": 52010012,
@@ -170,7 +173,8 @@
       "verse": 14,
       "text": "How then will they call on him in whom they have not believed? And how will they believe in him of whom they have not heard? And how will they hear without a preacher?",
       "links": "<a href='/AIV/41/16/15'>Mark 16:15</a>; <a href='/AIV/52/1/16'>Rom. 1:16</a>",
-      "comment": "Paul shows the necessity of apostolic preaching. The order—sending, preaching, hearing, believing, and calling—forms the basis of how faith is transmitted (see Matt. 28:19-20; 1 Cor. 1:21)."
+      "comment": "Paul shows the necessity of apostolic preaching. The order—sending, preaching, hearing, believing, and calling—forms the basis of how faith is transmitted (see Matt. 28:19-20; 1 Cor. 1:21).",
+      "sectionHeader": "The Necessity of Preaching the Gospel"
     },
     {
       "pk": 52010015,
@@ -194,7 +198,8 @@
       "verse": 16,
       "text": "But they have not all obeyed the gospel. For Isaiah says, 'Lord, who has believed what he has heard from us?'",
       "links": "<a href='/AIV/23/53/1'>Isa. 53:1</a>; <a href='/AIV/43/12/38'>John 12:38</a>",
-      "comment": "Paul notes not everyone accepts the gospel, quoting the Suffering Servant passage in Isaiah. The pattern of rejection is seen throughout salvation history (see John 12:37–38)."
+      "comment": "Paul notes not everyone accepts the gospel, quoting the Suffering Servant passage in Isaiah. The pattern of rejection is seen throughout salvation history (see John 12:37–38).",
+      "sectionHeader": "Israel’s Refusal to Believe"
     },
     {
       "pk": 52010017,
@@ -257,5 +262,32 @@
       "comment": "God’s patient love and persistent call to Israel is evident; yet despite ongoing rebellion, He continually invites His people back. This points to God’s mercy and the ongoing invitation to all, mediated through the unity and structure of the one people of God."
     }
   ],
-  "translatedAt": "2025-12-24T11:40:39.790Z"
+  "translatedAt": "2025-12-24T11:40:39.790Z",
+  "sections": [
+    {
+      "title": "Israel’s Unbelief and God's Righteousness",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "Salvation through Faith in Christ",
+      "startVerse": 5,
+      "endVerse": 10
+    },
+    {
+      "title": "The Universality of Salvation",
+      "startVerse": 11,
+      "endVerse": 13
+    },
+    {
+      "title": "The Necessity of Preaching the Gospel",
+      "startVerse": 14,
+      "endVerse": 15
+    },
+    {
+      "title": "Israel’s Refusal to Believe",
+      "startVerse": 16,
+      "endVerse": 21
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "I commend to you our sister Phoebe, a servant of the church at Cenchreae,",
       "links": "<a href='/AIV/44/18/18'>Acts 18:18</a>; <a href='/AIV/52/16/27'>Rom. 16:27</a>",
-      "comment": "Paul introduces Phoebe as a servant (Greek: diakonos), suggesting she held a special ministry role in the local church. Early indications of recognized female leadership are present, reinforcing the tradition of ordained service."
+      "comment": "Paul introduces Phoebe as a servant (Greek: diakonos), suggesting she held a special ministry role in the local church. Early indications of recognized female leadership are present, reinforcing the tradition of ordained service.",
+      "sectionHeader": "Commendation of Phoebe"
     },
     {
       "pk": 52016002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "Greet Prisca and Aquila, my fellow workers in Christ Jesus,",
       "links": "<a href='/AIV/44/18/2'>Acts 18:2</a>; <a href='/AIV/46/16/19'>1 Cor. 16:19</a>",
-      "comment": "Prisca and Aquila were prominent early Christian missionaries. Their partnership in ministry and their steadfast faith set a model for teamwork in the service of the gospel."
+      "comment": "Prisca and Aquila were prominent early Christian missionaries. Their partnership in ministry and their steadfast faith set a model for teamwork in the service of the gospel.",
+      "sectionHeader": "Greetings to Roman Christians"
     },
     {
       "pk": 52016004,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "Now I urge you, brothers, to watch out for those who create divisions and obstacles contrary to the doctrine you have learned; avoid them.",
       "links": "<a href='/AIV/56/3/10'>Titus 3:10</a>; <a href='/AIV/48/5/20'>Gal. 5:20</a>",
-      "comment": "Paul’s warning against divisive teachings emphasizes the necessity of a unified tradition rooted in apostolic doctrine and faithful transmission of the message. The apostolic deposit is to be guarded collectively through discernment."
+      "comment": "Paul’s warning against divisive teachings emphasizes the necessity of a unified tradition rooted in apostolic doctrine and faithful transmission of the message. The apostolic deposit is to be guarded collectively through discernment.",
+      "sectionHeader": "Warning against Divisions"
     },
     {
       "pk": 52016018,
@@ -254,7 +257,8 @@
       "verse": 21,
       "text": "Timothy, my fellow worker, greets you, as do Lucius, Jason and Sosipater, my kinsmen.",
       "links": "<a href='/AIV/44/20/4'>Acts 20:4</a>; <a href='/AIV/52/16/11'>Rom. 16:11</a>",
-      "comment": "Paul’s close companionship with Timothy and others reflects the continuity of leadership and succession within the apostolic community, ensuring the health and transmission of the faith."
+      "comment": "Paul’s close companionship with Timothy and others reflects the continuity of leadership and succession within the apostolic community, ensuring the health and transmission of the faith.",
+      "sectionHeader": "Greetings from Paul’s Companions"
     },
     {
       "pk": 52016022,
@@ -302,7 +306,8 @@
       "verse": 25,
       "text": "Now to him who is able to strengthen you according to my gospel and the preaching of Jesus Christ, according to the revelation of the mystery hidden for ages past,",
       "links": "<a href='/AIV/51/1/26'>Col. 1:26</a>; <a href='/AIV/49/3/9'>Eph. 3:9</a>",
-      "comment": "The 'mystery' hidden but now revealed points to the fullness of God’s plan realized through Christ, taught faithfully through apostolic preaching and sacraments as the means of strengthening believers."
+      "comment": "The 'mystery' hidden but now revealed points to the fullness of God’s plan realized through Christ, taught faithfully through apostolic preaching and sacraments as the means of strengthening believers.",
+      "sectionHeader": "Doxology"
     },
     {
       "pk": 52016026,
@@ -329,5 +334,32 @@
       "comment": "The doxology affirms the glory and wisdom of God revealed in Christ. Worship is perpetually centered on the work of Christ within the apostolic tradition, encouraging all believers to join in eternal praise."
     }
   ],
-  "translatedAt": "2025-12-24T11:43:31.886Z"
+  "translatedAt": "2025-12-24T11:43:31.886Z",
+  "sections": [
+    {
+      "title": "Commendation of Phoebe",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "Greetings to Roman Christians",
+      "startVerse": 3,
+      "endVerse": 16
+    },
+    {
+      "title": "Warning against Divisions",
+      "startVerse": 17,
+      "endVerse": 20
+    },
+    {
+      "title": "Greetings from Paul’s Companions",
+      "startVerse": 21,
+      "endVerse": 24
+    },
+    {
+      "title": "Doxology",
+      "startVerse": 25,
+      "endVerse": 27
+    }
+  ]
 }

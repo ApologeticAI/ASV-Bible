@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "How the gold has grown dim, how the pure gold is changed! The holy stones are scattered at the head of every street.",
       "links": "<a href='/AIV/25/2/19'>Lam. 2:19</a>; <a href='/AIV/19/74/7'>Ps. 74:7</a>",
-      "comment": "Here the gold and stones symbolize both physical riches and the dignity of Jerusalem's people. The term 'holy stones' may refer to those associated with the temple, alluding to the spiritual ruin resulting from sin and neglect of God's law."
+      "comment": "Here the gold and stones symbolize both physical riches and the dignity of Jerusalem's people. The term 'holy stones' may refer to those associated with the temple, alluding to the spiritual ruin resulting from sin and neglect of God's law.",
+      "sectionHeader": "The Ruin of Zion’s Glory"
     },
     {
       "pk": 31004002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "Even jackals offer their breasts, they nurse their young; but the daughter of my people has become cruel, like ostriches in the wilderness.",
       "links": "<a href='/AIV/23/49/15'>Isa. 49:15</a>; <a href='/AIV/18/39/13-16'>Job 39:13-16</a>",
-      "comment": "The comparison highlights a loss of maternal compassion due to extreme suffering. Historically, ostriches were seen as neglectful mothers. This echoes God's lament for Israel’s hard-heartedness (cf. Hos. 11:1-4)."
+      "comment": "The comparison highlights a loss of maternal compassion due to extreme suffering. Historically, ostriches were seen as neglectful mothers. This echoes God's lament for Israel’s hard-heartedness (cf. Hos. 11:1-4).",
+      "sectionHeader": "The Severity of the Siege"
     },
     {
       "pk": 31004004,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "The LORD completed his wrath, he poured out his fierce anger. He kindled a fire in Zion that consumed its foundations.",
       "links": "<a href='/AIV/24/7/20'>Jer. 7:20</a>; <a href='/AIV/19/79/5'>Ps. 79:5</a>",
-      "comment": "God's judgment reaches its course: wrath fulfilled. The consuming fire reminds us of divine justice and purification, themes echoed in the New Testament's teaching on refining trials (1 Pet. 1:7)."
+      "comment": "God's judgment reaches its course: wrath fulfilled. The consuming fire reminds us of divine justice and purification, themes echoed in the New Testament's teaching on refining trials (1 Pet. 1:7).",
+      "sectionHeader": "The Lord’s Wrath and the Fall of Jerusalem"
     },
     {
       "pk": 31004012,
@@ -158,7 +161,8 @@
       "verse": 13,
       "text": "This happened because of the sins of her prophets and the iniquities of her priests, who shed within her the blood of the righteous.",
       "links": "<a href='/AIV/23/9/17'>Isa. 9:17</a>; <a href='/AIV/26/22/26'>Ezek. 22:26</a>",
-      "comment": "Sin corrupts even spiritual leaders. The blood of the righteous prefigures Christ’s own rejection by those meant to preserve holiness—a call to recognize God’s ongoing guidance through valid spiritual authority."
+      "comment": "Sin corrupts even spiritual leaders. The blood of the righteous prefigures Christ’s own rejection by those meant to preserve holiness—a call to recognize God’s ongoing guidance through valid spiritual authority.",
+      "sectionHeader": "The Guilt of Prophets and Priests"
     },
     {
       "pk": 31004014,
@@ -254,7 +258,8 @@
       "verse": 21,
       "text": "Rejoice and be glad, O daughter of Edom, you who dwell in the land of Uz; but to you also the cup shall pass—you shall become drunk and strip yourself bare.",
       "links": "<a href='/AIV/35/2/16'>Hab. 2:16</a>; <a href='/AIV/19/60/3'>Ps. 60:3</a>",
-      "comment": "Edom’s momentary triumph will end in judgment—the 'cup' symbolizes God’s wrath. This links to the imagery of the cup Christ drank for humanity’s redemption (Matt. 26:39)."
+      "comment": "Edom’s momentary triumph will end in judgment—the 'cup' symbolizes God’s wrath. This links to the imagery of the cup Christ drank for humanity’s redemption (Matt. 26:39).",
+      "sectionHeader": "The End of the Siege and Hope for Zion"
     },
     {
       "pk": 31004022,
@@ -269,5 +274,32 @@
       "comment": "Restoration is promised to Zion—judgment is not forever. This foreshadows God’s mercy and the restoration of his people, fulfilled ultimately through Christ in the new covenant. The uncovering of Edom’s sin points to universal accountability before God’s justice."
     }
   ],
-  "translatedAt": "2025-12-24T08:54:04.141Z"
+  "translatedAt": "2025-12-24T08:54:04.141Z",
+  "sections": [
+    {
+      "title": "The Ruin of Zion’s Glory",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "The Severity of the Siege",
+      "startVerse": 3,
+      "endVerse": 10
+    },
+    {
+      "title": "The Lord’s Wrath and the Fall of Jerusalem",
+      "startVerse": 11,
+      "endVerse": 12
+    },
+    {
+      "title": "The Guilt of Prophets and Priests",
+      "startVerse": 13,
+      "endVerse": 20
+    },
+    {
+      "title": "The End of the Siege and Hope for Zion",
+      "startVerse": 21,
+      "endVerse": 22
+    }
+  ]
 }

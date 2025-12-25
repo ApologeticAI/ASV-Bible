@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "After Saul returned from pursuing the Philistines, he was told, 'David is in the wilderness of En-gedi.'",
       "links": "<a href='/AIV/9/23/28'>1Sam 23:28</a>; <a href='/AIV/9/23/19'>1Sam 23:19</a>",
-      "comment": "En-gedi is an oasis west of the Dead Sea, known for its caves and vegetation. David often sought safety in such remote places, illustrating the peril he lived under fleeing Saul."
+      "comment": "En-gedi is an oasis west of the Dead Sea, known for its caves and vegetation. David often sought safety in such remote places, illustrating the peril he lived under fleeing Saul.",
+      "sectionHeader": "David Spares Saul in the Cave"
     },
     {
       "pk": 9024002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Afterward, David arose and went out of the cave and called after Saul, saying, 'My lord the king!' When Saul looked behind him, David bowed with his face to the ground and paid him homage.",
       "links": "<a href='/AIV/9/26/17'>1Sam 26:17</a>; <a href='/AIV/2/18/7'>Exod 18:7</a>",
-      "comment": "David shows humility, even toward one who seeks his life. This act of deep respect further highlights the importance of honoring legitimate rulers and God’s order (see 1 Pet 2:17)."
+      "comment": "David shows humility, even toward one who seeks his life. This act of deep respect further highlights the importance of honoring legitimate rulers and God’s order (see 1 Pet 2:17).",
+      "sectionHeader": "David’s Appeal to Saul"
     },
     {
       "pk": 9024009,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "When David finished speaking these words to Saul, Saul said, 'Is that your voice, my son David?' Then Saul lifted up his voice and wept.",
       "links": "<a href='/AIV/9/18/12'>1Sam 18:12</a>; <a href='/AIV/9/24/11'>1Sam 24:11</a>",
-      "comment": "Saul’s emotional response shows the power of mercy to move even hardened hearts, mirroring how kindness can be a tool for reconciliation and conversion (cf. Prov 25:21-22; Rom 2:4)."
+      "comment": "Saul’s emotional response shows the power of mercy to move even hardened hearts, mirroring how kindness can be a tool for reconciliation and conversion (cf. Prov 25:21-22; Rom 2:4).",
+      "sectionHeader": "Saul Acknowledges David’s Righteousness"
     },
     {
       "pk": 90240017,
@@ -269,5 +272,22 @@
       "comment": "David keeps his oath—an act of integrity and faithfulness. Throughout Scripture, vows and oaths are regarded as sacred and binding, reflecting God’s own fidelity to His promises. The delay in David joining Saul indicates continued caution and discernment."
     }
   ],
-  "translatedAt": "2025-12-24T03:04:44.531Z"
+  "translatedAt": "2025-12-24T03:04:44.531Z",
+  "sections": [
+    {
+      "title": "David Spares Saul in the Cave",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "David’s Appeal to Saul",
+      "startVerse": 8,
+      "endVerse": 15
+    },
+    {
+      "title": "Saul Acknowledges David’s Righteousness",
+      "startVerse": 16,
+      "endVerse": 22
+    }
+  ]
 }

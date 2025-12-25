@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Keep the month of Abib, and observe the Passover to the LORD your God; for in the month of Abib the LORD your God brought you out of Egypt by night.",
       "links": "<a href='/AIV/2/12/2-14'>Ex. 12:2-14</a>; <a href='/AIV/3/23/5'>Lev. 23:5</a>",
-      "comment": "The month of Abib corresponds to spring, when Passover is celebrated. Passover prefigures Christ as the true Lamb who brings salvation (see 1 Cor. 5:7)."
+      "comment": "The month of Abib corresponds to spring, when Passover is celebrated. Passover prefigures Christ as the true Lamb who brings salvation (see 1 Cor. 5:7).",
+      "sectionHeader": "The Passover and the Feast of Unleavened Bread"
     },
     {
       "pk": 5016002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "You shall count seven weeks; begin to count the seven weeks from the time you start to put the sickle to the standing grain.",
       "links": "<a href='/AIV/3/23/15-16'>Lev. 23:15-16</a>",
-      "comment": "This marks the beginning of counting towards the Feast of Weeks (Pentecost), foreshadowing the New Testament Pentecost when the Holy Spirit was given (Acts 2:1)."
+      "comment": "This marks the beginning of counting towards the Feast of Weeks (Pentecost), foreshadowing the New Testament Pentecost when the Holy Spirit was given (Acts 2:1).",
+      "sectionHeader": "The Feast of Weeks"
     },
     {
       "pk": 5016010,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "You shall keep the Feast of Booths for seven days, when you have gathered in from your threshing floor and your winepress.",
       "links": "<a href='/AIV/3/23/34-39'>Lev. 23:34-39</a>",
-      "comment": "The Feast of Booths commemorates Israel’s journey through the wilderness, emphasizing God's protection. Spiritually, it points to the pilgrimage of the Christian life, and thanksgiving for God’s provision."
+      "comment": "The Feast of Booths commemorates Israel’s journey through the wilderness, emphasizing God's protection. Spiritually, it points to the pilgrimage of the Christian life, and thanksgiving for God’s provision.",
+      "sectionHeader": "The Feast of Booths"
     },
     {
       "pk": 5016014,
@@ -194,7 +197,8 @@
       "verse": 16,
       "text": "Three times a year all your males shall appear before the LORD your God in the place that He will choose: at the Feast of Unleavened Bread, at the Feast of Weeks, and at the Feast of Booths. They shall not appear before the LORD empty-handed.",
       "links": "<a href='/AIV/2/23/17'>Ex. 23:17</a>; <a href='/AIV/3/23/14,21,41'>Lev. 23:14,21,41</a>",
-      "comment": "Obligatory pilgrimages to the worship site prefigure Christian pilgrimage and attendance at communal worship. The idea of not coming empty-handed implies the offering of one’s best to the Lord."
+      "comment": "Obligatory pilgrimages to the worship site prefigure Christian pilgrimage and attendance at communal worship. The idea of not coming empty-handed implies the offering of one’s best to the Lord.",
+      "sectionHeader": "The Three Pilgrimage Feasts"
     },
     {
       "pk": 5016017,
@@ -218,7 +222,8 @@
       "verse": 18,
       "text": "You shall appoint judges and officers in all your towns that the LORD your God is giving you, according to your tribes; and they shall judge the people with righteous judgment.",
       "links": "<a href='/AIV/2/18/21-26'>Ex. 18:21-26</a>",
-      "comment": "The establishment of a just authority structure is divinely commanded. The concept of appointed spiritual and civic leaders continues in later biblical history."
+      "comment": "The establishment of a just authority structure is divinely commanded. The concept of appointed spiritual and civic leaders continues in later biblical history.",
+      "sectionHeader": "Justice and Proper Worship"
     },
     {
       "pk": 5016019,
@@ -269,5 +274,32 @@
       "comment": "Pillars were objects of idolatrous worship. The LORD’s hatred of such things underscores the requirement for exclusive, pure devotion and foreshadows later commands to separate from all forms of syncretism."
     }
   ],
-  "translatedAt": "2025-12-24T02:05:42.925Z"
+  "translatedAt": "2025-12-24T02:05:42.925Z",
+  "sections": [
+    {
+      "title": "The Passover and the Feast of Unleavened Bread",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "The Feast of Weeks",
+      "startVerse": 9,
+      "endVerse": 12
+    },
+    {
+      "title": "The Feast of Booths",
+      "startVerse": 13,
+      "endVerse": 15
+    },
+    {
+      "title": "The Three Pilgrimage Feasts",
+      "startVerse": 16,
+      "endVerse": 17
+    },
+    {
+      "title": "Justice and Proper Worship",
+      "startVerse": 18,
+      "endVerse": 22
+    }
+  ]
 }

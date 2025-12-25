@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now the Pharisees and some of the scribes who had come from Jerusalem gathered to Jesus.",
       "links": "<a href='/AIV/40/15/1'>Matt. 15:1</a>",
-      "comment": "The presence of both Pharisees and scribes from Jerusalem points to a serious challenge to Jesus' authority by the religious leaders."
+      "comment": "The presence of both Pharisees and scribes from Jerusalem points to a serious challenge to Jesus' authority by the religious leaders.",
+      "sectionHeader": "The Tradition of the Elders"
     },
     {
       "pk": 48007002,
@@ -170,7 +171,8 @@
       "verse": 14,
       "text": "Then he called the crowd to him again and said, 'Listen to me, all of you, and understand.'",
       "links": "",
-      "comment": "Jesus turns from the leaders to address all the people, indicating the importance of his teaching for the whole community."
+      "comment": "Jesus turns from the leaders to address all the people, indicating the importance of his teaching for the whole community.",
+      "sectionHeader": "What Defiles a Person"
     },
     {
       "pk": 48007015,
@@ -290,7 +292,8 @@
       "verse": 24,
       "text": "From there he arose and went away to the region of Tyre and Sidon. He entered a house and did not want anyone to know, but he could not be hidden.",
       "links": "<a href='/AIV/40/15/21'>Matt. 15:21</a>",
-      "comment": "Jesus intentionally enters Gentile territory, which foreshadows the extension of salvation to all nations, beyond Israel alone."
+      "comment": "Jesus intentionally enters Gentile territory, which foreshadows the extension of salvation to all nations, beyond Israel alone.",
+      "sectionHeader": "The Syrophoenician Woman's Faith"
     },
     {
       "pk": 48007025,
@@ -374,7 +377,8 @@
       "verse": 31,
       "text": "Then he returned from the region of Tyre and went through Sidon to the Sea of Galilee, in the region of the Decapolis.",
       "links": "",
-      "comment": "Jesus continues ministering in largely Gentile territories, again foreshadowing the opening of the Church to all nations."
+      "comment": "Jesus continues ministering in largely Gentile territories, again foreshadowing the opening of the Church to all nations.",
+      "sectionHeader": "The Healing of the Deaf Mute"
     },
     {
       "pk": 48007032,
@@ -449,5 +453,27 @@
       "comment": "Their final statement echoes prophetic expectation—Jesus fulfills Old Testament messianic prophecy (Isa. 35:5-6). In him, divine authority and compassion meet, revealing who he truly is."
     }
   ],
-  "translatedAt": "2025-12-24T10:27:09.686Z"
+  "translatedAt": "2025-12-24T10:27:09.686Z",
+  "sections": [
+    {
+      "title": "The Tradition of the Elders",
+      "startVerse": 1,
+      "endVerse": 13
+    },
+    {
+      "title": "What Defiles a Person",
+      "startVerse": 14,
+      "endVerse": 23
+    },
+    {
+      "title": "The Syrophoenician Woman's Faith",
+      "startVerse": 24,
+      "endVerse": 30
+    },
+    {
+      "title": "The Healing of the Deaf Mute",
+      "startVerse": 31,
+      "endVerse": 37
+    }
+  ]
 }

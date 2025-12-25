@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Transgression speaks to the wicked deep in his heart; there is no fear of God before his eyes.",
       "links": "<a href='/AIV/45/3/18'>Rom. 3:18</a>; <a href='/AIV/20/8/13'>Prov. 8:13</a>",
-      "comment": "The psalm begins with a profound insight into the nature of sin—a lack of reverence for God in the depths of the human heart. Paul cites this in Romans to describe the universal need for redemption. The 'fear of God' here means awe and submission, not mere dread, which is foundational for true faith and spiritual wisdom."
+      "comment": "The psalm begins with a profound insight into the nature of sin—a lack of reverence for God in the depths of the human heart. Paul cites this in Romans to describe the universal need for redemption. The 'fear of God' here means awe and submission, not mere dread, which is foundational for true faith and spiritual wisdom.",
+      "sectionHeader": "The Corruption of the Wicked"
     },
     {
       "pk": 23036002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "Your steadfast love, O LORD, extends to the heavens, your faithfulness reaches to the clouds.",
       "links": "<a href='/AIV/19/57/10'>Ps. 57:10</a>; <a href='/AIV/19/103/11'>Ps. 103:11</a>",
-      "comment": "Here the psalm contrasts human unfaithfulness with God's infinite mercy and loyalty. The language implies a love that surpasses earthly bounds, foreshadowing the fullness of divine grace revealed in Christ and the unity of believers across the world."
+      "comment": "Here the psalm contrasts human unfaithfulness with God's infinite mercy and loyalty. The language implies a love that surpasses earthly bounds, foreshadowing the fullness of divine grace revealed in Christ and the unity of believers across the world.",
+      "sectionHeader": "The Steadfast Love of God"
     },
     {
       "pk": 23036006,
@@ -122,7 +124,8 @@
       "verse": 10,
       "text": "Continue your steadfast love to those who know you, and your righteousness to the upright in heart.",
       "links": "<a href='/AIV/19/31/23'>Ps. 31:23</a>; <a href='/AIV/19/97/11'>Ps. 97:11</a>",
-      "comment": "The psalmist prays for enduring grace and justice for those who truly know and love God. This relationship is marked by ongoing growth in holiness and unity."
+      "comment": "The psalmist prays for enduring grace and justice for those who truly know and love God. This relationship is marked by ongoing growth in holiness and unity.",
+      "sectionHeader": "Prayer for Protection from the Wicked"
     },
     {
       "pk": 23036011,
@@ -149,5 +152,22 @@
       "comment": "The destiny of those persisting in evil is ultimate defeat. The psalm finishes with a vision of final justice, which is assured for the faithful and points to the hope of resurrection and victory over sin."
     }
   ],
-  "translatedAt": "2025-12-24T06:10:40.866Z"
+  "translatedAt": "2025-12-24T06:10:40.866Z",
+  "sections": [
+    {
+      "title": "The Corruption of the Wicked",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "The Steadfast Love of God",
+      "startVerse": 5,
+      "endVerse": 9
+    },
+    {
+      "title": "Prayer for Protection from the Wicked",
+      "startVerse": 10,
+      "endVerse": 12
+    }
+  ]
 }

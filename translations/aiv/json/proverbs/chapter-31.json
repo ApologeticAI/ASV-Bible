@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The words of King Lemuel, the oracle which his mother taught him:",
       "links": "<a href='/AIV/20/2/6'>Prov. 2:6</a>",
-      "comment": "This introductory verse tells us that the guidance which follows is divinely inspired and passed through parental instruction, exemplifying the value of tradition and wisdom handed down through generations."
+      "comment": "This introductory verse tells us that the guidance which follows is divinely inspired and passed through parental instruction, exemplifying the value of tradition and wisdom handed down through generations.",
+      "sectionHeader": "The Sayings of King Lemuel’s Mother"
     },
     {
       "pk": 24031002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "Who can find a wife of noble character? Her value is far above rubies.",
       "links": "<a href='/AIV/20/12/4'>Prov. 12:4</a>; <a href='/AIV/20/8/11'>Prov. 8:11</a>",
-      "comment": "This begins the acrostic poem praising the virtuous woman, sometimes interpreted allegorically as the people of God, the Church, and even typologically as a figure of Christ's own bride."
+      "comment": "This begins the acrostic poem praising the virtuous woman, sometimes interpreted allegorically as the people of God, the Church, and even typologically as a figure of Christ's own bride.",
+      "sectionHeader": "The Virtuous Wife"
     },
     {
       "pk": 24031011,
@@ -377,5 +379,17 @@
       "comment": "Praise is not just for the individual, but for the fruits borne through a life of virtue. The public recognition parallels the commendation of saints and the lasting legacy of those who live righteously."
     }
   ],
-  "translatedAt": "2025-12-24T07:06:36.183Z"
+  "translatedAt": "2025-12-24T07:06:36.183Z",
+  "sections": [
+    {
+      "title": "The Sayings of King Lemuel’s Mother",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "The Virtuous Wife",
+      "startVerse": 10,
+      "endVerse": 31
+    }
+  ]
 }

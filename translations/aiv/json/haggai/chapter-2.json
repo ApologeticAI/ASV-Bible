@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "On the twenty-first day of the seventh month, the word of the Lord came through Haggai the prophet, saying:",
       "links": "<a href='/AIV/39/1/1'>Mal. 1:1</a>; <a href='/AIV/15/5/1'>Ezra 5:1</a>",
-      "comment": "This verse sets the date for the prophecy during the Feast of Tabernacles, emphasizing the importance of God's appointed times for revelation. It reflects a recurring biblical theme of God speaking through His prophets at moments of liturgical significance."
+      "comment": "This verse sets the date for the prophecy during the Feast of Tabernacles, emphasizing the importance of God's appointed times for revelation. It reflects a recurring biblical theme of God speaking through His prophets at moments of liturgical significance.",
+      "sectionHeader": "The Future Glory of the Temple"
     },
     {
       "pk": 44002002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "On the twenty-fourth day of the ninth month, in the second year of Darius, the word of the Lord came to Haggai the prophet:",
       "links": "<a href='/AIV/37/1/1'>Hag. 1:1</a>; <a href='/AIV/15/4/5'>Ezra 4:5</a>",
-      "comment": "The prophet receives another direct revelation, with careful dating to stress historical accuracy and the ongoing nature of divine instruction."
+      "comment": "The prophet receives another direct revelation, with careful dating to stress historical accuracy and the ongoing nature of divine instruction.",
+      "sectionHeader": "A Lesson about Ritual Purity"
     },
     {
       "pk": 44002011,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "\"Consider now from this day onward, from the twenty-fourth day of the ninth month, since the day the foundation of the Lord’s temple was laid, consider:\"",
       "links": "<a href='/AIV/37/1/14'>Hag. 1:14</a>; <a href='/AIV/15/3/10'>Ezra 3:10</a>",
-      "comment": "God instructs the people to mark a turning point tied to the temple foundation, signifying the importance of sacred space and right worship."
+      "comment": "God instructs the people to mark a turning point tied to the temple foundation, signifying the importance of sacred space and right worship.",
+      "sectionHeader": "Blessing Promised from This Day"
     },
     {
       "pk": 44002019,
@@ -242,7 +245,8 @@
       "verse": 20,
       "text": "The word of the Lord came a second time to Haggai on the twenty-fourth day of the month:",
       "links": "<a href='/AIV/37/2/1'>Hag. 2:1</a>",
-      "comment": "God’s direct, continued communication to Haggai reveals a pattern of active divine leadership and ongoing prophetic ministry."
+      "comment": "God’s direct, continued communication to Haggai reveals a pattern of active divine leadership and ongoing prophetic ministry.",
+      "sectionHeader": "The Promise to Zerubbabel"
     },
     {
       "pk": 44002021,
@@ -281,5 +285,27 @@
       "comment": "Zerubbabel, as a signet ring, symbolizes legitimate dynastic authority and continuity of God's promises to David, ultimately fulfilled in Christ (see <a href='/AIV/40/1/12'>Matthew 1:12</a>). This verse prefigures the selection and commissioning of spiritual leaders in the new covenant community."
     }
   ],
-  "translatedAt": "2025-12-24T09:54:25.980Z"
+  "translatedAt": "2025-12-24T09:54:25.980Z",
+  "sections": [
+    {
+      "title": "The Future Glory of the Temple",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "A Lesson about Ritual Purity",
+      "startVerse": 10,
+      "endVerse": 17
+    },
+    {
+      "title": "Blessing Promised from This Day",
+      "startVerse": 18,
+      "endVerse": 19
+    },
+    {
+      "title": "The Promise to Zerubbabel",
+      "startVerse": 20,
+      "endVerse": 23
+    }
+  ]
 }

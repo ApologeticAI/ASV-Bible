@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Therefore, my brothers whom I love and long for, my joy and my crown, stand firm in the Lord in this way, beloved.",
       "links": "<a href='/AIV/52/3/8'>1 Thess. 3:8</a>; <a href='/AIV/53/2/15'>2 Thess. 2:15</a>",
-      "comment": "Paul addresses the believers with deep affection, stressing perseverance in faith. The language recalls the encouragements to hold fast handed down from the apostles (see 2 Thess. 2:15), highlighting the enduring authority given to church leadership for maintaining sound doctrine."
+      "comment": "Paul addresses the believers with deep affection, stressing perseverance in faith. The language recalls the encouragements to hold fast handed down from the apostles (see 2 Thess. 2:15), highlighting the enduring authority given to church leadership for maintaining sound doctrine.",
+      "sectionHeader": "Exhortations to Unity and Joy"
     },
     {
       "pk": 57004002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "Rejoice in the Lord always; again I will say, rejoice!",
       "links": "<a href='/AIV/19/97/12'>Ps. 97:12</a>; <a href='/AIV/52/5/16'>1 Thess. 5:16</a>",
-      "comment": "Joy in the Lord is presented as continual, not circumstantial. The repeated command shows an emphasis on a life rooted in spiritual joy, a grace that endures because it springs from union with Christ."
+      "comment": "Joy in the Lord is presented as continual, not circumstantial. The repeated command shows an emphasis on a life rooted in spiritual joy, a grace that endures because it springs from union with Christ.",
+      "sectionHeader": "Peace Through Prayer and Right Thinking"
     },
     {
       "pk": 57004005,
@@ -122,7 +124,8 @@
       "verse": 10,
       "text": "I rejoiced greatly in the Lord that now at last your concern for me has revived; indeed, you were concerned but had no opportunity.",
       "links": "<a href='/AIV/47/8/1-2'>2 Cor. 8:1-2</a>",
-      "comment": "Paul affirms the importance of charity, suggesting acts of love and support for others are an essential part of the Christian life, continuing the themes of service and generosity found throughout the apostolic epistles."
+      "comment": "Paul affirms the importance of charity, suggesting acts of love and support for others are an essential part of the Christian life, continuing the themes of service and generosity found throughout the apostolic epistles.",
+      "sectionHeader": "Gratitude for the Philippians’ Generosity"
     },
     {
       "pk": 57004011,
@@ -254,7 +257,8 @@
       "verse": 21,
       "text": "Greet every saint in Christ Jesus. The brothers who are with me greet you.",
       "links": "<a href='/AIV/45/16/16'>Rom. 16:16</a>; <a href='/AIV/58/13/24'>Heb. 13:24</a>",
-      "comment": "'Saint' here applies to all faithful in Christ. Universal greetings show the interconnectedness and mutual recognition among all Christian communities."
+      "comment": "'Saint' here applies to all faithful in Christ. Universal greetings show the interconnectedness and mutual recognition among all Christian communities.",
+      "sectionHeader": "Final Greetings and Blessing"
     },
     {
       "pk": 57004022,
@@ -281,5 +285,27 @@
       "comment": "Paul ends invoking Christ’s grace, a blessing that initiates and sustains the Christian life. The phrase also reflects the importance of spiritual life and unity among those joined in Christ through faith and sacrament."
     }
   ],
-  "translatedAt": "2025-12-24T12:05:55.071Z"
+  "translatedAt": "2025-12-24T12:05:55.071Z",
+  "sections": [
+    {
+      "title": "Exhortations to Unity and Joy",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "Peace Through Prayer and Right Thinking",
+      "startVerse": 4,
+      "endVerse": 9
+    },
+    {
+      "title": "Gratitude for the Philippians’ Generosity",
+      "startVerse": 10,
+      "endVerse": 20
+    },
+    {
+      "title": "Final Greetings and Blessing",
+      "startVerse": 21,
+      "endVerse": 23
+    }
+  ]
 }

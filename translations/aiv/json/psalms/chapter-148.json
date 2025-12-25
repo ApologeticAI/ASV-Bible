@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Praise the Lord from the heavens; praise Him in the heights above.",
       "links": "<a href='/AIV/19/103/20'>Ps. 103:20</a>; <a href='/AIV/19/19/1'>Ps. 19:1</a>",
-      "comment": "The psalm begins with a call to praise that starts in the heavenly realms. This sets the tone for the universal praise due to God, reflecting both the transcendence and immanence of the Lord."
+      "comment": "The psalm begins with a call to praise that starts in the heavenly realms. This sets the tone for the universal praise due to God, reflecting both the transcendence and immanence of the Lord.",
+      "sectionHeader": "Praise to God from the Heavens"
     },
     {
       "pk": 23148002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "Praise the Lord from the earth, you great sea creatures and all ocean depths,",
       "links": "<a href='/AIV/19/104/25-26'>Ps. 104:25-26</a>; <a href='/AIV/01/1/21'>Gen. 1:21</a>",
-      "comment": "The praise of God is not confined to the heavens; the earth and its wonders are called to worship. This includes even the mysterious depths, illustrating the fullness of God's glory in all realms."
+      "comment": "The praise of God is not confined to the heavens; the earth and its wonders are called to worship. This includes even the mysterious depths, illustrating the fullness of God's glory in all realms.",
+      "sectionHeader": "Praise to God from the Earth"
     },
     {
       "pk": 23148008,
@@ -173,5 +175,17 @@
       "comment": "‘Horn’ is a symbol of strength and salvation, anticipating the messianic hope fulfilled in Jesus (see Luke 1:69). Israel’s close relationship to God is spiritualized in the Church, composed of the faithful who are brought near by redemption through Christ."
     }
   ],
-  "translatedAt": "2025-12-24T06:49:41.775Z"
+  "translatedAt": "2025-12-24T06:49:41.775Z",
+  "sections": [
+    {
+      "title": "Praise to God from the Heavens",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Praise to God from the Earth",
+      "startVerse": 7,
+      "endVerse": 14
+    }
+  ]
 }

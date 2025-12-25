@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "If anyone presents a sacrifice of peace offering, and brings it from the herd, whether male or female, it must be without defect before the LORD.",
       "links": "<a href='/AIV/3/22/21-22'>Lev. 22:21-22</a>; <a href='/AIV/2/12/5'>Ex. 12:5</a>",
-      "comment": "The peace offering (Hebrew: 'shelamim') emphasizes restored relationship with God. The requirement of a flawless animal points toward the purity required for true communion with God, prefiguring the perfect offering of Christ (Heb. 9:14)."
+      "comment": "The peace offering (Hebrew: 'shelamim') emphasizes restored relationship with God. The requirement of a flawless animal points toward the purity required for true communion with God, prefiguring the perfect offering of Christ (Heb. 9:14).",
+      "sectionHeader": "The Peace Offering from the Herd"
     },
     {
       "pk": 3003002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "If his offering as a sacrifice of peace offering to the LORD is from the flock, he shall offer either a male or a female, but it must be without defect.",
       "links": "<a href='/AIV/3/1/10'>Lev. 1:10</a>",
-      "comment": "The option for male or female animals shows the inclusion of all the faithful in the worship and sacrifice, yet reiterates the necessity of perfection, a foreshadowing of Christ’s unblemished nature (1 Pet. 1:19)."
+      "comment": "The option for male or female animals shows the inclusion of all the faithful in the worship and sacrifice, yet reiterates the necessity of perfection, a foreshadowing of Christ’s unblemished nature (1 Pet. 1:19).",
+      "sectionHeader": "The Peace Offering from the Flock"
     },
     {
       "pk": 3003007,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "If his offering is a goat, then he shall present it before the LORD.",
       "links": "<a href='/AIV/3/4/23'>Lev. 4:23</a>; <a href='/AIV/40/25/32-33'>Matt. 25:32-33</a>",
-      "comment": "Goats too may be sacrificed, signifying the universal scope of reconciliation. Goats are also used in later sin offerings, hinting at the distinction between sheep and goats in Christ’s teaching (Matt. 25:32-33)."
+      "comment": "Goats too may be sacrificed, signifying the universal scope of reconciliation. Goats are also used in later sin offerings, hinting at the distinction between sheep and goats in Christ’s teaching (Matt. 25:32-33).",
+      "sectionHeader": "The Peace Offering from the Goats"
     },
     {
       "pk": 3003013,
@@ -206,8 +209,31 @@
       "verse": 17,
       "text": "It shall be a perpetual statute throughout your generations in all your dwelling places, that you shall eat neither fat nor blood.",
       "links": "<a href='/AIV/3/7/26-27'>Lev. 7:26-27</a>; <a href='/AIV/5/12/23'>Deut. 12:23</a>; <a href='/AIV/44/15/20'>Acts 15:20</a>",
-      "comment": "This is understood both literally and spiritually: God reserves the highest for Himself, while blood (life) belongs to God alone. In the New Testament, the Apostles maintain the emphasis on reverence for blood (Acts 15:20). Spiritually, it lays groundwork for deep respect for what is holy in our worship and participation in the covenant."
+      "comment": "This is understood both literally and spiritually: God reserves the highest for Himself, while blood (life) belongs to God alone. In the New Testament, the Apostles maintain the emphasis on reverence for blood (Acts 15:20). Spiritually, it lays groundwork for deep respect for what is holy in our worship and participation in the covenant.",
+      "sectionHeader": "Prohibition against Eating Fat and Blood"
     }
   ],
-  "translatedAt": "2025-12-24T01:11:04.807Z"
+  "translatedAt": "2025-12-24T01:11:04.807Z",
+  "sections": [
+    {
+      "title": "The Peace Offering from the Herd",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "The Peace Offering from the Flock",
+      "startVerse": 6,
+      "endVerse": 11
+    },
+    {
+      "title": "The Peace Offering from the Goats",
+      "startVerse": 12,
+      "endVerse": 16
+    },
+    {
+      "title": "Prohibition against Eating Fat and Blood",
+      "startVerse": 17,
+      "endVerse": 17
+    }
+  ]
 }

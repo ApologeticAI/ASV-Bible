@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The Lord spoke to Moses in the plains of Moab by the Jordan at Jericho, saying,",
       "links": "<a href='/AIV/4/33/50'>Num. 33:50</a>; <a href='/AIV/6/1/1'>Josh. 1:1</a>",
-      "comment": "Moses receives instructions from God on the threshold of the Promised Land, emphasizing the completion of Israel's journey and establishing order before entering Canaan."
+      "comment": "Moses receives instructions from God on the threshold of the Promised Land, emphasizing the completion of Israel's journey and establishing order before entering Canaan.",
+      "sectionHeader": "Levitical Cities and Their Pasturelands"
     },
     {
       "pk": 4035002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "The Lord spoke to Moses, saying,",
       "links": "<a href='/AIV/4/35/1'>v. 1</a>",
-      "comment": "A new section begins, indicating the special revelation regarding justice and mercy in the land."
+      "comment": "A new section begins, indicating the special revelation regarding justice and mercy in the land.",
+      "sectionHeader": "The Cities of Refuge"
     },
     {
       "pk": 4035010,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "\"But if he struck him with an iron object, and he dies, he is a murderer; the murderer shall surely be put to death.\"",
       "links": "<a href='/AIV/3/24/17'>Lev. 24:17</a>",
-      "comment": "Deliberate murder receives the highest penalty. Justice here is both a deterrent and a means of protecting community holiness."
+      "comment": "Deliberate murder receives the highest penalty. Justice here is both a deterrent and a means of protecting community holiness.",
+      "sectionHeader": "Laws Concerning Murder and Manslaughter"
     },
     {
       "pk": 4035017,
@@ -413,5 +416,22 @@
       "comment": "God’s presence sanctifies the land and nation; purity of life among God’s people is necessary for genuine fellowship with Him, prefiguring the principle of the indwelling Spirit and holy temple (<a href='/AIV/46/3/16'>1 Cor. 3:16</a>)."
     }
   ],
-  "translatedAt": "2025-12-24T01:55:31.750Z"
+  "translatedAt": "2025-12-24T01:55:31.750Z",
+  "sections": [
+    {
+      "title": "Levitical Cities and Their Pasturelands",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "The Cities of Refuge",
+      "startVerse": 9,
+      "endVerse": 15
+    },
+    {
+      "title": "Laws Concerning Murder and Manslaughter",
+      "startVerse": 16,
+      "endVerse": 34
+    }
+  ]
 }

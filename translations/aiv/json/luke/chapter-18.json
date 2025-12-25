@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then Jesus told them a parable about always needing to pray and not lose heart.",
       "links": "<a href='/AIV/42/21/36'>Luke 21:36</a>; <a href='/AIV/53/5/17'>1 Thess. 5:17</a>",
-      "comment": "Jesus stresses the persistence of prayer, not as vain repetition but true perseverance. The call to continual prayer echoes the broader biblical command to 'pray without ceasing' (1 Thess. 5:17). This highlights the need for a sustained, disciplined prayer life that shapes the soul."
+      "comment": "Jesus stresses the persistence of prayer, not as vain repetition but true perseverance. The call to continual prayer echoes the broader biblical command to 'pray without ceasing' (1 Thess. 5:17). This highlights the need for a sustained, disciplined prayer life that shapes the soul.",
+      "sectionHeader": "The Parable of the Persistent Widow"
     },
     {
       "pk": 49018002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "He also told this parable to some who trusted in themselves that they were righteous, and looked down on others:",
       "links": "<a href='/AIV/23/65/5'>Isa. 65:5</a>; <a href='/AIV/40/23/29-30'>Matt. 23:29-30</a>",
-      "comment": "Self-righteousness is identified as the danger; reliance on personal merit leads to spiritual blindness."
+      "comment": "Self-righteousness is identified as the danger; reliance on personal merit leads to spiritual blindness.",
+      "sectionHeader": "The Parable of the Pharisee and the Tax Collector"
     },
     {
       "pk": 49018010,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "Now they were bringing even infants to him so that he might touch them. But when the disciples saw this, they rebuked them.",
       "links": "<a href='/AIV/41/10/13'>Mark 10:13</a>",
-      "comment": "The reference to infants affirms their value before God and justification not being tied merely to understanding but to a state of receptivity. This verse also undergirds the practice of blessing children."
+      "comment": "The reference to infants affirms their value before God and justification not being tied merely to understanding but to a state of receptivity. This verse also undergirds the practice of blessing children.",
+      "sectionHeader": "Jesus Blesses the Children"
     },
     {
       "pk": 49018016,
@@ -218,7 +221,8 @@
       "verse": 18,
       "text": "A certain ruler asked him, 'Good Teacher, what must I do to inherit eternal life?'",
       "links": "<a href='/AIV/41/10/17'>Mark 10:17</a>",
-      "comment": "The ruler recognizes Jesus’ authority as a 'Good Teacher' and seeks the way of eternal life. His question reveals a longing for assurance through moral action."
+      "comment": "The ruler recognizes Jesus’ authority as a 'Good Teacher' and seeks the way of eternal life. His question reveals a longing for assurance through moral action.",
+      "sectionHeader": "The Rich Ruler"
     },
     {
       "pk": 49018019,
@@ -374,7 +378,8 @@
       "verse": 31,
       "text": "Taking the twelve aside, he said to them, 'See, we are going up to Jerusalem, and everything written by the prophets about the Son of Man will be accomplished.'",
       "links": "<a href='/AIV/23/53/3-12'>Isa. 53:3–12</a>; <a href='/AIV/19/22/1-18'>Ps. 22:1–18</a>",
-      "comment": "Jesus predicts his Passion, fulfilling Old Testament prophecy (see Isa. 53; Ps. 22). The title 'Son of Man' once again declares his Mediator role and hidden divinity (Dan. 7:13)."
+      "comment": "Jesus predicts his Passion, fulfilling Old Testament prophecy (see Isa. 53; Ps. 22). The title 'Son of Man' once again declares his Mediator role and hidden divinity (Dan. 7:13).",
+      "sectionHeader": "The Third Prediction of the Passion"
     },
     {
       "pk": 49018032,
@@ -422,7 +427,8 @@
       "verse": 35,
       "text": "As he approached Jericho, a blind man was sitting by the road, begging.",
       "links": "<a href='/AIV/42/18/38'>Luke 18:38</a>; <a href='/AIV/41/10/46'>Mark 10:46</a>",
-      "comment": "The healing of the blind man testifies to Jesus’ power and fulfillment of messianic prophecies (e.g., Isa. 35:5). Blindness often symbolizes spiritual as well as physical need."
+      "comment": "The healing of the blind man testifies to Jesus’ power and fulfillment of messianic prophecies (e.g., Isa. 35:5). Blindness often symbolizes spiritual as well as physical need.",
+      "sectionHeader": "The Healing of the Blind Beggar"
     },
     {
       "pk": 49018036,
@@ -521,5 +527,37 @@
       "comment": "The man’s instant response is discipleship and worship—following Jesus and glorifying God publicly. The miracle points to both Jesus’s divinity and the call to bear witness by lives of praise and faithful following."
     }
   ],
-  "translatedAt": "2025-12-24T10:54:08.670Z"
+  "translatedAt": "2025-12-24T10:54:08.670Z",
+  "sections": [
+    {
+      "title": "The Parable of the Persistent Widow",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "The Parable of the Pharisee and the Tax Collector",
+      "startVerse": 9,
+      "endVerse": 14
+    },
+    {
+      "title": "Jesus Blesses the Children",
+      "startVerse": 15,
+      "endVerse": 17
+    },
+    {
+      "title": "The Rich Ruler",
+      "startVerse": 18,
+      "endVerse": 30
+    },
+    {
+      "title": "The Third Prediction of the Passion",
+      "startVerse": 31,
+      "endVerse": 34
+    },
+    {
+      "title": "The Healing of the Blind Beggar",
+      "startVerse": 35,
+      "endVerse": 43
+    }
+  ]
 }

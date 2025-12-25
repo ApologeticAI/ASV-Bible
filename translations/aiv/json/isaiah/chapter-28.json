@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Woe to the proud crown of the drunkards of Ephraim, and to the fading flower of its glorious beauty, which sits at the head of the fertile valley, those overcome by wine!",
       "links": "<a href='/AIV/23/5/11'>Isa. 5:11</a>; <a href='/AIV/28/7/1'>Hos. 7:1-5</a>",
-      "comment": "Isaiah denounces the leaders of Ephraim (the northern kingdom) for pride and drunkenness. The image of a fading flower suggests the temporary nature of earthly glory. This passage emphasizes the need for vigilance and sobriety in leadership, a perennial Christian teaching."
+      "comment": "Isaiah denounces the leaders of Ephraim (the northern kingdom) for pride and drunkenness. The image of a fading flower suggests the temporary nature of earthly glory. This passage emphasizes the need for vigilance and sobriety in leadership, a perennial Christian teaching.",
+      "sectionHeader": "Woe to the Drunkards of Ephraim"
     },
     {
       "pk": 29028002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "But these also reel with wine and stagger with strong drink; priest and prophet reel with strong drink, they are swallowed by wine, they stagger with strong drink; they err in vision, they stumble in judgment.",
       "links": "<a href='/AIV/23/56/10-12'>Isa. 56:10-12</a>; <a href='/AIV/28/4/11'>Hos. 4:11-12</a>",
-      "comment": "Even spiritual leaders have become corrupt, highlighting the need for authority purified from within. This draws attention to the need for spiritual sobriety and authentic leadership."
+      "comment": "Even spiritual leaders have become corrupt, highlighting the need for authority purified from within. This draws attention to the need for spiritual sobriety and authentic leadership.",
+      "sectionHeader": "Judgment on Priests and Prophets"
     },
     {
       "pk": 29028008,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "Therefore, hear the word of the Lord, you scoffers, who rule this people in Jerusalem:",
       "links": "<a href='/AIV/23/1/23'>Isa. 1:23</a>",
-      "comment": "Judgment shifts from Ephraim to the rulers in Jerusalem, warning leaders who scorn God’s warnings."
+      "comment": "Judgment shifts from Ephraim to the rulers in Jerusalem, warning leaders who scorn God’s warnings.",
+      "sectionHeader": "The Covenant with Death"
     },
     {
       "pk": 29028015,
@@ -194,7 +197,8 @@
       "verse": 16,
       "text": "Therefore thus says the Lord God: 'Behold, I am laying in Zion a stone, a tested stone, a precious cornerstone, of a sure foundation; whoever believes will not panic.'",
       "links": "<a href='/AIV/60/2/6'>1 Pet. 2:6</a>; <a href='/AIV/45/9/33'>Rom. 9:33</a>; <a href='/AIV/19/118/22'>Ps. 118:22</a>",
-      "comment": "This prophecy is fulfilled in Christ, the cornerstone and foundation of the Church (see 1 Pet. 2:6-7). Faith in Him brings security and peace."
+      "comment": "This prophecy is fulfilled in Christ, the cornerstone and foundation of the Church (see 1 Pet. 2:6-7). Faith in Him brings security and peace.",
+      "sectionHeader": "The Precious Cornerstone in Zion"
     },
     {
       "pk": 29028017,
@@ -278,7 +282,8 @@
       "verse": 23,
       "text": "Give ear and hear my voice; pay attention and hear my speech.",
       "links": "<a href='/AIV/19/81/8'>Ps. 81:8-13</a>",
-      "comment": "A plea to listen — echoes throughout Scripture, showing God's desire for a people who truly hear and obey."
+      "comment": "A plea to listen — echoes throughout Scripture, showing God's desire for a people who truly hear and obey.",
+      "sectionHeader": "The Parable of the Plowman"
     },
     {
       "pk": 29028024,
@@ -353,5 +358,32 @@
       "comment": "All wisdom, including the wisdom of how and when to discipline, comes from God. Christ is often called 'Wonderful Counselor,' connecting this to the messianic hope."
     }
   ],
-  "translatedAt": "2025-12-24T08:03:41.350Z"
+  "translatedAt": "2025-12-24T08:03:41.350Z",
+  "sections": [
+    {
+      "title": "Woe to the Drunkards of Ephraim",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Judgment on Priests and Prophets",
+      "startVerse": 7,
+      "endVerse": 13
+    },
+    {
+      "title": "The Covenant with Death",
+      "startVerse": 14,
+      "endVerse": 15
+    },
+    {
+      "title": "The Precious Cornerstone in Zion",
+      "startVerse": 16,
+      "endVerse": 22
+    },
+    {
+      "title": "The Parable of the Plowman",
+      "startVerse": 23,
+      "endVerse": 29
+    }
+  ]
 }

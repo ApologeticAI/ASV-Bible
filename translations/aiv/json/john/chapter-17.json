@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "After Jesus said these things, he looked up toward heaven and said: \"Father, the hour has come. Glorify your Son so that your Son may glorify you.",
       "links": "<a href='/AIV/40/3/16-17'>Matt. 3:16-17</a>; <a href='/AIV/43/12/23'>John 12:23</a>",
-      "comment": "Jesus addresses God as Father, indicating both intimacy and divinity. The request for glory connects to previous announcements of his impending death and resurrection, fulfilling prophecy. The concept of mutual glorification hints at the eternal relationship between Son and Father."
+      "comment": "Jesus addresses God as Father, indicating both intimacy and divinity. The request for glory connects to previous announcements of his impending death and resurrection, fulfilling prophecy. The concept of mutual glorification hints at the eternal relationship between Son and Father.",
+      "sectionHeader": "The Prayer for the Glorification of the Son"
     },
     {
       "pk": 50017002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "I revealed your name to the people you gave me out of the world. They were yours, and you gave them to me, and they have kept your word.",
       "links": "<a href='/AIV/19/22/22'>Ps. 22:22</a>; <a href='/AIV/43/6/37'>John 6:37</a>",
-      "comment": "Jesus’ role as revealer links him to God’s past self-disclosure through prophets, now perfected in his person. Receiving God’s 'word' implies faithfulness—an ongoing response to divine teaching."
+      "comment": "Jesus’ role as revealer links him to God’s past self-disclosure through prophets, now perfected in his person. Receiving God’s 'word' implies faithfulness—an ongoing response to divine teaching.",
+      "sectionHeader": "The Prayer for the Disciples"
     },
     {
       "pk": 50017007,
@@ -242,7 +244,8 @@
       "verse": 20,
       "text": "I do not ask for these alone, but also for those who will believe in me through their word.",
       "links": "<a href='/AIV/45/10/17'>Rom. 10:17</a>; <a href='/AIV/43/4/39'>John 4:39</a>",
-      "comment": "Jesus looks forward to all future believers, anticipating a community united by apostolic teaching. This introduces the idea of tradition handed down through generations of believers."
+      "comment": "Jesus looks forward to all future believers, anticipating a community united by apostolic teaching. This introduces the idea of tradition handed down through generations of believers.",
+      "sectionHeader": "The Prayer for Future Believers"
     },
     {
       "pk": 50017021,
@@ -317,5 +320,22 @@
       "comment": "Christ’s ongoing revelation leads to a shared experience of divine love and his actual indwelling in believers. This connects the knowledge of God to real transformation and continued union—a key mark of authentic faith."
     }
   ],
-  "translatedAt": "2025-12-24T11:14:23.266Z"
+  "translatedAt": "2025-12-24T11:14:23.266Z",
+  "sections": [
+    {
+      "title": "The Prayer for the Glorification of the Son",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "The Prayer for the Disciples",
+      "startVerse": 6,
+      "endVerse": 19
+    },
+    {
+      "title": "The Prayer for Future Believers",
+      "startVerse": 20,
+      "endVerse": 26
+    }
+  ]
 }

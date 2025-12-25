@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now there arose a loud outcry of the people and their wives against their Jewish brothers.",
       "links": "<a href='/AIV/02/03/7-10'>Exod. 3:7-10</a>; <a href='/AIV/16/04/1'>Neh. 4:1</a>",
-      "comment": "The outcry echoes the cries of Israel in Egypt (see Exodus 3:7-10), signifying communal distress and injustice within God's chosen people. The inclusion of women's voices shows the depth of the crisis."
+      "comment": "The outcry echoes the cries of Israel in Egypt (see Exodus 3:7-10), signifying communal distress and injustice within God's chosen people. The inclusion of women's voices shows the depth of the crisis.",
+      "sectionHeader": "Nehemiah Confronts Oppression of the Poor"
     },
     {
       "pk": 16005002,
@@ -170,7 +171,8 @@
       "verse": 14,
       "text": "Moreover, from the time I was appointed to be their governor in the land of Judah, from the twentieth year to the thirty-second year of King Artaxerxes, twelve years, neither I nor my brothers ate the food allowance of the governor.",
       "links": "<a href='/AIV/16/02/1'>Neh. 2:1</a>; <a href='/AIV/40/20/27-28'>Matt. 20:27-28</a>",
-      "comment": "Nehemiah's self-denial mirrors Christ's teaching on servant leadership (Matt. 20:27-28). Leadership is shown not through privilege, but sacrifice and service."
+      "comment": "Nehemiah's self-denial mirrors Christ's teaching on servant leadership (Matt. 20:27-28). Leadership is shown not through privilege, but sacrifice and service.",
+      "sectionHeader": "Nehemiah's Example of Generosity"
     },
     {
       "pk": 16005015,
@@ -233,5 +235,17 @@
       "comment": "This prayer for remembrance parallels the psalmist (Ps. 25:7) and the thief on the cross’s request—'Remember me' (Luke 23:42-43). Remembrance is a biblical theme tied to intercession and the life of grace. The desire to be remembered by God connects to the Christian understanding of praying for one another and the ongoing participation of the faithful in prayer and works."
     }
   ],
-  "translatedAt": "2025-12-24T04:48:00.030Z"
+  "translatedAt": "2025-12-24T04:48:00.030Z",
+  "sections": [
+    {
+      "title": "Nehemiah Confronts Oppression of the Poor",
+      "startVerse": 1,
+      "endVerse": 13
+    },
+    {
+      "title": "Nehemiah's Example of Generosity",
+      "startVerse": 14,
+      "endVerse": 19
+    }
+  ]
 }

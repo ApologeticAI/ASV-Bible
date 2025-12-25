@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "I solemnly charge you before God and Christ Jesus, who will judge the living and the dead, and by his appearing and his kingdom:",
       "links": "<a href='/AIV/45/14/10'>Rom. 14:10</a>; <a href='/AIV/46/4/5'>1 Cor. 4:5</a>; <a href='/AIV/58/9/27-28'>Heb. 9:27-28</a>",
-      "comment": "Paul invokes the authority of God and Christ as Judge, emphasizing the seriousness of Timothy's commission. 'Appearing' (Greek: epiphaneia) and 'kingdom' look forward to Christ's return in glory. The recognition of a final judgment links to a belief in bodily resurrection and accountability before God."
+      "comment": "Paul invokes the authority of God and Christ as Judge, emphasizing the seriousness of Timothy's commission. 'Appearing' (Greek: epiphaneia) and 'kingdom' look forward to Christ's return in glory. The recognition of a final judgment links to a belief in bodily resurrection and accountability before God.",
+      "sectionHeader": "Solemn Charge to Preach the Word"
     },
     {
       "pk": 62004002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "For I am already being poured out as a drink offering, and the time of my departure is at hand.",
       "links": "<a href='/AIV/50/2/17'>Phil. 2:17</a>; <a href='/AIV/04/28/24'>Num. 28:24</a>",
-      "comment": "Paul likens his coming death to a sacrificial offering, echoing Old Testament temple worship. His willingness to be poured out reflects Christ's own sacrificial love (see <a href='/AIV/40/26/28'>Matt. 26:28</a>)."
+      "comment": "Paul likens his coming death to a sacrificial offering, echoing Old Testament temple worship. His willingness to be poured out reflects Christ's own sacrificial love (see <a href='/AIV/40/26/28'>Matt. 26:28</a>).",
+      "sectionHeader": "Paul’s Imminent Departure and Reward"
     },
     {
       "pk": 62004007,
@@ -110,7 +112,8 @@
       "verse": 9,
       "text": "Make every effort to come to me quickly,",
       "links": "<a href='/AIV/55/1/4'>2 Tim. 1:4</a>",
-      "comment": "Paul’s desire for Timothy’s presence in his final days highlights the importance of personal fellowship and the unity of workers in the gospel."
+      "comment": "Paul’s desire for Timothy’s presence in his final days highlights the importance of personal fellowship and the unity of workers in the gospel.",
+      "sectionHeader": "Personal Instructions and Final Requests"
     },
     {
       "pk": 62004010,
@@ -230,7 +233,8 @@
       "verse": 19,
       "text": "Greet Prisca and Aquila, and the household of Onesiphorus.",
       "links": "<a href='/AIV/44/18/2'>Acts 18:2</a>; <a href='/AIV/55/1/16'>2 Tim. 1:16</a>",
-      "comment": "Personal greetings underline the deep familial and communal character of the Christian community. The mention of entire households hints at the communal and sacramental structure of the early gatherings."
+      "comment": "Personal greetings underline the deep familial and communal character of the Christian community. The mention of entire households hints at the communal and sacramental structure of the early gatherings.",
+      "sectionHeader": "Final Greetings and Blessing"
     },
     {
       "pk": 62004020,
@@ -269,5 +273,27 @@
       "comment": "Paul closes with a double blessing. The communal 'you all' echoes his universal hope for the believers. Prayer for the Lord’s presence and grace highlights the life of faith and unity the apostolic church sought to foster, a unity essential to the true faith."
     }
   ],
-  "translatedAt": "2025-12-24T12:14:53.662Z"
+  "translatedAt": "2025-12-24T12:14:53.662Z",
+  "sections": [
+    {
+      "title": "Solemn Charge to Preach the Word",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Paul’s Imminent Departure and Reward",
+      "startVerse": 6,
+      "endVerse": 8
+    },
+    {
+      "title": "Personal Instructions and Final Requests",
+      "startVerse": 9,
+      "endVerse": 18
+    },
+    {
+      "title": "Final Greetings and Blessing",
+      "startVerse": 19,
+      "endVerse": 22
+    }
+  ]
 }

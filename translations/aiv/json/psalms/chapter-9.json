@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "I will give thanks to the LORD with all my heart; I will tell of all your wonderful deeds.",
       "links": "<a href='/AIV/19/26/7'>Ps. 26:7</a>; <a href='/AIV/19/111/2'>Ps. 111:2</a>",
-      "comment": "David begins the Psalm with wholehearted thanksgiving. The expression is reminiscent of worship that involves the whole self, both internal devotion and outward proclamation. In Christian tradition, such praise points forward to the fullness of worship in heaven (see Revelation 5:11-14)."
+      "comment": "David begins the Psalm with wholehearted thanksgiving. The expression is reminiscent of worship that involves the whole self, both internal devotion and outward proclamation. In Christian tradition, such praise points forward to the fullness of worship in heaven (see Revelation 5:11-14).",
+      "sectionHeader": "Thanksgiving for God's Righteous Judgment"
     },
     {
       "pk": 23009002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "The LORD is a stronghold for the oppressed, a refuge in times of trouble.",
       "links": "<a href='/AIV/19/46/1'>Ps. 46:1</a>; <a href='/AIV/19/37/39'>Ps. 37:39</a>",
-      "comment": "God's care for the afflicted sets the standard for how his followers are to care for the marginalized (see Matthew 25:40). Many see a spiritual meaning here of God being the savior and defender of His people."
+      "comment": "God's care for the afflicted sets the standard for how his followers are to care for the marginalized (see Matthew 25:40). Many see a spiritual meaning here of God being the savior and defender of His people.",
+      "sectionHeader": "The Lord, Refuge of the Oppressed"
     },
     {
       "pk": 23009010,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "Be gracious to me, O LORD! See the affliction I suffer from those who hate me, you who lift me up from the gates of death,",
       "links": "<a href='/AIV/19/18/16-19'>Ps. 18:16-19</a>; <a href='/AIV/19/30/3'>Ps. 30:3</a>",
-      "comment": "The plea for uniquely saving grace anticipates the salvation accomplished through Jesus, who redeems us from death and hell (Ephesians 2:4-6)."
+      "comment": "The plea for uniquely saving grace anticipates the salvation accomplished through Jesus, who redeems us from death and hell (Ephesians 2:4-6).",
+      "sectionHeader": "Prayer for Deliverance and Justice"
     },
     {
       "pk": 23009014,
@@ -245,5 +248,22 @@
       "comment": "The Psalm ends with a prayer for humility among the nations. Recognizing humanity’s limitations points to the need for God’s grace and the humility required for true worship, as Jesus taught (Matthew 5:3)."
     }
   ],
-  "translatedAt": "2025-12-24T06:01:32.903Z"
+  "translatedAt": "2025-12-24T06:01:32.903Z",
+  "sections": [
+    {
+      "title": "Thanksgiving for God's Righteous Judgment",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "The Lord, Refuge of the Oppressed",
+      "startVerse": 9,
+      "endVerse": 12
+    },
+    {
+      "title": "Prayer for Deliverance and Justice",
+      "startVerse": 13,
+      "endVerse": 20
+    }
+  ]
 }

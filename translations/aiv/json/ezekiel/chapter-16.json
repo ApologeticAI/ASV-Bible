@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The word of the LORD came to me again:",
       "links": "<a href='/AIV/26/3/16'>Ezek. 3:16</a>",
-      "comment": "A frequent phrase in Ezekiel, signaling a new prophetic message directly from God."
+      "comment": "A frequent phrase in Ezekiel, signaling a new prophetic message directly from God.",
+      "sectionHeader": "The Abandoned Child and God’s Compassion"
     },
     {
       "pk": 33016002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "But you trusted in your beauty and acted like a prostitute because of your fame. You poured out your sexual favors on everyone passing by.",
       "links": "<a href='/AIV/28/2/5'>Hos. 2:5</a>",
-      "comment": "The allegory shifts; Israel’s unfaithfulness described as spiritual prostitution, rejecting God for foreign idols and alliances."
+      "comment": "The allegory shifts; Israel’s unfaithfulness described as spiritual prostitution, rejecting God for foreign idols and alliances.",
+      "sectionHeader": "Jerusalem’s Infidelity and Idolatry"
     },
     {
       "pk": 33016016,
@@ -422,7 +424,8 @@
       "verse": 35,
       "text": "\"Therefore, O prostitute, hear the word of the LORD:",
       "links": "<a href='/AIV/28/2/2'>Hos. 2:2</a>",
-      "comment": "Direct address; strong language for the purpose of shaking the people into repentance."
+      "comment": "Direct address; strong language for the purpose of shaking the people into repentance.",
+      "sectionHeader": "The Judgment of the Unfaithful City"
     },
     {
       "pk": 33016036,
@@ -530,7 +533,8 @@
       "verse": 44,
       "text": "\"Behold, everyone who uses proverbs will quote this proverb about you: ‘Like mother, like daughter.’",
       "links": "<a href='/AIV/24/31/29'>Jer. 31:29</a>",
-      "comment": "A common proverb, denoting inherited sinfulness; here, the spiritual legacy of unfaithfulness."
+      "comment": "A common proverb, denoting inherited sinfulness; here, the spiritual legacy of unfaithfulness.",
+      "sectionHeader": "Worse than Samaria and Sodom"
     },
     {
       "pk": 33016045,
@@ -710,7 +714,8 @@
       "verse": 59,
       "text": "\"For this is what the Lord GOD says: I will deal with you as you have done—you who have despised the oath by breaking the covenant.",
       "links": "<a href='/AIV/26/16/8'>Ezek. 16:8</a>; <a href='/AIV/26/20/37'>Ezek. 20:37</a>",
-      "comment": "Breaking the covenant – God responds with justice, but it is justice aiming at restoration, not annihilation."
+      "comment": "Breaking the covenant – God responds with justice, but it is justice aiming at restoration, not annihilation.",
+      "sectionHeader": "Promise of Restoration and a New Covenant"
     },
     {
       "pk": 33016060,
@@ -761,5 +766,32 @@
       "comment": "Final verse focuses on God’s mercy—true repentance leads to forgiveness. Foreshadows Jesus’ ministry of forgiveness and the binding of all into one spiritual family."
     }
   ],
-  "translatedAt": "2025-12-24T09:06:32.423Z"
+  "translatedAt": "2025-12-24T09:06:32.423Z",
+  "sections": [
+    {
+      "title": "The Abandoned Child and God’s Compassion",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "Jerusalem’s Infidelity and Idolatry",
+      "startVerse": 15,
+      "endVerse": 34
+    },
+    {
+      "title": "The Judgment of the Unfaithful City",
+      "startVerse": 35,
+      "endVerse": 43
+    },
+    {
+      "title": "Worse than Samaria and Sodom",
+      "startVerse": 44,
+      "endVerse": 58
+    },
+    {
+      "title": "Promise of Restoration and a New Covenant",
+      "startVerse": 59,
+      "endVerse": 63
+    }
+  ]
 }

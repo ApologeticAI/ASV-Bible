@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Who is this coming from Edom, from Bozrah, with garments stained crimson? Who is this, splendid in his clothing, striding in his great strength? 'It is I, speaking with righteousness, mighty to save.'",
       "links": "<a href='/AIV/23/34/6'>Isa. 34:6</a>; <a href='/AIV/66/19/13-15'>Rev. 19:13-15</a>",
-      "comment": "The speaker is identified as the Lord, depicted returning from Edom, symbolic of judgment. The description of 'crimson garments' and 'mighty to save' prefigures Christ—Revelation applies this imagery to Jesus (Rev. 19:13-15), emphasizing his authority and redemptive work. The text emphasizes a singular figure who alone brings salvation, supporting the importance of a mediator."
+      "comment": "The speaker is identified as the Lord, depicted returning from Edom, symbolic of judgment. The description of 'crimson garments' and 'mighty to save' prefigures Christ—Revelation applies this imagery to Jesus (Rev. 19:13-15), emphasizing his authority and redemptive work. The text emphasizes a singular figure who alone brings salvation, supporting the importance of a mediator.",
+      "sectionHeader": "The Lord’s Day of Vengeance"
     },
     {
       "pk": 29063002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "I will recount the steadfast love of the Lord, the praises of the Lord, according to all that the Lord has granted us, and the great goodness to the house of Israel that he has given them according to his compassion, according to the abundance of his steadfast love.",
       "links": "<a href='/AIV/19/89/1'>Ps. 89:1</a>; <a href='/AIV/25/3/22'>Lam. 3:22</a>",
-      "comment": "Following judgment, the narrative shifts to praise for the Lord’s ‘steadfast love.’ The emphasis on God’s mercy and faithfulness is continual in salvation history. This recalls the importance of collective memory and praise in worship, as marked in Israel’s liturgies and continued in Christian tradition."
+      "comment": "Following judgment, the narrative shifts to praise for the Lord’s ‘steadfast love.’ The emphasis on God’s mercy and faithfulness is continual in salvation history. This recalls the importance of collective memory and praise in worship, as marked in Israel’s liturgies and continued in Christian tradition.",
+      "sectionHeader": "The Lord’s Mercy Remembered"
     },
     {
       "pk": 29063008,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "Look down from heaven and see, from your holy and glorious habitation. Where are your zeal and your might? The yearning of your heart and your compassion are held back from me.",
       "links": "<a href='/AIV/05/26/15'>Deut. 26:15</a>; <a href='/AIV/19/80/14'>Ps. 80:14</a>",
-      "comment": "A plea for renewed mercy. The request is addressed to the Lord enthroned above, linking the heavenly-temple imagery to ongoing intercession for God’s people (Heb. 7:25 on perpetual intercession)."
+      "comment": "A plea for renewed mercy. The request is addressed to the Lord enthroned above, linking the heavenly-temple imagery to ongoing intercession for God’s people (Heb. 7:25 on perpetual intercession).",
+      "sectionHeader": "Prayer for Mercy and Deliverance"
     },
     {
       "pk": 29063016,
@@ -233,5 +236,22 @@
       "comment": "The longing for God's intervention becomes explicit, preparing for the New Testament fulfillment when the heavens are opened at Jesus' baptism (Matt. 3:16). The expectation is for God to appear in history, as ultimately fulfilled in Christ’s incarnation and ongoing presence among his people."
     }
   ],
-  "translatedAt": "2025-12-24T08:19:25.375Z"
+  "translatedAt": "2025-12-24T08:19:25.375Z",
+  "sections": [
+    {
+      "title": "The Lord’s Day of Vengeance",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "The Lord’s Mercy Remembered",
+      "startVerse": 7,
+      "endVerse": 14
+    },
+    {
+      "title": "Prayer for Mercy and Deliverance",
+      "startVerse": 15,
+      "endVerse": 19
+    }
+  ]
 }

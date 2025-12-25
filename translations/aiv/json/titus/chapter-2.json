@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "But as for you, speak what is fitting for sound teaching.",
       "links": "<a href='/AIV/54/1/10'>1 Tim. 1:10</a>; <a href='/AIV/56/1/13'>Titus 1:13</a>",
-      "comment": "Paul exhorts Titus, like Timothy, to uphold doctrine grounded in truth rather than speculation (see 1 Tim. 1:10). This highlights the emphasis on a unified apostolic teaching, guided by tradition handed down from the apostles."
+      "comment": "Paul exhorts Titus, like Timothy, to uphold doctrine grounded in truth rather than speculation (see 1 Tim. 1:10). This highlights the emphasis on a unified apostolic teaching, guided by tradition handed down from the apostles.",
+      "sectionHeader": "Instructions for Christian Living"
     },
     {
       "pk": 63002002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "For the grace of God has appeared, bringing salvation to all people,",
       "links": "<a href='/AIV/43/1/14-17'>John 1:14-17</a>; <a href='/AIV/56/3/4'>Titus 3:4</a>",
-      "comment": "The appearance of grace is the incarnation of Christ (cf. John 1:14), the fulfillment of Old Testament prophecy and the universal offer of salvation. The phrase points to the objective reality of grace entering history through the person of Jesus."
+      "comment": "The appearance of grace is the incarnation of Christ (cf. John 1:14), the fulfillment of Old Testament prophecy and the universal offer of salvation. The phrase points to the objective reality of grace entering history through the person of Jesus.",
+      "sectionHeader": "The Manifestation of God's Saving Grace"
     },
     {
       "pk": 63002012,
@@ -185,5 +187,17 @@
       "comment": "Titus is given not only responsibility but apostolic authority to teach, exhort, and rebuke. This echoes the continued authority of overseers and the importance of adhering to the tradition once for all entrusted to the saints (see Jude 3)."
     }
   ],
-  "translatedAt": "2025-12-24T12:15:39.136Z"
+  "translatedAt": "2025-12-24T12:15:39.136Z",
+  "sections": [
+    {
+      "title": "Instructions for Christian Living",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "The Manifestation of God's Saving Grace",
+      "startVerse": 11,
+      "endVerse": 15
+    }
+  ]
 }

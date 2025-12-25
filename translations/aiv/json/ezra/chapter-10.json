@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "While Ezra was praying and confessing, weeping and throwing himself down before the house of God, a huge assembly of Israelites—men, women, and children—gathered to him and wept bitterly.",
       "links": "<a href='/AIV/19/51/17'>Ps. 51:17</a>; <a href='/AIV/16/9/1-2'>Neh. 9:1-2</a>",
-      "comment": "Ezra’s posture demonstrates a deep contrition and communal repentance, a motif echoed in later Jewish and Christian tradition. The heartfelt, public confession underscores the seriousness of sin and foreshadows similar public acts of contrition in the New Covenant, such as the gathering in Acts 2:37-38."
+      "comment": "Ezra’s posture demonstrates a deep contrition and communal repentance, a motif echoed in later Jewish and Christian tradition. The heartfelt, public confession underscores the seriousness of sin and foreshadows similar public acts of contrition in the New Covenant, such as the gathering in Acts 2:37-38.",
+      "sectionHeader": "Ezra’s Prayer and Confession"
     },
     {
       "pk": 15010002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "Ezra then withdrew from before the house of God and went to the room of Jehohanan son of Eliashib. Though he was there, he did not eat bread nor drink water, for he mourned over the unfaithfulness of the exiles.",
       "links": "<a href='/AIV/19/35/13'>Ps. 35:13</a>; <a href='/AIV/40/6/16'>Mt. 6:16</a>",
-      "comment": "Ezra’s fasting intensifies his intercession, resembling figures like Moses and Jesus who fasted in times of spiritual crisis (cf. Ex. 34:28; Mt. 4:2)."
+      "comment": "Ezra’s fasting intensifies his intercession, resembling figures like Moses and Jesus who fasted in times of spiritual crisis (cf. Ex. 34:28; Mt. 4:2).",
+      "sectionHeader": "The People’s Repentance and Covenant"
     },
     {
       "pk": 15010007,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "So the exiles did as was proposed. Ezra the priest selected men who were heads of families, all designated by name; they sat down on the first day of the tenth month to investigate the matter.",
       "links": "<a href='/AIV/02/18/25'>Ex. 18:25</a>; <a href='/AIV/16/7/5'>Neh. 7:5</a>",
-      "comment": "Careful investigation recalls the need for justice and pastoral sensitivity in correcting communal sin, paralleling disciplinary systems in later religious communities."
+      "comment": "Careful investigation recalls the need for justice and pastoral sensitivity in correcting communal sin, paralleling disciplinary systems in later religious communities.",
+      "sectionHeader": "Dismissal of Foreign Wives"
     },
     {
       "pk": 15010017,
@@ -218,7 +221,8 @@
       "verse": 18,
       "text": "Among the descendants of the priests, the following had married foreign women: From the descendants of Jeshua son of Jozadak and his brothers—Maaseiah, Eliezer, Jarib, and Gedaliah.",
       "links": "<a href='/AIV/16/12/10'>Neh. 12:10</a>; <a href='/AIV/03/21/13-15'>Lev. 21:13-15</a>",
-      "comment": "Even the priestly families were involved, showing that all are susceptible to sin, even spiritual leaders—a reminder of the universal need for grace and restoration."
+      "comment": "Even the priestly families were involved, showing that all are susceptible to sin, even spiritual leaders—a reminder of the universal need for grace and restoration.",
+      "sectionHeader": "List of Those Guilty of Intermarriage"
     },
     {
       "pk": 15010019,
@@ -533,5 +537,27 @@
       "comment": "The chapter closes with a sober reminder that repentance involves decisive, difficult choices, and that family and community structures are subject to God’s will. The narrative paves the way for understanding both the holiness demanded by God and the possibilities of restoration and reconciliation provided through sacramental means."
     }
   ],
-  "translatedAt": "2025-12-24T04:45:49.214Z"
+  "translatedAt": "2025-12-24T04:45:49.214Z",
+  "sections": [
+    {
+      "title": "Ezra’s Prayer and Confession",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "The People’s Repentance and Covenant",
+      "startVerse": 6,
+      "endVerse": 15
+    },
+    {
+      "title": "Dismissal of Foreign Wives",
+      "startVerse": 16,
+      "endVerse": 17
+    },
+    {
+      "title": "List of Those Guilty of Intermarriage",
+      "startVerse": 18,
+      "endVerse": 44
+    }
+  ]
 }

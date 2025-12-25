@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "At that time Herod the Tetrarch heard the reports about Jesus.",
       "links": "<a href='/AIV/42/9/7'>Luke 9:7</a>; <a href='/AIV/41/6/14'>Mark 6:14</a>",
-      "comment": "Herod hears of Jesus’ growing fame, setting the stage for increased tension between secular rulers and Jesus' ministry, reminiscent of Old Testament prophetic opposition (cf. Elijah and Ahab, 1 Kings 18:17)."
+      "comment": "Herod hears of Jesus’ growing fame, setting the stage for increased tension between secular rulers and Jesus' ministry, reminiscent of Old Testament prophetic opposition (cf. Elijah and Ahab, 1 Kings 18:17).",
+      "sectionHeader": "The Death of John the Baptist"
     },
     {
       "pk": 47014002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "When Jesus heard what had happened, he withdrew from there by boat to a solitary place. But when the crowds heard it, they followed him on foot from the towns.",
       "links": "<a href='/AIV/41/6/31'>Mark 6:31-33</a>; <a href='/AIV/42/9/10'>Luke 9:10-11</a>",
-      "comment": "Jesus’ withdrawal shows his full humanity in mourning, but also his compassion as he continues his ministry for the people."
+      "comment": "Jesus’ withdrawal shows his full humanity in mourning, but also his compassion as he continues his ministry for the people.",
+      "sectionHeader": "The Feeding of the Five Thousand"
     },
     {
       "pk": 47014014,
@@ -266,7 +268,8 @@
       "verse": 22,
       "text": "Immediately he made the disciples get into the boat and go ahead of him to the other side, while he dismissed the crowds.",
       "links": "<a href='/AIV/41/6/45'>Mark 6:45</a>; <a href='/AIV/43/6/16'>John 6:16</a>",
-      "comment": "Jesus’ authority in directing both disciples and crowds presents him as true shepherd and leader."
+      "comment": "Jesus’ authority in directing both disciples and crowds presents him as true shepherd and leader.",
+      "sectionHeader": "Jesus Walks on the Water"
     },
     {
       "pk": 47014023,
@@ -410,7 +413,8 @@
       "verse": 34,
       "text": "When they had crossed over, they came to land at Gennesaret.",
       "links": "<a href='/AIV/41/6/53'>Mark 6:53</a>",
-      "comment": "Gennesaret was known for fertile land and healing, a fitting place for the next display of Jesus’ power."
+      "comment": "Gennesaret was known for fertile land and healing, a fitting place for the next display of Jesus’ power.",
+      "sectionHeader": "Healings at Gennesaret"
     },
     {
       "pk": 47014035,
@@ -437,5 +441,27 @@
       "comment": "The healing power of Christ's physical presence anticipates deeper spiritual truths, including the importance of sacraments as means of grace and healing."
     }
   ],
-  "translatedAt": "2025-12-24T10:10:08.063Z"
+  "translatedAt": "2025-12-24T10:10:08.063Z",
+  "sections": [
+    {
+      "title": "The Death of John the Baptist",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "The Feeding of the Five Thousand",
+      "startVerse": 13,
+      "endVerse": 21
+    },
+    {
+      "title": "Jesus Walks on the Water",
+      "startVerse": 22,
+      "endVerse": 33
+    },
+    {
+      "title": "Healings at Gennesaret",
+      "startVerse": 34,
+      "endVerse": 36
+    }
+  ]
 }

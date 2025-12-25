@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Remind them to be subject to rulers and authorities, to obey, to be ready for every good work.",
       "links": "<a href='/AIV/45/13/1'>Rom. 13:1</a>; <a href='/AIV/60/2/13'>1 Pet. 2:13</a>",
-      "comment": "Paul instructs believers to submit to civil authorities and be prepared to do good. This reflects the importance of living peacefully in society, an echo of God’s established order (Rom. 13:1). The language emphasizes obedience and cooperation with governance, which is a recurring biblical theme."
+      "comment": "Paul instructs believers to submit to civil authorities and be prepared to do good. This reflects the importance of living peacefully in society, an echo of God’s established order (Rom. 13:1). The language emphasizes obedience and cooperation with governance, which is a recurring biblical theme.",
+      "sectionHeader": "Christian Conduct in Society"
     },
     {
       "pk": 63003002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "For we ourselves were once foolish, disobedient, led astray, slaves to various passions and pleasures, living in malice and envy, hated by others and hating one another.",
       "links": "<a href='/AIV/49/2/1-3'>Eph. 2:1-3</a>; <a href='/AIV/56/3/3'>Titus 1:16</a>",
-      "comment": "Paul reminds us of our past without grace—to highlight our transformation. The universal condition of sinfulness is underscored (Rom. 3:23), setting up the context for divine intervention through Christ."
+      "comment": "Paul reminds us of our past without grace—to highlight our transformation. The universal condition of sinfulness is underscored (Rom. 3:23), setting up the context for divine intervention through Christ.",
+      "sectionHeader": "The Saving Mercy of God"
     },
     {
       "pk": 63003004,
@@ -110,7 +112,8 @@
       "verse": 9,
       "text": "But avoid foolish controversies, genealogies, dissensions, and quarrels about the law, for they are unprofitable and worthless.",
       "links": "<a href='/AIV/54/1/4'>1 Tim. 1:4</a>; <a href='/AIV/56/1/14'>Titus 1:14</a>",
-      "comment": "Paul warns against fruitless debates—especially legalistic or speculative disputes—which distract from the gospel. The passage encourages discernment and unity, placing priority on essentials of the faith recognized by apostolic tradition."
+      "comment": "Paul warns against fruitless debates—especially legalistic or speculative disputes—which distract from the gospel. The passage encourages discernment and unity, placing priority on essentials of the faith recognized by apostolic tradition.",
+      "sectionHeader": "Avoiding Divisions and Controversies"
     },
     {
       "pk": 63003010,
@@ -146,7 +149,8 @@
       "verse": 12,
       "text": "When I send Artemas or Tychicus to you, do your best to come to me at Nicopolis, for I have decided to spend the winter there.",
       "links": "<a href='/AIV/44/20/4'>Acts 20:4</a>; <a href='/AIV/55/4/12'>2 Tim. 4:12</a>",
-      "comment": "Paul’s travel plans demonstrate the close-knit leadership of the early church, with delegated authority and personal fellowship. The historical names also provide continuity in the apostolic tradition."
+      "comment": "Paul’s travel plans demonstrate the close-knit leadership of the early church, with delegated authority and personal fellowship. The historical names also provide continuity in the apostolic tradition.",
+      "sectionHeader": "Final Instructions and Greetings"
     },
     {
       "pk": 63003013,
@@ -185,5 +189,27 @@
       "comment": "Paul’s final words highlight the warmth and unity found among Christ’s followers. ‘Grace be with you all’ is a prayer for ongoing participation in God’s life—a theme echoing through all ages of the Church."
     }
   ],
-  "translatedAt": "2025-12-24T12:15:58.068Z"
+  "translatedAt": "2025-12-24T12:15:58.068Z",
+  "sections": [
+    {
+      "title": "Christian Conduct in Society",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "The Saving Mercy of God",
+      "startVerse": 3,
+      "endVerse": 8
+    },
+    {
+      "title": "Avoiding Divisions and Controversies",
+      "startVerse": 9,
+      "endVerse": 11
+    },
+    {
+      "title": "Final Instructions and Greetings",
+      "startVerse": 12,
+      "endVerse": 15
+    }
+  ]
 }

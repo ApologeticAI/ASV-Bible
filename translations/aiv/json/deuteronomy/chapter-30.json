@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When all these things come upon you, the blessing and the curse that I have set before you, and you take them to heart among all the nations where the Lord your God has driven you,",
       "links": "<a href='/AIV/5/28/15'>Deut. 28:15</a>; <a href='/AIV/5/29/1'>Deut. 29:1</a>",
-      "comment": "Moses reminds Israel that their fate lies in choosing either blessing or curse, echoing the covenant concept as central to God's relationship with His people."
+      "comment": "Moses reminds Israel that their fate lies in choosing either blessing or curse, echoing the covenant concept as central to God's relationship with His people.",
+      "sectionHeader": "Promise of Restoration and Blessing"
     },
     {
       "pk": 5030002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "See, I have set before you today life and good, death and evil.",
       "links": "<a href='/AIV/5/11/26'>Deut. 11:26</a>; <a href='/AIV/24/21/8'>Jer. 21:8</a>",
-      "comment": "Free will to choose life or death is emphasized. This recalls the idea of grace and cooperation in salvation, not mere passive reception."
+      "comment": "Free will to choose life or death is emphasized. This recalls the idea of grace and cooperation in salvation, not mere passive reception.",
+      "sectionHeader": "The Choice of Life and Death"
     },
     {
       "pk": 5030016,
@@ -245,5 +247,17 @@
       "comment": "Union with God—through love, obedience, and perseverance—is foundational for true life. This verse looks forward to Christ, who calls Himself 'the life' (John 14:6), fulfilling the promise given to the patriarchs and all God’s people."
     }
   ],
-  "translatedAt": "2025-12-24T02:13:56.260Z"
+  "translatedAt": "2025-12-24T02:13:56.260Z",
+  "sections": [
+    {
+      "title": "Promise of Restoration and Blessing",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "The Choice of Life and Death",
+      "startVerse": 15,
+      "endVerse": 20
+    }
+  ]
 }

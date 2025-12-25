@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Lord, do not rebuke me in your anger, nor discipline me in your wrath.",
       "links": "<a href='/AIV/19/6/1'>Ps. 6:1</a>; <a href='/AIV/19/118/18'>Ps. 118:18</a>; <a href='/AIV/20/3/12'>Prov. 3:12</a>",
-      "comment": "The psalmist opens with a plea to God for mercy, paralleling Psalm 6:1. This reveals the heart's awareness of God's justice and a longing for gentle correction, a balance in the spiritual life."
+      "comment": "The psalmist opens with a plea to God for mercy, paralleling Psalm 6:1. This reveals the heart's awareness of God's justice and a longing for gentle correction, a balance in the spiritual life.",
+      "sectionHeader": "A Cry of Distress Under God's Discipline"
     },
     {
       "pk": 23038002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "My loved ones and my friends stand aloof from my plague; my relatives stand far off.",
       "links": "<a href='/AIV/19/88/8'>Ps. 88:8</a>; <a href='/AIV/19/69/8'>Ps. 69:8</a>",
-      "comment": "Isolation is part of the suffering that comes with sin and illness. This separation anticipates Christ’s experience of abandonment by his disciples (see Matt. 26:56)."
+      "comment": "Isolation is part of the suffering that comes with sin and illness. This separation anticipates Christ’s experience of abandonment by his disciples (see Matt. 26:56).",
+      "sectionHeader": "Loneliness and Attacks from Enemies"
     },
     {
       "pk": 23038012,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "For in you, O Lord, I hope; you will answer, O Lord my God.",
       "links": "<a href='/AIV/19/39/7'>Ps. 39:7</a>; <a href='/AIV/19/42/11'>Ps. 42:11</a>",
-      "comment": "Faith in God’s ultimate deliverance anchors the soul in the midst of suffering. Hope and trust in divine response remain at the center of biblical faith."
+      "comment": "Faith in God’s ultimate deliverance anchors the soul in the midst of suffering. Hope and trust in divine response remain at the center of biblical faith.",
+      "sectionHeader": "Confession, Plea for Mercy, and Hope in God"
     },
     {
       "pk": 23038016,
@@ -269,5 +272,22 @@
       "comment": "The closing cry for deliverance prefigures Christ as Savior and the need for prompt aid in time of trial. The Psalm as a whole is both a penitential prayer and a prophecy fulfilled in the suffering, patient Messiah."
     }
   ],
-  "translatedAt": "2025-12-24T06:12:07.341Z"
+  "translatedAt": "2025-12-24T06:12:07.341Z",
+  "sections": [
+    {
+      "title": "A Cry of Distress Under God's Discipline",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "Loneliness and Attacks from Enemies",
+      "startVerse": 11,
+      "endVerse": 14
+    },
+    {
+      "title": "Confession, Plea for Mercy, and Hope in God",
+      "startVerse": 15,
+      "endVerse": 22
+    }
+  ]
 }

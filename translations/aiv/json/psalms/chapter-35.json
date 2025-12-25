@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Contend, O LORD, with those who contend against me; fight against those who fight against me.",
       "links": "<a href='/AIV/02/14/14'>Ex. 14:14</a>; <a href='/AIV/19/109/1-3'>Ps. 109:1-3</a>",
-      "comment": "David invokes God as his defender against unjust enemies. The spiritual principle of relying on God's justice rather than personal vengeance echoes later teachings in Romans 12:19. Throughout this Psalm, God's unique role as Judge and Defender is emphasized."
+      "comment": "David invokes God as his defender against unjust enemies. The spiritual principle of relying on God's justice rather than personal vengeance echoes later teachings in Romans 12:19. Throughout this Psalm, God's unique role as Judge and Defender is emphasized.",
+      "sectionHeader": "Prayer for Deliverance from Enemies"
     },
     {
       "pk": 23035002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "Malicious witnesses rise up; they ask me things I do not know.",
       "links": "<a href='/AIV/19/27/12'>Ps. 27:12</a>; <a href='/AIV/40/26/59-61'>Matt. 26:59–61</a>",
-      "comment": "Suffering false accusation foreshadows Christ’s trial before the Sanhedrin (Matt. 26:59-61). The persecution of the righteous is a recurring spiritual battle."
+      "comment": "Suffering false accusation foreshadows Christ’s trial before the Sanhedrin (Matt. 26:59-61). The persecution of the righteous is a recurring spiritual battle.",
+      "sectionHeader": "Appeal Against False Witnesses"
     },
     {
       "pk": 23035012,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "Lord, how long will you look on? Rescue me from their destruction, my precious life from the lions.",
       "links": "<a href='/AIV/19/13/1'>Ps. 13:1</a>; <a href='/AIV/19/22/21'>Ps. 22:21</a>",
-      "comment": "David’s plea for deliverance anticipates Christ's cry from the cross. ‘Lions’ represent mortal threat, as seen elsewhere (Ps. 22:21), and the request for rescue shows faith in divine intervention."
+      "comment": "David’s plea for deliverance anticipates Christ's cry from the cross. ‘Lions’ represent mortal threat, as seen elsewhere (Ps. 22:21), and the request for rescue shows faith in divine intervention.",
+      "sectionHeader": "Renewed Plea and Promise of Praise"
     },
     {
       "pk": 23035018,
@@ -341,5 +344,22 @@
       "comment": "The Psalm ends with a promise of continuous praise. Proclamation and witness are central to faith, drawing all people together in worship and thanksgiving of God’s saving deeds. In the New Testament, praise and worship are continually encouraged as marks of discipleship (Eph. 5:19-20)."
     }
   ],
-  "translatedAt": "2025-12-24T06:10:26.676Z"
+  "translatedAt": "2025-12-24T06:10:26.676Z",
+  "sections": [
+    {
+      "title": "Prayer for Deliverance from Enemies",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "Appeal Against False Witnesses",
+      "startVerse": 11,
+      "endVerse": 16
+    },
+    {
+      "title": "Renewed Plea and Promise of Praise",
+      "startVerse": 17,
+      "endVerse": 28
+    }
+  ]
 }

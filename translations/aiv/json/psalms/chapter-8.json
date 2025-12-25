@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "O LORD, our Lord, how majestic is Your Name in all the earth! You have set Your glory above the heavens.",
       "links": "<a href='/AIV/19/113/4'>Ps. 113:4</a>; <a href='/AIV/19/148/13'>Ps. 148:13</a>",
-      "comment": "The repetition of 'LORD' and 'our Lord' points to God's universal kingship, both transcendent and personal. The phrase 'Your glory above the heavens' emphasizes His supreme majesty. Echoes of creation praise (see Ps. 113:4, Ps. 148:13). This verse opens with a declaration of worship, linking the glory of God's name to His creative authority—an image later revealed in the person of Christ (see John 17:6)."
+      "comment": "The repetition of 'LORD' and 'our Lord' points to God's universal kingship, both transcendent and personal. The phrase 'Your glory above the heavens' emphasizes His supreme majesty. Echoes of creation praise (see Ps. 113:4, Ps. 148:13). This verse opens with a declaration of worship, linking the glory of God's name to His creative authority—an image later revealed in the person of Christ (see John 17:6).",
+      "sectionHeader": "The Majesty of God's Name"
     },
     {
       "pk": 23008002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "When I look at Your heavens, the work of Your fingers, the moon and the stars, which You have set in place:",
       "links": "<a href='/AIV/19/19/1'>Ps. 19:1</a>; <a href='/AIV/18/26/7'>Job 26:7</a>",
-      "comment": "Here, the psalmist ponders God's creation, implying intimate craftsmanship ('fingers'). This phrase emphasizes both God's transcendence and His attentive care. Cross-reference Psalm 19:1 for the heavens declaring God's glory—a theme later understood by Christians as pointing to divine order and wisdom."
+      "comment": "Here, the psalmist ponders God's creation, implying intimate craftsmanship ('fingers'). This phrase emphasizes both God's transcendence and His attentive care. Cross-reference Psalm 19:1 for the heavens declaring God's glory—a theme later understood by Christians as pointing to divine order and wisdom.",
+      "sectionHeader": "The Dignity of Man in Creation"
     },
     {
       "pk": 23008004,
@@ -113,5 +115,17 @@
       "comment": "This concluding refrain recapitulates verse 1, uniting the psalm in worship. Repeated praise emphasizes God’s glory and the everlasting nature of His Name. Its cyclical structure echoes the liturgical rhythm in worship, which historically points to a continual offering of praise—a sign of the unity of creation and worship as one."
     }
   ],
-  "translatedAt": "2025-12-24T06:01:07.383Z"
+  "translatedAt": "2025-12-24T06:01:07.383Z",
+  "sections": [
+    {
+      "title": "The Majesty of God's Name",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "The Dignity of Man in Creation",
+      "startVerse": 3,
+      "endVerse": 9
+    }
+  ]
 }

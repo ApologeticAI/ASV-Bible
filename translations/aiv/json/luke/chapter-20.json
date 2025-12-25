@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "One day, as Jesus was teaching the people in the temple and preaching the gospel, the chief priests and the scribes, with the elders, approached him.",
       "links": "<a href='/AIV/40/21/23'>Matt. 21:23</a>; <a href='/AIV/41/11/27'>Mark 11:27</a>",
-      "comment": "Jesus is teaching authoritatively in the temple, which the religious leaders recognize and challenge. His teaching in the temple foreshadows the continuation of authentic teaching authority in the faith community."
+      "comment": "Jesus is teaching authoritatively in the temple, which the religious leaders recognize and challenge. His teaching in the temple foreshadows the continuation of authentic teaching authority in the faith community.",
+      "sectionHeader": "The Authority of Jesus Questioned"
     },
     {
       "pk": 49020002,
@@ -130,7 +131,8 @@
       "verse": 9,
       "text": "He began to tell the people this parable: 'A man planted a vineyard, rented it to some tenants, and went away for a long time.'",
       "links": "<a href='/AIV/40/21/33'>Matt. 21:33</a>; <a href='/AIV/41/12/1'>Mark 12:1</a>; <a href='/AIV/23/5/1-2'>Isaiah 5:1-2</a>",
-      "comment": "The vineyard represents Israel (<a href='/AIV/19/80/8-16'>Psalm 80:8-16</a>; <a href='/AIV/23/5/1-7'>Isaiah 5:1-7</a>). Jesus uses this story to critique unfaithful leaders and foreshadow his coming sacrifice."
+      "comment": "The vineyard represents Israel (<a href='/AIV/19/80/8-16'>Psalm 80:8-16</a>; <a href='/AIV/23/5/1-7'>Isaiah 5:1-7</a>). Jesus uses this story to critique unfaithful leaders and foreshadow his coming sacrifice.",
+      "sectionHeader": "The Parable of the Wicked Tenants"
     },
     {
       "pk": 49020010,
@@ -262,7 +264,8 @@
       "verse": 20,
       "text": "They watched him closely and sent spies, who pretended to be sincere, so they could catch him in something he said, to hand him over to the authority and jurisdiction of the governor.",
       "links": "<a href='/AIV/41/12/13'>Mark 12:13</a>; <a href='/AIV/40/22/15-16'>Matt. 22:15-16</a>",
-      "comment": "The leaders’ use of intrigue shows their increasing hostility and unwillingness to recognize Jesus’ divine authority. Spies were commonly used to challenge perceived threats (see Daniel and Jeremiah)."
+      "comment": "The leaders’ use of intrigue shows their increasing hostility and unwillingness to recognize Jesus’ divine authority. Spies were commonly used to challenge perceived threats (see Daniel and Jeremiah).",
+      "sectionHeader": "Paying Taxes to Caesar"
     },
     {
       "pk": 49020021,
@@ -346,7 +349,8 @@
       "verse": 27,
       "text": "There came to him some of the Sadducees—those who say there is no resurrection.",
       "links": "<a href='/AIV/40/22/23'>Matt. 22:23</a>",
-      "comment": "The Sadducees, skeptical of resurrection and supernatural realities, present a new challenge. This highlights divisions among Jewish groups at the time."
+      "comment": "The Sadducees, skeptical of resurrection and supernatural realities, present a new challenge. This highlights divisions among Jewish groups at the time.",
+      "sectionHeader": "The Question about the Resurrection"
     },
     {
       "pk": 49020028,
@@ -514,7 +518,8 @@
       "verse": 41,
       "text": "But he said to them, 'How can they say that the Messiah is the Son of David?'",
       "links": "<a href='/AIV/19/110/1'>Ps. 110:1</a>; <a href='/AIV/40/22/41-42'>Matt. 22:41-42</a>",
-      "comment": "Jesus begins teaching about the Messiah’s identity, connecting his lineage to David and his divine status as Lord."
+      "comment": "Jesus begins teaching about the Messiah’s identity, connecting his lineage to David and his divine status as Lord.",
+      "sectionHeader": "David’s Son and Lord"
     },
     {
       "pk": 49020042,
@@ -562,7 +567,8 @@
       "verse": 45,
       "text": "And while all the people listened, he said to his disciples,",
       "links": "",
-      "comment": "Jesus shifts focus to teaching his disciples in the hearing of all, modeling public instruction and correction."
+      "comment": "Jesus shifts focus to teaching his disciples in the hearing of all, modeling public instruction and correction.",
+      "sectionHeader": "Warning against the Scribes"
     },
     {
       "pk": 49020046,
@@ -589,5 +595,37 @@
       "comment": "False righteousness is condemned, especially when it preys upon the vulnerable. Jesus upholds sincere prayer and charity—hallmarks of authentic discipleship and marks of Christ-like leadership."
     }
   ],
-  "translatedAt": "2025-12-24T10:55:51.667Z"
+  "translatedAt": "2025-12-24T10:55:51.667Z",
+  "sections": [
+    {
+      "title": "The Authority of Jesus Questioned",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "The Parable of the Wicked Tenants",
+      "startVerse": 9,
+      "endVerse": 19
+    },
+    {
+      "title": "Paying Taxes to Caesar",
+      "startVerse": 20,
+      "endVerse": 26
+    },
+    {
+      "title": "The Question about the Resurrection",
+      "startVerse": 27,
+      "endVerse": 40
+    },
+    {
+      "title": "David’s Son and Lord",
+      "startVerse": 41,
+      "endVerse": 44
+    },
+    {
+      "title": "Warning against the Scribes",
+      "startVerse": 45,
+      "endVerse": 47
+    }
+  ]
 }

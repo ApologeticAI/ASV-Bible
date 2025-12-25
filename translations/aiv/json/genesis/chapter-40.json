@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "After these events, the cupbearer and the baker of the king of Egypt offended their master, the king of Egypt.",
       "links": "<a href='/AIV/1/39/20'>Gen 39:20</a>",
-      "comment": "This verse sets the stage for Joseph's interactions with Pharaoh's officials while in prison, showing God's providential arrangement."
+      "comment": "This verse sets the stage for Joseph's interactions with Pharaoh's officials while in prison, showing God's providential arrangement.",
+      "sectionHeader": "Joseph Interprets the Dreams of Pharaoh’s Officials"
     },
     {
       "pk": 1040002,
@@ -242,7 +243,8 @@
       "verse": 20,
       "text": "On the third day, which was Pharaoh’s birthday, he made a feast for all his servants, and he lifted up the heads of the chief cupbearer and the chief baker among his servants.",
       "links": "",
-      "comment": "Royal birthdays are contexts for divine intervention (see <a href='/AIV/40/14/6'>Matt 14:6</a>), here showing a separation of blessing and judgment."
+      "comment": "Royal birthdays are contexts for divine intervention (see <a href='/AIV/40/14/6'>Matt 14:6</a>), here showing a separation of blessing and judgment.",
+      "sectionHeader": "Fulfillment of the Dreams"
     },
     {
       "pk": 1040021,
@@ -281,5 +283,17 @@
       "comment": "Human forgetfulness contrasts with God’s faithfulness; Joseph’s suffering prefigures the pattern of righteous suffering and vindication seen throughout the Bible, preparing for redemption through patience and trust."
     }
   ],
-  "translatedAt": "2025-12-24T00:37:00.672Z"
+  "translatedAt": "2025-12-24T00:37:00.672Z",
+  "sections": [
+    {
+      "title": "Joseph Interprets the Dreams of Pharaoh’s Officials",
+      "startVerse": 1,
+      "endVerse": 19
+    },
+    {
+      "title": "Fulfillment of the Dreams",
+      "startVerse": 20,
+      "endVerse": 23
+    }
+  ]
 }

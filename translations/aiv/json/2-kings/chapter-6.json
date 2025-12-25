@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The sons of the prophets said to Elisha, 'See, the place where we dwell with you is too crowded for us.'",
       "links": "<a href='/AIV/11/19/16'>1 Kgs 19:16</a>; <a href='/AIV/12/2/3'>2 Kgs 2:3</a>",
-      "comment": "The sons of the prophets are part of a prophetic community, gathered around Elisha as their spiritual leader, which prefigures later communal monastic life."
+      "comment": "The sons of the prophets are part of a prophetic community, gathered around Elisha as their spiritual leader, which prefigures later communal monastic life.",
+      "sectionHeader": "The Floating Axe Head"
     },
     {
       "pk": 12006002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Once, the king of Aram was at war with Israel. He consulted with his servants, saying, 'My camp will be in such-and-such a place.'",
       "links": "<a href='/AIV/12/5/1'>2 Kgs 5:1</a>; <a href='/AIV/12/7/17'>2 Kgs 7:17</a>",
-      "comment": "Hostility against Israel from Aram sets the scene for God’s protection of His people through the prophet."
+      "comment": "Hostility against Israel from Aram sets the scene for God’s protection of His people through the prophet.",
+      "sectionHeader": "Elisha and the Aramean Army"
     },
     {
       "pk": 12006009,
@@ -290,7 +292,8 @@
       "verse": 24,
       "text": "Afterward, Ben-Hadad king of Aram gathered all his army, and went up and besieged Samaria.",
       "links": "<a href='/AIV/12/8/7'>2 Kgs 8:7</a>",
-      "comment": "Despite mercy, further human conflict arises, showing the persistent brokenness needing ultimate redemption."
+      "comment": "Despite mercy, further human conflict arises, showing the persistent brokenness needing ultimate redemption.",
+      "sectionHeader": "The Siege of Samaria"
     },
     {
       "pk": 12006025,
@@ -401,5 +404,22 @@
       "comment": "Impatience with suffering contrasts with faithful waiting, a theme and spiritual discipline taught throughout Scripture."
     }
   ],
-  "translatedAt": "2025-12-24T03:48:42.243Z"
+  "translatedAt": "2025-12-24T03:48:42.243Z",
+  "sections": [
+    {
+      "title": "The Floating Axe Head",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Elisha and the Aramean Army",
+      "startVerse": 8,
+      "endVerse": 23
+    },
+    {
+      "title": "The Siege of Samaria",
+      "startVerse": 24,
+      "endVerse": 33
+    }
+  ]
 }

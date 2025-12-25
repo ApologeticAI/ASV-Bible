@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The plans of the heart belong to a person, but the answer of the tongue is from the Lord.",
       "links": "<a href='/AIV/20/19/21'>Prov. 19:21</a>; <a href='/AIV/24/10/23'>Jer. 10:23</a>",
-      "comment": "This verse emphasizes the partnership between human effort and divine sovereignty. While people can make plans, only God gives the final result and speech. There's a hint of relying on God's wisdom beyond our own understanding (cf. James 1:5), which echoes the need for the faithful to consult God's will in all things."
+      "comment": "This verse emphasizes the partnership between human effort and divine sovereignty. While people can make plans, only God gives the final result and speech. There's a hint of relying on God's wisdom beyond our own understanding (cf. James 1:5), which echoes the need for the faithful to consult God's will in all things.",
+      "sectionHeader": "Human Plans and Divine Guidance"
     },
     {
       "pk": 24016002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "A divine decision is on the lips of the king; his mouth must not betray justice.",
       "links": "<a href='/AIV/20/8/15'>Prov. 8:15</a>; <a href='/AIV/45/13/1'>Rom. 13:1</a>",
-      "comment": "Leaders are accountable to God for their judgments. This echoes the concept of authority as coming from God, a principle present from the earliest apostolic communities."
+      "comment": "Leaders are accountable to God for their judgments. This echoes the concept of authority as coming from God, a principle present from the earliest apostolic communities.",
+      "sectionHeader": "Wisdom for Kings and Rulers"
     },
     {
       "pk": 24016011,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "How much better to get wisdom than gold! To get understanding is to be chosen above silver.",
       "links": "<a href='/AIV/20/3/13-15'>Prov. 3:13-15</a>; <a href='/AIV/19/119/72'>Ps. 119:72</a>",
-      "comment": "Wisdom is to be preferred above wealth, for it brings lasting spiritual treasures—echoes of Christ’s teaching on laying up treasures in heaven."
+      "comment": "Wisdom is to be preferred above wealth, for it brings lasting spiritual treasures—echoes of Christ’s teaching on laying up treasures in heaven.",
+      "sectionHeader": "The Way of the Upright and the Proud"
     },
     {
       "pk": 24016017,
@@ -242,7 +245,8 @@
       "verse": 20,
       "text": "Whoever pays attention to the word will find good, and blessed is the one who trusts in the Lord.",
       "links": "<a href='/AIV/20/13/13'>Prov. 13:13</a>; <a href='/AIV/19/2/12'>Ps. 2:12</a>",
-      "comment": "Blessings result from hearing and trusting God's Word. This also connects to the importance of tradition and instruction handed down through generations."
+      "comment": "Blessings result from hearing and trusting God's Word. This also connects to the importance of tradition and instruction handed down through generations.",
+      "sectionHeader": "The Power of Words and Conduct"
     },
     {
       "pk": 24016021,
@@ -326,7 +330,8 @@
       "verse": 27,
       "text": "A worthless man plots evil, and his speech is like a scorching fire.",
       "links": "<a href='/AIV/20/26/18-19'>Prov. 26:18-19</a>; <a href='/AIV/59/3/6'>Jas. 3:6</a>",
-      "comment": "Evil intentions are destructive, especially when expressed in words. The New Testament warns about the tongue’s power for harm."
+      "comment": "Evil intentions are destructive, especially when expressed in words. The New Testament warns about the tongue’s power for harm.",
+      "sectionHeader": "Consequences of Evil and Rewards of Righteousness"
     },
     {
       "pk": 24016028,
@@ -374,7 +379,8 @@
       "verse": 31,
       "text": "Gray hair is a crown of glory; it is attained by a righteous life.",
       "links": "<a href='/AIV/20/20/29'>Prov. 20:29</a>; <a href='/AIV/3/19/32'>Lev. 19:32</a>",
-      "comment": "Aging in holiness is honorable. This underscores the value of elders and the tradition of honoring those advanced in faith and virtue (see 1 Tim. 5:1-2)."
+      "comment": "Aging in holiness is honorable. This underscores the value of elders and the tradition of honoring those advanced in faith and virtue (see 1 Tim. 5:1-2).",
+      "sectionHeader": "Self-Control and Divine Providence"
     },
     {
       "pk": 24016032,
@@ -401,5 +407,37 @@
       "comment": "Even decisions that appear random are under divine sovereignty. This reminds us that God’s providence governs all outcomes, a comfort for life’s uncertainties."
     }
   ],
-  "translatedAt": "2025-12-24T06:58:53.982Z"
+  "translatedAt": "2025-12-24T06:58:53.982Z",
+  "sections": [
+    {
+      "title": "Human Plans and Divine Guidance",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "Wisdom for Kings and Rulers",
+      "startVerse": 10,
+      "endVerse": 15
+    },
+    {
+      "title": "The Way of the Upright and the Proud",
+      "startVerse": 16,
+      "endVerse": 19
+    },
+    {
+      "title": "The Power of Words and Conduct",
+      "startVerse": 20,
+      "endVerse": 26
+    },
+    {
+      "title": "Consequences of Evil and Rewards of Righteousness",
+      "startVerse": 27,
+      "endVerse": 30
+    },
+    {
+      "title": "Self-Control and Divine Providence",
+      "startVerse": 31,
+      "endVerse": 33
+    }
+  ]
 }

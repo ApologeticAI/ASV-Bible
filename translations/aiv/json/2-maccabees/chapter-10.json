@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "But Maccabeus and his companions, under the Lord’s guidance, recaptured the temple and the city of Jerusalem.",
       "links": "<a href='/AIV/21/8/1'>2Macc 8:1</a>; <a href='/AIV/13/29/15'>1Chr 29:15</a>",
-      "comment": "This marks a decisive turning point, showing God’s favor upon faithful leaders who restore true worship, prefiguring the restoration found in Christ (cf. John 2:19–21)."
+      "comment": "This marks a decisive turning point, showing God’s favor upon faithful leaders who restore true worship, prefiguring the restoration found in Christ (cf. John 2:19–21).",
+      "sectionHeader": "Purification and Rededication of the Temple"
     },
     {
       "pk": 21010002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "As for Timotheus, who had escaped the region earlier, he was finally captured in a town fortified with many walls.",
       "links": "<a href='/AIV/21/8/30-32'>2Macc 8:30–32</a>",
-      "comment": "Justice eventually reaches even the enemies hidden behind strong defenses, resonating with psalmist’s assurance of God’s victory."
+      "comment": "Justice eventually reaches even the enemies hidden behind strong defenses, resonating with psalmist’s assurance of God’s victory.",
+      "sectionHeader": "Defeat of Timotheus and the Strongholds"
     },
     {
       "pk": 21010014,
@@ -290,7 +292,8 @@
       "verse": 24,
       "text": "Timotheus gathered another army and encamped opposite Raphon across the stream.",
       "links": "<a href='/AIV/21/12/2'>2Macc 12:2</a>",
-      "comment": "The enemy persists, echoing the ongoing spiritual battle faced by God’s people throughout Sacred Scripture."
+      "comment": "The enemy persists, echoing the ongoing spiritual battle faced by God’s people throughout Sacred Scripture.",
+      "sectionHeader": "Victory at Raphon and Divine Intervention"
     },
     {
       "pk": 21010025,
@@ -461,5 +464,22 @@
       "comment": "Final warning against bribery and compromise affirms the importance of uprightness. Faithfulness to God in every detail matters—an essential biblical principle seen fulfilled in the life of Christ, who remained obedient even to death (Philippians 2:8)."
     }
   ],
-  "translatedAt": "2025-12-24T05:35:44.501Z"
+  "translatedAt": "2025-12-24T05:35:44.501Z",
+  "sections": [
+    {
+      "title": "Purification and Rededication of the Temple",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "Defeat of Timotheus and the Strongholds",
+      "startVerse": 13,
+      "endVerse": 23
+    },
+    {
+      "title": "Victory at Raphon and Divine Intervention",
+      "startVerse": 24,
+      "endVerse": 38
+    }
+  ]
 }

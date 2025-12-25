@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When Solomon had finished building the house of the Lord, the king’s house, and all that Solomon had desired to make,",
       "links": "<a href='/AIV/10/7/1'>2 Sam. 7:1</a>; <a href='/AIV/11/6/1'>1 Kgs 6:1</a>",
-      "comment": "The passage opens by emphasizing Solomon’s completion of the Temple, fulfilling his father David’s desire (2 Samuel 7:1-13). The construction represents the dwelling of God among His people, a strong typology connecting the Old Testament Tabernacle (Exodus 25:8) and the fulfillment in Christ as God dwelling among us (John 1:14)."
+      "comment": "The passage opens by emphasizing Solomon’s completion of the Temple, fulfilling his father David’s desire (2 Samuel 7:1-13). The construction represents the dwelling of God among His people, a strong typology connecting the Old Testament Tabernacle (Exodus 25:8) and the fulfillment in Christ as God dwelling among us (John 1:14).",
+      "sectionHeader": "The Lord Appears to Solomon Again"
     },
     {
       "pk": 11009002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "At the end of twenty years, during which Solomon built the two houses, the house of the Lord and the king’s house,",
       "links": "<a href='/AIV/11/6/38'>1 Kgs 6:38</a>; <a href='/AIV/11/7/1'>1 Kgs 7:1</a>",
-      "comment": "Solomon’s dual projects signify both the sacred and the royal. The passage chronicles devotion to both God and the temporal realm, foreshadowing the importance of stewardship and order in Christian leadership."
+      "comment": "Solomon’s dual projects signify both the sacred and the royal. The passage chronicles devotion to both God and the temporal realm, foreshadowing the importance of stewardship and order in Christian leadership.",
+      "sectionHeader": "Solomon’s Other Achievements and Building Projects"
     },
     {
       "pk": 11009011,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "This is the account of the forced labor which King Solomon raised to build the house of the Lord, his own house, the Millo, the wall of Jerusalem, Hazor, Megiddo, and Gezer:",
       "links": "<a href='/AIV/11/5/13-16'>1 Kgs 5:13-16</a>; <a href='/AIV/11/11/28'>1 Kgs 11:28</a>",
-      "comment": "Forced labor recalls the cost of national projects. The Millo and major cities signify Solomon’s administrative vision, which can draw a spiritual parallel to building up the community of faith."
+      "comment": "Forced labor recalls the cost of national projects. The Millo and major cities signify Solomon’s administrative vision, which can draw a spiritual parallel to building up the community of faith.",
+      "sectionHeader": "Forced Labor and Officials"
     },
     {
       "pk": 11009016,
@@ -302,7 +305,8 @@
       "verse": 25,
       "text": "Three times a year Solomon offered burnt offerings and peace offerings on the altar which he had built for the Lord; he burned incense on the altar before the Lord. So he finished the house.",
       "links": "<a href='/AIV/02/23/14-17'>Ex. 23:14-17</a>; <a href='/AIV/03/6/12'>Lev. 6:12</a>; <a href='/AIV/14/8/13'>2 Chr. 8:13</a>",
-      "comment": "The worship festivals reflect the rhythm of liturgical life, and Solomon’s active role underscores the importance of both leadership and sacrifice. These offerings prefigure and foreshadow perpetual worship and sacramental life."
+      "comment": "The worship festivals reflect the rhythm of liturgical life, and Solomon’s active role underscores the importance of both leadership and sacrifice. These offerings prefigure and foreshadow perpetual worship and sacramental life.",
+      "sectionHeader": "Solomon’s Worship Practices"
     },
     {
       "pk": 11009026,
@@ -314,7 +318,8 @@
       "verse": 26,
       "text": "King Solomon built a fleet of ships at Ezion-geber, which is near Eloth on the shore of the Red Sea, in the land of Edom.",
       "links": "<a href='/AIV/04/33/35'>Num. 33:35</a>; <a href='/AIV/14/8/17'>2 Chr. 8:17</a>",
-      "comment": "Solomon’s reach extended into maritime trade, marking Israel’s expanding influence. This expansion prefigures the universal mission to ‘all nations’ (Matt 28:19)."
+      "comment": "Solomon’s reach extended into maritime trade, marking Israel’s expanding influence. This expansion prefigures the universal mission to ‘all nations’ (Matt 28:19).",
+      "sectionHeader": "Solomon’s Fleet and Trade with Ophir"
     },
     {
       "pk": 11009027,
@@ -341,5 +346,32 @@
       "comment": "The narrative closes with prosperity through cooperation. The gold from Ophir represents God’s blessing, but also foreshadows the greater riches found in wisdom and faithfulness to God’s covenant."
     }
   ],
-  "translatedAt": "2025-12-24T03:33:21.274Z"
+  "translatedAt": "2025-12-24T03:33:21.274Z",
+  "sections": [
+    {
+      "title": "The Lord Appears to Solomon Again",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "Solomon’s Other Achievements and Building Projects",
+      "startVerse": 10,
+      "endVerse": 14
+    },
+    {
+      "title": "Forced Labor and Officials",
+      "startVerse": 15,
+      "endVerse": 24
+    },
+    {
+      "title": "Solomon’s Worship Practices",
+      "startVerse": 25,
+      "endVerse": 25
+    },
+    {
+      "title": "Solomon’s Fleet and Trade with Ophir",
+      "startVerse": 26,
+      "endVerse": 28
+    }
+  ]
 }

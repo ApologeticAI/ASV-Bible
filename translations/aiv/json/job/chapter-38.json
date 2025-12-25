@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then the LORD answered Job out of the whirlwind and said:",
       "links": "<a href='/AIV/19/18/7-15'>Psalm 18:7-15</a>; <a href='/AIV/12/19/11-12'>1 Kings 19:11-12</a>",
-      "comment": "God's appearance in the whirlwind demonstrates his majesty and power. Storm imagery here reveals the intensity and authority of divine speech (see also Psalm 18 and Elijah's encounter)."
+      "comment": "God's appearance in the whirlwind demonstrates his majesty and power. Storm imagery here reveals the intensity and authority of divine speech (see also Psalm 18 and Elijah's encounter).",
+      "sectionHeader": "The LORD Answers Job"
     },
     {
       "pk": 22038002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "\"Where were you when I laid the foundations of the earth? Tell me, if you have understanding.",
       "links": "<a href='/AIV/19/104/5'>Psalm 104:5</a>; <a href='/AIV/1/1/1'>Genesis 1:1</a>",
-      "comment": "God's creative act is beyond human grasp. This highlights the Creator-creature distinction, a foundation for theological humility."
+      "comment": "God's creative act is beyond human grasp. This highlights the Creator-creature distinction, a foundation for theological humility.",
+      "sectionHeader": "The Wonders of Creation"
     },
     {
       "pk": 22038005,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "\"Have you entered into the springs of the sea, or walked in the deep recesses of the ocean?",
       "links": "<a href='/AIV/18/28/14'>Job 28:14</a>",
-      "comment": "God’s knowledge surpasses human scientific exploration and discovery."
+      "comment": "God’s knowledge surpasses human scientific exploration and discovery.",
+      "sectionHeader": "The Secrets of the Heavens and the Earth"
     },
     {
       "pk": 22038017,
@@ -266,7 +269,8 @@
       "verse": 22,
       "text": "\"Have you entered the storehouses of the snow, or have you seen the storehouses of hail,",
       "links": "<a href='/AIV/19/147/16-17'>Psalm 147:16-17</a>; <a href='/AIV/2/9/18-26'>Exodus 9:18-26</a>",
-      "comment": "Snow and hail are instruments of God’s judgment and mercy in salvation history."
+      "comment": "Snow and hail are instruments of God’s judgment and mercy in salvation history.",
+      "sectionHeader": "The Phenomena of Weather"
     },
     {
       "pk": 22038023,
@@ -374,7 +378,8 @@
       "verse": 31,
       "text": "\"Can you bind the chains of the Pleiades, or loosen the cords of Orion?",
       "links": "<a href='/AIV/18/9/9'>Job 9:9</a>; <a href='/AIV/30/5/8'>Amos 5:8</a>",
-      "comment": "God refers to constellations, showing his sovereign control over the cosmos."
+      "comment": "God refers to constellations, showing his sovereign control over the cosmos.",
+      "sectionHeader": "The Order of the Stars"
     },
     {
       "pk": 22038032,
@@ -470,7 +475,8 @@
       "verse": 39,
       "text": "\"Can you hunt the prey for the lion, or satisfy the appetite of the young lions,",
       "links": "<a href='/AIV/19/104/21'>Psalm 104:21</a>",
-      "comment": "God’s provision for animals manifests his care for all creatures, pointing to generosity and provision beyond human merit."
+      "comment": "God’s provision for animals manifests his care for all creatures, pointing to generosity and provision beyond human merit.",
+      "sectionHeader": "God's Care for the Animals"
     },
     {
       "pk": 22038040,
@@ -497,5 +503,37 @@
       "comment": "God’s care for even the raven, mentioned by Jesus as a sign of divine providence, gives hope for trust and surrender to God’s will."
     }
   ],
-  "translatedAt": "2025-12-24T05:57:08.367Z"
+  "translatedAt": "2025-12-24T05:57:08.367Z",
+  "sections": [
+    {
+      "title": "The LORD Answers Job",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "The Wonders of Creation",
+      "startVerse": 4,
+      "endVerse": 15
+    },
+    {
+      "title": "The Secrets of the Heavens and the Earth",
+      "startVerse": 16,
+      "endVerse": 21
+    },
+    {
+      "title": "The Phenomena of Weather",
+      "startVerse": 22,
+      "endVerse": 30
+    },
+    {
+      "title": "The Order of the Stars",
+      "startVerse": 31,
+      "endVerse": 38
+    },
+    {
+      "title": "God's Care for the Animals",
+      "startVerse": 39,
+      "endVerse": 41
+    }
+  ]
 }

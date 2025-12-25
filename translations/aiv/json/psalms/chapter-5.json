@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Give ear to my words, O Lord; consider my meditation.",
       "links": "<a href='/AIV/19/54/2'>Ps. 54:2</a>; <a href='/AIV/19/4/1'>Ps. 4:1</a>",
-      "comment": "The psalm opens with an earnest request for God to listen to prayer, laying the foundation for understanding God as attentive and personal. The term 'meditation' also suggests that silent, inward prayer and contemplation are valued approaches to God."
+      "comment": "The psalm opens with an earnest request for God to listen to prayer, laying the foundation for understanding God as attentive and personal. The term 'meditation' also suggests that silent, inward prayer and contemplation are valued approaches to God.",
+      "sectionHeader": "Morning Prayer for Help"
     },
     {
       "pk": 23005002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "For you are not a God who delights in wickedness; evil cannot dwell with you.",
       "links": "<a href='/AIV/19/11/7'>Ps. 11:7</a>; <a href='/AIV/19/101/7'>Ps. 101:7</a>",
-      "comment": "God's nature is absolutely holy; He is separated from evil. The distinction between God and wickedness reinforces both personal holiness and the necessity of purification and grace for anyone who comes to Him."
+      "comment": "God's nature is absolutely holy; He is separated from evil. The distinction between God and wickedness reinforces both personal holiness and the necessity of purification and grace for anyone who comes to Him.",
+      "sectionHeader": "God’s Hatred of Evil"
     },
     {
       "pk": 23005005,
@@ -86,7 +88,8 @@
       "verse": 7,
       "text": "But I, through the abundance of your steadfast love, will enter your house; I will bow down toward your holy temple in fear of you.",
       "links": "<a href='/AIV/19/69/13'>Ps. 69:13</a>; <a href='/AIV/19/138/2'>Ps. 138:2</a>",
-      "comment": "The psalmist’s access to God's presence is based not on merit but on divine mercy. 'Steadfast love' (Hebrew: hesed) prefigures the grace poured out in sacramental worship and reverence in God’s house (temple), a theme renewed and deepened in Christ’s reconciliation."
+      "comment": "The psalmist’s access to God's presence is based not on merit but on divine mercy. 'Steadfast love' (Hebrew: hesed) prefigures the grace poured out in sacramental worship and reverence in God’s house (temple), a theme renewed and deepened in Christ’s reconciliation.",
+      "sectionHeader": "The Righteous Guided and Protected"
     },
     {
       "pk": 23005008,
@@ -149,5 +152,22 @@
       "comment": "Final verse emphasizes God’s favor as a shield, a theme found throughout the Psalms. Blessing is poured out on those made righteous by God’s grace, pointing ahead to Christ as both the fulfillment of righteousness and the source of spiritual protection."
     }
   ],
-  "translatedAt": "2025-12-24T06:00:14.411Z"
+  "translatedAt": "2025-12-24T06:00:14.411Z",
+  "sections": [
+    {
+      "title": "Morning Prayer for Help",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "God’s Hatred of Evil",
+      "startVerse": 4,
+      "endVerse": 6
+    },
+    {
+      "title": "The Righteous Guided and Protected",
+      "startVerse": 7,
+      "endVerse": 12
+    }
+  ]
 }

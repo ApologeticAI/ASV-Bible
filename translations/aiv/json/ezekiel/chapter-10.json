@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then I looked, and there above the expanse that was over the heads of the cherubim, there appeared something like a throne, as if made of sapphire, and it was seen above them.",
       "links": "<a href='/AIV/26/1/22'>Ezek. 1:22</a>; <a href='/AIV/02/24/10'>Ex. 24:10</a>; <a href='/AIV/66/4/6'>Rev. 4:6</a>",
-      "comment": "The prophet sees again the heavenly throne, emphasizing the glory and authority of God. The parallels to Ezekiel 1 and Exodus 24 suggest a continuity in God's revelation. The throne imagery also anticipates New Testament visions of God's majesty (Rev. 4:2-6)."
+      "comment": "The prophet sees again the heavenly throne, emphasizing the glory and authority of God. The parallels to Ezekiel 1 and Exodus 24 suggest a continuity in God's revelation. The throne imagery also anticipates New Testament visions of God's majesty (Rev. 4:2-6).",
+      "sectionHeader": "The Vision of the Sapphire Throne"
     },
     {
       "pk": 33010002,
@@ -26,7 +27,8 @@
       "verse": 2,
       "text": "And He spoke to the man clothed with linen and said, 'Go in among the wheels beneath the cherubim, fill your hands with burning coals from among the cherubim, and scatter them over the city.' And he went in before my eyes.",
       "links": "<a href='/AIV/26/9/2'>Ezek. 9:2</a>; <a href='/AIV/26/1/13'>Ezek. 1:13</a>",
-      "comment": "The burning coals symbolize God's judgment and purification. That the command comes from the enthroned One stresses divine initiative and justice. The man in linen recalls priestly imagery—intercession and mediation. The act shows God's holiness and the seriousness of sin. See also Is. 6:6-7 for another context where fire is used for purification."
+      "comment": "The burning coals symbolize God's judgment and purification. That the command comes from the enthroned One stresses divine initiative and justice. The man in linen recalls priestly imagery—intercession and mediation. The act shows God's holiness and the seriousness of sin. See also Is. 6:6-7 for another context where fire is used for purification.",
+      "sectionHeader": "The Man Clothed in Linen Scatters Fire"
     },
     {
       "pk": 33010003,
@@ -38,7 +40,8 @@
       "verse": 3,
       "text": "Now the cherubim were standing on the south side of the temple when the man went in, and the cloud filled the inner court.",
       "links": "<a href='/AIV/02/40/34'>Ex. 40:34</a>; <a href='/AIV/11/8/10-11'>1 Kgs. 8:10-11</a>",
-      "comment": "The cloud represents the tangible presence of God (the Shekinah). Its appearance links this moment to the dedication of the tabernacle and the temple, signifying both God's pleasure and, here, His impending departure due to the people's unfaithfulness."
+      "comment": "The cloud represents the tangible presence of God (the Shekinah). Its appearance links this moment to the dedication of the tabernacle and the temple, signifying both God's pleasure and, here, His impending departure due to the people's unfaithfulness.",
+      "sectionHeader": "The Glory of the LORD Fills the Temple"
     },
     {
       "pk": 33010004,
@@ -110,7 +113,8 @@
       "verse": 9,
       "text": "And I looked, and there were four wheels beside the cherubim, one wheel beside each cherub; and the wheels appeared to shine like beryl stone.",
       "links": "<a href='/AIV/26/1/16'>Ezek. 1:16</a>",
-      "comment": "The vision repeats the wonder of the chariot from chapter 1, symbolizing God's all-seeing, ever-moving presence. Beryl’s radiance amplifies the beauty and purity of this heavenly vehicle. The multiplied wheels represent the expansiveness of God’s rule."
+      "comment": "The vision repeats the wonder of the chariot from chapter 1, symbolizing God's all-seeing, ever-moving presence. Beryl’s radiance amplifies the beauty and purity of this heavenly vehicle. The multiplied wheels represent the expansiveness of God’s rule.",
+      "sectionHeader": "The Living Creatures and the Whirling Wheels"
     },
     {
       "pk": 33010010,
@@ -218,7 +222,8 @@
       "verse": 18,
       "text": "Then the glory of the LORD departed from the threshold of the temple and stood over the cherubim.",
       "links": "<a href='/AIV/26/9/3'>Ezek. 9:3</a>; <a href='/AIV/26/11/23'>Ezek. 11:23</a>",
-      "comment": "This is a pivotal moment: God’s glory leaves the temple, a first step towards the judgment that will soon befall Jerusalem. Theologically, God’s real presence, lost through persistent rebellion, prepares the way for later prophecy that His glory will return in an even fuller form (cf. Ezek. 43:4; Jn. 1:14—God dwelling among men in Christ)."
+      "comment": "This is a pivotal moment: God’s glory leaves the temple, a first step towards the judgment that will soon befall Jerusalem. Theologically, God’s real presence, lost through persistent rebellion, prepares the way for later prophecy that His glory will return in an even fuller form (cf. Ezek. 43:4; Jn. 1:14—God dwelling among men in Christ).",
+      "sectionHeader": "The Departure of the Glory of the LORD"
     },
     {
       "pk": 33010019,
@@ -269,5 +274,32 @@
       "comment": "The perfect alignment and fidelity to what was originally revealed reinforce that God’s presence and message do not change. This is mirrored in later teaching that God is unchanging (Mal. 3:6; Heb. 13:8). There is security and unity in trusting a Church and faith rooted deeply in divine revelation and continued guidance."
     }
   ],
-  "translatedAt": "2025-12-24T09:03:03.420Z"
+  "translatedAt": "2025-12-24T09:03:03.420Z",
+  "sections": [
+    {
+      "title": "The Vision of the Sapphire Throne",
+      "startVerse": 1,
+      "endVerse": 1
+    },
+    {
+      "title": "The Man Clothed in Linen Scatters Fire",
+      "startVerse": 2,
+      "endVerse": 2
+    },
+    {
+      "title": "The Glory of the LORD Fills the Temple",
+      "startVerse": 3,
+      "endVerse": 8
+    },
+    {
+      "title": "The Living Creatures and the Whirling Wheels",
+      "startVerse": 9,
+      "endVerse": 17
+    },
+    {
+      "title": "The Departure of the Glory of the LORD",
+      "startVerse": 18,
+      "endVerse": 22
+    }
+  ]
 }

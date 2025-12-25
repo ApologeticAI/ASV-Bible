@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "I was sought by those who did not ask for Me; I was found by those who did not seek Me. I said, ‘Here I am, here I am,’ to a nation that was not called by My name.",
       "links": "<a href='/AIV/45/10/20'>Rom. 10:20</a>; <a href='/AIV/28/2/23'>Hos. 2:23</a>",
-      "comment": "Paul quotes this verse in Romans, interpreting it as God's openness to Gentiles. The literal meaning addresses God's readiness to reveal Himself even to those distant from Him. Spiritually, it points forward to the universal outreach of salvation, fulfilled in Christ and the Church's worldwide mission."
+      "comment": "Paul quotes this verse in Romans, interpreting it as God's openness to Gentiles. The literal meaning addresses God's readiness to reveal Himself even to those distant from Him. Spiritually, it points forward to the universal outreach of salvation, fulfilled in Christ and the Church's worldwide mission.",
+      "sectionHeader": "Judgment on Rebellious Israel"
     },
     {
       "pk": 29065002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Thus says the LORD, as the new wine is found in the cluster, and one says, ‘Do not destroy it, for there is a blessing in it,’ so I will do for My servants’ sake, that I may not destroy them all.",
       "links": "<a href='/AIV/19/80/8'>Ps. 80:8</a>; <a href='/AIV/23/6/13'>Isa. 6:13</a>",
-      "comment": "Even amid judgment, God preserves a remnant—the faithful servants. The imagery of the cluster and wine foreshadows the Eucharistic imagery of blessing through sacrifice and communion."
+      "comment": "Even amid judgment, God preserves a remnant—the faithful servants. The imagery of the cluster and wine foreshadows the Eucharistic imagery of blessing through sacrifice and communion.",
+      "sectionHeader": "Blessings for the Faithful Remnant"
     },
     {
       "pk": 29065009,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "For behold, I create new heavens and a new earth; and the former things shall not be remembered or come to mind.",
       "links": "<a href='/AIV/66/21/1'>Rev. 21:1</a>; <a href='/AIV/23/66/22'>Isa. 66:22</a>",
-      "comment": "This is a major prophetic promise fulfilled in Revelation, where a new creation is inaugurated. Both literal and spiritual meanings apply, foreseeing ultimate redemption and restoration."
+      "comment": "This is a major prophetic promise fulfilled in Revelation, where a new creation is inaugurated. Both literal and spiritual meanings apply, foreseeing ultimate redemption and restoration.",
+      "sectionHeader": "The New Heavens and the New Earth"
     },
     {
       "pk": 29065018,
@@ -305,5 +308,22 @@
       "comment": "A vision of perfect peace and harmony—fulfilled finally in the eschatological kingdom. The allusions point to Christ's defeat of evil and restoration of creation, realized fully in the unity of God's people in His holy presence."
     }
   ],
-  "translatedAt": "2025-12-24T08:20:19.893Z"
+  "translatedAt": "2025-12-24T08:20:19.893Z",
+  "sections": [
+    {
+      "title": "Judgment on Rebellious Israel",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Blessings for the Faithful Remnant",
+      "startVerse": 8,
+      "endVerse": 16
+    },
+    {
+      "title": "The New Heavens and the New Earth",
+      "startVerse": 17,
+      "endVerse": 25
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "After we tore ourselves away from them and set sail, we went straight to Cos, then the next day to Rhodes, and from there to Patara.",
       "links": "<a href='/AIV/51/20/37'>Acts 20:37</a>",
-      "comment": "Paul’s departure is marked by deep emotion, showing the close bonds among believers. The travel itinerary underscores Luke’s attention to eyewitness detail."
+      "comment": "Paul’s departure is marked by deep emotion, showing the close bonds among believers. The travel itinerary underscores Luke’s attention to eyewitness detail.",
+      "sectionHeader": "Paul’s Journey to Jerusalem"
     },
     {
       "pk": 51021002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "While we were staying there for many days, a prophet named Agabus came down from Judea.",
       "links": "<a href='/AIV/51/11/27'>Acts 11:27</a>; <a href='/AIV/50/4/7'>Eph. 4:7-12</a>",
-      "comment": "Agabus represents the continuation of prophetic ministry after Christ’s ascension, showing the Spirit’s governance over the Church."
+      "comment": "Agabus represents the continuation of prophetic ministry after Christ’s ascension, showing the Spirit’s governance over the Church.",
+      "sectionHeader": "Prophecy of Paul’s Imprisonment"
     },
     {
       "pk": 51021011,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "When we reached Jerusalem, the brothers welcomed us gladly.",
       "links": "<a href='/AIV/51/15/4'>Acts 15:4</a>",
-      "comment": "The Jerusalem church receives missionaries with joy, reflecting Christian unity and mutual encouragement."
+      "comment": "The Jerusalem church receives missionaries with joy, reflecting Christian unity and mutual encouragement.",
+      "sectionHeader": "Paul Visits James in Jerusalem"
     },
     {
       "pk": 51021018,
@@ -326,7 +329,8 @@
       "verse": 27,
       "text": "When the seven days were nearly over, the Jews from Asia, seeing him in the temple, stirred up the entire crowd and laid hands on him.",
       "links": "<a href='/AIV/51/24/18'>Acts 24:18</a>; <a href='/AIV/51/6/12'>Acts 6:12</a>",
-      "comment": "Hostility to Paul prefigures Christ’s own rejection in Jerusalem; persecution and suffering are marks of the mission."
+      "comment": "Hostility to Paul prefigures Christ’s own rejection in Jerusalem; persecution and suffering are marks of the mission.",
+      "sectionHeader": "Paul’s Arrest in the Temple"
     },
     {
       "pk": 51021028,
@@ -485,5 +489,27 @@
       "comment": "Paul’s address in Hebrew shows his deep respect for Jewish tradition, and the importance of communicating the Gospel in its fullness and with reverence for sacred history."
     }
   ],
-  "translatedAt": "2025-12-24T11:30:58.096Z"
+  "translatedAt": "2025-12-24T11:30:58.096Z",
+  "sections": [
+    {
+      "title": "Paul’s Journey to Jerusalem",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "Prophecy of Paul’s Imprisonment",
+      "startVerse": 10,
+      "endVerse": 16
+    },
+    {
+      "title": "Paul Visits James in Jerusalem",
+      "startVerse": 17,
+      "endVerse": 26
+    },
+    {
+      "title": "Paul’s Arrest in the Temple",
+      "startVerse": 27,
+      "endVerse": 40
+    }
+  ]
 }

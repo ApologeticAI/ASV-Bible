@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Jesus entered Jericho and was passing through town.",
       "links": "<a href='/AIV/06/2/1'>Joshua 2:1</a>",
-      "comment": "Jericho was a city of historical significance, once conquered by Israel (Joshua 2:1). Jesus’ journey through Jericho foreshadows salvation arriving where once there was judgment."
+      "comment": "Jericho was a city of historical significance, once conquered by Israel (Joshua 2:1). Jesus’ journey through Jericho foreshadows salvation arriving where once there was judgment.",
+      "sectionHeader": "Jesus and Zacchaeus"
     },
     {
       "pk": 49019002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "While they were listening to this, he proceeded to tell a parable, because he was near Jerusalem and people supposed that the kingdom of God was about to appear at once.",
       "links": "<a href='/AIV/44/1/6-7'>Acts 1:6-7</a>",
-      "comment": "Jesus addresses the common expectation of a rapid, earthly kingdom (Acts 1:6-7), clarifying that God’s plan unfolds in stages."
+      "comment": "Jesus addresses the common expectation of a rapid, earthly kingdom (Acts 1:6-7), clarifying that God’s plan unfolds in stages.",
+      "sectionHeader": "The Parable of the Ten Minas"
     },
     {
       "pk": 49019012,
@@ -338,7 +340,8 @@
       "verse": 28,
       "text": "After he had said this, Jesus went ahead, going up to Jerusalem.",
       "links": "<a href='/AIV/42/18/31'>Luke 18:31</a>",
-      "comment": "Here begins the climax of Jesus’ journey; Jerusalem is not just a destination, but the place for the fulfillment of prophecy and sacrificial atonement."
+      "comment": "Here begins the climax of Jesus’ journey; Jerusalem is not just a destination, but the place for the fulfillment of prophecy and sacrificial atonement.",
+      "sectionHeader": "The Triumphal Entry into Jerusalem"
     },
     {
       "pk": 49019029,
@@ -494,7 +497,8 @@
       "verse": 41,
       "text": "As he got closer and saw the city, he wept over it.",
       "links": "<a href='/AIV/40/23/37'>Matt. 23:37</a>",
-      "comment": "Jesus’ tears reveal his deep compassion and prophetic grief over Jerusalem’s rejection (Matt. 23:37)."
+      "comment": "Jesus’ tears reveal his deep compassion and prophetic grief over Jerusalem’s rejection (Matt. 23:37).",
+      "sectionHeader": "Jesus Weeps over Jerusalem"
     },
     {
       "pk": 49019042,
@@ -542,7 +546,8 @@
       "verse": 45,
       "text": "Then Jesus entered the temple and began to drive out those who were selling.",
       "links": "<a href='/AIV/24/7/11'>Jer. 7:11</a>; <a href='/AIV/43/2/14-16'>John 2:14-16</a>",
-      "comment": "Jesus’ cleansing recalls Jeremiah’s warning (Jer. 7:11) and prefigures the restoration of sacred worship."
+      "comment": "Jesus’ cleansing recalls Jeremiah’s warning (Jer. 7:11) and prefigures the restoration of sacred worship.",
+      "sectionHeader": "The Cleansing of the Temple"
     },
     {
       "pk": 49019046,
@@ -581,5 +586,32 @@
       "comment": "Christ’s authority is rooted not just in miracles, but in his teaching; public devotion protects him—an image of the Word attracting true worshipers."
     }
   ],
-  "translatedAt": "2025-12-24T10:54:48.259Z"
+  "translatedAt": "2025-12-24T10:54:48.259Z",
+  "sections": [
+    {
+      "title": "Jesus and Zacchaeus",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "The Parable of the Ten Minas",
+      "startVerse": 11,
+      "endVerse": 27
+    },
+    {
+      "title": "The Triumphal Entry into Jerusalem",
+      "startVerse": 28,
+      "endVerse": 40
+    },
+    {
+      "title": "Jesus Weeps over Jerusalem",
+      "startVerse": 41,
+      "endVerse": 44
+    },
+    {
+      "title": "The Cleansing of the Temple",
+      "startVerse": 45,
+      "endVerse": 48
+    }
+  ]
 }

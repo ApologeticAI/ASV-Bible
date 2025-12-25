@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The sons of Issachar were Tola, Puah, Jashub, and Shimron—four in total.",
       "links": "<a href='/AIV/1/46/13'>Gen. 46:13</a>; <a href='/AIV/4/26/23'>Num. 26:23</a>",
-      "comment": "The listing of tribal sons roots Israel’s identity in history and covenant. The emphasis on four sons affirms the completeness of Issachar’s family line, showing God’s faithfulness to His promises. Genealogies underline the importance of tradition and apostolic succession in ancient faith."
+      "comment": "The listing of tribal sons roots Israel’s identity in history and covenant. The emphasis on four sons affirms the completeness of Issachar’s family line, showing God’s faithfulness to His promises. Genealogies underline the importance of tradition and apostolic succession in ancient faith.",
+      "sectionHeader": "Descendants of Issachar"
     },
     {
       "pk": 13007002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "The sons of Benjamin were Bela, Becher, and Jediael—three in all.",
       "links": "<a href='/AIV/1/46/21'>Gen. 46:21</a>; <a href='/AIV/4/26/38'>Num. 26:38</a>",
-      "comment": "Benjamin’s listing connects to Saul, Israel’s first king. Alluding to royalty, Benjamin’s importance foreshadows the Messianic kingship—David’s successor, Christ, would unify Israel and the nations."
+      "comment": "Benjamin’s listing connects to Saul, Israel’s first king. Alluding to royalty, Benjamin’s importance foreshadows the Messianic kingship—David’s successor, Christ, would unify Israel and the nations.",
+      "sectionHeader": "Descendants of Benjamin"
     },
     {
       "pk": 13007007,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "The sons of Naphtali: Jahziel, Guni, Jezer, and Shallum, descended from Bilhah.",
       "links": "<a href='/AIV/1/46/24'>Gen. 46:24</a>",
-      "comment": "The mention of Bilhah as mother highlights the value of every branch and every ancestor—for God’s kingdom encompasses all who respond in faith."
+      "comment": "The mention of Bilhah as mother highlights the value of every branch and every ancestor—for God’s kingdom encompasses all who respond in faith.",
+      "sectionHeader": "Descendants of Naphtali"
     },
     {
       "pk": 13007014,
@@ -170,7 +173,8 @@
       "verse": 14,
       "text": "The sons of Manasseh: Asriel, his concubine bore Machir, the father of Gilead.",
       "links": "<a href='/AIV/4/26/29'>Num. 26:29</a>",
-      "comment": "Reference to concubines and inheritance reflects the complexity of God’s plan—even unconventional circumstances are used to bring about His promises, leading up to the perfect fulfillment in Christ."
+      "comment": "Reference to concubines and inheritance reflects the complexity of God’s plan—even unconventional circumstances are used to bring about His promises, leading up to the perfect fulfillment in Christ.",
+      "sectionHeader": "Descendants of Manasseh"
     },
     {
       "pk": 13007015,
@@ -242,7 +246,8 @@
       "verse": 20,
       "text": "The sons of Ephraim: Shuthelah, Bered his son, Tahath his son, Eleadah his son, Tahath his son,",
       "links": "<a href='/AIV/4/26/35'>Num. 26:35</a>",
-      "comment": "Repeating names in the genealogy emphasize continuity and tradition. Ephraim’s prominence points forward to messianic prophecy and restoration of Israel (cf. Hos. 11:8)."
+      "comment": "Repeating names in the genealogy emphasize continuity and tradition. Ephraim’s prominence points forward to messianic prophecy and restoration of Israel (cf. Hos. 11:8).",
+      "sectionHeader": "Descendants of Ephraim"
     },
     {
       "pk": 13007021,
@@ -362,7 +367,8 @@
       "verse": 30,
       "text": "The sons of Asher: Imnah, Ishvah, Ishvi, Beriah, and Serah their sister.",
       "links": "<a href='/AIV/1/46/17'>Gen. 46:17</a>",
-      "comment": "Asher’s family includes a sister, Serah, emphasizing that God’s covenant and blessing include women and men alike in various roles."
+      "comment": "Asher’s family includes a sister, Serah, emphasizing that God’s covenant and blessing include women and men alike in various roles.",
+      "sectionHeader": "Descendants of Asher"
     },
     {
       "pk": 13007031,
@@ -485,5 +491,37 @@
       "comment": "Final enumeration of Asher’s tribe points to their special role among Israel’s leaders. The recording of ‘service’ reflects the participation of all believers in the work God calls them to—anticipating the universal priesthood established by Christ. The restoration of order and leadership, especially chief roles, points toward the foundation of a united, apostolic Church, built on tradition, hierarchy, and fidelity—fitting Christ’s intention for His followers to continue His work in the world."
     }
   ],
-  "translatedAt": "2025-12-24T04:08:58.841Z"
+  "translatedAt": "2025-12-24T04:08:58.841Z",
+  "sections": [
+    {
+      "title": "Descendants of Issachar",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Descendants of Benjamin",
+      "startVerse": 6,
+      "endVerse": 12
+    },
+    {
+      "title": "Descendants of Naphtali",
+      "startVerse": 13,
+      "endVerse": 13
+    },
+    {
+      "title": "Descendants of Manasseh",
+      "startVerse": 14,
+      "endVerse": 19
+    },
+    {
+      "title": "Descendants of Ephraim",
+      "startVerse": 20,
+      "endVerse": 29
+    },
+    {
+      "title": "Descendants of Asher",
+      "startVerse": 30,
+      "endVerse": 40
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The angel of the LORD went up from Gilgal to Bochim and said, 'I brought you up out of Egypt and led you into the land that I swore to give to your fathers. I said, “I will never break my covenant with you.”'",
       "links": "<a href='/AIV/2/12/42'>Ex. 12:42</a>; <a href='/AIV/6/24/11'>Josh. 24:11</a>",
-      "comment": "The angel of the LORD is often seen as a divine figure foreshadowing Christ's mediation (Judg. 6:11-24). The mention of covenant faithfulness points to the enduring promises of God."
+      "comment": "The angel of the LORD is often seen as a divine figure foreshadowing Christ's mediation (Judg. 6:11-24). The mention of covenant faithfulness points to the enduring promises of God.",
+      "sectionHeader": "The Angel Rebukes Israel at Bochim"
     },
     {
       "pk": 7002002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "When Joshua had dismissed the people, the Israelites went each to his own inheritance to possess the land.",
       "links": "<a href='/AIV/6/24/28'>Josh. 24:28</a>",
-      "comment": "This summary bookends the era of Joshua, emphasizing the importance of God’s appointed leaders in settling and ordering the people."
+      "comment": "This summary bookends the era of Joshua, emphasizing the importance of God’s appointed leaders in settling and ordering the people.",
+      "sectionHeader": "Death of Joshua and Generation Change"
     },
     {
       "pk": 7002007,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "The Israelites did evil in the eyes of the LORD and served the Baals.",
       "links": "<a href='/AIV/2/20/2-5'>Ex. 20:2-5</a>",
-      "comment": "Idolatry here represents not only a physical but a spiritual departure from God—an ongoing struggle for all believers to remain steadfast."
+      "comment": "Idolatry here represents not only a physical but a spiritual departure from God—an ongoing struggle for all believers to remain steadfast.",
+      "sectionHeader": "Israel’s Unfaithfulness and the Cycle of Judges"
     },
     {
       "pk": 7002012,
@@ -281,5 +284,22 @@
       "comment": "The Lord’s actions remind the faithful of the need for perseverance, obedience, and continuing the faithful tradition through the community, always in reliance upon the Lord."
     }
   ],
-  "translatedAt": "2025-12-24T02:31:18.906Z"
+  "translatedAt": "2025-12-24T02:31:18.906Z",
+  "sections": [
+    {
+      "title": "The Angel Rebukes Israel at Bochim",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Death of Joshua and Generation Change",
+      "startVerse": 6,
+      "endVerse": 10
+    },
+    {
+      "title": "Israel’s Unfaithfulness and the Cycle of Judges",
+      "startVerse": 11,
+      "endVerse": 23
+    }
+  ]
 }

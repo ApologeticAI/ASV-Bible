@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then Tobit opened his mouth in prayer and said: 'Blessed is God who lives forever, and blessed is his kingdom.'",
       "links": "<a href='/AIV/27/2/20'>Dan. 2:20</a>; <a href='/AIV/19/145/13'>Ps. 145:13</a>",
-      "comment": "Tobit begins a hymn of praise; the emphasis on God’s eternal kingdom hints at the universal sovereignty anticipated in the kingdom proclaimed by Christ (Dan. 2:44; Matt. 6:10)."
+      "comment": "Tobit begins a hymn of praise; the emphasis on God’s eternal kingdom hints at the universal sovereignty anticipated in the kingdom proclaimed by Christ (Dan. 2:44; Matt. 6:10).",
+      "sectionHeader": "Tobit's Hymn of Praise and Call to Conversion"
     },
     {
       "pk": 17013002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "'O Jerusalem, holy city, he will afflict you for the deeds of your children, but again he will show mercy to the children of the righteous.'",
       "links": "<a href='/AIV/25/1/8'>Lam. 1:8</a>; <a href='/AIV/19/122/6'>Ps. 122:6</a>",
-      "comment": "Discipline and promised mercy for Jerusalem reflect both earthly and heavenly realities. Points to God’s future restoration and enduring faithfulness."
+      "comment": "Discipline and promised mercy for Jerusalem reflect both earthly and heavenly realities. Points to God’s future restoration and enduring faithfulness.",
+      "sectionHeader": "Prophecy of Jerusalem's Restoration and Glory"
     },
     {
       "pk": 17013011,
@@ -221,5 +223,17 @@
       "comment": "Repeats the blessing for those who love and mourn for the city; Christian unity and hope even in suffering, leading to everlasting joy (see Rom. 8:18-21)."
     }
   ],
-  "translatedAt": "2025-12-24T04:59:26.506Z"
+  "translatedAt": "2025-12-24T04:59:26.506Z",
+  "sections": [
+    {
+      "title": "Tobit's Hymn of Praise and Call to Conversion",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "Prophecy of Jerusalem's Restoration and Glory",
+      "startVerse": 10,
+      "endVerse": 18
+    }
+  ]
 }

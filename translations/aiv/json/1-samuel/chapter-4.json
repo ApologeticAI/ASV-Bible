@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "And the word of Samuel came to all Israel. Now Israel went out to meet the Philistines in battle and camped at Ebenezer, while the Philistines camped at Aphek.",
       "links": "<a href='/AIV/9/3/19'>1Sam 3:19</a>",
-      "comment": "The narrative shifts to the historical conflict between Israel and the Philistines. Samuel's growing influence as a prophet is highlighted just before the battle, suggesting the importance of God’s word in Israel's success or failure (<a href='/AIV/9/3/20'>1Sam 3:20</a>)."
+      "comment": "The narrative shifts to the historical conflict between Israel and the Philistines. Samuel's growing influence as a prophet is highlighted just before the battle, suggesting the importance of God’s word in Israel's success or failure (<a href='/AIV/9/3/20'>1Sam 3:20</a>).",
+      "sectionHeader": "The Ark Brought from Shiloh"
     },
     {
       "pk": 9004002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "So the Philistines fought, and Israel was defeated; every man fled to his tent. The slaughter was very great, for Israel lost thirty thousand foot soldiers.",
       "links": "<a href='/AIV/5/28/25'>Deut. 28:25</a>; <a href='/AIV/19/78/60-62'>Ps. 78:60-62</a>",
-      "comment": "A heavy defeat—God allows His people to lose when their leadership is corrupt. The ark’s presence did not aid them due to lack of repentance."
+      "comment": "A heavy defeat—God allows His people to lose when their leadership is corrupt. The ark’s presence did not aid them due to lack of repentance.",
+      "sectionHeader": "The Ark Captured by the Philistines"
     },
     {
       "pk": 9004011,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "A Benjaminite ran from the battle line to Shiloh that same day, with his clothes torn and dust on his head.",
       "links": "<a href='/AIV/10/1/2'>2Sam 1:2</a>; <a href='/AIV/6/7/6'>Josh. 7:6</a>",
-      "comment": "Torn clothes and dust are signs of mourning and disaster, expressing grief at Israel’s loss."
+      "comment": "Torn clothes and dust are signs of mourning and disaster, expressing grief at Israel’s loss.",
+      "sectionHeader": "The Death of Eli"
     },
     {
       "pk": 9004013,
@@ -230,7 +233,8 @@
       "verse": 19,
       "text": "Now his daughter-in-law, the wife of Phinehas, was pregnant, about to give birth. When she heard the news that the ark of God was taken, and that her father-in-law and her husband were dead, she knelt down and gave birth, for her pains came upon her.",
       "links": "<a href='/AIV/1/35/16-19'>Gen. 35:16-19</a>",
-      "comment": "The news causes immediate labor, paralleling grief with childbirth, a recurring symbol for new beginnings and sorrow (<a href='/AIV/6/23/6'>Josh. 23:6</a>—see also prophetic uses in <a href='/AIV/23/13/8'>Isa. 13:8</a>)."
+      "comment": "The news causes immediate labor, paralleling grief with childbirth, a recurring symbol for new beginnings and sorrow (<a href='/AIV/6/23/6'>Josh. 23:6</a>—see also prophetic uses in <a href='/AIV/23/13/8'>Isa. 13:8</a>).",
+      "sectionHeader": "The Birth of Ichabod"
     },
     {
       "pk": 9004020,
@@ -269,5 +273,27 @@
       "comment": "The repeated declaration underscores the spiritual crisis. Biblically, God’s glory is later revealed not through the ark, but through His living presence and ultimately in Christ, who bore the loss for the sake of redemption (<a href='/AIV/43/1/14'>John 1:14</a>)."
     }
   ],
-  "translatedAt": "2025-12-24T02:50:53.464Z"
+  "translatedAt": "2025-12-24T02:50:53.464Z",
+  "sections": [
+    {
+      "title": "The Ark Brought from Shiloh",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "The Ark Captured by the Philistines",
+      "startVerse": 10,
+      "endVerse": 11
+    },
+    {
+      "title": "The Death of Eli",
+      "startVerse": 12,
+      "endVerse": 18
+    },
+    {
+      "title": "The Birth of Ichabod",
+      "startVerse": 19,
+      "endVerse": 22
+    }
+  ]
 }

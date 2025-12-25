@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "We who are strong ought to bear with the weaknesses of those who are not strong, and not to please ourselves.",
       "links": "<a href='/AIV/48/6/2'>Gal. 6:2</a>; <a href='/AIV/53/5/14'>1 Thess. 5:14</a>",
-      "comment": "Paul encourages mutual support within the Church. This reflects the importance of self-sacrifice and serving others, a theme deeply rooted in Jesus’ teaching (cf. Matt. 20:28)."
+      "comment": "Paul encourages mutual support within the Church. This reflects the importance of self-sacrifice and serving others, a theme deeply rooted in Jesus’ teaching (cf. Matt. 20:28).",
+      "sectionHeader": "Mutual Forbearance and Unity in Christ"
     },
     {
       "pk": 52015002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "For I say that Christ became a servant to the circumcised, to show God’s truthfulness, in order to confirm the promises given to the patriarchs.",
       "links": "<a href='/AIV/40/15/24'>Matt. 15:24</a>; <a href='/AIV/01/12/1-3'>Gen. 12:1-3</a>",
-      "comment": "Paul highlights Jesus’ mission first to the Jews, showing the continuity between Old Testament covenant promises and their fulfillment in Christ."
+      "comment": "Paul highlights Jesus’ mission first to the Jews, showing the continuity between Old Testament covenant promises and their fulfillment in Christ.",
+      "sectionHeader": "Christ the Hope of Jews and Gentiles"
     },
     {
       "pk": 52015009,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "I myself am convinced about you, my brothers, that you are full of goodness, filled with all knowledge, and able to instruct one another.",
       "links": "<a href='/AIV/51/3/16'>Col. 3:16</a>",
-      "comment": "Paul acknowledges the spiritual maturity and wisdom among the believers, encouraging the practice of fraternal correction and teaching within the Church."
+      "comment": "Paul acknowledges the spiritual maturity and wisdom among the believers, encouraging the practice of fraternal correction and teaching within the Church.",
+      "sectionHeader": "Paul's Apostolic Ministry to the Gentiles"
     },
     {
       "pk": 52015015,
@@ -266,7 +269,8 @@
       "verse": 22,
       "text": "This is why I have often been hindered from coming to you.",
       "links": "<a href='/AIV/52/1/13'>Rom. 1:13</a>",
-      "comment": "Paul’s ministry obligations delayed his visit, suggesting the importance of apostolic priorities and obedience to divine calling."
+      "comment": "Paul’s ministry obligations delayed his visit, suggesting the importance of apostolic priorities and obedience to divine calling.",
+      "sectionHeader": "Paul's Travel Plans and Appeal for Prayer"
     },
     {
       "pk": 52015023,
@@ -401,5 +405,27 @@
       "comment": "Paul ends with a blessing invoking peace upon the Church, aligning with the biblical tradition of apostolic benediction."
     }
   ],
-  "translatedAt": "2025-12-24T11:43:01.628Z"
+  "translatedAt": "2025-12-24T11:43:01.628Z",
+  "sections": [
+    {
+      "title": "Mutual Forbearance and Unity in Christ",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Christ the Hope of Jews and Gentiles",
+      "startVerse": 8,
+      "endVerse": 13
+    },
+    {
+      "title": "Paul's Apostolic Ministry to the Gentiles",
+      "startVerse": 14,
+      "endVerse": 21
+    },
+    {
+      "title": "Paul's Travel Plans and Appeal for Prayer",
+      "startVerse": 22,
+      "endVerse": 33
+    }
+  ]
 }

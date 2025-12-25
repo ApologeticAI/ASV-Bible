@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Come, let us sing with joy to the LORD; let us shout aloud to the Rock of our salvation.",
       "links": "<a href='/AIV/19/81/1'>Ps. 81:1</a>; <a href='/AIV/19/89/26'>Ps. 89:26</a>; <a href='/AIV/23/12/2'>Isa. 12:2</a>",
-      "comment": "The phrase 'Rock of our salvation' points to God as a steadfast foundation and deliverer. In Christian interpretation, the 'Rock' has also been linked typologically to Christ, who is repeatedly called the 'cornerstone' (see <a href='/AIV/40/21/42'>Matt. 21:42</a>). The invitation to communal worship highlights the early biblical emphasis on worshipping together, foreshadowing the unified assembly of believers."
+      "comment": "The phrase 'Rock of our salvation' points to God as a steadfast foundation and deliverer. In Christian interpretation, the 'Rock' has also been linked typologically to Christ, who is repeatedly called the 'cornerstone' (see <a href='/AIV/40/21/42'>Matt. 21:42</a>). The invitation to communal worship highlights the early biblical emphasis on worshipping together, foreshadowing the unified assembly of believers.",
+      "sectionHeader": "Call to Worship and Praise"
     },
     {
       "pk": 23095002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "For he is our God, and we are the people of his pasture, the sheep under his care. Today, if you hear his voice,",
       "links": "<a href='/AIV/19/79/13'>Ps. 79:13</a>; <a href='/AIV/43/10/27-28'>John 10:27-28</a>; <a href='/AIV/58/3/7'>Heb. 3:7</a>",
-      "comment": "God as Shepherd is a theme fulfilled in Christ, the Good Shepherd (<a href='/AIV/43/10/11'>John 10:11</a>). The invitation 'Today' implies the ongoing call to respond to God, which later apostles interpret as a call to enter God's rest through faithful obedience."
+      "comment": "God as Shepherd is a theme fulfilled in Christ, the Good Shepherd (<a href='/AIV/43/10/11'>John 10:11</a>). The invitation 'Today' implies the ongoing call to respond to God, which later apostles interpret as a call to enter God's rest through faithful obedience.",
+      "sectionHeader": "A Warning Against Hardness of Heart"
     },
     {
       "pk": 23095008,
@@ -137,5 +139,17 @@
       "comment": "'My rest' is ultimately fulfilled in Christ, offering eternal rest to those who believe and obey. Early Christian writers interpreted this as referring both to temporal judgment and to the final rest that believers find in union with God—a promise realized through the means Christ left his assembled people."
     }
   ],
-  "translatedAt": "2025-12-24T06:32:55.039Z"
+  "translatedAt": "2025-12-24T06:32:55.039Z",
+  "sections": [
+    {
+      "title": "Call to Worship and Praise",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "A Warning Against Hardness of Heart",
+      "startVerse": 7,
+      "endVerse": 11
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The hand of the LORD was upon me, and He carried me out by the Spirit of the LORD and set me down in the middle of a valley; it was full of bones.",
       "links": "<a href='/AIV/26/1/3'>Ezek. 1:3</a>; <a href='/AIV/26/8/3'>Ezek. 8:3</a>",
-      "comment": "Ezekiel suddenly experiences a vision under the direct influence of God's Spirit. This verse sets up a supernatural context, marking divine initiative. Compare with similar prophetic experiences in Ezekiel 3 and Ezekiel 8."
+      "comment": "Ezekiel suddenly experiences a vision under the direct influence of God's Spirit. This verse sets up a supernatural context, marking divine initiative. Compare with similar prophetic experiences in Ezekiel 3 and Ezekiel 8.",
+      "sectionHeader": "The Vision of the Valley of Dry Bones"
     },
     {
       "pk": 33037002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "And the word of the LORD came to me, saying:",
       "links": "<a href='/AIV/26/3/16'>Ezek. 3:16</a>",
-      "comment": "A new oracle begins, emphasizing that all instruction comes directly from God, a consistent expression of prophetic authority."
+      "comment": "A new oracle begins, emphasizing that all instruction comes directly from God, a consistent expression of prophetic authority.",
+      "sectionHeader": "The Two Sticks United"
     },
     {
       "pk": 33037016,
@@ -341,5 +343,17 @@
       "comment": "God’s visible sanctuary is a sign for all nations. Its permanence points to an everlasting, holy order and a singular, visible worship—foreshadowing universal fulfillment in Christ’s people."
     }
   ],
-  "translatedAt": "2025-12-24T09:19:06.504Z"
+  "translatedAt": "2025-12-24T09:19:06.504Z",
+  "sections": [
+    {
+      "title": "The Vision of the Valley of Dry Bones",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "The Two Sticks United",
+      "startVerse": 15,
+      "endVerse": 28
+    }
+  ]
 }

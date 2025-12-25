@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Every friend will say, 'I am your friend,' but there are friends who are only friends in name.",
       "links": "<a href='/AIV/20/14/20'>Prov. 14:20</a>",
-      "comment": "This verse observes the difference between true and false friendship. Wisdom literature often warns against trusting in relationships too quickly."
+      "comment": "This verse observes the difference between true and false friendship. Wisdom literature often warns against trusting in relationships too quickly.",
+      "sectionHeader": "On True and False Friendship"
     },
     {
       "pk": 28037002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "All counselors praise their own advice, but some counsel is meant for their own advantage.",
       "links": "<a href='/AIV/20/20/18'>Prov. 20:18</a>",
-      "comment": "Discernment is necessary when seeking advice. Not every voice is guided by truth or charity."
+      "comment": "Discernment is necessary when seeking advice. Not every voice is guided by truth or charity.",
+      "sectionHeader": "The Discernment of Counsel"
     },
     {
       "pk": 28037008,
@@ -266,7 +268,8 @@
       "verse": 22,
       "text": "Do not be subject to every desire, nor follow after your passions.",
       "links": "<a href='/AIV/48/5/16'>Gal. 5:16</a>",
-      "comment": "Self-mastery is a fruit of the Spirit. The life of grace involves ordering desires towards the good."
+      "comment": "Self-mastery is a fruit of the Spirit. The life of grace involves ordering desires towards the good.",
+      "sectionHeader": "Self-Discipline and Moderation"
     },
     {
       "pk": 28037023,
@@ -377,5 +380,22 @@
       "comment": "The discipline of moderation is a recurring biblical theme: it points to the virtue, endurance, and even union with God toward which the Christian life is aimed."
     }
   ],
-  "translatedAt": "2025-12-24T07:43:14.893Z"
+  "translatedAt": "2025-12-24T07:43:14.893Z",
+  "sections": [
+    {
+      "title": "On True and False Friendship",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "The Discernment of Counsel",
+      "startVerse": 7,
+      "endVerse": 21
+    },
+    {
+      "title": "Self-Discipline and Moderation",
+      "startVerse": 22,
+      "endVerse": 31
+    }
+  ]
 }

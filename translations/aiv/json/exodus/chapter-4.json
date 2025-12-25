@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then Moses answered, 'But look, they will not believe me or listen to my voice, for they will say, ‘The LORD did not appear to you.’'",
       "links": "<a href='/AIV/2/3/18'>Exod. 3:18</a>; <a href='/AIV/7/9/'>Exod. 7:9</a>",
-      "comment": "Moses expresses hesitation, foreseeing the Israelites’ doubt. This highlights the human tendency to question divine revelation until it is confirmed by signs."
+      "comment": "Moses expresses hesitation, foreseeing the Israelites’ doubt. This highlights the human tendency to question divine revelation until it is confirmed by signs.",
+      "sectionHeader": "Moses Given Signs to Confirm His Mission"
     },
     {
       "pk": 2004002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "But Moses said to the LORD, 'Please, my Lord, I am not eloquent—not in the past, nor since you have spoken to your servant; for I am slow of speech and tongue.'",
       "links": "<a href='/AIV/6/1/9'>Josh. 1:9</a>; <a href='/AIV/2/6/12'>Exod. 6:12</a>",
-      "comment": "Moses’ humility reveals his reliance on God’s power, not his own ability. God frequently chooses the humble for significant roles."
+      "comment": "Moses’ humility reveals his reliance on God’s power, not his own ability. God frequently chooses the humble for significant roles.",
+      "sectionHeader": "Moses Objects; Aaron Appointed as Spokesman"
     },
     {
       "pk": 2004011,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "Then Moses went back to Jethro his father-in-law and said to him, 'Please let me go back to my brothers in Egypt to see whether they are still alive.' And Jethro said to Moses, 'Go in peace.'",
       "links": "<a href='/AIV/2/2/18'>Exod. 2:18</a>; <a href='/AIV/2/18/7'>Exod. 18:7</a>",
-      "comment": "Moses shows respect for family authority. The peaceful blessing foreshadows the harmony between personal calling and spiritual office."
+      "comment": "Moses shows respect for family authority. The peaceful blessing foreshadows the harmony between personal calling and spiritual office.",
+      "sectionHeader": "Moses Returns to Egypt"
     },
     {
       "pk": 2004019,
@@ -290,7 +293,8 @@
       "verse": 24,
       "text": "At a lodging place on the way, the LORD met him and sought to put him to death.",
       "links": "<a href='/AIV/2/1/17'>Exod. 1:17</a>; <a href='/AIV/19/89/31-32'>Ps. 89:31-32</a>",
-      "comment": "This mysterious incident underscores the seriousness of covenant obligations. Obedience, even for chosen leaders, is necessary for God’s favor."
+      "comment": "This mysterious incident underscores the seriousness of covenant obligations. Obedience, even for chosen leaders, is necessary for God’s favor.",
+      "sectionHeader": "Moses Threatened; Zipporah Circumcises Her Son"
     },
     {
       "pk": 2004025,
@@ -326,7 +330,8 @@
       "verse": 27,
       "text": "The LORD said to Aaron, 'Go into the wilderness to meet Moses.' So he went and met him at the mountain of God and kissed him.",
       "links": "<a href='/AIV/2/3/1'>Exod. 3:1</a>; <a href='/AIV/19/85/10'>Ps. 85:10</a>",
-      "comment": "The meeting of Moses and Aaron on the holy mountain signifies unity in God’s mission, anticipating apostolic collegiality."
+      "comment": "The meeting of Moses and Aaron on the holy mountain signifies unity in God’s mission, anticipating apostolic collegiality.",
+      "sectionHeader": "Moses and Aaron Gather the Elders of Israel"
     },
     {
       "pk": 2004028,
@@ -377,5 +382,32 @@
       "comment": "Faith is awakened through the combination of word and sign. God’s saving visitation to His people anticipates later acts of redemption and the response of faith and worship."
     }
   ],
-  "translatedAt": "2025-12-24T00:48:53.475Z"
+  "translatedAt": "2025-12-24T00:48:53.475Z",
+  "sections": [
+    {
+      "title": "Moses Given Signs to Confirm His Mission",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "Moses Objects; Aaron Appointed as Spokesman",
+      "startVerse": 10,
+      "endVerse": 17
+    },
+    {
+      "title": "Moses Returns to Egypt",
+      "startVerse": 18,
+      "endVerse": 23
+    },
+    {
+      "title": "Moses Threatened; Zipporah Circumcises Her Son",
+      "startVerse": 24,
+      "endVerse": 26
+    },
+    {
+      "title": "Moses and Aaron Gather the Elders of Israel",
+      "startVerse": 27,
+      "endVerse": 31
+    }
+  ]
 }

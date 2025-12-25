@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When they came near to Jerusalem, to Bethphage and Bethany at the Mount of Olives, Jesus sent two of his disciples,",
       "links": "<a href='/AIV/40/21/1'>Matt. 21:1</a>; <a href='/AIV/42/19/29'>Luke 19:29</a>; <a href='/AIV/43/12/12'>John 12:12</a>",
-      "comment": "This verse marks the beginning of Jesus' final entry into Jerusalem, fulfilling prophetic anticipation about the Messiah's approach to Jerusalem. See Zech. 9:9."
+      "comment": "This verse marks the beginning of Jesus' final entry into Jerusalem, fulfilling prophetic anticipation about the Messiah's approach to Jerusalem. See Zech. 9:9.",
+      "sectionHeader": "The Triumphal Entry into Jerusalem"
     },
     {
       "pk": 48011002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "The next day, as they were leaving Bethany, He was hungry.",
       "links": "<a href='/AIV/40/21/18'>Matt. 21:18</a>",
-      "comment": "Jesus’ hunger reveals His true humanity, a core Christian doctrine about the Incarnation."
+      "comment": "Jesus’ hunger reveals His true humanity, a core Christian doctrine about the Incarnation.",
+      "sectionHeader": "The Cursing of the Fig Tree"
     },
     {
       "pk": 48011013,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "When they came to Jerusalem, Jesus entered the temple, and began to drive out those who were selling and those buying in the temple. He overturned the tables of the money changers and the seats of those who sold doves.",
       "links": "<a href='/AIV/40/21/12'>Matt. 21:12</a>; <a href='/AIV/43/2/14-16'>John 2:14-16</a>",
-      "comment": "Jesus purifies the temple, fulfilling Mal. 3:1-3. The cleansing of the temple points to Christ's authority over worship, highlighting the holiness demanded in God's house."
+      "comment": "Jesus purifies the temple, fulfilling Mal. 3:1-3. The cleansing of the temple points to Christ's authority over worship, highlighting the holiness demanded in God's house.",
+      "sectionHeader": "The Cleansing of the Temple"
     },
     {
       "pk": 48011016,
@@ -242,7 +245,8 @@
       "verse": 20,
       "text": "In the morning, as they passed by, they saw the fig tree withered from the roots.",
       "links": "<a href='/AIV/40/21/19'>Matt. 21:19</a>",
-      "comment": "The sudden withering of the fig tree is a visible sign of the consequences of spiritual barrenness. The roots being withered indicates judgment at the very source."
+      "comment": "The sudden withering of the fig tree is a visible sign of the consequences of spiritual barrenness. The roots being withered indicates judgment at the very source.",
+      "sectionHeader": "The Lesson from the Withered Fig Tree"
     },
     {
       "pk": 48011021,
@@ -326,7 +330,8 @@
       "verse": 27,
       "text": "They came again to Jerusalem. As He was walking in the temple, the chief priests, the scribes, and the elders came to Him",
       "links": "<a href='/AIV/40/21/23'>Matt. 21:23</a>; <a href='/AIV/42/20/1'>Luke 20:1'</a>",
-      "comment": "Another confrontation with the temple authorities, who represent the continuity of Israel’s religious leadership and Jesus’ fulfillment of its permanence."
+      "comment": "Another confrontation with the temple authorities, who represent the continuity of Israel’s religious leadership and Jesus’ fulfillment of its permanence.",
+      "sectionHeader": "The Authority of Jesus Questioned"
     },
     {
       "pk": 48011028,
@@ -399,5 +404,32 @@
       "comment": "The exchange reveals the hardness of heart among the religious authorities. Jesus withholds an explicit answer; His deeds and fulfillment of Scripture are themselves His testimony (see Isa. 35:5-6). This passage highlights the importance of spiritual authority handed down and recognized through divine revelation."
     }
   ],
-  "translatedAt": "2025-12-24T10:30:08.264Z"
+  "translatedAt": "2025-12-24T10:30:08.264Z",
+  "sections": [
+    {
+      "title": "The Triumphal Entry into Jerusalem",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "The Cursing of the Fig Tree",
+      "startVerse": 12,
+      "endVerse": 14
+    },
+    {
+      "title": "The Cleansing of the Temple",
+      "startVerse": 15,
+      "endVerse": 19
+    },
+    {
+      "title": "The Lesson from the Withered Fig Tree",
+      "startVerse": 20,
+      "endVerse": 26
+    },
+    {
+      "title": "The Authority of Jesus Questioned",
+      "startVerse": 27,
+      "endVerse": 33
+    }
+  ]
 }

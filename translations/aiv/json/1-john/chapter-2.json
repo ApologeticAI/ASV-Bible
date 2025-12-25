@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "My little children, I am writing these things to you so that you may not sin. And if anyone does sin, we have an advocate with the Father—Jesus Christ, the Righteous One.",
       "links": "<a href='/AIV/45/8/34'>Rom. 8:34</a>; <a href='/AIV/58/7/25'>Heb. 7:25</a>; <a href='/AIV/43/14/16'>John 14:16</a>",
-      "comment": "John encourages believers not to sin, but also reassures them of Christ's intercessory role. The word 'advocate' (Greek: parakletos) parallels Christ’s ongoing mediation, connecting to Jesus' title as Intercessor."
+      "comment": "John encourages believers not to sin, but also reassures them of Christ's intercessory role. The word 'advocate' (Greek: parakletos) parallels Christ’s ongoing mediation, connecting to Jesus' title as Intercessor.",
+      "sectionHeader": "Christ Our Advocate and the Call to Obedience"
     },
     {
       "pk": 69002002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "Beloved, I am not writing you a new commandment, but an old commandment—a commandment you have had from the beginning. The old commandment is the word which you have heard.",
       "links": "<a href='/AIV/43/13/34'>John 13:34</a>; <a href='/AIV/3/19/18'>Lev. 19:18</a>",
-      "comment": "The command to love one another is old (from the Law), but renewed in Christ’s teaching. John’s use of 'from the beginning' links back to the original teaching received by the Church."
+      "comment": "The command to love one another is old (from the Law), but renewed in Christ’s teaching. John’s use of 'from the beginning' links back to the original teaching received by the Church.",
+      "sectionHeader": "The New Commandment: Love One Another"
     },
     {
       "pk": 69002008,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "I am writing to you, little children, because your sins have been forgiven for his name’s sake.",
       "links": "<a href='/AIV/43/20/31'>John 20:31</a>; <a href='/AIV/44/10/43'>Acts 10:43</a>",
-      "comment": "John affirms the forgiveness of sins through Christ's name. This assurance of pardon is foundational for the Christian life and received through faith."
+      "comment": "John affirms the forgiveness of sins through Christ's name. This assurance of pardon is foundational for the Christian life and received through faith.",
+      "sectionHeader": "Stages of Spiritual Growth"
     },
     {
       "pk": 69002013,
@@ -182,7 +185,8 @@
       "verse": 15,
       "text": "Do not love the world or the things in the world. If anyone loves the world, the love of the Father is not in him.",
       "links": "<a href='/AIV/40/6/24'>Matt. 6:24</a>; <a href='/AIV/59/4/4'>Jas. 4:4</a>",
-      "comment": "Worldly desires and attachments crowd out the love of God. The spiritual life requires detachment from sinful pleasure and materialism."
+      "comment": "Worldly desires and attachments crowd out the love of God. The spiritual life requires detachment from sinful pleasure and materialism.",
+      "sectionHeader": "Do Not Love the World"
     },
     {
       "pk": 69002016,
@@ -218,7 +222,8 @@
       "verse": 18,
       "text": "Children, it is the last hour. Just as you heard that the antichrist is coming, even now many antichrists have appeared. From this we know that it is the last hour.",
       "links": "<a href='/AIV/53/2/3-7'>2 Thess. 2:3-7</a>; <a href='/AIV/62/4/3'>1 John 4:3</a>",
-      "comment": "John refers to both an individual and a spirit of opposition to Christ—'antichrists.' The presence of false teachers is a sign of the times between Christ's first and second comings."
+      "comment": "John refers to both an individual and a spirit of opposition to Christ—'antichrists.' The presence of false teachers is a sign of the times between Christ's first and second comings.",
+      "sectionHeader": "Warning Against Antichrists and Deception"
     },
     {
       "pk": 69002019,
@@ -353,5 +358,32 @@
       "comment": "Living righteously is the fruit of a true spiritual rebirth. Righteous deeds demonstrate an authentic relationship with Christ, the source of righteousness."
     }
   ],
-  "translatedAt": "2025-12-24T12:30:35.173Z"
+  "translatedAt": "2025-12-24T12:30:35.173Z",
+  "sections": [
+    {
+      "title": "Christ Our Advocate and the Call to Obedience",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "The New Commandment: Love One Another",
+      "startVerse": 7,
+      "endVerse": 11
+    },
+    {
+      "title": "Stages of Spiritual Growth",
+      "startVerse": 12,
+      "endVerse": 14
+    },
+    {
+      "title": "Do Not Love the World",
+      "startVerse": 15,
+      "endVerse": 17
+    },
+    {
+      "title": "Warning Against Antichrists and Deception",
+      "startVerse": 18,
+      "endVerse": 29
+    }
+  ]
 }

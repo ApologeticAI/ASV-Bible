@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Hannah prayed and said: 'My heart rejoices in the LORD; my horn is lifted high in the LORD. My mouth speaks boldly against my enemies, for I rejoice in Your salvation.'",
       "links": "<a href='/AIV/19/9/14'>Ps. 9:14</a>; <a href='/AIV/42/1/46'>Luke 1:46-47</a>",
-      "comment": "Hannah's song is a poetic prayer celebrating God's victory and salvation, similar to Mary's Magnificat (<a href='/AIV/42/1/46'>Luke 1:46-55</a>). 'Horn' represents strength and dignity (cf. Ps. 132:17)."
+      "comment": "Hannah's song is a poetic prayer celebrating God's victory and salvation, similar to Mary's Magnificat (<a href='/AIV/42/1/46'>Luke 1:46-55</a>). 'Horn' represents strength and dignity (cf. Ps. 132:17).",
+      "sectionHeader": "Hannah's Song of Praise"
     },
     {
       "pk": 9002002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "Now the sons of Eli were worthless men; they did not know the LORD.",
       "links": "<a href='/AIV/07/2/10'>Judg. 2:10</a>",
-      "comment": "The Hebrew literally reads 'sons of Belial,' which means 'worthless.' Their ignorance of God despite their position shows the importance of true spiritual knowledge."
+      "comment": "The Hebrew literally reads 'sons of Belial,' which means 'worthless.' Their ignorance of God despite their position shows the importance of true spiritual knowledge.",
+      "sectionHeader": "The Wickedness of Eli's Sons"
     },
     {
       "pk": 9002013,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "But Samuel was serving before the LORD—a boy clothed with a linen ephod.",
       "links": "<a href='/AIV/02/28/4'>Ex. 28:4</a>; <a href='/AIV/09/2/11'>1 Sam. 2:11</a>",
-      "comment": "The linen ephod marks Samuel as set apart for special service, foreshadowing the office of a true, faithful priesthood."
+      "comment": "The linen ephod marks Samuel as set apart for special service, foreshadowing the office of a true, faithful priesthood.",
+      "sectionHeader": "Samuel's Ministry and Hannah's Blessing"
     },
     {
       "pk": 9002019,
@@ -266,7 +269,8 @@
       "verse": 22,
       "text": "Now Eli was very old, and he kept hearing all that his sons were doing to all Israel, and how they lay with the women who served at the entrance to the tent of meeting.",
       "links": "<a href='/AIV/02/38/8'>Ex. 38:8</a>; <a href='/AIV/09/1/3'>1 Sam. 1:3</a>",
-      "comment": "This immorality at the sanctuary marks a dramatic corruption of priestly office. The women were possibly religious servants—reminding us of the importance of holiness in ministry."
+      "comment": "This immorality at the sanctuary marks a dramatic corruption of priestly office. The women were possibly religious servants—reminding us of the importance of holiness in ministry.",
+      "sectionHeader": "Eli Rebukes His Sons"
     },
     {
       "pk": 9002023,
@@ -326,7 +330,8 @@
       "verse": 27,
       "text": "And a man of God came to Eli and said to him, 'Thus says the LORD: \"Did I not plainly reveal Myself to your father’s house when they were in Egypt under Pharaoh’s house?",
       "links": "<a href='/AIV/02/28/1'>Ex. 28:1</a>; <a href='/AIV/24/7/25'>Jer. 7:25</a>",
-      "comment": "The unnamed prophet invokes God’s historical call of Aaron, establishing a divine line of priestly authority and warning against betraying that trust."
+      "comment": "The unnamed prophet invokes God’s historical call of Aaron, establishing a divine line of priestly authority and warning against betraying that trust.",
+      "sectionHeader": "Prophecy Against Eli's House"
     },
     {
       "pk": 9002028,
@@ -437,5 +442,32 @@
       "comment": "Those who abused their calling are reduced to begging from the faithful priest. A powerful warning and a pattern urging faithfulness and humility for leadership in God’s household."
     }
   ],
-  "translatedAt": "2025-12-24T02:46:57.443Z"
+  "translatedAt": "2025-12-24T02:46:57.443Z",
+  "sections": [
+    {
+      "title": "Hannah's Song of Praise",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "The Wickedness of Eli's Sons",
+      "startVerse": 12,
+      "endVerse": 17
+    },
+    {
+      "title": "Samuel's Ministry and Hannah's Blessing",
+      "startVerse": 18,
+      "endVerse": 21
+    },
+    {
+      "title": "Eli Rebukes His Sons",
+      "startVerse": 22,
+      "endVerse": 26
+    },
+    {
+      "title": "Prophecy Against Eli's House",
+      "startVerse": 27,
+      "endVerse": 36
+    }
+  ]
 }

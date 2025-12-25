@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "After Jesus finished all these sayings, he said to his disciples,",
       "links": "<a href='/AIV/40/24/1-51'>Matt. 24–25</a>",
-      "comment": "This marks the conclusion of Jesus’ major teaching section in Matthew, transitioning into the Passion narrative."
+      "comment": "This marks the conclusion of Jesus’ major teaching section in Matthew, transitioning into the Passion narrative.",
+      "sectionHeader": "The Plot to Kill Jesus"
     },
     {
       "pk": 47026002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "Now Jesus was in Bethany, at the house of Simon the leper.",
       "links": "<a href='/AIV/43/12/1-3'>John 12:1-3</a>; <a href='/AIV/41/14/3-9'>Mark 14:3-9</a>",
-      "comment": "Bethany was the home of friends Mary, Martha, and Lazarus. Simon the leper may have been healed by Jesus, a detail showing his outreach to the marginalized."
+      "comment": "Bethany was the home of friends Mary, Martha, and Lazarus. Simon the leper may have been healed by Jesus, a detail showing his outreach to the marginalized.",
+      "sectionHeader": "The Anointing at Bethany"
     },
     {
       "pk": 47026007,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "Then one of the twelve, called Judas Iscariot, went to the chief priests",
       "links": "<a href='/AIV/40/10/4'>Matt. 10:4</a>",
-      "comment": "Judas’ betrayal is the fulfillment of prophecy (Ps. 41:9), highlighting the mystery of free will and God’s providence."
+      "comment": "Judas’ betrayal is the fulfillment of prophecy (Ps. 41:9), highlighting the mystery of free will and God’s providence.",
+      "sectionHeader": "Judas Agrees to Betray Jesus"
     },
     {
       "pk": 47026015,
@@ -206,7 +209,8 @@
       "verse": 17,
       "text": "On the first day of Unleavened Bread, the disciples came to Jesus, saying, \"Where do you want us to prepare for you to eat the Passover?\"",
       "links": "<a href='/AIV/02/12/15-20'>Exod. 12:15-20</a>; <a href='/AIV/41/14/12'>Mark 14:12</a>",
-      "comment": "The Passover context is central, prefiguring Jesus as the true Paschal Lamb (1 Cor. 5:7), and demonstrating the continuity between Old and New Covenants."
+      "comment": "The Passover context is central, prefiguring Jesus as the true Paschal Lamb (1 Cor. 5:7), and demonstrating the continuity between Old and New Covenants.",
+      "sectionHeader": "The Last Supper"
     },
     {
       "pk": 47026018,
@@ -374,7 +378,8 @@
       "verse": 31,
       "text": "Then Jesus said to them, \"You will all fall away because of me this night. For it is written, 'I will strike the shepherd, and the sheep of the flock will be scattered.'\"",
       "links": "<a href='/AIV/38/13/7'>Zech. 13:7</a>; <a href='/AIV/41/14/27'>Mark 14:27</a>",
-      "comment": "Jesus refers to Zechariah, showing his death is part of God’s plan. The scattering indicates disciples’ weakness, but also foreshadows their later restoration."
+      "comment": "Jesus refers to Zechariah, showing his death is part of God’s plan. The scattering indicates disciples’ weakness, but also foreshadows their later restoration.",
+      "sectionHeader": "Jesus Predicts Peter’s Denial"
     },
     {
       "pk": 47026032,
@@ -434,7 +439,8 @@
       "verse": 36,
       "text": "Then Jesus went with them to a place called Gethsemane, and he said to his disciples, \"Sit here, while I go over there and pray.\"",
       "links": "<a href='/AIV/41/14/32'>Mark 14:32</a>",
-      "comment": "Gethsemane (meaning ‘oil press’) symbolizes Jesus being pressed by suffering. His prayer exemplifies recourse to the Father in trial."
+      "comment": "Gethsemane (meaning ‘oil press’) symbolizes Jesus being pressed by suffering. His prayer exemplifies recourse to the Father in trial.",
+      "sectionHeader": "The Agony in Gethsemane"
     },
     {
       "pk": 47026037,
@@ -566,7 +572,8 @@
       "verse": 47,
       "text": "While he was still speaking, Judas, one of the twelve, arrived, and with him a large crowd with swords and clubs, sent by the chief priests and elders of the people.",
       "links": "<a href='/AIV/41/14/43'>Mark 14:43</a>",
-      "comment": "A disciple leads those who oppose Jesus, fulfilling Psalm 41:9 regarding betrayal by a close friend."
+      "comment": "A disciple leads those who oppose Jesus, fulfilling Psalm 41:9 regarding betrayal by a close friend.",
+      "sectionHeader": "The Arrest of Jesus"
     },
     {
       "pk": 47026048,
@@ -686,7 +693,8 @@
       "verse": 57,
       "text": "Those who had seized Jesus led him away to Caiaphas the high priest, where the scribes and elders had gathered.",
       "links": "<a href='/AIV/41/14/53'>Mark 14:53</a>",
-      "comment": "Jesus stands before the religious authorities, fulfilling his role as both high priest and sacrificial victim."
+      "comment": "Jesus stands before the religious authorities, fulfilling his role as both high priest and sacrificial victim.",
+      "sectionHeader": "Jesus Before the Sanhedrin"
     },
     {
       "pk": 47026058,
@@ -830,7 +838,8 @@
       "verse": 69,
       "text": "Now Peter was sitting outside in the courtyard. A servant girl came up to him and said, \"You also were with Jesus the Galilean.\"",
       "links": "<a href='/AIV/41/14/66'>Mark 14:66</a>",
-      "comment": "Peter’s denial is key to understanding the need for restoration and forgiveness among Christ’s followers."
+      "comment": "Peter’s denial is key to understanding the need for restoration and forgiveness among Christ’s followers.",
+      "sectionHeader": "Peter Denies Jesus"
     },
     {
       "pk": 47026070,
@@ -905,5 +914,52 @@
       "comment": "Peter’s tears mark the beginning of his repentance. The restoration of Peter after failure becomes a foundation for understanding forgiveness and apostolic leadership (see John 21:15-17)."
     }
   ],
-  "translatedAt": "2025-12-24T10:20:15.177Z"
+  "translatedAt": "2025-12-24T10:20:15.177Z",
+  "sections": [
+    {
+      "title": "The Plot to Kill Jesus",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "The Anointing at Bethany",
+      "startVerse": 6,
+      "endVerse": 13
+    },
+    {
+      "title": "Judas Agrees to Betray Jesus",
+      "startVerse": 14,
+      "endVerse": 16
+    },
+    {
+      "title": "The Last Supper",
+      "startVerse": 17,
+      "endVerse": 30
+    },
+    {
+      "title": "Jesus Predicts Peter’s Denial",
+      "startVerse": 31,
+      "endVerse": 35
+    },
+    {
+      "title": "The Agony in Gethsemane",
+      "startVerse": 36,
+      "endVerse": 46
+    },
+    {
+      "title": "The Arrest of Jesus",
+      "startVerse": 47,
+      "endVerse": 56
+    },
+    {
+      "title": "Jesus Before the Sanhedrin",
+      "startVerse": 57,
+      "endVerse": 68
+    },
+    {
+      "title": "Peter Denies Jesus",
+      "startVerse": 69,
+      "endVerse": 75
+    }
+  ]
 }

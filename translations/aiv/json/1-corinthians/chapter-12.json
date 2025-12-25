@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now concerning spiritual gifts, brothers, I do not want you to be ignorant.",
       "links": "<a href='/AIV/45/1/11'>Rom. 1:11</a>; <a href='/AIV/54/4/14'>1 Tim. 4:14</a>",
-      "comment": "Paul is addressing the topic of spiritual gifts, making it clear he desires the church to be well-informed. The term 'spiritual gifts' ('pneumatikōn' in Greek) refers to things of the Spirit given for the benefit of the assembly. Knowledge, not ignorance, is crucial to unity and effective ministry."
+      "comment": "Paul is addressing the topic of spiritual gifts, making it clear he desires the church to be well-informed. The term 'spiritual gifts' ('pneumatikōn' in Greek) refers to things of the Spirit given for the benefit of the assembly. Knowledge, not ignorance, is crucial to unity and effective ministry.",
+      "sectionHeader": "Spiritual Gifts and Their Source"
     },
     {
       "pk": 53012002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "For just as the body is one and has many members, and all the members of the body, though they are many, are one body, so also is Christ.",
       "links": "<a href='/AIV/45/12/4-5'>Rom. 12:4-5</a>; <a href='/AIV/51/1/18'>Col. 1:18</a>",
-      "comment": "Paul uses the human body as a metaphor for Christ’s community. Individual believers are united into one mystical body through Christ, each retaining distinct roles."
+      "comment": "Paul uses the human body as a metaphor for Christ’s community. Individual believers are united into one mystical body through Christ, each retaining distinct roles.",
+      "sectionHeader": "Many Gifts, One Body"
     },
     {
       "pk": 53012013,
@@ -326,7 +328,8 @@
       "verse": 27,
       "text": "Now you are the body of Christ, and individually members of it.",
       "links": "<a href='/AIV/49/5/30'>Eph. 5:30</a>",
-      "comment": "Paul makes it explicit: the believers together—across time and place—form Christ's body. This mystical reality is especially emphasized in the community’s sacramental worship and life."
+      "comment": "Paul makes it explicit: the believers together—across time and place—form Christ's body. This mystical reality is especially emphasized in the community’s sacramental worship and life.",
+      "sectionHeader": "Diversity of Ministries in the Church"
     },
     {
       "pk": 53012028,
@@ -377,5 +380,22 @@
       "comment": "Paul encourages the pursuit of the higher gifts, but signals that love is yet more excellent—a prelude to the famous teaching on charity in the next chapter. Within the Christian community, sacrificial love is the foundation and fulfillment of all spiritual gifts."
     }
   ],
-  "translatedAt": "2025-12-24T11:50:01.597Z"
+  "translatedAt": "2025-12-24T11:50:01.597Z",
+  "sections": [
+    {
+      "title": "Spiritual Gifts and Their Source",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "Many Gifts, One Body",
+      "startVerse": 12,
+      "endVerse": 26
+    },
+    {
+      "title": "Diversity of Ministries in the Church",
+      "startVerse": 27,
+      "endVerse": 31
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "So Joseph went and told Pharaoh, 'My father and my brothers, with their flocks and their herds and all they possess, have come from the land of Canaan and are now in the land of Goshen.'",
       "links": "<a href='/AIV/44/7/13-15'>Acts 7:13-15</a>; <a href='/AIV/01/46/28-29'>Gen. 46:28-29</a>",
-      "comment": "Joseph acts as an intercessor between his family and Pharaoh, foreshadowing the mediatorial role seen in later biblical figures. Joseph's faithfulness is reminiscent of the obedient Son."
+      "comment": "Joseph acts as an intercessor between his family and Pharaoh, foreshadowing the mediatorial role seen in later biblical figures. Joseph's faithfulness is reminiscent of the obedient Son.",
+      "sectionHeader": "Jacob and His Family Settle in Goshen"
     },
     {
       "pk": 1047002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "Now there was no food in all the land, for the famine was very severe, so that the land of Egypt and the land of Canaan became exhausted because of the famine.",
       "links": "<a href='/AIV/01/41/54-57'>Gen. 41:54-57</a>",
-      "comment": "The severe famine contrasts with the abundance God’s chosen receive, echoing motifs in Psalm 37:19."
+      "comment": "The severe famine contrasts with the abundance God’s chosen receive, echoing motifs in Psalm 37:19.",
+      "sectionHeader": "Joseph's Famine Policy in Egypt"
     },
     {
       "pk": 1047014,
@@ -326,7 +328,8 @@
       "verse": 27,
       "text": "Thus Israel settled in the land of Egypt, in the land of Goshen. And they gained possessions in it, and were fruitful and multiplied greatly.",
       "links": "<a href='/AIV/01/46/3'>Gen. 46:3</a>; <a href='/AIV/02/1/7'>Ex. 1:7</a>",
-      "comment": "The fruitfulness of Israel underlines God’s faithfulness to His promises, echoing Genesis 17:6 and pointing toward the growth of God’s people."
+      "comment": "The fruitfulness of Israel underlines God’s faithfulness to His promises, echoing Genesis 17:6 and pointing toward the growth of God’s people.",
+      "sectionHeader": "Jacob's Last Days and Request Concerning His Burial"
     },
     {
       "pk": 1047028,
@@ -377,5 +380,22 @@
       "comment": "Jacob’s act of bowing is an act of worship and thanksgiving, entrusting all to God’s promises. This act is referenced in Hebrews as the model of faith."
     }
   ],
-  "translatedAt": "2025-12-24T00:45:02.531Z"
+  "translatedAt": "2025-12-24T00:45:02.531Z",
+  "sections": [
+    {
+      "title": "Jacob and His Family Settle in Goshen",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "Joseph's Famine Policy in Egypt",
+      "startVerse": 13,
+      "endVerse": 26
+    },
+    {
+      "title": "Jacob's Last Days and Request Concerning His Burial",
+      "startVerse": 27,
+      "endVerse": 31
+    }
+  ]
 }

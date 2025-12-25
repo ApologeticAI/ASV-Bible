@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The revelation of Jesus Christ, which God gave Him to show to His servants what must soon take place. He made it known by sending His angel to His servant John,",
       "links": "<a href='/AIV/40/24/30'>Matt. 24:30</a>; <a href='/AIV/27/2/28'>Dan. 2:28</a>",
-      "comment": "This opening affirms the divine origin of the message, given by God through Jesus and delivered by an angel. The emphasis on prophecy echoes Old Testament patterns of God revealing mysteries (Daniel 2:28). The mediation through angels highlights God's ordered means of communication, underscoring the importance of apostolic authority."
+      "comment": "This opening affirms the divine origin of the message, given by God through Jesus and delivered by an angel. The emphasis on prophecy echoes Old Testament patterns of God revealing mysteries (Daniel 2:28). The mediation through angels highlights God's ordered means of communication, underscoring the importance of apostolic authority.",
+      "sectionHeader": "Prologue and Greeting"
     },
     {
       "pk": 73001002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "I, John, your brother and partner in the tribulation and the kingdom and the endurance that are in Jesus, was on the island called Patmos because of the word of God and the testimony of Jesus.",
       "links": "<a href='/AIV/44/14/22'>Acts 14:22</a>; <a href='/AIV/61/1/7'>2 Pet. 1:7</a>",
-      "comment": "John connects his suffering to the community’s, linking tribulation to sharing in Christ's endurance and kingdom—a theme central to apostolic teaching (Acts 14:22). The reference to Patmos grounds the prophecy in historical reality and apostolic witness."
+      "comment": "John connects his suffering to the community’s, linking tribulation to sharing in Christ's endurance and kingdom—a theme central to apostolic teaching (Acts 14:22). The reference to Patmos grounds the prophecy in historical reality and apostolic witness.",
+      "sectionHeader": "Vision of the Son of Man"
     },
     {
       "pk": 73001010,
@@ -245,5 +247,17 @@
       "comment": "Christ Himself interprets the symbols, affirming the spiritual hierarchy and visible church structure. The imagery of lampstands and stars underscores both a literal and mystical reality of the church’s mission to bear light and uphold apostolic succession."
     }
   ],
-  "translatedAt": "2025-12-24T12:33:27.521Z"
+  "translatedAt": "2025-12-24T12:33:27.521Z",
+  "sections": [
+    {
+      "title": "Prologue and Greeting",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "Vision of the Son of Man",
+      "startVerse": 9,
+      "endVerse": 20
+    }
+  ]
 }

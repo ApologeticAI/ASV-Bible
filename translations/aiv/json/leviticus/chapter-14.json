@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The LORD spoke to Moses, saying:",
       "links": "<a href='/AIV/3/13/1'>Lev. 13:1</a>",
-      "comment": "This begins the LORD’s instruction to Moses concerning the ceremonial cleansing for those healed from skin disease. Highlights divine revelation through Moses."
+      "comment": "This begins the LORD’s instruction to Moses concerning the ceremonial cleansing for those healed from skin disease. Highlights divine revelation through Moses.",
+      "sectionHeader": "Ritual for the Cleansing of a Leper"
     },
     {
       "pk": 3014002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "On the eighth day he shall take two male lambs without blemish, one ewe lamb without blemish, three-tenths of an ephah of fine flour mixed with oil for a grain offering, and one log of oil.",
       "links": "<a href='/AIV/3/9/2'>Lev. 9:2</a>; <a href='/AIV/3/2/1'>Lev. 2:1</a>",
-      "comment": "The eighth day is associated with new beginnings and consecration. Lambs without blemish draw parallels to Christ, the Lamb without spot (John 1:29)."
+      "comment": "The eighth day is associated with new beginnings and consecration. Lambs without blemish draw parallels to Christ, the Lamb without spot (John 1:29).",
+      "sectionHeader": "Sacrifices for the Cleansed Leper"
     },
     {
       "pk": 3014011,
@@ -254,7 +256,8 @@
       "verse": 21,
       "text": "But if he is poor and cannot afford these, he shall take one male lamb for a guilt offering to be waved, to make atonement for him, and one-tenth of an ephah of fine flour mixed with oil for a grain offering, and a log of oil.",
       "links": "<a href='/AIV/3/5/7'>Lev. 5:7</a>",
-      "comment": "God provides for the poor, allowing them access to atonement. The universality of grace available to all is a key biblical theme."
+      "comment": "God provides for the poor, allowing them access to atonement. The universality of grace available to all is a key biblical theme.",
+      "sectionHeader": "Cleansing Ritual for the Poor"
     },
     {
       "pk": 3014022,
@@ -398,7 +401,8 @@
       "verse": 33,
       "text": "The LORD spoke to Moses and Aaron, saying:",
       "links": "<a href='/AIV/3/13/1'>Lev. 13:1</a>",
-      "comment": "Now, a new section begins focusing on laws for defilement in houses—a broadening of the scope for communal and liturgical cleanliness."
+      "comment": "Now, a new section begins focusing on laws for defilement in houses—a broadening of the scope for communal and liturgical cleanliness.",
+      "sectionHeader": "Laws Concerning Leprous Houses"
     },
     {
       "pk": 3014034,
@@ -650,7 +654,8 @@
       "verse": 54,
       "text": "This is the law for any case of leprous disease: for an outbreak,",
       "links": "<a href='/AIV/3/13/1'>Lev. 13:1</a>",
-      "comment": "Summary statement—Leprosy laws cover not just individuals, but outbreaks in clothes and houses, stressing the comprehensive nature of purity in God’s people."
+      "comment": "Summary statement—Leprosy laws cover not just individuals, but outbreaks in clothes and houses, stressing the comprehensive nature of purity in God’s people.",
+      "sectionHeader": "Summary of Laws on Leprosy"
     },
     {
       "pk": 3014055,
@@ -689,5 +694,32 @@
       "comment": "Final affirmation: only through divinely appointed rituals, administered by the priesthood, can one know true purity—prefigures Christ’s mediatorship and the Church’s safeguarding of spiritual health."
     }
   ],
-  "translatedAt": "2025-12-24T01:17:53.759Z"
+  "translatedAt": "2025-12-24T01:17:53.759Z",
+  "sections": [
+    {
+      "title": "Ritual for the Cleansing of a Leper",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "Sacrifices for the Cleansed Leper",
+      "startVerse": 10,
+      "endVerse": 20
+    },
+    {
+      "title": "Cleansing Ritual for the Poor",
+      "startVerse": 21,
+      "endVerse": 32
+    },
+    {
+      "title": "Laws Concerning Leprous Houses",
+      "startVerse": 33,
+      "endVerse": 53
+    },
+    {
+      "title": "Summary of Laws on Leprosy",
+      "startVerse": 54,
+      "endVerse": 57
+    }
+  ]
 }

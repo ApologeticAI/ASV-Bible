@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "These are the names of the sons of Israel who came to Egypt with Jacob, each with his household:",
       "links": "<a href='/AIV/1/46/8-27'>Gen. 46:8-27</a>",
-      "comment": "Begins the list of those who came to Egypt, emphasizing the continuity of God's covenant with the patriarchs. The preservation of names points to the importance of lineage and tradition in salvation history."
+      "comment": "Begins the list of those who came to Egypt, emphasizing the continuity of God's covenant with the patriarchs. The preservation of names points to the importance of lineage and tradition in salvation history.",
+      "sectionHeader": "The Israelites Multiply in Egypt"
     },
     {
       "pk": 2001002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Now there arose a new king over Egypt who did not know Joseph.",
       "links": "<a href='/AIV/1/41/40-41'>Gen. 41:40-41</a>",
-      "comment": "The passing of memory brings hardship. The forgetfulness of the new king marks the beginning of enslavement, illustrating the importance of maintaining tradition and oral history."
+      "comment": "The passing of memory brings hardship. The forgetfulness of the new king marks the beginning of enslavement, illustrating the importance of maintaining tradition and oral history.",
+      "sectionHeader": "Oppression by a New Pharaoh"
     },
     {
       "pk": 2001009,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "Then the king of Egypt spoke to the Hebrew midwives, one of whom was named Shiphrah and the other Puah,",
       "links": "<a href='/AIV/2/15/20'>Exod. 15:20</a>",
-      "comment": "The naming of these women underscores the honoring of faithfulness and courage, even in the face of opposition from powerful rulers. Women are prominent instruments of deliverance in God's plan."
+      "comment": "The naming of these women underscores the honoring of faithfulness and courage, even in the face of opposition from powerful rulers. Women are prominent instruments of deliverance in God's plan.",
+      "sectionHeader": "Pharaoh Orders the Death of the Hebrew Boys"
     },
     {
       "pk": 2001016,
@@ -269,5 +272,22 @@
       "comment": "The climax of Pharaoh’s cruelty sets the stage for the miraculous deliverance of Moses, who will prefigure the ultimate redeemer. Water, a symbol of death here, later becomes the means of salvation in Israel’s escape and, later, in the sacrament of initiation under the new covenant (cf. 1 Pet 3:20-21)."
     }
   ],
-  "translatedAt": "2025-12-24T00:47:12.245Z"
+  "translatedAt": "2025-12-24T00:47:12.245Z",
+  "sections": [
+    {
+      "title": "The Israelites Multiply in Egypt",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Oppression by a New Pharaoh",
+      "startVerse": 8,
+      "endVerse": 14
+    },
+    {
+      "title": "Pharaoh Orders the Death of the Hebrew Boys",
+      "startVerse": 15,
+      "endVerse": 22
+    }
+  ]
 }

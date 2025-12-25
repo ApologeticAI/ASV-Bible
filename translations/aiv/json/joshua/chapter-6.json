@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now Jericho was tightly shut up because of the Israelites. No one went out, and no one came in.",
       "links": "<a href='/AIV/4/13/29'>Num. 13:29</a>; <a href='/AIV/6/2/9-11'>Josh. 2:9-11</a>",
-      "comment": "Jericho's gates are closed in fear of Israel, showing how God had already begun to put dread of His people in the hearts of their enemies (see Josh. 2:9-11)."
+      "comment": "Jericho's gates are closed in fear of Israel, showing how God had already begun to put dread of His people in the hearts of their enemies (see Josh. 2:9-11).",
+      "sectionHeader": "The Siege and Divine Instructions for Jericho"
     },
     {
       "pk": 6006002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "So Joshua son of Nun called the priests and said to them, 'Take up the Ark of the Covenant, and let seven priests carry seven trumpets of rams’ horns before the Ark of the LORD.'",
       "links": "<a href='/AIV/4/4/15'>Num. 4:15</a>; <a href='/AIV/6/3/3'>Josh. 3:3</a>",
-      "comment": "Joshua’s precise repetition of God’s commands demonstrates the importance of authoritative leadership and faithfulness to divine instruction (Heb. 13:7, 17)."
+      "comment": "Joshua’s precise repetition of God’s commands demonstrates the importance of authoritative leadership and faithfulness to divine instruction (Heb. 13:7, 17).",
+      "sectionHeader": "The March Around Jericho"
     },
     {
       "pk": 6006007,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "Then on the seventh day, they rose early at daybreak, and marched around the city in the same manner seven times. It was only on that day that they marched around the city seven times.",
       "links": "<a href='/AIV/6/6/4'>Josh. 6:4</a>",
-      "comment": "Rising early reflects eagerness and dedication (Ps. 5:3). The emphasis on “seventh” day and “seven” times echoes God’s pattern for sacred things (see Ex. 16:26, Lev. 23:15)."
+      "comment": "Rising early reflects eagerness and dedication (Ps. 5:3). The emphasis on “seventh” day and “seven” times echoes God’s pattern for sacred things (see Ex. 16:26, Lev. 23:15).",
+      "sectionHeader": "The Fall of Jericho"
     },
     {
       "pk": 6006016,
@@ -266,7 +269,8 @@
       "verse": 22,
       "text": "But Joshua said to the two men who had spied out the country, 'Go into the prostitute’s house and bring out the woman and all who belong to her, as you promised to her.'",
       "links": "<a href='/AIV/6/2/14'>Josh. 2:14</a>",
-      "comment": "Keeping the promise to Rahab highlights the faithfulness required in God’s people. It also emphasizes the inclusion of all who turn in faith, regardless of background."
+      "comment": "Keeping the promise to Rahab highlights the faithfulness required in God’s people. It also emphasizes the inclusion of all who turn in faith, regardless of background.",
+      "sectionHeader": "Rahab and Her Family Spared"
     },
     {
       "pk": 6006023,
@@ -314,7 +318,8 @@
       "verse": 26,
       "text": "Joshua laid an oath at that time, saying, 'Cursed is the man before the LORD who rises up and rebuilds this city, Jericho. At the cost of his firstborn shall he lay its foundation, and at the cost of his youngest son shall he set up its gates.'",
       "links": "<a href='/AIV/11/16/34'>1 Kings 16:34</a>",
-      "comment": "The curse pronounced is fulfilled in 1 Kings 16:34. This curse signals the danger of violating God’s commands and the spiritual consequence of disobedience, further affirming the leader’s authority to bind and loose for the good of the community (see Matt. 16:19)."
+      "comment": "The curse pronounced is fulfilled in 1 Kings 16:34. This curse signals the danger of violating God’s commands and the spiritual consequence of disobedience, further affirming the leader’s authority to bind and loose for the good of the community (see Matt. 16:19).",
+      "sectionHeader": "The City Cursed by Joshua"
     },
     {
       "pk": 6006027,
@@ -329,5 +334,32 @@
       "comment": "God’s presence with Joshua authenticates his commission and authority. The spread of Joshua’s fame prefigures how God exalts those who faithfully serve Him and remain true to the covenant community."
     }
   ],
-  "translatedAt": "2025-12-24T02:19:22.752Z"
+  "translatedAt": "2025-12-24T02:19:22.752Z",
+  "sections": [
+    {
+      "title": "The Siege and Divine Instructions for Jericho",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "The March Around Jericho",
+      "startVerse": 6,
+      "endVerse": 14
+    },
+    {
+      "title": "The Fall of Jericho",
+      "startVerse": 15,
+      "endVerse": 21
+    },
+    {
+      "title": "Rahab and Her Family Spared",
+      "startVerse": 22,
+      "endVerse": 25
+    },
+    {
+      "title": "The City Cursed by Joshua",
+      "startVerse": 26,
+      "endVerse": 27
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Samson went down to Timnah, and there he saw a woman, one of the daughters of the Philistines.",
       "links": "<a href='/AIV/06/15/10'>Josh. 15:10</a>",
-      "comment": "Timnah was a Philistine city at the time. This sets the stage for Samson's complicated relationship with Israel's enemies."
+      "comment": "Timnah was a Philistine city at the time. This sets the stage for Samson's complicated relationship with Israel's enemies.",
+      "sectionHeader": "Samson Chooses a Philistine Wife"
     },
     {
       "pk": 7014002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "Then Samson went down with his father and mother to Timnah. As they came to the vineyards of Timnah, suddenly a young lion came roaring toward him.",
       "links": "<a href='/AIV/09/17/34'>1 Sam. 17:34</a>",
-      "comment": "The confrontation with the lion is reminiscent of later stories of God empowering His chosen ones for miraculous deeds (1 Sam. 17:34)."
+      "comment": "The confrontation with the lion is reminiscent of later stories of God empowering His chosen ones for miraculous deeds (1 Sam. 17:34).",
+      "sectionHeader": "Samson Kills the Lion"
     },
     {
       "pk": 7014006,
@@ -122,7 +124,8 @@
       "verse": 10,
       "text": "His father went down to the woman, and Samson prepared a feast there, as the young men used to do.",
       "links": "<a href='/AIV/01/29/22'>Gen. 29:22</a>",
-      "comment": "Wedding feasts were customarily long and joyful affairs. Such feasts often symbolize a celebration of covenant, which is echoed in the New Testament (Matt. 22:2)."
+      "comment": "Wedding feasts were customarily long and joyful affairs. Such feasts often symbolize a celebration of covenant, which is echoed in the New Testament (Matt. 22:2).",
+      "sectionHeader": "Samson's Riddle and Its Betrayal"
     },
     {
       "pk": 7014011,
@@ -230,7 +233,8 @@
       "verse": 19,
       "text": "Then the Spirit of the LORD rushed upon him, and he went down to Ashkelon and struck down thirty men of the city, took their spoil, and gave the sets of clothes to those who had told the riddle. In his anger he went back up to his father's house.",
       "links": "<a href='/AIV/07/3/10'>Judg. 3:10</a>; <a href='/AIV/07/15/14'>Judg. 15:14</a>",
-      "comment": "Though violent, Samson's actions are prompted by the Spirit to fulfill God's deliverance of Israel. The Spirit’s power can be both just and mysterious."
+      "comment": "Though violent, Samson's actions are prompted by the Spirit to fulfill God's deliverance of Israel. The Spirit’s power can be both just and mysterious.",
+      "sectionHeader": "Samson Strikes Down the Philistines"
     },
     {
       "pk": 7014020,
@@ -245,5 +249,27 @@
       "comment": "The Philistines break custom, taking away Samson’s wife and giving her to another. This offense leads to greater conflict. The cycle of betrayal and the loss of spiritual fidelity points forward to themes later found in the prophets."
     }
   ],
-  "translatedAt": "2025-12-24T02:38:58.066Z"
+  "translatedAt": "2025-12-24T02:38:58.066Z",
+  "sections": [
+    {
+      "title": "Samson Chooses a Philistine Wife",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "Samson Kills the Lion",
+      "startVerse": 5,
+      "endVerse": 9
+    },
+    {
+      "title": "Samson's Riddle and Its Betrayal",
+      "startVerse": 10,
+      "endVerse": 18
+    },
+    {
+      "title": "Samson Strikes Down the Philistines",
+      "startVerse": 19,
+      "endVerse": 20
+    }
+  ]
 }

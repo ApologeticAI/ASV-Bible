@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now there happened to be a worthless man there, whose name was Sheba, the son of Bichri, a Benjaminite. He blew the trumpet and said, \"We have no portion in David, nor inheritance in the son of Jesse; every man to his tents, O Israel!\"",
       "links": "<a href='/AIV/11/12/16'>1 Kings 12:16</a>; <a href='/AIV/07/8/35'>Judg. 8:35</a>",
-      "comment": "Sheba’s rebellion echoes Israel’s later division from the house of David (cf. 1 Kings 12:16). Early Protestant and traditional interpretations see this as foreshadowing schism and the danger of breaking unity with the God-ordained king. David, the chosen king, prefigures the greater Son of David, Christ, the true and everlasting King (cf. Luke 1:32-33)."
+      "comment": "Sheba’s rebellion echoes Israel’s later division from the house of David (cf. 1 Kings 12:16). Early Protestant and traditional interpretations see this as foreshadowing schism and the danger of breaking unity with the God-ordained king. David, the chosen king, prefigures the greater Son of David, Christ, the true and everlasting King (cf. Luke 1:32-33).",
+      "sectionHeader": "Sheba’s Revolt Against David"
     },
     {
       "pk": 10020002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "When David came to his house at Jerusalem, the king took the ten concubines whom he had left to care for the house, and put them in custody. He provided for them, but did not go in to them. So they were shut away until the day of their death, living as widows.",
       "links": "<a href='/AIV/10/16/21-22'>2 Sam. 16:21-22</a>",
-      "comment": "David’s treatment of the concubines reflects both compassion and consequence after Absalom’s rebellion (2 Sam. 16:21-22). Their perpetual widowhood marks the tragic fallout of past sin, showing the intertwining of personal and communal purity with royal integrity."
+      "comment": "David’s treatment of the concubines reflects both compassion and consequence after Absalom’s rebellion (2 Sam. 16:21-22). Their perpetual widowhood marks the tragic fallout of past sin, showing the intertwining of personal and communal purity with royal integrity.",
+      "sectionHeader": "David’s Concubines Confined"
     },
     {
       "pk": 10020004,
@@ -98,7 +100,8 @@
       "verse": 8,
       "text": "When they were at the great stone which is in Gibeon, Amasa came to meet them. Joab was wearing his military garment, and over it was a belt with a sword in its sheath at his side. As he went forward, the sword fell out.",
       "links": "<a href='/AIV/06/9/3'>Josh. 9:3</a>; <a href='/AIV/09/17/39'>1 Sam. 17:39</a>",
-      "comment": "Joab’s calculated approach with Amasa reveals the darker side of political power and betrayal, a recurring theme in fallen human leadership."
+      "comment": "Joab’s calculated approach with Amasa reveals the darker side of political power and betrayal, a recurring theme in fallen human leadership.",
+      "sectionHeader": "Joab Kills Amasa"
     },
     {
       "pk": 10020009,
@@ -170,7 +173,8 @@
       "verse": 14,
       "text": "Sheba passed through all the tribes of Israel to Abel of Beth-maacah, and all the Bichrites assembled and followed him in.",
       "links": "<a href='/AIV/10/10/8'>2 Sam. 10:8</a>",
-      "comment": "Sheba’s support grew among his clan, illuminating the danger of rebellious factions within God’s chosen people."
+      "comment": "Sheba’s support grew among his clan, illuminating the danger of rebellious factions within God’s chosen people.",
+      "sectionHeader": "The Death of Sheba at Abel Beth-maacah"
     },
     {
       "pk": 10020015,
@@ -278,7 +282,8 @@
       "verse": 23,
       "text": "Now Joab was in command of all the army of Israel; Benaiah the son of Jehoiada was over the Cherethites and the Pelethites;",
       "links": "<a href='/AIV/10/8/16-18'>2 Sam. 8:16-18</a>; <a href='/AIV/11/2/35'>1 Kings 2:35</a>",
-      "comment": "Joab’s return to command and Benaiah’s delegated authority illustrate the orderly structure of leadership—which carries forward into New Testament structures and the necessity for hierarchy in the people of God."
+      "comment": "Joab’s return to command and Benaiah’s delegated authority illustrate the orderly structure of leadership—which carries forward into New Testament structures and the necessity for hierarchy in the people of God.",
+      "sectionHeader": "David’s Officials"
     },
     {
       "pk": 10020024,
@@ -317,5 +322,32 @@
       "comment": "Ira’s role as a chief minister confirms the need for devoted, trustworthy service to the king, and by extension, to God’s people. This anticipates the principle of hierarchical service and order within the broader context of God’s everlasting kingdom."
     }
   ],
-  "translatedAt": "2025-12-24T03:23:41.868Z"
+  "translatedAt": "2025-12-24T03:23:41.868Z",
+  "sections": [
+    {
+      "title": "Sheba’s Revolt Against David",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "David’s Concubines Confined",
+      "startVerse": 3,
+      "endVerse": 7
+    },
+    {
+      "title": "Joab Kills Amasa",
+      "startVerse": 8,
+      "endVerse": 13
+    },
+    {
+      "title": "The Death of Sheba at Abel Beth-maacah",
+      "startVerse": 14,
+      "endVerse": 22
+    },
+    {
+      "title": "David’s Officials",
+      "startVerse": 23,
+      "endVerse": 26
+    }
+  ]
 }

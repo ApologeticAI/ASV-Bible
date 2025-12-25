@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "This is the law of the guilt offering; it is most holy.",
       "links": "<a href='/AIV/3/6/25'>Lev. 6:25</a>; <a href='/AIV/3/6/17'>Lev. 6:17</a>",
-      "comment": "The guilt offering is called 'most holy,' showing a special level of sanctity. This foreshadows the ultimate sacrifice of Christ who is 'most holy.'"
+      "comment": "The guilt offering is called 'most holy,' showing a special level of sanctity. This foreshadows the ultimate sacrifice of Christ who is 'most holy.'",
+      "sectionHeader": "The Law of the Guilt Offering"
     },
     {
       "pk": 3007002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "The priest who offers anyone’s burnt offering shall have for himself the skin of the burnt offering that he has offered.",
       "links": "<a href='/AIV/3/1/6'>Lev. 1:6</a>",
-      "comment": "Priests benefit from the sacrifice, showing a connection between sacred ministry and provision—a basis for reverence toward holy orders."
+      "comment": "Priests benefit from the sacrifice, showing a connection between sacred ministry and provision—a basis for reverence toward holy orders.",
+      "sectionHeader": "The Priests’ Portion from the Offerings"
     },
     {
       "pk": 3007009,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "This is the law of the sacrifice of peace offerings that one may offer to the LORD.",
       "links": "<a href='/AIV/3/3/1'>Lev. 3:1</a>",
-      "comment": "Peace offerings foreshadow the true peace between God and man, brought through Christ (Romans 5:1)."
+      "comment": "Peace offerings foreshadow the true peace between God and man, brought through Christ (Romans 5:1).",
+      "sectionHeader": "The Law of the Peace Offering"
     },
     {
       "pk": 3007012,
@@ -266,7 +269,8 @@
       "verse": 22,
       "text": "The LORD spoke to Moses, saying,",
       "links": "<a href='/AIV/3/1/1'>Lev. 1:1</a>",
-      "comment": "A new section begins, marked by the divine speech formula."
+      "comment": "A new section begins, marked by the divine speech formula.",
+      "sectionHeader": "Prohibition of Eating Fat and Blood"
     },
     {
       "pk": 3007023,
@@ -338,7 +342,8 @@
       "verse": 28,
       "text": "The LORD spoke to Moses, saying,",
       "links": "<a href='/AIV/3/1/1'>Lev. 1:1</a>",
-      "comment": "Another new section in the law, emphasizing God's continuing revelation."
+      "comment": "Another new section in the law, emphasizing God's continuing revelation.",
+      "sectionHeader": "The Portion for the Priests from Peace Offerings"
     },
     {
       "pk": 3007029,
@@ -446,7 +451,8 @@
       "verse": 37,
       "text": "This is the law for the burnt offering, the grain offering, the sin offering, the guilt offering, the ordination offering, and the peace offerings,",
       "links": "<a href='/AIV/3/6/9-7/10'>Lev. 6:9-7:10</a>",
-      "comment": "A summary statement, pointing to the fullness of sacrificial worship later fulfilled by Christ’s one sacrifice (Heb. 10:10)."
+      "comment": "A summary statement, pointing to the fullness of sacrificial worship later fulfilled by Christ’s one sacrifice (Heb. 10:10).",
+      "sectionHeader": "Summary of the Offerings"
     },
     {
       "pk": 3007038,
@@ -461,5 +467,37 @@
       "comment": "All these instructions originate from God’s authority as revealed on Sinai, showing continuity with God’s covenant people."
     }
   ],
-  "translatedAt": "2025-12-24T01:13:34.325Z"
+  "translatedAt": "2025-12-24T01:13:34.325Z",
+  "sections": [
+    {
+      "title": "The Law of the Guilt Offering",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "The Priests’ Portion from the Offerings",
+      "startVerse": 8,
+      "endVerse": 10
+    },
+    {
+      "title": "The Law of the Peace Offering",
+      "startVerse": 11,
+      "endVerse": 21
+    },
+    {
+      "title": "Prohibition of Eating Fat and Blood",
+      "startVerse": 22,
+      "endVerse": 27
+    },
+    {
+      "title": "The Portion for the Priests from Peace Offerings",
+      "startVerse": 28,
+      "endVerse": 36
+    },
+    {
+      "title": "Summary of the Offerings",
+      "startVerse": 37,
+      "endVerse": 38
+    }
+  ]
 }

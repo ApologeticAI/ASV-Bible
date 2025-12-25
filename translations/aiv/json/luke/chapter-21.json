@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Jesus looked up and saw the rich putting their gifts into the temple treasury.",
       "links": "<a href='/AIV/41/12/41'>Mark 12:41</a>",
-      "comment": "Luke sets the scene in the temple, showing contrasts between outward wealth and true devotion. The temple treasury was a central aspect of worship and religious life."
+      "comment": "Luke sets the scene in the temple, showing contrasts between outward wealth and true devotion. The temple treasury was a central aspect of worship and religious life.",
+      "sectionHeader": "The Widow’s Offering"
     },
     {
       "pk": 49021002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "While some were speaking about the temple, how it was adorned with beautiful stones and gifts dedicated to God, He said,",
       "links": "<a href='/AIV/40/24/1'>Matthew 24:1</a>; <a href='/AIV/41/13/1'>Mark 13:1</a>",
-      "comment": "The temple was the center of Jewish worship and sacrifice, and its destruction was unthinkable. Yet Jesus points to a deeper reality, which will become clearer in the following verses."
+      "comment": "The temple was the center of Jewish worship and sacrifice, and its destruction was unthinkable. Yet Jesus points to a deeper reality, which will become clearer in the following verses.",
+      "sectionHeader": "The Foretelling of the Temple’s Destruction"
     },
     {
       "pk": 49021006,
@@ -86,7 +88,8 @@
       "verse": 7,
       "text": "They asked Him, 'Teacher, when will these things be, and what will be the sign when these things are about to take place?'",
       "links": "<a href='/AIV/40/24/3'>Matthew 24:3</a>",
-      "comment": "The disciples seek clarification about the timing and signs of these world-changing events. Such questions connect Jesus' prophecy to both immediate and future fulfillment."
+      "comment": "The disciples seek clarification about the timing and signs of these world-changing events. Such questions connect Jesus' prophecy to both immediate and future fulfillment.",
+      "sectionHeader": "Signs and Persecution Before the End"
     },
     {
       "pk": 49021008,
@@ -242,7 +245,8 @@
       "verse": 20,
       "text": "'But when you see Jerusalem surrounded by armies, then know that its desolation has come near.'",
       "links": "<a href='/AIV/27/9/26'>Daniel 9:26</a>; <a href='/AIV/40/24/15'>Matthew 24:15</a>",
-      "comment": "This prophecy was sharply fulfilled in 70 AD with the destruction of Jerusalem, a clear sign of judgment and the end of the Old Covenant system, preparing for Christ’s universal kingdom."
+      "comment": "This prophecy was sharply fulfilled in 70 AD with the destruction of Jerusalem, a clear sign of judgment and the end of the Old Covenant system, preparing for Christ’s universal kingdom.",
+      "sectionHeader": "The Desolation of Jerusalem"
     },
     {
       "pk": 49021021,
@@ -302,7 +306,8 @@
       "verse": 25,
       "text": "'And there will be signs in the sun, moon, and stars, and on the earth distress among nations, with perplexity at the roaring of the sea and the waves,'",
       "links": "<a href='/AIV/23/13/10'>Isaiah 13:10</a>; <a href='/AIV/29/2/31'>Joel 2:31</a>",
-      "comment": "Cosmic signs often introduce divine intervention. Apocalyptic language shows the finality and universality of God's judgment and redemption."
+      "comment": "Cosmic signs often introduce divine intervention. Apocalyptic language shows the finality and universality of God's judgment and redemption.",
+      "sectionHeader": "The Coming of the Son of Man"
     },
     {
       "pk": 49021026,
@@ -350,7 +355,8 @@
       "verse": 29,
       "text": "And He told them a parable: 'Look at the fig tree, and all the trees.'",
       "links": "<a href='/AIV/24/24/5-7'>Jeremiah 24:5-7</a>; <a href='/AIV/40/24/32'>Matthew 24:32</a>",
-      "comment": "The fig tree had been used as a symbol of Israel, but also more generally as a sign to observe God’s timing in nature and history."
+      "comment": "The fig tree had been used as a symbol of Israel, but also more generally as a sign to observe God’s timing in nature and history.",
+      "sectionHeader": "The Lesson of the Fig Tree"
     },
     {
       "pk": 49021030,
@@ -410,7 +416,8 @@
       "verse": 34,
       "text": "'But watch yourselves lest your hearts be weighed down with dissipation and drunkenness and the cares of this life, and that day come upon you suddenly like a trap.'",
       "links": "<a href='/AIV/52/5/6-8'>1 Thessalonians 5:6-8</a>",
-      "comment": "Vigilance is necessary for all believers. The reality of Christ’s return calls for sober living, prayer, and preparation, not carelessness."
+      "comment": "Vigilance is necessary for all believers. The reality of Christ’s return calls for sober living, prayer, and preparation, not carelessness.",
+      "sectionHeader": "Be Watchful and Ready"
     },
     {
       "pk": 49021035,
@@ -461,5 +468,42 @@
       "comment": "The people’s eagerness to hear Jesus echoes the call for all Christians to seek Him, receive His teaching, and be formed by it—laying a foundation for unity and the authority of the apostolic Church."
     }
   ],
-  "translatedAt": "2025-12-24T10:56:41.043Z"
+  "translatedAt": "2025-12-24T10:56:41.043Z",
+  "sections": [
+    {
+      "title": "The Widow’s Offering",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "The Foretelling of the Temple’s Destruction",
+      "startVerse": 5,
+      "endVerse": 6
+    },
+    {
+      "title": "Signs and Persecution Before the End",
+      "startVerse": 7,
+      "endVerse": 19
+    },
+    {
+      "title": "The Desolation of Jerusalem",
+      "startVerse": 20,
+      "endVerse": 24
+    },
+    {
+      "title": "The Coming of the Son of Man",
+      "startVerse": 25,
+      "endVerse": 28
+    },
+    {
+      "title": "The Lesson of the Fig Tree",
+      "startVerse": 29,
+      "endVerse": 33
+    },
+    {
+      "title": "Be Watchful and Ready",
+      "startVerse": 34,
+      "endVerse": 38
+    }
+  ]
 }

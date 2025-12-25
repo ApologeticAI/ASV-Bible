@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The elder to the chosen lady and her children, whom I love in truth—and not I only, but also all who know the truth—",
       "links": "<a href='/AIV/60/5/1'>1 Pet. 5:1</a>; <a href='/AIV/43/8/32'>John 8:32</a>; <a href='/AIV/44/20/28'>Acts 20:28</a>",
-      "comment": "The term 'elder' indicates a position of shepherding authority in the early church, hinting at a structured community. The 'chosen lady' is often understood as either a respected Christian woman or, symbolically, a local church, with 'her children' meaning the members. The concept of truth here emphasizes unity in doctrine and love."
+      "comment": "The term 'elder' indicates a position of shepherding authority in the early church, hinting at a structured community. The 'chosen lady' is often understood as either a respected Christian woman or, symbolically, a local church, with 'her children' meaning the members. The concept of truth here emphasizes unity in doctrine and love.",
+      "sectionHeader": "Greeting to the Elect Lady"
     },
     {
       "pk": 70001002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "I rejoiced greatly to find some of your children walking in truth, just as we were commanded by the Father.",
       "links": "<a href='/AIV/62/1/7'>1 John 1:7</a>; <a href='/AIV/43/15/10'>John 15:10</a>",
-      "comment": "'Walking in truth' means both believing correctly and living correctly. Obedience to the Father's command draws attention to the necessity of practical, visible faith. The apostle's joy is rooted in continuity of tradition and right practice among the community."
+      "comment": "'Walking in truth' means both believing correctly and living correctly. Obedience to the Father's command draws attention to the necessity of practical, visible faith. The apostle's joy is rooted in continuity of tradition and right practice among the community.",
+      "sectionHeader": "Walking in Truth and Love"
     },
     {
       "pk": 70001005,
@@ -86,7 +88,8 @@
       "verse": 7,
       "text": "For many deceivers have gone out into the world, who do not confess that Jesus Christ has come in the flesh. Such a one is the deceiver and the antichrist.",
       "links": "<a href='/AIV/62/2/22'>1 John 2:22</a>; <a href='/AIV/62/4/3'>1 John 4:3</a>; <a href='/AIV/40/24/5'>Matt. 24:5</a>",
-      "comment": "The denial of Jesus's true Incarnation is labeled as antichrist, marking the great dividing line in Christian definition. The phrase 'gone out' indicates they departed from the faithful community, emphasizing the need for unity and holding fast to sound teaching received from the apostles."
+      "comment": "The denial of Jesus's true Incarnation is labeled as antichrist, marking the great dividing line in Christian definition. The phrase 'gone out' indicates they departed from the faithful community, emphasizing the need for unity and holding fast to sound teaching received from the apostles.",
+      "sectionHeader": "Warning against Deceivers"
     },
     {
       "pk": 70001008,
@@ -146,7 +149,8 @@
       "verse": 12,
       "text": "Though I have much to write to you, I would rather not use paper and ink. Instead, I hope to come to you and speak face to face, so that our joy may be complete.",
       "links": "<a href='/AIV/64/1/13'>3 John 1:13</a>; <a href='/AIV/43/16/24'>John 16:24</a>",
-      "comment": "The preference for personal (face to face) communication points to the importance of lived, communal faith and real relationship—not just correspondence—echoing the sacramental and communal life of the early church."
+      "comment": "The preference for personal (face to face) communication points to the importance of lived, communal faith and real relationship—not just correspondence—echoing the sacramental and communal life of the early church.",
+      "sectionHeader": "Final Greetings"
     },
     {
       "pk": 70001013,
@@ -161,5 +165,27 @@
       "comment": "This closing greeting expresses unity and familial love among the local communities of faith. It subtly teaches the real and enduring bond that exists between distinct but interconnected churches, unified in doctrine and love."
     }
   ],
-  "translatedAt": "2025-12-24T12:32:22.517Z"
+  "translatedAt": "2025-12-24T12:32:22.517Z",
+  "sections": [
+    {
+      "title": "Greeting to the Elect Lady",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "Walking in Truth and Love",
+      "startVerse": 4,
+      "endVerse": 6
+    },
+    {
+      "title": "Warning against Deceivers",
+      "startVerse": 7,
+      "endVerse": 11
+    },
+    {
+      "title": "Final Greetings",
+      "startVerse": 12,
+      "endVerse": 13
+    }
+  ]
 }

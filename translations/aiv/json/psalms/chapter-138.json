@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "I will give you thanks with all my heart; before the gods I will sing praises to you.",
       "links": "<a href='/AIV/19/95/1-3'>Ps. 95:1-3</a>; <a href='/AIV/19/108/3'>Ps. 108:3</a>",
-      "comment": "Here, the psalmist declares wholehearted praise to God, acknowledging His greatness over all other powers or idols. The use of 'gods' likely refers to rulers or false deities, emphasizing the sole supremacy of the LORD. The totality of the devotion mirrors New Testament calls to love God fully (see <a href='/AIV/40/22/37'>Matt. 22:37</a>)."
+      "comment": "Here, the psalmist declares wholehearted praise to God, acknowledging His greatness over all other powers or idols. The use of 'gods' likely refers to rulers or false deities, emphasizing the sole supremacy of the LORD. The totality of the devotion mirrors New Testament calls to love God fully (see <a href='/AIV/40/22/37'>Matt. 22:37</a>).",
+      "sectionHeader": "Thanksgiving for God's Faithfulness"
     },
     {
       "pk": 23138002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "All the kings of the earth will give you thanks, LORD, when they have heard the words you have spoken.",
       "links": "<a href='/AIV/19/102/15'>Ps. 102:15</a>; <a href='/AIV/19/72/11'>Ps. 72:11</a>",
-      "comment": "This verse anticipates a time when all rulers recognize God’s supreme authority, foreshadowing the universal kingship found in Christ (<a href='/AIV/66/19/16'>Rev. 19:16</a>). This verse also aligns with the hope for global recognition of divine truth, a foundation for unity in worship throughout the world."
+      "comment": "This verse anticipates a time when all rulers recognize God’s supreme authority, foreshadowing the universal kingship found in Christ (<a href='/AIV/66/19/16'>Rev. 19:16</a>). This verse also aligns with the hope for global recognition of divine truth, a foundation for unity in worship throughout the world.",
+      "sectionHeader": "The Lord's Glory Among the Nations"
     },
     {
       "pk": 23138005,
@@ -86,7 +88,8 @@
       "verse": 7,
       "text": "Though I walk in the midst of trouble, you preserve my life; you stretch out your hand against the anger of my enemies, and your right hand saves me.",
       "links": "<a href='/AIV/19/23/4'>Ps. 23:4</a>; <a href='/AIV/19/63/9-10'>Ps. 63:9-10</a>",
-      "comment": "This verse expresses divine protection in the face of adversity. The mention of God’s right hand is a biblical symbol of power and salvation, prefiguring Christ’s victory and mighty works (<a href='/AIV/44/2/33'>Acts 2:33</a>; <a href='/AIV/41/16/19'>Mark 16:19</a>). It affirms trust in God’s intervention and mercy."
+      "comment": "This verse expresses divine protection in the face of adversity. The mention of God’s right hand is a biblical symbol of power and salvation, prefiguring Christ’s victory and mighty works (<a href='/AIV/44/2/33'>Acts 2:33</a>; <a href='/AIV/41/16/19'>Mark 16:19</a>). It affirms trust in God’s intervention and mercy.",
+      "sectionHeader": "God's Care in Trouble"
     },
     {
       "pk": 23138008,
@@ -101,5 +104,22 @@
       "comment": "The promise that God will accomplish His purpose reflects the doctrine of divine providence and assurance that God’s love is eternal. Asking God not to forsake the work of His hands highlights the permanence of God’s commitment to His people, anticipating the fullness of redemption in Christ (<a href='/AIV/50/1/6'>Phil. 1:6</a>). The spiritual sense is both personal and communal, providing hope that believers are part of a greater plan shaped by divine love."
     }
   ],
-  "translatedAt": "2025-12-24T06:46:26.876Z"
+  "translatedAt": "2025-12-24T06:46:26.876Z",
+  "sections": [
+    {
+      "title": "Thanksgiving for God's Faithfulness",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "The Lord's Glory Among the Nations",
+      "startVerse": 4,
+      "endVerse": 6
+    },
+    {
+      "title": "God's Care in Trouble",
+      "startVerse": 7,
+      "endVerse": 8
+    }
+  ]
 }

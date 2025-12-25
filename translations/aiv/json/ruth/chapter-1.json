@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In the days when the judges ruled, there was a famine in the land. And a man from Bethlehem in Judah went to dwell in the territory of Moab with his wife and two sons.",
       "links": "<a href='/AIV/07/2/16-19'>Judges 2:16-19</a>; <a href='/AIV/40/2/1'>Matt 2:1</a>;",
-      "comment": "The time of the judges was marked by repeated cycles of hardship and faithfulness, as well as God’s providential guidance. Bethlehem (“house of bread”) being struck by famine is ironic. This sets up the theme of God working even during suffering. The move to Moab foreshadows the inclusion of outsiders in God’s plan."
+      "comment": "The time of the judges was marked by repeated cycles of hardship and faithfulness, as well as God’s providential guidance. Bethlehem (“house of bread”) being struck by famine is ironic. This sets up the theme of God working even during suffering. The move to Moab foreshadows the inclusion of outsiders in God’s plan.",
+      "sectionHeader": "Elimelech's Family in Moab"
     },
     {
       "pk": 8001002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "Then Naomi arose with her daughters-in-law to return from the fields of Moab, for she heard that the Lord had visited his people and given them food.",
       "links": "<a href='/AIV/02/16/4'>Exod 16:4</a>; <a href='/AIV/19/107/9'>Ps 107:9</a>",
-      "comment": "God’s providence returns to Bethlehem, reminiscent of past deliverances and provision. This foreshadows greater spiritual bread in the future (John 6:32-35)."
+      "comment": "God’s providence returns to Bethlehem, reminiscent of past deliverances and provision. This foreshadows greater spiritual bread in the future (John 6:32-35).",
+      "sectionHeader": "Naomi and Her Daughters-in-Law"
     },
     {
       "pk": 8001007,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "They lifted up their voices and wept again. Orpah kissed her mother-in-law, but Ruth clung to her.",
       "links": "<a href='/AIV/01/2/24'>Gen 2:24</a>; <a href='/AIV/40/26/56'>Matt 26:56</a>",
-      "comment": "Ruth’s clinging echoes covenant loyalty ('hesed'). Both physical and spiritual fidelities are highlighted, anticipating the faithfulness demanded of Christ’s followers."
+      "comment": "Ruth’s clinging echoes covenant loyalty ('hesed'). Both physical and spiritual fidelities are highlighted, anticipating the faithfulness demanded of Christ’s followers.",
+      "sectionHeader": "Ruth’s Loyalty to Naomi"
     },
     {
       "pk": 8001015,
@@ -230,7 +233,8 @@
       "verse": 19,
       "text": "The two of them went on until they came to Bethlehem. When they arrived in Bethlehem, the whole town was stirred because of them, and the women said, 'Is this Naomi?'",
       "links": "<a href='/AIV/40/2/1'>Matt 2:1</a>; <a href='/AIV/40/21/10'>Matt 21:10</a>",
-      "comment": "Bethlehem signifies promise and fulfillment, later associated with the birth of Christ. Naomi’s return creates anticipation for God’s restoration."
+      "comment": "Bethlehem signifies promise and fulfillment, later associated with the birth of Christ. Naomi’s return creates anticipation for God’s restoration.",
+      "sectionHeader": "Naomi and Ruth Return to Bethlehem"
     },
     {
       "pk": 8001020,
@@ -269,5 +273,27 @@
       "comment": "Barley harvest marks Passover season—timing is significant in salvation history. Foreshadows abundant blessing, bread from heaven, and Christ, the true bread born in Bethlehem."
     }
   ],
-  "translatedAt": "2025-12-24T02:43:44.831Z"
+  "translatedAt": "2025-12-24T02:43:44.831Z",
+  "sections": [
+    {
+      "title": "Elimelech's Family in Moab",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Naomi and Her Daughters-in-Law",
+      "startVerse": 6,
+      "endVerse": 13
+    },
+    {
+      "title": "Ruth’s Loyalty to Naomi",
+      "startVerse": 14,
+      "endVerse": 18
+    },
+    {
+      "title": "Naomi and Ruth Return to Bethlehem",
+      "startVerse": 19,
+      "endVerse": 22
+    }
+  ]
 }

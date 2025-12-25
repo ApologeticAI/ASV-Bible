@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In those days a decree went out from Caesar Augustus that all the world should be registered.",
       "links": "<a href='/AIV/40/22/17-21'>Matt. 22:17-21</a>; <a href='/AIV/45/13/1'>Rom. 13:1</a>",
-      "comment": "Caesar Augustus' decree sets the stage for Christ’s birth, showing how God uses earthly rulers to fulfill prophecy. See Mic. 5:2 for the prophecy concerning Bethlehem."
+      "comment": "Caesar Augustus' decree sets the stage for Christ’s birth, showing how God uses earthly rulers to fulfill prophecy. See Mic. 5:2 for the prophecy concerning Bethlehem.",
+      "sectionHeader": "The Birth of Jesus"
     },
     {
       "pk": 49002002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "And there were shepherds in the same region, living out in the fields and keeping watch over their flock by night.",
       "links": "<a href='/AIV/09/16/11'>1 Sam. 16:11</a>",
-      "comment": "Shepherds are the first to receive the news, echoing David’s own call from the fields. God honors humility and faithfulness."
+      "comment": "Shepherds are the first to receive the news, echoing David’s own call from the fields. God honors humility and faithfulness.",
+      "sectionHeader": "The Shepherds Visit the Infant Jesus"
     },
     {
       "pk": 49002009,
@@ -254,7 +256,8 @@
       "verse": 21,
       "text": "On the eighth day, when it was time to circumcise him, he was named Jesus, the name given by the angel before he was conceived in the womb.",
       "links": "<a href='/AIV/01/17/12'>Gen. 17:12</a>; <a href='/AIV/40/1/21'>Matt. 1:21</a>",
-      "comment": "Jesus’ circumcision marks his full entry into the covenant people. Naming signifies mission—'Jesus' means 'the Lord saves'."
+      "comment": "Jesus’ circumcision marks his full entry into the covenant people. Naming signifies mission—'Jesus' means 'the Lord saves'.",
+      "sectionHeader": "The Presentation of Jesus in the Temple"
     },
     {
       "pk": 49002022,
@@ -494,7 +497,8 @@
       "verse": 41,
       "text": "Now his parents went to Jerusalem every year for the Feast of the Passover.",
       "links": "<a href='/AIV/02/12/14'>Exod. 12:14</a>",
-      "comment": "Participation in the Passover emphasizes the continuity of Jesus with Israel’s tradition—the very Feast that will culminate in his own sacrifice."
+      "comment": "Participation in the Passover emphasizes the continuity of Jesus with Israel’s tradition—the very Feast that will culminate in his own sacrifice.",
+      "sectionHeader": "The Boy Jesus in the Temple"
     },
     {
       "pk": 49002042,
@@ -629,5 +633,27 @@
       "comment": "Jesus matures fully in every way, embodying the fullness of both true humanity and divinity. Growth was balanced—wise and pleasing to both God and others, a model for all believers."
     }
   ],
-  "translatedAt": "2025-12-24T10:37:27.609Z"
+  "translatedAt": "2025-12-24T10:37:27.609Z",
+  "sections": [
+    {
+      "title": "The Birth of Jesus",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "The Shepherds Visit the Infant Jesus",
+      "startVerse": 8,
+      "endVerse": 20
+    },
+    {
+      "title": "The Presentation of Jesus in the Temple",
+      "startVerse": 21,
+      "endVerse": 40
+    },
+    {
+      "title": "The Boy Jesus in the Temple",
+      "startVerse": 41,
+      "endVerse": 52
+    }
+  ]
 }

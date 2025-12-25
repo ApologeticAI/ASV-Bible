@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then Job answered and said:",
       "links": "<a href='/AIV/22/16/1'>Job 16:1</a>",
-      "comment": "Job begins his reply to his friends’ accusations. The dialogue format is a central feature of Job’s narrative."
+      "comment": "Job begins his reply to his friends’ accusations. The dialogue format is a central feature of Job’s narrative.",
+      "sectionHeader": "Job’s Complaint Against His Friends"
     },
     {
       "pk": 22019002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "then know that God has wronged me and has surrounded me with His net.",
       "links": "<a href='/AIV/22/13/24'>Job 13:24</a>; <a href='/AIV/19/66/10-11'>Ps. 66:10-11</a>",
-      "comment": "Job wrestles with the mystery of innocent suffering, perceiving his trial as coming from God. This introduces questions of divine providence and justice."
+      "comment": "Job wrestles with the mystery of innocent suffering, perceiving his trial as coming from God. This introduces questions of divine providence and justice.",
+      "sectionHeader": "Job Laments God’s Hostility"
     },
     {
       "pk": 22019007,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "He has removed my family far from me, and my acquaintances are completely estranged.",
       "links": "<a href='/AIV/22/6/15'>Job 6:15</a>; <a href='/AIV/19/38/11'>Ps. 38:11</a>",
-      "comment": "Isolation is a recurring theme for Job and is found in the Psalms as well, hinting toward the reality that spiritual struggle often involves loneliness."
+      "comment": "Isolation is a recurring theme for Job and is found in the Psalms as well, hinting toward the reality that spiritual struggle often involves loneliness.",
+      "sectionHeader": "Job’s Isolation and Plea for Mercy"
     },
     {
       "pk": 22019014,
@@ -278,7 +281,8 @@
       "verse": 23,
       "text": "Oh, that my words were written! Oh, that they were inscribed in a book!",
       "links": "<a href='/AIV/22/31/35'>Job 31:35</a>",
-      "comment": "Job wishes his testimony were preserved forever, foreshadowing the permanence of divine revelation and the scriptural tradition."
+      "comment": "Job wishes his testimony were preserved forever, foreshadowing the permanence of divine revelation and the scriptural tradition.",
+      "sectionHeader": "Job’s Declaration of Faith"
     },
     {
       "pk": 22019024,
@@ -338,7 +342,8 @@
       "verse": 28,
       "text": "If you say, ‘How will we pursue him?’ and, ‘The root of the matter is found in him,’",
       "links": "<a href='/AIV/22/8/2'>Job 8:2</a>",
-      "comment": "Job challenges others’ judgment, emphasizing that the cause of his suffering lies beyond human understanding—a call to humility in interpreting divine mysteries."
+      "comment": "Job challenges others’ judgment, emphasizing that the cause of his suffering lies beyond human understanding—a call to humility in interpreting divine mysteries.",
+      "sectionHeader": "Warning of Judgment"
     },
     {
       "pk": 22019029,
@@ -353,5 +358,32 @@
       "comment": "Job warns against unjust condemnation, declaring that judgment ultimately belongs to God alone. This points toward the understanding of divine justice and last things."
     }
   ],
-  "translatedAt": "2025-12-24T05:47:56.038Z"
+  "translatedAt": "2025-12-24T05:47:56.038Z",
+  "sections": [
+    {
+      "title": "Job’s Complaint Against His Friends",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Job Laments God’s Hostility",
+      "startVerse": 6,
+      "endVerse": 12
+    },
+    {
+      "title": "Job’s Isolation and Plea for Mercy",
+      "startVerse": 13,
+      "endVerse": 22
+    },
+    {
+      "title": "Job’s Declaration of Faith",
+      "startVerse": 23,
+      "endVerse": 27
+    },
+    {
+      "title": "Warning of Judgment",
+      "startVerse": 28,
+      "endVerse": 29
+    }
+  ]
 }

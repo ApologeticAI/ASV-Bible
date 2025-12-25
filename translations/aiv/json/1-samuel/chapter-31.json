@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The Philistines fought against Israel, and the men of Israel fled from before the Philistines and fell slain on Mount Gilboa.",
       "links": "<a href='/AIV/13/10/1'>1 Chr. 10:1</a>; <a href='/AIV/9/28/4'>1 Sam. 28:4</a>",
-      "comment": "This verse begins the account of Israel's defeat at Mount Gilboa, leading to the death of Saul. This sets the stage for the transition to David's kingship. Note the spiritual consequences of Israel's disobedience and the importance of faithful leaders (see <a href='/AIV/9/15/23'>1 Sam. 15:23</a>)."
+      "comment": "This verse begins the account of Israel's defeat at Mount Gilboa, leading to the death of Saul. This sets the stage for the transition to David's kingship. Note the spiritual consequences of Israel's disobedience and the importance of faithful leaders (see <a href='/AIV/9/15/23'>1 Sam. 15:23</a>).",
+      "sectionHeader": "The Death of Saul and His Sons"
     },
     {
       "pk": 9031002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "The next day, when the Philistines came to strip the dead, they found Saul and his sons fallen on Mount Gilboa.",
       "links": "<a href='/AIV/9/28/4'>1 Sam. 28:4</a>",
-      "comment": "The desecration of Saul's body symbolizes the humiliation of Israel. This relates to biblical teachings about respectful treatment of the dead—foreshadowing later doctrines of bodily resurrection and dignity (<a href='/AIV/26/37/1-14'>Ezek. 37:1–14</a>)."
+      "comment": "The desecration of Saul's body symbolizes the humiliation of Israel. This relates to biblical teachings about respectful treatment of the dead—foreshadowing later doctrines of bodily resurrection and dignity (<a href='/AIV/26/37/1-14'>Ezek. 37:1–14</a>).",
+      "sectionHeader": "The Philistines Mock Saul"
     },
     {
       "pk": 9031009,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "When the people of Jabesh-gilead heard what the Philistines had done to Saul,",
       "links": "<a href='/AIV/9/11/1'>1 Sam. 11:1</a>",
-      "comment": "Jabesh-gilead’s loyalty to Saul recalls Saul’s earlier deliverance of their city, demonstrating the enduring gratitude and the power of sacred memory—a model for veneration and remembrance among the faithful (<a href='/AIV/19/112/6'>Ps. 112:6</a>)."
+      "comment": "Jabesh-gilead’s loyalty to Saul recalls Saul’s earlier deliverance of their city, demonstrating the enduring gratitude and the power of sacred memory—a model for veneration and remembrance among the faithful (<a href='/AIV/19/112/6'>Ps. 112:6</a>).",
+      "sectionHeader": "The Burial by the Men of Jabesh-gilead"
     },
     {
       "pk": 9031012,
@@ -161,5 +164,22 @@
       "comment": "The burial and seven-day fast close the chapter with ritual and mourning. The use of tree and fasting underscores the prefigurement of penitential practices, communal intercession for the dead, and the importance of sacred tradition (<a href='/AIV/19/35/13'>Ps. 35:13</a>), themes central to the fullness of the faith."
     }
   ],
-  "translatedAt": "2025-12-24T03:08:27.965Z"
+  "translatedAt": "2025-12-24T03:08:27.965Z",
+  "sections": [
+    {
+      "title": "The Death of Saul and His Sons",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "The Philistines Mock Saul",
+      "startVerse": 8,
+      "endVerse": 10
+    },
+    {
+      "title": "The Burial by the Men of Jabesh-gilead",
+      "startVerse": 11,
+      "endVerse": 13
+    }
+  ]
 }

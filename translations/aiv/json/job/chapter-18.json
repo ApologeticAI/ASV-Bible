@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then Bildad the Shuhite answered and said:",
       "links": "<a href='/AIV/22/8/1'>Job 8:1</a>",
-      "comment": "Bildad speaks for the second time. His speeches contribute to the ongoing debate over suffering and righteousness."
+      "comment": "Bildad speaks for the second time. His speeches contribute to the ongoing debate over suffering and righteousness.",
+      "sectionHeader": "Bildad Rebukes Job"
     },
     {
       "pk": 22018002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "Indeed, the light of the wicked will be put out, and the flame of his fire will not shine.",
       "links": "<a href='/AIV/19/18/28'>Ps. 18:28</a>; <a href='/AIV/22/21/17'>Job 21:17</a>",
-      "comment": "Light often signifies life and hope, a theme echoed throughout Scripture. Compare with John 1:5, where the true light still shines despite darkness."
+      "comment": "Light often signifies life and hope, a theme echoed throughout Scripture. Compare with John 1:5, where the true light still shines despite darkness.",
+      "sectionHeader": "The Fate of the Wicked"
     },
     {
       "pk": 22018006,
@@ -257,5 +259,17 @@
       "comment": "Knowing God, in both intellect and practice, is essential to avoid the fate of the wicked. The language calls readers to seek deeper relationship with the Lord through faith and lived fidelity."
     }
   ],
-  "translatedAt": "2025-12-24T05:47:30.723Z"
+  "translatedAt": "2025-12-24T05:47:30.723Z",
+  "sections": [
+    {
+      "title": "Bildad Rebukes Job",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "The Fate of the Wicked",
+      "startVerse": 5,
+      "endVerse": 21
+    }
+  ]
 }

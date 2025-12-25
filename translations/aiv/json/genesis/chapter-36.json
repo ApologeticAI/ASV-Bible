@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now these are the generations of Esau, that is Edom.",
       "links": "<a href='/AIV/1/25/30'>Gen. 25:30</a>; <a href='/AIV/1/28/9'>Gen. 28:9</a>",
-      "comment": "This introduction signals the beginning of another genealogy, connecting Esau with the nation of Edom. It shows the enduring importance of family lineage in salvation history."
+      "comment": "This introduction signals the beginning of another genealogy, connecting Esau with the nation of Edom. It shows the enduring importance of family lineage in salvation history.",
+      "sectionHeader": "The Descendants of Esau"
     },
     {
       "pk": 1036002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "These are the chiefs of the sons of Esau. The sons of Eliphaz, the firstborn of Esau: chief Teman, chief Omar, chief Zepho, chief Kenaz,",
       "links": "<a href='/AIV/1/36/11'>Gen. 36:11</a>",
-      "comment": "\"Chief\" (Heb. 'alluph') designates a ruler or clan leader. These are foundations for later Edomite tribal organization."
+      "comment": "\"Chief\" (Heb. 'alluph') designates a ruler or clan leader. These are foundations for later Edomite tribal organization.",
+      "sectionHeader": "The Chiefs of Esau"
     },
     {
       "pk": 1036016,
@@ -242,7 +244,8 @@
       "verse": 20,
       "text": "These are the sons of Seir the Horite, the former inhabitants of the land: Lotan, Shobal, Zibeon, Anah,",
       "links": "<a href='/AIV/1/14/6'>Gen. 14:6</a>",
-      "comment": "The Horites were Edom’s predecessors in Seir. Their inclusion shows God’s providence in arranging who would inhabit the land."
+      "comment": "The Horites were Edom’s predecessors in Seir. Their inclusion shows God’s providence in arranging who would inhabit the land.",
+      "sectionHeader": "The Horites in the Land of Seir"
     },
     {
       "pk": 1036021,
@@ -374,7 +377,8 @@
       "verse": 31,
       "text": "These are the kings who reigned in the land of Edom before any king reigned over the children of Israel:",
       "links": "<a href='/AIV/9/8/4'>1 Sam. 8:4–5</a>",
-      "comment": "Edom’s early monarchy predates Israel’s. This foreshadows Israel’s future call for a king and God’s unique governance."
+      "comment": "Edom’s early monarchy predates Israel’s. This foreshadows Israel’s future call for a king and God’s unique governance.",
+      "sectionHeader": "The Kings of Edom"
     },
     {
       "pk": 1036032,
@@ -482,7 +486,8 @@
       "verse": 40,
       "text": "These are the names of the chiefs of Esau, according to their clans, places, and names: chief Timna, chief Alvah, chief Jetheth,",
       "links": "",
-      "comment": "‘Chiefs’ here again refers to clan or tribal leaders, showing the decentralized rule in Edom."
+      "comment": "‘Chiefs’ here again refers to clan or tribal leaders, showing the decentralized rule in Edom.",
+      "sectionHeader": "The Chiefs of Edom"
     },
     {
       "pk": 1036041,
@@ -521,5 +526,32 @@
       "comment": "Closing the genealogy by again linking the Edomites to Esau. The careful organization into families and clans points to an ordered tradition passed down—much as later traditions would emphasize the significance of apostolic succession and unity around a founding figure."
     }
   ],
-  "translatedAt": "2025-12-24T00:31:35.614Z"
+  "translatedAt": "2025-12-24T00:31:35.614Z",
+  "sections": [
+    {
+      "title": "The Descendants of Esau",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "The Chiefs of Esau",
+      "startVerse": 15,
+      "endVerse": 19
+    },
+    {
+      "title": "The Horites in the Land of Seir",
+      "startVerse": 20,
+      "endVerse": 30
+    },
+    {
+      "title": "The Kings of Edom",
+      "startVerse": 31,
+      "endVerse": 39
+    },
+    {
+      "title": "The Chiefs of Edom",
+      "startVerse": 40,
+      "endVerse": 43
+    }
+  ]
 }

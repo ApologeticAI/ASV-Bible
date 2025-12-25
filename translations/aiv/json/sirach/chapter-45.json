@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "He brought out from him a man of mercy, who found favor in the sight of all flesh: beloved by God and men, Moses, whose memory is blessed.",
       "links": "<a href='/AIV/2/2/2'>Ex. 2:2</a>; <a href='/AIV/5/34/10'>Deut. 34:10</a>",
-      "comment": "Moses is introduced as a model of divine election and human cooperation. His being 'blessed' echoes patterns of veneration and remembering those faithful to God—which holds implications for honoring the saints."
+      "comment": "Moses is introduced as a model of divine election and human cooperation. His being 'blessed' echoes patterns of veneration and remembering those faithful to God—which holds implications for honoring the saints.",
+      "sectionHeader": "The Praise of Moses"
     },
     {
       "pk": 28045002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "God exalted Aaron, a holy man like him, who was his brother, of the tribe of Levi.",
       "links": "<a href='/AIV/2/28/1'>Ex. 28:1</a>; <a href='/AIV/4/17/1-3'>Num. 17:1-3</a>",
-      "comment": "Aaron is here shown as set apart and raised to holy service, the foundation of the high priesthood (see <a href='/AIV/58/5/4'>Heb. 5:4</a>)."
+      "comment": "Aaron is here shown as set apart and raised to holy service, the foundation of the high priesthood (see <a href='/AIV/58/5/4'>Heb. 5:4</a>).",
+      "sectionHeader": "The High Priesthood of Aaron"
     },
     {
       "pk": 28045007,
@@ -290,7 +292,8 @@
       "verse": 24,
       "text": "Phinehas, son of Eleazar, ranks third in glory, because he was zealous in reverence for the Most High and made atonement for Israel.",
       "links": "<a href='/AIV/4/25/10-13'>Num. 25:10-13</a>",
-      "comment": "Phinehas’s zeal and priesthood anticipate the key principle of spiritual continuity through zeal and fidelity to God's law."
+      "comment": "Phinehas’s zeal and priesthood anticipate the key principle of spiritual continuity through zeal and fidelity to God's law.",
+      "sectionHeader": "The Covenant with Phinehas"
     },
     {
       "pk": 28045025,
@@ -317,5 +320,22 @@
       "comment": "A concluding blessing for wisdom and righteous leadership, echoing prayers for the preservation and blessing of God’s chosen leaders and people."
     }
   ],
-  "translatedAt": "2025-12-24T07:48:03.992Z"
+  "translatedAt": "2025-12-24T07:48:03.992Z",
+  "sections": [
+    {
+      "title": "The Praise of Moses",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "The High Priesthood of Aaron",
+      "startVerse": 6,
+      "endVerse": 23
+    },
+    {
+      "title": "The Covenant with Phinehas",
+      "startVerse": 24,
+      "endVerse": 26
+    }
+  ]
 }

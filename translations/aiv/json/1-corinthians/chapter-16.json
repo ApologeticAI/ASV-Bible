@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now about the collection for the saints: Do as I directed the churches in Galatia.",
       "links": "<a href='/AIV/48/6/6'>Gal. 6:6</a>;<a href='/AIV/45/15/25-26'>Rom. 15:25-26</a>",
-      "comment": "Paul instructs the Corinthians just as he did other churches, highlighting a consistent teaching authority among the communities. The use of 'saints' refers to all faithful believers, especially those in Jerusalem in need of support. This demonstrates the early practice of almsgiving and solidarity among believers."
+      "comment": "Paul instructs the Corinthians just as he did other churches, highlighting a consistent teaching authority among the communities. The use of 'saints' refers to all faithful believers, especially those in Jerusalem in need of support. This demonstrates the early practice of almsgiving and solidarity among believers.",
+      "sectionHeader": "The Collection for the Saints"
     },
     {
       "pk": 53016002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "I will come to you after passing through Macedonia, for I am passing through Macedonia,",
       "links": "<a href='/AIV/46/4/19'>1 Cor. 4:19</a>;<a href='/AIV/47/1/15-16'>2 Cor. 1:15-16</a>",
-      "comment": "Paul's travel plans reveal his pastoral care and flexible guidance over the churches."
+      "comment": "Paul's travel plans reveal his pastoral care and flexible guidance over the churches.",
+      "sectionHeader": "Paul’s Travel Plans and Instructions"
     },
     {
       "pk": 53016006,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "Be watchful, stand firm in the faith, act like men, be strong.",
       "links": "<a href='/AIV/60/5/8-9'>1 Pet. 5:8-9</a>;<a href='/AIV/49/6/10-14'>Eph. 6:10-14</a>",
-      "comment": "The commands here echo themes of spiritual vigilance and perseverance, key elements for sustaining the community’s faith in the face of trials."
+      "comment": "The commands here echo themes of spiritual vigilance and perseverance, key elements for sustaining the community’s faith in the face of trials.",
+      "sectionHeader": "Final Exhortations and Greetings"
     },
     {
       "pk": 53016014,
@@ -293,5 +296,22 @@
       "comment": "Paul ends the letter with an expression of personal love in Christ, underscoring genuine pastoral care. The theme of unity and love in Christ is the final word for all the Church."
     }
   ],
-  "translatedAt": "2025-12-24T11:52:40.710Z"
+  "translatedAt": "2025-12-24T11:52:40.710Z",
+  "sections": [
+    {
+      "title": "The Collection for the Saints",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "Paul’s Travel Plans and Instructions",
+      "startVerse": 5,
+      "endVerse": 12
+    },
+    {
+      "title": "Final Exhortations and Greetings",
+      "startVerse": 13,
+      "endVerse": 24
+    }
+  ]
 }

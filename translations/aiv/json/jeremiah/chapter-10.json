@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Hear the word that the Lord speaks to you, O house of Israel.",
       "links": "<a href='/AIV/23/1/2'>Isa. 1:2</a>; <a href='/AIV/24/2/4'>Jer. 2:4</a>",
-      "comment": "Jeremiah addresses the people with a call to listen, establishing God's authority over Israel. This theme of divine direction is common in prophetic literature."
+      "comment": "Jeremiah addresses the people with a call to listen, establishing God's authority over Israel. This theme of divine direction is common in prophetic literature.",
+      "sectionHeader": "The Folly of Idolatry"
     },
     {
       "pk": 30010002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "But the Lord is the true God; he is the living God and the everlasting King. When he is angry, the earth trembles, and the nations cannot endure his wrath.",
       "links": "<a href='/AIV/19/42/2'>Ps. 42:2</a>; <a href='/AIV/24/23/36'>Jer. 23:36</a>",
-      "comment": "God’s living reality stands in contrast to lifeless idols. The language anticipates the incarnation: Christ as God living among us. Note the reference to God’s kingship."
+      "comment": "God’s living reality stands in contrast to lifeless idols. The language anticipates the incarnation: Christ as God living among us. Note the reference to God’s kingship.",
+      "sectionHeader": "The True God and Creator"
     },
     {
       "pk": 30010011,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "Gather up your belongings from the land, O you who dwell under siege.",
       "links": "<a href='/AIV/24/21/4-10'>Jer. 21:4-10</a>",
-      "comment": "A call to prepare for exile. The motif of pilgrimage and preparation anticipates Christian life as a journey toward ultimate fulfillment."
+      "comment": "A call to prepare for exile. The motif of pilgrimage and preparation anticipates Christian life as a journey toward ultimate fulfillment.",
+      "sectionHeader": "Destruction and Lament over Judah"
     },
     {
       "pk": 30010018,
@@ -278,7 +281,8 @@
       "verse": 23,
       "text": "I know, O Lord, that the way of man is not in himself; it is not for man who walks to direct his steps.",
       "links": "<a href='/AIV/19/37/23'>Ps. 37:23</a>; <a href='/AIV/20/16/9'>Prov. 16:9</a>",
-      "comment": "Acknowledgment of human dependence on divine guidance. Submission to God’s will is foundational, and later finds full expression in the life of disciples and Church tradition."
+      "comment": "Acknowledgment of human dependence on divine guidance. Submission to God’s will is foundational, and later finds full expression in the life of disciples and Church tradition.",
+      "sectionHeader": "Prayer for Justice on the Nations"
     },
     {
       "pk": 30010024,
@@ -305,5 +309,27 @@
       "comment": "Request for God’s judgment on the wicked. God’s justice serves to vindicate His people, which prefigures the final restoration and unity of all who truly worship Him."
     }
   ],
-  "translatedAt": "2025-12-24T08:26:48.919Z"
+  "translatedAt": "2025-12-24T08:26:48.919Z",
+  "sections": [
+    {
+      "title": "The Folly of Idolatry",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "The True God and Creator",
+      "startVerse": 10,
+      "endVerse": 16
+    },
+    {
+      "title": "Destruction and Lament over Judah",
+      "startVerse": 17,
+      "endVerse": 22
+    },
+    {
+      "title": "Prayer for Justice on the Nations",
+      "startVerse": 23,
+      "endVerse": 25
+    }
+  ]
 }

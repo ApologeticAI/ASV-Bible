@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "I love the LORD, because He hears my voice and my pleas for mercy.",
       "links": "<a href='/AIV/19/34/4'>Ps. 34:4</a>; <a href='/AIV/19/18/6'>Ps. 18:6</a>",
-      "comment": "This opening declaration is both personal and intimate, emphasizing a loving relationship with God based on His responsiveness to prayer. The Hebrew uses 'I love' as an uncommon word here, expressing a devoted attachment. The verse hints at the importance of prayer as a dialogue, establishing early the vital connection with God through direct supplication, a theme that is further emphasized in Jesus' teachings about prayer (see <a href='/AIV/40/6/6'>Matt. 6:6</a>)."
+      "comment": "This opening declaration is both personal and intimate, emphasizing a loving relationship with God based on His responsiveness to prayer. The Hebrew uses 'I love' as an uncommon word here, expressing a devoted attachment. The verse hints at the importance of prayer as a dialogue, establishing early the vital connection with God through direct supplication, a theme that is further emphasized in Jesus' teachings about prayer (see <a href='/AIV/40/6/6'>Matt. 6:6</a>).",
+      "sectionHeader": "Thanksgiving for Deliverance"
     },
     {
       "pk": 23116002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "What shall I return to the LORD for all His goodness toward me?",
       "links": "<a href='/AIV/19/103/2'>Ps. 103:2</a>; <a href='/AIV/19/116/17'>Ps. 116:17</a>",
-      "comment": "A rhetorical question. The psalmist contemplates a fitting response to God's abundant grace. This opens reflection on gratitude, sacrifice, and worship as the proper human answer to divine beneficence—hinting at the principle of freely offered sacrifice (see <a href='/AIV/58/13/15'>Heb. 13:15</a>)."
+      "comment": "A rhetorical question. The psalmist contemplates a fitting response to God's abundant grace. This opens reflection on gratitude, sacrifice, and worship as the proper human answer to divine beneficence—hinting at the principle of freely offered sacrifice (see <a href='/AIV/58/13/15'>Heb. 13:15</a>).",
+      "sectionHeader": "Vow of Praise and Thanksgiving"
     },
     {
       "pk": 23116013,
@@ -233,5 +235,17 @@
       "comment": "Final praise is rooted in worship at a sacred place—'courts of the house of the LORD,' Jerusalem being the heart of gathered worship and spiritual presence. Jerusalem is emblematic of the ultimate unity and worship that God desires. In Christian interpretation, God's dwelling with His people finds its highest form in the gathered Church and the heavenly Jerusalem (<a href='/AIV/66/21/2'>Rev. 21:2</a>)."
     }
   ],
-  "translatedAt": "2025-12-24T06:40:51.019Z"
+  "translatedAt": "2025-12-24T06:40:51.019Z",
+  "sections": [
+    {
+      "title": "Thanksgiving for Deliverance",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "Vow of Praise and Thanksgiving",
+      "startVerse": 12,
+      "endVerse": 19
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "For this reason, they were rightly punished by similar creatures, and tormented by a multitude of animals.",
       "links": "<a href='/AIV/02/8/16'>Exod. 8:16</a>; <a href='/AIV/02/9/8-11'>Exod. 9:8-11</a>",
-      "comment": "Refers to the plagues of Egypt, where God used animals and insects as instruments of judgment. Demonstrates both God's justice and irony by punishing with similar means."
+      "comment": "Refers to the plagues of Egypt, where God used animals and insects as instruments of judgment. Demonstrates both God's justice and irony by punishing with similar means.",
+      "sectionHeader": "The Justly Punished and the Mercifully Fed"
     },
     {
       "pk": 27016002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "Even when fierce and deadly beasts attacked them, and they perished from venomous serpents, your anger did not persist forever.",
       "links": "<a href='/AIV/04/21/6'>Num. 21:6</a>",
-      "comment": "References the episode of the fiery serpents. Demonstrates the temporary nature of God's punishment compared to His lasting mercy."
+      "comment": "References the episode of the fiery serpents. Demonstrates the temporary nature of God's punishment compared to His lasting mercy.",
+      "sectionHeader": "The Bronze Serpent and the Power of God's Word"
     },
     {
       "pk": 27016006,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "The ungodly, refusing to know you, were scourged by the strength of your arm, chased by strange rains, hail, and relentless storms, and finally consumed by fire.",
       "links": "<a href='/AIV/02/9/23-24'>Exod. 9:23-24</a>",
-      "comment": "Describes the accumulation of plagues as punishment for persistent rejection of God. This also has spiritual significance as a warning against hardened hearts."
+      "comment": "Describes the accumulation of plagues as punishment for persistent rejection of God. This also has spiritual significance as a warning against hardened hearts.",
+      "sectionHeader": "The Plagues of Fire and the Preservation of the Righteous"
     },
     {
       "pk": 27016017,
@@ -242,7 +245,8 @@
       "verse": 20,
       "text": "Instead, you gave your people heavenly bread without labor, prepared from heaven—bread that had all delight and satisfied every taste.",
       "links": "<a href='/AIV/02/16/15'>Exod. 16:15</a>; <a href='/AIV/43/6/31-35'>John 6:31-35</a>",
-      "comment": "The manna is described as supernatural, foreshadowing the true bread from heaven in Christ (Eucharistic imagery)."
+      "comment": "The manna is described as supernatural, foreshadowing the true bread from heaven in Christ (Eucharistic imagery).",
+      "sectionHeader": "Heavenly Manna and the Lessons of Creation"
     },
     {
       "pk": 27016021,
@@ -353,5 +357,27 @@
       "comment": "A final contrast: the foundation of the righteous is solid, but the enemies of God have no lasting hope."
     }
   ],
-  "translatedAt": "2025-12-24T07:21:45.816Z"
+  "translatedAt": "2025-12-24T07:21:45.816Z",
+  "sections": [
+    {
+      "title": "The Justly Punished and the Mercifully Fed",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "The Bronze Serpent and the Power of God's Word",
+      "startVerse": 5,
+      "endVerse": 15
+    },
+    {
+      "title": "The Plagues of Fire and the Preservation of the Righteous",
+      "startVerse": 16,
+      "endVerse": 19
+    },
+    {
+      "title": "Heavenly Manna and the Lessons of Creation",
+      "startVerse": 20,
+      "endVerse": 29
+    }
+  ]
 }

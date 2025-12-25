@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "And I said, 'Listen now, leaders of Jacob, and rulers of the house of Israel! Should you not know justice?'",
       "links": "<a href='/AIV/23/1/23'>Isa. 1:23</a>; <a href='/AIV/20/8/15'>Prov. 8:15</a>",
-      "comment": "Micah rebukes the leaders for their failure to practice justice, reminding them of their duty before God. This reflects on the responsibility God gives leadership to be righteous—a theme echoed throughout the Old Testament and crucial in apostolic succession in the early Church."
+      "comment": "Micah rebukes the leaders for their failure to practice justice, reminding them of their duty before God. This reflects on the responsibility God gives leadership to be righteous—a theme echoed throughout the Old Testament and crucial in apostolic succession in the early Church.",
+      "sectionHeader": "Denunciation of Unjust Rulers"
     },
     {
       "pk": 40003002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "Thus says the LORD about the prophets who mislead my people, who cry 'Peace' when they have something to eat, but prepare war against those who put nothing into their mouths:",
       "links": "<a href='/AIV/24/5/31'>Jer. 5:31</a>; <a href='/AIV/26/13/10'>Ezek. 13:10</a>",
-      "comment": "False teaching for personal gain is condemned. This highlights the importance of sound doctrine passed down from the apostles, safeguarded by faithful tradition."
+      "comment": "False teaching for personal gain is condemned. This highlights the importance of sound doctrine passed down from the apostles, safeguarded by faithful tradition.",
+      "sectionHeader": "Judgment Against False Prophets"
     },
     {
       "pk": 40003006,
@@ -110,7 +112,8 @@
       "verse": 9,
       "text": "Now hear this, heads of the house of Jacob and rulers of the house of Israel, who despise justice and twist all that is right:",
       "links": "<a href='/AIV/23/5/23-24'>Isa. 5:23-24</a>",
-      "comment": "The call to uprightness reaffirms the foundational role of justice, a virtue essential for any true leader in the community of faith."
+      "comment": "The call to uprightness reaffirms the foundational role of justice, a virtue essential for any true leader in the community of faith.",
+      "sectionHeader": "Corruption of Leaders and the Fate of Zion"
     },
     {
       "pk": 40003010,
@@ -149,5 +152,22 @@
       "comment": "The consequences of spiritual corruption are destruction and loss of God’s presence. The promise of restoration finds fulfillment in Christ, who rebuilds the spiritual temple through His self-giving and the enduring foundation of the apostolic Church."
     }
   ],
-  "translatedAt": "2025-12-24T09:48:10.225Z"
+  "translatedAt": "2025-12-24T09:48:10.225Z",
+  "sections": [
+    {
+      "title": "Denunciation of Unjust Rulers",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "Judgment Against False Prophets",
+      "startVerse": 5,
+      "endVerse": 8
+    },
+    {
+      "title": "Corruption of Leaders and the Fate of Zion",
+      "startVerse": 9,
+      "endVerse": 12
+    }
+  ]
 }

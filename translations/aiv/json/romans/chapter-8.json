@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Therefore, there is now no condemnation for those who are in Christ Jesus.",
       "links": "<a href='/AIV/41/16/16'>Mark 16:16</a>; <a href='/AIV/43/3/18'>John 3:18</a>",
-      "comment": "Paul declares that believers united to Christ are free from judgment. Note how salvation is directly linked to being 'in Christ,' emphasizing the reality of incorporation into the body of Christ, not merely a mental assent or external association."
+      "comment": "Paul declares that believers united to Christ are free from judgment. Note how salvation is directly linked to being 'in Christ,' emphasizing the reality of incorporation into the body of Christ, not merely a mental assent or external association.",
+      "sectionHeader": "Life in the Spirit"
     },
     {
       "pk": 52008002,
@@ -170,7 +171,8 @@
       "verse": 14,
       "text": "For all who are led by the Spirit of God are sons of God.",
       "links": "<a href='/AIV/43/1/12'>John 1:12</a>; <a href='/AIV/62/3/1'>1 John 3:1</a>",
-      "comment": "To be children of God is contingent on being led by the Spirit, emphasizing the change in identity brought about by grace and the Spirit’s guidance."
+      "comment": "To be children of God is contingent on being led by the Spirit, emphasizing the change in identity brought about by grace and the Spirit’s guidance.",
+      "sectionHeader": "Children and Heirs of God"
     },
     {
       "pk": 52008015,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "For I consider that the sufferings of this present time are not worth comparing with the glory that will be revealed in us.",
       "links": "<a href='/AIV/47/4/17'>2 Cor. 4:17</a>; <a href='/AIV/19/16/11'>Psalm 16:11</a>",
-      "comment": "Future glory far exceeds present suffering, motivating believers to press on in hope and endurance."
+      "comment": "Future glory far exceeds present suffering, motivating believers to press on in hope and endurance.",
+      "sectionHeader": "Future Glory"
     },
     {
       "pk": 52008019,
@@ -374,7 +377,8 @@
       "verse": 31,
       "text": "What then shall we say to these things? If God is for us, who can be against us?",
       "links": "<a href='/AIV/19/118/6'>Ps. 118:6</a>",
-      "comment": "God’s sovereign protection gives believers unshakeable confidence, echoing Old Testament assurances of God's steadfast love."
+      "comment": "God’s sovereign protection gives believers unshakeable confidence, echoing Old Testament assurances of God's steadfast love.",
+      "sectionHeader": "God’s Everlasting Love"
     },
     {
       "pk": 52008032,
@@ -473,5 +477,27 @@
       "comment": "God’s love in Christ is the foundation and enduring reality of the believer's life; nothing can break this bond, sealing believers into the family of God for eternity."
     }
   ],
-  "translatedAt": "2025-12-24T11:39:34.981Z"
+  "translatedAt": "2025-12-24T11:39:34.981Z",
+  "sections": [
+    {
+      "title": "Life in the Spirit",
+      "startVerse": 1,
+      "endVerse": 13
+    },
+    {
+      "title": "Children and Heirs of God",
+      "startVerse": 14,
+      "endVerse": 17
+    },
+    {
+      "title": "Future Glory",
+      "startVerse": 18,
+      "endVerse": 30
+    },
+    {
+      "title": "God’s Everlasting Love",
+      "startVerse": 31,
+      "endVerse": 39
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "You then, my child, be strengthened by the grace that is in Christ Jesus.",
       "links": "<a href='/AIV/52/4/13'>Phil. 4:13</a>; <a href='/AIV/47/12/9'>2 Cor. 12:9</a>",
-      "comment": "Paul encourages Timothy to find his strength not in himself, but in the empowering grace provided by Christ Jesus. This aligns with the doctrine of grace working through believers (see also John 15:5)."
+      "comment": "Paul encourages Timothy to find his strength not in himself, but in the empowering grace provided by Christ Jesus. This aligns with the doctrine of grace working through believers (see also John 15:5).",
+      "sectionHeader": "Exhortation to Perseverance in Ministry"
     },
     {
       "pk": 62002002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "This saying is trustworthy: If we died with Him, we will also live with Him;",
       "links": "<a href='/AIV/45/6/8'>Rom. 6:8</a>; <a href='/AIV/47/4/10-11'>2 Cor. 4:10-11</a>",
-      "comment": "The early Church often preserved key teachings in trustworthy summaries. Sharing in Christ's death through faith and sacramental baptism leads to sharing His resurrection life."
+      "comment": "The early Church often preserved key teachings in trustworthy summaries. Sharing in Christ's death through faith and sacramental baptism leads to sharing His resurrection life.",
+      "sectionHeader": "A Trustworthy Saying About Endurance"
     },
     {
       "pk": 62002012,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "Remind them of these things, and solemnly charge them before God not to quarrel about words, which does no good, but only ruins the hearers.",
       "links": "<a href='/AIV/54/1/4'>1 Tim. 1:4</a>; <a href='/AIV/56/3/9'>Titus 3:9</a>",
-      "comment": "Paul warns against pointless arguments—a common problem in church history. Sound teaching matters more than divisive debates."
+      "comment": "Paul warns against pointless arguments—a common problem in church history. Sound teaching matters more than divisive debates.",
+      "sectionHeader": "Warnings Against False Teaching"
     },
     {
       "pk": 62002015,
@@ -242,7 +245,8 @@
       "verse": 20,
       "text": "Now in a large house there are not only vessels of gold and silver but also of wood and clay, some for honorable use, some for dishonorable.",
       "links": "<a href='/AIV/45/9/21'>Rom. 9:21</a>",
-      "comment": "The Church is compared to a great house, containing people of different roles and levels of holiness. Some are set apart for special service based on purity and divine choice."
+      "comment": "The Church is compared to a great house, containing people of different roles and levels of holiness. Some are set apart for special service based on purity and divine choice.",
+      "sectionHeader": "Call to Purity and Conduct for God's Servant"
     },
     {
       "pk": 62002021,
@@ -317,5 +321,27 @@
       "comment": "Spiritual warfare includes intellectual and moral dimensions. Deliverance from error is equivalent to deliverance from the grasp of evil."
     }
   ],
-  "translatedAt": "2025-12-24T12:14:02.899Z"
+  "translatedAt": "2025-12-24T12:14:02.899Z",
+  "sections": [
+    {
+      "title": "Exhortation to Perseverance in Ministry",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "A Trustworthy Saying About Endurance",
+      "startVerse": 11,
+      "endVerse": 13
+    },
+    {
+      "title": "Warnings Against False Teaching",
+      "startVerse": 14,
+      "endVerse": 19
+    },
+    {
+      "title": "Call to Purity and Conduct for God's Servant",
+      "startVerse": 20,
+      "endVerse": 26
+    }
+  ]
 }

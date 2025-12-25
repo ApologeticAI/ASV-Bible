@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then we turned back and set out toward the wilderness by the way of the Red Sea, as the LORD had told me, and for many days we traveled around Mount Seir.",
       "links": "<a href='/AIV/2/14/2'>Ex. 14:2</a>; <a href='/AIV/4/33/36'>Num. 33:36</a>",
-      "comment": "The wilderness journey emphasizes obedience to God's directions, with parallels to Israel's Exodus and continuous testing in the wilderness (see also Matthew 4:1, where Christ is tested in the wilderness)."
+      "comment": "The wilderness journey emphasizes obedience to God's directions, with parallels to Israel's Exodus and continuous testing in the wilderness (see also Matthew 4:1, where Christ is tested in the wilderness).",
+      "sectionHeader": "Journey Around Edom and Moab"
     },
     {
       "pk": 5002002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "Then the LORD said to me, 'Do not harass the Moabites or provoke them to war, for I will not give you any part of their land. I have given Ar to the descendants of Lot as a possession.’",
       "links": "<a href='/AIV/1/19/36-38'>Gen. 19:36-38</a>; <a href='/AIV/4/21/13'>Num. 21:13</a>",
-      "comment": "Lot, like Esau, receives a promise from God, showing the Creator's faithfulness and the importance of familial bonds and covenants."
+      "comment": "Lot, like Esau, receives a promise from God, showing the Creator's faithfulness and the importance of familial bonds and covenants.",
+      "sectionHeader": "Passing Through the Territory of the Descendants of Lot"
     },
     {
       "pk": 5002010,
@@ -290,7 +292,8 @@
       "verse": 24,
       "text": "‘Rise up, take your journey, and cross over the Valley of the Arnon. See, I have given into your hand Sihon the Amorite, king of Heshbon, and his land. Begin to take possession, and engage him in battle.",
       "links": "<a href='/AIV/4/21/21-24'>Num. 21:21-24</a>",
-      "comment": "Israel’s conquest begins only at God’s command. Authority and inheritance come not by presumption but by divine grant—a principle echoed in the establishment of true spiritual authority."
+      "comment": "Israel’s conquest begins only at God’s command. Authority and inheritance come not by presumption but by divine grant—a principle echoed in the establishment of true spiritual authority.",
+      "sectionHeader": "The Defeat of Sihon King of Heshbon"
     },
     {
       "pk": 5002025,
@@ -449,5 +452,22 @@
       "comment": "Strict adherence to God’s instructions underscores the importance of authority and obedience—a pattern reaffirmed in the New Testament (Acts 5:29)."
     }
   ],
-  "translatedAt": "2025-12-24T01:57:22.589Z"
+  "translatedAt": "2025-12-24T01:57:22.589Z",
+  "sections": [
+    {
+      "title": "Journey Around Edom and Moab",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "Passing Through the Territory of the Descendants of Lot",
+      "startVerse": 9,
+      "endVerse": 23
+    },
+    {
+      "title": "The Defeat of Sihon King of Heshbon",
+      "startVerse": 24,
+      "endVerse": 37
+    }
+  ]
 }

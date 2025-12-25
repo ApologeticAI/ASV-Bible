@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The ark of the Lord remained in the land of the Philistines for seven months.",
       "links": "<a href='/AIV/9/5/1'>1Sam 5:1</a>; <a href='/AIV/24/25/11'>Jer. 25:11</a>",
-      "comment": "The number seven often signifies completeness in Scripture. The continued presence of the Ark among the Philistines emphasizes God's sovereign control over all nations."
+      "comment": "The number seven often signifies completeness in Scripture. The continued presence of the Ark among the Philistines emphasizes God's sovereign control over all nations.",
+      "sectionHeader": "The Philistines Decide to Return the Ark"
     },
     {
       "pk": 9006002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "The men did so, and took two milk cows, harnessed them to the cart, and shut up their calves at home.",
       "links": "<a href='/AIV/9/6/7'>1Sam 6:7</a>",
-      "comment": "The obedience of the Philistines underscores the importance of following instructions in religious observance."
+      "comment": "The obedience of the Philistines underscores the importance of following instructions in religious observance.",
+      "sectionHeader": "The Ark Sent Back to Israel"
     },
     {
       "pk": 9006011,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "Now the people of Beth-shemesh were reaping their wheat harvest in the valley. When they looked up and saw the ark, they rejoiced at the sight.",
       "links": "<a href='/AIV/9/6/15'>1Sam 6:15</a>",
-      "comment": "The return of the Ark brought joy—a theme later connected to God’s presence bringing rejoicing among the people (see <a href='/AIV/19/16/11'>Ps. 16:11</a>)."
+      "comment": "The return of the Ark brought joy—a theme later connected to God’s presence bringing rejoicing among the people (see <a href='/AIV/19/16/11'>Ps. 16:11</a>).",
+      "sectionHeader": "The Ark at Beth-shemesh"
     },
     {
       "pk": 9006014,
@@ -230,7 +233,8 @@
       "verse": 19,
       "text": "But God struck some of the men of Beth-shemesh, because they looked into the ark of the Lord. He struck down seventy men; the people mourned because the Lord had struck the people with a great blow.",
       "links": "<a href='/AIV/4/4/15'>Num. 4:15</a>; <a href='/AIV/10/6/7'>2 Sam. 6:7</a>",
-      "comment": "Unauthorized contact with the Ark results in judgment. God’s holiness requires reverence and respect for sacred things—a principle maintained in later ritual practice."
+      "comment": "Unauthorized contact with the Ark results in judgment. God’s holiness requires reverence and respect for sacred things—a principle maintained in later ritual practice.",
+      "sectionHeader": "Judgment on the Men of Beth-shemesh"
     },
     {
       "pk": 9006020,
@@ -257,5 +261,27 @@
       "comment": "The arc is received among a prepared people. This echoes the importance of readiness and proper preparation when hosting the presence of the Lord—a principle embodied in reverent worship and discipline."
     }
   ],
-  "translatedAt": "2025-12-24T02:51:40.876Z"
+  "translatedAt": "2025-12-24T02:51:40.876Z",
+  "sections": [
+    {
+      "title": "The Philistines Decide to Return the Ark",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "The Ark Sent Back to Israel",
+      "startVerse": 10,
+      "endVerse": 12
+    },
+    {
+      "title": "The Ark at Beth-shemesh",
+      "startVerse": 13,
+      "endVerse": 18
+    },
+    {
+      "title": "Judgment on the Men of Beth-shemesh",
+      "startVerse": 19,
+      "endVerse": 21
+    }
+  ]
 }

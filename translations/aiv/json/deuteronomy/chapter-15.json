@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "At the end of every seven years you shall grant a release.",
       "links": "<a href='/AIV/03/25/10'>Lev. 25:10</a>; <a href='/AIV/05/31/10'>Deut. 31:10</a>",
-      "comment": "The command for a seven-year cycle of release parallels the Jubilee principle (Lev. 25:10), underscoring a rhythm of mercy and freedom established by God. Spiritually, it prefigures ultimate liberation in Christ (Luke 4:18)."
+      "comment": "The command for a seven-year cycle of release parallels the Jubilee principle (Lev. 25:10), underscoring a rhythm of mercy and freedom established by God. Spiritually, it prefigures ultimate liberation in Christ (Luke 4:18).",
+      "sectionHeader": "The Sabbatical Year and Release of Debts"
     },
     {
       "pk": 5015002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "If there is a poor man among your brothers within any of your towns in the land the LORD your God is giving you, do not harden your heart nor shut your hand against your poor brother.",
       "links": "<a href='/AIV/03/25/35'>Lev. 25:35</a>; <a href='/AIV/40/25/40'>Matt. 25:40</a>",
-      "comment": "Compassion for the poor is commanded, reflecting a heart like God's. Jesus expands this ethic in Matthew 25:40, affirming acts of mercy as service to Him."
+      "comment": "Compassion for the poor is commanded, reflecting a heart like God's. Jesus expands this ethic in Matthew 25:40, affirming acts of mercy as service to Him.",
+      "sectionHeader": "Compassion for the Poor"
     },
     {
       "pk": 5015008,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "If your brother, a Hebrew man or woman, is sold to you and serves you six years, then in the seventh year you shall set him free from your service.",
       "links": "<a href='/AIV/02/21/2'>Exod. 21:2</a>; <a href='/AIV/24/34/14'>Jer. 34:14</a>",
-      "comment": "Release from servitude upholds dignity and restoration to full community, prefiguring liberation through Christ (Rom. 8:2)."
+      "comment": "Release from servitude upholds dignity and restoration to full community, prefiguring liberation through Christ (Rom. 8:2).",
+      "sectionHeader": "Release of Hebrew Slaves"
     },
     {
       "pk": 5015013,
@@ -230,7 +233,8 @@
       "verse": 19,
       "text": "All the firstborn males that are born of your herds and flocks you shall dedicate to the LORD your God. You shall not work with the firstborn of your cattle nor shear the firstborn of your sheep.",
       "links": "<a href='/AIV/02/13/12'>Exod. 13:12</a>; <a href='/AIV/04/18/17'>Num. 18:17</a>",
-      "comment": "Consecration of firstborn animals reflects the principle of giving God the first and best—an act of worship symbolizing the dedication of one’s life (Rom. 12:1)."
+      "comment": "Consecration of firstborn animals reflects the principle of giving God the first and best—an act of worship symbolizing the dedication of one’s life (Rom. 12:1).",
+      "sectionHeader": "Consecration of the Firstborn"
     },
     {
       "pk": 5015020,
@@ -281,5 +285,27 @@
       "comment": "The prohibition of blood signifies respect for life, anticipating Christ’s blood poured out for many—a sign of the New Covenant (Matt. 26:28)."
     }
   ],
-  "translatedAt": "2025-12-24T02:05:09.171Z"
+  "translatedAt": "2025-12-24T02:05:09.171Z",
+  "sections": [
+    {
+      "title": "The Sabbatical Year and Release of Debts",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Compassion for the Poor",
+      "startVerse": 7,
+      "endVerse": 11
+    },
+    {
+      "title": "Release of Hebrew Slaves",
+      "startVerse": 12,
+      "endVerse": 18
+    },
+    {
+      "title": "Consecration of the Firstborn",
+      "startVerse": 19,
+      "endVerse": 23
+    }
+  ]
 }

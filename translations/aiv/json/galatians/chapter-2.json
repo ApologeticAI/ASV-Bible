@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then, after fourteen years, I went up again to Jerusalem with Barnabas, taking Titus along with me.",
       "links": "<a href='/AIV/44/15/2'>Acts 15:2</a>",
-      "comment": "Paul returns to Jerusalem after a long period of ministry. This journey corresponds to the council described in Acts 15, where issues of church unity and doctrine are addressed."
+      "comment": "Paul returns to Jerusalem after a long period of ministry. This journey corresponds to the council described in Acts 15, where issues of church unity and doctrine are addressed.",
+      "sectionHeader": "Paul’s Visit to Jerusalem"
     },
     {
       "pk": 55002002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "But when Cephas came to Antioch, I opposed him openly, because he stood condemned.",
       "links": "<a href='/AIV/44/11/2'>Acts 11:2</a>; <a href='/AIV/45/14/13'>Rom. 14:13</a>",
-      "comment": "Paul rebukes Peter (Cephas) for acting contrary to the gospel. This demonstrates that even leaders must submit to the truth, and that fraternal correction is essential within the unified body."
+      "comment": "Paul rebukes Peter (Cephas) for acting contrary to the gospel. This demonstrates that even leaders must submit to the truth, and that fraternal correction is essential within the unified body.",
+      "sectionHeader": "Paul Rebukes Peter at Antioch"
     },
     {
       "pk": 55002012,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "We, who are Jews by birth and not sinners from among the Gentiles,",
       "links": "<a href='/AIV/45/3/9'>Rom. 3:9</a>",
-      "comment": "Paul identifies with Jewish believers, acknowledging traditional distinctions, yet his argument makes clear all stand before God’s mercy regardless of background."
+      "comment": "Paul identifies with Jewish believers, acknowledging traditional distinctions, yet his argument makes clear all stand before God’s mercy regardless of background.",
+      "sectionHeader": "Justification by Faith in Christ"
     },
     {
       "pk": 55002016,
@@ -257,5 +260,22 @@
       "comment": "To add legal observance to the gospel undermines the sufficiency of Christ’s sacrifice. Paul emphasizes that grace is the only means by which we are justified and saved—a foundational truth for true doctrine and sacramental life."
     }
   ],
-  "translatedAt": "2025-12-24T11:58:41.714Z"
+  "translatedAt": "2025-12-24T11:58:41.714Z",
+  "sections": [
+    {
+      "title": "Paul’s Visit to Jerusalem",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "Paul Rebukes Peter at Antioch",
+      "startVerse": 11,
+      "endVerse": 14
+    },
+    {
+      "title": "Justification by Faith in Christ",
+      "startVerse": 15,
+      "endVerse": 21
+    }
+  ]
 }

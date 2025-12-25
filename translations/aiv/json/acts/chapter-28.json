@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "After we had escaped, we found out that the island was called Malta.",
       "links": "<a href='/AIV/44/27/26'>Acts 27:26</a>",
-      "comment": "Paul and his companions reach safety on Malta, fulfilling the earlier prediction of being cast on an island (Acts 27:26)."
+      "comment": "Paul and his companions reach safety on Malta, fulfilling the earlier prediction of being cast on an island (Acts 27:26).",
+      "sectionHeader": "Paul on Malta"
     },
     {
       "pk": 51028002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "After three months, we set sail in a ship that had wintered in the island, a ship of Alexandria, with the figurehead of the Twin Gods.",
       "links": "<a href='/AIV/44/27/6'>Acts 27:6</a>",
-      "comment": "The use of a ship with pagan symbols (the Twin Gods, Castor and Pollux) demonstrates God’s sovereignty over all things, whether sacred or secular."
+      "comment": "The use of a ship with pagan symbols (the Twin Gods, Castor and Pollux) demonstrates God’s sovereignty over all things, whether sacred or secular.",
+      "sectionHeader": "Paul Arrives at Rome"
     },
     {
       "pk": 51028012,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "After three days, he called together the leaders of the Jews. When they had assembled, he said to them, 'Men and brothers, although I had done nothing against our people or the customs of our fathers, yet I was delivered as a prisoner from Jerusalem into the hands of the Romans.'",
       "links": "<a href='/AIV/44/24/12-13'>Acts 24:12-13</a>",
-      "comment": "Paul begins with respect for Jewish customs and affirms his own fidelity, pointing out the continuity between the old covenant and the new."
+      "comment": "Paul begins with respect for Jewish customs and affirms his own fidelity, pointing out the continuity between the old covenant and the new.",
+      "sectionHeader": "Paul Addresses the Jews in Rome"
     },
     {
       "pk": 51028018,
@@ -362,7 +365,8 @@
       "verse": 30,
       "text": "He lived there two whole years at his own expense and welcomed all who came to him,",
       "links": "<a href='/AIV/51/4/3'>Col. 4:3</a>",
-      "comment": "Paul’s open ministry in Rome prefigures the Church’s openness to all peoples and the ongoing preaching of the gospel from the heart of the world."
+      "comment": "Paul’s open ministry in Rome prefigures the Church’s openness to all peoples and the ongoing preaching of the gospel from the heart of the world.",
+      "sectionHeader": "Paul's Ministry in Rome"
     },
     {
       "pk": 51028031,
@@ -377,5 +381,27 @@
       "comment": "Acts ends with the gospel going out freely from Rome, the world’s capital, anticipating the ongoing and growing mission of the Church to all nations, under apostolic authority, and with the leadership centered in the city of Rome."
     }
   ],
-  "translatedAt": "2025-12-24T11:35:34.406Z"
+  "translatedAt": "2025-12-24T11:35:34.406Z",
+  "sections": [
+    {
+      "title": "Paul on Malta",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "Paul Arrives at Rome",
+      "startVerse": 11,
+      "endVerse": 16
+    },
+    {
+      "title": "Paul Addresses the Jews in Rome",
+      "startVerse": 17,
+      "endVerse": 29
+    },
+    {
+      "title": "Paul's Ministry in Rome",
+      "startVerse": 30,
+      "endVerse": 31
+    }
+  ]
 }

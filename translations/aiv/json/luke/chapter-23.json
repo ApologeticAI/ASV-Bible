@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then the entire assembly rose up and brought Jesus before Pilate.",
       "links": "<a href='/AIV/40/27/2'>Matt 27:2</a>; <a href='/AIV/41/15/1'>Mark 15:1</a>; <a href='/AIV/43/18/28'>John 18:28</a>",
-      "comment": "The religious leaders take Jesus to Pilate, the Roman governor, as only he had authority for capital punishment. This fulfills Jesus' prophecy of being handed over to Gentiles (<a href='/AIV/42/18/32'>Luke 18:32</a>), prefiguring the universality of His redemptive work."
+      "comment": "The religious leaders take Jesus to Pilate, the Roman governor, as only he had authority for capital punishment. This fulfills Jesus' prophecy of being handed over to Gentiles (<a href='/AIV/42/18/32'>Luke 18:32</a>), prefiguring the universality of His redemptive work.",
+      "sectionHeader": "Jesus Before Pilate"
     },
     {
       "pk": 49023002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "When Pilate heard this, he asked if the man was a Galilean.",
       "links": "<a href='/AIV/42/3/1'>Luke 3:1</a>",
-      "comment": "Pilate's political calculation seeks to avoid responsibility, demonstrating human authorities acting according to self-interest. Galilee was under Herod’s jurisdiction, offering Pilate a way to decline judgment."
+      "comment": "Pilate's political calculation seeks to avoid responsibility, demonstrating human authorities acting according to self-interest. Galilee was under Herod’s jurisdiction, offering Pilate a way to decline judgment.",
+      "sectionHeader": "Jesus Before Herod"
     },
     {
       "pk": 49023007,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "Pilate called together the chief priests, the rulers, and the people,",
       "links": "",
-      "comment": "Pilate includes not just leaders but the assembled people, signifying how the whole nation participates in Jesus’ rejection."
+      "comment": "Pilate includes not just leaders but the assembled people, signifying how the whole nation participates in Jesus’ rejection.",
+      "sectionHeader": "Jesus Sentenced to Death"
     },
     {
       "pk": 49023014,
@@ -314,7 +317,8 @@
       "verse": 26,
       "text": "As they led him away, they seized Simon of Cyrene, who was coming in from the country, and laid the cross on him to carry it behind Jesus.",
       "links": "<a href='/AIV/41/15/21'>Mark 15:21</a>; <a href='/AIV/40/27/32'>Matt 27:32</a>",
-      "comment": "Simon’s bearing of the cross becomes a model for discipleship; to follow Christ includes sharing in His suffering (<a href='/AIV/42/9/23'>Luke 9:23</a>)."
+      "comment": "Simon’s bearing of the cross becomes a model for discipleship; to follow Christ includes sharing in His suffering (<a href='/AIV/42/9/23'>Luke 9:23</a>).",
+      "sectionHeader": "The Way to Calvary"
     },
     {
       "pk": 49023027,
@@ -386,7 +390,8 @@
       "verse": 32,
       "text": "Two others, who were criminals, were also led away to be executed with him.",
       "links": "<a href='/AIV/23/53/12'>Isa 53:12</a>",
-      "comment": "Jesus is numbered among the transgressors, precisely as prophesied in Isaiah. Even His death is solidarity with sinners, showing the reach of His mercy."
+      "comment": "Jesus is numbered among the transgressors, precisely as prophesied in Isaiah. Even His death is solidarity with sinners, showing the reach of His mercy.",
+      "sectionHeader": "The Crucifixion"
     },
     {
       "pk": 49023033,
@@ -530,7 +535,8 @@
       "verse": 44,
       "text": "It was now about noon, and darkness came over the whole land until three in the afternoon,",
       "links": "<a href='/AIV/30/8/9'>Amos 8:9</a>",
-      "comment": "The miraculous darkness echoes prophetic warning at the Day of the Lord and signifies both judgment and the cosmic importance of Christ’s death."
+      "comment": "The miraculous darkness echoes prophetic warning at the Day of the Lord and signifies both judgment and the cosmic importance of Christ’s death.",
+      "sectionHeader": "The Death of Jesus"
     },
     {
       "pk": 49023045,
@@ -602,7 +608,8 @@
       "verse": 50,
       "text": "Now there was a man named Joseph, a member of the council, a good and righteous man",
       "links": "<a href='/AIV/40/27/57'>Matt 27:57</a>",
-      "comment": "Joseph of Arimathea is called 'good and righteous,' showing integrity and courage, especially significant as a council member. God raises up faithful individuals from unexpected places."
+      "comment": "Joseph of Arimathea is called 'good and righteous,' showing integrity and courage, especially significant as a council member. God raises up faithful individuals from unexpected places.",
+      "sectionHeader": "The Burial of Jesus"
     },
     {
       "pk": 49023051,
@@ -677,5 +684,42 @@
       "comment": "Obedience to the Sabbath command shows deep reverence for God’s law, even in grief. This prepares for the resurrection: after Sabbath rest comes the new creation, signaled in Christ rising on the first day of the week, the day after the Sabbath."
     }
   ],
-  "translatedAt": "2025-12-24T10:58:56.408Z"
+  "translatedAt": "2025-12-24T10:58:56.408Z",
+  "sections": [
+    {
+      "title": "Jesus Before Pilate",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Jesus Before Herod",
+      "startVerse": 6,
+      "endVerse": 12
+    },
+    {
+      "title": "Jesus Sentenced to Death",
+      "startVerse": 13,
+      "endVerse": 25
+    },
+    {
+      "title": "The Way to Calvary",
+      "startVerse": 26,
+      "endVerse": 31
+    },
+    {
+      "title": "The Crucifixion",
+      "startVerse": 32,
+      "endVerse": 43
+    },
+    {
+      "title": "The Death of Jesus",
+      "startVerse": 44,
+      "endVerse": 49
+    },
+    {
+      "title": "The Burial of Jesus",
+      "startVerse": 50,
+      "endVerse": 56
+    }
+  ]
 }

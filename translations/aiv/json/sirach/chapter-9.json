@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Do not be jealous over the wife of your heart, and do not teach her an evil lesson against yourself.",
       "links": "<a href='/AIV/20/6/34'>Prov. 6:34</a>; <a href='/AIV/20/5/15-20'>Prov. 5:15-20</a>",
-      "comment": "The verse warns husbands not to be suspicious and harsh, linking jealousy to destructive behavior. Cross reference with Proverbs about faithfulness and wisdom in marital relationships."
+      "comment": "The verse warns husbands not to be suspicious and harsh, linking jealousy to destructive behavior. Cross reference with Proverbs about faithfulness and wisdom in marital relationships.",
+      "sectionHeader": "Warnings Against Lust and Women"
     },
     {
       "pk": 28009002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "Do not abandon an old friend, for a new one cannot take his place. A new friend is like new wine; when it has aged, you will drink it with pleasure.",
       "links": "<a href='/AIV/20/27/10'>Prov. 27:10</a>; <a href='/AIV/40/9/17'>Matt. 9:17</a>",
-      "comment": "Values loyalty and long-term relationships, pointing to the Church’s emphasis on tradition and continuity in spiritual friendships."
+      "comment": "Values loyalty and long-term relationships, pointing to the Church’s emphasis on tradition and continuity in spiritual friendships.",
+      "sectionHeader": "Friendship and Human Relationships"
     },
     {
       "pk": 28009011,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "Do not neglect the discourse of the wise; remain in their company as long as you live.",
       "links": "<a href='/AIV/20/13/20'>Prov. 13:20</a>; <a href='/AIV/58/13/7'>Heb. 13:7</a>",
-      "comment": "This verse highlights respect for spiritual authority and tradition, affirming the need for oral and lived wisdom within the believing community."
+      "comment": "This verse highlights respect for spiritual authority and tradition, affirming the need for oral and lived wisdom within the believing community.",
+      "sectionHeader": "Seeking Wisdom and the Company of the Righteous"
     },
     {
       "pk": 28009014,
@@ -221,5 +224,22 @@
       "comment": "Prioritizes virtue over mere words, aligning with Christ’s teaching that wisdom and understanding produce authentic favor before God."
     }
   ],
-  "translatedAt": "2025-12-24T07:27:32.746Z"
+  "translatedAt": "2025-12-24T07:27:32.746Z",
+  "sections": [
+    {
+      "title": "Warnings Against Lust and Women",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "Friendship and Human Relationships",
+      "startVerse": 10,
+      "endVerse": 12
+    },
+    {
+      "title": "Seeking Wisdom and the Company of the Righteous",
+      "startVerse": 13,
+      "endVerse": 18
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When the enemies of Judah and Benjamin heard that the exiles were rebuilding a temple to the LORD, the God of Israel,",
       "links": "<a href='/AIV/15/5/3'>Ezra 5:3</a>; <a href='/AIV/16/2/19'>Neh. 2:19</a>",
-      "comment": "The term 'enemies' here refers to local peoples who opposed the returnees. Note the emphasis on the LORD as the God of Israel."
+      "comment": "The term 'enemies' here refers to local peoples who opposed the returnees. Note the emphasis on the LORD as the God of Israel.",
+      "sectionHeader": "Opposition to the Rebuilding of the Temple"
     },
     {
       "pk": 15004002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "In the reign of Ahasuerus, at the beginning of his reign, they wrote an accusation against the inhabitants of Judah and Jerusalem.",
       "links": "<a href='/AIV/17/1/1'>Esther 1:1</a>",
-      "comment": "Ahasuerus is likely Xerxes I. The pattern of writing accusations against God's people occurs throughout history (cf. Rev. 12:10)."
+      "comment": "Ahasuerus is likely Xerxes I. The pattern of writing accusations against God's people occurs throughout history (cf. Rev. 12:10).",
+      "sectionHeader": "Accusation Against Jerusalem"
     },
     {
       "pk": 15004007,
@@ -98,7 +100,8 @@
       "verse": 8,
       "text": "Rehum the commander and Shimshai the scribe wrote a letter against Jerusalem to King Artaxerxes as follows—",
       "links": "<a href='/AIV/15/4/17'>Ezra 4:17</a>",
-      "comment": "This section contains a preserved copy of the official correspondence. The Aramaic language marks an administrative shift."
+      "comment": "This section contains a preserved copy of the official correspondence. The Aramaic language marks an administrative shift.",
+      "sectionHeader": "The Letter to King Artaxerxes"
     },
     {
       "pk": 15004009,
@@ -278,7 +281,8 @@
       "verse": 23,
       "text": "Then, as soon as the copy of the letter from King Artaxerxes was read before Rehum, Shimshai the scribe, and their associates, they went in haste to the Jews in Jerusalem and forced them to stop by power and force.",
       "links": "<a href='/AIV/15/4/21'>Ezra 4:21</a>",
-      "comment": "The cessation of work under compulsion underscores the consistent experience of God’s people enduring setbacks before triumph."
+      "comment": "The cessation of work under compulsion underscores the consistent experience of God’s people enduring setbacks before triumph.",
+      "sectionHeader": "Work on the Temple Ceases"
     },
     {
       "pk": 15004024,
@@ -293,5 +297,27 @@
       "comment": "The work on God’s house, though halted, will be restored in God’s providential timing. The theme of overcoming obstacles appears throughout salvation history (see Matt. 16:18; Rev. 21:2)."
     }
   ],
-  "translatedAt": "2025-12-24T04:42:14.832Z"
+  "translatedAt": "2025-12-24T04:42:14.832Z",
+  "sections": [
+    {
+      "title": "Opposition to the Rebuilding of the Temple",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Accusation Against Jerusalem",
+      "startVerse": 6,
+      "endVerse": 7
+    },
+    {
+      "title": "The Letter to King Artaxerxes",
+      "startVerse": 8,
+      "endVerse": 22
+    },
+    {
+      "title": "Work on the Temple Ceases",
+      "startVerse": 23,
+      "endVerse": 24
+    }
+  ]
 }

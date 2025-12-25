@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "She guided them through holy paths, and showed them the kingdom of God.",
       "links": "<a href='/AIV/02/13/21-22'>Ex. 13:21-22</a>; <a href='/AIV/19/78/14'>Ps. 78:14</a>",
-      "comment": "The 'she' here refers to divine Wisdom, personified as God’s active guidance of Israel. This anticipates the understanding of divine guidance through the Spirit and sets a foundation for the role of divine wisdom in salvation history."
+      "comment": "The 'she' here refers to divine Wisdom, personified as God’s active guidance of Israel. This anticipates the understanding of divine guidance through the Spirit and sets a foundation for the role of divine wisdom in salvation history.",
+      "sectionHeader": "God's Care for Israel in the Wilderness"
     },
     {
       "pk": 27011002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "For our forefathers, when threatened, cried out to you and were delivered; but for the Egyptians, you sent punishment for their arrogance.",
       "links": "<a href='/AIV/19/106/44-46'>Ps. 106:44-46</a>; <a href='/AIV/02/8/15'>Ex. 8:15</a>",
-      "comment": "The motif of deliverance linked to prayer is echoed in many Psalms (Ps. 34:17-19), also suggesting a participatory role in salvation."
+      "comment": "The motif of deliverance linked to prayer is echoed in many Psalms (Ps. 34:17-19), also suggesting a participatory role in salvation.",
+      "sectionHeader": "Punishment of Egypt and Deliverance of Israel"
     },
     {
       "pk": 27011010,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "Instead of thinking correctly about the living God, they paid homage to mindless reptiles and useless beasts. Because of this, you sent crowds of similar animals to punish them.",
       "links": "<a href='/AIV/01/7/23'>Gen. 7:23</a>; <a href='/AIV/02/8/13-14'>Ex. 8:13-14</a>; <a href='/AIV/45/1/23'>Rom. 1:23</a>",
-      "comment": "Idolatry is judged harshly. The sending of creatures as punishment mirrors God allowing those who reject Him to receive the consequences of their choices (cf. Romans 1)."
+      "comment": "Idolatry is judged harshly. The sending of creatures as punishment mirrors God allowing those who reject Him to receive the consequences of their choices (cf. Romans 1).",
+      "sectionHeader": "Idolatry and Its Just Punishments"
     },
     {
       "pk": 27011016,
@@ -278,7 +281,8 @@
       "verse": 23,
       "text": "Yet you are merciful to all, because you can do all things. You overlook the sins of people for the sake of their repentance.",
       "links": "<a href='/AIV/19/145/9'>Ps. 145:9</a>; <a href='/AIV/40/18/21-22'>Matt. 18:21-22</a>",
-      "comment": "The tension between justice and mercy is central here; God’s mercy and call for repentance anticipates major New Testament themes, including the necessity of grace and forgiveness (Luke 15:7)."
+      "comment": "The tension between justice and mercy is central here; God’s mercy and call for repentance anticipates major New Testament themes, including the necessity of grace and forgiveness (Luke 15:7).",
+      "sectionHeader": "God's Mercy Toward All Creation"
     },
     {
       "pk": 27011024,
@@ -317,5 +321,27 @@
       "comment": "The closing verse highlights God’s universal love and care for creation, setting up the understanding that God is both just and merciful. The phrase 'lover of life' anticipates Christ's promise of abundant life."
     }
   ],
-  "translatedAt": "2025-12-24T07:19:19.148Z"
+  "translatedAt": "2025-12-24T07:19:19.148Z",
+  "sections": [
+    {
+      "title": "God's Care for Israel in the Wilderness",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "Punishment of Egypt and Deliverance of Israel",
+      "startVerse": 9,
+      "endVerse": 14
+    },
+    {
+      "title": "Idolatry and Its Just Punishments",
+      "startVerse": 15,
+      "endVerse": 22
+    },
+    {
+      "title": "God's Mercy Toward All Creation",
+      "startVerse": 23,
+      "endVerse": 26
+    }
+  ]
 }

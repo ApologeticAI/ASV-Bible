@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Elisha the prophet called one of the sons of the prophets and said to him, 'Prepare yourself, take this flask of oil in your hand, and go to Ramoth-gilead.'",
       "links": "<a href='/AIV/11/19/16'>1 Kings 19:16</a>",
-      "comment": "Elisha continues the prophetic mission by sending a disciple, reminiscent of Elijah who anointed future leaders. Oil here signifies the special setting apart for leadership and God's Spirit upon the anointed."
+      "comment": "Elisha continues the prophetic mission by sending a disciple, reminiscent of Elijah who anointed future leaders. Oil here signifies the special setting apart for leadership and God's Spirit upon the anointed.",
+      "sectionHeader": "Anointing of Jehu as King of Israel"
     },
     {
       "pk": 12009002,
@@ -170,7 +171,8 @@
       "verse": 14,
       "text": "So Jehu son of Jehoshaphat, son of Nimshi, conspired against Joram. Now Joram had been defending Ramoth-gilead, he and all Israel, against Hazael king of Aram.",
       "links": "<a href='/AIV/12/8/28'>2 Kings 8:28</a>; <a href='/AIV/12/8/29'>2 Kings 8:29</a>",
-      "comment": "The narrative clarifies the political situation, with Jehu's elevation arising within the context of war and unrest—a setting ripe for divine intervention."
+      "comment": "The narrative clarifies the political situation, with Jehu's elevation arising within the context of war and unrest—a setting ripe for divine intervention.",
+      "sectionHeader": "Jehu Conspires Against Joram"
     },
     {
       "pk": 12009015,
@@ -254,7 +256,8 @@
       "verse": 21,
       "text": "Joram said, 'Get ready.' So his chariot was made ready, and Joram king of Israel and Ahaziah king of Judah each went out in his chariot to meet Jehu. They met him at the property of Naboth the Jezreelite.",
       "links": "<a href='/AIV/11/21/15'>1 Kings 21:15</a>; <a href='/AIV/11/21/18-19'>1 Kings 21:18-19</a>",
-      "comment": "Mention of Naboth’s property points to the final reckoning for the injustice done by Ahab and Jezebel against Naboth, fulfilling prophesied judgment (1 Kings 21:18-19)."
+      "comment": "Mention of Naboth’s property points to the final reckoning for the injustice done by Ahab and Jezebel against Naboth, fulfilling prophesied judgment (1 Kings 21:18-19).",
+      "sectionHeader": "Death of Joram and Ahaziah"
     },
     {
       "pk": 12009022,
@@ -362,7 +365,8 @@
       "verse": 30,
       "text": "When Jehu arrived at Jezreel, Jezebel heard of it. She painted her eyes, adorned her head, and looked out of the window.",
       "links": "<a href='/AIV/11/21/23'>1 Kings 21:23</a>",
-      "comment": "Jezebel’s adornment suggests pride and defiance; facing death, she clings to outward appearance, like those who rely on superficiality over repentance."
+      "comment": "Jezebel’s adornment suggests pride and defiance; facing death, she clings to outward appearance, like those who rely on superficiality over repentance.",
+      "sectionHeader": "Death of Jezebel"
     },
     {
       "pk": 12009031,
@@ -449,5 +453,27 @@
       "comment": "Final dishonor ensures Jezebel is never memorialized—her reign ends in utter humiliation, underscoring the biblical theme that pride and rebellion end in destruction."
     }
   ],
-  "translatedAt": "2025-12-24T03:53:08.775Z"
+  "translatedAt": "2025-12-24T03:53:08.775Z",
+  "sections": [
+    {
+      "title": "Anointing of Jehu as King of Israel",
+      "startVerse": 1,
+      "endVerse": 13
+    },
+    {
+      "title": "Jehu Conspires Against Joram",
+      "startVerse": 14,
+      "endVerse": 20
+    },
+    {
+      "title": "Death of Joram and Ahaziah",
+      "startVerse": 21,
+      "endVerse": 29
+    },
+    {
+      "title": "Death of Jezebel",
+      "startVerse": 30,
+      "endVerse": 37
+    }
+  ]
 }

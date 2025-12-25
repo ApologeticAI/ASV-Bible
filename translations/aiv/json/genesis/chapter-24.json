@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Abraham was now old, and advanced in years, and the LORD had blessed Abraham in every way.",
       "links": "<a href='/AIV/1/13/2'>Gen. 13:2</a>; <a href='/AIV/1/12/2-3'>Gen. 12:2-3</a>",
-      "comment": "Abraham’s blessings are a fulfillment of God’s covenant. The reference to his age and blessing sets the context for the story of Isaac’s marriage, which is crucial for the promise’s continuation."
+      "comment": "Abraham’s blessings are a fulfillment of God’s covenant. The reference to his age and blessing sets the context for the story of Isaac’s marriage, which is crucial for the promise’s continuation.",
+      "sectionHeader": "Abraham Commissions His Servant"
     },
     {
       "pk": 1024002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "Then the servant took ten of his master’s camels and departed, taking all kinds of valuable gifts from his master’s hand. He set out for Aram Naharaim, to the town of Nahor.",
       "links": "<a href='/AIV/1/25/20'>Gen. 25:20</a>",
-      "comment": "The journey and gifts show the seriousness with which the matter is pursued; gifts prefigure dowries and marital covenants, pointing to sacramental signs."
+      "comment": "The journey and gifts show the seriousness with which the matter is pursued; gifts prefigure dowries and marital covenants, pointing to sacramental signs.",
+      "sectionHeader": "The Servant's Prayer and Rebekah at the Well"
     },
     {
       "pk": 1024011,
@@ -338,7 +340,8 @@
       "verse": 28,
       "text": "The young woman ran and told her mother’s household about these things.",
       "links": "<a href='/AIV/1/24/15'>Gen. 24:15</a>",
-      "comment": "The emphasis on the maternal household reflects matriarchal influence, also seen in biblical tradition."
+      "comment": "The emphasis on the maternal household reflects matriarchal influence, also seen in biblical tradition.",
+      "sectionHeader": "The Servant Welcomed into Rebekah's Household"
     },
     {
       "pk": 1024029,
@@ -602,7 +605,8 @@
       "verse": 50,
       "text": "Laban and Bethuel answered, 'This is from the LORD; we cannot say anything to you one way or the other.'",
       "links": "<a href='/AIV/1/31/29'>Gen. 31:29</a>",
-      "comment": "Discernment of God’s will takes priority, with human assent—this submission to divine will echoes Mary’s fiat (<a href='/AIV/42/1/38'>Luke 1:38</a>)."
+      "comment": "Discernment of God’s will takes priority, with human assent—this submission to divine will echoes Mary’s fiat (<a href='/AIV/42/1/38'>Luke 1:38</a>).",
+      "sectionHeader": "The Betrothal of Rebekah"
     },
     {
       "pk": 1024051,
@@ -734,7 +738,8 @@
       "verse": 61,
       "text": "Then Rebekah and her attendants got ready, mounted their camels, and went with the man. So the servant took Rebekah and departed.",
       "links": "<a href='/AIV/1/24/59'>Gen. 24:59</a>",
-      "comment": "The journey is intentional and missional, paralleling vocations leaving old life for new roles within God’s purpose."
+      "comment": "The journey is intentional and missional, paralleling vocations leaving old life for new roles within God’s purpose.",
+      "sectionHeader": "Rebekah's Departure and Meeting with Isaac"
     },
     {
       "pk": 1024062,
@@ -809,5 +814,32 @@
       "comment": "Marriage is presented as a sacramental union involving love, comfort, and continuity. Isaac’s love for Rebekah foreshadows Christ’s love for the Church (<a href='/AIV/49/5/32'>Eph. 5:32</a>)."
     }
   ],
-  "translatedAt": "2025-12-24T00:23:14.096Z"
+  "translatedAt": "2025-12-24T00:23:14.096Z",
+  "sections": [
+    {
+      "title": "Abraham Commissions His Servant",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "The Servant's Prayer and Rebekah at the Well",
+      "startVerse": 10,
+      "endVerse": 27
+    },
+    {
+      "title": "The Servant Welcomed into Rebekah's Household",
+      "startVerse": 28,
+      "endVerse": 49
+    },
+    {
+      "title": "The Betrothal of Rebekah",
+      "startVerse": 50,
+      "endVerse": 60
+    },
+    {
+      "title": "Rebekah's Departure and Meeting with Isaac",
+      "startVerse": 61,
+      "endVerse": 67
+    }
+  ]
 }

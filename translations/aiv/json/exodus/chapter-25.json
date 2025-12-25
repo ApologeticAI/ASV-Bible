@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The LORD spoke to Moses, saying,",
       "links": "<a href='/AIV/2/24/12'>Exod. 24:12</a>",
-      "comment": "Begins a direct communication from God to Moses, marking the instructions for building the tabernacle, a central image of communal worship."
+      "comment": "Begins a direct communication from God to Moses, marking the instructions for building the tabernacle, a central image of communal worship.",
+      "sectionHeader": "Offerings for the Sanctuary"
     },
     {
       "pk": 2025002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "\"They shall make an ark of acacia wood. Two and a half cubits shall be its length, one and a half cubits its width, and one and a half cubits its height.\"",
       "links": "<a href='/AIV/2/37/1'>Exod. 37:1</a>",
-      "comment": "The Ark's precise measurements suggest divine order and holiness—God's presence contained in an earthly vessel foreshadows the Incarnation."
+      "comment": "The Ark's precise measurements suggest divine order and holiness—God's presence contained in an earthly vessel foreshadows the Incarnation.",
+      "sectionHeader": "The Ark of the Covenant"
     },
     {
       "pk": 2025011,
@@ -278,7 +280,8 @@
       "verse": 23,
       "text": "\"You shall make a table of acacia wood. Two cubits shall be its length, a cubit its width, and one and a half cubits its height.\"",
       "links": "<a href='/AIV/2/37/10'>Exod. 37:10</a>",
-      "comment": "The table, where bread will be set, prefigures sacred meals and the idea of communion with God through offerings."
+      "comment": "The table, where bread will be set, prefigures sacred meals and the idea of communion with God through offerings.",
+      "sectionHeader": "The Table for the Bread of the Presence"
     },
     {
       "pk": 2025024,
@@ -374,7 +377,8 @@
       "verse": 31,
       "text": "\"You shall make a lampstand of pure gold. The lampstand shall be made of hammered work; its base, stem, cups, bulbs, and flowers shall be of one piece.\"",
       "links": "<a href='/AIV/2/37/17'>Exod. 37:17</a>; <a href='/AIV/66/1/12'>Rev. 1:12</a>",
-      "comment": "The lampstand (menorah) signifies the light of God’s presence and points spiritually to Christ, the true Light (John 8:12)."
+      "comment": "The lampstand (menorah) signifies the light of God’s presence and points spiritually to Christ, the true Light (John 8:12).",
+      "sectionHeader": "The Golden Lampstand"
     },
     {
       "pk": 2025032,
@@ -485,5 +489,27 @@
       "comment": "Earthly worship is patterned after heavenly reality. This continuity points to the importance of apostolic tradition and ordered worship in the life of the People of God."
     }
   ],
-  "translatedAt": "2025-12-24T01:00:21.229Z"
+  "translatedAt": "2025-12-24T01:00:21.229Z",
+  "sections": [
+    {
+      "title": "Offerings for the Sanctuary",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "The Ark of the Covenant",
+      "startVerse": 10,
+      "endVerse": 22
+    },
+    {
+      "title": "The Table for the Bread of the Presence",
+      "startVerse": 23,
+      "endVerse": 30
+    },
+    {
+      "title": "The Golden Lampstand",
+      "startVerse": 31,
+      "endVerse": 40
+    }
+  ]
 }

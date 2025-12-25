@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "There was a famine in the days of David for three years, year after year. So David sought the face of the LORD. The LORD said, 'It is because of Saul and his bloodguilt, because he put the Gibeonites to death.'",
       "links": "<a href='/AIV/6/9/3-27'>Josh. 9:3–27</a>; <a href='/AIV/10/24/13'>2Sam. 24:13</a>",
-      "comment": "The famine is interpreted as a divine response to Saul's violence against the Gibeonites, highlighting corporate responsibility and the serious consequences of violating oaths (cf. Josh. 9)."
+      "comment": "The famine is interpreted as a divine response to Saul's violence against the Gibeonites, highlighting corporate responsibility and the serious consequences of violating oaths (cf. Josh. 9).",
+      "sectionHeader": "The Gibeonites Avenged"
     },
     {
       "pk": 10021002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "Once again there was war between the Philistines and Israel. David went down, and his servants with him, and they fought against the Philistines. David grew weary.",
       "links": "<a href='/AIV/10/5/17'>2Sam. 5:17</a>",
-      "comment": "David’s vulnerability as king is on display. Even chosen leaders experience weakness and need the support of others."
+      "comment": "David’s vulnerability as king is on display. Even chosen leaders experience weakness and need the support of others.",
+      "sectionHeader": "Wars Against the Philistine Giants"
     },
     {
       "pk": 10021016,
@@ -269,5 +271,17 @@
       "comment": "The passage concludes with the defeat of Israel’s enemies through David and his followers, hinting at the future universal kingship of the Messiah (cf. Ps. 2)."
     }
   ],
-  "translatedAt": "2025-12-24T03:24:15.765Z"
+  "translatedAt": "2025-12-24T03:24:15.765Z",
+  "sections": [
+    {
+      "title": "The Gibeonites Avenged",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "Wars Against the Philistine Giants",
+      "startVerse": 15,
+      "endVerse": 22
+    }
+  ]
 }

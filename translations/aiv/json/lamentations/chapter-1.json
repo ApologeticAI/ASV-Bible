@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "How lonely sits the city, once full of people! She has become like a widow, she who was great among the nations; the princess among the provinces has become a slave.",
       "links": "<a href='/AIV/23/1/21'>Isa. 1:21</a>; <a href='/AIV/24/7/34'>Jer. 7:34</a>; <a href='/AIV/23/47/8'>Isa. 47:8</a>",
-      "comment": "Jerusalem is mourned as a widow—symbolic both literally, after the exile, and spiritually, as the people are separated from God. The 'princess' image points to her previous glory and present humiliation. The city personified as a woman anticipates the Church as bride in the New Testament (cf. Rev. 21:2)."
+      "comment": "Jerusalem is mourned as a widow—symbolic both literally, after the exile, and spiritually, as the people are separated from God. The 'princess' image points to her previous glory and present humiliation. The city personified as a woman anticipates the Church as bride in the New Testament (cf. Rev. 21:2).",
+      "sectionHeader": "The Desolation of Jerusalem"
     },
     {
       "pk": 31001002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "Is it nothing to you, all who pass by? Look and see if there is any sorrow like my sorrow, which was brought upon me, which the LORD inflicted on the day of his fierce anger.",
       "links": "<a href='/AIV/23/53/4'>Isa. 53:4</a>; <a href='/AIV/19/22/1'>Ps. 22:1</a>",
-      "comment": "This verse is traditionally prayed in Holy Week as a type of Christ's Passion, the Man of Sorrows, suffering redemptively (Luke 23:27-31)."
+      "comment": "This verse is traditionally prayed in Holy Week as a type of Christ's Passion, the Man of Sorrows, suffering redemptively (Luke 23:27-31).",
+      "sectionHeader": "Jerusalem Laments Her Suffering"
     },
     {
       "pk": 31001013,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "'The LORD is righteous, for I have rebelled against his word; listen, all you peoples, and see my suffering; my young women and young men have gone into captivity.'",
       "links": "<a href='/AIV/19/119/137'>Ps. 119:137</a>; <a href='/AIV/24/36/31'>Jer. 36:31</a>",
-      "comment": "Affirms God’s justice and the people’s need for repentance—a standard response in both Old and New Testament faith."
+      "comment": "Affirms God’s justice and the people’s need for repentance—a standard response in both Old and New Testament faith.",
+      "sectionHeader": "A Plea for Divine Justice"
     },
     {
       "pk": 31001019,
@@ -269,5 +272,22 @@
       "comment": "The chapter closes with a prayer for justice and acknowledgment of personal guilt—a reminder of God's readiness to forgive those who confess and turn back to Him through the means He provides."
     }
   ],
-  "translatedAt": "2025-12-24T08:52:06.894Z"
+  "translatedAt": "2025-12-24T08:52:06.894Z",
+  "sections": [
+    {
+      "title": "The Desolation of Jerusalem",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "Jerusalem Laments Her Suffering",
+      "startVerse": 12,
+      "endVerse": 17
+    },
+    {
+      "title": "A Plea for Divine Justice",
+      "startVerse": 18,
+      "endVerse": 22
+    }
+  ]
 }

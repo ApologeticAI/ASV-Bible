@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Finally, my brothers, rejoice in the Lord. To write the same things to you is no trouble for me and is safe for you.",
       "links": "<a href='/AIV/50/4/4'>Phil 4:4</a>; <a href='/AIV/52/5/16'>1 Thess 5:16</a>",
-      "comment": "Paul encourages joy in the Lord, repeating this theme for the sake of their spiritual safety. Repetition is a safeguard, emphasizing the importance of ongoing remembrance in the faith, reflecting the need for continual instruction and tradition."
+      "comment": "Paul encourages joy in the Lord, repeating this theme for the sake of their spiritual safety. Repetition is a safeguard, emphasizing the importance of ongoing remembrance in the faith, reflecting the need for continual instruction and tradition.",
+      "sectionHeader": "Warning Against False Teachers"
     },
     {
       "pk": 57003002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "Though I myself have reason for confidence in the flesh also. If anyone else thinks he has reason for confidence in the flesh, I have more:",
       "links": "<a href='/AIV/47/11/18-22'>2 Cor 11:18-22</a>",
-      "comment": "Paul prepares to list his credentials, emphasizing that even with impressive spiritual and cultural background, these cannot compare to the righteousness received by faith in Christ. He sets up a contrast between worldly status and divine grace."
+      "comment": "Paul prepares to list his credentials, emphasizing that even with impressive spiritual and cultural background, these cannot compare to the righteousness received by faith in Christ. He sets up a contrast between worldly status and divine grace.",
+      "sectionHeader": "Paul’s Example: All Is Loss for Christ"
     },
     {
       "pk": 57003005,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "Not that I have already obtained this or am already perfect, but I press on to make it my own, because Christ Jesus has made me his own.",
       "links": "<a href='/AIV/46/9/24-27'>1 Cor 9:24-27</a>",
-      "comment": "Paul clarifies he is still striving. Christian life is ongoing growth in holiness, not instant perfection. Perseverance is key, motivated by Christ’s initiative in drawing each person."
+      "comment": "Paul clarifies he is still striving. Christian life is ongoing growth in holiness, not instant perfection. Perseverance is key, motivated by Christ’s initiative in drawing each person.",
+      "sectionHeader": "Pressing Toward the Goal"
     },
     {
       "pk": 57003013,
@@ -206,7 +209,8 @@
       "verse": 17,
       "text": "Brothers, join in imitating me and observe those who walk according to the example you have in us.",
       "links": "<a href='/AIV/46/11/1'>1 Cor 11:1</a>; <a href='/AIV/52/1/6'>1 Thess 1:6</a>",
-      "comment": "Imitation of apostolic example reinforces the principle of learning faith through following godly leaders. The stress on example aligns with the idea of a visible, apostolic tradition."
+      "comment": "Imitation of apostolic example reinforces the principle of learning faith through following godly leaders. The stress on example aligns with the idea of a visible, apostolic tradition.",
+      "sectionHeader": "Citizenship in Heaven"
     },
     {
       "pk": 57003018,
@@ -257,5 +261,27 @@
       "comment": "The resurrection will bring physical transformation for believers, patterned after Christ’s glorified body. This highlights the hope of the bodily resurrection, a central Christian doctrine affirming both physical and spiritual renewal. Christ’s sovereignty over all creation is also underlined here."
     }
   ],
-  "translatedAt": "2025-12-24T12:05:28.097Z"
+  "translatedAt": "2025-12-24T12:05:28.097Z",
+  "sections": [
+    {
+      "title": "Warning Against False Teachers",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "Paul’s Example: All Is Loss for Christ",
+      "startVerse": 4,
+      "endVerse": 11
+    },
+    {
+      "title": "Pressing Toward the Goal",
+      "startVerse": 12,
+      "endVerse": 16
+    },
+    {
+      "title": "Citizenship in Heaven",
+      "startVerse": 17,
+      "endVerse": 21
+    }
+  ]
 }

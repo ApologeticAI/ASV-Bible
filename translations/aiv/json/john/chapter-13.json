@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Before the Feast of Passover, Jesus knew that His hour had come to depart from this world to the Father. Having loved His own who were in the world, He loved them to the very end.",
       "links": "<a href='/AIV/43/3/35'>John 3:35</a>; <a href='/AIV/43/12/23'>John 12:23</a>; <a href='/AIV/19/103/17'>Ps. 103:17</a>",
-      "comment": "Jesus' awareness that 'His hour had come' signals the start of His Passion—the sacrifice for humanity's salvation. The emphasis on Jesus' love hints at both His divinity and the depth of covenant faithfulness, which is fulfilled perfectly in Him."
+      "comment": "Jesus' awareness that 'His hour had come' signals the start of His Passion—the sacrifice for humanity's salvation. The emphasis on Jesus' love hints at both His divinity and the depth of covenant faithfulness, which is fulfilled perfectly in Him.",
+      "sectionHeader": "Jesus Washes the Disciples’ Feet"
     },
     {
       "pk": 50013002,
@@ -218,7 +219,8 @@
       "verse": 18,
       "text": "I am not speaking of all of you; I know whom I have chosen. But this Scripture will be fulfilled: 'He who eats My bread has lifted his heel against Me.'",
       "links": "<a href='/AIV/19/41/9'>Ps. 41:9</a>; <a href='/AIV/43/17/12'>John 17:12</a>",
-      "comment": "Jesus applies Old Testament prophecy to His betrayal, showing God’s sovereign plan unfolding in history."
+      "comment": "Jesus applies Old Testament prophecy to His betrayal, showing God’s sovereign plan unfolding in history.",
+      "sectionHeader": "Jesus Foretells His Betrayal"
     },
     {
       "pk": 50013019,
@@ -374,7 +376,8 @@
       "verse": 31,
       "text": "When he had gone out, Jesus said, 'Now is the Son of Man glorified, and God is glorified in Him.'",
       "links": "<a href='/AIV/27/7/13-14'>Dan. 7:13-14</a>; <a href='/AIV/43/17/1'>John 17:1</a>",
-      "comment": "Christ’s passion will be His moment of glory, as predicted in prophecy, revealing His identity as the divine Son of Man."
+      "comment": "Christ’s passion will be His moment of glory, as predicted in prophecy, revealing His identity as the divine Son of Man.",
+      "sectionHeader": "The New Commandment"
     },
     {
       "pk": 50013032,
@@ -434,7 +437,8 @@
       "verse": 36,
       "text": "Simon Peter said to Him, 'Lord, where are you going?' Jesus answered him, 'Where I am going, you cannot follow Me now, but you will follow afterward.'",
       "links": "<a href='/AIV/43/21/18-19'>John 21:18-19</a>",
-      "comment": "Jesus predicts Peter’s eventual martyrdom, showing his leadership role and final imitation of Christ’s sacrifice."
+      "comment": "Jesus predicts Peter’s eventual martyrdom, showing his leadership role and final imitation of Christ’s sacrifice.",
+      "sectionHeader": "Jesus Foretells Peter’s Denial"
     },
     {
       "pk": 50013037,
@@ -461,5 +465,27 @@
       "comment": "Jesus’ prophecy of Peter’s denial displays His divine knowledge and reinforces the need for forgiveness and restoration, key elements in the faith handed down from the apostles."
     }
   ],
-  "translatedAt": "2025-12-24T11:12:11.011Z"
+  "translatedAt": "2025-12-24T11:12:11.011Z",
+  "sections": [
+    {
+      "title": "Jesus Washes the Disciples’ Feet",
+      "startVerse": 1,
+      "endVerse": 17
+    },
+    {
+      "title": "Jesus Foretells His Betrayal",
+      "startVerse": 18,
+      "endVerse": 30
+    },
+    {
+      "title": "The New Commandment",
+      "startVerse": 31,
+      "endVerse": 35
+    },
+    {
+      "title": "Jesus Foretells Peter’s Denial",
+      "startVerse": 36,
+      "endVerse": 38
+    }
+  ]
 }

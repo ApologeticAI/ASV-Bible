@@ -26,7 +26,8 @@
       "verse": 2,
       "text": "The sons of Japheth were Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.",
       "links": "<a href='/AIV/26/38/2'>Ezek 38:2</a>; <a href='/AIV/13/1/5'>1 Chr 1:5</a>",
-      "comment": "Japheth is the ancestor of many northern peoples, later identified with Greeks, Scythians, and others. These lineages set the stage for prophecy, notably in Ezekiel's references."
+      "comment": "Japheth is the ancestor of many northern peoples, later identified with Greeks, Scythians, and others. These lineages set the stage for prophecy, notably in Ezekiel's references.",
+      "sectionHeader": "The Descendants of Japheth"
     },
     {
       "pk": 1010003,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "The sons of Ham were Cush, Egypt, Put, and Canaan.",
       "links": "<a href='/AIV/13/1/8'>1 Chr 1:8</a>; <a href='/AIV/2/1/11'>Ex 1:11</a>",
-      "comment": "Ham's descendants settled the regions of Africa and the Levant. Canaan’s mention foreshadows later events in the biblical narrative, setting up Israel’s land."
+      "comment": "Ham's descendants settled the regions of Africa and the Levant. Canaan’s mention foreshadows later events in the biblical narrative, setting up Israel’s land.",
+      "sectionHeader": "The Descendants of Ham and the Kingdom of Nimrod"
     },
     {
       "pk": 1010007,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "Canaan fathered Sidon his firstborn, and Heth,",
       "links": "<a href='/AIV/1/15/19-20'>Gen 15:19-20</a>; <a href='/AIV/13/1/13'>1 Chr 1:13</a>",
-      "comment": "Sidon was a major Phoenician city. Heth is an ancestor to the Hittites, significant in later Biblical history and covenants."
+      "comment": "Sidon was a major Phoenician city. Heth is an ancestor to the Hittites, significant in later Biblical history and covenants.",
+      "sectionHeader": "The Descendants of Canaan"
     },
     {
       "pk": 1010016,
@@ -254,7 +257,8 @@
       "verse": 21,
       "text": "To Shem also, the father of all the children of Eber, and elder brother of Japheth, sons were born.",
       "links": "<a href='/AIV/1/11/10-27'>Gen 11:10-27</a>; <a href='/AIV/13/1/24'>1 Chr 1:24</a>",
-      "comment": "Shem’s lineage is of particular significance, as Eber is the ancestor of the Hebrews, leading eventually to Abraham and the messianic promises."
+      "comment": "Shem’s lineage is of particular significance, as Eber is the ancestor of the Hebrews, leading eventually to Abraham and the messianic promises.",
+      "sectionHeader": "The Descendants of Shem"
     },
     {
       "pk": 1010022,
@@ -389,5 +393,27 @@
       "comment": "This summary frames all humanity as sharing common descent and purpose, central to understanding how salvation history unites both physical and spiritual families. This hints at the later unification of nations within Christ's one apostolic body."
     }
   ],
-  "translatedAt": "2025-12-24T00:15:24.882Z"
+  "translatedAt": "2025-12-24T00:15:24.882Z",
+  "sections": [
+    {
+      "title": "The Descendants of Japheth",
+      "startVerse": 2,
+      "endVerse": 5
+    },
+    {
+      "title": "The Descendants of Ham and the Kingdom of Nimrod",
+      "startVerse": 6,
+      "endVerse": 14
+    },
+    {
+      "title": "The Descendants of Canaan",
+      "startVerse": 15,
+      "endVerse": 20
+    },
+    {
+      "title": "The Descendants of Shem",
+      "startVerse": 21,
+      "endVerse": 32
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Paul, an apostle of Christ Jesus by the command of God our Savior and Christ Jesus our hope,",
       "links": "<a href='/AIV/45/1/1'>Rom. 1:1</a>; <a href='/AIV/56/1/3'>Titus 1:3</a>",
-      "comment": "Paul affirms his apostolic authority, explicitly noting both God as Savior and Christ Jesus as hope – a subtle emphasis on unity of God’s saving work. Apostleship here is by divine command, not merely human choice."
+      "comment": "Paul affirms his apostolic authority, explicitly noting both God as Savior and Christ Jesus as hope – a subtle emphasis on unity of God’s saving work. Apostleship here is by divine command, not merely human choice.",
+      "sectionHeader": "Greeting and Salutation"
     },
     {
       "pk": 61001002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "As I urged you when I went to Macedonia, stay in Ephesus so you may command certain people not to teach false doctrines,",
       "links": "<a href='/AIV/44/20/1'>Acts 20:1</a>; <a href='/AIV/56/1/11'>Titus 1:11</a>",
-      "comment": "Paul instructs Timothy to exercise authority – not merely suggest – regarding doctrine, showing a concern for preserving correct teaching in the local church, and highlighting early need for oversight and guardianship."
+      "comment": "Paul instructs Timothy to exercise authority – not merely suggest – regarding doctrine, showing a concern for preserving correct teaching in the local church, and highlighting early need for oversight and guardianship.",
+      "sectionHeader": "Warning Against False Teachers"
     },
     {
       "pk": 61001004,
@@ -98,7 +100,8 @@
       "verse": 8,
       "text": "Now we know that the law is good, if one uses it lawfully.",
       "links": "<a href='/AIV/19/19/7'>Ps. 19:7</a>; <a href='/AIV/45/7/12'>Rom. 7:12</a>",
-      "comment": "The law’s purpose is affirmed as good, but requires correct application. This is consistent with both Old Testament wisdom and Paul’s teaching, bridging moral law and Christ’s fulfillment of the law."
+      "comment": "The law’s purpose is affirmed as good, but requires correct application. This is consistent with both Old Testament wisdom and Paul’s teaching, bridging moral law and Christ’s fulfillment of the law.",
+      "sectionHeader": "Purpose of the Law"
     },
     {
       "pk": 61001009,
@@ -146,7 +149,8 @@
       "verse": 12,
       "text": "I give thanks to Christ Jesus our Lord, who has strengthened me, because He considered me faithful, appointing me to service,",
       "links": "<a href='/AIV/45/15/17'>Rom. 15:17</a>; <a href='/AIV/46/7/25'>1 Cor. 7:25</a>",
-      "comment": "Paul credits Christ for his calling and strength, stressing divine initiative and the dignity of ministry as service appointed, not self-attained."
+      "comment": "Paul credits Christ for his calling and strength, stressing divine initiative and the dignity of ministry as service appointed, not self-attained.",
+      "sectionHeader": "Paul’s Gratitude for Mercy"
     },
     {
       "pk": 61001013,
@@ -218,7 +222,8 @@
       "verse": 18,
       "text": "This charge I entrust to you, Timothy, my child, according to the prophecies previously made about you, that by them you may wage the good warfare,",
       "links": "<a href='/AIV/54/4/14'>1 Tim. 4:14</a>; <a href='/AIV/46/9/7'>1 Cor. 9:7</a>",
-      "comment": "Paul refers to transmitted authority given through prophecy, suggesting more than individual spiritual gifts – it reveals a continuity and safeguarding of the faith through ordered leadership."
+      "comment": "Paul refers to transmitted authority given through prophecy, suggesting more than individual spiritual gifts – it reveals a continuity and safeguarding of the faith through ordered leadership.",
+      "sectionHeader": "Timothy’s Commission"
     },
     {
       "pk": 61001019,
@@ -245,5 +250,32 @@
       "comment": "Paul’s action employs disciplinary exclusion as practiced in the early Church, for corrective, redemptive purposes – emphasizing accountability and the need for order and visible unity within the Church."
     }
   ],
-  "translatedAt": "2025-12-24T12:10:45.827Z"
+  "translatedAt": "2025-12-24T12:10:45.827Z",
+  "sections": [
+    {
+      "title": "Greeting and Salutation",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "Warning Against False Teachers",
+      "startVerse": 3,
+      "endVerse": 7
+    },
+    {
+      "title": "Purpose of the Law",
+      "startVerse": 8,
+      "endVerse": 11
+    },
+    {
+      "title": "Paul’s Gratitude for Mercy",
+      "startVerse": 12,
+      "endVerse": 17
+    },
+    {
+      "title": "Timothy’s Commission",
+      "startVerse": 18,
+      "endVerse": 20
+    }
+  ]
 }

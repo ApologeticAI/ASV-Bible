@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Better a dry crust with peace than a house full of feasting with strife.",
       "links": "<a href='/AIV/20/15/16'>Prov. 15:16</a>; <a href='/AIV/20/15/17'>Prov. 15:17</a>",
-      "comment": "Peace in the home is worth far more than material abundance. This wisdom calls us to value spiritual harmony above worldly pleasure, hinting toward the importance of unity and tranquility often found in deeper spiritual communities."
+      "comment": "Peace in the home is worth far more than material abundance. This wisdom calls us to value spiritual harmony above worldly pleasure, hinting toward the importance of unity and tranquility often found in deeper spiritual communities.",
+      "sectionHeader": "Wisdom in Relationships and Conduct"
     },
     {
       "pk": 24017002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "A rebuke impresses a discerning person more than a hundred lashes to a fool.",
       "links": "<a href='/AIV/20/15/5'>Prov. 15:5</a>; <a href='/AIV/20/19/25'>Prov. 19:25</a>",
-      "comment": "The wise receive correction; fools remain unchanged. The spiritual discipline of correction is essential for growth in holiness."
+      "comment": "The wise receive correction; fools remain unchanged. The spiritual discipline of correction is essential for growth in holiness.",
+      "sectionHeader": "Consequences of Folly and Wickedness"
     },
     {
       "pk": 24017011,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "A friend loves at all times, and a brother is born for adversity.",
       "links": "<a href='/AIV/20/18/24'>Prov. 18:24</a>; <a href='/AIV/43/15/13'>John 15:13</a>",
-      "comment": "True friendship is steadfast, and family endures in hardship. This points to loyal fellowship and spiritual brotherhood, mirrored in the New Testament with Christ’s sacrificial love."
+      "comment": "True friendship is steadfast, and family endures in hardship. This points to loyal fellowship and spiritual brotherhood, mirrored in the New Testament with Christ’s sacrificial love.",
+      "sectionHeader": "Value of Friendships and Restraint"
     },
     {
       "pk": 24017018,
@@ -341,5 +344,22 @@
       "comment": "Silence can cover lack of wisdom—showing the value of reflection before speech, an idea deeply rooted in spiritual practice."
     }
   ],
-  "translatedAt": "2025-12-24T06:59:17.928Z"
+  "translatedAt": "2025-12-24T06:59:17.928Z",
+  "sections": [
+    {
+      "title": "Wisdom in Relationships and Conduct",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "Consequences of Folly and Wickedness",
+      "startVerse": 10,
+      "endVerse": 16
+    },
+    {
+      "title": "Value of Friendships and Restraint",
+      "startVerse": 17,
+      "endVerse": 28
+    }
+  ]
 }

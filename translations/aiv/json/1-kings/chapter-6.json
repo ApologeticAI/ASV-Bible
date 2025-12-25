@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In the four hundred and eightieth year after the Israelites came out of the land of Egypt, in the fourth year of Solomon’s reign over Israel, in the month of Ziv, which is the second month, he began to build the house of the LORD.",
       "links": "<a href='/AIV/2/12/40-41'>Ex. 12:40-41</a>; <a href='/AIV/14/3/1'>2 Chr. 3:1</a>",
-      "comment": "The precision of the date emphasizes the historical reality of this event. Building the house of the LORD fulfilled God's promises; Solomon acts as a king-priest, foreshadowing a greater fulfillment in Christ, who is the true temple (see John 2:19-21)."
+      "comment": "The precision of the date emphasizes the historical reality of this event. Building the house of the LORD fulfilled God's promises; Solomon acts as a king-priest, foreshadowing a greater fulfillment in Christ, who is the true temple (see John 2:19-21).",
+      "sectionHeader": "Solomon Begins Building the Temple"
     },
     {
       "pk": 11006002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "Then the word of the LORD came to Solomon:",
       "links": "",
-      "comment": "A divine interruption, reminding that the beauty and strength of the structure depend on covenant faithfulness, not just human effort."
+      "comment": "A divine interruption, reminding that the beauty and strength of the structure depend on covenant faithfulness, not just human effort.",
+      "sectionHeader": "God’s Promise to Solomon"
     },
     {
       "pk": 11006012,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "He lined the inside walls of the house with cedar boards; from the floor of the house to the ceiling he covered the inside with wood, and he covered the floor of the house with planks of cypress.",
       "links": "",
-      "comment": "The precious woods used for the interior signify beauty, reverence, and set-apartness for worship. They draw worshippers’ senses upward."
+      "comment": "The precious woods used for the interior signify beauty, reverence, and set-apartness for worship. They draw worshippers’ senses upward.",
+      "sectionHeader": "The Interior and the Most Holy Place"
     },
     {
       "pk": 11006016,
@@ -278,7 +281,8 @@
       "verse": 23,
       "text": "In the inner sanctuary he made two cherubim of olive wood, each ten cubits high.",
       "links": "<a href='/AIV/2/25/18-20'>Ex. 25:18-20</a>",
-      "comment": "The cherubim symbolize the divine throne room. Their presence points to worship aided by angelic hosts, a deep tradition connecting earthly and heavenly praise."
+      "comment": "The cherubim symbolize the divine throne room. Their presence points to worship aided by angelic hosts, a deep tradition connecting earthly and heavenly praise.",
+      "sectionHeader": "The Cherubim and Temple Furnishings"
     },
     {
       "pk": 11006024,
@@ -446,7 +450,8 @@
       "verse": 37,
       "text": "In the fourth year, in the month of Ziv, the foundation of the house of the LORD was laid.",
       "links": "<a href='/AIV/14/3/2'>2 Chr. 3:2</a>",
-      "comment": "Records the careful timing of the temple's beginning. In Christian tradition, the foundation points to Christ as the cornerstone (Eph. 2:20)."
+      "comment": "Records the careful timing of the temple's beginning. In Christian tradition, the foundation points to Christ as the cornerstone (Eph. 2:20).",
+      "sectionHeader": "Completion of the Temple"
     },
     {
       "pk": 11006038,
@@ -461,5 +466,32 @@
       "comment": "Completion in the seventh year alludes to perfect fulfillment and Sabbath rest, suggesting worship as a foretaste of heavenly rest (Heb. 4:9-10). The temple stands as a sign of God’s dwelling with His people—a mystery fully revealed in Christ and continued in His Church."
     }
   ],
-  "translatedAt": "2025-12-24T03:30:51.979Z"
+  "translatedAt": "2025-12-24T03:30:51.979Z",
+  "sections": [
+    {
+      "title": "Solomon Begins Building the Temple",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "God’s Promise to Solomon",
+      "startVerse": 11,
+      "endVerse": 14
+    },
+    {
+      "title": "The Interior and the Most Holy Place",
+      "startVerse": 15,
+      "endVerse": 22
+    },
+    {
+      "title": "The Cherubim and Temple Furnishings",
+      "startVerse": 23,
+      "endVerse": 36
+    },
+    {
+      "title": "Completion of the Temple",
+      "startVerse": 37,
+      "endVerse": 38
+    }
+  ]
 }

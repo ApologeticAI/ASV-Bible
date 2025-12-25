@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Lord, God of my salvation, I cry out day and night before you.",
       "links": "<a href='/AIV/19/27/9'>Ps. 27:9</a>; <a href='/AIV/19/143/6-7'>Ps. 143:6-7</a>",
-      "comment": "This opening addresses God as the source of rescue and hope, showing personal devotion through persistent prayer."
+      "comment": "This opening addresses God as the source of rescue and hope, showing personal devotion through persistent prayer.",
+      "sectionHeader": "A Cry from the Depths"
     },
     {
       "pk": 23088002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "Do you do wonders for the dead? Do the departed rise up to praise you? Selah.",
       "links": "<a href='/AIV/19/6/5'>Ps. 6:5</a>; <a href='/AIV/23/26/19'>Isa. 26:19</a>",
-      "comment": "A serious question about the possibility of praise after death. Hints at the hope for resurrection which becomes clearer in later revelation (<a href='/AIV/46/15/52-54'>1 Cor. 15:52-54</a>)."
+      "comment": "A serious question about the possibility of praise after death. Hints at the hope for resurrection which becomes clearer in later revelation (<a href='/AIV/46/15/52-54'>1 Cor. 15:52-54</a>).",
+      "sectionHeader": "Questioning God in Distress"
     },
     {
       "pk": 23088011,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "Lord, why do you cast off my soul? Why do you hide your face from me?",
       "links": "<a href='/AIV/19/13/1-2'>Ps. 13:1-2</a>; <a href='/AIV/19/22/1'>Ps. 22:1</a>",
-      "comment": "Language echoed by Jesus on the Cross (<a href='/AIV/40/27/46'>Matt. 27:46</a>), revealing the depth of his identification with human suffering."
+      "comment": "Language echoed by Jesus on the Cross (<a href='/AIV/40/27/46'>Matt. 27:46</a>), revealing the depth of his identification with human suffering.",
+      "sectionHeader": "Abandoned in Darkness"
     },
     {
       "pk": 23088015,
@@ -221,5 +224,22 @@
       "comment": "The psalm ends with unresolved sorrow, a rare lament in the Psalter. Yet it represents the honesty of faith and the endurance of hope, even in darkness. The reality of suffering and abandonment is met with perseverance in prayer—a pattern fulfilled perfectly in the life and passion of Christ, who draws all suffering into redemptive meaning through His Church and sacraments."
     }
   ],
-  "translatedAt": "2025-12-24T06:30:21.909Z"
+  "translatedAt": "2025-12-24T06:30:21.909Z",
+  "sections": [
+    {
+      "title": "A Cry from the Depths",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "Questioning God in Distress",
+      "startVerse": 10,
+      "endVerse": 13
+    },
+    {
+      "title": "Abandoned in Darkness",
+      "startVerse": 14,
+      "endVerse": 18
+    }
+  ]
 }

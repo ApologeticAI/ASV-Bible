@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Benjamin fathered Bela his firstborn, Ashbel the second, Aharah the third,",
       "links": "<a href='/AIV/04/26/38'>Num 26:38</a>;<a href='/AIV/09/09/1'>1 Sam 9:1</a>",
-      "comment": "These are the sons of Benjamin, introducing the genealogy that forms part of the line of Saul, Israel’s first king. Genealogies served to preserve the priestly and kingly lines, foreshadowing the need for legitimate succession for the coming Messiah."
+      "comment": "These are the sons of Benjamin, introducing the genealogy that forms part of the line of Saul, Israel’s first king. Genealogies served to preserve the priestly and kingly lines, foreshadowing the need for legitimate succession for the coming Messiah.",
+      "sectionHeader": "Genealogy of Benjamin"
     },
     {
       "pk": 13008002,
@@ -338,7 +339,8 @@
       "verse": 28,
       "text": "These were heads of fathers’ houses, according to their generations, chief men. These lived in Jerusalem.",
       "links": "<a href='/AIV/16/11/4-7'>Neh 11:4-7</a>",
-      "comment": "Jerusalem’s settlers play a special spiritual role. Living in the holy city points to participation in the place of God’s worship and presence, looking forward to the eternal city (Rev 21:2)."
+      "comment": "Jerusalem’s settlers play a special spiritual role. Living in the holy city points to participation in the place of God’s worship and presence, looking forward to the eternal city (Rev 21:2).",
+      "sectionHeader": "Families of Jerusalem and Gibeon"
     },
     {
       "pk": 13008029,
@@ -398,7 +400,8 @@
       "verse": 33,
       "text": "Ner fathered Kish, Kish fathered Saul, Saul fathered Jonathan, Malchishua, Abinadab, and Eshbaal.",
       "links": "<a href='/AIV/09/09/1'>1 Sam 9:1</a>;<a href='/AIV/13/09/39'>1 Chr 9:39</a>",
-      "comment": "Saul’s lineage is crucial; Jonathan plays a significant covenant role with David. The faithfulness of Jonathan and his sacrifice foreshadow Jesus’ faithful laying down of life for his friends (John 15:13)."
+      "comment": "Saul’s lineage is crucial; Jonathan plays a significant covenant role with David. The faithfulness of Jonathan and his sacrifice foreshadow Jesus’ faithful laying down of life for his friends (John 15:13).",
+      "sectionHeader": "Descendants of Saul"
     },
     {
       "pk": 13008034,
@@ -485,5 +488,22 @@
       "comment": "Benjamin was known for its warriors and archers. This ends the genealogy, connecting strength, legacy, and spiritual faithfulness—concepts fulfilled in the New Covenant people as spiritual warriors and heirs of God."
     }
   ],
-  "translatedAt": "2025-12-24T04:09:46.606Z"
+  "translatedAt": "2025-12-24T04:09:46.606Z",
+  "sections": [
+    {
+      "title": "Genealogy of Benjamin",
+      "startVerse": 1,
+      "endVerse": 27
+    },
+    {
+      "title": "Families of Jerusalem and Gibeon",
+      "startVerse": 28,
+      "endVerse": 32
+    },
+    {
+      "title": "Descendants of Saul",
+      "startVerse": 33,
+      "endVerse": 40
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The word that came to Jeremiah concerning all the people of Judah, in the fourth year of Jehoiakim son of Josiah, king of Judah—that was the first year of Nebuchadnezzar king of Babylon—",
       "links": "<a href='/AIV/12/24/1'>2 Kings 24:1</a>; <a href='/AIV/27/1/1'>Dan. 1:1</a>",
-      "comment": "Verse one sets the historical context, marking the first year of Nebuchadnezzar's reign, a pivotal moment for Judah leading to the Babylonian exile. This period signals God’s judgment through foreign nations, paralleled with God’s use of secular powers to bring about His divine plan (cf. Dan. 1:1)."
+      "comment": "Verse one sets the historical context, marking the first year of Nebuchadnezzar's reign, a pivotal moment for Judah leading to the Babylonian exile. This period signals God’s judgment through foreign nations, paralleled with God’s use of secular powers to bring about His divine plan (cf. Dan. 1:1).",
+      "sectionHeader": "Prophecy of Seventy Years' Captivity"
     },
     {
       "pk": 30025002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "For thus says the Lord, the God of Israel, to me: 'Take this cup of the wine of wrath from my hand, and make all the nations to whom I send you drink it.'",
       "links": "<a href='/AIV/23/51/17'>Isa. 51:17</a>; <a href='/AIV/40/26/39'>Matt. 26:39</a>",
-      "comment": "The 'cup' image is echoed in Christ’s prayer in Gethsemane, foreshadowing the fulfillment of God’s wrath in Christ’s sacrifice for all nations. This is a high Christological motif."
+      "comment": "The 'cup' image is echoed in Christ’s prayer in Gethsemane, foreshadowing the fulfillment of God’s wrath in Christ’s sacrifice for all nations. This is a high Christological motif.",
+      "sectionHeader": "The Cup of the Lord's Wrath for the Nations"
     },
     {
       "pk": 30025016,
@@ -410,7 +412,8 @@
       "verse": 34,
       "text": "Wail, you shepherds, and cry out, and roll in ashes, you leaders of the flock, for the days of your slaughter and your dispersions have come, and you shall fall like a choice vessel.",
       "links": "<a href='/AIV/26/34/2'>Ezek. 34:2</a>",
-      "comment": "Shepherds symbolize leaders—failure of spiritual leadership leads to disaster. Spiritual authority is shown to be deeply consequential."
+      "comment": "Shepherds symbolize leaders—failure of spiritual leadership leads to disaster. Spiritual authority is shown to be deeply consequential.",
+      "sectionHeader": "Judgment upon the Shepherds and Nations"
     },
     {
       "pk": 30025035,
@@ -461,5 +464,22 @@
       "comment": "The lion image signals unstoppable judgment, concluding the chapter. Note the pattern: judgment, exile, and eventual promise of restoration, later perfectly fulfilled through the new covenant in Christ."
     }
   ],
-  "translatedAt": "2025-12-24T08:35:12.841Z"
+  "translatedAt": "2025-12-24T08:35:12.841Z",
+  "sections": [
+    {
+      "title": "Prophecy of Seventy Years' Captivity",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "The Cup of the Lord's Wrath for the Nations",
+      "startVerse": 15,
+      "endVerse": 33
+    },
+    {
+      "title": "Judgment upon the Shepherds and Nations",
+      "startVerse": 34,
+      "endVerse": 38
+    }
+  ]
 }

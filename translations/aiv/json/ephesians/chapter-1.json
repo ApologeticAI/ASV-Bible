@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Paul, an apostle of Christ Jesus by the will of God, to the saints who are in Ephesus, and are faithful in Christ Jesus:",
       "links": "<a href='/AIV/44/9/15'>Acts 9:15</a>; <a href='/AIV/46/1/2'>1 Cor. 1:2</a>",
-      "comment": "Paul introduces himself as an apostle, emphasizing his divine calling and the sanctity of Christian life. The word 'saints' refers to all baptized believers set apart for God."
+      "comment": "Paul introduces himself as an apostle, emphasizing his divine calling and the sanctity of Christian life. The word 'saints' refers to all baptized believers set apart for God.",
+      "sectionHeader": "Greeting and Blessing"
     },
     {
       "pk": 56001002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "Blessed be the God and Father of our Lord Jesus Christ, who has blessed us in Christ with every spiritual blessing in the heavenly places.",
       "links": "<a href='/AIV/40/5/3'>Matt. 5:3</a>; <a href='/AIV/60/1/4'>1 Pet. 1:4</a>",
-      "comment": "Every spiritual blessing is bestowed through union with Christ, pointing to the fullness of life in Christ—especially through sacraments and life in the Church."
+      "comment": "Every spiritual blessing is bestowed through union with Christ, pointing to the fullness of life in Christ—especially through sacraments and life in the Church.",
+      "sectionHeader": "Spiritual Blessings in Christ"
     },
     {
       "pk": 56001004,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "For this reason, having heard of your faith in the Lord Jesus and your love for all the saints,",
       "links": "<a href='/AIV/51/1/4'>Col. 1:4</a>; <a href='/AIV/45/1/8'>Rom. 1:8</a>",
-      "comment": "Faith and love are always joined in Christian life; love for the saints demonstrates a unity in the body of believers that is both spiritual and visible."
+      "comment": "Faith and love are always joined in Christian life; love for the saints demonstrates a unity in the body of believers that is both spiritual and visible.",
+      "sectionHeader": "Paul's Prayer and Thanksgiving"
     },
     {
       "pk": 56001016,
@@ -281,5 +284,22 @@
       "comment": "The church as Christ’s body and fullness highlights a deeply organic and mystical union—Christ continues to operate through His people, joined together in faith, worship, and visible communion."
     }
   ],
-  "translatedAt": "2025-12-24T12:01:06.879Z"
+  "translatedAt": "2025-12-24T12:01:06.879Z",
+  "sections": [
+    {
+      "title": "Greeting and Blessing",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "Spiritual Blessings in Christ",
+      "startVerse": 3,
+      "endVerse": 14
+    },
+    {
+      "title": "Paul's Prayer and Thanksgiving",
+      "startVerse": 15,
+      "endVerse": 23
+    }
+  ]
 }

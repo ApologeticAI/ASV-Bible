@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now when David had grown old and was full of days, he made his son Solomon king over Israel.",
       "links": "<a href='/AIV/11/1/28-30'>1 Kgs 1:28-30</a>; <a href='/AIV/10/12/24'>2 Sam 12:24</a>",
-      "comment": "David, near the end of his life, ensures a peaceful transition, choosing Solomon in alignment with God's promise (<a href='/AIV/13/17/11-14'>1 Chr 17:11-14</a>), prefiguring Christ the true Son whose rule would bring lasting peace."
+      "comment": "David, near the end of his life, ensures a peaceful transition, choosing Solomon in alignment with God's promise (<a href='/AIV/13/17/11-14'>1 Chr 17:11-14</a>), prefiguring Christ the true Son whose rule would bring lasting peace.",
+      "sectionHeader": "David Makes Solomon King"
     },
     {
       "pk": 13023002,
@@ -26,7 +27,8 @@
       "verse": 2,
       "text": "Then he gathered together all the leaders of Israel, along with the priests and the Levites.",
       "links": "<a href='/AIV/13/13/1'>1 Chr 13:1</a>",
-      "comment": "David assembles the elders and spiritual leaders, underlying the unity of civil and liturgical authority in guiding God's people."
+      "comment": "David assembles the elders and spiritual leaders, underlying the unity of civil and liturgical authority in guiding God's people.",
+      "sectionHeader": "Organization lag of the Levites"
     },
     {
       "pk": 13023003,
@@ -74,7 +76,8 @@
       "verse": 6,
       "text": "David assigned them into divisions according to the sons of Levi: Gershon, Kohath, and Merari.",
       "links": "<a href='/AIV/4/3/17-20'>Num 3:17-20</a>",
-      "comment": "These three branches, established in the Law, reflect divinely instituted order, paralleling the enduring structure and continuity of the faith community."
+      "comment": "These three branches, established in the Law, reflect divinely instituted order, paralleling the enduring structure and continuity of the faith community.",
+      "sectionHeader": "Divisions of the Levite Families"
     },
     {
       "pk": 13023007,
@@ -290,7 +293,8 @@
       "verse": 24,
       "text": "These were the sons of Levi by their fathers’ houses, the heads of families as they were recorded by name, counting each one twenty years old and upward, who worked in the service of the house of the LORD.",
       "links": "<a href='/AIV/4/8/24-26'>Num 8:24–26</a>",
-      "comment": "Unlike earlier age requirements, service now begins at age twenty, showing adaptation for the expanding ministry—a sign of living tradition coupled with ongoing authority."
+      "comment": "Unlike earlier age requirements, service now begins at age twenty, showing adaptation for the expanding ministry—a sign of living tradition coupled with ongoing authority.",
+      "sectionHeader": "Duties of the Levites"
     },
     {
       "pk": 13023025,
@@ -389,5 +393,27 @@
       "comment": "This division of sacred duties underscores the importance of apostolic succession, charity in mutual service, and a living tradition maintained in unity of worship."
     }
   ],
-  "translatedAt": "2025-12-24T04:17:50.131Z"
+  "translatedAt": "2025-12-24T04:17:50.131Z",
+  "sections": [
+    {
+      "title": "David Makes Solomon King",
+      "startVerse": 1,
+      "endVerse": 1
+    },
+    {
+      "title": "Organization lag of the Levites",
+      "startVerse": 2,
+      "endVerse": 5
+    },
+    {
+      "title": "Divisions of the Levite Families",
+      "startVerse": 6,
+      "endVerse": 23
+    },
+    {
+      "title": "Duties of the Levites",
+      "startVerse": 24,
+      "endVerse": 32
+    }
+  ]
 }

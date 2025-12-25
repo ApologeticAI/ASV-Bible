@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The LORD spoke to Moses and Aaron,",
       "links": "<a href='/AIV/3/1/1'>Lev. 1:1</a>",
-      "comment": "This continues the pattern of God speaking directly to Moses and Aaron, emphasizing divine authority and apostolic leadership (see <a href='/AIV/3/1/1'>Lev. 1:1</a>)."
+      "comment": "This continues the pattern of God speaking directly to Moses and Aaron, emphasizing divine authority and apostolic leadership (see <a href='/AIV/3/1/1'>Lev. 1:1</a>).",
+      "sectionHeader": "The Red Heifer and the Water of Purification"
     },
     {
       "pk": 4019002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "\"Whoever touches the dead body of any person will be unclean for seven days.\"",
       "links": "<a href='/AIV/3/5/2'>Lev. 5:2</a>; <a href='/AIV/4/31/19'>Num. 31:19</a>",
-      "comment": "Death brings ritual impurity, signifying the separation sin causes—a theme fully addressed in Christ’s resurrection and deliverance."
+      "comment": "Death brings ritual impurity, signifying the separation sin causes—a theme fully addressed in Christ’s resurrection and deliverance.",
+      "sectionHeader": "Laws of Purification after Contact with the Dead"
     },
     {
       "pk": 4019012,
@@ -269,5 +271,17 @@
       "comment": "The transmission of uncleanness reveals the pervasive effect of sin and death—a logic reversed in Christ, whose holiness spreads to the faithful."
     }
   ],
-  "translatedAt": "2025-12-24T01:41:43.031Z"
+  "translatedAt": "2025-12-24T01:41:43.031Z",
+  "sections": [
+    {
+      "title": "The Red Heifer and the Water of Purification",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "Laws of Purification after Contact with the Dead",
+      "startVerse": 11,
+      "endVerse": 22
+    }
+  ]
 }

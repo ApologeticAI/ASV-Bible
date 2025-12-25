@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The LORD spoke to Moses, saying:",
       "links": "<a href='/AIV/3/4/1'>Lev. 4:1</a>; <a href='/AIV/4/1/1'>Num. 1:1</a>",
-      "comment": "This introduction formula appears frequently in Leviticus, emphasizing God's direct communication and authority through Moses as the mediator. It prefigures later mediation through the priestly office, which is fulfilled perfectly in Christ, our eternal High Priest. (See Heb. 4:14-16)"
+      "comment": "This introduction formula appears frequently in Leviticus, emphasizing God's direct communication and authority through Moses as the mediator. It prefigures later mediation through the priestly office, which is fulfilled perfectly in Christ, our eternal High Priest. (See Heb. 4:14-16)",
+      "sectionHeader": "Laws of Holiness and Obedience"
     },
     {
       "pk": 3018002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "None of you shall approach any one of his close relatives to uncover nakedness. I am the LORD.",
       "links": "<a href='/AIV/3/20/17'>Lev. 20:17</a>",
-      "comment": "'Uncover nakedness' is a euphemism for sexual relations. The commandment sustains the sanctity of family relationships, which mirrors God's ordered creation."
+      "comment": "'Uncover nakedness' is a euphemism for sexual relations. The commandment sustains the sanctity of family relationships, which mirrors God's ordered creation.",
+      "sectionHeader": "Unlawful Sexual Relations"
     },
     {
       "pk": 3018007,
@@ -230,7 +232,8 @@
       "verse": 19,
       "text": "You shall not approach a woman to uncover her nakedness while she is in her menstrual impurity.",
       "links": "<a href='/AIV/3/20/18'>Lev. 20:18</a>; <a href='/AIV/3/15/24'>Lev. 15:24</a>",
-      "comment": "This command underlines both ritual and moral purity, anticipating the depth of cleansing found in the new covenant sacraments."
+      "comment": "This command underlines both ritual and moral purity, anticipating the depth of cleansing found in the new covenant sacraments.",
+      "sectionHeader": "Other Forbidden Practices"
     },
     {
       "pk": 3018020,
@@ -290,7 +293,8 @@
       "verse": 24,
       "text": "Do not make yourselves unclean by any of these things, for by all these the nations I am driving out before you have become unclean.",
       "links": "<a href='/AIV/5/9/4-5'>Deut. 9:4-5</a>",
-      "comment": "The separation of Israel is rooted in their call to purity. God's people are to be distinguished in conduct, anticipating the greater holiness to which Christ’s body, the Church, is called (cf. Eph. 5:27)."
+      "comment": "The separation of Israel is rooted in their call to purity. God's people are to be distinguished in conduct, anticipating the greater holiness to which Christ’s body, the Church, is called (cf. Eph. 5:27).",
+      "sectionHeader": "Consequences of Defilement"
     },
     {
       "pk": 3018025,
@@ -365,5 +369,27 @@
       "comment": "The chapter ends with the call to faithfulness, reaffirming the LORD as the one true God. The holiness demanded here prefigures the greater holiness required of all believers in Christ, who is the fulfillment of the law and the source of grace to live it out (cf. Matt. 5:17-20)."
     }
   ],
-  "translatedAt": "2025-12-24T01:20:03.114Z"
+  "translatedAt": "2025-12-24T01:20:03.114Z",
+  "sections": [
+    {
+      "title": "Laws of Holiness and Obedience",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Unlawful Sexual Relations",
+      "startVerse": 6,
+      "endVerse": 18
+    },
+    {
+      "title": "Other Forbidden Practices",
+      "startVerse": 19,
+      "endVerse": 23
+    },
+    {
+      "title": "Consequences of Defilement",
+      "startVerse": 24,
+      "endVerse": 30
+    }
+  ]
 }

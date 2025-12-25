@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "As for you, son of man, take a sharp sword and use it like a barber’s razor. Pass it over your head and beard. Then take scales to weigh and divide the hair.",
       "links": "<a href='/AIV/3/21/10'>Lev. 21:10</a>; <a href='/AIV/23/7/20'>Isa. 7:20</a>",
-      "comment": "God commands Ezekiel to act out a symbolic act, using a sword as a razor—a sign of judgment and disgrace (cf. Isa. 7:20). The scales represent God's precise justice. This image also foreshadows acts of purification."
+      "comment": "God commands Ezekiel to act out a symbolic act, using a sword as a razor—a sign of judgment and disgrace (cf. Isa. 7:20). The scales represent God's precise justice. This image also foreshadows acts of purification.",
+      "sectionHeader": "The Sign of Shaving and Dividing the Hair"
     },
     {
       "pk": 33005002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "This is what the Lord GOD says: This is Jerusalem. I have set her in the center of the nations, with countries all around her.",
       "links": "<a href='/AIV/05/4/7'>Deut. 4:7</a>; <a href='/AIV/19/48/2'>Ps. 48:2</a>",
-      "comment": "Jerusalem’s unique position reflects its calling as the focal point of God’s presence among humanity. This foreshadows the city’s spiritual fulfillment in the New Testament as the locus of Christ’s redemptive work (cf. Heb. 12:22)."
+      "comment": "Jerusalem’s unique position reflects its calling as the focal point of God’s presence among humanity. This foreshadows the city’s spiritual fulfillment in the New Testament as the locus of Christ’s redemptive work (cf. Heb. 12:22).",
+      "sectionHeader": "The Reasons for Judgment Against Jerusalem"
     },
     {
       "pk": 33005006,
@@ -110,7 +112,8 @@
       "verse": 9,
       "text": "Because of all your abominations, I will do among you what I have never done, and the like of which I will never do again.",
       "links": "<a href='/AIV/25/4/6'>Lam. 4:6</a>; <a href='/AIV/27/9/12'>Dan. 9:12</a>",
-      "comment": "The severity of the judgment is unprecedented, emphasizing both the gravity of sin and the holiness of God. Prefigurations of such punishment remind us of the seriousness of unfaithfulness, seen ultimately in Christ bearing judgment for our sins."
+      "comment": "The severity of the judgment is unprecedented, emphasizing both the gravity of sin and the holiness of God. Prefigurations of such punishment remind us of the seriousness of unfaithfulness, seen ultimately in Christ bearing judgment for our sins.",
+      "sectionHeader": "The Severity of God's Judgment"
     },
     {
       "pk": 33005010,
@@ -194,7 +197,8 @@
       "verse": 16,
       "text": "When I send against you the deadly arrows of famine, which are for destruction, which I will send to destroy you, I will increase the famine upon you and break your staff of bread.",
       "links": "<a href='/AIV/03/26/26'>Lev. 26:26</a>; <a href='/AIV/19/105/16'>Ps. 105:16</a>",
-      "comment": "'Staff of bread' refers to the support of daily food, echoing earlier covenant curses and the Lord’s Prayer 'give us this day our daily bread.' The breaking of bread here prefigures the restoration of bread in messianic banquets."
+      "comment": "'Staff of bread' refers to the support of daily food, echoing earlier covenant curses and the Lord’s Prayer 'give us this day our daily bread.' The breaking of bread here prefigures the restoration of bread in messianic banquets.",
+      "sectionHeader": "Famine, Pestilence, and the Sword"
     },
     {
       "pk": 33005017,
@@ -209,5 +213,27 @@
       "comment": "The fourfold judgments (famine, wild beasts, pestilence, sword) recur throughout Scripture as signs of comprehensive divine judgment (see Ezek. 14:21; Rev. 6:8). Yet God’s spoken word always contains the implicit hope of turning back to Him and restoration."
     }
   ],
-  "translatedAt": "2025-12-24T09:00:40.259Z"
+  "translatedAt": "2025-12-24T09:00:40.259Z",
+  "sections": [
+    {
+      "title": "The Sign of Shaving and Dividing the Hair",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "The Reasons for Judgment Against Jerusalem",
+      "startVerse": 5,
+      "endVerse": 8
+    },
+    {
+      "title": "The Severity of God's Judgment",
+      "startVerse": 9,
+      "endVerse": 15
+    },
+    {
+      "title": "Famine, Pestilence, and the Sword",
+      "startVerse": 16,
+      "endVerse": 17
+    }
+  ]
 }

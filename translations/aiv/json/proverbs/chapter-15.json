@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "A gentle answer turns away wrath, but a harsh word stirs up anger.",
       "links": "<a href='/AIV/20/25/15'>Prov. 25:15</a>; <a href='/AIV/40/5/39-44'>Matt. 5:39-44</a>",
-      "comment": "The principle of responding gently echoes Jesus' teaching on turning the other cheek (Matt. 5:39). Both the literal and spiritual sense point to the virtue of meekness, which is foundational for Christ-like living."
+      "comment": "The principle of responding gently echoes Jesus' teaching on turning the other cheek (Matt. 5:39). Both the literal and spiritual sense point to the virtue of meekness, which is foundational for Christ-like living.",
+      "sectionHeader": "The Power of Words and Discipline"
     },
     {
       "pk": 24015002,
@@ -194,7 +195,8 @@
       "verse": 16,
       "text": "Better is little, with the fear of the LORD, than great treasure with trouble.",
       "links": "<a href='/AIV/19/37/16'>Ps. 37:16</a>; <a href='/AIV/40/6/33'>Matt. 6:33</a>",
-      "comment": "The fear of the Lord supersedes material wealth, echoing Jesus’ teaching to seek the kingdom first (Matt. 6:33). Spiritual prosperity outweighs worldly riches."
+      "comment": "The fear of the Lord supersedes material wealth, echoing Jesus’ teaching to seek the kingdom first (Matt. 6:33). Spiritual prosperity outweighs worldly riches.",
+      "sectionHeader": "The Blessings of Righteousness and the Fear of the Lord"
     },
     {
       "pk": 24015017,
@@ -338,7 +340,8 @@
       "verse": 28,
       "text": "The heart of the righteous studies to answer, but the mouth of the wicked pours out evil things.",
       "links": "<a href='/AIV/24/10/14'>Prov. 10:14</a>; <a href='/AIV/59/3/17'>Jas. 3:17</a>",
-      "comment": "Thoughtful replies show discernment inspired by God’s wisdom, contrasting with impulsive, harmful speech."
+      "comment": "Thoughtful replies show discernment inspired by God’s wisdom, contrasting with impulsive, harmful speech.",
+      "sectionHeader": "The Value of Wisdom and Humility"
     },
     {
       "pk": 24015029,
@@ -401,5 +404,22 @@
       "comment": "Humility precedes glory, foreshadowed in the life and resurrection of Christ (Phil. 2:8-9). The fear of the Lord forms the basis for true wisdom and the path to divine favor."
     }
   ],
-  "translatedAt": "2025-12-24T06:58:02.457Z"
+  "translatedAt": "2025-12-24T06:58:02.457Z",
+  "sections": [
+    {
+      "title": "The Power of Words and Discipline",
+      "startVerse": 1,
+      "endVerse": 15
+    },
+    {
+      "title": "The Blessings of Righteousness and the Fear of the Lord",
+      "startVerse": 16,
+      "endVerse": 27
+    },
+    {
+      "title": "The Value of Wisdom and Humility",
+      "startVerse": 28,
+      "endVerse": 33
+    }
+  ]
 }

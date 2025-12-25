@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "I will bless the LORD at all times; his praise will always be in my mouth.",
       "links": "<a href='/AIV/19/103/1'>Ps. 103:1</a>; <a href='/AIV/52/5/18'>1 Thess. 5:18</a>",
-      "comment": "The psalmist affirms continual praise. This points toward the practice of ongoing prayer, echoing Paul's call to 'pray without ceasing.' The commitment to perpetual worship reflects both personal devotion and communal liturgy."
+      "comment": "The psalmist affirms continual praise. This points toward the practice of ongoing prayer, echoing Paul's call to 'pray without ceasing.' The commitment to perpetual worship reflects both personal devotion and communal liturgy.",
+      "sectionHeader": "Praise for Deliverance from Trouble"
     },
     {
       "pk": 23034002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Taste and see that the LORD is good! Blessed is the person who takes refuge in him.",
       "links": "<a href='/AIV/19/119/103'>Ps. 119:103</a>; <a href='/AIV/60/2/3'>1 Peter 2:3</a>",
-      "comment": "‘Taste and see’ suggests not just knowledge but intimate experience, paralleling participation in God’s blessings and pointing toward spiritual nourishment found in Christ."
+      "comment": "‘Taste and see’ suggests not just knowledge but intimate experience, paralleling participation in God’s blessings and pointing toward spiritual nourishment found in Christ.",
+      "sectionHeader": "Invitation to Trust and Fear the Lord"
     },
     {
       "pk": 23034009,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "Come, children, listen to me; I will teach you the fear of the LORD.",
       "links": "<a href='/AIV/20/1/7'>Prov. 1:7</a>; <a href='/AIV/19/78/5'>Ps. 78:5</a>",
-      "comment": "Instructions to the 'children' symbolize discipleship and transmission of faith. Teaching the fear of the Lord is foundational for wisdom and the moral life."
+      "comment": "Instructions to the 'children' symbolize discipleship and transmission of faith. Teaching the fear of the Lord is foundational for wisdom and the moral life.",
+      "sectionHeader": "Exhortation to Righteous Living"
     },
     {
       "pk": 23034012,
@@ -182,7 +185,8 @@
       "verse": 15,
       "text": "The eyes of the LORD are on the righteous, and his ears are open to their cry.",
       "links": "<a href='/AIV/19/33/18'>Ps. 33:18</a>; <a href='/AIV/60/3/12'>1 Peter 3:12</a>",
-      "comment": "God’s attentive care is highlighted. The spiritual sense extends to intercession, showing God’s closeness to those living uprightly."
+      "comment": "God’s attentive care is highlighted. The spiritual sense extends to intercession, showing God’s closeness to those living uprightly.",
+      "sectionHeader": "The Lord's Care for the Righteous"
     },
     {
       "pk": 23034016,
@@ -269,5 +273,27 @@
       "comment": "Redemption is assured for God's servants, offering a promise of deliverance and forgiveness—foreshadowing salvation in Christ, and the assurance offered to those who trust fully in the Lord."
     }
   ],
-  "translatedAt": "2025-12-24T06:09:58.004Z"
+  "translatedAt": "2025-12-24T06:09:58.004Z",
+  "sections": [
+    {
+      "title": "Praise for Deliverance from Trouble",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Invitation to Trust and Fear the Lord",
+      "startVerse": 8,
+      "endVerse": 10
+    },
+    {
+      "title": "Exhortation to Righteous Living",
+      "startVerse": 11,
+      "endVerse": 14
+    },
+    {
+      "title": "The Lord's Care for the Righteous",
+      "startVerse": 15,
+      "endVerse": 22
+    }
+  ]
 }

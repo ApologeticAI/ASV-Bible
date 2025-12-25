@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "After this, I heard what sounded like a great multitude in heaven, shouting, 'Hallelujah! Salvation and glory and power belong to our God,",
       "links": "<a href='/AIV/19/3/8'>Ps. 3:8</a>; <a href='/AIV/42/2/13'>Luke 2:13</a>; <a href='/AIV/19/104/35'>Ps. 104:35</a>",
-      "comment": "The hymn of praise recalls the worship of God in the Psalms and the angels' proclamation at Christ’s birth (Luke 2:13). Salvation is given by God alone and signals the ultimate victory over evil, reflecting both an ongoing spiritual reality and future fulfillment."
+      "comment": "The hymn of praise recalls the worship of God in the Psalms and the angels' proclamation at Christ’s birth (Luke 2:13). Salvation is given by God alone and signals the ultimate victory over evil, reflecting both an ongoing spiritual reality and future fulfillment.",
+      "sectionHeader": "Hymns of Praise in Heaven"
     },
     {
       "pk": 73019002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "Let us rejoice and be glad and give Him glory, because the marriage of the Lamb has come, and His bride has made herself ready.",
       "links": "<a href='/AIV/23/61/10'>Isa. 61:10</a>; <a href='/AIV/40/22/2'>Matt. 22:2</a>",
-      "comment": "This verse unites Old Testament and New Testament marriage imagery: Isaiah 61:10 (bride adorned) and the parable in Matthew 22:2. The 'Lamb' refers to Christ and His union with the Church, teaching the importance of preparing for this union through faith, holiness, and sacraments."
+      "comment": "This verse unites Old Testament and New Testament marriage imagery: Isaiah 61:10 (bride adorned) and the parable in Matthew 22:2. The 'Lamb' refers to Christ and His union with the Church, teaching the importance of preparing for this union through faith, holiness, and sacraments.",
+      "sectionHeader": "The Marriage Supper of the Lamb"
     },
     {
       "pk": 73019008,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "Then I saw heaven opened, and there was a white horse. Its rider is called Faithful and True, and He judges and makes war in righteousness.",
       "links": "<a href='/AIV/19/45/4'>Ps. 45:4</a>; <a href='/AIV/23/11/4'>Isa. 11:4</a>; <a href='/AIV/66/6/2'>Rev. 6:2</a>",
-      "comment": "The rider is Christ, depicted as the conqueror (Rev. 6:2, Psalm 45:4), fulfilling prophecies of righteous judgment. Affirms the divine kingship and the role of Christ as judge—both present and future."
+      "comment": "The rider is Christ, depicted as the conqueror (Rev. 6:2, Psalm 45:4), fulfilling prophecies of righteous judgment. Affirms the divine kingship and the role of Christ as judge—both present and future.",
+      "sectionHeader": "The Rider on the White Horse"
     },
     {
       "pk": 73019012,
@@ -230,7 +233,8 @@
       "verse": 19,
       "text": "Then I saw the beast and the kings of the earth and their armies gathered together to wage war against Him who sat on the horse and His army.",
       "links": "<a href='/AIV/66/16/14'>Rev. 16:14</a>; <a href='/AIV/19/2/2'>Ps. 2:2</a>",
-      "comment": "The forces of evil seek to confront Christ (Psalm 2:2). This acts as a warning against pride and rebellion, but also underlines Christ’s inevitable victory."
+      "comment": "The forces of evil seek to confront Christ (Psalm 2:2). This acts as a warning against pride and rebellion, but also underlines Christ’s inevitable victory.",
+      "sectionHeader": "The Defeat of the Beast and the False Prophet"
     },
     {
       "pk": 73019020,
@@ -257,5 +261,27 @@
       "comment": "The Word of Christ (the sword from His mouth) executes final judgment (Ezekiel 39). Jesus’ word has the power to judge and to save, highlighting both His mercy and His justice."
     }
   ],
-  "translatedAt": "2025-12-24T12:40:51.416Z"
+  "translatedAt": "2025-12-24T12:40:51.416Z",
+  "sections": [
+    {
+      "title": "Hymns of Praise in Heaven",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "The Marriage Supper of the Lamb",
+      "startVerse": 7,
+      "endVerse": 10
+    },
+    {
+      "title": "The Rider on the White Horse",
+      "startVerse": 11,
+      "endVerse": 18
+    },
+    {
+      "title": "The Defeat of the Beast and the False Prophet",
+      "startVerse": 19,
+      "endVerse": 21
+    }
+  ]
 }

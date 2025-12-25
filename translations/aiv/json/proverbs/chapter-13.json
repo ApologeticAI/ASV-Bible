@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "A wise son listens to his father's disciplined instruction, but a scoffer does not hear rebuke.",
       "links": "<a href='/AIV/20/1/8'>Prov. 1:8</a>; <a href='/AIV/20/6/23'>Prov. 6:23</a>",
-      "comment": "The Hebrew word for 'instruction' implies both teaching and correction, echoing the importance of family and spiritual guidance. Throughout Scripture, listening to parental authority is aligned with honoring God’s order (see <a href='/AIV/20/1/8'>Prov 1:8</a>)."
+      "comment": "The Hebrew word for 'instruction' implies both teaching and correction, echoing the importance of family and spiritual guidance. Throughout Scripture, listening to parental authority is aligned with honoring God’s order (see <a href='/AIV/20/1/8'>Prov 1:8</a>).",
+      "sectionHeader": "The Way of Wisdom and Folly"
     },
     {
       "pk": 24013002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "The sluggard craves but gets nothing, but the soul of the diligent is richly supplied.",
       "links": "<a href='/AIV/20/10/4'>Prov. 10:4</a>; <a href='/AIV/20/12/24'>Prov. 12:24</a>",
-      "comment": "The contrast between laziness and diligence underscores virtue through effort and cooperation with grace, a central theme for spiritual growth throughout the Bible."
+      "comment": "The contrast between laziness and diligence underscores virtue through effort and cooperation with grace, a central theme for spiritual growth throughout the Bible.",
+      "sectionHeader": "Blessings of Righteousness and Diligence"
     },
     {
       "pk": 24013005,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "Whoever despises the word will be destroyed, but whoever fears the commandment will be rewarded.",
       "links": "<a href='/AIV/20/19/16'>Prov. 19:16</a>; <a href='/AIV/05/6/2'>Deut. 6:2</a>",
-      "comment": "Respect for God's word leads to blessing, reflecting the necessity of obedience to divine instruction, as emphasized throughout Scripture."
+      "comment": "Respect for God's word leads to blessing, reflecting the necessity of obedience to divine instruction, as emphasized throughout Scripture.",
+      "sectionHeader": "The Value of Instruction and Counsel"
     },
     {
       "pk": 24013014,
@@ -242,7 +245,8 @@
       "verse": 20,
       "text": "Whoever walks with the wise becomes wise, but the companion of fools will suffer harm.",
       "links": "<a href='/AIV/20/1/15'>Prov. 1:15</a>; <a href='/AIV/46/15/33'>1 Cor. 15:33</a>",
-      "comment": "Association shapes character. This truth is affirmed by Paul in the New Testament (<a href='/AIV/46/15/33'>1 Cor. 15:33</a>). Community is vital for growing in wisdom."
+      "comment": "Association shapes character. This truth is affirmed by Paul in the New Testament (<a href='/AIV/46/15/33'>1 Cor. 15:33</a>). Community is vital for growing in wisdom.",
+      "sectionHeader": "Company, Inheritance, and Discipline"
     },
     {
       "pk": 24013021,
@@ -305,5 +309,27 @@
       "comment": "God nourishes those who belong to Him, both physically and spiritually. Psalm 34:10 expands this promise to the faithful who seek the Lord."
     }
   ],
-  "translatedAt": "2025-12-24T06:56:49.998Z"
+  "translatedAt": "2025-12-24T06:56:49.998Z",
+  "sections": [
+    {
+      "title": "The Way of Wisdom and Folly",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "Blessings of Righteousness and Diligence",
+      "startVerse": 4,
+      "endVerse": 12
+    },
+    {
+      "title": "The Value of Instruction and Counsel",
+      "startVerse": 13,
+      "endVerse": 19
+    },
+    {
+      "title": "Company, Inheritance, and Discipline",
+      "startVerse": 20,
+      "endVerse": 25
+    }
+  ]
 }

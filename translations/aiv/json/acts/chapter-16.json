@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Paul came to Derbe and then to Lystra, where there was a disciple named Timothy, the son of a believing Jewish woman, but his father was Greek.",
       "links": "<a href='/AIV/55/1/5'>2 Tim. 1:5</a>; <a href='/AIV/51/14/8'>Acts 14:8</a>",
-      "comment": "Timothy's mixed heritage highlights the openness of the early Church to all cultures, both Jews and Gentiles. The faith was passed on by his mother, showing the deep importance of family tradition in handing down faith."
+      "comment": "Timothy's mixed heritage highlights the openness of the early Church to all cultures, both Jews and Gentiles. The faith was passed on by his mother, showing the deep importance of family tradition in handing down faith.",
+      "sectionHeader": "Timothy Joins Paul and Silas"
     },
     {
       "pk": 51016002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "They passed through the region of Phrygia and Galatia, being prevented by the Holy Spirit from speaking the word in Asia.",
       "links": "<a href='/AIV/51/18/23'>Acts 18:23</a>; <a href='/AIV/51/19/10'>Acts 19:10</a>",
-      "comment": "The Holy Spirit actively directs missionary work, guiding the Church and showing divine initiative."
+      "comment": "The Holy Spirit actively directs missionary work, guiding the Church and showing divine initiative.",
+      "sectionHeader": "The Macedonian Call"
     },
     {
       "pk": 51016007,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "So, setting sail from Troas, we made a direct voyage to Samothrace, and the next day to Neapolis.",
       "links": "<a href='/AIV/52/2/13'>2 Cor. 2:13</a>",
-      "comment": "Precise travel details reflect Luke’s historical accuracy and eyewitness testimony."
+      "comment": "Precise travel details reflect Luke’s historical accuracy and eyewitness testimony.",
+      "sectionHeader": "Conversion of Lydia at Philippi"
     },
     {
       "pk": 51016012,
@@ -194,7 +197,8 @@
       "verse": 16,
       "text": "As we were going to the place of prayer, a slave girl who had a spirit of divination met us. She brought her owners much profit by fortune-telling.",
       "links": "<a href='/AIV/51/8/9'>Acts 8:9</a>",
-      "comment": "Spiritual opposition parallels earlier events in Acts. The girl’s exploitation contrasts with Christ’s liberation."
+      "comment": "Spiritual opposition parallels earlier events in Acts. The girl’s exploitation contrasts with Christ’s liberation.",
+      "sectionHeader": "Paul and Silas Imprisoned"
     },
     {
       "pk": 51016017,
@@ -302,7 +306,8 @@
       "verse": 25,
       "text": "About midnight Paul and Silas were praying and singing hymns to God, and the other prisoners were listening to them.",
       "links": "<a href='/AIV/19/42/8'>Ps. 42:8</a>; <a href='/AIV/19/119/62'>Ps. 119:62</a>",
-      "comment": "Praying and singing in suffering recalls the Psalms and liturgical worship, showing the importance of communal prayer even in hardship."
+      "comment": "Praying and singing in suffering recalls the Psalms and liturgical worship, showing the importance of communal prayer even in hardship.",
+      "sectionHeader": "The Conversion of the Philippian Jailer"
     },
     {
       "pk": 51016026,
@@ -485,5 +490,32 @@
       "comment": "The early believers gathered for encouragement, reflecting the continuous need for communal worship, apostolic teaching, and brotherly support in the life of faith."
     }
   ],
-  "translatedAt": "2025-12-24T11:27:42.001Z"
+  "translatedAt": "2025-12-24T11:27:42.001Z",
+  "sections": [
+    {
+      "title": "Timothy Joins Paul and Silas",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "The Macedonian Call",
+      "startVerse": 6,
+      "endVerse": 10
+    },
+    {
+      "title": "Conversion of Lydia at Philippi",
+      "startVerse": 11,
+      "endVerse": 15
+    },
+    {
+      "title": "Paul and Silas Imprisoned",
+      "startVerse": 16,
+      "endVerse": 24
+    },
+    {
+      "title": "The Conversion of the Philippian Jailer",
+      "startVerse": 25,
+      "endVerse": 40
+    }
+  ]
 }

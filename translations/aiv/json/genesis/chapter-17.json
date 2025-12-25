@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When Abram was ninety-nine years old, the LORD appeared to him and said, 'I am God Almighty; walk before me and be blameless.'",
       "links": "<a href='/AIV/1/35/11'>Gen. 35:11</a>; <a href='/AIV/2/6/3'>Ex. 6:3</a>",
-      "comment": "'God Almighty' (El Shaddai) emphasizes God's absolute power and authority. The command to 'walk before me and be blameless' sets a pattern for covenant faithfulness seen throughout Scripture. Compare <a href='/AIV/1/5/24'>Gen. 5:24</a> and <a href='/AIV/19/15/2'>Ps. 15:2</a>."
+      "comment": "'God Almighty' (El Shaddai) emphasizes God's absolute power and authority. The command to 'walk before me and be blameless' sets a pattern for covenant faithfulness seen throughout Scripture. Compare <a href='/AIV/1/5/24'>Gen. 5:24</a> and <a href='/AIV/19/15/2'>Ps. 15:2</a>.",
+      "sectionHeader": "God's Covenant with Abraham"
     },
     {
       "pk": 1017002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "And God said to Abraham, 'As for you, you must keep my covenant, you and your descendants after you throughout their generations.'",
       "links": "<a href='/AIV/1/18/19'>Gen. 18:19</a>; <a href='/AIV/5/4/13'>Deut. 4:13</a>",
-      "comment": "Covenant faithfulness is to be maintained across generations, mirroring later teachings on the enduring transmission of faith (cf. <a href='/AIV/47/3/3-6'>2 Cor. 3:3-6</a>)."
+      "comment": "Covenant faithfulness is to be maintained across generations, mirroring later teachings on the enduring transmission of faith (cf. <a href='/AIV/47/3/3-6'>2 Cor. 3:3-6</a>).",
+      "sectionHeader": "The Covenant of Circumcision"
     },
     {
       "pk": 1017010,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "God also said to Abraham, 'As for Sarai your wife, you shall not call her name Sarai, but Sarah shall be her name.'",
       "links": "<a href='/AIV/1/32/28'>Gen. 32:28</a>; <a href='/AIV/23/51/2'>Isa. 51:2</a>",
-      "comment": "As Abram becomes Abraham, so Sarai is renamed as Sarah. Naming signifies a special mission and dignity in salvation history."
+      "comment": "As Abram becomes Abraham, so Sarai is renamed as Sarah. Naming signifies a special mission and dignity in salvation history.",
+      "sectionHeader": "The Promise of Isaac"
     },
     {
       "pk": 1017016,
@@ -278,7 +281,8 @@
       "verse": 23,
       "text": "Then Abraham took Ishmael his son and all those born in his house or bought with his money, every male among the men of Abraham’s house, and he circumcised the flesh of their foreskins that very day, as God had said to him.",
       "links": "<a href='/AIV/1/17/12-13'>Gen. 17:12-13</a>; <a href='/AIV/45/4/11'>Rom. 4:11</a>",
-      "comment": "Abraham's immediate obedience prefigures faithful response to God's commands—a hallmark of true covenant relationship."
+      "comment": "Abraham's immediate obedience prefigures faithful response to God's commands—a hallmark of true covenant relationship.",
+      "sectionHeader": "The Circumcision of Abraham's Household"
     },
     {
       "pk": 1017024,
@@ -329,5 +333,27 @@
       "comment": "The whole household enters the covenant together, showing an early pattern of communal faith. A similar communal pattern appears in the new covenant's sacraments, inviting whole families into God’s promises."
     }
   ],
-  "translatedAt": "2025-12-24T00:18:39.647Z"
+  "translatedAt": "2025-12-24T00:18:39.647Z",
+  "sections": [
+    {
+      "title": "God's Covenant with Abraham",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "The Covenant of Circumcision",
+      "startVerse": 9,
+      "endVerse": 14
+    },
+    {
+      "title": "The Promise of Isaac",
+      "startVerse": 15,
+      "endVerse": 22
+    },
+    {
+      "title": "The Circumcision of Abraham's Household",
+      "startVerse": 23,
+      "endVerse": 27
+    }
+  ]
 }

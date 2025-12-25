@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Soon afterward, Jesus traveled through cities and villages, preaching and announcing the good news of the kingdom of God. The twelve were with Him,",
       "links": "<a href='/AIV/40/4/23'>Matt. 4:23</a>; <a href='/AIV/41/1/14'>Mark 1:14</a>",
-      "comment": "Jesus is depicted as proclaiming the kingdom of God personally, underscoring His role as the central messenger and fulfillment of Old Testament hopes. Note the twelve disciples accompany Him, underscoring the importance of apostolic witness."
+      "comment": "Jesus is depicted as proclaiming the kingdom of God personally, underscoring His role as the central messenger and fulfillment of Old Testament hopes. Note the twelve disciples accompany Him, underscoring the importance of apostolic witness.",
+      "sectionHeader": "Women Accompany Jesus"
     },
     {
       "pk": 49008002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "When a great crowd gathered, and people from every town came to Him, He spoke in a parable:",
       "links": "<a href='/AIV/40/13/1-3'>Matt. 13:1-3</a>; <a href='/AIV/41/4/1-2'>Mark 4:1-2</a>",
-      "comment": "Parables are a means for Jesus both to reveal and conceal truth, inviting faith and reflection. See also Old Testament use of parables in <a href='/AIV/10/12/1-4'>2 Sam. 12:1-4</a>."
+      "comment": "Parables are a means for Jesus both to reveal and conceal truth, inviting faith and reflection. See also Old Testament use of parables in <a href='/AIV/10/12/1-4'>2 Sam. 12:1-4</a>.",
+      "sectionHeader": "The Parable of the Sower"
     },
     {
       "pk": 49008005,
@@ -110,7 +112,8 @@
       "verse": 9,
       "text": "Then His disciples asked Him what this parable meant.",
       "links": "",
-      "comment": "Seeking the true meaning of Jesus' words is shown as proper discipleship, anticipating the future role of church teaching authority in interpreting Scripture."
+      "comment": "Seeking the true meaning of Jesus' words is shown as proper discipleship, anticipating the future role of church teaching authority in interpreting Scripture.",
+      "sectionHeader": "The Purpose of the Parables"
     },
     {
       "pk": 49008010,
@@ -194,7 +197,8 @@
       "verse": 16,
       "text": "\"No one, after lighting a lamp, covers it with a vessel or puts it under a bed, but sets it on a stand, so that those who come in may see the light.",
       "links": "<a href='/AIV/40/5/15'>Matt. 5:15</a>",
-      "comment": "The metaphor of light refers to faith and witness—intended to shine forth, not be hidden."
+      "comment": "The metaphor of light refers to faith and witness—intended to shine forth, not be hidden.",
+      "sectionHeader": "The Parable of the Lamp"
     },
     {
       "pk": 49008017,
@@ -230,7 +234,8 @@
       "verse": 19,
       "text": "Then Jesus' mother and His brothers came to Him, but they could not reach Him because of the crowd.",
       "links": "<a href='/AIV/40/12/46'>Matt. 12:46</a>; <a href='/AIV/41/3/31'>Mark 3:31</a>",
-      "comment": "The presence of Jesus' mother is an important detail, showing her ongoing role in the gospel narrative; 'brothers' in Jewish context can refer to kin or extended family."
+      "comment": "The presence of Jesus' mother is an important detail, showing her ongoing role in the gospel narrative; 'brothers' in Jewish context can refer to kin or extended family.",
+      "sectionHeader": "The True Kindred of Jesus"
     },
     {
       "pk": 49008020,
@@ -266,7 +271,8 @@
       "verse": 22,
       "text": "One day Jesus got into a boat with His disciples and said to them, \"Let us go across to the other side of the lake.\" So they set out.",
       "links": "<a href='/AIV/40/8/23'>Matt. 8:23</a>",
-      "comment": "Crossing the lake sets up a demonstration of Jesus' power over nature, foreshadowing His divine authority."
+      "comment": "Crossing the lake sets up a demonstration of Jesus' power over nature, foreshadowing His divine authority.",
+      "sectionHeader": "Jesus Calms the Storm"
     },
     {
       "pk": 49008023,
@@ -314,7 +320,8 @@
       "verse": 26,
       "text": "Then they sailed to the region of the Gerasenes, which is opposite Galilee.",
       "links": "<a href='/AIV/40/8/28'>Matt. 8:28</a>",
-      "comment": "Jesus moves beyond Israel's traditional boundaries, prefiguring the inclusion of the Gentiles in salvation."
+      "comment": "Jesus moves beyond Israel's traditional boundaries, prefiguring the inclusion of the Gentiles in salvation.",
+      "sectionHeader": "Jesus Heals the Gerasene Demoniac"
     },
     {
       "pk": 49008027,
@@ -482,7 +489,8 @@
       "verse": 40,
       "text": "When Jesus returned, the crowd welcomed Him, for they were all waiting for Him.",
       "links": "",
-      "comment": "Jesus is consistently sought after by the crowds, recognizing His authority and bringing their needs to Him."
+      "comment": "Jesus is consistently sought after by the crowds, recognizing His authority and bringing their needs to Him.",
+      "sectionHeader": "A Woman Healed and Jairus’s Daughter Restored"
     },
     {
       "pk": 49008041,
@@ -677,5 +685,47 @@
       "comment": "Jesus sometimes asks for secrecy, possibly to avoid misunderstanding about His mission before the appointed time. This example of restoring life anticipates His own resurrection and the greater resurrection of all the faithful."
     }
   ],
-  "translatedAt": "2025-12-24T10:45:30.314Z"
+  "translatedAt": "2025-12-24T10:45:30.314Z",
+  "sections": [
+    {
+      "title": "Women Accompany Jesus",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "The Parable of the Sower",
+      "startVerse": 4,
+      "endVerse": 8
+    },
+    {
+      "title": "The Purpose of the Parables",
+      "startVerse": 9,
+      "endVerse": 15
+    },
+    {
+      "title": "The Parable of the Lamp",
+      "startVerse": 16,
+      "endVerse": 18
+    },
+    {
+      "title": "The True Kindred of Jesus",
+      "startVerse": 19,
+      "endVerse": 21
+    },
+    {
+      "title": "Jesus Calms the Storm",
+      "startVerse": 22,
+      "endVerse": 25
+    },
+    {
+      "title": "Jesus Heals the Gerasene Demoniac",
+      "startVerse": 26,
+      "endVerse": 39
+    },
+    {
+      "title": "A Woman Healed and Jairus’s Daughter Restored",
+      "startVerse": 40,
+      "endVerse": 56
+    }
+  ]
 }

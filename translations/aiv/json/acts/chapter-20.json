@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "After the uproar had ended, Paul summoned the disciples, encouraged them, said farewell, and departed to go to Macedonia.",
       "links": "<a href='/AIV/51/19/21'>Acts 19:21</a>; <a href='/AIV/47/2/13'>2 Cor. 2:13</a>",
-      "comment": "Paul's pattern of strengthening and encouraging believers before departing shows pastoral care and concern for the unity of the Church."
+      "comment": "Paul's pattern of strengthening and encouraging believers before departing shows pastoral care and concern for the unity of the Church.",
+      "sectionHeader": "Paul in Macedonia and Greece"
     },
     {
       "pk": 51020002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "On the first day of the week, we gathered together to break bread. Paul spoke to them, and because he intended to depart the next day, he prolonged his speech until midnight.",
       "links": "<a href='/AIV/46/16/2'>1 Cor. 16:2</a>; <a href='/AIV/42/24/30'>Luke 24:30</a>",
-      "comment": "Breaking bread on the first day prefigures the Christian practice of Sunday worship centered around the Eucharist, showing liturgical continuity from the apostles."
+      "comment": "Breaking bread on the first day prefigures the Christian practice of Sunday worship centered around the Eucharist, showing liturgical continuity from the apostles.",
+      "sectionHeader": "Paul Raises Eutychus at Troas"
     },
     {
       "pk": 51020008,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "But we went ahead to the ship and set sail for Assos, intending to take Paul aboard there. He had arranged this since he intended to go there on foot.",
       "links": "",
-      "comment": "Paul’s personal journey on foot demonstrates his humility and perhaps desire for solitary prayer or reflection."
+      "comment": "Paul’s personal journey on foot demonstrates his humility and perhaps desire for solitary prayer or reflection.",
+      "sectionHeader": "From Troas to Miletus"
     },
     {
       "pk": 51020014,
@@ -206,7 +209,8 @@
       "verse": 17,
       "text": "From Miletus he sent word to Ephesus and called for the elders of the church to come to him.",
       "links": "<a href='/AIV/56/1/5'>Titus 1:5</a>",
-      "comment": "Paul’s summons of the elders (presbyters) demonstrates early episcopal structure and shared leadership in the Christian community."
+      "comment": "Paul’s summons of the elders (presbyters) demonstrates early episcopal structure and shared leadership in the Christian community.",
+      "sectionHeader": "Paul's Farewell to the Ephesian Elders"
     },
     {
       "pk": 51020018,
@@ -461,5 +465,27 @@
       "comment": "The profound sorrow at this farewell evokes the emotional depth of the apostolic age and the sacrificial nature of ministry, anticipating the Church’s ongoing missionary call."
     }
   ],
-  "translatedAt": "2025-12-24T11:30:16.771Z"
+  "translatedAt": "2025-12-24T11:30:16.771Z",
+  "sections": [
+    {
+      "title": "Paul in Macedonia and Greece",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Paul Raises Eutychus at Troas",
+      "startVerse": 7,
+      "endVerse": 12
+    },
+    {
+      "title": "From Troas to Miletus",
+      "startVerse": 13,
+      "endVerse": 16
+    },
+    {
+      "title": "Paul's Farewell to the Ephesian Elders",
+      "startVerse": 17,
+      "endVerse": 38
+    }
+  ]
 }

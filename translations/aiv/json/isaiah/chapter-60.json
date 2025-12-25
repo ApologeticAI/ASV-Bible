@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Arise, shine, for your light has come, and the glory of the LORD has risen upon you.",
       "links": "<a href='/AIV/40/5/14-16'>Matt. 5:14-16</a>; <a href='/AIV/43/1/4-9'>John 1:4-9</a>; <a href='/AIV/23/58/8'>Isa. 58:8</a>",
-      "comment": "This opening verse proclaims a spiritual awakening and the arrival of God’s presence. The 'light' here is often seen as a prophetic text foreshadowing the coming of Christ, who is called the 'light of the world' (John 8:12). From a spiritual interpretation, it also points to the Church being the vessel that carries forth God's glory to the nations."
+      "comment": "This opening verse proclaims a spiritual awakening and the arrival of God’s presence. The 'light' here is often seen as a prophetic text foreshadowing the coming of Christ, who is called the 'light of the world' (John 8:12). From a spiritual interpretation, it also points to the Church being the vessel that carries forth God's glory to the nations.",
+      "sectionHeader": "The Glory of Zion’s Dawn"
     },
     {
       "pk": 29060002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "Lift up your eyes all around, and see: they all gather together, they come to you; your sons shall come from afar, and your daughters shall be carried on the hip.",
       "links": "<a href='/AIV/23/49/18-22'>Isa. 49:18-22</a>",
-      "comment": "This verse depicts the reunification and gathering of God's people, symbolizing spiritual restoration and inclusion. It also serves as a typology for the gathering of believers from distant lands into the one true faith."
+      "comment": "This verse depicts the reunification and gathering of God's people, symbolizing spiritual restoration and inclusion. It also serves as a typology for the gathering of believers from distant lands into the one true faith.",
+      "sectionHeader": "The Gathering of Nations and Enrichment of Zion"
     },
     {
       "pk": 29060005,
@@ -122,7 +124,8 @@
       "verse": 10,
       "text": "Foreigners shall build up your walls, and their kings shall serve you; for in my wrath I struck you, but in my favor I have had mercy on you.",
       "links": "<a href='/AIV/16/2/8'>Neh. 2:8</a>; <a href='/AIV/23/54/7-8'>Isa. 54:7-8</a>",
-      "comment": "Even political leaders from outside Israel will serve the restored city—a sign that God's redemptive plan is universal. Restoration comes through divine mercy, pointing to the Church's reliance on God’s grace."
+      "comment": "Even political leaders from outside Israel will serve the restored city—a sign that God's redemptive plan is universal. Restoration comes through divine mercy, pointing to the Church's reliance on God’s grace.",
+      "sectionHeader": "The Restoration and Exaltation of Zion"
     },
     {
       "pk": 29060011,
@@ -230,7 +233,8 @@
       "verse": 19,
       "text": "The sun shall no longer be your light by day, nor for brightness shall the moon give you light; but the LORD will be your everlasting light, and your God will be your glory.",
       "links": "<a href='/AIV/66/21/23'>Rev. 21:23</a>; <a href='/AIV/23/24/23'>Isa. 24:23</a>",
-      "comment": "God Himself is the light, fulfilling ultimate communion with Him. Revelation 21:23 quotes this to describe the eternal city."
+      "comment": "God Himself is the light, fulfilling ultimate communion with Him. Revelation 21:23 quotes this to describe the eternal city.",
+      "sectionHeader": "Everlasting Light and Righteousness in Zion"
     },
     {
       "pk": 29060020,
@@ -269,5 +273,27 @@
       "comment": "This final verse depicts the miraculous growth of God's people. It connects to Jesus' parable of the mustard seed (Mark 4:31-32), showing how the true faith, though small at first, becomes a global, united communion by God’s power."
     }
   ],
-  "translatedAt": "2025-12-24T08:18:18.442Z"
+  "translatedAt": "2025-12-24T08:18:18.442Z",
+  "sections": [
+    {
+      "title": "The Glory of Zion’s Dawn",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "The Gathering of Nations and Enrichment of Zion",
+      "startVerse": 4,
+      "endVerse": 9
+    },
+    {
+      "title": "The Restoration and Exaltation of Zion",
+      "startVerse": 10,
+      "endVerse": 18
+    },
+    {
+      "title": "Everlasting Light and Righteousness in Zion",
+      "startVerse": 19,
+      "endVerse": 22
+    }
+  ]
 }

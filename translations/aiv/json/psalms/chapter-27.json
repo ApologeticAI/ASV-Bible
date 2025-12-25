@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The LORD is my light and my salvation—whom shall I fear? The LORD is the fortress of my life—of whom shall I be afraid?",
       "links": "<a href='/AIV/19/18/28'>Ps. 18:28</a>; <a href='/AIV/23/60/19'>Isa. 60:19</a>; <a href='/AIV/43/8/12'>John 8:12</a>",
-      "comment": "David acknowledges God as his light and deliverer, removing all fear. The image of 'light' is later fulfilled in Christ (John 8:12), connecting this Psalm to messianic prophecy and to the assurance believers have in the Lord's protection. The fortress image resonates with the security found in the people of God, anchored in His presence."
+      "comment": "David acknowledges God as his light and deliverer, removing all fear. The image of 'light' is later fulfilled in Christ (John 8:12), connecting this Psalm to messianic prophecy and to the assurance believers have in the Lord's protection. The fortress image resonates with the security found in the people of God, anchored in His presence.",
+      "sectionHeader": "The Lord is My Light and Salvation"
     },
     {
       "pk": 23027002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "Hear, O LORD, when I cry with my voice; be gracious to me and answer me.",
       "links": "<a href='/AIV/19/4/1'>Ps. 4:1</a>; <a href='/AIV/19/69/16'>Ps. 69:16</a>",
-      "comment": "David calls out for mercy, showing openness, humility, and dependence on God's grace—a theme vital to a healthy relationship with God, echoed throughout Scripture and especially in the Psalms."
+      "comment": "David calls out for mercy, showing openness, humility, and dependence on God's grace—a theme vital to a healthy relationship with God, echoed throughout Scripture and especially in the Psalms.",
+      "sectionHeader": "Prayer for God’s Presence and Guidance"
     },
     {
       "pk": 23027008,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "I remain confident of this: I will see the goodness of the LORD in the land of the living.",
       "links": "<a href='/AIV/19/52/8'>Ps. 52:8</a>; <a href='/AIV/19/116/9'>Ps. 116:9</a>",
-      "comment": "David's declaration of hope points to his trust in God’s promises for both this life and the life to come. The phrase 'land of the living' traditionally refers to earthly life but suggests an undercurrent of resurrection hope, later fully revealed in Christ."
+      "comment": "David's declaration of hope points to his trust in God’s promises for both this life and the life to come. The phrase 'land of the living' traditionally refers to earthly life but suggests an undercurrent of resurrection hope, later fully revealed in Christ.",
+      "sectionHeader": "Confidence and Exhortation to Wait on the Lord"
     },
     {
       "pk": 23027014,
@@ -173,5 +176,22 @@
       "comment": "The Psalm ends with a call to patience and courage. Waiting on the Lord is not passive but active trust—an enduring theme throughout the Scriptures, urging God’s people to live in hopeful expectation, sustained by faith and participation in the community of believers."
     }
   ],
-  "translatedAt": "2025-12-24T06:07:32.015Z"
+  "translatedAt": "2025-12-24T06:07:32.015Z",
+  "sections": [
+    {
+      "title": "The Lord is My Light and Salvation",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Prayer for God’s Presence and Guidance",
+      "startVerse": 7,
+      "endVerse": 12
+    },
+    {
+      "title": "Confidence and Exhortation to Wait on the Lord",
+      "startVerse": 13,
+      "endVerse": 14
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The LORD said to Moses, 'Speak to the priests, the sons of Aaron, and say to them: None shall make himself ceremonially unclean for a dead person among his people,",
       "links": "<a href='/AIV/4/19/11'>Num. 19:11</a>; <a href='/AIV/3/22/4'>Lev. 22:4</a>",
-      "comment": "Priests were held to higher standards of purity, emphasizing their role as mediators between God and the people. This foreshadows the high calling of those serving in spiritual leadership throughout salvation history. See also Hebrews 7:26 for Christ as the perfect high priest."
+      "comment": "Priests were held to higher standards of purity, emphasizing their role as mediators between God and the people. This foreshadows the high calling of those serving in spiritual leadership throughout salvation history. See also Hebrews 7:26 for Christ as the perfect high priest.",
+      "sectionHeader": "Regulations for the Priests"
     },
     {
       "pk": 3021002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "The high priest, who is greater than his brothers, on whose head the anointing oil has been poured and who has been consecrated to wear the garments, must not let his hair hang loose or tear his clothes.",
       "links": "<a href='/AIV/2/29/7'>Exod. 29:7</a>;<a href='/AIV/3/8/12'>Lev. 8:12</a>",
-      "comment": "The high priest’s special consecration highlights the mediator’s unique role—a typology for Christ as the Anointed One (Hebrews 4:14), who fulfills the Old Testament priesthood perfectly."
+      "comment": "The high priest’s special consecration highlights the mediator’s unique role—a typology for Christ as the Anointed One (Hebrews 4:14), who fulfills the Old Testament priesthood perfectly.",
+      "sectionHeader": "Regulations for the High Priest"
     },
     {
       "pk": 3021011,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "The LORD spoke to Moses, saying,",
       "links": "<a href='/AIV/3/6/1'>Lev. 6:1</a>",
-      "comment": "A new speech signals a change in topic, deepening the instruction about priestly holiness."
+      "comment": "A new speech signals a change in topic, deepening the instruction about priestly holiness.",
+      "sectionHeader": "Unacceptable Defects in Priests"
     },
     {
       "pk": 3021017,
@@ -293,5 +296,22 @@
       "comment": "The laws are given to all, emphasizing universal responsibility to uphold God’s holiness. The priesthood serves as both mediator and example for faithfulness across generations—ultimately fulfilled in Christ’s eternal priesthood."
     }
   ],
-  "translatedAt": "2025-12-24T01:21:47.397Z"
+  "translatedAt": "2025-12-24T01:21:47.397Z",
+  "sections": [
+    {
+      "title": "Regulations for the Priests",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "Regulations for the High Priest",
+      "startVerse": 10,
+      "endVerse": 15
+    },
+    {
+      "title": "Unacceptable Defects in Priests",
+      "startVerse": 16,
+      "endVerse": 24
+    }
+  ]
 }

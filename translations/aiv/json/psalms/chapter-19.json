@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The heavens declare the glory of God, and the sky proclaims the work of his hands.",
       "links": "<a href='/AIV/1/1/1'>Gen. 1:1</a>; <a href='/AIV/18/36/24-26'>Job 36:24–26</a>; <a href='/AIV/19/8/3'>Ps. 8:3</a>; <a href='/AIV/45/1/20'>Rom. 1:20</a>",
-      "comment": "The verse emphasizes that creation itself reveals the greatness of God, echoing Paul's teaching in Romans 1:20 that God's invisible qualities are clearly seen in what He has made. Here, creation points towards the existence and action of the one true God, a foundation for natural revelation."
+      "comment": "The verse emphasizes that creation itself reveals the greatness of God, echoing Paul's teaching in Romans 1:20 that God's invisible qualities are clearly seen in what He has made. Here, creation points towards the existence and action of the one true God, a foundation for natural revelation.",
+      "sectionHeader": "Creation Proclaims God's Glory"
     },
     {
       "pk": 23019002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "The law of the LORD is perfect, restoring the soul; the testimony of the LORD is trustworthy, making wise the simple.",
       "links": "<a href='/AIV/19/119/1'>Ps. 119:1</a>; <a href='/AIV/2/20/1-17'>Ex. 20:1-17</a>; <a href='/AIV/19/119/130'>Ps. 119:130</a>",
-      "comment": "Here, ‘law’ (torah) refers to all of God’s instruction. God’s revealed word completes and heals the soul—an effect seen in both reading Scripture and in faithfully participating in the fullness of God's instruction."
+      "comment": "Here, ‘law’ (torah) refers to all of God’s instruction. God’s revealed word completes and heals the soul—an effect seen in both reading Scripture and in faithfully participating in the fullness of God's instruction.",
+      "sectionHeader": "The Excellence of God's Law"
     },
     {
       "pk": 23019008,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "Who can discern his own errors? Cleanse me from hidden faults.",
       "links": "<a href='/AIV/19/139/23-24'>Ps. 139:23-24</a>; <a href='/AIV/1/6/5'>Gen. 6:5</a>",
-      "comment": "David acknowledges human inability to see all one’s sins. The desire for God’s cleansing points towards the need for both personal confession and God-ordained means of forgiveness."
+      "comment": "David acknowledges human inability to see all one’s sins. The desire for God’s cleansing points towards the need for both personal confession and God-ordained means of forgiveness.",
+      "sectionHeader": "Prayer for Purity and Guidance"
     },
     {
       "pk": 23019013,
@@ -173,5 +176,22 @@
       "comment": "David desires both external actions and inner thoughts to be pleasing before God. The closing address points to God as both the unchanging foundation and the one who saves—not only in a physical, but ultimately in a spiritual sense—a title fulfilled perfectly in Christ, the Redeemer (see Eph. 1:7)."
     }
   ],
-  "translatedAt": "2025-12-24T06:04:52.633Z"
+  "translatedAt": "2025-12-24T06:04:52.633Z",
+  "sections": [
+    {
+      "title": "Creation Proclaims God's Glory",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "The Excellence of God's Law",
+      "startVerse": 7,
+      "endVerse": 11
+    },
+    {
+      "title": "Prayer for Purity and Guidance",
+      "startVerse": 12,
+      "endVerse": 14
+    }
+  ]
 }

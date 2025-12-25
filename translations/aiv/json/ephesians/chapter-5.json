@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Therefore, be imitators of God, as beloved children.",
       "links": "<a href='/AIV/40/5/48'>Matt. 5:48</a>; <a href='/AIV/62/3/1-2'>1 John 3:1-2</a>",
-      "comment": "This verse calls believers to model their lives after God, reflecting His holiness. See also Jesus' teaching in Matthew 5:48 on being 'perfect as your heavenly Father is perfect.'"
+      "comment": "This verse calls believers to model their lives after God, reflecting His holiness. See also Jesus' teaching in Matthew 5:48 on being 'perfect as your heavenly Father is perfect.'",
+      "sectionHeader": "Walking in Love and Holiness"
     },
     {
       "pk": 56005002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "For at one time you were darkness, but now you are light in the Lord. Walk as children of light.",
       "links": "<a href='/AIV/40/5/14'>Matt. 5:14</a>; <a href='/AIV/62/1/7'>1 John 1:7</a>",
-      "comment": "Christians are fundamentally changed; 'light in the Lord' refers to the new creation in Christ, recalling John 1:4-5."
+      "comment": "Christians are fundamentally changed; 'light in the Lord' refers to the new creation in Christ, recalling John 1:4-5.",
+      "sectionHeader": "Children of Light"
     },
     {
       "pk": 56005009,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "Look carefully, then, at how you walk—not as unwise but as wise,",
       "links": "<a href='/AIV/20/4/26-27'>Prov. 4:26-27</a>",
-      "comment": "Paul repeatedly urges reflection on one’s lifestyle. Wisdom is central in both Testaments as the means to walk in God’s will."
+      "comment": "Paul repeatedly urges reflection on one’s lifestyle. Wisdom is central in both Testaments as the means to walk in God’s will.",
+      "sectionHeader": "Living by the Spirit"
     },
     {
       "pk": 56005016,
@@ -266,7 +269,8 @@
       "verse": 22,
       "text": "Wives, submit to your own husbands as to the Lord.",
       "links": "<a href='/AIV/51/3/18'>Col. 3:18</a>; <a href='/AIV/60/3/1'>1 Pet. 3:1</a>",
-      "comment": "Submission here is not servility but part of the ordered harmony Paul calls for in Christian households, rooted in devotion to Christ."
+      "comment": "Submission here is not servility but part of the ordered harmony Paul calls for in Christian households, rooted in devotion to Christ.",
+      "sectionHeader": "Christian Husbands and Wives"
     },
     {
       "pk": 56005023,
@@ -401,5 +405,27 @@
       "comment": "The great mystery of Christ and the church is reflected in marriage through mutual love and respect. Married life is called to reflect this supernatural bond and order, pointing ultimately to the reality of Christ’s union with His people."
     }
   ],
-  "translatedAt": "2025-12-24T12:03:22.809Z"
+  "translatedAt": "2025-12-24T12:03:22.809Z",
+  "sections": [
+    {
+      "title": "Walking in Love and Holiness",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Children of Light",
+      "startVerse": 8,
+      "endVerse": 14
+    },
+    {
+      "title": "Living by the Spirit",
+      "startVerse": 15,
+      "endVerse": 21
+    },
+    {
+      "title": "Christian Husbands and Wives",
+      "startVerse": 22,
+      "endVerse": 33
+    }
+  ]
 }

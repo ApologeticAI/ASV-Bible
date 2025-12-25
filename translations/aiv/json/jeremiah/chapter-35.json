@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The word that came to Jeremiah from the LORD in the days of Jehoiakim son of Josiah, king of Judah, saying,",
       "links": "<a href='/AIV/24/1/2'>Jer. 1:2</a>; <a href='/AIV/12/23/36'>2 Kgs 23:36</a>",
-      "comment": "This verse sets the historical context—during Jehoiakim's reign, before Judah's fall. The phrase 'word...from the LORD' establishes prophetic authority, a central theme in both Old and New Covenants."
+      "comment": "This verse sets the historical context—during Jehoiakim's reign, before Judah's fall. The phrase 'word...from the LORD' establishes prophetic authority, a central theme in both Old and New Covenants.",
+      "sectionHeader": "The Obedience of the Rechabites"
     },
     {
       "pk": 30035002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "Then the word of the LORD came to Jeremiah:",
       "links": "<a href='/AIV/24/1/2'>Jer. 1:2</a>; <a href='/AIV/24/35/1'>Jer. 35:1</a>",
-      "comment": "God initiates the interpretation of the sign. Divine revelation is an ongoing process, consistent with the way God leads His people into fuller understanding and truth (<a href='/AIV/43/16/13'>John 16:13</a>)."
+      "comment": "God initiates the interpretation of the sign. Divine revelation is an ongoing process, consistent with the way God leads His people into fuller understanding and truth (<a href='/AIV/43/16/13'>John 16:13</a>).",
+      "sectionHeader": "A Lesson for Judah"
     },
     {
       "pk": 30035013,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "But to the house of the Rechabites Jeremiah said, \"Thus says the LORD of hosts, the God of Israel: Because you have obeyed the command of Jonadab your ancestor, and kept all his precepts, and have done all that he commanded you,\"",
       "links": "<a href='/AIV/24/35/16'>Jer. 35:16</a>; <a href='/AIV/02/20/12'>Ex. 20:12</a>",
-      "comment": "Obedience to tradition is rewarded by God, mirroring the blessing promised for honoring father and mother (<a href='/AIV/02/20/12'>Exodus 20:12</a>). This affirms the value of steadfastness in what has been handed down."
+      "comment": "Obedience to tradition is rewarded by God, mirroring the blessing promised for honoring father and mother (<a href='/AIV/02/20/12'>Exodus 20:12</a>). This affirms the value of steadfastness in what has been handed down.",
+      "sectionHeader": "The Blessing of the Rechabites"
     },
     {
       "pk": 30035019,
@@ -233,5 +236,22 @@
       "comment": "The perpetual blessing speaks to an enduring priestly or ministerial presence, foreshadowing God’s promise to preserve a faithful remnant and the idea of succession in sacred ministry (cf. <a href='/AIV/54/3/15'>1 Tim. 3:15</a>)."
     }
   ],
-  "translatedAt": "2025-12-24T08:41:22.918Z"
+  "translatedAt": "2025-12-24T08:41:22.918Z",
+  "sections": [
+    {
+      "title": "The Obedience of the Rechabites",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "A Lesson for Judah",
+      "startVerse": 12,
+      "endVerse": 17
+    },
+    {
+      "title": "The Blessing of the Rechabites",
+      "startVerse": 18,
+      "endVerse": 19
+    }
+  ]
 }

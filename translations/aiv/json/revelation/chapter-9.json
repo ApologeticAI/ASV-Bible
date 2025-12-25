@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The fifth angel sounded his trumpet, and I saw a star fallen from heaven to earth; and the key to the shaft of the abyss was given to him.",
       "links": "<a href='/AIV/23/14/12'>Isa. 14:12</a>; <a href='/AIV/42/10/18'>Luke 10:18</a>; <a href='/AIV/66/1/18'>Rev. 1:18</a>",
-      "comment": "The 'star fallen from heaven' may symbolize a spiritual being, possibly Satan or a fallen angel (cf. Isa. 14:12; Luke 10:18). The abyss represents a place of demonic imprisonment (cf. Rev. 20:1, 3). Authority over the abyss is given, not seized, highlighting that God remains in ultimate control."
+      "comment": "The 'star fallen from heaven' may symbolize a spiritual being, possibly Satan or a fallen angel (cf. Isa. 14:12; Luke 10:18). The abyss represents a place of demonic imprisonment (cf. Rev. 20:1, 3). Authority over the abyss is given, not seized, highlighting that God remains in ultimate control.",
+      "sectionHeader": "The Fifth Trumpet: The Plague of Locusts"
     },
     {
       "pk": 73009002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "The sixth angel sounded his trumpet, and I heard a voice from the four horns of the golden altar that is before God.",
       "links": "<a href='/AIV/02/30/1'>Ex. 30:1-3</a>; <a href='/AIV/66/8/3'>Rev. 8:3</a>",
-      "comment": "The golden altar recalls the Old Testament tabernacle and the prayers of the saints. Judgments flow from the heavenly altar, suggesting that God’s justice interacts with the prayers of His people."
+      "comment": "The golden altar recalls the Old Testament tabernacle and the prayers of the saints. Judgments flow from the heavenly altar, suggesting that God’s justice interacts with the prayers of His people.",
+      "sectionHeader": "The Sixth Trumpet: The Army from the Euphrates"
     },
     {
       "pk": 73009014,
@@ -242,7 +244,8 @@
       "verse": 20,
       "text": "The rest of mankind, who were not killed by these plagues, did not repent of the works of their hands so as not to worship demons and idols of gold, silver, bronze, stone, and wood, which cannot see, hear, or walk.",
       "links": "<a href='/AIV/19/115/4-7'>Ps. 115:4-7</a>; <a href='/AIV/05/32/17'>Deut. 32:17</a>",
-      "comment": "Idolatry is linked with demon-worship (Deut. 32:17), and the reference to 'the works of their hands' highlights the root problem: stubborn hearts. True worship is central to resisting deception—implying the importance of proper liturgy and sacramental life (cf. Acts 2:42)."
+      "comment": "Idolatry is linked with demon-worship (Deut. 32:17), and the reference to 'the works of their hands' highlights the root problem: stubborn hearts. True worship is central to resisting deception—implying the importance of proper liturgy and sacramental life (cf. Acts 2:42).",
+      "sectionHeader": "The Unrepentance of Mankind"
     },
     {
       "pk": 73009021,
@@ -257,5 +260,22 @@
       "comment": "Unrepentance brings continued judgment. The list echoes the sins forbidden in both Old and New Testaments, showing the continuity of God’s moral law. Frequent repentance, sacramental confession, and perseverance in the faith are safeguards for the believer."
     }
   ],
-  "translatedAt": "2025-12-24T12:36:45.592Z"
+  "translatedAt": "2025-12-24T12:36:45.592Z",
+  "sections": [
+    {
+      "title": "The Fifth Trumpet: The Plague of Locusts",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "The Sixth Trumpet: The Army from the Euphrates",
+      "startVerse": 13,
+      "endVerse": 19
+    },
+    {
+      "title": "The Unrepentance of Mankind",
+      "startVerse": 20,
+      "endVerse": 21
+    }
+  ]
 }

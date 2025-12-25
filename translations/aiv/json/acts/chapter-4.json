@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "While they were speaking to the people, the priests and the captain of the temple and the Sadducees came upon them.",
       "links": "<a href='/AIV/42/22/52'>Luke 22:52</a>",
-      "comment": "The apostles face opposition from religious leaders, a recurring theme showing the continuity of Old Testament prophetic conflict. Compare with Jesus’ arrest in Luke 22:52."
+      "comment": "The apostles face opposition from religious leaders, a recurring theme showing the continuity of Old Testament prophetic conflict. Compare with Jesus’ arrest in Luke 22:52.",
+      "sectionHeader": "Peter and John Before the Council"
     },
     {
       "pk": 51004002,
@@ -278,7 +279,8 @@
       "verse": 23,
       "text": "When they were released, they went to their own companions and reported everything that the chief priests and elders had said to them.",
       "links": "<a href='/AIV/51/5/21'>Acts 5:21</a>",
-      "comment": "The apostolic fellowship remains united, sharing both burdens and triumphs—a spiritual family guided by ordained leadership."
+      "comment": "The apostolic fellowship remains united, sharing both burdens and triumphs—a spiritual family guided by ordained leadership.",
+      "sectionHeader": "The Believers’ Prayer for Boldness"
     },
     {
       "pk": 51004024,
@@ -386,7 +388,8 @@
       "verse": 32,
       "text": "Now the full number of those who believed were of one heart and soul, and no one claimed that any of the things that belonged to him was his own, but they had everything in common.",
       "links": "<a href='/AIV/51/2/44'>Acts 2:44</a>",
-      "comment": "Apostolic community exhibits profound spiritual and material unity. This radical sharing is seen as the fruit of sanctifying grace and the communal nature of the church."
+      "comment": "Apostolic community exhibits profound spiritual and material unity. This radical sharing is seen as the fruit of sanctifying grace and the communal nature of the church.",
+      "sectionHeader": "The Community of Believers"
     },
     {
       "pk": 51004033,
@@ -449,5 +452,22 @@
       "comment": "Barnabas models sacrificial giving and complete trust in apostolic authority—a pattern for stewardship within the church. This emphasizes the importance of unity, obedience, and generosity in the faith community."
     }
   ],
-  "translatedAt": "2025-12-24T11:19:08.924Z"
+  "translatedAt": "2025-12-24T11:19:08.924Z",
+  "sections": [
+    {
+      "title": "Peter and John Before the Council",
+      "startVerse": 1,
+      "endVerse": 22
+    },
+    {
+      "title": "The Believers’ Prayer for Boldness",
+      "startVerse": 23,
+      "endVerse": 31
+    },
+    {
+      "title": "The Community of Believers",
+      "startVerse": 32,
+      "endVerse": 37
+    }
+  ]
 }

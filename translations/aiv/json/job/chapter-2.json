@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Again, there was a day when the sons of God came to present themselves before the LORD, and Satan also came among them to present himself before the LORD.",
       "links": "<a href='/AIV/22/1/6'>Job 1:6</a>; <a href='/AIV/19/82/1'>Ps. 82:1</a>",
-      "comment": "The phrase 'sons of God' likely refers to angelic beings. This scene is parallel to Job 1:6 and emphasizes a heavenly council. The LORD's sovereignty is established over all creation, including adversarial spirits."
+      "comment": "The phrase 'sons of God' likely refers to angelic beings. This scene is parallel to Job 1:6 and emphasizes a heavenly council. The LORD's sovereignty is established over all creation, including adversarial spirits.",
+      "sectionHeader": "The Second Trial of Job"
     },
     {
       "pk": 22002002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "Then his wife said to him, 'Are you still holding fast to your integrity? Curse God and die!'",
       "links": "<a href='/AIV/22/27/5'>Job 27:5'>Job 27:5</a>; <a href='/AIV/40/19/6'>Matt. 19:6</a>",
-      "comment": "Job's wife tempts him to abandon his faith and virtue. Her words contrast with Job’s determined righteousness, inviting reflection on perseverance and marital fidelity under trial (cf. Matt. 19:6)."
+      "comment": "Job's wife tempts him to abandon his faith and virtue. Her words contrast with Job’s determined righteousness, inviting reflection on perseverance and marital fidelity under trial (cf. Matt. 19:6).",
+      "sectionHeader": "Job's Wife Tempts Him"
     },
     {
       "pk": 22002010,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "Now when Job's three friends heard of all this evil that had come upon him, each came from his own place—Eliphaz the Temanite, Bildad the Shuhite, and Zophar the Naamathite. They agreed to come to show him sympathy and comfort him.",
       "links": "<a href='/AIV/22/42/7'>Job 42:7</a>; <a href='/AIV/45/12/15'>Rom. 12:15</a>",
-      "comment": "Job’s friends respond to his suffering by coming together, a model of communal compassion found in later teachings (cf. Rom. 12:15). Their later dialogues reveal the limits of human wisdom, inviting trust in God’s fuller revelation."
+      "comment": "Job’s friends respond to his suffering by coming together, a model of communal compassion found in later teachings (cf. Rom. 12:15). Their later dialogues reveal the limits of human wisdom, inviting trust in God’s fuller revelation.",
+      "sectionHeader": "The Arrival of Job's Friends"
     },
     {
       "pk": 22002012,
@@ -161,5 +164,22 @@
       "comment": "The friends’ silence was an act of respect, acknowledging suffering beyond words. The number seven implies fullness or completeness, linking to sacred traditions and practices of communal prayer and waiting (cf. Ps. 39:2)."
     }
   ],
-  "translatedAt": "2025-12-24T05:40:11.846Z"
+  "translatedAt": "2025-12-24T05:40:11.846Z",
+  "sections": [
+    {
+      "title": "The Second Trial of Job",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "Job's Wife Tempts Him",
+      "startVerse": 9,
+      "endVerse": 10
+    },
+    {
+      "title": "The Arrival of Job's Friends",
+      "startVerse": 11,
+      "endVerse": 13
+    }
+  ]
 }

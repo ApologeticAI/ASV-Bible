@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In the second year of King Darius, on the first day of the sixth month, the word of the LORD came through the prophet Haggai to Zerubbabel son of Shealtiel, governor of Judah, and to Joshua son of Jehozadak, the high priest:",
       "links": "<a href='/AIV/15/1/1-2'>Ezra 1:1-2</a>; <a href='/AIV/38/3/1'>Zech. 3:1</a>",
-      "comment": "This verse establishes the historical setting: after the Babylonian exile, during the rule of Darius of Persia. Haggai’s message is addressed specifically to the Davidic governor (Zerubbabel) and the high priest (Joshua), highlighting the continuing importance of both royal and priestly leadership in the community. Note the explicit mention of both civil and religious authority, showing God's concern for the unity of spiritual and temporal leadership."
+      "comment": "This verse establishes the historical setting: after the Babylonian exile, during the rule of Darius of Persia. Haggai’s message is addressed specifically to the Davidic governor (Zerubbabel) and the high priest (Joshua), highlighting the continuing importance of both royal and priestly leadership in the community. Note the explicit mention of both civil and religious authority, showing God's concern for the unity of spiritual and temporal leadership.",
+      "sectionHeader": "A Call to Rebuild the Temple"
     },
     {
       "pk": 44001002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "Then Zerubbabel son of Shealtiel, Joshua son of Jehozadak, the high priest, and all the remnant of the people obeyed the voice of the LORD their God and the words of Haggai the prophet, as the LORD their God had sent him. And the people feared the LORD.",
       "links": "<a href='/AIV/44/1/1'>Hag. 1:1</a>; <a href='/AIV/15/3/8'>Ezra 3:8</a>",
-      "comment": "The leaders and people respond in obedience and reverence ('feared the LORD'), showing the importance of unified response to God's word mediated through chosen leadership. This harmony between civil authority, priesthood, and people is an ideal structure for the community of God."
+      "comment": "The leaders and people respond in obedience and reverence ('feared the LORD'), showing the importance of unified response to God's word mediated through chosen leadership. This harmony between civil authority, priesthood, and people is an ideal structure for the community of God.",
+      "sectionHeader": "The People Respond with Obedience"
     },
     {
       "pk": 44001013,
@@ -185,5 +187,17 @@
       "comment": "The specific date marks when the community responded in faith. Biblical history is grounded in specific times and places, demonstrating God's faithfulness in the unfolding of salvation history."
     }
   ],
-  "translatedAt": "2025-12-24T09:53:57.757Z"
+  "translatedAt": "2025-12-24T09:53:57.757Z",
+  "sections": [
+    {
+      "title": "A Call to Rebuild the Temple",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "The People Respond with Obedience",
+      "startVerse": 12,
+      "endVerse": 15
+    }
+  ]
 }

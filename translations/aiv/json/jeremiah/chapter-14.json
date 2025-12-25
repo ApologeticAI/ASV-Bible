@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "This is the word of the LORD that came to Jeremiah concerning the drought:",
       "links": "",
-      "comment": "The context is a devastating drought sent by God as a judgment. This sets the stage for the dialogue between God and His prophet. Compare the prophetic motif of signs in <a href='/AIV/11/17/1'>1 Kings 17:1</a> and <a href='/AIV/12/8/1-2'>2 Kings 8:1-2</a>."
+      "comment": "The context is a devastating drought sent by God as a judgment. This sets the stage for the dialogue between God and His prophet. Compare the prophetic motif of signs in <a href='/AIV/11/17/1'>1 Kings 17:1</a> and <a href='/AIV/12/8/1-2'>2 Kings 8:1-2</a>.",
+      "sectionHeader": "The Drought and Judah’s Lamentation"
     },
     {
       "pk": 30014002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "Though our iniquities testify against us, O LORD, act for Your name’s sake; for our backslidings are many; we have sinned against You.",
       "links": "<a href='/AIV/19/25/11'>Ps. 25:11</a>; <a href='/AIV/27/9/18-19'>Dan. 9:18-19</a>",
-      "comment": "Jeremiah appeals for mercy based not on Israel’s merit, but God’s holy name—anticipating the New Testament’s teaching on intercessory prayer and the nature of repentance."
+      "comment": "Jeremiah appeals for mercy based not on Israel’s merit, but God’s holy name—anticipating the New Testament’s teaching on intercessory prayer and the nature of repentance.",
+      "sectionHeader": "Jeremiah’s Prayer and the Lord’s Reply"
     },
     {
       "pk": 30014008,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "Then I said, ‘Ah, Lord GOD, here the prophets keep saying to them, “You will not see the sword, nor will you have famine, but I will give you assured peace in this place.”’",
       "links": "<a href='/AIV/24/6/14'>Jer. 6:14</a>; <a href='/AIV/26/13/10'>Ezek. 13:10</a>",
-      "comment": "Jeremiah appeals on behalf of deceived people, misled by false prophets. This anticipates the New Testament’s repeated warnings about false teachers (<a href='/AIV/40/7/15'>Matt. 7:15</a>)."
+      "comment": "Jeremiah appeals on behalf of deceived people, misled by false prophets. This anticipates the New Testament’s repeated warnings about false teachers (<a href='/AIV/40/7/15'>Matt. 7:15</a>).",
+      "sectionHeader": "False Prophets and Their Punishment"
     },
     {
       "pk": 30014014,
@@ -206,7 +209,8 @@
       "verse": 17,
       "text": "You shall speak this word to them: ‘Let my eyes run down with tears night and day, and let them not cease, for the virgin daughter of my people is broken with a great wound, with a crushing blow.’",
       "links": "<a href='/AIV/25/2/18'>Lam. 2:18</a>; <a href='/AIV/24/9/1'>Jer. 9:1</a>",
-      "comment": "Jeremiah is called the ‘weeping prophet’. This verse reveals God’s heart suffers over His people’s pain—a foretaste of Christ’s lament over Jerusalem (<a href='/AIV/40/23/37'>Matt. 23:37</a>)."
+      "comment": "Jeremiah is called the ‘weeping prophet’. This verse reveals God’s heart suffers over His people’s pain—a foretaste of Christ’s lament over Jerusalem (<a href='/AIV/40/23/37'>Matt. 23:37</a>).",
+      "sectionHeader": "Jeremiah’s Mourning for the People"
     },
     {
       "pk": 30014018,
@@ -230,7 +234,8 @@
       "verse": 19,
       "text": "Have you utterly rejected Judah? Does your soul loathe Zion? Why have you struck us so there is no healing for us? We looked for peace, but no good came; for a time of healing, but behold, terror.",
       "links": "<a href='/AIV/25/5/22'>Lam. 5:22</a>; <a href='/AIV/23/59/11'>Isa. 59:11</a>",
-      "comment": "The people’s question reveals the depth of despair and the apparent absence of hope—except in the mercy of God."
+      "comment": "The people’s question reveals the depth of despair and the apparent absence of hope—except in the mercy of God.",
+      "sectionHeader": "Prayer for Mercy and Confession of Sin"
     },
     {
       "pk": 30014020,
@@ -269,5 +274,32 @@
       "comment": "Only the Lord, not idols or nature itself, sends life-giving rain. Their final response is one of faith. Resonates with New Testament teaching on God as the source of all blessing."
     }
   ],
-  "translatedAt": "2025-12-24T08:29:16.075Z"
+  "translatedAt": "2025-12-24T08:29:16.075Z",
+  "sections": [
+    {
+      "title": "The Drought and Judah’s Lamentation",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Jeremiah’s Prayer and the Lord’s Reply",
+      "startVerse": 7,
+      "endVerse": 12
+    },
+    {
+      "title": "False Prophets and Their Punishment",
+      "startVerse": 13,
+      "endVerse": 16
+    },
+    {
+      "title": "Jeremiah’s Mourning for the People",
+      "startVerse": 17,
+      "endVerse": 18
+    },
+    {
+      "title": "Prayer for Mercy and Confession of Sin",
+      "startVerse": 19,
+      "endVerse": 22
+    }
+  ]
 }

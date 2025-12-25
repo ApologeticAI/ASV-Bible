@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "On the third new moon after the Israelites came out of the land of Egypt, they arrived at the wilderness of Sinai.",
       "links": "<a href='/AIV/2/12/51'>Exod. 12:51</a>; <a href='/AIV/4/33/15-16'>Num. 33:15-16</a>",
-      "comment": "This verse marks a key moment in Israel's journey toward covenant. The mention of the 'third new moon' emphasizes the ordered timing of God's plan."
+      "comment": "This verse marks a key moment in Israel's journey toward covenant. The mention of the 'third new moon' emphasizes the ordered timing of God's plan.",
+      "sectionHeader": "Israel Arrives at Sinai"
     },
     {
       "pk": 2019002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "Moses went up to God, and the LORD called to him from the mountain, saying, 'This is what you must say to the house of Jacob and declare to the children of Israel:'",
       "links": "<a href='/AIV/2/3/6'>Exod. 3:6</a>; <a href='/AIV/2/24/12'>Exod. 24:12</a>",
-      "comment": "God initiates the dialogue, reinforcing Moses' role as a mediator and establishing the people as a distinct community."
+      "comment": "God initiates the dialogue, reinforcing Moses' role as a mediator and establishing the people as a distinct community.",
+      "sectionHeader": "The Covenant Proposed"
     },
     {
       "pk": 2019004,
@@ -122,7 +124,8 @@
       "verse": 10,
       "text": "The LORD said to Moses, 'Go to the people and consecrate them today and tomorrow, and let them wash their garments.'",
       "links": "<a href='/AIV/3/11/44'>Lev. 11:44</a>; <a href='/AIV/58/10/22'>Heb. 10:22</a>",
-      "comment": "The call to consecration and ritual purity signals the importance of preparation for encountering God. The washing of garments hints at themes of cleansing and sanctification seen throughout Scripture."
+      "comment": "The call to consecration and ritual purity signals the importance of preparation for encountering God. The washing of garments hints at themes of cleansing and sanctification seen throughout Scripture.",
+      "sectionHeader": "Preparation for God’s Coming"
     },
     {
       "pk": 2019011,
@@ -194,7 +197,8 @@
       "verse": 16,
       "text": "On the third day, when morning came, there were thunder and lightning, and a thick cloud on the mountain, and a very loud trumpet blast; all the people in the camp trembled.",
       "links": "<a href='/AIV/2/20/18'>Exod. 20:18</a>; <a href='/AIV/58/12/21'>Heb. 12:21</a>",
-      "comment": "The dramatic phenomena express God's glory and power. The trumpet prefigures liturgical worship, while the people’s fear underscores reverence before divine majesty."
+      "comment": "The dramatic phenomena express God's glory and power. The trumpet prefigures liturgical worship, while the people’s fear underscores reverence before divine majesty.",
+      "sectionHeader": "The LORD Descends on Sinai"
     },
     {
       "pk": 2019017,
@@ -305,5 +309,27 @@
       "comment": "The cycle of ascent and descent, mediation and instruction, sets the pattern for spiritual leadership and the transmission of God’s word to the community, a foundational principle evident throughout salvation history."
     }
   ],
-  "translatedAt": "2025-12-24T00:56:56.912Z"
+  "translatedAt": "2025-12-24T00:56:56.912Z",
+  "sections": [
+    {
+      "title": "Israel Arrives at Sinai",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "The Covenant Proposed",
+      "startVerse": 3,
+      "endVerse": 9
+    },
+    {
+      "title": "Preparation for God’s Coming",
+      "startVerse": 10,
+      "endVerse": 15
+    },
+    {
+      "title": "The LORD Descends on Sinai",
+      "startVerse": 16,
+      "endVerse": 25
+    }
+  ]
 }

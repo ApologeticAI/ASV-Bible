@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "At that time the disciples came to Jesus and asked, 'Who is the greatest in the kingdom of heaven?'",
       "links": "<a href='/AIV/41/9/33-34'>Mark 9:33-34</a>; <a href='/AIV/42/9/46'>Luke 9:46</a>",
-      "comment": "The disciples' question about greatness highlights earthly ambitions. In the Gospels, the 'kingdom of heaven' often refers to God's rule both now and in the life to come."
+      "comment": "The disciples' question about greatness highlights earthly ambitions. In the Gospels, the 'kingdom of heaven' often refers to God's rule both now and in the life to come.",
+      "sectionHeader": "Who Is the Greatest?"
     },
     {
       "pk": 47018002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "But whoever causes one of these little ones who believe in Me to stumble, it would be better for him to have a heavy millstone hung around his neck and to be drowned in the depths of the sea.",
       "links": "<a href='/AIV/41/9/42'>Mark 9:42</a>; <a href='/AIV/42/17/2'>Luke 17:2</a>",
-      "comment": "Jesus offers a solemn warning about leading believers astray. The phrase 'little ones' can refer both to children and to believers who are humble or new in faith."
+      "comment": "Jesus offers a solemn warning about leading believers astray. The phrase 'little ones' can refer both to children and to believers who are humble or new in faith.",
+      "sectionHeader": "Temptations to Sin"
     },
     {
       "pk": 47018007,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "'What do you think? If a man has a hundred sheep and one of them goes astray, does he not leave the ninety-nine on the mountains and go in search of the one that went astray?'",
       "links": "<a href='/AIV/42/15/4-7'>Luke 15:4-7</a>; <a href='/AIV/26/34/11-12'>Ezek. 34:11-12</a>",
-      "comment": "The parable of the lost sheep reveals God's loving pursuit of each lost soul, connecting to shepherd imagery in the Old Testament."
+      "comment": "The parable of the lost sheep reveals God's loving pursuit of each lost soul, connecting to shepherd imagery in the Old Testament.",
+      "sectionHeader": "The Parable of the Lost Sheep"
     },
     {
       "pk": 47018013,
@@ -182,7 +185,8 @@
       "verse": 15,
       "text": "If your brother sins against you, go and show him his fault, just between the two of you. If he listens to you, you have won your brother over.",
       "links": "<a href='/AIV/03/19/17'>Lev. 19:17</a>; <a href='/AIV/48/6/1'>Gal. 6:1</a>",
-      "comment": "The process for reconciliation within the community begins with private correction first, emphasizing humility and restoration."
+      "comment": "The process for reconciliation within the community begins with private correction first, emphasizing humility and restoration.",
+      "sectionHeader": "A Brother Who Sins"
     },
     {
       "pk": 47018016,
@@ -254,7 +258,8 @@
       "verse": 21,
       "text": "Then Peter came and said to Him, 'Lord, how many times shall my brother sin against me and I forgive him? Up to seven times?'",
       "links": "<a href='/AIV/42/17/4'>Luke 17:4</a>",
-      "comment": "Peter offers a generous-sounding limit, but Jesus challenges it even further."
+      "comment": "Peter offers a generous-sounding limit, but Jesus challenges it even further.",
+      "sectionHeader": "The Parable of the Unforgiving Servant"
     },
     {
       "pk": 47018022,
@@ -425,5 +430,32 @@
       "comment": "Jesus concludes by restating the necessity of wholehearted forgiveness, which is foundational for life in the community of the faithful. Note: the spiritual principle here points to the seriousness of our cooperation with God's mercy towards ourselves and others."
     }
   ],
-  "translatedAt": "2025-12-24T10:12:30.534Z"
+  "translatedAt": "2025-12-24T10:12:30.534Z",
+  "sections": [
+    {
+      "title": "Who Is the Greatest?",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Temptations to Sin",
+      "startVerse": 6,
+      "endVerse": 11
+    },
+    {
+      "title": "The Parable of the Lost Sheep",
+      "startVerse": 12,
+      "endVerse": 14
+    },
+    {
+      "title": "A Brother Who Sins",
+      "startVerse": 15,
+      "endVerse": 20
+    },
+    {
+      "title": "The Parable of the Unforgiving Servant",
+      "startVerse": 21,
+      "endVerse": 35
+    }
+  ]
 }

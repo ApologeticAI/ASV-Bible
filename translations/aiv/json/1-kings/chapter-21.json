@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Some time later, Naboth the Jezreelite had a vineyard in Jezreel, beside the palace of Ahab king of Samaria.",
       "links": "<a href='/AIV/09/26/3'>1 Sam. 26:3</a>; <a href='/AIV/11/18/45'>1 Kgs 18:45</a>",
-      "comment": "This introduction provides the setting for the dramatic episode. Naboth's proximity to the palace foreshadows coming conflict."
+      "comment": "This introduction provides the setting for the dramatic episode. Naboth's proximity to the palace foreshadows coming conflict.",
+      "sectionHeader": "Ahab Covets Naboth’s Vineyard"
     },
     {
       "pk": 11021002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "So she wrote letters in Ahab's name, sealed them with his seal, and sent them to the elders and nobles who lived in Naboth’s city.",
       "links": "<a href='/AIV/08/03/12-13'>Ruth 3:12-13</a>",
-      "comment": "Jezebel’s use of the king’s seal demonstrates her willingness to abuse royal authority for evil purposes."
+      "comment": "Jezebel’s use of the king’s seal demonstrates her willingness to abuse royal authority for evil purposes.",
+      "sectionHeader": "Jezebel Plots Naboth’s Death"
     },
     {
       "pk": 11021009,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "As soon as Jezebel heard that Naboth had been stoned and was dead, she said to Ahab, 'Arise, take possession of the vineyard of Naboth the Jezreelite, which he refused to give you for money; for Naboth is not alive, but dead.'",
       "links": "<a href='/AIV/11/21/7'>1 Kgs 21:7</a>",
-      "comment": "Jezebel’s cold announcement shows her disregard for justice and life, further corrupting Ahab."
+      "comment": "Jezebel’s cold announcement shows her disregard for justice and life, further corrupting Ahab.",
+      "sectionHeader": "Ahab Takes Possession of the Vineyard"
     },
     {
       "pk": 11021016,
@@ -206,7 +209,8 @@
       "verse": 17,
       "text": "Then the word of the Lord came to Elijah the Tishbite, saying:",
       "links": "<a href='/AIV/11/17/1'>1 Kgs 17:1</a>",
-      "comment": "God's response through Elijah begins the prophetic confrontation, revealing divine justice."
+      "comment": "God's response through Elijah begins the prophetic confrontation, revealing divine justice.",
+      "sectionHeader": "Elijah Denounces Ahab"
     },
     {
       "pk": 11021018,
@@ -326,7 +330,8 @@
       "verse": 27,
       "text": "When Ahab heard these words, he tore his clothes, put on sackcloth, and fasted. He lay in sackcloth and went about mourning.",
       "links": "<a href='/AIV/10/12/16'>2 Sam. 12:16</a>; <a href='/AIV/40/11/21'>Matt. 11:21</a>",
-      "comment": "Ahab’s repentance is highlighted, showing that even the worst sinners can turn to God. Bodily expressions of repentance, like sackcloth and fasting, reflect a spirituality that involves the whole person—not just the inner heart."
+      "comment": "Ahab’s repentance is highlighted, showing that even the worst sinners can turn to God. Bodily expressions of repentance, like sackcloth and fasting, reflect a spirituality that involves the whole person—not just the inner heart.",
+      "sectionHeader": "Ahab’s Repentance and God’s Mercy"
     },
     {
       "pk": 11021028,
@@ -353,5 +358,32 @@
       "comment": "God’s mercy in delaying judgment in response to repentance portrays the transformative power of humility and penance. This principle is fulfilled in Christ, whose sacrificial obedience brings forgiveness to all who repent and turn to God. Notice also the concept of generational consequences, which points to the need for an ordered and communal faith, tradition, and transfer of spiritual inheritance."
     }
   ],
-  "translatedAt": "2025-12-24T03:41:18.763Z"
+  "translatedAt": "2025-12-24T03:41:18.763Z",
+  "sections": [
+    {
+      "title": "Ahab Covets Naboth’s Vineyard",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Jezebel Plots Naboth’s Death",
+      "startVerse": 8,
+      "endVerse": 14
+    },
+    {
+      "title": "Ahab Takes Possession of the Vineyard",
+      "startVerse": 15,
+      "endVerse": 16
+    },
+    {
+      "title": "Elijah Denounces Ahab",
+      "startVerse": 17,
+      "endVerse": 26
+    },
+    {
+      "title": "Ahab’s Repentance and God’s Mercy",
+      "startVerse": 27,
+      "endVerse": 29
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Balaam said to Balak, 'Build me seven altars here, and prepare for me seven bulls and seven rams.'",
       "links": "<a href='/AIV/4/23/14'>Num. 23:14</a>; <a href='/AIV/4/23/29'>Num. 23:29</a>",
-      "comment": "Balaam requests the building of seven altars, reflecting the importance of complete offerings. The idea of liturgical offerings bears spiritual significance as a prefigurement of ordered worship in the New Covenant (see <a href='/AIV/58/13/10'>Heb. 13:10</a>)."
+      "comment": "Balaam requests the building of seven altars, reflecting the importance of complete offerings. The idea of liturgical offerings bears spiritual significance as a prefigurement of ordered worship in the New Covenant (see <a href='/AIV/58/13/10'>Heb. 13:10</a>).",
+      "sectionHeader": "Balaam’s First Oracle"
     },
     {
       "pk": 4023002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "Then Balak said to him, 'Please come with me to another place from which you may see them—you will see only a part of them and not all; curse them for me from there.'",
       "links": "<a href='/AIV/4/22/41'>Num. 22:41</a>",
-      "comment": "Balak thinks changing position can change God’s will, misunderstanding the omnipresence and steadfastness of God."
+      "comment": "Balak thinks changing position can change God’s will, misunderstanding the omnipresence and steadfastness of God.",
+      "sectionHeader": "Balaam’s Second Oracle"
     },
     {
       "pk": 4023014,
@@ -326,7 +328,8 @@
       "verse": 27,
       "text": "Balak said to Balaam, 'Come, I will take you to another place; perhaps it will please God that you may curse them for me from there.'",
       "links": "<a href='/AIV/4/23/13'>Num. 23:13</a>",
-      "comment": "Balak continues to misunderstand God's unchanging will, supposing a change of place can affect the outcome."
+      "comment": "Balak continues to misunderstand God's unchanging will, supposing a change of place can affect the outcome.",
+      "sectionHeader": "Preparations for a Third Oracle"
     },
     {
       "pk": 4023028,
@@ -365,5 +368,22 @@
       "comment": "Though external acts of worship are repeated, inner disposition and obedience to God’s will are what truly matter. This anticipates the spiritual worship called for in the New Testament (<a href='/AIV/45/12/1'>Rom. 12:1</a>)."
     }
   ],
-  "translatedAt": "2025-12-24T01:47:38.154Z"
+  "translatedAt": "2025-12-24T01:47:38.154Z",
+  "sections": [
+    {
+      "title": "Balaam’s First Oracle",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "Balaam’s Second Oracle",
+      "startVerse": 13,
+      "endVerse": 26
+    },
+    {
+      "title": "Preparations for a Third Oracle",
+      "startVerse": 27,
+      "endVerse": 30
+    }
+  ]
 }

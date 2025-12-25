@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then Job responded and said:",
       "links": "",
-      "comment": "Job begins his reply to his friends, shifting from defense to irony and direct critique."
+      "comment": "Job begins his reply to his friends, shifting from defense to irony and direct critique.",
+      "sectionHeader": "Job Rebukes His Friends' Wisdom"
     },
     {
       "pk": 22012002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "But ask the beasts, and they will teach you; and the birds of the sky, and they will tell you;",
       "links": "<a href='/AIV/19/104/24'>Psalm 104:24</a>; <a href='/AIV/40/6/26'>Matthew 6:26</a>",
-      "comment": "Job calls attention to creation as a source of wisdom, pointing to later scriptural themes of God’s revelation through the natural world (Romans 1:20)."
+      "comment": "Job calls attention to creation as a source of wisdom, pointing to later scriptural themes of God’s revelation through the natural world (Romans 1:20).",
+      "sectionHeader": "God’s Power Over Creation and Humanity"
     },
     {
       "pk": 22012008,
@@ -305,5 +307,17 @@
       "comment": "Images of darkness and staggering reinforce the theme: apart from God’s illumination, true wisdom and guidance are lost, underscoring the need for an authoritative and sacramental tradition."
     }
   ],
-  "translatedAt": "2025-12-24T05:44:40.867Z"
+  "translatedAt": "2025-12-24T05:44:40.867Z",
+  "sections": [
+    {
+      "title": "Job Rebukes His Friends' Wisdom",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "God’s Power Over Creation and Humanity",
+      "startVerse": 7,
+      "endVerse": 25
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "He made an altar of bronze, twenty cubits long, twenty cubits wide, and ten cubits high.",
       "links": "<a href='/AIV/11/6/20-22'>1 Kings 6:20-22</a>; <a href='/AIV/02/27/1-2'>Ex. 27:1-2</a>",
-      "comment": "This altar, much larger than Moses' bronze altar (Ex. 27:1), points to the increasing grandeur of worship required of Israel as the kingdom grew. The altar symbolizes the place where atonement for sin is made, prefiguring the ultimate sacrifice of Christ on the cross."
+      "comment": "This altar, much larger than Moses' bronze altar (Ex. 27:1), points to the increasing grandeur of worship required of Israel as the kingdom grew. The altar symbolizes the place where atonement for sin is made, prefiguring the ultimate sacrifice of Christ on the cross.",
+      "sectionHeader": "Furnishings for the Temple: The Bronze Altar and Sea"
     },
     {
       "pk": 14004002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "He made ten basins. He placed five on the right and five on the left, to rinse what was used for the burnt offerings. The sea was for the priests to wash in.",
       "links": "<a href='/AIV/02/30/18-21'>Ex. 30:18-21</a>; <a href='/AIV/11/7/38-39'>1 Kings 7:38-39</a>",
-      "comment": "The separation between the sea for priestly purification and the basins for offerings stresses the importance of distinct roles and reverence in worship—a lesson on the sacred structure God designs for his people."
+      "comment": "The separation between the sea for priestly purification and the basins for offerings stresses the importance of distinct roles and reverence in worship—a lesson on the sacred structure God designs for his people.",
+      "sectionHeader": "Other Temple Furnishings: Basins, Lampstands, and Tables"
     },
     {
       "pk": 14004007,
@@ -110,7 +112,8 @@
       "verse": 9,
       "text": "He made the court of the priests, and the great court, and doors for the court, and overlaid the doors with bronze.",
       "links": "<a href='/AIV/02/27/9-17'>Ex. 27:9-17</a>",
-      "comment": "The courts marked spaces for priestly service and the gathering of the people. The distinction of the priestly area reflects the special calling of ministers set apart for sacred service."
+      "comment": "The courts marked spaces for priestly service and the gathering of the people. The distinction of the priestly area reflects the special calling of ministers set apart for sacred service.",
+      "sectionHeader": "Construction of the Temple Courts and Setting the Sea"
     },
     {
       "pk": 14004010,
@@ -134,7 +137,8 @@
       "verse": 11,
       "text": "Huram also made the pots, shovels, and basins. So Huram finished making all the work that he did for King Solomon for the temple of God:",
       "links": "<a href='/AIV/11/7/40'>1 Kings 7:40</a>",
-      "comment": "The mention of Huram, a craftsman, highlights the role of skilled artisans in building the house of God, suggesting that beauty and art are fitting responses to God's glory."
+      "comment": "The mention of Huram, a craftsman, highlights the role of skilled artisans in building the house of God, suggesting that beauty and art are fitting responses to God's glory.",
+      "sectionHeader": "Huram's Work in Bronze for Solomon"
     },
     {
       "pk": 14004012,
@@ -230,7 +234,8 @@
       "verse": 19,
       "text": "Solomon also made all the furnishings that were in God’s house: the golden altar, the tables on which to set out the bread of the Presence,",
       "links": "<a href='/AIV/02/25/30'>Ex. 25:30</a>; <a href='/AIV/40/12/4'>Matt. 12:4</a>",
-      "comment": "The bread of the Presence prefigures Christ as the Bread of Life (John 6:35). These elements were later fulfilled in the eucharistic teaching of Jesus, where bread and wine become a means of communion with God (Luke 22:19-20)."
+      "comment": "The bread of the Presence prefigures Christ as the Bread of Life (John 6:35). These elements were later fulfilled in the eucharistic teaching of Jesus, where bread and wine become a means of communion with God (Luke 22:19-20).",
+      "sectionHeader": "Solomon's Golden Furnishings for the Temple"
     },
     {
       "pk": 14004020,
@@ -269,5 +274,32 @@
       "comment": "The use of gold and emphasis on access to the sanctuary foreshadow both the holiness and openness of God’s dwelling. Through Christ, believers can enter the sanctuary (Heb. 10:19-22; cf. Matt. 27:51), making visible worship a pattern of heavenly reality."
     }
   ],
-  "translatedAt": "2025-12-24T04:23:17.265Z"
+  "translatedAt": "2025-12-24T04:23:17.265Z",
+  "sections": [
+    {
+      "title": "Furnishings for the Temple: The Bronze Altar and Sea",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Other Temple Furnishings: Basins, Lampstands, and Tables",
+      "startVerse": 6,
+      "endVerse": 8
+    },
+    {
+      "title": "Construction of the Temple Courts and Setting the Sea",
+      "startVerse": 9,
+      "endVerse": 10
+    },
+    {
+      "title": "Huram's Work in Bronze for Solomon",
+      "startVerse": 11,
+      "endVerse": 18
+    },
+    {
+      "title": "Solomon's Golden Furnishings for the Temple",
+      "startVerse": 19,
+      "endVerse": 22
+    }
+  ]
 }

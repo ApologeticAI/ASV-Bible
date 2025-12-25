@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When Nicanor heard that Judas and his companions were gathered in the regions of Samaria, he decided to attack them with all his might on the day of rest.",
       "links": "<a href='/AIV/21/8/36'>2Macc. 8:36</a>; <a href='/AIV/2/20/8-10'>Ex. 20:8-10</a>",
-      "comment": "Nicanor plans his attack on the Sabbath, showing contempt for the holiness of the day (see Exodus 20:8-10)."
+      "comment": "Nicanor plans his attack on the Sabbath, showing contempt for the holiness of the day (see Exodus 20:8-10).",
+      "sectionHeader": "Nicanor Plans to Attack on the Sabbath"
     },
     {
       "pk": 21015002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "Judas armed them not just with shields and spears, but inspired them with encouraging words. He told them about a trustworthy dream, a vision worthy of belief.",
       "links": "<a href='/AIV/21/15/14'>2Macc. 15:14</a>; <a href='/AIV/1/37/5'>Gen. 37:5</a>",
-      "comment": "Inspired visions strengthen their resolve, reminiscent of God’s guidance through dreams (as in Gen. 37:5)."
+      "comment": "Inspired visions strengthen their resolve, reminiscent of God’s guidance through dreams (as in Gen. 37:5).",
+      "sectionHeader": "Judas Encourages the Troops with Divine Visions"
     },
     {
       "pk": 21015012,
@@ -290,7 +292,8 @@
       "verse": 24,
       "text": "With these words, Judas courageously engaged Nicanor and his troops, aided from above by the Lord.",
       "links": "<a href='/AIV/21/11/11'>2Macc. 11:11</a>; <a href='/AIV/19/20/7'>Ps. 20:7</a>",
-      "comment": "Victory is acknowledged as God’s work, not mere human achievement."
+      "comment": "Victory is acknowledged as God’s work, not mere human achievement.",
+      "sectionHeader": "The Battle and Death of Nicanor"
     },
     {
       "pk": 21015025,
@@ -398,7 +401,8 @@
       "verse": 33,
       "text": "They decreed by public vote never to leave that day without celebration, but to keep the thirteenth day of the twelfth month called Adar as a day of joy.",
       "links": "<a href='/AIV/17/9/19-22'>Esther 9:19-22</a>",
-      "comment": "The establishment of a perpetual memorial links to the cycle of sacred remembering, as in Purim (Esther 9:19-22)."
+      "comment": "The establishment of a perpetual memorial links to the cycle of sacred remembering, as in Purim (Esther 9:19-22).",
+      "sectionHeader": "Instituting the Feast of Nicanor"
     },
     {
       "pk": 21015034,
@@ -422,7 +426,8 @@
       "verse": 35,
       "text": "Regarding Judas’s achievements—his valor, the victories over enemies, and the consecration of the Temple—they are recorded in separate histories.",
       "links": "<a href='/AIV/21/2/19'>2Macc. 2:19</a>",
-      "comment": "Reference to additional records underscores the importance of historical memory within sacred tradition."
+      "comment": "Reference to additional records underscores the importance of historical memory within sacred tradition.",
+      "sectionHeader": "Conclusion of the Second Book of Maccabees"
     },
     {
       "pk": 21015036,
@@ -473,5 +478,32 @@
       "comment": "Final words reflect wisdom’s call for balance and spiritual nourishment."
     }
   ],
-  "translatedAt": "2025-12-24T05:39:18.897Z"
+  "translatedAt": "2025-12-24T05:39:18.897Z",
+  "sections": [
+    {
+      "title": "Nicanor Plans to Attack on the Sabbath",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "Judas Encourages the Troops with Divine Visions",
+      "startVerse": 11,
+      "endVerse": 23
+    },
+    {
+      "title": "The Battle and Death of Nicanor",
+      "startVerse": 24,
+      "endVerse": 32
+    },
+    {
+      "title": "Instituting the Feast of Nicanor",
+      "startVerse": 33,
+      "endVerse": 34
+    },
+    {
+      "title": "Conclusion of the Second Book of Maccabees",
+      "startVerse": 35,
+      "endVerse": 39
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now concerning the times and the seasons, brothers, you have no need for anything to be written to you.",
       "links": "<a href='/AIV/44/1/7'>Acts 1:7</a>; <a href='/AIV/40/24/36'>Matt. 24:36</a>",
-      "comment": "Paul refers to 'times and seasons' as set by God's authority (see Acts 1:7). The Thessalonians are already informed, highlighting the apostles’ thorough catechesis of new believers. The phrase echoes Jesus’ teaching about the unknown timing of the end (Matt. 24:36)."
+      "comment": "Paul refers to 'times and seasons' as set by God's authority (see Acts 1:7). The Thessalonians are already informed, highlighting the apostles’ thorough catechesis of new believers. The phrase echoes Jesus’ teaching about the unknown timing of the end (Matt. 24:36).",
+      "sectionHeader": "The Day of the Lord"
     },
     {
       "pk": 59005002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "Now we ask you, brothers, to respect those who labor among you, and are over you in the Lord, and admonish you,",
       "links": "<a href='/AIV/60/5/1-2'>1 Pet. 5:1-2</a>; <a href='/AIV/58/13/17'>Heb. 13:17</a>",
-      "comment": "Paul exhorts believers to submit to spiritual leaders—pointing to an ordered structure within the Church (Heb. 13:17). The hierarchy reflects Christ’s own commissioning of shepherds for His people."
+      "comment": "Paul exhorts believers to submit to spiritual leaders—pointing to an ordered structure within the Church (Heb. 13:17). The hierarchy reflects Christ’s own commissioning of shepherds for His people.",
+      "sectionHeader": "Final Exhortations and Instructions"
     },
     {
       "pk": 59005013,
@@ -278,7 +280,8 @@
       "verse": 23,
       "text": "Now may the God of peace himself sanctify you completely, and may your whole spirit, soul, and body be kept blameless at the coming of our Lord Jesus Christ.",
       "links": "<a href='/AIV/50/1/6'>Phil. 1:6</a>; <a href='/AIV/52/3/13'>1 Thess. 3:13</a>",
-      "comment": "God’s active sanctification is holistic—spirit, soul, and body—anticipating a complete transformation at Christ’s return (Phil. 1:6). The language anticipates the resurrection of both body and soul."
+      "comment": "God’s active sanctification is holistic—spirit, soul, and body—anticipating a complete transformation at Christ’s return (Phil. 1:6). The language anticipates the resurrection of both body and soul.",
+      "sectionHeader": "Benediction and Conclusion"
     },
     {
       "pk": 59005024,
@@ -341,5 +344,22 @@
       "comment": "The final benediction, echoing Paul’s other letter conclusions, invokes Jesus’ continual favor and presence, affirming His divinity and ongoing activity among the faithful."
     }
   ],
-  "translatedAt": "2025-12-24T12:09:30.876Z"
+  "translatedAt": "2025-12-24T12:09:30.876Z",
+  "sections": [
+    {
+      "title": "The Day of the Lord",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "Final Exhortations and Instructions",
+      "startVerse": 12,
+      "endVerse": 22
+    },
+    {
+      "title": "Benediction and Conclusion",
+      "startVerse": 23,
+      "endVerse": 28
+    }
+  ]
 }

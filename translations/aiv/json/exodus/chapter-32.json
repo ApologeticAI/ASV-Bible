@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When the people saw that Moses was delayed in coming down from the mountain, they gathered around Aaron and said, “Come, make us gods who will go before us. As for this Moses, the man who brought us up out of Egypt, we do not know what has become of him.”",
       "links": "<a href='/AIV/44/7/40'>Acts 7:40</a>; <a href='/AIV/19/106/19-20'>Ps. 106:19-20</a>",
-      "comment": "Israel's impatience leads them into idolatry, forgetting the true God who delivered them. This impatience with God's timing is repeated throughout Scripture, suggesting the need for ongoing faith and perseverance. See <a href='/AIV/40/24/48'>Matt. 24:48</a>."
+      "comment": "Israel's impatience leads them into idolatry, forgetting the true God who delivered them. This impatience with God's timing is repeated throughout Scripture, suggesting the need for ongoing faith and perseverance. See <a href='/AIV/40/24/48'>Matt. 24:48</a>.",
+      "sectionHeader": "The Golden Calf"
     },
     {
       "pk": 2032002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "But Moses pleaded with the LORD his God and said, “O LORD, why does Your anger burn against Your people whom You brought out of Egypt with great power and a mighty hand?",
       "links": "<a href='/AIV/05/09/18-19'>Deut. 9:18-19</a>",
-      "comment": "Moses intercedes as mediator, prefiguring Christ’s mediation. Intercessory prayer is shown to be pleasing and effectual before God."
+      "comment": "Moses intercedes as mediator, prefiguring Christ’s mediation. Intercessory prayer is shown to be pleasing and effectual before God.",
+      "sectionHeader": "Moses Intercedes for the People"
     },
     {
       "pk": 2032012,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "Then Moses turned and went down from the mountain with the two tablets of the testimony in his hands. The tablets were written on both sides; on the front and on the back, they were written.",
       "links": "<a href='/AIV/02/31/18'>Exod 31:18</a>; <a href='/AIV/05/09/15'>Deut. 9:15</a>",
-      "comment": "The tablets, written on both sides, symbolize completeness. These tablets represent the unchangeable law of God."
+      "comment": "The tablets, written on both sides, symbolize completeness. These tablets represent the unchangeable law of God.",
+      "sectionHeader": "Moses Destroys the Calf and Punishes the People"
     },
     {
       "pk": 2032016,
@@ -362,7 +365,8 @@
       "verse": 30,
       "text": "The next day Moses said to the people, “You have committed a great sin. Now I will go up to the LORD; perhaps I can make atonement for your sin.”",
       "links": "<a href='/AIV/02/34/9'>Exod 34:9</a>",
-      "comment": "Moses’ willingness to seek atonement foreshadows the need for a mediator who makes true expiation, fulfilled ultimately through Jesus."
+      "comment": "Moses’ willingness to seek atonement foreshadows the need for a mediator who makes true expiation, fulfilled ultimately through Jesus.",
+      "sectionHeader": "Moses Pleads for Atonement"
     },
     {
       "pk": 2032031,
@@ -425,5 +429,27 @@
       "comment": "Judgment follows sin, even after forgiveness. God’s justice and mercy are balanced, seen ultimately in Christ, who bears the cost of sin while offering healing to the people."
     }
   ],
-  "translatedAt": "2025-12-24T01:04:27.276Z"
+  "translatedAt": "2025-12-24T01:04:27.276Z",
+  "sections": [
+    {
+      "title": "The Golden Calf",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "Moses Intercedes for the People",
+      "startVerse": 11,
+      "endVerse": 14
+    },
+    {
+      "title": "Moses Destroys the Calf and Punishes the People",
+      "startVerse": 15,
+      "endVerse": 29
+    },
+    {
+      "title": "Moses Pleads for Atonement",
+      "startVerse": 30,
+      "endVerse": 35
+    }
+  ]
 }

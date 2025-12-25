@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "At that same time, some were present who reported to Jesus about the Galileans whose blood Pilate had mixed with their sacrifices.",
       "links": "<a href='/AIV/42/23/1'>Luke 23:1</a>;<a href='/AIV/44/5/37'>Acts 5:37</a>",
-      "comment": "Pilate’s reputation for brutality is highlighted here, showing the political and religious tensions in Jerusalem. The suffering of the Galileans is used as a teaching moment by Jesus."
+      "comment": "Pilate’s reputation for brutality is highlighted here, showing the political and religious tensions in Jerusalem. The suffering of the Galileans is used as a teaching moment by Jesus.",
+      "sectionHeader": "Call to Repentance"
     },
     {
       "pk": 49013002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "And he told this parable: 'A man had a fig tree planted in his vineyard, and he came looking for fruit on it and found none.'",
       "links": "<a href='/AIV/23/5/1-7'>Isa. 5:1-7</a>;<a href='/AIV/40/21/19'>Matt. 21:19</a>",
-      "comment": "The fig tree often symbolizes Israel. Fruitfulness in Scripture is a frequent metaphor for faithful obedience and good works."
+      "comment": "The fig tree often symbolizes Israel. Fruitfulness in Scripture is a frequent metaphor for faithful obedience and good works.",
+      "sectionHeader": "Parable of the Barren Fig Tree"
     },
     {
       "pk": 49013007,
@@ -122,7 +124,8 @@
       "verse": 10,
       "text": "Now he was teaching in one of the synagogues on the Sabbath.",
       "links": "<a href='/AIV/40/12/9'>Matt. 12:9</a>",
-      "comment": "Jesus respects Jewish worship practices, showing he is the promised Messiah acting within the context of Old Covenant worship."
+      "comment": "Jesus respects Jewish worship practices, showing he is the promised Messiah acting within the context of Old Covenant worship.",
+      "sectionHeader": "Healing of the Crippled Woman on the Sabbath"
     },
     {
       "pk": 49013011,
@@ -218,7 +221,8 @@
       "verse": 18,
       "text": "So he said, 'To what is the kingdom of God like? And to what shall I compare it?'",
       "links": "<a href='/AIV/40/13/31'>Matt. 13:31</a>",
-      "comment": "Jesus often uses parables to reveal the mysterious but present nature of God’s kingdom, already at work even if not fully visible."
+      "comment": "Jesus often uses parables to reveal the mysterious but present nature of God’s kingdom, already at work even if not fully visible.",
+      "sectionHeader": "Parables of the Mustard Seed and the Leaven"
     },
     {
       "pk": 49013019,
@@ -266,7 +270,8 @@
       "verse": 22,
       "text": "He went on his way through towns and villages, teaching and journeying toward Jerusalem.",
       "links": "<a href='/AIV/42/9/51'>Luke 9:51</a>",
-      "comment": "Luke often highlights Jesus' journey to Jerusalem, foreshadowing his approaching passion, sacrifice, and fulfillment of prophecy."
+      "comment": "Luke often highlights Jesus' journey to Jerusalem, foreshadowing his approaching passion, sacrifice, and fulfillment of prophecy.",
+      "sectionHeader": "The Narrow Door and the Few Saved"
     },
     {
       "pk": 49013023,
@@ -374,7 +379,8 @@
       "verse": 31,
       "text": "That very hour, some Pharisees came and said to him, 'Leave here, for Herod wants to kill you.'",
       "links": "<a href='/AIV/41/6/14'>Mark 6:14</a>",
-      "comment": "This shows opposition from political and religious leaders. Herod Antipas’ threat foreshadows the coming passion of Christ."
+      "comment": "This shows opposition from political and religious leaders. Herod Antipas’ threat foreshadows the coming passion of Christ.",
+      "sectionHeader": "Lament over Jerusalem"
     },
     {
       "pk": 49013032,
@@ -425,5 +431,37 @@
       "comment": "Desolation means judgment and the loss of true worship. The final phrase is a quotation from a Psalm sung at Passover, signaling Jesus as Messiah. True blessing comes from recognizing Jesus’ divine mission and the fulfillment of Scripture. There is an anticipation of liturgical worship and a future gathering for those who accept him as Lord."
     }
   ],
-  "translatedAt": "2025-12-24T10:51:17.237Z"
+  "translatedAt": "2025-12-24T10:51:17.237Z",
+  "sections": [
+    {
+      "title": "Call to Repentance",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Parable of the Barren Fig Tree",
+      "startVerse": 6,
+      "endVerse": 9
+    },
+    {
+      "title": "Healing of the Crippled Woman on the Sabbath",
+      "startVerse": 10,
+      "endVerse": 17
+    },
+    {
+      "title": "Parables of the Mustard Seed and the Leaven",
+      "startVerse": 18,
+      "endVerse": 21
+    },
+    {
+      "title": "The Narrow Door and the Few Saved",
+      "startVerse": 22,
+      "endVerse": 30
+    },
+    {
+      "title": "Lament over Jerusalem",
+      "startVerse": 31,
+      "endVerse": 35
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "All the people gathered together as one in the square before the Water Gate. They told Ezra the scribe to bring the Book of the Law of Moses, which the LORD had given to Israel.",
       "links": "<a href='/AIV/02/24/7'>Ex. 24:7</a>; <a href='/AIV/03/10/11'>Lev. 10:11</a>",
-      "comment": "Unity among the people highlights their desire to return to God's Word. The focus on the Law as a living Word recalls the covenant relationship established at Sinai. Spiritual interpretation: The gathering around sacred Scripture foreshadows later liturgical assemblies."
+      "comment": "Unity among the people highlights their desire to return to God's Word. The focus on the Law as a living Word recalls the covenant relationship established at Sinai. Spiritual interpretation: The gathering around sacred Scripture foreshadows later liturgical assemblies.",
+      "sectionHeader": "Ezra Reads the Law to the People"
     },
     {
       "pk": 16008002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "Then Nehemiah, who was governor, and Ezra the priest and scribe, and the Levites who taught the people, said to all the people, 'This day is holy to the LORD your God. Do not mourn or weep.' For all the people wept when they heard the words of the Law.",
       "links": "<a href='/AIV/03/23/24'>Lev. 23:24</a>; <a href='/AIV/19/119/136'>Ps. 119:136</a>",
-      "comment": "The holiness of the day and the people's sorrow for their sins emphasizes the power of God's Word to convict and prompt repentance—a precursor to sacramental confession and spiritual renewal."
+      "comment": "The holiness of the day and the people's sorrow for their sins emphasizes the power of God's Word to convict and prompt repentance—a precursor to sacramental confession and spiritual renewal.",
+      "sectionHeader": "The People Are Commanded to Rejoice"
     },
     {
       "pk": 16008010,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "On the second day, the heads of fathers’ houses of all the people, along with the priests and the Levites, came together to Ezra the scribe to study the words of the Law.",
       "links": "<a href='/AIV/05/31/9-13'>Deut. 31:9-13</a>",
-      "comment": "Leadership—both religious and familial—gathers for deeper study, exemplifying ongoing formation for those who shepherd others spiritually."
+      "comment": "Leadership—both religious and familial—gathers for deeper study, exemplifying ongoing formation for those who shepherd others spiritually.",
+      "sectionHeader": "The Feast of Booths Restored"
     },
     {
       "pk": 16008014,
@@ -221,5 +224,22 @@
       "comment": "Daily reading and the closing solemn assembly point to the cycle of spiritual nourishment and climactic worship, prefiguring the rhythm of continual teaching and liturgical celebration in Christian tradition."
     }
   ],
-  "translatedAt": "2025-12-24T04:49:37.903Z"
+  "translatedAt": "2025-12-24T04:49:37.903Z",
+  "sections": [
+    {
+      "title": "Ezra Reads the Law to the People",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "The People Are Commanded to Rejoice",
+      "startVerse": 9,
+      "endVerse": 12
+    },
+    {
+      "title": "The Feast of Booths Restored",
+      "startVerse": 13,
+      "endVerse": 18
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "After this, Jesus traveled around in Galilee. He did not wish to go about in Judea because the Jewish leaders were seeking to kill him.",
       "links": "<a href='/AIV/41/9/30-31'>Mark 9:30-31</a>",
-      "comment": "Jesus avoids Judea due to threats against his life. This highlights the mounting opposition Jesus faces, setting the stage for later events in Jerusalem—see Mark 9:30-31 for parallels."
+      "comment": "Jesus avoids Judea due to threats against his life. This highlights the mounting opposition Jesus faces, setting the stage for later events in Jerusalem—see Mark 9:30-31 for parallels.",
+      "sectionHeader": "Jesus and His Brothers at the Feast of Booths"
     },
     {
       "pk": 50007002,
@@ -170,7 +171,8 @@
       "verse": 14,
       "text": "About halfway through the festival, Jesus went up to the temple courts and began to teach.",
       "links": "<a href='/AIV/43/18/20'>John 18:20</a>",
-      "comment": "Jesus chooses a public moment to teach in the temple, symbolizing His authority. John 18:20 affirms His openness in teaching."
+      "comment": "Jesus chooses a public moment to teach in the temple, symbolizing His authority. John 18:20 affirms His openness in teaching.",
+      "sectionHeader": "Jesus Teaches in the Temple"
     },
     {
       "pk": 50007015,
@@ -482,7 +484,8 @@
       "verse": 40,
       "text": "Some of the crowd, hearing these words, said, 'Surely this is the Prophet.'",
       "links": "<a href='/AIV/5/18/15'>Deuteronomy 18:15</a>",
-      "comment": "Echoing expectation of the promised Prophet—see Deuteronomy 18:15. This underscores a preparatory Christological expectation."
+      "comment": "Echoing expectation of the promised Prophet—see Deuteronomy 18:15. This underscores a preparatory Christological expectation.",
+      "sectionHeader": "Division over Jesus"
     },
     {
       "pk": 50007041,
@@ -542,7 +545,8 @@
       "verse": 45,
       "text": "The officers went back to the chief priests and Pharisees, who asked them, 'Why did you not bring him?'",
       "links": "<a href='/AIV/43/18/3-6'>John 18:3-6</a>",
-      "comment": "Even temple guards are struck by Jesus’ authority—see John 18:3-6, where Christ’s mere words overcome His captors."
+      "comment": "Even temple guards are struck by Jesus’ authority—see John 18:3-6, where Christ’s mere words overcome His captors.",
+      "sectionHeader": "The Officers and the Pharisees"
     },
     {
       "pk": 50007046,
@@ -641,5 +645,27 @@
       "comment": "The chapter closes with unresolved tension, setting the stage for deeper revelation and division. This moment invites reflection on collective responsibility and individual response to Christ."
     }
   ],
-  "translatedAt": "2025-12-24T11:06:45.157Z"
+  "translatedAt": "2025-12-24T11:06:45.157Z",
+  "sections": [
+    {
+      "title": "Jesus and His Brothers at the Feast of Booths",
+      "startVerse": 1,
+      "endVerse": 13
+    },
+    {
+      "title": "Jesus Teaches in the Temple",
+      "startVerse": 14,
+      "endVerse": 39
+    },
+    {
+      "title": "Division over Jesus",
+      "startVerse": 40,
+      "endVerse": 44
+    },
+    {
+      "title": "The Officers and the Pharisees",
+      "startVerse": 45,
+      "endVerse": 53
+    }
+  ]
 }

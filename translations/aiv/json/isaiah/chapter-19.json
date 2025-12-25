@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "A message concerning Egypt: See, the LORD rides on a swift cloud, and comes to Egypt. The idols of Egypt tremble before Him, and the hearts of the Egyptians melt within them.",
       "links": "<a href='/AIV/02/12/12'>Ex. 12:12</a>; <a href='/AIV/19/18/10'>Ps. 18:10</a>; <a href='/AIV/23/13/1'>Isa. 13:1</a>",
-      "comment": "This oracle opens with the LORD arriving in judgment, conquering false gods. God's coming on the clouds echoes imagery used later for Christ's return (Matt. 24:30; Mark 14:62)."
+      "comment": "This oracle opens with the LORD arriving in judgment, conquering false gods. God's coming on the clouds echoes imagery used later for Christ's return (Matt. 24:30; Mark 14:62).",
+      "sectionHeader": "Oracle Against Egypt"
     },
     {
       "pk": 29019002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "The princes of Zoan are utterly foolish; the best counselors of Pharaoh give stupid advice. How can you say to Pharaoh, 'I am a son of the wise, a son of ancient kings?'",
       "links": "<a href='/AIV/01/41/8'>Gen. 41:8</a>; <a href='/AIV/23/31/2'>Isa. 31:2</a>",
-      "comment": "Earthly wisdom falters before God’s plans. True wisdom and authority rest with God’s appointed leaders."
+      "comment": "Earthly wisdom falters before God’s plans. True wisdom and authority rest with God’s appointed leaders.",
+      "sectionHeader": "The Judgment on Egypt's Leaders and People"
     },
     {
       "pk": 29019012,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "On that day five cities in the land of Egypt will speak the language of Canaan and swear allegiance to the LORD of Hosts; one will be called the City of the Sun.",
       "links": "<a href='/AIV/23/65/25'>Isa. 65:25</a>; <a href='/AIV/38/08/23'>Zech. 8:23</a>",
-      "comment": "Gentiles worshiping the LORD foreshadows widespread conversion and unity of faith (see also Zech. 8:23, Isa. 2:2-4). Spiritual fulfillment is found as all nations join together in God’s worship."
+      "comment": "Gentiles worshiping the LORD foreshadows widespread conversion and unity of faith (see also Zech. 8:23, Isa. 2:2-4). Spiritual fulfillment is found as all nations join together in God’s worship.",
+      "sectionHeader": "The Conversion and Blessing of Egypt"
     },
     {
       "pk": 29019019,
@@ -305,5 +308,22 @@
       "comment": "God extends His covenant language to Gentiles, calling them ‘My people.’ God’s inheritance is expanded, embracing all nations. This anticipates the fullness of the universal Church, which transcends divisions and unites humanity."
     }
   ],
-  "translatedAt": "2025-12-24T07:59:21.125Z"
+  "translatedAt": "2025-12-24T07:59:21.125Z",
+  "sections": [
+    {
+      "title": "Oracle Against Egypt",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "The Judgment on Egypt's Leaders and People",
+      "startVerse": 11,
+      "endVerse": 17
+    },
+    {
+      "title": "The Conversion and Blessing of Egypt",
+      "startVerse": 18,
+      "endVerse": 25
+    }
+  ]
 }

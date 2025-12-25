@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now faith is the assurance of things hoped for, the conviction of things not seen.",
       "links": "<a href='/AIV/41/11/24'>Mark 11:24</a>; <a href='/AIV/45/8/24-25'>Romans 8:24-25</a>",
-      "comment": "The definition of faith given here focuses on confidence and conviction. The Greek word for 'assurance' can also mean 'substance' or 'foundation,' highlighting faith as something real and enduring. Faith in this sense is not merely intellectual assent, but trusting obedience. Notice how faith is considered a response to God's promises, even when their fulfillment is not yet visible."
+      "comment": "The definition of faith given here focuses on confidence and conviction. The Greek word for 'assurance' can also mean 'substance' or 'foundation,' highlighting faith as something real and enduring. Faith in this sense is not merely intellectual assent, but trusting obedience. Notice how faith is considered a response to God's promises, even when their fulfillment is not yet visible.",
+      "sectionHeader": "The Meaning and Power of Faith"
     },
     {
       "pk": 65011002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "By faith Abel offered to God a more acceptable sacrifice than Cain, through which he was commended as righteous, God testifying about his gifts. Through faith, though he died, he still speaks.",
       "links": "<a href='/AIV/1/4/3-10'>Genesis 4:3-10</a>; <a href='/AIV/40/23/35'>Matthew 23:35</a>",
-      "comment": "Abel’s faith made his sacrifice pleasing to God and his example continues to teach us. The text implies the importance of right intention and obedience in worship."
+      "comment": "Abel’s faith made his sacrifice pleasing to God and his example continues to teach us. The text implies the importance of right intention and obedience in worship.",
+      "sectionHeader": "Faith of the Patriarchs"
     },
     {
       "pk": 65011005,
@@ -278,7 +280,8 @@
       "verse": 23,
       "text": "By faith Moses, when he was born, was hidden for three months by his parents because they saw that the child was beautiful and they were not afraid of the king’s command.",
       "links": "<a href='/AIV/2/2/2-3'>Exodus 2:2-3</a>; <a href='/AIV/44/7/20'>Acts 7:20</a>",
-      "comment": "The faith of Moses’ parents in defying Pharaoh’s order set the stage for the deliverance of Israel."
+      "comment": "The faith of Moses’ parents in defying Pharaoh’s order set the stage for the deliverance of Israel.",
+      "sectionHeader": "Faith of Moses and Israel"
     },
     {
       "pk": 65011024,
@@ -386,7 +389,8 @@
       "verse": 32,
       "text": "And what more shall I say? Time would fail me to tell of Gideon, Barak, Samson, Jephthah, David and Samuel and the prophets—",
       "links": "<a href='/AIV/7/6/11'>Judges 6:11</a>; <a href='/AIV/9/16/13'>1 Samuel 16:13</a>",
-      "comment": "The author mentions a series of Old Testament figures, inviting us to consider their different, sometimes flawed lives, but noting faith as their common thread."
+      "comment": "The author mentions a series of Old Testament figures, inviting us to consider their different, sometimes flawed lives, but noting faith as their common thread.",
+      "sectionHeader": "Faith of Other Heroes"
     },
     {
       "pk": 65011033,
@@ -485,5 +489,27 @@
       "comment": "Believers after Christ receive the fullness of God's promise, but the unity of all God’s people is necessary. Salvation is communal and comes to completion together—a truth that points to the mystical union of all the faithful, both living and dead."
     }
   ],
-  "translatedAt": "2025-12-24T12:22:37.406Z"
+  "translatedAt": "2025-12-24T12:22:37.406Z",
+  "sections": [
+    {
+      "title": "The Meaning and Power of Faith",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "Faith of the Patriarchs",
+      "startVerse": 4,
+      "endVerse": 22
+    },
+    {
+      "title": "Faith of Moses and Israel",
+      "startVerse": 23,
+      "endVerse": 31
+    },
+    {
+      "title": "Faith of Other Heroes",
+      "startVerse": 32,
+      "endVerse": 40
+    }
+  ]
 }

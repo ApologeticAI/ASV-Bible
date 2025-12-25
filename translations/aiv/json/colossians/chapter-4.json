@@ -26,7 +26,8 @@
       "verse": 2,
       "text": "Devote yourselves to prayer, being watchful and thankful.",
       "links": "<a href='/AIV/52/5/17'>1 Thess. 5:17</a>; <a href='/AIV/41/14/38'>Mark 14:38</a>",
-      "comment": "Paul emphasizes continual prayer and vigilance, closely aligned with Jesus' command to 'watch and pray' (Mark 14:38). The reference to thanksgiving hints at a pattern of spiritual discipline and liturgical gratitude in communal worship."
+      "comment": "Paul emphasizes continual prayer and vigilance, closely aligned with Jesus' command to 'watch and pray' (Mark 14:38). The reference to thanksgiving hints at a pattern of spiritual discipline and liturgical gratitude in communal worship.",
+      "sectionHeader": "Exhortations to Prayer and Conduct"
     },
     {
       "pk": 58004003,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "Tychicus, our beloved brother, faithful minister and fellow servant in the Lord, will tell you everything about me.",
       "links": "<a href='/AIV/44/20/4'>Acts 20:4</a>; <a href='/AIV/49/6/21'>Eph. 6:21</a>",
-      "comment": "Paul highlights Tychicus's trusted role, showing the interconnectedness and unity of the church through apostolic delegation and shared ministry."
+      "comment": "Paul highlights Tychicus's trusted role, showing the interconnectedness and unity of the church through apostolic delegation and shared ministry.",
+      "sectionHeader": "Final Greetings"
     },
     {
       "pk": 58004008,
@@ -221,5 +223,17 @@
       "comment": "Paul’s personal signature and mention of his chains authenticates the letter and emphasizes the cost of apostolic leadership. The final benediction invokes grace—a spiritual favor obtained through prayer and sacramental life."
     }
   ],
-  "translatedAt": "2025-12-24T12:07:31.696Z"
+  "translatedAt": "2025-12-24T12:07:31.696Z",
+  "sections": [
+    {
+      "title": "Exhortations to Prayer and Conduct",
+      "startVerse": 2,
+      "endVerse": 6
+    },
+    {
+      "title": "Final Greetings",
+      "startVerse": 7,
+      "endVerse": 18
+    }
+  ]
 }

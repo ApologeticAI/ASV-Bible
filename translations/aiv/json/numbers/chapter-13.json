@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The LORD spoke to Moses, saying,",
       "links": "<a href='/AIV/2/3/4'>Ex. 3:4</a>",
-      "comment": "God initiates the mission with Moses, showing divine initiative and authority. The pattern of God speaking to Moses is a consistent theme (see Ex. 3:4) that foreshadows the role of authoritative mediators in guiding God's people."
+      "comment": "God initiates the mission with Moses, showing divine initiative and authority. The pattern of God speaking to Moses is a consistent theme (see Ex. 3:4) that foreshadows the role of authoritative mediators in guiding God's people.",
+      "sectionHeader": "The Spies Sent to Canaan"
     },
     {
       "pk": 4013002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "These were their names: from the tribe of Reuben, Shammua the son of Zaccur;",
       "links": "<a href='/AIV/4/34/17-29'>Num. 34:17-29</a>",
-      "comment": "The naming of each representative underscores the importance of order and structure within the people of God."
+      "comment": "The naming of each representative underscores the importance of order and structure within the people of God.",
+      "sectionHeader": "Names of the Spies"
     },
     {
       "pk": 4013005,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "Moses sent them to spy out the land of Canaan and said to them, 'Go up into the Negev and go up into the hill country,",
       "links": "<a href='/AIV/4/21/1'>Num. 21:1</a>; <a href='/AIV/6/2/1'>Josh. 2:1</a>",
-      "comment": "Moses gives detailed instructions, reflecting close oversight and ordered mission—obedience to rightful authority is a repeated biblical theme."
+      "comment": "Moses gives detailed instructions, reflecting close oversight and ordered mission—obedience to rightful authority is a repeated biblical theme.",
+      "sectionHeader": "The Mission and Exploration of Canaan"
     },
     {
       "pk": 4013018,
@@ -314,7 +317,8 @@
       "verse": 26,
       "text": "They came back to Moses and Aaron and to all the congregation of the children of Israel in the wilderness of Paran, at Kadesh. They brought them word, and showed them the fruit of the land.",
       "links": "<a href='/AIV/4/20/1'>Num. 20:1</a>",
-      "comment": "Testimony is given in the presence of recognized leaders and the whole assembly, an image of accountability and the collective discernment of the community."
+      "comment": "Testimony is given in the presence of recognized leaders and the whole assembly, an image of accountability and the collective discernment of the community.",
+      "sectionHeader": "The Report of the Spies"
     },
     {
       "pk": 4013027,
@@ -401,5 +405,27 @@
       "comment": "Invoking the Nephilim (see Gen. 6:4) shows a sense of overwhelming fear. Reliance on God’s appointed leaders and the community is meant to guard against such despair. The tension between the gift of God’s promise and the hesitancy of the people anticipates the struggle between doubt and faith both individually and corporately. The land is to be entered not by mere human effort, but by steadfast obedience and faith—paralleling the Christian journey to spiritual fulfillment by participating in the promises of God through the guidance of the one visible people of God."
     }
   ],
-  "translatedAt": "2025-12-24T01:36:38.447Z"
+  "translatedAt": "2025-12-24T01:36:38.447Z",
+  "sections": [
+    {
+      "title": "The Spies Sent to Canaan",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "Names of the Spies",
+      "startVerse": 4,
+      "endVerse": 16
+    },
+    {
+      "title": "The Mission and Exploration of Canaan",
+      "startVerse": 17,
+      "endVerse": 25
+    },
+    {
+      "title": "The Report of the Spies",
+      "startVerse": 26,
+      "endVerse": 33
+    }
+  ]
 }

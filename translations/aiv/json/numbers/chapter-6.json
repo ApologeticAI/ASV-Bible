@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The LORD spoke to Moses, saying:",
       "links": "<a href='/AIV/3/10/8'>Leviticus 10:8</a>",
-      "comment": "This section opens another segment of laws delivered by God to Moses for the people of Israel. The phrase 'The LORD spoke to Moses' echoes the repeated structure found throughout the Pentateuch. God’s direct communication underlines His authority over ritual practices."
+      "comment": "This section opens another segment of laws delivered by God to Moses for the people of Israel. The phrase 'The LORD spoke to Moses' echoes the repeated structure found throughout the Pentateuch. God’s direct communication underlines His authority over ritual practices.",
+      "sectionHeader": "The Nazirite Vow"
     },
     {
       "pk": 4006002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "This is the law for the Nazirite when the time of his separation is completed: he shall be brought to the entrance of the Tent of Meeting.",
       "links": "<a href='/AIV/9/1/22'>1 Samuel 1:22</a>",
-      "comment": "The Nazirite returns to public worship at the conclusion of their vow, a reminder of the communal aspect of faith and the need for accountability through priests."
+      "comment": "The Nazirite returns to public worship at the conclusion of their vow, a reminder of the communal aspect of faith and the need for accountability through priests.",
+      "sectionHeader": "The Law of the Nazirite"
     },
     {
       "pk": 4006014,
@@ -266,7 +268,8 @@
       "verse": 22,
       "text": "The LORD spoke to Moses, saying:",
       "links": "<a href='/AIV/3/9/1'>Leviticus 9:1</a>",
-      "comment": "A new divine address, marking the transition to the priestly blessing, a significant liturgical moment."
+      "comment": "A new divine address, marking the transition to the priestly blessing, a significant liturgical moment.",
+      "sectionHeader": "The Priestly Blessing"
     },
     {
       "pk": 4006023,
@@ -329,5 +332,22 @@
       "comment": "Putting God’s name on the people signifies a special relationship, spiritual identity, and inheritance. In Christian practice, this is echoed in the invocation of the Trinitarian name at baptism, marking believers as God’s own people."
     }
   ],
-  "translatedAt": "2025-12-24T01:31:40.430Z"
+  "translatedAt": "2025-12-24T01:31:40.430Z",
+  "sections": [
+    {
+      "title": "The Nazirite Vow",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "The Law of the Nazirite",
+      "startVerse": 13,
+      "endVerse": 21
+    },
+    {
+      "title": "The Priestly Blessing",
+      "startVerse": 22,
+      "endVerse": 27
+    }
+  ]
 }

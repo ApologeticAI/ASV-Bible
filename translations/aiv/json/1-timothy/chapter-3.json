@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "This saying is trustworthy: If anyone desires the office of overseer, he desires a good work.",
       "links": "<a href='/AIV/56/1/5-9'>Titus 1:5-9</a>; <a href='/AIV/44/20/28'>Acts 20:28</a>",
-      "comment": "Paul affirms the dignity and honorable nature of church leadership. 'Overseer' here refers to the leading role in the church, which developed into the episcopal office. Note the affirmation of apostolic succession implied by the office."
+      "comment": "Paul affirms the dignity and honorable nature of church leadership. 'Overseer' here refers to the leading role in the church, which developed into the episcopal office. Note the affirmation of apostolic succession implied by the office.",
+      "sectionHeader": "Qualifications of Bishops"
     },
     {
       "pk": 61003002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Deacons likewise must be dignified, not double-tongued, not given to much wine, not greedy for dishonest gain.",
       "links": "<a href='/AIV/44/6/3'>Acts 6:3</a>",
-      "comment": "Deacons serve in practical roles supporting the church’s ministry. Their moral requirements reiterate the importance of personal sanctity in all forms of service."
+      "comment": "Deacons serve in practical roles supporting the church’s ministry. Their moral requirements reiterate the importance of personal sanctity in all forms of service.",
+      "sectionHeader": "Qualifications of Deacons"
     },
     {
       "pk": 61003009,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "I am writing these things to you, hoping to come to you soon.",
       "links": "<a href='/AIV/56/1/5'>Titus 1:5</a>",
-      "comment": "Paul's personal touch highlights the care and community of the apostolic witness preserved through teaching and letters. The unity of doctrine and leadership is underlined."
+      "comment": "Paul's personal touch highlights the care and community of the apostolic witness preserved through teaching and letters. The unity of doctrine and leadership is underlined.",
+      "sectionHeader": "The Mystery of Godliness"
     },
     {
       "pk": 61003015,
@@ -197,5 +200,22 @@
       "comment": "This is an early creed about Jesus: His incarnation, vindication, cosmic significance, global mission, and ascension. A high view of Christ’s divinity and lordship is central. Note the pattern of confession, worship, and visible order, mirroring the tradition handed down from the apostles."
     }
   ],
-  "translatedAt": "2025-12-24T12:11:25.851Z"
+  "translatedAt": "2025-12-24T12:11:25.851Z",
+  "sections": [
+    {
+      "title": "Qualifications of Bishops",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Qualifications of Deacons",
+      "startVerse": 8,
+      "endVerse": 13
+    },
+    {
+      "title": "The Mystery of Godliness",
+      "startVerse": 14,
+      "endVerse": 16
+    }
+  ]
 }

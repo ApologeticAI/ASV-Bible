@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "These are the leaders of the Israelites, the heads of families, the commanders of thousands and of hundreds, and their officers who served the king in all matters of the divisions that rotated each month throughout the year, each division having twenty-four thousand.",
       "links": "<a href='/AIV/09/10/19'>1 Sam 10:19</a>; <a href='/AIV/13/23/1-2'>1 Chr 23:1-2</a>",
-      "comment": "This section details the military organization during David's reign, reflecting order and structure, which points forward to the orderliness of leadership in the New Testament church (see Acts 6:1-6)."
+      "comment": "This section details the military organization during David's reign, reflecting order and structure, which points forward to the orderliness of leadership in the New Testament church (see Acts 6:1-6).",
+      "sectionHeader": "The Military Divisions of Israel"
     },
     {
       "pk": 13027002,
@@ -194,7 +195,8 @@
       "verse": 16,
       "text": "Now over the tribes of Israel: for the Reubenites, Eliezer the son of Zichri was leader; for the Simeonites, Shephatiah the son of Maacah;",
       "links": "<a href='/AIV/04/01/5-16'>Num 1:5-16</a>",
-      "comment": "The listing of tribal leaders recalls Moses' and Joshua’s arrangements—reminding the faithful of God’s ongoing guidance in leadership and tradition."
+      "comment": "The listing of tribal leaders recalls Moses' and Joshua’s arrangements—reminding the faithful of God’s ongoing guidance in leadership and tradition.",
+      "sectionHeader": "Leaders of the Twelve Tribes"
     },
     {
       "pk": 13027017,
@@ -302,7 +304,8 @@
       "verse": 25,
       "text": "Over the king’s storehouses was Azmaveth the son of Adiel; over the storehouses in the fields, in the cities, villages, and towers was Jonathan the son of Uzziah.",
       "links": "<a href='/AIV/13/26/20'>1 Chr 26:20</a>",
-      "comment": "The organization of resources for the king’s house mirrors the stewardship expected of God’s household (Matt 24:45-47; 1 Pet 4:10)."
+      "comment": "The organization of resources for the king’s house mirrors the stewardship expected of God’s household (Matt 24:45-47; 1 Pet 4:10).",
+      "sectionHeader": "Overseers of King David’s Possessions"
     },
     {
       "pk": 13027026,
@@ -386,7 +389,8 @@
       "verse": 32,
       "text": "Jonathan, David’s uncle, was a counselor, a man of understanding and a scribe; Jehiel the son of Hachmoni attended the king’s sons.",
       "links": "<a href='/AIV/10/21/21'>2 Sam 21:21</a>",
-      "comment": "The mention of counselors and scribes anticipates the later role of teachers and elders in worshipping communities (cf. Acts 13:1)."
+      "comment": "The mention of counselors and scribes anticipates the later role of teachers and elders in worshipping communities (cf. Acts 13:1).",
+      "sectionHeader": "David’s Counselors and Officials"
     },
     {
       "pk": 13027033,
@@ -413,5 +417,27 @@
       "comment": "The continuity of leadership from Ahithophel to Jehoiada to Abiathar to Joab exemplifies the principle of apostolic succession—each generation is entrusted with stewardship until the true King, Christ, reigns fully (cf. Matt 28:19-20)."
     }
   ],
-  "translatedAt": "2025-12-24T04:20:14.111Z"
+  "translatedAt": "2025-12-24T04:20:14.111Z",
+  "sections": [
+    {
+      "title": "The Military Divisions of Israel",
+      "startVerse": 1,
+      "endVerse": 15
+    },
+    {
+      "title": "Leaders of the Twelve Tribes",
+      "startVerse": 16,
+      "endVerse": 24
+    },
+    {
+      "title": "Overseers of King David’s Possessions",
+      "startVerse": 25,
+      "endVerse": 31
+    },
+    {
+      "title": "David’s Counselors and Officials",
+      "startVerse": 32,
+      "endVerse": 34
+    }
+  ]
 }

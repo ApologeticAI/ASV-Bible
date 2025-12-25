@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now the Philistines gathered their armies for battle, and they assembled at Socoh, which belongs to Judah, and they camped between Socoh and Azekah, in Ephes Dammim.",
       "links": "<a href='/AIV/13/11/13'>1 Chr. 11:13</a>; <a href='/AIV/9/7/12'>1Sam 7:12</a>",
-      "comment": "The setting places the Philistines deep into Israelite territory, showing the severity of the threat. Socoh and Azekah are key locations in Judah, emphasizing the real historical context."
+      "comment": "The setting places the Philistines deep into Israelite territory, showing the severity of the threat. Socoh and Azekah are key locations in Judah, emphasizing the real historical context.",
+      "sectionHeader": "Goliath’s Challenge"
     },
     {
       "pk": 9017002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "Now David was the son of that Ephrathite from Bethlehem in Judah, named Jesse, who had eight sons. Jesse was old in the days of Saul and advanced in years among men.",
       "links": "<a href='/AIV/8/4/17'>Ruth 4:17</a>; <a href='/AIV/40/1/6'>Mt 1:6</a>",
-      "comment": "David is introduced, and his lineage established: he is from Bethlehem, foreshadowing Christ’s birth in the same city. This link is messianic and christological."
+      "comment": "David is introduced, and his lineage established: he is from Bethlehem, foreshadowing Christ’s birth in the same city. This link is messianic and christological.",
+      "sectionHeader": "David Sent to the Battlefield"
     },
     {
       "pk": 9017013,
@@ -374,7 +376,8 @@
       "verse": 31,
       "text": "When the words that David spoke were heard, they were reported before Saul, and he sent for him.",
       "links": "<a href='/AIV/9/17/55'>1Sam 17:55</a>",
-      "comment": "David’s words reach the king—a hint that true leadership and deliverance come from a heart orientated to God."
+      "comment": "David’s words reach the king—a hint that true leadership and deliverance come from a heart orientated to God.",
+      "sectionHeader": "David Volunteers to Fight Goliath"
     },
     {
       "pk": 9017032,
@@ -494,7 +497,8 @@
       "verse": 41,
       "text": "The Philistine came on and drew near to David, and the man who bore his shield was in front of him.",
       "links": "<a href='/AIV/9/17/7'>1Sam 17:7</a>",
-      "comment": "Goliath approaches with all his armor and support—contrasts David’s solitary reliance on God."
+      "comment": "Goliath approaches with all his armor and support—contrasts David’s solitary reliance on God.",
+      "sectionHeader": "David Defeats Goliath"
     },
     {
       "pk": 9017042,
@@ -626,7 +630,8 @@
       "verse": 52,
       "text": "The men of Israel and Judah arose and shouted, and pursued the Philistines as far as the entrance to Gath and to the gates of Ekron. The wounded Philistines fell along the way all the way from Shaaraim to Gath and Ekron.",
       "links": "<a href='/AIV/9/17/4'>1Sam 17:4</a>",
-      "comment": "The enemy’s defeat is complete—bringing unity between Judah and Israel, which echoes the ultimate unity brought through the new covenant."
+      "comment": "The enemy’s defeat is complete—bringing unity between Judah and Israel, which echoes the ultimate unity brought through the new covenant.",
+      "sectionHeader": "The Israelites Pursue the Philistines"
     },
     {
       "pk": 9017053,
@@ -662,7 +667,8 @@
       "verse": 55,
       "text": "When Saul saw David going out against the Philistine, he said to Abner, commander of the army, 'Abner, whose son is this youth?' Abner said, 'As your soul lives, O king, I do not know.'",
       "links": "<a href='/AIV/9/16/18'>1Sam 16:18</a>",
-      "comment": "David’s identity is still mysterious to Saul and the army—pointing toward his rising prominence and the significance of lineage in leadership."
+      "comment": "David’s identity is still mysterious to Saul and the army—pointing toward his rising prominence and the significance of lineage in leadership.",
+      "sectionHeader": "Saul Inquires About David"
     },
     {
       "pk": 9017056,
@@ -701,5 +707,37 @@
       "comment": "David’s response solidifies the messianic lineage—Bethlehem stands as the birthplace of the future King who will save Israel and the world (see Matt 2:6; John 7:42)."
     }
   ],
-  "translatedAt": "2025-12-24T02:58:49.358Z"
+  "translatedAt": "2025-12-24T02:58:49.358Z",
+  "sections": [
+    {
+      "title": "Goliath’s Challenge",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "David Sent to the Battlefield",
+      "startVerse": 12,
+      "endVerse": 30
+    },
+    {
+      "title": "David Volunteers to Fight Goliath",
+      "startVerse": 31,
+      "endVerse": 40
+    },
+    {
+      "title": "David Defeats Goliath",
+      "startVerse": 41,
+      "endVerse": 51
+    },
+    {
+      "title": "The Israelites Pursue the Philistines",
+      "startVerse": 52,
+      "endVerse": 54
+    },
+    {
+      "title": "Saul Inquires About David",
+      "startVerse": 55,
+      "endVerse": 58
+    }
+  ]
 }

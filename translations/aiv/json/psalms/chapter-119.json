@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Blessed are those whose way is blameless, who walk in the law of the LORD.",
       "links": "<a href='/AIV/5/6/5'>Deuteronomy 6:5</a>, <a href='/AIV/40/5/48'>Matthew 5:48</a>",
-      "comment": "The beginning of this Psalm sets the tone for the whole chapter. The blessing comes from living according to God's law—a theme fulfilled spiritually in Christ who perfectly kept the law and invites believers to follow Him. 'Blameless' here reflects not just outward morality but inner devotion and integrity, as echoed in the call to holiness throughout both Old and New Testaments."
+      "comment": "The beginning of this Psalm sets the tone for the whole chapter. The blessing comes from living according to God's law—a theme fulfilled spiritually in Christ who perfectly kept the law and invites believers to follow Him. 'Blameless' here reflects not just outward morality but inner devotion and integrity, as echoed in the call to holiness throughout both Old and New Testaments.",
+      "sectionHeader": "Blessedness of Those Who Walk in God's Law"
     },
     {
       "pk": 23119002,
@@ -206,7 +207,8 @@
       "verse": 17,
       "text": "Deal bountifully with Your servant, that I may live and keep Your word.",
       "links": "<a href='/AIV/19/13/6'>Psalms 13:6</a>, <a href='/AIV/19/119/65'>Psalms 119:65</a>",
-      "comment": "The psalmist depends on God’s kindness both for life and for the strength to obey. The correlation between spiritual vitality and obedience points to ongoing renewal through divine generosity."
+      "comment": "The psalmist depends on God’s kindness both for life and for the strength to obey. The correlation between spiritual vitality and obedience points to ongoing renewal through divine generosity.",
+      "sectionHeader": "Prayer for Understanding and Deliverance"
     },
     {
       "pk": 23119018,
@@ -590,7 +592,8 @@
       "verse": 49,
       "text": "Remember your word to your servant, in which you have made me hope.",
       "links": "<a href='/AIV/19/119/38'>Psalm 119:38</a>, <a href='/AIV/19/119/76'>Psalm 119:76</a>",
-      "comment": "Biblical remembrance requests God's faithfulness to his promises. This evokes New Testament themes of hope through the word (<a href='/AIV/45/15/4'>Romans 15:4</a>)."
+      "comment": "Biblical remembrance requests God's faithfulness to his promises. This evokes New Testament themes of hope through the word (<a href='/AIV/45/15/4'>Romans 15:4</a>).",
+      "sectionHeader": "Delight in God's Law Amid Affliction"
     },
     {
       "pk": 23119050,
@@ -1070,7 +1073,8 @@
       "verse": 89,
       "text": "Forever, O LORD, Your word stands firm in heaven.",
       "links": "<a href='/AIV/19/89/2'>Psalm 89:2</a>",
-      "comment": "God’s word is eternal and unchanging. This reveals a timeless truth: divine revelation is not subject to human change, a key theme in Christian tradition."
+      "comment": "God’s word is eternal and unchanging. This reveals a timeless truth: divine revelation is not subject to human change, a key theme in Christian tradition.",
+      "sectionHeader": "Confidence in God's Eternal Word"
     },
     {
       "pk": 23119090,
@@ -1838,7 +1842,8 @@
       "verse": 153,
       "text": "Look upon my affliction and deliver me, for I have not forgotten your law.",
       "links": "<a href='/AIV/19/25/18'>Psalm 25:18</a>",
-      "comment": "Deliverance sought through fidelity to God’s law—demonstrates the value of enduring commitment in adversity."
+      "comment": "Deliverance sought through fidelity to God’s law—demonstrates the value of enduring commitment in adversity.",
+      "sectionHeader": "Petitions for Deliverance and Praise"
     },
     {
       "pk": 23119154,
@@ -2117,5 +2122,32 @@
       "comment": "The image of the lost sheep foreshadows Christ’s parable, showing God as the seeker of the lost. The combination of confession and faithfulness echoes the dynamic between repentance and ongoing observance."
     }
   ],
-  "translatedAt": "2025-12-24T17:41:32.656Z"
+  "translatedAt": "2025-12-24T17:41:32.656Z",
+  "sections": [
+    {
+      "title": "Blessedness of Those Who Walk in God's Law",
+      "startVerse": 1,
+      "endVerse": 16
+    },
+    {
+      "title": "Prayer for Understanding and Deliverance",
+      "startVerse": 17,
+      "endVerse": 48
+    },
+    {
+      "title": "Delight in God's Law Amid Affliction",
+      "startVerse": 49,
+      "endVerse": 88
+    },
+    {
+      "title": "Confidence in God's Eternal Word",
+      "startVerse": 89,
+      "endVerse": 152
+    },
+    {
+      "title": "Petitions for Deliverance and Praise",
+      "startVerse": 153,
+      "endVerse": 176
+    }
+  ]
 }

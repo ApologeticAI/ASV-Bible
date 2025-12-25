@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "O LORD, you have searched me and you know me.",
       "links": "<a href='/AIV/18/10/7'>Job 10:7</a>; <a href='/AIV/19/44/21'>Ps. 44:21</a>",
-      "comment": "David begins by acknowledging God's perfect knowledge of each person. This echoes the deep theological truth of God's omniscience, which is also seen in Job. The verb 'searched' illustrates God's active and intimate involvement."
+      "comment": "David begins by acknowledging God's perfect knowledge of each person. This echoes the deep theological truth of God's omniscience, which is also seen in Job. The verb 'searched' illustrates God's active and intimate involvement.",
+      "sectionHeader": "God’s Perfect Knowledge of Man"
     },
     {
       "pk": 23139002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "Where can I go from your Spirit? Or where can I flee from your presence?",
       "links": "<a href='/AIV/19/51/11'>Ps. 51:11</a>; <a href='/AIV/24/23/24'>Jer. 23:24</a>",
-      "comment": "God’s Spirit is omnipresent. This verse affirms the personal presence of the Spirit, a theme deepened in the New Testament where believers are temples of the Spirit."
+      "comment": "God’s Spirit is omnipresent. This verse affirms the personal presence of the Spirit, a theme deepened in the New Testament where believers are temples of the Spirit.",
+      "sectionHeader": "The Inescapable Presence of God"
     },
     {
       "pk": 23139008,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "For you formed my inward parts; you knit me together in my mother’s womb.",
       "links": "<a href='/AIV/24/1/5'>Jer. 1:5</a>; <a href='/AIV/18/10/11-12'>Job 10:11-12</a>",
-      "comment": "The doctrine of creation includes every individual’s formation. This verse affirms the sanctity of human life and the intentionality of God in the process, resonating with Jeremiah and Job."
+      "comment": "The doctrine of creation includes every individual’s formation. This verse affirms the sanctity of human life and the intentionality of God in the process, resonating with Jeremiah and Job.",
+      "sectionHeader": "God’s Wonderful Work in Creation"
     },
     {
       "pk": 23139014,
@@ -230,7 +233,8 @@
       "verse": 19,
       "text": "O that you would slay the wicked, O God! Away from me, you bloodthirsty men!",
       "links": "<a href='/AIV/19/119/115'>Ps. 119:115</a>; <a href='/AIV/19/5/6'>Ps. 5:6</a>",
-      "comment": "David’s prayer for judgment echoes a deep longing for divine justice. The psalmist’s separation from evildoers also reflects the call to holiness and purity in the spiritual life."
+      "comment": "David’s prayer for judgment echoes a deep longing for divine justice. The psalmist’s separation from evildoers also reflects the call to holiness and purity in the spiritual life.",
+      "sectionHeader": "A Prayer for Justice and Guidance"
     },
     {
       "pk": 23139020,
@@ -293,5 +297,27 @@
       "comment": "The psalm closes with a plea for sanctification and guidance toward eternal life. This is fulfilled completely in Christ, who proclaims Himself the Way (John 14:6) and leads believers to everlasting communion."
     }
   ],
-  "translatedAt": "2025-12-24T06:46:52.039Z"
+  "translatedAt": "2025-12-24T06:46:52.039Z",
+  "sections": [
+    {
+      "title": "God’s Perfect Knowledge of Man",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "The Inescapable Presence of God",
+      "startVerse": 7,
+      "endVerse": 12
+    },
+    {
+      "title": "God’s Wonderful Work in Creation",
+      "startVerse": 13,
+      "endVerse": 18
+    },
+    {
+      "title": "A Prayer for Justice and Guidance",
+      "startVerse": 19,
+      "endVerse": 24
+    }
+  ]
 }

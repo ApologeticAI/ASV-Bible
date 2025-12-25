@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Dead flies cause the perfumer’s oil to give off a foul odor; so a little foolishness outweighs wisdom and honor.",
       "links": "<a href='/AIV/19/133/2'>Ps. 133:2</a>; <a href='/AIV/21/7/1'>Eccl. 7:1</a>",
-      "comment": "Just as a few dead flies spoil precious perfume, so even a small amount of foolish behavior can overshadow years of wise living. Sin, even if 'small,' damages a person's reputation and spiritual health. This also hints at the need for holiness and vigilance—ideas strongly emphasized throughout the biblical tradition."
+      "comment": "Just as a few dead flies spoil precious perfume, so even a small amount of foolish behavior can overshadow years of wise living. Sin, even if 'small,' damages a person's reputation and spiritual health. This also hints at the need for holiness and vigilance—ideas strongly emphasized throughout the biblical tradition.",
+      "sectionHeader": "The Folly of Foolishness and the Value of Wisdom"
     },
     {
       "pk": 25010002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "There is an evil I have seen under the sun, like an error made by rulers:",
       "links": "<a href='/AIV/21/6/1'>Eccl. 6:1</a>; <a href='/AIV/20/19/10'>Prov. 19:10</a>",
-      "comment": "Human governance is often corrupted by mistakes and sin. The Preacher prepares to describe injustices that point beyond mere human virtue toward the need for ultimate, unerring justice."
+      "comment": "Human governance is often corrupted by mistakes and sin. The Preacher prepares to describe injustices that point beyond mere human virtue toward the need for ultimate, unerring justice.",
+      "sectionHeader": "The Dangers of Foolish Rulers"
     },
     {
       "pk": 25010006,
@@ -98,7 +100,8 @@
       "verse": 8,
       "text": "Whoever digs a pit may fall into it, and whoever breaks through a wall may be bitten by a snake.",
       "links": "<a href='/AIV/19/7/15'>Ps. 7:15-16</a>; <a href='/AIV/20/26/27'>Prov. 26:27</a>",
-      "comment": "The verse alludes to the dangers of plotting evil: often, harm rebounds on the schemer (cf. Matthew 7:2). Sinful motives are self-destructive, showing both literal and spiritual consequences."
+      "comment": "The verse alludes to the dangers of plotting evil: often, harm rebounds on the schemer (cf. Matthew 7:2). Sinful motives are self-destructive, showing both literal and spiritual consequences.",
+      "sectionHeader": "Wisdom in Work and Words"
     },
     {
       "pk": 25010009,
@@ -194,7 +197,8 @@
       "verse": 16,
       "text": "Woe to you, O land, when your king is a child, and your princes feast in the morning!",
       "links": "<a href='/AIV/23/3/4'>Isa. 3:4</a>; <a href='/AIV/28/7/5'>Hos. 7:5-7</a>",
-      "comment": "Immaturity and self-indulgence in leadership bring woe to a nation. This imagery also reminds believers to pray for righteous, wise authority in the Church and in civil society."
+      "comment": "Immaturity and self-indulgence in leadership bring woe to a nation. This imagery also reminds believers to pray for righteous, wise authority in the Church and in civil society.",
+      "sectionHeader": "Blessings and Woes on Rulers and Laziness"
     },
     {
       "pk": 25010017,
@@ -242,8 +246,36 @@
       "verse": 20,
       "text": "Do not curse the king, even in your thoughts, nor curse the rich in your bedroom; for a bird of the air may carry your voice, and some winged creature may tell the matter.",
       "links": "<a href='/AIV/2/22/28'>Exod. 22:28</a>; <a href='/AIV/20/30/17'>Prov. 30:17</a>",
-      "comment": "Respect for authority—even in private—is wise, as nothing is truly secret (cf. Luke 12:2-3). This mirrors Christ’s command to obedience and right speech, and the importance of interior holiness that aligns with exterior deeds."
+      "comment": "Respect for authority—even in private—is wise, as nothing is truly secret (cf. Luke 12:2-3). This mirrors Christ’s command to obedience and right speech, and the importance of interior holiness that aligns with exterior deeds.",
+      "sectionHeader": "Caution in Speech"
     }
   ],
-  "translatedAt": "2025-12-24T07:11:00.003Z"
+  "translatedAt": "2025-12-24T07:11:00.003Z",
+  "sections": [
+    {
+      "title": "The Folly of Foolishness and the Value of Wisdom",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "The Dangers of Foolish Rulers",
+      "startVerse": 5,
+      "endVerse": 7
+    },
+    {
+      "title": "Wisdom in Work and Words",
+      "startVerse": 8,
+      "endVerse": 15
+    },
+    {
+      "title": "Blessings and Woes on Rulers and Laziness",
+      "startVerse": 16,
+      "endVerse": 19
+    },
+    {
+      "title": "Caution in Speech",
+      "startVerse": 20,
+      "endVerse": 20
+    }
+  ]
 }

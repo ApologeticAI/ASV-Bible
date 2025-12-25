@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then I watched as the Lamb opened one of the seven seals, and I heard one of the four living beings say with a voice like thunder, 'Come!'",
       "links": "<a href='/AIV/26/1/10'>Ezek. 1:10</a>; <a href='/AIV/66/5/5-8'>Rev. 5:5-8</a>",
-      "comment": "The Lamb, identified earlier as Christ, initiates the unveiling of God's divine plan. The four living beings echo the imagery from Ezekiel, showing continuity between the Old and New Covenants. Christ’s authority to open the seals highlights His divine kingship and unique status as the mediator between God and humanity (see Rev. 5:6-9)."
+      "comment": "The Lamb, identified earlier as Christ, initiates the unveiling of God's divine plan. The four living beings echo the imagery from Ezekiel, showing continuity between the Old and New Covenants. Christ’s authority to open the seals highlights His divine kingship and unique status as the mediator between God and humanity (see Rev. 5:6-9).",
+      "sectionHeader": "The Four Horsemen of the Apocalypse"
     },
     {
       "pk": 73006002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "When he opened the fifth seal, I saw beneath the altar the souls of those who had been slain because of the word of God and because of the testimony they had maintained.",
       "links": "<a href='/AIV/19/79/10-11'>Ps. 79:10-11</a>; <a href='/AIV/66/20/4'>Rev. 20:4</a>",
-      "comment": "The vision shifts from earthly judgment to heavenly realities. The martyrs under the altar allude to the Old Testament sacrificial system, where blood was poured out at the altar’s base (cf. Lev. 4:7). Their presence signifies their offering and intercessory role before God, a reminder of the spiritual value of suffering for faith (see Rev. 20:4; Ps. 79:11)."
+      "comment": "The vision shifts from earthly judgment to heavenly realities. The martyrs under the altar allude to the Old Testament sacrificial system, where blood was poured out at the altar’s base (cf. Lev. 4:7). Their presence signifies their offering and intercessory role before God, a reminder of the spiritual value of suffering for faith (see Rev. 20:4; Ps. 79:11).",
+      "sectionHeader": "The Martyrs Under the Altar"
     },
     {
       "pk": 73006010,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "I looked when he opened the sixth seal, and there was a great earthquake. The sun turned black like sackcloth made of hair, and the whole moon became like blood.",
       "links": "<a href='/AIV/23/13/10'>Isa. 13:10</a>; <a href='/AIV/29/2/31'>Joel 2:31</a>; <a href='/AIV/40/24/29'>Matt. 24:29</a>",
-      "comment": "The cosmic signs mirror Old Testament apocalyptic imagery (Isa. 13, Joel 2) and are echoed by Jesus in Matthew 24. Apocalyptic imagery often reflects both literal upheaval and spiritual realities: God intervening in history and unveiling hidden truths."
+      "comment": "The cosmic signs mirror Old Testament apocalyptic imagery (Isa. 13, Joel 2) and are echoed by Jesus in Matthew 24. Apocalyptic imagery often reflects both literal upheaval and spiritual realities: God intervening in history and unveiling hidden truths.",
+      "sectionHeader": "The Sixth Seal: Cosmic Cataclysm and Terror"
     },
     {
       "pk": 73006013,
@@ -209,5 +212,22 @@
       "comment": "The 'great day' points to the Day of the Lord, a phrase linking Scripture from Joel to Revelation. Only those found justified can endure God’s final judgment. This anticipates the sealing of the faithful in the next chapter—God’s Church, as the true and unified body, sheltered by His grace and preserved for glory."
     }
   ],
-  "translatedAt": "2025-12-24T12:35:37.498Z"
+  "translatedAt": "2025-12-24T12:35:37.498Z",
+  "sections": [
+    {
+      "title": "The Four Horsemen of the Apocalypse",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "The Martyrs Under the Altar",
+      "startVerse": 9,
+      "endVerse": 11
+    },
+    {
+      "title": "The Sixth Seal: Cosmic Cataclysm and Terror",
+      "startVerse": 12,
+      "endVerse": 17
+    }
+  ]
 }

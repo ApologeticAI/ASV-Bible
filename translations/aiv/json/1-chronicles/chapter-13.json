@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "David consulted with the commanders of thousands and of hundreds, with every leader.",
       "links": "<a href='/AIV/09/23/9'>1 Sam. 23:9</a>; <a href='/AIV/10/2/1'>2 Sam. 2:1</a>",
-      "comment": "David acts with prudence and counsel, showing respect for the order and structure among the leaders of Israel, prefiguring the importance of unity and proper leadership in the assembly of God's people."
+      "comment": "David acts with prudence and counsel, showing respect for the order and structure among the leaders of Israel, prefiguring the importance of unity and proper leadership in the assembly of God's people.",
+      "sectionHeader": "David Proposes to Bring the Ark to Jerusalem"
     },
     {
       "pk": 13013002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "So David assembled all Israel together, from the Shihor of Egypt even to the entrance of Hamath, to bring the ark of God from Kiriath-jearim.",
       "links": "<a href='/AIV/06/15/9'>Josh. 15:9</a>; <a href='/AIV/09/7/1'>1 Sam. 7:1</a>",
-      "comment": "The vast gathering from the borders of the land emphasizes the universality and inclusiveness of true worship. It also points to the gathering of God's people from all nations."
+      "comment": "The vast gathering from the borders of the land emphasizes the universality and inclusiveness of true worship. It also points to the gathering of God's people from all nations.",
+      "sectionHeader": "The Ark Brought from Kiriath-jearim"
     },
     {
       "pk": 13013006,
@@ -110,7 +112,8 @@
       "verse": 9,
       "text": "But when they came to the threshing floor of Chidon, Uzza reached out his hand to hold the ark, for the oxen stumbled.",
       "links": "<a href='/AIV/10/6/6'>2 Sam. 6:6</a>; <a href='/AIV/04/4/15'>Num. 4:15</a>",
-      "comment": "Uzza's gesture seemed good intentioned but contradicted God's explicit command: only the Levites could touch the Ark. Even zeal for God must be guided by obedience to His commandments."
+      "comment": "Uzza's gesture seemed good intentioned but contradicted God's explicit command: only the Levites could touch the Ark. Even zeal for God must be guided by obedience to His commandments.",
+      "sectionHeader": "Uzza Struck Down by God"
     },
     {
       "pk": 13013010,
@@ -158,7 +161,8 @@
       "verse": 13,
       "text": "So David did not bring the ark home to himself, to the city of David, but carried it aside to the house of Obed-edom the Gittite.",
       "links": "<a href='/AIV/10/6/10'>2 Sam. 6:10</a>; <a href='/AIV/19/132/8'>Ps. 132:8</a>",
-      "comment": "David pauses and entrusts the Ark to Obed-edom, reflecting a waiting upon God and humility before the sacred. Entrusting the Ark foreshadows the role of those chosen for particular stewardship in God's plan."
+      "comment": "David pauses and entrusts the Ark to Obed-edom, reflecting a waiting upon God and humility before the sacred. Entrusting the Ark foreshadows the role of those chosen for particular stewardship in God's plan.",
+      "sectionHeader": "The Ark in the House of Obed-edom"
     },
     {
       "pk": 13013014,
@@ -173,5 +177,27 @@
       "comment": "Because Obed-edom reverently received the Ark, his household is blessed—a sign that God's presence brings blessing to those who honor Him properly. This blessing points ahead to the concept of the indwelling of God among His people, ultimately fulfilled in Christ and the sacraments."
     }
   ],
-  "translatedAt": "2025-12-24T04:12:28.672Z"
+  "translatedAt": "2025-12-24T04:12:28.672Z",
+  "sections": [
+    {
+      "title": "David Proposes to Bring the Ark to Jerusalem",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "The Ark Brought from Kiriath-jearim",
+      "startVerse": 5,
+      "endVerse": 8
+    },
+    {
+      "title": "Uzza Struck Down by God",
+      "startVerse": 9,
+      "endVerse": 12
+    },
+    {
+      "title": "The Ark in the House of Obed-edom",
+      "startVerse": 13,
+      "endVerse": 14
+    }
+  ]
 }

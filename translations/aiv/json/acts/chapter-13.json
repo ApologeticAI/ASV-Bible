@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now in the church at Antioch there were prophets and teachers: Barnabas, Simeon called Niger, Lucius of Cyrene, Manaen who had been brought up with Herod the tetrarch, and Saul.",
       "links": "<a href='/AIV/51/11/27'>Acts 11:27</a>; <a href='/AIV/42/3/1'>Luke 3:1</a>",
-      "comment": "Antioch became an early center of Christian leadership. Note the diversity in the list—suggests the universality of the Church. Saul (later Paul) is introduced among notable teachers and prophets."
+      "comment": "Antioch became an early center of Christian leadership. Note the diversity in the list—suggests the universality of the Church. Saul (later Paul) is introduced among notable teachers and prophets.",
+      "sectionHeader": "Mission of Barnabas and Saul"
     },
     {
       "pk": 51013002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "When they had traveled through the whole island as far as Paphos, they found a certain magician, a false prophet named Bar-Jesus.",
       "links": "<a href='/AIV/51/8/9-11'>Acts 8:9-11</a>",
-      "comment": "Interaction with false prophets highlights early Church’s struggle against spiritual deception."
+      "comment": "Interaction with false prophets highlights early Church’s struggle against spiritual deception.",
+      "sectionHeader": "Paul Confronts Elymas at Paphos"
     },
     {
       "pk": 51013007,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "After the reading from the Law and the Prophets, the leaders of the synagogue sent word to them, saying, 'Brothers, if you have any word of encouragement for the people, speak.'",
       "links": "<a href='/AIV/44/4/16'>Luke 4:16</a>",
-      "comment": "Reading scripture in liturgical assembly is a foundational practice for the Christian faith, pointing to the role of tradition and teaching."
+      "comment": "Reading scripture in liturgical assembly is a foundational practice for the Christian faith, pointing to the role of tradition and teaching.",
+      "sectionHeader": "Paul's Sermon in Antioch of Pisidia"
     },
     {
       "pk": 51013016,
@@ -530,7 +533,8 @@
       "verse": 44,
       "text": "The next Sabbath, almost the whole city gathered to hear the word of the Lord.",
       "links": "<a href='/AIV/51/17/4'>Acts 17:4</a>",
-      "comment": "The dramatic growth shows both the power of the word and the contagious effect of authentic preaching."
+      "comment": "The dramatic growth shows both the power of the word and the contagious effect of authentic preaching.",
+      "sectionHeader": "Rejection by the Jews and Turning to the Gentiles"
     },
     {
       "pk": 51013045,
@@ -629,5 +633,27 @@
       "comment": "Joy and the fullness of the Spirit are marks of those faithfully living out the faith in community. Note the emphasis on community and the Spirit's continual action."
     }
   ],
-  "translatedAt": "2025-12-24T11:25:28.414Z"
+  "translatedAt": "2025-12-24T11:25:28.414Z",
+  "sections": [
+    {
+      "title": "Mission of Barnabas and Saul",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Paul Confronts Elymas at Paphos",
+      "startVerse": 6,
+      "endVerse": 14
+    },
+    {
+      "title": "Paul's Sermon in Antioch of Pisidia",
+      "startVerse": 15,
+      "endVerse": 43
+    },
+    {
+      "title": "Rejection by the Jews and Turning to the Gentiles",
+      "startVerse": 44,
+      "endVerse": 52
+    }
+  ]
 }

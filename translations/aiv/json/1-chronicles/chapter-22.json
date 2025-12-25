@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then David said, 'This is the house of the LORD God, and this is the altar of burnt offering for Israel.'",
       "links": "<a href='/AIV/10/24/25'>2 Sam. 24:25</a>; <a href='/AIV/14/3/1'>2 Chr. 3:1</a>",
-      "comment": "David identifies the exact spot for God's dwelling and altar, setting a foundation for central worship. This establishes continuity from temporary tabernacle to a permanent temple, prefiguring the unity and sacramental worship to come."
+      "comment": "David identifies the exact spot for God's dwelling and altar, setting a foundation for central worship. This establishes continuity from temporary tabernacle to a permanent temple, prefiguring the unity and sacramental worship to come.",
+      "sectionHeader": "Preparations for the Temple"
     },
     {
       "pk": 13022002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "Then he called for Solomon his son and charged him to build a house for the LORD God of Israel.",
       "links": "<a href='/AIV/10/7/13'>2 Sam. 7:13</a>; <a href='/AIV/11/6/2'>1 Kings 6:2</a>",
-      "comment": "The passing of duty from father to son links God’s covenant faithfulness with succession, foreshadowing apostolic succession in spiritual leadership."
+      "comment": "The passing of duty from father to son links God’s covenant faithfulness with succession, foreshadowing apostolic succession in spiritual leadership.",
+      "sectionHeader": "David’s Charge to Solomon"
     },
     {
       "pk": 13022007,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "David also commanded all the leaders of Israel to help Solomon his son,",
       "links": "<a href='/AIV/13/28/1'>1 Chr. 28:1</a>",
-      "comment": "The communal support for Solomon emphasizes unity of leadership in carrying out God’s plan, foreshadowing the necessity of a united spiritual authority."
+      "comment": "The communal support for Solomon emphasizes unity of leadership in carrying out God’s plan, foreshadowing the necessity of a united spiritual authority.",
+      "sectionHeader": "David Commands the Leaders to Assist Solomon"
     },
     {
       "pk": 13022018,
@@ -233,5 +236,22 @@
       "comment": "The exhortation to 'set your heart and soul' recalls the call to wholehearted devotion (<a href='/AIV/5/6/5'>Deut. 6:5</a>). The gathering of the ark and holy vessels in the house for God anticipates fullness of worship, hinting at both symbolic and real presence of God among His people."
     }
   ],
-  "translatedAt": "2025-12-24T04:17:05.371Z"
+  "translatedAt": "2025-12-24T04:17:05.371Z",
+  "sections": [
+    {
+      "title": "Preparations for the Temple",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "David’s Charge to Solomon",
+      "startVerse": 6,
+      "endVerse": 16
+    },
+    {
+      "title": "David Commands the Leaders to Assist Solomon",
+      "startVerse": 17,
+      "endVerse": 19
+    }
+  ]
 }

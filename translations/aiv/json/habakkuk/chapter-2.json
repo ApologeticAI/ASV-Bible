@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "I will stand at my watchpost, and station myself on the rampart; I will watch to see what He will say to me, and what answer I am to give when reproved.",
       "links": "<a href='/AIV/23/21/8'>Isa. 21:8</a>; <a href='/AIV/26/3/17'>Ezek. 3:17</a>",
-      "comment": "Habakkuk positions himself as a prophet waiting for divine instruction, echoing the vigilance of prophets like Ezekiel. The spiritual posture suggests a readiness to receive and respond to God's correction, a practice continued in early Christian tradition with its deep emphasis on obedience and spiritual listening."
+      "comment": "Habakkuk positions himself as a prophet waiting for divine instruction, echoing the vigilance of prophets like Ezekiel. The spiritual posture suggests a readiness to receive and respond to God's correction, a practice continued in early Christian tradition with its deep emphasis on obedience and spiritual listening.",
+      "sectionHeader": "The Prophet Awaits God’s Answer"
     },
     {
       "pk": 42002002,
@@ -26,7 +27,8 @@
       "verse": 2,
       "text": "Then the LORD answered me and said, 'Write the vision; make it plain on tablets, so that a runner may read it.'",
       "links": "<a href='/AIV/02/24/12'>Ex. 24:12</a>; <a href='/AIV/27/12/4'>Dan. 12:4</a>",
-      "comment": "God instructs Habakkuk to preserve the prophetic message for future generations. This prefigures the lasting authority of written Scripture. The image of inscribing tablets also recalls God’s commandments given to Moses, establishing the precedence for the transmission and safeguarding of divine revelation in a visible, enduring way."
+      "comment": "God instructs Habakkuk to preserve the prophetic message for future generations. This prefigures the lasting authority of written Scripture. The image of inscribing tablets also recalls God’s commandments given to Moses, establishing the precedence for the transmission and safeguarding of divine revelation in a visible, enduring way.",
+      "sectionHeader": "The Just Shall Live by Faith"
     },
     {
       "pk": 42002003,
@@ -74,7 +76,8 @@
       "verse": 6,
       "text": "Shall not all these take up a taunt against him, with scorn and riddles, and say, 'Woe to him who piles up what does not belong to him—how long?—and loads himself with pledges!'",
       "links": "<a href='/AIV/19/73/8'>Ps. 73:8</a>; <a href='/AIV/23/14/4'>Isa. 14:4</a>",
-      "comment": "The theme of just judgment resonates throughout Scripture. This woe mirrors prophetic pronouncements elsewhere, reminding readers that injustice and oppression ultimately lead to God's vindication for the innocent."
+      "comment": "The theme of just judgment resonates throughout Scripture. This woe mirrors prophetic pronouncements elsewhere, reminding readers that injustice and oppression ultimately lead to God's vindication for the innocent.",
+      "sectionHeader": "The Five Woes Against the Wicked"
     },
     {
       "pk": 42002007,
@@ -218,7 +221,8 @@
       "verse": 18,
       "text": "What profit is an idol, when its maker has shaped it—a carved image and a teacher of lies? For its maker trusts his own handiwork, when he fashions speechless idols.",
       "links": "<a href='/AIV/23/44/10-20'>Isa. 44:10-20</a>; <a href='/AIV/19/115/4-8'>Ps. 115:4-8</a>",
-      "comment": "The folly of idolatry is sharply criticized, as in Isaiah and Psalms. The spiritual lesson confronts false worship and invites a return to authentic, living worship instituted by God, in contrast to man-made substitutes."
+      "comment": "The folly of idolatry is sharply criticized, as in Isaiah and Psalms. The spiritual lesson confronts false worship and invites a return to authentic, living worship instituted by God, in contrast to man-made substitutes.",
+      "sectionHeader": "Idols Are Powerless Before the Lord"
     },
     {
       "pk": 42002019,
@@ -245,5 +249,27 @@
       "comment": "God’s presence in the temple calls for universal reverence, echoing themes of awe and worship found in both Old and New Testaments. The idea of sacred space permeates the early church’s understanding of liturgy and worship, encouraging reverence and silence before the divine mystery."
     }
   ],
-  "translatedAt": "2025-12-24T09:51:32.692Z"
+  "translatedAt": "2025-12-24T09:51:32.692Z",
+  "sections": [
+    {
+      "title": "The Prophet Awaits God’s Answer",
+      "startVerse": 1,
+      "endVerse": 1
+    },
+    {
+      "title": "The Just Shall Live by Faith",
+      "startVerse": 2,
+      "endVerse": 5
+    },
+    {
+      "title": "The Five Woes Against the Wicked",
+      "startVerse": 6,
+      "endVerse": 17
+    },
+    {
+      "title": "Idols Are Powerless Before the Lord",
+      "startVerse": 18,
+      "endVerse": 20
+    }
+  ]
 }

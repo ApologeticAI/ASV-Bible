@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "My spirit is broken, my days are cut short, the grave awaits me.",
       "links": "<a href='/AIV/18/7/16'>Job 7:16</a>; <a href='/AIV/18/16/22'>Job 16:22</a>",
-      "comment": "Job laments that his life is nearly over. The image of the grave (Heb. 'Sheol') draws from Hebrew beliefs about the afterlife, hinting at a persistent hope for life beyond death (see <a href='/AIV/19/16/10'>Psalm 16:10</a>), foreshadowing later resurrection hope found in the Scriptures."
+      "comment": "Job laments that his life is nearly over. The image of the grave (Heb. 'Sheol') draws from Hebrew beliefs about the afterlife, hinting at a persistent hope for life beyond death (see <a href='/AIV/19/16/10'>Psalm 16:10</a>), foreshadowing later resurrection hope found in the Scriptures.",
+      "sectionHeader": "Job’s Despair and Plea to God"
     },
     {
       "pk": 22017002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "My days have passed, my plans are broken off, the desires of my heart.",
       "links": "<a href='/AIV/18/7/6'>Job 7:6</a>; <a href='/AIV/18/29/2'>Job 29:2</a>",
-      "comment": "Job grieves lost dreams and a future cut short—an experience many have in suffering. His disappointment sets the stage for renewal and ultimate hope in God’s plan, fulfilled most perfectly in Christ’s resurrection."
+      "comment": "Job grieves lost dreams and a future cut short—an experience many have in suffering. His disappointment sets the stage for renewal and ultimate hope in God’s plan, fulfilled most perfectly in Christ’s resurrection.",
+      "sectionHeader": "The Futility of Hope in the Grave"
     },
     {
       "pk": 22017012,
@@ -197,5 +199,17 @@
       "comment": "The rhetorical question ends the chapter in darkness, yet anticipates coming revelations of resurrection and renewal. For believers, Job’s path through suffering into hope mirrors the journey from the Cross to resurrection life (see <a href='/AIV/43/11/25'>John 11:25</a>)."
     }
   ],
-  "translatedAt": "2025-12-24T05:47:09.511Z"
+  "translatedAt": "2025-12-24T05:47:09.511Z",
+  "sections": [
+    {
+      "title": "Job’s Despair and Plea to God",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "The Futility of Hope in the Grave",
+      "startVerse": 11,
+      "endVerse": 16
+    }
+  ]
 }

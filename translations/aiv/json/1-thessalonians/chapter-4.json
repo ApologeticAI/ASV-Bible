@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Finally, brothers and sisters, we ask and urge you in the Lord Jesus: just as you received instructions from us about how you ought to walk and to please God—as you are already doing—so continue to grow even more.",
       "links": "<a href='/AIV/54/6/11'>1Tim. 6:11</a>; <a href='/AIV/57/1/6'>Philem. 1:6</a>",
-      "comment": "Paul opens by encouraging perseverance and growth in living to please God. The phrase 'walk and to please God' reflects ongoing sanctification. The apostolic authority is highlighted: believers are to follow what has been handed down by the apostles, pointing toward a pattern of faithful transmission and spiritual leadership (see also Acts 2:42)."
+      "comment": "Paul opens by encouraging perseverance and growth in living to please God. The phrase 'walk and to please God' reflects ongoing sanctification. The apostolic authority is highlighted: believers are to follow what has been handed down by the apostles, pointing toward a pattern of faithful transmission and spiritual leadership (see also Acts 2:42).",
+      "sectionHeader": "Exhortation to Holiness and Charity"
     },
     {
       "pk": 59004002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "But we do not want you to be uninformed, brothers and sisters, about those who have fallen asleep, so that you will not grieve as do the rest who have no hope.",
       "links": "<a href='/AIV/46/15/18'>1Cor. 15:18</a>; <a href='/AIV/40/9/24'>Matt. 9:24</a>",
-      "comment": "‘Fallen asleep’ is a reference to death, yet Paul speaks with assurance of hope. The hope in question is rooted in Christ’s resurrection, giving the promise of new life. This offers comfort, reflecting the communal practice of praying for the departed."
+      "comment": "‘Fallen asleep’ is a reference to death, yet Paul speaks with assurance of hope. The hope in question is rooted in Christ’s resurrection, giving the promise of new life. This offers comfort, reflecting the communal practice of praying for the departed.",
+      "sectionHeader": "The Hope of the Resurrection"
     },
     {
       "pk": 59004014,
@@ -221,5 +223,17 @@
       "comment": "Mutual encouragement in the hope of resurrection and eternal life is a mark of the true church, a community sharing comfort and faith. The exhortation underlines the significance of communal life, ongoing teaching, and apostolic unity."
     }
   ],
-  "translatedAt": "2025-12-24T12:08:58.603Z"
+  "translatedAt": "2025-12-24T12:08:58.603Z",
+  "sections": [
+    {
+      "title": "Exhortation to Holiness and Charity",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "The Hope of the Resurrection",
+      "startVerse": 13,
+      "endVerse": 18
+    }
+  ]
 }

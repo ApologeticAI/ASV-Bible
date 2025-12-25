@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then Job answered and said:",
       "links": "<a href='/AIV/22/6/1'>Job 6:1</a>",
-      "comment": "This marks the beginning of Job's reply, continuing his honest dialogue with God. The pattern of questioning and lament recalls other moments of faithful searching in scripture."
+      "comment": "This marks the beginning of Job's reply, continuing his honest dialogue with God. The pattern of questioning and lament recalls other moments of faithful searching in scripture.",
+      "sectionHeader": "Job Longs to Present His Case Before God"
     },
     {
       "pk": 22023002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Behold, I go forward, but He is not there; and backward, but I do not perceive Him;",
       "links": "<a href='/AIV/22/9/11'>Job 9:11</a>",
-      "comment": "Job's search for God feels elusive, showing the profound mystery of divine presence. Though unseen, God is never absent."
+      "comment": "Job's search for God feels elusive, showing the profound mystery of divine presence. Though unseen, God is never absent.",
+      "sectionHeader": "The Mystery of God's Ways"
     },
     {
       "pk": 22023009,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "Therefore I am terrified at His presence; when I consider, I am in dread of Him.",
       "links": "<a href='/AIV/19/119/120'>Ps. 119:120</a>",
-      "comment": "Job contrasts awe and fear before God's greatness, a reverential fear that fosters humility and obedience. Healthy fear of the Lord is the beginning of wisdom (<a href='/AIV/20/9/10'>Prov. 9:10</a>)."
+      "comment": "Job contrasts awe and fear before God's greatness, a reverential fear that fosters humility and obedience. Healthy fear of the Lord is the beginning of wisdom (<a href='/AIV/20/9/10'>Prov. 9:10</a>).",
+      "sectionHeader": "Job Fears the Unsearchable God"
     },
     {
       "pk": 22023016,
@@ -209,5 +212,22 @@
       "comment": "Despite suffering and confusion, Job remains faithful to speak. Darkness cannot extinguish trust in God's light, foreshadowing perseverance in faith even in the absence of understanding."
     }
   ],
-  "translatedAt": "2025-12-24T05:49:44.446Z"
+  "translatedAt": "2025-12-24T05:49:44.446Z",
+  "sections": [
+    {
+      "title": "Job Longs to Present His Case Before God",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "The Mystery of God's Ways",
+      "startVerse": 8,
+      "endVerse": 14
+    },
+    {
+      "title": "Job Fears the Unsearchable God",
+      "startVerse": 15,
+      "endVerse": 17
+    }
+  ]
 }

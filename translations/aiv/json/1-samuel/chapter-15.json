@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Samuel said to Saul, 'The LORD sent me to anoint you king over His people Israel; now listen to the words of the LORD.'",
       "links": "<a href='/AIV/9/10/1'>1Sam 10:1</a>; <a href='/AIV/9/12/14'>1Sam 12:14</a>",
-      "comment": "The authority of the king comes through God's prophet, showing the importance of divinely ordained leadership. This sets the stage for later understandings of apostolic succession and spiritual authority."
+      "comment": "The authority of the king comes through God's prophet, showing the importance of divinely ordained leadership. This sets the stage for later understandings of apostolic succession and spiritual authority.",
+      "sectionHeader": "Saul Commanded to Destroy Amalek"
     },
     {
       "pk": 9015002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "Saul attacked the Amalekites from Havilah all the way to Shur, which is east of Egypt.",
       "links": "<a href='/AIV/1/25/18'>Gen 25:18</a>; <a href='/AIV/2/15/22'>Exod 15:22</a>",
-      "comment": "The scope of Saul's campaign fulfills the LORD's command geo-politically, but obedience will soon be found lacking."
+      "comment": "The scope of Saul's campaign fulfills the LORD's command geo-politically, but obedience will soon be found lacking.",
+      "sectionHeader": "Saul Spares Agag and the Best of the Livestock"
     },
     {
       "pk": 9015008,
@@ -122,7 +124,8 @@
       "verse": 10,
       "text": "Then the word of the LORD came to Samuel:",
       "links": "<a href='/AIV/9/13/13'>1Sam 13:13</a>; <a href='/AIV/9/3/11'>1Sam 3:11</a>",
-      "comment": "God’s direct communication with the prophet serves as a model for divine revelation through spiritual leaders."
+      "comment": "God’s direct communication with the prophet serves as a model for divine revelation through spiritual leaders.",
+      "sectionHeader": "Saul’s Disobedience and Rejection as King"
     },
     {
       "pk": 9015011,
@@ -386,7 +389,8 @@
       "verse": 32,
       "text": "Then Samuel said, 'Bring me Agag king of the Amalekites.' Agag came to him cheerfully, thinking, 'Surely the bitterness of death is past.'",
       "links": "<a href='/AIV/9/15/8'>1Sam 15:8</a>",
-      "comment": "Agag presumes mercy, but God's justice is uncompromising. Agag’s fate foreshadows the ultimate triumph of justice over wickedness."
+      "comment": "Agag presumes mercy, but God's justice is uncompromising. Agag’s fate foreshadows the ultimate triumph of justice over wickedness.",
+      "sectionHeader": "Samuel Executes Agag"
     },
     {
       "pk": 9015033,
@@ -425,5 +429,27 @@
       "comment": "Samuel’s grief shows the responsible heart of true spiritual leadership and prayerful sorrow over sin. The sadness anticipates the longing for the coming Anointed King who will rule with perfect obedience and mercy."
     }
   ],
-  "translatedAt": "2025-12-24T02:57:31.437Z"
+  "translatedAt": "2025-12-24T02:57:31.437Z",
+  "sections": [
+    {
+      "title": "Saul Commanded to Destroy Amalek",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Saul Spares Agag and the Best of the Livestock",
+      "startVerse": 7,
+      "endVerse": 9
+    },
+    {
+      "title": "Saul’s Disobedience and Rejection as King",
+      "startVerse": 10,
+      "endVerse": 31
+    },
+    {
+      "title": "Samuel Executes Agag",
+      "startVerse": 32,
+      "endVerse": 35
+    }
+  ]
 }

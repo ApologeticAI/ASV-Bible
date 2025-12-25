@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "O God, why have You rejected us forever? Why does Your anger burn against the sheep of Your pasture?",
       "links": "<a href='/AIV/19/79/5'>Ps. 79:5</a>; <a href='/AIV/19/77/7'>Ps. 77:7</a>",
-      "comment": "The psalmist begins with a lament, asking why God’s apparent rejection is lasting. The phrase 'sheep of Your pasture' recalls Israel as God's chosen people and the theme of God as shepherd. See also John 10:11, where Jesus calls Himself the Good Shepherd."
+      "comment": "The psalmist begins with a lament, asking why God’s apparent rejection is lasting. The phrase 'sheep of Your pasture' recalls Israel as God's chosen people and the theme of God as shepherd. See also John 10:11, where Jesus calls Himself the Good Shepherd.",
+      "sectionHeader": "Lament Over the Destruction of the Sanctuary"
     },
     {
       "pk": 23074002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "Yet God is my King from of old, working salvation in the midst of the earth.",
       "links": "<a href='/AIV/19/24/8'>Ps. 24:8</a>; <a href='/AIV/19/68/20'>Ps. 68:20</a>",
-      "comment": "A profession of faith: despite suffering, God remains King and brings salvation, not just spiritually but in history and sacramentally."
+      "comment": "A profession of faith: despite suffering, God remains King and brings salvation, not just spiritually but in history and sacramentally.",
+      "sectionHeader": "Remembering God's Mighty Works"
     },
     {
       "pk": 23074013,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "Remember this, O LORD: how the enemy scoffed and how a foolish people blasphemed Your Name.",
       "links": "<a href='/AIV/19/89/51'>Ps. 89:51</a>",
-      "comment": "The psalmist appeals to God’s honor. In the New Testament, Christ teaches us to forgive enemies yet to defend the sacred with perseverance."
+      "comment": "The psalmist appeals to God’s honor. In the New Testament, Christ teaches us to forgive enemies yet to defend the sacred with perseverance.",
+      "sectionHeader": "Prayer for Deliverance and Vindication"
     },
     {
       "pk": 23074019,
@@ -281,5 +284,22 @@
       "comment": "The psalm closes with a call to God to remember the persistent opposition of the wicked. The final vindication is fulfilled in Christ’s triumph (Rev. 19:11-16)."
     }
   ],
-  "translatedAt": "2025-12-24T06:24:52.026Z"
+  "translatedAt": "2025-12-24T06:24:52.026Z",
+  "sections": [
+    {
+      "title": "Lament Over the Destruction of the Sanctuary",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "Remembering God's Mighty Works",
+      "startVerse": 12,
+      "endVerse": 17
+    },
+    {
+      "title": "Prayer for Deliverance and Vindication",
+      "startVerse": 18,
+      "endVerse": 23
+    }
+  ]
 }

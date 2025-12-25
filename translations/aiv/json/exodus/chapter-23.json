@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "You shall not spread a false report. Do not join hands with the wicked by being a malicious witness.",
       "links": "<a href='/AIV/2/20/16'>Exod 20:16</a>; <a href='/AIV/19/15/3'>Ps 15:3</a>",
-      "comment": "This command upholds honesty in community life, echoing the broader context of bearing true witness as in the Ten Commandments. Notice how justice and truth are foundational to the faith."
+      "comment": "This command upholds honesty in community life, echoing the broader context of bearing true witness as in the Ten Commandments. Notice how justice and truth are foundational to the faith.",
+      "sectionHeader": "Laws of Justice and Compassion"
     },
     {
       "pk": 2023002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "For six years you shall sow your land and gather its produce.",
       "links": "<a href='/AIV/3/25/1-7'>Lev 25:1-7</a>; <a href='/AIV/1/2/3'>Gen 2:3</a>",
-      "comment": "The rhythm of work and rest is established, reflecting the created order and anticipation of deeper spiritual Sabbaths revealed later."
+      "comment": "The rhythm of work and rest is established, reflecting the created order and anticipation of deeper spiritual Sabbaths revealed later.",
+      "sectionHeader": "Sabbath Laws and Festivals"
     },
     {
       "pk": 2023011,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "Three times each year you shall celebrate a feast to Me.",
       "links": "<a href='/AIV/5/16/16'>Deut 16:16</a>; <a href='/AIV/3/23/4-44'>Lev 23:4-44</a>",
-      "comment": "The rhythm of feasts anchors communal worship. These celebrations prepare the way for later liturgical cycles."
+      "comment": "The rhythm of feasts anchors communal worship. These celebrations prepare the way for later liturgical cycles.",
+      "sectionHeader": "The Three Annual Feasts"
     },
     {
       "pk": 2023015,
@@ -242,7 +245,8 @@
       "verse": 20,
       "text": "See, I am sending an angel before you, to guard you on your way and to bring you to the place I have prepared.",
       "links": "<a href='/AIV/6/5/13-15'>Josh 5:13-15</a>; <a href='/AIV/40/28/20'>Matt 28:20</a>",
-      "comment": "The angel sent by God prefigures Christ, who goes before His people as guide and protector (seen especially in typology in the New Testament)."
+      "comment": "The angel sent by God prefigures Christ, who goes before His people as guide and protector (seen especially in typology in the New Testament).",
+      "sectionHeader": "Promises and Instructions for Conquest"
     },
     {
       "pk": 2023021,
@@ -401,5 +405,27 @@
       "comment": "Living close to idolatry is spiritually dangerous. This serves as a warning to maintain holiness and avoid compromise, echoing the importance of doctrinal purity and communal discipline in faith."
     }
   ],
-  "translatedAt": "2025-12-24T00:59:21.504Z"
+  "translatedAt": "2025-12-24T00:59:21.504Z",
+  "sections": [
+    {
+      "title": "Laws of Justice and Compassion",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "Sabbath Laws and Festivals",
+      "startVerse": 10,
+      "endVerse": 13
+    },
+    {
+      "title": "The Three Annual Feasts",
+      "startVerse": 14,
+      "endVerse": 19
+    },
+    {
+      "title": "Promises and Instructions for Conquest",
+      "startVerse": 20,
+      "endVerse": 33
+    }
+  ]
 }

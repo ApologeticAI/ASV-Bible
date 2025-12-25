@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now Dinah, the daughter Leah had borne to Jacob, went out to see the women of the land.",
       "links": "<a href='/AIV/1/30/21'>Gen. 30:21</a>",
-      "comment": "Dinah was the daughter of Jacob and Leah, indicating her special status in the family. Her initiative to see the women shows social interaction across tribal lines."
+      "comment": "Dinah was the daughter of Jacob and Leah, indicating her special status in the family. Her initiative to see the women shows social interaction across tribal lines.",
+      "sectionHeader": "The Defilement of Dinah"
     },
     {
       "pk": 1034002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "Then Hamor, the father of Shechem, went out to Jacob to speak with him.",
       "links": "<a href='/AIV/1/23/3-6'>Gen. 23:3-6</a>",
-      "comment": "Initiating negotiations for marriage, Hamor seeks reconciliation, a repeated motif in Genesis where fractured relationships are addressed through familial talks."
+      "comment": "Initiating negotiations for marriage, Hamor seeks reconciliation, a repeated motif in Genesis where fractured relationships are addressed through familial talks.",
+      "sectionHeader": "Shechem and Hamor Seek Marriage with Dinah"
     },
     {
       "pk": 1034007,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "The sons of Jacob answered Shechem and his father Hamor deceitfully, because he had defiled their sister Dinah.",
       "links": "<a href='/AIV/1/27/35-36'>Gen. 27:35-36</a>",
-      "comment": "Deception here echoes previous family patterns (see Jacob and Esau), highlighting sins that carry from generation to generation."
+      "comment": "Deception here echoes previous family patterns (see Jacob and Esau), highlighting sins that carry from generation to generation.",
+      "sectionHeader": "The Deceit and Circumcision of the Shechemites"
     },
     {
       "pk": 1034014,
@@ -302,7 +305,8 @@
       "verse": 25,
       "text": "On the third day, when they were sore, two of Jacob’s sons, Simeon and Levi, Dinah’s brothers, took their swords, came upon the city unawares, and killed all the males.",
       "links": "<a href='/AIV/1/49/5-7'>Gen. 49:5-7</a>",
-      "comment": "The violence of Simeon and Levi foreshadows their later reputations. Their actions warn against taking justice entirely into one’s own hands."
+      "comment": "The violence of Simeon and Levi foreshadows their later reputations. Their actions warn against taking justice entirely into one’s own hands.",
+      "sectionHeader": "The Slaughter of Shechem and Plundering of the City"
     },
     {
       "pk": 1034026,
@@ -377,5 +381,27 @@
       "comment": "The closing question highlights the moral dilemma: the longing for justice, unchecked, can lead to further sin. True justice, as later revealed in Christ, brings not vengeance but the restoration of dignity and unity."
     }
   ],
-  "translatedAt": "2025-12-24T00:30:07.243Z"
+  "translatedAt": "2025-12-24T00:30:07.243Z",
+  "sections": [
+    {
+      "title": "The Defilement of Dinah",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Shechem and Hamor Seek Marriage with Dinah",
+      "startVerse": 6,
+      "endVerse": 12
+    },
+    {
+      "title": "The Deceit and Circumcision of the Shechemites",
+      "startVerse": 13,
+      "endVerse": 24
+    },
+    {
+      "title": "The Slaughter of Shechem and Plundering of the City",
+      "startVerse": 25,
+      "endVerse": 31
+    }
+  ]
 }

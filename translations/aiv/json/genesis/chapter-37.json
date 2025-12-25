@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Jacob settled in the land of Canaan, where his father had lived as a foreigner.",
       "links": "<a href='/AIV/1/17/8'>Gen 17:8</a>; <a href='/AIV/1/23/4'>Gen 23:4</a>",
-      "comment": "This verse establishes the continuity between Jacob and the patriarchal heritage. Canaan is the land of promise, symbolizing God’s covenant faithfulness."
+      "comment": "This verse establishes the continuity between Jacob and the patriarchal heritage. Canaan is the land of promise, symbolizing God’s covenant faithfulness.",
+      "sectionHeader": "Joseph Favored by Jacob"
     },
     {
       "pk": 1037002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "Joseph had a dream, and when he told it to his brothers, they hated him even more.",
       "links": "<a href='/AIV/1/40/8'>Gen 40:8</a>; <a href='/AIV/44/2/17'>Acts 2:17</a>",
-      "comment": "Dreams in the Bible often signify divine revelation. Joseph’s dreams foreshadow both his suffering and his eventual exaltation, prefiguring Christ’s own path."
+      "comment": "Dreams in the Bible often signify divine revelation. Joseph’s dreams foreshadow both his suffering and his eventual exaltation, prefiguring Christ’s own path.",
+      "sectionHeader": "Joseph's Dreams"
     },
     {
       "pk": 1037006,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "Now his brothers went to pasture their father’s flock near Shechem.",
       "links": "<a href='/AIV/1/33/18'>Gen 33:18</a>; <a href='/AIV/1/34/2'>Gen 34:2</a>",
-      "comment": "Shechem has been a place of both promise and trouble for Jacob’s family; it symbolizes places of testing and purification."
+      "comment": "Shechem has been a place of both promise and trouble for Jacob’s family; it symbolizes places of testing and purification.",
+      "sectionHeader": "Joseph Sent to His Brothers"
     },
     {
       "pk": 1037013,
@@ -218,7 +221,8 @@
       "verse": 18,
       "text": "They saw him from a distance, and before he came near them, they plotted against him to kill him.",
       "links": "<a href='/AIV/19/37/12'>Ps 37:12</a>; <a href='/AIV/40/21/38-39'>Matt 21:38-39</a>",
-      "comment": "The brothers’ plot anticipates betrayal of the innocent, a recurring motif, climaxing in the betrayal of Christ."
+      "comment": "The brothers’ plot anticipates betrayal of the innocent, a recurring motif, climaxing in the betrayal of Christ.",
+      "sectionHeader": "Joseph Sold by His Brothers"
     },
     {
       "pk": 1037019,
@@ -374,7 +378,8 @@
       "verse": 31,
       "text": "Then they took Joseph’s robe, slaughtered a goat, and dipped the robe in the blood.",
       "links": "<a href='/AIV/1/27/16'>Gen 27:16</a>; <a href='/AIV/3/16/6'>Lev 16:6</a>",
-      "comment": "The substitution of animal blood and the robe’s staining mirrors sacrificial imagery and points to the later use of blood for atonement in worship. Also, the narrative ties to Jacob’s deception with a goat’s skin."
+      "comment": "The substitution of animal blood and the robe’s staining mirrors sacrificial imagery and points to the later use of blood for atonement in worship. Also, the narrative ties to Jacob’s deception with a goat’s skin.",
+      "sectionHeader": "Jacob Mourns for Joseph"
     },
     {
       "pk": 1037032,
@@ -434,8 +439,41 @@
       "verse": 36,
       "text": "Meanwhile, the Midianites sold Joseph in Egypt to Potiphar, an officer of Pharaoh, the captain of the guard.",
       "links": "<a href='/AIV/1/39/1'>Gen 39:1</a>; <a href='/AIV/44/7/10'>Acts 7:10</a>",
-      "comment": "Joseph’s sale into Egypt marks the beginning of his path to exaltation through suffering. Like Christ, he is made a servant through humility before rising to authority for the salvation of many."
+      "comment": "Joseph’s sale into Egypt marks the beginning of his path to exaltation through suffering. Like Christ, he is made a servant through humility before rising to authority for the salvation of many.",
+      "sectionHeader": "Joseph Sold to Potiphar"
     }
   ],
-  "translatedAt": "2025-12-24T00:35:15.357Z"
+  "translatedAt": "2025-12-24T00:35:15.357Z",
+  "sections": [
+    {
+      "title": "Joseph Favored by Jacob",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "Joseph's Dreams",
+      "startVerse": 5,
+      "endVerse": 11
+    },
+    {
+      "title": "Joseph Sent to His Brothers",
+      "startVerse": 12,
+      "endVerse": 17
+    },
+    {
+      "title": "Joseph Sold by His Brothers",
+      "startVerse": 18,
+      "endVerse": 30
+    },
+    {
+      "title": "Jacob Mourns for Joseph",
+      "startVerse": 31,
+      "endVerse": 35
+    },
+    {
+      "title": "Joseph Sold to Potiphar",
+      "startVerse": 36,
+      "endVerse": 36
+    }
+  ]
 }

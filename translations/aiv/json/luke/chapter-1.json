@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Many have undertaken to arrange an account of the things that have been fulfilled among us,",
       "links": "<a href='/AIV/40/28/19'>Matt 28:19</a>; <a href='/AIV/44/1/1'>Acts 1:1</a>",
-      "comment": "Luke begins with the acknowledgment that others have compiled accounts, referring to the widespread knowledge of Jesus' life and works. Shows the early community's interest in preserving the tradition."
+      "comment": "Luke begins with the acknowledgment that others have compiled accounts, referring to the widespread knowledge of Jesus' life and works. Shows the early community's interest in preserving the tradition.",
+      "sectionHeader": "Prologue: Purpose of Luke's Gospel"
     },
     {
       "pk": 49001002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "During the days of Herod, king of Judea, there was a priest named Zechariah, from the division of Abijah, and his wife Elizabeth was from the daughters of Aaron.",
       "links": "<a href='/AIV/13/24/10'>1 Chron 24:10</a>; <a href='/AIV/2/6/23'>Exod 6:23</a>",
-      "comment": "The narrative is anchored in history and lineage, connecting Zechariah and Elizabeth to priestly heritage, showing the fulfillment of God's promises through the temple and priesthood."
+      "comment": "The narrative is anchored in history and lineage, connecting Zechariah and Elizabeth to priestly heritage, showing the fulfillment of God's promises through the temple and priesthood.",
+      "sectionHeader": "The Annunciation and Birth of John the Baptist Foretold"
     },
     {
       "pk": 49001006,
@@ -314,7 +316,8 @@
       "verse": 26,
       "text": "In the sixth month the angel Gabriel was sent from God to a town in Galilee named Nazareth,",
       "links": "<a href='/AIV/23/7/14'>Isa 7:14</a>",
-      "comment": "Luke transitions to a new annunciation, this time to a humble, obscure town, preparing for the coming of the Messiah."
+      "comment": "Luke transitions to a new annunciation, this time to a humble, obscure town, preparing for the coming of the Messiah.",
+      "sectionHeader": "The Annunciation of Jesus to Mary"
     },
     {
       "pk": 49001027,
@@ -470,7 +473,8 @@
       "verse": 39,
       "text": "In those days Mary arose and went with haste into the hill country, to a town of Judah,",
       "links": "<a href='/AIV/7/17/8-9'>Judges 17:8-9</a>",
-      "comment": "Mary’s visit reflects prompt obedience to grace and mission, paralleling movements of prophets and patriarchs."
+      "comment": "Mary’s visit reflects prompt obedience to grace and mission, paralleling movements of prophets and patriarchs.",
+      "sectionHeader": "Mary's Visit to Elizabeth"
     },
     {
       "pk": 49001040,
@@ -686,7 +690,8 @@
       "verse": 57,
       "text": "Now the time came for Elizabeth to give birth, and she bore a son.",
       "links": "<a href='/AIV/1/21/2'>Gen 21:2</a>",
-      "comment": "God’s promise to Elizabeth is fulfilled; parallels to promised births emphasize divine reliability."
+      "comment": "God’s promise to Elizabeth is fulfilled; parallels to promised births emphasize divine reliability.",
+      "sectionHeader": "The Birth of John the Baptist"
     },
     {
       "pk": 49001058,
@@ -806,7 +811,8 @@
       "verse": 67,
       "text": "And his father Zechariah was filled with the Holy Spirit and prophesied, saying:",
       "links": "<a href='/AIV/4/11/25'>Num 11:25</a>",
-      "comment": "Prophecy here signals Spirit-inspired speech, validating Zechariah as an authentic mouthpiece for God."
+      "comment": "Prophecy here signals Spirit-inspired speech, validating Zechariah as an authentic mouthpiece for God.",
+      "sectionHeader": "The Canticle of Zechariah (Benedictus)"
     },
     {
       "pk": 49001068,
@@ -965,5 +971,37 @@
       "comment": "John’s growth in spirit and the wilderness setting align him with prophetic tradition—preparing for his vital role in salvation history."
     }
   ],
-  "translatedAt": "2025-12-24T10:36:08.190Z"
+  "translatedAt": "2025-12-24T10:36:08.190Z",
+  "sections": [
+    {
+      "title": "Prologue: Purpose of Luke's Gospel",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "The Annunciation and Birth of John the Baptist Foretold",
+      "startVerse": 5,
+      "endVerse": 25
+    },
+    {
+      "title": "The Annunciation of Jesus to Mary",
+      "startVerse": 26,
+      "endVerse": 38
+    },
+    {
+      "title": "Mary's Visit to Elizabeth",
+      "startVerse": 39,
+      "endVerse": 56
+    },
+    {
+      "title": "The Birth of John the Baptist",
+      "startVerse": 57,
+      "endVerse": 66
+    },
+    {
+      "title": "The Canticle of Zechariah (Benedictus)",
+      "startVerse": 67,
+      "endVerse": 80
+    }
+  ]
 }

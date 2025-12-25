@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Remember your Creator in the days of your youth, before the evil days come and the years approach when you will say, 'I have no pleasure in them.'",
       "links": "<a href='/AIV/19/71/17'>Ps. 71:17</a>; <a href='/AIV/20/4/6'>Prov. 4:6</a>",
-      "comment": "The call to remember God early in life anticipates approaching old age and its difficulties. This verse encourages devotion from youth, aligning with the tradition of sanctifying one’s entire life to God. The phrase 'Creator' in Hebrew is plural, possibly pointing to the majesty of God and serves as a subtle hint of the unity and mystery within God’s being (cf. Gen. 1:26)."
+      "comment": "The call to remember God early in life anticipates approaching old age and its difficulties. This verse encourages devotion from youth, aligning with the tradition of sanctifying one’s entire life to God. The phrase 'Creator' in Hebrew is plural, possibly pointing to the majesty of God and serves as a subtle hint of the unity and mystery within God’s being (cf. Gen. 1:26).",
+      "sectionHeader": "Remember Your Creator in Youth"
     },
     {
       "pk": 25012002,
@@ -26,7 +27,8 @@
       "verse": 2,
       "text": "Before the sun and the light and the moon and the stars grow dark, and the clouds return after the rain;",
       "links": "<a href='/AIV/18/29/2'>Job 29:2-3</a>; <a href='/AIV/23/60/19-20'>Isa. 60:19-20</a>",
-      "comment": "Imagery of celestial bodies fading describes the coming of old age when the senses and faculties diminish. The recurring clouds suggest ongoing troubles near the end of life. The poetic language foreshadows eschatological themes—anticipating physical mortality and hinting at the soul’s longing for an eternal light."
+      "comment": "Imagery of celestial bodies fading describes the coming of old age when the senses and faculties diminish. The recurring clouds suggest ongoing troubles near the end of life. The poetic language foreshadows eschatological themes—anticipating physical mortality and hinting at the soul’s longing for an eternal light.",
+      "sectionHeader": "The Approach of Old Age and Death"
     },
     {
       "pk": 25012003,
@@ -98,7 +100,8 @@
       "verse": 8,
       "text": "Vanity of vanities, says the Preacher; all is vanity.",
       "links": "<a href='/AIV/25/1/2'>Eccl. 1:2</a>",
-      "comment": "This refrain resumes the theme of the book: apart from God, all human striving is emptiness. The Preacher’s relentless honesty sets the stage for the conclusion calling for reverence and obedience to God. The repetition emphasizes the futility of life without eternal purpose."
+      "comment": "This refrain resumes the theme of the book: apart from God, all human striving is emptiness. The Preacher’s relentless honesty sets the stage for the conclusion calling for reverence and obedience to God. The repetition emphasizes the futility of life without eternal purpose.",
+      "sectionHeader": "All Is Vanity"
     },
     {
       "pk": 25012009,
@@ -110,7 +113,8 @@
       "verse": 9,
       "text": "And moreover, because the Preacher was wise, he still taught the people knowledge; he considered, sought out, and arranged many proverbs with great care.",
       "links": "<a href='/AIV/20/1/1-6'>Prov. 1:1-6</a>",
-      "comment": "The narrator commends the Preacher’s diligent search for wisdom and his careful instruction. The reference to proverbs connects to the wisdom tradition and shows the unity between reflective teaching and practical life guidance for the faithful."
+      "comment": "The narrator commends the Preacher’s diligent search for wisdom and his careful instruction. The reference to proverbs connects to the wisdom tradition and shows the unity between reflective teaching and practical life guidance for the faithful.",
+      "sectionHeader": "The Preacher's Teachings and Epilogue"
     },
     {
       "pk": 25012010,
@@ -158,7 +162,8 @@
       "verse": 13,
       "text": "The end of the matter, all has been heard. Fear God and keep his commandments, for this is the whole duty of man.",
       "links": "<a href='/AIV/05/6/2'>Deut. 6:2</a>; <a href='/AIV/48/5/14'>Gal. 5:14</a>",
-      "comment": "The path to true wisdom and fulfillment is revering God and obeying His commands. This summation can only be lived out fully by grace and in the context of a community ordered toward God. The language of 'duty' points to man's spiritual vocation and responsibility toward God."
+      "comment": "The path to true wisdom and fulfillment is revering God and obeying His commands. This summation can only be lived out fully by grace and in the context of a community ordered toward God. The language of 'duty' points to man's spiritual vocation and responsibility toward God.",
+      "sectionHeader": "The Whole Duty of Man"
     },
     {
       "pk": 25012014,
@@ -173,5 +178,32 @@
       "comment": "Final judgment is universal, comprehensive, and includes even secret actions. This belief in judgment according to works is affirmed throughout Scripture and points forward to the full revelation of God's justice and mercy in Christ. Spiritual preparation, repentance, and reception of grace are essential for a favorable judgment—always through God’s initiative."
     }
   ],
-  "translatedAt": "2025-12-24T07:11:42.344Z"
+  "translatedAt": "2025-12-24T07:11:42.344Z",
+  "sections": [
+    {
+      "title": "Remember Your Creator in Youth",
+      "startVerse": 1,
+      "endVerse": 1
+    },
+    {
+      "title": "The Approach of Old Age and Death",
+      "startVerse": 2,
+      "endVerse": 7
+    },
+    {
+      "title": "All Is Vanity",
+      "startVerse": 8,
+      "endVerse": 8
+    },
+    {
+      "title": "The Preacher's Teachings and Epilogue",
+      "startVerse": 9,
+      "endVerse": 12
+    },
+    {
+      "title": "The Whole Duty of Man",
+      "startVerse": 13,
+      "endVerse": 14
+    }
+  ]
 }

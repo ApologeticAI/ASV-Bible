@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The LORD spoke to Moses and Aaron in the land of Egypt, saying,",
       "links": "<a href='/AIV/3/23/33'>Lev. 23:33</a>; <a href='/AIV/4/9/1'>Num. 9:1-5</a>",
-      "comment": "God initiates a new revelation to Moses and Aaron, setting the stage for the institution of the Passover. This emphasizes divine authority, laying the foundation for liturgical practice."
+      "comment": "God initiates a new revelation to Moses and Aaron, setting the stage for the institution of the Passover. This emphasizes divine authority, laying the foundation for liturgical practice.",
+      "sectionHeader": "The Institution of the Passover"
     },
     {
       "pk": 2012002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "'For seven days you shall eat unleavened bread. On the first day, remove leaven out of your houses. Whoever eats what is leavened from the first day until the seventh day shall be cut off from Israel.'",
       "links": "<a href='/AIV/3/23/6'>Lev. 23:6</a>; <a href='/AIV/46/5/7'>1 Cor. 5:7</a>",
-      "comment": "Unleavened bread symbolizes purity and removal of sin; the command for exclusion of the disobedient foreshadows church discipline concepts."
+      "comment": "Unleavened bread symbolizes purity and removal of sin; the command for exclusion of the disobedient foreshadows church discipline concepts.",
+      "sectionHeader": "The Feast of Unleavened Bread"
     },
     {
       "pk": 2012016,
@@ -254,7 +256,8 @@
       "verse": 21,
       "text": "Then Moses called all the elders of Israel and said to them, 'Go, select lambs according to your families, and kill the Passover lamb.'",
       "links": "<a href='/AIV/40/26/17'>Matt. 26:17</a>; <a href='/AIV/2/12/3'>Exod. 12:3</a>",
-      "comment": "The authority of Moses among elders reflects hierarchical leadership and the preservation of tradition, hinting at a structured community."
+      "comment": "The authority of Moses among elders reflects hierarchical leadership and the preservation of tradition, hinting at a structured community.",
+      "sectionHeader": "Moses Instructs the Elders"
     },
     {
       "pk": 2012022,
@@ -350,7 +353,8 @@
       "verse": 29,
       "text": "At midnight the LORD struck down all the firstborn in the land of Egypt, from the firstborn of Pharaoh who sat on his throne to the firstborn of the captive who was in the dungeon, and all the firstborn of livestock.",
       "links": "<a href='/AIV/19/78/51'>Ps. 78:51</a>; <a href='/AIV/19/135/8'>Ps. 135:8</a>",
-      "comment": "The judgment at midnight marks the climactic act of deliverance and divine justice, underscoring the power and impartiality of God's will."
+      "comment": "The judgment at midnight marks the climactic act of deliverance and divine justice, underscoring the power and impartiality of God's will.",
+      "sectionHeader": "The Tenth Plague and the Exodus"
     },
     {
       "pk": 2012030,
@@ -518,7 +522,8 @@
       "verse": 43,
       "text": "The LORD said to Moses and Aaron, 'This is the ordinance of the Passover: no foreigner shall eat of it.'",
       "links": "<a href='/AIV/3/22/10'>Lev. 22:10</a>",
-      "comment": "There is an exclusivity to sacred rites, emphasizing the necessity of belonging to the covenant community for participation in sacred meals."
+      "comment": "There is an exclusivity to sacred rites, emphasizing the necessity of belonging to the covenant community for participation in sacred meals.",
+      "sectionHeader": "Passover Regulations"
     },
     {
       "pk": 2012044,
@@ -617,5 +622,32 @@
       "comment": "The final act of deliverance affirms God’s faithfulness, resulting in a new, unified nation redeemed through sacrifice—a type and foreshadow of fuller redemption through Christ."
     }
   ],
-  "translatedAt": "2025-12-24T00:52:57.568Z"
+  "translatedAt": "2025-12-24T00:52:57.568Z",
+  "sections": [
+    {
+      "title": "The Institution of the Passover",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "The Feast of Unleavened Bread",
+      "startVerse": 15,
+      "endVerse": 20
+    },
+    {
+      "title": "Moses Instructs the Elders",
+      "startVerse": 21,
+      "endVerse": 28
+    },
+    {
+      "title": "The Tenth Plague and the Exodus",
+      "startVerse": 29,
+      "endVerse": 42
+    },
+    {
+      "title": "Passover Regulations",
+      "startVerse": 43,
+      "endVerse": 51
+    }
+  ]
 }

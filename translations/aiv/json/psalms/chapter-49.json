@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Hear this, all peoples; give ear, all who dwell in the world,",
       "links": "<a href='/AIV/23/1/2'>Isa. 1:2</a>; <a href='/AIV/19/78/1'>Ps. 78:1</a>",
-      "comment": "The psalmist appeals universally to all people, underlining the scope of wisdom given here. This prepares the reader for a message not limited to Israel but relevant to all humanity."
+      "comment": "The psalmist appeals universally to all people, underlining the scope of wisdom given here. This prepares the reader for a message not limited to Israel but relevant to all humanity.",
+      "sectionHeader": "The Vanity of Trusting in Riches"
     },
     {
       "pk": 23049002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "But God will redeem my soul from the power of Sheol, for he will receive me. Selah.",
       "links": "<a href='/AIV/19/16/10'>Ps. 16:10</a>; <a href='/AIV/43/6/39-40'>John 6:39-40</a>",
-      "comment": "Here is a strong Old Testament affirmation of hope in life after death and redemption by God. This finds its full meaning in the promise of Jesus to raise up his followers on the last day (John 6)."
+      "comment": "Here is a strong Old Testament affirmation of hope in life after death and redemption by God. This finds its full meaning in the promise of Jesus to raise up his followers on the last day (John 6).",
+      "sectionHeader": "God Redeems from Death"
     },
     {
       "pk": 23049016,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "Do not be afraid when a man becomes rich, when the glory of his house increases.",
       "links": "<a href='/AIV/19/37/7'>Ps. 37:7</a>; <a href='/AIV/19/73/3'>Ps. 73:3</a>",
-      "comment": "Fear and envy over others' prosperity are misplaced. True security is found in God, not earthly riches, echoing themes of trust and detachment from materialism."
+      "comment": "Fear and envy over others' prosperity are misplaced. True security is found in God, not earthly riches, echoing themes of trust and detachment from materialism.",
+      "sectionHeader": "The Folly of Earthly Wealth"
     },
     {
       "pk": 23049017,
@@ -245,5 +248,22 @@
       "comment": "The psalm concludes by repeating its central warning: human honor without spiritual understanding is worthless. True understanding comes from God’s revelation, and leads ultimately to participation in his divine life, a concept later expanded in the New Testament as sharing in Christ’s resurrection."
     }
   ],
-  "translatedAt": "2025-12-24T06:15:45.292Z"
+  "translatedAt": "2025-12-24T06:15:45.292Z",
+  "sections": [
+    {
+      "title": "The Vanity of Trusting in Riches",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "God Redeems from Death",
+      "startVerse": 15,
+      "endVerse": 15
+    },
+    {
+      "title": "The Folly of Earthly Wealth",
+      "startVerse": 16,
+      "endVerse": 20
+    }
+  ]
 }

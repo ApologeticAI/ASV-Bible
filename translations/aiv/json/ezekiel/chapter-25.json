@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The word of the Lord came to me, saying:",
       "links": "",
-      "comment": "This phrase marks the start of a new prophetic message delivered by Ezekiel. The repetition emphasizes the importance of divine revelation and the authority behind the prophet's words. See also <a href='/AIV/26/24/1'>Ezek. 24:1</a>."
+      "comment": "This phrase marks the start of a new prophetic message delivered by Ezekiel. The repetition emphasizes the importance of divine revelation and the authority behind the prophet's words. See also <a href='/AIV/26/24/1'>Ezek. 24:1</a>.",
+      "sectionHeader": "Prophecy Against Ammon"
     },
     {
       "pk": 33025002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "This is what the Lord God says: Because Moab and Seir said, 'See, the house of Judah is like all the other nations,'",
       "links": "<a href='/AIV/23/15/5-6'>Isa. 15:5-6</a>; <a href='/AIV/24/48/1'>Jer. 48:1</a>",
-      "comment": "Moab and Seir (associated with Edom) deny Judah's special status. Throughout salvation history, God distinguishes His chosen people, pointing ultimately to the gathered Church as the true Israel (<a href='/AIV/45/9/6-8'>Rom. 9:6-8</a>)."
+      "comment": "Moab and Seir (associated with Edom) deny Judah's special status. Throughout salvation history, God distinguishes His chosen people, pointing ultimately to the gathered Church as the true Israel (<a href='/AIV/45/9/6-8'>Rom. 9:6-8</a>).",
+      "sectionHeader": "Prophecy Against Moab and Seir"
     },
     {
       "pk": 33025009,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "This is what the Lord God says: Because Edom acted in vengeance against the house of Judah and has greatly offended by taking vengeance on them,",
       "links": "<a href='/AIV/24/49/7'>Jer. 49:7</a>; <a href='/AIV/31/1/10-14'>Obad. 1:10-14</a>",
-      "comment": "Edom, a brother nation to Israel (descended from Esau), is judged more harshly for betraying kin. This highlights the gravity of apostasy and betrayal from within, hinting at the biblical priority of unity among God’s people."
+      "comment": "Edom, a brother nation to Israel (descended from Esau), is judged more harshly for betraying kin. This highlights the gravity of apostasy and betrayal from within, hinting at the biblical priority of unity among God’s people.",
+      "sectionHeader": "Prophecy Against Edom"
     },
     {
       "pk": 33025013,
@@ -182,7 +185,8 @@
       "verse": 15,
       "text": "This is what the Lord God says: Because the Philistines acted in vengeance and took revenge with malice in their hearts to destroy with ancient hostility,",
       "links": "<a href='/AIV/23/14/29-31'>Isa. 14:29-31</a>; <a href='/AIV/24/47/1'>Jer. 47:1</a>",
-      "comment": "The Philistines’ animosity is described as 'ancient hostility.' Repeated cycles of revenge highlight the dangers of division and ongoing strife among peoples, which the coming Messiah was to break by establishing lasting peace and unity among all who belong to Him."
+      "comment": "The Philistines’ animosity is described as 'ancient hostility.' Repeated cycles of revenge highlight the dangers of division and ongoing strife among peoples, which the coming Messiah was to break by establishing lasting peace and unity among all who belong to Him.",
+      "sectionHeader": "Prophecy Against Philistia"
     },
     {
       "pk": 33025016,
@@ -209,5 +213,27 @@
       "comment": "Ultimate restoration and unity is always God’s aim in judgment; He rebukes to bring about true repentance and recognition of His sovereignty. Christ fulfills this theme by uniting all people through His redemptive work (<a href='/AIV/43/12/32'>John 12:32</a>), inviting all into one fold."
     }
   ],
-  "translatedAt": "2025-12-24T09:12:15.295Z"
+  "translatedAt": "2025-12-24T09:12:15.295Z",
+  "sections": [
+    {
+      "title": "Prophecy Against Ammon",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Prophecy Against Moab and Seir",
+      "startVerse": 8,
+      "endVerse": 11
+    },
+    {
+      "title": "Prophecy Against Edom",
+      "startVerse": 12,
+      "endVerse": 14
+    },
+    {
+      "title": "Prophecy Against Philistia",
+      "startVerse": 15,
+      "endVerse": 17
+    }
+  ]
 }

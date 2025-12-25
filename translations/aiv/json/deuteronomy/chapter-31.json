@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "So Moses went and spoke these words to all Israel.",
       "links": "<a href='/AIV/3/27/1'>Lev. 27:1</a>",
-      "comment": "This begins Moses' final words to Israel as he prepares to hand over leadership. The motif of a departing leader handing authority to a successor echoes throughout both Old and New Testaments."
+      "comment": "This begins Moses' final words to Israel as he prepares to hand over leadership. The motif of a departing leader handing authority to a successor echoes throughout both Old and New Testaments.",
+      "sectionHeader": "Moses' Final Exhortation and Joshua's Appointment"
     },
     {
       "pk": 5031002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "So Moses wrote down this Law and gave it to the priests, the sons of Levi, who carried the ark of the covenant of the Lord, and to all the elders of Israel.",
       "links": "<a href='/AIV/6/8/35'>Josh. 8:35</a>; <a href='/AIV/2/25/16'>Ex. 25:16</a>",
-      "comment": "The preservation and reading of God’s Word through authorized ministers points to the centrality of tradition and authority for transmitting the faith."
+      "comment": "The preservation and reading of God’s Word through authorized ministers points to the centrality of tradition and authority for transmitting the faith.",
+      "sectionHeader": "The Law to Be Read Every Seven Years"
     },
     {
       "pk": 5031010,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "And the Lord said to Moses, 'Behold, the day is coming when you must die. Call Joshua, and present yourselves in the tent of meeting, that I may commission him.' So Moses and Joshua went and presented themselves in the tent of meeting.",
       "links": "<a href='/AIV/4/27/18-23'>Num. 27:18-23</a>",
-      "comment": "Divine commissioning takes place in the presence of God and the congregation, showing sacramental signs that accompany authoritative transitions."
+      "comment": "Divine commissioning takes place in the presence of God and the congregation, showing sacramental signs that accompany authoritative transitions.",
+      "sectionHeader": "The Lord Commissions Joshua and Foretells Israel's Unfaithfulness"
     },
     {
       "pk": 5031015,
@@ -230,7 +233,8 @@
       "verse": 19,
       "text": "Now therefore write this song and teach it to the people of Israel. Put it in their mouths, that this song may be a witness for me against the people of Israel.",
       "links": "<a href='/AIV/5/32/1'>Deut. 32:1</a>",
-      "comment": "The use of song for spiritual teaching underscores the role of liturgical worship and tradition in preserving the faith."
+      "comment": "The use of song for spiritual teaching underscores the role of liturgical worship and tradition in preserving the faith.",
+      "sectionHeader": "The Song to Be a Witness Against Israel"
     },
     {
       "pk": 5031020,
@@ -290,7 +294,8 @@
       "verse": 24,
       "text": "When Moses had finished writing the words of this Law in a book to the very end,",
       "links": "<a href='/AIV/5/17/18'>Deut. 17:18</a>",
-      "comment": "Moses’ completion of the written Law marks a model for authoritative Scripture that will continue."
+      "comment": "Moses’ completion of the written Law marks a model for authoritative Scripture that will continue.",
+      "sectionHeader": "Moses Commands the Preservation of the Law"
     },
     {
       "pk": 5031025,
@@ -365,5 +370,32 @@
       "comment": "Moses’ final song becomes part of the enduring liturgy of Israel. The pattern of Scriptural canticles inspires the continual use of hymns and spiritual songs for the instruction and remembrance of God’s people."
     }
   ],
-  "translatedAt": "2025-12-24T02:14:31.968Z"
+  "translatedAt": "2025-12-24T02:14:31.968Z",
+  "sections": [
+    {
+      "title": "Moses' Final Exhortation and Joshua's Appointment",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "The Law to Be Read Every Seven Years",
+      "startVerse": 9,
+      "endVerse": 13
+    },
+    {
+      "title": "The Lord Commissions Joshua and Foretells Israel's Unfaithfulness",
+      "startVerse": 14,
+      "endVerse": 18
+    },
+    {
+      "title": "The Song to Be a Witness Against Israel",
+      "startVerse": 19,
+      "endVerse": 23
+    },
+    {
+      "title": "Moses Commands the Preservation of the Law",
+      "startVerse": 24,
+      "endVerse": 30
+    }
+  ]
 }

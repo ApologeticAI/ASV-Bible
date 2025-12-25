@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "I will exalt You, my God and King, and I will bless Your name forever and ever.",
       "links": "<a href='/AIV/19/34/1'>Ps. 34:1</a>; <a href='/AIV/40/6/9'>Matt. 6:9</a>",
-      "comment": "This verse opens with personal praise directly to God as King. The perpetual nature of worship ('forever and ever') reflects both spiritual and eschatological realities, anticipating eternal worship in union with God."
+      "comment": "This verse opens with personal praise directly to God as King. The perpetual nature of worship ('forever and ever') reflects both spiritual and eschatological realities, anticipating eternal worship in union with God.",
+      "sectionHeader": "Praise to God the King"
     },
     {
       "pk": 23145002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "The LORD is gracious and merciful, slow to anger and abounding in steadfast love.",
       "links": "<a href='/AIV/02/34/6'>Ex. 34:6</a>; <a href='/AIV/19/103/8'>Ps. 103:8</a>",
-      "comment": "This verse alludes to God's self-revelation to Moses. The traits described here—grace, mercy, patience, and love—form the core attributes that Christ embodies and perfects."
+      "comment": "This verse alludes to God's self-revelation to Moses. The traits described here—grace, mercy, patience, and love—form the core attributes that Christ embodies and perfects.",
+      "sectionHeader": "The Lord’s Mercy and Goodness"
     },
     {
       "pk": 23145009,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "They will speak of the glory of Your kingdom and tell of Your power.",
       "links": "<a href='/AIV/19/22/28'>Ps. 22:28</a>; <a href='/AIV/40/6/33'>Matt. 6:33</a>",
-      "comment": "The theme of God's kingdom points ahead to Christ’s proclamation of the kingdom and its manifestation in the life of the Church."
+      "comment": "The theme of God's kingdom points ahead to Christ’s proclamation of the kingdom and its manifestation in the life of the Church.",
+      "sectionHeader": "The Everlasting Kingdom of God"
     },
     {
       "pk": 23145012,
@@ -170,7 +173,8 @@
       "verse": 14,
       "text": "The LORD upholds all who fall and lifts up all who are bowed down.",
       "links": "<a href='/AIV/19/37/24'>Ps. 37:24</a>; <a href='/AIV/19/146/8'>Ps. 146:8</a>",
-      "comment": "God’s restoration of the fallen echoes His mercy for repentant sinners, later fully revealed in the sacrificial ministry of Christ."
+      "comment": "God’s restoration of the fallen echoes His mercy for repentant sinners, later fully revealed in the sacrificial ministry of Christ.",
+      "sectionHeader": "The Lord’s Faithfulness to All"
     },
     {
       "pk": 23145015,
@@ -257,5 +261,27 @@
       "comment": "The Psalm ends with universal worship—a vision fulfilled in the worship offered by all creation, both now and in eternity. This unending praise is reflected in the perpetual prayers and hymns of the Church."
     }
   ],
-  "translatedAt": "2025-12-24T06:48:38.745Z"
+  "translatedAt": "2025-12-24T06:48:38.745Z",
+  "sections": [
+    {
+      "title": "Praise to God the King",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "The Lord’s Mercy and Goodness",
+      "startVerse": 8,
+      "endVerse": 10
+    },
+    {
+      "title": "The Everlasting Kingdom of God",
+      "startVerse": 11,
+      "endVerse": 13
+    },
+    {
+      "title": "The Lord’s Faithfulness to All",
+      "startVerse": 14,
+      "endVerse": 21
+    }
+  ]
 }

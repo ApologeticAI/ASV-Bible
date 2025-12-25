@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "David spoke the words of this song to the LORD on the day when the LORD delivered him from the hand of all his enemies and from the hand of Saul.",
       "links": "<a href='/AIV/19/18/1'>Ps. 18:1</a>",
-      "comment": "This song is parallel to Psalm 18 and expresses David's gratitude for God's deliverance. It marks a historical turning point in David's life, after enduring many persecutions."
+      "comment": "This song is parallel to Psalm 18 and expresses David's gratitude for God's deliverance. It marks a historical turning point in David's life, after enduring many persecutions.",
+      "sectionHeader": "David’s Song of Deliverance"
     },
     {
       "pk": 10022002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "'Then the earth shook and trembled; the foundations of heaven quaked because he was angry.'",
       "links": "<a href='/AIV/19/18/7'>Ps. 18:7</a>; <a href='/AIV/02/19/18'>Ex. 19:18</a>",
-      "comment": "God’s power over creation is highlighted using earthquake imagery. Similar language is found at Sinai, and later at Jesus’ crucifixion (Matthew 27:51)."
+      "comment": "God’s power over creation is highlighted using earthquake imagery. Similar language is found at Sinai, and later at Jesus’ crucifixion (Matthew 27:51).",
+      "sectionHeader": "The LORD’s Powerful Rescue"
     },
     {
       "pk": 10022009,
@@ -254,7 +256,8 @@
       "verse": 21,
       "text": "'The LORD dealt with me according to my righteousness; according to the cleanness of my hands he rewarded me.'",
       "links": "<a href='/AIV/19/18/20'>Ps. 18:20</a>; <a href='/AIV/19/24/3-4'>Ps. 24:3-4</a>",
-      "comment": "Righteousness and clean hands suggest moral purity before God, a theme that points forward to the new covenant."
+      "comment": "Righteousness and clean hands suggest moral purity before God, a theme that points forward to the new covenant.",
+      "sectionHeader": "Reward According to Righteousness"
     },
     {
       "pk": 10022022,
@@ -458,7 +461,8 @@
       "verse": 38,
       "text": "'I pursued my enemies and destroyed them. I did not turn back until they were consumed.'",
       "links": "<a href='/AIV/19/18/37'>Ps. 18:37</a>",
-      "comment": "Victory here is absolute, underscoring the completeness of deliverance afforded to David, figuratively to all in Christ."
+      "comment": "Victory here is absolute, underscoring the completeness of deliverance afforded to David, figuratively to all in Christ.",
+      "sectionHeader": "Victory over Enemies"
     },
     {
       "pk": 10022039,
@@ -566,7 +570,8 @@
       "verse": 47,
       "text": "'The LORD lives, and blessed be my rock, and exalted be my God, the rock of my salvation,'",
       "links": "<a href='/AIV/19/18/46'>Ps. 18:46</a>; <a href='/AIV/05/32/15'>Deut. 32:15</a>",
-      "comment": "The living God is distinct from lifeless idols. This affirmation, repeated in worship, points to the centrality of faith in the one true foundation."
+      "comment": "The living God is distinct from lifeless idols. This affirmation, repeated in worship, points to the centrality of faith in the one true foundation.",
+      "sectionHeader": "Praise for God’s Faithfulness to His King"
     },
     {
       "pk": 10022048,
@@ -617,5 +622,32 @@
       "comment": "This closing verse speaks directly to God’s covenant faithfulness, prefiguring the eternal dynasty fulfilled in Jesus, David’s son and eternal king. The phrase 'his anointed' (Hebrew 'Messiah') points toward the universal blessing and the enduring promise to David’s line."
     }
   ],
-  "translatedAt": "2025-12-24T03:24:56.132Z"
+  "translatedAt": "2025-12-24T03:24:56.132Z",
+  "sections": [
+    {
+      "title": "David’s Song of Deliverance",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "The LORD’s Powerful Rescue",
+      "startVerse": 8,
+      "endVerse": 20
+    },
+    {
+      "title": "Reward According to Righteousness",
+      "startVerse": 21,
+      "endVerse": 37
+    },
+    {
+      "title": "Victory over Enemies",
+      "startVerse": 38,
+      "endVerse": 46
+    },
+    {
+      "title": "Praise for God’s Faithfulness to His King",
+      "startVerse": 47,
+      "endVerse": 51
+    }
+  ]
 }

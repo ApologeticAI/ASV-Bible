@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The word that came to Jeremiah from the LORD, saying:",
       "links": "<a href='/AIV/24/1/4'>Jer. 1:4</a>; <a href='/AIV/24/7/1'>Jer. 7:1</a>",
-      "comment": "Jeremiah consistently emphasizes that his message is received directly from God, establishing his prophetic authority. For Protestants and other Christians, this is a reminder of God’s continued revelation through chosen messengers."
+      "comment": "Jeremiah consistently emphasizes that his message is received directly from God, establishing his prophetic authority. For Protestants and other Christians, this is a reminder of God’s continued revelation through chosen messengers.",
+      "sectionHeader": "The Broken Covenant and Its Consequences"
     },
     {
       "pk": 30011002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "Therefore this is what the LORD says: 'I am about to bring disaster on them that they cannot escape; though they cry out to Me, I will not listen to them.'",
       "links": "<a href='/AIV/24/14/12'>Jer. 14:12</a>; <a href='/AIV/20/1/28'>Prov. 1:28</a>",
-      "comment": "God’s refusal to hear their cries underlines the seriousness of persistent sin. This serves as a warning and shows the importance of true repentance and intercessory prayer."
+      "comment": "God’s refusal to hear their cries underlines the seriousness of persistent sin. This serves as a warning and shows the importance of true repentance and intercessory prayer.",
+      "sectionHeader": "Idolatry Rebuked and Prayer Forbidden"
     },
     {
       "pk": 30011012,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "The LORD made it known to me, and I knew; then You showed me their deeds.",
       "links": "<a href='/AIV/24/20/12'>Jer. 20:12</a>",
-      "comment": "Jeremiah’s prophetic intimacy with God and revelation shows the close relationship a true servant of God can have. Notice the spiritual discernment given to those who are faithful."
+      "comment": "Jeremiah’s prophetic intimacy with God and revelation shows the close relationship a true servant of God can have. Notice the spiritual discernment given to those who are faithful.",
+      "sectionHeader": "The Plot Against Jeremiah"
     },
     {
       "pk": 30011019,
@@ -254,7 +257,8 @@
       "verse": 21,
       "text": "Therefore this is what the LORD says concerning the men of Anathoth, who seek your life, saying, 'Do not prophesy in the name of the LORD, or you will die by our hand.'",
       "links": "<a href='/AIV/24/1/1'>Jer. 1:1</a>; <a href='/AIV/42/13/34'>Luke 13:34</a>",
-      "comment": "Opposition to true prophecy, even within Jeremiah’s hometown, mirrors later resistance to God’s messengers, including Jesus. Prophetic suffering is a theme which continues to be relevant."
+      "comment": "Opposition to true prophecy, even within Jeremiah’s hometown, mirrors later resistance to God’s messengers, including Jesus. Prophetic suffering is a theme which continues to be relevant.",
+      "sectionHeader": "Judgment Upon the Men of Anathoth"
     },
     {
       "pk": 30011022,
@@ -281,5 +285,27 @@
       "comment": "The lack of remnant for the men of Anathoth stands in contrast with God’s promise elsewhere to preserve a remnant of His faithful. This underscores the seriousness of rejecting God’s prophets and highlights that true restoration comes only through fidelity and perseverance to the end."
     }
   ],
-  "translatedAt": "2025-12-24T08:27:15.960Z"
+  "translatedAt": "2025-12-24T08:27:15.960Z",
+  "sections": [
+    {
+      "title": "The Broken Covenant and Its Consequences",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "Idolatry Rebuked and Prayer Forbidden",
+      "startVerse": 11,
+      "endVerse": 17
+    },
+    {
+      "title": "The Plot Against Jeremiah",
+      "startVerse": 18,
+      "endVerse": 20
+    },
+    {
+      "title": "Judgment Upon the Men of Anathoth",
+      "startVerse": 21,
+      "endVerse": 23
+    }
+  ]
 }

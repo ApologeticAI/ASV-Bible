@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In the fourth year of Jehoiakim son of Josiah, king of Judah, this word came to Jeremiah from the LORD:",
       "links": "<a href='/AIV/24/25/1'>Jer. 25:1</a>",
-      "comment": "Jeremiah continues to receive prophetic messages during the reign of Jehoiakim. Note the precision of dating: God works through specific historical moments."
+      "comment": "Jeremiah continues to receive prophetic messages during the reign of Jehoiakim. Note the precision of dating: God works through specific historical moments.",
+      "sectionHeader": "Jeremiah Commands Baruch to Write the Scroll"
     },
     {
       "pk": 30036002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "In the fifth year of Jehoiakim son of Josiah, king of Judah, in the ninth month, all the people in Jerusalem and out of Judah proclaimed a fast before the LORD.",
       "links": "<a href='/AIV/24/34/8-9'>Jer. 34:8-9</a>",
-      "comment": "Public acts of fasting for mercy are a sign of national repentance. Historically, such times often accompany major religious or political crises."
+      "comment": "Public acts of fasting for mercy are a sign of national repentance. Historically, such times often accompany major religious or political crises.",
+      "sectionHeader": "Baruch Reads the Scroll in the Temple"
     },
     {
       "pk": 30036010,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "When Micaiah son of Gemariah, son of Shaphan, heard all the words of the LORD from the scroll,",
       "links": "<a href='/AIV/24/26/24'>Jer. 26:24</a>",
-      "comment": "Micaiah’s response sets off official action, showing how even one listener may impact many."
+      "comment": "Micaiah’s response sets off official action, showing how even one listener may impact many.",
+      "sectionHeader": "The Scroll Is Read Before the Officials"
     },
     {
       "pk": 30036012,
@@ -254,7 +257,8 @@
       "verse": 21,
       "text": "The king sent Jehudi to get the scroll, and he took it from the chamber of Elishama the scribe. Jehudi read it in the hearing of the king and all the officials who stood beside the king.",
       "links": "",
-      "comment": "The reading before the king represents the accountability of rulers to God’s authority as declared through his inspired texts."
+      "comment": "The reading before the king represents the accountability of rulers to God’s authority as declared through his inspired texts.",
+      "sectionHeader": "King Jehoiakim Burns the Scroll"
     },
     {
       "pk": 30036022,
@@ -326,7 +330,8 @@
       "verse": 27,
       "text": "Then the word of the LORD came to Jeremiah, after the king had burned the scroll with the words Jeremiah dictated to Baruch:",
       "links": "",
-      "comment": "God’s word is living, and endures even if its written form is attacked. God provides new revelation when needed."
+      "comment": "God’s word is living, and endures even if its written form is attacked. God provides new revelation when needed.",
+      "sectionHeader": "The Scroll Is Rewritten and Jehoiakim Judged"
     },
     {
       "pk": 30036028,
@@ -389,5 +394,32 @@
       "comment": "Despite human efforts to destroy or suppress God’s revelation, God preserves and even expands his Word. This points towards the persevering role of the guardians of divine revelation throughout history, a principle foundational to the Church’s trust in the enduring authority of Scripture and tradition."
     }
   ],
-  "translatedAt": "2025-12-24T08:41:59.877Z"
+  "translatedAt": "2025-12-24T08:41:59.877Z",
+  "sections": [
+    {
+      "title": "Jeremiah Commands Baruch to Write the Scroll",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "Baruch Reads the Scroll in the Temple",
+      "startVerse": 9,
+      "endVerse": 10
+    },
+    {
+      "title": "The Scroll Is Read Before the Officials",
+      "startVerse": 11,
+      "endVerse": 20
+    },
+    {
+      "title": "King Jehoiakim Burns the Scroll",
+      "startVerse": 21,
+      "endVerse": 26
+    },
+    {
+      "title": "The Scroll Is Rewritten and Jehoiakim Judged",
+      "startVerse": 27,
+      "endVerse": 32
+    }
+  ]
 }

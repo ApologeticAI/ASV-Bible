@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In the twenty-third year of Joash son of Ahaziah, king of Judah, Jehoahaz son of Jehu became king over Israel in Samaria, and he reigned seventeen years.",
       "links": "<a href='/AIV/11/10/36'>1 Kings 10:36</a>; <a href='/AIV/12/10/32'>2 Kgs. 10:32</a>",
-      "comment": "Chronological note introduces Jehoahaz's reign over the northern kingdom. The dual kingdoms highlight the division within God's people, foreshadowing the need for unity in faith."
+      "comment": "Chronological note introduces Jehoahaz's reign over the northern kingdom. The dual kingdoms highlight the division within God's people, foreshadowing the need for unity in faith.",
+      "sectionHeader": "Reign of Jehoahaz over Israel"
     },
     {
       "pk": 12013002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "In the thirty-seventh year of Joash king of Judah, Jehoash son of Jehoahaz began to reign over Israel in Samaria, and he reigned sixteen years.",
       "links": "<a href='/AIV/12/13/9'>2 Kgs. 13:9</a>; <a href='/AIV/12/14/23'>2 Kgs. 14:23</a>",
-      "comment": "Jehoash rises to lead a diminished Israel, signaling a turning point in the nation's history and God’s ongoing faithfulness despite unworthiness."
+      "comment": "Jehoash rises to lead a diminished Israel, signaling a turning point in the nation's history and God’s ongoing faithfulness despite unworthiness.",
+      "sectionHeader": "Reign of Joash over Israel"
     },
     {
       "pk": 12013011,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "Now Elisha was suffering from the illness from which he would die. King Joash of Israel came down to him, wept over him, and said, \"My father, my father! The chariots of Israel and their horsemen!\"",
       "links": "<a href='/AIV/12/2/12'>2 Kgs. 2:12</a>; <a href='/AIV/43/11/35'>John 11:35</a>",
-      "comment": "Elisha is recognized as a spiritual father and true defender of Israel—more vital than military might—which foreshadows spiritual authority trumping earthly power."
+      "comment": "Elisha is recognized as a spiritual father and true defender of Israel—more vital than military might—which foreshadows spiritual authority trumping earthly power.",
+      "sectionHeader": "Elisha's Final Prophecy and Death"
     },
     {
       "pk": 12013015,
@@ -290,7 +293,8 @@
       "verse": 24,
       "text": "Hazael king of Aram died, and his son Ben-hadad became king in his place.",
       "links": "<a href='/AIV/12/8/15'>2 Kgs. 8:15</a>; <a href='/AIV/12/13/3'>2 Kgs. 13:3</a>",
-      "comment": "Political changes are seen as under God's sovereignty; human history moves forward, but God’s care for His people remains constant."
+      "comment": "Political changes are seen as under God's sovereignty; human history moves forward, but God’s care for His people remains constant.",
+      "sectionHeader": "Jehoash Defeats Ben-hadad"
     },
     {
       "pk": 12013025,
@@ -305,5 +309,27 @@
       "comment": "God's promise through Elisha is fulfilled as Israel's fortunes are restored. This continues the pattern of redemption after discipline, which finds its complete fulfillment in Christ’s restoration of spiritual inheritance."
     }
   ],
-  "translatedAt": "2025-12-24T03:55:21.471Z"
+  "translatedAt": "2025-12-24T03:55:21.471Z",
+  "sections": [
+    {
+      "title": "Reign of Jehoahaz over Israel",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "Reign of Joash over Israel",
+      "startVerse": 10,
+      "endVerse": 13
+    },
+    {
+      "title": "Elisha's Final Prophecy and Death",
+      "startVerse": 14,
+      "endVerse": 23
+    },
+    {
+      "title": "Jehoash Defeats Ben-hadad",
+      "startVerse": 24,
+      "endVerse": 25
+    }
+  ]
 }

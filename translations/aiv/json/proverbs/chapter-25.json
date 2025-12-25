@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "These also are proverbs of Solomon, the men of Hezekiah king of Judah copied them:",
       "links": "<a href='/AIV/11/4/32'>1 Kgs 4:32</a>; <a href='/AIV/14/29/30'>2 Chr 29:30</a>",
-      "comment": "This verse introduces a collected body of Solomon's proverbs preserved under royal authority. The transmission through Hezekiah’s scribes highlights both the importance of tradition and the community’s role in preserving wisdom."
+      "comment": "This verse introduces a collected body of Solomon's proverbs preserved under royal authority. The transmission through Hezekiah’s scribes highlights both the importance of tradition and the community’s role in preserving wisdom.",
+      "sectionHeader": "Hezekiah's Collection of Solomon's Proverbs"
     },
     {
       "pk": 24025002,
@@ -26,7 +27,8 @@
       "verse": 2,
       "text": "It is the glory of God to conceal a matter, but the glory of kings is to search a matter out.",
       "links": "<a href='/AIV/05/29/29'>Deut 29:29</a>; <a href='/AIV/45/11/33'>Rom 11:33</a>",
-      "comment": "This verse shows the mystery and majesty of God’s wisdom, which sometimes remains hidden. Leaders are called to pursue truth diligently. In Christian theology, this seeking finds fulfillment in Christ, who fully reveals the Father (see Jn 1:18)."
+      "comment": "This verse shows the mystery and majesty of God’s wisdom, which sometimes remains hidden. Leaders are called to pursue truth diligently. In Christian theology, this seeking finds fulfillment in Christ, who fully reveals the Father (see Jn 1:18).",
+      "sectionHeader": "Counsel Regarding Kings and Judgment"
     },
     {
       "pk": 24025003,
@@ -74,7 +76,8 @@
       "verse": 6,
       "text": "Do not exalt yourself in the king’s presence, or stand in the place of the great;",
       "links": "<a href='/AIV/42/14/8-11'>Lk 14:8-11</a>; <a href='/AIV/20/27/2'>Prov 27:2</a>",
-      "comment": "This verse anticipates Jesus’ parable about humility at the banquet (Lk 14:8-11). Humble self-placement is honored in God’s kingdom, emphasizing spiritual meekness."
+      "comment": "This verse anticipates Jesus’ parable about humility at the banquet (Lk 14:8-11). Humble self-placement is honored in God’s kingdom, emphasizing spiritual meekness.",
+      "sectionHeader": "Admonitions on Discretion and Humility"
     },
     {
       "pk": 24025007,
@@ -134,7 +137,8 @@
       "verse": 11,
       "text": "A word fitly spoken is like apples of gold in settings of silver.",
       "links": "<a href='/AIV/20/15/23'>Prov 15:23</a>; <a href='/AIV/21/12/11'>Eccl 12:11</a>",
-      "comment": "Beautiful imagery emphasizes the power and value of wise, timely speech. Wisdom is seen as precious and nourishing for the community."
+      "comment": "Beautiful imagery emphasizes the power and value of wise, timely speech. Wisdom is seen as precious and nourishing for the community.",
+      "sectionHeader": "Wisdom in Speech and Behavior"
     },
     {
       "pk": 24025012,
@@ -194,7 +198,8 @@
       "verse": 16,
       "text": "If you find honey, eat only what you need, lest you have too much and vomit it.",
       "links": "<a href='/AIV/20/24/13'>Prov 24:13</a>",
-      "comment": "Even good things can become harmful in excess. Self-control is a timeless biblical value (Gal 5:23)."
+      "comment": "Even good things can become harmful in excess. Self-control is a timeless biblical value (Gal 5:23).",
+      "sectionHeader": "Warnings Concerning Relationships and Conduct"
     },
     {
       "pk": 24025017,
@@ -254,7 +259,8 @@
       "verse": 21,
       "text": "If your enemy is hungry, give him bread to eat, and if he is thirsty, give him water to drink;",
       "links": "<a href='/AIV/45/12/20'>Rom 12:20</a>; <a href='/AIV/02/23/4-5'>Ex 23:4-5</a>",
-      "comment": "This command to love enemies is referenced directly by Paul (Rom 12:20) and embodied perfectly by Christ (Mt 5:44). It anticipates the radical nature of Gospel love."
+      "comment": "This command to love enemies is referenced directly by Paul (Rom 12:20) and embodied perfectly by Christ (Mt 5:44). It anticipates the radical nature of Gospel love.",
+      "sectionHeader": "Virtue and Self-Control"
     },
     {
       "pk": 24025022,
@@ -341,5 +347,37 @@
       "comment": "Self-control is vital protection for both the soul and community. The biblical tradition understands virtue as both gift and human response, cultivated through grace and discipline."
     }
   ],
-  "translatedAt": "2025-12-24T07:03:35.356Z"
+  "translatedAt": "2025-12-24T07:03:35.356Z",
+  "sections": [
+    {
+      "title": "Hezekiah's Collection of Solomon's Proverbs",
+      "startVerse": 1,
+      "endVerse": 1
+    },
+    {
+      "title": "Counsel Regarding Kings and Judgment",
+      "startVerse": 2,
+      "endVerse": 5
+    },
+    {
+      "title": "Admonitions on Discretion and Humility",
+      "startVerse": 6,
+      "endVerse": 10
+    },
+    {
+      "title": "Wisdom in Speech and Behavior",
+      "startVerse": 11,
+      "endVerse": 15
+    },
+    {
+      "title": "Warnings Concerning Relationships and Conduct",
+      "startVerse": 16,
+      "endVerse": 20
+    },
+    {
+      "title": "Virtue and Self-Control",
+      "startVerse": 21,
+      "endVerse": 28
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "After this, Absalom the son of David had a beautiful sister whose name was Tamar, and Amnon the son of David loved her.",
       "links": "<a href='/AIV/10/3/3'>2Sam 3:3</a>",
-      "comment": "David’s complicated family relationships set the scene for this chapter’s tragic events."
+      "comment": "David’s complicated family relationships set the scene for this chapter’s tragic events.",
+      "sectionHeader": "Amnon and Tamar"
     },
     {
       "pk": 10013002,
@@ -278,7 +279,8 @@
       "verse": 23,
       "text": "After two full years, Absalom had sheep shearers at Baal-hazor, which is near Ephraim, and Absalom invited all the king’s sons.",
       "links": "<a href='/AIV/1/38/12'>Gen 38:12</a>",
-      "comment": "Sheep shearing festivals were common times for gatherings and sometimes intrigue (see Gen 38:12)."
+      "comment": "Sheep shearing festivals were common times for gatherings and sometimes intrigue (see Gen 38:12).",
+      "sectionHeader": "Absalom’s Revenge on Amnon"
     },
     {
       "pk": 10013024,
@@ -410,7 +412,8 @@
       "verse": 34,
       "text": "But Absalom fled. And the young man who kept the watch lifted up his eyes and looked, and there were many people coming from the road behind him by the side of the mountain.",
       "links": "",
-      "comment": "Absalom’s flight marks the beginning of further divisions in David’s kingdom."
+      "comment": "Absalom’s flight marks the beginning of further divisions in David’s kingdom.",
+      "sectionHeader": "Absalom Flees to Geshur"
     },
     {
       "pk": 10013035,
@@ -473,5 +476,22 @@
       "comment": "David’s paternal heart yearns for mercy and reconciliation, themes fulfilled when the true Messiah heals even deeper familial wounds (cf. Luke 15:20)."
     }
   ],
-  "translatedAt": "2025-12-24T03:18:05.344Z"
+  "translatedAt": "2025-12-24T03:18:05.344Z",
+  "sections": [
+    {
+      "title": "Amnon and Tamar",
+      "startVerse": 1,
+      "endVerse": 22
+    },
+    {
+      "title": "Absalom’s Revenge on Amnon",
+      "startVerse": 23,
+      "endVerse": 33
+    },
+    {
+      "title": "Absalom Flees to Geshur",
+      "startVerse": 34,
+      "endVerse": 39
+    }
+  ]
 }

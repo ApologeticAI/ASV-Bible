@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then God spoke all these words:",
       "links": "<a href='/AIV/5/5/22'>Deut. 5:22</a>",
-      "comment": "The giving of the Ten Commandments begins with God Himself speaking directly to the people, highlighting the authority and unchanging nature of these words. Compare with Deuteronomy 5:22, where Moses recounts the event."
+      "comment": "The giving of the Ten Commandments begins with God Himself speaking directly to the people, highlighting the authority and unchanging nature of these words. Compare with Deuteronomy 5:22, where Moses recounts the event.",
+      "sectionHeader": "The Ten Commandments"
     },
     {
       "pk": 2020002,
@@ -218,7 +219,8 @@
       "verse": 18,
       "text": "All the people saw the thunder and the flashes of lightning, and the sound of the trumpet and the mountain smoking. When the people saw it, they trembled and stood far off.",
       "links": "<a href='/AIV/5/5/23-27'>Deut. 5:23-27</a>; <a href='/AIV/58/12/18-21'>Heb. 12:18-21</a>",
-      "comment": "The manifestation of God’s presence causes fear and awe, underscoring that divine revelation is a profound and serious encounter. See Heb. 12:18-21 for a spiritual parallel to this theophany."
+      "comment": "The manifestation of God’s presence causes fear and awe, underscoring that divine revelation is a profound and serious encounter. See Heb. 12:18-21 for a spiritual parallel to this theophany.",
+      "sectionHeader": "The Fear of the Lord Among the People"
     },
     {
       "pk": 20200019,
@@ -266,7 +268,8 @@
       "verse": 22,
       "text": "Then the LORD said to Moses, 'Tell the people of Israel: You have seen that I have spoken with you from heaven.'",
       "links": "<a href='/AIV/5/4/36'>Deut. 4:36</a>",
-      "comment": "Divine revelation is not a human invention, but a direct encounter with the living God. This sets the foundation for the authority of the following instructions."
+      "comment": "Divine revelation is not a human invention, but a direct encounter with the living God. This sets the foundation for the authority of the following instructions.",
+      "sectionHeader": "Laws on Worship and Altars"
     },
     {
       "pk": 20200023,
@@ -317,5 +320,22 @@
       "comment": "Modesty and reverence are paramount in worship. The detailed care regarding approach to the altar points forward to the respect due in the liturgical assembly and the sacred mysteries."
     }
   ],
-  "translatedAt": "2025-12-24T00:57:28.915Z"
+  "translatedAt": "2025-12-24T00:57:28.915Z",
+  "sections": [
+    {
+      "title": "The Ten Commandments",
+      "startVerse": 1,
+      "endVerse": 17
+    },
+    {
+      "title": "The Fear of the Lord Among the People",
+      "startVerse": 18,
+      "endVerse": 21
+    },
+    {
+      "title": "Laws on Worship and Altars",
+      "startVerse": 22,
+      "endVerse": 26
+    }
+  ]
 }

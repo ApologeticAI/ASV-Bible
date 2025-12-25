@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The oracle of the word of the LORD against the land of Hadrach, and Damascus its resting place—for the eyes of mankind, and of all the tribes of Israel, are toward the LORD—",
       "links": "<a href='/AIV/23/17/1'>Isa. 17:1</a>; <a href='/AIV/19/33/13-15'>Ps. 33:13-15</a>",
-      "comment": "Hadrach was a region in northern Syria. This verse establishes God's sovereignty not only over Israel, but also over its neighbors. All nations are under God's gaze and judgment, reminding us that God's plan is universal (see also Isa. 49:6)."
+      "comment": "Hadrach was a region in northern Syria. This verse establishes God's sovereignty not only over Israel, but also over its neighbors. All nations are under God's gaze and judgment, reminding us that God's plan is universal (see also Isa. 49:6).",
+      "sectionHeader": "Judgment on Israel's Enemies"
     },
     {
       "pk": 45009002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "Rejoice greatly, daughter of Zion! Shout, daughter of Jerusalem! Behold, your king is coming to you; he is righteous and victorious, humble and riding on a donkey, on a colt, the foal of a donkey.",
       "links": "<a href='/AIV/40/21/5'>Matt. 21:5</a>; <a href='/AIV/41/11/7-10'>Mark 11:7-10</a>; <a href='/AIV/43/12/15'>John 12:15</a>",
-      "comment": "This is a key prophecy fulfilled by Jesus' triumphal entry into Jerusalem (see Matt. 21:5). The king comes humbly, prefiguring Christ, who comes as the true and righteous King, yet with meekness. The donkey imagery points to a peaceful Messiah, distinguishing his kingdom from worldly power."
+      "comment": "This is a key prophecy fulfilled by Jesus' triumphal entry into Jerusalem (see Matt. 21:5). The king comes humbly, prefiguring Christ, who comes as the true and righteous King, yet with meekness. The donkey imagery points to a peaceful Messiah, distinguishing his kingdom from worldly power.",
+      "sectionHeader": "The Coming of Zion's King"
     },
     {
       "pk": 45009010,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "As for you also, because of the blood of your covenant, I will set your prisoners free from the waterless pit.",
       "links": "<a href='/AIV/02/24/8'>Ex. 24:8</a>; <a href='/AIV/58/13/20'>Heb. 13:20</a>; <a href='/AIV/42/22/20'>Luke 22:20</a>",
-      "comment": "\"Blood of your covenant\" connects to sacrificial themes and prefigures the new covenant Christ establishes by his blood (Luke 22:20; Heb. 13:20). Setting prisoners free references spiritual liberation from sin and death."
+      "comment": "\"Blood of your covenant\" connects to sacrificial themes and prefigures the new covenant Christ establishes by his blood (Luke 22:20; Heb. 13:20). Setting prisoners free references spiritual liberation from sin and death.",
+      "sectionHeader": "The Lord's Salvation and Victory"
     },
     {
       "pk": 45009012,
@@ -209,5 +212,22 @@
       "comment": "Zechariah closes with joy over God’s overflowing goodness, using images of abundance and blessing. This blessing is both physical and spiritual, anticipating the ultimate fulfillment in the messianic banquet the Lord will provide (see Matt. 26:29; Rev. 19:9)."
     }
   ],
-  "translatedAt": "2025-12-24T09:57:45.678Z"
+  "translatedAt": "2025-12-24T09:57:45.678Z",
+  "sections": [
+    {
+      "title": "Judgment on Israel's Enemies",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "The Coming of Zion's King",
+      "startVerse": 9,
+      "endVerse": 10
+    },
+    {
+      "title": "The Lord's Salvation and Victory",
+      "startVerse": 11,
+      "endVerse": 17
+    }
+  ]
 }

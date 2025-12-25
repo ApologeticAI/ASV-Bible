@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon and have touched with our hands, concerning the Word of life—",
       "links": "<a href='/AIV/01/01/1'>Genesis 1:1</a>; <a href='/AIV/43/01/1-14'>John 1:1-14</a>; <a href='/AIV/66/19/13'>Revelation 19:13</a>",
-      "comment": "John opens with a reference to the eternal nature of Christ ('the beginning'), echoing Genesis 1:1 and John 1:1. The tangible witness ('heard...seen...touched') supports the true humanity of Christ, countering early heresies denying this. The 'Word of life' shows both Christ's divinity and role as source of life. Note the continuity with the ancient faith, physically handed on by the apostles."
+      "comment": "John opens with a reference to the eternal nature of Christ ('the beginning'), echoing Genesis 1:1 and John 1:1. The tangible witness ('heard...seen...touched') supports the true humanity of Christ, countering early heresies denying this. The 'Word of life' shows both Christ's divinity and role as source of life. Note the continuity with the ancient faith, physically handed on by the apostles.",
+      "sectionHeader": "The Word of Life Manifested"
     },
     {
       "pk": 69001002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "This is the message we have heard from him and declare to you: God is light, and in him there is no darkness at all.",
       "links": "<a href='/AIV/43/08/12'>John 8:12</a>; <a href='/AIV/19/27/1'>Psalm 27:1</a>; <a href='/AIV/59/01/17'>James 1:17</a>",
-      "comment": "'God is light' is a profound statement of God's absolute purity and holiness. No darkness means no sin or error is found in God. This echoes John 8:12, where Jesus claims to be the 'Light of the World,' subtly reinforcing His divine identity."
+      "comment": "'God is light' is a profound statement of God's absolute purity and holiness. No darkness means no sin or error is found in God. This echoes John 8:12, where Jesus claims to be the 'Light of the World,' subtly reinforcing His divine identity.",
+      "sectionHeader": "Walking in the Light"
     },
     {
       "pk": 69001006,
@@ -125,5 +127,17 @@
       "comment": "To deny our need for forgiveness is to reject God's truth. True faith is always humble before God's word, readily admitting fault. The ongoing need for confession, humility, and participation in the forgiving life of the Church is a constant foundation for Christian living."
     }
   ],
-  "translatedAt": "2025-12-24T12:29:59.175Z"
+  "translatedAt": "2025-12-24T12:29:59.175Z",
+  "sections": [
+    {
+      "title": "The Word of Life Manifested",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "Walking in the Light",
+      "startVerse": 5,
+      "endVerse": 10
+    }
+  ]
 }

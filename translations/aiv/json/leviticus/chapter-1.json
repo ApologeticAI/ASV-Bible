@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The LORD called to Moses and spoke to him from the Tent of Meeting, saying,",
       "links": "<a href='/AIV/2/25/22'>Ex. 25:22</a>",
-      "comment": "God speaks from within the Tent of Meeting, showing His intention to draw near to His people through established means. This sets the tone for the sacrificial system as a divinely appointed channel for worship and reconciliation."
+      "comment": "God speaks from within the Tent of Meeting, showing His intention to draw near to His people through established means. This sets the tone for the sacrificial system as a divinely appointed channel for worship and reconciliation.",
+      "sectionHeader": "Laws Regarding Burnt Offerings"
     },
     {
       "pk": 3001002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "If his offering is from the flock, from the sheep or from the goats, as a burnt offering, he shall offer a male without defect.",
       "links": "<a href='/AIV/3/22/19'>Lev. 22:19</a>",
-      "comment": "Options for offerings accommodate different economic means but always require a spotless male, foreshadowing Christ as the perfect sacrificial Lamb."
+      "comment": "Options for offerings accommodate different economic means but always require a spotless male, foreshadowing Christ as the perfect sacrificial Lamb.",
+      "sectionHeader": "Burnt Offering of Sheep or Goats"
     },
     {
       "pk": 3001011,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "If his offering to the LORD is a burnt offering of birds, then he shall bring his offering of turtledoves or young pigeons.",
       "links": "<a href='/AIV/3/5/7'>Lev. 5:7</a>; <a href='/AIV/42/2/24'>Luke 2:24</a>",
-      "comment": "Provision for the poor to offer birds shows God’s accessibility and mercy. Mary and Joseph offered such birds for Jesus, tying these rituals to Christ’s life (Luke 2:24)."
+      "comment": "Provision for the poor to offer birds shows God’s accessibility and mercy. Mary and Joseph offered such birds for Jesus, tying these rituals to Christ’s life (Luke 2:24).",
+      "sectionHeader": "Burnt Offering of Birds"
     },
     {
       "pk": 3001015,
@@ -209,5 +212,22 @@
       "comment": "Even the small details are divinely ordained for worship. The aroma pleasing to the LORD foreshadows Christian teaching that sacrificial love, above all, is pleasing to God. The unity and order in sacrifice anticipate the order of later Christian liturgy."
     }
   ],
-  "translatedAt": "2025-12-24T01:10:09.082Z"
+  "translatedAt": "2025-12-24T01:10:09.082Z",
+  "sections": [
+    {
+      "title": "Laws Regarding Burnt Offerings",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "Burnt Offering of Sheep or Goats",
+      "startVerse": 10,
+      "endVerse": 13
+    },
+    {
+      "title": "Burnt Offering of Birds",
+      "startVerse": 14,
+      "endVerse": 17
+    }
+  ]
 }

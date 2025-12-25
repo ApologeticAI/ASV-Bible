@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In the third year of the reign of Jehoiakim king of Judah, Nebuchadnezzar king of Babylon came to Jerusalem and besieged it.",
       "links": "<a href='/AIV/12/24/1'>2 Kings 24:1</a>; <a href='/AIV/24/25/1'>Jer. 25:1</a>",
-      "comment": "This verse sets the historical context for Daniel's story by dating Nebuchadnezzar's siege of Jerusalem. Compare with 2 Kings 24:1 and Jeremiah 25:1. The accuracy and fulfillment of prophecy here demonstrates God’s sovereignty over history (Is. 46:10)."
+      "comment": "This verse sets the historical context for Daniel's story by dating Nebuchadnezzar's siege of Jerusalem. Compare with 2 Kings 24:1 and Jeremiah 25:1. The accuracy and fulfillment of prophecy here demonstrates God’s sovereignty over history (Is. 46:10).",
+      "sectionHeader": "Daniel and His Friends Taken to Babylon"
     },
     {
       "pk": 34001002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "But Daniel resolved in his heart not to defile himself with the king’s food or wine. He asked the chief official for permission not to defile himself.",
       "links": "<a href='/AIV/03/11/45'>Lev. 11:45</a>; <a href='/AIV/19/119/11'>Ps. 119:11</a>",
-      "comment": "Daniel’s determination to maintain ritual purity is exemplary. This foreshadows a call for unwavering fidelity to the divine law even when pressured by secular authorities (Acts 5:29)."
+      "comment": "Daniel’s determination to maintain ritual purity is exemplary. This foreshadows a call for unwavering fidelity to the divine law even when pressured by secular authorities (Acts 5:29).",
+      "sectionHeader": "Faithfulness in the King’s Court"
     },
     {
       "pk": 34001009,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "To these four youths, God gave learning and skill in every kind of literature and wisdom; and Daniel had understanding in all visions and dreams.",
       "links": "<a href='/AIV/01/41/15-16'>Gen. 41:15-16</a>; <a href='/AIV/27/2/19'>Dan. 2:19</a>",
-      "comment": "The source of wisdom is God himself (Jam. 1:5). Daniel’s prophetic gifts foreshadow the later role of discerning spirits and interpreting God’s will for his people (cf. Acts 2:17)."
+      "comment": "The source of wisdom is God himself (Jam. 1:5). Daniel’s prophetic gifts foreshadow the later role of discerning spirits and interpreting God’s will for his people (cf. Acts 2:17).",
+      "sectionHeader": "God Grants Knowledge and Wisdom"
     },
     {
       "pk": 34001018,
@@ -257,5 +260,22 @@
       "comment": "Daniel’s endurance through successive regimes witnesses to God’s faithfulness across generations. His presence until Cyrus points to the restoration of God’s people (see Ezra 1:1) and a continuity of sacred tradition against all odds."
     }
   ],
-  "translatedAt": "2025-12-24T09:27:21.259Z"
+  "translatedAt": "2025-12-24T09:27:21.259Z",
+  "sections": [
+    {
+      "title": "Daniel and His Friends Taken to Babylon",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Faithfulness in the King’s Court",
+      "startVerse": 8,
+      "endVerse": 16
+    },
+    {
+      "title": "God Grants Knowledge and Wisdom",
+      "startVerse": 17,
+      "endVerse": 21
+    }
+  ]
 }

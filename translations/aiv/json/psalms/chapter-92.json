@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "It is good to give thanks to the Lord, to sing praises to your name, Most High,",
       "links": "<a href='/AIV/19/147/1'>Ps. 147:1</a>; <a href='/AIV/19/71/22'>Ps. 71:22</a>",
-      "comment": "This opening expresses the goodness of worship and thanksgiving. Praise and gratitude are foundational acts of faith, both ordered and spontaneous, showing the proper relationship between creature and Creator."
+      "comment": "This opening expresses the goodness of worship and thanksgiving. Praise and gratitude are foundational acts of faith, both ordered and spontaneous, showing the proper relationship between creature and Creator.",
+      "sectionHeader": "Thanksgiving for God's Faithfulness"
     },
     {
       "pk": 23092002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "The senseless person does not know, and fools do not understand this:",
       "links": "<a href='/AIV/19/14/1'>Ps. 14:1</a>; <a href='/AIV/20/1/7'>Prov. 1:7</a>",
-      "comment": "Here, spiritual blindness is contrasted with understanding granted by faith. True wisdom comes not from intellect alone, but from humble reception of God's revelation through worship and tradition."
+      "comment": "Here, spiritual blindness is contrasted with understanding granted by faith. True wisdom comes not from intellect alone, but from humble reception of God's revelation through worship and tradition.",
+      "sectionHeader": "The Destiny of the Wicked and the Righteous"
     },
     {
       "pk": 23092007,
@@ -185,5 +187,17 @@
       "comment": "God’s holiness and reliability are the ultimate foundation for faith. ‘Rock’ evokes both stability and sanctity—often applied to Christ in the New Testament (<a href='/AIV/46/10/4'>1 Cor. 10:4</a>). No unrighteousness in God assures us of the perfect justice and mercy we receive through grace."
     }
   ],
-  "translatedAt": "2025-12-24T06:32:02.917Z"
+  "translatedAt": "2025-12-24T06:32:02.917Z",
+  "sections": [
+    {
+      "title": "Thanksgiving for God's Faithfulness",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "The Destiny of the Wicked and the Righteous",
+      "startVerse": 6,
+      "endVerse": 15
+    }
+  ]
 }

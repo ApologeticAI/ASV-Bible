@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "On the third day, there was a wedding in Cana of Galilee, and the mother of Jesus was there.",
       "links": "<a href='/AIV/43/19/25'>John 19:25</a>; <a href='/AIV/40/12/46'>Matt. 12:46</a>",
-      "comment": "The setting is a real, historical event. The presence of Jesus's mother is specifically noted, showing her unique role in His life and ministry (see also John 19:25)."
+      "comment": "The setting is a real, historical event. The presence of Jesus's mother is specifically noted, showing her unique role in His life and ministry (see also John 19:25).",
+      "sectionHeader": "The Wedding at Cana"
     },
     {
       "pk": 50002002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "The Passover of the Jews was at hand, and Jesus went up to Jerusalem.",
       "links": "<a href='/AIV/02/12/1-14'>Exod. 12:1-14</a>; <a href='/AIV/43/6/4'>John 6:4</a>",
-      "comment": "Passover recalls God’s deliverance. Jesus' presence in Jerusalem at Passover points to His fulfillment of Old Testament festivals and His identity as the true Lamb (cf. Exod. 12:1-14; John 1:29)."
+      "comment": "Passover recalls God’s deliverance. Jesus' presence in Jerusalem at Passover points to His fulfillment of Old Testament festivals and His identity as the true Lamb (cf. Exod. 12:1-14; John 1:29).",
+      "sectionHeader": "Jesus Cleanses the Temple"
     },
     {
       "pk": 50002014,
@@ -305,5 +307,17 @@
       "comment": "Jesus has divine insight into human nature (Ps. 139:1-4). His knowledge is all-encompassing, affirming His divinity. This anticipates the spiritual discernment required of His followers."
     }
   ],
-  "translatedAt": "2025-12-24T11:01:53.394Z"
+  "translatedAt": "2025-12-24T11:01:53.394Z",
+  "sections": [
+    {
+      "title": "The Wedding at Cana",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "Jesus Cleanses the Temple",
+      "startVerse": 13,
+      "endVerse": 25
+    }
+  ]
 }

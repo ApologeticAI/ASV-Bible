@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Do not rebuke an older man harshly, but appeal to him as to a father. Treat younger men as brothers,",
       "links": "<a href='/AIV/3/19/32'>Lev. 19:32</a>; <a href='/AIV/49/6/1-4'>Eph. 6:1-4</a>",
-      "comment": "Paul instructs Timothy to show proper respect to men of different ages, preserving the biblical importance of honoring elders and family relationships (Lev. 19:32). This also reflects the need for order and respect among leaders within the Church."
+      "comment": "Paul instructs Timothy to show proper respect to men of different ages, preserving the biblical importance of honoring elders and family relationships (Lev. 19:32). This also reflects the need for order and respect among leaders within the Church.",
+      "sectionHeader": "Duties Toward the Community"
     },
     {
       "pk": 61005002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "Honor widows who are truly widows.",
       "links": "<a href='/AIV/59/1/27'>Jas. 1:27</a>; <a href='/AIV/44/6/1'>Acts 6:1</a>",
-      "comment": "Paul sets apart 'true' widows for special treatment, showing that the church is to have structured care for the needy. Caring for widows links directly with living pure and undefiled religion (<a href='/AIV/59/1/27'>Jas. 1:27</a>)."
+      "comment": "Paul sets apart 'true' widows for special treatment, showing that the church is to have structured care for the needy. Caring for widows links directly with living pure and undefiled religion (<a href='/AIV/59/1/27'>Jas. 1:27</a>).",
+      "sectionHeader": "Widows in the Church"
     },
     {
       "pk": 61005004,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "Let the elders who rule well be considered worthy of double honor, especially those who labor in preaching and teaching.",
       "links": "<a href='/AIV/60/5/1-2'>1 Pet. 5:1-2</a>; <a href='/AIV/44/20/28'>Acts 20:28</a>",
-      "comment": "Here is a clear distinction between elders, with some devoted especially to teaching. The language of 'double honor' prefigures care and reverence for ordained ministry and points toward the importance of church leadership."
+      "comment": "Here is a clear distinction between elders, with some devoted especially to teaching. The language of 'double honor' prefigures care and reverence for ordained ministry and points toward the importance of church leadership.",
+      "sectionHeader": "Rules Concerning Elders"
     },
     {
       "pk": 61005018,
@@ -266,7 +269,8 @@
       "verse": 22,
       "text": "Do not lay hands on anyone hastily, and do not share in the sins of others. Keep yourself pure.",
       "links": "<a href='/AIV/44/6/6'>Acts 6:6</a>; <a href='/AIV/54/4/14'>1 Tim. 4:14</a>",
-      "comment": "Imposing hands is associated with ordination. Timothy is cautioned to discern candidates carefully, reinforcing a sacred, hierarchical succession of church leaders that preserves purity and order."
+      "comment": "Imposing hands is associated with ordination. Timothy is cautioned to discern candidates carefully, reinforcing a sacred, hierarchical succession of church leaders that preserves purity and order.",
+      "sectionHeader": "Personal Instructions to Timothy"
     },
     {
       "pk": 61005023,
@@ -305,5 +309,27 @@
       "comment": "Just as sin is eventually revealed, so are good works. The value of visible acts of mercy and devotion will not be lost but will be revealed and rewarded by God (Matt. 5:16)."
     }
   ],
-  "translatedAt": "2025-12-24T12:12:36.944Z"
+  "translatedAt": "2025-12-24T12:12:36.944Z",
+  "sections": [
+    {
+      "title": "Duties Toward the Community",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "Widows in the Church",
+      "startVerse": 3,
+      "endVerse": 16
+    },
+    {
+      "title": "Rules Concerning Elders",
+      "startVerse": 17,
+      "endVerse": 21
+    },
+    {
+      "title": "Personal Instructions to Timothy",
+      "startVerse": 22,
+      "endVerse": 25
+    }
+  ]
 }

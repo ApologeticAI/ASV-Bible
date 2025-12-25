@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When they entered Ecbatana, Tobias said, 'Brother Azariah, lead me straight to the house of Raguel.' So he brought him to Raguel's house, and they found him sitting at the door of the courtyard. They greeted him first, and he replied, 'Greetings to you, brothers. Welcome!' He invited them into his house.",
       "links": "<a href='/AIV/01/18/1'>Gen. 18:1</a>; <a href='/AIV/58/13/2'>Heb. 13:2</a>",
-      "comment": "The emphasis on hospitality here echoes Abraham’s encounter in Genesis 18, and later Christian teaching on welcoming strangers. Raguel’s opening of his home recalls the call to charity and openness to God's messengers."
+      "comment": "The emphasis on hospitality here echoes Abraham’s encounter in Genesis 18, and later Christian teaching on welcoming strangers. Raguel’s opening of his home recalls the call to charity and openness to God's messengers.",
+      "sectionHeader": "Arrival at Raguel’s House"
     },
     {
       "pk": 17007002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Then they slaughtered a ram from the flock and set the table for them. Tobias said to Raphael, 'Brother Azariah, speak about what you told me on the journey regarding the matter.'",
       "links": "<a href='/AIV/17/6/12'>Tob. 6:12</a>; <a href='/AIV/01/18/7'>Gen. 18:7</a>",
-      "comment": "Sharing a meal after a sacrificial offering reflects the Old Testament model of covenant fellowship (see Exodus 24:11). Food and sacrifice prefigure the deeper sacramental meals that mark faith communities."
+      "comment": "Sharing a meal after a sacrificial offering reflects the Old Testament model of covenant fellowship (see Exodus 24:11). Food and sacrifice prefigure the deeper sacramental meals that mark faith communities.",
+      "sectionHeader": "Tobias Seeks Sarah’s Hand in Marriage"
     },
     {
       "pk": 17007009,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "He called his daughter Sarah over to him. She came to him, and he took her hand and gave her to Tobias. He said, 'Take her according to the law and judgment written in the Book of Moses, and take her with you to your father’s house.' Then he blessed them.",
       "links": "<a href='/AIV/01/24/67'>Gen. 24:67</a>; <a href='/AIV/01/2/24'>Gen. 2:24</a>",
-      "comment": "Marriage is enacted with a blessing and the public holding of hands, signifying solemn covenant. The law and blessing structure points to the ceremonial aspects found later in Christian matrimonial practice."
+      "comment": "Marriage is enacted with a blessing and the public holding of hands, signifying solemn covenant. The law and blessing structure points to the ceremonial aspects found later in Christian matrimonial practice.",
+      "sectionHeader": "The Marriage of Tobias and Sarah"
     },
     {
       "pk": 17007014,
@@ -194,7 +197,8 @@
       "verse": 16,
       "text": "Raguel called his wife Edna and said, 'Sister, prepare the other room and take her there.'",
       "links": "<a href='/AIV/17/8/1'>Tob. 8:1</a>",
-      "comment": "The preparation for the couple’s first night together is described with both tenderness and piety, reflecting the seriousness and sacramental significance of marriage."
+      "comment": "The preparation for the couple’s first night together is described with both tenderness and piety, reflecting the seriousness and sacramental significance of marriage.",
+      "sectionHeader": "Sarah Prepared for Her Wedding Night"
     },
     {
       "pk": 17007017,
@@ -209,5 +213,27 @@
       "comment": "Edna’s motherly comfort points to themes of hope and restoration emphasized throughout the Bible, culminating in the promise that God turns mourning into joy (see Isaiah 61:3, John 16:20)."
     }
   ],
-  "translatedAt": "2025-12-24T04:57:06.586Z"
+  "translatedAt": "2025-12-24T04:57:06.586Z",
+  "sections": [
+    {
+      "title": "Arrival at Raguel’s House",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Tobias Seeks Sarah’s Hand in Marriage",
+      "startVerse": 8,
+      "endVerse": 12
+    },
+    {
+      "title": "The Marriage of Tobias and Sarah",
+      "startVerse": 13,
+      "endVerse": 15
+    },
+    {
+      "title": "Sarah Prepared for Her Wedding Night",
+      "startVerse": 16,
+      "endVerse": 17
+    }
+  ]
 }

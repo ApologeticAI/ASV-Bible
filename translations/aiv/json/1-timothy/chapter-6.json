@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Let all who are under the yoke of slavery regard their own masters as worthy of all respect, so that the name of God and the teaching may not be blasphemed.",
       "links": "<a href='/AIV/49/6/5'>Eph. 6:5</a>; <a href='/AIV/56/2/9-10'>Titus 2:9-10</a>",
-      "comment": "Paul exhorts believers in servitude to show honor to their earthly masters for the sake of God's reputation and the Christian teaching. Spiritual obedience to authority is a recurring New Testament theme, reflecting a call to humility and order, as seen in <a href='/AIV/45/13/1'>Romans 13:1</a>."
+      "comment": "Paul exhorts believers in servitude to show honor to their earthly masters for the sake of God's reputation and the Christian teaching. Spiritual obedience to authority is a recurring New Testament theme, reflecting a call to humility and order, as seen in <a href='/AIV/45/13/1'>Romans 13:1</a>.",
+      "sectionHeader": "Duties of Slaves"
     },
     {
       "pk": 61006002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "If anyone teaches different doctrine and does not agree with the sound words of our Lord Jesus Christ, and the teaching that accords with godliness,",
       "links": "<a href='/AIV/48/1/6-9'>Gal. 1:6-9</a>; <a href='/AIV/55/1/13'>2 Tim. 1:13</a>",
-      "comment": "Fidelity to apostolic doctrine is essential. Any teaching diverging from Christ's authoritative instruction is to be rejected. The appeal to 'sound words' implies a body of teaching preserved in the early Church."
+      "comment": "Fidelity to apostolic doctrine is essential. Any teaching diverging from Christ's authoritative instruction is to be rejected. The appeal to 'sound words' implies a body of teaching preserved in the early Church.",
+      "sectionHeader": "False Teaching and Love of Money"
     },
     {
       "pk": 61006004,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "But you, man of God, flee these things. Pursue righteousness, godliness, faith, love, endurance, and gentleness.",
       "links": "<a href='/AIV/55/2/22'>2 Tim. 2:22</a>; <a href='/AIV/48/5/22-23'>Gal. 5:22-23</a>",
-      "comment": "Paul exhorts Timothy—and all believers—to actively strive for virtues that reflect life in Christ, rather than worldly pursuits. This passage summarizes the character of true discipleship."
+      "comment": "Paul exhorts Timothy—and all believers—to actively strive for virtues that reflect life in Christ, rather than worldly pursuits. This passage summarizes the character of true discipleship.",
+      "sectionHeader": "The Good Fight of Faith"
     },
     {
       "pk": 61006012,
@@ -206,7 +209,8 @@
       "verse": 17,
       "text": "Instruct those who are rich in this present age not to be proud, nor to put their hope in the uncertainty of riches, but in God, who richly provides us with all things to enjoy.",
       "links": "<a href='/AIV/19/52/7'>Ps. 52:7</a>; <a href='/AIV/40/6/19-21'>Matt. 6:19-21</a>",
-      "comment": "Paul draws a clear distinction between earthly and heavenly security, urging the wealthy to trust in God’s generosity. This passage subtly points towards using material resources for spiritual ends."
+      "comment": "Paul draws a clear distinction between earthly and heavenly security, urging the wealthy to trust in God’s generosity. This passage subtly points towards using material resources for spiritual ends.",
+      "sectionHeader": "Instructions to the Rich"
     },
     {
       "pk": 61006018,
@@ -242,7 +246,8 @@
       "verse": 20,
       "text": "O Timothy, guard what has been entrusted to you. Avoid the empty chatter and the contradictions of what is falsely called knowledge,",
       "links": "<a href='/AIV/54/1/11'>1 Tim. 1:11</a>; <a href='/AIV/52/2/15'>2 Thess. 2:15</a>",
-      "comment": "'What has been entrusted' refers to the deposit of apostolic teaching, meant to be preserved and guarded. The warning against 'false knowledge' speaks against early forms of heresy, emphasizing the need for faithful transmission of truth."
+      "comment": "'What has been entrusted' refers to the deposit of apostolic teaching, meant to be preserved and guarded. The warning against 'false knowledge' speaks against early forms of heresy, emphasizing the need for faithful transmission of truth.",
+      "sectionHeader": "Final Exhortation"
     },
     {
       "pk": 61006021,
@@ -257,5 +262,32 @@
       "comment": "Paul closes with a warning about those who departed from true faith by following novel teachings. His blessing, 'Grace be with you,' is both a personal and communal benediction, consistent with apostolic letters."
     }
   ],
-  "translatedAt": "2025-12-24T12:13:03.850Z"
+  "translatedAt": "2025-12-24T12:13:03.850Z",
+  "sections": [
+    {
+      "title": "Duties of Slaves",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "False Teaching and Love of Money",
+      "startVerse": 3,
+      "endVerse": 10
+    },
+    {
+      "title": "The Good Fight of Faith",
+      "startVerse": 11,
+      "endVerse": 16
+    },
+    {
+      "title": "Instructions to the Rich",
+      "startVerse": 17,
+      "endVerse": 19
+    },
+    {
+      "title": "Final Exhortation",
+      "startVerse": 20,
+      "endVerse": 21
+    }
+  ]
 }

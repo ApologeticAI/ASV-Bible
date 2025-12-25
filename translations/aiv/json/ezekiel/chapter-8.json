@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In the sixth year, in the sixth month, on the fifth day of the month, as I sat in my house with the elders of Judah sitting before me, the hand of the Lord GOD fell upon me there.",
       "links": "<a href='/AIV/26/1/1'>Ezek. 1:1</a>; <a href='/AIV/26/20/1'>Ezek. 20:1</a>",
-      "comment": "The setting is clear: while Ezekiel is among the exiles, God's presence comes with power. This manifestation often prefigures New Testament appearances where God acts directly, especially at turning points in salvation history."
+      "comment": "The setting is clear: while Ezekiel is among the exiles, God's presence comes with power. This manifestation often prefigures New Testament appearances where God acts directly, especially at turning points in salvation history.",
+      "sectionHeader": "The Vision of Abominations in Jerusalem"
     },
     {
       "pk": 33008002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "And he brought me to the entrance of the court, and when I looked, behold, there was a hole in the wall.",
       "links": "<a href='/AIV/26/8/8'>Ezek. 8:8</a>",
-      "comment": "This hidden passage suggests the secretive nature of sin. God’s prophets are shown what is concealed from men, reminding readers of the Church’s call to faithfulness and openness in worship."
+      "comment": "This hidden passage suggests the secretive nature of sin. God’s prophets are shown what is concealed from men, reminding readers of the Church’s call to faithfulness and openness in worship.",
+      "sectionHeader": "Idolatry Unveiled in the Temple"
     },
     {
       "pk": 33008008,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "Then he brought me to the entrance of the gate of the LORD’s house that was toward the north; and behold, there sat women weeping for Tammuz.",
       "links": "<a href='/AIV/24/44/19'>Jer. 44:19</a>",
-      "comment": "Tammuz worship involved lamentation rituals brought into God’s sanctuary—an example of syncretism corrupting pure worship. The persistence in ancient tradition points to the need for right doctrine and practice."
+      "comment": "Tammuz worship involved lamentation rituals brought into God’s sanctuary—an example of syncretism corrupting pure worship. The persistence in ancient tradition points to the need for right doctrine and practice.",
+      "sectionHeader": "Women Weeping for Tammuz"
     },
     {
       "pk": 33008015,
@@ -194,7 +197,8 @@
       "verse": 16,
       "text": "And he brought me into the inner court of the LORD’s house; and behold, at the entrance of the temple of the LORD, between the porch and the altar, there were about twenty-five men, with their backs to the temple of the LORD and their faces toward the east, worshiping the sun toward the east.",
       "links": "<a href='/AIV/4/16/17'>Num. 16:17</a>; <a href='/AIV/5/4/19'>Deut. 4:19</a>",
-      "comment": "Sun worship in God’s own house is the ultimate proclamation of apostasy. Their backs are to God—the most blatant rejection. Facing east for worship was often forbidden as it mimicked pagan customs; in the new faith, true worship is ordered properly toward the presence of God."
+      "comment": "Sun worship in God’s own house is the ultimate proclamation of apostasy. Their backs are to God—the most blatant rejection. Facing east for worship was often forbidden as it mimicked pagan customs; in the new faith, true worship is ordered properly toward the presence of God.",
+      "sectionHeader": "Sun Worship in the Temple"
     },
     {
       "pk": 33008017,
@@ -221,5 +225,27 @@
       "comment": "Persistent refusal to repent leads to judgment. God’s justice is absolute, but the context of the whole Bible reveals His ultimate plan for restoration and redemption through the Messiah, fulfilled in Christ’s sacrificial role for all humanity."
     }
   ],
-  "translatedAt": "2025-12-24T09:02:16.066Z"
+  "translatedAt": "2025-12-24T09:02:16.066Z",
+  "sections": [
+    {
+      "title": "The Vision of Abominations in Jerusalem",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Idolatry Unveiled in the Temple",
+      "startVerse": 7,
+      "endVerse": 13
+    },
+    {
+      "title": "Women Weeping for Tammuz",
+      "startVerse": 14,
+      "endVerse": 15
+    },
+    {
+      "title": "Sun Worship in the Temple",
+      "startVerse": 16,
+      "endVerse": 18
+    }
+  ]
 }

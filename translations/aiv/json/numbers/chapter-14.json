@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then all the congregation lifted up their voices and cried aloud, and the people wept that night.",
       "links": "<a href='/AIV/02/16/2'>Ex. 16:2</a>; <a href='/AIV/04/11/1'>Num. 11:1</a>",
-      "comment": "The intensity of the people’s response echoes earlier instances in Exodus and Numbers where the Israelites complain in the wilderness. This sets the stage for a moment of crisis, revealing the human tendency toward fear and disbelief even after experiencing God's mighty deeds."
+      "comment": "The intensity of the people’s response echoes earlier instances in Exodus and Numbers where the Israelites complain in the wilderness. This sets the stage for a moment of crisis, revealing the human tendency toward fear and disbelief even after experiencing God's mighty deeds.",
+      "sectionHeader": "Israel Rebels at Kadesh"
     },
     {
       "pk": 4014002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "The LORD said to Moses, 'How long will this people despise Me? How long will they not believe in Me, despite all the signs that I have done among them?'",
       "links": "<a href='/AIV/02/16/28'>Ex. 16:28</a>; <a href='/AIV/40/12/39'>Matt. 12:39</a>",
-      "comment": "God’s lament parallels Jesus’ later grief over unbelief (see Matt. 23:37). The signs performed by God should have induced faith—pointing forward to the greater signs brought by Christ."
+      "comment": "God’s lament parallels Jesus’ later grief over unbelief (see Matt. 23:37). The signs performed by God should have induced faith—pointing forward to the greater signs brought by Christ.",
+      "sectionHeader": "Intercession of Moses"
     },
     {
       "pk": 4014012,
@@ -314,7 +316,8 @@
       "verse": 26,
       "text": "And the LORD spoke to Moses and to Aaron, saying,",
       "links": "<a href='/AIV/04/12/1'>Num. 12:1</a>; <a href='/AIV/04/16/20'>Num. 16:20</a>",
-      "comment": "This introduces a new divine message, reinforcing Moses and Aaron’s unique leadership roles as recipients of divine revelation."
+      "comment": "This introduces a new divine message, reinforcing Moses and Aaron’s unique leadership roles as recipients of divine revelation.",
+      "sectionHeader": "Judgment on the Unbelieving Generation"
     },
     {
       "pk": 4014027,
@@ -434,7 +437,8 @@
       "verse": 36,
       "text": "The men whom Moses sent to spy out the land, who returned and made all the congregation grumble against him by bringing a bad report about the land,",
       "links": "<a href='/AIV/04/13/32'>Num. 13:32</a>; <a href='/AIV/04/14/2'>Num. 14:2</a>",
-      "comment": "Those who led the rebellion against God’s plan bear particular responsibility. Leadership carries grave accountability for influencing others, a principle echoed throughout Scripture."
+      "comment": "Those who led the rebellion against God’s plan bear particular responsibility. Leadership carries grave accountability for influencing others, a principle echoed throughout Scripture.",
+      "sectionHeader": "Punishment of the Spies"
     },
     {
       "pk": 4014037,
@@ -470,7 +474,8 @@
       "verse": 39,
       "text": "When Moses spoke these words to all the children of Israel, the people mourned greatly.",
       "links": "<a href='/AIV/04/11/33-34'>Num. 11:33-34</a>; <a href='/AIV/19/106/43'>Ps. 106:43</a>",
-      "comment": "The people’s mourning reflects the consequence of their choices. Repentance often follows recognition of divine judgment, a recurring theme in the Old and New Testaments."
+      "comment": "The people’s mourning reflects the consequence of their choices. Repentance often follows recognition of divine judgment, a recurring theme in the Old and New Testaments.",
+      "sectionHeader": "The Defeat at Hormah"
     },
     {
       "pk": 4014040,
@@ -545,5 +550,32 @@
       "comment": "Disaster results when the people attempt action apart from God’s command. Hormah, meaning 'devotion to destruction,' becomes a warning that only by humble submission and union with God’s will can His people prosper. This anticipates the necessity of obedience found in Christ’s own words and example."
     }
   ],
-  "translatedAt": "2025-12-24T01:38:13.557Z"
+  "translatedAt": "2025-12-24T01:38:13.557Z",
+  "sections": [
+    {
+      "title": "Israel Rebels at Kadesh",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "Intercession of Moses",
+      "startVerse": 11,
+      "endVerse": 25
+    },
+    {
+      "title": "Judgment on the Unbelieving Generation",
+      "startVerse": 26,
+      "endVerse": 35
+    },
+    {
+      "title": "Punishment of the Spies",
+      "startVerse": 36,
+      "endVerse": 38
+    },
+    {
+      "title": "The Defeat at Hormah",
+      "startVerse": 39,
+      "endVerse": 45
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "I wish you would bear with me in a little foolishness. Yes, please bear with me.",
       "links": "",
-      "comment": "Here, Paul admits his words may sound boastful but asks for patience from his readers. His humility reflects how true apostles sometimes must defend their ministry for the good of the Church (cf. 1 Cor. 4:10)."
+      "comment": "Here, Paul admits his words may sound boastful but asks for patience from his readers. His humility reflects how true apostles sometimes must defend their ministry for the good of the Church (cf. 1 Cor. 4:10).",
+      "sectionHeader": "Paul Warns Against False Apostles"
     },
     {
       "pk": 54011002,
@@ -194,7 +195,8 @@
       "verse": 16,
       "text": "I repeat, let no one think me foolish. But even if you do, accept me as a fool, so that I too may boast a little.",
       "links": "",
-      "comment": "Paul engages in ‘foolish’ boasting to contrast spiritual humility with the pride of false teachers. True leaders sometimes defend their ministry for the sake of their flock."
+      "comment": "Paul engages in ‘foolish’ boasting to contrast spiritual humility with the pride of false teachers. True leaders sometimes defend their ministry for the sake of their flock.",
+      "sectionHeader": "Paul's Boasting as a Fool"
     },
     {
       "pk": 54011017,
@@ -266,7 +268,8 @@
       "verse": 22,
       "text": "Are they Hebrews? So am I. Are they Israelites? So am I. Are they descendants of Abraham? So am I.",
       "links": "<a href='/AIV/50/3/5'>Phil. 3:5</a>",
-      "comment": "Paul establishes his Jewish heritage, showing he matches their credentials. His apostolic authority comes not from ethnicity but Christ’s call."
+      "comment": "Paul establishes his Jewish heritage, showing he matches their credentials. His apostolic authority comes not from ethnicity but Christ’s call.",
+      "sectionHeader": "Paul's Sufferings and Hardships"
     },
     {
       "pk": 54011023,
@@ -386,7 +389,8 @@
       "verse": 32,
       "text": "At Damascus, the governor under King Aretas was guarding the city of the Damascenes in order to arrest me,",
       "links": "<a href='/AIV/44/9/23-25'>Acts 9:23-25</a>",
-      "comment": "Paul’s escape from Damascus directly recalls his dramatic conversion and early persecution (Acts 9). His apostleship is confirmed by his willingness to risk his life for Christ."
+      "comment": "Paul’s escape from Damascus directly recalls his dramatic conversion and early persecution (Acts 9). His apostleship is confirmed by his willingness to risk his life for Christ.",
+      "sectionHeader": "Paul's Escape from Damascus"
     },
     {
       "pk": 54011033,
@@ -401,5 +405,27 @@
       "comment": "Paul’s deliverance echoes Old Testament rescues (Josh. 2:15). God’s providence protected Paul for continued service, illustrating how He preserves leaders for the sake of His people (cf. Ps. 34:19-20)."
     }
   ],
-  "translatedAt": "2025-12-24T11:57:08.549Z"
+  "translatedAt": "2025-12-24T11:57:08.549Z",
+  "sections": [
+    {
+      "title": "Paul Warns Against False Apostles",
+      "startVerse": 1,
+      "endVerse": 15
+    },
+    {
+      "title": "Paul's Boasting as a Fool",
+      "startVerse": 16,
+      "endVerse": 21
+    },
+    {
+      "title": "Paul's Sufferings and Hardships",
+      "startVerse": 22,
+      "endVerse": 31
+    },
+    {
+      "title": "Paul's Escape from Damascus",
+      "startVerse": 32,
+      "endVerse": 33
+    }
+  ]
 }

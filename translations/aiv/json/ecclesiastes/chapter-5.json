@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Guard your steps when you go to the house of God. Draw near to listen rather than to offer the sacrifice of fools, for they do not know that they do evil.",
       "links": "<a href='/AIV/19/15/1-2'>Ps. 15:1-2</a>; <a href='/AIV/20/1/7'>Prov. 1:7</a>; <a href='/AIV/21/4/17'>Eccl. 4:17</a>",
-      "comment": "Emphasizes reverence and humility when approaching God's presence. Listening is valued above ritual, echoing themes later found in James 1:19 and Mark 12:33, highlighting interior conversion over mere external rites. It points towards a spiritual discipline focused on true worship."
+      "comment": "Emphasizes reverence and humility when approaching God's presence. Listening is valued above ritual, echoing themes later found in James 1:19 and Mark 12:33, highlighting interior conversion over mere external rites. It points towards a spiritual discipline focused on true worship.",
+      "sectionHeader": "Reverence and Vows Before God"
     },
     {
       "pk": 25005002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "If you see oppression of the poor, and the denial of justice and righteousness in the province, do not be amazed at the matter. For one official is watched by a higher, and there are higher ones over them.",
       "links": "<a href='/AIV/19/72/4'>Ps. 72:4</a>; <a href='/AIV/23/10/1-2'>Isa. 10:1-2</a>; <a href='/AIV/20/22/22-23'>Prov. 22:22-23</a>",
-      "comment": "Addresses the reality of systemic injustice. The hierarchy of officials vaguely echoes a structured system of accountability, reminding believers that ultimate justice is in God's hands and encouraging prayer for those in authority (1 Tim. 2:1-2)."
+      "comment": "Addresses the reality of systemic injustice. The hierarchy of officials vaguely echoes a structured system of accountability, reminding believers that ultimate justice is in God's hands and encouraging prayer for those in authority (1 Tim. 2:1-2).",
+      "sectionHeader": "The Vanity of Riches and Wealth"
     },
     {
       "pk": 25005009,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "Behold, what I have seen to be good and fitting is to eat and drink and find enjoyment in all the labor in which one labors under the sun during the few days of his life that God gives him. For this is his lot.",
       "links": "<a href='/AIV/21/2/24'>Eccl. 2:24</a>; <a href='/AIV/21/3/13'>Eccl. 3:13</a>",
-      "comment": "Affirms the gift of enjoying life's simple blessings as providential. The acceptance of one’s ‘lot’ in life reflects gratitude, parallel to Paul’s call in Philippians 4:11-13 to find contentment in whatever circumstances."
+      "comment": "Affirms the gift of enjoying life's simple blessings as providential. The acceptance of one’s ‘lot’ in life reflects gratitude, parallel to Paul’s call in Philippians 4:11-13 to find contentment in whatever circumstances.",
+      "sectionHeader": "Joy in God’s Gifts"
     },
     {
       "pk": 25005019,
@@ -245,5 +248,22 @@
       "comment": "God gives abiding joy that surpasses anxiety about life’s brevity or difficulties. This reveals something of the spiritual pleasure found in a life ordered toward God, foreshadowing Christ’s promise of inner peace (John 14:27)."
     }
   ],
-  "translatedAt": "2025-12-24T07:08:48.674Z"
+  "translatedAt": "2025-12-24T07:08:48.674Z",
+  "sections": [
+    {
+      "title": "Reverence and Vows Before God",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "The Vanity of Riches and Wealth",
+      "startVerse": 8,
+      "endVerse": 17
+    },
+    {
+      "title": "Joy in God’s Gifts",
+      "startVerse": 18,
+      "endVerse": 20
+    }
+  ]
 }

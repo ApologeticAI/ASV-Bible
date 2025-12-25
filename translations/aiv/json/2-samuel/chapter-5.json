@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then all the tribes of Israel came to David at Hebron and said, 'Look, we are your flesh and bone.'",
       "links": "<a href='/AIV/07/9/2'>Judg. 9:2</a>; <a href='/AIV/01/29/14'>Gen. 29:14</a>",
-      "comment": "Israel recognizes David as their own, echoing the ancient covenantal language about kinship. This sets the foundation for unity under one king, reflecting the biblical theme of God's people gathered together."
+      "comment": "Israel recognizes David as their own, echoing the ancient covenantal language about kinship. This sets the foundation for unity under one king, reflecting the biblical theme of God's people gathered together.",
+      "sectionHeader": "David Anointed King over All Israel"
     },
     {
       "pk": 10005002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "The king and his men went to Jerusalem against the Jebusites, the inhabitants of the land, who said to David, 'You will not come in here; even the blind and the lame will turn you back.' They thought, 'David can’t come in here.'",
       "links": "<a href='/AIV/07/1/21'>Judg. 1:21</a>; <a href='/AIV/13/11/5'>1Chr. 11:5</a>",
-      "comment": "The Jebusite challenge highlights the human impossibility that is overturned by divine purpose, foreshadowing the spiritual conquest seen in Christ’s overcoming of worldly opposition."
+      "comment": "The Jebusite challenge highlights the human impossibility that is overturned by divine purpose, foreshadowing the spiritual conquest seen in Christ’s overcoming of worldly opposition.",
+      "sectionHeader": "David Captures Jerusalem"
     },
     {
       "pk": 10005007,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "King Hiram of Tyre sent messengers to David, as well as cedar trees, carpenters, and stonemasons, and they built a house for David.",
       "links": "<a href='/AIV/11/5/1'>1Kgs. 5:1</a>; <a href='/AIV/13/14/1'>1Chr. 14:1</a>",
-      "comment": "Foreign tribute and alliances highlight God’s providence in establishing David’s house. This anticipates the building of the Temple and the Church, where both Jew and Gentile are united."
+      "comment": "Foreign tribute and alliances highlight God’s providence in establishing David’s house. This anticipates the building of the Temple and the Church, where both Jew and Gentile are united.",
+      "sectionHeader": "David’s House and Family in Jerusalem"
     },
     {
       "pk": 10005012,
@@ -206,7 +209,8 @@
       "verse": 17,
       "text": "When the Philistines heard that David had been anointed king over Israel, all the Philistines went up to search for David. But David heard and went down to the stronghold.",
       "links": "<a href='/AIV/09/23/29'>1Sam. 23:29</a>; <a href='/AIV/13/14/8'>1Chr. 14:8</a>",
-      "comment": "Opposition immediately follows the establishment of authority, reminding believers of the ongoing spiritual battles faced by God's anointed."
+      "comment": "Opposition immediately follows the establishment of authority, reminding believers of the ongoing spiritual battles faced by God's anointed.",
+      "sectionHeader": "David Defeats the Philistines"
     },
     {
       "pk": 10005018,
@@ -305,5 +309,27 @@
       "comment": "David’s obedience brings victory by faith and trust in God’s word. This serves as a model for Christian perseverance and reliance on God’s direction for overcoming spiritual opposition."
     }
   ],
-  "translatedAt": "2025-12-24T03:13:54.329Z"
+  "translatedAt": "2025-12-24T03:13:54.329Z",
+  "sections": [
+    {
+      "title": "David Anointed King over All Israel",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "David Captures Jerusalem",
+      "startVerse": 6,
+      "endVerse": 10
+    },
+    {
+      "title": "David’s House and Family in Jerusalem",
+      "startVerse": 11,
+      "endVerse": 16
+    },
+    {
+      "title": "David Defeats the Philistines",
+      "startVerse": 17,
+      "endVerse": 25
+    }
+  ]
 }

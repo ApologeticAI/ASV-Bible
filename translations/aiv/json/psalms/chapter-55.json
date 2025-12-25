@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Give ear to my prayer, O God, and do not hide yourself from my plea for mercy.",
       "links": "<a href='/AIV/19/4/1'>Ps. 4:1</a>; <a href='/AIV/19/28/1'>Ps. 28:1</a>",
-      "comment": "A personal plea, showing the psalmist's confidence that God is always accessible and attentive to prayers. This intimacy with God echoes Christ's own prayers (see Mark 14:36), and encourages believers to open their hearts when seeking divine help."
+      "comment": "A personal plea, showing the psalmist's confidence that God is always accessible and attentive to prayers. This intimacy with God echoes Christ's own prayers (see Mark 14:36), and encourages believers to open their hearts when seeking divine help.",
+      "sectionHeader": "Prayer for Deliverance from Enemies"
     },
     {
       "pk": 23055002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "For it is not an enemy who taunts me—then I could bear it; it is not an adversary who deals insolently with me—then I could hide from him.",
       "links": "<a href='/AIV/19/41/9'>Ps. 41:9</a>; <a href='/AIV/43/13/18'>John 13:18</a>",
-      "comment": "Betrayal by a friend echoes Judas’ betrayal of Jesus (John 13:18), highlighting the pain within close relationships and the mystery of suffering within the faithful."
+      "comment": "Betrayal by a friend echoes Judas’ betrayal of Jesus (John 13:18), highlighting the pain within close relationships and the mystery of suffering within the faithful.",
+      "sectionHeader": "Betrayal by a Close Friend"
     },
     {
       "pk": 23055013,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "But I call to God, and the LORD will save me.",
       "links": "<a href='/AIV/19/18/3'>Ps. 18:3</a>; <a href='/AIV/19/34/17'>Ps. 34:17</a>",
-      "comment": "Despite betrayal and danger, confidence turns to God. This shows the importance of perseverance and trust in divine deliverance, as commended throughout Scripture."
+      "comment": "Despite betrayal and danger, confidence turns to God. This shows the importance of perseverance and trust in divine deliverance, as commended throughout Scripture.",
+      "sectionHeader": "Trust in God Amidst Treachery"
     },
     {
       "pk": 23055017,
@@ -266,7 +269,8 @@
       "verse": 22,
       "text": "Cast your burden on the LORD, and He will sustain you; He will never let the righteous be moved.",
       "links": "<a href='/AIV/60/5/7'>1 Pet. 5:7</a>; <a href='/AIV/19/37/24'>Ps. 37:24</a>",
-      "comment": "A call to trust and surrender to God—cited in 1 Peter 5:7, reinforcing the continual biblical invitation to depend on divine providence both physically and spiritually, and not solely on personal effort."
+      "comment": "A call to trust and surrender to God—cited in 1 Peter 5:7, reinforcing the continual biblical invitation to depend on divine providence both physically and spiritually, and not solely on personal effort.",
+      "sectionHeader": "Cast Your Burden on the Lord"
     },
     {
       "pk": 23055023,
@@ -281,5 +285,27 @@
       "comment": "Ends with assurance in divine justice and personal trust. The psalmist models hope even when surrounded by betrayal—a lesson emphasized by the saints and early Christian testimony, urging believers to place final trust in God’s judgment and mercy."
     }
   ],
-  "translatedAt": "2025-12-24T06:17:51.781Z"
+  "translatedAt": "2025-12-24T06:17:51.781Z",
+  "sections": [
+    {
+      "title": "Prayer for Deliverance from Enemies",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "Betrayal by a Close Friend",
+      "startVerse": 12,
+      "endVerse": 15
+    },
+    {
+      "title": "Trust in God Amidst Treachery",
+      "startVerse": 16,
+      "endVerse": 21
+    },
+    {
+      "title": "Cast Your Burden on the Lord",
+      "startVerse": 22,
+      "endVerse": 23
+    }
+  ]
 }

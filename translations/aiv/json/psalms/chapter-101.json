@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "I will sing of mercy and justice; to you, LORD, I will make music.",
       "links": "<a href='/AIV/19/89/1'>Ps. 89:1</a>; <a href='/AIV/19/92/1'>Ps. 92:1</a>; <a href='/AIV/19/106/1'>Ps. 106:1</a>",
-      "comment": "This opening verse combines two key divine attributes: mercy and justice. The psalmist commits his song to the LORD, highlighting worship as the proper response to God’s character. Note: 'To you, LORD,' reflects the direct address and devotion, paralleling other psalms of praise."
+      "comment": "This opening verse combines two key divine attributes: mercy and justice. The psalmist commits his song to the LORD, highlighting worship as the proper response to God’s character. Note: 'To you, LORD,' reflects the direct address and devotion, paralleling other psalms of praise.",
+      "sectionHeader": "Commitment to Righteousness and Justice"
     },
     {
       "pk": 23101002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "My eyes will be on the faithful of the land, that they may dwell with me; those who walk in integrity are the ones who will minister to me.",
       "links": "<a href='/AIV/19/15/1-2'>Ps. 15:1-2</a>; <a href='/AIV/19/24/3-4'>Ps. 24:3-4</a>; <a href='/AIV/19/101/2'>Ps. 101:2</a>",
-      "comment": "Here, service is reserved for those who are upright—a standard for true spiritual leadership. The emphasis on integrity as a qualification for ministry subtly affirms the value of visible, consecrated servants set apart for holy purposes."
+      "comment": "Here, service is reserved for those who are upright—a standard for true spiritual leadership. The emphasis on integrity as a qualification for ministry subtly affirms the value of visible, consecrated servants set apart for holy purposes.",
+      "sectionHeader": "The Conduct of the Faithful and the Wicked"
     },
     {
       "pk": 23101007,
@@ -101,5 +103,17 @@
       "comment": "Daily vigilance against evil is stressed. The reference to the LORD's city points toward the biblical ideal of a holy people dwelling in the renewed Jerusalem, as fulfilled in Revelation (<a href='/AIV/66/21/27'>Rev. 21:27</a>). This foreshadows the ultimate gathering of the righteous, both literally and spiritually, under God’s eternal reign."
     }
   ],
-  "translatedAt": "2025-12-24T06:34:14.319Z"
+  "translatedAt": "2025-12-24T06:34:14.319Z",
+  "sections": [
+    {
+      "title": "Commitment to Righteousness and Justice",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "The Conduct of the Faithful and the Wicked",
+      "startVerse": 6,
+      "endVerse": 8
+    }
+  ]
 }

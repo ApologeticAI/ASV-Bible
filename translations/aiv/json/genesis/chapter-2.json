@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "So the heavens and the earth and all their array were completed.",
       "links": "<a href='/AIV/19/104/1-5'>Ps. 104:1-5</a>; <a href='/AIV/23/45/12'>Isa. 45:12</a>",
-      "comment": "This verse marks the completion of creation, emphasizing God's creative act as finished and perfect, a theme found throughout scripture. It subtly echoes the order and structure often recognized in both the natural world and liturgical worship."
+      "comment": "This verse marks the completion of creation, emphasizing God's creative act as finished and perfect, a theme found throughout scripture. It subtly echoes the order and structure often recognized in both the natural world and liturgical worship.",
+      "sectionHeader": "The Seventh Day, God Rests"
     },
     {
       "pk": 1002002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "These are the generations of the heavens and the earth when they were created, in the day that the LORD God made earth and heavens.",
       "links": "<a href='/AIV/01/1/1'>Gen. 1:1</a>; <a href='/AIV/01/5/1'>Gen. 5:1</a>",
-      "comment": "The phrase 'these are the generations' signals a new section. The name 'LORD God' (YHWH Elohim) introduces God's personal covenantal nature, which will deepen through salvation history."
+      "comment": "The phrase 'these are the generations' signals a new section. The name 'LORD God' (YHWH Elohim) introduces God's personal covenantal nature, which will deepen through salvation history.",
+      "sectionHeader": "The Creation of Man and the Garden of Eden"
     },
     {
       "pk": 1002005,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "The LORD God took the man and put him in the garden of Eden to work it and keep it.",
       "links": "<a href='/AIV/01/3/23'>Gen. 3:23</a>; <a href='/AIV/04/3/7'>Num. 3:7</a>",
-      "comment": "The vocation of man to 'work and keep' the garden mirrors priestly duties of service and guardianship, prefiguring humanity's role in sacred worship and liturgy."
+      "comment": "The vocation of man to 'work and keep' the garden mirrors priestly duties of service and guardianship, prefiguring humanity's role in sacred worship and liturgy.",
+      "sectionHeader": "Man’s Duty and the Tree of the Knowledge of Good and Evil"
     },
     {
       "pk": 1002016,
@@ -218,7 +221,8 @@
       "verse": 18,
       "text": "Then the LORD God said, 'It is not good that the man should be alone; I will make a helper suitable for him.'",
       "links": "<a href='/AIV/01/1/27'>Gen. 1:27</a>; <a href='/AIV/20/18/22'>Prov. 18:22</a>",
-      "comment": "The creation of a helper reveals the social nature of humanity and the importance of complementarity and unity, prefiguring the relational aspects of the Christian community."
+      "comment": "The creation of a helper reveals the social nature of humanity and the importance of complementarity and unity, prefiguring the relational aspects of the Christian community.",
+      "sectionHeader": "The Creation of Woman"
     },
     {
       "pk": 1002019,
@@ -305,5 +309,27 @@
       "comment": "Their innocence points to the original harmony with God and creation, a state lost in the fall but ultimately restored through grace and redemption, central to the story of salvation."
     }
   ],
-  "translatedAt": "2025-12-24T00:11:36.500Z"
+  "translatedAt": "2025-12-24T00:11:36.500Z",
+  "sections": [
+    {
+      "title": "The Seventh Day, God Rests",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "The Creation of Man and the Garden of Eden",
+      "startVerse": 4,
+      "endVerse": 14
+    },
+    {
+      "title": "Man’s Duty and the Tree of the Knowledge of Good and Evil",
+      "startVerse": 15,
+      "endVerse": 17
+    },
+    {
+      "title": "The Creation of Woman",
+      "startVerse": 18,
+      "endVerse": 25
+    }
+  ]
 }

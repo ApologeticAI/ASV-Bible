@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Gather yourselves together—gather, yes, gather, O nation without shame,",
       "links": "<a href='/AIV/23/34/1'>Isa. 34:1</a>; <a href='/AIV/36/3/18'>Zeph. 3:18</a>",
-      "comment": "Zephaniah calls the people to unite and reflect on themselves as a community before judgment. The summons echoes other prophetic calls for repentance, inviting the whole nation to seek humility and conversion."
+      "comment": "Zephaniah calls the people to unite and reflect on themselves as a community before judgment. The summons echoes other prophetic calls for repentance, inviting the whole nation to seek humility and conversion.",
+      "sectionHeader": "Call to Repentance Before the Day of the Lord"
     },
     {
       "pk": 43002002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "For Gaza will be abandoned, and Ashkelon a wasteland; Ashdod will be driven out at noon, and Ekron will be uprooted.",
       "links": "<a href='/AIV/24/25/20'>Jer. 25:20</a>; <a href='/AIV/30/1/7'>Amos 1:7</a>",
-      "comment": "The judgment upon Philistine cities fulfills prior prophecies. Noon was an unusual time for battle, signaling the swiftness and certainty of God's actions. The literal destruction prefigures spiritual consequences for persistent opposition to God’s will."
+      "comment": "The judgment upon Philistine cities fulfills prior prophecies. Noon was an unusual time for battle, signaling the swiftness and certainty of God's actions. The literal destruction prefigures spiritual consequences for persistent opposition to God’s will.",
+      "sectionHeader": "Judgment Against the Philistines"
     },
     {
       "pk": 43002005,
@@ -98,7 +100,8 @@
       "verse": 8,
       "text": "I have heard the taunts of Moab and the insults of the Ammonites, how they have taunted My people and boasted against their territory.",
       "links": "<a href='/AIV/26/25/3'>Ezek. 25:3</a>; <a href='/AIV/25/1/10'>Lam. 1:10</a>",
-      "comment": "God responds to the pride and hostility of neighboring nations. This serves as a warning that those who oppose and mock God’s chosen people will face judgment. In a spiritual sense, opposition to God’s Church is addressed in both Old and New Testaments."
+      "comment": "God responds to the pride and hostility of neighboring nations. This serves as a warning that those who oppose and mock God’s chosen people will face judgment. In a spiritual sense, opposition to God’s Church is addressed in both Old and New Testaments.",
+      "sectionHeader": "Judgment Against Moab and Ammon"
     },
     {
       "pk": 43002009,
@@ -146,7 +149,8 @@
       "verse": 12,
       "text": "You Cushites also will be slain by My sword.",
       "links": "<a href='/AIV/23/18/1'>Isa. 18:1</a>; <a href='/AIV/26/30/4-5'>Ezek. 30:4-5</a>",
-      "comment": "Cush (Nubia/Ethiopia) is warned as well. God’s justice is impartial and comprehensive. This judgment is a warning, but God’s ultimate desire is mercy through repentance for all."
+      "comment": "Cush (Nubia/Ethiopia) is warned as well. God’s justice is impartial and comprehensive. This judgment is a warning, but God’s ultimate desire is mercy through repentance for all.",
+      "sectionHeader": "Judgment Against Cush and Assyria"
     },
     {
       "pk": 43002013,
@@ -185,5 +189,27 @@
       "comment": "The pride of the city is condemned—'I am, and there is none besides me' echoes the pride of Babylon and all who try to take God's place. God alone is the true 'I AM' (<a href='/AIV/02/3/14'>Ex. 3:14</a>). The fall of worldly power serves as a warning to seek lasting security in God, and to remain in faithful unity with His appointed leadership, avoiding the spiritual dangers of pride and separation."
     }
   ],
-  "translatedAt": "2025-12-24T09:52:50.501Z"
+  "translatedAt": "2025-12-24T09:52:50.501Z",
+  "sections": [
+    {
+      "title": "Call to Repentance Before the Day of the Lord",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "Judgment Against the Philistines",
+      "startVerse": 4,
+      "endVerse": 7
+    },
+    {
+      "title": "Judgment Against Moab and Ammon",
+      "startVerse": 8,
+      "endVerse": 11
+    },
+    {
+      "title": "Judgment Against Cush and Assyria",
+      "startVerse": 12,
+      "endVerse": 15
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The word of the LORD came to me, saying:",
       "links": "<a href='/AIV/26/3/16'>Ezek. 3:16</a>",
-      "comment": "This marks a new oracle, emphasizing the prophetic authority and divine origin of Ezekiel’s words."
+      "comment": "This marks a new oracle, emphasizing the prophetic authority and divine origin of Ezekiel’s words.",
+      "sectionHeader": "The Prophet as Watchman"
     },
     {
       "pk": 33033002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "As for you, son of man, say to the house of Israel, ‘This is what you are saying: Surely our transgressions and our sins are upon us, and we waste away because of them. How then can we live?’",
       "links": "<a href='/AIV/26/24/23'>Ezek. 24:23</a>;<a href='/AIV/26/18/28-32'>Ezek. 18:28-32</a>",
-      "comment": "The people’s sense of hopelessness sets the stage for God’s message of mercy and the possibility of restoration."
+      "comment": "The people’s sense of hopelessness sets the stage for God’s message of mercy and the possibility of restoration.",
+      "sectionHeader": "God's Justice and Call to Repentance"
     },
     {
       "pk": 33033011,
@@ -254,7 +256,8 @@
       "verse": 21,
       "text": "In the twelfth year of our exile, in the tenth month, on the fifth day of the month, a man who had escaped from Jerusalem came to me and said, ‘The city has been struck down.’",
       "links": "<a href='/AIV/26/24/25-27'>Ezek. 24:25-27</a>",
-      "comment": "This is the historical fulfillment of Ezekiel’s earlier prophecies—a tangible sign of God’s sovereignty."
+      "comment": "This is the historical fulfillment of Ezekiel’s earlier prophecies—a tangible sign of God’s sovereignty.",
+      "sectionHeader": "The Fall of Jerusalem Announced"
     },
     {
       "pk": 33033022,
@@ -278,7 +281,8 @@
       "verse": 23,
       "text": "Then the word of the LORD came to me, saying:",
       "links": "",
-      "comment": "A second divine address introduces a new prophetic message within the chapter."
+      "comment": "A second divine address introduces a new prophetic message within the chapter.",
+      "sectionHeader": "Judgment on the Survivors and Empty Worship"
     },
     {
       "pk": 33033024,
@@ -401,5 +405,27 @@
       "comment": "Prophecy is validated by fulfillment; Jesus applies this principle to Himself, confirming His prophetic and divine authority (see John 13:19)."
     }
   ],
-  "translatedAt": "2025-12-24T09:16:56.130Z"
+  "translatedAt": "2025-12-24T09:16:56.130Z",
+  "sections": [
+    {
+      "title": "The Prophet as Watchman",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "God's Justice and Call to Repentance",
+      "startVerse": 10,
+      "endVerse": 20
+    },
+    {
+      "title": "The Fall of Jerusalem Announced",
+      "startVerse": 21,
+      "endVerse": 22
+    },
+    {
+      "title": "Judgment on the Survivors and Empty Worship",
+      "startVerse": 23,
+      "endVerse": 33
+    }
+  ]
 }

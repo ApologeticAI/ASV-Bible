@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "If a man takes a wife and marries her, but she does not find favor in his eyes because he has found something indecent about her, and he writes her a certificate of divorce, puts it in her hand, and sends her out of his house,",
       "links": "<a href='/AIV/40/19/7-9'>Matt. 19:7-9</a>; <a href='/AIV/24/3/8'>Jer. 3:8</a>",
-      "comment": "This law sets the procedure for divorce under the Mosaic Covenant. Jesus references this command in Matthew 19:7-9, clarifying that it was permitted because of the hardness of heart but was not God's original intention."
+      "comment": "This law sets the procedure for divorce under the Mosaic Covenant. Jesus references this command in Matthew 19:7-9, clarifying that it was permitted because of the hardness of heart but was not God's original intention.",
+      "sectionHeader": "Laws Concerning Divorce and Remarriage"
     },
     {
       "pk": 5024002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "When a man has taken a new wife, he shall not go out with the army or be charged with any business; he shall be free at home for one year to bring happiness to the wife he has taken.",
       "links": "<a href='/AIV/5/20/7'>Deut. 20:7</a>",
-      "comment": "This provision prioritizes the establishment of a strong family foundation, showing the vital importance of marital unity in God's plan (see also Deut. 20:7 for related exemptions)."
+      "comment": "This provision prioritizes the establishment of a strong family foundation, showing the vital importance of marital unity in God's plan (see also Deut. 20:7 for related exemptions).",
+      "sectionHeader": "The Newlywed Soldier Exempted from Duty"
     },
     {
       "pk": 5024006,
@@ -74,7 +76,8 @@
       "verse": 6,
       "text": "No one shall take a mill or an upper millstone as a pledge, for he would be taking a life in pledge.",
       "links": "<a href='/AIV/2/22/26-27'>Ex. 22:26-27</a>",
-      "comment": "Pledging essential items for survival is forbidden, emphasizing justice and compassion toward the poor—key themes fulfilled in Christ’s ministry to the needy and marginalized."
+      "comment": "Pledging essential items for survival is forbidden, emphasizing justice and compassion toward the poor—key themes fulfilled in Christ’s ministry to the needy and marginalized.",
+      "sectionHeader": "Various Laws of Justice and Compassion"
     },
     {
       "pk": 5024007,
@@ -230,7 +233,8 @@
       "verse": 19,
       "text": "When you reap your harvest in your field and forget a sheaf in the field, you shall not go back to get it. It shall be for the sojourner, the fatherless, and the widow, so that the LORD your God may bless you in all the work of your hands.",
       "links": "<a href='/AIV/3/19/9-10'>Lev. 19:9-10</a>; <a href='/AIV/8/2/2'>Ruth 2:2</a>",
-      "comment": "Provision for the poor is built into the agricultural laws, foreshadowing the charity that will be fully realized in the community of believers (Acts 4:34-35)."
+      "comment": "Provision for the poor is built into the agricultural laws, foreshadowing the charity that will be fully realized in the community of believers (Acts 4:34-35).",
+      "sectionHeader": "Laws of Gleaning and Care for the Poor"
     },
     {
       "pk": 5024020,
@@ -269,5 +273,27 @@
       "comment": "God's people are to act with compassion because of God's salvation—reminding us that grace received is meant to be shared, culminating in the new commandment of love given by Jesus (John 13:34-35)."
     }
   ],
-  "translatedAt": "2025-12-24T02:09:50.107Z"
+  "translatedAt": "2025-12-24T02:09:50.107Z",
+  "sections": [
+    {
+      "title": "Laws Concerning Divorce and Remarriage",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "The Newlywed Soldier Exempted from Duty",
+      "startVerse": 5,
+      "endVerse": 5
+    },
+    {
+      "title": "Various Laws of Justice and Compassion",
+      "startVerse": 6,
+      "endVerse": 18
+    },
+    {
+      "title": "Laws of Gleaning and Care for the Poor",
+      "startVerse": 19,
+      "endVerse": 22
+    }
+  ]
 }

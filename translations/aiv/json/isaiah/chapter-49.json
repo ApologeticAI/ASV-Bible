@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Listen to me, O islands, pay attention, you distant peoples! The LORD called me from the womb; from my mother’s belly he spoke my name.",
       "links": "<a href='/AIV/24/1/5'>Jer. 1:5</a>; <a href='/AIV/42/1/31'>Luke 1:31</a>",
-      "comment": "This Servant is set apart by God from before birth, echoing similar language used of Jeremiah and fulfilled in the calling of Christ, who is recognized from His conception (see Luke 1:31). The idea of divine calling from the womb also highlights the theme of God's initiative in salvation history."
+      "comment": "This Servant is set apart by God from before birth, echoing similar language used of Jeremiah and fulfilled in the calling of Christ, who is recognized from His conception (see Luke 1:31). The idea of divine calling from the womb also highlights the theme of God's initiative in salvation history.",
+      "sectionHeader": "The Servant’s Mission to the Nations"
     },
     {
       "pk": 29049002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Thus says the LORD: 'In a time of favor I have answered you, and in a day of salvation I have helped you; I will keep you and make you to be a covenant for the people, to restore the land, to assign deserted inheritances,'",
       "links": "<a href='/AIV/47/6/2'>2 Cor. 6:2</a>; <a href='/AIV/50/42/6'>Isa. 42:6</a>",
-      "comment": "The Servant Himself becomes the covenant—He personally embodies the new relationship between God and His people. This prefigures Christ’s institution of a new and everlasting covenant (see Luke 22:20, not directly referenced here for subtlety)."
+      "comment": "The Servant Himself becomes the covenant—He personally embodies the new relationship between God and His people. This prefigures Christ’s institution of a new and everlasting covenant (see Luke 22:20, not directly referenced here for subtlety).",
+      "sectionHeader": "Restoration and Salvation for Zion"
     },
     {
       "pk": 29049009,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "But Zion said, 'The LORD has forsaken me; my Lord has forgotten me.'",
       "links": "<a href='/AIV/19/137/1-4'>Ps. 137:1-4</a>",
-      "comment": "Zion’s lament echoes the experience of exile and spiritual desolation. The following verses address this perceived abandonment directly."
+      "comment": "Zion’s lament echoes the experience of exile and spiritual desolation. The following verses address this perceived abandonment directly.",
+      "sectionHeader": "God’s Unfailing Love for Zion"
     },
     {
       "pk": 29049015,
@@ -266,7 +269,8 @@
       "verse": 22,
       "text": "Thus says the Lord GOD: 'Behold, I will lift up my hand to the nations, and raise my banner to the peoples; and they will bring your sons in their arms, and your daughters shall be carried on their shoulders.'",
       "links": "<a href='/AIV/23/11/10-12'>Isa. 11:10-12</a>",
-      "comment": "God’s universal plan is seen here as nations participate in bringing His people home, imagery later used to show the Gentiles entering into the family of God."
+      "comment": "God’s universal plan is seen here as nations participate in bringing His people home, imagery later used to show the Gentiles entering into the family of God.",
+      "sectionHeader": "The Nations Serve Zion"
     },
     {
       "pk": 29049023,
@@ -290,7 +294,8 @@
       "verse": 24,
       "text": "Can prey be taken from the mighty, or captives of a tyrant be rescued?",
       "links": "<a href='/AIV/19/124/7'>Ps. 124:7</a>",
-      "comment": "The rhetorical question sets up the declaration of God’s power to save even when all seems impossible."
+      "comment": "The rhetorical question sets up the declaration of God’s power to save even when all seems impossible.",
+      "sectionHeader": "The LORD’s Promise of Deliverance"
     },
     {
       "pk": 29049025,
@@ -317,5 +322,32 @@
       "comment": "The graphic judgment of the oppressors highlights God’s justice and ultimate triumph. God's identity as Redeemer is affirmed, concluding a passage that ultimately points to His dramatic intervention in history and the fulfillment of His promises in Christ—hinting at God's visible, embodied action."
     }
   ],
-  "translatedAt": "2025-12-24T08:14:04.179Z"
+  "translatedAt": "2025-12-24T08:14:04.179Z",
+  "sections": [
+    {
+      "title": "The Servant’s Mission to the Nations",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Restoration and Salvation for Zion",
+      "startVerse": 8,
+      "endVerse": 13
+    },
+    {
+      "title": "God’s Unfailing Love for Zion",
+      "startVerse": 14,
+      "endVerse": 21
+    },
+    {
+      "title": "The Nations Serve Zion",
+      "startVerse": 22,
+      "endVerse": 23
+    },
+    {
+      "title": "The LORD’s Promise of Deliverance",
+      "startVerse": 24,
+      "endVerse": 26
+    }
+  ]
 }

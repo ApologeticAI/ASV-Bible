@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When it was reported to Sanballat, Tobiah, Geshem the Arab, and the rest of our enemies that I had rebuilt the wall and that no gap remained in it—though at that time I had not set up the doors in the gates—",
       "links": "<a href='/AIV/16/4/7-8'>Neh. 4:7-8</a>; <a href='/AIV/16/2/19'>Neh. 2:19</a>",
-      "comment": "Nehemiah's progress alarmed the enemies. The narrative mentions the wall being finished except for the gates, showing continued vulnerability. The mention of specific enemies highlights the spiritual reality that the people of God often face opposition when restoring or rebuilding what is sacred (cf. Ezra 4:1-5)."
+      "comment": "Nehemiah's progress alarmed the enemies. The narrative mentions the wall being finished except for the gates, showing continued vulnerability. The mention of specific enemies highlights the spiritual reality that the people of God often face opposition when restoring or rebuilding what is sacred (cf. Ezra 4:1-5).",
+      "sectionHeader": "Plots Against Nehemiah"
     },
     {
       "pk": 16006002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "Later, I went to the house of Shemaiah son of Delaiah, son of Mehetabel, who was confined to his home. He said, 'Let us meet together in the house of God, inside the temple, and let us close the doors of the temple, for they are coming to kill you—by night they are coming to kill you.'",
       "links": "<a href='/AIV/16/13/1'>Neh. 13:1</a>; <a href='/AIV/4/35/5'>Num. 35:5'</a>",
-      "comment": "Shemaiah’s counsel exploits fear and even suggests hiding in the sanctuary—a misuse of holy space. The temptation to seek refuge unfaithfully foreshadows how trust in ritual alone, rather than right motive, can be misguided (cf. Jeremiah 7:4)."
+      "comment": "Shemaiah’s counsel exploits fear and even suggests hiding in the sanctuary—a misuse of holy space. The temptation to seek refuge unfaithfully foreshadows how trust in ritual alone, rather than right motive, can be misguided (cf. Jeremiah 7:4).",
+      "sectionHeader": "The Deception of Shemaiah"
     },
     {
       "pk": 16006011,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "So the wall was finished on the twenty-fifth day of Elul, in fifty-two days.",
       "links": "<a href='/AIV/16/6/1'>Neh. 6:1</a>; <a href='/AIV/16/2/18'>Neh. 2:18</a>",
-      "comment": "The rapid completion is presented as a work of divine enabling, showing the fruits of diligent labor and unity under right authority. Completion of sacred work is a sign of God's favor and faithfulness."
+      "comment": "The rapid completion is presented as a work of divine enabling, showing the fruits of diligent labor and unity under right authority. Completion of sacred work is a sign of God's favor and faithfulness.",
+      "sectionHeader": "The Completion of the Wall"
     },
     {
       "pk": 16006016,
@@ -206,7 +209,8 @@
       "verse": 17,
       "text": "Moreover, in those days the nobles of Judah sent many letters to Tobiah, and Tobiah’s letters came to them.",
       "links": "<a href='/AIV/16/13/4'>Neh. 13:4</a>; <a href='/AIV/16/2/10'>Neh. 2:10</a>",
-      "comment": "Internal division and correspondence with adversaries threatened community stability. This reminds us of the importance of unity and fidelity within the household of faith."
+      "comment": "Internal division and correspondence with adversaries threatened community stability. This reminds us of the importance of unity and fidelity within the household of faith.",
+      "sectionHeader": "Intrigues of Tobiah"
     },
     {
       "pk": 16006018,
@@ -233,5 +237,27 @@
       "comment": "The chapter closes with persistent intimidation and internal betrayal. This underscores the importance of steadfast leadership, holy perseverance, and faithful witness in adversity, virtues encouraged for all who serve in the household of faith."
     }
   ],
-  "translatedAt": "2025-12-24T04:48:25.369Z"
+  "translatedAt": "2025-12-24T04:48:25.369Z",
+  "sections": [
+    {
+      "title": "Plots Against Nehemiah",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "The Deception of Shemaiah",
+      "startVerse": 10,
+      "endVerse": 14
+    },
+    {
+      "title": "The Completion of the Wall",
+      "startVerse": 15,
+      "endVerse": 16
+    },
+    {
+      "title": "Intrigues of Tobiah",
+      "startVerse": 17,
+      "endVerse": 19
+    }
+  ]
 }

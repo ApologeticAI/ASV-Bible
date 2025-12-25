@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Be gracious to me, O God, for people trample me; all day long they oppress me and fight against me.",
       "links": "<a href='/AIV/23/57/1'>Ps. 57:1</a>; <a href='/AIV/10/22/1'>2 Sam. 22:1</a>",
-      "comment": "David appeals to God's mercy amidst opposition. The Hebrew expresses a continual, exhausting persecution. The prayer for grace anticipates how true deliverance comes from God."
+      "comment": "David appeals to God's mercy amidst opposition. The Hebrew expresses a continual, exhausting persecution. The prayer for grace anticipates how true deliverance comes from God.",
+      "sectionHeader": "A Plea for Mercy Amid Persecution"
     },
     {
       "pk": 23056002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "When I am afraid, I put my trust in you.",
       "links": "<a href='/AIV/23/34/4'>Ps. 34:4</a>; <a href='/AIV/23/27/1'>Ps. 27:1</a>",
-      "comment": "The act of trusting God in fear is both a personal commitment and a model for believers seeking refuge in God above all else. This echoes surrender and trust akin to Christ’s prayers in Gethsemane (Matt. 26:39)."
+      "comment": "The act of trusting God in fear is both a personal commitment and a model for believers seeking refuge in God above all else. This echoes surrender and trust akin to Christ’s prayers in Gethsemane (Matt. 26:39).",
+      "sectionHeader": "Trust in God in Times of Fear"
     },
     {
       "pk": 23056004,
@@ -98,7 +100,8 @@
       "verse": 8,
       "text": "You have counted my wanderings; put my tears into your bottle—are they not in your record?",
       "links": "<a href='/AIV/23/39/12'>Ps. 39:12</a>; <a href='/AIV/19/126/5'>Ps. 126:5</a>; <a href='/AIV/66/21/4'>Rev. 21:4</a>",
-      "comment": "Storing tears in a bottle is ancient imagery for compassion and remembrance. God collects every sorrow of His servants—a sign of particular care and the reality of intercession, which is also echoed in heavenly prayers (Rev. 5:8)."
+      "comment": "Storing tears in a bottle is ancient imagery for compassion and remembrance. God collects every sorrow of His servants—a sign of particular care and the reality of intercession, which is also echoed in heavenly prayers (Rev. 5:8).",
+      "sectionHeader": "Deliverance and Thanksgiving to God"
     },
     {
       "pk": 23056009,
@@ -161,5 +164,22 @@
       "comment": "God’s deliverance points to resurrection hope—saved from death to walk before God. The ‘light of life’ anticipates Jesus’ claim, 'I am the light of the world' (John 8:12), uniting this Psalm to New Testament fulfillment. Walking before God suggests an ongoing, covenantal relationship, maintained through grace and faithful worship."
     }
   ],
-  "translatedAt": "2025-12-24T06:18:16.642Z"
+  "translatedAt": "2025-12-24T06:18:16.642Z",
+  "sections": [
+    {
+      "title": "A Plea for Mercy Amid Persecution",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "Trust in God in Times of Fear",
+      "startVerse": 3,
+      "endVerse": 7
+    },
+    {
+      "title": "Deliverance and Thanksgiving to God",
+      "startVerse": 8,
+      "endVerse": 13
+    }
+  ]
 }

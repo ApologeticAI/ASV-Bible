@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then Jesus spoke to the crowds and to his disciples,",
       "links": "<a href='/AIV/41/12/38'>Mark 12:38</a>; <a href='/AIV/42/20/45'>Luke 20:45</a>",
-      "comment": "Jesus addresses both the general crowd and His followers, showing that His teaching is for all people. This public rebuke sets the stage for a teaching authoritative in character."
+      "comment": "Jesus addresses both the general crowd and His followers, showing that His teaching is for all people. This public rebuke sets the stage for a teaching authoritative in character.",
+      "sectionHeader": "Jesus Warns Against the Scribes and Pharisees"
     },
     {
       "pk": 47023002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "But woe to you, scribes and Pharisees, hypocrites! For you shut the kingdom of heaven in people’s faces. You yourselves do not enter, nor allow those who want to enter to go in.",
       "links": "<a href='/AIV/42/11/52'>Luke 11:52</a>; <a href='/AIV/22/5/2'>Song 5:2</a>",
-      "comment": "Jesus pronounces judgment against religious leaders for blocking access to God. This woe is a call to repentance and conversion, pointing people to the true way to salvation through Christ."
+      "comment": "Jesus pronounces judgment against religious leaders for blocking access to God. This woe is a call to repentance and conversion, pointing people to the true way to salvation through Christ.",
+      "sectionHeader": "The Seven Woes to the Scribes and Pharisees"
     },
     {
       "pk": 47023014,
@@ -446,7 +448,8 @@
       "verse": 37,
       "text": "O Jerusalem, Jerusalem, you who kill the prophets and stone those who are sent to you! How often I have longed to gather your children together, as a hen gathers her chicks under her wings, and you were not willing.",
       "links": "<a href='/AIV/42/13/34'>Luke 13:34</a>; <a href='/AIV/19/17/8'>Ps. 17:8</a>",
-      "comment": "The image of Christ desiring to gather all under His protection is deeply maternal and ecclesial, suggesting the unity of the faithful. Christ’s lament demonstrates both His divinity and loving invitation."
+      "comment": "The image of Christ desiring to gather all under His protection is deeply maternal and ecclesial, suggesting the unity of the faithful. Christ’s lament demonstrates both His divinity and loving invitation.",
+      "sectionHeader": "Lament over Jerusalem"
     },
     {
       "pk": 47023038,
@@ -473,5 +476,22 @@
       "comment": "Jesus refers to the messianic greeting, linking His second coming to fulfilled prophecy. This verse affirms His identity as the awaited Messiah and divine Son who will be revealed in glory."
     }
   ],
-  "translatedAt": "2025-12-24T10:16:10.366Z"
+  "translatedAt": "2025-12-24T10:16:10.366Z",
+  "sections": [
+    {
+      "title": "Jesus Warns Against the Scribes and Pharisees",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "The Seven Woes to the Scribes and Pharisees",
+      "startVerse": 13,
+      "endVerse": 36
+    },
+    {
+      "title": "Lament over Jerusalem",
+      "startVerse": 37,
+      "endVerse": 39
+    }
+  ]
 }

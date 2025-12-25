@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Do not judge, so that you will not be judged.",
       "links": "<a href='/AIV/42/6/37'>Luke 6:37</a>; <a href='/AIV/45/2/1'>Rom. 2:1</a>",
-      "comment": "This command warns believers against unjust or hypocritical judgment. It does not mean one should forsake discernment (see John 7:24), but cautions against condemning others self-righteously."
+      "comment": "This command warns believers against unjust or hypocritical judgment. It does not mean one should forsake discernment (see John 7:24), but cautions against condemning others self-righteously.",
+      "sectionHeader": "Judging Others"
     },
     {
       "pk": 47007002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "Do not give what is holy to dogs, nor cast your pearls before pigs, or they will trample them under foot and turn to attack you.",
       "links": "<a href='/AIV/20/9/7-8'>Prov. 9:7-8</a>",
-      "comment": "Sacred truth must be shared wisely. The imagery refers to discerning suitable contexts for holy things (as in liturgical or sacramental settings); not all are ready to receive deep truths."
+      "comment": "Sacred truth must be shared wisely. The imagery refers to discerning suitable contexts for holy things (as in liturgical or sacramental settings); not all are ready to receive deep truths.",
+      "sectionHeader": "Profaning the Holy and Answered Prayer"
     },
     {
       "pk": 47007007,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "So whatever you want others to do to you, do likewise to them. For this is the Law and the Prophets.",
       "links": "<a href='/AIV/42/6/31'>Luke 6:31</a>; <a href='/AIV/03/19/18'>Lev. 19:18</a>",
-      "comment": "Known as the Golden Rule, this summarizes the ethical teachings of the Old Testament (see Romans 13:10). Jesus delivers a unifying principle for moral living."
+      "comment": "Known as the Golden Rule, this summarizes the ethical teachings of the Old Testament (see Romans 13:10). Jesus delivers a unifying principle for moral living.",
+      "sectionHeader": "The Golden Rule"
     },
     {
       "pk": 47007013,
@@ -158,7 +161,8 @@
       "verse": 13,
       "text": "Enter through the narrow gate. For wide is the gate and broad is the road that leads to destruction, and many enter through it.",
       "links": "<a href='/AIV/42/13/24'>Luke 13:24</a>; <a href='/AIV/19/1/6'>Ps. 1:6</a>",
-      "comment": "Salvation requires choosing the difficult path of discipleship. The warning against the easy road reflects the need for obedience and perseverance, themes repeated throughout Jesus’ teaching."
+      "comment": "Salvation requires choosing the difficult path of discipleship. The warning against the easy road reflects the need for obedience and perseverance, themes repeated throughout Jesus’ teaching.",
+      "sectionHeader": "The Narrow Gate"
     },
     {
       "pk": 47007014,
@@ -182,7 +186,8 @@
       "verse": 15,
       "text": "Beware of false prophets, who come to you in sheep’s clothing, but inwardly are ravenous wolves.",
       "links": "<a href='/AIV/44/20/29'>Acts 20:29</a>; <a href='/AIV/24/23/16'>Jer. 23:16</a>",
-      "comment": "Authenticity in teaching is essential. The flock must guard against deceptive leaders, which underscores the importance of apostolic succession and tradition in discerning truth."
+      "comment": "Authenticity in teaching is essential. The flock must guard against deceptive leaders, which underscores the importance of apostolic succession and tradition in discerning truth.",
+      "sectionHeader": "A Tree and Its Fruits"
     },
     {
       "pk": 47007016,
@@ -254,7 +259,8 @@
       "verse": 21,
       "text": "Not everyone who says to me, ‘Lord, Lord,’ will enter the kingdom of heaven, but only the one who does the will of my Father in heaven.",
       "links": "<a href='/AIV/42/6/46'>Luke 6:46</a>; <a href='/AIV/59/1/22'>James 1:22</a>",
-      "comment": "Faith must be lived out through obedience. Jesus anticipates being approached as Lord on the last day, reflecting His unique role in salvation and judgment. Here is a strong christological claim: Jesus stands as final judge."
+      "comment": "Faith must be lived out through obedience. Jesus anticipates being approached as Lord on the last day, reflecting His unique role in salvation and judgment. Here is a strong christological claim: Jesus stands as final judge.",
+      "sectionHeader": "True Disciples"
     },
     {
       "pk": 47007022,
@@ -290,7 +296,8 @@
       "verse": 24,
       "text": "Everyone who hears these words of mine and does them will be like a wise man who built his house on the rock.",
       "links": "<a href='/AIV/42/6/47-48'>Luke 6:47-48</a>; <a href='/AIV/19/18/2'>Ps. 18:2</a>",
-      "comment": "Authentic discipleship means hearing and practicing Jesus’ teaching. Christ is the foundation, echoing Old Testament references where God alone is the Rock (see Deut. 32:4; 1 Cor. 10:4)."
+      "comment": "Authentic discipleship means hearing and practicing Jesus’ teaching. Christ is the foundation, echoing Old Testament references where God alone is the Rock (see Deut. 32:4; 1 Cor. 10:4).",
+      "sectionHeader": "The Wise and Foolish Builders"
     },
     {
       "pk": 47007025,
@@ -353,5 +360,42 @@
       "comment": "Unlike the scribes, Jesus speaks with divine authority, fulfilling Old Testament expectations of a prophet like Moses—yet greater, for He is the Word made flesh."
     }
   ],
-  "translatedAt": "2025-12-24T10:05:17.605Z"
+  "translatedAt": "2025-12-24T10:05:17.605Z",
+  "sections": [
+    {
+      "title": "Judging Others",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Profaning the Holy and Answered Prayer",
+      "startVerse": 6,
+      "endVerse": 11
+    },
+    {
+      "title": "The Golden Rule",
+      "startVerse": 12,
+      "endVerse": 12
+    },
+    {
+      "title": "The Narrow Gate",
+      "startVerse": 13,
+      "endVerse": 14
+    },
+    {
+      "title": "A Tree and Its Fruits",
+      "startVerse": 15,
+      "endVerse": 20
+    },
+    {
+      "title": "True Disciples",
+      "startVerse": 21,
+      "endVerse": 23
+    },
+    {
+      "title": "The Wise and Foolish Builders",
+      "startVerse": 24,
+      "endVerse": 29
+    }
+  ]
 }

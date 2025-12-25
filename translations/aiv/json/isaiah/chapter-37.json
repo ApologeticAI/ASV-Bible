@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When King Hezekiah heard this, he tore his clothes, covered himself with sackcloth, and went into the house of the LORD.",
       "links": "<a href='/AIV/12/19/1'>2 Kings 19:1</a>; <a href='/AIV/29/36/22'>Isa. 36:22</a>",
-      "comment": "Hezekiah responds to crisis by seeking God's presence in humility. The act of entering the temple under duress foreshadows seeking God through the sacramental life, especially in times of trial."
+      "comment": "Hezekiah responds to crisis by seeking God's presence in humility. The act of entering the temple under duress foreshadows seeking God through the sacramental life, especially in times of trial.",
+      "sectionHeader": "Hezekiah Seeks Isaiah's Counsel"
     },
     {
       "pk": 29037002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "Now the king heard concerning Tirhakah, king of Cush, 'He has come out to fight against you.' When he heard it, he sent messengers again to Hezekiah, saying,",
       "links": "<a href='/AIV/12/19/9'>2 Kings 19:9</a>",
-      "comment": "Assyrian threats persist, even as events unfold elsewhere. Perseverance in faith amidst repeated trials is a key biblical theme."
+      "comment": "Assyrian threats persist, even as events unfold elsewhere. Perseverance in faith amidst repeated trials is a key biblical theme.",
+      "sectionHeader": "Sennacherib's Threatening Letter"
     },
     {
       "pk": 29037010,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "Hezekiah received the letter from the messengers and read it; then Hezekiah went up to the house of the LORD and spread it before the LORD.",
       "links": "<a href='/AIV/12/19/14'>2 Kings 19:14</a>",
-      "comment": "This physical gesture of presenting the letter mirrors the concept of offering up one’s burdens to God, an act encouraged in the life of the Church (<a href='/AIV/60/5/7'>1 Peter 5:7</a>)."
+      "comment": "This physical gesture of presenting the letter mirrors the concept of offering up one’s burdens to God, an act encouraged in the life of the Church (<a href='/AIV/60/5/7'>1 Peter 5:7</a>).",
+      "sectionHeader": "Hezekiah's Prayer"
     },
     {
       "pk": 29037015,
@@ -254,7 +257,8 @@
       "verse": 21,
       "text": "Then Isaiah, son of Amoz, sent word to Hezekiah: 'Thus says the LORD, the God of Israel: Because you have prayed to me about Sennacherib king of Assyria,",
       "links": "<a href='/AIV/12/19/20'>2 Kings 19:20</a>",
-      "comment": "God’s response is prompted by prayer—a lesson in the efficacy and necessity of intercessory prayer in spiritual life."
+      "comment": "God’s response is prompted by prayer—a lesson in the efficacy and necessity of intercessory prayer in spiritual life.",
+      "sectionHeader": "The Lord's Answer through Isaiah"
     },
     {
       "pk": 29037022,
@@ -434,7 +438,8 @@
       "verse": 36,
       "text": "Then the angel of the LORD went out and struck down a hundred and eighty-five thousand in the camp of the Assyrians. When people arose early in the morning, behold, all these were dead bodies.",
       "links": "<a href='/AIV/23/10/16'>Isa. 10:16</a>; <a href='/AIV/19/35/5-6'>Ps. 35:5-6</a>",
-      "comment": "Divine intervention comes through God’s messenger (angel), showing His power to save even miraculously—anticipating the role of angels in Christ’s ministry (<a href='/AIV/42/22/43'>Luke 22:43</a>)."
+      "comment": "Divine intervention comes through God’s messenger (angel), showing His power to save even miraculously—anticipating the role of angels in Christ’s ministry (<a href='/AIV/42/22/43'>Luke 22:43</a>).",
+      "sectionHeader": "The Destruction of the Assyrian Army and Sennacherib's Death"
     },
     {
       "pk": 29037037,
@@ -461,5 +466,32 @@
       "comment": "Sennacherib’s fall, even as he worships his idol, demonstrates the impotence of false gods. The judgment aligns with the principle that only God gives life and removes rulers in His time. The continuity of succession in the narrative also foreshadows the importance of rightful succession in spiritual leadership."
     }
   ],
-  "translatedAt": "2025-12-24T08:08:04.805Z"
+  "translatedAt": "2025-12-24T08:08:04.805Z",
+  "sections": [
+    {
+      "title": "Hezekiah Seeks Isaiah's Counsel",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "Sennacherib's Threatening Letter",
+      "startVerse": 9,
+      "endVerse": 13
+    },
+    {
+      "title": "Hezekiah's Prayer",
+      "startVerse": 14,
+      "endVerse": 20
+    },
+    {
+      "title": "The Lord's Answer through Isaiah",
+      "startVerse": 21,
+      "endVerse": 35
+    },
+    {
+      "title": "The Destruction of the Assyrian Army and Sennacherib's Death",
+      "startVerse": 36,
+      "endVerse": 38
+    }
+  ]
 }

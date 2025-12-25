@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Hear this word that the LORD has spoken against you, O people of Israel, against the whole family that I brought up out of the land of Egypt:",
       "links": "<a href='/AIV/02/12/51'>Exod. 12:51</a>; <a href='/AIV/19/81/10'>Ps. 81:10</a>",
-      "comment": "Amos begins with a call to all of Israel, reminding them of their deliverance from Egypt—a theme central to God's covenant-keeping faithfulness. The mention of 'family' emphasizes the unity and corporate responsibility of God's people (cf. Exod. 12:51), prefiguring the unity of the Church as the people called out from bondage."
+      "comment": "Amos begins with a call to all of Israel, reminding them of their deliverance from Egypt—a theme central to God's covenant-keeping faithfulness. The mention of 'family' emphasizes the unity and corporate responsibility of God's people (cf. Exod. 12:51), prefiguring the unity of the Church as the people called out from bondage.",
+      "sectionHeader": "Israel's Privilege and Responsibility"
     },
     {
       "pk": 37003002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "Can two walk together unless they have agreed to meet?",
       "links": "<a href='/AIV/19/133/1'>Ps. 133:1</a>",
-      "comment": "A proverb picture—agreement is necessary for unity. Spiritually, this points to fellowship with God being predicated on walking in His ways and in unity of doctrine and worship. Amos subtly teaches that true unity with God requires consent to His will, echoing the need for ordered, visible communion among believers."
+      "comment": "A proverb picture—agreement is necessary for unity. Spiritually, this points to fellowship with God being predicated on walking in His ways and in unity of doctrine and worship. Amos subtly teaches that true unity with God requires consent to His will, echoing the need for ordered, visible communion among believers.",
+      "sectionHeader": "The Inevitability of Judgment"
     },
     {
       "pk": 37003004,
@@ -110,7 +112,8 @@
       "verse": 9,
       "text": "Proclaim this to the palaces in Ashdod and to the palaces in Egypt: 'Gather on the mountains of Samaria and see the great turmoil within her and the oppression in her midst.'",
       "links": "<a href='/AIV/26/30/18'>Ezek. 30:18</a>",
-      "comment": "Foreign nations are called to witness Israel’s woes, revealing that God’s judgment and righteousness are a testimony to the whole world. The mountains serve as vantage points for judgment, echoing Scriptural themes of God revealing His justice not just to Israel but to the nations. This models the idea of visible accountability and universality."
+      "comment": "Foreign nations are called to witness Israel’s woes, revealing that God’s judgment and righteousness are a testimony to the whole world. The mountains serve as vantage points for judgment, echoing Scriptural themes of God revealing His justice not just to Israel but to the nations. This models the idea of visible accountability and universality.",
+      "sectionHeader": "Announcement of Punishment on Samaria"
     },
     {
       "pk": 37003010,
@@ -170,7 +173,8 @@
       "verse": 14,
       "text": "that on the day I punish Israel for her transgressions, I will punish the altars of Bethel; the horns of the altar shall be cut off and fall to the ground.",
       "links": "<a href='/AIV/11/12/28-33'>1 Kings 12:28-33</a>; <a href='/AIV/26/6/4-6'>Ezek. 6:4-6</a>",
-      "comment": "Bethel had become a center of false worship in Israel. The destruction of its altars signifies God’s rejection of unauthorized worship and the need for right worship. The cutting off of altar horns (symbols of refuge and worship) points to the seriousness of liturgical and doctrinal purity and rightful forms of worship, stressing the necessity of authentic sacramental worship instituted by God."
+      "comment": "Bethel had become a center of false worship in Israel. The destruction of its altars signifies God’s rejection of unauthorized worship and the need for right worship. The cutting off of altar horns (symbols of refuge and worship) points to the seriousness of liturgical and doctrinal purity and rightful forms of worship, stressing the necessity of authentic sacramental worship instituted by God.",
+      "sectionHeader": "Destruction of Israel’s Altars and Houses"
     },
     {
       "pk": 37003015,
@@ -185,5 +189,27 @@
       "comment": "The judgment stretches even to the luxurious homes of the wealthy—a warning that no social status can protect from divine judgment. This is a powerful reminder of the call to humility, the transient nature of worldly riches, and the need for detachment and generosity among God's people."
     }
   ],
-  "translatedAt": "2025-12-24T09:42:30.738Z"
+  "translatedAt": "2025-12-24T09:42:30.738Z",
+  "sections": [
+    {
+      "title": "Israel's Privilege and Responsibility",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "The Inevitability of Judgment",
+      "startVerse": 3,
+      "endVerse": 8
+    },
+    {
+      "title": "Announcement of Punishment on Samaria",
+      "startVerse": 9,
+      "endVerse": 13
+    },
+    {
+      "title": "Destruction of Israel’s Altars and Houses",
+      "startVerse": 14,
+      "endVerse": 15
+    }
+  ]
 }

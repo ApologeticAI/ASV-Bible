@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In the one hundred and fifty-first year, Demetrius, son of Seleucus, left Rome and came with a few men to a city by the sea, where he began to reign.",
       "links": "<a href='/AIV/1Macc/1/10'>1 Macc. 1:10</a>",
-      "comment": "The arrival of Demetrius marks a major transition of power over Judea. The historical context is important as it sets up the tension between foreign rule and the Jewish aspiration for freedom."
+      "comment": "The arrival of Demetrius marks a major transition of power over Judea. The historical context is important as it sets up the tension between foreign rule and the Jewish aspiration for freedom.",
+      "sectionHeader": "Demetrius Seizes the Throne"
     },
     {
       "pk": 20007002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "Then all the lawless and ungodly men of Israel gathered around him, with Alcimus, who desired to become high priest.",
       "links": "<a href='/AIV/Ps/94/20-21'>Ps. 94:20-21</a>",
-      "comment": "Alcimus's ambition is significant. He is not from the line traditionally appointed by God, suggesting an illegitimacy in spiritual authority. Implicitly, the priesthood requires valid succession."
+      "comment": "Alcimus's ambition is significant. He is not from the line traditionally appointed by God, suggesting an illegitimacy in spiritual authority. Implicitly, the priesthood requires valid succession.",
+      "sectionHeader": "Alcimus Appointed High Priest and Betrayal of the Hasideans"
     },
     {
       "pk": 20007005,
@@ -242,7 +244,8 @@
       "verse": 20,
       "text": "Then Bacchides returned to the king, and Alcimus stood his ground, trying to maintain his high priesthood.",
       "links": "<a href='/AIV/Num/16/1-35'>Num. 16:1-35</a>",
-      "comment": "Alcimus’s striving to keep the priesthood recalls Korah’s rebellion against the divinely appointed priesthood. Authentic spiritual leadership cannot be taken by force."
+      "comment": "Alcimus’s striving to keep the priesthood recalls Korah’s rebellion against the divinely appointed priesthood. Authentic spiritual leadership cannot be taken by force.",
+      "sectionHeader": "Conflict Between Judas and Alcimus"
     },
     {
       "pk": 20007021,
@@ -314,7 +317,8 @@
       "verse": 26,
       "text": "The king sent Nicanor, one of his most distinguished commanders, who bore great hatred toward Israel, and he commanded him to destroy the people.",
       "links": "<a href='/AIV/Est/3/13'>Est. 3:13</a>",
-      "comment": "Again, hatred and persecution rise against God's people, recurring through all salvation history and ultimately fulfilled in Christ’s Passion."
+      "comment": "Again, hatred and persecution rise against God's people, recurring through all salvation history and ultimately fulfilled in Christ’s Passion.",
+      "sectionHeader": "Nicanor's Plot Against Judas"
     },
     {
       "pk": 20007027,
@@ -398,7 +402,8 @@
       "verse": 33,
       "text": "After these events, Nicanor went up to Mount Zion. Some priests from the temple and elders of the people came out to greet him peacefully and show him the burnt offering being offered for the king.",
       "links": "<a href='/AIV/1Tim/2/1-2'>1 Tim. 2:1-2</a>",
-      "comment": "Offering sacrifices for the king prefigures praying for civil authorities, a practice continued into the Christian era."
+      "comment": "Offering sacrifices for the king prefigures praying for civil authorities, a practice continued into the Christian era.",
+      "sectionHeader": "Nicanor Threatens the Temple; Prayer of the Priests"
     },
     {
       "pk": 20007034,
@@ -470,7 +475,8 @@
       "verse": 39,
       "text": "Nicanor marched out from Jerusalem and set up camp at Beth-horon. The Syrian army joined him.",
       "links": "<a href='/AIV/1Macc/3/16-24'>1 Macc. 3:16-24</a>",
-      "comment": "Beth-horon is a site of previous victories by God’s people, recalling God’s faithfulness through all generations."
+      "comment": "Beth-horon is a site of previous victories by God’s people, recalling God’s faithfulness through all generations.",
+      "sectionHeader": "Defeat and Death of Nicanor"
     },
     {
       "pk": 20007040,
@@ -605,5 +611,37 @@
       "comment": "The story ends with continued strife under an unlawful high priest. This points to the need for a legitimate, unified and lasting priesthood—fulfilled ultimately in Christ and his one true Church."
     }
   ],
-  "translatedAt": "2025-12-24T05:19:15.972Z"
+  "translatedAt": "2025-12-24T05:19:15.972Z",
+  "sections": [
+    {
+      "title": "Demetrius Seizes the Throne",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "Alcimus Appointed High Priest and Betrayal of the Hasideans",
+      "startVerse": 4,
+      "endVerse": 19
+    },
+    {
+      "title": "Conflict Between Judas and Alcimus",
+      "startVerse": 20,
+      "endVerse": 25
+    },
+    {
+      "title": "Nicanor's Plot Against Judas",
+      "startVerse": 26,
+      "endVerse": 32
+    },
+    {
+      "title": "Nicanor Threatens the Temple; Prayer of the Priests",
+      "startVerse": 33,
+      "endVerse": 38
+    },
+    {
+      "title": "Defeat and Death of Nicanor",
+      "startVerse": 39,
+      "endVerse": 50
+    }
+  ]
 }

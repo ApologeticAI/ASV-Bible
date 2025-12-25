@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When Samuel grew old, he appointed his sons as judges over Israel.",
       "links": "<a href='/AIV/9/12/2'>1Sam 12:2</a>",
-      "comment": "Samuel's leadership transitions, with his sons taking roles of authority. This reveals the hereditary aspects of some leadership, but unlike later kings, judges did not have royal continuity."
+      "comment": "Samuel's leadership transitions, with his sons taking roles of authority. This reveals the hereditary aspects of some leadership, but unlike later kings, judges did not have royal continuity.",
+      "sectionHeader": "Samuel’s Sons Appointed as Judges"
     },
     {
       "pk": 9008002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "Then all the elders of Israel gathered together and came to Samuel at Ramah.",
       "links": "<a href='/AIV/9/7/17'>1Sam 7:17</a>",
-      "comment": "The elders act in unison, signaling significant leadership and the importance of unified counsel in the community of faith."
+      "comment": "The elders act in unison, signaling significant leadership and the importance of unified counsel in the community of faith.",
+      "sectionHeader": "Israel Demands a King"
     },
     {
       "pk": 9008005,
@@ -122,7 +124,8 @@
       "verse": 10,
       "text": "So Samuel told all the words of the LORD to the people who were asking for a king.",
       "links": "<a href='/AIV/9/3/18'>1Sam 3:18</a>",
-      "comment": "Samuel acts as faithful prophet, declaring God’s word, modeling obedience—a foreshadowing of the necessity of sacred guidance in the community."
+      "comment": "Samuel acts as faithful prophet, declaring God’s word, modeling obedience—a foreshadowing of the necessity of sacred guidance in the community.",
+      "sectionHeader": "The Lord’s Warning About Kings"
     },
     {
       "pk": 9008011,
@@ -230,7 +233,8 @@
       "verse": 19,
       "text": "But the people refused to listen to the voice of Samuel. They said, 'No! But there shall be a king over us,'",
       "links": "<a href='/AIV/9/10/19'>1Sam 10:19</a>",
-      "comment": "Despite warnings, Israel insists on a king. This human willfulness is an ongoing spiritual theme, underscoring obedience to God’s chosen order."
+      "comment": "Despite warnings, Israel insists on a king. This human willfulness is an ongoing spiritual theme, underscoring obedience to God’s chosen order.",
+      "sectionHeader": "Israel Insists on a King"
     },
     {
       "pk": 9008020,
@@ -269,5 +273,27 @@
       "comment": "Ultimately, God allows Israel’s request, respecting human freedom but not abandoning His people. This passage reminds us that God's providence continues even when His people reject His immediate will, ultimately preparing for the true King, Jesus."
     }
   ],
-  "translatedAt": "2025-12-24T02:52:46.464Z"
+  "translatedAt": "2025-12-24T02:52:46.464Z",
+  "sections": [
+    {
+      "title": "Samuel’s Sons Appointed as Judges",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "Israel Demands a King",
+      "startVerse": 4,
+      "endVerse": 9
+    },
+    {
+      "title": "The Lord’s Warning About Kings",
+      "startVerse": 10,
+      "endVerse": 18
+    },
+    {
+      "title": "Israel Insists on a King",
+      "startVerse": 19,
+      "endVerse": 22
+    }
+  ]
 }

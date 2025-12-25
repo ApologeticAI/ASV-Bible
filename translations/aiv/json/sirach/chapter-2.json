@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "My child, if you come to serve the Lord, prepare yourself for testing.",
       "links": "<a href='/AIV/19/34/19'>Psalm 34:19</a>; <a href='/AIV/59/1/2-4'>James 1:2-4</a>",
-      "comment": "Service to God is intertwined with trials; this verse anticipates the New Testament teaching that faith is refined through testing. Compare with James 1:2-4, where believers are called to rejoice in trials for growth in perseverance."
+      "comment": "Service to God is intertwined with trials; this verse anticipates the New Testament teaching that faith is refined through testing. Compare with James 1:2-4, where believers are called to rejoice in trials for growth in perseverance.",
+      "sectionHeader": "Exhortation to Persevere in Trials"
     },
     {
       "pk": 28002002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "You who fear the Lord, wait for His mercy, and do not turn aside lest you fall.",
       "links": "<a href='/AIV/19/130/7'>Ps. 130:7</a>; <a href='/AIV/19/25/3'>Ps. 25:3</a>",
-      "comment": "Waiting on God’s mercy is a call of hope and steadfastness. In Psalm 130, waiting on the Lord is closely linked with redemption."
+      "comment": "Waiting on God’s mercy is a call of hope and steadfastness. In Psalm 130, waiting on the Lord is closely linked with redemption.",
+      "sectionHeader": "The Rewards of Trusting in the Lord"
     },
     {
       "pk": 28002008,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "Woe to fainthearted hearts and to hands that fall slack, and to the sinner who walks two paths!",
       "links": "<a href='/AIV/66/3/16'>Revelation 3:16</a>; <a href='/AIV/59/1/8'>James 1:8</a>",
-      "comment": "The warning against double-mindedness and weak resolve is echoed in James 1:8 and Revelation 3, where God calls out those who are ‘lukewarm’. Commitment is essential to true discipleship."
+      "comment": "The warning against double-mindedness and weak resolve is echoed in James 1:8 and Revelation 3, where God calls out those who are ‘lukewarm’. Commitment is essential to true discipleship.",
+      "sectionHeader": "Woes for the Fainthearted"
     },
     {
       "pk": 28002013,
@@ -182,7 +185,8 @@
       "verse": 15,
       "text": "Those who fear the Lord will not disobey His words, and those who love Him will keep His ways.",
       "links": "<a href='/AIV/19/119/1'>Ps. 119:1</a>; <a href='/AIV/43/14/23'>John 14:23</a>",
-      "comment": "Obedience is the fruit of reverence; Christ reiterates, ‘If anyone loves me, he will keep my word’ (John 14:23). Obedience and love are inseparable."
+      "comment": "Obedience is the fruit of reverence; Christ reiterates, ‘If anyone loves me, he will keep my word’ (John 14:23). Obedience and love are inseparable.",
+      "sectionHeader": "Blessings for Those Who Fear the Lord"
     },
     {
       "pk": 28002016,
@@ -221,5 +225,27 @@
       "comment": "David expresses similar trust in God’s mercy in 2 Samuel 24:14. God’s mercy transcends human justice and brings assurance to the penitent heart. Sirach closes this chapter with confident surrender and trust in God's sovereign mercy."
     }
   ],
-  "translatedAt": "2025-12-24T07:24:00.847Z"
+  "translatedAt": "2025-12-24T07:24:00.847Z",
+  "sections": [
+    {
+      "title": "Exhortation to Persevere in Trials",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "The Rewards of Trusting in the Lord",
+      "startVerse": 7,
+      "endVerse": 11
+    },
+    {
+      "title": "Woes for the Fainthearted",
+      "startVerse": 12,
+      "endVerse": 14
+    },
+    {
+      "title": "Blessings for Those Who Fear the Lord",
+      "startVerse": 15,
+      "endVerse": 18
+    }
+  ]
 }

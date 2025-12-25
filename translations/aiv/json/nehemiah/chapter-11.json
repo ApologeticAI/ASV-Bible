@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now the leaders of the people lived in Jerusalem, and the rest of the people cast lots, to bring one out of ten to live in Jerusalem, the holy city, while nine out of ten remained in the other towns.",
       "links": "<a href='/AIV/03/25/10-12'>Lev. 25:10-12</a>; <a href='/AIV/16/7/4'>Neh. 7:4</a>",
-      "comment": "The use of casting lots indicates a trust in the sovereignty of God to choose the people to inhabit His holy city. Jerusalem being called 'the holy city' connects to its special role in salvation history (see Isa. 52:1)."
+      "comment": "The use of casting lots indicates a trust in the sovereignty of God to choose the people to inhabit His holy city. Jerusalem being called 'the holy city' connects to its special role in salvation history (see Isa. 52:1).",
+      "sectionHeader": "The Resettlement of Jerusalem"
     },
     {
       "pk": 16011002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "These are the chiefs of the province who lived in Jerusalem; but in the towns of Judah everyone lived on his own property in their towns: Israel, the priests, the Levites, the temple servants, and the descendants of Solomon's servants.",
       "links": "<a href='/AIV/16/7/6'>Neh. 7:6</a>; <a href='/AIV/15/2/43-58'>Ezra 2:43-58</a>",
-      "comment": "The returnees are grouped by their roles in worship and service. The mention of priests and Levites reinforces the importance of clear spiritual leadership and tradition kept through succession."
+      "comment": "The returnees are grouped by their roles in worship and service. The mention of priests and Levites reinforces the importance of clear spiritual leadership and tradition kept through succession.",
+      "sectionHeader": "Inhabitants of Jerusalem"
     },
     {
       "pk": 16011004,
@@ -302,7 +304,8 @@
       "verse": 25,
       "text": "As for the villages with their fields, some of the people of Judah lived in Kiriath-arba and its villages, in Dibon and its villages, in Jekabzeel and its villages,",
       "links": "<a href='/AIV/06/21/9-16'>Josh. 21:9-16</a>",
-      "comment": "Settlements are listed for Judah, reflecting fulfillment of the promise of land and the importance of rootedness in place and tradition."
+      "comment": "Settlements are listed for Judah, reflecting fulfillment of the promise of land and the importance of rootedness in place and tradition.",
+      "sectionHeader": "Villages and Towns of Judah and Benjamin"
     },
     {
       "pk": 16011026,
@@ -437,5 +440,22 @@
       "comment": "Levites from Judah living among Benjamin shows cooperative spiritual ministry and the united nature of God's worshipping people, subtly mirroring the later universal structure of the Church. Christ’s ministry transcends tribal boundaries."
     }
   ],
-  "translatedAt": "2025-12-24T04:52:03.363Z"
+  "translatedAt": "2025-12-24T04:52:03.363Z",
+  "sections": [
+    {
+      "title": "The Resettlement of Jerusalem",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "Inhabitants of Jerusalem",
+      "startVerse": 3,
+      "endVerse": 24
+    },
+    {
+      "title": "Villages and Towns of Judah and Benjamin",
+      "startVerse": 25,
+      "endVerse": 36
+    }
+  ]
 }

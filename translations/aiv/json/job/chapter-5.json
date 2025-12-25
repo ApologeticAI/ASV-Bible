@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Call now—will anyone answer you? And to which of the holy ones will you turn?",
       "links": "<a href='/AIV/18/15/15'>Job 15:15</a>; <a href='/AIV/41/1/24'>Mark 1:24</a>",
-      "comment": "Eliphaz challenges Job to seek help from the holy ones, hinting at the need for mediation and intercession. This reflects the scriptural motif of asking the righteous to intercede (cf. James 5:16), subtly affirming the value of seeking spiritual intercession."
+      "comment": "Eliphaz challenges Job to seek help from the holy ones, hinting at the need for mediation and intercession. This reflects the scriptural motif of asking the righteous to intercede (cf. James 5:16), subtly affirming the value of seeking spiritual intercession.",
+      "sectionHeader": "The Fate of the Foolish"
     },
     {
       "pk": 22005002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "But as for me, I would seek God, and to Him I would present my case.",
       "links": "<a href='/AIV/19/34/4'>Ps. 34:4</a>; <a href='/AIV/40/6/33'>Matt. 6:33</a>",
-      "comment": "The emphasis on approaching God directly hints at both individual petition and the historical development of asking for spiritual aid—prayer as the means to approach God’s mercy."
+      "comment": "The emphasis on approaching God directly hints at both individual petition and the historical development of asking for spiritual aid—prayer as the means to approach God’s mercy.",
+      "sectionHeader": "Seek God Who Does Wonders"
     },
     {
       "pk": 22005009,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "Behold, blessed is the one whom God reproves; so do not despise the discipline of the Almighty.",
       "links": "<a href='/AIV/20/3/11'>Prov. 3:11–12</a>; <a href='/AIV/58/12/5'>Heb. 12:5–6</a>",
-      "comment": "God’s discipline signifies His love and leads to spiritual growth (see Hebrews 12 and Proverbs); embracing divine correction as a path to holiness is a sign of spiritual maturity."
+      "comment": "God’s discipline signifies His love and leads to spiritual growth (see Hebrews 12 and Proverbs); embracing divine correction as a path to holiness is a sign of spiritual maturity.",
+      "sectionHeader": "The Blessings of Divine Discipline"
     },
     {
       "pk": 22005018,
@@ -329,5 +332,22 @@
       "comment": "Eliphaz concludes with an exhortation to listen and learn—paralleling wisdom traditions in Scripture, inviting faithful application as a path to holiness and deeper union with God."
     }
   ],
-  "translatedAt": "2025-12-24T05:41:26.661Z"
+  "translatedAt": "2025-12-24T05:41:26.661Z",
+  "sections": [
+    {
+      "title": "The Fate of the Foolish",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Seek God Who Does Wonders",
+      "startVerse": 8,
+      "endVerse": 16
+    },
+    {
+      "title": "The Blessings of Divine Discipline",
+      "startVerse": 17,
+      "endVerse": 27
+    }
+  ]
 }

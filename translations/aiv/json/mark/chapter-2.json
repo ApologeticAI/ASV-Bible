@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "A few days later, when Jesus returned to Capernaum, the news spread that He was at home.",
       "links": "<a href='/AIV/40/9/1'>Matt. 9:1</a>; <a href='/AIV/42/5/17'>Luke 5:17</a>",
-      "comment": "Jesus centers His ministry in Capernaum, indicating the importance of a physical home for gathering the faithful, a theme that echoes the establishment of spiritual community."
+      "comment": "Jesus centers His ministry in Capernaum, indicating the importance of a physical home for gathering the faithful, a theme that echoes the establishment of spiritual community.",
+      "sectionHeader": "Healing of the Paralytic"
     },
     {
       "pk": 48002002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "He went out again beside the sea, and the whole crowd came to Him, and He taught them.",
       "links": "<a href='/AIV/40/4/13'>Matt. 4:13</a>; <a href='/AIV/42/5/27'>Luke 5:27</a>",
-      "comment": "Teaching at the shore is a recurring image in the Gospels, symbolizing Jesus as the source of living water to all who gather."
+      "comment": "Teaching at the shore is a recurring image in the Gospels, symbolizing Jesus as the source of living water to all who gather.",
+      "sectionHeader": "The Call of Levi"
     },
     {
       "pk": 48002014,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "Now John’s disciples and the Pharisees were fasting. And people came and asked Him, 'Why do John’s disciples and the disciples of the Pharisees fast, but Your disciples do not fast?'",
       "links": "<a href='/AIV/40/9/14'>Matt. 9:14</a>; <a href='/AIV/42/5/33'>Luke 5:33</a>",
-      "comment": "The question about fasting centers on spiritual discipline and tradition; Jesus' answer will position Himself as the focus of true devotion."
+      "comment": "The question about fasting centers on spiritual discipline and tradition; Jesus' answer will position Himself as the focus of true devotion.",
+      "sectionHeader": "A Question About Fasting"
     },
     {
       "pk": 48002019,
@@ -278,7 +281,8 @@
       "verse": 23,
       "text": "One Sabbath, as He was passing through the grainfields, His disciples began to pluck heads of grain as they walked along.",
       "links": "<a href='/AIV/40/12/1'>Matt. 12:1</a>; <a href='/AIV/5/23/25'>Deut. 23:25</a>",
-      "comment": "The disciples’ actions are permitted by the Law for travelers (see <a href='/AIV/5/23/25'>Deut. 23:25</a>), but the Sabbath becomes a test of authority."
+      "comment": "The disciples’ actions are permitted by the Law for travelers (see <a href='/AIV/5/23/25'>Deut. 23:25</a>), but the Sabbath becomes a test of authority.",
+      "sectionHeader": "The Lord of the Sabbath"
     },
     {
       "pk": 48002024,
@@ -341,5 +345,27 @@
       "comment": "Jesus openly declares His divinity by claiming lordship over the Sabbath, which is instituted by God Himself; this directly links Him to the divine Messiah prophesied in Daniel."
     }
   ],
-  "translatedAt": "2025-12-24T10:22:37.792Z"
+  "translatedAt": "2025-12-24T10:22:37.792Z",
+  "sections": [
+    {
+      "title": "Healing of the Paralytic",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "The Call of Levi",
+      "startVerse": 13,
+      "endVerse": 17
+    },
+    {
+      "title": "A Question About Fasting",
+      "startVerse": 18,
+      "endVerse": 22
+    },
+    {
+      "title": "The Lord of the Sabbath",
+      "startVerse": 23,
+      "endVerse": 28
+    }
+  ]
 }

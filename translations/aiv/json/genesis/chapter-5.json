@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "This is the book of the generations of Adam. When God created mankind, He made them in the likeness of God.",
       "links": "<a href='/AIV/1/1/26-27'>Gen 1:26-27</a>; <a href='/AIV/1/9/6'>Gen 9:6</a>",
-      "comment": "The mention of the 'book of the generations' introduces a formal genealogy, underlining the historicity and continuity of the human race. The image of being made in God's likeness is foundational for Christian anthropology, linking creation to the Incarnation—when Christ, the new Adam, assumes human nature. See also <a href='/AIV/45/5/14'>Romans 5:14</a>."
+      "comment": "The mention of the 'book of the generations' introduces a formal genealogy, underlining the historicity and continuity of the human race. The image of being made in God's likeness is foundational for Christian anthropology, linking creation to the Incarnation—when Christ, the new Adam, assumes human nature. See also <a href='/AIV/45/5/14'>Romans 5:14</a>.",
+      "sectionHeader": "The Descendants of Adam"
     },
     {
       "pk": 1005002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "When Adam had lived 130 years, he fathered a son in his own likeness, according to his image, and named him Seth.",
       "links": "<a href='/AIV/1/4/25'>Gen 4:25</a>; <a href='/AIV/42/3/38'>Luke 3:38</a>",
-      "comment": "Seth is presented as Adam's true heir, in contrast to Cain. The 'likeness and image' language mirrors God's creation of Adam, signifying the transmission of both life and spiritual heritage."
+      "comment": "Seth is presented as Adam's true heir, in contrast to Cain. The 'likeness and image' language mirrors God's creation of Adam, signifying the transmission of both life and spiritual heritage.",
+      "sectionHeader": "The Line of Seth"
     },
     {
       "pk": 1005004,
@@ -254,7 +256,8 @@
       "verse": 21,
       "text": "When Enoch had lived sixty-five years, he fathered Methuselah.",
       "links": "",
-      "comment": "Methuselah becomes famous for his longevity, but Enoch is famous for his spiritual walk."
+      "comment": "Methuselah becomes famous for his longevity, but Enoch is famous for his spiritual walk.",
+      "sectionHeader": "Enoch Walks with God"
     },
     {
       "pk": 1005022,
@@ -338,7 +341,8 @@
       "verse": 28,
       "text": "When Lamech had lived one hundred eighty-two years, he fathered a son.",
       "links": "",
-      "comment": "The anticipation builds as the genealogy leads to Noah, a man through whom God will renew the world."
+      "comment": "The anticipation builds as the genealogy leads to Noah, a man through whom God will renew the world.",
+      "sectionHeader": "Noah and His Sons"
     },
     {
       "pk": 1005029,
@@ -389,5 +393,27 @@
       "comment": "Noah's three sons become progenitors of the human race after the flood, symbolizing the threefold nature of unity amidst diversity in God's family. This prepares the way for the salvation of the world through a remnant people."
     }
   ],
-  "translatedAt": "2025-12-24T00:12:56.480Z"
+  "translatedAt": "2025-12-24T00:12:56.480Z",
+  "sections": [
+    {
+      "title": "The Descendants of Adam",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "The Line of Seth",
+      "startVerse": 3,
+      "endVerse": 20
+    },
+    {
+      "title": "Enoch Walks with God",
+      "startVerse": 21,
+      "endVerse": 27
+    },
+    {
+      "title": "Noah and His Sons",
+      "startVerse": 28,
+      "endVerse": 32
+    }
+  ]
 }

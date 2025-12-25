@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "What then shall we say that Abraham, our forefather according to the flesh, has found?",
       "links": "<a href='/AIV/01/15/6'>Gen. 15:6</a>",
-      "comment": "Paul begins with Abraham as the example of justification, highlighting the shared ancestry and the importance of Abraham's role. The question underlines a search for understanding regarding how righteousness is received."
+      "comment": "Paul begins with Abraham as the example of justification, highlighting the shared ancestry and the importance of Abraham's role. The question underlines a search for understanding regarding how righteousness is received.",
+      "sectionHeader": "Abraham Justified by Faith"
     },
     {
       "pk": 52004002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "Just as David also speaks of the blessing on the man to whom God credits righteousness apart from works:",
       "links": "<a href='/AIV/19/32/1-2'>Ps. 32:1-2</a>",
-      "comment": "David’s psalm is cited as a further Old Testament witness that the forgiveness and justification of God is primary, coming before and apart from our works."
+      "comment": "David’s psalm is cited as a further Old Testament witness that the forgiveness and justification of God is primary, coming before and apart from our works.",
+      "sectionHeader": "The Blessing of Righteousness Apart from Works"
     },
     {
       "pk": 52004007,
@@ -110,7 +112,8 @@
       "verse": 9,
       "text": "Is this blessing only for the circumcised, or also for the uncircumcised? For we say that faith was credited to Abraham as righteousness.",
       "links": "<a href='/AIV/01/15/6'>Gen. 15:6</a>; <a href='/AIV/48/3/7-9'>Gal. 3:7-9</a>",
-      "comment": "Paul raises the question of universality—righteousness by faith is available to both Jew and Gentile. This displays the faith as preceding signs or ritual."
+      "comment": "Paul raises the question of universality—righteousness by faith is available to both Jew and Gentile. This displays the faith as preceding signs or ritual.",
+      "sectionHeader": "Abraham, Father of All Who Believe"
     },
     {
       "pk": 52004010,
@@ -158,7 +161,8 @@
       "verse": 13,
       "text": "For the promise to Abraham or to his descendants that he would inherit the world was not through the law, but through the righteousness of faith.",
       "links": "<a href='/AIV/01/12/3'>Gen. 12:3</a>; <a href='/AIV/01/17/5-6'>Gen. 17:5-6</a>",
-      "comment": "The inheritance is traced to a promise grounded in faith, not law, highlighting God's covenantal faithfulness. Christ fulfills this as the true descendant."
+      "comment": "The inheritance is traced to a promise grounded in faith, not law, highlighting God's covenantal faithfulness. Christ fulfills this as the true descendant.",
+      "sectionHeader": "The Promise Realized Through Faith"
     },
     {
       "pk": 52004014,
@@ -218,7 +222,8 @@
       "verse": 18,
       "text": "In hope against hope, he believed, so that he might become the father of many nations, according to what was spoken: 'So shall your offspring be.'",
       "links": "<a href='/AIV/01/15/5'>Gen. 15:5</a>; <a href='/AIV/58/11/11-12'>Heb. 11:11-12</a>",
-      "comment": "Abraham’s radical hope and trust is highlighted as the model of faith. His story also anticipates God’s faithfulness through miraculous means, fulfilled fully in Christ."
+      "comment": "Abraham’s radical hope and trust is highlighted as the model of faith. His story also anticipates God’s faithfulness through miraculous means, fulfilled fully in Christ.",
+      "sectionHeader": "The Example of Abraham's Faith"
     },
     {
       "pk": 52004019,
@@ -305,5 +310,32 @@
       "comment": "Jesus' passion and resurrection fulfill the prophecy of Isaiah 53 and serve as the foundation of Christian faith, uniting believers throughout history in Christ and the grace administered through Him."
     }
   ],
-  "translatedAt": "2025-12-24T11:37:48.038Z"
+  "translatedAt": "2025-12-24T11:37:48.038Z",
+  "sections": [
+    {
+      "title": "Abraham Justified by Faith",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "The Blessing of Righteousness Apart from Works",
+      "startVerse": 6,
+      "endVerse": 8
+    },
+    {
+      "title": "Abraham, Father of All Who Believe",
+      "startVerse": 9,
+      "endVerse": 12
+    },
+    {
+      "title": "The Promise Realized Through Faith",
+      "startVerse": 13,
+      "endVerse": 17
+    },
+    {
+      "title": "The Example of Abraham's Faith",
+      "startVerse": 18,
+      "endVerse": 25
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "One finds in the records that Jeremiah the prophet commanded those who were exiled to take from the fire the sacred fire, just as has been related.",
       "links": "<a href='/AIV/24/29/1-14'>Jer. 29:1-14</a>; <a href='/AIV/16/1/1-3'>Neh. 1:1-3</a>",
-      "comment": "This introduces the tradition surrounding Jeremiah and the preservation of sacred elements during the exile, a theme present in other post-exilic books. The emphasis on safeguarding divine things echoes the continuity and protection of holy faith through tribulations."
+      "comment": "This introduces the tradition surrounding Jeremiah and the preservation of sacred elements during the exile, a theme present in other post-exilic books. The emphasis on safeguarding divine things echoes the continuity and protection of holy faith through tribulations.",
+      "sectionHeader": "Jeremiah Hides the Sacred Objects"
     },
     {
       "pk": 21002002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "It is also recorded how Solomon, full of wisdom, offered a dedication and prayer at the consecration of the temple.",
       "links": "<a href='/AIV/11/8/22-53'>1 Kings 8:22-53</a>",
-      "comment": "Recalling the temple’s consecration ties this narrative to the continuity of worship through temple and priesthood, elements fulfilled and spiritualized in Christ as the true high priest (<a href='/AIV/58/4/14'>Heb. 4:14</a>)."
+      "comment": "Recalling the temple’s consecration ties this narrative to the continuity of worship through temple and priesthood, elements fulfilled and spiritualized in Christ as the true high priest (<a href='/AIV/58/4/14'>Heb. 4:14</a>).",
+      "sectionHeader": "Solomon and the Dedication of the Temple"
     },
     {
       "pk": 21002010,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "The same things were written and explained in the records and memoirs of Nehemiah, and also how he founded a library and collected books concerning the kings, prophets, and writings of David, and the letters of royal gifts.",
       "links": "<a href='/AIV/16/13/1-3'>Neh. 13:1-3</a>",
-      "comment": "Early compilation of sacred writings mirrors the later development of the Scriptures; it testifies to the value of tradition and written record in preserving faith."
+      "comment": "Early compilation of sacred writings mirrors the later development of the Scriptures; it testifies to the value of tradition and written record in preserving faith.",
+      "sectionHeader": "Nehemiah’s Library and Preservation of the Sacred Writings"
     },
     {
       "pk": 21002014,
@@ -194,7 +197,8 @@
       "verse": 16,
       "text": "Now, as we are about to celebrate the purification, we write to you. You should do the same.",
       "links": "<a href='/AIV/42/2/22'>Luke 2:22</a>",
-      "comment": "Reference to the purification suggests continuity with temple practices and worship, which are fulfilled spiritually for Christians in the cleansing work of Christ."
+      "comment": "Reference to the purification suggests continuity with temple practices and worship, which are fulfilled spiritually for Christians in the cleansing work of Christ.",
+      "sectionHeader": "The Purification and Dedication of the Temple"
     },
     {
       "pk": 21002017,
@@ -302,7 +306,8 @@
       "verse": 25,
       "text": "Because Jason of Cyrene has set out, in five volumes, to recount all these happenings,",
       "links": "",
-      "comment": "Reference to Jason’s work shows care for accurate tradition and testimony, reflecting the commitment to truth and careful transmission of faith."
+      "comment": "Reference to Jason’s work shows care for accurate tradition and testimony, reflecting the commitment to truth and careful transmission of faith.",
+      "sectionHeader": "Purpose and Method of This Abridgement"
     },
     {
       "pk": 21002026,
@@ -389,5 +394,32 @@
       "comment": "The metaphor of the farmer and grain reflects the spiritual work of sowing and reaping in due season, a common image for teaching and spiritual formation throughout Scripture (<a href='/AIV/48/6/9'>Gal. 6:9</a>)."
     }
   ],
-  "translatedAt": "2025-12-24T05:29:55.952Z"
+  "translatedAt": "2025-12-24T05:29:55.952Z",
+  "sections": [
+    {
+      "title": "Jeremiah Hides the Sacred Objects",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "Solomon and the Dedication of the Temple",
+      "startVerse": 9,
+      "endVerse": 12
+    },
+    {
+      "title": "Nehemiah’s Library and Preservation of the Sacred Writings",
+      "startVerse": 13,
+      "endVerse": 15
+    },
+    {
+      "title": "The Purification and Dedication of the Temple",
+      "startVerse": 16,
+      "endVerse": 24
+    },
+    {
+      "title": "Purpose and Method of This Abridgement",
+      "startVerse": 25,
+      "endVerse": 32
+    }
+  ]
 }

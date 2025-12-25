@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Man, born of woman, is short-lived and full of trouble.",
       "links": "<a href='/AIV/19/90/10'>Ps. 90:10</a>; <a href='/AIV/18/7/1'>Job 7:1</a>; <a href='/AIV/18/5/7'>Job 5:7</a>",
-      "comment": "Job opens by noting the brevity and suffering of human life, highlighting human dependence on God and the reality of original sin—echoed in Psalm 90:10 and Job 7:1. This introduces the theme of mortality and spiritual struggle central to Christian understanding."
+      "comment": "Job opens by noting the brevity and suffering of human life, highlighting human dependence on God and the reality of original sin—echoed in Psalm 90:10 and Job 7:1. This introduces the theme of mortality and spiritual struggle central to Christian understanding.",
+      "sectionHeader": "The Brevity and Suffering of Human Life"
     },
     {
       "pk": 22014002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "For there is hope for a tree: if it is cut down, it will sprout again, and its shoots will not cease.",
       "links": "<a href='/AIV/23/11/1'>Isa. 11:1</a>; <a href='/AIV/19/92/12'>Ps. 92:12</a>",
-      "comment": "Unlike man, a tree may revive after being cut down, offering an image of renewal. The tree’s hope echoes prophetic signs of new life and restoration, as in Isaiah 11:1—a messianic foreshadowing."
+      "comment": "Unlike man, a tree may revive after being cut down, offering an image of renewal. The tree’s hope echoes prophetic signs of new life and restoration, as in Isaiah 11:1—a messianic foreshadowing.",
+      "sectionHeader": "Death and the Hope of Renewal"
     },
     {
       "pk": 22014008,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "But as a mountain falls and crumbles, and as a rock is moved from its place—",
       "links": "<a href='/AIV/19/46/2'>Ps. 46:2</a>",
-      "comment": "Mountains falling and rocks being moved symbolize inevitable change and mortality, highlighting the fragile nature of creation apart from God’s sustaining power."
+      "comment": "Mountains falling and rocks being moved symbolize inevitable change and mortality, highlighting the fragile nature of creation apart from God’s sustaining power.",
+      "sectionHeader": "The Finality of Death"
     },
     {
       "pk": 22014019,
@@ -269,5 +272,22 @@
       "comment": "Job closes this thought in sorrow for human suffering and isolation, reflecting the profound need for restoration—foreshadowing the hope of bodily resurrection and the promise of eternal life in union with God."
     }
   ],
-  "translatedAt": "2025-12-24T05:45:28.722Z"
+  "translatedAt": "2025-12-24T05:45:28.722Z",
+  "sections": [
+    {
+      "title": "The Brevity and Suffering of Human Life",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Death and the Hope of Renewal",
+      "startVerse": 7,
+      "endVerse": 17
+    },
+    {
+      "title": "The Finality of Death",
+      "startVerse": 18,
+      "endVerse": 22
+    }
+  ]
 }

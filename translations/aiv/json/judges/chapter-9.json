@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Abimelech, son of Jerubbaal, went to Shechem, to his mother's brothers, and spoke to them and to all the clan of his mother's family.",
       "links": "<a href='/AIV/7/8/31'>Judg. 8:31</a>; <a href='/AIV/7/6/32'>Judg. 6:32</a>",
-      "comment": "Abimelech initiates his campaign for power among his maternal kin, indicating the influence of family ties in ancient Israelite society. Jerubbaal refers to Gideon, underscoring continuity of leadership after the judges."
+      "comment": "Abimelech initiates his campaign for power among his maternal kin, indicating the influence of family ties in ancient Israelite society. Jerubbaal refers to Gideon, underscoring continuity of leadership after the judges.",
+      "sectionHeader": "Abimelech's Conspiracy and Massacre of His Brothers"
     },
     {
       "pk": 7009002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "When Jotham was told of it, he went and stood on top of Mount Gerizim, and called out in a loud voice, saying, \"Listen to me, men of Shechem, that God may listen to you!\"",
       "links": "<a href='/AIV/5/27/12'>Deut. 27:12</a>; <a href='/AIV/7/9/37'>Judg. 9:37</a>",
-      "comment": "Gerizim was a site of blessing in Israel's history (Deut. 27:12). Jotham functions as prophet, warning of consequences. His appeal for the people to listen is echoed in Christ’s teachings (Mark 4:9)."
+      "comment": "Gerizim was a site of blessing in Israel's history (Deut. 27:12). Jotham functions as prophet, warning of consequences. His appeal for the people to listen is echoed in Christ’s teachings (Mark 4:9).",
+      "sectionHeader": "Jotham's Parable and Curse"
     },
     {
       "pk": 7009008,
@@ -266,7 +268,8 @@
       "verse": 22,
       "text": "Abimelech ruled over Israel for three years.",
       "links": "<a href='/AIV/7/10/2'>Judg. 10:2</a>",
-      "comment": "Abimelech’s brief reign marks instability when leadership does not follow divine guidance. The number three has symbolic resonance with completeness in Scripture (Matt. 12:40)."
+      "comment": "Abimelech’s brief reign marks instability when leadership does not follow divine guidance. The number three has symbolic resonance with completeness in Scripture (Matt. 12:40).",
+      "sectionHeader": "Abimelech's Rule and the Treachery of Shechem"
     },
     {
       "pk": 7009023,
@@ -314,7 +317,8 @@
       "verse": 26,
       "text": "Gaal son of Ebed came with his brothers and went over to Shechem, and the men of Shechem put their trust in him.",
       "links": "<a href='/AIV/7/9/28'>Judg. 9:28</a>",
-      "comment": "New challenger emerges, continuing the pattern of rebellion and contested leadership among God’s people."
+      "comment": "New challenger emerges, continuing the pattern of rebellion and contested leadership among God’s people.",
+      "sectionHeader": "The Revolt and Destruction of Shechem"
     },
     {
       "pk": 7009027,
@@ -602,7 +606,8 @@
       "verse": 50,
       "text": "Then Abimelech went to Thebez and encamped against Thebez, and captured it.",
       "links": "<a href='/AIV/7/1/5'>Judg. 1:5</a>",
-      "comment": "His campaign extends, but underlying instability persists where leaders are not centered on God's covenant and guidance."
+      "comment": "His campaign extends, but underlying instability persists where leaders are not centered on God's covenant and guidance.",
+      "sectionHeader": "The Death of Abimelech"
     },
     {
       "pk": 7009051,
@@ -689,5 +694,32 @@
       "comment": "Jotham’s curse is fulfilled, illustrating the certainty of God’s word and the seriousness of covenant faithfulness. This emphasizes blessing and curse dynamics foundational to Israel’s relationship with God."
     }
   ],
-  "translatedAt": "2025-12-24T02:36:06.046Z"
+  "translatedAt": "2025-12-24T02:36:06.046Z",
+  "sections": [
+    {
+      "title": "Abimelech's Conspiracy and Massacre of His Brothers",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Jotham's Parable and Curse",
+      "startVerse": 7,
+      "endVerse": 21
+    },
+    {
+      "title": "Abimelech's Rule and the Treachery of Shechem",
+      "startVerse": 22,
+      "endVerse": 25
+    },
+    {
+      "title": "The Revolt and Destruction of Shechem",
+      "startVerse": 26,
+      "endVerse": 49
+    },
+    {
+      "title": "The Death of Abimelech",
+      "startVerse": 50,
+      "endVerse": 57
+    }
+  ]
 }

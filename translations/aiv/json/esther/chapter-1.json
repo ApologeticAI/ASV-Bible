@@ -3,7 +3,6 @@
   "bookName": "Esther",
   "bookAbbreviation": "Esth",
   "chapter": 1,
-  "sections": [],
   "verses": [
     {
       "pk": 19001001,
@@ -15,7 +14,8 @@
       "verse": 1,
       "text": "In the days of Ahasuerus—the same Ahasuerus who ruled over one hundred and twenty-seven provinces from India to Cush—",
       "links": "<a href='/AIV/15/6/22'>Ezra 6:22</a>; <a href='/AIV/27/6/1'>Dan. 6:1</a>",
-      "comment": "Ahasuerus is traditionally identified with Xerxes I. The extent of his reign is emphasized here. The number 127 signifies a complete and expansive dominion."
+      "comment": "Ahasuerus is traditionally identified with Xerxes I. The extent of his reign is emphasized here. The number 127 signifies a complete and expansive dominion.",
+      "sectionHeader": "The Banquets of King Ahasuerus and Queen Vashti"
     },
     {
       "pk": 19001002,
@@ -123,7 +123,8 @@
       "verse": 10,
       "text": "On the seventh day, when the king’s heart was merry with wine, he commanded Mehuman, Biztha, Harbona, Bigtha, Abagtha, Zethar, and Carcas, the seven eunuchs who served in the presence of King Ahasuerus,",
       "links": "",
-      "comment": "The number seven is prominent—a biblical number often symbolizing completeness (Genesis 2:2-3; Revelation 1:4). Eunuchs were trusted royal servants, echoing service in the heavenly court."
+      "comment": "The number seven is prominent—a biblical number often symbolizing completeness (Genesis 2:2-3; Revelation 1:4). Eunuchs were trusted royal servants, echoing service in the heavenly court.",
+      "sectionHeader": "Queen Vashti’s Refusal and the King’s Wrath"
     },
     {
       "pk": 19001011,
@@ -159,7 +160,8 @@
       "verse": 13,
       "text": "Then the king said to the wise men, who understood the times—for this was the king’s procedure toward all who were versed in law and judgment—",
       "links": "<a href='/AIV/13/12/32'>1 Chr. 12:32</a>",
-      "comment": "Worldly wisdom is sought, but the text implies God’s wisdom transcends human counsel (James 3:17)."
+      "comment": "Worldly wisdom is sought, but the text implies God’s wisdom transcends human counsel (James 3:17).",
+      "sectionHeader": "The Decree Against Queen Vashti"
     },
     {
       "pk": 19001014,
@@ -265,10 +267,27 @@
       "bookAbbreviation": "Esth",
       "chapter": 1,
       "verse": 22,
-      "text": "He sent letters to all the royal provinces, to each province in its own script and to each people in their own language, that every man should be a master in his own house.",
+      "text": "He sent letters to all the royal provinces, to each province in its own script and to each people in their own language, that every man should be master in his own house and speak in the language of his own people.",
       "links": "<a href='/AIV/44/2/6-11'>Acts 2:6-11</a>",
       "comment": "Communication in every language anticipates the Pentecost miracle, where the Holy Spirit enables the Gospel to reach all peoples. The theme of true authority in the household and the need for unity under righteous leadership emerges here."
     }
   ],
-  "translatedAt": "2025-12-24T05:08:24.997Z"
+  "translatedAt": "2025-12-24T05:08:24.997Z",
+  "sections": [
+    {
+      "title": "The Banquets of King Ahasuerus and Queen Vashti",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "Queen Vashti’s Refusal and the King’s Wrath",
+      "startVerse": 10,
+      "endVerse": 12
+    },
+    {
+      "title": "The Decree Against Queen Vashti",
+      "startVerse": 13,
+      "endVerse": 22
+    }
+  ]
 }

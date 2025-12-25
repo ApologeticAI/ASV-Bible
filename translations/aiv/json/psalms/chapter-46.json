@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "God is our refuge and strength, a help always found in times of trouble.",
       "links": "<a href='/AIV/19/18/2'>Ps. 18:2</a>; <a href='/AIV/19/91/2'>Ps. 91:2</a>; <a href='/AIV/58/4/16'>Heb. 4:16</a>",
-      "comment": "This verse emphasizes God's protection and constant presence, echoing themes of salvation seen throughout Scripture. The triple expression of God as 'refuge,' 'strength,' and 'help' prefigures Christ as our ultimate protector in the New Testament. The literal meaning matches closely with the Hebrew. The spiritual interpretation suggests God dwells with and defends His people—both individually and, in a deeper sense, corporately as His Church."
+      "comment": "This verse emphasizes God's protection and constant presence, echoing themes of salvation seen throughout Scripture. The triple expression of God as 'refuge,' 'strength,' and 'help' prefigures Christ as our ultimate protector in the New Testament. The literal meaning matches closely with the Hebrew. The spiritual interpretation suggests God dwells with and defends His people—both individually and, in a deeper sense, corporately as His Church.",
+      "sectionHeader": "God Our Refuge and Strength"
     },
     {
       "pk": 23046002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "There is a river whose streams make glad the city of God, the holy dwelling place of the Most High.",
       "links": "<a href='/AIV/19/36/8'>Ps. 36:8</a>; <a href='/AIV/26/47/1-12'>Ezek. 47:1-12</a>; <a href='/AIV/66/22/1-2'>Rev. 22:1-2</a>",
-      "comment": "The river symbolizes divine grace and the life-giving presence of God, a theme expanded in Ezekiel and Revelation as the waters flowing from God's sanctuary. Spiritually, it's a foretaste of the new Jerusalem and the sacramental life—the way divine grace flows to believers through the Church’s ministry and worship."
+      "comment": "The river symbolizes divine grace and the life-giving presence of God, a theme expanded in Ezekiel and Revelation as the waters flowing from God's sanctuary. Spiritually, it's a foretaste of the new Jerusalem and the sacramental life—the way divine grace flows to believers through the Church’s ministry and worship.",
+      "sectionHeader": "The City of God Secure"
     },
     {
       "pk": 23046005,
@@ -98,7 +100,8 @@
       "verse": 8,
       "text": "Come, behold the works of the Lord, who has brought desolations upon the earth.",
       "links": "<a href='/AIV/19/66/5'>Ps. 66:5</a>; <a href='/AIV/19/74/12-17'>Ps. 74:12-17</a>",
-      "comment": "A call to witness God's mighty acts—both judgment and deliverance. The invitation to 'behold' connects with Christ’s miracles and the ongoing works of God through history. Spiritually, it suggests recognizing God's powerful movements throughout salvation history and liturgy."
+      "comment": "A call to witness God's mighty acts—both judgment and deliverance. The invitation to 'behold' connects with Christ’s miracles and the ongoing works of God through history. Spiritually, it suggests recognizing God's powerful movements throughout salvation history and liturgy.",
+      "sectionHeader": "God’s Power Over the Nations"
     },
     {
       "pk": 23046009,
@@ -122,7 +125,8 @@
       "verse": 10,
       "text": "\"Be still, and know that I am God. I will be exalted among the nations, I will be exalted in the earth.\"",
       "links": "<a href='/AIV/19/100/3'>Ps. 100:3</a>; <a href='/AIV/43/8/58'>John 8:58</a>",
-      "comment": "This command invites both trust and worship. ‘Be still’ suggests the contemplative life and recognizing God's sovereignty—predating Christ’s self-identification as 'I AM.' The verse anticipates the spread of God’s glory through all nations, a prophecy fulfilled as Christ’s kingdom extends over the earth."
+      "comment": "This command invites both trust and worship. ‘Be still’ suggests the contemplative life and recognizing God's sovereignty—predating Christ’s self-identification as 'I AM.' The verse anticipates the spread of God’s glory through all nations, a prophecy fulfilled as Christ’s kingdom extends over the earth.",
+      "sectionHeader": "Be Still and Know God"
     },
     {
       "pk": 23046011,
@@ -137,5 +141,27 @@
       "comment": "A repetition for emphasis, affirming God's abiding presence from generation to generation. The refrain encourages believers to find refuge in the Lord, recalling God's personal covenant, and calls to mind Christ's promise of eternal presence amidst His gathered flock."
     }
   ],
-  "translatedAt": "2025-12-24T06:14:36.097Z"
+  "translatedAt": "2025-12-24T06:14:36.097Z",
+  "sections": [
+    {
+      "title": "God Our Refuge and Strength",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "The City of God Secure",
+      "startVerse": 4,
+      "endVerse": 7
+    },
+    {
+      "title": "God’s Power Over the Nations",
+      "startVerse": 8,
+      "endVerse": 9
+    },
+    {
+      "title": "Be Still and Know God",
+      "startVerse": 10,
+      "endVerse": 11
+    }
+  ]
 }

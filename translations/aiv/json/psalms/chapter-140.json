@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Rescue me, O LORD, from evil men; keep me safe from violent men.",
       "links": "<a href='/AIV/19/17/8-9'>Ps. 17:8-9</a>; <a href='/AIV/19/140/4'>Ps. 140:4</a>",
-      "comment": "This verse begins with a plea for deliverance from those who plan evil, a theme echoed throughout the Psalms. See Psalm 17:8–9 for a similar prayer of protection. This can be understood both as David's literal plight and as an appeal for spiritual deliverance from the power of sin and evil."
+      "comment": "This verse begins with a plea for deliverance from those who plan evil, a theme echoed throughout the Psalms. See Psalm 17:8–9 for a similar prayer of protection. This can be understood both as David's literal plight and as an appeal for spiritual deliverance from the power of sin and evil.",
+      "sectionHeader": "Prayer for Deliverance from Evil Men"
     },
     {
       "pk": 23140002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "I say to the LORD, 'You are my God.' Listen, O LORD, to the cry of my pleas for mercy.",
       "links": "<a href='/AIV/19/31/14'>Ps. 31:14</a>; <a href='/AIV/19/28/2'>Ps. 28:2</a>",
-      "comment": "This verse affirms personal faith and a relationship with God, the source of salvation. The expression of dependence and prayer for mercy underlines both the necessity and assurance of divine grace, anticipating New Testament themes of Christ as mediator (see Hebrews 4:16)."
+      "comment": "This verse affirms personal faith and a relationship with God, the source of salvation. The expression of dependence and prayer for mercy underlines both the necessity and assurance of divine grace, anticipating New Testament themes of Christ as mediator (see Hebrews 4:16).",
+      "sectionHeader": "Petition for Protection and Justice"
     },
     {
       "pk": 23140007,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "I know that the LORD will maintain the cause of the afflicted, and justice for the needy.",
       "links": "<a href='/AIV/19/9/18'>Ps. 9:18</a>; <a href='/AIV/19/82/3'>Ps. 82:3</a>; <a href='/AIV/40/5/3'>Matt. 5:3</a>",
-      "comment": "This affirms God's special concern for the poor and oppressed, an echo of God’s covenant faithfulness. In the New Testament, Christ’s beatitudes (Matthew 5:3) highlight the blessedness of the poor and needy, showing God’s kingdom works through the lowly and humble."
+      "comment": "This affirms God's special concern for the poor and oppressed, an echo of God’s covenant faithfulness. In the New Testament, Christ’s beatitudes (Matthew 5:3) highlight the blessedness of the poor and needy, showing God’s kingdom works through the lowly and humble.",
+      "sectionHeader": "Confidence in God's Righteous Judgment"
     },
     {
       "pk": 23140013,
@@ -161,5 +164,22 @@
       "comment": "The Psalm concludes with the hope of fellowship with God for the righteous, looking forward to the ultimate reward of communion with God forever (see Revelation 22:3–5). This verse can be seen as an anticipation of the heavenly reality where the faithful share in God’s glory. A note on 'dwell in your presence': the idea points to not just temporary visitation, but an ongoing, intimate fellowship—an image that has been understood as both a present spiritual reality and a future hope."
     }
   ],
-  "translatedAt": "2025-12-24T06:47:10.748Z"
+  "translatedAt": "2025-12-24T06:47:10.748Z",
+  "sections": [
+    {
+      "title": "Prayer for Deliverance from Evil Men",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Petition for Protection and Justice",
+      "startVerse": 6,
+      "endVerse": 11
+    },
+    {
+      "title": "Confidence in God's Righteous Judgment",
+      "startVerse": 12,
+      "endVerse": 13
+    }
+  ]
 }

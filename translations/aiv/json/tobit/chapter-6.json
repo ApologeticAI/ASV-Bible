@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "As they continued on their way, they came near the river Tigris. The young man went down to wash his feet in the river, and suddenly a large fish leapt out of the water and tried to bite him.",
       "links": "<a href='/AIV/01/7/10'>Gen. 7:10</a>; <a href='/AIV/04/21/7-9'>Num. 21:7-9</a>",
-      "comment": "The story transitions to Tobias' journey, introducing the river Tigris and the miraculous fish, prefiguring later biblical events where water is a source of both danger and salvation (e.g., Jonah—Jon. 1:17)."
+      "comment": "The story transitions to Tobias' journey, introducing the river Tigris and the miraculous fish, prefiguring later biblical events where water is a source of both danger and salvation (e.g., Jonah—Jon. 1:17).",
+      "sectionHeader": "The Fish and Its Healing Properties"
     },
     {
       "pk": 17006002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "Raphael said to Tobias, 'Brother, tonight we will stay with Raguel; he is your relative, and he has a daughter named Sarah.'",
       "links": "<a href='/AIV/08/3/9'>Ruth 3:9</a>",
-      "comment": "Familial relationships underscore themes of providence, kinship, and the God-ordained nature of marriage, echoed throughout biblical history."
+      "comment": "Familial relationships underscore themes of providence, kinship, and the God-ordained nature of marriage, echoed throughout biblical history.",
+      "sectionHeader": "Raphael Counsels Tobias Concerning Sarah"
     },
     {
       "pk": 17006010,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "When Tobias heard Raphael’s words and learned about Sarah, he loved her deeply, and his heart was drawn to her.",
       "links": "<a href='/AIV/01/29/18-20'>Gen. 29:18-20</a>",
-      "comment": "Authentic love develops as Tobias listens to divine wisdom; it highlights love as a vocation and the work of grace in the human heart."
+      "comment": "Authentic love develops as Tobias listens to divine wisdom; it highlights love as a vocation and the work of grace in the human heart.",
+      "sectionHeader": "Tobias Sets His Heart on Sarah"
     },
     {
       "pk": 17006017,
@@ -221,5 +224,22 @@
       "comment": "Blessing God before entering the fulfillment of His promise models thanksgiving and reverence. This verse subtly points to the ongoing dialogue between God and those who trust in His plans, inviting readers into a deeper relationship rooted in tradition and sacramental living."
     }
   ],
-  "translatedAt": "2025-12-24T04:56:37.046Z"
+  "translatedAt": "2025-12-24T04:56:37.046Z",
+  "sections": [
+    {
+      "title": "The Fish and Its Healing Properties",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "Raphael Counsels Tobias Concerning Sarah",
+      "startVerse": 9,
+      "endVerse": 15
+    },
+    {
+      "title": "Tobias Sets His Heart on Sarah",
+      "startVerse": 16,
+      "endVerse": 18
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Give thanks to the LORD, for He is good; His steadfast love endures forever.",
       "links": "<a href='/AIV/19/107/1'>Ps. 107:1</a>; <a href='/AIV/19/136/1'>Ps. 136:1</a>",
-      "comment": "The repeated praise for God's enduring love is a theme throughout the Psalms, foundational for understanding salvation history—God's covenant mercy is central to both worship and the Christian life."
+      "comment": "The repeated praise for God's enduring love is a theme throughout the Psalms, foundational for understanding salvation history—God's covenant mercy is central to both worship and the Christian life.",
+      "sectionHeader": "Thanksgiving for the Lord’s Enduring Mercy"
     },
     {
       "pk": 23118002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "Out of my distress I called on the LORD; the LORD answered me and set me free.",
       "links": "<a href='/AIV/19/18/6'>Ps. 18:6</a>; <a href='/AIV/19/120/1'>Ps. 120:1</a>",
-      "comment": "This personal testimony of deliverance foreshadows deeper spiritual liberation from sin and death, fulfilled in Christ’s redemption."
+      "comment": "This personal testimony of deliverance foreshadows deeper spiritual liberation from sin and death, fulfilled in Christ’s redemption.",
+      "sectionHeader": "The Lord Is My Strength and Salvation"
     },
     {
       "pk": 23118006,
@@ -230,7 +232,8 @@
       "verse": 19,
       "text": "Open to me the gates of righteousness, that I may enter through them and give thanks to the LORD.",
       "links": "<a href='/AIV/19/24/7-9'>Ps. 24:7-9</a>",
-      "comment": "The gates of righteousness suggest a place of liturgical worship—spiritually, this evokes entry into sacred fellowship, echoed in sacraments and gathering together."
+      "comment": "The gates of righteousness suggest a place of liturgical worship—spiritually, this evokes entry into sacred fellowship, echoed in sacraments and gathering together.",
+      "sectionHeader": "Victory and Entrance into the Gate of the Righteous"
     },
     {
       "pk": 23118020,
@@ -266,7 +269,8 @@
       "verse": 22,
       "text": "The stone that the builders rejected has become the cornerstone.",
       "links": "<a href='/AIV/40/21/42'>Matt. 21:42</a>; <a href='/AIV/42/20/17'>Luke 20:17</a>; <a href='/AIV/60/2/6-7'>1 Pet. 2:6-7</a>",
-      "comment": "A direct prophecy of Christ—Jesus is the cornerstone of the Church, rejected at first, now the foundation of the people of God (see Matt. 21:42; 1 Pet. 2:7)."
+      "comment": "A direct prophecy of Christ—Jesus is the cornerstone of the Church, rejected at first, now the foundation of the people of God (see Matt. 21:42; 1 Pet. 2:7).",
+      "sectionHeader": "The Stone the Builders Rejected"
     },
     {
       "pk": 23118023,
@@ -353,5 +357,27 @@
       "comment": "Concludes with the central theme—unending faithful love. This refrain undergirds Jewish and Christian worship, with deep implications for spiritual life centered on thanksgiving and liturgical celebration."
     }
   ],
-  "translatedAt": "2025-12-24T06:41:22.817Z"
+  "translatedAt": "2025-12-24T06:41:22.817Z",
+  "sections": [
+    {
+      "title": "Thanksgiving for the Lord’s Enduring Mercy",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "The Lord Is My Strength and Salvation",
+      "startVerse": 5,
+      "endVerse": 18
+    },
+    {
+      "title": "Victory and Entrance into the Gate of the Righteous",
+      "startVerse": 19,
+      "endVerse": 21
+    },
+    {
+      "title": "The Stone the Builders Rejected",
+      "startVerse": 22,
+      "endVerse": 29
+    }
+  ]
 }

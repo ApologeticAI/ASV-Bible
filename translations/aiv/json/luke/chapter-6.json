@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now it happened on a Sabbath, as Jesus was passing through the grainfields, his disciples plucked heads of grain, rubbed them in their hands, and ate them.",
       "links": "<a href='/AIV/5/23/25'>Deut. 23:25</a>; <a href='/AIV/40/12/1'>Matt. 12:1</a>; <a href='/AIV/41/2/23'>Mark 2:23</a>",
-      "comment": "The disciples were not stealing; the Law allowed picking grain when passing through a neighbor's field (Deut. 23:25). Luke highlights Jesus’s challenge to Sabbath traditions."
+      "comment": "The disciples were not stealing; the Law allowed picking grain when passing through a neighbor's field (Deut. 23:25). Luke highlights Jesus’s challenge to Sabbath traditions.",
+      "sectionHeader": "Plucking Grain on the Sabbath"
     },
     {
       "pk": 49006002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "On another Sabbath, he entered the synagogue and was teaching; and there was a man whose right hand was withered.",
       "links": "<a href='/AIV/40/12/9'>Matt. 12:9</a>; <a href='/AIV/41/3/1'>Mark 3:1</a>",
-      "comment": "Jesus regularly taught on the Sabbath, showing his role as teacher and initiator of new understanding regarding worship and mercy."
+      "comment": "Jesus regularly taught on the Sabbath, showing his role as teacher and initiator of new understanding regarding worship and mercy.",
+      "sectionHeader": "Healing of the Man with the Withered Hand"
     },
     {
       "pk": 49006007,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "In these days, Jesus went out to the mountain to pray, and continued all night in prayer to God.",
       "links": "<a href='/AIV/19/119/147'>Ps. 119:147</a>; <a href='/AIV/42/5/16'>Luke 5:16</a>",
-      "comment": "Jesus's all-night prayer before major decisions demonstrates his dependence on God and sets a model for extended prayer before important moments in life."
+      "comment": "Jesus's all-night prayer before major decisions demonstrates his dependence on God and sets a model for extended prayer before important moments in life.",
+      "sectionHeader": "The Calling of the Twelve Apostles"
     },
     {
       "pk": 49006013,
@@ -242,7 +245,8 @@
       "verse": 20,
       "text": "And he lifted up his eyes toward his disciples, and said: \"Blessed are you who are poor, for yours is the kingdom of God.",
       "links": "<a href='/AIV/40/5/3'>Matt. 5:3</a>; <a href='/AIV/19/34/6'>Ps. 34:6</a>",
-      "comment": "Luke’s version emphasizes literal material poverty, while Matthew says 'poor in spirit.' Both are true: God’s kingdom belongs to those who depend on him in humility and need."
+      "comment": "Luke’s version emphasizes literal material poverty, while Matthew says 'poor in spirit.' Both are true: God’s kingdom belongs to those who depend on him in humility and need.",
+      "sectionHeader": "The Sermon on the Plain: Blessings and Woes"
     },
     {
       "pk": 49006021,
@@ -326,7 +330,8 @@
       "verse": 27,
       "text": "\"But I say to you who hear: Love your enemies; do good to those who hate you;",
       "links": "<a href='/AIV/3/19/18'>Lev. 19:18</a>; <a href='/AIV/40/5/44'>Matt. 5:44</a>",
-      "comment": "The radical command to love one’s enemies moves beyond the Old Law, reflecting the new Law of Christ which is rooted in self-giving love."
+      "comment": "The radical command to love one’s enemies moves beyond the Old Law, reflecting the new Law of Christ which is rooted in self-giving love.",
+      "sectionHeader": "Love of Enemies and the Golden Rule"
     },
     {
       "pk": 49006028,
@@ -446,7 +451,8 @@
       "verse": 37,
       "text": "\"Judge not, and you will not be judged. Condemn not, and you will not be condemned. Forgive, and you will be forgiven.",
       "links": "<a href='/AIV/40/7/1-2'>Matt. 7:1-2</a>; <a href='/AIV/59/2/13'>Jas. 2:13</a>",
-      "comment": "Jesus calls for refusing condemnation and embracing forgiveness, reflecting God’s mercy, a key element of Christian living and a foundation for liturgical practice around forgiveness."
+      "comment": "Jesus calls for refusing condemnation and embracing forgiveness, reflecting God’s mercy, a key element of Christian living and a foundation for liturgical practice around forgiveness.",
+      "sectionHeader": "Judging Others; The Tree and Its Fruit"
     },
     {
       "pk": 49006038,
@@ -554,7 +560,8 @@
       "verse": 46,
       "text": "\"Why do you call me, 'Lord, Lord,' and do not do what I say?",
       "links": "<a href='/AIV/40/7/21'>Matt. 7:21</a>",
-      "comment": "Obedience marks true discipleship; mere words or profession of faith are not enough without works done in grace."
+      "comment": "Obedience marks true discipleship; mere words or profession of faith are not enough without works done in grace.",
+      "sectionHeader": "The Two Foundations"
     },
     {
       "pk": 49006047,
@@ -593,5 +600,42 @@
       "comment": "Without a solid foundation of both faith and works, a Christian’s life cannot withstand trials. This underlines the need for authentic obedience and continual formation."
     }
   ],
-  "translatedAt": "2025-12-24T10:40:58.781Z"
+  "translatedAt": "2025-12-24T10:40:58.781Z",
+  "sections": [
+    {
+      "title": "Plucking Grain on the Sabbath",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Healing of the Man with the Withered Hand",
+      "startVerse": 6,
+      "endVerse": 11
+    },
+    {
+      "title": "The Calling of the Twelve Apostles",
+      "startVerse": 12,
+      "endVerse": 19
+    },
+    {
+      "title": "The Sermon on the Plain: Blessings and Woes",
+      "startVerse": 20,
+      "endVerse": 26
+    },
+    {
+      "title": "Love of Enemies and the Golden Rule",
+      "startVerse": 27,
+      "endVerse": 36
+    },
+    {
+      "title": "Judging Others; The Tree and Its Fruit",
+      "startVerse": 37,
+      "endVerse": 45
+    },
+    {
+      "title": "The Two Foundations",
+      "startVerse": 46,
+      "endVerse": 49
+    }
+  ]
 }

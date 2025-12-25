@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Shortly after, Lysias, the king’s guardian and kinsman, who was also in charge of government affairs, was troubled by what had happened.",
       "links": "<a href='/AIV/21/10/14'>2Macc 10:14</a>",
-      "comment": "Lysias’s role as royal guardian and steward highlights the centralized leadership common in biblical historical narratives, connecting to the tradition of godly stewardship. The historical details stress the turmoil surrounding God’s people."
+      "comment": "Lysias’s role as royal guardian and steward highlights the centralized leadership common in biblical historical narratives, connecting to the tradition of godly stewardship. The historical details stress the turmoil surrounding God’s people.",
+      "sectionHeader": "Lysias Marches Against Jerusalem"
     },
     {
       "pk": 21011002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "When Maccabeus and his companions learned that Lysias was besieging the strongholds, they and the people lamented with tears, begging God to send a good angel to save Israel.",
       "links": "<a href='/AIV/21/10/29'>2Macc 10:29</a>; <a href='/AIV/19/34/7'>Ps. 34:7</a>",
-      "comment": "Their prayer for angelic intervention reaffirms direct heavenly involvement in the struggles of God’s people, foreshadowing later teachings about intercessory prayer and angelic guardianship."
+      "comment": "Their prayer for angelic intervention reaffirms direct heavenly involvement in the struggles of God’s people, foreshadowing later teachings about intercessory prayer and angelic guardianship.",
+      "sectionHeader": "Divine Intervention and Jewish Victory"
     },
     {
       "pk": 21011007,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "Lysias himself saw the disaster his forces had suffered, reflected on Israel’s invincible aid from heaven, and considered making peace.",
       "links": "<a href='/AIV/21/13/23'>2Macc 13:23</a>; <a href='/AIV/2/20/1'>Exod. 20:1</a>",
-      "comment": "Recognition of divine favor upon Israel by outsiders highlights the power of God, hinting at the universality of truth and the reverence owed to it."
+      "comment": "Recognition of divine favor upon Israel by outsiders highlights the power of God, hinting at the universality of truth and the reverence owed to it.",
+      "sectionHeader": "Peace Negotiations and Royal Decrees"
     },
     {
       "pk": 21011014,
@@ -206,7 +209,8 @@
       "verse": 17,
       "text": "This is the letter Lysias sent: “To the Jewish people, greetings. From Lysias.”",
       "links": "<a href='/AIV/21/11/16-18'>2Macc 11:16-18</a>",
-      "comment": "The formal greeting signals diplomatic respect, acknowledging the value of God’s people in the affairs of nations."
+      "comment": "The formal greeting signals diplomatic respect, acknowledging the value of God’s people in the affairs of nations.",
+      "sectionHeader": "Official Letters Granting Jewish Rights"
     },
     {
       "pk": 21011018,
@@ -446,7 +450,8 @@
       "verse": 37,
       "text": "The Romans also sent a letter, saying: “Quintus Memmius and Titus Manius, Roman envoys, to the Jewish people, greetings.”",
       "links": "<a href='/AIV/44/18/2'>Acts 18:2</a>",
-      "comment": "International support for God’s people reflects a growing recognition of the one true faith among other nations, prefiguring the outward spread of faith seen in the Acts of the Apostles."
+      "comment": "International support for God’s people reflects a growing recognition of the one true faith among other nations, prefiguring the outward spread of faith seen in the Acts of the Apostles.",
+      "sectionHeader": "Roman Support for the Jews"
     },
     {
       "pk": 21011038,
@@ -461,5 +466,32 @@
       "comment": "The Roman endorsement further safeguards the Jews’ autonomy, echoing the biblical principle of God raising up allies among the nations to protect and support the faithful (cf. Isa. 60:3)."
     }
   ],
-  "translatedAt": "2025-12-24T05:36:22.160Z"
+  "translatedAt": "2025-12-24T05:36:22.160Z",
+  "sections": [
+    {
+      "title": "Lysias Marches Against Jerusalem",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Divine Intervention and Jewish Victory",
+      "startVerse": 6,
+      "endVerse": 12
+    },
+    {
+      "title": "Peace Negotiations and Royal Decrees",
+      "startVerse": 13,
+      "endVerse": 16
+    },
+    {
+      "title": "Official Letters Granting Jewish Rights",
+      "startVerse": 17,
+      "endVerse": 36
+    },
+    {
+      "title": "Roman Support for the Jews",
+      "startVerse": 37,
+      "endVerse": 38
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In the fifteenth year of Tiberius Caesar's reign—when Pontius Pilate was governor of Judea, Herod was tetrarch of Galilee, his brother Philip tetrarch of Ituraea and the region of Trachonitis, and Lysanias tetrarch of Abilene—",
       "links": "<a href='/AIV/44/4/27'>Acts 4:27</a>; <a href='/AIV/40/2/1'>Matt. 2:1</a>",
-      "comment": "Luke provides precise historical context, grounding the gospel in actual events and specific rulers. This shows God's plan works through real history. Luke's attention to detail also affirms the trustworthiness and orderliness of God's revelation."
+      "comment": "Luke provides precise historical context, grounding the gospel in actual events and specific rulers. This shows God's plan works through real history. Luke's attention to detail also affirms the trustworthiness and orderliness of God's revelation.",
+      "sectionHeader": "The Preaching of John the Baptist"
     },
     {
       "pk": 49003002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "So John said to the crowds coming out to be baptized by him, 'You brood of vipers! Who warned you to flee from the coming wrath?'",
       "links": "<a href='/AIV/40/3/7'>Matt. 3:7</a>",
-      "comment": "John’s strong language confronts hypocritical repentance. True repentance leads to inner transformation, not just external acts."
+      "comment": "John’s strong language confronts hypocritical repentance. True repentance leads to inner transformation, not just external acts.",
+      "sectionHeader": "John's Exhortations to the People"
     },
     {
       "pk": 49003008,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "The people were waiting expectantly and were all wondering in their hearts if John might be the Christ.",
       "links": "<a href='/AIV/43/1/19-20'>John 1:19-20</a>",
-      "comment": "There was a sense of anticipation about the Messiah’s coming. John is careful to point people not to himself, but to the One who is greater."
+      "comment": "There was a sense of anticipation about the Messiah’s coming. John is careful to point people not to himself, but to the One who is greater.",
+      "sectionHeader": "John Foretells the Messiah and Is Imprisoned"
     },
     {
       "pk": 49003016,
@@ -254,7 +257,8 @@
       "verse": 21,
       "text": "When all the people were being baptized, Jesus also was baptized. And as he was praying, the heavens were opened,",
       "links": "<a href='/AIV/40/3/13'>Matt. 3:13-16</a>; <a href='/AIV/41/1/9'>Mark 1:9-10</a>",
-      "comment": "Jesus is baptized, though he is sinless (see Heb. 4:15), fulfilling all righteousness and identifying fully with humanity. His prayer and humility serve as a model for believers."
+      "comment": "Jesus is baptized, though he is sinless (see Heb. 4:15), fulfilling all righteousness and identifying fully with humanity. His prayer and humility serve as a model for believers.",
+      "sectionHeader": "The Baptism of Jesus"
     },
     {
       "pk": 49003022,
@@ -278,7 +282,8 @@
       "verse": 23,
       "text": "Jesus, when he began his ministry, was about thirty years old, being the son (as was supposed) of Joseph, son of Heli,",
       "links": "<a href='/AIV/40/1/16'>Matt. 1:16</a>; <a href='/AIV/4/8/24'>Num. 4:3</a>",
-      "comment": "Luke gives Jesus’ age and genealogy, anchoring his ministry in history and fulfilling Old Testament expectations about priestly initiation (see Num. 4:3 for age). The phrase 'as was supposed' hints at Jesus’ divine origin."
+      "comment": "Luke gives Jesus’ age and genealogy, anchoring his ministry in history and fulfilling Old Testament expectations about priestly initiation (see Num. 4:3 for age). The phrase 'as was supposed' hints at Jesus’ divine origin.",
+      "sectionHeader": "The Genealogy of Jesus"
     },
     {
       "pk": 49003024,
@@ -461,5 +466,32 @@
       "comment": "Luke ends the genealogy with Adam, 'the son of God.' This emphasizes Jesus’ universal mission—He is not only Israel’s Messiah but the Savior of all humanity. As the new Adam, Jesus inaugurates a new creation and undoes the effects of the fall (see Rom. 5:12-21; 1 Cor. 15:22)."
     }
   ],
-  "translatedAt": "2025-12-24T10:38:27.543Z"
+  "translatedAt": "2025-12-24T10:38:27.543Z",
+  "sections": [
+    {
+      "title": "The Preaching of John the Baptist",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "John's Exhortations to the People",
+      "startVerse": 7,
+      "endVerse": 14
+    },
+    {
+      "title": "John Foretells the Messiah and Is Imprisoned",
+      "startVerse": 15,
+      "endVerse": 20
+    },
+    {
+      "title": "The Baptism of Jesus",
+      "startVerse": 21,
+      "endVerse": 22
+    },
+    {
+      "title": "The Genealogy of Jesus",
+      "startVerse": 23,
+      "endVerse": 38
+    }
+  ]
 }

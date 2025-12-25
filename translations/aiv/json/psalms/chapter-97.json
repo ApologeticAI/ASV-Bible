@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The LORD reigns; let the earth rejoice; let the many coastlands be glad.",
       "links": "<a href='/AIV/19/96/10'>Ps. 96:10</a>; <a href='/AIV/19/99/1'>Ps. 99:1</a>",
-      "comment": "This psalm opens with a declaration of God's kingship over all the earth, echoing the universal reign of the LORD as found in Ps. 96:10 and Ps. 99:1. The inclusion of 'many coastlands' shows God's sovereignty over all nations, pointing forward to the international scope of salvation brought through the Messiah and the gathering of all peoples into one worship. See also Isa. 42:10."
+      "comment": "This psalm opens with a declaration of God's kingship over all the earth, echoing the universal reign of the LORD as found in Ps. 96:10 and Ps. 99:1. The inclusion of 'many coastlands' shows God's sovereignty over all nations, pointing forward to the international scope of salvation brought through the Messiah and the gathering of all peoples into one worship. See also Isa. 42:10.",
+      "sectionHeader": "The Lord’s Universal Kingship"
     },
     {
       "pk": 23097002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "Let all who serve carved images and boast in idols be put to shame; all gods bow down before Him.",
       "links": "<a href='/AIV/19/96/5'>Ps. 96:5</a>; <a href='/AIV/58/1/6'>Heb. 1:6</a>",
-      "comment": "Idolatry is renounced. Other 'gods' (false powers) are subject to the LORD alone. Hebrews 1:6 applies this to Christ, confirming the worship of Jesus as divine—used in early worship liturgies."
+      "comment": "Idolatry is renounced. Other 'gods' (false powers) are subject to the LORD alone. Hebrews 1:6 applies this to Christ, confirming the worship of Jesus as divine—used in early worship liturgies.",
+      "sectionHeader": "Idols Confounded; Zion Rejoices"
     },
     {
       "pk": 23097008,
@@ -122,7 +124,8 @@
       "verse": 10,
       "text": "O you who love the LORD, hate evil! He guards the lives of His saints; He delivers them from the hand of the wicked.",
       "links": "<a href='/AIV/19/34/14'>Ps. 34:14</a>; <a href='/AIV/20/2/8'>Prov. 2:8</a>",
-      "comment": "A call for moral living is given to the faithful. The word 'saints' denotes those set apart and who remain close to God. The mention of 'delivers them' points to the ultimate deliverance in Christ, who preserves his own from evil."
+      "comment": "A call for moral living is given to the faithful. The word 'saints' denotes those set apart and who remain close to God. The mention of 'delivers them' points to the ultimate deliverance in Christ, who preserves his own from evil.",
+      "sectionHeader": "Blessings for the Righteous"
     },
     {
       "pk": 23097011,
@@ -149,5 +152,22 @@
       "comment": "A call to praise and thanksgiving concludes the psalm. To rejoice and give thanks is central to true worship, celebrated fully in the gathered worshiping community before God’s holy name; reminiscent of the liturgical praise found in God’s people assembled."
     }
   ],
-  "translatedAt": "2025-12-24T06:33:32.234Z"
+  "translatedAt": "2025-12-24T06:33:32.234Z",
+  "sections": [
+    {
+      "title": "The Lord’s Universal Kingship",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Idols Confounded; Zion Rejoices",
+      "startVerse": 7,
+      "endVerse": 9
+    },
+    {
+      "title": "Blessings for the Righteous",
+      "startVerse": 10,
+      "endVerse": 12
+    }
+  ]
 }

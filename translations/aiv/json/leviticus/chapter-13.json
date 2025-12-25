@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The LORD spoke to Moses and Aaron, saying,",
       "links": "<a href='/AIV/2/12/1'>Ex. 12:1</a>; <a href='/AIV/3/10/8'>Lev. 10:8</a>",
-      "comment": "The instructions come directly from the LORD to the leaders of Israel, emphasizing divine authority behind the laws of purity."
+      "comment": "The instructions come directly from the LORD to the leaders of Israel, emphasizing divine authority behind the laws of purity.",
+      "sectionHeader": "Laws Concerning Leprosy in Humans"
     },
     {
       "pk": 3013002,
@@ -218,7 +219,8 @@
       "verse": 18,
       "text": "\"If the body develops a boil and it heals,",
       "links": "<a href='/AIV/3/13/23'>Lev. 13:23</a>",
-      "comment": "Here begins instruction about skin conditions following boils, showing meticulous concern for bodily and spiritual health."
+      "comment": "Here begins instruction about skin conditions following boils, showing meticulous concern for bodily and spiritual health.",
+      "sectionHeader": "Leprosy Arising from Boils or Burns"
     },
     {
       "pk": 3013019,
@@ -350,7 +352,8 @@
       "verse": 29,
       "text": "\"If a man or woman has a disease on the head or beard,",
       "links": "<a href='/AIV/3/13/37'>Lev. 13:37</a>",
-      "comment": "Instruction now extends to diseases affecting hair—symbolically connecting to consecration and the human dignity given by God."
+      "comment": "Instruction now extends to diseases affecting hair—symbolically connecting to consecration and the human dignity given by God.",
+      "sectionHeader": "Leprosy of the Head or Beard"
     },
     {
       "pk": 3013030,
@@ -458,7 +461,8 @@
       "verse": 38,
       "text": "\"When a man or a woman has spots of white on the skin,",
       "links": "<a href='/AIV/3/13/39'>Lev. 13:39</a>",
-      "comment": "Here begins a new section on minor skin diseases, showing that not all imperfections are impurities."
+      "comment": "Here begins a new section on minor skin diseases, showing that not all imperfections are impurities.",
+      "sectionHeader": "White Spots and Baldness"
     },
     {
       "pk": 3013039,
@@ -542,7 +546,8 @@
       "verse": 45,
       "text": "\"The leper who has the disease must wear torn clothes, let the hair of his head hang loose, and cover his mouth, crying, 'Unclean, unclean.'",
       "links": "<a href='/AIV/34/3/1'>Nah. 3:1</a>; <a href='/AIV/23/6/5'>Isa. 6:5</a>",
-      "comment": "Outward signs of impurity declare separation from community. 'Cover his mouth' shows humility and acknowledgment of spiritual need."
+      "comment": "Outward signs of impurity declare separation from community. 'Cover his mouth' shows humility and acknowledgment of spiritual need.",
+      "sectionHeader": "Regulations for Unclean Persons"
     },
     {
       "pk": 3013046,
@@ -566,7 +571,8 @@
       "verse": 47,
       "text": "\"When there is a disease like leprosy in a garment, whether in a woolen or linen garment,",
       "links": "<a href='/AIV/3/13/52'>Lev. 13:52</a>",
-      "comment": "Uncleanness extends to garments, emphasizing total purity in body and environment."
+      "comment": "Uncleanness extends to garments, emphasizing total purity in body and environment.",
+      "sectionHeader": "Laws Concerning Leprosy in Garments"
     },
     {
       "pk": 3013048,
@@ -713,5 +719,37 @@
       "comment": "The law closes with a comprehensive summary, suggesting that purity and cleanness reach every part of the believer’s life. The priestly office stands as God’s agent for healing and discernment—foreshadowing the fullness of sacramental ministry in the New Covenant."
     }
   ],
-  "translatedAt": "2025-12-24T01:16:55.843Z"
+  "translatedAt": "2025-12-24T01:16:55.843Z",
+  "sections": [
+    {
+      "title": "Laws Concerning Leprosy in Humans",
+      "startVerse": 1,
+      "endVerse": 17
+    },
+    {
+      "title": "Leprosy Arising from Boils or Burns",
+      "startVerse": 18,
+      "endVerse": 28
+    },
+    {
+      "title": "Leprosy of the Head or Beard",
+      "startVerse": 29,
+      "endVerse": 37
+    },
+    {
+      "title": "White Spots and Baldness",
+      "startVerse": 38,
+      "endVerse": 44
+    },
+    {
+      "title": "Regulations for Unclean Persons",
+      "startVerse": 45,
+      "endVerse": 46
+    },
+    {
+      "title": "Laws Concerning Leprosy in Garments",
+      "startVerse": 47,
+      "endVerse": 59
+    }
+  ]
 }

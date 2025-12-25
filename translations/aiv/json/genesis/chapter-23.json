@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Sarah lived one hundred and twenty-seven years; these were the years of Sarah's life.",
       "links": "<a href='/AIV/1/17/17'>Gen. 17:17</a>; <a href='/AIV/1/21/2'>Gen. 21:2</a>",
-      "comment": "This verse highlights Sarah's advanced age, underscoring the extraordinary nature of Isaac's birth as fulfillment of God's promise (see Gen. 21:2)."
+      "comment": "This verse highlights Sarah's advanced age, underscoring the extraordinary nature of Isaac's birth as fulfillment of God's promise (see Gen. 21:2).",
+      "sectionHeader": "Death of Sarah"
     },
     {
       "pk": 1023002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "Abraham rose up from before his dead and spoke to the sons of Heth, saying,",
       "links": "<a href='/AIV/1/10/15'>Gen. 10:15</a>; <a href='/AIV/1/15/20'>Gen. 15:20</a>",
-      "comment": "The sons of Heth (Hittites) were local Canaanite inhabitants. Abraham's respectful dealings suggest a theme of witness and peaceful coexistence with the nations."
+      "comment": "The sons of Heth (Hittites) were local Canaanite inhabitants. Abraham's respectful dealings suggest a theme of witness and peaceful coexistence with the nations.",
+      "sectionHeader": "Purchase of the Cave of Machpelah"
     },
     {
       "pk": 1023004,
@@ -230,7 +232,8 @@
       "verse": 19,
       "text": "After this, Abraham buried Sarah his wife in the cave of the field of Machpelah east of Mamre (that is, Hebron) in the land of Canaan.",
       "links": "<a href='/AIV/1/49/31'>Gen. 49:31</a>; <a href='/AIV/1/50/13'>Gen. 50:13</a>",
-      "comment": "The burial at Machpelah initiates a tradition of honoring ancestors—prefiguring later memorial practices and the concept of the communion of saints."
+      "comment": "The burial at Machpelah initiates a tradition of honoring ancestors—prefiguring later memorial practices and the concept of the communion of saints.",
+      "sectionHeader": "Burial of Sarah"
     },
     {
       "pk": 1023020,
@@ -245,5 +248,22 @@
       "comment": "This legally binding property becomes a perpetual memorial. Respect for the resting places of the departed anticipates later traditions within the whole people of God."
     }
   ],
-  "translatedAt": "2025-12-24T00:22:11.049Z"
+  "translatedAt": "2025-12-24T00:22:11.049Z",
+  "sections": [
+    {
+      "title": "Death of Sarah",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "Purchase of the Cave of Machpelah",
+      "startVerse": 3,
+      "endVerse": 18
+    },
+    {
+      "title": "Burial of Sarah",
+      "startVerse": 19,
+      "endVerse": 20
+    }
+  ]
 }

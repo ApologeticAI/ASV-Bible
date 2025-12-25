@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Let a man regard us in this way: as servants of Christ and stewards of the mysteries of God.",
       "links": "<a href='/AIV/42/12/42'>Luke 12:42</a>; <a href='/AIV/51/1/25'>Col. 1:25-26</a>",
-      "comment": "Paul emphasizes his role as a servant (literally, an under-rower) and steward, entrusted with divine mysteries. This language suggests the importance and responsibility given to leaders in the apostolic tradition, hinting at a sense of sacred stewardship of teaching and the sacraments, which continue to be handed down."
+      "comment": "Paul emphasizes his role as a servant (literally, an under-rower) and steward, entrusted with divine mysteries. This language suggests the importance and responsibility given to leaders in the apostolic tradition, hinting at a sense of sacred stewardship of teaching and the sacraments, which continue to be handed down.",
+      "sectionHeader": "Servants of Christ and Stewards of God's Mysteries"
     },
     {
       "pk": 53004002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Already you have all you want! Already you have become rich! Without us you have become kings! And would that you did reign, so that we might reign with you.",
       "links": "<a href='/AIV/66/20/6'>Rev. 20:6</a>; <a href='/AIV/40/5/3'>Matt. 5:3</a>",
-      "comment": "Paul’s sarcasm rebukes premature self-exaltation and presumption, reminding believers that the fullness of the kingdom is not yet fully realized."
+      "comment": "Paul’s sarcasm rebukes premature self-exaltation and presumption, reminding believers that the fullness of the kingdom is not yet fully realized.",
+      "sectionHeader": "Apostolic Humility and Suffering"
     },
     {
       "pk": 53004009,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "I do not write these things to shame you, but to admonish you as my beloved children.",
       "links": "<a href='/AIV/47/6/13'>2 Cor. 6:13</a>; <a href='/AIV/54/5/1'>1 Tim. 5:1</a>",
-      "comment": "Paul speaks with fatherly love. His corrective discipline is meant to build up, not tear down—revealing the pastoral heart of a true spiritual father."
+      "comment": "Paul speaks with fatherly love. His corrective discipline is meant to build up, not tear down—revealing the pastoral heart of a true spiritual father.",
+      "sectionHeader": "Paul's Fatherly Admonition"
     },
     {
       "pk": 53004015,
@@ -218,7 +221,8 @@
       "verse": 18,
       "text": "Now some are arrogant, as though I were not coming to you.",
       "links": "<a href='/AIV/46/5/2'>1 Cor. 5:2</a>; <a href='/AIV/47/10/2'>2 Cor. 10:2</a>",
-      "comment": "Some believers in Corinth questioned Paul’s authority, thinking distance weakened his oversight. Paul will soon address the necessity for proper respect for his office."
+      "comment": "Some believers in Corinth questioned Paul’s authority, thinking distance weakened his oversight. Paul will soon address the necessity for proper respect for his office.",
+      "sectionHeader": "Paul's Plans and Warning"
     },
     {
       "pk": 53004019,
@@ -257,5 +261,27 @@
       "comment": "Paul offers the Corinthians a choice: repentance and humility will bring gentle correction, while stubbornness brings stronger discipline. It reflects a pastoral concern for the spiritual health of the community under his apostolic care."
     }
   ],
-  "translatedAt": "2025-12-24T11:45:34.973Z"
+  "translatedAt": "2025-12-24T11:45:34.973Z",
+  "sections": [
+    {
+      "title": "Servants of Christ and Stewards of God's Mysteries",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Apostolic Humility and Suffering",
+      "startVerse": 8,
+      "endVerse": 13
+    },
+    {
+      "title": "Paul's Fatherly Admonition",
+      "startVerse": 14,
+      "endVerse": 17
+    },
+    {
+      "title": "Paul's Plans and Warning",
+      "startVerse": 18,
+      "endVerse": 21
+    }
+  ]
 }

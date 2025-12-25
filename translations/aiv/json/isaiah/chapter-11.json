@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "A shoot will spring up from the stump of Jesse, and a branch from his roots will bear fruit.",
       "links": "<a href='/AIV/9/16/1'>1 Sam. 16:1</a>; <a href='/AIV/40/1/1'>Matt. 1:1</a>; <a href='/AIV/23/4/2'>Isa. 4:2</a>",
-      "comment": "Jesse is the father of King David, and this prophecy promises a future leader from David's line. Christian tradition sees this as pointing to Jesus the Messiah, the true fulfillment (see Matt. 1:1)."
+      "comment": "Jesse is the father of King David, and this prophecy promises a future leader from David's line. Christian tradition sees this as pointing to Jesus the Messiah, the true fulfillment (see Matt. 1:1).",
+      "sectionHeader": "The Coming of the Messiah and His Gifts"
     },
     {
       "pk": 29011002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "The wolf will live with the lamb, and the leopard will lie down with the young goat; the calf and the young lion and the fattened calf together; and a little child will lead them.",
       "links": "<a href='/AIV/23/65/25'>Isa. 65:25</a>; <a href='/AIV/36/3/19'>Zeph. 3:19</a>",
-      "comment": "This poetic description foresees a peace that overturns natural enmity. Seen spiritually, it symbolizes the harmony brought by the Messiah's reign, where innocence and humility lead."
+      "comment": "This poetic description foresees a peace that overturns natural enmity. Seen spiritually, it symbolizes the harmony brought by the Messiah's reign, where innocence and humility lead.",
+      "sectionHeader": "The Peaceable Kingdom"
     },
     {
       "pk": 29011007,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "On that day the Lord will again stretch out his hand to recover the remnant of his people who remain, from Assyria and Egypt, from Pathros, Cush, Elam, Shinar, Hamath, and the islands of the sea.",
       "links": "<a href='/AIV/23/10/20-22'>Isa. 10:20-22</a>; <a href='/AIV/26/39/27'>Ezek. 39:27-28</a>",
-      "comment": "This promise of restoration highlights God's ongoing mission to gather his people from every nation, foreshadowing the later inclusion of all peoples into God's family."
+      "comment": "This promise of restoration highlights God's ongoing mission to gather his people from every nation, foreshadowing the later inclusion of all peoples into God's family.",
+      "sectionHeader": "The Gathering of Israel"
     },
     {
       "pk": 29011012,
@@ -197,5 +200,22 @@
       "comment": "The highway imagery symbolizes easy access to salvation and to God’s presence. Isaiah uses this elsewhere to signify preparation for the Lord (Isa. 40:3). The theme of a gathered remnant points to a united family, guided by divine providence."
     }
   ],
-  "translatedAt": "2025-12-24T07:56:20.035Z"
+  "translatedAt": "2025-12-24T07:56:20.035Z",
+  "sections": [
+    {
+      "title": "The Coming of the Messiah and His Gifts",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "The Peaceable Kingdom",
+      "startVerse": 6,
+      "endVerse": 10
+    },
+    {
+      "title": "The Gathering of Israel",
+      "startVerse": 11,
+      "endVerse": 16
+    }
+  ]
 }

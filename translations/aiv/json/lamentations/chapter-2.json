@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "How the Lord in his anger has covered the daughter of Zion with a cloud! He has thrown down the splendor of Israel from heaven to earth; he has not remembered his footstool on the day of his wrath.",
       "links": "<a href='/AIV/19/99/5'>Ps. 99:5</a>; <a href='/AIV/23/64/11'>Isa. 64:11</a>; <a href='/AIV/11/8/7'>1 Kings 8:7</a>",
-      "comment": "The 'footstool' refers to the temple, God's dwelling among his people. God hiding his face draws on the cloud motif, recalling the cloud at Sinai (Exod. 19:9). The visible presence of God is withdrawn due to wrath over sin. This prefigures how Christ, the new Temple (John 2:21), takes upon himself divine wrath to restore communion."
+      "comment": "The 'footstool' refers to the temple, God's dwelling among his people. God hiding his face draws on the cloud motif, recalling the cloud at Sinai (Exod. 19:9). The visible presence of God is withdrawn due to wrath over sin. This prefigures how Christ, the new Temple (John 2:21), takes upon himself divine wrath to restore communion.",
+      "sectionHeader": "The Lord's Wrath Against Zion"
     },
     {
       "pk": 31002002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "The elders of the daughter of Zion sit silently on the ground; they throw dust on their heads and clothe themselves with sackcloth. The young women of Jerusalem bow their heads to the ground.",
       "links": "<a href='/AIV/18/2/12'>Job 2:12</a>; <a href='/AIV/06/7/6'>Josh. 7:6</a>",
-      "comment": "Mourning is communal, involving leaders and youth, showing how sin affects the whole people. Spiritual solidarity in grief prepares the way for solidarity in hope, fulfilled in the Church as a united body."
+      "comment": "Mourning is communal, involving leaders and youth, showing how sin affects the whole people. Spiritual solidarity in grief prepares the way for solidarity in hope, fulfilled in the Church as a united body.",
+      "sectionHeader": "The Desolation and Mourning of Jerusalem"
     },
     {
       "pk": 31002011,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "Their hearts cried out to the Lord: 'O wall of the daughter of Zion, let your tears run down like a river day and night; give yourself no relief, let your eyes have no rest.'",
       "links": "<a href='/AIV/19/42/3'>Ps. 42:3</a>; <a href='/AIV/19/80/5'>Ps. 80:5</a>",
-      "comment": "The call for unceasing lament echoes the persistent intercession found in Scripture (1 Thess. 5:17). Devotion to prayer, especially in times of darkness, is a mark of spiritual maturity in the faithful community."
+      "comment": "The call for unceasing lament echoes the persistent intercession found in Scripture (1 Thess. 5:17). Devotion to prayer, especially in times of darkness, is a mark of spiritual maturity in the faithful community.",
+      "sectionHeader": "Lamentation and Prayer for Mercy"
     },
     {
       "pk": 31002019,
@@ -269,5 +272,22 @@
       "comment": "The perversion of the festival day into a day of terror contrasts with the promise of the true Feast when God will gather all his people in joy (Isa. 25:6-8, Rev. 19:9). The theme of raising up a new people through tribulation is fulfilled in the gathering of the Church into unity and victory through Christ."
     }
   ],
-  "translatedAt": "2025-12-24T08:52:44.765Z"
+  "translatedAt": "2025-12-24T08:52:44.765Z",
+  "sections": [
+    {
+      "title": "The Lord's Wrath Against Zion",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "The Desolation and Mourning of Jerusalem",
+      "startVerse": 10,
+      "endVerse": 17
+    },
+    {
+      "title": "Lamentation and Prayer for Mercy",
+      "startVerse": 18,
+      "endVerse": 22
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "My son, pay attention to my wisdom; incline your ear to my understanding,",
       "links": "<a href='/AIV/20/3/13'>Prov. 3:13</a>; <a href='/AIV/20/4/1'>Prov. 4:1</a>",
-      "comment": "The Father's loving invitation here reflects the tradition of passing on wisdom, emphasizing a relationship much deeper than simple information—pointing to the importance of listening and obedience within the family and faith community."
+      "comment": "The Father's loving invitation here reflects the tradition of passing on wisdom, emphasizing a relationship much deeper than simple information—pointing to the importance of listening and obedience within the family and faith community.",
+      "sectionHeader": "Warning Against the Adulteress"
     },
     {
       "pk": 24005002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "Drink water from your own cistern, flowing water from your own well.",
       "links": "<a href='/AIV/19/36/8'>Ps. 36:8</a>; <a href='/AIV/22/4/12'>Song 4:12</a>",
-      "comment": "A metaphor for marital fidelity, but also a spiritual image for the soul’s source of life in God’s wellspring, echoing Christ's teaching on living water (John 4:14)."
+      "comment": "A metaphor for marital fidelity, but also a spiritual image for the soul’s source of life in God’s wellspring, echoing Christ's teaching on living water (John 4:14).",
+      "sectionHeader": "Blessings of Marital Fidelity"
     },
     {
       "pk": 24005016,
@@ -254,7 +256,8 @@
       "verse": 21,
       "text": "For a man’s ways are before the eyes of the LORD, and he watches all his paths.",
       "links": "<a href='/AIV/20/15/3'>Prov. 15:3</a>; <a href='/AIV/19/139/3'>Ps. 139:3</a>",
-      "comment": "God sees everything; there is no hiding from divine justice—a reminder of ongoing spiritual accountability."
+      "comment": "God sees everything; there is no hiding from divine justice—a reminder of ongoing spiritual accountability.",
+      "sectionHeader": "The Fate of the Wicked"
     },
     {
       "pk": 24005022,
@@ -281,5 +284,22 @@
       "comment": "Discipline is necessary for life; its absence results in spiritual death. This echoes the scriptural theme of salvation being found through obedience and perseverance."
     }
   ],
-  "translatedAt": "2025-12-24T06:52:45.669Z"
+  "translatedAt": "2025-12-24T06:52:45.669Z",
+  "sections": [
+    {
+      "title": "Warning Against the Adulteress",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "Blessings of Marital Fidelity",
+      "startVerse": 15,
+      "endVerse": 20
+    },
+    {
+      "title": "The Fate of the Wicked",
+      "startVerse": 21,
+      "endVerse": 23
+    }
+  ]
 }

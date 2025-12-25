@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "One who works with haste will become rich, but one who loves pleasure will grow poor.",
       "links": "<a href='/AIV/20/21/17'>Prov. 21:17</a>",
-      "comment": "Here Sirach warns that pursuing pleasure leads to poverty, while diligence brings prosperity. This echoes Proverbs and cautions against self-indulgence which diverts us from God's call to discipline and virtue."
+      "comment": "Here Sirach warns that pursuing pleasure leads to poverty, while diligence brings prosperity. This echoes Proverbs and cautions against self-indulgence which diverts us from God's call to discipline and virtue.",
+      "sectionHeader": "Warnings Against Pleasure and Rashness"
     },
     {
       "pk": 28019002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "Never repeat a harsh word, and you will not suffer loss.",
       "links": "<a href='/AIV/20/17/9'>Prov. 17:9</a>; <a href='/AIV/20/11/13'>Prov. 11:13</a>",
-      "comment": "Gossip and tale-bearing lead to strife and brokenness. God's people are called to charity and discretion in speech."
+      "comment": "Gossip and tale-bearing lead to strife and brokenness. God's people are called to charity and discretion in speech.",
+      "sectionHeader": "Guarding the Tongue and Secrets"
     },
     {
       "pk": 28019007,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "Question your friend if he has done you wrong, and if he is guilty, rebuke him so he may not do it again.",
       "links": "<a href='/AIV/03/19/17'>Lev. 19:17</a>; <a href='/AIV/40/18/15'>Matt. 18:15</a>",
-      "comment": "Direct confrontation with charity and justice heals relationships. Christ repeats this command for community life in the gospels."
+      "comment": "Direct confrontation with charity and justice heals relationships. Christ repeats this command for community life in the gospels.",
+      "sectionHeader": "Judging Others and Proper Silence"
     },
     {
       "pk": 28019014,
@@ -230,7 +233,8 @@
       "verse": 19,
       "text": "The knowledge of the wise will increase like the rising tide, and their counsel will endure like a river.",
       "links": "<a href='/AIV/19/1/2-3'>Ps. 1:2-3</a>",
-      "comment": "Wisdom is a living stream that grows and brings life. This points forward to Christ, who is the true Wisdom and Living Water for the people of God."
+      "comment": "Wisdom is a living stream that grows and brings life. This points forward to Christ, who is the true Wisdom and Living Water for the people of God.",
+      "sectionHeader": "True Wisdom and the Fear of the Lord"
     },
     {
       "pk": 28019020,
@@ -338,7 +342,8 @@
       "verse": 28,
       "text": "There is one who stumbles in speaking, but not with the intention to harm; who then has not sinned with his tongue?",
       "links": "<a href='/AIV/59/3/2'>James 3:2</a>",
-      "comment": "We all fail in speech, as James confirms. God calls us to honesty and humility in our failings, seeking forgiveness and growth in holiness."
+      "comment": "We all fail in speech, as James confirms. God calls us to honesty and humility in our failings, seeking forgiveness and growth in holiness.",
+      "sectionHeader": "Discernment of Character"
     },
     {
       "pk": 28019029,
@@ -365,5 +370,32 @@
       "comment": "Outward behavior often manifests inner disposition, but as the Lord told Samuel, man looks at outward appearance, but God sees the heart. Virtue should transform both our hearts and our lives outwardly."
     }
   ],
-  "translatedAt": "2025-12-24T07:33:13.734Z"
+  "translatedAt": "2025-12-24T07:33:13.734Z",
+  "sections": [
+    {
+      "title": "Warnings Against Pleasure and Rashness",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Guarding the Tongue and Secrets",
+      "startVerse": 6,
+      "endVerse": 12
+    },
+    {
+      "title": "Judging Others and Proper Silence",
+      "startVerse": 13,
+      "endVerse": 18
+    },
+    {
+      "title": "True Wisdom and the Fear of the Lord",
+      "startVerse": 19,
+      "endVerse": 27
+    },
+    {
+      "title": "Discernment of Character",
+      "startVerse": 28,
+      "endVerse": 30
+    }
+  ]
 }

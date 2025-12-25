@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When Jonathan saw that the time was favorable, he chose men and sent them to Rome to renew and confirm the friendship with the Romans.",
       "links": "<a href='/AIV/1Macc/8/17'>1 Maccabees 8:17</a>",
-      "comment": "Jonathan continues diplomatic efforts to strengthen Israel's position, echoing previous alliances. This pursuit of unity anticipates the later importance of unity within the Church."
+      "comment": "Jonathan continues diplomatic efforts to strengthen Israel's position, echoing previous alliances. This pursuit of unity anticipates the later importance of unity within the Church.",
+      "sectionHeader": "Diplomatic Missions to Rome and Sparta"
     },
     {
       "pk": 20012002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "This is the copy of the letter that Jonathan wrote to the Spartans:",
       "links": "",
-      "comment": "Here follows a documented proposal for friendship, reminiscent of covenants and unity among God’s people."
+      "comment": "Here follows a documented proposal for friendship, reminiscent of covenants and unity among God’s people.",
+      "sectionHeader": "The Letter of Jonathan to the Spartans"
     },
     {
       "pk": 20012006,
@@ -230,7 +232,8 @@
       "verse": 19,
       "text": "This is the copy of the letter sent to the Spartans: “Jonathan, high priest, and the elders of the nation and the priests and the rest of the Jewish people send greetings to the Spartans, their brothers.”",
       "links": "",
-      "comment": "The high priest is highlighted as key leader; a concept developed in the new covenant through Christ’s eternal priesthood (see <a href='/AIV/Heb/7/24'>Hebrews 7:24</a>)."
+      "comment": "The high priest is highlighted as key leader; a concept developed in the new covenant through Christ’s eternal priesthood (see <a href='/AIV/Heb/7/24'>Hebrews 7:24</a>).",
+      "sectionHeader": "The Spartan Reply"
     },
     {
       "pk": 20012020,
@@ -290,7 +293,8 @@
       "verse": 24,
       "text": "Jonathan heard that the generals of Demetrius had returned with a larger army than before to wage war against him.",
       "links": "",
-      "comment": "New threats arise, illustrating that the life of faith is marked by ongoing struggle."
+      "comment": "New threats arise, illustrating that the life of faith is marked by ongoing struggle.",
+      "sectionHeader": "Jonathan’s Campaign Against Demetrius"
     },
     {
       "pk": 20012025,
@@ -470,7 +474,8 @@
       "verse": 39,
       "text": "Trypho plotted to become king of Asia and put a golden crown on his head and armed himself with military force.",
       "links": "",
-      "comment": "Trypho’s usurpation and ambition warn against self-exaltation; Christ alone is the rightful King (see <a href='/AIV/Rev/19/16'>Revelation 19:16</a>)."
+      "comment": "Trypho’s usurpation and ambition warn against self-exaltation; Christ alone is the rightful King (see <a href='/AIV/Rev/19/16'>Revelation 19:16</a>).",
+      "sectionHeader": "Trypho’s Treachery and Jonathan’s Capture"
     },
     {
       "pk": 20012040,
@@ -641,5 +646,32 @@
       "comment": "Constant threats to the faithful mirror earlier Psalms and prophecies about the persecution of God’s chosen, ultimately fulfilled in Christ and in the endurance of the Church throughout history."
     }
   ],
-  "translatedAt": "2025-12-24T05:25:22.555Z"
+  "translatedAt": "2025-12-24T05:25:22.555Z",
+  "sections": [
+    {
+      "title": "Diplomatic Missions to Rome and Sparta",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "The Letter of Jonathan to the Spartans",
+      "startVerse": 5,
+      "endVerse": 18
+    },
+    {
+      "title": "The Spartan Reply",
+      "startVerse": 19,
+      "endVerse": 23
+    },
+    {
+      "title": "Jonathan’s Campaign Against Demetrius",
+      "startVerse": 24,
+      "endVerse": 38
+    },
+    {
+      "title": "Trypho’s Treachery and Jonathan’s Capture",
+      "startVerse": 39,
+      "endVerse": 53
+    }
+  ]
 }

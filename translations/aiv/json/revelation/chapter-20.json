@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then I saw an angel coming down from heaven, holding in his hand the key to the Abyss and a great chain.",
       "links": "<a href='/AIV/42/8/31'>Luke 8:31</a>; <a href='/AIV/66/9/1'>Rev. 9:1</a>",
-      "comment": "The 'Abyss' refers to the bottomless pit, a place of judgment and restraint for evil spirits. The imagery of the angel with authority reinforces divine control over spiritual forces."
+      "comment": "The 'Abyss' refers to the bottomless pit, a place of judgment and restraint for evil spirits. The imagery of the angel with authority reinforces divine control over spiritual forces.",
+      "sectionHeader": "The Thousand Year Reign"
     },
     {
       "pk": 73020002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "When the thousand years are finished, Satan will be released from his prison,",
       "links": "<a href='/AIV/66/20/3'>Rev. 20:3</a>",
-      "comment": "The brief release after the thousand years signals a final confrontation, emphasizing God's timing and patience before the ultimate defeat of evil."
+      "comment": "The brief release after the thousand years signals a final confrontation, emphasizing God's timing and patience before the ultimate defeat of evil.",
+      "sectionHeader": "Satan Freed and Defeated"
     },
     {
       "pk": 73020008,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "Then I saw a great white throne and the one seated on it. The earth and the sky fled from his presence, and no place was found for them.",
       "links": "<a href='/AIV/27/7/9'>Dan. 7:9-10</a>; <a href='/AIV/66/4/2'>Rev. 4:2</a>",
-      "comment": "The great white throne symbolizes perfect justice and holiness. The cosmic disturbance demonstrates the overwhelming majesty of God's judgment."
+      "comment": "The great white throne symbolizes perfect justice and holiness. The cosmic disturbance demonstrates the overwhelming majesty of God's judgment.",
+      "sectionHeader": "The Last Judgment"
     },
     {
       "pk": 73020012,
@@ -185,5 +188,22 @@
       "comment": "To have one's name in the book of life is to belong to God fully. This underlines the need for perseverance in faith and relationship with God, as preserved and mediated through the community of believers."
     }
   ],
-  "translatedAt": "2025-12-24T12:41:18.266Z"
+  "translatedAt": "2025-12-24T12:41:18.266Z",
+  "sections": [
+    {
+      "title": "The Thousand Year Reign",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Satan Freed and Defeated",
+      "startVerse": 7,
+      "endVerse": 10
+    },
+    {
+      "title": "The Last Judgment",
+      "startVerse": 11,
+      "endVerse": 15
+    }
+  ]
 }

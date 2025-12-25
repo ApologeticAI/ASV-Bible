@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "These are the words of the letter that Jeremiah the prophet sent from Jerusalem to the remainder of the elders of the exiles, to the priests, the prophets, and all the people whom Nebuchadnezzar had taken away captive from Jerusalem to Babylon.",
       "links": "<a href='/AIV/27/1/1-7'>Dan. 1:1-7</a>; <a href='/AIV/14/36/20'>2 Chron. 36:20</a>",
-      "comment": "Jeremiah records his letter addressed to the exiles in Babylon, including elders, priests, and prophets, emphasizing a structured and ongoing leadership among God's people even in exile."
+      "comment": "Jeremiah records his letter addressed to the exiles in Babylon, including elders, priests, and prophets, emphasizing a structured and ongoing leadership among God's people even in exile.",
+      "sectionHeader": "Jeremiah's Letter to the Exiles in Babylon"
     },
     {
       "pk": 30029002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "Because you have said, 'The LORD has raised up prophets for us in Babylon,'—",
       "links": "<a href='/AIV/24/28/1'>Jer. 28:1</a>",
-      "comment": "The people wished for new prophets among the exiles, but God cautions that not every spiritual leader is from Him, emphasizing the need for discernment and true continuity of prophetic authority."
+      "comment": "The people wished for new prophets among the exiles, but God cautions that not every spiritual leader is from Him, emphasizing the need for discernment and true continuity of prophetic authority.",
+      "sectionHeader": "Judgment on Those Remaining in Jerusalem"
     },
     {
       "pk": 30029016,
@@ -254,7 +256,8 @@
       "verse": 21,
       "text": "Thus says the LORD of hosts, the God of Israel, concerning Ahab the son of Kolaiah and Zedekiah the son of Maaseiah, who are prophesying a lie to you in My name: 'Behold, I will deliver them into the hand of Nebuchadnezzar king of Babylon, and he shall put them to death before your eyes.'",
       "links": "<a href='/AIV/24/28/15-17'>Jer. 28:15-17</a>",
-      "comment": "False prophets receive severe condemnation. The public punishment also serves as a sign for true and false teaching in any age."
+      "comment": "False prophets receive severe condemnation. The public punishment also serves as a sign for true and false teaching in any age.",
+      "sectionHeader": "The False Prophets Ahab and Zedekiah"
     },
     {
       "pk": 30029022,
@@ -290,7 +293,8 @@
       "verse": 24,
       "text": "To Shemaiah the Nehelamite you shall speak, saying,",
       "links": "<a href='/AIV/24/29/31'>Jer. 29:31</a>",
-      "comment": "Transition to a message to another false prophet, indicating the seriousness with which God addresses disorder among His people."
+      "comment": "Transition to a message to another false prophet, indicating the seriousness with which God addresses disorder among His people.",
+      "sectionHeader": "Shemaiah the False Prophet Condemned"
     },
     {
       "pk": 30029025,
@@ -389,5 +393,27 @@
       "comment": "False prophetic authority is judged; Shemaiah’s punishment serves as a warning that divine blessing is reserved for those who remain faithful to God’s revealed order."
     }
   ],
-  "translatedAt": "2025-12-24T08:37:21.301Z"
+  "translatedAt": "2025-12-24T08:37:21.301Z",
+  "sections": [
+    {
+      "title": "Jeremiah's Letter to the Exiles in Babylon",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "Judgment on Those Remaining in Jerusalem",
+      "startVerse": 15,
+      "endVerse": 20
+    },
+    {
+      "title": "The False Prophets Ahab and Zedekiah",
+      "startVerse": 21,
+      "endVerse": 23
+    },
+    {
+      "title": "Shemaiah the False Prophet Condemned",
+      "startVerse": 24,
+      "endVerse": 32
+    }
+  ]
 }

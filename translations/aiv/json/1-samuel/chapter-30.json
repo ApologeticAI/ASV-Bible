@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now when David and his men came to Ziklag on the third day, the Amalekites had raided the Negev and Ziklag. They had attacked Ziklag and burned it with fire.",
       "links": "<a href='/AIV/9/27/6'>1Sam. 27:6</a>; <a href='/AIV/2/17/8-13'>Ex. 17:8-13</a>",
-      "comment": "Ziklag was the city given to David by the Philistines. The Amalekites, old enemies of Israel, attack while David is away. The number three echoes the pattern of restoration in Scripture (Hosea 6:2; Matt. 12:40)."
+      "comment": "Ziklag was the city given to David by the Philistines. The Amalekites, old enemies of Israel, attack while David is away. The number three echoes the pattern of restoration in Scripture (Hosea 6:2; Matt. 12:40).",
+      "sectionHeader": "The Amalekite Raid on Ziklag"
     },
     {
       "pk": 9030002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "Then David said to Abiathar the priest, son of Ahimelech, “Bring me the ephod.” So Abiathar brought the ephod to David.",
       "links": "<a href='/AIV/9/23/6'>1Sam. 23:6</a>; <a href='/AIV/2/28/6'>Ex. 28:6</a>",
-      "comment": "David seeks guidance through the priest and the ephod—showing the vital role of priestly mediation and liturgical acts. This subtle pattern foreshadows Christ’s high priesthood and the importance of ordained mediators in salvation history."
+      "comment": "David seeks guidance through the priest and the ephod—showing the vital role of priestly mediation and liturgical acts. This subtle pattern foreshadows Christ’s high priesthood and the importance of ordained mediators in salvation history.",
+      "sectionHeader": "David Pursues the Amalekites"
     },
     {
       "pk": 9030008,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "When he had led him down, they were spread out over all the land, eating, drinking, and celebrating because of all the great spoil they had taken from the land of the Philistines and from Judah.",
       "links": "<a href='/AIV/7/9/27'>Judg. 9:27</a>",
-      "comment": "The enemy's careless feasting leads to their downfall—a pattern repeated throughout Scripture (Dan. 5:1-6)."
+      "comment": "The enemy's careless feasting leads to their downfall—a pattern repeated throughout Scripture (Dan. 5:1-6).",
+      "sectionHeader": "The Defeat of the Amalekites and Recovery of the Captives"
     },
     {
       "pk": 9030017,
@@ -254,7 +257,8 @@
       "verse": 21,
       "text": "Then David came to the two hundred men who had been too exhausted to follow him and had been left at the brook Besor. They came out to meet David and those with him, and David greeted them with peace.",
       "links": "<a href='/AIV/9/30/10'>1Sam. 30:10</a>",
-      "comment": "David’s greeting (Hebrew 'shalom') anticipates the peace of Christ given to all in the Church, regardless of outward ability (John 20:19)."
+      "comment": "David’s greeting (Hebrew 'shalom') anticipates the peace of Christ given to all in the Church, regardless of outward ability (John 20:19).",
+      "sectionHeader": "Division of the Spoil"
     },
     {
       "pk": 9030022,
@@ -314,7 +318,8 @@
       "verse": 26,
       "text": "When David came to Ziklag, he sent some of the spoil to the elders of Judah, his friends, saying, 'Here is a present for you from the spoil of the enemies of the LORD.'",
       "links": "<a href='/AIV/9/10/4'>1Sam. 10:4</a>",
-      "comment": "David’s act of sharing bounty with elders established bonds of charity and mutual support, signaling the importance of maintaining unity among God’s people through acts of generosity—a spiritual inheritance that echoes in later Church practice (Rom. 15:26-27)."
+      "comment": "David’s act of sharing bounty with elders established bonds of charity and mutual support, signaling the importance of maintaining unity among God’s people through acts of generosity—a spiritual inheritance that echoes in later Church practice (Rom. 15:26-27).",
+      "sectionHeader": "David Sends Spoils to Judah"
     },
     {
       "pk": 9030027,
@@ -377,5 +382,32 @@
       "comment": "Hebron will soon be David’s royal city. The mention of 'all the places where David and his men had roamed' recalls the breadth of his ministry and the foundational unity later seen in the one flock gathered by the true King (John 10:16)."
     }
   ],
-  "translatedAt": "2025-12-24T03:08:10.584Z"
+  "translatedAt": "2025-12-24T03:08:10.584Z",
+  "sections": [
+    {
+      "title": "The Amalekite Raid on Ziklag",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "David Pursues the Amalekites",
+      "startVerse": 7,
+      "endVerse": 15
+    },
+    {
+      "title": "The Defeat of the Amalekites and Recovery of the Captives",
+      "startVerse": 16,
+      "endVerse": 20
+    },
+    {
+      "title": "Division of the Spoil",
+      "startVerse": 21,
+      "endVerse": 25
+    },
+    {
+      "title": "David Sends Spoils to Judah",
+      "startVerse": 26,
+      "endVerse": 31
+    }
+  ]
 }

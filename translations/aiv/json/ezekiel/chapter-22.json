@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The word of the LORD came to me, saying:",
       "links": "<a href='/AIV/26/3/16'>Ezek. 3:16</a>",
-      "comment": "Ezekiel frequently begins his prophecies with this phrase, emphasizing divine initiative and the prophet's role as an instrument."
+      "comment": "Ezekiel frequently begins his prophecies with this phrase, emphasizing divine initiative and the prophet's role as an instrument.",
+      "sectionHeader": "The Sins of Jerusalem"
     },
     {
       "pk": 33022002,
@@ -206,7 +207,8 @@
       "verse": 17,
       "text": "And the word of the LORD came to me, saying:",
       "links": "<a href='/AIV/26/20/45'>Ezek. 20:45</a>",
-      "comment": "A new oracle begins, marking a shift in focus. The structure emphasizes the authority of divine revelation."
+      "comment": "A new oracle begins, marking a shift in focus. The structure emphasizes the authority of divine revelation.",
+      "sectionHeader": "Jerusalem Melted in the Furnace"
     },
     {
       "pk": 33022018,
@@ -278,7 +280,8 @@
       "verse": 23,
       "text": "And the word of the LORD came to me, saying:",
       "links": "<a href='/AIV/26/20/45'>Ezek. 20:45</a>",
-      "comment": "Initiates a new segment—God continues to reveal the depth and breadth of Israel’s sin."
+      "comment": "Initiates a new segment—God continues to reveal the depth and breadth of Israel’s sin.",
+      "sectionHeader": "The Corruption of Israel's Leaders"
     },
     {
       "pk": 33022024,
@@ -377,5 +380,22 @@
       "comment": "Judgment is recapitulated as a consequence of unrepentant sin. This passage prepares for restoration themes to follow in later chapters, emphasizing God’s justice and mercy."
     }
   ],
-  "translatedAt": "2025-12-24T09:10:18.974Z"
+  "translatedAt": "2025-12-24T09:10:18.974Z",
+  "sections": [
+    {
+      "title": "The Sins of Jerusalem",
+      "startVerse": 1,
+      "endVerse": 16
+    },
+    {
+      "title": "Jerusalem Melted in the Furnace",
+      "startVerse": 17,
+      "endVerse": 22
+    },
+    {
+      "title": "The Corruption of Israel's Leaders",
+      "startVerse": 23,
+      "endVerse": 31
+    }
+  ]
 }

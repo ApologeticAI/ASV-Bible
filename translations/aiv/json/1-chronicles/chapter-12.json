@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "These are the men who came to David at Ziklag, while he was kept apart because of Saul son of Kish. They were among the warriors helping David in battle.",
       "links": "<a href='/AIV/9/27/6'>1 Sam. 27:6</a>; <a href='/AIV/9/23/14'>1 Sam. 23:14</a>",
-      "comment": "Ziklag was given to David by the Philistine king Achish, showing God's providence in preserving David for kingship. The narrative highlights David's gathering of loyal followers even before his official reign, foreshadowing the unity that would later be established in the nation."
+      "comment": "Ziklag was given to David by the Philistine king Achish, showing God's providence in preserving David for kingship. The narrative highlights David's gathering of loyal followers even before his official reign, foreshadowing the unity that would later be established in the nation.",
+      "sectionHeader": "David’s Early Supporters at Ziklag"
     },
     {
       "pk": 13012002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Some Gadites separated themselves to David at his stronghold in the wilderness, mighty men of valor, trained for war, able to handle shield and spear. Their faces were as fierce as lions, and they were as swift as gazelles on the mountains.",
       "links": "<a href='/AIV/9/23/14'>1 Sam. 23:14</a>",
-      "comment": "The desert location recalls biblical times of testing, resembling Moses and Elijah in the wilderness, preparing for greater calling. Swift as gazelles symbolizes readiness to respond to God's call."
+      "comment": "The desert location recalls biblical times of testing, resembling Moses and Elijah in the wilderness, preparing for greater calling. Swift as gazelles symbolizes readiness to respond to God's call.",
+      "sectionHeader": "The Gadite Warriors Join David"
     },
     {
       "pk": 13012009,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "And some from the tribe of Benjamin and Judah came to David at the stronghold.",
       "links": "<a href='/AIV/9/23/14'>1 Sam. 23:14</a>",
-      "comment": "The joining of these two central tribes prefigures unity and foreshadows the spiritual harmony God desires among believers."
+      "comment": "The joining of these two central tribes prefigures unity and foreshadows the spiritual harmony God desires among believers.",
+      "sectionHeader": "More Followers Join David at the Stronghold"
     },
     {
       "pk": 13012016,
@@ -230,7 +233,8 @@
       "verse": 19,
       "text": "When David was returning to Ziklag, those from Manasseh who joined him were Adnah, Jozabad, Jediael, Michael, Jozabad, Elihu, and Zillethai, leaders of units of thousands in Manasseh.",
       "links": "<a href='/AIV/9/30/26'>1 Sam. 30:26</a>",
-      "comment": "David continually draws new followers, even in times of displacement, pointing to the attractive power of God’s anointed and foreshadowing Christ’s drawing of disciples."
+      "comment": "David continually draws new followers, even in times of displacement, pointing to the attractive power of God’s anointed and foreshadowing Christ’s drawing of disciples.",
+      "sectionHeader": "Defectors from Manasseh Join David"
     },
     {
       "pk": 13012020,
@@ -278,7 +282,8 @@
       "verse": 23,
       "text": "From Judah, carrying shield and spear: 6,800 armed for war.",
       "links": "<a href='/AIV/13/7/5'>1 Chr. 7:5</a>",
-      "comment": "The strength of Judah is central, connecting to the messianic lineage (Genesis 49:10); from this tribe, the true King will come."
+      "comment": "The strength of Judah is central, connecting to the messianic lineage (Genesis 49:10); from this tribe, the true King will come.",
+      "sectionHeader": "The Tribal Armies Gather at Hebron"
     },
     {
       "pk": 13012024,
@@ -485,5 +490,32 @@
       "comment": "The unity and joy anticipated in David's kingship foreshadows the fullness of joy in Christ's reign, a unity that is meant to embrace all the faithful in one spiritual family."
     }
   ],
-  "translatedAt": "2025-12-24T04:12:08.931Z"
+  "translatedAt": "2025-12-24T04:12:08.931Z",
+  "sections": [
+    {
+      "title": "David’s Early Supporters at Ziklag",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "The Gadite Warriors Join David",
+      "startVerse": 8,
+      "endVerse": 14
+    },
+    {
+      "title": "More Followers Join David at the Stronghold",
+      "startVerse": 15,
+      "endVerse": 18
+    },
+    {
+      "title": "Defectors from Manasseh Join David",
+      "startVerse": 19,
+      "endVerse": 22
+    },
+    {
+      "title": "The Tribal Armies Gather at Hebron",
+      "startVerse": 23,
+      "endVerse": 40
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The vision of Isaiah son of Amoz, which he saw concerning Judah and Jerusalem, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah.",
       "links": "<a href='/AIV/12/15/27'>2 Kings 15:27</a>; <a href='/AIV/14/26/22'>2 Chr. 26:22</a>",
-      "comment": "Isaiah was a prophet whose ministry spanned the reigns of several kings. The vision refers to prophetic revelation, showing God's concern for His people over generations. This historical context highlights God’s unchanging faithfulness and the continuity of His covenantal guidance for both the nation and the promise of the Messiah."
+      "comment": "Isaiah was a prophet whose ministry spanned the reigns of several kings. The vision refers to prophetic revelation, showing God's concern for His people over generations. This historical context highlights God’s unchanging faithfulness and the continuity of His covenantal guidance for both the nation and the promise of the Messiah.",
+      "sectionHeader": "Introduction and Rebuke of Judah's Sin"
     },
     {
       "pk": 29001002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "Hear the word of the LORD, you rulers of Sodom! Listen to the law of our God, you people of Gomorrah!",
       "links": "<a href='/AIV/19/50/7'>Ps. 50:7</a>; <a href='/AIV/01/19/13'>Gen. 19:13</a>",
-      "comment": "By calling Israel ‘Sodom’ and ‘Gomorrah,’ Isaiah equates their sinfulness with infamous cities, stressing the gravity of their situation. Yet God’s call to hear signals ongoing invitation to repentance, echoing the theme of covenant invitation."
+      "comment": "By calling Israel ‘Sodom’ and ‘Gomorrah,’ Isaiah equates their sinfulness with infamous cities, stressing the gravity of their situation. Yet God’s call to hear signals ongoing invitation to repentance, echoing the theme of covenant invitation.",
+      "sectionHeader": "Condemnation of Empty Worship"
     },
     {
       "pk": 29001011,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "Wash yourselves; make yourselves clean; remove the evil of your deeds from My sight. Stop doing evil.",
       "links": "<a href='/AIV/19/51/2'>Ps. 51:2</a>; <a href='/AIV/60/1/22'>1 Pet 1:22</a>",
-      "comment": "The call to cleansing symbolizes spiritual renewal, prefiguring the sacramental significance of water in baptism and ongoing repentance. God’s invitation remains open for restoration and holiness."
+      "comment": "The call to cleansing symbolizes spiritual renewal, prefiguring the sacramental significance of water in baptism and ongoing repentance. God’s invitation remains open for restoration and holiness.",
+      "sectionHeader": "Call to Repentance and Promise of Forgiveness"
     },
     {
       "pk": 29001017,
@@ -254,7 +257,8 @@
       "verse": 21,
       "text": "How the faithful city has become a prostitute! Once full of justice; righteousness resided in her—but now, murderers.",
       "links": "<a href='/AIV/25/1/1'>Lam. 1:1</a>; <a href='/AIV/66/17/1-2'>Rev. 17:1-2</a>",
-      "comment": "Jerusalem's spiritual adultery represents apostasy, linking the city’s fate to later biblical depictions of spiritual unfaithfulness. The contrast between past righteousness and present corruption is a call back to authentic justice and purity."
+      "comment": "Jerusalem's spiritual adultery represents apostasy, linking the city’s fate to later biblical depictions of spiritual unfaithfulness. The contrast between past righteousness and present corruption is a call back to authentic justice and purity.",
+      "sectionHeader": "The Corruption and Purification of Jerusalem"
     },
     {
       "pk": 29001022,
@@ -377,5 +381,27 @@
       "comment": "Final judgment is depicted in terms borrowed for descriptions of hell, stressing the urgency of repentance. The unquenchable fire motif anticipates New Testament warnings and the promise of eternal life for the righteous."
     }
   ],
-  "translatedAt": "2025-12-24T07:51:29.896Z"
+  "translatedAt": "2025-12-24T07:51:29.896Z",
+  "sections": [
+    {
+      "title": "Introduction and Rebuke of Judah's Sin",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "Condemnation of Empty Worship",
+      "startVerse": 10,
+      "endVerse": 15
+    },
+    {
+      "title": "Call to Repentance and Promise of Forgiveness",
+      "startVerse": 16,
+      "endVerse": 20
+    },
+    {
+      "title": "The Corruption and Purification of Jerusalem",
+      "startVerse": 21,
+      "endVerse": 31
+    }
+  ]
 }

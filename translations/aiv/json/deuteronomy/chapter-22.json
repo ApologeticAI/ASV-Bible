@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "If you see your brother’s ox or sheep straying, do not ignore it; you must take it back to your brother.",
       "links": "<a href='/AIV/2/23/4'>Ex. 23:4</a>; <a href='/AIV/3/19/18'>Lev. 19:18</a>; <a href='/AIV/42/10/27-37'>Luke 10:27–37</a>",
-      "comment": "This command establishes love for neighbor and responsibility for others' property, highlighting God's law of charity. Jesus expands on this in the Parable of the Good Samaritan."
+      "comment": "This command establishes love for neighbor and responsibility for others' property, highlighting God's law of charity. Jesus expands on this in the Parable of the Good Samaritan.",
+      "sectionHeader": "Laws of Kindness and Justice"
     },
     {
       "pk": 5022002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "A woman shall not wear a man’s clothing, nor shall a man put on a woman’s garment, for everyone who does these things is an abomination to the LORD your God.",
       "links": "<a href='/AIV/3/18/22'>Lev. 18:22</a>; <a href='/AIV/3/20/13'>Lev. 20:13</a>",
-      "comment": "Emphasizing God’s distinctions in creation, this law addresses the importance of honoring the order set by God."
+      "comment": "Emphasizing God’s distinctions in creation, this law addresses the importance of honoring the order set by God.",
+      "sectionHeader": "Various Laws of Purity"
     },
     {
       "pk": 5022006,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "If a man takes a wife and goes in to her and then despises her,",
       "links": "<a href='/AIV/5/24/1-4'>Deut. 24:1-4</a>",
-      "comment": "Marriage laws highlight the sacredness and binding nature of marriage, preparing for the full revelation of the sacramental nature of marriage."
+      "comment": "Marriage laws highlight the sacredness and binding nature of marriage, preparing for the full revelation of the sacramental nature of marriage.",
+      "sectionHeader": "Laws on Marriage and Sexual Conduct"
     },
     {
       "pk": 50220014,
@@ -365,5 +368,22 @@
       "comment": "This law upholds the sanctity of family relations and foreshadows Christ’s perfect fulfillment of the Law."
     }
   ],
-  "translatedAt": "2025-12-24T02:08:39.401Z"
+  "translatedAt": "2025-12-24T02:08:39.401Z",
+  "sections": [
+    {
+      "title": "Laws of Kindness and Justice",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "Various Laws of Purity",
+      "startVerse": 5,
+      "endVerse": 12
+    },
+    {
+      "title": "Laws on Marriage and Sexual Conduct",
+      "startVerse": 13,
+      "endVerse": 30
+    }
+  ]
 }

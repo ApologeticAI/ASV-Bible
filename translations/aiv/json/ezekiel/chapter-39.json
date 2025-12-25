@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Son of man, set your face against Gog of the land of Magog, the chief prince of Meshech and Tubal, and prophesy against him.",
       "links": "<a href='/AIV/26/38/2'>Ezek. 38:2</a>; <a href='/AIV/66/20/8'>Rev. 20:8</a>",
-      "comment": "God addresses Ezekiel to focus on Gog, the mysterious enemy, building upon the prophecy begun in the previous chapter. The symbolic nature of Gog ties into later biblical descriptions of spiritual and physical opposition to God's people."
+      "comment": "God addresses Ezekiel to focus on Gog, the mysterious enemy, building upon the prophecy begun in the previous chapter. The symbolic nature of Gog ties into later biblical descriptions of spiritual and physical opposition to God's people.",
+      "sectionHeader": "The Defeat of Gog"
     },
     {
       "pk": 33039002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "'On that day I will give Gog a burial place there in Israel, the Valley of the Travelers, east of the sea. It will block travelers, for there Gog and all his multitude will be buried. It will be called the Valley of Gog’s Multitude.'",
       "links": "<a href='/AIV/26/32/23'>Ezek. 32:23</a>; <a href='/AIV/18/21/32'>Job 21:32</a>",
-      "comment": "The burial site marks both physical and spiritual defeat of God's enemies, making the valley itself a witness to God's victory for generations."
+      "comment": "The burial site marks both physical and spiritual defeat of God's enemies, making the valley itself a witness to God's victory for generations.",
+      "sectionHeader": "The Burial of Gog’s Multitude"
     },
     {
       "pk": 33039012,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "'And you, son of man, thus says the Lord GOD, Speak to every sort of bird and to every beast of the field: ‘Assemble and come, gather from every side to My sacrificial feast that I am preparing for you, a great feast on the mountains of Israel, and you shall eat flesh and drink blood.’'",
       "links": "<a href='/AIV/66/19/17-18'>Rev. 19:17-18</a>; <a href='/AIV/02/12/6-10'>Ex. 12:6-10</a>",
-      "comment": "The sacrificial imagery echoes both judgment and deliverance. God orchestrates a 'feast,' linking prophetic Old Testament themes with apocalyptic final victory (Rev. 19:17-18)."
+      "comment": "The sacrificial imagery echoes both judgment and deliverance. God orchestrates a 'feast,' linking prophetic Old Testament themes with apocalyptic final victory (Rev. 19:17-18).",
+      "sectionHeader": "The Sacrificial Feast for the Birds and Beasts"
     },
     {
       "pk": 33039018,
@@ -302,7 +305,8 @@
       "verse": 25,
       "text": "'Therefore, thus says the Lord GOD: Now I will restore the fortunes of Jacob, and have mercy on the whole house of Israel; and I will be jealous for My holy name.'",
       "links": "<a href='/AIV/29/2/18'>Joel 2:18</a>; <a href='/AIV/26/36/24'>Ezek. 36:24</a>",
-      "comment": "Restoration is linked with mercy. The restoration of all Israel hints at spiritual unity—the full gathering of God’s people, resonating with Christ’s work of reconciliation."
+      "comment": "Restoration is linked with mercy. The restoration of all Israel hints at spiritual unity—the full gathering of God’s people, resonating with Christ’s work of reconciliation.",
+      "sectionHeader": "The Restoration and Blessing of Israel"
     },
     {
       "pk": 33039026,
@@ -353,5 +357,27 @@
       "comment": "The outpouring of the Spirit foreshadows Pentecost and the unity of God’s people in sacramental life. The restored relationship prepares the way for new covenant fulfillment in Christ (see Acts 2:17-18)."
     }
   ],
-  "translatedAt": "2025-12-24T09:20:17.822Z"
+  "translatedAt": "2025-12-24T09:20:17.822Z",
+  "sections": [
+    {
+      "title": "The Defeat of Gog",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "The Burial of Gog’s Multitude",
+      "startVerse": 11,
+      "endVerse": 16
+    },
+    {
+      "title": "The Sacrificial Feast for the Birds and Beasts",
+      "startVerse": 17,
+      "endVerse": 24
+    },
+    {
+      "title": "The Restoration and Blessing of Israel",
+      "startVerse": 25,
+      "endVerse": 29
+    }
+  ]
 }

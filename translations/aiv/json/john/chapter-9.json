@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "As Jesus was passing by, he saw a man who had been blind from birth.",
       "links": "<a href='/AIV/40/20/30-34'>Matt. 20:30-34</a>; <a href='/AIV/42/18/35-43'>Luke 18:35-43</a>",
-      "comment": "Jesus initiates the encounter, underscoring divine initiative in salvation. The man's blindness from birth will serve as a sign demonstrating Jesus’ power and the purpose of suffering."
+      "comment": "Jesus initiates the encounter, underscoring divine initiative in salvation. The man's blindness from birth will serve as a sign demonstrating Jesus’ power and the purpose of suffering.",
+      "sectionHeader": "The Healing of the Man Born Blind"
     },
     {
       "pk": 50009002,
@@ -157,7 +158,8 @@
       "verse": 13,
       "text": "They brought to the Pharisees the man who had formerly been blind.",
       "links": "<a href='/AIV/43/8/3'>John 8:3</a>",
-      "comment": "The Pharisees are introduced as religious leaders and eventual opponents, paralleling disputes over Christ's authority."
+      "comment": "The Pharisees are introduced as religious leaders and eventual opponents, paralleling disputes over Christ's authority.",
+      "sectionHeader": "The Pharisees Investigate the Healing"
     },
     {
       "pk": 50009014,
@@ -421,7 +423,8 @@
       "verse": 35,
       "text": "Jesus heard that they had thrown him out, and when he found him he said, 'Do you believe in the Son of Man?'",
       "links": "<a href='/AIV/27/7/13-14'>Dan. 7:13-14</a>; <a href='/AIV/43/3/18'>John 3:18</a>",
-      "comment": "Jesus’ title, 'Son of Man,' is a reference to the divine figure in Daniel who has everlasting authority (Dan 7:13–14), again affirming his divine identity."
+      "comment": "Jesus’ title, 'Son of Man,' is a reference to the divine figure in Daniel who has everlasting authority (Dan 7:13–14), again affirming his divine identity.",
+      "sectionHeader": "Spiritual Blindness"
     },
     {
       "pk": 50009036,
@@ -495,5 +498,22 @@
       "comment": "Jesus teaches that spiritual pride and persistent rejection of revelation leads to guilt. True sight comes from recognizing one’s need for grace."
     }
   ],
-  "translatedAt": "2025-12-24T11:08:29.317Z"
+  "translatedAt": "2025-12-24T11:08:29.317Z",
+  "sections": [
+    {
+      "title": "The Healing of the Man Born Blind",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "The Pharisees Investigate the Healing",
+      "startVerse": 13,
+      "endVerse": 34
+    },
+    {
+      "title": "Spiritual Blindness",
+      "startVerse": 35,
+      "endVerse": 41
+    }
+  ]
 }

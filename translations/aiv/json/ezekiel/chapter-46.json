@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "This is what the Lord GOD says: The gate of the inner court facing east must remain shut during the six workdays. But on the Sabbath day and on the day of the new moon, it shall be opened.",
       "links": "<a href='/AIV/4/28/11'>Num. 28:11</a>; <a href='/AIV/23/66/23'>Isa. 66:23</a>",
-      "comment": "The opening of the eastern gate on the Sabbath and new moon links to the rhythm of worship and rest established by God (see <a href='/AIV/4/28/9-10'>Num. 28:9-10</a>). This foreshadows the meaning of sacred time, set apart for worship, echoing the weekly Sabbath and special feast days fulfilled in the new covenant."
+      "comment": "The opening of the eastern gate on the Sabbath and new moon links to the rhythm of worship and rest established by God (see <a href='/AIV/4/28/9-10'>Num. 28:9-10</a>). This foreshadows the meaning of sacred time, set apart for worship, echoing the weekly Sabbath and special feast days fulfilled in the new covenant.",
+      "sectionHeader": "The Prince and Worship at the East Gate"
     },
     {
       "pk": 33046002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "You must provide a year-old male lamb without blemish as a daily burnt offering to the LORD; you must provide it every morning.",
       "links": "<a href='/AIV/2/29/38-42'>Ex. 29:38-42</a>",
-      "comment": "The daily sacrifice points to the ongoing need for atonement and continual worship. Christians see this fulfilled in the perpetual memorial established by Christ in the new and everlasting covenant."
+      "comment": "The daily sacrifice points to the ongoing need for atonement and continual worship. Christians see this fulfilled in the perpetual memorial established by Christ in the new and everlasting covenant.",
+      "sectionHeader": "Daily Burnt Offering"
     },
     {
       "pk": 33046014,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "This is what the Lord GOD says: If the prince gives a gift out of his inheritance to any of his sons, it is to belong to his sons; it is their possession by inheritance.",
       "links": "<a href='/AIV/3/25/46'>Lev. 25:46</a>",
-      "comment": "The inheritance given by the prince to his sons echoes the lasting promises and the fatherly provision that God grants his faithful people."
+      "comment": "The inheritance given by the prince to his sons echoes the lasting promises and the fatherly provision that God grants his faithful people.",
+      "sectionHeader": "The Prince's Inheritance"
     },
     {
       "pk": 33046017,
@@ -230,7 +233,8 @@
       "verse": 19,
       "text": "Then he brought me through the entrance, which was at the side of the gate, to the holy chambers for the priests, which faced north. And there was a place at the far west end.",
       "links": "<a href='/AIV/26/42/13'>Ezek. 42:13</a>",
-      "comment": "The holy chambers for the priests highlight the sanctity of the priesthood and the distinction of holy service, foreshadowing the spiritual priesthood of all believers."
+      "comment": "The holy chambers for the priests highlight the sanctity of the priesthood and the distinction of holy service, foreshadowing the spiritual priesthood of all believers.",
+      "sectionHeader": "Chambers for Priestly Offerings"
     },
     {
       "pk": 33046020,
@@ -293,5 +297,27 @@
       "comment": "The temple servants preparing sacrifices for the people highlights the mediation necessary for worship and anticipates the ministry of ordained ministers within the New Covenant. This continuity points to the perpetual pattern of God establishing sacred servants for holy offerings."
     }
   ],
-  "translatedAt": "2025-12-24T09:25:29.033Z"
+  "translatedAt": "2025-12-24T09:25:29.033Z",
+  "sections": [
+    {
+      "title": "The Prince and Worship at the East Gate",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "Daily Burnt Offering",
+      "startVerse": 13,
+      "endVerse": 15
+    },
+    {
+      "title": "The Prince's Inheritance",
+      "startVerse": 16,
+      "endVerse": 18
+    },
+    {
+      "title": "Chambers for Priestly Offerings",
+      "startVerse": 19,
+      "endVerse": 24
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In the beginning was the Word, and the Word was with God, and the Word was God.",
       "links": "<a href='/AIV/01/1/1'>Gen. 1:1</a>; <a href='/AIV/62/5/20'>1 John 5:20</a>; <a href='/AIV/58/1/2-3'>Heb. 1:2-3</a>",
-      "comment": "This opening echoes Genesis 1:1, identifying Jesus (the Word) as both present with God and fully God Himself. This is a foundational declaration of Jesus’ divinity, forming the basis for understanding the doctrine of the Trinity. The title 'Word' (Greek, 'Logos') carries deep theological meaning, indicating God's self-revelation and communication with humanity."
+      "comment": "This opening echoes Genesis 1:1, identifying Jesus (the Word) as both present with God and fully God Himself. This is a foundational declaration of Jesus’ divinity, forming the basis for understanding the doctrine of the Trinity. The title 'Word' (Greek, 'Logos') carries deep theological meaning, indicating God's self-revelation and communication with humanity.",
+      "sectionHeader": "The Word Became Flesh"
     },
     {
       "pk": 50001002,
@@ -230,7 +231,8 @@
       "verse": 19,
       "text": "This is the testimony of John, when the Jews sent priests and Levites from Jerusalem to ask him, 'Who are you?'",
       "links": "<a href='/AIV/42/3/15'>Luke 3:15</a>",
-      "comment": "John’s identity and authority are of special concern to the religious leaders, showing the widespread expectation of the coming Messiah."
+      "comment": "John’s identity and authority are of special concern to the religious leaders, showing the widespread expectation of the coming Messiah.",
+      "sectionHeader": "The Testimony of John the Baptist"
     },
     {
       "pk": 50001020,
@@ -350,7 +352,8 @@
       "verse": 29,
       "text": "The next day he saw Jesus coming toward him and said, 'Look, the Lamb of God, who takes away the sin of the world!'",
       "links": "<a href='/AIV/02/12/3-7'>Ex. 12:3-7</a>; <a href='/AIV/23/53/7'>Isa. 53:7</a>; <a href='/AIV/46/5/7'>1 Cor. 5:7</a>",
-      "comment": "John identifies Jesus as the sacrificial 'Lamb of God.' The title connects Jesus with the Passover lamb and the suffering servant, emphasizing his role as the perfect sacrifice to atone for the sins of all humanity—both a literal and a spiritual fulfillment."
+      "comment": "John identifies Jesus as the sacrificial 'Lamb of God.' The title connects Jesus with the Passover lamb and the suffering servant, emphasizing his role as the perfect sacrifice to atone for the sins of all humanity—both a literal and a spiritual fulfillment.",
+      "sectionHeader": "Behold the Lamb of God"
     },
     {
       "pk": 50001030,
@@ -422,7 +425,8 @@
       "verse": 35,
       "text": "The next day, John was standing there again with two of his disciples.",
       "links": "",
-      "comment": "John's disciples will now be directed toward Jesus. This shows John’s humility and the new direction for God’s people."
+      "comment": "John's disciples will now be directed toward Jesus. This shows John’s humility and the new direction for God’s people.",
+      "sectionHeader": "The First Disciples"
     },
     {
       "pk": 50001036,
@@ -518,7 +522,8 @@
       "verse": 43,
       "text": "The next day Jesus decided to go to Galilee. He found Philip and said to him, 'Follow me.'",
       "links": "<a href='/AIV/40/4/18-19'>Matt. 4:18-19</a>",
-      "comment": "Jesus handpicks His disciples. The call to 'follow me' reflects radical discipleship in response to divine initiative."
+      "comment": "Jesus handpicks His disciples. The call to 'follow me' reflects radical discipleship in response to divine initiative.",
+      "sectionHeader": "Jesus Calls Philip and Nathanael"
     },
     {
       "pk": 50001044,
@@ -617,5 +622,32 @@
       "comment": "This allusion to Jacob’s ladder (Genesis 28:12) points to Jesus as the bridge between heaven and earth, fulfilling the vision of the Old Testament patriarchs and prophets. 'Son of Man' is a messianic title with overtones of divinity and authority. The Church will later be emphasized as the place of this connection—where heaven meets earth."
     }
   ],
-  "translatedAt": "2025-12-24T11:01:13.792Z"
+  "translatedAt": "2025-12-24T11:01:13.792Z",
+  "sections": [
+    {
+      "title": "The Word Became Flesh",
+      "startVerse": 1,
+      "endVerse": 18
+    },
+    {
+      "title": "The Testimony of John the Baptist",
+      "startVerse": 19,
+      "endVerse": 28
+    },
+    {
+      "title": "Behold the Lamb of God",
+      "startVerse": 29,
+      "endVerse": 34
+    },
+    {
+      "title": "The First Disciples",
+      "startVerse": 35,
+      "endVerse": 42
+    },
+    {
+      "title": "Jesus Calls Philip and Nathanael",
+      "startVerse": 43,
+      "endVerse": 51
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Save me, O God, for the waters have come up to my neck.",
       "links": "<a href='/AIV/19/18/4'>Ps. 18:4</a>; <a href='/AIV/19/42/7'>Ps. 42:7</a>",
-      "comment": "The image of overwhelming waters often symbolizes affliction, distress, or even judgment. This opening plea sets a tone of utter desperation."
+      "comment": "The image of overwhelming waters often symbolizes affliction, distress, or even judgment. This opening plea sets a tone of utter desperation.",
+      "sectionHeader": "A Cry for Deliverance from Enemies"
     },
     {
       "pk": 23069002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "For it is for your sake that I bear reproach, that shame has covered my face.",
       "links": "<a href='/AIV/19/44/22'>Ps. 44:22</a>; <a href='/AIV/45/15/3'>Rom. 15:3</a>",
-      "comment": "Suffering 'for your sake' foreshadows the concept of redemptive suffering, later fulfilled perfectly in Christ (see Rom. 15:3)."
+      "comment": "Suffering 'for your sake' foreshadows the concept of redemptive suffering, later fulfilled perfectly in Christ (see Rom. 15:3).",
+      "sectionHeader": "Zeal for God and Reproach Endured"
     },
     {
       "pk": 23069008,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "But as for me, my prayer is to you, O LORD, at an acceptable time; O God, in your abundant love, answer me with your sure salvation.",
       "links": "<a href='/AIV/19/32/6'>Ps. 32:6</a>; <a href='/AIV/23/49/8'>Isa. 49:8</a>",
-      "comment": "'Acceptable time' echoes the notion of God's chosen moment for deliverance (cf. Isa. 49:8), suggesting God acts according to His plan."
+      "comment": "'Acceptable time' echoes the notion of God's chosen moment for deliverance (cf. Isa. 49:8), suggesting God acts according to His plan.",
+      "sectionHeader": "Prayer for Salvation and Vindication"
     },
     {
       "pk": 23069014,
@@ -266,7 +269,8 @@
       "verse": 22,
       "text": "Let their table before them become a trap, and when they are at peace, let it become a snare.",
       "links": "<a href='/AIV/45/11/9-10'>Rom. 11:9-10</a>",
-      "comment": "Paul quotes this to describe Israel's hardening in Romans 11:9-10, an example of how blessings can become judgment if rejected."
+      "comment": "Paul quotes this to describe Israel's hardening in Romans 11:9-10, an example of how blessings can become judgment if rejected.",
+      "sectionHeader": "Imprecation Against Persecutors"
     },
     {
       "pk": 23069023,
@@ -362,7 +366,8 @@
       "verse": 30,
       "text": "I will praise the name of God with a song; I will magnify him with thanksgiving.",
       "links": "<a href='/AIV/19/22/22'>Ps. 22:22</a>; <a href='/AIV/19/35/18'>Ps. 35:18</a>",
-      "comment": "Despite suffering, the psalmist moves to praise, echoing the liturgical tradition of thanksgiving in the presence of the assembly."
+      "comment": "Despite suffering, the psalmist moves to praise, echoing the liturgical tradition of thanksgiving in the presence of the assembly.",
+      "sectionHeader": "Thanksgiving and Hope for Zion"
     },
     {
       "pk": 23069031,
@@ -437,5 +442,32 @@
       "comment": "The inheritance language points to the ultimate promise of eternal dwelling with God for those who love Him. The unity between praise, worship, and God's faithful people is a persistent theme here."
     }
   ],
-  "translatedAt": "2025-12-24T06:22:41.332Z"
+  "translatedAt": "2025-12-24T06:22:41.332Z",
+  "sections": [
+    {
+      "title": "A Cry for Deliverance from Enemies",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Zeal for God and Reproach Endured",
+      "startVerse": 7,
+      "endVerse": 12
+    },
+    {
+      "title": "Prayer for Salvation and Vindication",
+      "startVerse": 13,
+      "endVerse": 21
+    },
+    {
+      "title": "Imprecation Against Persecutors",
+      "startVerse": 22,
+      "endVerse": 29
+    },
+    {
+      "title": "Thanksgiving and Hope for Zion",
+      "startVerse": 30,
+      "endVerse": 36
+    }
+  ]
 }

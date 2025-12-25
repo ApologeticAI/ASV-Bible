@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now Naomi had a relative on her husband's side, a man of standing and wealth, from the family of Elimelech, and his name was Boaz.",
       "links": "<a href='/AIV/08/3/2'>Ruth 3:2</a>; <a href='/AIV/08/4/1'>Ruth 4:1</a>",
-      "comment": "The introduction of Boaz as a 'man of standing and wealth' establishes his suitability as a provider and potential protector of Ruth and Naomi, preparing for the unfolding of the kinsman-redeemer theme, which carries significant typological meaning for divine providence and redemption."
+      "comment": "The introduction of Boaz as a 'man of standing and wealth' establishes his suitability as a provider and potential protector of Ruth and Naomi, preparing for the unfolding of the kinsman-redeemer theme, which carries significant typological meaning for divine providence and redemption.",
+      "sectionHeader": "Ruth Gleans in the Field of Boaz"
     },
     {
       "pk": 8002002,
@@ -99,7 +100,8 @@
       "verse": 8,
       "text": "Then Boaz said to Ruth, 'Listen, my daughter. Do not go to glean in another field or leave this one, but stay close to my servant girls.'",
       "links": "<a href='/AIV/08/3/10'>Ruth 3:10</a>",
-      "comment": "Boaz's invitation offers protection and community, echoing divine care for the vulnerable and anticipating a richer spiritual kinship bound by covenant."
+      "comment": "Boaz's invitation offers protection and community, echoing divine care for the vulnerable and anticipating a richer spiritual kinship bound by covenant.",
+      "sectionHeader": "Boaz Shows Kindness to Ruth"
     },
     {
       "pk": 8002009,
@@ -219,7 +221,8 @@
       "verse": 18,
       "text": "She picked it up and went into the city. Her mother-in-law saw what she had gleaned. Ruth also brought out and gave her what she had left over after she was satisfied.",
       "links": "<a href='/AIV/40/14/20'>Matt. 14:20</a>",
-      "comment": "Sharing the abundance with Naomi echoes the ideal of community and self-giving love; parallels can be found in the multiplication of the loaves where all are filled and have leftovers."
+      "comment": "Sharing the abundance with Naomi echoes the ideal of community and self-giving love; parallels can be found in the multiplication of the loaves where all are filled and have leftovers.",
+      "sectionHeader": "Ruth Returns to Naomi"
     },
     {
       "pk": 8002019,
@@ -283,5 +286,22 @@
       "comment": "Ruth’s constancy and faithfulness through the harvest point to perseverance, a virtue highly valued throughout scripture and tradition, and sets up the upcoming redemption story."
     }
   ],
-  "translatedAt": "2025-12-24T02:44:13.592Z"
+  "translatedAt": "2025-12-24T02:44:13.592Z",
+  "sections": [
+    {
+      "title": "Ruth Gleans in the Field of Boaz",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Boaz Shows Kindness to Ruth",
+      "startVerse": 8,
+      "endVerse": 17
+    },
+    {
+      "title": "Ruth Returns to Naomi",
+      "startVerse": 18,
+      "endVerse": 23
+    }
+  ]
 }

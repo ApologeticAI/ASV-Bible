@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "My heart is steadfast, O God; I will sing and make melody with all my soul.",
       "links": "<a href='/AIV/19/57/7'>Ps. 57:7</a>; <a href='/AIV/19/138/1'>Ps. 138:1</a>",
-      "comment": "The psalmist begins by affirming a steady and worshipful heart, echoing similar declarations from other psalms. The soul’s involvement hints at a holistic offering to God, an early echo of the biblical call to worship with one’s whole being, reminiscent of the unity between interior devotion and exterior worship."
+      "comment": "The psalmist begins by affirming a steady and worshipful heart, echoing similar declarations from other psalms. The soul’s involvement hints at a holistic offering to God, an early echo of the biblical call to worship with one’s whole being, reminiscent of the unity between interior devotion and exterior worship.",
+      "sectionHeader": "Praise and Thanksgiving to God"
     },
     {
       "pk": 23108002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "God has spoken in his holiness: 'I will divide up Shechem and measure off the Valley of Succoth.'",
       "links": "<a href='/AIV/19/60/6'>Ps. 60:6</a>; <a href='/AIV/06/17/7'>Josh. 17:7'>",
-      "comment": "Quoting God's covenant speech, the psalm shows divine control and ownership of the land. The setting apart of places underlines God’s authority to order His people and fulfill His promises—an idea developed more fully with the sacramental ordering of the Church."
+      "comment": "Quoting God's covenant speech, the psalm shows divine control and ownership of the land. The setting apart of places underlines God’s authority to order His people and fulfill His promises—an idea developed more fully with the sacramental ordering of the Church.",
+      "sectionHeader": "God’s Promise of Victory"
     },
     {
       "pk": 23108008,
@@ -122,7 +124,8 @@
       "verse": 10,
       "text": "Who will bring me to the fortified city? Who will lead me to Edom?",
       "links": "<a href='/AIV/19/60/9'>Ps. 60:9</a>; <a href='/AIV/07/1/2'>Judg. 1:2</a>",
-      "comment": "The psalmist calls for divine guidance to victories that seem otherwise unattainable, a reminder to trust God's leadership even in matters of conquest and spiritual progress."
+      "comment": "The psalmist calls for divine guidance to victories that seem otherwise unattainable, a reminder to trust God's leadership even in matters of conquest and spiritual progress.",
+      "sectionHeader": "Prayer for Deliverance and Confidence in God"
     },
     {
       "pk": 23108011,
@@ -161,5 +164,22 @@
       "comment": "Faith leads to victory through God’s action, not human power. The crushing of enemies is both a literal historic reference and a spiritual prophecy, fulfilled in Christ who defeats sin and death, and extends victory to all who belong to Him through the visible communion of the Church."
     }
   ],
-  "translatedAt": "2025-12-24T06:38:30.949Z"
+  "translatedAt": "2025-12-24T06:38:30.949Z",
+  "sections": [
+    {
+      "title": "Praise and Thanksgiving to God",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "God’s Promise of Victory",
+      "startVerse": 7,
+      "endVerse": 9
+    },
+    {
+      "title": "Prayer for Deliverance and Confidence in God",
+      "startVerse": 10,
+      "endVerse": 13
+    }
+  ]
 }

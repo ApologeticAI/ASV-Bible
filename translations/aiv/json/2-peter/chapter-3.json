@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Beloved, this is now the second letter I am writing to you. In both of them I am stirring up your sincere mind by way of reminder,",
       "links": "<a href='/AIV/61/1/13'>2 Pet. 1:13</a>; <a href='/AIV/60/1/1'>1 Pet. 1:1</a>",
-      "comment": "Peter emphasizes the continuity of his message and his concern for the believers to remain steadfast in true doctrine, showing apostolic authority and care."
+      "comment": "Peter emphasizes the continuity of his message and his concern for the believers to remain steadfast in true doctrine, showing apostolic authority and care.",
+      "sectionHeader": "Warning Against Scoffers"
     },
     {
       "pk": 68003002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "But do not overlook this one thing, beloved: that with the Lord one day is as a thousand years, and a thousand years as one day.",
       "links": "<a href='/AIV/19/90/4'>Ps 90:4</a>; <a href='/AIV/66/20/2-4'>Rev 20:2-4</a>",
-      "comment": "God’s timeline is not like ours. The patience of the Lord gives space for repentance, tied to the teaching on God's mercy and long-suffering."
+      "comment": "God’s timeline is not like ours. The patience of the Lord gives space for repentance, tied to the teaching on God's mercy and long-suffering.",
+      "sectionHeader": "The Day of the Lord"
     },
     {
       "pk": 68003009,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "Therefore, beloved, since you are looking for these things, be diligent to be found by Him in peace, without spot or blemish.",
       "links": "<a href='/AIV/49/5/27'>Eph 5:27</a>; <a href='/AIV/61/1/10'>2 Pet 1:10</a>",
-      "comment": "The call to be 'without spot or blemish' points to striving for sanctity and remaining in grace, reminiscent of the Church as Christ’s spotless Bride."
+      "comment": "The call to be 'without spot or blemish' points to striving for sanctity and remaining in grace, reminiscent of the Church as Christ’s spotless Bride.",
+      "sectionHeader": "Final Exhortations and Conclusion"
     },
     {
       "pk": 68003015,
@@ -221,5 +224,22 @@
       "comment": "The Christian life is a journey of growing in grace, pointing to both doctrinal growth and participation in God’s life through faith and the sacraments. Christ’s glory is both present and eternal."
     }
   ],
-  "translatedAt": "2025-12-24T12:29:39.828Z"
+  "translatedAt": "2025-12-24T12:29:39.828Z",
+  "sections": [
+    {
+      "title": "Warning Against Scoffers",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "The Day of the Lord",
+      "startVerse": 8,
+      "endVerse": 13
+    },
+    {
+      "title": "Final Exhortations and Conclusion",
+      "startVerse": 14,
+      "endVerse": 18
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The LORD spoke to Moses, saying,",
       "links": "<a href='/AIV/2/25/1'>Ex. 25:1</a>; <a href='/AIV/3/1/1-2'>Lev. 1:1-2</a>",
-      "comment": "This introductory formula signals another direct revelation from the LORD to Moses, signifying divine authority for all instructions that follow."
+      "comment": "This introductory formula signals another direct revelation from the LORD to Moses, signifying divine authority for all instructions that follow.",
+      "sectionHeader": "The Lamps and the Bread of the Tabernacle"
     },
     {
       "pk": 3024002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "Now an Israelite woman’s son, whose father was an Egyptian, went out among the people of Israel; and the Israelite woman’s son and a man of Israel fought in the camp.",
       "links": "",
-      "comment": "This begins a narrative interlude illustrating the consequences of blasphemy. The mixed heritage of the man points to larger questions about identity and belonging within God’s covenant people."
+      "comment": "This begins a narrative interlude illustrating the consequences of blasphemy. The mixed heritage of the man points to larger questions about identity and belonging within God’s covenant people.",
+      "sectionHeader": "The Blasphemer and His Punishment"
     },
     {
       "pk": 3024011,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "And you shall speak to the people of Israel, saying, Whoever curses his God shall bear his sin.",
       "links": "",
-      "comment": "Blasphemy is not just social crime but a deep rupture with the divine order. Each person is accountable for what they say about God, a principle carried forward in Jesus' own teaching (<a href='/AIV/40/12/36-37'>Matt. 12:36-37</a>)."
+      "comment": "Blasphemy is not just social crime but a deep rupture with the divine order. Each person is accountable for what they say about God, a principle carried forward in Jesus' own teaching (<a href='/AIV/40/12/36-37'>Matt. 12:36-37</a>).",
+      "sectionHeader": "Laws Concerning Blasphemy, Murder, and Injury"
     },
     {
       "pk": 3024016,
@@ -281,5 +284,22 @@
       "comment": "Israel’s obedience to God’s command is immediately enacted, demonstrating the seriousness of holiness and the efficacy of God-given authority in providing order. Later Christian traditions will see this as pointing to the need for obedience to divinely-instituted guidance and discipline among God’s people."
     }
   ],
-  "translatedAt": "2025-12-24T01:23:52.464Z"
+  "translatedAt": "2025-12-24T01:23:52.464Z",
+  "sections": [
+    {
+      "title": "The Lamps and the Bread of the Tabernacle",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "The Blasphemer and His Punishment",
+      "startVerse": 10,
+      "endVerse": 14
+    },
+    {
+      "title": "Laws Concerning Blasphemy, Murder, and Injury",
+      "startVerse": 15,
+      "endVerse": 23
+    }
+  ]
 }

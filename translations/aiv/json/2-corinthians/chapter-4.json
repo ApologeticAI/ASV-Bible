@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Therefore, having this ministry through the mercy that was given to us, we do not lose heart.",
       "links": "<a href='/AIV/45/12/6'>Rom. 12:6</a>; <a href='/AIV/47/3/6'>2Cor. 3:6</a>",
-      "comment": "Paul’s perseverance comes from God's mercy. The 'ministry' refers to the apostolic work Paul was entrusted with. A reminder that perseverance in faith is a result of grace, not human effort alone."
+      "comment": "Paul’s perseverance comes from God's mercy. The 'ministry' refers to the apostolic work Paul was entrusted with. A reminder that perseverance in faith is a result of grace, not human effort alone.",
+      "sectionHeader": "The Light of the Gospel"
     },
     {
       "pk": 54004002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "But we have this treasure in jars of clay, to show that the surpassing power belongs to God and not to us.",
       "links": "<a href='/AIV/23/64/8'>Isa. 64:8</a>; <a href='/AIV/47/3/5'>2Cor. 3:5</a>",
-      "comment": "'Jars of clay' symbolize human frailty. The 'treasure' is God’s grace and revelation, placed in weak vessels to highlight God's power, not human achievement."
+      "comment": "'Jars of clay' symbolize human frailty. The 'treasure' is God’s grace and revelation, placed in weak vessels to highlight God's power, not human achievement.",
+      "sectionHeader": "Treasure in Earthen Vessels"
     },
     {
       "pk": 54004008,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "Since we have the same spirit of faith as it is written, 'I believed, and so I spoke,' we also believe, and therefore we also speak;",
       "links": "<a href='/AIV/19/116/10'>Ps. 116:10</a>",
-      "comment": "Paul cites Psalm 116:10, affirming that authentic faith is expressed verbally—public confession connects believers throughout history."
+      "comment": "Paul cites Psalm 116:10, affirming that authentic faith is expressed verbally—public confession connects believers throughout history.",
+      "sectionHeader": "Faith Amid Suffering and Future Glory"
     },
     {
       "pk": 54004014,
@@ -221,5 +224,22 @@
       "comment": "This verse summarizes Christian hope in the unseen realities. Paul urges steadfast focus on spiritual truths, which echoes the necessity of faith and the promise of everlasting communion with God."
     }
   ],
-  "translatedAt": "2025-12-24T11:54:14.331Z"
+  "translatedAt": "2025-12-24T11:54:14.331Z",
+  "sections": [
+    {
+      "title": "The Light of the Gospel",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Treasure in Earthen Vessels",
+      "startVerse": 7,
+      "endVerse": 12
+    },
+    {
+      "title": "Faith Amid Suffering and Future Glory",
+      "startVerse": 13,
+      "endVerse": 18
+    }
+  ]
 }

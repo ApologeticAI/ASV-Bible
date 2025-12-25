@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "My son, do not forget my teaching, but let your heart keep my commands,",
       "links": "<a href='/AIV/5/6/6'>Deut. 6:6</a>; <a href='/AIV/19/119/11'>Ps. 119:11</a>",
-      "comment": "Wisdom is presented as something to be treasured in the heart, echoing the call in Deuteronomy to keep God’s words inwardly, not just outwardly. This anticipates the interior grace written on the heart in the New Covenant (cf. Jer. 31:33)."
+      "comment": "Wisdom is presented as something to be treasured in the heart, echoing the call in Deuteronomy to keep God’s words inwardly, not just outwardly. This anticipates the interior grace written on the heart in the New Covenant (cf. Jer. 31:33).",
+      "sectionHeader": "Exhortation to Trust the Lord"
     },
     {
       "pk": 24003002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "Blessed is the one who finds wisdom, and the one who gains understanding,",
       "links": "<a href='/AIV/19/1/1-2'>Ps. 1:1-2</a>; <a href='/AIV/20/11/33'>Rom. 11:33</a>",
-      "comment": "Wisdom is depicted as a great spiritual treasure, anticipating how Christ is later revealed as the true wisdom from God (cf. 1 Cor. 1:24)."
+      "comment": "Wisdom is depicted as a great spiritual treasure, anticipating how Christ is later revealed as the true wisdom from God (cf. 1 Cor. 1:24).",
+      "sectionHeader": "Blessings of Wisdom"
     },
     {
       "pk": 24003014,
@@ -254,7 +256,8 @@
       "verse": 21,
       "text": "My son, do not let them depart from your eyes—keep sound wisdom and discretion;",
       "links": "<a href='/AIV/20/4/6'>Rom. 4:6</a>; <a href='/AIV/19/119/98'>Ps. 119:98</a>",
-      "comment": "Vigilance in holding fast to wisdom is stressed; wisdom requires active seeking and keeping."
+      "comment": "Vigilance in holding fast to wisdom is stressed; wisdom requires active seeking and keeping.",
+      "sectionHeader": "Security in Wisdom"
     },
     {
       "pk": 24003022,
@@ -326,7 +329,8 @@
       "verse": 27,
       "text": "Do not withhold good from those to whom it is due, when it is in your power to do it.",
       "links": "<a href='/AIV/59/4/17'>Jas. 4:17</a>; <a href='/AIV/19/37/21'>Ps. 37:21</a>",
-      "comment": "This points to the righteousness and justice incumbent upon all believers, alluding to charity and works of mercy."
+      "comment": "This points to the righteousness and justice incumbent upon all believers, alluding to charity and works of mercy.",
+      "sectionHeader": "Admonitions Concerning Neighborly Conduct"
     },
     {
       "pk": 24003028,
@@ -425,5 +429,27 @@
       "comment": "The wise ultimately share in honor and glory—in the end, participation in Christ’s inheritance, while folly leads to loss."
     }
   ],
-  "translatedAt": "2025-12-24T06:51:55.851Z"
+  "translatedAt": "2025-12-24T06:51:55.851Z",
+  "sections": [
+    {
+      "title": "Exhortation to Trust the Lord",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "Blessings of Wisdom",
+      "startVerse": 13,
+      "endVerse": 20
+    },
+    {
+      "title": "Security in Wisdom",
+      "startVerse": 21,
+      "endVerse": 26
+    },
+    {
+      "title": "Admonitions Concerning Neighborly Conduct",
+      "startVerse": 27,
+      "endVerse": 35
+    }
+  ]
 }

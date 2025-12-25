@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "You shall not sacrifice to the LORD your God an ox or a sheep with a defect or any flaw, for that is detestable to the LORD your God.",
       "links": "<a href='/AIV/3/22/20'>Lev. 22:20</a>; <a href='/AIV/5/15/21'>Deut. 15:21</a>",
-      "comment": "The command for sacrifices to be unblemished points to the holiness of God and foreshadows the perfect offering of Christ (cf. Heb. 9:14). Sacrifices require true devotion, not half-heartedness."
+      "comment": "The command for sacrifices to be unblemished points to the holiness of God and foreshadows the perfect offering of Christ (cf. Heb. 9:14). Sacrifices require true devotion, not half-heartedness.",
+      "sectionHeader": "Prohibition of Defective Sacrifices"
     },
     {
       "pk": 5017002,
@@ -26,7 +27,8 @@
       "verse": 2,
       "text": "If there is found among you, within any of your towns that the LORD your God gives you, a man or woman who does what is evil in the sight of the LORD your God, transgressing his covenant,",
       "links": "<a href='/AIV/3/24/14'>Lev. 24:14</a>; <a href='/AIV/5/13/6-8'>Deut. 13:6-8</a>",
-      "comment": "Unfaithfulness to God threatens covenant life. Faithfulness is central in the life of God's people and ultimately fulfilled in the New Covenant community."
+      "comment": "Unfaithfulness to God threatens covenant life. Faithfulness is central in the life of God's people and ultimately fulfilled in the New Covenant community.",
+      "sectionHeader": "Judgment Against Idolatry"
     },
     {
       "pk": 5017003,
@@ -98,7 +100,8 @@
       "verse": 8,
       "text": "If a case is too difficult for you to decide, whether it is bloodshed, a legal dispute, or assault, matters of controversy within your gates, then you shall arise and go up to the place that the LORD your God will choose.",
       "links": "<a href='/AIV/2/18/17-26'>Ex. 18:17-26</a>; <a href='/AIV/5/12/5'>Deut. 12:5</a>",
-      "comment": "Complex cases are brought to a central place of authority. This prefigures settled authority in spiritual matters and hints at a visible, unified leadership."
+      "comment": "Complex cases are brought to a central place of authority. This prefigures settled authority in spiritual matters and hints at a visible, unified leadership.",
+      "sectionHeader": "Legal Cases and Authority of Priests and Judges"
     },
     {
       "pk": 5017009,
@@ -170,7 +173,8 @@
       "verse": 14,
       "text": "When you come into the land the LORD your God is giving you, and possess it and dwell in it, and you say, 'Let us set a king over us like all the nations that are around me,'",
       "links": "<a href='/AIV/9/8/5'>1 Sam. 8:5</a>",
-      "comment": "This anticipates Israel's later request for a king. The text subtly encourages the principle of divinely-sanctioned leadership."
+      "comment": "This anticipates Israel's later request for a king. The text subtly encourages the principle of divinely-sanctioned leadership.",
+      "sectionHeader": "Laws Concerning the King"
     },
     {
       "pk": 5017015,
@@ -245,5 +249,27 @@
       "comment": "The humility and constancy expected of the king looks forward to the fulfillment of the promise of an everlasting kingdom (cf. 2 Sam. 7:13), realized spiritually through Christ. Such passages foreshadow the visible, enduring kingdom established among God's people."
     }
   ],
-  "translatedAt": "2025-12-24T02:06:16.438Z"
+  "translatedAt": "2025-12-24T02:06:16.438Z",
+  "sections": [
+    {
+      "title": "Prohibition of Defective Sacrifices",
+      "startVerse": 1,
+      "endVerse": 1
+    },
+    {
+      "title": "Judgment Against Idolatry",
+      "startVerse": 2,
+      "endVerse": 7
+    },
+    {
+      "title": "Legal Cases and Authority of Priests and Judges",
+      "startVerse": 8,
+      "endVerse": 13
+    },
+    {
+      "title": "Laws Concerning the King",
+      "startVerse": 14,
+      "endVerse": 20
+    }
+  ]
 }

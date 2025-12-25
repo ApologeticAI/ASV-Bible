@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The vision of Obadiah. This is what the Lord GOD says about Edom: We have heard a report from the LORD, and a messenger has been sent among the nations: 'Rise up! Let us rise against her for battle!'",
       "links": "<a href='/AIV/24/49/14'>Jer. 49:14</a>; <a href='/AIV/23/13/17'>Is. 13:17</a>",
-      "comment": "Obadiah's vision focuses on Edom. The reference to a messenger among the nations recalls God's sovereign use of history (see Jer. 49:14; Is. 13:17). The call to battle reflects God's justice carried out through human events."
+      "comment": "Obadiah's vision focuses on Edom. The reference to a messenger among the nations recalls God's sovereign use of history (see Jer. 49:14; Is. 13:17). The call to battle reflects God's justice carried out through human events.",
+      "sectionHeader": "Judgment Against Edom"
     },
     {
       "pk": 38001002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "Because of the violence you did to your brother Jacob, shame shall cover you, and you will be cut off forever.",
       "links": "<a href='/AIV/01/27/41'>Gen. 27:41</a>; <a href='/AIV/23/34/5'>Is. 34:5</a>",
-      "comment": "Edom’s sin is fraternal betrayal. Brotherhood among God's people is sacred, paralleling Jesus’ teaching on loving one another (Jn. 13:34). Division and hatred among believers wounds Christ Himself (cf. Acts 9:4)."
+      "comment": "Edom’s sin is fraternal betrayal. Brotherhood among God's people is sacred, paralleling Jesus’ teaching on loving one another (Jn. 13:34). Division and hatred among believers wounds Christ Himself (cf. Acts 9:4).",
+      "sectionHeader": "The Crimes of Edom"
     },
     {
       "pk": 38001011,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "For the day of the LORD is near for all nations. As you have done, so shall it be done to you; your deeds shall return upon your own head.",
       "links": "<a href='/AIV/23/13/6'>Is. 13:6</a>; <a href='/AIV/40/7/2'>Mt. 7:2</a>",
-      "comment": "Here the message broadens—God’s judgment is universal. The moral law of retribution lies at the heart of divine justice; Jesus affirms this in Matthew 7:2. The day of the LORD points prophetically to final judgment and Christ’s return."
+      "comment": "Here the message broadens—God’s judgment is universal. The moral law of retribution lies at the heart of divine justice; Jesus affirms this in Matthew 7:2. The day of the LORD points prophetically to final judgment and Christ’s return.",
+      "sectionHeader": "The Day of the LORD and Israel's Restoration"
     },
     {
       "pk": 38001016,
@@ -257,5 +260,22 @@
       "comment": "The deliverers (or 'saviors') foreshadow Christ and His appointed leaders. The Kingdom belonging to the LORD looks ahead to the age when Christ reigns over all (Rev. 11:15). This anticipates perpetual leadership, unity, and the fulfillment of God’s promises in His one holy, apostolic Church."
     }
   ],
-  "translatedAt": "2025-12-24T09:45:57.307Z"
+  "translatedAt": "2025-12-24T09:45:57.307Z",
+  "sections": [
+    {
+      "title": "Judgment Against Edom",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "The Crimes of Edom",
+      "startVerse": 10,
+      "endVerse": 14
+    },
+    {
+      "title": "The Day of the LORD and Israel's Restoration",
+      "startVerse": 15,
+      "endVerse": 21
+    }
+  ]
 }

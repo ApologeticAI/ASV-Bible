@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When these agreements had been made, Lysias went back to the king, and the Jews returned to their farming life.",
       "links": "<a href='/AIV/21/11/34'>2Macc 11:34</a>",
-      "comment": "The peace secured by Judas led to a restoration of ordinary life for the Jewish people. Farming and daily labor are presented as good and godly occupations, reflecting God's original intent for humankind (cf. <a href='/AIV/1/2/15'>Gen 2:15</a>)."
+      "comment": "The peace secured by Judas led to a restoration of ordinary life for the Jewish people. Farming and daily labor are presented as good and godly occupations, reflecting God's original intent for humankind (cf. <a href='/AIV/1/2/15'>Gen 2:15</a>).",
+      "sectionHeader": "Judas Avenges the Massacre at Joppa"
     },
     {
       "pk": 21012002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "From there, they marched nine days, heading for the region of Gorgias, the governor.",
       "links": "",
-      "comment": "The narrative continues the theme of perseverance and the need for faithful endurance, which is echoed by Christ's own call to perseverance in the Gospels (<a href='/AIV/42/21/19'>Luke 21:19</a>)."
+      "comment": "The narrative continues the theme of perseverance and the need for faithful endurance, which is echoed by Christ's own call to perseverance in the Gospels (<a href='/AIV/42/21/19'>Luke 21:19</a>).",
+      "sectionHeader": "Victories over Gorgias and the Defense of Jewish Communities"
     },
     {
       "pk": 21012010,
@@ -458,7 +460,8 @@
       "verse": 38,
       "text": "After the Feast, they marched against Gorgias, the governor of Idumea.",
       "links": "",
-      "comment": "Persistent opposition is a motif throughout both Old and New Testaments. The cycle of worship and conflict mirrors the Christian rhythm of liturgy and mission."
+      "comment": "Persistent opposition is a motif throughout both Old and New Testaments. The cycle of worship and conflict mirrors the Christian rhythm of liturgy and mission.",
+      "sectionHeader": "Judas Makes Atonement for the Fallen"
     },
     {
       "pk": 21012039,
@@ -545,5 +548,22 @@
       "comment": "This profound conclusion affirms belief in the resurrection and the benefit of prayers and offerings for the dead—a conviction echoed in the Christian tradition regarding remembrance and intercession for the departed."
     }
   ],
-  "translatedAt": "2025-12-24T05:37:13.289Z"
+  "translatedAt": "2025-12-24T05:37:13.289Z",
+  "sections": [
+    {
+      "title": "Judas Avenges the Massacre at Joppa",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "Victories over Gorgias and the Defense of Jewish Communities",
+      "startVerse": 9,
+      "endVerse": 37
+    },
+    {
+      "title": "Judas Makes Atonement for the Fallen",
+      "startVerse": 38,
+      "endVerse": 45
+    }
+  ]
 }

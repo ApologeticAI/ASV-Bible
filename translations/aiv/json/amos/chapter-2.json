@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "This is what the LORD says: 'For three transgressions of Moab, even for four, I will not turn back their punishment, because he burned to lime the bones of the king of Edom.'",
       "links": "<a href='/AIV/24/48/1'>Jer. 48:1</a>; <a href='/AIV/12/3/26-27'>2 Kgs. 3:26-27</a>",
-      "comment": "The formula 'for three transgressions, even for four' is a Hebrew idiom indicating repeated and overflowing sin (see Amos 1:3). Moab's sin of desecrating a king's remains shows the gravity of disrespect for human dignity and the seriousness with which God takes justice."
+      "comment": "The formula 'for three transgressions, even for four' is a Hebrew idiom indicating repeated and overflowing sin (see Amos 1:3). Moab's sin of desecrating a king's remains shows the gravity of disrespect for human dignity and the seriousness with which God takes justice.",
+      "sectionHeader": "Judgment Against Moab"
     },
     {
       "pk": 37002002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "This is what the LORD says: 'For three transgressions of Judah, even for four, I will not turn back their punishment, because they have rejected the law of the LORD and have not kept His statutes, but their lies have led them astray, those after which their fathers walked.'",
       "links": "<a href='/AIV/15/9/13-14'>Ezra 9:13-14</a>; <a href='/AIV/24/16/19-20'>Jer. 16:19-20</a>",
-      "comment": "Unlike previous judgments against Gentile nations, Judah's sin is specifically tied to their rejection of God's revealed law. The reference to 'their lies' recalls false teachings and idolatry."
+      "comment": "Unlike previous judgments against Gentile nations, Judah's sin is specifically tied to their rejection of God's revealed law. The reference to 'their lies' recalls false teachings and idolatry.",
+      "sectionHeader": "Judgment Against Judah"
     },
     {
       "pk": 37002005,
@@ -74,7 +76,8 @@
       "verse": 6,
       "text": "This is what the LORD says: 'For three transgressions of Israel, even for four, I will not turn back their punishment, because they sell the righteous for silver and the needy for a pair of sandals.'",
       "links": "<a href='/AIV/30/8/6'>Amos 8:6</a>; <a href='/AIV/01/37/28'>Gen. 37:28</a>",
-      "comment": "The charge against Israel exposes their social injustice and oppression of the poor. The motif of 'selling for silver' is reminiscent of both Joseph's betrayal and ultimately Judas betraying Christ (cf. Matt. 26:15)."
+      "comment": "The charge against Israel exposes their social injustice and oppression of the poor. The motif of 'selling for silver' is reminiscent of both Joseph's betrayal and ultimately Judas betraying Christ (cf. Matt. 26:15).",
+      "sectionHeader": "Judgment Against Israel"
     },
     {
       "pk": 37002007,
@@ -197,5 +200,22 @@
       "comment": "The humiliation of the warriors points to the futility of trusting in one’s own strength and the necessity of humility before God. The theme of nakedness and shame is woven through the Bible, culminating in the restoration and covering found in Christ (cf. Gen. 3:21, Rev. 3:18)."
     }
   ],
-  "translatedAt": "2025-12-24T09:42:10.652Z"
+  "translatedAt": "2025-12-24T09:42:10.652Z",
+  "sections": [
+    {
+      "title": "Judgment Against Moab",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "Judgment Against Judah",
+      "startVerse": 4,
+      "endVerse": 5
+    },
+    {
+      "title": "Judgment Against Israel",
+      "startVerse": 6,
+      "endVerse": 16
+    }
+  ]
 }

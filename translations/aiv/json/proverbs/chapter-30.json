@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The words of Agur son of Jakeh, the oracle. The man declares to Ithiel, to Ithiel and Ucal:",
       "links": "<a href='/AIV/20/1/1'>Prov. 1:1</a>",
-      "comment": "This heading introduces a wise saying, attributing it to Agur, little known outside this chapter. Like other wisdom figures, his words become scripture and thus part of the inspired wisdom tradition, highlighting the value of tradition in transmitting faith."
+      "comment": "This heading introduces a wise saying, attributing it to Agur, little known outside this chapter. Like other wisdom figures, his words become scripture and thus part of the inspired wisdom tradition, highlighting the value of tradition in transmitting faith.",
+      "sectionHeader": "The Words of Agur: Humility Before God"
     },
     {
       "pk": 24030002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "Two things I ask of you; deny them not to me before I die:",
       "links": "<a href='/AIV/19/27/4'>Ps. 27:4</a>",
-      "comment": "Agur models asking for spiritual and practical needs from God, paralleling other prayers for wisdom and truth."
+      "comment": "Agur models asking for spiritual and practical needs from God, paralleling other prayers for wisdom and truth.",
+      "sectionHeader": "Agur’s Prayer for Integrity and Daily Bread"
     },
     {
       "pk": 24030008,
@@ -122,7 +124,8 @@
       "verse": 10,
       "text": "Do not slander a servant to his master, lest he curse you, and you are found guilty.",
       "links": "<a href='/AIV/2/23/1'>Ex. 23:1</a>",
-      "comment": "Condemns bearing false witness or slander, reinforcing biblical prohibitions on dishonesty. Preserves harmony in relationships, in keeping with ethical teaching."
+      "comment": "Condemns bearing false witness or slander, reinforcing biblical prohibitions on dishonesty. Preserves harmony in relationships, in keeping with ethical teaching.",
+      "sectionHeader": "Warnings Against Slander and Corrupt Generations"
     },
     {
       "pk": 24030011,
@@ -182,7 +185,8 @@
       "verse": 15,
       "text": "The leech has two daughters: 'Give! Give!' Three things are never satisfied; four never say, 'Enough':",
       "links": "<a href='/AIV/20/27/20'>Prov. 27:20</a>",
-      "comment": "The image of the leech and the enumeration formula teach about insatiable desires and the dangers of unchecked appetites, inviting a spiritual discipline of moderation."
+      "comment": "The image of the leech and the enumeration formula teach about insatiable desires and the dangers of unchecked appetites, inviting a spiritual discipline of moderation.",
+      "sectionHeader": "Lessons from Nature: Things Never Satisfied"
     },
     {
       "pk": 24030016,
@@ -218,7 +222,8 @@
       "verse": 18,
       "text": "Three things are too wonderful for me; four I do not understand:",
       "links": "",
-      "comment": "Agur expresses awe at the mysteries of creation, reminding readers that human wisdom is incomplete before the greatness of God’s work."
+      "comment": "Agur expresses awe at the mysteries of creation, reminding readers that human wisdom is incomplete before the greatness of God’s work.",
+      "sectionHeader": "Things Too Wonderful and Too Troublesome"
     },
     {
       "pk": 24030019,
@@ -290,7 +295,8 @@
       "verse": 24,
       "text": "Four things on earth are small, yet they are exceedingly wise:",
       "links": "",
-      "comment": "Shifts to examples from nature, teaching lessons about humility and wisdom from lowly creatures."
+      "comment": "Shifts to examples from nature, teaching lessons about humility and wisdom from lowly creatures.",
+      "sectionHeader": "Wisdom in Small Creatures"
     },
     {
       "pk": 24030025,
@@ -350,7 +356,8 @@
       "verse": 29,
       "text": "Three things have a stately stride; four are stately in their walk:",
       "links": "",
-      "comment": "Introduces another numerical proverb to illustrate traits worth emulating in character and dignity."
+      "comment": "Introduces another numerical proverb to illustrate traits worth emulating in character and dignity.",
+      "sectionHeader": "Stateliness in Creatures and Self-Control"
     },
     {
       "pk": 24030030,
@@ -401,5 +408,42 @@
       "comment": "Ends with a vivid proverb showing the consequences of our actions. Sows the idea that peace is a fruit of virtue, widely espoused in biblical tradition and spiritual communities."
     }
   ],
-  "translatedAt": "2025-12-24T07:06:06.995Z"
+  "translatedAt": "2025-12-24T07:06:06.995Z",
+  "sections": [
+    {
+      "title": "The Words of Agur: Humility Before God",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Agur’s Prayer for Integrity and Daily Bread",
+      "startVerse": 7,
+      "endVerse": 9
+    },
+    {
+      "title": "Warnings Against Slander and Corrupt Generations",
+      "startVerse": 10,
+      "endVerse": 14
+    },
+    {
+      "title": "Lessons from Nature: Things Never Satisfied",
+      "startVerse": 15,
+      "endVerse": 17
+    },
+    {
+      "title": "Things Too Wonderful and Too Troublesome",
+      "startVerse": 18,
+      "endVerse": 23
+    },
+    {
+      "title": "Wisdom in Small Creatures",
+      "startVerse": 24,
+      "endVerse": 28
+    },
+    {
+      "title": "Stateliness in Creatures and Self-Control",
+      "startVerse": 29,
+      "endVerse": 33
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "But a certain man named Ananias, with Sapphira his wife, sold a piece of property,",
       "links": "",
-      "comment": "This story immediately follows the generosity of Barnabas (Acts 4:36-37), showing a sharp contrast in motives regarding communal charity. This passage introduces the theme of integrity and judgment in the early Christian community."
+      "comment": "This story immediately follows the generosity of Barnabas (Acts 4:36-37), showing a sharp contrast in motives regarding communal charity. This passage introduces the theme of integrity and judgment in the early Christian community.",
+      "sectionHeader": "Ananias and Sapphira Lie to the Holy Spirit"
     },
     {
       "pk": 51005002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "Now many signs and wonders were done among the people by the hands of the apostles. And they were all together in Solomon’s Portico.",
       "links": "<a href='/AIV/51/3/11'>Acts 3:11</a>; <a href='/AIV/43/10/23'>John 10:23</a>",
-      "comment": "The apostles continue the ministry of Jesus through miracles, confirming their divine authority and the visible unity of the Church."
+      "comment": "The apostles continue the ministry of Jesus through miracles, confirming their divine authority and the visible unity of the Church.",
+      "sectionHeader": "Signs and Wonders Performed by the Apostles"
     },
     {
       "pk": 51005013,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "But the high priest rose up, and all who were with him, that is, the party of the Sadducees, and they were filled with jealousy.",
       "links": "<a href='/AIV/41/15/10'>Mark 15:10</a>",
-      "comment": "Jealousy of the religious authorities contrasts with the growth of the true community guided by the Spirit."
+      "comment": "Jealousy of the religious authorities contrasts with the growth of the true community guided by the Spirit.",
+      "sectionHeader": "The Apostles Arrested and Miraculously Freed"
     },
     {
       "pk": 51005018,
@@ -326,7 +329,8 @@
       "verse": 27,
       "text": "When they had brought them, they set them before the council. And the high priest questioned them,",
       "links": "<a href='/AIV/51/4/7'>Acts 4:7</a>",
-      "comment": "This is the Sanhedrin—the highest Jewish authority—mirroring Jesus’ trial."
+      "comment": "This is the Sanhedrin—the highest Jewish authority—mirroring Jesus’ trial.",
+      "sectionHeader": "The Apostles Before the Council"
     },
     {
       "pk": 51005028,
@@ -410,7 +414,8 @@
       "verse": 34,
       "text": "But a Pharisee named Gamaliel, a teacher of the law, held in honor by all the people, stood up in the council and ordered the apostles to be put outside for a little while.",
       "links": "<a href='/AIV/51/22/3'>Acts 22:3</a>",
-      "comment": "Gamaliel, Paul’s teacher, is a voice of wisdom and moderation in the council."
+      "comment": "Gamaliel, Paul’s teacher, is a voice of wisdom and moderation in the council.",
+      "sectionHeader": "Gamaliel’s Wise Counsel"
     },
     {
       "pk": 51005035,
@@ -509,5 +514,32 @@
       "comment": "The unbroken pattern of public and private teaching reveals the mission of the Church: to announce Jesus as Messiah continually, everywhere, and to form believers in the faith throughout households and public worship."
     }
   ],
-  "translatedAt": "2025-12-24T11:19:55.105Z"
+  "translatedAt": "2025-12-24T11:19:55.105Z",
+  "sections": [
+    {
+      "title": "Ananias and Sapphira Lie to the Holy Spirit",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "Signs and Wonders Performed by the Apostles",
+      "startVerse": 12,
+      "endVerse": 16
+    },
+    {
+      "title": "The Apostles Arrested and Miraculously Freed",
+      "startVerse": 17,
+      "endVerse": 26
+    },
+    {
+      "title": "The Apostles Before the Council",
+      "startVerse": 27,
+      "endVerse": 33
+    },
+    {
+      "title": "Gamaliel’s Wise Counsel",
+      "startVerse": 34,
+      "endVerse": 42
+    }
+  ]
 }

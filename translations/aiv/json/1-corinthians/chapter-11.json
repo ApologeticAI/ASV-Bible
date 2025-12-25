@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Imitate me, just as I also imitate Christ.",
       "links": "<a href='/AIV/46/4/16'>1Cor. 4:16</a>; <a href='/AIV/44/2/42'>Acts 2:42</a>",
-      "comment": "Paul urges believers to follow his example, as he himself follows Christ. This establishes apostolic example and authority, subtly underscoring the importance of imitation and tradition handed down from trusted leaders. See also the concept of holding to apostolic teaching (Acts 2:42)."
+      "comment": "Paul urges believers to follow his example, as he himself follows Christ. This establishes apostolic example and authority, subtly underscoring the importance of imitation and tradition handed down from trusted leaders. See also the concept of holding to apostolic teaching (Acts 2:42).",
+      "sectionHeader": "Imitation of Christ"
     },
     {
       "pk": 53011002,
@@ -26,7 +27,8 @@
       "verse": 2,
       "text": "I praise you because you remember me in everything and hold firmly to the traditions, just as I delivered them to you.",
       "links": "<a href='/AIV/53/15/3'>1Cor. 15:3</a>; <a href='/AIV/53/7/17'>1Cor. 7:17</a>; <a href='/AIV/53/11/23'>1Cor. 11:23</a>; <a href='/AIV/52/2/15'>2Thess. 2:15</a>",
-      "comment": "Paul commends the Corinthians for adhering to the traditions he gave them. Note that ‘traditions’ here refers to apostolic teachings—both oral and written—as affirmed in 2 Thessalonians 2:15. This subtly reinforces the role of tradition alongside Scripture."
+      "comment": "Paul commends the Corinthians for adhering to the traditions he gave them. Note that ‘traditions’ here refers to apostolic teachings—both oral and written—as affirmed in 2 Thessalonians 2:15. This subtly reinforces the role of tradition alongside Scripture.",
+      "sectionHeader": "On the Veiling of Women"
     },
     {
       "pk": 53011003,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "But in giving this instruction, I do not praise you, because when you come together it is not for the better but for the worse.",
       "links": "<a href='/AIV/53/5/4'>1Cor. 5:4</a>",
-      "comment": "Paul shifts tone, rebuking disunity and improper conduct in corporate worship—a vital context for receiving the sacraments and participating in communal grace."
+      "comment": "Paul shifts tone, rebuking disunity and improper conduct in corporate worship—a vital context for receiving the sacraments and participating in communal grace.",
+      "sectionHeader": "Abuses at the Lord’s Supper"
     },
     {
       "pk": 53011018,
@@ -278,7 +281,8 @@
       "verse": 23,
       "text": "For I received from the Lord what I also passed on to you: that the Lord Jesus, on the night He was betrayed, took bread;",
       "links": "<a href='/AIV/40/26/26'>Matt. 26:26</a>; <a href='/AIV/42/22/19'>Luke 22:19</a>; <a href='/AIV/53/15/3'>1Cor. 15:3</a>",
-      "comment": "The Eucharist’s institution is of apostolic origin and is rooted in both oral and written tradition—a model of transmission beyond mere scriptural text."
+      "comment": "The Eucharist’s institution is of apostolic origin and is rooted in both oral and written tradition—a model of transmission beyond mere scriptural text.",
+      "sectionHeader": "Institution of the Lord’s Supper"
     },
     {
       "pk": 53011024,
@@ -326,7 +330,8 @@
       "verse": 27,
       "text": "Therefore, whoever eats the bread or drinks the cup of the Lord in an unworthy manner will be guilty of the body and blood of the Lord.",
       "links": "<a href='/AIV/53/10/21'>1Cor. 10:21</a>; <a href='/AIV/58/10/29'>Heb. 10:29</a>",
-      "comment": "A warning: improper reception is a grievous offense, showing belief in the real presence—not mere symbolism. See Hebrews 10:29 for the severity of profaning the sacred."
+      "comment": "A warning: improper reception is a grievous offense, showing belief in the real presence—not mere symbolism. See Hebrews 10:29 for the severity of profaning the sacred.",
+      "sectionHeader": "Examination Before Communion"
     },
     {
       "pk": 53011028,
@@ -413,5 +418,32 @@
       "comment": "Paul separates mundane eating from the sacred meal, preserving the sanctity of worship. He hints at an ongoing authority to teach and regulate conduct—rooted in apostolic leadership."
     }
   ],
-  "translatedAt": "2025-12-24T11:49:28.972Z"
+  "translatedAt": "2025-12-24T11:49:28.972Z",
+  "sections": [
+    {
+      "title": "Imitation of Christ",
+      "startVerse": 1,
+      "endVerse": 1
+    },
+    {
+      "title": "On the Veiling of Women",
+      "startVerse": 2,
+      "endVerse": 16
+    },
+    {
+      "title": "Abuses at the Lord’s Supper",
+      "startVerse": 17,
+      "endVerse": 22
+    },
+    {
+      "title": "Institution of the Lord’s Supper",
+      "startVerse": 23,
+      "endVerse": 26
+    },
+    {
+      "title": "Examination Before Communion",
+      "startVerse": 27,
+      "endVerse": 34
+    }
+  ]
 }

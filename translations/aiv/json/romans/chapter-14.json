@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Accept anyone who is weak in faith, but not for passing judgment on disputable opinions.",
       "links": "<a href='/AIV/45/15/1'>Rom. 15:1</a>; <a href='/AIV/46/8/9'>1 Cor. 8:9</a>",
-      "comment": "Paul instructs the community to welcome fellow believers who may be struggling with doubts or weaker consciences, without seeking to argue over non-essential matters. This shows the importance of unity and charity in the life of the church."
+      "comment": "Paul instructs the community to welcome fellow believers who may be struggling with doubts or weaker consciences, without seeking to argue over non-essential matters. This shows the importance of unity and charity in the life of the church.",
+      "sectionHeader": "Respect for the Weak in Faith"
     },
     {
       "pk": 52014002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "But you, why do you judge your brother? Or you, why do you despise your brother? For we will all stand before the judgment seat of God.",
       "links": "<a href='/AIV/46/5/10'>2 Cor. 5:10</a>; <a href='/AIV/40/25/31-32'>Matt. 25:31-32</a>",
-      "comment": "Believers are urged to humility, recognizing that God alone is judge. The reference to the judgment seat reminds of ultimate accountability."
+      "comment": "Believers are urged to humility, recognizing that God alone is judge. The reference to the judgment seat reminds of ultimate accountability.",
+      "sectionHeader": "Do Not Judge Your Brother"
     },
     {
       "pk": 52014011,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "Therefore let us not judge one another any longer, but rather resolve never to put a stumbling block or obstacle in the way of a brother.",
       "links": "<a href='/AIV/46/8/9'>1 Cor. 8:9</a>; <a href='/AIV/40/18/6'>Matt. 18:6</a>",
-      "comment": "Instead of judging, we ought to consider how our actions affect the faith of others. This echoes Christ’s injunction not to cause ‘little ones’ to stumble (<a href='/AIV/40/18/6'>Matt. 18:6</a>)."
+      "comment": "Instead of judging, we ought to consider how our actions affect the faith of others. This echoes Christ’s injunction not to cause ‘little ones’ to stumble (<a href='/AIV/40/18/6'>Matt. 18:6</a>).",
+      "sectionHeader": "Do Not Be a Stumbling Block"
     },
     {
       "pk": 52014014,
@@ -281,5 +284,22 @@
       "comment": "Acting against one's conscience is sinful. Living by faith—informed by the Church, Scripture, and reason—is essential. This verse highlights how faith and works are deeply connected in the Christian life."
     }
   ],
-  "translatedAt": "2025-12-24T11:42:30.954Z"
+  "translatedAt": "2025-12-24T11:42:30.954Z",
+  "sections": [
+    {
+      "title": "Respect for the Weak in Faith",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "Do Not Judge Your Brother",
+      "startVerse": 10,
+      "endVerse": 12
+    },
+    {
+      "title": "Do Not Be a Stumbling Block",
+      "startVerse": 13,
+      "endVerse": 23
+    }
+  ]
 }

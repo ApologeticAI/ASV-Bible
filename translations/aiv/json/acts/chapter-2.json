@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When the day of Pentecost arrived, they were all together in one place.",
       "links": "<a href='/AIV/03/23/15-21'>Lev. 23:15-21</a>; <a href='/AIV/44/1/14'>Acts 1:14</a>",
-      "comment": "Pentecost was a Jewish feast, fifty days after Passover. The disciples’ unity is emphasized, foreshadowing one united Church."
+      "comment": "Pentecost was a Jewish feast, fifty days after Passover. The disciples’ unity is emphasized, foreshadowing one united Church.",
+      "sectionHeader": "The Coming of the Holy Spirit"
     },
     {
       "pk": 51002002,
@@ -170,7 +171,8 @@
       "verse": 14,
       "text": "But Peter, standing with the eleven, lifted up his voice and addressed them: 'Men of Judea and all who dwell in Jerusalem, let this be known to you, and give ear to my words.'",
       "links": "<a href='/AIV/40/16/18-19'>Matt. 16:18-19</a>",
-      "comment": "Peter speaks with authority as the leader, fulfilling Christ’s appointment (Matt. 16:18-19)."
+      "comment": "Peter speaks with authority as the leader, fulfilling Christ’s appointment (Matt. 16:18-19).",
+      "sectionHeader": "Peter's Address to the Crowds"
     },
     {
       "pk": 51002015,
@@ -446,7 +448,8 @@
       "verse": 37,
       "text": "Now when they heard this, they were cut to the heart and said to Peter and the other apostles, 'Brothers, what shall we do?'",
       "links": "<a href='/AIV/44/16/30'>Acts 16:30</a>",
-      "comment": "The Spirit convicts hearts; Peter responds as the Church’s shepherd guiding people to salvation."
+      "comment": "The Spirit convicts hearts; Peter responds as the Church’s shepherd guiding people to salvation.",
+      "sectionHeader": "The Baptism of Three Thousand"
     },
     {
       "pk": 51002038,
@@ -506,7 +509,8 @@
       "verse": 42,
       "text": "And they continued steadfastly in the apostles’ teaching and fellowship, in the breaking of bread, and in prayers.",
       "links": "<a href='/AIV/46/11/23-26'>1 Cor. 11:23-26</a>; <a href='/AIV/42/24/35'>Luke 24:35</a>",
-      "comment": "\"Breaking of bread\" refers to the Eucharist, a central mystery of the early Church. Apostolic teaching and communal worship define Christian worship."
+      "comment": "\"Breaking of bread\" refers to the Eucharist, a central mystery of the early Church. Apostolic teaching and communal worship define Christian worship.",
+      "sectionHeader": "The Life of the Early Church"
     },
     {
       "pk": 51002043,
@@ -569,5 +573,27 @@
       "comment": "The Church’s growth is attributed to God’s action. Salvation is a continual process within the believing community."
     }
   ],
-  "translatedAt": "2025-12-24T11:18:13.093Z"
+  "translatedAt": "2025-12-24T11:18:13.093Z",
+  "sections": [
+    {
+      "title": "The Coming of the Holy Spirit",
+      "startVerse": 1,
+      "endVerse": 13
+    },
+    {
+      "title": "Peter's Address to the Crowds",
+      "startVerse": 14,
+      "endVerse": 36
+    },
+    {
+      "title": "The Baptism of Three Thousand",
+      "startVerse": 37,
+      "endVerse": 41
+    },
+    {
+      "title": "The Life of the Early Church",
+      "startVerse": 42,
+      "endVerse": 47
+    }
+  ]
 }

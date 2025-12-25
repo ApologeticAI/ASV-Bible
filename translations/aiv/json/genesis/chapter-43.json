@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now the famine was severe in the land.",
       "links": "<a href='/AIV/1/41/56'>Gen. 41:56</a>; <a href='/AIV/1/42/5'>Gen. 42:5</a>",
-      "comment": "The repeated emphasis on the severity of the famine highlights God's providence in using suffering for a greater purpose. This suffering sets the stage for reconciliation (see Gen. 50:20)."
+      "comment": "The repeated emphasis on the severity of the famine highlights God's providence in using suffering for a greater purpose. This suffering sets the stage for reconciliation (see Gen. 50:20).",
+      "sectionHeader": "The Brothers Return to Egypt with Benjamin"
     },
     {
       "pk": 1043002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "So the men took this present, and they took double the money in their hand, and Benjamin. Then they arose and went down to Egypt, and stood before Joseph.",
       "links": "<a href='/AIV/1/42/35'>Gen. 42:35</a>",
-      "comment": "The brothers’ obedience leads to the audience with Joseph—obedience opens the way to reconciliation and blessing."
+      "comment": "The brothers’ obedience leads to the audience with Joseph—obedience opens the way to reconciliation and blessing.",
+      "sectionHeader": "Joseph Receives His Brothers"
     },
     {
       "pk": 1043016,
@@ -314,7 +316,8 @@
       "verse": 26,
       "text": "When Joseph came home, they brought him the present which was in their hand into the house, and bowed to him to the earth.",
       "links": "<a href='/AIV/1/37/7'>Gen. 37:7</a>; <a href='/AIV/1/42/6'>Gen. 42:6</a>",
-      "comment": "Their bowing fulfills Joseph’s earlier dreams and is a visible sign of reconciliation and humble worship—shadows of every knee bowing ultimately to Christ (Phil. 2:10)."
+      "comment": "Their bowing fulfills Joseph’s earlier dreams and is a visible sign of reconciliation and humble worship—shadows of every knee bowing ultimately to Christ (Phil. 2:10).",
+      "sectionHeader": "Joseph's Emotional Reunion and the Feast"
     },
     {
       "pk": 1043027,
@@ -413,5 +416,22 @@
       "comment": "Benjamin’s favored portion hints at grace bestowed abundantly without jealousy—a sign that God’s blessings are given according to His providence, inviting all to rejoice together (see Rom. 12:15). The banquet itself prefigures the full unity and joy found in the Kingdom."
     }
   ],
-  "translatedAt": "2025-12-24T00:39:13.478Z"
+  "translatedAt": "2025-12-24T00:39:13.478Z",
+  "sections": [
+    {
+      "title": "The Brothers Return to Egypt with Benjamin",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "Joseph Receives His Brothers",
+      "startVerse": 15,
+      "endVerse": 25
+    },
+    {
+      "title": "Joseph's Emotional Reunion and the Feast",
+      "startVerse": 26,
+      "endVerse": 34
+    }
+  ]
 }

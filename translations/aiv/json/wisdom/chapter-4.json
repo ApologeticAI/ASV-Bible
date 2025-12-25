@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Better is virtue that stands alone than offspring without it; for virtue is immortal, and it is recognized both by God and by men.",
       "links": "<a href='/AIV/20/22/1'>Prov. 22:1</a>; <a href='/AIV/19/112/6'>Ps. 112:6</a>",
-      "comment": "Here virtue is elevated above lineage, echoing teachings on the enduring value of righteousness. The immortal nature of virtue foreshadows the biblical doctrine of eternal reward for the righteous, aligning with spiritual interpretations in the New Testament (see Matt. 5:8)."
+      "comment": "Here virtue is elevated above lineage, echoing teachings on the enduring value of righteousness. The immortal nature of virtue foreshadows the biblical doctrine of eternal reward for the righteous, aligning with spiritual interpretations in the New Testament (see Matt. 5:8).",
+      "sectionHeader": "The Immortality of Virtue and the Fate of the Wicked"
     },
     {
       "pk": 27004002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "But the righteous, though they die early, shall be at rest.",
       "links": "<a href='/AIV/23/57/2'>Isa. 57:2</a>; <a href='/AIV/66/14/13'>Rev. 14:13</a>",
-      "comment": "Rest for the righteous calls to mind the ‘sleep in Christ’ (1 Thess. 4:14), indicating hope of life after death and connection to the doctrine of the communion of saints."
+      "comment": "Rest for the righteous calls to mind the ‘sleep in Christ’ (1 Thess. 4:14), indicating hope of life after death and connection to the doctrine of the communion of saints.",
+      "sectionHeader": "The Blessed Death of the Righteous"
     },
     {
       "pk": 27004008,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "But the righteous who die will condemn the ungodly who live long lives, and youth quickly perfected will judge the many years of the aged unrighteous.",
       "links": "<a href='/AIV/19/49/14'>Ps. 49:14</a>; <a href='/AIV/40/19/30'>Matt. 19:30</a>",
-      "comment": "True judgement is based on righteousness, not age or longevity. The motif of the righteous judging the wicked prefigures eschatological judgment (1 Cor. 6:2)."
+      "comment": "True judgement is based on righteousness, not age or longevity. The motif of the righteous judging the wicked prefigures eschatological judgment (1 Cor. 6:2).",
+      "sectionHeader": "Judgment Upon the Ungodly"
     },
     {
       "pk": 27004017,
@@ -245,5 +248,22 @@
       "comment": "Judgment and erasure of memory for the wicked is part of biblical teaching on ultimate justice, encouraging perseverance in virtue and living as part of the holy people of God."
     }
   ],
-  "translatedAt": "2025-12-24T07:15:48.826Z"
+  "translatedAt": "2025-12-24T07:15:48.826Z",
+  "sections": [
+    {
+      "title": "The Immortality of Virtue and the Fate of the Wicked",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "The Blessed Death of the Righteous",
+      "startVerse": 7,
+      "endVerse": 15
+    },
+    {
+      "title": "Judgment Upon the Ungodly",
+      "startVerse": 16,
+      "endVerse": 20
+    }
+  ]
 }

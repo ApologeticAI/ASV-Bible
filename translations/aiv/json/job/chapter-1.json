@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "There was a man in the land of Uz, whose name was Job; and that man was blameless and upright, fearing God and turning away from evil.",
       "links": "<a href='/AIV/19/111/1'>Ps. 111:1</a>; <a href='/AIV/20/1/7'>Prov. 1:7</a>",
-      "comment": "The description of Job as blameless and upright sets the tone for the whole book, showing his close relationship with God, almost as a model for true piety rooted in reverence and moral integrity. 'Blameless' and 'upright' here do not mean sinless, but devoted and sincere—note a parallel with Noah in Genesis 6:9. Job's persistent fear of God anticipates the biblical theme of wisdom rooted in filial fear."
+      "comment": "The description of Job as blameless and upright sets the tone for the whole book, showing his close relationship with God, almost as a model for true piety rooted in reverence and moral integrity. 'Blameless' and 'upright' here do not mean sinless, but devoted and sincere—note a parallel with Noah in Genesis 6:9. Job's persistent fear of God anticipates the biblical theme of wisdom rooted in filial fear.",
+      "sectionHeader": "Job’s Character and Prosperity"
     },
     {
       "pk": 22001002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "Now there was a day when the sons of God came to present themselves before the LORD, and Satan also came among them.",
       "links": "<a href='/AIV/1/6/2'>Gen. 6:2</a>; <a href='/AIV/18/2/1'>Job 2:1</a>",
-      "comment": "'Sons of God' likely refers to angelic beings who attend upon God’s throne (cf. Psalm 89:7, Daniel 7:10). The adversary (Satan) appears as an accuser—a role continued in Zechariah 3:1. This assembly hints at a heavenly council, showing God’s sovereignty over all powers."
+      "comment": "'Sons of God' likely refers to angelic beings who attend upon God’s throne (cf. Psalm 89:7, Daniel 7:10). The adversary (Satan) appears as an accuser—a role continued in Zechariah 3:1. This assembly hints at a heavenly council, showing God’s sovereignty over all powers.",
+      "sectionHeader": "Satan Allowed to Test Job"
     },
     {
       "pk": 22001007,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "Now on the day when his sons and daughters were eating and drinking wine in their oldest brother’s house,",
       "links": "<a href='/AIV/18/1/4'>Job 1:4</a>",
-      "comment": "The feasting scene sets the context for Job’s trial, emphasizing both the unity and the vulnerability of earthly happiness."
+      "comment": "The feasting scene sets the context for Job’s trial, emphasizing both the unity and the vulnerability of earthly happiness.",
+      "sectionHeader": "Job’s Calamities"
     },
     {
       "pk": 22001014,
@@ -242,7 +245,8 @@
       "verse": 20,
       "text": "Then Job arose, tore his robe, and shaved his head, and fell to the ground and worshiped.",
       "links": "<a href='/AIV/18/2/12'>Job 2:12</a>; <a href='/AIV/6/7/6'>Josh. 7:6</a>",
-      "comment": "Tearing the robe and shaving the head are traditional acts of mourning (see Genesis 37:34). Job’s response—falling in worship—reveals his faith: he seeks God first, even in adversity, modeling a humble acceptance of God’s will reminiscent of Christ at Gethsemane (Luke 22:42)."
+      "comment": "Tearing the robe and shaving the head are traditional acts of mourning (see Genesis 37:34). Job’s response—falling in worship—reveals his faith: he seeks God first, even in adversity, modeling a humble acceptance of God’s will reminiscent of Christ at Gethsemane (Luke 22:42).",
+      "sectionHeader": "Job’s Response to Suffering"
     },
     {
       "pk": 22001021,
@@ -269,5 +273,27 @@
       "comment": "Despite all calamity, Job’s response is faithful and submissive. He does not accuse God, pointing to the highest virtue in enduring unjust suffering. This anticipates the silent suffering of the righteous throughout Scripture, especially fulfilled in Christ (Isaiah 53:7; 1 Peter 2:23). His heroic endurance is a foundation for later spiritual teaching on perseverance and trust in God—even when His ways seem mysterious."
     }
   ],
-  "translatedAt": "2025-12-24T05:39:56.658Z"
+  "translatedAt": "2025-12-24T05:39:56.658Z",
+  "sections": [
+    {
+      "title": "Job’s Character and Prosperity",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Satan Allowed to Test Job",
+      "startVerse": 6,
+      "endVerse": 12
+    },
+    {
+      "title": "Job’s Calamities",
+      "startVerse": 13,
+      "endVerse": 19
+    },
+    {
+      "title": "Job’s Response to Suffering",
+      "startVerse": 20,
+      "endVerse": 22
+    }
+  ]
 }

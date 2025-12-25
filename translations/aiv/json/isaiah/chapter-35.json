@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The wilderness and the dry land will be glad; the desert will rejoice and blossom like the crocus.",
       "links": "<a href='/AIV/23/32/15'>Isa. 32:15</a>; <a href='/AIV/19/96/12'>Ps. 96:12</a>",
-      "comment": "This verse uses imagery of the desert coming to life as a symbol of renewal and redemption. The blossoming wilderness represents spiritual transformation and connects to the hope of restoration promised by God."
+      "comment": "This verse uses imagery of the desert coming to life as a symbol of renewal and redemption. The blossoming wilderness represents spiritual transformation and connects to the hope of restoration promised by God.",
+      "sectionHeader": "The Joyful Transformation of the Wilderness"
     },
     {
       "pk": 29035002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "Then the eyes of the blind will be opened, and the ears of the deaf unstopped.",
       "links": "<a href='/AIV/40/11/5'>Matt. 11:5</a>; <a href='/AIV/42/7/22'>Luke 7:22</a>",
-      "comment": "This verse is referenced by Jesus as a sign of the Messiah's ministry (see Matthew 11:5; Luke 7:22). These miraculous healings signal the breaking in of the Kingdom of God, both as physical deeds and as spiritual realities—with the opening of the eyes and ears of the heart."
+      "comment": "This verse is referenced by Jesus as a sign of the Messiah's ministry (see Matthew 11:5; Luke 7:22). These miraculous healings signal the breaking in of the Kingdom of God, both as physical deeds and as spiritual realities—with the opening of the eyes and ears of the heart.",
+      "sectionHeader": "The Healing and Restoration of God's People"
     },
     {
       "pk": 29035006,
@@ -98,7 +100,8 @@
       "verse": 8,
       "text": "A highway will be there, and it will be called the Way of Holiness. The unclean shall not pass over it. It shall belong to those who walk on the way; even if fools, they shall not go astray.",
       "links": "<a href='/AIV/23/40/3'>Isa. 40:3</a>; <a href='/AIV/43/14/6'>John 14:6</a>",
-      "comment": "The 'Way of Holiness' is understood both as a literal promise of a safe road for the return from exile and as a spiritual path to sanctification. In John 14:6, Jesus calls himself 'the Way,' linking the fulfillment of this prophecy to the life and teaching of Christ. The exclusivity and purity of this way underscores the necessity of grace and right doctrine in remaining on this path."
+      "comment": "The 'Way of Holiness' is understood both as a literal promise of a safe road for the return from exile and as a spiritual path to sanctification. In John 14:6, Jesus calls himself 'the Way,' linking the fulfillment of this prophecy to the life and teaching of Christ. The exclusivity and purity of this way underscores the necessity of grace and right doctrine in remaining on this path.",
+      "sectionHeader": "The Way of Holiness and Return to Zion"
     },
     {
       "pk": 29035009,
@@ -125,5 +128,22 @@
       "comment": "The return to Zion is fulfilled both historically (Israel’s return from exile) and spiritually, as the gathering of all the redeemed in the heavenly Jerusalem (cf. Rev. 21:4). The text points toward ultimate joy and union with God—interpreted as a promise for all who remain faithful and persevere to the end."
     }
   ],
-  "translatedAt": "2025-12-24T08:06:49.822Z"
+  "translatedAt": "2025-12-24T08:06:49.822Z",
+  "sections": [
+    {
+      "title": "The Joyful Transformation of the Wilderness",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "The Healing and Restoration of God's People",
+      "startVerse": 5,
+      "endVerse": 7
+    },
+    {
+      "title": "The Way of Holiness and Return to Zion",
+      "startVerse": 8,
+      "endVerse": 10
+    }
+  ]
 }

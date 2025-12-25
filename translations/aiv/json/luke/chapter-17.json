@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then Jesus said to his disciples, 'It is impossible for stumbling blocks not to come, but woe to the one through whom they come!'",
       "links": "<a href='/AIV/40/18/7'>Matt. 18:7</a>; <a href='/AIV/45/14/13'>Rom. 14:13</a>",
-      "comment": "Jesus warns that temptations to sin are unavoidable in a fallen world, but emphasizes responsibility for leading others into sin. Compare Matthew 18:7. The language of 'woe' mirrors Old Testament prophetic judgment, underscoring Christ's divine authority (cf. Isaiah 5:20)."
+      "comment": "Jesus warns that temptations to sin are unavoidable in a fallen world, but emphasizes responsibility for leading others into sin. Compare Matthew 18:7. The language of 'woe' mirrors Old Testament prophetic judgment, underscoring Christ's divine authority (cf. Isaiah 5:20).",
+      "sectionHeader": "Warnings Against Causing Scandal and the Duty of Forgiveness"
     },
     {
       "pk": 49017002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "The apostles said to the Lord, 'Increase our faith!'",
       "links": "<a href='/AIV/40/8/25'>Matt. 8:25</a>; <a href='/AIV/41/9/24'>Mark 9:24</a>",
-      "comment": "Recognizing the difficulty of such constant forgiveness, the disciples appeal to Jesus for greater faith. Their address, 'Lord,' is an acknowledgment of Christ's authority and hints at his divinity (see also Luke 5:8; John 20:28)."
+      "comment": "Recognizing the difficulty of such constant forgiveness, the disciples appeal to Jesus for greater faith. Their address, 'Lord,' is an acknowledgment of Christ's authority and hints at his divinity (see also Luke 5:8; John 20:28).",
+      "sectionHeader": "The Power of Faith"
     },
     {
       "pk": 49017006,
@@ -86,7 +88,8 @@
       "verse": 7,
       "text": "'Suppose one of you has a servant plowing or tending sheep. When he comes in from the field, will he say to him, “Come at once and sit down to eat”?'",
       "links": "<a href='/AIV/40/25/21'>Matt. 25:21</a>",
-      "comment": "This imagery reflects the ancient practice where servants performed their master’s will before expecting reward (cf. Matt. 25:21). The analogy sets up a teaching about humility and recognizing God’s sovereign rights over his servants."
+      "comment": "This imagery reflects the ancient practice where servants performed their master’s will before expecting reward (cf. Matt. 25:21). The analogy sets up a teaching about humility and recognizing God’s sovereign rights over his servants.",
+      "sectionHeader": "Humble Service"
     },
     {
       "pk": 49017008,
@@ -134,7 +137,8 @@
       "verse": 11,
       "text": "As Jesus was traveling toward Jerusalem, he passed through the midst of Samaria and Galilee.",
       "links": "<a href='/AIV/42/9/51'>Luke 9:51</a>; <a href='/AIV/43/4/4'>John 4:4</a>",
-      "comment": "The journey to Jerusalem sets the context for his mission and coming sacrifice (see Luke 9:51). Passing through Samaria foreshadows Jesus' teaching that salvation is for all people, fulfilling Old Testament prophecies of the Messiah as Savior of both Jew and Gentile (Isaiah 49:6)."
+      "comment": "The journey to Jerusalem sets the context for his mission and coming sacrifice (see Luke 9:51). Passing through Samaria foreshadows Jesus' teaching that salvation is for all people, fulfilling Old Testament prophecies of the Messiah as Savior of both Jew and Gentile (Isaiah 49:6).",
+      "sectionHeader": "The Cleansing of the Ten Lepers"
     },
     {
       "pk": 49017012,
@@ -242,7 +246,8 @@
       "verse": 20,
       "text": "Being asked by the Pharisees when the kingdom of God would come, he answered them, 'The kingdom of God is not coming in ways that can be observed,'",
       "links": "<a href='/AIV/42/11/20'>Luke 11:20</a>; <a href='/AIV/36/3/15'>Zech. 3:15</a>",
-      "comment": "Jesus teaches the mysterious, unseen arrival of the kingdom—contrary to the Pharisees' expectations of a visible, political event. This hidden aspect is fulfilled in the presence of Christ and the establishment of his Church on earth."
+      "comment": "Jesus teaches the mysterious, unseen arrival of the kingdom—contrary to the Pharisees' expectations of a visible, political event. This hidden aspect is fulfilled in the presence of Christ and the establishment of his Church on earth.",
+      "sectionHeader": "The Coming of the Kingdom of God"
     },
     {
       "pk": 49017021,
@@ -449,5 +454,32 @@
       "comment": "This proverbial saying points to the public and unmistakable nature of divine judgment. Just as vultures gather where there is a corpse, so the signs of the end will be evident to all. The disciples’ address, 'Lord,' again emphasizes Jesus’ divine status."
     }
   ],
-  "translatedAt": "2025-12-24T10:53:17.512Z"
+  "translatedAt": "2025-12-24T10:53:17.512Z",
+  "sections": [
+    {
+      "title": "Warnings Against Causing Scandal and the Duty of Forgiveness",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "The Power of Faith",
+      "startVerse": 5,
+      "endVerse": 6
+    },
+    {
+      "title": "Humble Service",
+      "startVerse": 7,
+      "endVerse": 10
+    },
+    {
+      "title": "The Cleansing of the Ten Lepers",
+      "startVerse": 11,
+      "endVerse": 19
+    },
+    {
+      "title": "The Coming of the Kingdom of God",
+      "startVerse": 20,
+      "endVerse": 37
+    }
+  ]
 }

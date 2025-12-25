@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Does not wisdom call out, and understanding raise her voice?",
       "links": "<a href='/AIV/18/28/12-28'>Job 28:12-28</a>; <a href='/AIV/20/1/20-21'>Prov. 1:20-21</a>",
-      "comment": "Wisdom is personified here, much like in earlier chapters. This sets the stage for wisdom’s public proclamation, inviting all to listen."
+      "comment": "Wisdom is personified here, much like in earlier chapters. This sets the stage for wisdom’s public proclamation, inviting all to listen.",
+      "sectionHeader": "The Call of Wisdom"
     },
     {
       "pk": 24008002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "I, wisdom, dwell with prudence, and I find knowledge and discretion.",
       "links": "<a href='/AIV/20/2/10-11'>Prov. 2:10-11</a>",
-      "comment": "Wisdom leads to a life of thoughtful action, not just intellectual knowledge."
+      "comment": "Wisdom leads to a life of thoughtful action, not just intellectual knowledge.",
+      "sectionHeader": "The Excellence and Gifts of Wisdom"
     },
     {
       "pk": 24008013,
@@ -266,7 +268,8 @@
       "verse": 22,
       "text": "The LORD possessed me at the beginning of his work, the first of his acts of old.",
       "links": "<a href='/AIV/43/1/1'>John 1:1</a>; <a href='/AIV/19/104/24'>Ps. 104:24</a>",
-      "comment": "Wisdom existed before creation, mysteriously prefiguring Christ, ‘the Word’ (John 1:1), as divine wisdom."
+      "comment": "Wisdom existed before creation, mysteriously prefiguring Christ, ‘the Word’ (John 1:1), as divine wisdom.",
+      "sectionHeader": "Wisdom’s Role in Creation"
     },
     {
       "pk": 24008023,
@@ -386,7 +389,8 @@
       "verse": 32,
       "text": "Now therefore, listen to me, O children, for blessed are those who keep my ways.",
       "links": "<a href='/AIV/19/1/1'>Ps. 1:1</a>",
-      "comment": "Blessing is linked to hearing and obeying wisdom, reminiscent of the theme of covenant obedience."
+      "comment": "Blessing is linked to hearing and obeying wisdom, reminiscent of the theme of covenant obedience.",
+      "sectionHeader": "Blessings for Those Who Seek Wisdom"
     },
     {
       "pk": 24008033,
@@ -437,5 +441,27 @@
       "comment": "To reject wisdom is to choose death; God’s revelation is essential for spiritual vitality, and participation in life is contingent on accepting divine wisdom."
     }
   ],
-  "translatedAt": "2025-12-24T06:54:22.922Z"
+  "translatedAt": "2025-12-24T06:54:22.922Z",
+  "sections": [
+    {
+      "title": "The Call of Wisdom",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "The Excellence and Gifts of Wisdom",
+      "startVerse": 12,
+      "endVerse": 21
+    },
+    {
+      "title": "Wisdom’s Role in Creation",
+      "startVerse": 22,
+      "endVerse": 31
+    },
+    {
+      "title": "Blessings for Those Who Seek Wisdom",
+      "startVerse": 32,
+      "endVerse": 36
+    }
+  ]
 }

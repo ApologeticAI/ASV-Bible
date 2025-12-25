@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then Elihu continued and said:",
       "links": "<a href='/AIV/22/32/15'>Job 32:15</a>; <a href='/AIV/22/34/1'>Job 34:1</a>",
-      "comment": "This introduces Elihu's speech, marking a shift from Job’s friends to a younger speaker. Elihu often presents a nuanced perspective on God's justice."
+      "comment": "This introduces Elihu's speech, marking a shift from Job’s friends to a younger speaker. Elihu often presents a nuanced perspective on God's justice.",
+      "sectionHeader": "Elihu Proclaims God's Justice"
     },
     {
       "pk": 22035002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "\"If you sin, what effect do you have against Him? And if your offenses are many, what do you do to Him?\"",
       "links": "<a href='/AIV/22/7/20'>Job 7:20</a>; <a href='/AIV/19/16/2'>Ps. 16:2</a>",
-      "comment": "This shows God's transcendence; human actions do not diminish Him. Spiritual interpretation: Even our gravest sins do not threaten God’s majesty but affect our communion with Him."
+      "comment": "This shows God's transcendence; human actions do not diminish Him. Spiritual interpretation: Even our gravest sins do not threaten God’s majesty but affect our communion with Him.",
+      "sectionHeader": "The Futility of Human Righteousness"
     },
     {
       "pk": 22035007,
@@ -110,7 +112,8 @@
       "verse": 9,
       "text": "\"People cry out because of the multitude of oppressions; they call for help because of the power of the mighty.\"",
       "links": "<a href='/AIV/19/10/18'>Ps. 10:18</a>; <a href='/AIV/19/107/6'>Ps. 107:6</a>",
-      "comment": "This highlights human suffering under injustice and the instinct to call out for deliverance, resembling the faithful’s prayers for God’s intervention."
+      "comment": "This highlights human suffering under injustice and the instinct to call out for deliverance, resembling the faithful’s prayers for God’s intervention.",
+      "sectionHeader": "God’s Silence Amid Human Suffering"
     },
     {
       "pk": 22035010,
@@ -170,7 +173,8 @@
       "verse": 14,
       "text": "\"How much less, when you say you do not see Him—yet your case is before Him, and you must wait for Him.\"",
       "links": "<a href='/AIV/22/23/8-9'>Job 23:8-9</a>; <a href='/AIV/19/27/14'>Ps. 27:14</a>",
-      "comment": "Patience in suffering is emphasized, pointing toward trusting in God's unseen yet attentive presence. This reflects the tradition of hopeful waiting for God's justice and vindication."
+      "comment": "Patience in suffering is emphasized, pointing toward trusting in God's unseen yet attentive presence. This reflects the tradition of hopeful waiting for God's justice and vindication.",
+      "sectionHeader": "Elihu Condemns Job’s Complaint"
     },
     {
       "pk": 22035015,
@@ -197,5 +201,27 @@
       "comment": "Job's complaints, lacking understanding, are ultimately futile before God's wisdom. Suffering invites us not just to speak but to meditate, seek understanding, and unite our struggles to God's greater purpose."
     }
   ],
-  "translatedAt": "2025-12-24T05:55:21.916Z"
+  "translatedAt": "2025-12-24T05:55:21.916Z",
+  "sections": [
+    {
+      "title": "Elihu Proclaims God's Justice",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "The Futility of Human Righteousness",
+      "startVerse": 6,
+      "endVerse": 8
+    },
+    {
+      "title": "God’s Silence Amid Human Suffering",
+      "startVerse": 9,
+      "endVerse": 13
+    },
+    {
+      "title": "Elihu Condemns Job’s Complaint",
+      "startVerse": 14,
+      "endVerse": 16
+    }
+  ]
 }

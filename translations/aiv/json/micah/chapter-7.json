@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "How miserable I have become, like one who gathers fruit after the harvest, like one picking grapes after the vintage. There is no cluster to eat, none of the first-ripe figs I crave.",
       "links": "<a href='/AIV/23/17/6'>Isa. 17:6</a>; <a href='/AIV/24/8/13'>Jer. 8:13</a>",
-      "comment": "Micah laments the spiritual barrenness of his people, comparing it to a failed harvest. The imagery recalls prophetic warnings elsewhere about judgment and fruitlessness (cf. Isa. 5:1-7). There is also a sense of longing for 'first fruits,' which elsewhere become a sacrificial offering, suggesting that true worship and devotion have vanished."
+      "comment": "Micah laments the spiritual barrenness of his people, comparing it to a failed harvest. The imagery recalls prophetic warnings elsewhere about judgment and fruitlessness (cf. Isa. 5:1-7). There is also a sense of longing for 'first fruits,' which elsewhere become a sacrificial offering, suggesting that true worship and devotion have vanished.",
+      "sectionHeader": "The Corruption of Society"
     },
     {
       "pk": 40007002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "But as for me, I will look to the LORD; I will wait for the God who saves me; my God will hear me.",
       "links": "<a href='/AIV/19/3/4'>Ps. 3:4</a>; <a href='/AIV/34/1/7'>Nah. 1:7</a>",
-      "comment": "Micah sets his hope in the Lord alone, foreshadowing Christian trust in Christ as Savior. 'Wait for the God who saves me' is both literal and an anticipation of messianic expectation, pointing to the ultimate salvation offered in Jesus."
+      "comment": "Micah sets his hope in the Lord alone, foreshadowing Christian trust in Christ as Savior. 'Wait for the God who saves me' is both literal and an anticipation of messianic expectation, pointing to the ultimate salvation offered in Jesus.",
+      "sectionHeader": "Hope in the Lord and Future Restoration"
     },
     {
       "pk": 40007008,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "Shepherd your people with your staff, the flock of your inheritance, living alone in a forest, in fertile pasturelands. Let them graze in Bashan and Gilead as in days of old.",
       "links": "<a href='/AIV/19/23/1'>Ps. 23:1</a>; <a href='/AIV/26/34/23'>Ezek. 34:23</a>",
-      "comment": "The image of God as Shepherd is one of tender care and leadership. Jesus applies this title to Himself (cf. John 10:11), and shepherds in the Church continue this pastoral ministry in spiritual succession."
+      "comment": "The image of God as Shepherd is one of tender care and leadership. Jesus applies this title to Himself (cf. John 10:11), and shepherds in the Church continue this pastoral ministry in spiritual succession.",
+      "sectionHeader": "Prayer for God's Shepherding and Wonders"
     },
     {
       "pk": 40007015,
@@ -218,7 +221,8 @@
       "verse": 18,
       "text": "Who is a God like you, who forgives iniquity and passes over the transgressions of the remnant of his inheritance? He does not retain his anger forever, he delights in lovingkindness.",
       "links": "<a href='/AIV/19/103/8-12'>Ps. 103:8-12</a>; <a href='/AIV/2/34/6-7'>Ex. 34:6-7</a>",
-      "comment": "This climactic verse celebrates God's unique mercy, forming the basis for revealed forgiveness. 'Passes over' recalls the Passover, ultimately pointing to Christ's sacrifice for our redemption and the perpetual mercy available through the sacraments."
+      "comment": "This climactic verse celebrates God's unique mercy, forming the basis for revealed forgiveness. 'Passes over' recalls the Passover, ultimately pointing to Christ's sacrifice for our redemption and the perpetual mercy available through the sacraments.",
+      "sectionHeader": "God's Mercy and Faithfulness"
     },
     {
       "pk": 40007019,
@@ -245,5 +249,27 @@
       "comment": "Micah closes with God's fidelity to His promises, tying the Old Testament covenants to future hope. This theme is foundational for Christian faith—the fulfillment of God’s promises in Christ links the ancient patriarchs to the whole Church, drawing all believers into one family united by sacramental and spiritual bonds."
     }
   ],
-  "translatedAt": "2025-12-24T09:49:38.258Z"
+  "translatedAt": "2025-12-24T09:49:38.258Z",
+  "sections": [
+    {
+      "title": "The Corruption of Society",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Hope in the Lord and Future Restoration",
+      "startVerse": 7,
+      "endVerse": 13
+    },
+    {
+      "title": "Prayer for God's Shepherding and Wonders",
+      "startVerse": 14,
+      "endVerse": 17
+    },
+    {
+      "title": "God's Mercy and Faithfulness",
+      "startVerse": 18,
+      "endVerse": 20
+    }
+  ]
 }

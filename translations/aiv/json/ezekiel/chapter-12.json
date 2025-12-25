@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The word of the LORD came to me, saying:",
       "links": "<a href='/AIV/26/24/1'>Ezek. 24:1</a>; <a href='/AIV/24/1/11'>Jer. 1:11</a>",
-      "comment": "God continues directly addressing Ezekiel, emphasizing the divine origin of the message. This formula is frequent in prophetic books and underscores Ezekiel’s role as a true prophet (cf. Amos 3:7)."
+      "comment": "God continues directly addressing Ezekiel, emphasizing the divine origin of the message. This formula is frequent in prophetic books and underscores Ezekiel’s role as a true prophet (cf. Amos 3:7).",
+      "sectionHeader": "The Sign of the Prophet's Exile"
     },
     {
       "pk": 33012002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "In the morning the word of the LORD came to me, saying:",
       "links": "<a href='/AIV/26/12/1'>Ezek. 12:1</a>",
-      "comment": "God explains the significance of Ezekiel’s enacted prophecy. True worship always involves both God's initiative and human response."
+      "comment": "God explains the significance of Ezekiel’s enacted prophecy. True worship always involves both God's initiative and human response.",
+      "sectionHeader": "The Meaning of the Exile Sign"
     },
     {
       "pk": 33012009,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "The word of the LORD came to me, saying:",
       "links": "<a href='/AIV/26/12/1'>Ezek. 12:1</a>",
-      "comment": "A new symbolic action is introduced in this section. Each action reinforces the prophet’s authority."
+      "comment": "A new symbolic action is introduced in this section. Each action reinforces the prophet’s authority.",
+      "sectionHeader": "The Sign of Eating with Trembling"
     },
     {
       "pk": 33012018,
@@ -254,7 +257,8 @@
       "verse": 21,
       "text": "The word of the LORD came to me, saying:",
       "links": "<a href='/AIV/26/12/1'>Ezek. 12:1</a>",
-      "comment": "New oracles are introduced, showing God's dynamic relation with His people. Prophecy is shown to respond to the spiritual state of the community."
+      "comment": "New oracles are introduced, showing God's dynamic relation with His people. Prophecy is shown to respond to the spiritual state of the community.",
+      "sectionHeader": "The End of False Proverbs"
     },
     {
       "pk": 33012022,
@@ -341,5 +345,27 @@
       "comment": "God’s word is powerful and effectual—it accomplishes His will (Isa. 55:11). This applies to all God's promises both of judgment and restoration, including the final fulfillment in Christ and the Church’s enduring foundation."
     }
   ],
-  "translatedAt": "2025-12-24T09:04:17.367Z"
+  "translatedAt": "2025-12-24T09:04:17.367Z",
+  "sections": [
+    {
+      "title": "The Sign of the Prophet's Exile",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "The Meaning of the Exile Sign",
+      "startVerse": 8,
+      "endVerse": 16
+    },
+    {
+      "title": "The Sign of Eating with Trembling",
+      "startVerse": 17,
+      "endVerse": 20
+    },
+    {
+      "title": "The End of False Proverbs",
+      "startVerse": 21,
+      "endVerse": 28
+    }
+  ]
 }

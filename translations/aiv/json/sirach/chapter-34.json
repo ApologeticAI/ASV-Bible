@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Futile and deceptive are the hopes of a senseless man, and dreams encourage fools.",
       "links": "<a href='/AIV/23/29/8'>Isa. 29:8</a>; <a href='/AIV/24/23/32'>Jer. 23:32</a>",
-      "comment": "Dreams can easily mislead those who do not seek wisdom from God. The verse points toward valuing God's revelation over personal imagination, connecting with the biblical theme of true prophecy over false (see Jer. 23:16)."
+      "comment": "Dreams can easily mislead those who do not seek wisdom from God. The verse points toward valuing God's revelation over personal imagination, connecting with the biblical theme of true prophecy over false (see Jer. 23:16).",
+      "sectionHeader": "Vanity of Dreams and False Divination"
     },
     {
       "pk": 28034002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "The experience of travel increases learning, and the wise man speaks with understanding.",
       "links": "<a href='/AIV/20/1/5'>Prov. 1:5</a>",
-      "comment": "Learning is deepened through experience, as recognized throughout wisdom literature. The value of listening and seeking wisdom from different sources is emphasized here (see Prov. 1:5)."
+      "comment": "Learning is deepened through experience, as recognized throughout wisdom literature. The value of listening and seeking wisdom from different sources is emphasized here (see Prov. 1:5).",
+      "sectionHeader": "Value of Experience and Fear of the Lord"
     },
     {
       "pk": 28034010,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "The offering of what is gained by injustice is not acceptable, nor are sacrifices from the things stolen.",
       "links": "<a href='/AIV/19/51/16-17'>Ps. 51:16-17</a>; <a href='/AIV/23/1/11-17'>Isa. 1:11-17</a>",
-      "comment": "Worship and offerings must come from upright living (Isa. 1:11-17, Ps. 51:16-17). External rituals without an honest heart are empty before God—a theme fulfilled in authentic Christian worship."
+      "comment": "Worship and offerings must come from upright living (Isa. 1:11-17, Ps. 51:16-17). External rituals without an honest heart are empty before God—a theme fulfilled in authentic Christian worship.",
+      "sectionHeader": "Acceptable Sacrifice and True Worship"
     },
     {
       "pk": 28034019,
@@ -302,7 +305,8 @@
       "verse": 25,
       "text": "If one builds, but another tears down, what has he gained except for hard work?",
       "links": "<a href='/AIV/21/2/21'>Eccl. 2:21</a>",
-      "comment": "Without unity and integrity, effort is wasted. This has spiritual implications for the life and unity of God's people (Eccl. 2:21)."
+      "comment": "Without unity and integrity, effort is wasted. This has spiritual implications for the life and unity of God's people (Eccl. 2:21).",
+      "sectionHeader": "The Futility of Hypocritical Rituals"
     },
     {
       "pk": 28034026,
@@ -377,5 +381,27 @@
       "comment": "Spiritual and moral integrity are unified in God’s expectation. This theme is central to Jesus' Sermon on the Mount and the apostolic teaching (Col. 3:17)."
     }
   ],
-  "translatedAt": "2025-12-24T07:41:35.362Z"
+  "translatedAt": "2025-12-24T07:41:35.362Z",
+  "sections": [
+    {
+      "title": "Vanity of Dreams and False Divination",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "Value of Experience and Fear of the Lord",
+      "startVerse": 9,
+      "endVerse": 17
+    },
+    {
+      "title": "Acceptable Sacrifice and True Worship",
+      "startVerse": 18,
+      "endVerse": 24
+    },
+    {
+      "title": "The Futility of Hypocritical Rituals",
+      "startVerse": 25,
+      "endVerse": 31
+    }
+  ]
 }

@@ -3,7 +3,6 @@
   "bookName": "Esther",
   "bookAbbreviation": "Esth",
   "chapter": 9,
-  "sections": [],
   "verses": [
     {
       "pk": 19009001,
@@ -15,7 +14,8 @@
       "verse": 1,
       "text": "Now in the twelfth month, which is the month of Adar, on the thirteenth day, when the king's command and decree were to be carried out, on the day when the enemies of the Jews hoped to overpower them, the opposite happened: the Jews overpowered those who hated them.",
       "links": "<a href='/AIV/19/8/17'>Esth. 8:17</a>; <a href='/AIV/2/15/9-10'>Ex. 15:9-10</a>",
-      "comment": "The reversal of fortune fulfills the deliverance theme seen throughout Scripture, reminiscent of the deliverance at the Red Sea (Exodus 15). Notice how God works providentially, even when He is not named directly in the book."
+      "comment": "The reversal of fortune fulfills the deliverance theme seen throughout Scripture, reminiscent of the deliverance at the Red Sea (Exodus 15). Notice how God works providentially, even when He is not named directly in the book.",
+      "sectionHeader": "The Jews Destroy Their Enemies"
     },
     {
       "pk": 19009002,
@@ -75,7 +75,8 @@
       "verse": 6,
       "text": "In Susa the citadel itself, the Jews killed and destroyed five hundred men.",
       "links": "<a href='/AIV/19/9/12'>Esth. 9:12</a>",
-      "comment": "The description of victory in the capital underlines the complete reversal and victory for God's people in the very seat of power."
+      "comment": "The description of victory in the capital underlines the complete reversal and victory for God's people in the very seat of power.",
+      "sectionHeader": "The Death of Haman’s Sons"
     },
     {
       "pk": 19009007,
@@ -207,7 +208,8 @@
       "verse": 17,
       "text": "This was done on the thirteenth day of the month of Adar, and on the fourteenth day they rested and made it a day of feasting and gladness.",
       "links": "<a href='/AIV/2/12/16'>Ex. 12:16</a>",
-      "comment": "Celebration and feasting following deliverance recall the liturgical feasts instituted in salvation history—Moses (Ex. 12:16) and onward."
+      "comment": "Celebration and feasting following deliverance recall the liturgical feasts instituted in salvation history—Moses (Ex. 12:16) and onward.",
+      "sectionHeader": "The Jews Celebrate Their Victory"
     },
     {
       "pk": 19009018,
@@ -243,7 +245,8 @@
       "verse": 20,
       "text": "And Mordecai wrote these things down and sent letters to all the Jews who were in all the provinces of King Ahasuerus, both near and far,",
       "links": "<a href='/AIV/19/8/9-10'>Esth. 8:9-10</a>",
-      "comment": "The institution of remembrance by written letter anticipates sacred tradition and faithful proclamation of salvific events for all generations."
+      "comment": "The institution of remembrance by written letter anticipates sacred tradition and faithful proclamation of salvific events for all generations.",
+      "sectionHeader": "The Institution of the Feast of Purim"
     },
     {
       "pk": 19009021,
@@ -390,5 +393,27 @@
       "comment": "Esther’s command, committed to writing, underlines both the enduring authority of God’s chosen leaders and the importance of sacred tradition. In the broader biblical story, this prefigures how Christ would entrust His Church with the authority to preserve and teach the faith (cf. Matt. 28:19-20)."
     }
   ],
-  "translatedAt": "2025-12-24T05:11:43.817Z"
+  "translatedAt": "2025-12-24T05:11:43.817Z",
+  "sections": [
+    {
+      "title": "The Jews Destroy Their Enemies",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "The Death of Haman’s Sons",
+      "startVerse": 6,
+      "endVerse": 16
+    },
+    {
+      "title": "The Jews Celebrate Their Victory",
+      "startVerse": 17,
+      "endVerse": 19
+    },
+    {
+      "title": "The Institution of the Feast of Purim",
+      "startVerse": 20,
+      "endVerse": 32
+    }
+  ]
 }

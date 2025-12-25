@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The sons of Levi: Gershon, Kohath, and Merari.",
       "links": "<a href='/AIV/02/6/16'>Exod. 6:16</a>, <a href='/AIV/04/3/17'>Num. 3:17</a>",
-      "comment": "The genealogy begins with the three sons of Levi, foundational for Israel's priestly lineage. This establishes the legitimacy and sacred nature of the Levitical priesthood, which continues to play a pivotal role in mediating between God and His people."
+      "comment": "The genealogy begins with the three sons of Levi, foundational for Israel's priestly lineage. This establishes the legitimacy and sacred nature of the Levitical priesthood, which continues to play a pivotal role in mediating between God and His people.",
+      "sectionHeader": "The Genealogy of Levi"
     },
     {
       "pk": 13006002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "The children of Amram: Aaron, Moses, and Miriam. The sons of Aaron: Nadab, Abihu, Eleazar, and Ithamar.",
       "links": "<a href='/AIV/02/6/20-23'>Exod. 6:20-23</a>, <a href='/AIV/03/10/1-2'>Lev. 10:1-2</a>",
-      "comment": "Aaron and Moses are especially set apart, with Aaron's sons continuing the priestly line. The mention of Nadab and Abihu’s fate (Lev. 10:1-2) underscores the responsibilities and dangers of the priesthood."
+      "comment": "Aaron and Moses are especially set apart, with Aaron's sons continuing the priestly line. The mention of Nadab and Abihu’s fate (Lev. 10:1-2) underscores the responsibilities and dangers of the priesthood.",
+      "sectionHeader": "The Priesthood Line from Aaron to the Exile"
     },
     {
       "pk": 13006004,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "The sons of Levi: Gershom, Kohath, and Merari.",
       "links": "",
-      "comment": "This repetition of the Levitical lines affirms their centrality to Israel's worship, grounding authority in well-established lineage."
+      "comment": "This repetition of the Levitical lines affirms their centrality to Israel's worship, grounding authority in well-established lineage.",
+      "sectionHeader": "The Families of the Levites"
     },
     {
       "pk": 13006017,
@@ -374,7 +377,8 @@
       "verse": 31,
       "text": "These are the men David put in charge of music in the house of the LORD after the ark came to rest there:",
       "links": "<a href='/AIV/10/6/17'>2 Sam. 6:17</a>, <a href='/AIV/13/15/16'>1 Chr. 15:16</a>",
-      "comment": "David instituting music in worship hints at the value of ordered, sacramental worship, preparing for the transition to temple liturgy."
+      "comment": "David instituting music in worship hints at the value of ordered, sacramental worship, preparing for the transition to temple liturgy.",
+      "sectionHeader": "Levitical Musicians and Their Duties"
     },
     {
       "pk": 13006032,
@@ -590,7 +594,8 @@
       "verse": 49,
       "text": "But Aaron and his sons made offerings on the altar of burnt offering and on the altar of incense, for all the work of the Most Holy Place, to make atonement for Israel, as Moses the servant of God commanded.",
       "links": "<a href='/AIV/03/16/1-34'>Lev. 16:1-34</a>",
-      "comment": "Aaron’s unique priesthood is distinct among Levites, prefiguring the high priestly offerings fulfilled in Christ (see Heb. 9:11-14)."
+      "comment": "Aaron’s unique priesthood is distinct among Levites, prefiguring the high priestly offerings fulfilled in Christ (see Heb. 9:11-14).",
+      "sectionHeader": "The Descendants of Aaron"
     },
     {
       "pk": 13006050,
@@ -650,7 +655,8 @@
       "verse": 54,
       "text": "Now these are their dwelling places according to their settlements within their borders. To the sons of Aaron, of the families of the Kohathites, for theirs was the first lot,",
       "links": "<a href='/AIV/06/21/4-8'>Josh. 21:4-8</a>",
-      "comment": "The division of land underscores God's provision for His ministers, allowing them stability and support to serve the people in spiritual matters."
+      "comment": "The division of land underscores God's provision for His ministers, allowing them stability and support to serve the people in spiritual matters.",
+      "sectionHeader": "The Levitical Cities"
     },
     {
       "pk": 13006055,
@@ -977,5 +983,37 @@
       "comment": "This formal closure on the distribution of Levitical cities supports the notion that worship and service are gifts given by God for the good of the whole people, pointing ahead to ministry in the universal Church."
     }
   ],
-  "translatedAt": "2025-12-24T04:08:20.655Z"
+  "translatedAt": "2025-12-24T04:08:20.655Z",
+  "sections": [
+    {
+      "title": "The Genealogy of Levi",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "The Priesthood Line from Aaron to the Exile",
+      "startVerse": 3,
+      "endVerse": 15
+    },
+    {
+      "title": "The Families of the Levites",
+      "startVerse": 16,
+      "endVerse": 30
+    },
+    {
+      "title": "Levitical Musicians and Their Duties",
+      "startVerse": 31,
+      "endVerse": 48
+    },
+    {
+      "title": "The Descendants of Aaron",
+      "startVerse": 49,
+      "endVerse": 53
+    },
+    {
+      "title": "The Levitical Cities",
+      "startVerse": 54,
+      "endVerse": 81
+    }
+  ]
 }

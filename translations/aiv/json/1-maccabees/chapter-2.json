@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In those days, Mattathias son of John, son of Simeon, a priest of the family of Joarib, left Jerusalem and settled in Modein.",
       "links": "<a href='/AIV/13/9/22'>1 Chr. 9:22</a>",
-      "comment": "Mattathias is identified as a priest descended from Joarib, one of the priestly families. His lineage establishes the legitimate priestly authority. The flight to Modein sets the stage for his key role in the coming revolt."
+      "comment": "Mattathias is identified as a priest descended from Joarib, one of the priestly families. His lineage establishes the legitimate priestly authority. The flight to Modein sets the stage for his key role in the coming revolt.",
+      "sectionHeader": "Mattathias and His Sons"
     },
     {
       "pk": 20002002,
@@ -194,7 +195,8 @@
       "verse": 16,
       "text": "The officers of the king who were enforcing apostasy came to Modein to make the people sacrifice.",
       "links": "<a href='/AIV/20/1/54'>1Macc 1:54</a>",
-      "comment": "The king’s officials’ arrival to compel idolatry marks a central conflict: the forces of political power seeking to overturn true worship."
+      "comment": "The king’s officials’ arrival to compel idolatry marks a central conflict: the forces of political power seeking to overturn true worship.",
+      "sectionHeader": "Mattathias Refuses to Apostatize"
     },
     {
       "pk": 20002017,
@@ -302,7 +304,8 @@
       "verse": 25,
       "text": "When he had finished speaking, a Jew came forward in the sight of all to offer sacrifice on the altar in Modein according to the king’s decree.",
       "links": "<a href='/AIV/20/1/54'>1Macc 1:54</a>",
-      "comment": "The public apostasy is a critical turning point: the visible breach of fidelity elicits a decisive response."
+      "comment": "The public apostasy is a critical turning point: the visible breach of fidelity elicits a decisive response.",
+      "sectionHeader": "The Zeal of Mattathias"
     },
     {
       "pk": 20002026,
@@ -350,7 +353,8 @@
       "verse": 29,
       "text": "He and his sons fled to the mountains, leaving behind all they had.",
       "links": "<a href='/AIV/19/11/1'>Ps. 11:1</a>; <a href='/AIV/42/21/21'>Luke 21:21</a>",
-      "comment": "The faithful remnant retreats, echoing Christ’s teaching about forsaking worldly possessions (Matt. 19:29)."
+      "comment": "The faithful remnant retreats, echoing Christ’s teaching about forsaking worldly possessions (Matt. 19:29).",
+      "sectionHeader": "The Revolt and Flight to the Wilderness"
     },
     {
       "pk": 20002030,
@@ -446,7 +450,8 @@
       "verse": 37,
       "text": "When Mattathias and his friends heard what had happened to them, they mourned greatly.",
       "links": "<a href='/AIV/19/79/5'>Ps. 79:5</a>",
-      "comment": "Sorrow for those who died reflects communal intercession—similar to Christian prayers for the faithful departed."
+      "comment": "Sorrow for those who died reflects communal intercession—similar to Christian prayers for the faithful departed.",
+      "sectionHeader": "Defense of the Law on the Sabbath"
     },
     {
       "pk": 20002038,
@@ -482,7 +487,8 @@
       "verse": 40,
       "text": "Then joined them a group of Hasideans, mighty warriors of Israel, every one devoted to the law.",
       "links": "<a href='/AIV/19/119/1'>Ps. 119:1</a>",
-      "comment": "Those zealous for the law join the resistance—a forerunner of later orders and movements focused on holiness and defending orthodoxy."
+      "comment": "Those zealous for the law join the resistance—a forerunner of later orders and movements focused on holiness and defending orthodoxy.",
+      "sectionHeader": "The Resistance Gathers Strength"
     },
     {
       "pk": 20002041,
@@ -566,7 +572,8 @@
       "verse": 47,
       "text": "When the days drew near for Mattathias to die, he said to his sons:",
       "links": "<a href='/AIV/01/49/1'>Gen. 49:1</a>",
-      "comment": "Like Jacob, Mattathias gathers his sons for a last testament—passing on faith and leadership, a foundational pattern for apostolic succession."
+      "comment": "Like Jacob, Mattathias gathers his sons for a last testament—passing on faith and leadership, a foundational pattern for apostolic succession.",
+      "sectionHeader": "Mattathias' Deathbed Charge to His Sons"
     },
     {
       "pk": 20002048,
@@ -845,5 +852,42 @@
       "comment": "Mattathias's death closes the chapter, marking the transition of leadership and the continuing struggle, with hope passed on to the next generation."
     }
   ],
-  "translatedAt": "2025-12-24T05:14:05.021Z"
+  "translatedAt": "2025-12-24T05:14:05.021Z",
+  "sections": [
+    {
+      "title": "Mattathias and His Sons",
+      "startVerse": 1,
+      "endVerse": 15
+    },
+    {
+      "title": "Mattathias Refuses to Apostatize",
+      "startVerse": 16,
+      "endVerse": 24
+    },
+    {
+      "title": "The Zeal of Mattathias",
+      "startVerse": 25,
+      "endVerse": 28
+    },
+    {
+      "title": "The Revolt and Flight to the Wilderness",
+      "startVerse": 29,
+      "endVerse": 36
+    },
+    {
+      "title": "Defense of the Law on the Sabbath",
+      "startVerse": 37,
+      "endVerse": 39
+    },
+    {
+      "title": "The Resistance Gathers Strength",
+      "startVerse": 40,
+      "endVerse": 46
+    },
+    {
+      "title": "Mattathias' Deathbed Charge to His Sons",
+      "startVerse": 47,
+      "endVerse": 70
+    }
+  ]
 }

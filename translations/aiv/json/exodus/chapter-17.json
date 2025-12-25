@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then the entire congregation of the children of Israel set out from the Wilderness of Sin by stages, as the LORD commanded, and camped at Rephidim. But there was no water for the people to drink.",
       "links": "<a href='/AIV/2/15/22'>Exod. 15:22</a>; <a href='/AIV/4/33/12-14'>Num. 33:12-14</a>",
-      "comment": "The Israelites journey according to God's command, reflecting divine guidance even in adversity. The people find themselves once again facing trial, highlighting humanity's dependence on God's provision. 'Stages' shows an ordered, communal pilgrimage."
+      "comment": "The Israelites journey according to God's command, reflecting divine guidance even in adversity. The people find themselves once again facing trial, highlighting humanity's dependence on God's provision. 'Stages' shows an ordered, communal pilgrimage.",
+      "sectionHeader": "Water from the Rock at Rephidim"
     },
     {
       "pk": 2017002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Then Amalek came and fought with Israel at Rephidim.",
       "links": "<a href='/AIV/5/25/17-18'>Deut. 25:17-18</a>; <a href='/AIV/9/15/2'>1 Sam. 15:2</a>",
-      "comment": "Amalek is often seen as a symbol of opposition to God's people, representing continual struggles against evil. The context of spiritual and physical battle is important for the faithful."
+      "comment": "Amalek is often seen as a symbol of opposition to God's people, representing continual struggles against evil. The context of spiritual and physical battle is important for the faithful.",
+      "sectionHeader": "The Battle with Amalek"
     },
     {
       "pk": 2017009,
@@ -197,5 +199,17 @@
       "comment": "The lifting of hands signifies intercessory prayer and worship. Divine judgment against Amalek is ongoing, revealing both the reality of spiritual warfare and the necessity of persevering in faith, worship, and tradition."
     }
   ],
-  "translatedAt": "2025-12-24T00:55:55.519Z"
+  "translatedAt": "2025-12-24T00:55:55.519Z",
+  "sections": [
+    {
+      "title": "Water from the Rock at Rephidim",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "The Battle with Amalek",
+      "startVerse": 8,
+      "endVerse": 16
+    }
+  ]
 }

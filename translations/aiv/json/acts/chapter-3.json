@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Peter and John were going up to the temple at the hour of prayer, the ninth hour.",
       "links": "<a href='/AIV/40/21/13'>Matt. 21:13</a>; <a href='/AIV/19/55/17'>Ps. 55:17</a>",
-      "comment": "Jewish tradition had set times for prayer; the 'ninth hour' is about 3 p.m. The apostles remain faithful to the rhythm of communal prayer, pointing to continuity with Israel’s worship."
+      "comment": "Jewish tradition had set times for prayer; the 'ninth hour' is about 3 p.m. The apostles remain faithful to the rhythm of communal prayer, pointing to continuity with Israel’s worship.",
+      "sectionHeader": "Healing of the Lame Beggar at the Beautiful Gate"
     },
     {
       "pk": 51003002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "When Peter saw this, he addressed the people: 'Men of Israel, why are you amazed at this, or why do you stare at us, as though by our own power or godliness we had made him walk?'",
       "links": "<a href='/AIV/43/14/12'>John 14:12</a>; <a href='/AIV/40/17/20'>Matt. 17:20</a>",
-      "comment": "Peter deflects personal glory, attributing the miracle to Christ's power—emphasizing humility and dependency on grace."
+      "comment": "Peter deflects personal glory, attributing the miracle to Christ's power—emphasizing humility and dependency on grace.",
+      "sectionHeader": "Peter's Speech in Solomon's Portico"
     },
     {
       "pk": 51003013,
@@ -317,5 +319,17 @@
       "comment": "Christ’s mission is not simply forgiveness, but also moral transformation. Apostolic proclamation continues this ministry, through which the blessing and conversion of souls are extended across generations."
     }
   ],
-  "translatedAt": "2025-12-24T11:18:38.093Z"
+  "translatedAt": "2025-12-24T11:18:38.093Z",
+  "sections": [
+    {
+      "title": "Healing of the Lame Beggar at the Beautiful Gate",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "Peter's Speech in Solomon's Portico",
+      "startVerse": 12,
+      "endVerse": 26
+    }
+  ]
 }

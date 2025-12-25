@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then Naomi, Ruth’s mother-in-law, said to her, 'My daughter, should I not seek a place of rest for you, so that it will go well with you?'",
       "links": "<a href='/AIV/8/1/9'>Ruth 1:9</a>",
-      "comment": "Naomi expresses her duty and affection toward Ruth, wanting to secure her a husband and home. This mirrors the spiritual rest found in God's providence."
+      "comment": "Naomi expresses her duty and affection toward Ruth, wanting to secure her a husband and home. This mirrors the spiritual rest found in God's providence.",
+      "sectionHeader": "Naomi Instructs Ruth"
     },
     {
       "pk": 8003002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "So she went down to the threshing floor and did everything that her mother-in-law had instructed her.",
       "links": "<a href='/AIV/8/3/5'>Ruth 3:5</a>",
-      "comment": "Ruth’s actions display faithful obedience and trust, which is foundational for spiritual journey and relationship with God."
+      "comment": "Ruth’s actions display faithful obedience and trust, which is foundational for spiritual journey and relationship with God.",
+      "sectionHeader": "Ruth at the Threshing Floor"
     },
     {
       "pk": 8003007,
@@ -110,7 +112,8 @@
       "verse": 9,
       "text": "He said, 'Who are you?' And she answered, 'I am Ruth, your servant. Spread your cloak over your servant, for you are a redeemer.'",
       "links": "<a href='/AIV/8/2/10'>Ruth 2:10</a>; <a href='/AIV/26/16/8'>Ezek. 16:8</a>",
-      "comment": "Ruth asks Boaz to spread his cloak over her, symbolizing protection and marriage—both literal and spiritual meanings tied to God's covering (cf. Ezekiel 16:8)."
+      "comment": "Ruth asks Boaz to spread his cloak over her, symbolizing protection and marriage—both literal and spiritual meanings tied to God's covering (cf. Ezekiel 16:8).",
+      "sectionHeader": "Boaz Promises to Redeem Ruth"
     },
     {
       "pk": 8003010,
@@ -194,7 +197,8 @@
       "verse": 16,
       "text": "When Ruth came to her mother-in-law, she said, 'How did it go, my daughter?' Then Ruth told her all that the man had done for her.",
       "links": "<a href='/AIV/8/2/19'>Ruth 2:19</a>",
-      "comment": "Ruth's sharing reflects transparency and relationship, a model of Christian community and spiritual family."
+      "comment": "Ruth's sharing reflects transparency and relationship, a model of Christian community and spiritual family.",
+      "sectionHeader": "Ruth Returns to Naomi"
     },
     {
       "pk": 8003017,
@@ -221,5 +225,27 @@
       "comment": "Naomi counsels patient trust in Boaz—trust that God’s providence is at work, and His chosen instruments are faithful. This patience is echoed in Psalm 37:7 and points to hope fulfilled in the story’s conclusion."
     }
   ],
-  "translatedAt": "2025-12-24T02:44:32.743Z"
+  "translatedAt": "2025-12-24T02:44:32.743Z",
+  "sections": [
+    {
+      "title": "Naomi Instructs Ruth",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Ruth at the Threshing Floor",
+      "startVerse": 6,
+      "endVerse": 8
+    },
+    {
+      "title": "Boaz Promises to Redeem Ruth",
+      "startVerse": 9,
+      "endVerse": 15
+    },
+    {
+      "title": "Ruth Returns to Naomi",
+      "startVerse": 16,
+      "endVerse": 18
+    }
+  ]
 }

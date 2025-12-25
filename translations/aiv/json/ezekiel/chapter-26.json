@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In the eleventh year, on the first day of the month, the word of the LORD came to me:",
       "links": "<a href='/AIV/26/24/1'>Ezek. 24:1</a>; <a href='/AIV/24/39/1'>Jer. 39:1</a>",
-      "comment": "Ezekiel frequently dates his prophecies, grounding them in history. This detail underscores the reliability and authority of prophetic revelation from God."
+      "comment": "Ezekiel frequently dates his prophecies, grounding them in history. This detail underscores the reliability and authority of prophetic revelation from God.",
+      "sectionHeader": "Oracle Against Tyre"
     },
     {
       "pk": 33026002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "This is what the Lord GOD says to Tyre: ‘Will not the coastlands quake at the sound of your fall, when the wounded groan, when slaughter takes place in your midst?’",
       "links": "<a href='/AIV/23/23/1-18'>Isa. 23:1-18</a>",
-      "comment": "Tyre’s downfall impacts surrounding peoples, reminding us that sin and judgment have a ripple effect—another call to holiness for the entire community."
+      "comment": "Tyre’s downfall impacts surrounding peoples, reminding us that sin and judgment have a ripple effect—another call to holiness for the entire community.",
+      "sectionHeader": "Lament Over the Fall of Tyre"
     },
     {
       "pk": 33026016,
@@ -257,5 +259,17 @@
       "comment": "Tyre’s fate ends with complete disappearance, underscoring the eternal consequences of persistent sin. As God’s justice is revealed, so is the invitation to seek lasting mercy and salvation through faithful obedience."
     }
   ],
-  "translatedAt": "2025-12-24T09:12:39.779Z"
+  "translatedAt": "2025-12-24T09:12:39.779Z",
+  "sections": [
+    {
+      "title": "Oracle Against Tyre",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "Lament Over the Fall of Tyre",
+      "startVerse": 15,
+      "endVerse": 21
+    }
+  ]
 }

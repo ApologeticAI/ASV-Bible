@@ -3,7 +3,6 @@
   "bookName": "Esther",
   "bookAbbreviation": "Esth",
   "chapter": 4,
-  "sections": [],
   "verses": [
     {
       "pk": 19004001,
@@ -15,7 +14,8 @@
       "verse": 1,
       "text": "When Mordecai learned everything that had happened, he tore his clothes, put on sackcloth and ashes, and went out into the midst of the city, crying out with a loud and bitter voice.",
       "links": "<a href='/AIV/16/9/1'>Neh. 9:1</a>; <a href='/AIV/18/2/12'>Job 2:12</a>; <a href='/AIV/23/22/12'>Isa. 22:12</a>",
-      "comment": "Mourning through sackcloth and ashes is a biblical sign of repentance and distress (<a href='/AIV/23/22/12'>Isaiah 22:12</a>). Here, Mordecai responds to the edict threatening the Jews, foreshadowing the importance of communal intercession and penance as a spiritual act."
+      "comment": "Mourning through sackcloth and ashes is a biblical sign of repentance and distress (<a href='/AIV/23/22/12'>Isaiah 22:12</a>). Here, Mordecai responds to the edict threatening the Jews, foreshadowing the importance of communal intercession and penance as a spiritual act.",
+      "sectionHeader": "Mourning of Mordecai and the Jews"
     },
     {
       "pk": 19004002,
@@ -51,7 +51,8 @@
       "verse": 4,
       "text": "When Esther’s maids and eunuchs came and told her, the queen was deeply distressed. She sent clothing to Mordecai to replace his sackcloth, but he would not accept them.",
       "links": "<a href='/AIV/17/2/7'>Esth. 2:7</a>",
-      "comment": "Esther’s attempt to clothe Mordecai in regular garments shows her concern, but Mordecai’s refusal reinforces the proper time and place for mourning and fasting, highlighting the spiritual discipline of perseverance in prayer."
+      "comment": "Esther’s attempt to clothe Mordecai in regular garments shows her concern, but Mordecai’s refusal reinforces the proper time and place for mourning and fasting, highlighting the spiritual discipline of perseverance in prayer.",
+      "sectionHeader": "Esther Learns of the Plot"
     },
     {
       "pk": 19004005,
@@ -87,7 +88,8 @@
       "verse": 7,
       "text": "Mordecai told him all that had happened, and how Haman had promised to pay ten thousand talents of silver to the king’s treasuries for the destruction of the Jews.",
       "links": "<a href='/AIV/17/3/9'>Esth. 3:9</a>",
-      "comment": "The price on the Jewish people’s heads shows the severity of evil, and recalls the way unjust rulers abuse their wealth, which is also denounced in the prophets (<a href='/AIV/23/10/1-2'>Isaiah 10:1-2</a>)."
+      "comment": "The price on the Jewish people’s heads shows the severity of evil, and recalls the way unjust rulers abuse their wealth, which is also denounced in the prophets (<a href='/AIV/23/10/1-2'>Isaiah 10:1-2</a>).",
+      "sectionHeader": "Mordecai Urges Esther to Intercede"
     },
     {
       "pk": 19004008,
@@ -183,7 +185,8 @@
       "verse": 15,
       "text": "Then Esther sent this reply to Mordecai:",
       "links": "",
-      "comment": "Esther’s response leads into action based on communal discernment, mirroring the way decisions in the community of faith are guided by mutual counsel."
+      "comment": "Esther’s response leads into action based on communal discernment, mirroring the way decisions in the community of faith are guided by mutual counsel.",
+      "sectionHeader": "Esther’s Decision and Request for Fasting"
     },
     {
       "pk": 19004016,
@@ -210,5 +213,27 @@
       "comment": "Mordecai’s obedience highlights the harmony that comes when leaders’ directions are followed by the faithful. This mutual submission under God’s guidance anticipates the unity of the people of God in faith and action."
     }
   ],
-  "translatedAt": "2025-12-24T05:09:33.316Z"
+  "translatedAt": "2025-12-24T05:09:33.316Z",
+  "sections": [
+    {
+      "title": "Mourning of Mordecai and the Jews",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "Esther Learns of the Plot",
+      "startVerse": 4,
+      "endVerse": 6
+    },
+    {
+      "title": "Mordecai Urges Esther to Intercede",
+      "startVerse": 7,
+      "endVerse": 14
+    },
+    {
+      "title": "Esther’s Decision and Request for Fasting",
+      "startVerse": 15,
+      "endVerse": 17
+    }
+  ]
 }

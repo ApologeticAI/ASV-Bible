@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "After five days, the high priest Ananias came down with some elders and a lawyer named Tertullus, and they brought their case against Paul before the governor.",
       "links": "<a href='/AIV/44/23/2'>Acts 23:2</a>; <a href='/AIV/44/23/30'>Acts 23:30</a>",
-      "comment": "Ananias and the Jewish leaders take formal legal action against Paul. The presence of a lawyer highlights the seriousness and formality of this accusation. The original word for lawyer (rhetorician) suggests a skilled orator."
+      "comment": "Ananias and the Jewish leaders take formal legal action against Paul. The presence of a lawyer highlights the seriousness and formality of this accusation. The original word for lawyer (rhetorician) suggests a skilled orator.",
+      "sectionHeader": "Paul Accused Before Felix"
     },
     {
       "pk": 51024002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "When the governor motioned for him to speak, Paul replied: 'Knowing that you have been a judge over this nation for many years, I cheerfully make my defense.'",
       "links": "<a href='/AIV/44/26/2'>Acts 26:2</a>",
-      "comment": "Paul follows protocol by acknowledging the judge. Unlike Tertullus, his praise is direct and restrained, demonstrating both humility and confidence in a just hearing."
+      "comment": "Paul follows protocol by acknowledging the judge. Unlike Tertullus, his praise is direct and restrained, demonstrating both humility and confidence in a just hearing.",
+      "sectionHeader": "Paul's Defense Before Felix"
     },
     {
       "pk": 51024011,
@@ -266,7 +268,8 @@
       "verse": 22,
       "text": "Then Felix, who was well informed about the Way, postponed the case, saying, 'When Lysias the commander comes down, I will decide your case.'",
       "links": "<a href='/AIV/44/23/26'>Acts 23:26</a>",
-      "comment": "Felix's awareness of the Way indicates the growing influence of followers of Jesus even among Roman authorities. Procedural delay allowed for further investigation."
+      "comment": "Felix's awareness of the Way indicates the growing influence of followers of Jesus even among Roman authorities. Procedural delay allowed for further investigation.",
+      "sectionHeader": "Paul Kept Under Guard"
     },
     {
       "pk": 51024023,
@@ -290,7 +293,8 @@
       "verse": 24,
       "text": "After some days Felix came with his wife Drusilla, who was Jewish, and he sent for Paul and listened to him speak about faith in Christ Jesus.",
       "links": "<a href='/AIV/44/18/8'>Acts 18:8</a>",
-      "comment": "Felix’s curiosity brought him to hear about faith in Christ. Drusilla’s presence shows the interest among both pagans and Jews for the Christian message, which is always centered on the person of Jesus as Messiah."
+      "comment": "Felix’s curiosity brought him to hear about faith in Christ. Drusilla’s presence shows the interest among both pagans and Jews for the Christian message, which is always centered on the person of Jesus as Messiah.",
+      "sectionHeader": "Paul’s Conversation with Felix and Drusilla"
     },
     {
       "pk": 51024025,
@@ -329,5 +333,27 @@
       "comment": "Paul’s long imprisonment is the result of political calculation. God’s providence still works through such events, preparing Paul for ministry in Rome and demonstrating that the church must endure hardship for the sake of Christ’s name (cf. 2 Timothy 2:8-10)."
     }
   ],
-  "translatedAt": "2025-12-24T11:32:56.915Z"
+  "translatedAt": "2025-12-24T11:32:56.915Z",
+  "sections": [
+    {
+      "title": "Paul Accused Before Felix",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "Paul's Defense Before Felix",
+      "startVerse": 10,
+      "endVerse": 21
+    },
+    {
+      "title": "Paul Kept Under Guard",
+      "startVerse": 22,
+      "endVerse": 23
+    },
+    {
+      "title": "Paul’s Conversation with Felix and Drusilla",
+      "startVerse": 24,
+      "endVerse": 27
+    }
+  ]
 }

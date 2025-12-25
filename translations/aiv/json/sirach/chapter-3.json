@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Children, listen to the instruction of your father, and act accordingly, that you may be kept safe.",
       "links": "<a href='/AIV/20/4/1'>Prov. 4:1</a>; <a href='/AIV/49/6/1-3'>Eph. 6:1-3</a>",
-      "comment": "This introduction echoes the wisdom tradition, emphasizing obedience to parental teaching as a sure path to safety, both spiritual and physical."
+      "comment": "This introduction echoes the wisdom tradition, emphasizing obedience to parental teaching as a sure path to safety, both spiritual and physical.",
+      "sectionHeader": "Duties Toward Parents"
     },
     {
       "pk": 28003002,
@@ -206,7 +207,8 @@
       "verse": 17,
       "text": "My child, perform your works with humility, and you will be loved by those whom God approves.",
       "links": "<a href='/AIV/19/25/9'>Ps. 25:9</a>; <a href='/AIV/40/18/4'>Matt. 18:4</a>",
-      "comment": "Humility is consistently praised as a key virtue, both by the wisdom books and in Christ’s own teaching."
+      "comment": "Humility is consistently praised as a key virtue, both by the wisdom books and in Christ’s own teaching.",
+      "sectionHeader": "Humility and Self-Control"
     },
     {
       "pk": 28003018,
@@ -350,7 +352,8 @@
       "verse": 29,
       "text": "Water quenches a flaming fire, and almsgiving atones for sins.",
       "links": "<a href='/AIV/27/4/27'>Dan. 4:27</a>; <a href='/AIV/45/12/13'>Rom. 12:13</a>",
-      "comment": "True generosity, especially to the poor, is pleasing to God and brings about spiritual benefit—see how this foreshadows the apostolic teaching."
+      "comment": "True generosity, especially to the poor, is pleasing to God and brings about spiritual benefit—see how this foreshadows the apostolic teaching.",
+      "sectionHeader": "Almsgiving and Recompense"
     },
     {
       "pk": 28003030,
@@ -377,5 +380,22 @@
       "comment": "Direct link to Jesus’ discourse on storing up treasure in heaven by charity towards the poor, teaching the virtue of mercy as central to the Christian life."
     }
   ],
-  "translatedAt": "2025-12-24T07:24:34.745Z"
+  "translatedAt": "2025-12-24T07:24:34.745Z",
+  "sections": [
+    {
+      "title": "Duties Toward Parents",
+      "startVerse": 1,
+      "endVerse": 16
+    },
+    {
+      "title": "Humility and Self-Control",
+      "startVerse": 17,
+      "endVerse": 28
+    },
+    {
+      "title": "Almsgiving and Recompense",
+      "startVerse": 29,
+      "endVerse": 31
+    }
+  ]
 }

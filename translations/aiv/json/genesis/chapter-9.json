@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then God blessed Noah and his sons and said to them, 'Be fruitful and multiply, and fill the earth.'",
       "links": "<a href='/AIV/1/1/28'>Gen. 1:28</a>; <a href='/AIV/1/8/17'>Gen. 8:17</a>",
-      "comment": "The blessing given to Noah closely echoes the original blessing given to Adam and Eve (Gen. 1:28). This establishes Noah as a new beginning for humanity after the flood, a significant moment in salvation history, showing God's continuing desire to work through a family for the restoration of humanity."
+      "comment": "The blessing given to Noah closely echoes the original blessing given to Adam and Eve (Gen. 1:28). This establishes Noah as a new beginning for humanity after the flood, a significant moment in salvation history, showing God's continuing desire to work through a family for the restoration of humanity.",
+      "sectionHeader": "God’s Covenant with Noah"
     },
     {
       "pk": 1009002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Then God spoke to Noah and to his sons with him, saying:",
       "links": "<a href='/AIV/1/6/18'>Gen. 6:18</a>",
-      "comment": "God now establishes the importance of family in the divine plan, with Noah's sons as joint recipients of the covenant."
+      "comment": "God now establishes the importance of family in the divine plan, with Noah's sons as joint recipients of the covenant.",
+      "sectionHeader": "The Sign of the Rainbow"
     },
     {
       "pk": 1009009,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "The sons of Noah who went out of the ark were Shem, Ham, and Japheth. Ham was the father of Canaan.",
       "links": "<a href='/AIV/1/5/32'>Gen. 5:32</a>",
-      "comment": "The genealogy that follows divides all humanity, setting the stage for the nations. Mention of Canaan hints at future narrative developments regarding the Promised Land."
+      "comment": "The genealogy that follows divides all humanity, setting the stage for the nations. Mention of Canaan hints at future narrative developments regarding the Promised Land.",
+      "sectionHeader": "Noah’s Sons and the Curse of Canaan"
     },
     {
       "pk": 1009019,
@@ -353,5 +356,22 @@
       "comment": "The phrase 'and he died' punctuates the genealogy, recalling the mortality brought about by sin, and underscoring the hope that one day death will be conquered (cf. 1 Cor. 15:22)."
     }
   ],
-  "translatedAt": "2025-12-24T00:14:52.368Z"
+  "translatedAt": "2025-12-24T00:14:52.368Z",
+  "sections": [
+    {
+      "title": "God’s Covenant with Noah",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "The Sign of the Rainbow",
+      "startVerse": 8,
+      "endVerse": 17
+    },
+    {
+      "title": "Noah’s Sons and the Curse of Canaan",
+      "startVerse": 18,
+      "endVerse": 29
+    }
+  ]
 }

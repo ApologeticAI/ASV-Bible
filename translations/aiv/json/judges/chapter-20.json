@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then all the children of Israel went out, and the congregation assembled as one man, from Dan to Beersheba, and from the land of Gilead, to the LORD at Mizpah.",
       "links": "<a href='/AIV/9/7/5'>1 Sam. 7:5</a>; <a href='/AIV/7/11/11'>Judg. 11:11</a>",
-      "comment": "The unity of Israel here, 'as one man,' shows sacred assembly in which all tribes are meant to act together before God, prefiguring later understanding of Church unity."
+      "comment": "The unity of Israel here, 'as one man,' shows sacred assembly in which all tribes are meant to act together before God, prefiguring later understanding of Church unity.",
+      "sectionHeader": "The Israelites Assemble Against Benjamin"
     },
     {
       "pk": 7020002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "Now the tribe of Benjamin heard that the people of Israel had gone up to Mizpah. And the people of Israel said, 'Tell us, how did this evil happen?'",
       "links": "<a href='/AIV/7/19/22-30'>Judg. 19:22-30</a>",
-      "comment": "Benjamin is addressed as a distinct tribe; the fact evil within Israel must be investigated by the assembly signifies communal responsibility for sin among God's people."
+      "comment": "Benjamin is addressed as a distinct tribe; the fact evil within Israel must be investigated by the assembly signifies communal responsibility for sin among God's people.",
+      "sectionHeader": "The Outrage at Gibeah Explained"
     },
     {
       "pk": 7020004,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "But the Benjaminites gathered together out of the cities to Gibeah, to go out to battle against the people of Israel.",
       "links": "<a href='/AIV/7/20/20'>Judg. 20:20</a>",
-      "comment": "Benjamin’s stubbornness leads to division and conflict; this warns against prideful defense of evil, rather than submitting to communal correction."
+      "comment": "Benjamin’s stubbornness leads to division and conflict; this warns against prideful defense of evil, rather than submitting to communal correction.",
+      "sectionHeader": "Civil War with Benjamin"
     },
     {
       "pk": 7020015,
@@ -218,7 +221,8 @@
       "verse": 18,
       "text": "The children of Israel arose and went up to Bethel and inquired of God, 'Who shall go up first to battle against the Benjaminites?' And the LORD said, 'Judah shall go up first.'",
       "links": "<a href='/AIV/7/1/1-2'>Judg. 1:1-2</a>",
-      "comment": "Judah is chosen, as in earlier passages, foreshadowing the messianic line and primacy among the tribes (Gen. 49:10; cf. Matt. 2:6)."
+      "comment": "Judah is chosen, as in earlier passages, foreshadowing the messianic line and primacy among the tribes (Gen. 49:10; cf. Matt. 2:6).",
+      "sectionHeader": "The First and Second Defeats of Israel"
     },
     {
       "pk": 7020019,
@@ -350,7 +354,8 @@
       "verse": 29,
       "text": "So Israel set men in ambush all around Gibeah.",
       "links": "<a href='/AIV/6/8/2'>Josh. 8:2</a>",
-      "comment": "Israel adopts a wise strategy; tactics and reason are not opposed to faith, but can be part of fulfilling God’s will."
+      "comment": "Israel adopts a wise strategy; tactics and reason are not opposed to faith, but can be part of fulfilling God’s will.",
+      "sectionHeader": "The Final Battle and Destruction of Benjamin"
     },
     {
       "pk": 7020030,
@@ -581,5 +586,32 @@
       "comment": "The utter destruction fulfills command for the removal of evil from the land—later interpreted spiritually as cutting off sin completely (cf. Matt. 5:29-30). Nevertheless, the earlier preservation of a remnant maintains the hope for restoration."
     }
   ],
-  "translatedAt": "2025-12-24T02:42:50.625Z"
+  "translatedAt": "2025-12-24T02:42:50.625Z",
+  "sections": [
+    {
+      "title": "The Israelites Assemble Against Benjamin",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "The Outrage at Gibeah Explained",
+      "startVerse": 3,
+      "endVerse": 13
+    },
+    {
+      "title": "Civil War with Benjamin",
+      "startVerse": 14,
+      "endVerse": 17
+    },
+    {
+      "title": "The First and Second Defeats of Israel",
+      "startVerse": 18,
+      "endVerse": 28
+    },
+    {
+      "title": "The Final Battle and Destruction of Benjamin",
+      "startVerse": 29,
+      "endVerse": 48
+    }
+  ]
 }

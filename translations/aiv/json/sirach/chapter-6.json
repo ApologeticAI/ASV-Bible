@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Do not let your tongue bring you to ruin, and do not become an enemy through what you say.",
       "links": "<a href='/AIV/20/18/21'>Prov. 18:21</a>; <a href='/AIV/59/3/6'>Jas. 3:6</a>",
-      "comment": "Speech has the power to build or destroy relationships. It anticipates New Testament teaching on the tongue's power, linking wisdom tradition in both Testaments."
+      "comment": "Speech has the power to build or destroy relationships. It anticipates New Testament teaching on the tongue's power, linking wisdom tradition in both Testaments.",
+      "sectionHeader": "Guarding Speech and Avoiding Pride"
     },
     {
       "pk": 28006002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "A gentle word brings many friends, and fair speaking is a sign of good dealings.",
       "links": "<a href='/AIV/20/15/1'>Prov. 15:1</a>; <a href='/AIV/58/13/1'>Heb. 13:1</a>",
-      "comment": "Harmony in relationships flows from gentle speech, anticipating Jesus' teaching about peacemakers and love for neighbor."
+      "comment": "Harmony in relationships flows from gentle speech, anticipating Jesus' teaching about peacemakers and love for neighbor.",
+      "sectionHeader": "True and False Friendship"
     },
     {
       "pk": 28006006,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "My son, from your youth up, seek wisdom, and in old age you will yet find understanding.",
       "links": "<a href='/AIV/20/2/1-6'>Prov. 2:1-6</a>",
-      "comment": "Early pursuit of wisdom leads to lifelong blessings. Echoes Solomon's instruction and anticipates spiritual growth into maturity."
+      "comment": "Early pursuit of wisdom leads to lifelong blessings. Echoes Solomon's instruction and anticipates spiritual growth into maturity.",
+      "sectionHeader": "The Pursuit of Wisdom"
     },
     {
       "pk": 28006019,
@@ -449,5 +452,22 @@
       "comment": "Contemplative meditation of God's Law brings deep understanding—echoes the practice of prayer and meditation leading to wisdom and intimacy with God, as modeled by Christ."
     }
   ],
-  "translatedAt": "2025-12-24T07:25:55.934Z"
+  "translatedAt": "2025-12-24T07:25:55.934Z",
+  "sections": [
+    {
+      "title": "Guarding Speech and Avoiding Pride",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "True and False Friendship",
+      "startVerse": 5,
+      "endVerse": 17
+    },
+    {
+      "title": "The Pursuit of Wisdom",
+      "startVerse": 18,
+      "endVerse": 37
+    }
+  ]
 }

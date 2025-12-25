@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Give thanks to the LORD, for he is good, for his steadfast love endures forever.",
       "links": "<a href='/AIV/19/106/1'>Ps. 106:1</a>; <a href='/AIV/19/118/1'>Ps. 118:1</a>",
-      "comment": "This opening call sets the tone with an emphasis on God's enduring covenant love (Hebrew: 'chesed'). The repetition in this psalm forms a litany or communal prayer, reminiscent of liturgical traditions."
+      "comment": "This opening call sets the tone with an emphasis on God's enduring covenant love (Hebrew: 'chesed'). The repetition in this psalm forms a litany or communal prayer, reminiscent of liturgical traditions.",
+      "sectionHeader": "Hymn of Thanksgiving to the Lord"
     },
     {
       "pk": 23136002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "To him who alone does great wonders, for his steadfast love endures forever.",
       "links": "<a href='/AIV/02/15/11'>Ex. 15:11</a>; <a href='/AIV/19/72/18'>Ps. 72:18</a>",
-      "comment": "This verse stresses God's exclusive power to perform miracles, a trait ascribed to Jesus in the Gospels, reinforcing his divine nature."
+      "comment": "This verse stresses God's exclusive power to perform miracles, a trait ascribed to Jesus in the Gospels, reinforcing his divine nature.",
+      "sectionHeader": "The Wonders of Creation"
     },
     {
       "pk": 23136005,
@@ -122,7 +124,8 @@
       "verse": 10,
       "text": "To him who struck down the firstborn of Egypt, for his steadfast love endures forever.",
       "links": "<a href='/AIV/02/12/29-30'>Ex. 12:29-30</a>; <a href='/AIV/19/78/51'>Ps. 78:51</a>",
-      "comment": "This recalls the climax of the Exodus. The Passover event is a type pointing forward to the sacrifice of Christ, our Passover Lamb (1 Cor. 5:7)."
+      "comment": "This recalls the climax of the Exodus. The Passover event is a type pointing forward to the sacrifice of Christ, our Passover Lamb (1 Cor. 5:7).",
+      "sectionHeader": "The Deliverance from Egypt"
     },
     {
       "pk": 23136011,
@@ -194,7 +197,8 @@
       "verse": 16,
       "text": "To him who led his people through the wilderness, for his steadfast love endures forever.",
       "links": "<a href='/AIV/03/23/43'>Lev. 23:43</a>; <a href='/AIV/19/78/14'>Ps. 78:14</a>",
-      "comment": "God’s presence and guidance in the wilderness is seen as an enduring model for the spiritual journey of believers."
+      "comment": "God’s presence and guidance in the wilderness is seen as an enduring model for the spiritual journey of believers.",
+      "sectionHeader": "Journey and Victories in the Wilderness"
     },
     {
       "pk": 23136017,
@@ -278,7 +282,8 @@
       "verse": 23,
       "text": "It is he who remembered us in our low estate, for his steadfast love endures forever;",
       "links": "<a href='/AIV/19/113/7-8'>Ps. 113:7-8</a>; <a href='/AIV/42/1/52-54'>Luke 1:52-54</a>",
-      "comment": "God’s remembrance of the humble finds a parallel in Mary’s Magnificat (Luke 1:54), showing God’s faithfulness to the lowly."
+      "comment": "God’s remembrance of the humble finds a parallel in Mary’s Magnificat (Luke 1:54), showing God’s faithfulness to the lowly.",
+      "sectionHeader": "God’s Faithful Provision"
     },
     {
       "pk": 23136024,
@@ -317,5 +322,32 @@
       "comment": "The title 'God of heaven' underlines God’s supreme dominion. The psalm’s structure, echoing solemn liturgy, reflects the ongoing call for thanksgiving and communal worship. The refrain’s repetition points to the Church’s unceasing praise."
     }
   ],
-  "translatedAt": "2025-12-24T06:46:00.475Z"
+  "translatedAt": "2025-12-24T06:46:00.475Z",
+  "sections": [
+    {
+      "title": "Hymn of Thanksgiving to the Lord",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "The Wonders of Creation",
+      "startVerse": 4,
+      "endVerse": 9
+    },
+    {
+      "title": "The Deliverance from Egypt",
+      "startVerse": 10,
+      "endVerse": 15
+    },
+    {
+      "title": "Journey and Victories in the Wilderness",
+      "startVerse": 16,
+      "endVerse": 22
+    },
+    {
+      "title": "God’s Faithful Provision",
+      "startVerse": 23,
+      "endVerse": 26
+    }
+  ]
 }

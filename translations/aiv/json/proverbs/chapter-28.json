@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The wicked flee when no one pursues, but the righteous are bold like a lion.",
       "links": "<a href='/AIV/19/27/1'>Psalm 27:1</a>; <a href='/AIV/24/1/33'>Proverbs 1:33</a>",
-      "comment": "Boldness and confidence are marks of a righteous life. Spiritual strength comes from inner purity and trust in God's protection, foreshadowing those who are steadfast in faith through all trials. Compare the lion imagery to Christ as the Lion of Judah (<a href='/AIV/66/5/5'>Rev. 5:5</a>)."
+      "comment": "Boldness and confidence are marks of a righteous life. Spiritual strength comes from inner purity and trust in God's protection, foreshadowing those who are steadfast in faith through all trials. Compare the lion imagery to Christ as the Lion of Judah (<a href='/AIV/66/5/5'>Rev. 5:5</a>).",
+      "sectionHeader": "The Righteous and the Wicked Contrasted"
     },
     {
       "pk": 24028002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "Like a roaring lion or a charging bear is a wicked ruler over poor people.",
       "links": "<a href='/AIV/24/29/2'>Prov. 29:2</a>; <a href='/AIV/23/56/11'>Isa. 56:11</a>",
-      "comment": "Tyrannical leadership brings fear and suffering, a pattern seen throughout Israel’s history and in warnings to shepherds of God’s people."
+      "comment": "Tyrannical leadership brings fear and suffering, a pattern seen throughout Israel’s history and in warnings to shepherds of God’s people.",
+      "sectionHeader": "On Rulers and Justice"
     },
     {
       "pk": 24028016,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "Whoever walks in integrity will be saved, but whoever is crooked in his ways will suddenly fall.",
       "links": "<a href='/AIV/24/10/9'>Prov. 10:9</a>; <a href='/AIV/40/7/13'>Matt. 7:13</a>",
-      "comment": "Living righteously leads to salvation, a spiritual and literal promise. The path to holiness is narrow but secure, reminiscent of Jesus’ sermon about the narrow gate."
+      "comment": "Living righteously leads to salvation, a spiritual and literal promise. The path to holiness is narrow but secure, reminiscent of Jesus’ sermon about the narrow gate.",
+      "sectionHeader": "Blessings of Integrity and Diligence"
     },
     {
       "pk": 24028019,
@@ -341,5 +344,22 @@
       "comment": "Social and spiritual renewal follow the removal of wickedness. The increase of righteousness refers, both literally and spiritually, to times of revival often led by holy men and women."
     }
   ],
-  "translatedAt": "2025-12-24T07:05:09.558Z"
+  "translatedAt": "2025-12-24T07:05:09.558Z",
+  "sections": [
+    {
+      "title": "The Righteous and the Wicked Contrasted",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "On Rulers and Justice",
+      "startVerse": 15,
+      "endVerse": 17
+    },
+    {
+      "title": "Blessings of Integrity and Diligence",
+      "startVerse": 18,
+      "endVerse": 28
+    }
+  ]
 }

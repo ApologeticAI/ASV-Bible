@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "But now listen, Jacob my servant, Israel whom I have chosen:",
       "links": "<a href='/AIV/01/28/10-15'>Gen. 28:10-15</a>; <a href='/AIV/23/41/8'>Isa. 41:8</a>",
-      "comment": "God reminds His people of His special election, echoing promises first made to Jacob. In scripture, being chosen by God has lasting consequences in salvation history."
+      "comment": "God reminds His people of His special election, echoing promises first made to Jacob. In scripture, being chosen by God has lasting consequences in salvation history.",
+      "sectionHeader": "The LORD's Promise to Israel"
     },
     {
       "pk": 29044002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "Thus says the LORD, the King of Israel and his Redeemer, the LORD of hosts: 'I am the first and I am the last; apart from me there is no God.'",
       "links": "<a href='/AIV/66/1/17'>Rev. 1:17</a>; <a href='/AIV/66/22/13'>Rev. 22:13</a>",
-      "comment": "'First and last' is echoed in Christ's self-identification in Revelation, revealing a high Christology and divine kingship. God alone is the source of redemption."
+      "comment": "'First and last' is echoed in Christ's self-identification in Revelation, revealing a high Christology and divine kingship. God alone is the source of redemption.",
+      "sectionHeader": "The LORD Alone is God"
     },
     {
       "pk": 29044007,
@@ -110,7 +112,8 @@
       "verse": 9,
       "text": "Those who make carved idols are nothing, and their precious images do not profit. Their witnesses see nothing and know nothing, so they will be put to shame.",
       "links": "<a href='/AIV/19/115/4-8'>Ps. 115:4-8</a>; <a href='/AIV/23/40/18-20'>Isa. 40:18-20</a>",
-      "comment": "Idolatry is exposed as empty and shameful. The Church later continued teaching against idolatry, holding to right worship."
+      "comment": "Idolatry is exposed as empty and shameful. The Church later continued teaching against idolatry, holding to right worship.",
+      "sectionHeader": "The Folly of Idolatry"
     },
     {
       "pk": 29044010,
@@ -254,7 +257,8 @@
       "verse": 21,
       "text": "Remember these things, Jacob, and Israel, for you are my servant; I formed you, you are my servant; Israel, you will not be forgotten by me.",
       "links": "<a href='/AIV/23/49/15'>Isa. 49:15</a>",
-      "comment": "God’s forgiveness and steadfast love are foundational. This forms the basis of assurance in redemptive history and the concept of covenant succession."
+      "comment": "God’s forgiveness and steadfast love are foundational. This forms the basis of assurance in redemptive history and the concept of covenant succession.",
+      "sectionHeader": "The LORD Redeems Israel"
     },
     {
       "pk": 29044022,
@@ -290,7 +294,8 @@
       "verse": 24,
       "text": "Thus says the LORD, your Redeemer, who formed you from the womb: 'I am the LORD, maker of all things, who stretches out the heavens by myself and spreads out the earth—who was with me?'",
       "links": "<a href='/AIV/01/1/1'>Gen. 1:1</a>; <a href='/AIV/23/40/22'>Isa. 40:22</a>",
-      "comment": "God’s unique creative power is asserted. This verse supports the doctrine of creation ex nihilo and the mystery of divine initiative."
+      "comment": "God’s unique creative power is asserted. This verse supports the doctrine of creation ex nihilo and the mystery of divine initiative.",
+      "sectionHeader": "The LORD's Sovereignty Over Creation and History"
     },
     {
       "pk": 29044025,
@@ -341,5 +346,32 @@
       "comment": "Cyrus is called God’s shepherd, anointed for restoration. The mention of rebuilding the temple points to restoration, foreshadowing the renewal of worship and the importance of sacred space and liturgy in God’s plan."
     }
   ],
-  "translatedAt": "2025-12-24T08:11:45.393Z"
+  "translatedAt": "2025-12-24T08:11:45.393Z",
+  "sections": [
+    {
+      "title": "The LORD's Promise to Israel",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "The LORD Alone is God",
+      "startVerse": 6,
+      "endVerse": 8
+    },
+    {
+      "title": "The Folly of Idolatry",
+      "startVerse": 9,
+      "endVerse": 20
+    },
+    {
+      "title": "The LORD Redeems Israel",
+      "startVerse": 21,
+      "endVerse": 23
+    },
+    {
+      "title": "The LORD's Sovereignty Over Creation and History",
+      "startVerse": 24,
+      "endVerse": 28
+    }
+  ]
 }

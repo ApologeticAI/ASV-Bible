@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "And if you fully obey the voice of the LORD your God, being careful to do all His commandments that I command you today, the LORD your God will set you high above all the nations of the earth.",
       "links": "<a href='/AIV/19/81/13-16'>Ps. 81:13-16</a>; <a href='/AIV/26/36/27-28'>Ezek. 36:27-28</a>",
-      "comment": "The blessings depend on careful obedience, a theme repeated throughout Scripture. This verse prefigures the idea of a people set apart—note Paul speaks of the Church as a holy nation (1 Peter 2:9)."
+      "comment": "The blessings depend on careful obedience, a theme repeated throughout Scripture. This verse prefigures the idea of a people set apart—note Paul speaks of the Church as a holy nation (1 Peter 2:9).",
+      "sectionHeader": "Blessings for Obedience"
     },
     {
       "pk": 5028002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "But if you will not obey the voice of the LORD your God, or be careful to do all His commandments and His statutes that I command you today, then all these curses shall come upon you and overtake you.",
       "links": "<a href='/AIV/03/26/14-39'>Lev. 26:14-39</a>",
-      "comment": "A reversal of the promised blessings, showing sin’s grave consequences. Compare the parallel warnings in Leviticus, and consider the spiritual implications—alienation from God."
+      "comment": "A reversal of the promised blessings, showing sin’s grave consequences. Compare the parallel warnings in Leviticus, and consider the spiritual implications—alienation from God.",
+      "sectionHeader": "Curses for Disobedience"
     },
     {
       "pk": 5028016,
@@ -590,7 +592,8 @@
       "verse": 49,
       "text": "The LORD will bring a nation against you from far away, from the end of the earth, swift as the eagle flies, a nation whose language you do not understand,",
       "links": "<a href='/AIV/23/5/26-28'>Isa. 5:26-28</a>",
-      "comment": "Foretelling foreign conquest—most ultimately realized in the Assyrian and Babylonian invasions, emphasizing the consequences of covenant unfaithfulness."
+      "comment": "Foretelling foreign conquest—most ultimately realized in the Assyrian and Babylonian invasions, emphasizing the consequences of covenant unfaithfulness.",
+      "sectionHeader": "The Curse of Foreign Oppression and Siege"
     },
     {
       "pk": 5028050,
@@ -698,7 +701,8 @@
       "verse": 58,
       "text": "If you are not careful to obey all the words of this law that are written in this book, to fear this glorious and awesome Name, the LORD your God,",
       "links": "<a href='/AIV/19/99/3'>Ps. 99:3</a>",
-      "comment": "The fear of the Lord is foundational—a key theme, later summarized in Proverbs as the beginning of wisdom."
+      "comment": "The fear of the Lord is foundational—a key theme, later summarized in Proverbs as the beginning of wisdom.",
+      "sectionHeader": "Desolation, Dispersion, and Final Judgments"
     },
     {
       "pk": 5028059,
@@ -821,5 +825,27 @@
       "comment": "This is the ultimate reversal—returning to slavery in Egypt, prophesying utter loss. It points toward the longing for freedom and restoration, promised fully only in Christ and the fullness of life in the united body of the faithful."
     }
   ],
-  "translatedAt": "2025-12-24T02:12:41.212Z"
+  "translatedAt": "2025-12-24T02:12:41.212Z",
+  "sections": [
+    {
+      "title": "Blessings for Obedience",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "Curses for Disobedience",
+      "startVerse": 15,
+      "endVerse": 48
+    },
+    {
+      "title": "The Curse of Foreign Oppression and Siege",
+      "startVerse": 49,
+      "endVerse": 57
+    },
+    {
+      "title": "Desolation, Dispersion, and Final Judgments",
+      "startVerse": 58,
+      "endVerse": 68
+    }
+  ]
 }

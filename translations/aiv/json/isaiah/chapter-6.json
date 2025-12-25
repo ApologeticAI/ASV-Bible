@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In the year that King Uzziah died, I saw the Lord sitting on a high and exalted throne, and the hem of His robe filled the temple.",
       "links": "<a href='/AIV/11/8/10'>1 Kings 8:10-11</a>; <a href='/AIV/43/12/41'>John 12:41</a>",
-      "comment": "Isaiah's vision begins with God's majesty revealed in the temple. The glory filling the temple can be seen as prefiguring the fullness of God's dwelling among His people and foreshadowing Christ’s incarnation (see John 12:41, where John relates Isaiah’s vision directly to Jesus)."
+      "comment": "Isaiah's vision begins with God's majesty revealed in the temple. The glory filling the temple can be seen as prefiguring the fullness of God's dwelling among His people and foreshadowing Christ’s incarnation (see John 12:41, where John relates Isaiah’s vision directly to Jesus).",
+      "sectionHeader": "Isaiah’s Vision of the Lord"
     },
     {
       "pk": 29006002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Then I heard the voice of the Lord saying, 'Whom shall I send, and who will go for Us?' And I said, 'Here I am; send me.'",
       "links": "<a href='/AIV/02/3/10'>Ex. 3:10</a>; <a href='/AIV/47/5/20'>2 Cor. 5:20</a>",
-      "comment": "God’s question reveals a divine commission. Isaiah’s willing response models the calling of prophets and apostles, and even believers who answer God's invitation to service. The plural 'Us' hints at the mystery within God’s unity, anticipating fuller revelation in the New Testament."
+      "comment": "God’s question reveals a divine commission. Isaiah’s willing response models the calling of prophets and apostles, and even believers who answer God's invitation to service. The plural 'Us' hints at the mystery within God’s unity, anticipating fuller revelation in the New Testament.",
+      "sectionHeader": "The Call and Commission of Isaiah"
     },
     {
       "pk": 29006009,
@@ -161,5 +163,17 @@
       "comment": "Despite judgment, a holy remnant remains—the 'holy seed.' This stump imagery alludes to hope: from this remnant arises the messianic promise (see Isa. 11:1), ultimately fulfilled in Christ and the enduring family of believers united in worship and faith across generations."
     }
   ],
-  "translatedAt": "2025-12-24T07:53:41.622Z"
+  "translatedAt": "2025-12-24T07:53:41.622Z",
+  "sections": [
+    {
+      "title": "Isaiah’s Vision of the Lord",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "The Call and Commission of Isaiah",
+      "startVerse": 8,
+      "endVerse": 13
+    }
+  ]
 }

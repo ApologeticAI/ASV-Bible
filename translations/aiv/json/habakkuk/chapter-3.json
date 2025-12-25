@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "A prayer of Habakkuk the prophet, according to Shigionoth.",
       "links": "<a href='/AIV/19/7/1'>Ps. 7:1</a>",
-      "comment": "The word 'Shigionoth' here refers to a musical or poetic form, used in liturgical worship, reminding the reader of the importance of prayerful songs in communal worship (see also Psalm 7)."
+      "comment": "The word 'Shigionoth' here refers to a musical or poetic form, used in liturgical worship, reminding the reader of the importance of prayerful songs in communal worship (see also Psalm 7).",
+      "sectionHeader": "Habakkuk’s Prayer for Mercy"
     },
     {
       "pk": 42003002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "God came from Teman, and the Holy One from Mount Paran. Selah. His glory covered the heavens, and the earth was full of his praise.",
       "links": "<a href='/AIV/05/33/2'>Deut. 33:2</a>; <a href='/AIV/19/72/19'>Ps. 72:19</a>",
-      "comment": "This recalls God's appearance at Sinai, connecting the past salvation of Israel to future hope. The word Selah suggests a pause for contemplation, signifying the power of this theophany."
+      "comment": "This recalls God's appearance at Sinai, connecting the past salvation of Israel to future hope. The word Selah suggests a pause for contemplation, signifying the power of this theophany.",
+      "sectionHeader": "The Lord’s Majestic Coming"
     },
     {
       "pk": 42003004,
@@ -98,7 +100,8 @@
       "verse": 8,
       "text": "Was your wrath against the rivers, LORD? Was your anger against the rivers, or your fury against the sea, that you rode on your horses, on your chariots of salvation?",
       "links": "<a href='/AIV/02/14/21-28'>Ex. 14:21-28</a>; <a href='/AIV/06/3/16'>Josh. 3:16</a>",
-      "comment": "The poetic questions recall God’s miraculous deliverance of Israel, especially through water (Red Sea, Jordan). God’s victory imagery points to his role as divine warrior and savior."
+      "comment": "The poetic questions recall God’s miraculous deliverance of Israel, especially through water (Red Sea, Jordan). God’s victory imagery points to his role as divine warrior and savior.",
+      "sectionHeader": "God’s Victory over the Nations"
     },
     {
       "pk": 42003009,
@@ -194,7 +197,8 @@
       "verse": 16,
       "text": "I heard and my body trembled; my lips quivered at the sound; decay entered my bones, and I trembled where I stood. Yet I wait quietly for the day of distress to come upon the people who invade us.",
       "links": "<a href='/AIV/19/119/120'>Ps. 119:120</a>; <a href='/AIV/23/26/20'>Isa. 26:20</a>",
-      "comment": "Habakkuk’s physical fear demonstrates awe in the presence of God’s judgment, but also his choice to wait faithfully for God’s deliverance—a model for perseverance in hope."
+      "comment": "Habakkuk’s physical fear demonstrates awe in the presence of God’s judgment, but also his choice to wait faithfully for God’s deliverance—a model for perseverance in hope.",
+      "sectionHeader": "Habakkuk’s Trust Amid Suffering"
     },
     {
       "pk": 42003017,
@@ -233,5 +237,27 @@
       "comment": "Habakkuk closes in praise, relying on God’s strength rather than his own. The musical note at the end suggests this is a song for public worship, reflecting the ancient practice of liturgical music. This points to the power of communal worship in sustaining faith."
     }
   ],
-  "translatedAt": "2025-12-24T09:51:57.405Z"
+  "translatedAt": "2025-12-24T09:51:57.405Z",
+  "sections": [
+    {
+      "title": "Habakkuk’s Prayer for Mercy",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "The Lord’s Majestic Coming",
+      "startVerse": 3,
+      "endVerse": 7
+    },
+    {
+      "title": "God’s Victory over the Nations",
+      "startVerse": 8,
+      "endVerse": 15
+    },
+    {
+      "title": "Habakkuk’s Trust Amid Suffering",
+      "startVerse": 16,
+      "endVerse": 19
+    }
+  ]
 }

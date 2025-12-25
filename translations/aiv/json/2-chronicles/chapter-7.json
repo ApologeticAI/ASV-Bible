@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When Solomon finished praying, fire came down from heaven and consumed the burnt offering and the sacrifices, and the glory of the LORD filled the temple.",
       "links": "<a href='/AIV/3/9/24'>Lev. 9:24</a>; <a href='/AIV/11/18/38'>1 Kings 18:38</a>; <a href='/AIV/2/40/34'>Ex. 40:34-35</a>",
-      "comment": "The descent of fire from heaven is a sign of divine approval and presence, echoing other moments in Scripture where God manifests himself through fire (Lev. 9:24, 1 Kings 18:38). The glory filling the temple prefigures the indwelling of God's presence among his people, later fulfilled spiritually through Christ and the Church. Note the continuity between the sacrificial system and later New Testament themes of offering and sanctification."
+      "comment": "The descent of fire from heaven is a sign of divine approval and presence, echoing other moments in Scripture where God manifests himself through fire (Lev. 9:24, 1 Kings 18:38). The glory filling the temple prefigures the indwelling of God's presence among his people, later fulfilled spiritually through Christ and the Church. Note the continuity between the sacrificial system and later New Testament themes of offering and sanctification.",
+      "sectionHeader": "The Dedication of the Temple"
     },
     {
       "pk": 14007002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "So at that time Solomon kept the feast for seven days, and all Israel with him—a very great assembly, from Lebo-hamath to the Brook of Egypt.",
       "links": "<a href='/AIV/3/23/34'>Lev. 23:34-36</a>; <a href='/AIV/11/8/65'>1 Kings 8:65</a>",
-      "comment": "The feast mentioned here is the Feast of Tabernacles (Lev. 23:34), recalling the journey through the wilderness and God's provision. This typology prefigures both the journey of the Church and the annual cycle of Christian liturgical feasts."
+      "comment": "The feast mentioned here is the Feast of Tabernacles (Lev. 23:34), recalling the journey through the wilderness and God's provision. This typology prefigures both the journey of the Church and the annual cycle of Christian liturgical feasts.",
+      "sectionHeader": "Solomon’s Feast and Completion of the Temple"
     },
     {
       "pk": 14007009,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "Then the LORD appeared to Solomon at night and said to him, 'I have heard your prayer and have chosen this place for myself as a house of sacrifice.'",
       "links": "<a href='/AIV/11/9/2-3'>1 Kings 9:2-3</a>; <a href='/AIV/19/132/13'>Ps. 132:13-14</a>",
-      "comment": "God’s choice of the temple as a house of sacrifice establishes central worship, foreshadowing the establishment of enduring worship and the later concept of a spiritual house of God—fulfilled in Christ and the Church."
+      "comment": "God’s choice of the temple as a house of sacrifice establishes central worship, foreshadowing the establishment of enduring worship and the later concept of a spiritual house of God—fulfilled in Christ and the Church.",
+      "sectionHeader": "The LORD’s Covenant with Solomon"
     },
     {
       "pk": 14007013,
@@ -269,5 +272,22 @@
       "comment": "The explanation for judgment draws back to the Exodus, showing the centrality of God’s saving work and the call to remember. Failure to remain worshipful and obedient leads to separation—a theme culminating in Christ, who restores full communion by his saving work (cf. John 17:21)."
     }
   ],
-  "translatedAt": "2025-12-24T04:25:02.382Z"
+  "translatedAt": "2025-12-24T04:25:02.382Z",
+  "sections": [
+    {
+      "title": "The Dedication of the Temple",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Solomon’s Feast and Completion of the Temple",
+      "startVerse": 8,
+      "endVerse": 11
+    },
+    {
+      "title": "The LORD’s Covenant with Solomon",
+      "startVerse": 12,
+      "endVerse": 22
+    }
+  ]
 }

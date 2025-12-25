@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Praise the LORD! Praise the name of the LORD; give praise, you servants of the LORD,",
       "links": "<a href='/AIV/19/113/1'>Ps. 113:1</a>; <a href='/AIV/19/134/1'>Ps. 134:1</a>",
-      "comment": "This opening call to praise is directed especially to the servants or ministers in the temple. It echoes Psalm 113:1 and highlights worship led by appointed ministers, which hints at the importance of ordered worship and liturgy."
+      "comment": "This opening call to praise is directed especially to the servants or ministers in the temple. It echoes Psalm 113:1 and highlights worship led by appointed ministers, which hints at the importance of ordered worship and liturgy.",
+      "sectionHeader": "Hymn of Praise to the Lord"
     },
     {
       "pk": 23135002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "He struck down the firstborn of Egypt, both man and beast.",
       "links": "<a href='/AIV/02/12/29'>Ex. 12:29</a>; <a href='/AIV/19/78/51'>Ps. 78:51</a>",
-      "comment": "Recalling the Exodus, this verse highlights God’s saving actions through judgment. Exodus events remain foundational for understanding salvation in both old and new covenants."
+      "comment": "Recalling the Exodus, this verse highlights God’s saving actions through judgment. Exodus events remain foundational for understanding salvation in both old and new covenants.",
+      "sectionHeader": "The Lord’s Mighty Acts and Faithfulness to Israel"
     },
     {
       "pk": 23135009,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "The idols of the nations are silver and gold, made by human hands.",
       "links": "<a href='/AIV/19/115/4'>Ps. 115:4</a>; <a href='/AIV/23/44/9-20'>Isa. 44:9-20</a>",
-      "comment": "Idolatry is contrasted with living faith. The critique here affirms the importance of true devotion, and by extension, authentic sacramental worship as opposed to empty ritual."
+      "comment": "Idolatry is contrasted with living faith. The critique here affirms the importance of true devotion, and by extension, authentic sacramental worship as opposed to empty ritual.",
+      "sectionHeader": "The Vanity of Idols"
     },
     {
       "pk": 23135016,
@@ -230,7 +233,8 @@
       "verse": 19,
       "text": "O house of Israel, bless the LORD! O house of Aaron, bless the LORD!",
       "links": "<a href='/AIV/19/115/12'>Ps. 115:12</a>; <a href='/AIV/19/118/3'>Ps. 118:3</a>",
-      "comment": "The blessing is extended to the whole people and to the priestly house, signifying the role of ordained ministry in worship and blessing, foreshadowing the spiritual priesthood of believers."
+      "comment": "The blessing is extended to the whole people and to the priestly house, signifying the role of ordained ministry in worship and blessing, foreshadowing the spiritual priesthood of believers.",
+      "sectionHeader": "Call to Bless the Lord"
     },
     {
       "pk": 23135020,
@@ -257,5 +261,27 @@
       "comment": "Zion and Jerusalem point to the divine presence among his people, establishing a pattern for God’s dwelling in the midst of his gathered worshippers. This highlights the significance of communal worship and spiritual unity."
     }
   ],
-  "translatedAt": "2025-12-24T06:45:32.932Z"
+  "translatedAt": "2025-12-24T06:45:32.932Z",
+  "sections": [
+    {
+      "title": "Hymn of Praise to the Lord",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "The Lord’s Mighty Acts and Faithfulness to Israel",
+      "startVerse": 8,
+      "endVerse": 14
+    },
+    {
+      "title": "The Vanity of Idols",
+      "startVerse": 15,
+      "endVerse": 18
+    },
+    {
+      "title": "Call to Bless the Lord",
+      "startVerse": 19,
+      "endVerse": 21
+    }
+  ]
 }

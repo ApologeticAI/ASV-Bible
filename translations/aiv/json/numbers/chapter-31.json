@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The LORD spoke to Moses, saying,",
       "links": "<a href='/AIV/2/14/1'>Ex. 14:1</a>, <a href='/AIV/3/26/1'>Lev. 26:1</a>",
-      "comment": "The LORD continues the direct communication with Moses, affirming his prophetic role."
+      "comment": "The LORD continues the direct communication with Moses, affirming his prophetic role.",
+      "sectionHeader": "Vengeance on Midian"
     },
     {
       "pk": 4031002,
@@ -230,7 +231,8 @@
       "verse": 19,
       "text": "\"All of you who killed anyone or touched a dead body, stay outside the camp for seven days. Purify yourselves and your captives on the third day and on the seventh day.",
       "links": "<a href='/AIV/3/19/11-12'>Lev. 19:11-12</a>, <a href='/AIV/4/19/12'>Num. 19:12</a>",
-      "comment": "Ritual uncleanness required specific purification rites, reinforcing the liturgical cycle central to Israel’s relationship with God."
+      "comment": "Ritual uncleanness required specific purification rites, reinforcing the liturgical cycle central to Israel’s relationship with God.",
+      "sectionHeader": "Purification After Battle"
     },
     {
       "pk": 4031020,
@@ -302,7 +304,8 @@
       "verse": 25,
       "text": "The LORD spoke to Moses, saying,",
       "links": "<a href='/AIV/3/6/22'>Lev. 6:22</a>",
-      "comment": "The continued speaking of the LORD shows ongoing revelation and guidance through chosen leaders."
+      "comment": "The continued speaking of the LORD shows ongoing revelation and guidance through chosen leaders.",
+      "sectionHeader": "Division of the Spoils"
     },
     {
       "pk": 4031026,
@@ -578,7 +581,8 @@
       "verse": 48,
       "text": "Then the officers who were over the thousands of the army, the commanders of thousands and the commanders of hundreds, approached Moses;",
       "links": "<a href='/AIV/2/18/21'>Ex. 18:21</a>",
-      "comment": "Leaders from the warriors acknowledge Moses’ authority and present themselves with humility and accountability."
+      "comment": "Leaders from the warriors acknowledge Moses’ authority and present themselves with humility and accountability.",
+      "sectionHeader": "The Commanders' Offering"
     },
     {
       "pk": 4031049,
@@ -653,5 +657,27 @@
       "comment": "The memorial offering kept before the LORD in the tent shows the lasting nature of sacrifice and the importance of sacred remembrance within the community, resonating with the continual offering seen later in Scriptural tradition."
     }
   ],
-  "translatedAt": "2025-12-24T01:52:54.379Z"
+  "translatedAt": "2025-12-24T01:52:54.379Z",
+  "sections": [
+    {
+      "title": "Vengeance on Midian",
+      "startVerse": 1,
+      "endVerse": 18
+    },
+    {
+      "title": "Purification After Battle",
+      "startVerse": 19,
+      "endVerse": 24
+    },
+    {
+      "title": "Division of the Spoils",
+      "startVerse": 25,
+      "endVerse": 47
+    },
+    {
+      "title": "The Commanders' Offering",
+      "startVerse": 48,
+      "endVerse": 54
+    }
+  ]
 }

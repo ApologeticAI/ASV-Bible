@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The Lord spoke to Moses and Aaron, saying,",
       "links": "<a href='/AIV/3/1/1'>Lev. 1:1</a>;<a href='/AIV/2/40/34'>Ex. 40:34</a>",
-      "comment": "The Lord continues to give instructions directly to Moses and Aaron, reaffirming their leadership role and the divine origin of the commands."
+      "comment": "The Lord continues to give instructions directly to Moses and Aaron, reaffirming their leadership role and the divine origin of the commands.",
+      "sectionHeader": "Duties of the Kohathites"
     },
     {
       "pk": 4004002,
@@ -254,7 +255,8 @@
       "verse": 21,
       "text": "The Lord spoke to Moses, saying,",
       "links": "<a href='/AIV/4/4/1'>Num. 4:1</a>",
-      "comment": "Repetitions of God’s speech signify importance and certainty."
+      "comment": "Repetitions of God’s speech signify importance and certainty.",
+      "sectionHeader": "Duties of the Gershonites"
     },
     {
       "pk": 4004022,
@@ -350,7 +352,8 @@
       "verse": 29,
       "text": "As for the sons of Merari, you shall number them by their clans and by their fathers' houses.",
       "links": "<a href='/AIV/4/3/33'>Num. 3:33</a>",
-      "comment": "Merarites have their own distinct role, portraying the importance of different charisms within the believing community."
+      "comment": "Merarites have their own distinct role, portraying the importance of different charisms within the believing community.",
+      "sectionHeader": "Duties of the Merarites"
     },
     {
       "pk": 4004030,
@@ -410,7 +413,8 @@
       "verse": 34,
       "text": "Moses and Aaron and the chiefs of the congregation numbered the sons of the Kohathites, by their clans and by their fathers' houses,",
       "links": "<a href='/AIV/4/4/2'>Num. 4:2</a>",
-      "comment": "Moses and Aaron act on God’s instructions, displaying the relationship between leadership and obedience to God’s order."
+      "comment": "Moses and Aaron act on God’s instructions, displaying the relationship between leadership and obedience to God’s order.",
+      "sectionHeader": "Numbering of the Levites"
     },
     {
       "pk": 4004035,
@@ -593,5 +597,27 @@
       "comment": "Every role is divinely appointed and carefully recorded, affirming that all ministry, big or small, is God-ordained within the unity of God’s people. This anticipates New Testament teaching on the unity and diversity of spiritual gifts and the order of Christian worship (<a href='/AIV/46/12/4-28'>1 Cor. 12:4-28</a>)."
     }
   ],
-  "translatedAt": "2025-12-24T01:30:39.733Z"
+  "translatedAt": "2025-12-24T01:30:39.733Z",
+  "sections": [
+    {
+      "title": "Duties of the Kohathites",
+      "startVerse": 1,
+      "endVerse": 20
+    },
+    {
+      "title": "Duties of the Gershonites",
+      "startVerse": 21,
+      "endVerse": 28
+    },
+    {
+      "title": "Duties of the Merarites",
+      "startVerse": 29,
+      "endVerse": 33
+    },
+    {
+      "title": "Numbering of the Levites",
+      "startVerse": 34,
+      "endVerse": 49
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Bel bows down, Nebo stoops; their idols are carried by beasts and cattle. The loads you carry are heavy, a burden for the weary animal.",
       "links": "<a href='/AIV/24/50/2'>Jer. 50:2</a>; <a href='/AIV/09/5/2-5'>1 Sam. 5:2-5</a>",
-      "comment": "Bel and Nebo were prominent Babylonian gods. The image highlights the impotence of idols, contrasting the living God who needs no support. The futility of idol-worship is a theme that points forward to the need for true worship in spirit and truth (John 4:24), hinting at the fullness of worship established by Christ."
+      "comment": "Bel and Nebo were prominent Babylonian gods. The image highlights the impotence of idols, contrasting the living God who needs no support. The futility of idol-worship is a theme that points forward to the need for true worship in spirit and truth (John 4:24), hinting at the fullness of worship established by Christ.",
+      "sectionHeader": "The Downfall of Babylonian Idols"
     },
     {
       "pk": 29046002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "Listen to Me, O house of Jacob, all the remnant of the house of Israel, who have been carried by Me from birth, upheld from the womb.",
       "links": "<a href='/AIV/05/1/31'>Deut. 1:31</a>; <a href='/AIV/19/71/6'>Ps. 71:6</a>",
-      "comment": "God’s tender care from the womb foreshadows the idea of God’s sovereignty and providence in every stage of life. Such imagery anticipates later revelation of God’s intimate involvement with humanity, leading to the Incarnation (Luke 1:35)."
+      "comment": "God’s tender care from the womb foreshadows the idea of God’s sovereignty and providence in every stage of life. Such imagery anticipates later revelation of God’s intimate involvement with humanity, leading to the Incarnation (Luke 1:35).",
+      "sectionHeader": "The Lord’s Care for Israel"
     },
     {
       "pk": 29046004,
@@ -62,7 +64,8 @@
       "verse": 5,
       "text": "To whom will you compare Me and make Me equal, and liken Me, that we may be alike?",
       "links": "<a href='/AIV/23/40/18'>Isa. 40:18</a>; <a href='/AIV/19/89/6'>Ps. 89:6</a>",
-      "comment": "This verse echoes the transcendent uniqueness of God, foreshadowing the ultimate revelation in Christ, who is both fully God and fully man (John 1:18; Col. 1:15)."
+      "comment": "This verse echoes the transcendent uniqueness of God, foreshadowing the ultimate revelation in Christ, who is both fully God and fully man (John 1:18; Col. 1:15).",
+      "sectionHeader": "The Folly of Idolatry"
     },
     {
       "pk": 29046006,
@@ -98,7 +101,8 @@
       "verse": 8,
       "text": "Remember this, and be firm. Take it to heart, you transgressors.",
       "links": "<a href='/AIV/23/44/21'>Isa. 44:21</a>",
-      "comment": "Calling upon people to remember God's acts and be steadfast, this passage invites a deep interior conversion—a theme developed in the New Testament with repentance and faith leading toward deeper communion (Luke 15:17-18)."
+      "comment": "Calling upon people to remember God's acts and be steadfast, this passage invites a deep interior conversion—a theme developed in the New Testament with repentance and faith leading toward deeper communion (Luke 15:17-18).",
+      "sectionHeader": "God’s Unchanging Purpose and Promise of Salvation"
     },
     {
       "pk": 29046009,
@@ -161,5 +165,27 @@
       "comment": "God promises imminent salvation and righteousness, ultimately fulfilled in Jesus, who brings glory and salvation not only to Israel but to all nations (Luke 2:32). This foreshadows the universal scope of the Church and the ongoing reality of salvation offered through her."
     }
   ],
-  "translatedAt": "2025-12-24T08:12:29.085Z"
+  "translatedAt": "2025-12-24T08:12:29.085Z",
+  "sections": [
+    {
+      "title": "The Downfall of Babylonian Idols",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "The Lord’s Care for Israel",
+      "startVerse": 3,
+      "endVerse": 4
+    },
+    {
+      "title": "The Folly of Idolatry",
+      "startVerse": 5,
+      "endVerse": 7
+    },
+    {
+      "title": "God’s Unchanging Purpose and Promise of Salvation",
+      "startVerse": 8,
+      "endVerse": 13
+    }
+  ]
 }

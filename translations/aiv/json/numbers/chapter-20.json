@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In the first month, the entire congregation of the people of Israel came into the Wilderness of Zin, and the people stayed at Kadesh. Miriam died there and was buried.",
       "links": "<a href='/AIV/6/24/29-30'>Josh. 24:29-30</a>; <a href='/AIV/2/15/20'>Ex. 15:20</a>",
-      "comment": "Miriam's death marks the end of an era, as she was one of the key leaders of the Exodus. Her burial in the wilderness reminds us of the consequences of unbelief for that generation (see Heb. 3:16-19)."
+      "comment": "Miriam's death marks the end of an era, as she was one of the key leaders of the Exodus. Her burial in the wilderness reminds us of the consequences of unbelief for that generation (see Heb. 3:16-19).",
+      "sectionHeader": "Death of Miriam at Kadesh"
     },
     {
       "pk": 4020002,
@@ -26,7 +27,8 @@
       "verse": 2,
       "text": "Now there was no water for the congregation, so they gathered themselves together against Moses and Aaron.",
       "links": "<a href='/AIV/2/17/1'>Ex. 17:1</a>; <a href='/AIV/4/16/41'>Num. 16:41</a>",
-      "comment": "Once again, lack of water tests the faith of Israel in the wilderness, similar to Exodus 17. This sets the stage for a profound demonstration of God's providence."
+      "comment": "Once again, lack of water tests the faith of Israel in the wilderness, similar to Exodus 17. This sets the stage for a profound demonstration of God's providence.",
+      "sectionHeader": "Water from the Rock at Meribah"
     },
     {
       "pk": 4020003,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "Moses sent messengers from Kadesh to the king of Edom: 'This is what your brother Israel says: You know all the hardship that we have met.'",
       "links": "<a href='/AIV/4/20/21'>Num. 20:21</a>; <a href='/AIV/1/36/1'>Gen. 36:1</a>",
-      "comment": "'Brother Israel' references kinship between Israel and Edom (descendants of Jacob and Esau), underlining the familial ties despite hostilities."
+      "comment": "'Brother Israel' references kinship between Israel and Edom (descendants of Jacob and Esau), underlining the familial ties despite hostilities.",
+      "sectionHeader": "Edom Refuses Passage to Israel"
     },
     {
       "pk": 4020015,
@@ -266,7 +269,8 @@
       "verse": 22,
       "text": "They set out from Kadesh, and the people of Israel, the whole congregation, came to Mount Hor.",
       "links": "<a href='/AIV/4/33/37-38'>Num. 33:37-38</a>",
-      "comment": "Mount Hor becomes the setting for a major leadership transition in Israel's journey."
+      "comment": "Mount Hor becomes the setting for a major leadership transition in Israel's journey.",
+      "sectionHeader": "Death of Aaron on Mount Hor"
     },
     {
       "pk": 4020023,
@@ -353,5 +357,27 @@
       "comment": "The prescribed mourning period reflects reverence for those who serve God's people in a priestly role, paralleling later customs of honoring departed leaders and saints."
     }
   ],
-  "translatedAt": "2025-12-24T01:42:18.027Z"
+  "translatedAt": "2025-12-24T01:42:18.027Z",
+  "sections": [
+    {
+      "title": "Death of Miriam at Kadesh",
+      "startVerse": 1,
+      "endVerse": 1
+    },
+    {
+      "title": "Water from the Rock at Meribah",
+      "startVerse": 2,
+      "endVerse": 13
+    },
+    {
+      "title": "Edom Refuses Passage to Israel",
+      "startVerse": 14,
+      "endVerse": 21
+    },
+    {
+      "title": "Death of Aaron on Mount Hor",
+      "startVerse": 22,
+      "endVerse": 29
+    }
+  ]
 }

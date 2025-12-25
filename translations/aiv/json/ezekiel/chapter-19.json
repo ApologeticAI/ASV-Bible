@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "As for you, take up a lamentation for the princes of Israel,",
       "links": "<a href='/AIV/24/7/29'>Jer. 7:29</a>; <a href='/AIV/26/27/2'>Ezek. 27:2</a>",
-      "comment": "The Lord commands Ezekiel to compose a lament, a song of mourning, for Israel’s rulers. This expresses both judgment and compassion for the lost leaders. Such laments foreshadow the weeping over Jerusalem (see Luke 19:41) and reflect the seriousness with which God's people are called to pray for their leaders."
+      "comment": "The Lord commands Ezekiel to compose a lament, a song of mourning, for Israel’s rulers. This expresses both judgment and compassion for the lost leaders. Such laments foreshadow the weeping over Jerusalem (see Luke 19:41) and reflect the seriousness with which God's people are called to pray for their leaders.",
+      "sectionHeader": "Lament for the Princes of Israel"
     },
     {
       "pk": 33019002,
@@ -26,7 +27,8 @@
       "verse": 2,
       "text": "and say: What was your mother? A lioness! Among lions she lay down; in the midst of young lions she raised her cubs.",
       "links": "<a href='/AIV/01/49/9'>Gen. 49:9</a>; <a href='/AIV/04/23/24'>Num. 23:24</a>",
-      "comment": "The 'mother' is a metaphor for Israel (or the royal house of David), portrayed in strength and dignity. Lion imagery often signifies royalty in scripture (see Gen. 49:9), and the young lions are her sons, the kings."
+      "comment": "The 'mother' is a metaphor for Israel (or the royal house of David), portrayed in strength and dignity. Lion imagery often signifies royalty in scripture (see Gen. 49:9), and the young lions are her sons, the kings.",
+      "sectionHeader": "The Lioness and Her Cubs"
     },
     {
       "pk": 33019003,
@@ -122,7 +124,8 @@
       "verse": 10,
       "text": "Your mother was like a vine in your vineyard, planted by the waters; she was fruitful and full of branches because of abundant water.",
       "links": "<a href='/AIV/19/80/8-16'>Ps. 80:8–16</a>; <a href='/AIV/23/5/1-7'>Isa. 5:1–7</a>",
-      "comment": "The metaphor shifts from lioness to vine. Israel is described in language of fertility and blessing, consistent with the biblical image of God's people as a fruitful vine (Ps. 80, Isa. 5). Water symbolizes grace and God’s sustaining presence."
+      "comment": "The metaphor shifts from lioness to vine. Israel is described in language of fertility and blessing, consistent with the biblical image of God's people as a fruitful vine (Ps. 80, Isa. 5). Water symbolizes grace and God’s sustaining presence.",
+      "sectionHeader": "The Vine Plucked and Withered"
     },
     {
       "pk": 33019011,
@@ -173,5 +176,22 @@
       "comment": "The end of the kingly line is mourned; 'no scepter for ruling' anticipates the need for a new Shepherd-King. This lament implies longing for the promised everlasting covenant, eventually fulfilled in Jesus, the Messiah, who reigns eternally (see Luke 1:32-33)."
     }
   ],
-  "translatedAt": "2025-12-24T09:08:04.609Z"
+  "translatedAt": "2025-12-24T09:08:04.609Z",
+  "sections": [
+    {
+      "title": "Lament for the Princes of Israel",
+      "startVerse": 1,
+      "endVerse": 1
+    },
+    {
+      "title": "The Lioness and Her Cubs",
+      "startVerse": 2,
+      "endVerse": 9
+    },
+    {
+      "title": "The Vine Plucked and Withered",
+      "startVerse": 10,
+      "endVerse": 14
+    }
+  ]
 }

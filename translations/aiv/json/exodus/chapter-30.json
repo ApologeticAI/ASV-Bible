@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "You are to make an altar on which to burn incense; make it of acacia wood.",
       "links": "<a href='/AIV/2/37/25'>Exod. 37:25</a>; <a href='/AIV/2/40/5'>Exod. 40:5</a>",
-      "comment": "The altar of incense holds an important role in Israel’s worship, signifying intercessory prayer (cf. Ps. 141:2; Rev. 5:8)."
+      "comment": "The altar of incense holds an important role in Israel’s worship, signifying intercessory prayer (cf. Ps. 141:2; Rev. 5:8).",
+      "sectionHeader": "The Altar of Incense"
     },
     {
       "pk": 2030002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "The LORD spoke to Moses, saying:",
       "links": "",
-      "comment": "This marks the beginning of a new section of divine instruction."
+      "comment": "This marks the beginning of a new section of divine instruction.",
+      "sectionHeader": "The Atonement Money"
     },
     {
       "pk": 2030012,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "The LORD spoke to Moses, saying:",
       "links": "",
-      "comment": "Another set of instructions from God begins here."
+      "comment": "Another set of instructions from God begins here.",
+      "sectionHeader": "The Bronze Laver"
     },
     {
       "pk": 2030018,
@@ -266,7 +269,8 @@
       "verse": 22,
       "text": "The LORD spoke to Moses:",
       "links": "",
-      "comment": "A new instruction follows, continuing the theme of consecration."
+      "comment": "A new instruction follows, continuing the theme of consecration.",
+      "sectionHeader": "The Anointing Oil"
     },
     {
       "pk": 2030023,
@@ -410,7 +414,8 @@
       "verse": 34,
       "text": "The LORD said to Moses: Take fragrant spices—stacte, onycha, and galbanum—along with pure frankincense, all in equal amounts,",
       "links": "",
-      "comment": "Incense ingredients are specified as a unique recipe for worship pleasing to God."
+      "comment": "Incense ingredients are specified as a unique recipe for worship pleasing to God.",
+      "sectionHeader": "The Sacred Incense"
     },
     {
       "pk": 2030035,
@@ -461,5 +466,32 @@
       "comment": "Treating holy things as merely ordinary brings judgment. The biblical pattern is reverence and awe for God’s presence and gifts."
     }
   ],
-  "translatedAt": "2025-12-24T01:03:28.453Z"
+  "translatedAt": "2025-12-24T01:03:28.453Z",
+  "sections": [
+    {
+      "title": "The Altar of Incense",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "The Atonement Money",
+      "startVerse": 11,
+      "endVerse": 16
+    },
+    {
+      "title": "The Bronze Laver",
+      "startVerse": 17,
+      "endVerse": 21
+    },
+    {
+      "title": "The Anointing Oil",
+      "startVerse": 22,
+      "endVerse": 33
+    },
+    {
+      "title": "The Sacred Incense",
+      "startVerse": 34,
+      "endVerse": 38
+    }
+  ]
 }

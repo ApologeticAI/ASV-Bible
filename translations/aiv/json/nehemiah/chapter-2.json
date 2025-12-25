@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In the month of Nisan, in the twentieth year of King Artaxerxes, when wine was set before him, I took the wine and gave it to the king. Now I had never been sad in his presence before.",
       "links": "<a href='/AIV/17/3/7'>Esth. 3:7</a>",
-      "comment": "Marks a distinct time. The month of Nisan aligns with the start of Passover (Ex. 12:2), hinting at redemption themes."
+      "comment": "Marks a distinct time. The month of Nisan aligns with the start of Passover (Ex. 12:2), hinting at redemption themes.",
+      "sectionHeader": "Nehemiah Before King Artaxerxes"
     },
     {
       "pk": 16002002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "So I arrived in Jerusalem, and after being there three days,",
       "links": "<a href='/AIV/19/122/1-2'>Ps. 122:1-2</a>",
-      "comment": "‘Three days’ often signifies completion or readiness in scripture (Gen. 22:4; Hos. 6:2; Matt. 12:40), prefiguring resurrection motifs."
+      "comment": "‘Three days’ often signifies completion or readiness in scripture (Gen. 22:4; Hos. 6:2; Matt. 12:40), prefiguring resurrection motifs.",
+      "sectionHeader": "Nehemiah Inspects Jerusalem's Walls"
     },
     {
       "pk": 16002012,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "Then I said to them, 'You see the trouble we are in—how Jerusalem lies in ruins and its gates are burned. Come, let us rebuild the wall of Jerusalem, that we may no longer be a disgrace.'",
       "links": "<a href='/AIV/19/51/18'>Ps. 51:18</a>; <a href='/AIV/58/13/13'>Heb. 13:13</a>",
-      "comment": "Corporate responsibility and action for restoration reflect God’s call to community. Spiritual renewal is a communal endeavor."
+      "comment": "Corporate responsibility and action for restoration reflect God’s call to community. Spiritual renewal is a communal endeavor.",
+      "sectionHeader": "Nehemiah Calls the People to Rebuild"
     },
     {
       "pk": 16002018,
@@ -245,5 +248,22 @@
       "comment": "Assurance comes from belonging to God’s people, having a share in God’s city. Only those joined to His covenant participate in the fullness of restoration."
     }
   ],
-  "translatedAt": "2025-12-24T04:46:27.290Z"
+  "translatedAt": "2025-12-24T04:46:27.290Z",
+  "sections": [
+    {
+      "title": "Nehemiah Before King Artaxerxes",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "Nehemiah Inspects Jerusalem's Walls",
+      "startVerse": 11,
+      "endVerse": 16
+    },
+    {
+      "title": "Nehemiah Calls the People to Rebuild",
+      "startVerse": 17,
+      "endVerse": 20
+    }
+  ]
 }

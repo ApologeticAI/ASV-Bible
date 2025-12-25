@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In the first year of Belshazzar king of Babylon, Daniel saw a dream and visions in his mind as he lay on his bed. Then he wrote down the dream and told the main points.",
       "links": "<a href='/AIV/27/2/28'>Dan. 2:28</a>; <a href='/AIV/27/4/5'>Dan. 4:5</a>",
-      "comment": "Daniel is given revelation through dreams, linking to earlier visions. This mode of prophecy is echoed throughout Daniel (Dan. 2:28)."
+      "comment": "Daniel is given revelation through dreams, linking to earlier visions. This mode of prophecy is echoed throughout Daniel (Dan. 2:28).",
+      "sectionHeader": "Daniel's Vision of the Four Beasts"
     },
     {
       "pk": 34007002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "I watched until thrones were set in place, and the Ancient of Days took His seat. His clothing was white as snow, and the hair of His head like pure wool. His throne was fiery flames, its wheels a burning fire.",
       "links": "<a href='/AIV/19/104/2'>Ps. 104:2</a>; <a href='/AIV/66/1/14'>Rev. 1:14</a>",
-      "comment": "God as the Ancient of Days shows His eternal kingship. The fiery throne hints at divine judgment. Compare Christ's description in Revelation (Rev. 1:14)."
+      "comment": "God as the Ancient of Days shows His eternal kingship. The fiery throne hints at divine judgment. Compare Christ's description in Revelation (Rev. 1:14).",
+      "sectionHeader": "The Judgment of the Ancient of Days and the Son of Man"
     },
     {
       "pk": 34007010,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "As for me, Daniel, my spirit was deeply troubled within me, and the visions in my mind alarmed me.",
       "links": "<a href='/AIV/27/4/19'>Dan. 4:19</a>",
-      "comment": "Encountering divine revelation produces fear and awe, highlighting both the otherness and the closeness of God."
+      "comment": "Encountering divine revelation produces fear and awe, highlighting both the otherness and the closeness of God.",
+      "sectionHeader": "The Interpretation of the Vision"
     },
     {
       "pk": 34007016,
@@ -341,5 +344,22 @@
       "comment": "Often, God’s revelations are pondered in the heart awaiting fuller understanding—compare Luke 2:19, where Mary treasures God’s word. Faith embraces mysteries even before full explanation."
     }
   ],
-  "translatedAt": "2025-12-24T09:31:51.791Z"
+  "translatedAt": "2025-12-24T09:31:51.791Z",
+  "sections": [
+    {
+      "title": "Daniel's Vision of the Four Beasts",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "The Judgment of the Ancient of Days and the Son of Man",
+      "startVerse": 9,
+      "endVerse": 14
+    },
+    {
+      "title": "The Interpretation of the Vision",
+      "startVerse": 15,
+      "endVerse": 28
+    }
+  ]
 }

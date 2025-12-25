@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Praise the Lord! Give thanks to the Lord, for He is good; His faithful love endures forever.",
       "links": "<a href='/AIV/19/107/1'>Ps. 107:1</a>; <a href='/AIV/13/16/34'>1 Chr. 16:34</a>",
-      "comment": "The opening verse calls believers to worship and thankfulness, highlighting God's enduring mercy. See how this refrain is echoed throughout the Psalms, inviting ongoing worship as a response to God's steadfast love."
+      "comment": "The opening verse calls believers to worship and thankfulness, highlighting God's enduring mercy. See how this refrain is echoed throughout the Psalms, inviting ongoing worship as a response to God's steadfast love.",
+      "sectionHeader": "A Call to Praise and Confession of Sin"
     },
     {
       "pk": 23106002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "We have sinned, just as our ancestors did; we have done wrong and acted wickedly.",
       "links": "<a href='/AIV/19/78/8'>Ps. 78:8</a>; <a href='/AIV/27/9/5'>Dan. 9:5</a>",
-      "comment": "Confession of communal sin ties together generations, teaching humility and the need for continual repentance—a foundation for personal and corporate renewal."
+      "comment": "Confession of communal sin ties together generations, teaching humility and the need for continual repentance—a foundation for personal and corporate renewal.",
+      "sectionHeader": "The Rebellion of Israel in Egypt and the Wilderness"
     },
     {
       "pk": 23106007,
@@ -410,7 +412,8 @@
       "verse": 34,
       "text": "They did not destroy the peoples as the Lord commanded them,",
       "links": "<a href='/AIV/7/1/27-28'>Judg. 1:27-28</a>; <a href='/AIV/5/7/2'>Deut. 7:2</a>",
-      "comment": "Incompletely obeying divine command led to negative spiritual influences, a warning about partial obedience."
+      "comment": "Incompletely obeying divine command led to negative spiritual influences, a warning about partial obedience.",
+      "sectionHeader": "Israel’s Apostasy in Canaan"
     },
     {
       "pk": 23106035,
@@ -530,7 +533,8 @@
       "verse": 44,
       "text": "Yet He regarded their distress when He heard their cry;",
       "links": "<a href='/AIV/19/107/13'>Ps. 107:13</a>; <a href='/AIV/2/2/24'>Ex. 2:24</a>",
-      "comment": "God’s compassion is highlighted, showing that true repentance always finds a ready ear, echoing the parable of the prodigal son (<a href='/AIV/42/15/20'>Luke 15:20</a>)."
+      "comment": "God’s compassion is highlighted, showing that true repentance always finds a ready ear, echoing the parable of the prodigal son (<a href='/AIV/42/15/20'>Luke 15:20</a>).",
+      "sectionHeader": "God’s Mercy and a Cry for Salvation"
     },
     {
       "pk": 23106045,
@@ -578,8 +582,36 @@
       "verse": 48,
       "text": "Blessed be the Lord, the God of Israel, from everlasting to everlasting! And let all the people say, 'Amen!' Praise the Lord!",
       "links": "<a href='/AIV/19/41/13'>Ps. 41:13</a>; <a href='/AIV/19/72/18-19'>Ps. 72:18-19</a>",
-      "comment": "The final doxology frames worship as communal and eternal, a pattern that becomes central in Christian liturgy. 'Amen' affirms the people's unity in praise."
+      "comment": "The final doxology frames worship as communal and eternal, a pattern that becomes central in Christian liturgy. 'Amen' affirms the people's unity in praise.",
+      "sectionHeader": "Doxology"
     }
   ],
-  "translatedAt": "2025-12-24T06:37:38.918Z"
+  "translatedAt": "2025-12-24T06:37:38.918Z",
+  "sections": [
+    {
+      "title": "A Call to Praise and Confession of Sin",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "The Rebellion of Israel in Egypt and the Wilderness",
+      "startVerse": 6,
+      "endVerse": 33
+    },
+    {
+      "title": "Israel’s Apostasy in Canaan",
+      "startVerse": 34,
+      "endVerse": 43
+    },
+    {
+      "title": "God’s Mercy and a Cry for Salvation",
+      "startVerse": 44,
+      "endVerse": 47
+    },
+    {
+      "title": "Doxology",
+      "startVerse": 48,
+      "endVerse": 48
+    }
+  ]
 }

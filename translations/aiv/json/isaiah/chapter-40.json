@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "\"Comfort, comfort my people,\" says your God.",
       "links": "<a href='/AIV/23/12/1'>Isa. 12:1</a>; <a href='/AIV/24/31/13'>Jer. 31:13</a>",
-      "comment": "God speaks words of comfort after declarations of judgment. The repetition emphasizes His compassion and mercy. This parallels God's father-like comfort throughout Scripture (see 2 Cor. 1:3-4)."
+      "comment": "God speaks words of comfort after declarations of judgment. The repetition emphasizes His compassion and mercy. This parallels God's father-like comfort throughout Scripture (see 2 Cor. 1:3-4).",
+      "sectionHeader": "Comfort for God's People"
     },
     {
       "pk": 29040002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "A voice cries out: \"In the wilderness prepare the way of the LORD; make straight in the desert a highway for our God.\"",
       "links": "<a href='/AIV/40/3/3'>Matt. 3:3</a>; <a href='/AIV/43/1/23'>John 1:23</a>",
-      "comment": "This prophecy is fulfilled in John the Baptist preparing the way for Christ (cf. Matt. 3:3). The way is 'prepared' through repentance and conversion, echoing both moral and sacramental preparation."
+      "comment": "This prophecy is fulfilled in John the Baptist preparing the way for Christ (cf. Matt. 3:3). The way is 'prepared' through repentance and conversion, echoing both moral and sacramental preparation.",
+      "sectionHeader": "The Voice in the Wilderness"
     },
     {
       "pk": 29040004,
@@ -74,7 +76,8 @@
       "verse": 6,
       "text": "A voice says, \"Cry out.\" And I said, \"What shall I cry?\" \"All flesh is grass, and all its beauty is like the flower of the field.",
       "links": "<a href='/AIV/60/1/24'>1 Pet. 1:24</a>; <a href='/AIV/19/103/15-16'>Ps. 103:15-16</a>",
-      "comment": "Human life is fleeting, in contrast to God's enduring word. This is quoted in 1 Peter 1:24, showing its enduring theological importance."
+      "comment": "Human life is fleeting, in contrast to God's enduring word. This is quoted in 1 Peter 1:24, showing its enduring theological importance.",
+      "sectionHeader": "The Enduring Word of God"
     },
     {
       "pk": 29040007,
@@ -110,7 +113,8 @@
       "verse": 9,
       "text": "Go up to a high mountain, O Zion, bearer of good news; lift your voice with strength, O Jerusalem, bearer of good news; lift it up, do not be afraid; say to the cities of Judah, \"Behold your God!\"",
       "links": "<a href='/AIV/23/52/7'>Isa. 52:7</a>; <a href='/AIV/41/1/1'>Mark 1:1</a>",
-      "comment": "\"Good news\" here anticipates the announcement of the Gospel. Zion (God’s chosen city) is the messenger — a symbol of the people bringing the message of salvation."
+      "comment": "\"Good news\" here anticipates the announcement of the Gospel. Zion (God’s chosen city) is the messenger — a symbol of the people bringing the message of salvation.",
+      "sectionHeader": "The Good News to Zion"
     },
     {
       "pk": 29040010,
@@ -146,7 +150,8 @@
       "verse": 12,
       "text": "Who has measured the waters in the hollow of His hand, or marked off the heavens with a span, enclosed the dust of the earth in a measure, and weighed the mountains in scales and the hills in a balance?",
       "links": "<a href='/AIV/18/38/4-11'>Job 38:4-11</a>",
-      "comment": "This poetic language highlights God’s incomprehensible power as Creator—He alone sets the limits of creation and sustains all things."
+      "comment": "This poetic language highlights God’s incomprehensible power as Creator—He alone sets the limits of creation and sustains all things.",
+      "sectionHeader": "The Majesty and Uniqueness of God"
     },
     {
       "pk": 29040013,
@@ -326,7 +331,8 @@
       "verse": 27,
       "text": "Why do you say, O Jacob, and speak, O Israel, \"My way is hidden from the LORD, and my right is disregarded by my God\"?",
       "links": "<a href='/AIV/19/77/7-9'>Ps. 77:7-9</a>",
-      "comment": "God’s people doubt His care in hardship, but there is assurance in His providence. This challenges faith to trust in God's providence even when unseen."
+      "comment": "God’s people doubt His care in hardship, but there is assurance in His providence. This challenges faith to trust in God's providence even when unseen.",
+      "sectionHeader": "God Strengthens His People"
     },
     {
       "pk": 29040028,
@@ -377,5 +383,37 @@
       "comment": "Faithful endurance is rewarded. Waiting on God—persevering in faith and hope—leads to renewal and supernatural strength. Patience and faithful perseverance are essential virtues for the believer."
     }
   ],
-  "translatedAt": "2025-12-24T08:09:22.890Z"
+  "translatedAt": "2025-12-24T08:09:22.890Z",
+  "sections": [
+    {
+      "title": "Comfort for God's People",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "The Voice in the Wilderness",
+      "startVerse": 3,
+      "endVerse": 5
+    },
+    {
+      "title": "The Enduring Word of God",
+      "startVerse": 6,
+      "endVerse": 8
+    },
+    {
+      "title": "The Good News to Zion",
+      "startVerse": 9,
+      "endVerse": 11
+    },
+    {
+      "title": "The Majesty and Uniqueness of God",
+      "startVerse": 12,
+      "endVerse": 26
+    },
+    {
+      "title": "God Strengthens His People",
+      "startVerse": 27,
+      "endVerse": 31
+    }
+  ]
 }

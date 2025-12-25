@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then King David said to all the assembly, \"My son Solomon—whom God alone has chosen—is young and inexperienced, and the work is great; for the palace will not be for man, but for the LORD God.\"",
       "links": "<a href='/AIV/11/3/7'>1 Kings 3:7</a>; <a href='/AIV/13/28/6'>1 Chr. 28:6</a>",
-      "comment": "David makes clear that this temple is to be dedicated to God, not for human purposes. This prefigures the later understanding of God dwelling among His people, pointing towards Christ as the temple (John 2:19-21)."
+      "comment": "David makes clear that this temple is to be dedicated to God, not for human purposes. This prefigures the later understanding of God dwelling among His people, pointing towards Christ as the temple (John 2:19-21).",
+      "sectionHeader": "Offerings for the Temple"
     },
     {
       "pk": 13029002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "Therefore, David blessed the LORD before all the assembly. And David said, \"Blessed are You, O LORD, God of Israel, our father, forever and ever.\"",
       "links": "<a href='/AIV/19/41/13'>Ps. 41:13</a>; <a href='/AIV/19/106/48'>Ps. 106:48</a>",
-      "comment": "David’s blessing is both liturgical and communal, echoing future forms of worship and prayer in Christian tradition."
+      "comment": "David’s blessing is both liturgical and communal, echoing future forms of worship and prayer in Christian tradition.",
+      "sectionHeader": "David's Prayer of Thanksgiving"
     },
     {
       "pk": 13029011,
@@ -254,7 +256,8 @@
       "verse": 21,
       "text": "And on the next day they offered sacrifices to the LORD and presented burnt offerings to the LORD: a thousand bulls, a thousand rams, a thousand lambs, with their drink offerings, and many sacrifices for all Israel.",
       "links": "<a href='/AIV/13/16/1'>1 Chr. 16:1</a>; <a href='/AIV/11/8/62-64'>1 Kings 8:62-64</a>",
-      "comment": "The vast number of offerings demonstrates communal participation and prefigures the sacrificial nature of Christian worship fulfilled in Christ’s sacrifice."
+      "comment": "The vast number of offerings demonstrates communal participation and prefigures the sacrificial nature of Christian worship fulfilled in Christ’s sacrifice.",
+      "sectionHeader": "Solomon Anointed King"
     },
     {
       "pk": 13029022,
@@ -314,7 +317,8 @@
       "verse": 26,
       "text": "Thus David son of Jesse reigned over all Israel.",
       "links": "<a href='/AIV/10/5/4-5'>2 Sam. 5:4-5</a>",
-      "comment": "This closes David’s reign, affirming God’s faithfulness to His promises—David’s house is foundational for messianic prophecy fulfilled in Christ (Luke 1:32-33)."
+      "comment": "This closes David’s reign, affirming God’s faithfulness to His promises—David’s house is foundational for messianic prophecy fulfilled in Christ (Luke 1:32-33).",
+      "sectionHeader": "The Death of David"
     },
     {
       "pk": 13029027,
@@ -365,5 +369,27 @@
       "comment": "The chronicling of David’s reign emphasizes the lasting significance of God’s covenant with David, forming the backdrop for the coming of Christ, the eternal King (Matthew 1:1)."
     }
   ],
-  "translatedAt": "2025-12-24T04:21:20.244Z"
+  "translatedAt": "2025-12-24T04:21:20.244Z",
+  "sections": [
+    {
+      "title": "Offerings for the Temple",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "David's Prayer of Thanksgiving",
+      "startVerse": 10,
+      "endVerse": 20
+    },
+    {
+      "title": "Solomon Anointed King",
+      "startVerse": 21,
+      "endVerse": 25
+    },
+    {
+      "title": "The Death of David",
+      "startVerse": 26,
+      "endVerse": 30
+    }
+  ]
 }

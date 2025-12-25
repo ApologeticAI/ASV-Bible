@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Come now, you rich, weep and wail for the miseries that are coming upon you.",
       "links": "<a href='/AIV/20/11/28'>Prov. 11:28</a>; <a href='/AIV/40/19/23-24'>Matt. 19:23-24</a>",
-      "comment": "James addresses the wealthy with a prophetic warning, emphasizing the dangers of trusting in riches. See Proverbs 11:28 and Jesus' teaching in Matthew 19:23-24. The tone mirrors Old Testament prophetic judgment."
+      "comment": "James addresses the wealthy with a prophetic warning, emphasizing the dangers of trusting in riches. See Proverbs 11:28 and Jesus' teaching in Matthew 19:23-24. The tone mirrors Old Testament prophetic judgment.",
+      "sectionHeader": "Warning to the Rich"
     },
     {
       "pk": 66005002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "Therefore be patient, brothers and sisters, until the coming of the Lord. See how the farmer waits for the precious fruit of the earth, being patient about it, until it receives the early and the late rains.",
       "links": "<a href='/AIV/05/11/14'>Deut. 11:14</a>; <a href='/AIV/59/8/19'>Heb. 10:36-37</a>",
-      "comment": "James encourages patience in waiting for the Lord’s coming, drawing a comparison with the farmer. This reflects the value of perseverance and hope in God’s faithfulness, a theme woven throughout Scripture."
+      "comment": "James encourages patience in waiting for the Lord’s coming, drawing a comparison with the farmer. This reflects the value of perseverance and hope in God’s faithfulness, a theme woven throughout Scripture.",
+      "sectionHeader": "Patience and Perseverance"
     },
     {
       "pk": 66005008,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "But above all, my brothers and sisters, do not swear, either by heaven or by earth or by any other oath; but let your 'Yes' be yes, and your 'No' be no, so that you may not fall under judgment.",
       "links": "<a href='/AIV/40/5/34-37'>Matt. 5:34-37</a>; <a href='/AIV/03/19/12'>Lev. 19:12</a>",
-      "comment": "James echoes Jesus’s teaching from the Sermon on the Mount, elevating honesty and integrity. This call to truthfulness is foundational for fostering a trustworthy, sacramental community."
+      "comment": "James echoes Jesus’s teaching from the Sermon on the Mount, elevating honesty and integrity. This call to truthfulness is foundational for fostering a trustworthy, sacramental community.",
+      "sectionHeader": "Warning Against Swearing Oaths"
     },
     {
       "pk": 66005013,
@@ -158,7 +161,8 @@
       "verse": 13,
       "text": "Is anyone among you suffering? Let him pray. Is anyone cheerful? Let him sing praises.",
       "links": "<a href='/AIV/19/34/2'>Ps. 34:2</a>; <a href='/AIV/52/5/16-18'>1 Thess. 5:16-18</a>",
-      "comment": "In all circumstances—suffering or joy—believers are called to turn to God in prayer and praise. This instruction points to spiritual unity and the importance of communal worship."
+      "comment": "In all circumstances—suffering or joy—believers are called to turn to God in prayer and praise. This instruction points to spiritual unity and the importance of communal worship.",
+      "sectionHeader": "The Power of Prayer"
     },
     {
       "pk": 66005014,
@@ -230,7 +234,8 @@
       "verse": 19,
       "text": "My brothers and sisters, if anyone among you wanders from the truth and someone brings him back,",
       "links": "<a href='/AIV/48/6/1'>Gal. 6:1</a>; <a href='/AIV/42/15/4-7'>Luke 15:4-7</a>",
-      "comment": "The community is responsible for restoring those who go astray. This reflects Jesus’s teaching on seeking the lost (Luke 15). Restoration is communal and connected to apostolic authority."
+      "comment": "The community is responsible for restoring those who go astray. This reflects Jesus’s teaching on seeking the lost (Luke 15). Restoration is communal and connected to apostolic authority.",
+      "sectionHeader": "Restoring the Sinner"
     },
     {
       "pk": 66005020,
@@ -245,5 +250,32 @@
       "comment": "To lead another to repentance is a great spiritual work with eternal consequences. This echoes the theme of forgiveness and the call to be instruments of reconciliation, emphasizing the power of grace conveyed through the life of the Church."
     }
   ],
-  "translatedAt": "2025-12-24T12:26:06.896Z"
+  "translatedAt": "2025-12-24T12:26:06.896Z",
+  "sections": [
+    {
+      "title": "Warning to the Rich",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Patience and Perseverance",
+      "startVerse": 7,
+      "endVerse": 11
+    },
+    {
+      "title": "Warning Against Swearing Oaths",
+      "startVerse": 12,
+      "endVerse": 12
+    },
+    {
+      "title": "The Power of Prayer",
+      "startVerse": 13,
+      "endVerse": 18
+    },
+    {
+      "title": "Restoring the Sinner",
+      "startVerse": 19,
+      "endVerse": 20
+    }
+  ]
 }

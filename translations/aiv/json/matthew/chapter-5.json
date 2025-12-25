@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Seeing the crowds, He went up on the mountain. When He sat down, His disciples came to Him.",
       "links": "<a href='/AIV/02/19/3'>Ex. 19:3</a>; <a href='/AIV/42/06/12'>Luke 6:12</a>",
-      "comment": "Jesus ascending the mountain echoes Moses at Sinai, suggesting Christ as the new lawgiver. His seated posture indicates rabbinic authority."
+      "comment": "Jesus ascending the mountain echoes Moses at Sinai, suggesting Christ as the new lawgiver. His seated posture indicates rabbinic authority.",
+      "sectionHeader": "The Beatitudes"
     },
     {
       "pk": 47005002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "You are the salt of the earth. But if the salt loses its taste, how shall it be made salty again? It is no longer good for anything except to be thrown out and trampled under people’s feet.",
       "links": "<a href='/AIV/03/02/13'>Lev. 2:13</a>; <a href='/AIV/41/09/50'>Mark 9:50</a>",
-      "comment": "Salt symbolizes preservation and covenant faithfulness. Losing 'saltiness' implies loss of witness or fidelity."
+      "comment": "Salt symbolizes preservation and covenant faithfulness. Losing 'saltiness' implies loss of witness or fidelity.",
+      "sectionHeader": "Salt and Light"
     },
     {
       "pk": 47005014,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them.",
       "links": "<a href='/AIV/23/42/21'>Isa. 42:21</a>; <a href='/AIV/19/40/7-8'>Ps. 40:7-8</a>",
-      "comment": "Jesus claims unique authority to 'fulfill' the whole Old Testament, showing His role as the Messiah predicted in Scripture."
+      "comment": "Jesus claims unique authority to 'fulfill' the whole Old Testament, showing His role as the Messiah predicted in Scripture.",
+      "sectionHeader": "The Fulfillment of the Law"
     },
     {
       "pk": 47005018,
@@ -254,7 +257,8 @@
       "verse": 21,
       "text": "You have heard that it was said to those of old, 'You shall not murder; and whoever murders will be liable to judgment.'",
       "links": "<a href='/AIV/02/20/13'>Ex. 20:13</a>; <a href='/AIV/05/05/17'>Deut. 5:17</a>",
-      "comment": "Jesus cites the commandment on murder, beginning a series of teachings that deepen its spiritual meaning."
+      "comment": "Jesus cites the commandment on murder, beginning a series of teachings that deepen its spiritual meaning.",
+      "sectionHeader": "On Anger"
     },
     {
       "pk": 47005022,
@@ -326,7 +330,8 @@
       "verse": 27,
       "text": "You have heard that it was said, 'You shall not commit adultery.'",
       "links": "<a href='/AIV/02/20/14'>Ex. 20:14</a>; <a href='/AIV/05/05/18'>Deut. 5:18</a>",
-      "comment": "Jesus again cites the Decalogue, this time the command against adultery."
+      "comment": "Jesus again cites the Decalogue, this time the command against adultery.",
+      "sectionHeader": "On Adultery"
     },
     {
       "pk": 47005028,
@@ -374,7 +379,8 @@
       "verse": 31,
       "text": "It was also said, 'Whoever divorces his wife, let him give her a certificate of divorce.'",
       "links": "<a href='/AIV/05/24/1'>Deut. 24:1</a>",
-      "comment": "Refers to Mosaic legislation: Jesus is about to clarify and intensify its meaning."
+      "comment": "Refers to Mosaic legislation: Jesus is about to clarify and intensify its meaning.",
+      "sectionHeader": "On Divorce"
     },
     {
       "pk": 47005032,
@@ -398,7 +404,8 @@
       "verse": 33,
       "text": "Again, you have heard that it was said to those of old, 'You shall not swear falsely, but shall perform to the Lord what you have sworn.'",
       "links": "<a href='/AIV/03/19/12'>Lev. 19:12</a>; <a href='/AIV/04/30/2'>Num. 30:2</a>",
-      "comment": "Jesus refers to Old Testament warnings against false oaths."
+      "comment": "Jesus refers to Old Testament warnings against false oaths.",
+      "sectionHeader": "On Oaths"
     },
     {
       "pk": 47005034,
@@ -458,7 +465,8 @@
       "verse": 38,
       "text": "You have heard that it was said, 'An eye for an eye and a tooth for a tooth.'",
       "links": "<a href='/AIV/02/21/24'>Ex. 21:24</a>; <a href='/AIV/03/24/20'>Lev. 24:20</a>",
-      "comment": "The principle of lex talionis limited excessive retribution, but Jesus calls for a greater mercy."
+      "comment": "The principle of lex talionis limited excessive retribution, but Jesus calls for a greater mercy.",
+      "sectionHeader": "On Retaliation"
     },
     {
       "pk": 47005039,
@@ -518,7 +526,8 @@
       "verse": 43,
       "text": "You have heard that it was said, 'You shall love your neighbor and hate your enemy.'",
       "links": "<a href='/AIV/03/19/18'>Lev. 19:18</a>",
-      "comment": "Only the first part is scriptural; the second was a popular misapplication Jesus will correct."
+      "comment": "Only the first part is scriptural; the second was a popular misapplication Jesus will correct.",
+      "sectionHeader": "Love for Enemies"
     },
     {
       "pk": 47005044,
@@ -581,5 +590,52 @@
       "comment": "Jesus sets the standard of divine perfection, inviting believers into a holiness that is complete and mature, not just external."
     }
   ],
-  "translatedAt": "2025-12-24T10:04:02.215Z"
+  "translatedAt": "2025-12-24T10:04:02.215Z",
+  "sections": [
+    {
+      "title": "The Beatitudes",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "Salt and Light",
+      "startVerse": 13,
+      "endVerse": 16
+    },
+    {
+      "title": "The Fulfillment of the Law",
+      "startVerse": 17,
+      "endVerse": 20
+    },
+    {
+      "title": "On Anger",
+      "startVerse": 21,
+      "endVerse": 26
+    },
+    {
+      "title": "On Adultery",
+      "startVerse": 27,
+      "endVerse": 30
+    },
+    {
+      "title": "On Divorce",
+      "startVerse": 31,
+      "endVerse": 32
+    },
+    {
+      "title": "On Oaths",
+      "startVerse": 33,
+      "endVerse": 37
+    },
+    {
+      "title": "On Retaliation",
+      "startVerse": 38,
+      "endVerse": 42
+    },
+    {
+      "title": "Love for Enemies",
+      "startVerse": 43,
+      "endVerse": 48
+    }
+  ]
 }

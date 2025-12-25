@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "O Lord, Father and Master of my life, do not leave me to the plans of my tongue, nor let me fall because of it.",
       "links": "<a href='/AIV/19/39/1'>Ps. 39:1</a>; <a href='/AIV/59/3/2-10'>Jas. 3:2-10</a>",
-      "comment": "Sirach’s prayer directly acknowledges God’s authority over one’s life and speech, echoing the emphasis in James 3 on the dangers of the tongue. The invocation of ‘Father’ already points toward the relationship emphasized in Jesus’ teaching (cf. Matt. 6:9)."
+      "comment": "Sirach’s prayer directly acknowledges God’s authority over one’s life and speech, echoing the emphasis in James 3 on the dangers of the tongue. The invocation of ‘Father’ already points toward the relationship emphasized in Jesus’ teaching (cf. Matt. 6:9).",
+      "sectionHeader": "A Prayer for Purity of Heart and Speech"
     },
     {
       "pk": 28023002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "Listen, my children, to instruction regarding speech; those who keep it will never be caught in their words.",
       "links": "<a href='/AIV/20/10/19'>Prov. 10:19</a>; <a href='/AIV/59/1/26'>Jas. 1:26</a>",
-      "comment": "The connection between wisdom and careful speech recurs in the wisdom writings and is strongly affirmed by James. This emphasizes the need for practical holiness."
+      "comment": "The connection between wisdom and careful speech recurs in the wisdom writings and is strongly affirmed by James. This emphasizes the need for practical holiness.",
+      "sectionHeader": "Instruction on Guarding the Tongue"
     },
     {
       "pk": 28023008,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "There is an utterance compared to death; may it never be found among the inheritance of Jacob.",
       "links": "<a href='/AIV/20/18/21'>Prov. 18:21</a>; <a href='/AIV/19/34/12-13'>Ps. 34:12-13</a>",
-      "comment": "Destructive speech equated with death indicates the power of words over life itself, anticipating Jesus’ warning about inner murder by hatred (Matt. 5:21-22)."
+      "comment": "Destructive speech equated with death indicates the power of words over life itself, anticipating Jesus’ warning about inner murder by hatred (Matt. 5:21-22).",
+      "sectionHeader": "Avoidance of Obscene Speech"
     },
     {
       "pk": 28023014,
@@ -230,7 +233,8 @@
       "verse": 19,
       "text": "A man with a wandering eye is like one who gazes at unfamiliar things and cannot be satisfied.",
       "links": "<a href='/AIV/20/27/20'>Prov. 27:20</a>; <a href='/AIV/40/5/28'>Matt. 5:28</a>",
-      "comment": "The restless eyes point to inward disorder; Jesus applies this directly to the heart’s lust in the Sermon on the Mount."
+      "comment": "The restless eyes point to inward disorder; Jesus applies this directly to the heart’s lust in the Sermon on the Mount.",
+      "sectionHeader": "Warning Against Lust and Hidden Sin"
     },
     {
       "pk": 28023020,
@@ -329,5 +333,27 @@
       "comment": "Final justice is inevitable; sins committed in secret are revealed and punished openly. Jesus’ teaching in Luke parallels this—‘Nothing is hidden that will not be known.’ The passage affirms repentance and conversion as central to spiritual transformation and sharing in Christ’s promise of mercy."
     }
   ],
-  "translatedAt": "2025-12-24T07:35:15.352Z"
+  "translatedAt": "2025-12-24T07:35:15.352Z",
+  "sections": [
+    {
+      "title": "A Prayer for Purity of Heart and Speech",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Instruction on Guarding the Tongue",
+      "startVerse": 7,
+      "endVerse": 12
+    },
+    {
+      "title": "Avoidance of Obscene Speech",
+      "startVerse": 13,
+      "endVerse": 18
+    },
+    {
+      "title": "Warning Against Lust and Hidden Sin",
+      "startVerse": 19,
+      "endVerse": 27
+    }
+  ]
 }

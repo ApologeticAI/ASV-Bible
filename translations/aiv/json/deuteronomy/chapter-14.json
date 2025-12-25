@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "You are the children of the LORD your God. Do not cut yourselves or shave the front of your head for the dead.",
       "links": "<a href='/AIV/03/19/27-28'>Lev. 19:27-28</a>; <a href='/AIV/05/07/6'>Deut. 7:6</a>",
-      "comment": "The Israelites are set apart as God's people, which is why mourning practices involving self-mutilation, common among pagans, are forbidden. Spiritual separation is foundational."
+      "comment": "The Israelites are set apart as God's people, which is why mourning practices involving self-mutilation, common among pagans, are forbidden. Spiritual separation is foundational.",
+      "sectionHeader": "Prohibition of Pagan Mournings"
     },
     {
       "pk": 5014002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "You shall not eat any abominable thing.",
       "links": "<a href='/AIV/03/11/11-12'>Lev. 11:11-12</a>",
-      "comment": "Dietary laws taught Israel purity and obedience. These laws point towards spiritual discipline."
+      "comment": "Dietary laws taught Israel purity and obedience. These laws point towards spiritual discipline.",
+      "sectionHeader": "Laws on Clean and Unclean Foods"
     },
     {
       "pk": 5014004,
@@ -266,7 +268,8 @@
       "verse": 22,
       "text": "You must certainly tithe all the produce from your fields each year.",
       "links": "<a href='/AIV/03/27/30'>Lev. 27:30</a>; <a href='/AIV/05/12/6'>Deut. 12:6</a>",
-      "comment": "Tithing reflects the principle of offering back to God from His blessings. Later spiritual fulfillment is seen in giving of resources for worship and mission."
+      "comment": "Tithing reflects the principle of offering back to God from His blessings. Later spiritual fulfillment is seen in giving of resources for worship and mission.",
+      "sectionHeader": "Laws on Tithes"
     },
     {
       "pk": 5014023,
@@ -353,5 +356,22 @@
       "comment": "God’s blessing is attached to caring for those in need. The early patterns of sacrificial giving, charity, and communal support foreshadow the spiritual mission of the new covenant people, united in Christ’s love and service."
     }
   ],
-  "translatedAt": "2025-12-24T02:04:42.252Z"
+  "translatedAt": "2025-12-24T02:04:42.252Z",
+  "sections": [
+    {
+      "title": "Prohibition of Pagan Mournings",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "Laws on Clean and Unclean Foods",
+      "startVerse": 3,
+      "endVerse": 21
+    },
+    {
+      "title": "Laws on Tithes",
+      "startVerse": 22,
+      "endVerse": 29
+    }
+  ]
 }

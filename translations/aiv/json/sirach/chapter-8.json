@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Do not quarrel with a powerful man, or you may fall into his hands.",
       "links": "<a href='/AIV/20/16/7'>Prov. 16:7</a>; <a href='/AIV/20/25/8'>Prov. 25:8</a>",
-      "comment": "Wisdom literature warns against fighting with those in authority, much as Jesus teaches humility and prudence (see Matt. 5:25). Practical wisdom upholds peace with others, foreshadowing Christ's teachings on reconciliation."
+      "comment": "Wisdom literature warns against fighting with those in authority, much as Jesus teaches humility and prudence (see Matt. 5:25). Practical wisdom upholds peace with others, foreshadowing Christ's teachings on reconciliation.",
+      "sectionHeader": "Prudence in Dealing with the Powerful and the Proud"
     },
     {
       "pk": 28008002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "Do not reject the advice of the wise, but reflect on their teachings, for you may learn from their instruction.",
       "links": "<a href='/AIV/20/13/20'>Prov. 13:20</a>; <a href='/AIV/59/1/5'>Jas. 1:5</a>",
-      "comment": "Receiving wisdom is foundational to spiritual growth; Christ built His Church on the witness and guidance of the apostles, passing on sound teaching (2 Tim. 2:2)."
+      "comment": "Receiving wisdom is foundational to spiritual growth; Christ built His Church on the witness and guidance of the apostles, passing on sound teaching (2 Tim. 2:2).",
+      "sectionHeader": "Seeking Wisdom from the Elderly and the Wise"
     },
     {
       "pk": 28008008,
@@ -110,7 +112,8 @@
       "verse": 9,
       "text": "Do not stir up a sinner, or you may be burned by his flames.",
       "links": "<a href='/AIV/20/6/27'>Prov. 6:27</a>; <a href='/AIV/21/7/9'>Eccl. 7:9</a>",
-      "comment": "Tempting or provoking those inclined to sin endangers your own soul. Christian charity seeks not to tempt anyone but to lead to holiness."
+      "comment": "Tempting or provoking those inclined to sin endangers your own soul. Christian charity seeks not to tempt anyone but to lead to holiness.",
+      "sectionHeader": "Caution with Fools, Sinners, and the Violent"
     },
     {
       "pk": 28008010,
@@ -158,7 +161,8 @@
       "verse": 13,
       "text": "Do not do wrong to your friend, nor lie to him in the presence of an enemy.",
       "links": "<a href='/AIV/19/15/3'>Ps. 15:3</a>; <a href='/AIV/51/3/9'>Col. 3:9</a>",
-      "comment": "Honesty and loyalty are the foundation of true friendship, reflecting God’s faithfulness. Christ commands truthfulness (Matt. 5:37)."
+      "comment": "Honesty and loyalty are the foundation of true friendship, reflecting God’s faithfulness. Christ commands truthfulness (Matt. 5:37).",
+      "sectionHeader": "Discernment in Friendship and Trust"
     },
     {
       "pk": 28008014,
@@ -182,7 +186,8 @@
       "verse": 15,
       "text": "Do not envy a sinner’s prosperity, for you do not know what sort of ruin will come upon him.",
       "links": "<a href='/AIV/19/73/3-17'>Ps. 73:3-17</a>; <a href='/AIV/20/24/19'>Prov. 24:19</a>",
-      "comment": "Material success is not always a blessing; wisdom literature reminds us to focus on eternal rewards (see Matt. 6:19-21)."
+      "comment": "Material success is not always a blessing; wisdom literature reminds us to focus on eternal rewards (see Matt. 6:19-21).",
+      "sectionHeader": "Warning Against Envy and Evil Associations"
     },
     {
       "pk": 28008016,
@@ -233,5 +238,32 @@
       "comment": "Discretion is vital for spiritual and practical integrity. Jesus Himself often kept silence among adversaries (see Luke 23:9)."
     }
   ],
-  "translatedAt": "2025-12-24T07:27:03.152Z"
+  "translatedAt": "2025-12-24T07:27:03.152Z",
+  "sections": [
+    {
+      "title": "Prudence in Dealing with the Powerful and the Proud",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Seeking Wisdom from the Elderly and the Wise",
+      "startVerse": 7,
+      "endVerse": 8
+    },
+    {
+      "title": "Caution with Fools, Sinners, and the Violent",
+      "startVerse": 9,
+      "endVerse": 12
+    },
+    {
+      "title": "Discernment in Friendship and Trust",
+      "startVerse": 13,
+      "endVerse": 14
+    },
+    {
+      "title": "Warning Against Envy and Evil Associations",
+      "startVerse": 15,
+      "endVerse": 19
+    }
+  ]
 }

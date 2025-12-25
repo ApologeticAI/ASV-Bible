@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "I waited patiently for the LORD, and he turned to me and heard my cry.",
       "links": "<a href='/AIV/19/27/14'>Ps. 27:14</a>; <a href='/AIV/19/37/7'>Ps. 37:7</a>",
-      "comment": "The Psalmist expresses trust and persistence in prayer, showing that patience is rewarded when approaching God in faith. Compare also with the attitude of persistent prayer recommended by Christ (see Luke 18:1-8)."
+      "comment": "The Psalmist expresses trust and persistence in prayer, showing that patience is rewarded when approaching God in faith. Compare also with the attitude of persistent prayer recommended by Christ (see Luke 18:1-8).",
+      "sectionHeader": "Thanksgiving for Deliverance"
     },
     {
       "pk": 23040002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "Sacrifice and offering you did not desire, but you have opened my ears; burnt offering and sin offering you have not required.",
       "links": "<a href='/AIV/1/15/22'>1 Sam. 15:22</a>; <a href='/AIV/19/51/16'>Ps. 51:16</a>; <a href='/AIV/58/10/5-7'>Heb. 10:5-7</a>",
-      "comment": "This verse points to inner obedience over mere ritual. Hebrews 10:5-7 quotes this as referring to Christ, whose perfect obedience fulfills the Law. Hearing and responding to God's will is at the heart of Christian worship."
+      "comment": "This verse points to inner obedience over mere ritual. Hebrews 10:5-7 quotes this as referring to Christ, whose perfect obedience fulfills the Law. Hearing and responding to God's will is at the heart of Christian worship.",
+      "sectionHeader": "Delight in God’s Will"
     },
     {
       "pk": 23040007,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "Do not withhold your mercy from me, O LORD; may your lovingkindness and your truth continually guard me.",
       "links": "<a href='/AIV/19/61/7'>Ps. 61:7</a>; <a href='/AIV/19/85/10'>Ps. 85:10</a>",
-      "comment": "A prayer for God’s steadfast love and truth reflects the believer's dependence on divine grace for perseverance."
+      "comment": "A prayer for God’s steadfast love and truth reflects the believer's dependence on divine grace for perseverance.",
+      "sectionHeader": "Prayer for Help and Protection"
     },
     {
       "pk": 23040012,
@@ -209,5 +212,22 @@
       "comment": "The Psalm concludes in humble supplication, showing the importance of humility and trust in God’s mercy. The repeated phrase underscores both personal need and God's faithfulness to deliver, resonating with the teachings on God’s grace and our continual dependence on Him."
     }
   ],
-  "translatedAt": "2025-12-24T06:12:49.347Z"
+  "translatedAt": "2025-12-24T06:12:49.347Z",
+  "sections": [
+    {
+      "title": "Thanksgiving for Deliverance",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Delight in God’s Will",
+      "startVerse": 6,
+      "endVerse": 10
+    },
+    {
+      "title": "Prayer for Help and Protection",
+      "startVerse": 11,
+      "endVerse": 17
+    }
+  ]
 }

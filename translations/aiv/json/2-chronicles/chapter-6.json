@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then Solomon said, 'The LORD has said that he would dwell in thick darkness.'",
       "links": "<a href='/AIV/2/20/21'>Exod. 20:21</a>; <a href='/AIV/11/8/12'>1 Kgs. 8:12</a>",
-      "comment": "Solomon begins his prayer by recalling God’s presence in the darkness at Sinai, emphasizing God's transcendence."
+      "comment": "Solomon begins his prayer by recalling God’s presence in the darkness at Sinai, emphasizing God's transcendence.",
+      "sectionHeader": "Solomon Blesses the Assembly"
     },
     {
       "pk": 14006002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "Then he stood before the altar of the LORD in the presence of all the assembly of Israel and spread out his hands.",
       "links": "<a href='/AIV/3/9/26'>Lev. 9:26</a>; <a href='/AIV/11/8/22'>1 Kgs. 8:22</a>",
-      "comment": "Solomon's posture indicates reverence and petition, anticipating priestly intercession."
+      "comment": "Solomon's posture indicates reverence and petition, anticipating priestly intercession.",
+      "sectionHeader": "Solomon's Prayer of Dedication"
     },
     {
       "pk": 14006013,
@@ -509,5 +511,17 @@
       "comment": "The 'anointed' refers to the king (Messiah), with a view toward God’s eternal promise to David—pointing to the true Christ, the Son of David."
     }
   ],
-  "translatedAt": "2025-12-24T04:24:32.510Z"
+  "translatedAt": "2025-12-24T04:24:32.510Z",
+  "sections": [
+    {
+      "title": "Solomon Blesses the Assembly",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "Solomon's Prayer of Dedication",
+      "startVerse": 12,
+      "endVerse": 42
+    }
+  ]
 }

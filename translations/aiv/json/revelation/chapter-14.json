@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then I looked, and there was the Lamb standing on Mount Zion, and with Him were 144,000 who had His Name and His Father's Name written on their foreheads.",
       "links": "<a href='/AIV/66/7/3'>Rev. 7:3</a>; <a href='/AIV/23/2/2-3'>Isa. 2:2-3</a>; <a href='/AIV/19/2/6'>Ps. 2:6</a>",
-      "comment": "The Lamb symbolizes Christ (cf. John 1:29) and Mount Zion often represents God's ultimate dwelling and reign. The sealing of the 144,000 echoes Rev 7:3, signifying those set apart for God, and the seal denotes belonging and protection."
+      "comment": "The Lamb symbolizes Christ (cf. John 1:29) and Mount Zion often represents God's ultimate dwelling and reign. The sealing of the 144,000 echoes Rev 7:3, signifying those set apart for God, and the seal denotes belonging and protection.",
+      "sectionHeader": "The Lamb and the 144,000"
     },
     {
       "pk": 73014002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "Then I saw another angel flying in mid-heaven, having the eternal gospel to proclaim to those who dwell on the earth—to every nation, tribe, language, and people.",
       "links": "<a href='/AIV/40/24/14'>Matt. 24:14</a>; <a href='/AIV/45/1/16'>Rom. 1:16</a>",
-      "comment": "The 'eternal gospel' affirms a universal message: salvation is for all peoples (Matt. 24:14). This passage highlights the importance of tradition and the universality of gospel proclamation by the authority of messengers sent by God."
+      "comment": "The 'eternal gospel' affirms a universal message: salvation is for all peoples (Matt. 24:14). This passage highlights the importance of tradition and the universality of gospel proclamation by the authority of messengers sent by God.",
+      "sectionHeader": "The Messages of the Three Angels"
     },
     {
       "pk": 73014007,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "Then I looked, and behold, a white cloud, and seated on the cloud was one like a son of man, with a golden crown on his head and a sharp sickle in his hand.",
       "links": "<a href='/AIV/27/7/13'>Dan. 7:13</a>; <a href='/AIV/40/24/30'>Matt. 24:30</a>",
-      "comment": "The 'Son of Man' recalls Dan. 7:13 and is a Messianic title Jesus often used (cf. Matt. 24:30), showing his authority and divinity. The golden crown and sickle point to a kingly figure coming to judge and to harvest."
+      "comment": "The 'Son of Man' recalls Dan. 7:13 and is a Messianic title Jesus often used (cf. Matt. 24:30), showing his authority and divinity. The golden crown and sickle point to a kingly figure coming to judge and to harvest.",
+      "sectionHeader": "The Harvest of the Earth"
     },
     {
       "pk": 73014015,
@@ -206,7 +209,8 @@
       "verse": 17,
       "text": "Then another angel came out of the temple in heaven, and he also had a sharp sickle.",
       "links": "<a href='/AIV/66/15/6'>Rev. 15:6</a>",
-      "comment": "The participation of angels in judgment underscores a heavenly order and delegated authority in God's plan, emphasizing the ongoing relationship between the divine and the ministerial."
+      "comment": "The participation of angels in judgment underscores a heavenly order and delegated authority in God's plan, emphasizing the ongoing relationship between the divine and the ministerial.",
+      "sectionHeader": "The Vintage of the Earth"
     },
     {
       "pk": 73014018,
@@ -245,5 +249,27 @@
       "comment": "The overflowing blood signifies the totality and seriousness of judgment, a vivid warning. The reference to 'outside the city' echoes the place of Christ’s passion (Heb. 13:12), suggesting both justice and mercy."
     }
   ],
-  "translatedAt": "2025-12-24T12:38:41.128Z"
+  "translatedAt": "2025-12-24T12:38:41.128Z",
+  "sections": [
+    {
+      "title": "The Lamb and the 144,000",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "The Messages of the Three Angels",
+      "startVerse": 6,
+      "endVerse": 13
+    },
+    {
+      "title": "The Harvest of the Earth",
+      "startVerse": 14,
+      "endVerse": 16
+    },
+    {
+      "title": "The Vintage of the Earth",
+      "startVerse": 17,
+      "endVerse": 20
+    }
+  ]
 }

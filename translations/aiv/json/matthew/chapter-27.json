@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When morning came, all the chief priests and elders of the people took counsel against Jesus to put Him to death.",
       "links": "<a href='/AIV/44/4/26-28'>Acts 4:26-28</a>; <a href='/AIV/19/2/2'>Ps. 2:2</a>",
-      "comment": "The collaboration of religious leaders fulfills prophecy about opposition to the Messiah."
+      "comment": "The collaboration of religious leaders fulfills prophecy about opposition to the Messiah.",
+      "sectionHeader": "Jesus Delivered to Pilate; The Death of Judas"
     },
     {
       "pk": 47027002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "Now Jesus stood before the governor. The governor asked Him, \"Are you the King of the Jews?\" Jesus answered, \"You say so.\"",
       "links": "<a href='/AIV/40/26/64'>Matt. 26:64</a>; <a href='/AIV/42/23/3'>Luke 23:3</a>",
-      "comment": "Jesus' response points to His true kingship, associating divinity and fulfillment of Messiah prophecy."
+      "comment": "Jesus' response points to His true kingship, associating divinity and fulfillment of Messiah prophecy.",
+      "sectionHeader": "Jesus Before Pilate"
     },
     {
       "pk": 47027012,
@@ -326,7 +328,8 @@
       "verse": 27,
       "text": "Then the soldiers of the governor took Jesus into the governor's headquarters and gathered the whole battalion before Him.",
       "links": "<a href='/AIV/41/15/16'>Mark 15:16</a>",
-      "comment": "This public mockery was meant to shame, yet reveals the depths of Christ’s humility."
+      "comment": "This public mockery was meant to shame, yet reveals the depths of Christ’s humility.",
+      "sectionHeader": "The Mocking and Scourging of Jesus"
     },
     {
       "pk": 47027028,
@@ -386,7 +389,8 @@
       "verse": 32,
       "text": "As they went out, they found a man of Cyrene, Simon by name; they compelled this man to carry His cross.",
       "links": "<a href='/AIV/41/15/21'>Mark 15:21</a>; <a href='/AIV/42/23/26'>Luke 23:26</a>",
-      "comment": "Simon’s participation hints at joining in Christ’s suffering, a theme central to the Christian life."
+      "comment": "Simon’s participation hints at joining in Christ’s suffering, a theme central to the Christian life.",
+      "sectionHeader": "The Crucifixion of Jesus"
     },
     {
       "pk": 47027033,
@@ -542,7 +546,8 @@
       "verse": 45,
       "text": "Now from the sixth hour until the ninth hour there was darkness over all the land.",
       "links": "<a href='/AIV/30/8/9'>Amos 8:9</a>",
-      "comment": "The supernatural darkness indicates divine judgment and cosmic sorrow over Jesus’ suffering."
+      "comment": "The supernatural darkness indicates divine judgment and cosmic sorrow over Jesus’ suffering.",
+      "sectionHeader": "The Death of Jesus; Signs and Witnesses"
     },
     {
       "pk": 47027046,
@@ -686,7 +691,8 @@
       "verse": 57,
       "text": "When it was evening, there came a rich man from Arimathea, named Joseph, who also was a disciple of Jesus.",
       "links": "<a href='/AIV/41/15/42-43'>Mark 15:42-43</a>",
-      "comment": "Joseph’s role highlights the dignity and courage required to honor the Lord in His death."
+      "comment": "Joseph’s role highlights the dignity and courage required to honor the Lord in His death.",
+      "sectionHeader": "The Burial of Jesus"
     },
     {
       "pk": 47027058,
@@ -746,7 +752,8 @@
       "verse": 62,
       "text": "The next day, that is, after the day of preparation, the chief priests and the Pharisees gathered before Pilate",
       "links": "<a href='/AIV/41/15/42'>Mark 15:42</a>",
-      "comment": "Their continued vigilance against Jesus hints at divine protection and the certainty of His resurrection."
+      "comment": "Their continued vigilance against Jesus hints at divine protection and the certainty of His resurrection.",
+      "sectionHeader": "The Guard at the Tomb"
     },
     {
       "pk": 47027063,
@@ -797,5 +804,42 @@
       "comment": "The seal and guard provide proof that His resurrection will be of divine, not human, origin, elevating the miraculous truth of the event for all believers."
     }
   ],
-  "translatedAt": "2025-12-24T10:21:08.169Z"
+  "translatedAt": "2025-12-24T10:21:08.169Z",
+  "sections": [
+    {
+      "title": "Jesus Delivered to Pilate; The Death of Judas",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "Jesus Before Pilate",
+      "startVerse": 11,
+      "endVerse": 26
+    },
+    {
+      "title": "The Mocking and Scourging of Jesus",
+      "startVerse": 27,
+      "endVerse": 31
+    },
+    {
+      "title": "The Crucifixion of Jesus",
+      "startVerse": 32,
+      "endVerse": 44
+    },
+    {
+      "title": "The Death of Jesus; Signs and Witnesses",
+      "startVerse": 45,
+      "endVerse": 56
+    },
+    {
+      "title": "The Burial of Jesus",
+      "startVerse": 57,
+      "endVerse": 61
+    },
+    {
+      "title": "The Guard at the Tomb",
+      "startVerse": 62,
+      "endVerse": 66
+    }
+  ]
 }

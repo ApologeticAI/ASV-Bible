@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "We want you to know, brothers, about the grace of God that has been given among the churches of Macedonia.",
       "links": "<a href='/AIV/50/16/14'>Acts 16:14</a>; <a href='/AIV/50/17/1'>Acts 17:1</a>",
-      "comment": "Paul begins by highlighting the generosity of the Macedonian churches as a work of God's grace. This sets the foundation for Christian giving as a response to divine initiative, not mere human effort."
+      "comment": "Paul begins by highlighting the generosity of the Macedonian churches as a work of God's grace. This sets the foundation for Christian giving as a response to divine initiative, not mere human effort.",
+      "sectionHeader": "The Generosity of the Macedonians"
     },
     {
       "pk": 54008002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "And in this matter I give my judgment: this benefits you, who, a year ago, started not only to do this work but also to desire to do it.",
       "links": "<a href='/AIV/54/9/2'>2 Cor. 9:2</a>",
-      "comment": "Paul appeals to their previous eagerness and encourages them to fulfill their original promise, showing the value of perseverance in good works."
+      "comment": "Paul appeals to their previous eagerness and encourages them to fulfill their original promise, showing the value of perseverance in good works.",
+      "sectionHeader": "Encouragement to Complete the Collection"
     },
     {
       "pk": 54008011,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "But thanks be to God, who put into the heart of Titus the same earnest care I have for you.",
       "links": "<a href='/AIV/54/7/13-15'>2 Cor. 7:13-15</a>",
-      "comment": "Here, Paul attributes Titus's concern for the church to God's inspiration, suggesting that ministry and pastoral care are divinely directed acts."
+      "comment": "Here, Paul attributes Titus's concern for the church to God's inspiration, suggesting that ministry and pastoral care are divinely directed acts.",
+      "sectionHeader": "Commendation of Titus and His Companions"
     },
     {
       "pk": 54008017,
@@ -293,5 +296,22 @@
       "comment": "Paul calls for an outward demonstration of love, linking faith, fellowship, and works as visible signs to the wider church—hinting at tangible expressions of unity, charity, and witness."
     }
   ],
-  "translatedAt": "2025-12-24T11:55:51.327Z"
+  "translatedAt": "2025-12-24T11:55:51.327Z",
+  "sections": [
+    {
+      "title": "The Generosity of the Macedonians",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "Encouragement to Complete the Collection",
+      "startVerse": 10,
+      "endVerse": 15
+    },
+    {
+      "title": "Commendation of Titus and His Companions",
+      "startVerse": 16,
+      "endVerse": 24
+    }
+  ]
 }

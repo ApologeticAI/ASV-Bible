@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Hear my prayer, O LORD, and let my cry come to You.",
       "links": "<a href='/AIV/19/86/6'>Ps. 86:6</a>; <a href='/AIV/19/39/12'>Ps. 39:12</a>",
-      "comment": "The psalmist begins with an earnest appeal to God, expressing the expectation that God hears His people’s prayers—a theme consistent throughout Scripture."
+      "comment": "The psalmist begins with an earnest appeal to God, expressing the expectation that God hears His people’s prayers—a theme consistent throughout Scripture.",
+      "sectionHeader": "A Prayer in Distress"
     },
     {
       "pk": 23102002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "But You, O LORD, are enthroned forever, and the mention of Your Name endures to all generations.",
       "links": "<a href='/AIV/19/90/2'>Ps. 90:2</a>; <a href='/AIV/24/10/10'>Jer. 10:10</a>",
-      "comment": "Against human frailty, God’s eternal kingship is proclaimed—prefiguring the everlasting reign promised in the Messiah (Luke 1:33)."
+      "comment": "Against human frailty, God’s eternal kingship is proclaimed—prefiguring the everlasting reign promised in the Messiah (Luke 1:33).",
+      "sectionHeader": "The Lord’s Compassion for Zion"
     },
     {
       "pk": 23102013,
@@ -278,7 +280,8 @@
       "verse": 23,
       "text": "He has weakened my strength in the way; He has shortened my days.",
       "links": "<a href='/AIV/19/39/4-5'>Ps. 39:4-5</a>",
-      "comment": "An honest acknowledgment of mortality and limitation, showing humility before God."
+      "comment": "An honest acknowledgment of mortality and limitation, showing humility before God.",
+      "sectionHeader": "The Permanence of God"
     },
     {
       "pk": 23102024,
@@ -341,5 +344,22 @@
       "comment": "God’s promises to His people extend to future generations, underscoring His covenant faithfulness. Confidence in God’s lasting blessing is a theme fulfilled in the new covenant community."
     }
   ],
-  "translatedAt": "2025-12-24T06:34:45.573Z"
+  "translatedAt": "2025-12-24T06:34:45.573Z",
+  "sections": [
+    {
+      "title": "A Prayer in Distress",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "The Lord’s Compassion for Zion",
+      "startVerse": 12,
+      "endVerse": 22
+    },
+    {
+      "title": "The Permanence of God",
+      "startVerse": 23,
+      "endVerse": 28
+    }
+  ]
 }

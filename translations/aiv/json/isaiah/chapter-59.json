@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Look, the LORD’s hand is not too short to save, nor His ear too dull to hear.",
       "links": "<a href='/AIV/04/11/23'>Num. 11:23</a>; <a href='/AIV/23/50/2'>Isa. 50:2</a>",
-      "comment": "Isaiah begins with a reassurance of God’s power and ability to deliver. The verse echoes previous assurances of God’s capacity, emphasizing that the problem is not with God, but with the people’s spiritual state."
+      "comment": "Isaiah begins with a reassurance of God’s power and ability to deliver. The verse echoes previous assurances of God’s capacity, emphasizing that the problem is not with God, but with the people’s spiritual state.",
+      "sectionHeader": "The Sins Separating Israel from God"
     },
     {
       "pk": 29059002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "So justice is far from us, and righteousness does not reach us. We look for light, but all is darkness; for brightness, yet we walk in deep shadows.",
       "links": "<a href='/AIV/23/58/8'>Isa. 58:8</a>; <a href='/AIV/43/12/35'>John 12:35'</a>",
-      "comment": "Isaiah laments the absence of justice and righteousness. Spiritual darkness is a symbol for alienation from God; Christ is later proclaimed as the true Light (John 1:4-5), the answer to this need."
+      "comment": "Isaiah laments the absence of justice and righteousness. Spiritual darkness is a symbol for alienation from God; Christ is later proclaimed as the true Light (John 1:4-5), the answer to this need.",
+      "sectionHeader": "Confession of Sin and Absence of Justice"
     },
     {
       "pk": 29059010,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "Truth is nowhere to be found, and whoever shuns evil becomes a target. The LORD saw this, and it displeased Him that there was no justice.",
       "links": "<a href='/AIV/23/1/17'>Isa. 1:17</a>; <a href='/AIV/23/63/5'>Isa. 63:5</a>",
-      "comment": "Standing for truth brings persecution—a reality later seen in the lives of Christ and His apostles. God’s concern for justice affirms the value of standing up for righteousness, even at personal cost."
+      "comment": "Standing for truth brings persecution—a reality later seen in the lives of Christ and His apostles. God’s concern for justice affirms the value of standing up for righteousness, even at personal cost.",
+      "sectionHeader": "The LORD Intervenes as Redeemer"
     },
     {
       "pk": 29059016,
@@ -257,5 +260,22 @@
       "comment": "The enduring covenant and the promised Spirit foreshadow the new covenant made through Christ and the outpouring of the Spirit upon the Church, ensuring the perpetual transmission of God’s truth through apostolic succession and living tradition."
     }
   ],
-  "translatedAt": "2025-12-24T08:17:44.121Z"
+  "translatedAt": "2025-12-24T08:17:44.121Z",
+  "sections": [
+    {
+      "title": "The Sins Separating Israel from God",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "Confession of Sin and Absence of Justice",
+      "startVerse": 9,
+      "endVerse": 14
+    },
+    {
+      "title": "The LORD Intervenes as Redeemer",
+      "startVerse": 15,
+      "endVerse": 21
+    }
+  ]
 }

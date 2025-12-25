@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Jesus left the temple and was going away, when his disciples came to him to point out the buildings of the temple.",
       "links": "<a href='/AIV/39/3/1'>Malachi 3:1</a>",
-      "comment": "Jesus leaving the temple signals the coming end of Old Covenant worship centered at the temple (see also Ezek. 10:18). Recognizing the significance of the physical temple foreshadows the transition to God's dwelling among His people through Christ (see John 2:19-21)."
+      "comment": "Jesus leaving the temple signals the coming end of Old Covenant worship centered at the temple (see also Ezek. 10:18). Recognizing the significance of the physical temple foreshadows the transition to God's dwelling among His people through Christ (see John 2:19-21).",
+      "sectionHeader": "Jesus Foretells the Destruction of the Temple"
     },
     {
       "pk": 47024002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "As he sat on the Mount of Olives, the disciples came to him privately, saying, 'Tell us, when will these things be, and what will be the sign of your coming and of the end of the age?'",
       "links": "<a href='/AIV/41/13/4'>Mark 13:4</a>; <a href='/AIV/44/1/6'>Acts 1:6-7</a>",
-      "comment": "The Mount of Olives is where prophecy and fulfillment meet (see Zech. 14:4). The disciples associate the temple's destruction with the final coming of the Messiah, showing Jewish expectations. Jesus will answer with both near and far fulfillments."
+      "comment": "The Mount of Olives is where prophecy and fulfillment meet (see Zech. 14:4). The disciples associate the temple's destruction with the final coming of the Messiah, showing Jewish expectations. Jesus will answer with both near and far fulfillments.",
+      "sectionHeader": "Signs of the End Times"
     },
     {
       "pk": 47024004,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "So when you see the abomination of desolation spoken of by the prophet Daniel, standing in the holy place (let the reader understand),",
       "links": "<a href='/AIV/27/9/27'>Daniel 9:27</a>; <a href='/AIV/41/13/14'>Mark 13:14</a>",
-      "comment": "A specific reference to Daniel’s prophecy, implying both a past historical and future spiritual fulfillment—interpreted as both the destruction of Jerusalem and any great profanation of the sacred."
+      "comment": "A specific reference to Daniel’s prophecy, implying both a past historical and future spiritual fulfillment—interpreted as both the destruction of Jerusalem and any great profanation of the sacred.",
+      "sectionHeader": "The Great Tribulation"
     },
     {
       "pk": 47024016,
@@ -350,7 +353,8 @@
       "verse": 29,
       "text": "Immediately after the tribulation of those days, the sun will be darkened, and the moon will not give its light, and the stars will fall from heaven, and the powers of the heavens will be shaken.",
       "links": "<a href='/AIV/23/13/10'>Isaiah 13:10</a>; <a href='/AIV/29/2/31'>Joel 2:31</a>",
-      "comment": "Cosmic signs are associated with the Day of the Lord. This language points both to the end of an age (as at Jerusalem’s fall) and the final end of history."
+      "comment": "Cosmic signs are associated with the Day of the Lord. This language points both to the end of an age (as at Jerusalem’s fall) and the final end of history.",
+      "sectionHeader": "The Coming of the Son of Man"
     },
     {
       "pk": 47024030,
@@ -386,7 +390,8 @@
       "verse": 32,
       "text": "From the fig tree learn this parable: as soon as its branch becomes tender and puts out its leaves, you know that summer is near.",
       "links": "<a href='/AIV/41/13/28'>Mark 13:28</a>",
-      "comment": "The faithful are called to discern the times, as leaves show the changing of the season."
+      "comment": "The faithful are called to discern the times, as leaves show the changing of the season.",
+      "sectionHeader": "The Lesson of the Fig Tree"
     },
     {
       "pk": 47024033,
@@ -434,7 +439,8 @@
       "verse": 36,
       "text": "But concerning that day and hour no one knows, not even the angels of heaven, nor the Son, but the Father only.",
       "links": "<a href='/AIV/44/1/7'>Acts 1:7</a>",
-      "comment": "The mystery of God’s timing is hidden. Jesus, in his incarnate mission, humbly refrains from self-assertion; this reflects his perfect obedience to the Father, a model for all Christians."
+      "comment": "The mystery of God’s timing is hidden. Jesus, in his incarnate mission, humbly refrains from self-assertion; this reflects his perfect obedience to the Father, a model for all Christians.",
+      "sectionHeader": "No One Knows the Day or Hour"
     },
     {
       "pk": 47024037,
@@ -542,7 +548,8 @@
       "verse": 45,
       "text": "Who then is the faithful and wise servant, whom his master has set over his household, to give them their food at the proper time?",
       "links": "<a href='/AIV/42/12/42'>Luke 12:42</a>",
-      "comment": "The faithful servant gives to the household at the proper time—interpreted spiritually as the shepherds of the people, who feed the faithful with teaching and sacramental life."
+      "comment": "The faithful servant gives to the household at the proper time—interpreted spiritually as the shepherds of the people, who feed the faithful with teaching and sacramental life.",
+      "sectionHeader": "The Faithful and Unfaithful Servants"
     },
     {
       "pk": 47024046,
@@ -617,5 +624,42 @@
       "comment": "Final judgment is severe for those who neglect their calling. The repeated mention of ‘weeping and gnashing of teeth’ refers to real consequences—discipline and mercy are both central themes in the life of faith."
     }
   ],
-  "translatedAt": "2025-12-24T10:17:50.300Z"
+  "translatedAt": "2025-12-24T10:17:50.300Z",
+  "sections": [
+    {
+      "title": "Jesus Foretells the Destruction of the Temple",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "Signs of the End Times",
+      "startVerse": 3,
+      "endVerse": 14
+    },
+    {
+      "title": "The Great Tribulation",
+      "startVerse": 15,
+      "endVerse": 28
+    },
+    {
+      "title": "The Coming of the Son of Man",
+      "startVerse": 29,
+      "endVerse": 31
+    },
+    {
+      "title": "The Lesson of the Fig Tree",
+      "startVerse": 32,
+      "endVerse": 35
+    },
+    {
+      "title": "No One Knows the Day or Hour",
+      "startVerse": 36,
+      "endVerse": 44
+    },
+    {
+      "title": "The Faithful and Unfaithful Servants",
+      "startVerse": 45,
+      "endVerse": 51
+    }
+  ]
 }

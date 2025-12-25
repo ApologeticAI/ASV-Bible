@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Rejoice in the LORD, you righteous! Praise is fitting for those who are upright.",
       "links": "<a href='/AIV/19/32/11'>Ps 32:11</a>; <a href='/AIV/19/92/1'>Ps 92:1</a>",
-      "comment": "The Psalm opens with a call for the righteous to rejoice, highlighting that worship is especially suited for those who live in fidelity to God. This connects with the biblical theme that true praise arises from upright hearts (cf. Ps 51:17)."
+      "comment": "The Psalm opens with a call for the righteous to rejoice, highlighting that worship is especially suited for those who live in fidelity to God. This connects with the biblical theme that true praise arises from upright hearts (cf. Ps 51:17).",
+      "sectionHeader": "A Call to Praise the Lord"
     },
     {
       "pk": 23033002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "For the word of the LORD is upright, and all His work is done in faithfulness.",
       "links": "<a href='/AIV/19/119/137'>Ps 119:137</a>; <a href='/AIV/05/32/4'>Deut 32:4</a>",
-      "comment": "The integrity of God's word is the foundation of His faithfulness. Christians see in this a foreshadowing of the incarnate Word, who is utterly trustworthy (Jn 1:1; Rev 19:11–13)."
+      "comment": "The integrity of God's word is the foundation of His faithfulness. Christians see in this a foreshadowing of the incarnate Word, who is utterly trustworthy (Jn 1:1; Rev 19:11–13).",
+      "sectionHeader": "The Lord’s Power in Creation"
     },
     {
       "pk": 23033005,
@@ -122,7 +124,8 @@
       "verse": 10,
       "text": "The LORD frustrates the plans of the nations; He thwarts the purposes of the peoples.",
       "links": "<a href='/AIV/23/8/10'>Isa 8:10</a>; <a href='/AIV/18/5/12'>Job 5:12</a>",
-      "comment": "God's sovereignty reigns over human politics and ambitions. This is a reminder for Christian unity and confidence in God's ultimate plan that transcends any earthly scheme."
+      "comment": "God's sovereignty reigns over human politics and ambitions. This is a reminder for Christian unity and confidence in God's ultimate plan that transcends any earthly scheme.",
+      "sectionHeader": "The Lord’s Sovereignty over the Nations"
     },
     {
       "pk": 23033011,
@@ -158,7 +161,8 @@
       "verse": 13,
       "text": "The LORD looks down from heaven; He sees all the children of man.",
       "links": "<a href='/AIV/19/14/2'>Ps 14:2</a>; <a href='/AIV/19/102/19'>Ps 102:19</a>",
-      "comment": "God's watchful gaze is universal. Nothing escapes His sight, reinforcing the reality of both individual and communal accountability to Him."
+      "comment": "God's watchful gaze is universal. Nothing escapes His sight, reinforcing the reality of both individual and communal accountability to Him.",
+      "sectionHeader": "The Lord Watches Over His People"
     },
     {
       "pk": 23033014,
@@ -242,7 +246,8 @@
       "verse": 20,
       "text": "Our soul waits for the LORD; He is our help and our shield.",
       "links": "<a href='/AIV/19/18/2'>Ps 18:2</a>; <a href='/AIV/19/130/5'>Ps 130:5</a>",
-      "comment": "Hopeful expectation and trust in the Lord are themes central to the life of faith. The image of God as both help and shield resonates with Christian teaching on spiritual warfare and perseverance."
+      "comment": "Hopeful expectation and trust in the Lord are themes central to the life of faith. The image of God as both help and shield resonates with Christian teaching on spiritual warfare and perseverance.",
+      "sectionHeader": "Trust and Hope in the Lord"
     },
     {
       "pk": 23033021,
@@ -269,5 +274,32 @@
       "comment": "The psalm concludes with a prayer for steadfast love (hesed) according to hope. This underlines the ongoing need for God's covenant mercy and points forward to the fulfillment of hope in the new covenant."
     }
   ],
-  "translatedAt": "2025-12-24T06:09:38.286Z"
+  "translatedAt": "2025-12-24T06:09:38.286Z",
+  "sections": [
+    {
+      "title": "A Call to Praise the Lord",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "The Lord’s Power in Creation",
+      "startVerse": 4,
+      "endVerse": 9
+    },
+    {
+      "title": "The Lord’s Sovereignty over the Nations",
+      "startVerse": 10,
+      "endVerse": 12
+    },
+    {
+      "title": "The Lord Watches Over His People",
+      "startVerse": 13,
+      "endVerse": 19
+    },
+    {
+      "title": "Trust and Hope in the Lord",
+      "startVerse": 20,
+      "endVerse": 22
+    }
+  ]
 }

@@ -3,7 +3,6 @@
   "bookName": "Esther",
   "bookAbbreviation": "Esth",
   "chapter": 5,
-  "sections": [],
   "verses": [
     {
       "pk": 19005001,
@@ -15,7 +14,8 @@
       "verse": 1,
       "text": "On the third day, Esther put on her royal garments and stood in the inner court of the king’s palace, opposite the king’s hall. The king was seated on his royal throne inside the hall, facing the entrance.",
       "links": "<a href='/AIV/02/28/40'>Ex. 28:40</a>; <a href='/AIV/19/45/13-14'>Ps. 45:13-14</a>",
-      "comment": "Esther's preparation and timing here echoes holy customs of ceremonial preparation (see Exodus 28:40). Her courageous act mirrors intercession, drawing on imagery of royal mediation seen in the Psalms. The 'third day' can be seen as a symbolic foreshadowing of victory and resurrection, which carries deeper implications in salvation history."
+      "comment": "Esther's preparation and timing here echoes holy customs of ceremonial preparation (see Exodus 28:40). Her courageous act mirrors intercession, drawing on imagery of royal mediation seen in the Psalms. The 'third day' can be seen as a symbolic foreshadowing of victory and resurrection, which carries deeper implications in salvation history.",
+      "sectionHeader": "Esther Appears Before the King"
     },
     {
       "pk": 19005002,
@@ -51,7 +51,8 @@
       "verse": 4,
       "text": "Esther answered, \"If it pleases the king, let the king and Haman come today to the banquet I have prepared for him.\"",
       "links": "<a href='/AIV/19/23/5'>Ps. 23:5</a>; <a href='/AIV/42/22/30'>Luke 22:30</a>",
-      "comment": "Esther invites the king and his adviser to a banquet, presenting hospitality similar to divine feasts (Psalm 23:5). The meal setting hints at spiritual nourishment and foreshadows later biblical banquets associated with the kingdom."
+      "comment": "Esther invites the king and his adviser to a banquet, presenting hospitality similar to divine feasts (Psalm 23:5). The meal setting hints at spiritual nourishment and foreshadows later biblical banquets associated with the kingdom.",
+      "sectionHeader": "Esther's First Banquet"
     },
     {
       "pk": 19005005,
@@ -111,7 +112,8 @@
       "verse": 9,
       "text": "Haman went out that day joyful and with a glad heart. But when Haman saw Mordecai at the king’s gate, and Mordecai neither rose nor trembled before him, Haman was filled with fury against Mordecai.",
       "links": "<a href='/AIV/19/112/10'>Ps. 112:10</a>; <a href='/AIV/20/29/27'>Prov. 29:27</a>",
-      "comment": "Haman’s pride contrasts sharply with Mordecai’s steadfastness; Haman’s anger mirrors the reactions of the wicked against the righteous (Psalm 112:10, Proverbs 29:27). This foreshadows the enduring tension between evil and those who remain faithful."
+      "comment": "Haman’s pride contrasts sharply with Mordecai’s steadfastness; Haman’s anger mirrors the reactions of the wicked against the righteous (Psalm 112:10, Proverbs 29:27). This foreshadows the enduring tension between evil and those who remain faithful.",
+      "sectionHeader": "Haman's Anger Against Mordecai"
     },
     {
       "pk": 19005010,
@@ -171,8 +173,31 @@
       "verse": 14,
       "text": "Then Zeresh his wife and all his friends said to him, \"Let a gallows fifty cubits high be made, and in the morning, ask the king to have Mordecai hanged on it. Then go joyfully with the king to the banquet.\" This suggestion pleased Haman; so he ordered the gallows to be made.",
       "links": "<a href='/AIV/19/35/19'>Ps. 35:19</a>; <a href='/AIV/20/26/27'>Prov. 26:27</a>",
-      "comment": "The plot against Mordecai displays premeditated evil, yet echoes warnings about the fate of those who dig pits for the righteous (Proverbs 26:27). Spiritually, this scene calls to mind persecution of God's people and eventual vindication, an anticipation of the victory of righteousness over evil."
+      "comment": "The plot against Mordecai displays premeditated evil, yet echoes warnings about the fate of those who dig pits for the righteous (Proverbs 26:27). Spiritually, this scene calls to mind persecution of God's people and eventual vindication, an anticipation of the victory of righteousness over evil.",
+      "sectionHeader": "The Plot to Hang Mordecai"
     }
   ],
-  "translatedAt": "2025-12-24T05:09:50.925Z"
+  "translatedAt": "2025-12-24T05:09:50.925Z",
+  "sections": [
+    {
+      "title": "Esther Appears Before the King",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "Esther's First Banquet",
+      "startVerse": 4,
+      "endVerse": 8
+    },
+    {
+      "title": "Haman's Anger Against Mordecai",
+      "startVerse": 9,
+      "endVerse": 13
+    },
+    {
+      "title": "The Plot to Hang Mordecai",
+      "startVerse": 14,
+      "endVerse": 14
+    }
+  ]
 }

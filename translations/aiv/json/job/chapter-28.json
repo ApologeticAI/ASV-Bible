@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Surely there is a mine for silver, and a place where gold is refined.",
       "links": "<a href='/AIV/23/45/3'>Isa. 45:3</a>",
-      "comment": "Job begins this poetic passage with a reflection on humanity's ability to seek out and extract treasures from the earth. Literal reference to mining, but serves as a metaphor for searching for true wisdom. No significant difference from the Hebrew; key theme introduced."
+      "comment": "Job begins this poetic passage with a reflection on humanity's ability to seek out and extract treasures from the earth. Literal reference to mining, but serves as a metaphor for searching for true wisdom. No significant difference from the Hebrew; key theme introduced.",
+      "sectionHeader": "The Search for Precious Metals and Gems"
     },
     {
       "pk": 22028002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "But where can wisdom be found, and where is the place of understanding?",
       "links": "<a href='/AIV/18/28/20'>Job 28:20</a>, <a href='/AIV/20/8/1'>Prov. 8:1</a>",
-      "comment": "Crux of the chapter: despite achievements, wisdom cannot be mined like earthly treasures. The question anticipates Christ as the fullness of wisdom (Col. 2:3)."
+      "comment": "Crux of the chapter: despite achievements, wisdom cannot be mined like earthly treasures. The question anticipates Christ as the fullness of wisdom (Col. 2:3).",
+      "sectionHeader": "The Inaccessibility and Value of Wisdom"
     },
     {
       "pk": 22028013,
@@ -278,7 +280,8 @@
       "verse": 23,
       "text": "God understands the way to it, and He knows its place.",
       "links": "<a href='/AIV/19/147/5'>Ps. 147:5</a>; <a href='/AIV/45/11/33'>Rom. 11:33</a>",
-      "comment": "Here, wisdom is rooted in God alone. Later Christian understanding sees the fullness of wisdom manifested in the person of Christ."
+      "comment": "Here, wisdom is rooted in God alone. Later Christian understanding sees the fullness of wisdom manifested in the person of Christ.",
+      "sectionHeader": "God Alone Knows the Way to Wisdom"
     },
     {
       "pk": 22028024,
@@ -341,5 +344,22 @@
       "comment": "The culmination: wisdom is a virtue rooted in ‘fear of the Lord’, which is both reverent devotion and practical obedience. Literal and spiritual interpretation converge—reverence, faith, and turning from sin are the pathways to wisdom. This message opens to the fullness of communion and sacramental living, central to Christian life. See James 3:17’s description of wisdom from above."
     }
   ],
-  "translatedAt": "2025-12-24T05:51:40.015Z"
+  "translatedAt": "2025-12-24T05:51:40.015Z",
+  "sections": [
+    {
+      "title": "The Search for Precious Metals and Gems",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "The Inaccessibility and Value of Wisdom",
+      "startVerse": 12,
+      "endVerse": 22
+    },
+    {
+      "title": "God Alone Knows the Way to Wisdom",
+      "startVerse": 23,
+      "endVerse": 28
+    }
+  ]
 }

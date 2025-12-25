@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now a certain woman, the wife of one of the sons of the prophets, cried out to Elisha, saying, \"Your servant my husband is dead, and you know that your servant feared the LORD; but now the creditor has come to take my two children to be his slaves.\"",
       "links": "<a href='/AIV/2/22/25'>Ex. 22:25</a>; <a href='/AIV/3/25/39'>Lev. 25:39</a>",
-      "comment": "The widow’s situation shows the vulnerability of prophet families and the social justice provisions of the law. The fear of the Lord hints at the connection between faithful living and divine intervention."
+      "comment": "The widow’s situation shows the vulnerability of prophet families and the social justice provisions of the law. The fear of the Lord hints at the connection between faithful living and divine intervention.",
+      "sectionHeader": "The Widow’s Oil Multiplied"
     },
     {
       "pk": 12004002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Now it happened one day that Elisha went to Shunem, where there was a prominent woman, and she urged him to eat some food. So whenever he passed by, he would turn in there to eat.",
       "links": "<a href='/AIV/9/25/8'>1 Sam. 25:8</a>; <a href='/AIV/42/10/38-42'>Luke 10:38-42</a>",
-      "comment": "Hospitality to prophets is a consistent theme, showing the importance of recognizing and supporting God’s representatives."
+      "comment": "Hospitality to prophets is a consistent theme, showing the importance of recognizing and supporting God’s representatives.",
+      "sectionHeader": "The Shunammite Woman’s Son"
     },
     {
       "pk": 12004009,
@@ -458,7 +460,8 @@
       "verse": 38,
       "text": "And Elisha returned to Gilgal; and there was a famine in the land. Now the sons of the prophets were sitting before him, and he said to his servant, \"Set on the large pot, and boil stew for the sons of the prophets.\"",
       "links": "<a href='/AIV/1/12/10'>Gen 12:10</a>; <a href='/AIV/40/14/19'>Matt 14:19</a>",
-      "comment": "The prophet’s concern for his disciples during famine is reminiscent of Christ feeding his followers."
+      "comment": "The prophet’s concern for his disciples during famine is reminiscent of Christ feeding his followers.",
+      "sectionHeader": "Death in the Pot"
     },
     {
       "pk": 12004039,
@@ -506,7 +509,8 @@
       "verse": 42,
       "text": "Then a man came from Baal Shalishah and brought the man of God bread of the firstfruits, twenty loaves of barley bread, and some new grain in his sack. And he said, \"Give it to the people so they may eat.\"",
       "links": "<a href='/AIV/3/23/10'>Lev 23:10</a>; <a href='/AIV/41/6/35-44'>Mark 6:35-44</a>",
-      "comment": "Bread of firstfruits points to offering and blessing, paralleling the multiplication of bread in Christ’s ministry (Mark 6:35-44)."
+      "comment": "Bread of firstfruits points to offering and blessing, paralleling the multiplication of bread in Christ’s ministry (Mark 6:35-44).",
+      "sectionHeader": "The Multiplication of the Loaves"
     },
     {
       "pk": 12004043,
@@ -533,5 +537,27 @@
       "comment": "God’s word brings about miraculous abundance, prefiguring the Eucharistic imagery and Christ’s ministry of satisfying all who come in faith."
     }
   ],
-  "translatedAt": "2025-12-24T03:44:40.290Z"
+  "translatedAt": "2025-12-24T03:44:40.290Z",
+  "sections": [
+    {
+      "title": "The Widow’s Oil Multiplied",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "The Shunammite Woman’s Son",
+      "startVerse": 8,
+      "endVerse": 37
+    },
+    {
+      "title": "Death in the Pot",
+      "startVerse": 38,
+      "endVerse": 41
+    },
+    {
+      "title": "The Multiplication of the Loaves",
+      "startVerse": 42,
+      "endVerse": 44
+    }
+  ]
 }

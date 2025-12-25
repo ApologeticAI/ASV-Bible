@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "James, a servant of God and of the Lord Jesus Christ, to the twelve tribes scattered abroad: Greetings.",
       "links": "<a href='/AIV/45/1/1'>Romans 1:1</a>; <a href='/AIV/44/2/36'>Acts 2:36</a>",
-      "comment": "James begins this letter affirming Jesus as Lord, emphasizing both his servanthood and the unity of God's people. The reference to the twelve tribes points to a spiritual continuity with Israel."
+      "comment": "James begins this letter affirming Jesus as Lord, emphasizing both his servanthood and the unity of God's people. The reference to the twelve tribes points to a spiritual continuity with Israel.",
+      "sectionHeader": "Salutation"
     },
     {
       "pk": 66001002,
@@ -26,7 +27,8 @@
       "verse": 2,
       "text": "Consider it all joy, my brothers, whenever you encounter various trials,",
       "links": "<a href='/AIV/45/5/3'>Romans 5:3</a>; <a href='/AIV/60/4/13'>1 Peter 4:13</a>",
-      "comment": "Joy in suffering is a key Christian teaching, echoing Jesus' Sermon on the Mount (Matthew 5:11-12). Trials have a redemptive purpose."
+      "comment": "Joy in suffering is a key Christian teaching, echoing Jesus' Sermon on the Mount (Matthew 5:11-12). Trials have a redemptive purpose.",
+      "sectionHeader": "Faith and Wisdom in Trials"
     },
     {
       "pk": 66001003,
@@ -110,7 +112,8 @@
       "verse": 9,
       "text": "Let the brother in humble circumstances glory in his high position,",
       "links": "<a href='/AIV/40/5/3'>Matthew 5:3</a>; <a href='/AIV/46/1/26'>1 Corinthians 1:26</a>",
-      "comment": "True exaltation comes from God, not earthly status, reflecting Jesus’ teaching on the blessedness of the poor in spirit."
+      "comment": "True exaltation comes from God, not earthly status, reflecting Jesus’ teaching on the blessedness of the poor in spirit.",
+      "sectionHeader": "Poverty and Riches"
     },
     {
       "pk": 66001010,
@@ -146,7 +149,8 @@
       "verse": 12,
       "text": "Blessed is the man who endures temptation, for when he has stood the test he will receive the crown of life, which the Lord has promised to those who love him.",
       "links": "<a href='/AIV/66/2/10'>Revelation 2:10</a>; <a href='/AIV/40/24/13'>Matthew 24:13</a>",
-      "comment": "Endurance leads to reward, echoing Jesus’ teaching about perseverance. The 'crown of life' is a symbol of ultimate salvation for the faithful."
+      "comment": "Endurance leads to reward, echoing Jesus’ teaching about perseverance. The 'crown of life' is a symbol of ultimate salvation for the faithful.",
+      "sectionHeader": "Perseverance Under Temptation"
     },
     {
       "pk": 66001013,
@@ -230,7 +234,8 @@
       "verse": 19,
       "text": "Know this, my beloved brothers: Let every person be quick to hear, slow to speak, slow to anger;",
       "links": "<a href='/AIV/20/17/27'>Proverbs 17:27</a>; <a href='/AIV/21/5/2'>Ecclesiastes 5:2</a>",
-      "comment": "Listening before speaking is wisdom literature advice, repeated here for the New Covenant community."
+      "comment": "Listening before speaking is wisdom literature advice, repeated here for the New Covenant community.",
+      "sectionHeader": "Hearing and Doing the Word"
     },
     {
       "pk": 66001020,
@@ -314,7 +319,8 @@
       "verse": 26,
       "text": "If anyone thinks he is religious and does not bridle his tongue but deceives his own heart, his religion is worthless.",
       "links": "<a href='/AIV/19/34/13'>Psalm 34:13</a>; <a href='/AIV/40/12/37'>Matthew 12:37</a>",
-      "comment": "True religion involves control of speech and honesty. This is a strong call for integrity within the community of believers."
+      "comment": "True religion involves control of speech and honesty. This is a strong call for integrity within the community of believers.",
+      "sectionHeader": "True Religion"
     },
     {
       "pk": 66001027,
@@ -329,5 +335,37 @@
       "comment": "Faith expresses itself through charity and personal holiness. The combination of love and purity is foundational and recalls Jesus’ teachings about loving the least among us."
     }
   ],
-  "translatedAt": "2025-12-24T12:24:09.744Z"
+  "translatedAt": "2025-12-24T12:24:09.744Z",
+  "sections": [
+    {
+      "title": "Salutation",
+      "startVerse": 1,
+      "endVerse": 1
+    },
+    {
+      "title": "Faith and Wisdom in Trials",
+      "startVerse": 2,
+      "endVerse": 8
+    },
+    {
+      "title": "Poverty and Riches",
+      "startVerse": 9,
+      "endVerse": 11
+    },
+    {
+      "title": "Perseverance Under Temptation",
+      "startVerse": 12,
+      "endVerse": 18
+    },
+    {
+      "title": "Hearing and Doing the Word",
+      "startVerse": 19,
+      "endVerse": 25
+    },
+    {
+      "title": "True Religion",
+      "startVerse": 26,
+      "endVerse": 27
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "After this, Paul left Athens and went to Corinth.",
       "links": "<a href='/AIV/51/17/15'>Acts 17:15</a>",
-      "comment": "Paul transitions from the intellectual atmosphere of Athens to Corinth, a pivotal city for the early Christian mission."
+      "comment": "Paul transitions from the intellectual atmosphere of Athens to Corinth, a pivotal city for the early Christian mission.",
+      "sectionHeader": "Paul in Corinth"
     },
     {
       "pk": 51018002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "But while Gallio was proconsul of Achaia, the Jews made a united attack against Paul and brought him before the tribunal,",
       "links": "<a href='/AIV/51/13/50'>Acts 13:50</a>",
-      "comment": "The tribunal scene is a historical marker, as Gallio is attested in non-Christian sources, providing a fixed date for Paul’s ministry."
+      "comment": "The tribunal scene is a historical marker, as Gallio is attested in non-Christian sources, providing a fixed date for Paul’s ministry.",
+      "sectionHeader": "Paul before Gallio"
     },
     {
       "pk": 51018013,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "Paul stayed on for many days. Then he took leave of the brothers and set sail for Syria, taking Priscilla and Aquila with him. At Cenchreae he had his hair cut, for he was under a vow.",
       "links": "<a href='/AIV/04/6/18'>Num. 6:18</a>; <a href='/AIV/51/21/23-24'>Acts 21:23-24</a>",
-      "comment": "Paul’s vow is reminiscent of Nazirite practices, showing continuity between old and new covenant observances and communal spiritual discipline."
+      "comment": "Paul’s vow is reminiscent of Nazirite practices, showing continuity between old and new covenant observances and communal spiritual discipline.",
+      "sectionHeader": "Paul's Return to Antioch"
     },
     {
       "pk": 51018019,
@@ -290,7 +293,8 @@
       "verse": 24,
       "text": "Now a Jew named Apollos, a native of Alexandria, an eloquent man and well-versed in the Scriptures, came to Ephesus.",
       "links": "<a href='/AIV/46/1/12'>1 Cor. 1:12</a>",
-      "comment": "Apollos's scriptural knowledge and eloquence show the importance of learning and rhetoric in spreading Christian truth."
+      "comment": "Apollos's scriptural knowledge and eloquence show the importance of learning and rhetoric in spreading Christian truth.",
+      "sectionHeader": "Apollos in Ephesus and Corinth"
     },
     {
       "pk": 51018025,
@@ -341,5 +345,27 @@
       "comment": "Apollos proclaims Jesus as the fulfillment of the Scriptures—a high Christology and the heart of apostolic preaching, drawing on both literal and spiritual meaning for the early Church."
     }
   ],
-  "translatedAt": "2025-12-24T11:28:55.320Z"
+  "translatedAt": "2025-12-24T11:28:55.320Z",
+  "sections": [
+    {
+      "title": "Paul in Corinth",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "Paul before Gallio",
+      "startVerse": 12,
+      "endVerse": 17
+    },
+    {
+      "title": "Paul's Return to Antioch",
+      "startVerse": 18,
+      "endVerse": 23
+    },
+    {
+      "title": "Apollos in Ephesus and Corinth",
+      "startVerse": 24,
+      "endVerse": 28
+    }
+  ]
 }

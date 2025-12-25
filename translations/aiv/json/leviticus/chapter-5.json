@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "If anyone sins in that he hears a public call to testify when he is a witness, whether he has seen or learned of the matter, but does not speak, he shall bear his guilt.",
       "links": "<a href='/AIV/16/9/27'>Neh. 9:27</a>; <a href='/AIV/20/29/24'>Prov. 29:24</a>",
-      "comment": "This verse emphasizes the responsibility to bear witness to truth and justice. Failing to do so is not merely a private matter, but incurs guilt before God—a concept that shows both personal and communal responsibility, later reflected in the apostolic teachings (see James 4:17)."
+      "comment": "This verse emphasizes the responsibility to bear witness to truth and justice. Failing to do so is not merely a private matter, but incurs guilt before God—a concept that shows both personal and communal responsibility, later reflected in the apostolic teachings (see James 4:17).",
+      "sectionHeader": "Laws Concerning Unintentional Sins"
     },
     {
       "pk": 3005002,
@@ -170,7 +171,8 @@
       "verse": 14,
       "text": "The LORD spoke to Moses, saying,",
       "links": "<a href='/AIV/3/1/1'>Lev. 1:1</a>",
-      "comment": "A new section begins, introduced by a direct speech from the LORD, underscoring the absolute divine origin of these commands and their continuing authority."
+      "comment": "A new section begins, introduced by a direct speech from the LORD, underscoring the absolute divine origin of these commands and their continuing authority.",
+      "sectionHeader": "Laws for Guilt Offerings"
     },
     {
       "pk": 3005015,
@@ -233,5 +235,17 @@
       "comment": "The repetition underscores the seriousness of sin and the necessity of external means for reconciliation—a theme that runs throughout Scripture and comes to fullness in Christ’s once-for-all sacrifice, and the ongoing means by which that sacrifice is applied to believers."
     }
   ],
-  "translatedAt": "2025-12-24T01:12:10.833Z"
+  "translatedAt": "2025-12-24T01:12:10.833Z",
+  "sections": [
+    {
+      "title": "Laws Concerning Unintentional Sins",
+      "startVerse": 1,
+      "endVerse": 13
+    },
+    {
+      "title": "Laws for Guilt Offerings",
+      "startVerse": 14,
+      "endVerse": 19
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The word of the LORD came to me, saying:",
       "links": "<a href='/AIV/26/13/1'>Ezek. 13:1</a>; <a href='/AIV/26/27/1'>Ezek. 27:1</a>",
-      "comment": "Ezekiel often introduces new messages with a direct statement that the LORD has spoken to him, emphasizing prophetic authority. This passage begins a prophecy against the ruler of Tyre."
+      "comment": "Ezekiel often introduces new messages with a direct statement that the LORD has spoken to him, emphasizing prophetic authority. This passage begins a prophecy against the ruler of Tyre.",
+      "sectionHeader": "Prophecy Against the Ruler of Tyre"
     },
     {
       "pk": 33028002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "The word of the LORD came to me, saying:",
       "links": "<a href='/AIV/26/12/1'>Ezek. 12:1</a>",
-      "comment": "A second oracle begins with the same prophetic formula, introducing a more poetic and symbolic lament over the king of Tyre."
+      "comment": "A second oracle begins with the same prophetic formula, introducing a more poetic and symbolic lament over the king of Tyre.",
+      "sectionHeader": "Lamentation Over the King of Tyre"
     },
     {
       "pk": 33028012,
@@ -242,7 +244,8 @@
       "verse": 20,
       "text": "The word of the LORD came to me, saying:",
       "links": "<a href='/AIV/26/28/1'>Ezek. 28:1</a>",
-      "comment": "A new prophecy against Sidon is introduced—changing from Tyre to its sister city."
+      "comment": "A new prophecy against Sidon is introduced—changing from Tyre to its sister city.",
+      "sectionHeader": "Prophecy Against Sidon"
     },
     {
       "pk": 33028021,
@@ -302,7 +305,8 @@
       "verse": 25,
       "text": "This is what the Lord GOD says: 'When I gather the house of Israel from the peoples among whom they are scattered, and show myself holy among them in the sight of the nations, then they shall dwell in their own land which I gave to my servant Jacob.",
       "links": "<a href='/AIV/26/20/41-42'>Ezek. 20:41-42</a>; <a href='/AIV/01/35/12'>Gen. 35:12</a>",
-      "comment": "God’s promise to gather and restore Israel points to both a historical and a spiritual return. Early interpreters saw this as partially realized in the return from exile, but its ultimate fulfillment occurs when all God’s people are united through Christ, the true Israel."
+      "comment": "God’s promise to gather and restore Israel points to both a historical and a spiritual return. Early interpreters saw this as partially realized in the return from exile, but its ultimate fulfillment occurs when all God’s people are united through Christ, the true Israel.",
+      "sectionHeader": "Israel's Restoration and Security"
     },
     {
       "pk": 33028026,
@@ -317,5 +321,27 @@
       "comment": "Safety, building, and fruitfulness are signs of restored blessing. Theologically, the peace foreshadowed here finds deeper fulfillment in New Testament teaching about the secure, lasting Kingdom of God inaugurated by Jesus Christ."
     }
   ],
-  "translatedAt": "2025-12-24T09:14:01.046Z"
+  "translatedAt": "2025-12-24T09:14:01.046Z",
+  "sections": [
+    {
+      "title": "Prophecy Against the Ruler of Tyre",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "Lamentation Over the King of Tyre",
+      "startVerse": 11,
+      "endVerse": 19
+    },
+    {
+      "title": "Prophecy Against Sidon",
+      "startVerse": 20,
+      "endVerse": 24
+    },
+    {
+      "title": "Israel's Restoration and Security",
+      "startVerse": 25,
+      "endVerse": 26
+    }
+  ]
 }

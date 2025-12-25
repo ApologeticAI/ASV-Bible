@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then what advantage does the Jew have? Or what is the value of circumcision?",
       "links": "<a href='/AIV/45/2/25'>Rom. 2:25</a>; <a href='/AIV/51/2/11'>Col. 2:11</a>",
-      "comment": "Paul begins by addressing the privileges given to the Jewish people, especially concerning the covenant sign of circumcision. He sets the stage for explaining God's plan which embraces both Jews and Gentiles."
+      "comment": "Paul begins by addressing the privileges given to the Jewish people, especially concerning the covenant sign of circumcision. He sets the stage for explaining God's plan which embraces both Jews and Gentiles.",
+      "sectionHeader": "God’s Faithfulness and Human Sin"
     },
     {
       "pk": 52003002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "What then? Are we better off? Not at all. For we have already charged that both Jews and Greeks are all under sin.",
       "links": "<a href='/AIV/45/1/18'>Rom. 1:18</a>; <a href='/AIV/45/2/1'>Rom. 2:1</a>",
-      "comment": "All humanity is equally in need of redemption, regardless of religious heritage. This universal need for grace ties into the later call to unity in Christ."
+      "comment": "All humanity is equally in need of redemption, regardless of religious heritage. This universal need for grace ties into the later call to unity in Christ.",
+      "sectionHeader": "All Are Under Sin"
     },
     {
       "pk": 52003010,
@@ -254,7 +256,8 @@
       "verse": 21,
       "text": "But now, apart from the law, God's righteousness has been revealed, being testified by the Law and the Prophets—",
       "links": "<a href='/AIV/23/56/1'>Isa. 56:1</a>; <a href='/AIV/24/31/31-34'>Jer. 31:31-34</a>; <a href='/AIV/45/1/17'>Rom. 1:17</a>",
-      "comment": "Paul connects the gospel directly to Old Testament prophecy, affirming both continuity and fulfillment. Note how law and prophecy together witness to the new work of God."
+      "comment": "Paul connects the gospel directly to Old Testament prophecy, affirming both continuity and fulfillment. Note how law and prophecy together witness to the new work of God.",
+      "sectionHeader": "Justification through Faith in Christ"
     },
     {
       "pk": 52003022,
@@ -326,7 +329,8 @@
       "verse": 27,
       "text": "Where then is boasting? It is excluded. By what law? By the law of works? No, but by the law of faith.",
       "links": "<a href='/AIV/49/2/8-9'>Eph. 2:8-9</a>; <a href='/AIV/45/4/2'>Rom. 4:2</a>",
-      "comment": "Boasting is ruled out. Faith, not works of law, aligns with the entire biblical narrative of grace. True unity in faith leads necessarily to humility and communal unity."
+      "comment": "Boasting is ruled out. Faith, not works of law, aligns with the entire biblical narrative of grace. True unity in faith leads necessarily to humility and communal unity.",
+      "sectionHeader": "Boasting Excluded; God of All"
     },
     {
       "pk": 52003028,
@@ -377,5 +381,27 @@
       "comment": "Faith does not abolish the law, but establishes its true purpose. Christ fulfills and deepens the law—hinting at continuity, tradition, and ongoing transformation in the believing community."
     }
   ],
-  "translatedAt": "2025-12-24T11:37:10.343Z"
+  "translatedAt": "2025-12-24T11:37:10.343Z",
+  "sections": [
+    {
+      "title": "God’s Faithfulness and Human Sin",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "All Are Under Sin",
+      "startVerse": 9,
+      "endVerse": 20
+    },
+    {
+      "title": "Justification through Faith in Christ",
+      "startVerse": 21,
+      "endVerse": 26
+    },
+    {
+      "title": "Boasting Excluded; God of All",
+      "startVerse": 27,
+      "endVerse": 31
+    }
+  ]
 }

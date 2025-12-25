@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Does not man have hard service on earth? Are his days not like those of a hired worker?",
       "links": "<a href='/AIV/18/14/1'>Job 14:1</a>; <a href='/AIV/18/5/7'>Job 5:7</a>",
-      "comment": "Job compares human life to compulsory labor, highlighting its difficulty and brevity. The word 'hard service' relates to military or hired labor, implying endurance and struggle, foreshadowing the spiritual battles discussed throughout Scripture."
+      "comment": "Job compares human life to compulsory labor, highlighting its difficulty and brevity. The word 'hard service' relates to military or hired labor, implying endurance and struggle, foreshadowing the spiritual battles discussed throughout Scripture.",
+      "sectionHeader": "Job's Miserable Condition"
     },
     {
       "pk": 22007002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "Therefore I will not restrain my mouth; I will speak in the anguish of my spirit; I will complain in the bitterness of my soul.",
       "links": "<a href='/AIV/19/142/2'>Ps. 142:2</a>; <a href='/AIV/24/15/17'>Jer. 15:17</a>",
-      "comment": "Here Job shows the authenticity of prayer and lament expressed from the heart, connecting with the Psalms and authentic Christian spirituality."
+      "comment": "Here Job shows the authenticity of prayer and lament expressed from the heart, connecting with the Psalms and authentic Christian spirituality.",
+      "sectionHeader": "Job's Protest Against Divine Torment"
     },
     {
       "pk": 22007012,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "What is man, that you make so much of him, and that you set your mind on him,",
       "links": "<a href='/AIV/19/8/4'>Ps. 8:4</a>; <a href='/AIV/58/2/6'>Heb. 2:6</a>",
-      "comment": "Job echoes Psalm 8, marveling at God’s attention to humanity. This verse foreshadows both the Incarnation and God’s intimate care for every soul."
+      "comment": "Job echoes Psalm 8, marveling at God’s attention to humanity. This verse foreshadows both the Incarnation and God’s intimate care for every soul.",
+      "sectionHeader": "A Plea for Mercy and Forgiveness"
     },
     {
       "pk": 22007018,
@@ -257,5 +260,22 @@
       "comment": "Job’s plea for forgiveness points ahead to the doctrine of reconciliation and the hope of redemption offered through divine mercy, themes later made explicit by Christ’s redemptive work."
     }
   ],
-  "translatedAt": "2025-12-24T05:42:27.710Z"
+  "translatedAt": "2025-12-24T05:42:27.710Z",
+  "sections": [
+    {
+      "title": "Job's Miserable Condition",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "Job's Protest Against Divine Torment",
+      "startVerse": 11,
+      "endVerse": 16
+    },
+    {
+      "title": "A Plea for Mercy and Forgiveness",
+      "startVerse": 17,
+      "endVerse": 21
+    }
+  ]
 }

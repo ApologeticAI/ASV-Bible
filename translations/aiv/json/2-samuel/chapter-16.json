@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When David had passed a little beyond the summit, Ziba, the servant of Mephibosheth, met him with a pair of saddled donkeys, and on them two hundred loaves of bread, one hundred clusters of raisins, one hundred cakes of figs, and a skin of wine.",
       "links": "<a href='/AIV/10/9/2-10'>2Sam 9:2-10</a>; <a href='/AIV/10/19/17,27'>2Sam 19:17,27</a>",
-      "comment": "David encounters Ziba, who brings generous provisions. The mention of Mephibosheth reminds us of David's ongoing kindness and fidelity to the house of Saul, foreshadowing themes of mercy and covenant faithfulness (see 2Sam 9:1-13)."
+      "comment": "David encounters Ziba, who brings generous provisions. The mention of Mephibosheth reminds us of David's ongoing kindness and fidelity to the house of Saul, foreshadowing themes of mercy and covenant faithfulness (see 2Sam 9:1-13).",
+      "sectionHeader": "Ziba Deceives David"
     },
     {
       "pk": 10016002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "When King David came to Bahurim, behold, a man from the family of Saul came out—his name was Shimei son of Gera. He came out and cursed continuously as he came.",
       "links": "<a href='/AIV/11/2/8'>1Kings 2:8</a>; <a href='/AIV/10/19/16'>2Sam 19:16</a>",
-      "comment": "Shimei, a relative of Saul, curses David, reflecting the conflict and tension remaining between the house of Saul and David’s anointed kingship."
+      "comment": "Shimei, a relative of Saul, curses David, reflecting the conflict and tension remaining between the house of Saul and David’s anointed kingship.",
+      "sectionHeader": "Shimei Curses David"
     },
     {
       "pk": 10016006,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "Now Absalom and all the people, the men of Israel, came to Jerusalem, and Ahithophel was with him.",
       "links": "<a href='/AIV/10/15/12'>2Sam 15:12</a>; <a href='/AIV/10/17/1'>2Sam 17:1</a>",
-      "comment": "Absalom’s entry into Jerusalem marks the height of his rebellion. Ahithophel, once David’s counselor, now sides with Absalom, emphasizing themes of betrayal and false counsel."
+      "comment": "Absalom’s entry into Jerusalem marks the height of his rebellion. Ahithophel, once David’s counselor, now sides with Absalom, emphasizing themes of betrayal and false counsel.",
+      "sectionHeader": "Absalom Enters Jerusalem"
     },
     {
       "pk": 10016016,
@@ -242,7 +245,8 @@
       "verse": 20,
       "text": "Absalom then said to Ahithophel, 'Give us your advice about what we should do.'",
       "links": "<a href='/AIV/10/15/31'>2Sam 15:31</a>",
-      "comment": "Ahithophel is recognized for his wisdom, yet his counsel will soon be defeated by the providence of God, reminding us of the limits of human wisdom against divine purpose."
+      "comment": "Ahithophel is recognized for his wisdom, yet his counsel will soon be defeated by the providence of God, reminding us of the limits of human wisdom against divine purpose.",
+      "sectionHeader": "Ahithophel's Advice to Absalom"
     },
     {
       "pk": 10016021,
@@ -281,5 +285,27 @@
       "comment": "Ahithophel’s wisdom was esteemed like divine oracle, yet his counsel ultimately failed, showing that even the greatest human insight must bow before the higher plans of God. True wisdom is found not just in knowledge, but in obedience to divine will—a lesson that shapes the spiritual life of every disciple."
     }
   ],
-  "translatedAt": "2025-12-24T03:20:21.192Z"
+  "translatedAt": "2025-12-24T03:20:21.192Z",
+  "sections": [
+    {
+      "title": "Ziba Deceives David",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "Shimei Curses David",
+      "startVerse": 5,
+      "endVerse": 14
+    },
+    {
+      "title": "Absalom Enters Jerusalem",
+      "startVerse": 15,
+      "endVerse": 19
+    },
+    {
+      "title": "Ahithophel's Advice to Absalom",
+      "startVerse": 20,
+      "endVerse": 23
+    }
+  ]
 }

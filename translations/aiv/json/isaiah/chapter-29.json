@@ -15,7 +15,8 @@
       "text": "Woe to Ariel, to Ariel, the city where David encamped! Add year to year; let the festivals run their course.",
       "links": "<a href='/AIV/10/5/7'>2 Sam. 5:7</a>; <a href='/AIV/23/1/26'>Isa. 1:26</a>",
       "comment": "Ariel is a symbolic name for Jerusalem, tied to David's royal city. The warning is against a complacent reliance on rituals.",
-      "christology": "Jerusalem, the city of David, prefigures the heavenly city to come (Rev. 21:2)."
+      "christology": "Jerusalem, the city of David, prefigures the heavenly city to come (Rev. 21:2).",
+      "sectionHeader": "Woe and Siege of Ariel"
     },
     {
       "pk": 29029002,
@@ -116,7 +117,8 @@
       "text": "Stare in amazement, be astonished; blind yourselves and be blind! They are drunk, but not with wine, they stagger, but not with strong drink.",
       "links": "<a href='/AIV/23/6/10'>Isa. 6:10</a>; <a href='/AIV/45/11/8'>Rom. 11:8</a>",
       "comment": "Spiritual blindness and stupor are consequences of rejecting God, not physical intoxication.",
-      "spiritual": "Hardness of heart is both divine judgment and the result of persistent unbelief."
+      "spiritual": "Hardness of heart is both divine judgment and the result of persistent unbelief.",
+      "sectionHeader": "Spiritual Blindness and False Worship"
     },
     {
       "pk": 29029010,
@@ -190,7 +192,8 @@
       "text": "Woe to those who deeply hide their plans from the LORD, and whose deeds are done in darkness, and who say, 'Who sees us? Who knows us?'",
       "links": "<a href='/AIV/19/94/7'>Ps. 94:7</a>",
       "comment": "There is no hiding from God; secret evil will be exposed.",
-      "spiritual": "Confession and openness before God are the keys to authentic relationship with Him."
+      "spiritual": "Confession and openness before God are the keys to authentic relationship with Him.",
+      "sectionHeader": "Woe to Those Who Hide from the Lord"
     },
     {
       "pk": 29029016,
@@ -214,7 +217,8 @@
       "verse": 17,
       "text": "Is it not yet a very little while until Lebanon is turned into a fruitful field, and the fruitful field is regarded as a forest?",
       "links": "<a href='/AIV/23/32/15'>Isa. 32:15</a>",
-      "comment": "God promises a great reversal, with wilderness becoming fertile—an image associated with restoration and spiritual renewal."
+      "comment": "God promises a great reversal, with wilderness becoming fertile—an image associated with restoration and spiritual renewal.",
+      "sectionHeader": "Future Restoration and Joy for Jacob"
     },
     {
       "pk": 29029018,
@@ -305,5 +309,27 @@
       "spiritual": "Renewal and unity flow from hearing and accepting God's established truth."
     }
   ],
-  "translatedAt": "2025-12-24T08:04:15.816Z"
+  "translatedAt": "2025-12-24T08:04:15.816Z",
+  "sections": [
+    {
+      "title": "Woe and Siege of Ariel",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "Spiritual Blindness and False Worship",
+      "startVerse": 9,
+      "endVerse": 14
+    },
+    {
+      "title": "Woe to Those Who Hide from the Lord",
+      "startVerse": 15,
+      "endVerse": 16
+    },
+    {
+      "title": "Future Restoration and Joy for Jacob",
+      "startVerse": 17,
+      "endVerse": 24
+    }
+  ]
 }

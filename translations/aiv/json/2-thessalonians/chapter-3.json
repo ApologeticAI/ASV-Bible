@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Finally, brothers, pray for us, that the word of the Lord may spread rapidly and be honored, as it was among you.",
       "links": "<a href='/AIV/45/15/30'>Rom. 15:30</a>; <a href='/AIV/51/4/3'>Col. 4:3</a>",
-      "comment": "Paul asks for communal prayer, highlighting the importance of intercessory prayer and the advancement of the Gospel. The reference to honoring the word suggests an ongoing reverence similar to ancient Jewish traditions regarding the Torah. Intercessory prayer here is collective, not just individual."
+      "comment": "Paul asks for communal prayer, highlighting the importance of intercessory prayer and the advancement of the Gospel. The reference to honoring the word suggests an ongoing reverence similar to ancient Jewish traditions regarding the Torah. Intercessory prayer here is collective, not just individual.",
+      "sectionHeader": "Request for Prayer and Confidence in the Lord"
     },
     {
       "pk": 60003002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "Now we command you, brothers, in the name of our Lord Jesus Christ, to keep away from every brother who walks in idleness and does not live according to the tradition you received from us.",
       "links": "<a href='/AIV/54/5/22'>1 Tim. 5:22</a>; <a href='/AIV/47/6/17'>2 Cor. 6:17</a>",
-      "comment": "Paul appeals to apostolic tradition handed down by word and example, indicating established teachings and practices distinct from mere personal interpretation."
+      "comment": "Paul appeals to apostolic tradition handed down by word and example, indicating established teachings and practices distinct from mere personal interpretation.",
+      "sectionHeader": "Warning Against Idleness"
     },
     {
       "pk": 60003007,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "Now may the Lord of peace himself give you peace at all times and in every way. The Lord be with you all.",
       "links": "<a href='/AIV/52/5/23'>1 Thess. 5:23</a>; <a href='/AIV/43/14/27'>John 14:27</a>",
-      "comment": "Paul prays for Christ's peace, which echoes the messianic promises of the Old Testament and Jesus’ assurance in the Gospel of John. This peace is both spiritual and internal, a gift from Christ."
+      "comment": "Paul prays for Christ's peace, which echoes the messianic promises of the Old Testament and Jesus’ assurance in the Gospel of John. This peace is both spiritual and internal, a gift from Christ.",
+      "sectionHeader": "Final Exhortations and Benediction"
     },
     {
       "pk": 60003017,
@@ -221,5 +224,22 @@
       "comment": "Paul closes with a prayer for grace, a familiar blessing that links all believers through Christ. This grace, referenced often, stems from Christ’s redemptive work and sacramental life of the Church, emphasizing unity in Him."
     }
   ],
-  "translatedAt": "2025-12-24T12:10:22.432Z"
+  "translatedAt": "2025-12-24T12:10:22.432Z",
+  "sections": [
+    {
+      "title": "Request for Prayer and Confidence in the Lord",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Warning Against Idleness",
+      "startVerse": 6,
+      "endVerse": 15
+    },
+    {
+      "title": "Final Exhortations and Benediction",
+      "startVerse": 16,
+      "endVerse": 18
+    }
+  ]
 }

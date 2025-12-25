@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "After these things, God tested Abraham and said to him, 'Abraham.' And he replied, 'Here I am.'",
       "links": "<a href='/AIV/01/21/1'>Gen. 21:1</a>; <a href='/AIV/59/1/13'>Jas. 1:13</a>",
-      "comment": "This verse marks a divine test of Abraham's faith, not a temptation to evil (see James 1:13). God's direct call foreshadows the importance of hearing and responding to God's voice throughout Scripture (cf. 1 Samuel 3:10; Isaiah 6:8)."
+      "comment": "This verse marks a divine test of Abraham's faith, not a temptation to evil (see James 1:13). God's direct call foreshadows the importance of hearing and responding to God's voice throughout Scripture (cf. 1 Samuel 3:10; Isaiah 6:8).",
+      "sectionHeader": "The Testing of Abraham"
     },
     {
       "pk": 1022002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "The angel of the LORD called to Abraham a second time from heaven",
       "links": "<a href='/AIV/01/21/17'>Gen. 21:17</a>; <a href='/AIV/01/16/9'>Gen. 16:9</a>",
-      "comment": "A second call reinforces the significance of God's message and ongoing guidance. The heavenly origin of the call points to an everlasting relationship and a spiritual authority in divine revelation."
+      "comment": "A second call reinforces the significance of God's message and ongoing guidance. The heavenly origin of the call points to an everlasting relationship and a spiritual authority in divine revelation.",
+      "sectionHeader": "The Promise Renewed to Abraham"
     },
     {
       "pk": 1022016,
@@ -242,7 +244,8 @@
       "verse": 20,
       "text": "After these things, Abraham was told, 'Look, Milcah has also borne children to your brother Nahor:",
       "links": "<a href='/AIV/01/11/29'>Gen. 11:29</a>; <a href='/AIV/01/24/15'>Gen. 24:15</a>",
-      "comment": "The news of Nahor's children introduces the background for Rebecca, connecting the line of Abraham to future generations of faith and promise."
+      "comment": "The news of Nahor's children introduces the background for Rebecca, connecting the line of Abraham to future generations of faith and promise.",
+      "sectionHeader": "The Descendants of Nahor"
     },
     {
       "pk": 1022021,
@@ -293,5 +296,22 @@
       "comment": "The mention of Nahor's concubine and her children demonstrates the broader scope of Abraham’s extended family, yet attention remains on the line leading to the fulfillment of the promise, distinguished from other genealogies."
     }
   ],
-  "translatedAt": "2025-12-24T00:21:42.805Z"
+  "translatedAt": "2025-12-24T00:21:42.805Z",
+  "sections": [
+    {
+      "title": "The Testing of Abraham",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "The Promise Renewed to Abraham",
+      "startVerse": 15,
+      "endVerse": 19
+    },
+    {
+      "title": "The Descendants of Nahor",
+      "startVerse": 20,
+      "endVerse": 24
+    }
+  ]
 }

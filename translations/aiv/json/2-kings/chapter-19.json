@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When King Hezekiah heard this, he tore his clothes, covered himself with sackcloth, and went into the house of the LORD.",
       "links": "<a href='/AIV/23/37/1'>Isaiah 37:1</a>; <a href='/AIV/19/69/11'>Psalm 69:11</a>",
-      "comment": "Hezekiah's response is immediate humility and repentance. Sackcloth is a sign of mourning throughout Scripture (see Neh. 9:1), while entering the 'house of the LORD' foreshadows seeking God's presence in crisis."
+      "comment": "Hezekiah's response is immediate humility and repentance. Sackcloth is a sign of mourning throughout Scripture (see Neh. 9:1), while entering the 'house of the LORD' foreshadows seeking God's presence in crisis.",
+      "sectionHeader": "Hezekiah Seeks Isaiah’s Counsel"
     },
     {
       "pk": 12019002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Then the field commander returned, and found the king of Assyria fighting against Libnah, for he had heard that he left Lachish.",
       "links": "<a href='/AIV/23/37/8'>Isaiah 37:8</a>",
-      "comment": "The narrative continues to trace historical movements, corroborated by archaeological discoveries."
+      "comment": "The narrative continues to trace historical movements, corroborated by archaeological discoveries.",
+      "sectionHeader": "Sennacherib’s Threat Renewed"
     },
     {
       "pk": 12019009,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "Hezekiah received the letter from the messengers, read it, and went up to the house of the LORD and spread it before the LORD.",
       "links": "<a href='/AIV/23/37/14'>Isaiah 37:14</a>; <a href='/AIV/19/55/22'>Psalm 55:22</a>",
-      "comment": "Hezekiah’s act is both literal and symbolic—laying out the enemy’s threat before God, emphasizing trust in divine intervention."
+      "comment": "Hezekiah’s act is both literal and symbolic—laying out the enemy’s threat before God, emphasizing trust in divine intervention.",
+      "sectionHeader": "Hezekiah’s Prayer in the Temple"
     },
     {
       "pk": 12019015,
@@ -242,7 +245,8 @@
       "verse": 20,
       "text": "Then Isaiah son of Amoz sent a message to Hezekiah, saying, 'This is what the LORD, the God of Israel, says: I have heard your prayer about Sennacherib king of Assyria.'",
       "links": "<a href='/AIV/23/37/21'>Isaiah 37:21</a>; <a href='/AIV/19/34/4'>Psalm 34:4</a>",
-      "comment": "The power of prayer is affirmed by direct prophetic response, showing God hears the faithful."
+      "comment": "The power of prayer is affirmed by direct prophetic response, showing God hears the faithful.",
+      "sectionHeader": "Isaiah’s Prophecy of Deliverance"
     },
     {
       "pk": 12019021,
@@ -422,7 +426,8 @@
       "verse": 35,
       "text": "That night the angel of the LORD went out and struck down 185,000 men in the Assyrian camp. When the people got up the next morning, there were only dead bodies.",
       "links": "<a href='/AIV/23/37/36'>Isaiah 37:36</a>; <a href='/AIV/2/12/23'>Exodus 12:23</a>",
-      "comment": "Divine intervention by angels underscores spiritual realities behind physical events. The theme of angels as God's agents of deliverance runs throughout Scripture."
+      "comment": "Divine intervention by angels underscores spiritual realities behind physical events. The theme of angels as God's agents of deliverance runs throughout Scripture.",
+      "sectionHeader": "The Destruction of the Assyrian Army"
     },
     {
       "pk": 12019036,
@@ -449,5 +454,32 @@
       "comment": "The humiliation and death of Sennacherib, even while at worship, highlights the impotence of false deities. Kingship in human hands is transient; true authority belongs to the Lord. This narrative foreshadows the supremacy of God’s kingdom, both earthly and eternal."
     }
   ],
-  "translatedAt": "2025-12-24T03:58:59.590Z"
+  "translatedAt": "2025-12-24T03:58:59.590Z",
+  "sections": [
+    {
+      "title": "Hezekiah Seeks Isaiah’s Counsel",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Sennacherib’s Threat Renewed",
+      "startVerse": 8,
+      "endVerse": 13
+    },
+    {
+      "title": "Hezekiah’s Prayer in the Temple",
+      "startVerse": 14,
+      "endVerse": 19
+    },
+    {
+      "title": "Isaiah’s Prophecy of Deliverance",
+      "startVerse": 20,
+      "endVerse": 34
+    },
+    {
+      "title": "The Destruction of the Assyrian Army",
+      "startVerse": 35,
+      "endVerse": 37
+    }
+  ]
 }

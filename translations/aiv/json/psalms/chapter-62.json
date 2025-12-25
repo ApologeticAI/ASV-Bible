@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Truly my soul waits in silence for God; from Him comes my salvation.",
       "links": "<a href='/AIV/19/37/7'>Ps. 37:7</a>; <a href='/AIV/19/3/8'>Ps. 3:8</a>",
-      "comment": "The psalmist opens by emphasizing total dependence on God. The word 'salvation' here points not only to rescue but also spiritual deliverance, which will later be ultimately fulfilled in Christ (see <a href='/AIV/40/1/21'>Matt. 1:21</a>)."
+      "comment": "The psalmist opens by emphasizing total dependence on God. The word 'salvation' here points not only to rescue but also spiritual deliverance, which will later be ultimately fulfilled in Christ (see <a href='/AIV/40/1/21'>Matt. 1:21</a>).",
+      "sectionHeader": "Confidence in God amid Enemies"
     },
     {
       "pk": 23062002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "Trust in Him at all times, O people; pour out your hearts before Him. God is a refuge for us.",
       "links": "<a href='/AIV/19/50/15'>Ps. 50:15</a>; <a href='/AIV/19/142/2'>Ps. 142:2</a>",
-      "comment": "Communal call to trust and heartfelt prayer is parallel to New Testament encouragement to bring every care before God (<a href='/AIV/50/4/6'>Phil. 4:6</a>). The psalmist links individual and collective faith, a concept foundational to Christian community and worship."
+      "comment": "Communal call to trust and heartfelt prayer is parallel to New Testament encouragement to bring every care before God (<a href='/AIV/50/4/6'>Phil. 4:6</a>). The psalmist links individual and collective faith, a concept foundational to Christian community and worship.",
+      "sectionHeader": "Exhortation to Trust in God Alone"
     },
     {
       "pk": 23062009,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "God has spoken once; twice have I heard this: power belongs to God.",
       "links": "<a href='/AIV/19/29/4'>Ps. 29:4</a>; <a href='/AIV/18/33/14'>Job 33:14</a>",
-      "comment": "The 'once...twice' formula stresses certainty and emphasis in Hebrew thought. God's omnipotence is declared, foreshadowing New Testament revelation of Christ's divine authority (<a href='/AIV/40/28/18'>Matt. 28:18</a>)."
+      "comment": "The 'once...twice' formula stresses certainty and emphasis in Hebrew thought. God's omnipotence is declared, foreshadowing New Testament revelation of Christ's divine authority (<a href='/AIV/40/28/18'>Matt. 28:18</a>).",
+      "sectionHeader": "The Power and Mercy of God"
     },
     {
       "pk": 23062012,
@@ -149,5 +152,22 @@
       "comment": "God's steadfast love ('hesed') and just judgment are foundational. The idea that God rewards according to works prepares believers for New Testament teachings on judgment and the importance of living faith demonstrated through actions (<a href='/AIV/59/2/24'>James 2:24</a>)."
     }
   ],
-  "translatedAt": "2025-12-24T06:19:59.889Z"
+  "translatedAt": "2025-12-24T06:19:59.889Z",
+  "sections": [
+    {
+      "title": "Confidence in God amid Enemies",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Exhortation to Trust in God Alone",
+      "startVerse": 8,
+      "endVerse": 10
+    },
+    {
+      "title": "The Power and Mercy of God",
+      "startVerse": 11,
+      "endVerse": 12
+    }
+  ]
 }

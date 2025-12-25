@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Open your doors, O Lebanon, that fire may consume your cedars.",
       "links": "<a href='/AIV/23/10/34'>Isa. 10:34</a>; <a href='/AIV/26/19/12'>Ezek. 19:12</a>",
-      "comment": "Lebanon symbolizes the rulers, and the cedar trees are often interpreted as symbols of glory or pride being judged (see Isa. 2:13). This prepares for the prophetic warning of destruction."
+      "comment": "Lebanon symbolizes the rulers, and the cedar trees are often interpreted as symbols of glory or pride being judged (see Isa. 2:13). This prepares for the prophetic warning of destruction.",
+      "sectionHeader": "The Desolation of Lebanon and the Shepherds"
     },
     {
       "pk": 45011002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "Thus says the LORD my God: ‘Shepherd the flock doomed for slaughter.’",
       "links": "<a href='/AIV/26/34/2'>Ezek. 34:2</a>; <a href='/AIV/40/15/24'>Matt. 15:24</a>",
-      "comment": "God commands the prophet to shepherd the doomed flock—a prophetic image often understood as Israel itself, primed for judgment. Jesus later refers to Himself as the Good Shepherd tasked with the lost sheep of Israel (<a href='/AIV/43/10/11'>John 10:11</a>)."
+      "comment": "God commands the prophet to shepherd the doomed flock—a prophetic image often understood as Israel itself, primed for judgment. Jesus later refers to Himself as the Good Shepherd tasked with the lost sheep of Israel (<a href='/AIV/43/10/11'>John 10:11</a>).",
+      "sectionHeader": "The Parable of the Doomed Flock"
     },
     {
       "pk": 45011005,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "Then I said to them, 'If it seems good to you, give me my wages; but if not, keep them.' And they weighed out as my wages thirty pieces of silver.",
       "links": "<a href='/AIV/02/21/32'>Exod. 21:32</a>; <a href='/AIV/40/26/15'>Matt. 26:15</a>",
-      "comment": "Thirty pieces of silver is the price of a slave (Exod. 21:32), and this prophecy is fulfilled literally in Judas betraying Jesus for this price (<a href='/AIV/40/26/15'>Matt. 26:15</a>). The link to Christ’s betrayal is a profound instance of prophecy directly tying to the New Testament."
+      "comment": "Thirty pieces of silver is the price of a slave (Exod. 21:32), and this prophecy is fulfilled literally in Judas betraying Jesus for this price (<a href='/AIV/40/26/15'>Matt. 26:15</a>). The link to Christ’s betrayal is a profound instance of prophecy directly tying to the New Testament.",
+      "sectionHeader": "The Thirty Pieces of Silver and the Broken Staffs"
     },
     {
       "pk": 45011013,
@@ -182,7 +185,8 @@
       "verse": 15,
       "text": "Then the LORD said to me, 'Take again the gear of a foolish shepherd.'",
       "links": "<a href='/AIV/26/34/2'>Ezek. 34:2</a>; <a href='/AIV/43/10/12'>John 10:12</a>",
-      "comment": "This begins the symbolic act of taking up the role of a false shepherd, representing leaders who lead the people into destruction. Jesus later contrasts Himself as the Good Shepherd as opposed to these false shepherds."
+      "comment": "This begins the symbolic act of taking up the role of a false shepherd, representing leaders who lead the people into destruction. Jesus later contrasts Himself as the Good Shepherd as opposed to these false shepherds.",
+      "sectionHeader": "The Foolish Shepherd"
     },
     {
       "pk": 45011016,
@@ -209,5 +213,27 @@
       "comment": "The prophecy ends with a curse on the false shepherd. Spiritually, this points to the importance of apostolic leadership—those truly set apart to shepherd the people, a principle that continues in the structure of the church."
     }
   ],
-  "translatedAt": "2025-12-24T09:58:39.503Z"
+  "translatedAt": "2025-12-24T09:58:39.503Z",
+  "sections": [
+    {
+      "title": "The Desolation of Lebanon and the Shepherds",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "The Parable of the Doomed Flock",
+      "startVerse": 4,
+      "endVerse": 11
+    },
+    {
+      "title": "The Thirty Pieces of Silver and the Broken Staffs",
+      "startVerse": 12,
+      "endVerse": 14
+    },
+    {
+      "title": "The Foolish Shepherd",
+      "startVerse": 15,
+      "endVerse": 17
+    }
+  ]
 }

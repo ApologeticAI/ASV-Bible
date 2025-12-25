@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Then Job answered and said:",
       "links": "<a href='/AIV/18/15/1'>Job 15:1</a>",
-      "comment": "This introduces Job’s reply to Eliphaz’s accusations. The dialogue structure continues."
+      "comment": "This introduces Job’s reply to Eliphaz’s accusations. The dialogue structure continues.",
+      "sectionHeader": "Job Rebukes His Friends' Comfort"
     },
     {
       "pk": 22016002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "But now He has worn me out; You have ruined my entire family.",
       "links": "<a href='/AIV/18/1/19'>Job 1:19</a>; <a href='/AIV/18/10/1'>Job 10:1</a>",
-      "comment": "Here, Job addresses God directly, expressing that his suffering and loss come under God's permissive will (cf. Lamentations 3:37-38)."
+      "comment": "Here, Job addresses God directly, expressing that his suffering and loss come under God's permissive will (cf. Lamentations 3:37-38).",
+      "sectionHeader": "Job Laments God's Attacks"
     },
     {
       "pk": 22016008,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "O earth, do not cover my blood, and let my cry have no resting place.",
       "links": "<a href='/AIV/18/27/9'>Job 27:9</a>; <a href='/AIV/01/4/10'>Gen. 4:10</a>; <a href='/AIV/66/6/10'>Rev. 6:10</a>",
-      "comment": "There is an appeal to divine justice—Job’s cry, like Abel’s (Gen. 4:10), will not go unheard. The innocent blood speaks to God, fulfilled perfectly in Christ (Heb. 12:24)."
+      "comment": "There is an appeal to divine justice—Job’s cry, like Abel’s (Gen. 4:10), will not go unheard. The innocent blood speaks to God, fulfilled perfectly in Christ (Heb. 12:24).",
+      "sectionHeader": "Job Appeals to Heaven for Vindication"
     },
     {
       "pk": 22016019,
@@ -269,5 +272,22 @@
       "comment": "Job refers to the certainty of death. The hope of resurrection and eternal life (see John 5:28-29) develops from meditations on this finality."
     }
   ],
-  "translatedAt": "2025-12-24T05:46:47.903Z"
+  "translatedAt": "2025-12-24T05:46:47.903Z",
+  "sections": [
+    {
+      "title": "Job Rebukes His Friends' Comfort",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Job Laments God's Attacks",
+      "startVerse": 7,
+      "endVerse": 17
+    },
+    {
+      "title": "Job Appeals to Heaven for Vindication",
+      "startVerse": 18,
+      "endVerse": 22
+    }
+  ]
 }

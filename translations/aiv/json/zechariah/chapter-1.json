@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In the eighth month, in the second year of Darius, the word of the Lord came to Zechariah son of Berechiah, son of Iddo, the prophet:",
       "links": "<a href='/AIV/37/1/1'>Hag. 1:1</a>; <a href='/AIV/12/25/25'>2 Chr. 25:25</a>",
-      "comment": "Zechariah’s prophetic ministry begins during the reign of Darius, connecting to the post-exilic return and restoration context, also found in Haggai. The genealogy highlights continuity and legitimacy in the prophetic office."
+      "comment": "Zechariah’s prophetic ministry begins during the reign of Darius, connecting to the post-exilic return and restoration context, also found in Haggai. The genealogy highlights continuity and legitimacy in the prophetic office.",
+      "sectionHeader": "A Call to Return to the Lord"
     },
     {
       "pk": 45001002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "On the twenty-fourth day of the eleventh month, which is the month of Shebat, in the second year of Darius, the word of the Lord came to Zechariah son of Berechiah, son of Iddo, the prophet:",
       "links": "<a href='/AIV/45/1/1'>Zech. 1:1</a>; <a href='/AIV/16/1/1'>Neh. 1:1</a>",
-      "comment": "Precise dating highlights reliability. Detailed context links to post-exilic restoration, establishing the prophet’s authority and the authenticity of divine revelation."
+      "comment": "Precise dating highlights reliability. Detailed context links to post-exilic restoration, establishing the prophet’s authority and the authenticity of divine revelation.",
+      "sectionHeader": "The Vision of the Horsemen"
     },
     {
       "pk": 45001008,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "Then I looked up and saw four horns.",
       "links": "<a href='/AIV/27/7/7'>Dan. 7:7</a>; <a href='/AIV/45/2/1'>Zech. 2:1</a>",
-      "comment": "Horns symbolize strength and the power of adversaries—common in prophetic imagery. Four often represents completeness, suggesting a global scope of opposition."
+      "comment": "Horns symbolize strength and the power of adversaries—common in prophetic imagery. Four often represents completeness, suggesting a global scope of opposition.",
+      "sectionHeader": "The Vision of the Four Horns and the Four Craftsmen"
     },
     {
       "pk": 45001019,
@@ -257,5 +260,22 @@
       "comment": "Divine justice is accomplished through human agents—restoring, healing, and defending God’s people. This prepares for a pattern of providential leadership and authority in the life of the worshipping community."
     }
   ],
-  "translatedAt": "2025-12-24T09:54:53.341Z"
+  "translatedAt": "2025-12-24T09:54:53.341Z",
+  "sections": [
+    {
+      "title": "A Call to Return to the Lord",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "The Vision of the Horsemen",
+      "startVerse": 7,
+      "endVerse": 17
+    },
+    {
+      "title": "The Vision of the Four Horns and the Four Craftsmen",
+      "startVerse": 18,
+      "endVerse": 21
+    }
+  ]
 }

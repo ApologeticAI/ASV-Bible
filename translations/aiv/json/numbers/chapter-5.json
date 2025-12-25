@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The LORD spoke to Moses, saying:",
       "links": "<a href='/AIV/3/10/8'>Lev. 10:8</a>",
-      "comment": "Major sections in Numbers begin with the LORD's instructions to Moses. This establishes divine authority and continuity with prior revelation, hinting at the need for an appointed mediator who delivers God's law."
+      "comment": "Major sections in Numbers begin with the LORD's instructions to Moses. This establishes divine authority and continuity with prior revelation, hinting at the need for an appointed mediator who delivers God's law.",
+      "sectionHeader": "Unclean Persons Put Outside the Camp"
     },
     {
       "pk": 4005002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "The LORD said to Moses:",
       "links": "<a href='/AIV/3/5/1'>Lev. 5:1</a>",
-      "comment": "A new section begins, again emphasizing the importance of prophecy and revelation through an appointed leader."
+      "comment": "A new section begins, again emphasizing the importance of prophecy and revelation through an appointed leader.",
+      "sectionHeader": "Laws Concerning Restitution"
     },
     {
       "pk": 4005006,
@@ -134,7 +136,8 @@
       "verse": 11,
       "text": "The LORD spoke to Moses:",
       "links": "<a href='/AIV/3/10/8'>Lev. 10:8</a>",
-      "comment": "Another direct revelation marks the introduction of a new legal case—here, the law concerning marital fidelity and suspicion."
+      "comment": "Another direct revelation marks the introduction of a new legal case—here, the law concerning marital fidelity and suspicion.",
+      "sectionHeader": "The Law of Jealousy"
     },
     {
       "pk": 4005012,
@@ -377,5 +380,22 @@
       "comment": "Each bears responsibility for their own sin, and mediation by a designated spiritual authority is established. This foreshadows the need for sacramental confession, forgiveness, and restoration—important elements in Christian faith and practice."
     }
   ],
-  "translatedAt": "2025-12-24T01:31:15.678Z"
+  "translatedAt": "2025-12-24T01:31:15.678Z",
+  "sections": [
+    {
+      "title": "Unclean Persons Put Outside the Camp",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "Laws Concerning Restitution",
+      "startVerse": 5,
+      "endVerse": 10
+    },
+    {
+      "title": "The Law of Jealousy",
+      "startVerse": 11,
+      "endVerse": 31
+    }
+  ]
 }

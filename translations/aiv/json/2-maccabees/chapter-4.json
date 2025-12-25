@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "But Simon, who had spoken against Onias, accused him before the governor, claiming that Onias was the reason for the troubles in the city and that he was stirring up rebellion against the nation.",
       "links": "<a href='/AIV/21/3/37'>2Macc 3:37</a>; <a href='/AIV/16/6/6'>Neh. 6:6</a>",
-      "comment": "Simon’s opposition to Onias sets the stage for the struggle over spiritual leadership. This reflects tensions in maintaining unity and true worship, paralleling conflicts in the tradition around legitimate priesthood."
+      "comment": "Simon’s opposition to Onias sets the stage for the struggle over spiritual leadership. This reflects tensions in maintaining unity and true worship, paralleling conflicts in the tradition around legitimate priesthood.",
+      "sectionHeader": "Intrigue Against Onias the High Priest"
     },
     {
       "pk": 21004002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "After Seleucus died and Antiochus, who was called Epiphanes, took the throne, Jason, Onias’s brother, tried to seize the high priesthood through corruption.",
       "links": "<a href='/AIV/21/1/16'>2Macc 1:16</a>; <a href='/AIV/27/11/21'>Dan 11:21</a>",
-      "comment": "The struggle over legitimate priestly succession points to the necessity of divinely established authority. Epiphanes (“manifest god”) foreshadows later conflicts over true worship."
+      "comment": "The struggle over legitimate priestly succession points to the necessity of divinely established authority. Epiphanes (“manifest god”) foreshadows later conflicts over true worship.",
+      "sectionHeader": "Jason Corruptly Attains the High Priesthood"
     },
     {
       "pk": 21004008,
@@ -278,7 +280,8 @@
       "verse": 23,
       "text": "After spending some time there, Antiochus left for Tyre, leaving Menelaus in charge, who began using his authority for selfish ends.",
       "links": "<a href='/AIV/21/4/24'>2Macc 4:24</a>",
-      "comment": "Entrusting leadership to unworthy men leads to spiritual decline, a warning repeated in the epistles (<a href='/AIV/54/3/2-7'>1Tim 3:2-7</a>)."
+      "comment": "Entrusting leadership to unworthy men leads to spiritual decline, a warning repeated in the epistles (<a href='/AIV/54/3/2-7'>1Tim 3:2-7</a>).",
+      "sectionHeader": "Menelaus Usurps the High Priesthood"
     },
     {
       "pk": 21004024,
@@ -386,7 +389,8 @@
       "verse": 32,
       "text": "When Onias realized Andronicus was plotting against him, he sought asylum in the sanctuary of Daphne near Antioch.",
       "links": "<a href='/AIV/19/27/5'>Ps. 27:5</a>",
-      "comment": "Onias’s flight to sanctuary echoes the importance of holy places as refuges, a theme later seen in Christ’s reverence for the temple (<a href='/AIV/42/19/45-46'>Luke 19:45-46</a>)."
+      "comment": "Onias’s flight to sanctuary echoes the importance of holy places as refuges, a theme later seen in Christ’s reverence for the temple (<a href='/AIV/42/19/45-46'>Luke 19:45-46</a>).",
+      "sectionHeader": "Murder of Onias and Retribution Against Andronicus"
     },
     {
       "pk": 21004033,
@@ -446,7 +450,8 @@
       "verse": 37,
       "text": "Many acts of injustice were committed by Menelaus against sacred objects and laws. He was not punished but instead gained more power with bribery.",
       "links": "<a href='/AIV/21/4/24'>2Macc 4:24</a>",
-      "comment": "The apparent success of evil is a test of faith, yet in God’s providence judgment will come even if delayed. Compare <a href='/AIV/19/73/3'>Ps. 73:3</a>."
+      "comment": "The apparent success of evil is a test of faith, yet in God’s providence judgment will come even if delayed. Compare <a href='/AIV/19/73/3'>Ps. 73:3</a>.",
+      "sectionHeader": "Plundering of the Temple and the Death of Lysimachus"
     },
     {
       "pk": 21004038,
@@ -518,7 +523,8 @@
       "verse": 43,
       "text": "Menelaus was tried over these matters, with debate held before the king.",
       "links": "<a href='/AIV/21/4/24'>2Macc 4:24</a>",
-      "comment": "Trials over sacrilege place the gravity of spiritual offenses at the center of governance, revealing the need for righteous judgment."
+      "comment": "Trials over sacrilege place the gravity of spiritual offenses at the center of governance, revealing the need for righteous judgment.",
+      "sectionHeader": "Unjust Acquittal of Menelaus"
     },
     {
       "pk": 21004044,
@@ -605,5 +611,37 @@
       "comment": "Perseverance of evil for a time is permitted for the greater display of God’s future justice, encouraging humility and patient trust in divine providence."
     }
   ],
-  "translatedAt": "2025-12-24T05:31:31.210Z"
+  "translatedAt": "2025-12-24T05:31:31.210Z",
+  "sections": [
+    {
+      "title": "Intrigue Against Onias the High Priest",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Jason Corruptly Attains the High Priesthood",
+      "startVerse": 7,
+      "endVerse": 22
+    },
+    {
+      "title": "Menelaus Usurps the High Priesthood",
+      "startVerse": 23,
+      "endVerse": 31
+    },
+    {
+      "title": "Murder of Onias and Retribution Against Andronicus",
+      "startVerse": 32,
+      "endVerse": 36
+    },
+    {
+      "title": "Plundering of the Temple and the Death of Lysimachus",
+      "startVerse": 37,
+      "endVerse": 42
+    },
+    {
+      "title": "Unjust Acquittal of Menelaus",
+      "startVerse": 43,
+      "endVerse": 50
+    }
+  ]
 }

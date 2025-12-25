@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now there was a man in Caesarea named Cornelius, a centurion of what was called the Italian Regiment.",
       "links": "<a href='/AIV/44/8/40'>Acts 8:40</a>",
-      "comment": "Cornelius is introduced as a Roman centurion, highlighting the spread of the Gospel beyond Jewish boundaries."
+      "comment": "Cornelius is introduced as a Roman centurion, highlighting the spread of the Gospel beyond Jewish boundaries.",
+      "sectionHeader": "Cornelius' Vision"
     },
     {
       "pk": 51010002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "The next day, as they were journeying and nearing the city, Peter went up on the housetop to pray about the sixth hour.",
       "links": "<a href='/AIV/19/55/17'>Ps. 55:17</a>; <a href='/AIV/42/22/39'>Luke 22:39</a>",
-      "comment": "Peter’s prayer at the sixth hour reflects Jewish custom; continued dedication to prayer marks the rhythm of Christian life."
+      "comment": "Peter’s prayer at the sixth hour reflects Jewish custom; continued dedication to prayer marks the rhythm of Christian life.",
+      "sectionHeader": "Peter's Vision at Joppa"
     },
     {
       "pk": 51010010,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "Now while Peter was inwardly perplexed as to what the vision could mean, behold, the men sent by Cornelius had made inquiry for Simon's house, and stood at the gate.",
       "links": "<a href='/AIV/44/16/9-10'>Acts 16:9-10</a>",
-      "comment": "God’s timing is perfect; the vision is immediately followed by the arrival of Cornelius’s men, providentially connecting events."
+      "comment": "God’s timing is perfect; the vision is immediately followed by the arrival of Cornelius’s men, providentially connecting events.",
+      "sectionHeader": "Peter Sent to Cornelius"
     },
     {
       "pk": 51010018,
@@ -290,7 +293,8 @@
       "verse": 24,
       "text": "On the following day they entered Caesarea. Cornelius was expecting them and had called together his relatives and close friends.",
       "links": "",
-      "comment": "Cornelius’s expectation and bringing together of family and friends reveal a communal approach to receiving the Gospel."
+      "comment": "Cornelius’s expectation and bringing together of family and friends reveal a communal approach to receiving the Gospel.",
+      "sectionHeader": "Peter at Cornelius' House"
     },
     {
       "pk": 51010025,
@@ -530,7 +534,8 @@
       "verse": 44,
       "text": "While Peter was still speaking these words, the Holy Spirit fell on all who heard the message.",
       "links": "<a href='/AIV/44/2/4'>Acts 2:4</a>",
-      "comment": "The Spirit descends without hands, revealing Divine sovereignty; but later, the Church will regularize this gift through visible means."
+      "comment": "The Spirit descends without hands, revealing Divine sovereignty; but later, the Church will regularize this gift through visible means.",
+      "sectionHeader": "The Gentiles Receive the Holy Spirit"
     },
     {
       "pk": 51010045,
@@ -581,5 +586,32 @@
       "comment": "Baptism follows faith and the reception of the Spirit, and is administered with apostolic authority. The staying on shows a period of catechesis and instruction in the faith."
     }
   ],
-  "translatedAt": "2025-12-24T11:23:37.747Z"
+  "translatedAt": "2025-12-24T11:23:37.747Z",
+  "sections": [
+    {
+      "title": "Cornelius' Vision",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "Peter's Vision at Joppa",
+      "startVerse": 9,
+      "endVerse": 16
+    },
+    {
+      "title": "Peter Sent to Cornelius",
+      "startVerse": 17,
+      "endVerse": 23
+    },
+    {
+      "title": "Peter at Cornelius' House",
+      "startVerse": 24,
+      "endVerse": 43
+    },
+    {
+      "title": "The Gentiles Receive the Holy Spirit",
+      "startVerse": 44,
+      "endVerse": 48
+    }
+  ]
 }

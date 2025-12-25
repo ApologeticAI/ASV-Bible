@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "If you do good, understand to whom you are doing it, and you will be thanked for your kindness.",
       "links": "<a href='/AIV/20/3/27'>Prov. 3:27</a>; <a href='/AIV/47/9/7'>2 Cor. 9:7</a>",
-      "comment": "This verse begins by calling for intentional generosity. Know who you help and seek meaningful charity. The biblical principle of discernment in doing good works is echoed in the New Testament (see 2 Corinthians 9:7). Note that true gratitude is given when charity is not naively given, but guided by wisdom and prudence."
+      "comment": "This verse begins by calling for intentional generosity. Know who you help and seek meaningful charity. The biblical principle of discernment in doing good works is echoed in the New Testament (see 2 Corinthians 9:7). Note that true gratitude is given when charity is not naively given, but guided by wisdom and prudence.",
+      "sectionHeader": "Guidelines for Charity"
     },
     {
       "pk": 28012002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "A friend cannot be known in prosperity, nor an enemy hidden in adversity.",
       "links": "<a href='/AIV/20/19/4'>Prov. 19:4</a>; <a href='/AIV/43/13/18'>John 13:18</a>",
-      "comment": "Adversity tests the true nature of relationships. Christ’s experience with Judas (John 13:18) is a profound fulfillment—enemies reveal themselves when the faithful are under trial."
+      "comment": "Adversity tests the true nature of relationships. Christ’s experience with Judas (John 13:18) is a profound fulfillment—enemies reveal themselves when the faithful are under trial.",
+      "sectionHeader": "The Deceitfulness of Enemies"
     },
     {
       "pk": 28012009,
@@ -221,5 +223,17 @@
       "comment": "The enemy's mockery and derision are apparent here. Christ on the Cross encountered such scorn (Ps. 35:15-16). The verse reminds believers that only steadfast communion with God and a united fellowship can overcome the snares of evil."
     }
   ],
-  "translatedAt": "2025-12-24T07:29:14.414Z"
+  "translatedAt": "2025-12-24T07:29:14.414Z",
+  "sections": [
+    {
+      "title": "Guidelines for Charity",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "The Deceitfulness of Enemies",
+      "startVerse": 8,
+      "endVerse": 18
+    }
+  ]
 }

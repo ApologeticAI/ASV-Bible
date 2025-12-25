@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "For the LORD will have compassion on Jacob, and will again choose Israel, and set them in their own land. So foreigners will join them, and will be united with the house of Jacob.",
       "links": "<a href='/AIV/02/19/5-6'>Ex. 19:5-6</a>; <a href='/AIV/23/56/3'>Isa. 56:3</a>",
-      "comment": "God’s mercy for Israel is shown, and foreigners are invited to be part of His people. This foreshadows the inclusion of Gentiles through Christ (see Eph. 2:11-13), showing both continuity and enlargement in God’s plan."
+      "comment": "God’s mercy for Israel is shown, and foreigners are invited to be part of His people. This foreshadows the inclusion of Gentiles through Christ (see Eph. 2:11-13), showing both continuity and enlargement in God’s plan.",
+      "sectionHeader": "The Restoration of Israel"
     },
     {
       "pk": 29014002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "you will take up this taunt against the king of Babylon, and say: \"How the oppressor has ceased! How his fury has ended!\"",
       "links": "<a href='/AIV/27/5/1-6'>Dan. 5:1-6</a>",
-      "comment": "A song of triumph over Babylon’s king signifies judgment. Babylon often symbolizes pride and rebellion against God—an image used in Revelation (see Rev. 18), regarding the defeat of evil."
+      "comment": "A song of triumph over Babylon’s king signifies judgment. Babylon often symbolizes pride and rebellion against God—an image used in Revelation (see Rev. 18), regarding the defeat of evil.",
+      "sectionHeader": "The Taunt Against the King of Babylon"
     },
     {
       "pk": 29014005,
@@ -266,7 +268,8 @@
       "verse": 22,
       "text": "\"I will rise against them,\" declares the LORD of hosts, \"and will cut off from Babylon name and remnant, descendants and posterity,\" says the LORD.",
       "links": "<a href='/AIV/23/13/19'>Isa. 13:19</a>",
-      "comment": "Total, permanent destruction is decreed. God’s judgment is absolute, foreshadowing eschatological (final) justice."
+      "comment": "Total, permanent destruction is decreed. God’s judgment is absolute, foreshadowing eschatological (final) justice.",
+      "sectionHeader": "The Assurance of Babylon's Destruction"
     },
     {
       "pk": 29014023,
@@ -290,7 +293,8 @@
       "verse": 24,
       "text": "The LORD of hosts has sworn: \"As I have planned, so shall it be; and as I have purposed, so shall it stand,",
       "links": "<a href='/AIV/23/46/10'>Isa. 46:10</a>",
-      "comment": "God’s solemn oath highlights His supreme power and unchangeable purpose. Believers can rest in divine providence, a core Christian trust."
+      "comment": "God’s solemn oath highlights His supreme power and unchangeable purpose. Believers can rest in divine providence, a core Christian trust.",
+      "sectionHeader": "The Judgment on Assyria"
     },
     {
       "pk": 29014025,
@@ -338,7 +342,8 @@
       "verse": 28,
       "text": "In the year that King Ahaz died, this oracle came:",
       "links": "<a href='/AIV/12/16/20'>2 Kings 16:20</a>",
-      "comment": "Historical context is noted, tying prophecy to real events—a reminder of God’s unfolding plan throughout history."
+      "comment": "Historical context is noted, tying prophecy to real events—a reminder of God’s unfolding plan throughout history.",
+      "sectionHeader": "The Oracle Against Philistia"
     },
     {
       "pk": 29014029,
@@ -389,5 +394,32 @@
       "comment": "Zion, God's holy city, provides refuge—anticipating the Church as the spiritual home for all who trust God (see 1 Pet. 2:6). The afflicted find true safety in the kingdom God establishes."
     }
   ],
-  "translatedAt": "2025-12-24T07:57:30.464Z"
+  "translatedAt": "2025-12-24T07:57:30.464Z",
+  "sections": [
+    {
+      "title": "The Restoration of Israel",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "The Taunt Against the King of Babylon",
+      "startVerse": 4,
+      "endVerse": 21
+    },
+    {
+      "title": "The Assurance of Babylon's Destruction",
+      "startVerse": 22,
+      "endVerse": 23
+    },
+    {
+      "title": "The Judgment on Assyria",
+      "startVerse": 24,
+      "endVerse": 27
+    },
+    {
+      "title": "The Oracle Against Philistia",
+      "startVerse": 28,
+      "endVerse": 32
+    }
+  ]
 }

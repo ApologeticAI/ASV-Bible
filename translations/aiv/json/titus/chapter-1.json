@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Paul, a servant of God and an apostle of Jesus Christ, for the faith of God's chosen people and the knowledge of the truth that leads to godliness,",
       "links": "<a href='/AIV/45/1/1'>Rom. 1:1</a>; <a href='/AIV/55/1/1'>2 Tim. 1:1</a>",
-      "comment": "Paul identifies himself as both servant and apostle, showing authority to teach and shepherd. The reference to 'God's chosen people' aligns with the continuity of God's saving plan from Israel to the Church (see Rom. 11:5). The unity of faith and truth leading to godliness hints at both belief and transformation of life within the community of believers."
+      "comment": "Paul identifies himself as both servant and apostle, showing authority to teach and shepherd. The reference to 'God's chosen people' aligns with the continuity of God's saving plan from Israel to the Church (see Rom. 11:5). The unity of faith and truth leading to godliness hints at both belief and transformation of life within the community of believers.",
+      "sectionHeader": "Greeting and Mission of Paul"
     },
     {
       "pk": 63001002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "For this reason I left you in Crete, so that you would set in order what remained unfinished and appoint elders in every city as I directed you—",
       "links": "<a href='/AIV/44/14/23'>Acts 14:23</a>; <a href='/AIV/54/3/1'>1 Tim. 3:1</a>",
-      "comment": "Titus is given authority to 'appoint elders.' This is an early example of apostolic succession and the orderly structure of leadership. Titus is to complete what was only begun, stressing the importance of order and hierarchy in the life of the Church (cf. Acts 14:23)."
+      "comment": "Titus is given authority to 'appoint elders.' This is an early example of apostolic succession and the orderly structure of leadership. Titus is to complete what was only begun, stressing the importance of order and hierarchy in the life of the Church (cf. Acts 14:23).",
+      "sectionHeader": "Qualifications of Elders"
     },
     {
       "pk": 63001006,
@@ -122,7 +124,8 @@
       "verse": 10,
       "text": "For there are many rebellious people, empty talkers and deceivers, especially those of the circumcision party.",
       "links": "<a href='/AIV/54/1/6'>1 Tim. 1:6</a>; <a href='/AIV/48/1/7'>Gal. 1:7</a>",
-      "comment": "False teachers are especially associated with the circumcision party—Judaizers seeking to impose old covenant law on the new believers. Guarding the church from such errors is part of the overseer’s duty, preserving the integrity of the faith delivered by the apostles."
+      "comment": "False teachers are especially associated with the circumcision party—Judaizers seeking to impose old covenant law on the new believers. Guarding the church from such errors is part of the overseer’s duty, preserving the integrity of the faith delivered by the apostles.",
+      "sectionHeader": "Warning Against False Teachers"
     },
     {
       "pk": 63001011,
@@ -197,5 +200,22 @@
       "comment": "True faith must be shown by works. Mere profession is not enough if actions contradict belief (see James 2:17, Matt. 7:21). This verse underlines the importance of the unity of faith and works in the Christian life, and the responsibility of leaders to model and enforce this harmony."
     }
   ],
-  "translatedAt": "2025-12-24T12:15:18.206Z"
+  "translatedAt": "2025-12-24T12:15:18.206Z",
+  "sections": [
+    {
+      "title": "Greeting and Mission of Paul",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "Qualifications of Elders",
+      "startVerse": 5,
+      "endVerse": 9
+    },
+    {
+      "title": "Warning Against False Teachers",
+      "startVerse": 10,
+      "endVerse": 16
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Like snow in summer or rain during harvest, so honor is not fitting for a fool.",
       "links": "<a href='/AIV/20/19/10'>Prov. 19:10</a>; <a href='/AIV/20/17/7'>Prov. 17:7</a>",
-      "comment": "The image of snow in summer emphasizes how inappropriate it is to give honor to the undeserving. In the spiritual life, true honor is reserved for those who grow in wisdom and virtue, reflecting Christ's humility."
+      "comment": "The image of snow in summer emphasizes how inappropriate it is to give honor to the undeserving. In the spiritual life, true honor is reserved for those who grow in wisdom and virtue, reflecting Christ's humility.",
+      "sectionHeader": "Warnings Against Fools"
     },
     {
       "pk": 24026002,
@@ -158,7 +159,8 @@
       "verse": 13,
       "text": "The lazy person says, 'There is a lion in the road! A lion is in the streets!'",
       "links": "<a href='/AIV/20/22/13'>Prov. 22:13</a>",
-      "comment": "Excuses born out of laziness reflect spiritual inertia, a challenge that early Christians warned against in pursuit of holiness."
+      "comment": "Excuses born out of laziness reflect spiritual inertia, a challenge that early Christians warned against in pursuit of holiness.",
+      "sectionHeader": "The Folly of Laziness"
     },
     {
       "pk": 24026014,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "Like one who grabs a dog by the ears is someone who meddles in a quarrel not his own.",
       "links": "<a href='/AIV/20/17/14'>Prov. 17:14</a>",
-      "comment": "Involvement in unnecessary disputes brings trouble upon oneself. The peace that Christ calls us to pursue is threatened by unnecessary conflict."
+      "comment": "Involvement in unnecessary disputes brings trouble upon oneself. The peace that Christ calls us to pursue is threatened by unnecessary conflict.",
+      "sectionHeader": "Dangers of Meddling and Deceit"
     },
     {
       "pk": 24026018,
@@ -242,7 +245,8 @@
       "verse": 20,
       "text": "Where there is no wood, the fire goes out, and where there is no gossip, quarrel ceases.",
       "links": "<a href='/AIV/20/16/28'>Prov. 16:28</a>; <a href='/AIV/20/17/9'>Prov. 17:9</a>",
-      "comment": "Peace is restored when gossip stops. The value of speech in building unity is a repeated biblical theme."
+      "comment": "Peace is restored when gossip stops. The value of speech in building unity is a repeated biblical theme.",
+      "sectionHeader": "Quarrels, Gossip, and Deception"
     },
     {
       "pk": 24026021,
@@ -341,5 +345,27 @@
       "comment": "Truthfulness and humility are marks of genuine faith; flattery and deceit erode the integrity required for holiness. Those who truly seek unity avoid deceitful words."
     }
   ],
-  "translatedAt": "2025-12-24T07:04:00.438Z"
+  "translatedAt": "2025-12-24T07:04:00.438Z",
+  "sections": [
+    {
+      "title": "Warnings Against Fools",
+      "startVerse": 1,
+      "endVerse": 12
+    },
+    {
+      "title": "The Folly of Laziness",
+      "startVerse": 13,
+      "endVerse": 16
+    },
+    {
+      "title": "Dangers of Meddling and Deceit",
+      "startVerse": 17,
+      "endVerse": 19
+    },
+    {
+      "title": "Quarrels, Gossip, and Deception",
+      "startVerse": 20,
+      "endVerse": 28
+    }
+  ]
 }

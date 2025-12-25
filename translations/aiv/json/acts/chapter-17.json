@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now when they had passed through Amphipolis and Apollonia, they came to Thessalonica, where there was a synagogue of the Jews.",
       "links": "<a href='/AIV/52/1/1'>1 Thess. 1:1</a>",
-      "comment": "Paul’s custom was to seek out synagogues to begin his mission among fellow Jews. The mention of Thessalonica’s synagogue sets the stage for the next verses where Paul proclaims Christ in accordance with the Scriptures."
+      "comment": "Paul’s custom was to seek out synagogues to begin his mission among fellow Jews. The mention of Thessalonica’s synagogue sets the stage for the next verses where Paul proclaims Christ in accordance with the Scriptures.",
+      "sectionHeader": "Paul and Silas in Thessalonica"
     },
     {
       "pk": 51017002,
@@ -122,7 +123,8 @@
       "verse": 10,
       "text": "The brothers immediately sent Paul and Silas away by night to Berea. When they arrived, they went into the synagogue of the Jews.",
       "links": "<a href='/AIV/44/8/1'>Acts 8:1</a>",
-      "comment": "Paul and Silas escape persecution and continue their mission. Their immediate return to a synagogue demonstrates perseverance and a desire to reach all people with the gospel."
+      "comment": "Paul and Silas escape persecution and continue their mission. Their immediate return to a synagogue demonstrates perseverance and a desire to reach all people with the gospel.",
+      "sectionHeader": "Paul and Silas in Berea"
     },
     {
       "pk": 51017011,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "Now while Paul was waiting for them at Athens, his spirit was provoked within him as he saw that the city was full of idols.",
       "links": "<a href='/AIV/45/1/21-23'>Rom. 1:21-23</a>",
-      "comment": "Paul’s distress at the idolatry of Athens demonstrates his zeal for the worship of the one true God. The city’s spiritual state compels him to evangelize, echoing the prophets’ concern over idols."
+      "comment": "Paul’s distress at the idolatry of Athens demonstrates his zeal for the worship of the one true God. The city’s spiritual state compels him to evangelize, echoing the prophets’ concern over idols.",
+      "sectionHeader": "Paul in Athens; The Sermon at the Areopagus"
     },
     {
       "pk": 51017017,
@@ -413,5 +416,22 @@
       "comment": "Even in a city famed for skepticism, the gospel’s power draws converts. Entry into the gathered community through faith is always personal and involves commitment. The role of prominent converts hints at the later importance of orderly succession and unity under apostolic teaching."
     }
   ],
-  "translatedAt": "2025-12-24T11:28:19.231Z"
+  "translatedAt": "2025-12-24T11:28:19.231Z",
+  "sections": [
+    {
+      "title": "Paul and Silas in Thessalonica",
+      "startVerse": 1,
+      "endVerse": 9
+    },
+    {
+      "title": "Paul and Silas in Berea",
+      "startVerse": 10,
+      "endVerse": 15
+    },
+    {
+      "title": "Paul in Athens; The Sermon at the Areopagus",
+      "startVerse": 16,
+      "endVerse": 34
+    }
+  ]
 }

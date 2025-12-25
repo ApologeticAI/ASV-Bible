@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Run to and fro through the streets of Jerusalem; look and take note! Search in its squares to see if you can find a single person, anyone who does justice and seeks truth, so that I may pardon her.",
       "links": "<a href='/AIV/01/18/23-32'>Gen. 18:23-32</a>; <a href='/AIV/26/22/30'>Ezek. 22:30</a>",
-      "comment": "God's mercy extends at the discovery of even one righteous person, reminiscent of Abraham pleading for Sodom (Gen. 18). This points to the biblical principle of intercession and the idea of the faithful remnant."
+      "comment": "God's mercy extends at the discovery of even one righteous person, reminiscent of Abraham pleading for Sodom (Gen. 18). This points to the biblical principle of intercession and the idea of the faithful remnant.",
+      "sectionHeader": "The Universal Corruption of Jerusalem"
     },
     {
       "pk": 30005002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "'Behold, I am bringing against you a nation from afar, O house of Israel,' declares the Lord. 'It is an enduring nation, an ancient nation, a nation whose language you do not know, nor can you understand what they say.'",
       "links": "<a href='/AIV/05/28/49'>Deut. 28:49</a>",
-      "comment": "Foreign conquest as divine discipline is a recurring tool in biblical history. Israel's inability to understand their conquerors further emphasizes the pain of exile."
+      "comment": "Foreign conquest as divine discipline is a recurring tool in biblical history. Israel's inability to understand their conquerors further emphasizes the pain of exile.",
+      "sectionHeader": "Impending Judgment and Invasion"
     },
     {
       "pk": 30005016,
@@ -242,7 +244,8 @@
       "verse": 20,
       "text": "Declare this in the house of Jacob and proclaim it in Judah:",
       "links": "<a href='/AIV/24/2/4'>Jer. 2:4</a>",
-      "comment": "The message is for the entire covenant people, emphasizing national accountability and unity."
+      "comment": "The message is for the entire covenant people, emphasizing national accountability and unity.",
+      "sectionHeader": "Israel’s Foolish and Stubborn Heart"
     },
     {
       "pk": 30005021,
@@ -314,7 +317,8 @@
       "verse": 26,
       "text": "For wicked men are found among My people; they lie in wait like those who set traps; they set a snare to catch men.",
       "links": "<a href='/AIV/19/10/9'>Ps. 10:9</a>",
-      "comment": "Corruption exists even within the chosen—pointing to the need for continual purification and vigilance."
+      "comment": "Corruption exists even within the chosen—pointing to the need for continual purification and vigilance.",
+      "sectionHeader": "Wickedness Among the People and Leaders"
     },
     {
       "pk": 30005027,
@@ -377,5 +381,27 @@
       "comment": "False prophets and unrighteous priests misleading the people emphasize the need for faithful shepherds and authentic tradition. The question at the end is a sober call to personal accountability in light of divine judgment."
     }
   ],
-  "translatedAt": "2025-12-24T08:24:07.617Z"
+  "translatedAt": "2025-12-24T08:24:07.617Z",
+  "sections": [
+    {
+      "title": "The Universal Corruption of Jerusalem",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "Impending Judgment and Invasion",
+      "startVerse": 15,
+      "endVerse": 19
+    },
+    {
+      "title": "Israel’s Foolish and Stubborn Heart",
+      "startVerse": 20,
+      "endVerse": 25
+    },
+    {
+      "title": "Wickedness Among the People and Leaders",
+      "startVerse": 26,
+      "endVerse": 31
+    }
+  ]
 }

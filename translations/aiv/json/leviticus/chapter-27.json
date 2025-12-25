@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The LORD spoke to Moses, saying,",
       "links": "<a href='/AIV/2/25/1'>Ex. 25:1</a>",
-      "comment": "This introductory formula is common in Leviticus, signaling a new block of instruction from God to Moses."
+      "comment": "This introductory formula is common in Leviticus, signaling a new block of instruction from God to Moses.",
+      "sectionHeader": "Laws Concerning Vows and Their Valuation"
     },
     {
       "pk": 3027002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "If what is vowed is an animal that may be offered as an offering to the LORD, all that anyone gives of such to the LORD shall be holy.",
       "links": "<a href='/AIV/3/22/20-22'>Lev. 22:20-22</a>",
-      "comment": "Complete dedication sets the offering apart. This is the same idea behind Christ’s total self-offering on the Cross (<a href='/AIV/58/10/10'>Heb. 10:10</a>)."
+      "comment": "Complete dedication sets the offering apart. This is the same idea behind Christ’s total self-offering on the Cross (<a href='/AIV/58/10/10'>Heb. 10:10</a>).",
+      "sectionHeader": "Redemption of Dedicatory Offerings"
     },
     {
       "pk": 3027010,
@@ -338,7 +340,8 @@
       "verse": 28,
       "text": "But no devoted thing that a man devotes to the LORD of all that he has, whether of man or livestock or of the field of his possession, shall be sold or redeemed; every devoted thing is most holy to the LORD.",
       "links": "<a href='/AIV/6/6/17'>Josh. 6:17</a>",
-      "comment": "A ‘devoted thing’ (herem) cannot be reclaimed or sold. Total dedication and irreversible promises prefigure ultimate sacrifice (<a href='/AIV/58/9/14'>Heb. 9:14</a>)."
+      "comment": "A ‘devoted thing’ (herem) cannot be reclaimed or sold. Total dedication and irreversible promises prefigure ultimate sacrifice (<a href='/AIV/58/9/14'>Heb. 9:14</a>).",
+      "sectionHeader": "Laws Regarding Devoted Things"
     },
     {
       "pk": 3027029,
@@ -362,7 +365,8 @@
       "verse": 30,
       "text": "All the tithe of the land, whether of the seed of the land or of the fruit of the tree, is the LORD's; it is holy to the LORD.",
       "links": "<a href='/AIV/3/27/32'>Lev. 27:32</a>; <a href='/AIV/39/3/10'>Mal. 3:10</a>",
-      "comment": "The practice of tithing recognizes God’s sovereignty over all material goods and links worship to concrete generosity."
+      "comment": "The practice of tithing recognizes God’s sovereignty over all material goods and links worship to concrete generosity.",
+      "sectionHeader": "Laws of Tithes"
     },
     {
       "pk": 3027031,
@@ -413,5 +417,27 @@
       "comment": "This closing summary ties back the entire Law to its divine authority and the importance of obedience. The instructions about holiness, vows, priestly authority, and tithing form a foundation for later Christian liturgy and sacrificial practices."
     }
   ],
-  "translatedAt": "2025-12-24T01:27:12.550Z"
+  "translatedAt": "2025-12-24T01:27:12.550Z",
+  "sections": [
+    {
+      "title": "Laws Concerning Vows and Their Valuation",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "Redemption of Dedicatory Offerings",
+      "startVerse": 9,
+      "endVerse": 27
+    },
+    {
+      "title": "Laws Regarding Devoted Things",
+      "startVerse": 28,
+      "endVerse": 29
+    },
+    {
+      "title": "Laws of Tithes",
+      "startVerse": 30,
+      "endVerse": 34
+    }
+  ]
 }

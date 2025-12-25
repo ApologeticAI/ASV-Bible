@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Do not desire a multitude of useless children, nor rejoice in ungodly sons.",
       "links": "<a href='/AIV/19/127/3-5'>Ps. 127:3-5</a>; <a href='/AIV/20/10/1'>Prov. 10:1</a>",
-      "comment": "Wisdom literature often contrasts quantity and quality, emphasizing the value of righteous offspring over many children who do not follow God."
+      "comment": "Wisdom literature often contrasts quantity and quality, emphasizing the value of righteous offspring over many children who do not follow God.",
+      "sectionHeader": "The Value of Righteous Children"
     },
     {
       "pk": 28016002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "Many such things my eye has seen, and my ear has heard things more powerful than these.",
       "links": "<a href='/AIV/19/77/11'>Ps. 77:11</a>; <a href='/AIV/23/6/9'>Isa. 6:9</a>",
-      "comment": "The author appeals to personal experience and observation, a common method in wisdom literature to reinforce the truth of divine wisdom."
+      "comment": "The author appeals to personal experience and observation, a common method in wisdom literature to reinforce the truth of divine wisdom.",
+      "sectionHeader": "God’s Judgments on the Wicked"
     },
     {
       "pk": 28016006,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "But no human heart can comprehend all His works, or understand His ways entirely.",
       "links": "<a href='/AIV/23/55/8-9'>Isa. 55:8-9</a>; <a href='/AIV/45/11/33'>Rom. 11:33</a>",
-      "comment": "The mystery of God’s wisdom invites humility, encouraging a trust in the divine plan that is beyond complete human grasp."
+      "comment": "The mystery of God’s wisdom invites humility, encouraging a trust in the divine plan that is beyond complete human grasp.",
+      "sectionHeader": "The Mystery of God's Ways"
     },
     {
       "pk": 28016019,
@@ -314,7 +317,8 @@
       "verse": 26,
       "text": "When God created His works from the beginning, He divided them and apportioned their portions.",
       "links": "<a href='/AIV/1/1/1-31'>Gen. 1:1-31</a>; <a href='/AIV/19/104/24'>Ps. 104:24</a>",
-      "comment": "This verse recalls Genesis—God’s orderly creation, with all things existing by His will and design."
+      "comment": "This verse recalls Genesis—God’s orderly creation, with all things existing by His will and design.",
+      "sectionHeader": "The Order of Creation"
     },
     {
       "pk": 28016027,
@@ -365,5 +369,27 @@
       "comment": "The fruitfulness of creation reflects God’s generosity. The passage brings to mind the New Testament’s view of the Church’s spiritual fruitfulness (John 15:5)—each member called to bear good fruit that endures eternally."
     }
   ],
-  "translatedAt": "2025-12-24T07:31:30.377Z"
+  "translatedAt": "2025-12-24T07:31:30.377Z",
+  "sections": [
+    {
+      "title": "The Value of Righteous Children",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "God’s Judgments on the Wicked",
+      "startVerse": 5,
+      "endVerse": 17
+    },
+    {
+      "title": "The Mystery of God's Ways",
+      "startVerse": 18,
+      "endVerse": 25
+    },
+    {
+      "title": "The Order of Creation",
+      "startVerse": 26,
+      "endVerse": 30
+    }
+  ]
 }

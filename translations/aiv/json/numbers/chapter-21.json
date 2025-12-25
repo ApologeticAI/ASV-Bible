@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When the Canaanite king of Arad, who lived in the Negev, heard that Israel was coming by the way of Atharim, he fought against Israel and took some of them captive.",
       "links": "<a href='/AIV/06/12/14'>Josh. 12:14</a>",
-      "comment": "The Negev is the southern desert. The Israelites faced opposition as they approached the Promised Land. The spiritual battle for God's promise is evident."
+      "comment": "The Negev is the southern desert. The Israelites faced opposition as they approached the Promised Land. The spiritual battle for God's promise is evident.",
+      "sectionHeader": "Victory over the Canaanites at Hormah"
     },
     {
       "pk": 4021002,
@@ -50,7 +51,8 @@
       "verse": 4,
       "text": "They traveled from Mount Hor by the way to the Red Sea, to go around the land of Edom, but the people grew impatient along the way.",
       "links": "<a href='/AIV/04/20/22'>Num. 20:22</a>; <a href='/AIV/05/2/1'>Deut. 2:1</a>",
-      "comment": "The route shows historical accuracy. Their impatience points to their reliance on divine providence and human weakness in the journey."
+      "comment": "The route shows historical accuracy. Their impatience points to their reliance on divine providence and human weakness in the journey.",
+      "sectionHeader": "The Bronze Serpent"
     },
     {
       "pk": 4021005,
@@ -122,7 +124,8 @@
       "verse": 10,
       "text": "The people of Israel traveled on and camped in Oboth.",
       "links": "<a href='/AIV/04/33/43'>Num. 33:43</a>",
-      "comment": "A short transition denoting the progress of Israel's journey. Oboth is referenced also in the wilderness itinerary."
+      "comment": "A short transition denoting the progress of Israel's journey. Oboth is referenced also in the wilderness itinerary.",
+      "sectionHeader": "Journey to the Plains of Moab"
     },
     {
       "pk": 4021011,
@@ -254,7 +257,8 @@
       "verse": 21,
       "text": "Israel sent messengers to Sihon king of the Amorites, saying,",
       "links": "<a href='/AIV/05/2/26'>Deut. 2:26</a>",
-      "comment": "Israel first seeks peaceful passage, demonstrating restraint before resorting to war."
+      "comment": "Israel first seeks peaceful passage, demonstrating restraint before resorting to war.",
+      "sectionHeader": "Victory over Sihon, King of the Amorites"
     },
     {
       "pk": 4021022,
@@ -398,7 +402,8 @@
       "verse": 33,
       "text": "Then they turned and went up by the road to Bashan. Og king of Bashan came out against them, he and all his people, to do battle at Edrei.",
       "links": "<a href='/AIV/05/3/1'>Deut. 3:1</a>",
-      "comment": "The battle against Og, a mighty king, foreshadows ongoing spiritual warfare and God's power to deliver His people."
+      "comment": "The battle against Og, a mighty king, foreshadows ongoing spiritual warfare and God's power to deliver His people.",
+      "sectionHeader": "Defeat of Og, King of Bashan"
     },
     {
       "pk": 4021034,
@@ -425,5 +430,32 @@
       "comment": "Total victory underscores the completeness of God’s deliverance for His people, a foreshadowing of Christ's ultimate victory."
     }
   ],
-  "translatedAt": "2025-12-24T01:43:07.873Z"
+  "translatedAt": "2025-12-24T01:43:07.873Z",
+  "sections": [
+    {
+      "title": "Victory over the Canaanites at Hormah",
+      "startVerse": 1,
+      "endVerse": 3
+    },
+    {
+      "title": "The Bronze Serpent",
+      "startVerse": 4,
+      "endVerse": 9
+    },
+    {
+      "title": "Journey to the Plains of Moab",
+      "startVerse": 10,
+      "endVerse": 20
+    },
+    {
+      "title": "Victory over Sihon, King of the Amorites",
+      "startVerse": 21,
+      "endVerse": 32
+    },
+    {
+      "title": "Defeat of Og, King of Bashan",
+      "startVerse": 33,
+      "endVerse": 35
+    }
+  ]
 }

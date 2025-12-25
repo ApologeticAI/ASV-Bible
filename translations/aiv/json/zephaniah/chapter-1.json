@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The word of the LORD that came to Zephaniah son of Cushi, son of Gedaliah, son of Amariah, son of Hezekiah, in the days of Josiah, son of Amon, king of Judah:",
       "links": "<a href='/AIV/12/22/1'>2 Kings 22:1</a>; <a href='/AIV/36/1/1'>Zeph. 1:1</a>",
-      "comment": "This introduction establishes Zephaniah's lineage, which connects him to royal lineage (Hezekiah), pointing to the prophet's authority and the seriousness of his message. The reference to Josiah situates this prophecy in a time of reform, suggesting both promise and warning for God's people."
+      "comment": "This introduction establishes Zephaniah's lineage, which connects him to royal lineage (Hezekiah), pointing to the prophet's authority and the seriousness of his message. The reference to Josiah situates this prophecy in a time of reform, suggesting both promise and warning for God's people.",
+      "sectionHeader": "Introduction and Genealogy of Zephaniah"
     },
     {
       "pk": 43001002,
@@ -26,7 +27,8 @@
       "verse": 2,
       "text": "\"I will utterly sweep away everything from the face of the earth,\" declares the LORD.",
       "links": "<a href='/AIV/01/6/7'>Gen. 6:7</a>; <a href='/AIV/23/24/3'>Isa. 24:3</a>",
-      "comment": "This echoes the language of the flood ([Gen. 6:7](#)), highlighting God's authority over all creation and the seriousness of judgment for persistent sin. It points to the ultimate purification that God will bring—both literal and spiritual."
+      "comment": "This echoes the language of the flood ([Gen. 6:7](#)), highlighting God's authority over all creation and the seriousness of judgment for persistent sin. It points to the ultimate purification that God will bring—both literal and spiritual.",
+      "sectionHeader": "Judgment on Judah and the Wicked"
     },
     {
       "pk": 43001003,
@@ -86,7 +88,8 @@
       "verse": 7,
       "text": "Be silent before the Lord GOD! For the day of the LORD is near; the LORD has prepared a sacrifice and has consecrated his guests.",
       "links": "<a href='/AIV/23/13/6'>Isa. 13:6</a>; <a href='/AIV/29/2/1'>Joel 2:1</a>",
-      "comment": "The call to silence reflects awe before God's action. The imagery of God preparing a sacrifice prefigures messianic sacrifice, later fulfilled in Christ’s offering—see [Heb. 9:26](#). Guests being consecrated subtly evoke the concept of set-apart people, reminiscent of liturgical participation."
+      "comment": "The call to silence reflects awe before God's action. The imagery of God preparing a sacrifice prefigures messianic sacrifice, later fulfilled in Christ’s offering—see [Heb. 9:26](#). Guests being consecrated subtly evoke the concept of set-apart people, reminiscent of liturgical participation.",
+      "sectionHeader": "The Day of the Lord"
     },
     {
       "pk": 43001008,
@@ -221,5 +224,22 @@
       "comment": "Material wealth does not save (see [Prov. 11:4](#)). The finality of judgment points to the need for spiritual readiness and the hope of being purified by divine fire—a foreshadowing of new life promised through the Messiah."
     }
   ],
-  "translatedAt": "2025-12-24T09:52:21.895Z"
+  "translatedAt": "2025-12-24T09:52:21.895Z",
+  "sections": [
+    {
+      "title": "Introduction and Genealogy of Zephaniah",
+      "startVerse": 1,
+      "endVerse": 1
+    },
+    {
+      "title": "Judgment on Judah and the Wicked",
+      "startVerse": 2,
+      "endVerse": 6
+    },
+    {
+      "title": "The Day of the Lord",
+      "startVerse": 7,
+      "endVerse": 18
+    }
+  ]
 }

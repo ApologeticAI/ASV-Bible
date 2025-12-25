@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When Jesus came down from the mountain, large crowds followed him.",
       "links": "<a href='/AIV/47/5/1'>Matt 5:1</a>; <a href='/AIV/42/6/17'>Luke 6:17</a>",
-      "comment": "This verse marks the transition after Jesus' Sermon on the Mount, highlighting his authority and drawing many to him."
+      "comment": "This verse marks the transition after Jesus' Sermon on the Mount, highlighting his authority and drawing many to him.",
+      "sectionHeader": "The Cleansing of a Leper"
     },
     {
       "pk": 47008002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "When Jesus entered Capernaum, a centurion came to him, pleading for help.",
       "links": "<a href='/AIV/42/7/2'>Luke 7:2</a>",
-      "comment": "The centurion, a Gentile, demonstrates that faith in Jesus transcends ethnic boundaries, foreshadowing the universality of the Church."
+      "comment": "The centurion, a Gentile, demonstrates that faith in Jesus transcends ethnic boundaries, foreshadowing the universality of the Church.",
+      "sectionHeader": "The Healing of the Centurion’s Servant"
     },
     {
       "pk": 47008006,
@@ -170,7 +172,8 @@
       "verse": 14,
       "text": "When Jesus entered Peter’s house, he saw Peter’s mother-in-law lying sick with a fever.",
       "links": "<a href='/AIV/41/1/29-30'>Mark 1:29-30</a>; <a href='/AIV/42/4/38'>Luke 4:38</a>",
-      "comment": "Early mention of Peter’s household hints at the beginnings of the apostolic leadership in the broader Christian community."
+      "comment": "Early mention of Peter’s household hints at the beginnings of the apostolic leadership in the broader Christian community.",
+      "sectionHeader": "The Healing of Peter’s Mother-in-Law"
     },
     {
       "pk": 47008015,
@@ -194,7 +197,8 @@
       "verse": 16,
       "text": "When evening came, they brought to him many who were demon-possessed; and he cast out the spirits with a word, and healed all who were sick.",
       "links": "<a href='/AIV/23/53/4'>Isa 53:4</a>; <a href='/AIV/42/4/40'>Luke 4:40-41</a>",
-      "comment": "Jesus' power to heal and deliver emphasizes his supreme authority over both physical and spiritual realms."
+      "comment": "Jesus' power to heal and deliver emphasizes his supreme authority over both physical and spiritual realms.",
+      "sectionHeader": "Other Healings at Capernaum"
     },
     {
       "pk": 47008017,
@@ -218,7 +222,8 @@
       "verse": 18,
       "text": "When Jesus saw the crowd around him, he gave orders to cross to the other side.",
       "links": "<a href='/AIV/41/4/35'>Mark 4:35</a>",
-      "comment": "Jesus intentionally moves away from the crowds, reminding us that his mission balanced public ministry and intentional withdrawal for prayer."
+      "comment": "Jesus intentionally moves away from the crowds, reminding us that his mission balanced public ministry and intentional withdrawal for prayer.",
+      "sectionHeader": "The Would-be Followers of Jesus"
     },
     {
       "pk": 47008019,
@@ -278,7 +283,8 @@
       "verse": 23,
       "text": "And when he got into the boat, his disciples followed him.",
       "links": "<a href='/AIV/41/4/36'>Mark 4:36</a>",
-      "comment": "The disciples' willingness to venture with Jesus symbolically represents trust in his guidance and protection."
+      "comment": "The disciples' willingness to venture with Jesus symbolically represents trust in his guidance and protection.",
+      "sectionHeader": "The Calming of the Storm"
     },
     {
       "pk": 47008024,
@@ -338,7 +344,8 @@
       "verse": 28,
       "text": "When he arrived at the region of the Gadarenes, two men possessed by demons came out from the tombs to meet him; they were so violent that no one could pass that way.",
       "links": "<a href='/AIV/42/8/26-27'>Luke 8:26-27</a>; <a href='/AIV/41/5/1-2'>Mark 5:1-2</a>",
-      "comment": "This narrative underscores Jesus’ authority over spiritual evil; Matthew mentions two men, differing from Mark and Luke which reference one."
+      "comment": "This narrative underscores Jesus’ authority over spiritual evil; Matthew mentions two men, differing from Mark and Luke which reference one.",
+      "sectionHeader": "The Healing of the Gadarene Demoniacs"
     },
     {
       "pk": 47008029,
@@ -413,5 +420,42 @@
       "comment": "Their reaction reflects human fear when confronted with divine authority and power, hinting at the cost of discipleship and the need for spiritual openness."
     }
   ],
-  "translatedAt": "2025-12-24T10:05:45.837Z"
+  "translatedAt": "2025-12-24T10:05:45.837Z",
+  "sections": [
+    {
+      "title": "The Cleansing of a Leper",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "The Healing of the Centurion’s Servant",
+      "startVerse": 5,
+      "endVerse": 13
+    },
+    {
+      "title": "The Healing of Peter’s Mother-in-Law",
+      "startVerse": 14,
+      "endVerse": 15
+    },
+    {
+      "title": "Other Healings at Capernaum",
+      "startVerse": 16,
+      "endVerse": 17
+    },
+    {
+      "title": "The Would-be Followers of Jesus",
+      "startVerse": 18,
+      "endVerse": 22
+    },
+    {
+      "title": "The Calming of the Storm",
+      "startVerse": 23,
+      "endVerse": 27
+    },
+    {
+      "title": "The Healing of the Gadarene Demoniacs",
+      "startVerse": 28,
+      "endVerse": 34
+    }
+  ]
 }

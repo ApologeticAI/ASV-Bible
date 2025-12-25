@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "He made the altar of burnt offering out of acacia wood. It was square, measuring five cubits long and five cubits wide, and three cubits high.",
       "links": "<a href='/AIV/2/27/1'>Exod 27:1</a>; <a href='/AIV/2/35/11'>Exod 35:11</a>",
-      "comment": "This verse closely follows the earlier instructions in Exodus 27. The altar's construction sets the foundation for the sacrificial system, which ultimately points ahead to the perfect sacrifice, foreshadowing Christ's offering on the cross (Heb 9:12)."
+      "comment": "This verse closely follows the earlier instructions in Exodus 27. The altar's construction sets the foundation for the sacrificial system, which ultimately points ahead to the perfect sacrifice, foreshadowing Christ's offering on the cross (Heb 9:12).",
+      "sectionHeader": "The Altar of Burnt Offering and the Bronze Basin"
     },
     {
       "pk": 2038002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "He made the courtyard. On the south side, the hangings of the courtyard were made of finely twisted linen, a hundred cubits long.",
       "links": "<a href='/AIV/2/27/9'>Exod 27:9</a>",
-      "comment": "The use of pure, fine linen represents righteousness (Rev 19:8). The courtyard boundaries provide a physical separation, spiritually echoing the call to holiness among God’s people."
+      "comment": "The use of pure, fine linen represents righteousness (Rev 19:8). The courtyard boundaries provide a physical separation, spiritually echoing the call to holiness among God’s people.",
+      "sectionHeader": "The Construction of the Courtyard"
     },
     {
       "pk": 20380010,
@@ -254,7 +256,8 @@
       "verse": 21,
       "text": "This is the inventory of the tabernacle, the Tabernacle of the Testimony, as recorded by the Levites under the direction of Ithamar son of Aaron, the priest.",
       "links": "<a href='/AIV/2/39/32'>Exod 39:32</a>",
-      "comment": "Careful record-keeping highlights integrity and accountability in worship, entrusted to the ordained mediators (Levites), a principle seen in later Church order."
+      "comment": "Careful record-keeping highlights integrity and accountability in worship, entrusted to the ordained mediators (Levites), a principle seen in later Church order.",
+      "sectionHeader": "Inventory of the Tabernacle Materials"
     },
     {
       "pk": 20380022,
@@ -377,5 +380,22 @@
       "comment": "The repetition highlights the importance of maintaining stability in all aspects of worship, suggesting the need for careful structure and leadership—a principle vital in the ongoing life of the worshiping community."
     }
   ],
-  "translatedAt": "2025-12-24T01:08:29.904Z"
+  "translatedAt": "2025-12-24T01:08:29.904Z",
+  "sections": [
+    {
+      "title": "The Altar of Burnt Offering and the Bronze Basin",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "The Construction of the Courtyard",
+      "startVerse": 9,
+      "endVerse": 20
+    },
+    {
+      "title": "Inventory of the Tabernacle Materials",
+      "startVerse": 21,
+      "endVerse": 31
+    }
+  ]
 }

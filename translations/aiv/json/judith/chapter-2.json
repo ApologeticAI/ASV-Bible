@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In the eighteenth year, on the twenty-second day of the first month, the words were spoken in the house of Nebuchadnezzar king of the Assyrians, that he would take vengeance on all the land, just as he had said.",
       "links": "<a href='/AIV/01/07/11'>Gen. 7:11</a>; <a href='/AIV/23/10/5-6'>Isa. 10:5-6</a>",
-      "comment": "The verse sets the historical context. The mention of an exact date highlights the historicity of the narrative, and Nebuchadnezzar's resolve is reminiscent of other rulers God used as instruments of judgment (cf. Isa. 10:5-6)."
+      "comment": "The verse sets the historical context. The mention of an exact date highlights the historicity of the narrative, and Nebuchadnezzar's resolve is reminiscent of other rulers God used as instruments of judgment (cf. Isa. 10:5-6).",
+      "sectionHeader": "Nebuchadnezzar Plans Vengeance Against the West"
     },
     {
       "pk": 18002002,
@@ -86,7 +87,8 @@
       "verse": 7,
       "text": "After he had finished speaking these words, Nebuchadnezzar king of the Assyrians summoned Holofernes, the chief commander of his army, second to himself, and said to him:",
       "links": "<a href='/AIV/39/03/1-6'>Mal. 3:1-6</a>; <a href='/AIV/01/41/41-44'>Gen. 41:41-44</a>",
-      "comment": "Just as Joseph and other biblical figures held high positions under pagan rulers (Gen. 41:41-44), so Holofernes is elevated here to command."
+      "comment": "Just as Joseph and other biblical figures held high positions under pagan rulers (Gen. 41:41-44), so Holofernes is elevated here to command.",
+      "sectionHeader": "Holofernes Appointed and the Assyrian Army Assembled"
     },
     {
       "pk": 18002008,
@@ -218,7 +220,8 @@
       "verse": 18,
       "text": "He and all his army set out ahead of King Nebuchadnezzar to cover the entire western area with their chariots, horsemen, and chosen foot soldiers.",
       "links": "<a href='/AIV/19/20/7'>Ps. 20:7</a>",
-      "comment": "Reliance on chariots and armies is repeatedly shown in the Old Testament to be ultimately futile against God’s power (Ps. 20:7)."
+      "comment": "Reliance on chariots and armies is repeatedly shown in the Old Testament to be ultimately futile against God’s power (Ps. 20:7).",
+      "sectionHeader": "Holofernes' Campaign of Conquest"
     },
     {
       "pk": 18002019,
@@ -341,5 +344,22 @@
       "comment": "As in earlier times, fear and the desire for peace pervade those facing oppression, a motif later reversed when God's people place their trust in Him and receive deliverance."
     }
   ],
-  "translatedAt": "2025-12-24T05:00:59.048Z"
+  "translatedAt": "2025-12-24T05:00:59.048Z",
+  "sections": [
+    {
+      "title": "Nebuchadnezzar Plans Vengeance Against the West",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Holofernes Appointed and the Assyrian Army Assembled",
+      "startVerse": 7,
+      "endVerse": 17
+    },
+    {
+      "title": "Holofernes' Campaign of Conquest",
+      "startVerse": 18,
+      "endVerse": 28
+    }
+  ]
 }

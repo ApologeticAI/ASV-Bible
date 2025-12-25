@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "After Nathan had spoken to David, the prophet arose in the days of David.",
       "links": "<a href='/AIV/27/12/1-15'>2 Samuel 12:1-15</a>; <a href='/AIV/19/51/1'>Psalm 51:1</a>",
-      "comment": "Nathan’s role as a prophet in David’s life highlights the importance of spiritual guidance and correction, a theme central throughout Scripture. This points to the authority of leaders and prophets guiding kings, which continues as a pattern in the New Testament for apostolic leadership."
+      "comment": "Nathan’s role as a prophet in David’s life highlights the importance of spiritual guidance and correction, a theme central throughout Scripture. This points to the authority of leaders and prophets guiding kings, which continues as a pattern in the New Testament for apostolic leadership.",
+      "sectionHeader": "The Deeds and Praise of David"
     },
     {
       "pk": 28047002,
@@ -182,7 +183,8 @@
       "verse": 15,
       "text": "How wise you became in your youth, and filled with understanding like a river!",
       "links": "<a href='/AIV/11/4/29-34'>1 Kings 4:29-34</a>",
-      "comment": "The wisdom given to Solomon is a supernatural gift, reminiscent of the gifts of the Spirit, and calls to mind Christ as the true wisdom of God (<a href='/AIV/46/1/24'>1 Corinthians 1:24</a>)."
+      "comment": "The wisdom given to Solomon is a supernatural gift, reminiscent of the gifts of the Spirit, and calls to mind Christ as the true wisdom of God (<a href='/AIV/46/1/24'>1 Corinthians 1:24</a>).",
+      "sectionHeader": "The Wisdom and Decline of Solomon"
     },
     {
       "pk": 28047016,
@@ -266,7 +268,8 @@
       "verse": 22,
       "text": "But God will not forsake his mercy, nor abort any of his works; he will not wipe out the descendants of his chosen one, nor uproot the offspring of him who loved him.",
       "links": "<a href='/AIV/19/89/33-37'>Psalm 89:33-37</a>; <a href='/AIV/45/11/29'>Romans 11:29</a>",
-      "comment": "God’s fidelity and mercy to David’s line are emphasized, pointing to the unbreakable promises that find their ultimate fulfillment in Christ. This foreshadows the Church’s indefectibility and God’s faithfulness despite human failure."
+      "comment": "God’s fidelity and mercy to David’s line are emphasized, pointing to the unbreakable promises that find their ultimate fulfillment in Christ. This foreshadows the Church’s indefectibility and God’s faithfulness despite human failure.",
+      "sectionHeader": "God's Mercy to the House of David"
     },
     {
       "pk": 28047023,
@@ -305,5 +308,22 @@
       "comment": "God’s promises are perpetually fulfilled despite human weakness, so that his glory may be seen. This emphasizes the reliability of God’s covenant, ultimately manifested in the eternal inheritance of the faithful."
     }
   ],
-  "translatedAt": "2025-12-24T07:48:55.481Z"
+  "translatedAt": "2025-12-24T07:48:55.481Z",
+  "sections": [
+    {
+      "title": "The Deeds and Praise of David",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "The Wisdom and Decline of Solomon",
+      "startVerse": 15,
+      "endVerse": 21
+    },
+    {
+      "title": "God's Mercy to the House of David",
+      "startVerse": 22,
+      "endVerse": 25
+    }
+  ]
 }

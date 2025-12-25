@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Saul was thirty years old when he began to reign, and he reigned over Israel for forty-two years.",
       "links": "",
-      "comment": "Some Hebrew manuscripts are missing the exact numbers for Saul's age and the length of his reign. The numbers supplied here follow common textual reconstructions (cf. Acts 13:21)."
+      "comment": "Some Hebrew manuscripts are missing the exact numbers for Saul's age and the length of his reign. The numbers supplied here follow common textual reconstructions (cf. Acts 13:21).",
+      "sectionHeader": "Saul’s Early Reign and Jonathan Attacks the Philistines"
     },
     {
       "pk": 9013002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "He waited seven days, the time appointed by Samuel. But Samuel did not come to Gilgal, and the people began to scatter from him.",
       "links": "<a href='/AIV/9/10/8'>1Sam. 10:8</a>; <a href='/AIV/9/15/33'>1Sam. 15:33</a>",
-      "comment": "Saul’s test involved waiting for God’s prophet. Obedience, even in trial, is a vital spiritual principle (cf. 1 Samuel 10:8)."
+      "comment": "Saul’s test involved waiting for God’s prophet. Obedience, even in trial, is a vital spiritual principle (cf. 1 Samuel 10:8).",
+      "sectionHeader": "Saul’s Unlawful Sacrifice"
     },
     {
       "pk": 9013009,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "Then Samuel rose and went up from Gilgal to Gibeah of Benjamin. Saul counted the people who were present with him, about six hundred men.",
       "links": "<a href='/AIV/9/14/2'>1Sam. 14:2</a>",
-      "comment": "After Saul’s disobedience, his forces are diminished, contrasting the earlier numbers. God’s presence, not numbers, truly matters (cf. 1 Sam. 14:2)."
+      "comment": "After Saul’s disobedience, his forces are diminished, contrasting the earlier numbers. God’s presence, not numbers, truly matters (cf. 1 Sam. 14:2).",
+      "sectionHeader": "Israel’s Dire Situation and the Philistine Oppression"
     },
     {
       "pk": 9013016,
@@ -281,5 +284,22 @@
       "comment": "This sets the scene for Jonathan’s bold act of faith in the next chapter. God’s advances often arise in desperate moments."
     }
   ],
-  "translatedAt": "2025-12-24T02:55:27.684Z"
+  "translatedAt": "2025-12-24T02:55:27.684Z",
+  "sections": [
+    {
+      "title": "Saul’s Early Reign and Jonathan Attacks the Philistines",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Saul’s Unlawful Sacrifice",
+      "startVerse": 8,
+      "endVerse": 14
+    },
+    {
+      "title": "Israel’s Dire Situation and the Philistine Oppression",
+      "startVerse": 15,
+      "endVerse": 23
+    }
+  ]
 }

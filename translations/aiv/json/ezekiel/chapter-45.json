@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When you divide the land by lot as an inheritance, you shall set apart a holy portion for the Lord, a length of twenty-five thousand cubits and a width of twenty thousand cubits. This entire area shall be holy.",
       "links": "<a href='/AIV/04/34/13'>Num. 34:13</a>; <a href='/AIV/26/42/20'>Ezek. 42:20</a>",
-      "comment": "The detailed measurement highlights God's order and holiness. The holy portion is to be set apart first, pointing to the primacy of worship and sacred service in life (cf. Matt. 6:33)."
+      "comment": "The detailed measurement highlights God's order and holiness. The holy portion is to be set apart first, pointing to the primacy of worship and sacred service in life (cf. Matt. 6:33).",
+      "sectionHeader": "The Holy Allotment and Land for the Prince"
     },
     {
       "pk": 33045002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "Thus says the Lord God: Enough, O princes of Israel! Remove violence and oppression, and practice justice and righteousness. Stop evicting My people from their inherited land, declares the Lord God.",
       "links": "<a href='/AIV/23/1/17'>Isa. 1:17</a>; <a href='/AIV/26/22/6-12'>Ezek. 22:6-12</a>",
-      "comment": "The strong prophetic rebuke calls leaders to reflect divine justice. This echoes the demand for charity and mercy, a key theme in both Testaments and Church tradition (cf. James 1:27)."
+      "comment": "The strong prophetic rebuke calls leaders to reflect divine justice. This echoes the demand for charity and mercy, a key theme in both Testaments and Church tradition (cf. James 1:27).",
+      "sectionHeader": "Justice and Honest Measures"
     },
     {
       "pk": 33045010,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "This is the offering that you shall set aside: one-sixth of an ephah from each homer of wheat, and one-sixth of an ephah from each homer of barley.",
       "links": "<a href='/AIV/03/27/16'>Lev. 27:16</a>; <a href='/AIV/02/23/19'>Exod. 23:19</a>",
-      "comment": "The required offerings establish the principle of tithing and thanksgiving, rooted in God’s providence and care for His people. Participation in giving reflects spiritual maturity and stewardship."
+      "comment": "The required offerings establish the principle of tithing and thanksgiving, rooted in God’s providence and care for His people. Participation in giving reflects spiritual maturity and stewardship.",
+      "sectionHeader": "The Offerings of the People and Duties of the Prince"
     },
     {
       "pk": 33045014,
@@ -218,7 +221,8 @@
       "verse": 18,
       "text": "Thus says the Lord God: In the first month, on the first day, you shall take a young bull without blemish and cleanse the sanctuary.",
       "links": "<a href='/AIV/03/16/16'>Lev. 16:16</a>; <a href='/AIV/02/12/2'>Exod. 12:2</a>",
-      "comment": "The purification offering in the first month resembles Passover rituals and points to new beginnings, readiness for worship, and the need for continual spiritual renewal (cf. 1 John 1:7)."
+      "comment": "The purification offering in the first month resembles Passover rituals and points to new beginnings, readiness for worship, and the need for continual spiritual renewal (cf. 1 John 1:7).",
+      "sectionHeader": "Cleansing of the Sanctuary and Sacred Festivals"
     },
     {
       "pk": 33045019,
@@ -305,5 +309,27 @@
       "comment": "Repeating the offerings in the seventh month ties together all of Israel’s annual festivals, reflecting cycles of renewal and atonement. Lasting spiritual truths are embedded in ritual repetition, pointing to enduring worship and sacramental life."
     }
   ],
-  "translatedAt": "2025-12-24T09:24:51.182Z"
+  "translatedAt": "2025-12-24T09:24:51.182Z",
+  "sections": [
+    {
+      "title": "The Holy Allotment and Land for the Prince",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "Justice and Honest Measures",
+      "startVerse": 9,
+      "endVerse": 12
+    },
+    {
+      "title": "The Offerings of the People and Duties of the Prince",
+      "startVerse": 13,
+      "endVerse": 17
+    },
+    {
+      "title": "Cleansing of the Sanctuary and Sacred Festivals",
+      "startVerse": 18,
+      "endVerse": 25
+    }
+  ]
 }

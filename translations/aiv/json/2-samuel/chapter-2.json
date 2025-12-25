@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "After this, David inquired of the LORD, 'Should I go up to one of the cities of Judah?' The LORD said to him, 'Go up.' David asked, 'To which shall I go up?' He answered, 'To Hebron.'",
       "links": "<a href='/AIV/09/23/2'>1 Sam. 23:2</a>; <a href='/AIV/09/30/8'>1 Sam. 30:8</a>; <a href='/AIV/13/11/1'>1 Chron. 11:1</a>",
-      "comment": "David seeks divine guidance before acting, showing the importance of God’s direction for leadership. Compare with David’s earlier inquiries. Spiritually, this models trust in ordained authority (cf. Heb. 13:7)."
+      "comment": "David seeks divine guidance before acting, showing the importance of God’s direction for leadership. Compare with David’s earlier inquiries. Spiritually, this models trust in ordained authority (cf. Heb. 13:7).",
+      "sectionHeader": "David Anointed King over Judah"
     },
     {
       "pk": 10002002,
@@ -98,7 +99,8 @@
       "verse": 8,
       "text": "But Abner son of Ner, commander of Saul’s army, took Ish-bosheth, the son of Saul, and brought him over to Mahanaim.",
       "links": "<a href='/AIV/13/8/33'>1 Chron. 8:33</a>",
-      "comment": "Abner’s opposition sets the stage for conflict. Mahanaim ('two camps') hints at division—paralleling the need for true unity in God’s people (cf. John 17:21)."
+      "comment": "Abner’s opposition sets the stage for conflict. Mahanaim ('two camps') hints at division—paralleling the need for true unity in God’s people (cf. John 17:21).",
+      "sectionHeader": "Ish-bosheth Made King over Israel"
     },
     {
       "pk": 10002009,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "Abner son of Ner and the servants of Ish-bosheth son of Saul went out from Mahanaim to Gibeon.",
       "links": "<a href='/AIV/09/10/26'>1 Sam. 10:26</a>",
-      "comment": "The movement from Mahanaim to Gibeon marks a challenge to David’s rule, underscoring the tension between rival authorities."
+      "comment": "The movement from Mahanaim to Gibeon marks a challenge to David’s rule, underscoring the tension between rival authorities.",
+      "sectionHeader": "The Battle at Gibeon"
     },
     {
       "pk": 10002013,
@@ -218,7 +221,8 @@
       "verse": 18,
       "text": "The three sons of Zeruiah were there: Joab, Abishai, and Asahel. Asahel was as swift-footed as a wild gazelle.",
       "links": "<a href='/AIV/13/2/16'>1 Chron. 2:16</a>",
-      "comment": "The mention of speed and family highlights the valor and natural gifts among David’s followers—echoing individual spiritual gifts meant to serve the one mission (cf. 1 Cor. 12:4-7)."
+      "comment": "The mention of speed and family highlights the valor and natural gifts among David’s followers—echoing individual spiritual gifts meant to serve the one mission (cf. 1 Cor. 12:4-7).",
+      "sectionHeader": "The Death of Asahel"
     },
     {
       "pk": 10002019,
@@ -389,5 +393,27 @@
       "comment": "Asahel’s burial in Bethlehem, David’s city, hints at the connection between the house of David and the future Messiah (cf. Mic. 5:2; Luke 2:4). The return to Hebron signals hope for restored unity under the true king."
     }
   ],
-  "translatedAt": "2025-12-24T03:09:28.441Z"
+  "translatedAt": "2025-12-24T03:09:28.441Z",
+  "sections": [
+    {
+      "title": "David Anointed King over Judah",
+      "startVerse": 1,
+      "endVerse": 7
+    },
+    {
+      "title": "Ish-bosheth Made King over Israel",
+      "startVerse": 8,
+      "endVerse": 11
+    },
+    {
+      "title": "The Battle at Gibeon",
+      "startVerse": 12,
+      "endVerse": 17
+    },
+    {
+      "title": "The Death of Asahel",
+      "startVerse": 18,
+      "endVerse": 32
+    }
+  ]
 }

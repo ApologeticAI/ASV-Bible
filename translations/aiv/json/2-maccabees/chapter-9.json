@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "While these things were happening, King Antiochus was making his way back from Persia in disgrace.",
       "links": "<a href='/AIV/21/8/7'>2Macc 8:7</a>; <a href='/AIV/27/5/30'>Dan. 5:30</a>",
-      "comment": "The disgrace of Antiochus returning from Persia foreshadows God's judgment on proud rulers, similar to Belshazzar in Daniel 5. This sets the tone for divine retribution in the chapter."
+      "comment": "The disgrace of Antiochus returning from Persia foreshadows God's judgment on proud rulers, similar to Belshazzar in Daniel 5. This sets the tone for divine retribution in the chapter.",
+      "sectionHeader": "Antiochus's Blasphemy and Divine Punishment"
     },
     {
       "pk": 21009002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "From this point, his agony became unbearable, and his suffering increased daily. Realizing his own decay, he finally abandoned his arrogance and pleaded with God—the Lord whom he had previously rejected.",
       "links": "<a href='/AIV/18/42/6'>Job 42:6</a>; <a href='/AIV/19/51/17'>Ps. 51:17</a>",
-      "comment": "Antiochus’s plea reflects a turning point, reminiscent of repentance found in Job and the Psalms. Spiritual conversion often arises in moments of great suffering."
+      "comment": "Antiochus’s plea reflects a turning point, reminiscent of repentance found in Job and the Psalms. Spiritual conversion often arises in moments of great suffering.",
+      "sectionHeader": "Antiochus Repents and Appeals to the Jews"
     },
     {
       "pk": 21009012,
@@ -206,7 +208,8 @@
       "verse": 17,
       "text": "This is the content of the letter: 'To the worthy Jewish citizens, Antiochus, king and governor, wishes health and prosperity.'",
       "links": "<a href='/AIV/21/1/10'>2Macc 1:10</a>",
-      "comment": "With formal greeting, Antiochus begins his plea for peace. The language of reconciliation mirrors similar diplomatic exchanges in biblical history."
+      "comment": "With formal greeting, Antiochus begins his plea for peace. The language of reconciliation mirrors similar diplomatic exchanges in biblical history.",
+      "sectionHeader": "The Letter of Antiochus to the Jews"
     },
     {
       "pk": 21009018,
@@ -290,7 +293,8 @@
       "verse": 24,
       "text": "Thus, the murderer and blasphemer endured the worst fate ever seen; he died in utter agony among the mountains in a foreign land.",
       "links": "<a href='/AIV/21/7/35'>2Macc 7:35</a>; <a href='/AIV/23/14/12-16'>Isa. 14:12-16</a>",
-      "comment": "The narrative makes explicit the justice of God against blasphemy, echoing Isaiah’s portrayal of a fallen tyrant. Divine judgment is certain for those who war against God’s people."
+      "comment": "The narrative makes explicit the justice of God against blasphemy, echoing Isaiah’s portrayal of a fallen tyrant. Divine judgment is certain for those who war against God’s people.",
+      "sectionHeader": "Death of Antiochus and Succession of Eupator"
     },
     {
       "pk": 21009025,
@@ -353,5 +357,27 @@
       "comment": "The closure provides a moral lesson in God’s vindication of His people and final judgment on unrighteous rulers, affirming the hope always present for the faithful."
     }
   ],
-  "translatedAt": "2025-12-24T05:35:06.935Z"
+  "translatedAt": "2025-12-24T05:35:06.935Z",
+  "sections": [
+    {
+      "title": "Antiochus's Blasphemy and Divine Punishment",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "Antiochus Repents and Appeals to the Jews",
+      "startVerse": 11,
+      "endVerse": 16
+    },
+    {
+      "title": "The Letter of Antiochus to the Jews",
+      "startVerse": 17,
+      "endVerse": 23
+    },
+    {
+      "title": "Death of Antiochus and Succession of Eupator",
+      "startVerse": 24,
+      "endVerse": 29
+    }
+  ]
 }

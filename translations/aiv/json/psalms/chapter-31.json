@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In you, O LORD, I seek refuge; let me never be put to shame. Deliver me in your righteousness.",
       "links": "<a href='/AIV/19/25/2'>Ps. 25:2</a>; <a href='/AIV/19/71/1'>Ps. 71:1</a>",
-      "comment": "The verse expresses complete trust in God's protection, a theme found throughout the Psalms. The idea of seeking refuge recalls spiritual sanctuary and trusting fully in the Lord's saving power, prefiguring Christ as the ultimate refuge. The phrase 'deliver me in your righteousness' points to the necessity of God's grace for salvation."
+      "comment": "The verse expresses complete trust in God's protection, a theme found throughout the Psalms. The idea of seeking refuge recalls spiritual sanctuary and trusting fully in the Lord's saving power, prefiguring Christ as the ultimate refuge. The phrase 'deliver me in your righteousness' points to the necessity of God's grace for salvation.",
+      "sectionHeader": "Prayer for Refuge and Deliverance"
     },
     {
       "pk": 23031002,
@@ -110,7 +111,8 @@
       "verse": 9,
       "text": "Be gracious to me, O LORD, for I am in distress; my eyes are wasted with grief, my soul and my body also.",
       "links": "<a href='/AIV/19/6/7'>Ps. 6:7</a>; <a href='/AIV/19/38/9'>Ps. 38:9</a>",
-      "comment": "Total dependence on God in human frailty and suffering. There's a holistic mention here (eye, soul, body), implying the need for healing that encompasses both physical and spiritual restoration."
+      "comment": "Total dependence on God in human frailty and suffering. There's a holistic mention here (eye, soul, body), implying the need for healing that encompasses both physical and spiritual restoration.",
+      "sectionHeader": "A Plea Amid Distress and Persecution"
     },
     {
       "pk": 23031010,
@@ -230,7 +232,8 @@
       "verse": 19,
       "text": "How great is your goodness, which you have stored up for those who fear you, and worked for those who take refuge in you, in the sight of everyone!",
       "links": "<a href='/AIV/19/34/8'>Ps. 34:8</a>; <a href='/AIV/19/147/11'>Ps. 147:11</a>",
-      "comment": "God’s goodness and reward are abundant for those seeking refuge, both privately and publicly. This hints at the spiritual treasures promised to the faithful and the importance of reverent fear."
+      "comment": "God’s goodness and reward are abundant for those seeking refuge, both privately and publicly. This hints at the spiritual treasures promised to the faithful and the importance of reverent fear.",
+      "sectionHeader": "Confident Trust and Praise"
     },
     {
       "pk": 23031020,
@@ -278,7 +281,8 @@
       "verse": 23,
       "text": "Love the LORD, all you his saints! The LORD preserves the faithful, but abundantly repays the one who acts in pride.",
       "links": "<a href='/AIV/19/97/10'>Ps. 97:10</a>; <a href='/AIV/19/145/20'>Ps. 145:20</a>",
-      "comment": "'Saints' refers to those sanctified and set apart for God, a community called to love and fidelity. Faithful preservation stands in contrast to the fate of the proud, again underscoring humility."
+      "comment": "'Saints' refers to those sanctified and set apart for God, a community called to love and fidelity. Faithful preservation stands in contrast to the fate of the proud, again underscoring humility.",
+      "sectionHeader": "Exhortation to Love and Courage"
     },
     {
       "pk": 23031024,
@@ -293,5 +297,27 @@
       "comment": "The final verse is a rallying call to steadfast faith and hope, reminiscent of Christ’s exhortation to his disciples (<a href='/AIV/43/16/33'>John 16:33</a>). Both literal and spiritual meanings call believers to perseverance, echoing the journey of sanctification within the spiritual community."
     }
   ],
-  "translatedAt": "2025-12-24T06:08:48.195Z"
+  "translatedAt": "2025-12-24T06:08:48.195Z",
+  "sections": [
+    {
+      "title": "Prayer for Refuge and Deliverance",
+      "startVerse": 1,
+      "endVerse": 8
+    },
+    {
+      "title": "A Plea Amid Distress and Persecution",
+      "startVerse": 9,
+      "endVerse": 18
+    },
+    {
+      "title": "Confident Trust and Praise",
+      "startVerse": 19,
+      "endVerse": 22
+    },
+    {
+      "title": "Exhortation to Love and Courage",
+      "startVerse": 23,
+      "endVerse": 24
+    }
+  ]
 }

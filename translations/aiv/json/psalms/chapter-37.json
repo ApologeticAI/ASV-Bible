@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Do not be upset because of evildoers; do not be envious of those who do wrong.",
       "links": "<a href='/AIV/20/24/19'>Prov. 24:19</a>; <a href='/AIV/19/73/3'>Ps. 73:3</a>",
-      "comment": "The psalm opens with an admonition against envy toward the wicked. This repeats a theme found in Proverbs. The original Hebrew uses a strong term for 'being upset,' emphasizing not letting anger or irritation control us."
+      "comment": "The psalm opens with an admonition against envy toward the wicked. This repeats a theme found in Proverbs. The original Hebrew uses a strong term for 'being upset,' emphasizing not letting anger or irritation control us.",
+      "sectionHeader": "Trust in the Lord and Do Good"
     },
     {
       "pk": 23037002,
@@ -146,7 +147,8 @@
       "verse": 12,
       "text": "The wicked plot against the righteous and gnash their teeth at them.",
       "links": "<a href='/AIV/19/35/16'>Ps. 35:16</a>; <a href='/AIV/44/7/54'>Acts 7:54</a>",
-      "comment": "Plotting and gnashing of teeth depict hostility—used elsewhere of judgment scenes. This prefigures persecution faced by the just, fulfilled in Christ and the saints."
+      "comment": "Plotting and gnashing of teeth depict hostility—used elsewhere of judgment scenes. This prefigures persecution faced by the just, fulfilled in Christ and the saints.",
+      "sectionHeader": "The Fate of the Wicked and the Righteous"
     },
     {
       "pk": 23037013,
@@ -278,7 +280,8 @@
       "verse": 23,
       "text": "The steps of a man are established by the LORD when he delights in his way.",
       "links": "<a href='/AIV/19/40/2'>Ps. 40:2</a>; <a href='/AIV/20/16/9'>Prov. 16:9</a>",
-      "comment": "Divine direction is emphasized, showing God’s hand in the lives of those who seek Him."
+      "comment": "Divine direction is emphasized, showing God’s hand in the lives of those who seek Him.",
+      "sectionHeader": "Blessings of the Righteous"
     },
     {
       "pk": 23037024,
@@ -410,7 +413,8 @@
       "verse": 34,
       "text": "Wait for the LORD and keep his way, and he will exalt you to inherit the land; you will look on when the wicked are cut off.",
       "links": "<a href='/AIV/59/5/7'>James 5:7</a>; <a href='/AIV/19/91/8'>Ps. 91:8</a>",
-      "comment": "Active waiting and perseverance are vital. God’s exaltation is a theme throughout scripture, pointing to final reward."
+      "comment": "Active waiting and perseverance are vital. God’s exaltation is a theme throughout scripture, pointing to final reward.",
+      "sectionHeader": "The End of the Wicked and Salvation of the Righteous"
     },
     {
       "pk": 23037035,
@@ -485,5 +489,27 @@
       "comment": "Taking refuge in God is a repeated motif of trust, pointing to the faithful who rely on the Lord for ultimate deliverance."
     }
   ],
-  "translatedAt": "2025-12-24T06:11:40.116Z"
+  "translatedAt": "2025-12-24T06:11:40.116Z",
+  "sections": [
+    {
+      "title": "Trust in the Lord and Do Good",
+      "startVerse": 1,
+      "endVerse": 11
+    },
+    {
+      "title": "The Fate of the Wicked and the Righteous",
+      "startVerse": 12,
+      "endVerse": 22
+    },
+    {
+      "title": "Blessings of the Righteous",
+      "startVerse": 23,
+      "endVerse": 33
+    },
+    {
+      "title": "The End of the Wicked and Salvation of the Righteous",
+      "startVerse": 34,
+      "endVerse": 40
+    }
+  ]
 }

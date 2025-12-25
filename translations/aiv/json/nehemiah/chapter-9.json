@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now on the twenty-fourth day of this month, the children of Israel gathered with fasting, wearing sackcloth, and with dust on their heads.",
       "links": "<a href='/AIV/03/16/29'>Lev. 16:29</a>; <a href='/AIV/23/58/5'>Isa. 58:5</a>",
-      "comment": "The fasting and sackcloth reflect authentic repentance and sorrow for sin, a visible sign often seen in Israelite tradition."
+      "comment": "The fasting and sackcloth reflect authentic repentance and sorrow for sin, a visible sign often seen in Israelite tradition.",
+      "sectionHeader": "Corporate Confession and Worship"
     },
     {
       "pk": 16009002,
@@ -62,7 +63,8 @@
       "verse": 5,
       "text": "Then the Levites—Jeshua, Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah, and Pethahiah—said, \"Stand up and bless the LORD your God forever and ever! Blessed be Your glorious name, which is exalted above all blessing and praise.\"",
       "links": "<a href='/AIV/19/41/13'>Ps. 41:13</a>; <a href='/AIV/19/72/18-19'>Ps. 72:18-19</a>",
-      "comment": "The call to 'stand and bless' reflects the worship posture often prescribed in Christian assemblies."
+      "comment": "The call to 'stand and bless' reflects the worship posture often prescribed in Christian assemblies.",
+      "sectionHeader": "The Levites’ Prayer: God’s Faithfulness and Israel’s Rebellion"
     },
     {
       "pk": 16009006,
@@ -458,8 +460,26 @@
       "verse": 38,
       "text": "\"Because of all this, we make a firm covenant in writing; on the sealed document are the names of our leaders, Levites, and priests.\"",
       "links": "<a href='/AIV/16/10/1'>Neh. 10:1</a>",
-      "comment": "The covenant renewal with formal seals and signatures emphasizes a lasting commitment, prefiguring the formal, visible initiation and vows in the life of the Church."
+      "comment": "The covenant renewal with formal seals and signatures emphasizes a lasting commitment, prefiguring the formal, visible initiation and vows in the life of the Church.",
+      "sectionHeader": "A Covenant of Repentance"
     }
   ],
-  "translatedAt": "2025-12-24T04:50:20.231Z"
+  "translatedAt": "2025-12-24T04:50:20.231Z",
+  "sections": [
+    {
+      "title": "Corporate Confession and Worship",
+      "startVerse": 1,
+      "endVerse": 4
+    },
+    {
+      "title": "The Levites’ Prayer: God’s Faithfulness and Israel’s Rebellion",
+      "startVerse": 5,
+      "endVerse": 37
+    },
+    {
+      "title": "A Covenant of Repentance",
+      "startVerse": 38,
+      "endVerse": 38
+    }
+  ]
 }

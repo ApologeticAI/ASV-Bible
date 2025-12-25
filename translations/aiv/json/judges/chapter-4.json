@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "When Ehud died, the people of Israel again did what was evil in the sight of the LORD.",
       "links": "<a href='/AIV/7/3/12'>Judg 3:12</a>; <a href='/AIV/7/2/19'>Judg 2:19</a>",
-      "comment": "As in previous cycles, Israel returns to sin after the judge dies, showing their dependence on spiritual leadership and hinting at the need for a lasting deliverer."
+      "comment": "As in previous cycles, Israel returns to sin after the judge dies, showing their dependence on spiritual leadership and hinting at the need for a lasting deliverer.",
+      "sectionHeader": "Oppression by Jabin and Call of Deborah"
     },
     {
       "pk": 7004002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "She sent for Barak son of Abinoam from Kedesh in Naphtali and said to him, 'Has not the LORD, the God of Israel, commanded: “Go, gather your men at Mount Tabor, taking ten thousand from Naphtali and Zebulun”?'",
       "links": "<a href='/AIV/7/5/1'>Judg 5:1</a>; <a href='/AIV/5/5/14'>Deut 33:18'>",
-      "comment": "God’s calling is delivered through Deborah, showing the importance of mediation in God's instructions much like the role of spiritual authorities."
+      "comment": "God’s calling is delivered through Deborah, showing the importance of mediation in God's instructions much like the role of spiritual authorities.",
+      "sectionHeader": "Deborah Summons Barak for Battle"
     },
     {
       "pk": 7004007,
@@ -146,7 +148,8 @@
       "verse": 12,
       "text": "When Sisera was told that Barak son of Abinoam had gone up to Mount Tabor,",
       "links": "<a href='/AIV/7/5/12'>Judg 5:12</a>",
-      "comment": "Sisera’s awareness of Barak’s movement sets the stage for his confrontation and ultimate defeat."
+      "comment": "Sisera’s awareness of Barak’s movement sets the stage for his confrontation and ultimate defeat.",
+      "sectionHeader": "Victory over Sisera"
     },
     {
       "pk": 7004013,
@@ -206,7 +209,8 @@
       "verse": 17,
       "text": "But Sisera fled on foot to the tent of Jael, the wife of Heber the Kenite, for there was peace between Jabin king of Hazor and the house of Heber the Kenite.",
       "links": "<a href='/AIV/7/5/24'>Judg 5:24</a>",
-      "comment": "Sisera’s flight to Jael’s tent introduces the pivotal role of Jael and shows how God uses unexpected individuals to execute His plans."
+      "comment": "Sisera’s flight to Jael’s tent introduces the pivotal role of Jael and shows how God uses unexpected individuals to execute His plans.",
+      "sectionHeader": "The Death of Sisera at the Hand of Jael"
     },
     {
       "pk": 7004018,
@@ -278,7 +282,8 @@
       "verse": 23,
       "text": "So on that day God subdued Jabin king of Canaan before the people of Israel.",
       "links": "<a href='/AIV/19/44/3'>Ps 44:3</a>; <a href='/AIV/7/11/21'>Judg 11:21</a>",
-      "comment": "Victory is credited to God, underscoring divine providence. Human instruments fulfill God's will, much like saints and holy men and women in all ages."
+      "comment": "Victory is credited to God, underscoring divine providence. Human instruments fulfill God's will, much like saints and holy men and women in all ages.",
+      "sectionHeader": "Israel Subdues Jabin"
     },
     {
       "pk": 7004024,
@@ -293,5 +298,32 @@
       "comment": "The gradual strengthening of Israel is analogous to growing in grace through persistent faithfulness, reminding us of the importance of perseverance in holy living."
     }
   ],
-  "translatedAt": "2025-12-24T02:32:33.081Z"
+  "translatedAt": "2025-12-24T02:32:33.081Z",
+  "sections": [
+    {
+      "title": "Oppression by Jabin and Call of Deborah",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Deborah Summons Barak for Battle",
+      "startVerse": 6,
+      "endVerse": 11
+    },
+    {
+      "title": "Victory over Sisera",
+      "startVerse": 12,
+      "endVerse": 16
+    },
+    {
+      "title": "The Death of Sisera at the Hand of Jael",
+      "startVerse": 17,
+      "endVerse": 22
+    },
+    {
+      "title": "Israel Subdues Jabin",
+      "startVerse": 23,
+      "endVerse": 24
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "But God remembered Noah and all the animals and all the cattle that were with him in the ark. And God made a wind blow over the earth, and the waters subsided.",
       "links": "<a href='/AIV/1/19/29'>Gen. 19:29</a>;<a href='/AIV/2/14/21'>Ex. 14:21</a>",
-      "comment": "The phrase 'God remembered' means that God acted on behalf of Noah after a period of waiting, showing His faithfulness. The use of wind parallels the Spirit moving over the waters in Genesis 1:2, symbolizing new creation."
+      "comment": "The phrase 'God remembered' means that God acted on behalf of Noah after a period of waiting, showing His faithfulness. The use of wind parallels the Spirit moving over the waters in Genesis 1:2, symbolizing new creation.",
+      "sectionHeader": "The Waters Abate"
     },
     {
       "pk": 1008002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "At the end of forty days, Noah opened the window of the ark that he had made.",
       "links": "<a href='/AIV/1/6/16'>Gen. 6:16</a>",
-      "comment": "The period of forty days is often used for times of testing or preparation (cf. Moses, Israel, Jesus in the wilderness), symbolizing a time set apart for God’s work."
+      "comment": "The period of forty days is often used for times of testing or preparation (cf. Moses, Israel, Jesus in the wilderness), symbolizing a time set apart for God’s work.",
+      "sectionHeader": "The Sending of the Birds"
     },
     {
       "pk": 1008007,
@@ -182,7 +184,8 @@
       "verse": 15,
       "text": "Then God spoke to Noah, saying,",
       "links": "<a href='/AIV/1/7/1'>Gen. 7:1</a>",
-      "comment": "God’s direct address to Noah is a motif of divine commissioning, showing that right relationship with God involves hearing and obedience to His voice."
+      "comment": "God’s direct address to Noah is a motif of divine commissioning, showing that right relationship with God involves hearing and obedience to His voice.",
+      "sectionHeader": "Noah Leaves the Ark"
     },
     {
       "pk": 1008016,
@@ -242,7 +245,8 @@
       "verse": 20,
       "text": "Then Noah built an altar to the LORD and took some of every clean animal and some of every clean bird and offered burnt offerings on the altar.",
       "links": "<a href='/AIV/1/4/3-4'>Gen. 4:3-4</a>;<a href='/AIV/3/1/3-9'>Lev. 1:3-9</a>",
-      "comment": "Noah’s first act is worship through sacrifice, a pattern for relationship with God. The distinction of 'clean' animals points forward to later laws on sacrifice and worship, showing that right worship is ordered by God."
+      "comment": "Noah’s first act is worship through sacrifice, a pattern for relationship with God. The distinction of 'clean' animals points forward to later laws on sacrifice and worship, showing that right worship is ordered by God.",
+      "sectionHeader": "God's Covenant with Creation"
     },
     {
       "pk": 1008021,
@@ -269,5 +273,27 @@
       "comment": "The divine promise of order in creation foreshadows God’s faithfulness in upholding the universe. God will not abandon the world, promising a continued cycle until fulfilled redemption (Romans 8:21-22)."
     }
   ],
-  "translatedAt": "2025-12-24T00:14:19.090Z"
+  "translatedAt": "2025-12-24T00:14:19.090Z",
+  "sections": [
+    {
+      "title": "The Waters Abate",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "The Sending of the Birds",
+      "startVerse": 6,
+      "endVerse": 14
+    },
+    {
+      "title": "Noah Leaves the Ark",
+      "startVerse": 15,
+      "endVerse": 19
+    },
+    {
+      "title": "God's Covenant with Creation",
+      "startVerse": 20,
+      "endVerse": 22
+    }
+  ]
 }

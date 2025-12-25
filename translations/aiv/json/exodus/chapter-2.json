@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now a man from the house of Levi went and married a daughter of Levi.",
       "links": "<a href='/AIV/2/6/16-20'>Exod. 6:16-20</a>",
-      "comment": "This introduces Moses' family background as Levites, foreshadowing the priestly tribe. The Levite lineage will be crucial for the sanctuary and worship later (cf. Exod. 6:16-20; Num. 3:17-39), hinting at an established order of ministry."
+      "comment": "This introduces Moses' family background as Levites, foreshadowing the priestly tribe. The Levite lineage will be crucial for the sanctuary and worship later (cf. Exod. 6:16-20; Num. 3:17-39), hinting at an established order of ministry.",
+      "sectionHeader": "The Birth and Rescue of Moses"
     },
     {
       "pk": 2002002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "One day, after Moses had grown up, he went out to his people and looked on their burdens, and he saw an Egyptian beating a Hebrew, one of his own people.",
       "links": "<a href='/AIV/44/7/23-24'>Acts 7:23-24</a>; <a href='/AIV/58/11/24-25'>Heb. 11:24-25</a>",
-      "comment": "Moses identifies with his people, choosing suffering with them over comfort in Egypt (Heb. 11:24-25). This foreshadows Christ, who identifies with the suffering of His people."
+      "comment": "Moses identifies with his people, choosing suffering with them over comfort in Egypt (Heb. 11:24-25). This foreshadows Christ, who identifies with the suffering of His people.",
+      "sectionHeader": "Moses Flees to Midian"
     },
     {
       "pk": 2002012,
@@ -194,7 +196,8 @@
       "verse": 16,
       "text": "Now the priest of Midian had seven daughters. They came and drew water and filled the troughs to water their father’s flock.",
       "links": "<a href='/AIV/1/24/10-14'>Gen. 24:10-14</a>",
-      "comment": "Wells are frequent settings for biblical betrothals (cf. Gen. 24, 29; John 4). The presence of the Midianite priest points to God’s revelation being prepared beyond Israel alone."
+      "comment": "Wells are frequent settings for biblical betrothals (cf. Gen. 24, 29; John 4). The presence of the Midianite priest points to God’s revelation being prepared beyond Israel alone.",
+      "sectionHeader": "Moses in Midian"
     },
     {
       "pk": 2002017,
@@ -278,7 +281,8 @@
       "verse": 23,
       "text": "During those many days the king of Egypt died, and the people of Israel groaned because of their slavery and cried out for help. Their cry for rescue from slavery came up to God.",
       "links": "<a href='/AIV/2/1/13-14'>Exod. 1:13-14</a>; <a href='/AIV/2/3/7'>Exod. 3:7</a>",
-      "comment": "Suffering draws Israel to prayer and dependence on God. Their collective cry sets the stage for deliverance, a pattern seen throughout Scripture."
+      "comment": "Suffering draws Israel to prayer and dependence on God. Their collective cry sets the stage for deliverance, a pattern seen throughout Scripture.",
+      "sectionHeader": "God Hears Israel's Cry"
     },
     {
       "pk": 2002024,
@@ -305,5 +309,27 @@
       "comment": "This verse emphasizes God’s personal care and surveillance over His people—He sees, He knows, He acts. The language prefigures both the incarnation and God’s ongoing guidance through chosen representatives on earth."
     }
   ],
-  "translatedAt": "2025-12-24T00:47:43.993Z"
+  "translatedAt": "2025-12-24T00:47:43.993Z",
+  "sections": [
+    {
+      "title": "The Birth and Rescue of Moses",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "Moses Flees to Midian",
+      "startVerse": 11,
+      "endVerse": 15
+    },
+    {
+      "title": "Moses in Midian",
+      "startVerse": 16,
+      "endVerse": 22
+    },
+    {
+      "title": "God Hears Israel's Cry",
+      "startVerse": 23,
+      "endVerse": 25
+    }
+  ]
 }

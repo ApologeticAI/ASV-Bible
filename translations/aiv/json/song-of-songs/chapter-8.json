@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "If only you were like my brother, who nursed at my mother’s breast! Then, if I met you outside, I would kiss you, and no one would despise me.",
       "links": "<a href='/AIV/20/5/16'>Prov. 5:16</a>; <a href='/AIV/26/1/2'>Song 1:2</a>",
-      "comment": "The beloved wishes her lover could be seen as family, so intimacy wouldn't be forbidden. This metaphor stresses longing for unfettered closeness, recalling accepted kinship bonds in ancient contexts. The theme echoes the desire for relational unity, connecting to spiritual union with God as seen in John 17:21."
+      "comment": "The beloved wishes her lover could be seen as family, so intimacy wouldn't be forbidden. This metaphor stresses longing for unfettered closeness, recalling accepted kinship bonds in ancient contexts. The theme echoes the desire for relational unity, connecting to spiritual union with God as seen in John 17:21.",
+      "sectionHeader": "The Longing for Public Love"
     },
     {
       "pk": 26008002,
@@ -74,7 +75,8 @@
       "verse": 6,
       "text": "Set me as a seal upon your heart, as a seal upon your arm, for love is as strong as death, passion as fierce as the grave. Its flames are blazing fire—a very flame of the LORD.",
       "links": "<a href='/AIV/24/22/24'>Jer. 22:24</a>; <a href='/AIV/39/3/2'>Mal. 3:2</a>; <a href='/AIV/45/8/38-39'>Rom. 8:38-39</a>",
-      "comment": "The seal grounds the relationship in permanence and exclusivity. Love’s intensity parallels divine love—a flame from the LORD—underscoring its transcendent, covenantal quality. This evokes God’s unbreakable promises (Romans 8:38-39). The sacramental nature of marital love is signaled by the imagery of a seal, reminiscent of divine marks in salvation history."
+      "comment": "The seal grounds the relationship in permanence and exclusivity. Love’s intensity parallels divine love—a flame from the LORD—underscoring its transcendent, covenantal quality. This evokes God’s unbreakable promises (Romans 8:38-39). The sacramental nature of marital love is signaled by the imagery of a seal, reminiscent of divine marks in salvation history.",
+      "sectionHeader": "Love’s Invincible Power"
     },
     {
       "pk": 26008007,
@@ -98,7 +100,8 @@
       "verse": 8,
       "text": "We have a little sister, and she has no breasts. What shall we do for our sister on the day she is spoken for?",
       "links": "<a href='/AIV/26/1/6'>Song 1:6</a>; <a href='/AIV/26/6/9'>Song 6:9</a>",
-      "comment": "This is a protective concern for a young, immature maiden, reflecting communal responsibility to nurture those not yet ready for union. Symbolically, it points toward formation and preparation for spiritual maturity within the faithful."
+      "comment": "This is a protective concern for a young, immature maiden, reflecting communal responsibility to nurture those not yet ready for union. Symbolically, it points toward formation and preparation for spiritual maturity within the faithful.",
+      "sectionHeader": "The Bride and Her Little Sister"
     },
     {
       "pk": 26008009,
@@ -134,7 +137,8 @@
       "verse": 11,
       "text": "Solomon had a vineyard at Baal-hamon; he rented the vineyard to keepers. Each was to bring for its fruit a thousand pieces of silver.",
       "links": "<a href='/AIV/26/1/6'>Song 1:6</a>; <a href='/AIV/20/31/10'>Prov. 31:10</a>",
-      "comment": "Solomon’s vineyard stands for abundance under careful stewardship. Vineyards are metaphors for people in God’s care (Isaiah 5:7). The requirement of fruit links to accountability in spiritual life, reminiscent of John 15:8."
+      "comment": "Solomon’s vineyard stands for abundance under careful stewardship. Vineyards are metaphors for people in God’s care (Isaiah 5:7). The requirement of fruit links to accountability in spiritual life, reminiscent of John 15:8.",
+      "sectionHeader": "The Bride’s Vineyard and Final Invitation"
     },
     {
       "pk": 26008012,
@@ -173,5 +177,27 @@
       "comment": "Final appeal for swift union symbolizes longing for consummation, echoing themes of anticipation found in Revelation 22:20 (‘Come, Lord Jesus’). The ‘mountains of spices’ evoke blissful, sacred meeting places—prefiguring heaven and spiritual fulfillment."
     }
   ],
-  "translatedAt": "2025-12-24T07:14:17.144Z"
+  "translatedAt": "2025-12-24T07:14:17.144Z",
+  "sections": [
+    {
+      "title": "The Longing for Public Love",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Love’s Invincible Power",
+      "startVerse": 6,
+      "endVerse": 7
+    },
+    {
+      "title": "The Bride and Her Little Sister",
+      "startVerse": 8,
+      "endVerse": 10
+    },
+    {
+      "title": "The Bride’s Vineyard and Final Invitation",
+      "startVerse": 11,
+      "endVerse": 14
+    }
+  ]
 }

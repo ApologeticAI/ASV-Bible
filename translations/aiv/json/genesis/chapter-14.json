@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "In the days of Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of Goiim,",
       "links": "<a href='/AIV/27/1/1'>Dan. 1:1</a>; <a href='/AIV/01/10/10'>Gen. 10:10</a>",
-      "comment": "This sets the historical scene for the upcoming battle in the region Abraham inhabits. The names and places have echoes throughout biblical history, linking to prophecies of nations and future spiritual conflicts."
+      "comment": "This sets the historical scene for the upcoming battle in the region Abraham inhabits. The names and places have echoes throughout biblical history, linking to prophecies of nations and future spiritual conflicts.",
+      "sectionHeader": "The War of the Kings"
     },
     {
       "pk": 1014002,
@@ -134,7 +135,8 @@
       "verse": 11,
       "text": "So the victorious kings took all the possessions of Sodom and Gomorrah, and all their food, and went their way.",
       "links": "<a href='/AIV/01/19/25'>Gen. 19:25</a>",
-      "comment": "The conquering and looting of the cities foreshadows the judgment of Sodom and Gomorrah. Material wealth is fleeting; spiritual treasure is enduring."
+      "comment": "The conquering and looting of the cities foreshadows the judgment of Sodom and Gomorrah. Material wealth is fleeting; spiritual treasure is enduring.",
+      "sectionHeader": "The Capture of Lot"
     },
     {
       "pk": 1014012,
@@ -158,7 +160,8 @@
       "verse": 13,
       "text": "Then one who had escaped came and told Abram the Hebrew, who was living by the oaks of Mamre the Amorite, brother of Eshcol and Aner. These were allies of Abram.",
       "links": "<a href='/AIV/01/13/18'>Gen. 13:18</a>; <a href='/AIV/01/14/24'>Gen. 14:24</a>",
-      "comment": "‘Hebrew’ is first mentioned here—pointing to Abram’s distinct identity. Allies suggest a pattern for community among believers."
+      "comment": "‘Hebrew’ is first mentioned here—pointing to Abram’s distinct identity. Allies suggest a pattern for community among believers.",
+      "sectionHeader": "Abram Rescues Lot"
     },
     {
       "pk": 1014014,
@@ -206,7 +209,8 @@
       "verse": 17,
       "text": "After his return from defeating Chedorlaomer and the kings who were with him, the king of Sodom went out to meet him at the Valley of Shaveh (that is, the King’s Valley).",
       "links": "<a href='/AIV/10/18/18'>2 Sam. 18:18</a>",
-      "comment": "The King’s Valley becomes a site of royal and priestly interaction. This foreshadows the meeting with Melchizedek, an important typological figure for Christ."
+      "comment": "The King’s Valley becomes a site of royal and priestly interaction. This foreshadows the meeting with Melchizedek, an important typological figure for Christ.",
+      "sectionHeader": "Melchizedek Blesses Abram"
     },
     {
       "pk": 1014018,
@@ -254,7 +258,8 @@
       "verse": 21,
       "text": "Then the king of Sodom said to Abram, 'Give me the people, but keep the goods for yourself.'",
       "links": "<a href='/AIV/01/14/11'>Gen. 14:11</a>",
-      "comment": "The request for the people points to themes of stewardship and the difference between material and spiritual priorities."
+      "comment": "The request for the people points to themes of stewardship and the difference between material and spiritual priorities.",
+      "sectionHeader": "Abram Refuses the Spoils"
     },
     {
       "pk": 1014022,
@@ -293,5 +298,32 @@
       "comment": "Abram’s justice and generosity towards his allies establish the communal value of fair reward. His personal refusal and allowance for others models responsible stewardship and communal sharing—principles deeply embedded in later Christian teaching."
     }
   ],
-  "translatedAt": "2025-12-24T00:17:12.488Z"
+  "translatedAt": "2025-12-24T00:17:12.488Z",
+  "sections": [
+    {
+      "title": "The War of the Kings",
+      "startVerse": 1,
+      "endVerse": 10
+    },
+    {
+      "title": "The Capture of Lot",
+      "startVerse": 11,
+      "endVerse": 12
+    },
+    {
+      "title": "Abram Rescues Lot",
+      "startVerse": 13,
+      "endVerse": 16
+    },
+    {
+      "title": "Melchizedek Blesses Abram",
+      "startVerse": 17,
+      "endVerse": 20
+    },
+    {
+      "title": "Abram Refuses the Spoils",
+      "startVerse": 21,
+      "endVerse": 24
+    }
+  ]
 }

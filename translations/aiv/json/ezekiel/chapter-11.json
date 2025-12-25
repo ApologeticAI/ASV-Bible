@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "The Spirit lifted me up and brought me to the east gate of the LORD’s house, which faces east. And at the entrance were twenty-five men. Among them I saw Jaazaniah son of Azzur and Pelatiah son of Benaiah, leaders of the people.",
       "links": "<a href='/AIV/26/8/16'>Ezek. 8:16</a>; <a href='/AIV/26/9/3'>Ezek. 9:3</a>",
-      "comment": "Ezekiel is granted a visionary experience by the Spirit, similar to previous encounters (Ezek. 8:16). The gate refers to a key position of authority. The calling out of specific leaders shows God’s precision in judging those in charge."
+      "comment": "Ezekiel is granted a visionary experience by the Spirit, similar to previous encounters (Ezek. 8:16). The gate refers to a key position of authority. The calling out of specific leaders shows God’s precision in judging those in charge.",
+      "sectionHeader": "Judgment Against Jerusalem's Leaders"
     },
     {
       "pk": 33011002,
@@ -170,7 +171,8 @@
       "verse": 14,
       "text": "Then the word of the LORD came to me, saying:",
       "links": "",
-      "comment": "A new oracle begins, signaled by the direct speech formula used by prophets."
+      "comment": "A new oracle begins, signaled by the direct speech formula used by prophets.",
+      "sectionHeader": "Promise of Restoration for the Exiles"
     },
     {
       "pk": 33011015,
@@ -266,7 +268,8 @@
       "verse": 22,
       "text": "Then the cherubim lifted up their wings, and the wheels beside them; and the glory of the God of Israel was above them.",
       "links": "<a href='/AIV/26/10/19'>Ezek. 10:19</a>",
-      "comment": "The vision of God’s glory departing mirrors the earlier scene in Ezekiel 10. It signals both judgment and hope: God's glory would eventually return in a new way (cf. Ezek. 43)."
+      "comment": "The vision of God’s glory departing mirrors the earlier scene in Ezekiel 10. It signals both judgment and hope: God's glory would eventually return in a new way (cf. Ezek. 43).",
+      "sectionHeader": "The Departure of the Glory of the Lord"
     },
     {
       "pk": 33011023,
@@ -305,5 +308,22 @@
       "comment": "Proclamation to the exiles reveals the prophetic call to teach and encourage the faithful, prefiguring the ongoing ministry of authoritative teaching in the Church. The act of sharing the vision is itself an example of obedience and pastoral care."
     }
   ],
-  "translatedAt": "2025-12-24T09:03:30.198Z"
+  "translatedAt": "2025-12-24T09:03:30.198Z",
+  "sections": [
+    {
+      "title": "Judgment Against Jerusalem's Leaders",
+      "startVerse": 1,
+      "endVerse": 13
+    },
+    {
+      "title": "Promise of Restoration for the Exiles",
+      "startVerse": 14,
+      "endVerse": 21
+    },
+    {
+      "title": "The Departure of the Glory of the Lord",
+      "startVerse": 22,
+      "endVerse": 25
+    }
+  ]
 }

@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Now Korah, the son of Izhar, son of Kohath, son of Levi, and Dathan and Abiram, sons of Eliab, and On, the son of Peleth, sons of Reuben, took action.",
       "links": "<a href='/AIV/04/26/9-11'>Num. 26:9-11</a>; <a href='/AIV/20/20/3'>Prov. 20:3</a>",
-      "comment": "Notice Korah’s lineage from Levi; this plays into the theme of priestly authority established already in Leviticus. The inclusion of Reubenites signals the dangerous spread of rebellion through the tribes."
+      "comment": "Notice Korah’s lineage from Levi; this plays into the theme of priestly authority established already in Leviticus. The inclusion of Reubenites signals the dangerous spread of rebellion through the tribes.",
+      "sectionHeader": "The Rebellion of Korah, Dathan, and Abiram"
     },
     {
       "pk": 4016002,
@@ -278,7 +279,8 @@
       "verse": 23,
       "text": "And the LORD spoke to Moses, saying,",
       "links": "<a href='/AIV/04/14/20'>Num. 14:20</a>",
-      "comment": "God listens to the intercessor, again affirming the mediation role established through the chosen leadership."
+      "comment": "God listens to the intercessor, again affirming the mediation role established through the chosen leadership.",
+      "sectionHeader": "The Earth Swallows the Rebels"
     },
     {
       "pk": 4016024,
@@ -434,7 +436,8 @@
       "verse": 36,
       "text": "Then the LORD spoke to Moses, saying,",
       "links": "<a href='/AIV/04/16/23'>Num. 16:23</a>",
-      "comment": "The continued communication between God and Moses highlights his role as chosen intercessor."
+      "comment": "The continued communication between God and Moses highlights his role as chosen intercessor.",
+      "sectionHeader": "The Censers Made a Memorial"
     },
     {
       "pk": 4016037,
@@ -494,7 +497,8 @@
       "verse": 41,
       "text": "But on the next day all the congregation of the people of Israel grumbled against Moses and against Aaron, saying, 'You have killed the people of the LORD.'",
       "links": "<a href='/AIV/04/14/2'>Num. 14:2</a>; <a href='/AIV/43/8/44'>John 8:44</a>",
-      "comment": "The people’s persistent murmuring shows the human tendency to scapegoat leaders for consequences of sin—a pattern continued in the rejection of Christ and His apostles."
+      "comment": "The people’s persistent murmuring shows the human tendency to scapegoat leaders for consequences of sin—a pattern continued in the rejection of Christ and His apostles.",
+      "sectionHeader": "The Plague Among the People"
     },
     {
       "pk": 4016042,
@@ -605,5 +609,27 @@
       "comment": "Divine mediation, priesthood, and obedience converge here. Physical and spiritual wellbeing depend on proper order and God’s ordained ministry, a reality more fully revealed in the new covenant."
     }
   ],
-  "translatedAt": "2025-12-24T01:40:09.026Z"
+  "translatedAt": "2025-12-24T01:40:09.026Z",
+  "sections": [
+    {
+      "title": "The Rebellion of Korah, Dathan, and Abiram",
+      "startVerse": 1,
+      "endVerse": 22
+    },
+    {
+      "title": "The Earth Swallows the Rebels",
+      "startVerse": 23,
+      "endVerse": 35
+    },
+    {
+      "title": "The Censers Made a Memorial",
+      "startVerse": 36,
+      "endVerse": 40
+    },
+    {
+      "title": "The Plague Among the People",
+      "startVerse": 41,
+      "endVerse": 50
+    }
+  ]
 }

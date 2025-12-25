@@ -14,7 +14,8 @@
       "verse": 1,
       "text": "Blessed is the one whose transgression is forgiven, whose sin is covered.",
       "links": "<a href='/AIV/19/85/2'>Ps. 85:2</a>; <a href='/AIV/45/4/7-8'>Rom. 4:7-8</a>",
-      "comment": "This verse highlights the joy of forgiveness, a theme fulfilled in Christ (cf. Rom. 4:7-8). The idea of sin being 'covered' points to the necessity of a sacramental means of forgiveness and a mediator who can finally deal with sin, fulfilled in Jesus."
+      "comment": "This verse highlights the joy of forgiveness, a theme fulfilled in Christ (cf. Rom. 4:7-8). The idea of sin being 'covered' points to the necessity of a sacramental means of forgiveness and a mediator who can finally deal with sin, fulfilled in Jesus.",
+      "sectionHeader": "The Blessedness of Forgiveness"
     },
     {
       "pk": 23032002,
@@ -38,7 +39,8 @@
       "verse": 3,
       "text": "When I kept silent, my bones wasted away through my groaning all day long.",
       "links": "<a href='/AIV/19/31/10'>Ps. 31:10</a>; <a href='/AIV/19/38/3'>Ps. 38:3</a>",
-      "comment": "Remaining silent about our sins can bring spiritual and even physical distress. Confession is seen as a God-ordained remedy for the restoration of the soul."
+      "comment": "Remaining silent about our sins can bring spiritual and even physical distress. Confession is seen as a God-ordained remedy for the restoration of the soul.",
+      "sectionHeader": "Confession and Deliverance"
     },
     {
       "pk": 23032004,
@@ -98,7 +100,8 @@
       "verse": 8,
       "text": "'I will instruct you and teach you in the way you should go; I will counsel you with my eye upon you.'",
       "links": "<a href='/AIV/19/25/8-9'>Ps. 25:8-9</a>; <a href='/AIV/19/48/14'>Ps. 48:14</a>",
-      "comment": "God personally instructs His people. Throughout Scripture, He provides guidance not only in scripture but through authoritative teachers; the idea of continuous guidance points to a living teaching authority."
+      "comment": "God personally instructs His people. Throughout Scripture, He provides guidance not only in scripture but through authoritative teachers; the idea of continuous guidance points to a living teaching authority.",
+      "sectionHeader": "Instruction and Counsel from the Lord"
     },
     {
       "pk": 23032009,
@@ -137,5 +140,22 @@
       "comment": "Forgiveness leads to joy and communal praise, a characteristic of the worshiping people of God in all ages, fulfilled when believers live out their faith together in unity and truth."
     }
   ],
-  "translatedAt": "2025-12-24T06:09:03.530Z"
+  "translatedAt": "2025-12-24T06:09:03.530Z",
+  "sections": [
+    {
+      "title": "The Blessedness of Forgiveness",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "Confession and Deliverance",
+      "startVerse": 3,
+      "endVerse": 7
+    },
+    {
+      "title": "Instruction and Counsel from the Lord",
+      "startVerse": 8,
+      "endVerse": 11
+    }
+  ]
 }
